@@ -1,0 +1,20 @@
+name: Regenerate
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: DeterminateSystems/nix-installer-action@v4
+      - uses: DeterminateSystems/magic-nix-cache-action@v2
+      - name: Generate
+        run: nix run github:silvarc141/reapkgs -- -gpro "$GITHUB_WORKSPACE"
+      - name: Commit
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Regenerate $(date +'%Y-%m-%d')" && git push)
