@@ -19519,6 +19519,415 @@
         }
       ];
     };
+    bryanchi-fx-devices-lua-1-0beta16-4-1 = mkReapackPackage {
+      inherit stdenv fetchurl;
+      name = "bryanchi-fx-devices-lua-1-0beta16-4-1";
+      indexName = "FX Devices";
+      categoryName = "BryanChi_FX_Devices";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/BryanChi_FX%20Devices.lua";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20(Mix)RackMixer.jsfx";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Band%20Joiner.jsfx";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/FXD Container Macros.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Container%20Macros.jsfx";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Gain%20Reduction%20Scope.jsfx";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/FXD Macros.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros.jsfx";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Saike%20BandSplitter.jsfx";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20To%204%20Channels.jsfx";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20to%2032%20Channels.jsfx";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/firhalfband.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/FXD%20JSFXs/firhalfband.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/spectrum.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/FXD%20JSFXs/spectrum.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/svf_filter.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/FXD%20JSFXs/svf_filter.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''src/Constants.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Constants.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Regular.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Regular.ttf";
+          sha256 = "";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900-2.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-2.ttf";
+          sha256 = "";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900-3.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-3.ttf";
+          sha256 = "";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900-4.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-4.ttf";
+          sha256 = "";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-5.ttf";
+          sha256 = "";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900-6.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-6.ttf";
+          sha256 = "";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900-7.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-7.ttf";
+          sha256 = "";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900-8.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-8.ttf";
+          sha256 = "";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900.ttf";
+          sha256 = "";
+        }
+        {
+          path = ''src/Fonts/IconFont1.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Fonts/IconFont1.ttf";
+          sha256 = "";
+        }
+        {
+          path = ''src/Functions/EQ functions.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Functions/EQ%20functions.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/Functions/Execute Before Loop.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Functions/Execute%20Before%20Loop.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/Functions/FX Layering.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/Functions/Filesystem_utils.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Functions/Filesystem_utils.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/Functions/GUI.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Functions/GUI.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/Functions/General Functions.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Functions/General%20Functions.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/Functions/Layout Editor functions.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Functions/Layout%20Editor%20functions.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/Functions/Menu Bar.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Functions/Menu%20Bar.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/Functions/Modulation.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Functions/Modulation.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/Functions/Modulator_LFO.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Functions/Modulator_LFO.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/Functions/Theme Editor Functions.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Functions/Theme%20Editor%20Functions.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/FX Layout Plugin Scripts/Container.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Container.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20C%202.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%203.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaComp.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/FX Layout Plugin Scripts/ReaDrum Machine.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaDrum%20Machine.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Volume%20Pan%20Smoother.lua";
+          sha256 = "";
+        }
+        {
+          path = ''src/FX Layouts/ReaComp (Cockos).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FX%20Layouts/ReaComp%20(Cockos).ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/FX Layouts/ValhallaDelay (Valhalla DSP, LLC).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaDelay%20(Valhalla%20DSP,%20LLC).ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/FX Layouts/ValhallaFreqEcho (Valhalla DSP, LLC).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaFreqEcho%20(Valhalla%20DSP,%20LLC).ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/FX Layouts/ValhallaShimmer (Valhalla DSP, LLC).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaShimmer%20(Valhalla%20DSP,%20LLC).ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/FX Layouts/ValhallaSpaceModulator (Valhalla DSP, LLC).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSpaceModulator%20(Valhalla%20DSP,%20LLC).ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSupermassive%20(Valhalla%20DSP,%20LLC).ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaVintageVerb%20(Valhalla%20DSP,%20LLC).ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/FXChains/ReaDrum Machine.RfxChain'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FXChains/ReaDrum%20Machine.RfxChain";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Analog Knob 1.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/Analog%20Knob%201.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Modulation Icon hollow.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/Modulation%20Icon%20hollow.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Modulation Icon.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/Modulation%20Icon.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/ModulationArrow.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/ModulationArrow.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/MouseL.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/MouseL.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/MouseR.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/MouseR.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/copy.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/copy.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/paste.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/paste.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/pin.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/pin.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/pinned.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/pinned.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/save.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/save.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/sinewave.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/sinewave.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/trash.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/trash.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Attached Drawings/LED light.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/Attached%20Drawings/LED%20light.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/Bitwig.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/Knobs/Bitwig.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/FancyBlueKnob_Inverted.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob_Inverted.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/FancyBlueKnob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/FancyGreenKnob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/Knobs/FancyGreenKnob.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/Knobs/FancyLightGreenKnob.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/FancyRedKnob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/Knobs/FancyRedKnob.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Switches/FancyGreenCheck_2.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/LFO Shapes/Pulse.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/LFO%20Shapes/Pulse.ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/LFO Shapes/Saw L.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/LFO%20Shapes/Saw%20L.ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/LFO Shapes/Saw R.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/LFO%20Shapes/Saw%20R.ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/LFO Shapes/Sine.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/LFO%20Shapes/Sine.ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/LFO Shapes/Square.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/LFO%20Shapes/Square.ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/LFO Shapes/Triangle.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/LFO%20Shapes/Triangle.ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Knob/kilohearts.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/kilohearts.ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Switch/Kilohearts.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Switch/Kilohearts.ini";
+          sha256 = "";
+        }
+        {
+          path = ''src/FXD - Record Last Touch.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/0d6bac49892472abb6295822c28163a6c0f28385/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
+          sha256 = "";
+        }
+      ];
+    };
     general-functions-lua-1-0beta-1 = mkReapackPackage {
       inherit stdenv fetchurl;
       name = "general-functions-lua-1-0beta-1";

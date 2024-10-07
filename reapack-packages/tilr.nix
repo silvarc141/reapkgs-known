@@ -2424,6 +2424,180 @@
         }
       ];
     };
+    jsadditiv-jsfx-1-4-0 = mkReapackPackage {
+      inherit stdenv fetchurl;
+      name = "jsadditiv-jsfx-1-4-0";
+      indexName = "Tilr";
+      categoryName = "Synth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsadditiv.jsfx";
+          sha256 = "";
+        }
+        {
+          path = ''jsadditiv/add.adsr.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsadditiv/add.adsr.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsadditiv/add.array.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsadditiv/add.array.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsadditiv/add.fft_real_synth.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsadditiv/add.fft_real_synth.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsadditiv/add.gfxlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsadditiv/add.gfxlib.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsadditiv/add.mouselib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsadditiv/add.mouselib.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsadditiv/add.wavetable.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsadditiv/add.wavetable.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsadditiv/add.rbj_filter.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsadditiv/add.rbj_filter.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Complex 1.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Complex%201.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Complex 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Complex%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Complex 3.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Complex%203.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Complex 4.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Complex%204.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Complex 5.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Complex%205.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Organ 1.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Organ%201.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Organ 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Organ%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Organ 3.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Organ%203.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Organ 4.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Organ%204.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Organ 5.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Organ%205.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Organ 6.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Organ%206.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Organ 7.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Organ%207.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Saw 1.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Saw%201.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Saw 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Saw%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Saw 3.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Saw%203.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Sine 1.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Sine%201.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Sine 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Sine%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Sine 3.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Sine%203.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Sine 4.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Sine%204.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Sine 5.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Sine%205.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Spectral.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Spectral.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Square 1.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Square%201.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Square 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Square%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Stairs.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Stairs.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSAdditiv/Triangle.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSAdditiv/Triangle.wav";
+          sha256 = "";
+        }
+      ];
+    };
     jsdrumpad-jsfx-1-1 = mkReapackPackage {
       inherit stdenv fetchurl;
       name = "jsdrumpad-jsfx-1-1";
@@ -2708,6 +2882,50 @@
         {
           path = ''jsdrumsynth/ds.svf_filter.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc";
+          sha256 = "";
+        }
+      ];
+    };
+    jsdrumsynth-jsfx-1-0-3 = mkReapackPackage {
+      inherit stdenv fetchurl;
+      name = "jsdrumsynth-jsfx-1-0-3";
+      indexName = "Tilr";
+      categoryName = "Synth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth.jsfx";
+          sha256 = "";
+        }
+        {
+          path = ''jsdrumsynth.jsfx.RPL'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth.jsfx.RPL";
+          sha256 = "";
+        }
+        {
+          path = ''jsdrumsynth/ds.envlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.envlib.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsdrumsynth/ds.gfxlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.gfxlib.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsdrumsynth/ds.mouselib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.mouselib.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsdrumsynth/ds.pad.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.pad.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsdrumsynth/ds.svf_filter.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/0eb486340b7db60c5ff2d6021268c9c75fdb757f/Synth/jsdrumsynth/ds.svf_filter.jsfx-inc";
           sha256 = "";
         }
       ];
@@ -3249,6 +3467,185 @@
         }
       ];
     };
+    jsmodulator-jsfx-1-2-0 = mkReapackPackage {
+      inherit stdenv fetchurl;
+      name = "jsmodulator-jsfx-1-2-0";
+      indexName = "Tilr";
+      categoryName = "Synth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsmodulator.jsfx";
+          sha256 = "";
+        }
+        {
+          path = ''jsmodulator/mod.array.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsmodulator/mod.array.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsmodulator/mod.envlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsmodulator/mod.envlib.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsmodulator/mod.fft_real_synth.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsmodulator/mod.fft_real_synth.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsmodulator/mod.gfxlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsmodulator/mod.gfxlib.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsmodulator/mod.mouselib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsmodulator/mod.mouselib.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsmodulator/mod.osc.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsmodulator/mod.osc.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsmodulator/mod.wavetable.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsmodulator/mod.wavetable.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jsmodulator/mod.rbj_filter.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsmodulator/mod.rbj_filter.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Complex 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Complex%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Complex 3.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Complex%203.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Complex 4.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Complex%204.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Complex 5.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Complex%205.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Complex.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Complex.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Organ 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Organ%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Organ 3.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Organ%203.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Organ 4.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Organ%204.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Organ 5.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Organ%205.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Organ 6.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Organ%206.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Organ 7.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Organ%207.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Organ.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Organ.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Saw 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Saw%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Saw 3.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Saw%203.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Saw.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Saw.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Sine 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Sine%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Sine 3.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Sine%203.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Sine 4.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Sine%204.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Sine 5.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Sine%205.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Sine.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Sine.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Spectral.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Spectral.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Square 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Square%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Square.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Square.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Stairs.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Stairs.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSModulator/Triangle.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSModulator/Triangle.wav";
+          sha256 = "";
+        }
+      ];
+    };
     jswavesynth-jsfx-1-2 = mkReapackPackage {
       inherit stdenv fetchurl;
       name = "jswavesynth-jsfx-1-2";
@@ -3752,6 +4149,175 @@
         {
           path = ''tilr_JSWavesynth/Triangle.wav'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/tilr_JSWavesynth/Triangle.wav";
+          sha256 = "";
+        }
+      ];
+    };
+    jswavesynth-jsfx-1-3-0 = mkReapackPackage {
+      inherit stdenv fetchurl;
+      name = "jswavesynth-jsfx-1-3-0";
+      indexName = "Tilr";
+      categoryName = "Synth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth.jsfx";
+          sha256 = "";
+        }
+        {
+          path = ''jswavesynth/ws.adsr.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.adsr.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jswavesynth/ws.array.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.array.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jswavesynth/ws.gfxlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.gfxlib.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jswavesynth/ws.mouselib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.mouselib.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jswavesynth/ws.wavetable.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.wavetable.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''jswavesynth/ws.rbj_filter.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth/ws.rbj_filter.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Complex 1.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%201.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Complex 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Complex 3.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%203.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Complex 4.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%204.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Complex 5.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Complex%205.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Organ 1.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%201.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Organ 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Organ 3.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%203.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Organ 4.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%204.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Organ 5.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%205.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Organ 6.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%206.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Organ 7.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Organ%207.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Saw 1.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Saw%201.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Saw 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Saw%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Saw 3.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Saw%203.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Sine 1.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%201.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Sine 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Sine 3.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%203.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Sine 4.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%204.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Sine 5.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Sine%205.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Spectral.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Spectral.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Square 1.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Square%201.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Square 2.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Square%202.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Stairs.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Stairs.wav";
+          sha256 = "";
+        }
+        {
+          path = ''tilr8_JSWavesynth/Triangle.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/tilr8_JSWavesynth/Triangle.wav";
           sha256 = "";
         }
       ];

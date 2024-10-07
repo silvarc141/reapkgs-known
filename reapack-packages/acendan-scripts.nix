@@ -987,6 +987,25 @@
         }
       ];
     };
+    acendan-lua-utilities-lua-8-9 = mkReapackPackage {
+      inherit stdenv fetchurl;
+      name = "acendan-lua-utilities-lua-8-9";
+      indexName = "ACendan Scripts";
+      categoryName = "Development";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/acendan/reascripts/raw/b3f99e91041173e95994c80961104bf3bc2d4f09/Development/acendan_Lua%20Utilities.lua";
+          sha256 = "";
+        }
+        {
+          path = ''Lib/yaml.lua'';
+          url = "https://github.com/acendan/reascripts/raw/b3f99e91041173e95994c80961104bf3bc2d4f09/Development/Lib/yaml.lua";
+          sha256 = "";
+        }
+      ];
+    };
     acendan-copy-selected-items-take-envelope-to-selected-automation-envelope-lua-1-0 = mkReapackPackage {
       inherit stdenv fetchurl;
       name = "acendan-copy-selected-items-take-envelope-to-selected-automation-envelope-lua-1-0";
@@ -7484,6 +7503,74 @@
         {
           path = ''Meta/meta.yaml'';
           url = "https://github.com/acendan/reascripts/raw/676f0a12bc608e0b1230e15433dbce1aa5880a56/Various/Meta/meta.yaml";
+          sha256 = "";
+        }
+      ];
+    };
+    acendan-the-last-renamer-lua-1-01 = mkReapackPackage {
+      inherit stdenv fetchurl;
+      name = "acendan-the-last-renamer-lua-1-01";
+      indexName = "ACendan Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/acendan/reascripts/raw/b3f99e91041173e95994c80961104bf3bc2d4f09/Various/acendan_The%20Last%20Renamer.lua";
+          sha256 = "";
+        }
+        {
+          path = ''Schemes/Example.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/b3f99e91041173e95994c80961104bf3bc2d4f09/Various/Schemes/Example.yaml";
+          sha256 = "";
+        }
+        {
+          path = ''Schemes/Generic Game.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/b3f99e91041173e95994c80961104bf3bc2d4f09/Various/Schemes/Generic%20Game.yaml";
+          sha256 = "";
+        }
+        {
+          path = ''Schemes/UCS.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/b3f99e91041173e95994c80961104bf3bc2d4f09/Various/Schemes/UCS.yaml";
+          sha256 = "";
+        }
+        {
+          path = ''Meta/meta.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/b3f99e91041173e95994c80961104bf3bc2d4f09/Various/Meta/meta.yaml";
+          sha256 = "";
+        }
+      ];
+    };
+    acendan-the-last-renamer-lua-1-02 = mkReapackPackage {
+      inherit stdenv fetchurl;
+      name = "acendan-the-last-renamer-lua-1-02";
+      indexName = "ACendan Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/acendan/reascripts/raw/b448097b2164a426cf09f29d73c5c28e96c946d9/Various/acendan_The%20Last%20Renamer.lua";
+          sha256 = "";
+        }
+        {
+          path = ''Schemes/Example.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/b448097b2164a426cf09f29d73c5c28e96c946d9/Various/Schemes/Example.yaml";
+          sha256 = "";
+        }
+        {
+          path = ''Schemes/Generic Game.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/b448097b2164a426cf09f29d73c5c28e96c946d9/Various/Schemes/Generic%20Game.yaml";
+          sha256 = "";
+        }
+        {
+          path = ''Schemes/UCS.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/b448097b2164a426cf09f29d73c5c28e96c946d9/Various/Schemes/UCS.yaml";
+          sha256 = "";
+        }
+        {
+          path = ''Meta/meta.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/b448097b2164a426cf09f29d73c5c28e96c946d9/Various/Meta/meta.yaml";
           sha256 = "";
         }
       ];
