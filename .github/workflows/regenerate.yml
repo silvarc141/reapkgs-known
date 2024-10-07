@@ -15,13 +15,11 @@ jobs:
           shopt -s extglob
           rm -rf !(README.md|.git)
           shopt -u extglob
-          echo "workspace: $GITHUB_WORKSPACE"
-          ls -a
-      # - name: Generate
-      #   run: nix run github:silvarc141/reapkgs -- -gprqo "$GITHUB_WORKSPACE"
-      # - name: Commit
-      #   run: |
-      #     git config user.name "GitHub Actions"
-      #     git config user.email "actions@github.com"
-      #     git add -A
-      #     git diff --quiet HEAD || (git commit -am "Regenerate $(date +'%Y-%m-%d')" && git push)
+      - name: Generate
+        run: nix run github:silvarc141/reapkgs -- -gprqo .
+      - name: Commit
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --quiet HEAD || (git commit -am "Regenerate $(date +'%Y-%m-%d')" && git push)
