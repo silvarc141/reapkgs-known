@@ -22,4 +22,4 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add -A
-          git diff --quiet HEAD || (git commit -am "Regenerate $(date +'%Y-%m-%d')" && git push)
+          git diff --quiet HEAD || (git commit -am "flake regeneration $(date +'%Y-%m-%d')" && git push)
