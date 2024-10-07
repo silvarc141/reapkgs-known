@@ -15,8 +15,8 @@ jobs:
           shopt -s extglob
           rm -rf !(README.md|.git)
           shopt -u extglob
-          pwd
-          ls
+          echo "workspace: $GITHUB_WORKSPACE"
+          ls -a
       # - name: Generate
       #   run: nix run github:silvarc141/reapkgs -- -gprqo "$GITHUB_WORKSPACE"
       # - name: Commit
