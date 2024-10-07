@@ -4,19 +4,18 @@ on:
     - cron: '0 0 * * 0'
   workflow_dispatch:
 jobs:
-  build:
+  regenerate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - uses: DeterminateSystems/nix-installer-action@v4
-      - uses: DeterminateSystems/magic-nix-cache-action@v2
       - name: Delete all files except README
         run: |
           shopt -s extglob
           rm -rf !(README.md|.git)
           shopt -u extglob
       - name: Generate
-        run: nix run github:silvarc141/reapkgs -- -gprq -j 16 -o .
+        run: nix run github:silvarc141/reapkgs -- -gprq -j 2 -o .
       - name: Commit
         run: |
           git config user.name "GitHub Actions"
