@@ -12,13 +12,14 @@ jobs:
       - uses: DeterminateSystems/magic-nix-cache-action@v2
       - name: Delete all files except README
         run: |
-          find . -type f ! -name 'README.md' -delete
-          find . -type d -empty -delete
+          shopt -s extglob
+          rm -rf !(README.md|.git)
+          shopt -u extglob
       - name: Generate
-        run: nix run github:silvarc141/reapkgs -- -gpro "$GITHUB_WORKSPACE"
+        run: nix run github:silvarc141/reapkgs -- -gprqo "$GITHUB_WORKSPACE"
       - name: Commit
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Regenerate $(date +'%Y-%m-%d')" && git push)
+          git diff --quiet HEAD || (git commit -am "Regenerate $(date +'%Y-%m-%d')" && git push)
