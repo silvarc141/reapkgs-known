@@ -7,15 +7,16 @@ jobs:
   regenerate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: DeterminateSystems/nix-installer-action@v4
+      - uses: actions/checkout@v4
+      - uses: DeterminateSystems/nix-installer-action@main
+      - uses: DeterminateSystems/magic-nix-cache-action@main
       - name: Delete all files except README
         run: |
           shopt -s extglob
           rm -rf !(README.md|.git)
           shopt -u extglob
       - name: Generate
-        run: nix run github:silvarc141/reapkgs -- -gprq -j 2 -o .
+        run: nix run github:silvarc141/reapkgs -- -gprqo .
       - name: Commit
         run: |
           git config user.name "GitHub Actions"
