@@ -14,7 +14,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Analog-a-licious.jsfx";
-          sha256 = "";
+          sha256 = "00fffd4pzy2wjayjfcdqdmaj4kzy5x28lklwh8im9c9ncqn9ki6h";
         }
       ];
     };
@@ -28,12 +28,12 @@
         {
           path = ''Cora.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Cora.jsfx";
-          sha256 = "";
+          sha256 = "0v6h7n268zv3x1ji3h7n2xh2wg4grvlfcyy9myjknwhi9xc1q24y";
         }
         {
           path = ''ReaClassical_Cora.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/ReaClassical_Cora.RPP";
-          sha256 = "";
+          sha256 = "02acgyfgiv26l5s467vn2pflf4ss47hvq9h1i4w18ymdggb90v3s";
         }
       ];
     };
@@ -47,12 +47,12 @@
         {
           path = ''Cora.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Cora.jsfx";
-          sha256 = "";
+          sha256 = "1a084y4zl9d3hax4yk6j0jb0sdck0zagva10fvdrfrvgvn9ymfwl";
         }
         {
           path = ''ReaClassical_Cora.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/ReaClassical_Cora.RPP";
-          sha256 = "";
+          sha256 = "02acgyfgiv26l5s467vn2pflf4ss47hvq9h1i4w18ymdggb90v3s";
         }
       ];
     };
@@ -66,7 +66,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/desk-a-docious.jsfx";
-          sha256 = "";
+          sha256 = "0kwmggkk2bp4jbsynnczbf49mdgaxn8900xm5ck4gxyi25hx557v";
         }
       ];
     };
@@ -80,7 +80,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Elsa.jsfx";
-          sha256 = "";
+          sha256 = "0n191w2sq647cr21riqawbrhxl6vphgdj6whkdxp2sn9ivfyz52f";
         }
       ];
     };
@@ -94,7 +94,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Elsa.jsfx";
-          sha256 = "";
+          sha256 = "1hjriq4nzkwq6zn56lickzls58pzcdq2krn8jk0qqmiwwpsagnb5";
         }
       ];
     };
@@ -108,12 +108,12 @@
         {
           path = ''Em-See-Eye_Channel.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/deb904aa16abdbeacb32ed62ef2912eecff36fd3/Consoles/Em-See-Eye_Channel.jsfx";
-          sha256 = "";
+          sha256 = "0srk8fx1gli659mpsmasyhvfy1g7jzzjk090mb0bbn8fjnslwh1k";
         }
         {
           path = ''Em-See-Eye_Bus.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/deb904aa16abdbeacb32ed62ef2912eecff36fd3/Consoles/Em-See-Eye_Bus.jsfx";
-          sha256 = "";
+          sha256 = "10l4fy0fpf44vm1dhv032c2kv9nq56ilica777bp5n5yiypvlsdq";
         }
       ];
     };
@@ -127,22 +127,22 @@
         {
           path = ''Eurydice_Bus.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Eurydice_Bus.jsfx";
-          sha256 = "";
+          sha256 = "0wip2l9f8a4fcxmqrfwg25cjg5l9nnbrab72pkm12gysxpm96nza";
         }
         {
           path = ''Eurydice_Channel.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Eurydice_Channel.jsfx";
-          sha256 = "";
+          sha256 = "149h1d91na27irk2bg3fx610k01bxyykkmyzbkzr2rh8h6sl5knf";
         }
         {
           path = ''ReaClassical_Eurydice_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/ReaClassical_Eurydice_A.RPP";
-          sha256 = "";
+          sha256 = "1q0wmsd0wj37l9lxzgclm9hr5zk8g5i0cx3pnapl0f0xpy4y8k0x";
         }
         {
           path = ''ReaClassical_Eurydice_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/ReaClassical_Eurydice_B.RPP";
-          sha256 = "";
+          sha256 = "1yjrqsj8xgyn64clf9jh4cvlf60i1limyxbi6zbf1jg7p6nzw6nz";
         }
       ];
     };
@@ -156,22 +156,22 @@
         {
           path = ''Eurydice_Bus.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Consoles/Eurydice_Bus.jsfx";
-          sha256 = "";
+          sha256 = "0l04bpdxn93lyv2ailw78lnrzr1h9y8g0mljhscvncclxmhb8cxx";
         }
         {
           path = ''Eurydice_Channel.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Consoles/Eurydice_Channel.jsfx";
-          sha256 = "";
+          sha256 = "0afif3m1b8182yy11gczamk11x8kp9i8bvps6b7p0lrmkim4rgf7";
         }
         {
           path = ''ReaClassical_Eurydice_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Consoles/ReaClassical_Eurydice_A.RPP";
-          sha256 = "";
+          sha256 = "1q0wmsd0wj37l9lxzgclm9hr5zk8g5i0cx3pnapl0f0xpy4y8k0x";
         }
         {
           path = ''ReaClassical_Eurydice_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Consoles/ReaClassical_Eurydice_B.RPP";
-          sha256 = "";
+          sha256 = "1yjrqsj8xgyn64clf9jh4cvlf60i1limyxbi6zbf1jg7p6nzw6nz";
         }
       ];
     };
@@ -185,22 +185,22 @@
         {
           path = ''Eurydice_Bus.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Eurydice_Bus.jsfx";
-          sha256 = "";
+          sha256 = "06c12r05a72w3d1h09y7c82kahl9s75y511cdd7qsn6xy3kh7mh5";
         }
         {
           path = ''Eurydice_Channel.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Eurydice_Channel.jsfx";
-          sha256 = "";
+          sha256 = "0hpwfkc16kammi1p38lcypmnscpr7iw0qp3f310ancihbf1afwza";
         }
         {
           path = ''ReaClassical_Eurydice_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/ReaClassical_Eurydice_A.RPP";
-          sha256 = "";
+          sha256 = "1q0wmsd0wj37l9lxzgclm9hr5zk8g5i0cx3pnapl0f0xpy4y8k0x";
         }
         {
           path = ''ReaClassical_Eurydice_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/ReaClassical_Eurydice_B.RPP";
-          sha256 = "";
+          sha256 = "1yjrqsj8xgyn64clf9jh4cvlf60i1limyxbi6zbf1jg7p6nzw6nz";
         }
       ];
     };
@@ -214,22 +214,22 @@
         {
           path = ''GenesisBus.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/GenesisBus.jsfx";
-          sha256 = "";
+          sha256 = "1r6hwwd10ivyw32m4d3mxdgxn268zysjkdr7yj5yn1fn3mdsdi7s";
         }
         {
           path = ''GenesisChannel.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/GenesisChannel.jsfx";
-          sha256 = "";
+          sha256 = "1l5widypcv8jh2d58dz68akg5hdprqpq18fslbf4aa9mzda31kcb";
         }
         {
           path = ''ReaClassical_Genesis_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/ReaClassical_Genesis_A.RPP";
-          sha256 = "";
+          sha256 = "1qlg562am4z5sjm7438ldzwq3smszfjf9cxfkib9gsxdgm9x548h";
         }
         {
           path = ''ReaClassical_Genesis_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/ReaClassical_Genesis_B.RPP";
-          sha256 = "";
+          sha256 = "044k8msfvmpi5yxccba0mn4plbp71b16fgkihx53z29jsg5bbqdq";
         }
       ];
     };
@@ -243,22 +243,22 @@
         {
           path = ''GenesisBus.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/55227fa50d19d2612bd208a22e6a2be8da61fc75/Consoles/GenesisBus.jsfx";
-          sha256 = "";
+          sha256 = "1r9rpxjyiwkf86r0k4lflcf37lh4pagdhi36zsnsmj4xbvrjl6j1";
         }
         {
           path = ''GenesisChannel.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/55227fa50d19d2612bd208a22e6a2be8da61fc75/Consoles/GenesisChannel.jsfx";
-          sha256 = "";
+          sha256 = "1l5widypcv8jh2d58dz68akg5hdprqpq18fslbf4aa9mzda31kcb";
         }
         {
           path = ''ReaClassical_Genesis_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/55227fa50d19d2612bd208a22e6a2be8da61fc75/Consoles/ReaClassical_Genesis_A.RPP";
-          sha256 = "";
+          sha256 = "1qlg562am4z5sjm7438ldzwq3smszfjf9cxfkib9gsxdgm9x548h";
         }
         {
           path = ''ReaClassical_Genesis_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/55227fa50d19d2612bd208a22e6a2be8da61fc75/Consoles/ReaClassical_Genesis_B.RPP";
-          sha256 = "";
+          sha256 = "044k8msfvmpi5yxccba0mn4plbp71b16fgkihx53z29jsg5bbqdq";
         }
       ];
     };
@@ -272,22 +272,22 @@
         {
           path = ''GenesisBus.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/6aeaed46abb8a0ea235f074442bcc6aef8fb5fd5/Consoles/GenesisBus.jsfx";
-          sha256 = "";
+          sha256 = "1522ylb7fnhhjwndf2fdcnanky3kdhvpl530piwvx8wglnffvr9z";
         }
         {
           path = ''GenesisChannel.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/6aeaed46abb8a0ea235f074442bcc6aef8fb5fd5/Consoles/GenesisChannel.jsfx";
-          sha256 = "";
+          sha256 = "16yyzrnhxiasfsd5d8ydpvdbpxkzlqyara03yyq1ajg0py89jvp1";
         }
         {
           path = ''ReaClassical_Genesis_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/6aeaed46abb8a0ea235f074442bcc6aef8fb5fd5/Consoles/ReaClassical_Genesis_A.RPP";
-          sha256 = "";
+          sha256 = "1qlg562am4z5sjm7438ldzwq3smszfjf9cxfkib9gsxdgm9x548h";
         }
         {
           path = ''ReaClassical_Genesis_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/6aeaed46abb8a0ea235f074442bcc6aef8fb5fd5/Consoles/ReaClassical_Genesis_B.RPP";
-          sha256 = "";
+          sha256 = "044k8msfvmpi5yxccba0mn4plbp71b16fgkihx53z29jsg5bbqdq";
         }
       ];
     };
@@ -301,22 +301,22 @@
         {
           path = ''GenesisBus.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/945b48ff69d3c236e4ba342aa1830effd4c21bf5/Consoles/GenesisBus.jsfx";
-          sha256 = "";
+          sha256 = "1raq3jh83mkarns4x46s6ylq2pjqk90ya8d0dqh01dqsj130h8rc";
         }
         {
           path = ''GenesisChannel.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/945b48ff69d3c236e4ba342aa1830effd4c21bf5/Consoles/GenesisChannel.jsfx";
-          sha256 = "";
+          sha256 = "03gcz4k74wgpwayhzw27ivy87ay4f4qcwhdh7v2lwks1h0r7crjj";
         }
         {
           path = ''ReaClassical_Genesis_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/945b48ff69d3c236e4ba342aa1830effd4c21bf5/Consoles/ReaClassical_Genesis_A.RPP";
-          sha256 = "";
+          sha256 = "1qlg562am4z5sjm7438ldzwq3smszfjf9cxfkib9gsxdgm9x548h";
         }
         {
           path = ''ReaClassical_Genesis_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/945b48ff69d3c236e4ba342aa1830effd4c21bf5/Consoles/ReaClassical_Genesis_B.RPP";
-          sha256 = "";
+          sha256 = "044k8msfvmpi5yxccba0mn4plbp71b16fgkihx53z29jsg5bbqdq";
         }
       ];
     };
@@ -330,22 +330,22 @@
         {
           path = ''GenesisBus.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/65568ec471d2cc83480a73e580ad33031855cd9a/Consoles/GenesisBus.jsfx";
-          sha256 = "";
+          sha256 = "1yrdgd7rhmnbdqdj2cj4scf22y74axz2nlb4mshjxdkzjhrcf3pj";
         }
         {
           path = ''GenesisChannel.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/65568ec471d2cc83480a73e580ad33031855cd9a/Consoles/GenesisChannel.jsfx";
-          sha256 = "";
+          sha256 = "11c1jnm2jnlnfvz6w49nfdv7mms21m6zl5w9vy76skcc34zvs4ys";
         }
         {
           path = ''ReaClassical_Genesis_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/65568ec471d2cc83480a73e580ad33031855cd9a/Consoles/ReaClassical_Genesis_A.RPP";
-          sha256 = "";
+          sha256 = "1qlg562am4z5sjm7438ldzwq3smszfjf9cxfkib9gsxdgm9x548h";
         }
         {
           path = ''ReaClassical_Genesis_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/65568ec471d2cc83480a73e580ad33031855cd9a/Consoles/ReaClassical_Genesis_B.RPP";
-          sha256 = "";
+          sha256 = "044k8msfvmpi5yxccba0mn4plbp71b16fgkihx53z29jsg5bbqdq";
         }
       ];
     };
@@ -359,7 +359,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/MagicFairyDust.jsfx";
-          sha256 = "";
+          sha256 = "0q8kimaph5wd0xnchr7wwbcah2zr6jvnwn572pdnmhaxxwbb2b97";
         }
       ];
     };
@@ -373,7 +373,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/MagicFairyDust.jsfx";
-          sha256 = "";
+          sha256 = "114hwbi3danj5dmkwh8rmwq9lfax3yilpggdg3jaygcp92glbxnd";
         }
       ];
     };
@@ -387,12 +387,12 @@
         {
           path = ''Octo4Channel.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/2d59097866e5898793192f0298620b93a1cecefc/Consoles/Octo4Channel.jsfx";
-          sha256 = "";
+          sha256 = "19hyvf3gi3n251jp771z4n0cwmb4cnjg9ns8kn2j8sjirjirvcc9";
         }
         {
           path = ''Octo4Bus.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/2d59097866e5898793192f0298620b93a1cecefc/Consoles/Octo4Bus.jsfx";
-          sha256 = "";
+          sha256 = "0y2wjnq2x7518mdvjbj4dbmaivjjqi5azxg4vhxcphqc68akqc7p";
         }
       ];
     };
@@ -406,42 +406,42 @@
         {
           path = ''Orpheus_Bus_In.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Orpheus_Bus_In.jsfx";
-          sha256 = "";
+          sha256 = "1c68acw6g13p7bcrwp4q2mysmbpivi7fbyj7vhshxf97izfymfdy";
         }
         {
           path = ''Orpheus_Bus_Out.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Orpheus_Bus_Out.jsfx";
-          sha256 = "";
+          sha256 = "1x63nkgmgx9d4x4crzim115rf7434fb948wynni6scpb18qrxwgi";
         }
         {
           path = ''Orpheus_Channel_In.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Orpheus_Channel_In.jsfx";
-          sha256 = "";
+          sha256 = "0jqggz85kpsrsg0gr714w46yca7paq6v22f31xpnqz4jv1ibvab4";
         }
         {
           path = ''Orpheus_Channel_Out.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Orpheus_Channel_Out.jsfx";
-          sha256 = "";
+          sha256 = "1v78l96rcmjrkvk2gcipagsk16l5kfnqdsm1m51g3dfh791w2vcn";
         }
         {
           path = ''Orpheus_Sub_In.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Orpheus_Sub_In.jsfx";
-          sha256 = "";
+          sha256 = "0d8y7fhxyrbx9xacjxyci4fznbmgzpg24xjcnb92chvdfs0yaiw8";
         }
         {
           path = ''Orpheus_Sub_Out.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Orpheus_Sub_Out.jsfx";
-          sha256 = "";
+          sha256 = "0q6mhh9zyqilxfa7lfp4y669d523fd54lsp3giahkgm9vvbw586f";
         }
         {
           path = ''ReaClassical_Orpheus_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/ReaClassical_Orpheus_A.RPP";
-          sha256 = "";
+          sha256 = "0d6d61qbwwajv2h2anjhmcw4clq0c6l8325dh7d6lzp7jjj7zgdz";
         }
         {
           path = ''ReaClassical_Orpheus_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/ReaClassical_Orpheus_B.RPP";
-          sha256 = "";
+          sha256 = "1lfh4di65ddjhspzvxwlkb620srjn7w92bwfsbimd9rmcydmmkf4";
         }
       ];
     };
@@ -455,42 +455,42 @@
         {
           path = ''Orpheus_Bus_In.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/cb6ebd9739ef52bd00df630e1d39730403f61218/Consoles/Orpheus_Bus_In.jsfx";
-          sha256 = "";
+          sha256 = "1c68acw6g13p7bcrwp4q2mysmbpivi7fbyj7vhshxf97izfymfdy";
         }
         {
           path = ''Orpheus_Bus_Out.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/cb6ebd9739ef52bd00df630e1d39730403f61218/Consoles/Orpheus_Bus_Out.jsfx";
-          sha256 = "";
+          sha256 = "1x63nkgmgx9d4x4crzim115rf7434fb948wynni6scpb18qrxwgi";
         }
         {
           path = ''Orpheus_Channel_In.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/cb6ebd9739ef52bd00df630e1d39730403f61218/Consoles/Orpheus_Channel_In.jsfx";
-          sha256 = "";
+          sha256 = "0jqggz85kpsrsg0gr714w46yca7paq6v22f31xpnqz4jv1ibvab4";
         }
         {
           path = ''Orpheus_Channel_Out.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/cb6ebd9739ef52bd00df630e1d39730403f61218/Consoles/Orpheus_Channel_Out.jsfx";
-          sha256 = "";
+          sha256 = "1v78l96rcmjrkvk2gcipagsk16l5kfnqdsm1m51g3dfh791w2vcn";
         }
         {
           path = ''Orpheus_Sub_In.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/cb6ebd9739ef52bd00df630e1d39730403f61218/Consoles/Orpheus_Sub_In.jsfx";
-          sha256 = "";
+          sha256 = "0d8y7fhxyrbx9xacjxyci4fznbmgzpg24xjcnb92chvdfs0yaiw8";
         }
         {
           path = ''Orpheus_Sub_Out.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/cb6ebd9739ef52bd00df630e1d39730403f61218/Consoles/Orpheus_Sub_Out.jsfx";
-          sha256 = "";
+          sha256 = "0q6mhh9zyqilxfa7lfp4y669d523fd54lsp3giahkgm9vvbw586f";
         }
         {
           path = ''ReaClassical_Orpheus_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/cb6ebd9739ef52bd00df630e1d39730403f61218/Consoles/ReaClassical_Orpheus_A.RPP";
-          sha256 = "";
+          sha256 = "0d6d61qbwwajv2h2anjhmcw4clq0c6l8325dh7d6lzp7jjj7zgdz";
         }
         {
           path = ''ReaClassical_Orpheus_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/cb6ebd9739ef52bd00df630e1d39730403f61218/Consoles/ReaClassical_Orpheus_B.RPP";
-          sha256 = "";
+          sha256 = "1lfh4di65ddjhspzvxwlkb620srjn7w92bwfsbimd9rmcydmmkf4";
         }
       ];
     };
@@ -504,42 +504,42 @@
         {
           path = ''Orpheus_Bus_In.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Consoles/Orpheus_Bus_In.jsfx";
-          sha256 = "";
+          sha256 = "03ckg76fyawb9jckcwv5n34a0q79gdlgkgwnjp4mlkvx80721p9c";
         }
         {
           path = ''Orpheus_Bus_Out.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Consoles/Orpheus_Bus_Out.jsfx";
-          sha256 = "";
+          sha256 = "0vlwzz94w15z72rq4c6yz4m5irc05rg9lshgra0fsar4gmg6q8d6";
         }
         {
           path = ''Orpheus_Channel_In.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Consoles/Orpheus_Channel_In.jsfx";
-          sha256 = "";
+          sha256 = "0vs0wp0n2zils01phgqanrlbrh4bhrrkvvhzjc1ry65y2nwnikvp";
         }
         {
           path = ''Orpheus_Channel_Out.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Consoles/Orpheus_Channel_Out.jsfx";
-          sha256 = "";
+          sha256 = "13agpqaflm2bnwvnwyn3rcg7wqc2bw6pkn875fys23zxi36ll5n7";
         }
         {
           path = ''Orpheus_Sub_In.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Consoles/Orpheus_Sub_In.jsfx";
-          sha256 = "";
+          sha256 = "1h8f1hp29zsb8chq77f4y63kzdh783jfyx9qxhfmbjs1l8k59l5s";
         }
         {
           path = ''Orpheus_Sub_Out.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Consoles/Orpheus_Sub_Out.jsfx";
-          sha256 = "";
+          sha256 = "1c2fkaj4h8nk91sj8dg298661726yjgk91716q6mxcg46kk3v2zl";
         }
         {
           path = ''ReaClassical_Orpheus_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Consoles/ReaClassical_Orpheus_A.RPP";
-          sha256 = "";
+          sha256 = "0d6d61qbwwajv2h2anjhmcw4clq0c6l8325dh7d6lzp7jjj7zgdz";
         }
         {
           path = ''ReaClassical_Orpheus_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Consoles/ReaClassical_Orpheus_B.RPP";
-          sha256 = "";
+          sha256 = "1lfh4di65ddjhspzvxwlkb620srjn7w92bwfsbimd9rmcydmmkf4";
         }
       ];
     };
@@ -553,42 +553,42 @@
         {
           path = ''Orpheus_Bus_In.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Orpheus_Bus_In.jsfx";
-          sha256 = "";
+          sha256 = "0jgc5lj2vynpv7h1jqgy0gci2pinnfjxj821zcpwc3iiw7lvmlh8";
         }
         {
           path = ''Orpheus_Bus_Out.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Orpheus_Bus_Out.jsfx";
-          sha256 = "";
+          sha256 = "1ykjl65c1x85n3ca4nmgxlkyhdi9gnkycil9725f75ga7x49i785";
         }
         {
           path = ''Orpheus_Channel_In.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Orpheus_Channel_In.jsfx";
-          sha256 = "";
+          sha256 = "05qpvv5vclca1vz171fykg9xkng4z4nfzz8nfv86zr902qva7bfs";
         }
         {
           path = ''Orpheus_Channel_Out.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Orpheus_Channel_Out.jsfx";
-          sha256 = "";
+          sha256 = "1sza9qv9xzs8bpg0kanj6bjyrkicgvrhwrz30p2s58qjlyvahcgq";
         }
         {
           path = ''Orpheus_Sub_In.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Orpheus_Sub_In.jsfx";
-          sha256 = "";
+          sha256 = "17kvcv0m5c0apwyqri0qc9d5v7zwfwqh86s7vi2rv9llxig02x21";
         }
         {
           path = ''Orpheus_Sub_Out.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Orpheus_Sub_Out.jsfx";
-          sha256 = "";
+          sha256 = "07rq1nkdhqzmzi9y5r4a8sg33670wfqlxygndkdky4pf0wnd53fp";
         }
         {
           path = ''ReaClassical_Orpheus_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/ReaClassical_Orpheus_A.RPP";
-          sha256 = "";
+          sha256 = "0d6d61qbwwajv2h2anjhmcw4clq0c6l8325dh7d6lzp7jjj7zgdz";
         }
         {
           path = ''ReaClassical_Orpheus_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/ReaClassical_Orpheus_B.RPP";
-          sha256 = "";
+          sha256 = "1lfh4di65ddjhspzvxwlkb620srjn7w92bwfsbimd9rmcydmmkf4";
         }
       ];
     };
@@ -602,22 +602,22 @@
         {
           path = ''Orpheus_Lite_Channel.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Orpheus_Lite_Channel.jsfx";
-          sha256 = "";
+          sha256 = "0dzin6z8yqf9m53ck525hw66sxijs4ijd02394nf5074cpp0jf2p";
         }
         {
           path = ''Orpheus_Lite_Bus.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Orpheus_Lite_Bus.jsfx";
-          sha256 = "";
+          sha256 = "1lkddqrji5x16l5vxy8wdm5jlbfrj68rlqvk0pvk4gycfql819xk";
         }
         {
           path = ''ReaClassical_Orpheus_Lite_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/ReaClassical_Orpheus_Lite_A.RPP";
-          sha256 = "";
+          sha256 = "1z0s61yz993pbfiwm7g8x3x8bkii5l81rkcizmcs0qiplg0vmba6";
         }
         {
           path = ''ReaClassical_Orpheus_Lite_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/ReaClassical_Orpheus_Lite_B.RPP";
-          sha256 = "";
+          sha256 = "0zkss8xn2bd8b6m44655k1x4q7f7m7sncjrzzgb24fx3ycl8s5i2";
         }
       ];
     };
@@ -631,22 +631,22 @@
         {
           path = ''Orpheus_Lite_Channel.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Orpheus_Lite_Channel.jsfx";
-          sha256 = "";
+          sha256 = "190zdmdk3j00mni7z5ca9sh136mczwv689bzrwjsv8q3p59didcd";
         }
         {
           path = ''Orpheus_Lite_Bus.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Orpheus_Lite_Bus.jsfx";
-          sha256 = "";
+          sha256 = "1wzz7ssvl59r7k7cxsmxhmf76kkd612grmlhgrrlfakk16h3zv2c";
         }
         {
           path = ''ReaClassical_Orpheus_Lite_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/ReaClassical_Orpheus_Lite_A.RPP";
-          sha256 = "";
+          sha256 = "1z0s61yz993pbfiwm7g8x3x8bkii5l81rkcizmcs0qiplg0vmba6";
         }
         {
           path = ''ReaClassical_Orpheus_Lite_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/ReaClassical_Orpheus_Lite_B.RPP";
-          sha256 = "";
+          sha256 = "1gl0cyqi1gvklldd23y9s5b9dza4ll844nr1zl8m5hkxfh1dfsv5";
         }
       ];
     };
@@ -660,7 +660,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/474edb089e3301c4b9b196b33e5d21ee61fcfb0d/Consoles/Seattlety.jsfx";
-          sha256 = "";
+          sha256 = "1i4hbf0654gbn0mz1dz319nvslxccv7fncqrwkc2nnam261srhx7";
         }
       ];
     };
@@ -674,7 +674,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/b2fe50135c1c1af60d698db1d8dd263a35b1cf51/Consoles/Sororium.jsfx";
-          sha256 = "";
+          sha256 = "123qic9nzzksd4r7hc95mw6sx6313nmvwfrzj99zldz7i39sigqn";
         }
       ];
     };
@@ -688,7 +688,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Supersonic.jsfx";
-          sha256 = "";
+          sha256 = "02i177kcp7xq2cz276kg3p3pc77b38j1yys3afqc29lhkc9jjwvi";
         }
       ];
     };
@@ -702,7 +702,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Supersonic.jsfx";
-          sha256 = "";
+          sha256 = "00gqfy15q1w3mrrqrcybwgnfamh3phhkrsv37shygi06mb2s83pz";
         }
       ];
     };
@@ -716,7 +716,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/EssenzaDither.jsfx";
-          sha256 = "";
+          sha256 = "1ph0iir0l8z53v276k9ag3mrgyvhgyp1894ziiba0sy7d7gcfr98";
         }
       ];
     };
@@ -730,7 +730,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/GroovyDither.jsfx";
-          sha256 = "";
+          sha256 = "0py8w0izcq52vg85m52nvkd58nza97ggbjh47zflwrfxl3z9pjms";
         }
       ];
     };
@@ -744,7 +744,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Dithers/GroovyDither.jsfx";
-          sha256 = "";
+          sha256 = "15fnfgapw0phvc3xzixj9m78hqn5ldkj61clpzzwa4hgzr28xm5k";
         }
       ];
     };
@@ -758,7 +758,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/d95b6f50ee393de142c7a44e53f3b7fbc9c1e305/Dithers/LucidityDither.jsfx";
-          sha256 = "";
+          sha256 = "1falib8qczzsmp5p9lkf2zndbfaj07szkgvq05vxyg8zvyc5c7b8";
         }
       ];
     };
@@ -772,7 +772,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Nintenda.jsfx";
-          sha256 = "";
+          sha256 = "1jy8r8lyzr7q6g6xh7dv1764x1parmrgfvx98kh3n86y1kcsj0sh";
         }
       ];
     };
@@ -786,7 +786,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/PirateDither.jsfx";
-          sha256 = "";
+          sha256 = "192aq493i1hg1gf471ghqigmgdzy00rhbiqlmp2n2xkfc6d34bgr";
         }
       ];
     };
@@ -800,7 +800,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/ReelDither.jsfx";
-          sha256 = "";
+          sha256 = "0d64rylc9gs9myg96j5v3ha2j9icnhagaz3rs0xhpzkdxc4yan37";
         }
       ];
     };
@@ -814,7 +814,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1fd97589a7839f3f7de2367c7d68f151c263568a/Dithers/ScottyDither.jsfx";
-          sha256 = "";
+          sha256 = "0sl8nxr0njppkda47d8mbj1vyppavkjbzlpacgji7syj3zml4jcn";
         }
       ];
     };
@@ -828,7 +828,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/six-dither_sid.jsfx";
-          sha256 = "";
+          sha256 = "01rgqnz4hi8nf78z3bmc6q4zyh1zry9nccb0vh5ckw19ldn17bfl";
         }
       ];
     };
@@ -842,7 +842,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Stan.jsfx";
-          sha256 = "";
+          sha256 = "1x536xz6jpsmsbjqx3ilv84s82wqraxjbyrd9m5q6hjspvssg7rw";
         }
       ];
     };
@@ -856,7 +856,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Twilight.jsfx";
-          sha256 = "";
+          sha256 = "0w3xqmwkwj0rvb8va8v2kp27awmlh63n87k8d2skg7srm2djnibz";
         }
       ];
     };
@@ -870,7 +870,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/WTFDither.jsfx";
-          sha256 = "";
+          sha256 = "038jly9lqwpm0ma1yziwgshz81b3s70p6ll8rm4q5bnmjq3r8lm5";
         }
       ];
     };
@@ -884,7 +884,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Dithers/Xonnos%20Dither.jsfx";
-          sha256 = "";
+          sha256 = "0k3z49i20nj6zv72gy3rahr35k2wn4dqj4wa1bda4avkgq9aq4xm";
         }
       ];
     };
@@ -898,7 +898,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Reverbs/Bricastic.jsfx";
-          sha256 = "";
+          sha256 = "1rxsdv9yl0hl1jb76kngjcd8bn7glds88jmmh3877bhbnim43wgl";
         }
       ];
     };
@@ -912,7 +912,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Reverbs/Bricastic.jsfx";
-          sha256 = "";
+          sha256 = "1hz4d6bslxj7xih03vbblmb3b3z4hmbyi6pz9hv99fsmyfci5g8q";
         }
       ];
     };
@@ -926,7 +926,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Reverbs/Bricastic2.jsfx";
-          sha256 = "";
+          sha256 = "16bkvl8q7h623bsrza8yw5dwf6z07xn73nmr84b6pn6qmkx963lz";
         }
       ];
     };
@@ -940,7 +940,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Reverbs/Interstellar.jsfx";
-          sha256 = "";
+          sha256 = "1hwnlanwf1lr2jr5jqjhzc2mxkn6341ms5fz3lh5cji9dpn8qx9r";
         }
       ];
     };
@@ -954,7 +954,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Reverbs/Interstellar.jsfx";
-          sha256 = "";
+          sha256 = "193cav5aknby9cznvfzw24jykkfhzc5dcmphjry2lp53fxjkgsid";
         }
       ];
     };
@@ -968,7 +968,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Reverbs/NW8BPlateReverb.jsfx";
-          sha256 = "";
+          sha256 = "1wl2pp06s8pnjpsifh9n9d7d7d1lz9r0ix99bmcmhbw0w97p93mv";
         }
       ];
     };
@@ -982,7 +982,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/2c7f87946e1429bbf1d364f1bba30f8b979fabb7/Reverbs/NW8CPlateReverb.jsfx";
-          sha256 = "";
+          sha256 = "1khmcf0h7cv7vda7iprn4dm5lyva6ybipj3gs5lgk22jy9c85yqi";
         }
       ];
     };
@@ -996,7 +996,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/a13769ec0935310d69b7a9e97dec86d0f5b197f5/Reverbs/NW8DPlateReverb.jsfx";
-          sha256 = "";
+          sha256 = "174891bpg63bkhdmzspgspp2v23fah2vsv6g7gds1gk1kylbr80g";
         }
       ];
     };
@@ -1010,7 +1010,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Reverbs/NW8PlateReverb.jsfx";
-          sha256 = "";
+          sha256 = "0xym40x0bkns1ci9d4q4wwrd7p5c6pr67ann775v1w6b0631bl7l";
         }
       ];
     };
@@ -1024,7 +1024,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Reverbs/PhiVerb.jsfx";
-          sha256 = "";
+          sha256 = "0s3q2a0bxqak6f31cka4cjzbdnlgwdp128ybxxx6mvjcrwin97wr";
         }
       ];
     };
@@ -1038,7 +1038,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Reverbs/PhiVerb.jsfx";
-          sha256 = "";
+          sha256 = "1g4gbamxfd6k9b8pjsqq7jaf23bbypg7jrqndaw82lhk8incghhs";
         }
       ];
     };
@@ -1052,7 +1052,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/d2367441b025f2ae135cd734306d9047acc99e8f/Various/78SlewClipper.jsfx";
-          sha256 = "";
+          sha256 = "15al81wy2hdcci87q7nnmxky78c8m8m7xk8an82wmb88ifhn0324";
         }
       ];
     };
@@ -1066,7 +1066,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1fa1813e660f4e072f8b5d04e7649d01854f29ea/Various/78SlewClipper.jsfx";
-          sha256 = "";
+          sha256 = "13c5qknrcz9d13gj992gyj0cjrbrrc8pbizinsxcp5xbffhl7f5v";
         }
       ];
     };
@@ -1080,7 +1080,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/A-coo-sticks.jsfx";
-          sha256 = "";
+          sha256 = "004l9an182z1zj996fn8jpfh4nryv1njbb8c1ki7i2fmjy7agh1b";
         }
       ];
     };
@@ -1094,7 +1094,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/AllEars.jsfx";
-          sha256 = "";
+          sha256 = "1xk6k9wqyl41mfcdg60bn8al6gph4q37agzbszjj1fcaik0fgk4b";
         }
       ];
     };
@@ -1108,7 +1108,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Altitude.jsfx";
-          sha256 = "";
+          sha256 = "10pjjz844m71zpzhd78h3k5whpbmwwi5ha13knr7hh7s0m9zdgj9";
         }
       ];
     };
@@ -1122,7 +1122,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Ambrosia.jsfx";
-          sha256 = "";
+          sha256 = "0k428r6vn5arrllpa3fhf7w8xvay9dd985l10x5c0yry3ajas6j0";
         }
       ];
     };
@@ -1136,7 +1136,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Amphitrite.jsfx";
-          sha256 = "";
+          sha256 = "02byz3a5q96g4495r06ixa9qfy47lwnwz9scrj99i1jqcr5cy10h";
         }
       ];
     };
@@ -1150,7 +1150,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Various/Amphitrite.jsfx";
-          sha256 = "";
+          sha256 = "092zzagfcfk65f4xc2c7knscnq2qwip4simn2ddpkqa2y3a20gry";
         }
       ];
     };
@@ -1164,7 +1164,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Amphitrite.jsfx";
-          sha256 = "";
+          sha256 = "1bm7dqkh09cfqdcqba7jlsa2h0agnshw7rfr9rl1pj0186w377k9";
         }
       ];
     };
@@ -1178,7 +1178,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Aurora.jsfx";
-          sha256 = "";
+          sha256 = "0iij3sx416d7xvia6s8k00lx0bbpbr49d6xmclz5kv7af5fxihxm";
         }
       ];
     };
@@ -1192,7 +1192,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Various/Aurora.jsfx";
-          sha256 = "";
+          sha256 = "1x9j6x2w6pqjwa43awbw8mk2yvd5v8rqzkns50cd54v5d4d0g5r3";
         }
       ];
     };
@@ -1206,7 +1206,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Aurora.jsfx";
-          sha256 = "";
+          sha256 = "063z59mifvrkzdbkc2q6k3k8dkzjvv2w7maasi2j02574715pggk";
         }
       ];
     };
@@ -1220,7 +1220,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/6d20f6f14741ddad919684741bb41817991ea2f6/Various/Biased.jsfx";
-          sha256 = "";
+          sha256 = "01laanm8xazrz9mkgdrr2sggblvwrqq57wq5k4b3j7fk2hl991y9";
         }
       ];
     };
@@ -1234,7 +1234,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Biquadicus.jsfx";
-          sha256 = "";
+          sha256 = "0dv1bvwcgix775dwacfpp5z0v5c4vc8g30c6jcw35xwdh6yhz6ws";
         }
       ];
     };
@@ -1248,7 +1248,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Buttress.jsfx";
-          sha256 = "";
+          sha256 = "0s740qajzv1c5g1l0plhrc04gasbjzxc4pbimb2syrfvfz2p2nly";
         }
       ];
     };
@@ -1262,7 +1262,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Various/Buttress.jsfx";
-          sha256 = "";
+          sha256 = "01l9i8k96g7z6sgqjh6iaszm7yrpspmdkij25yr82995d8c04bz5";
         }
       ];
     };
@@ -1276,7 +1276,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/690f09a383cff3e013c80649a1b0f079d8c1471e/Various/CataclysmicClipper.jsfx";
-          sha256 = "";
+          sha256 = "1f8vca6jc2yicvhb75mpj2aqhhz32lrm6m5fssv7jzgavcr9q7kz";
         }
       ];
     };
@@ -1290,7 +1290,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/2c6bded83391733d219e6bc11e709619d923d268/Various/ChannelTwister.jsfx";
-          sha256 = "";
+          sha256 = "1zl2rd5wh6s803159xbp6mm0pfgk4ildv2dr6w0f66l23ln91vc6";
         }
       ];
     };
@@ -1304,7 +1304,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/ClippySquish.jsfx";
-          sha256 = "";
+          sha256 = "07la8xvaabimcn76x2rj4pb71ic4lg90fmhbki3swla0z93giz6h";
         }
       ];
     };
@@ -1318,7 +1318,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/CoralBones.jsfx";
-          sha256 = "";
+          sha256 = "0iy2nc043vxamc6169gccd67wkb2cfkjbcifjz22y5hhrd04yzxf";
         }
       ];
     };
@@ -1332,7 +1332,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/CoralBones.jsfx";
-          sha256 = "";
+          sha256 = "0rd1x0hqmqdplgvilxxmnkspd4s7wsh9r7ym06wcy4hb7y19wvwz";
         }
       ];
     };
@@ -1346,7 +1346,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Discordia.jsfx";
-          sha256 = "";
+          sha256 = "1a5wpbqjwjwmcbhz4dw35xqiljamxmnb5rl7ii8w84azlrcbv47w";
         }
       ];
     };
@@ -1360,7 +1360,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Discordia.jsfx";
-          sha256 = "";
+          sha256 = "0l0jpq6gqkd84lyabjppyd0d6k23lp1wpfn7vwkdj90zbgvfl3sv";
         }
       ];
     };
@@ -1374,7 +1374,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/340cbc25a38e70f35b5d04fbd29be3a7480af770/Various/Discordia.jsfx";
-          sha256 = "";
+          sha256 = "1vr6g4shs7df3f06zzf0b73hh00kbs1s1ikw8h1vdanvf6cdb7xn";
         }
       ];
     };
@@ -1388,7 +1388,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Domar.jsfx";
-          sha256 = "";
+          sha256 = "0w2ja8a8ngvr7cp719gdd89mmrb5dyz757hkykhkkn11gzhr9bc0";
         }
       ];
     };
@@ -1402,7 +1402,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/10b2621ec3a03441b555f44ca65a4ea7c06959da/Various/Enyo.jsfx";
-          sha256 = "";
+          sha256 = "154j0d30ijn0pqn4hxsjcr0pz3g9nraapifw78w1sbhgj22chd3i";
         }
       ];
     };
@@ -1416,7 +1416,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Eris.jsfx";
-          sha256 = "";
+          sha256 = "16ggxkp1pjif067mpw7m4034g9sl4186pa9b55lr8rajhd5wcsxb";
         }
       ];
     };
@@ -1430,7 +1430,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Eris.jsfx";
-          sha256 = "";
+          sha256 = "1qz2ndfgqnj7cz2wncziqnny2zw0f5pldykjll22msj7m382hbaf";
         }
       ];
     };
@@ -1444,7 +1444,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Evolution.jsfx";
-          sha256 = "";
+          sha256 = "1xiad7qcavml1d9aif7vnas521q5dlb3kalj20p8krayhz88797n";
         }
       ];
     };
@@ -1458,7 +1458,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/FILM.jsfx";
-          sha256 = "";
+          sha256 = "0ka5ddn260clfyd2z696ymas4kz7xibic6zxqnbk5f02ligj6d1n";
         }
       ];
     };
@@ -1472,7 +1472,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/flattop.jsfx";
-          sha256 = "";
+          sha256 = "13agfxq4nfrdfkybbbsgkdp2v228yfs1y17hrpdlrlc7p5fbjrv8";
         }
       ];
     };
@@ -1486,7 +1486,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Flutternutter.jsfx";
-          sha256 = "";
+          sha256 = "02dc0x33q2fb30k85ylpkg637yxf1gsfskr6w0jnk6v2k8xyf804";
         }
       ];
     };
@@ -1500,7 +1500,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Heft.jsfx";
-          sha256 = "";
+          sha256 = "1j538a6mfsad4lzl1sh7bn95wl766im1wvnmjx5f95pjghxn70m5";
         }
       ];
     };
@@ -1514,7 +1514,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Heft.jsfx";
-          sha256 = "";
+          sha256 = "1acddpxbhklnx4bwffnp704ila5mk771xcfsbc9iy1qpjxw7mr0x";
         }
       ];
     };
@@ -1528,7 +1528,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Hippity%20Hoppity.jsfx";
-          sha256 = "";
+          sha256 = "1p7nwsvcf0v7inracbmz6x964ikd9ybs9q2rwr3m7s1pkfpc4cli";
         }
       ];
     };
@@ -1542,7 +1542,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/c19e7f37835b3f5d7d780e4b8c2ed2b532407117/Various/LunaEQ.jsfx";
-          sha256 = "";
+          sha256 = "0jm5ibzya9ag0blpbv6izbx69r5xwfzg76pdcnbac5ybalgc9ggx";
         }
       ];
     };
@@ -1556,7 +1556,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Lyra.jsfx";
-          sha256 = "";
+          sha256 = "1ac2m4r0krpyk0kl9myn3dambfhpkix7aw52hn97ns7gbndxswh7";
         }
       ];
     };
@@ -1570,7 +1570,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Various/Lyra.jsfx";
-          sha256 = "";
+          sha256 = "0hdgvkh49xdhs82kbphxsnqhxsyi4h14xdvqli77glr03c0jdzgf";
         }
       ];
     };
@@ -1584,7 +1584,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Lyra.jsfx";
-          sha256 = "";
+          sha256 = "1jmzfqrgi7sq3xxf3dns35k01vglpra0zyf1c8zcbi99pvhdhy8y";
         }
       ];
     };
@@ -1598,7 +1598,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/MadHatter.jsfx";
-          sha256 = "";
+          sha256 = "0lsisji8y0m527r1cz8jdygw955snh95bda9d4fvksv9d829905h";
         }
       ];
     };
@@ -1612,7 +1612,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Magnetique.jsfx";
-          sha256 = "";
+          sha256 = "018nskinb75fyc4cx7i3kbd49is4lc9dkfaj4ihf3rrb8m37jrmr";
         }
       ];
     };
@@ -1626,7 +1626,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Various/Magnetique.jsfx";
-          sha256 = "";
+          sha256 = "00cnaa378bznw9w43d060933ygna0i16hbr2xv4rds4yhl2w4cjq";
         }
       ];
     };
@@ -1640,7 +1640,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Millie.jsfx";
-          sha256 = "";
+          sha256 = "1sl7gj6kp3233f567cvjidnj6grgd1ykd8fcpm48kkc4ma965szx";
         }
       ];
     };
@@ -1654,7 +1654,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/multisine.jsfx";
-          sha256 = "";
+          sha256 = "1dkbjs11q2gh28ppdj3pb6dq9kq92wlidbcg7p9y158h7xdaal3v";
         }
       ];
     };
@@ -1668,7 +1668,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/MuTube.jsfx";
-          sha256 = "";
+          sha256 = "0bd8dq17kx8cq9wpal6j6fjnma6m8mi2j0rxk6w27ni4bxb6mb2v";
         }
       ];
     };
@@ -1682,7 +1682,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Various/MuTube.jsfx";
-          sha256 = "";
+          sha256 = "0jjjh65zzs1yi91qmp08pppgzk3v6hg7963si0hvbrldp0d51zby";
         }
       ];
     };
@@ -1696,7 +1696,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/MuTube.jsfx";
-          sha256 = "";
+          sha256 = "1kipzkm6i4s02ihkwgsjsz8pgycxf8vxa6b9hipgbxhaw0ni4p1r";
         }
       ];
     };
@@ -1710,7 +1710,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Oxonia.jsfx";
-          sha256 = "";
+          sha256 = "05njka1351rqzng695nz1plfsdrvzshxckx99yk4r4hj9jacnymd";
         }
       ];
     };
@@ -1724,7 +1724,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Oxonia.jsfx";
-          sha256 = "";
+          sha256 = "0d2y2qccg2lg5rfh1hna34277l4jg8hyz3wsz8vmsqwnz70i8w24";
         }
       ];
     };
@@ -1738,7 +1738,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Pascal.jsfx";
-          sha256 = "";
+          sha256 = "0aysvlapc2042zjawb64l51iqhfnc12w50y4biy9ddhld5qx5ivr";
         }
       ];
     };
@@ -1752,7 +1752,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Pascal.jsfx";
-          sha256 = "";
+          sha256 = "1488h89kl4mzc44c0a5iqigcypgim5x89iqncmzspisp2xknjlk8";
         }
       ];
     };
@@ -1766,7 +1766,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Phasity.jsfx";
-          sha256 = "";
+          sha256 = "0va4xl4k6gadkma7hd0m57qznsmfma3w7pglf4dswl1p9bhqksxm";
         }
       ];
     };
@@ -1780,7 +1780,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/port-and-lemon.jsfx";
-          sha256 = "";
+          sha256 = "00q01i396rwm735b917ah7bq4kgw76lzk1mqmjs95xq6hgw3dlc0";
         }
       ];
     };
@@ -1794,7 +1794,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Various/port-and-lemon.jsfx";
-          sha256 = "";
+          sha256 = "10831g67cb09h57vvahhqgxkar7xpzc6ygshrvdymqn39pgkvyc4";
         }
       ];
     };
@@ -1808,7 +1808,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/port-and-lemon.jsfx";
-          sha256 = "";
+          sha256 = "02fd6m9z5cdrbb124cc0xhk6d8yw3vsbw7n5g1d5b8hpbvzwqqbp";
         }
       ];
     };
@@ -1822,7 +1822,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/f964690cc7c62d408d9b818b5e6fd556b1877ad8/Various/PrimalOvertones.jsfx";
-          sha256 = "";
+          sha256 = "1qwsv11ridqj0byys3bwq8azvzvmdmmw984ih69jf4hr9fr1li0v";
         }
       ];
     };
@@ -1836,7 +1836,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/a47cf7bfe49d6cfcfe03caaabb9974164c9fc5d8/Various/QuantumGain.jsfx";
-          sha256 = "";
+          sha256 = "0h813zlfbmxxii2dihn9xsxlg05jfwq4b3gikxzd4bfhwxplxfv4";
         }
       ];
     };
@@ -1850,7 +1850,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/43742e4c1c501d1329e0fead54367f247e805d18/Various/QuantumPan.jsfx";
-          sha256 = "";
+          sha256 = "0f2m84gvh7fp1fn8z3rl73x6c5d1ir29accp7cswdr67a4bpj3mh";
         }
       ];
     };
@@ -1864,7 +1864,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Reelty.jsfx";
-          sha256 = "";
+          sha256 = "1dldr0mcrlma9x7zlfp3rhpssxpwpjz3ifgjy4lqv2s2q9nrk45m";
         }
       ];
     };
@@ -1878,7 +1878,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/ded5deee6a7f00bfd83bfccf619706f874d3503c/Various/Saccharine.jsfx";
-          sha256 = "";
+          sha256 = "0myh7zckh7bfvdlwn92dylrfbik0clg7iimfqmynmk1hrzaql6pn";
         }
       ];
     };
@@ -1892,7 +1892,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/SeriouslyAmazingWidener.jsfx";
-          sha256 = "";
+          sha256 = "07dim2wx2d3bf2qn3550v6wa8a5i14cmm35inzawghiknd45w3l3";
         }
       ];
     };
@@ -1906,7 +1906,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/SeriouslyAmazingWidener2.jsfx";
-          sha256 = "";
+          sha256 = "0fmnc9q5d72ww83l8wc12infv6qndnmp7pqngxswffbn6x8lxj37";
         }
       ];
     };
@@ -1920,7 +1920,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/SeriouslyAmazingWidener2.jsfx";
-          sha256 = "";
+          sha256 = "0p4sxlfhbg204zck5ancbvlh5wnmmcx4r2fc390kl3i16dzz34g9";
         }
       ];
     };
@@ -1934,7 +1934,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Sillons.jsfx";
-          sha256 = "";
+          sha256 = "0f64jjl1zz0hdj0rpq87nvfnmi38jrcq9qw3i2nkh3r73hyrnasf";
         }
       ];
     };
@@ -1948,7 +1948,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Various/Sillons.jsfx";
-          sha256 = "";
+          sha256 = "1rlq5nq8yl2rwvn4024pizrh3knx6xjw2wd8gd51dls6xggjysq8";
         }
       ];
     };
@@ -1962,7 +1962,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Sillons.jsfx";
-          sha256 = "";
+          sha256 = "12hmy01jg7h44xa27g0ak1bnf0126wzcfa2915641fs9k8z7qwz6";
         }
       ];
     };
@@ -1976,7 +1976,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Snippity.jsfx";
-          sha256 = "";
+          sha256 = "1jm69g5vxniql6nwqr3g73wakxv1db1apzfd7wrp7lwyp564d5c9";
         }
       ];
     };
@@ -1990,7 +1990,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Solar_Wind.jsfx";
-          sha256 = "";
+          sha256 = "00mygqxjc7b25s4b34v6prawji83li7a26799rblx4n6h1gplfk0";
         }
       ];
     };
@@ -2004,7 +2004,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Solar_Wind.jsfx";
-          sha256 = "";
+          sha256 = "0il9p1bz88znlxahi8iipixzpvqxmajsgsppvxpz52p791raxqp5";
         }
       ];
     };
@@ -2018,7 +2018,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Titan.jsfx";
-          sha256 = "";
+          sha256 = "0gp4g0l5kv848cm73slmfz8khf994291kczvyz4zcpx21j097hpq";
         }
       ];
     };
@@ -2032,7 +2032,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Titan.jsfx";
-          sha256 = "";
+          sha256 = "1ni9bsg22nrj7qbcicgi1bq396zvlavrvkn54n82lx28fqgvbdlv";
         }
       ];
     };
@@ -2046,7 +2046,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/bc2a0d756858f03479dfefa4e5248075f1471521/Various/TOED.jsfx";
-          sha256 = "";
+          sha256 = "0z4qiqz64f0qg0d3nqzibhl4vz0jlp7wnwc8fykfj2pxxc2d79yk";
         }
       ];
     };
@@ -2060,7 +2060,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/d59635b62a7fde67f2bf3d0bed5fc7b6e0b20e08/Various/Typhon.jsfx";
-          sha256 = "";
+          sha256 = "1dzkg4nvz1f83s71r5q40rhbzhjf9j3ffks19kyr1glkzv1h879i";
         }
       ];
     };
@@ -2074,7 +2074,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Valvity.jsfx";
-          sha256 = "";
+          sha256 = "08v977v3l73zbvihsi9bmpx1gn9hid0mhh1q1daq8lys291ip9nd";
         }
       ];
     };
@@ -2088,7 +2088,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/6d20f6f14741ddad919684741bb41817991ea2f6/Various/Walkety.jsfx";
-          sha256 = "";
+          sha256 = "11g5b2rkrsw4vfh860kj4il9hwp9wmd2pl54pva2naffs0d97jxi";
         }
       ];
     };

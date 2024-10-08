@@ -14,7 +14,7 @@
         {
           path = ''Default_4.0 + width.ReaperThemeZip'';
           url = "http://stash.reaper.fm/27310/Default_4.0_width.ReaperThemeZip";
-          sha256 = "";
+          sha256 = "1lzrv9ygdbq9zr4d2178ab4s1iwbhlrlwzycz68jpn4knc02rpsp";
         }
       ];
     };
@@ -28,7 +28,7 @@
         {
           path = ''Default 5.0 Nitpicky Edition.ReaperThemeZip'';
           url = "https://stash.reaper.fm/24878/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip";
-          sha256 = "";
+          sha256 = "1py8d83zpflr35r50vhz2bvhbgx7fbcgysgklmgdizfhksrk71md";
         }
       ];
     };
@@ -42,7 +42,7 @@
         {
           path = ''Default 5.0 Nitpicky Edition.ReaperThemeZip'';
           url = "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1";
-          sha256 = "";
+          sha256 = "0kqkjhs6s7pdbg7x3yd41jgljix5fdmb7j32hhsv9ari1l95nrfp";
         }
       ];
     };
@@ -56,7 +56,7 @@
         {
           path = ''RADO-V5-ARTEK.ReaperThemeZip'';
           url = "https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/989f3cee00084865ae6a0a35eba70902e706f35b/RADO-V5-ARTEK.ReaperThemeZip";
-          sha256 = "";
+          sha256 = "16h49g0flk7anlnvsmrrhp4f8k5fijn08zp2a5aazmdlqrshg27s";
         }
       ];
     };
@@ -70,7 +70,7 @@
         {
           path = ''Default_5_Dark.ReaperThemeZip'';
           url = "http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip";
-          sha256 = "";
+          sha256 = "1h85dmfpmql9750nfhkhmssl6596q223kbfx9rq20x37d1wjjrhp";
         }
       ];
     };
@@ -84,7 +84,7 @@
         {
           path = ''Default_5_Dark.ReaperThemeZip'';
           url = "http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip";
-          sha256 = "";
+          sha256 = "1h85dmfpmql9750nfhkhmssl6596q223kbfx9rq20x37d1wjjrhp";
         }
       ];
     };
@@ -98,7 +98,7 @@
         {
           path = ''Default_5_Dark_Extended.ReaperThemeZip'';
           url = "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip";
-          sha256 = "";
+          sha256 = "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z";
         }
       ];
     };
@@ -112,7 +112,7 @@
         {
           path = ''Default_5_Dark_Extended.ReaperThemeZip'';
           url = "http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip";
-          sha256 = "";
+          sha256 = "0zbjnrxbd0pzjf1ll8m94ji06spxv9yhmjmc7l4pw9nwcdw5gl4z";
         }
       ];
     };
