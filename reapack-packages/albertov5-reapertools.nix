@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   albertov5-reapertools = {
     cyclegrid-data-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cyclegrid-data-1-0";
       indexName = "AlbertoV5-ReaperTools";
       categoryName = "CycleGrid";
@@ -24,7 +25,7 @@
       ];
     };
     link-multichannel-fxs-parameters-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-multichannel-fxs-parameters-lua-1-0";
       indexName = "AlbertoV5-ReaperTools";
       categoryName = "Link Multichannel FXs Parameters";
@@ -38,7 +39,7 @@
       ];
     };
     liszt-data-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "liszt-data-0-1-1";
       indexName = "AlbertoV5-ReaperTools";
       categoryName = "liszt";
@@ -62,7 +63,7 @@
       ];
     };
     liszt-data-0-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "liszt-data-0-1-2";
       indexName = "AlbertoV5-ReaperTools";
       categoryName = "liszt";
@@ -86,7 +87,7 @@
       ];
     };
     liszt-data-0-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "liszt-data-0-1-3";
       indexName = "AlbertoV5-ReaperTools";
       categoryName = "liszt";
@@ -110,7 +111,7 @@
       ];
     };
     liszt-data-0-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "liszt-data-0-1-4";
       indexName = "AlbertoV5-ReaperTools";
       categoryName = "liszt";
@@ -134,7 +135,7 @@
       ];
     };
     stoicosc-data-0-9-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stoicosc-data-0-9-0";
       indexName = "AlbertoV5-ReaperTools";
       categoryName = "OSC";
@@ -143,22 +144,22 @@
         {
           path = ''stoicOSC/stoic.reaperOSC'';
           url = "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.ReaperOSC";
-          sha256 = "0m1i58xndw7mq20n5dqpgva7wk4cf7jwn1ywk8sg15wqz30g8z82";
+          sha256 = "1jgw88bfik7a0cwdq971pqhncy5n5j4vw8wmsxy46qgy2gsnkqyk";
         }
         {
           path = ''stoicOSC/stoic.tosc'';
           url = "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.tosc";
-          sha256 = "123aygycbr4wcdc86nspngssz2zl5zjfv45xp9hyb6i3lpg3n393";
+          sha256 = "095amaq655f2p4xqgs46d992mm3c37dj5amb0j15y60yqmz6x1hf";
         }
         {
           path = ''stoicOSC/stoic.xml'';
           url = "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.xml";
-          sha256 = "1bqb9b7gn4298qpqdk4rvk6f6lw0h3av8aj1lam4zckksaqwna7f";
+          sha256 = "1p1d1ch99l1yc9q6msi0mw5q4srn94kksfdv1asvb226hvv88bni";
         }
       ];
     };
     stoicosc-data-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stoicosc-data-0-1";
       indexName = "AlbertoV5-ReaperTools";
       categoryName = "OSC";

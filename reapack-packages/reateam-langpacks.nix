@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   reateam-langpacks = {
     midi-editor-actions-active-take-only-vs-all-editable-reaperlangpack-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-editor-actions-active-take-only-vs-all-editable-reaperlangpack-1-0";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -19,7 +20,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-39";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -33,7 +34,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-41";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -47,7 +48,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-42";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -61,7 +62,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-43";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -75,7 +76,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-43-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-43-1";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -89,7 +90,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-46";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -103,7 +104,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-46-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-46-1";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -117,7 +118,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-47";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -131,7 +132,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-49";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -145,7 +146,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-51";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -159,7 +160,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-52";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -173,7 +174,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-53";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -187,7 +188,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-53-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-53-1";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -201,7 +202,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-57";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -215,7 +216,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-58";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -229,7 +230,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-60";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -243,7 +244,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-68 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-68";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -257,7 +258,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-69 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-69";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -271,7 +272,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-71";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -285,7 +286,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-72";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -299,7 +300,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-73";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -313,7 +314,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-75";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -327,7 +328,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-77 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-77";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -341,7 +342,7 @@
       ];
     };
     pt-br-brazilian-reaperplussws-reaperlangpack-6-79 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pt-br-brazilian-reaperplussws-reaperlangpack-6-79";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -365,7 +366,7 @@
       ];
     };
     reaper-sws-ru-reapack-utf8-reaperlangpack-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-sws-ru-reapack-utf8-reaperlangpack-1-0";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -379,7 +380,7 @@
       ];
     };
     reaper-sws-ru-reapack-utf8-reaperlangpack-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-sws-ru-reapack-utf8-reaperlangpack-1-1";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -393,7 +394,7 @@
       ];
     };
     reaper-sws-ru-reapack-utf8-reaperlangpack-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-sws-ru-reapack-utf8-reaperlangpack-1-1-2";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -407,7 +408,7 @@
       ];
     };
     russian-mig-reaperlangpack-7-15plusdev0429 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "russian-mig-reaperlangpack-7-15plusdev0429";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -421,7 +422,7 @@
       ];
     };
     russian-mig-reaperlangpack-7-15plusdev0430 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "russian-mig-reaperlangpack-7-15plusdev0430";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -435,7 +436,7 @@
       ];
     };
     russian-mig-reaperlangpack-7-15plusdev0501 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "russian-mig-reaperlangpack-7-15plusdev0501";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -449,7 +450,7 @@
       ];
     };
     russian-mig-reaperlangpack-7-15plusdev0502 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "russian-mig-reaperlangpack-7-15plusdev0502";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -463,7 +464,7 @@
       ];
     };
     russian-mig-reaperlangpack-7-15plusdev0506 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "russian-mig-reaperlangpack-7-15plusdev0506";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -477,7 +478,7 @@
       ];
     };
     russian-mig-reaperlangpack-7-15plusdev0509 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "russian-mig-reaperlangpack-7-15plusdev0509";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -491,7 +492,7 @@
       ];
     };
     russian-mig-reaperlangpack-7-16plusrc1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "russian-mig-reaperlangpack-7-16plusrc1";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -505,7 +506,7 @@
       ];
     };
     russian-mig-reaperlangpack-7-16plusrc2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "russian-mig-reaperlangpack-7-16plusrc2";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -519,7 +520,7 @@
       ];
     };
     russian-mig-reaperlangpack-7-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "russian-mig-reaperlangpack-7-16";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -533,7 +534,7 @@
       ];
     };
     russian-mig-reaperlangpack-7-16plusdev0524 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "russian-mig-reaperlangpack-7-16plusdev0524";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -547,7 +548,7 @@
       ];
     };
     russian-mig-reaperlangpack-7-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "russian-mig-reaperlangpack-7-19";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -561,7 +562,7 @@
       ];
     };
     russian-mig-reaperlangpack-7-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "russian-mig-reaperlangpack-7-20";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -575,7 +576,7 @@
       ];
     };
     russian-mig-reaperlangpack-7-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "russian-mig-reaperlangpack-7-21";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -589,7 +590,7 @@
       ];
     };
     russian-mig-reaperlangpack-7-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "russian-mig-reaperlangpack-7-24";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";
@@ -603,7 +604,7 @@
       ];
     };
     spanishla-reaperlangpack-6-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spanishla-reaperlangpack-6-45";
       indexName = "ReaTeam LangPacks";
       categoryName = "Translations";

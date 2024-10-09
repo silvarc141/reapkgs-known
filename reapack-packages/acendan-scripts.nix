@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   acendan-scripts = {
     acendan-lua-utilities-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-2-0";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -19,7 +20,7 @@
       ];
     };
     acendan-lua-utilities-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-2-1";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -33,7 +34,7 @@
       ];
     };
     acendan-lua-utilities-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-2-2";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -47,7 +48,7 @@
       ];
     };
     acendan-lua-utilities-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-2-3";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -61,7 +62,7 @@
       ];
     };
     acendan-lua-utilities-lua-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-2-4";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -75,7 +76,7 @@
       ];
     };
     acendan-lua-utilities-lua-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-2-5";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -89,7 +90,7 @@
       ];
     };
     acendan-lua-utilities-lua-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-2-6";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -103,7 +104,7 @@
       ];
     };
     acendan-lua-utilities-lua-2-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-2-6-1";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -117,7 +118,7 @@
       ];
     };
     acendan-lua-utilities-lua-2-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-2-6-2";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -131,7 +132,7 @@
       ];
     };
     acendan-lua-utilities-lua-2-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-2-7";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -145,7 +146,7 @@
       ];
     };
     acendan-lua-utilities-lua-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-3-0";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -159,7 +160,7 @@
       ];
     };
     acendan-lua-utilities-lua-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-3-1";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -173,7 +174,7 @@
       ];
     };
     acendan-lua-utilities-lua-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-3-2";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -187,7 +188,7 @@
       ];
     };
     acendan-lua-utilities-lua-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-3-3";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -201,7 +202,7 @@
       ];
     };
     acendan-lua-utilities-lua-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-3-4";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -215,7 +216,7 @@
       ];
     };
     acendan-lua-utilities-lua-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-3-5";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -229,7 +230,7 @@
       ];
     };
     acendan-lua-utilities-lua-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-3-6";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -243,7 +244,7 @@
       ];
     };
     acendan-lua-utilities-lua-3-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-3-7";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -257,7 +258,7 @@
       ];
     };
     acendan-lua-utilities-lua-3-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-3-8";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -271,7 +272,7 @@
       ];
     };
     acendan-lua-utilities-lua-3-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-3-9";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -285,7 +286,7 @@
       ];
     };
     acendan-lua-utilities-lua-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-4-0";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -299,7 +300,7 @@
       ];
     };
     acendan-lua-utilities-lua-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-4-1";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -313,7 +314,7 @@
       ];
     };
     acendan-lua-utilities-lua-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-4-2";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -327,7 +328,7 @@
       ];
     };
     acendan-lua-utilities-lua-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-4-3";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -341,7 +342,7 @@
       ];
     };
     acendan-lua-utilities-lua-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-4-4";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -355,7 +356,7 @@
       ];
     };
     acendan-lua-utilities-lua-4-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-4-5";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -369,7 +370,7 @@
       ];
     };
     acendan-lua-utilities-lua-4-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-4-6";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -383,7 +384,7 @@
       ];
     };
     acendan-lua-utilities-lua-4-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-4-7";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -397,7 +398,7 @@
       ];
     };
     acendan-lua-utilities-lua-4-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-4-8";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -411,7 +412,7 @@
       ];
     };
     acendan-lua-utilities-lua-4-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-4-9";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -425,7 +426,7 @@
       ];
     };
     acendan-lua-utilities-lua-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-5-0";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -439,7 +440,7 @@
       ];
     };
     acendan-lua-utilities-lua-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-5-1";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -453,7 +454,7 @@
       ];
     };
     acendan-lua-utilities-lua-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-5-2";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -467,7 +468,7 @@
       ];
     };
     acendan-lua-utilities-lua-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-5-3";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -481,7 +482,7 @@
       ];
     };
     acendan-lua-utilities-lua-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-5-4";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -495,7 +496,7 @@
       ];
     };
     acendan-lua-utilities-lua-5-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-5-5";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -509,7 +510,7 @@
       ];
     };
     acendan-lua-utilities-lua-5-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-5-6";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -523,7 +524,7 @@
       ];
     };
     acendan-lua-utilities-lua-5-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-5-7";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -537,7 +538,7 @@
       ];
     };
     acendan-lua-utilities-lua-5-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-5-8";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -551,7 +552,7 @@
       ];
     };
     acendan-lua-utilities-lua-5-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-5-9";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -565,7 +566,7 @@
       ];
     };
     acendan-lua-utilities-lua-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-6-0";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -579,7 +580,7 @@
       ];
     };
     acendan-lua-utilities-lua-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-6-1";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -593,7 +594,7 @@
       ];
     };
     acendan-lua-utilities-lua-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-6-2";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -607,7 +608,7 @@
       ];
     };
     acendan-lua-utilities-lua-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-6-3";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -621,7 +622,7 @@
       ];
     };
     acendan-lua-utilities-lua-6-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-6-4";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -635,7 +636,7 @@
       ];
     };
     acendan-lua-utilities-lua-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-6-5";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -649,7 +650,7 @@
       ];
     };
     acendan-lua-utilities-lua-6-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-6-6";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -663,7 +664,7 @@
       ];
     };
     acendan-lua-utilities-lua-6-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-6-7";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -677,7 +678,7 @@
       ];
     };
     acendan-lua-utilities-lua-6-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-6-8";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -691,7 +692,7 @@
       ];
     };
     acendan-lua-utilities-lua-6-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-6-9";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -705,7 +706,7 @@
       ];
     };
     acendan-lua-utilities-lua-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-7-0";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -719,7 +720,7 @@
       ];
     };
     acendan-lua-utilities-lua-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-7-1";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -733,7 +734,7 @@
       ];
     };
     acendan-lua-utilities-lua-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-7-2";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -747,7 +748,7 @@
       ];
     };
     acendan-lua-utilities-lua-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-7-3";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -761,7 +762,7 @@
       ];
     };
     acendan-lua-utilities-lua-7-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-7-4";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -775,7 +776,7 @@
       ];
     };
     acendan-lua-utilities-lua-7-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-7-5";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -789,7 +790,7 @@
       ];
     };
     acendan-lua-utilities-lua-7-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-7-6";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -803,7 +804,7 @@
       ];
     };
     acendan-lua-utilities-lua-7-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-7-7";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -817,7 +818,7 @@
       ];
     };
     acendan-lua-utilities-lua-8-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-8-0";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -836,7 +837,7 @@
       ];
     };
     acendan-lua-utilities-lua-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-8-1";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -855,7 +856,7 @@
       ];
     };
     acendan-lua-utilities-lua-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-8-2";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -874,7 +875,7 @@
       ];
     };
     acendan-lua-utilities-lua-8-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-8-3";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -893,7 +894,7 @@
       ];
     };
     acendan-lua-utilities-lua-8-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-8-4";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -912,7 +913,7 @@
       ];
     };
     acendan-lua-utilities-lua-8-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-8-5";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -931,7 +932,7 @@
       ];
     };
     acendan-lua-utilities-lua-8-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-8-6";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -950,7 +951,7 @@
       ];
     };
     acendan-lua-utilities-lua-8-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-8-7";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -969,7 +970,7 @@
       ];
     };
     acendan-lua-utilities-lua-8-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-8-8";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -988,7 +989,7 @@
       ];
     };
     acendan-lua-utilities-lua-8-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-lua-utilities-lua-8-9";
       indexName = "ACendan Scripts";
       categoryName = "Development";
@@ -1007,7 +1008,7 @@
       ];
     };
     acendan-copy-selected-items-take-envelope-to-selected-automation-envelope-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-copy-selected-items-take-envelope-to-selected-automation-envelope-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Envelopes";
@@ -1036,7 +1037,7 @@
       ];
     };
     acendan-copy-selected-items-take-envelope-to-selected-automation-envelope-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-copy-selected-items-take-envelope-to-selected-automation-envelope-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Envelopes";
@@ -1065,7 +1066,7 @@
       ];
     };
     acendan-insert-automation-items-on-all-selected-tracks-envelopes-in-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-automation-items-on-all-selected-tracks-envelopes-in-time-selection-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Envelopes";
@@ -1079,7 +1080,7 @@
       ];
     };
     acendan-insert-automation-items-on-all-selected-tracks-envelopes-in-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-automation-items-on-all-selected-tracks-envelopes-in-time-selection-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Envelopes";
@@ -1093,7 +1094,7 @@
       ];
     };
     acendan-open-envelope-for-selected-tracks-and-create-automation-items-for-track-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-open-envelope-for-selected-tracks-and-create-automation-items-for-track-items-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Envelopes";
@@ -1132,7 +1133,7 @@
       ];
     };
     acendan-open-envelope-for-selected-tracks-and-create-automation-items-for-track-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-open-envelope-for-selected-tracks-and-create-automation-items-for-track-items-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Envelopes";
@@ -1171,7 +1172,7 @@
       ];
     };
     acendan-open-envelope-for-selected-tracks-and-create-automation-items-for-track-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-open-envelope-for-selected-tracks-and-create-automation-items-for-track-items-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Envelopes";
@@ -1210,7 +1211,7 @@
       ];
     };
     acendan-open-envelope-for-selected-tracks-and-create-automation-items-for-track-items-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-open-envelope-for-selected-tracks-and-create-automation-items-for-track-items-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Envelopes";
@@ -1249,7 +1250,7 @@
       ];
     };
     acendan-set-closest-envelope-point-shape-at-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-closest-envelope-point-shape-at-mouse-cursor-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Envelopes";
@@ -1288,7 +1289,7 @@
       ];
     };
     acendan-set-closest-envelope-point-shape-at-mouse-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-closest-envelope-point-shape-at-mouse-cursor-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Envelopes";
@@ -1327,7 +1328,7 @@
       ];
     };
     acendan-append-selected-items-bwf-metadata-subfield-to-item-name-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-append-selected-items-bwf-metadata-subfield-to-item-name-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1361,7 +1362,7 @@
       ];
     };
     acendan-append-selected-items-bwf-metadata-subfield-to-item-name-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-append-selected-items-bwf-metadata-subfield-to-item-name-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1395,7 +1396,7 @@
       ];
     };
     acendan-append-selected-items-bwf-metadata-subfield-to-item-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-append-selected-items-bwf-metadata-subfield-to-item-notes-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1429,7 +1430,7 @@
       ];
     };
     acendan-clear-glitchy-stutter-generator-stored-values-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-clear-glitchy-stutter-generator-stored-values-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1443,7 +1444,7 @@
       ];
     };
     acendan-clear-glitchy-stutter-generator-stored-values-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-clear-glitchy-stutter-generator-stored-values-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1457,7 +1458,7 @@
       ];
     };
     acendan-copy-first-selected-item-active-take-pitch-shift-mode-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-copy-first-selected-item-active-take-pitch-shift-mode-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1471,7 +1472,7 @@
       ];
     };
     acendan-copy-selected-items-to-selected-track-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-copy-selected-items-to-selected-track-lua-0-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1485,7 +1486,7 @@
       ];
     };
     acendan-copy-selected-items-to-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-copy-selected-items-to-selected-track-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1499,7 +1500,7 @@
       ];
     };
     acendan-copy-selected-items-to-track-prompt-for-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-copy-selected-items-to-track-prompt-for-track-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1513,7 +1514,7 @@
       ];
     };
     acendan-copy-selected-items-to-track-prompt-for-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-copy-selected-items-to-track-prompt-for-track-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1527,7 +1528,7 @@
       ];
     };
     acendan-count-number-of-selected-items-in-media-explorer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-count-number-of-selected-items-in-media-explorer-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1541,7 +1542,7 @@
       ];
     };
     acendan-count-number-of-selected-items-in-media-explorer-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-count-number-of-selected-items-in-media-explorer-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1555,7 +1556,7 @@
       ];
     };
     acendan-count-number-of-selected-items-in-media-explorer-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-count-number-of-selected-items-in-media-explorer-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1569,7 +1570,7 @@
       ];
     };
     acendan-count-number-of-selected-items-in-media-explorer-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-count-number-of-selected-items-in-media-explorer-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1583,7 +1584,7 @@
       ];
     };
     acendan-count-number-of-unique-samples-in-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-count-number-of-unique-samples-in-selected-items-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1597,7 +1598,7 @@
       ];
     };
     acendan-count-number-of-unique-samples-in-selected-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-count-number-of-unique-samples-in-selected-items-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1611,7 +1612,7 @@
       ];
     };
     acendan-count-number-of-unique-samples-in-selected-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-count-number-of-unique-samples-in-selected-items-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1625,7 +1626,7 @@
       ];
     };
     acendan-glue-each-item-in-selected-track-separately-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-glue-each-item-in-selected-track-separately-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1639,7 +1640,7 @@
       ];
     };
     acendan-glue-each-item-in-selected-track-separately-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-glue-each-item-in-selected-track-separately-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1653,7 +1654,7 @@
       ];
     };
     acendan-horizontal-reorder-selected-items-by-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-horizontal-reorder-selected-items-by-color-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1667,7 +1668,7 @@
       ];
     };
     acendan-horizontal-reorder-selected-items-by-color-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-horizontal-reorder-selected-items-by-color-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1681,7 +1682,7 @@
       ];
     };
     acendan-horizontal-reorder-selected-items-by-color-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-horizontal-reorder-selected-items-by-color-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1695,7 +1696,7 @@
       ];
     };
     acendan-horizontal-reorder-selected-items-by-color-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-horizontal-reorder-selected-items-by-color-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1709,7 +1710,7 @@
       ];
     };
     acendan-horizontal-reorder-selected-items-by-color-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-horizontal-reorder-selected-items-by-color-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1723,7 +1724,7 @@
       ];
     };
     acendan-import-selected-item-names-from-text-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-import-selected-item-names-from-text-file-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1737,7 +1738,7 @@
       ];
     };
     acendan-import-selected-item-names-from-text-file-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-import-selected-item-names-from-text-file-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1751,7 +1752,7 @@
       ];
     };
     acendan-import-selected-item-names-from-text-file-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-import-selected-item-names-from-text-file-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1765,7 +1766,7 @@
       ];
     };
     acendan-item-curve-settings-manager-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-item-curve-settings-manager-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1779,7 +1780,7 @@
       ];
     };
     acendan-item-curve-settings-manager-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-item-curve-settings-manager-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1793,7 +1794,7 @@
       ];
     };
     acendan-item-curve-settings-manager-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-item-curve-settings-manager-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1807,7 +1808,7 @@
       ];
     };
     acendan-item-curve-settings-manager-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-item-curve-settings-manager-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1821,7 +1822,7 @@
       ];
     };
     acendan-item-curve-settings-manager-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-item-curve-settings-manager-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1835,7 +1836,7 @@
       ];
     };
     acendan-mixpre-split-items-by-channel-to-new-tracks-and-name-with-metadata-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mixpre-split-items-by-channel-to-new-tracks-and-name-with-metadata-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1849,7 +1850,7 @@
       ];
     };
     acendan-mixpre-split-items-by-channel-to-new-tracks-and-name-with-metadata-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mixpre-split-items-by-channel-to-new-tracks-and-name-with-metadata-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1863,7 +1864,7 @@
       ];
     };
     acendan-mixpre-split-items-by-channel-to-new-tracks-and-name-with-metadata-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mixpre-split-items-by-channel-to-new-tracks-and-name-with-metadata-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1877,7 +1878,7 @@
       ];
     };
     acendan-mixpre-split-items-by-channel-to-new-tracks-and-name-with-metadata-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mixpre-split-items-by-channel-to-new-tracks-and-name-with-metadata-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1891,7 +1892,7 @@
       ];
     };
     acendan-mixpre-split-items-by-channel-to-new-tracks-and-name-with-metadata-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mixpre-split-items-by-channel-to-new-tracks-and-name-with-metadata-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1905,7 +1906,7 @@
       ];
     };
     acendan-mousewheel-adjust-pitch-of-item-under-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-adjust-pitch-of-item-under-cursor-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1919,7 +1920,7 @@
       ];
     };
     acendan-mousewheel-adjust-pitch-of-item-under-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-adjust-pitch-of-item-under-cursor-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1933,7 +1934,7 @@
       ];
     };
     acendan-mousewheel-adjust-source-volume-of-item-active-take-under-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-adjust-source-volume-of-item-active-take-under-cursor-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1947,7 +1948,7 @@
       ];
     };
     acendan-mousewheel-adjust-source-volume-of-item-active-take-under-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-adjust-source-volume-of-item-active-take-under-cursor-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1961,7 +1962,7 @@
       ];
     };
     acendan-mousewheel-adjust-source-volume-of-item-active-take-under-cursor-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-adjust-source-volume-of-item-active-take-under-cursor-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1975,7 +1976,7 @@
       ];
     };
     acendan-mousewheel-adjust-source-volume-of-item-active-take-under-cursor-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-adjust-source-volume-of-item-active-take-under-cursor-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -1989,7 +1990,7 @@
       ];
     };
     acendan-mousewheel-adjust-volume-of-item-under-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-adjust-volume-of-item-under-cursor-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2003,7 +2004,7 @@
       ];
     };
     acendan-mousewheel-adjust-volume-of-item-under-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-adjust-volume-of-item-under-cursor-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2017,7 +2018,7 @@
       ];
     };
     acendan-mousewheel-adjust-volume-of-item-under-cursor-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-adjust-volume-of-item-under-cursor-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2031,7 +2032,7 @@
       ];
     };
     acendan-mousewheel-adjust-volume-of-item-under-cursor-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-adjust-volume-of-item-under-cursor-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2045,7 +2046,7 @@
       ];
     };
     acendan-mousewheel-adjust-volume-of-item-under-cursor-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-adjust-volume-of-item-under-cursor-lua-1-5";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2059,7 +2060,7 @@
       ];
     };
     acendan-mousewheel-adjust-volume-of-item-under-cursor-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-adjust-volume-of-item-under-cursor-lua-1-6";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2073,7 +2074,7 @@
       ];
     };
     acendan-mousewheel-to-change-volume-for-all-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-to-change-volume-for-all-selected-items-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2087,7 +2088,7 @@
       ];
     };
     acendan-mousewheel-to-change-volume-for-all-selected-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-to-change-volume-for-all-selected-items-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2101,7 +2102,7 @@
       ];
     };
     acendan-mousewheel-to-change-volume-for-all-selected-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-to-change-volume-for-all-selected-items-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2115,7 +2116,7 @@
       ];
     };
     acendan-mousewheel-to-change-volume-for-all-selected-items-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-to-change-volume-for-all-selected-items-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2129,7 +2130,7 @@
       ];
     };
     acendan-mousewheel-to-move-selected-items-up-down-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-to-move-selected-items-up-down-tracks-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2143,7 +2144,7 @@
       ];
     };
     acendan-mousewheel-to-zoom-items-peaks-view-gain-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mousewheel-to-zoom-items-peaks-view-gain-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2157,7 +2158,7 @@
       ];
     };
     acendan-mpl-search-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-mpl-search-items-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2171,7 +2172,7 @@
       ];
     };
     acendan-organize-selected-items-by-channel-count-on-new-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-organize-selected-items-by-channel-count-on-new-tracks-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2185,7 +2186,7 @@
       ];
     };
     acendan-organize-selected-items-by-channel-count-on-new-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-organize-selected-items-by-channel-count-on-new-tracks-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2199,7 +2200,7 @@
       ];
     };
     acendan-organize-selected-items-by-similar-names-on-new-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-organize-selected-items-by-similar-names-on-new-tracks-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2213,7 +2214,7 @@
       ];
     };
     acendan-organize-selected-items-by-similar-names-on-new-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-organize-selected-items-by-similar-names-on-new-tracks-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2227,7 +2228,7 @@
       ];
     };
     acendan-organize-selected-items-by-similar-names-on-new-tracks-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-organize-selected-items-by-similar-names-on-new-tracks-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2241,7 +2242,7 @@
       ];
     };
     acendan-paste-selected-items-active-take-pitch-shift-mode-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-paste-selected-items-active-take-pitch-shift-mode-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2255,7 +2256,7 @@
       ];
     };
     acendan-random-glitchy-stutter-generator-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-random-glitchy-stutter-generator-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2269,7 +2270,7 @@
       ];
     };
     acendan-random-glitchy-stutter-generator-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-random-glitchy-stutter-generator-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2283,7 +2284,7 @@
       ];
     };
     acendan-reset-item-properties-pitch-adjustment-and-playback-rate-to-default-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-reset-item-properties-pitch-adjustment-and-playback-rate-to-default-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2297,7 +2298,7 @@
       ];
     };
     acendan-restore-stretch-markers-in-selected-items-from-named-project-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-restore-stretch-markers-in-selected-items-from-named-project-markers-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2311,7 +2312,7 @@
       ];
     };
     acendan-restore-stretch-markers-in-selected-items-from-named-project-markers-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-restore-stretch-markers-in-selected-items-from-named-project-markers-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2325,7 +2326,7 @@
       ];
     };
     acendan-save-stretch-markers-in-selected-items-as-named-project-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-save-stretch-markers-in-selected-items-as-named-project-markers-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2339,7 +2340,7 @@
       ];
     };
     acendan-save-stretch-markers-in-selected-items-as-named-project-markers-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-save-stretch-markers-in-selected-items-as-named-project-markers-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2353,7 +2354,7 @@
       ];
     };
     acendan-select-next-item-in-track-keep-current-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-select-next-item-in-track-keep-current-selection-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2367,7 +2368,7 @@
       ];
     };
     acendan-set-distance-between-items-to-x-seconds-track-respective-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-distance-between-items-to-x-seconds-track-respective-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2401,7 +2402,7 @@
       ];
     };
     acendan-set-distance-between-items-to-xxxx-milliseconds-track-respective-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-distance-between-items-to-xxxx-milliseconds-track-respective-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2420,7 +2421,7 @@
       ];
     };
     acendan-set-distance-between-items-to-xxxx-milliseconds-track-respective-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-distance-between-items-to-xxxx-milliseconds-track-respective-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2454,7 +2455,7 @@
       ];
     };
     acendan-set-selected-items-bwf-metadata-subfield-to-track-name-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-selected-items-bwf-metadata-subfield-to-track-name-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2488,7 +2489,7 @@
       ];
     };
     acendan-set-selected-items-bwf-metadata-subfield-to-track-name-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-selected-items-bwf-metadata-subfield-to-track-name-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2522,7 +2523,7 @@
       ];
     };
     acendan-shuffle-mode-move-all-items-left-continuously-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-shuffle-mode-move-all-items-left-continuously-background-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2536,7 +2537,7 @@
       ];
     };
     acendan-shuffle-mode-move-all-items-left-continuously-background-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-shuffle-mode-move-all-items-left-continuously-background-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2550,7 +2551,7 @@
       ];
     };
     acendan-sort-selected-items-order-by-item-names-alphabetically-ignoring-capitalization-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-sort-selected-items-order-by-item-names-alphabetically-ignoring-capitalization-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2564,7 +2565,7 @@
       ];
     };
     acendan-sort-selected-items-order-by-peak-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-sort-selected-items-order-by-peak-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2578,7 +2579,7 @@
       ];
     };
     acendan-split-selected-item-by-channel-to-new-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-split-selected-item-by-channel-to-new-tracks-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2592,7 +2593,7 @@
       ];
     };
     acendan-split-selected-item-by-channel-to-new-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-split-selected-item-by-channel-to-new-tracks-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2606,7 +2607,7 @@
       ];
     };
     acendan-split-selected-item-by-channel-to-new-tracks-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-split-selected-item-by-channel-to-new-tracks-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2620,7 +2621,7 @@
       ];
     };
     acendan-split-selected-item-by-channel-to-new-tracks-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-split-selected-item-by-channel-to-new-tracks-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2634,7 +2635,7 @@
       ];
     };
     acendan-stretch-selected-items-to-fit-between-nearest-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-stretch-selected-items-to-fit-between-nearest-markers-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2648,7 +2649,7 @@
       ];
     };
     acendan-stretch-selected-items-to-fit-between-nearest-markers-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-stretch-selected-items-to-fit-between-nearest-markers-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2662,7 +2663,7 @@
       ];
     };
     acendan-trim-left-edge-of-item-under-mouse-to-mouse-cursor-without-changing-fade-in-end-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-trim-left-edge-of-item-under-mouse-to-mouse-cursor-without-changing-fade-in-end-eel-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2676,7 +2677,7 @@
       ];
     };
     acendan-trim-left-edge-of-selected-items-by-amount-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-trim-left-edge-of-selected-items-by-amount-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2690,7 +2691,7 @@
       ];
     };
     acendan-trim-left-edge-of-selected-items-by-amount-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-trim-left-edge-of-selected-items-by-amount-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2704,7 +2705,7 @@
       ];
     };
     acendan-trim-right-edge-of-item-under-mouse-to-mouse-cursor-without-changing-fade-in-end-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-trim-right-edge-of-item-under-mouse-to-mouse-cursor-without-changing-fade-in-end-eel-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2718,7 +2719,7 @@
       ];
     };
     acendan-trim-right-edge-of-selected-items-by-amount-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-trim-right-edge-of-selected-items-by-amount-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2732,7 +2733,7 @@
       ];
     };
     acendan-trim-right-edge-of-selected-items-by-amount-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-trim-right-edge-of-selected-items-by-amount-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2746,7 +2747,7 @@
       ];
     };
     acendan-trim-selected-items-at-last-zero-crossing-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-trim-selected-items-at-last-zero-crossing-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2760,7 +2761,7 @@
       ];
     };
     ausbaxter-acendan-set-snap-offset-to-first-transient-in-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ausbaxter-acendan-set-snap-offset-to-first-transient-in-selected-items-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Items Editing";
@@ -2774,7 +2775,7 @@
       ];
     };
     acendan-action-marker-move-play-cursor-to-left-edge-start-of-random-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-action-marker-move-play-cursor-to-left-edge-start-of-random-selected-item-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -2788,7 +2789,7 @@
       ];
     };
     acendan-add-marker-to-end-of-project-regions-prompt-for-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-marker-to-end-of-project-regions-prompt-for-name-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -2802,7 +2803,7 @@
       ];
     };
     acendan-add-marker-to-end-of-project-regions-prompt-for-name-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-marker-to-end-of-project-regions-prompt-for-name-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -2816,7 +2817,7 @@
       ];
     };
     acendan-add-marker-to-end-of-selected-items-prompt-for-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-marker-to-end-of-selected-items-prompt-for-name-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -2830,7 +2831,7 @@
       ];
     };
     acendan-add-marker-to-end-of-selected-items-prompt-for-name-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-marker-to-end-of-selected-items-prompt-for-name-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -2844,7 +2845,7 @@
       ];
     };
     acendan-add-marker-to-end-of-selected-items-prompt-for-name-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-marker-to-end-of-selected-items-prompt-for-name-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -2858,7 +2859,7 @@
       ];
     };
     acendan-add-marker-to-end-of-selected-items-prompt-for-name-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-marker-to-end-of-selected-items-prompt-for-name-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -2872,7 +2873,7 @@
       ];
     };
     acendan-create-tempo-markers-from-notes-in-selected-midi-items-then-restore-project-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-tempo-markers-from-notes-in-selected-midi-items-then-restore-project-markers-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -2886,7 +2887,7 @@
       ];
     };
     acendan-create-tempo-markers-from-notes-in-selected-midi-items-then-restore-project-markers-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-tempo-markers-from-notes-in-selected-midi-items-then-restore-project-markers-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -2900,7 +2901,7 @@
       ];
     };
     acendan-export-markers-and-regions-for-izotope-rx-relative-to-items-with-shared-take-source-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-export-markers-and-regions-for-izotope-rx-relative-to-items-with-shared-take-source-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -2914,7 +2915,7 @@
       ];
     };
     acendan-export-markers-and-regions-for-izotope-rx-relative-to-items-with-shared-take-source-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-export-markers-and-regions-for-izotope-rx-relative-to-items-with-shared-take-source-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -2928,7 +2929,7 @@
       ];
     };
     acendan-find-and-replace-in-marker-region-names-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-find-and-replace-in-marker-region-names-lua-2-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -2947,7 +2948,7 @@
       ];
     };
     acendan-find-and-replace-in-marker-region-names-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-find-and-replace-in-marker-region-names-lua-2-0-1";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -2966,7 +2967,7 @@
       ];
     };
     acendan-find-and-replace-in-marker-region-names-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-find-and-replace-in-marker-region-names-lua-2-1";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -2985,7 +2986,7 @@
       ];
     };
     acendan-find-and-replace-in-marker-region-names-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-find-and-replace-in-marker-region-names-lua-2-2";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3004,7 +3005,7 @@
       ];
     };
     acendan-insert-marker-at-start-of-selected-items-with-item-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-marker-at-start-of-selected-items-with-item-name-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3018,7 +3019,7 @@
       ];
     };
     acendan-insert-marker-at-start-of-selected-items-with-item-name-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-marker-at-start-of-selected-items-with-item-name-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3032,7 +3033,7 @@
       ];
     };
     acendan-insert-marker-at-start-of-selected-items-with-sel-item-number-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-marker-at-start-of-selected-items-with-sel-item-number-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3046,7 +3047,7 @@
       ];
     };
     acendan-insert-marker-at-start-of-selected-items-with-sel-item-number-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-marker-at-start-of-selected-items-with-sel-item-number-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3060,7 +3061,7 @@
       ];
     };
     acendan-insert-marker-at-start-of-selected-items-with-sel-item-number-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-marker-at-start-of-selected-items-with-sel-item-number-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3074,7 +3075,7 @@
       ];
     };
     acendan-insert-marker-at-start-of-selected-items-with-sel-item-number-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-marker-at-start-of-selected-items-with-sel-item-number-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3088,7 +3089,7 @@
       ];
     };
     acendan-insert-marker-at-start-of-selected-items-with-sel-item-number-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-marker-at-start-of-selected-items-with-sel-item-number-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3102,7 +3103,7 @@
       ];
     };
     acendan-insert-marker-at-start-of-selected-items-with-sel-item-number-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-marker-at-start-of-selected-items-with-sel-item-number-lua-1-5";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3116,7 +3117,7 @@
       ];
     };
     acendan-insert-markers-at-start-or-end-of-selected-items-prompt-for-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-markers-at-start-or-end-of-selected-items-prompt-for-name-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3130,7 +3131,7 @@
       ];
     };
     acendan-insert-markers-at-start-or-end-of-selected-items-prompt-for-name-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-markers-at-start-or-end-of-selected-items-prompt-for-name-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3144,7 +3145,7 @@
       ];
     };
     acendan-insert-markers-every-x-seconds-after-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-markers-every-x-seconds-after-edit-cursor-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3158,7 +3159,7 @@
       ];
     };
     acendan-insert-markers-every-x-seconds-after-edit-cursor-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-markers-every-x-seconds-after-edit-cursor-lua-1-0-1";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3172,7 +3173,7 @@
       ];
     };
     acendan-insert-markers-every-x-seconds-after-edit-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-markers-every-x-seconds-after-edit-cursor-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3186,7 +3187,7 @@
       ];
     };
     acendan-move-markers-in-project-by-time-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-move-markers-in-project-by-time-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3200,7 +3201,7 @@
       ];
     };
     acendan-move-markers-in-project-by-time-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-move-markers-in-project-by-time-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3214,7 +3215,7 @@
       ];
     };
     acendan-move-markers-in-project-by-time-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-move-markers-in-project-by-time-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3228,7 +3229,7 @@
       ];
     };
     acendan-remove-chap-prefix-from-project-markers-for-flac-cues-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-remove-chap-prefix-from-project-markers-for-flac-cues-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3242,7 +3243,7 @@
       ];
     };
     acendan-remove-pound-hashtag-prefix-from-project-markers-for-wav-cues-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-remove-pound-hashtag-prefix-from-project-markers-for-wav-cues-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3256,7 +3257,7 @@
       ];
     };
     acendan-rename-project-markers-with-chap-prefix-for-flac-cues-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-rename-project-markers-with-chap-prefix-for-flac-cues-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3270,7 +3271,7 @@
       ];
     };
     acendan-rename-project-markers-with-pound-hashtag-prefix-for-wav-cues-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-rename-project-markers-with-pound-hashtag-prefix-for-wav-cues-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3284,7 +3285,7 @@
       ];
     };
     acendan-snap-cursor-to-nearest-marker-and-scroll-to-associated-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-snap-cursor-to-nearest-marker-and-scroll-to-associated-track-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3298,7 +3299,7 @@
       ];
     };
     acendan-snap-cursor-to-nearest-marker-and-scroll-to-associated-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-snap-cursor-to-nearest-marker-and-scroll-to-associated-track-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Markers";
@@ -3312,7 +3313,7 @@
       ];
     };
     acendan-add-custom-user-columns-for-soundminer-ixml-metadata-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-custom-user-columns-for-soundminer-ixml-metadata-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3326,7 +3327,7 @@
       ];
     };
     acendan-add-custom-user-columns-for-soundminer-ixml-metadata-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-custom-user-columns-for-soundminer-ixml-metadata-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3340,7 +3341,7 @@
       ];
     };
     acendan-add-custom-user-columns-for-soundminer-ixml-metadata-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-custom-user-columns-for-soundminer-ixml-metadata-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3354,7 +3355,7 @@
       ];
     };
     acendan-add-custom-user-columns-for-soundminer-ixml-metadata-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-custom-user-columns-for-soundminer-ixml-metadata-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3368,7 +3369,7 @@
       ];
     };
     acendan-add-custom-user-columns-for-soundminer-ixml-metadata-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-custom-user-columns-for-soundminer-ixml-metadata-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3382,7 +3383,7 @@
       ];
     };
     acendan-add-custom-user-columns-for-soundminer-ixml-metadata-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-custom-user-columns-for-soundminer-ixml-metadata-lua-1-5";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3396,7 +3397,7 @@
       ];
     };
     acendan-export-current-column-arrangement-setup-to-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-export-current-column-arrangement-setup-to-file-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3410,7 +3411,7 @@
       ];
     };
     acendan-export-current-column-arrangement-setup-to-file-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-export-current-column-arrangement-setup-to-file-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3424,7 +3425,7 @@
       ];
     };
     acendan-filter-media-explorer-for-selected-media-item-names-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-filter-media-explorer-for-selected-media-item-names-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3438,7 +3439,7 @@
       ];
     };
     acendan-filter-media-explorer-for-selected-media-item-names-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-filter-media-explorer-for-selected-media-item-names-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3452,7 +3453,7 @@
       ];
     };
     acendan-filter-media-explorer-for-selected-media-item-names-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-filter-media-explorer-for-selected-media-item-names-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3466,7 +3467,7 @@
       ];
     };
     acendan-filter-media-explorer-for-selected-media-items-source-files-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-filter-media-explorer-for-selected-media-items-source-files-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3480,7 +3481,7 @@
       ];
     };
     acendan-filter-media-explorer-for-selected-media-items-source-files-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-filter-media-explorer-for-selected-media-items-source-files-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3494,7 +3495,7 @@
       ];
     };
     acendan-filter-media-explorer-for-selected-media-items-source-files-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-filter-media-explorer-for-selected-media-items-source-files-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3508,7 +3509,7 @@
       ];
     };
     acendan-import-column-arrangement-setup-from-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-import-column-arrangement-setup-from-file-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3522,7 +3523,7 @@
       ];
     };
     acendan-import-column-arrangement-setup-from-file-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-import-column-arrangement-setup-from-file-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3536,7 +3537,7 @@
       ];
     };
     acendan-remove-all-custom-user-metadata-columns-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-remove-all-custom-user-metadata-columns-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Media Explorer";
@@ -3550,7 +3551,7 @@
       ];
     };
     acendan-export-project-render-metadata-settings-to-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-export-project-render-metadata-settings-to-file-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3564,7 +3565,7 @@
       ];
     };
     acendan-export-project-render-metadata-settings-to-file-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-export-project-render-metadata-settings-to-file-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3578,7 +3579,7 @@
       ];
     };
     acendan-export-project-render-metadata-settings-to-file-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-export-project-render-metadata-settings-to-file-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3592,7 +3593,7 @@
       ];
     };
     acendan-import-project-render-metadata-settings-from-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-import-project-render-metadata-settings-from-file-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3606,7 +3607,7 @@
       ];
     };
     acendan-import-project-render-metadata-settings-from-file-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-import-project-render-metadata-settings-from-file-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3620,7 +3621,7 @@
       ];
     };
     acendan-import-project-render-metadata-settings-from-file-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-import-project-render-metadata-settings-from-file-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3634,7 +3635,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-0-1";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3648,7 +3649,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-0-2";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3662,7 +3663,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-0-3";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3676,7 +3677,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-0-4";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3715,7 +3716,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-0-5";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3754,7 +3755,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-0-6";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3803,7 +3804,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-0-7";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3852,7 +3853,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3901,7 +3902,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3950,7 +3951,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -3999,7 +4000,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -4048,7 +4049,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -4097,7 +4098,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-1-5";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -4146,7 +4147,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-1-6";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -4195,7 +4196,7 @@
       ];
     };
     acendan-multi-mic-manager-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-multi-mic-manager-lua-1-7";
       indexName = "ACendan Scripts";
       categoryName = "Metadata";
@@ -4244,7 +4245,7 @@
       ];
     };
     acendan-snap-edit-cursor-to-nearest-razor-edit-edge-in-first-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-snap-edit-cursor-to-nearest-razor-edit-edge-in-first-selected-track-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Razor Edits";
@@ -4258,7 +4259,7 @@
       ];
     };
     acendan-snap-edit-cursor-to-nearest-razor-edit-edge-in-track-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-snap-edit-cursor-to-nearest-razor-edit-edge-in-track-under-mouse-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Razor Edits";
@@ -4272,7 +4273,7 @@
       ];
     };
     acendan-add-prefix-or-suffix-to-regions-in-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-prefix-or-suffix-to-regions-in-time-selection-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4286,7 +4287,7 @@
       ];
     };
     acendan-add-prefix-or-suffix-to-regions-in-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-prefix-or-suffix-to-regions-in-time-selection-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4300,7 +4301,7 @@
       ];
     };
     acendan-add-prefix-or-suffix-to-regions-in-time-selection-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-add-prefix-or-suffix-to-regions-in-time-selection-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4314,7 +4315,7 @@
       ];
     };
     acendan-change-region-color-if-region-exceeds-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-change-region-color-if-region-exceeds-length-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4328,7 +4329,7 @@
       ];
     };
     acendan-create-one-region-for-all-items-on-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-one-region-for-all-items-on-selected-tracks-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4342,7 +4343,7 @@
       ];
     };
     acendan-create-one-region-for-all-items-on-selected-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-one-region-for-all-items-on-selected-tracks-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4356,7 +4357,7 @@
       ];
     };
     acendan-create-one-region-for-selected-items-across-tracks-and-link-to-parent-in-rrm-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-one-region-for-selected-items-across-tracks-and-link-to-parent-in-rrm-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4370,7 +4371,7 @@
       ];
     };
     acendan-create-one-region-for-selected-items-across-tracks-and-link-to-parent-in-rrm-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-one-region-for-selected-items-across-tracks-and-link-to-parent-in-rrm-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4384,7 +4385,7 @@
       ];
     };
     acendan-create-one-region-for-selected-items-across-tracks-and-link-to-parent-in-rrm-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-one-region-for-selected-items-across-tracks-and-link-to-parent-in-rrm-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4398,7 +4399,7 @@
       ];
     };
     acendan-create-one-region-for-selected-items-across-tracks-and-link-to-parent-in-rrm-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-one-region-for-selected-items-across-tracks-and-link-to-parent-in-rrm-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4412,7 +4413,7 @@
       ];
     };
     acendan-create-one-region-for-selected-items-across-tracks-and-link-to-parent-in-rrm-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-one-region-for-selected-items-across-tracks-and-link-to-parent-in-rrm-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4426,7 +4427,7 @@
       ];
     };
     acendan-create-separate-regions-around-each-set-of-x-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-separate-regions-around-each-set-of-x-selected-items-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4440,7 +4441,7 @@
       ];
     };
     acendan-create-separate-regions-around-each-set-of-x-selected-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-separate-regions-around-each-set-of-x-selected-items-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4454,7 +4455,7 @@
       ];
     };
     acendan-create-separate-regions-around-each-set-of-x-selected-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-separate-regions-around-each-set-of-x-selected-items-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4468,7 +4469,7 @@
       ];
     };
     acendan-create-unique-regions-for-overlapping-items-on-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-unique-regions-for-overlapping-items-on-selected-track-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4482,7 +4483,7 @@
       ];
     };
     acendan-create-unique-regions-for-overlapping-items-on-selected-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-unique-regions-for-overlapping-items-on-selected-track-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4496,7 +4497,7 @@
       ];
     };
     acendan-create-unique-regions-for-overlapping-items-on-selected-track-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-unique-regions-for-overlapping-items-on-selected-track-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4510,7 +4511,7 @@
       ];
     };
     acendan-create-unique-regions-for-overlapping-items-on-selected-track-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-unique-regions-for-overlapping-items-on-selected-track-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4524,7 +4525,7 @@
       ];
     };
     acendan-create-unique-regions-for-overlapping-items-on-selected-track-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-unique-regions-for-overlapping-items-on-selected-track-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4538,7 +4539,7 @@
       ];
     };
     acendan-create-unique-regions-for-overlapping-items-on-selected-track-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-unique-regions-for-overlapping-items-on-selected-track-lua-1-5";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4552,7 +4553,7 @@
       ];
     };
     acendan-create-unique-regions-for-overlapping-items-on-selected-track-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-unique-regions-for-overlapping-items-on-selected-track-lua-1-6";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4566,7 +4567,7 @@
       ];
     };
     acendan-create-unique-regions-for-selected-items-and-link-to-parent-track-in-rrm-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-unique-regions-for-selected-items-and-link-to-parent-track-in-rrm-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4580,7 +4581,7 @@
       ];
     };
     acendan-create-unique-regions-for-selected-items-and-link-to-parent-track-in-rrm-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-unique-regions-for-selected-items-and-link-to-parent-track-in-rrm-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4594,7 +4595,7 @@
       ];
     };
     acendan-create-unique-regions-for-selected-items-and-link-to-parent-track-in-rrm-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-unique-regions-for-selected-items-and-link-to-parent-track-in-rrm-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4608,7 +4609,7 @@
       ];
     };
     acendan-create-unique-regions-for-selected-items-and-link-to-parent-track-in-rrm-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-unique-regions-for-selected-items-and-link-to-parent-track-in-rrm-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4622,7 +4623,7 @@
       ];
     };
     acendan-create-unique-regions-for-selected-items-and-link-to-parent-track-in-rrm-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-unique-regions-for-selected-items-and-link-to-parent-track-in-rrm-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4636,7 +4637,7 @@
       ];
     };
     acendan-create-unique-regions-for-selected-items-and-link-to-track-in-rrm-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-unique-regions-for-selected-items-and-link-to-track-in-rrm-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4650,7 +4651,7 @@
       ];
     };
     acendan-create-unique-regions-for-selected-items-and-link-to-track-in-rrm-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-unique-regions-for-selected-items-and-link-to-track-in-rrm-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4664,7 +4665,7 @@
       ];
     };
     acendan-enumerate-selected-regions-in-manager-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-enumerate-selected-regions-in-manager-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4678,7 +4679,7 @@
       ];
     };
     acendan-enumerate-selected-regions-in-manager-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-enumerate-selected-regions-in-manager-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4692,7 +4693,7 @@
       ];
     };
     acendan-enumerate-selected-regions-in-manager-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-enumerate-selected-regions-in-manager-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4706,7 +4707,7 @@
       ];
     };
     acendan-enumerate-selected-regions-in-manager-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-enumerate-selected-regions-in-manager-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4720,7 +4721,7 @@
       ];
     };
     acendan-enumerate-selected-regions-in-manager-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-enumerate-selected-regions-in-manager-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4734,7 +4735,7 @@
       ];
     };
     acendan-extend-all-regions-by-length-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-extend-all-regions-by-length-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4748,7 +4749,7 @@
       ];
     };
     acendan-extend-all-regions-left-edge-by-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-extend-all-regions-left-edge-by-length-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4762,7 +4763,7 @@
       ];
     };
     acendan-extend-regions-in-time-selection-by-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-extend-regions-in-time-selection-by-length-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4776,7 +4777,7 @@
       ];
     };
     acendan-extend-regions-in-time-selection-left-edge-by-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-extend-regions-in-time-selection-left-edge-by-length-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4790,7 +4791,7 @@
       ];
     };
     acendan-extend-regions-in-time-selection-left-edge-by-length-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-extend-regions-in-time-selection-left-edge-by-length-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4804,7 +4805,7 @@
       ];
     };
     acendan-import-region-names-from-text-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-import-region-names-from-text-file-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4818,7 +4819,7 @@
       ];
     };
     acendan-import-region-names-from-text-file-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-import-region-names-from-text-file-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4832,7 +4833,7 @@
       ];
     };
     acendan-rename-regions-from-nearest-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-rename-regions-from-nearest-markers-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4846,7 +4847,7 @@
       ];
     };
     acendan-rename-regions-from-nearest-markers-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-rename-regions-from-nearest-markers-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4860,7 +4861,7 @@
       ];
     };
     acendan-rename-regions-from-nearest-markers-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-rename-regions-from-nearest-markers-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4874,7 +4875,7 @@
       ];
     };
     acendan-render-regions-ignoring-overlapped-items-using-the-most-recent-render-settings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-render-regions-ignoring-overlapped-items-using-the-most-recent-render-settings-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4888,7 +4889,7 @@
       ];
     };
     acendan-set-nearest-regions-edges-to-selected-media-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-nearest-regions-edges-to-selected-media-items-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4902,7 +4903,7 @@
       ];
     };
     acendan-set-region-color-near-edit-cursor-to-sws-custom-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-region-color-near-edit-cursor-to-sws-custom-color-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -4991,7 +4992,7 @@
       ];
     };
     acendan-set-region-color-near-edit-cursor-to-sws-custom-color-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-region-color-near-edit-cursor-to-sws-custom-color-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -5080,7 +5081,7 @@
       ];
     };
     acendan-set-region-color-near-edit-cursor-to-sws-custom-color-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-region-color-near-edit-cursor-to-sws-custom-color-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -5169,7 +5170,7 @@
       ];
     };
     acendan-shrink-overlapping-regions-edges-to-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-shrink-overlapping-regions-edges-to-time-selection-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -5183,7 +5184,7 @@
       ];
     };
     acendan-shrink-overlapping-regions-edges-to-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-shrink-overlapping-regions-edges-to-time-selection-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -5197,7 +5198,7 @@
       ];
     };
     acendan-shrink-overlapping-regions-to-edges-of-selected-media-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-shrink-overlapping-regions-to-edges-of-selected-media-items-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -5211,7 +5212,7 @@
       ];
     };
     acendan-shrink-overlapping-regions-to-edges-of-selected-media-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-shrink-overlapping-regions-to-edges-of-selected-media-items-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -5225,7 +5226,7 @@
       ];
     };
     acendan-stretch-overlapping-regions-edges-to-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-stretch-overlapping-regions-edges-to-time-selection-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -5239,7 +5240,7 @@
       ];
     };
     acendan-stretch-overlapping-regions-edges-to-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-stretch-overlapping-regions-edges-to-time-selection-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -5253,7 +5254,7 @@
       ];
     };
     acendan-stretch-overlapping-regions-to-edges-of-selected-media-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-stretch-overlapping-regions-to-edges-of-selected-media-items-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Regions";
@@ -5267,7 +5268,7 @@
       ];
     };
     acendan-create-multichannel-render-from-selected-tracks-with-mono-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-multichannel-render-from-selected-tracks-with-mono-items-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Rendering";
@@ -5281,7 +5282,7 @@
       ];
     };
     acendan-create-multichannel-render-from-selected-tracks-with-mono-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-multichannel-render-from-selected-tracks-with-mono-items-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Rendering";
@@ -5295,7 +5296,7 @@
       ];
     };
     acendan-create-multichannel-render-from-selected-tracks-with-mono-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-multichannel-render-from-selected-tracks-with-mono-items-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Rendering";
@@ -5309,7 +5310,7 @@
       ];
     };
     acendan-load-render-directory-from-slot-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-load-render-directory-from-slot-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Rendering";
@@ -5338,7 +5339,7 @@
       ];
     };
     acendan-save-render-directory-to-slot-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-save-render-directory-to-slot-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Rendering";
@@ -5367,7 +5368,7 @@
       ];
     };
     acendan-set-up-soundminer-ixml-metadata-markers-in-project-render-metadata-settings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-up-soundminer-ixml-metadata-markers-in-project-render-metadata-settings-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Rendering";
@@ -5381,7 +5382,7 @@
       ];
     };
     acendan-set-up-soundminer-ixml-metadata-markers-in-project-render-metadata-settings-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-up-soundminer-ixml-metadata-markers-in-project-render-metadata-settings-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Rendering";
@@ -5395,7 +5396,7 @@
       ];
     };
     acendan-continuously-select-all-items-in-time-selection-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-continuously-select-all-items-in-time-selection-background-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Time Selection";
@@ -5409,7 +5410,7 @@
       ];
     };
     acendan-continuously-select-all-items-in-time-selection-background-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-continuously-select-all-items-in-time-selection-background-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Time Selection";
@@ -5423,7 +5424,7 @@
       ];
     };
     acendan-create-time-selection-from-edit-cursor-to-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-time-selection-from-edit-cursor-to-mouse-cursor-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Time Selection";
@@ -5437,7 +5438,7 @@
       ];
     };
     acendan-create-time-selection-from-edit-cursor-to-mouse-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-time-selection-from-edit-cursor-to-mouse-cursor-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Time Selection";
@@ -5451,7 +5452,7 @@
       ];
     };
     acendan-extend-right-edge-of-time-selection-by-x-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-extend-right-edge-of-time-selection-by-x-seconds-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Time Selection";
@@ -5485,7 +5486,7 @@
       ];
     };
     acendan-extend-time-selection-left-to-start-of-project-and-select-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-extend-time-selection-left-to-start-of-project-and-select-items-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Time Selection";
@@ -5499,7 +5500,7 @@
       ];
     };
     acendan-select-from-edit-cursor-to-start-of-project-items-and-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-select-from-edit-cursor-to-start-of-project-items-and-time-selection-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Time Selection";
@@ -5513,7 +5514,7 @@
       ];
     };
     acendan-select-from-mouse-cursor-to-start-of-project-items-and-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-select-from-mouse-cursor-to-start-of-project-items-and-time-selection-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Time Selection";
@@ -5527,7 +5528,7 @@
       ];
     };
     acendan-clear-saved-url-by-track-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-clear-saved-url-by-track-name-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5541,7 +5542,7 @@
       ];
     };
     acendan-clear-saved-url-by-track-name-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-clear-saved-url-by-track-name-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5555,7 +5556,7 @@
       ];
     };
     acendan-insert-new-track-respect-folders-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-new-track-respect-folders-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5569,7 +5570,7 @@
       ];
     };
     acendan-insert-new-track-respect-folders-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-new-track-respect-folders-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5583,7 +5584,7 @@
       ];
     };
     acendan-insert-new-track-respect-folders-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-new-track-respect-folders-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5597,7 +5598,7 @@
       ];
     };
     acendan-insert-new-track-respect-folders-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-new-track-respect-folders-lua-1-2-1";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5611,7 +5612,7 @@
       ];
     };
     acendan-insert-new-track-respect-folders-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-new-track-respect-folders-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5625,7 +5626,7 @@
       ];
     };
     acendan-insert-new-track-respect-folders-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-new-track-respect-folders-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5639,7 +5640,7 @@
       ];
     };
     acendan-search-all-tracks-for-fx-by-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-search-all-tracks-for-fx-by-name-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5653,7 +5654,7 @@
       ];
     };
     acendan-select-tracks-when-making-marquee-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-select-tracks-when-making-marquee-selection-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5667,7 +5668,7 @@
       ];
     };
     acendan-select-tracks-when-making-marquee-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-select-tracks-when-making-marquee-selection-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5681,7 +5682,7 @@
       ];
     };
     acendan-select-tracks-when-making-marquee-selection-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-select-tracks-when-making-marquee-selection-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5695,7 +5696,7 @@
       ];
     };
     acendan-select-tracks-when-making-marquee-selection-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-select-tracks-when-making-marquee-selection-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5709,7 +5710,7 @@
       ];
     };
     acendan-select-tracks-when-making-marquee-selection-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-select-tracks-when-making-marquee-selection-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5723,7 +5724,7 @@
       ];
     };
     acendan-select-tracks-when-making-marquee-selection-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-select-tracks-when-making-marquee-selection-lua-1-5";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5737,7 +5738,7 @@
       ];
     };
     acendan-select-tracks-when-making-marquee-selection-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-select-tracks-when-making-marquee-selection-lua-2-0";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5751,7 +5752,7 @@
       ];
     };
     acendan-select-tracks-when-making-marquee-selection-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-select-tracks-when-making-marquee-selection-lua-2-1";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5765,7 +5766,7 @@
       ];
     };
     acendan-store-and-open-saved-url-by-track-name-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-store-and-open-saved-url-by-track-name-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5779,7 +5780,7 @@
       ];
     };
     acendan-view-saved-urls-by-track-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-view-saved-urls-by-track-name-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5793,7 +5794,7 @@
       ];
     };
     acendan-view-saved-urls-by-track-name-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-view-saved-urls-by-track-name-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Tracks Properties";
@@ -5807,7 +5808,7 @@
       ];
     };
     acendan-bounce-in-place-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-bounce-in-place-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -5821,7 +5822,7 @@
       ];
     };
     acendan-bounce-in-place-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-bounce-in-place-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -5835,7 +5836,7 @@
       ];
     };
     acendan-bounce-in-place-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-bounce-in-place-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -5849,7 +5850,7 @@
       ];
     };
     acendan-bounce-in-place-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-bounce-in-place-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -5863,7 +5864,7 @@
       ];
     };
     acendan-bounce-in-place-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-bounce-in-place-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -5877,7 +5878,7 @@
       ];
     };
     acendan-bounce-in-place-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-bounce-in-place-lua-1-5";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -5891,7 +5892,7 @@
       ];
     };
     acendan-bounce-in-place-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-bounce-in-place-lua-1-6";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -5905,7 +5906,7 @@
       ];
     };
     acendan-bounce-in-place-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-bounce-in-place-lua-1-7";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -5919,7 +5920,7 @@
       ];
     };
     acendan-bounce-in-place-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-bounce-in-place-lua-1-8";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -5933,7 +5934,7 @@
       ];
     };
     acendan-center-control-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-center-control-jsfx-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -5947,7 +5948,7 @@
       ];
     };
     acendan-center-control-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-center-control-jsfx-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -5961,7 +5962,7 @@
       ];
     };
     acendan-de-click-discontinuous-waveform-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-de-click-discontinuous-waveform-jsfx-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -5975,7 +5976,7 @@
       ];
     };
     acendan-playrate-jump-to-target-playrate-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-playrate-jump-to-target-playrate-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -5989,7 +5990,7 @@
       ];
     };
     acendan-playrate-set-target-playrate-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-playrate-set-target-playrate-value-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6003,7 +6004,7 @@
       ];
     };
     acendan-reaperblog-duplicate-items-or-tracks-depending-on-focus-and-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-reaperblog-duplicate-items-or-tracks-depending-on-focus-and-time-selection-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6017,7 +6018,7 @@
       ];
     };
     acendan-reaperblog-duplicate-items-or-tracks-depending-on-focus-and-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-reaperblog-duplicate-items-or-tracks-depending-on-focus-and-time-selection-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6031,7 +6032,7 @@
       ];
     };
     acendan-reaperblog-duplicate-items-or-tracks-depending-on-focus-and-time-selection-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-reaperblog-duplicate-items-or-tracks-depending-on-focus-and-time-selection-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6045,7 +6046,7 @@
       ];
     };
     acendan-reaperblog-duplicate-items-or-tracks-depending-on-focus-and-time-selection-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-reaperblog-duplicate-items-or-tracks-depending-on-focus-and-time-selection-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6059,7 +6060,7 @@
       ];
     };
     acendan-reaperblog-duplicate-items-or-tracks-depending-on-focus-and-time-selection-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-reaperblog-duplicate-items-or-tracks-depending-on-focus-and-time-selection-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6073,7 +6074,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6087,7 +6088,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6101,7 +6102,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6115,7 +6116,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6129,7 +6130,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6143,7 +6144,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-1-5";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6157,7 +6158,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-1-6";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6171,7 +6172,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-1-7";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6185,7 +6186,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-1-8";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6199,7 +6200,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-1-9";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6213,7 +6214,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-1-10";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6227,7 +6228,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-2-0";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6241,7 +6242,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-2-1";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6255,7 +6256,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-2-2";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6269,7 +6270,7 @@
       ];
     };
     acendan-tempo-marker-manager-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-tempo-marker-manager-lua-2-3";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6283,7 +6284,7 @@
       ];
     };
     parallel-joiner-linear-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "parallel-joiner-linear-jsfx-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6297,7 +6298,7 @@
       ];
     };
     parallel-joiner-x3-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "parallel-joiner-x3-jsfx-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6311,7 +6312,7 @@
       ];
     };
     parallel-joiner-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "parallel-joiner-jsfx-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6325,7 +6326,7 @@
       ];
     };
     parallel-splitter-x3-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "parallel-splitter-x3-jsfx-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6339,7 +6340,7 @@
       ];
     };
     parallel-splitter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "parallel-splitter-jsfx-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6353,7 +6354,7 @@
       ];
     };
     parallel-splitter-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "parallel-splitter-jsfx-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Utility";
@@ -6367,7 +6368,7 @@
       ];
     };
     acendan-auto-generate-scripts-to-open-web-interfaces-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-auto-generate-scripts-to-open-web-interfaces-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6381,7 +6382,7 @@
       ];
     };
     acendan-auto-generate-scripts-to-open-web-interfaces-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-auto-generate-scripts-to-open-web-interfaces-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6395,7 +6396,7 @@
       ];
     };
     acendan-game-recommendation-engine-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-game-recommendation-engine-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6409,7 +6410,7 @@
       ];
     };
     acendan-game-recommendation-engine-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-game-recommendation-engine-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6423,7 +6424,7 @@
       ];
     };
     acendan-gui-display-first-selected-item-properties-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-gui-display-first-selected-item-properties-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6437,7 +6438,7 @@
       ];
     };
     acendan-gui-display-first-selected-item-properties-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-gui-display-first-selected-item-properties-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6451,7 +6452,7 @@
       ];
     };
     acendan-gui-display-first-selected-item-properties-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-gui-display-first-selected-item-properties-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6465,7 +6466,7 @@
       ];
     };
     acendan-gui-display-first-selected-item-properties-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-gui-display-first-selected-item-properties-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6479,7 +6480,7 @@
       ];
     };
     acendan-insert-random-fx-plugin-on-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-random-fx-plugin-on-selected-track-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6493,7 +6494,7 @@
       ];
     };
     acendan-insert-random-fx-plugin-on-selected-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-random-fx-plugin-on-selected-track-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6507,7 +6508,7 @@
       ];
     };
     acendan-insert-random-fx-plugin-on-selected-track-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-insert-random-fx-plugin-on-selected-track-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6521,7 +6522,7 @@
       ];
     };
     acendan-move-unused-projects-mediafiles-in-selected-directory-to-separate-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-move-unused-projects-mediafiles-in-selected-directory-to-separate-folder-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6535,7 +6536,7 @@
       ];
     };
     acendan-move-unused-projects-mediafiles-in-selected-directory-to-separate-folder-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-move-unused-projects-mediafiles-in-selected-directory-to-separate-folder-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6549,7 +6550,7 @@
       ];
     };
     acendan-move-unused-projects-mediafiles-in-selected-directory-to-separate-folder-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-move-unused-projects-mediafiles-in-selected-directory-to-separate-folder-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6563,7 +6564,7 @@
       ];
     };
     acendan-move-unused-projects-mediafiles-in-selected-directory-to-separate-folder-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-move-unused-projects-mediafiles-in-selected-directory-to-separate-folder-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6577,7 +6578,7 @@
       ];
     };
     acendan-move-unused-projects-mediafiles-in-selected-directory-to-separate-folder-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-move-unused-projects-mediafiles-in-selected-directory-to-separate-folder-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6591,7 +6592,7 @@
       ];
     };
     acendan-open-file-from-path-in-project-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-open-file-from-path-in-project-notes-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6605,7 +6606,7 @@
       ];
     };
     acendan-organize-teamtalk-conference-recording-media-items-by-timestamp-and-user-number-in-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-organize-teamtalk-conference-recording-media-items-by-timestamp-and-user-number-in-name-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6619,7 +6620,7 @@
       ];
     };
     acendan-organize-teamtalk-conference-recording-media-items-by-timestamp-and-user-number-in-name-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-organize-teamtalk-conference-recording-media-items-by-timestamp-and-user-number-in-name-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6633,7 +6634,7 @@
       ];
     };
     acendan-randomly-deliver-affirmations-nvk-game-audio-affirmations-once-an-hour-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-randomly-deliver-affirmations-nvk-game-audio-affirmations-once-an-hour-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6647,7 +6648,7 @@
       ];
     };
     acendan-randomly-deliver-affirmations-nvk-game-audio-affirmations-once-an-hour-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-randomly-deliver-affirmations-nvk-game-audio-affirmations-once-an-hour-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6661,7 +6662,7 @@
       ];
     };
     acendan-randomly-deliver-affirmations-nvk-game-audio-affirmations-once-an-hour-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-randomly-deliver-affirmations-nvk-game-audio-affirmations-once-an-hour-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6675,7 +6676,7 @@
       ];
     };
     acendan-randomly-deliver-affirmations-nvk-game-audio-affirmations-once-an-hour-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-randomly-deliver-affirmations-nvk-game-audio-affirmations-once-an-hour-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6689,7 +6690,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6718,7 +6719,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6747,7 +6748,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-3";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6776,7 +6777,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-4";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6805,7 +6806,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-5";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6834,7 +6835,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-6";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6863,7 +6864,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-7";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6892,7 +6893,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-8";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6921,7 +6922,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-9";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6950,7 +6951,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-91";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -6979,7 +6980,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-92";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7008,7 +7009,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-93";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7037,7 +7038,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-94";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7066,7 +7067,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-95";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7100,7 +7101,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-96 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-96";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7134,7 +7135,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-97 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-97";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7168,7 +7169,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-98 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-98";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7202,7 +7203,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-99";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7236,7 +7237,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-991 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-991";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7270,7 +7271,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-992 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-992";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7304,7 +7305,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-993 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-993";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7338,7 +7339,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-994 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-994";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7372,7 +7373,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-995 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-995";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7406,7 +7407,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-996 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-996";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7440,7 +7441,7 @@
       ];
     };
     acendan-the-last-renamer-lua-0-997 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-0-997";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7474,7 +7475,7 @@
       ];
     };
     acendan-the-last-renamer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7508,7 +7509,7 @@
       ];
     };
     acendan-the-last-renamer-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-1-01";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7542,7 +7543,7 @@
       ];
     };
     acendan-the-last-renamer-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-the-last-renamer-lua-1-02";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7576,7 +7577,7 @@
       ];
     };
     acendan-ucs-renaming-tool-media-explorer-filter-lua-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-media-explorer-filter-lua-4-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7590,7 +7591,7 @@
       ];
     };
     acendan-ucs-renaming-tool-send-to-interface-lua-8-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-send-to-interface-lua-8-2-3";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7604,7 +7605,7 @@
       ];
     };
     acendan-ucs-renaming-tool-send-to-interface-lua-8-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-send-to-interface-lua-8-2-4";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7618,7 +7619,7 @@
       ];
     };
     acendan-ucs-renaming-tool-send-to-interface-lua-8-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-send-to-interface-lua-8-2-5";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7632,7 +7633,7 @@
       ];
     };
     acendan-ucs-renaming-tool-send-to-interface-lua-8-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-send-to-interface-lua-8-2-6";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7646,7 +7647,7 @@
       ];
     };
     acendan-ucs-renaming-tool-send-to-interface-lua-8-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-send-to-interface-lua-8-3-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7660,7 +7661,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7674,7 +7675,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7688,7 +7689,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7702,7 +7703,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7716,7 +7717,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-1-5";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7730,7 +7731,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-1-6";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7744,7 +7745,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-1-7";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7758,7 +7759,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-1-8";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7772,7 +7773,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-1-9";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7786,7 +7787,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-2-0";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7800,7 +7801,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-2-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7814,7 +7815,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-2-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7828,7 +7829,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-2-3";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7842,7 +7843,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-2-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-2-3-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7856,7 +7857,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-2-4";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7870,7 +7871,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-2-5";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7884,7 +7885,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-2-6";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7898,7 +7899,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-2-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-2-7";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7912,7 +7913,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-2-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-2-7-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7926,7 +7927,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-3-0";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7940,7 +7941,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-3-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-3-0-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7954,7 +7955,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-3-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7968,7 +7969,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-3-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7982,7 +7983,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-3-3";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -7996,7 +7997,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-3-5";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8010,7 +8011,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-3-6";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8024,7 +8025,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-3-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-3-7";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8038,7 +8039,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-3-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-3-8";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8052,7 +8053,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-3-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-3-9";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8066,7 +8067,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-4-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8080,7 +8081,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-4-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-4-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8094,7 +8095,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-4-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8108,7 +8109,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-5-0";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8122,7 +8123,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-5-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-5-0-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8136,7 +8137,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-5-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-5-0-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8150,7 +8151,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-5-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-5-0-3";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8164,7 +8165,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-5-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-5-0-4";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8178,7 +8179,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-5-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8192,7 +8193,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-5-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-5-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8206,7 +8207,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-5-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8220,7 +8221,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-5-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-5-2-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8234,7 +8235,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-5-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-5-2-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8248,7 +8249,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-6-0";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8262,7 +8263,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-6-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-6-0-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8276,7 +8277,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-6-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8290,7 +8291,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-6-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8304,7 +8305,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-6-3";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8318,7 +8319,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-6-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-6-4";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8332,7 +8333,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-6-5";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8346,7 +8347,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-6-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-6-6";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8360,7 +8361,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-6-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-6-7";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8374,7 +8375,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-6-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-6-8";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8388,7 +8389,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-6-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-6-9";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8402,7 +8403,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-8-2";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8416,7 +8417,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-8-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-8-2-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8430,7 +8431,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-8-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-8-2-3";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8444,7 +8445,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-8-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-8-2-4";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8458,7 +8459,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-8-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-8-2-5";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8472,7 +8473,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-8-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-8-2-6";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8486,7 +8487,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-8-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-8-3";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8500,7 +8501,7 @@
       ];
     };
     acendan-universal-category-renaming-tool-lua-8-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-universal-category-renaming-tool-lua-8-3-1";
       indexName = "ACendan Scripts";
       categoryName = "Various";
@@ -8514,7 +8515,7 @@
       ];
     };
     acendan-create-video-processor-text-items-for-all-project-markers-on-new-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-video-processor-text-items-for-all-project-markers-on-new-track-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8533,7 +8534,7 @@
       ];
     };
     acendan-create-video-processor-text-items-for-all-project-markers-on-new-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-video-processor-text-items-for-all-project-markers-on-new-track-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8552,7 +8553,7 @@
       ];
     };
     acendan-create-video-processor-text-items-for-all-project-markers-on-new-track-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-video-processor-text-items-for-all-project-markers-on-new-track-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8571,7 +8572,7 @@
       ];
     };
     acendan-create-video-processor-text-items-for-all-project-markers-on-new-track-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-video-processor-text-items-for-all-project-markers-on-new-track-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8590,7 +8591,7 @@
       ];
     };
     acendan-create-video-processor-text-items-for-all-project-markers-on-new-track-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-video-processor-text-items-for-all-project-markers-on-new-track-lua-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8609,7 +8610,7 @@
       ];
     };
     acendan-create-video-processor-text-items-for-all-project-regions-on-new-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-video-processor-text-items-for-all-project-regions-on-new-track-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8623,7 +8624,7 @@
       ];
     };
     acendan-create-video-processor-text-items-for-all-project-regions-on-new-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-video-processor-text-items-for-all-project-regions-on-new-track-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8637,7 +8638,7 @@
       ];
     };
     acendan-create-video-processor-text-items-for-all-project-regions-on-new-track-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-create-video-processor-text-items-for-all-project-regions-on-new-track-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8651,7 +8652,7 @@
       ];
     };
     acendan-prompt-to-match-project-frame-rate-with-first-video-item-import-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-prompt-to-match-project-frame-rate-with-first-video-item-import-background-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8665,7 +8666,7 @@
       ];
     };
     acendan-prompt-to-match-project-frame-rate-with-first-video-item-import-background-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-prompt-to-match-project-frame-rate-with-first-video-item-import-background-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8679,7 +8680,7 @@
       ];
     };
     acendan-prompt-to-match-project-frame-rate-with-first-video-item-import-background-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-prompt-to-match-project-frame-rate-with-first-video-item-import-background-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8693,7 +8694,7 @@
       ];
     };
     acendan-prompt-to-match-project-frame-rate-with-first-video-item-import-background-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-prompt-to-match-project-frame-rate-with-first-video-item-import-background-lua-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8707,7 +8708,7 @@
       ];
     };
     acendan-set-project-video-frame-rate-keeping-session-timecode-start-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-project-video-frame-rate-keeping-session-timecode-start-lua-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8771,7 +8772,7 @@
       ];
     };
     acendan-set-project-video-frame-rate-keeping-session-timecode-start-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-project-video-frame-rate-keeping-session-timecode-start-lua-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8830,7 +8831,7 @@
       ];
     };
     acendan-set-project-video-frame-rate-keeping-session-timecode-start-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-project-video-frame-rate-keeping-session-timecode-start-lua-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Video";
@@ -8889,7 +8890,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-0";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -8903,7 +8904,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -8982,7 +8983,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -9061,7 +9062,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -9140,7 +9141,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -9219,7 +9220,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-2";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -9298,7 +9299,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-3";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -9402,7 +9403,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-4";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -9511,7 +9512,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-5";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -9620,7 +9621,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-6";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -9729,7 +9730,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-7";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -9848,7 +9849,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-8";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -9967,7 +9968,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-8-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -10086,7 +10087,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-8-2";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -10205,7 +10206,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-1-9";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -10324,7 +10325,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-2-0";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -10448,7 +10449,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-2-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -10572,7 +10573,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-2-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -10696,7 +10697,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-2-2";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -10820,7 +10821,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-2-3";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -10944,7 +10945,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-2-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-2-3-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -11068,7 +11069,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-2-4";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -11192,7 +11193,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-2-5";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -11316,7 +11317,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-2-6";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -11440,7 +11441,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-3-0";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -11569,7 +11570,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-3-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -11698,7 +11699,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-3-2";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -11827,7 +11828,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-3-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-3-2-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -11956,7 +11957,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-3-3";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -12085,7 +12086,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-3-4";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -12214,7 +12215,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-3-5";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -12343,7 +12344,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-3-6";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -12487,7 +12488,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-3-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-3-7";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -12631,7 +12632,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-3-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-3-9";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -12775,7 +12776,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-4-0";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -12929,7 +12930,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-4-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -13083,7 +13084,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-4-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-4-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -13237,7 +13238,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-4-2";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -13391,7 +13392,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-4-3";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -13545,7 +13546,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-5-0";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -13704,7 +13705,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-5-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-5-0-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -13863,7 +13864,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-5-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-5-0-2";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -14022,7 +14023,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-5-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-5-0-3";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -14181,7 +14182,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-5-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-5-0-4";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -14340,7 +14341,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-5-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -14594,7 +14595,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-5-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-5-1-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -14848,7 +14849,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-5-2";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -15102,7 +15103,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-5-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-5-2-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -15356,7 +15357,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-0";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -15635,7 +15636,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-0-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -15914,7 +15915,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-0-2";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -16193,7 +16194,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -16482,7 +16483,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-2";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -16771,7 +16772,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-2-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -17060,7 +17061,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-3";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -17349,7 +17350,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-4";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -17638,7 +17639,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-5";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -17927,7 +17928,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-6";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -18221,7 +18222,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-6-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -18515,7 +18516,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-8";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -18809,7 +18810,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-8-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -19103,7 +19104,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-8-2";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -19397,7 +19398,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-9";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -19691,7 +19692,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-6-9-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-6-9-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -19985,7 +19986,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-8-2";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -20284,7 +20285,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-8-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-8-2-1";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -20583,7 +20584,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-8-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-8-2-2";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -20882,7 +20883,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-8-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-8-2-3";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -21186,7 +21187,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-8-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-8-2-4";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -21490,7 +21491,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-8-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-8-2-5";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -21794,7 +21795,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-8-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-8-2-6";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";
@@ -22098,7 +22099,7 @@
       ];
     };
     acendan-ucs-renaming-tool-setup-www-8-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-setup-www-8-3";
       indexName = "ACendan Scripts";
       categoryName = "Web Interfaces";

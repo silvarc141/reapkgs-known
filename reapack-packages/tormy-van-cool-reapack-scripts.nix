@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   tormy-van-cool-reapack-scripts = {
     test-main-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "test-main-lua-1-0";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Markers";
@@ -19,7 +20,7 @@
       ];
     };
     tost-main-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tost-main-lua-1-0";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Markers";
@@ -33,7 +34,7 @@
       ];
     };
     tormyvancool-audiobooks-chaptermarker-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-audiobooks-chaptermarker-lua-2-3";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Markers";
@@ -47,7 +48,7 @@
       ];
     };
     tormyvancool-audiobooks-chaptermarkerupdater-lua-2-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-audiobooks-chaptermarkerupdater-lua-2-2-3";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Markers";
@@ -61,7 +62,7 @@
       ];
     };
     tormyvancool-tempo-markers-to-csv-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-tempo-markers-to-csv-lua-2-1";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Markers";
@@ -75,7 +76,7 @@
       ];
     };
     tormyvancool-import-tempo-markers-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-import-tempo-markers-lua-1-2";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Markers";
@@ -89,7 +90,7 @@
       ];
     };
     tormyvancool-podcasts-songs-lua-2-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-podcasts-songs-lua-2-7-3";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Regions";
@@ -103,7 +104,7 @@
       ];
     };
     tormyvancool-podcasts-auto-getmetadata-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-podcasts-auto-getmetadata-lua-1-0";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Regions";
@@ -117,7 +118,7 @@
       ];
     };
     tormyvancool-podcasts-segmentation-finalmarker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-podcasts-segmentation-finalmarker-lua-1-0";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Regions";
@@ -131,7 +132,7 @@
       ];
     };
     tormyvancool-podcasts-updater-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-podcasts-updater-lua-1-0";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Regions";
@@ -145,7 +146,7 @@
       ];
     };
     tormyvancool-songs-library-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-songs-library-lua-1-3";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Regions";
@@ -159,7 +160,7 @@
       ];
     };
     tormyvancool-exportstems-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-exportstems-lua-1-0";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Rendering";
@@ -173,7 +174,7 @@
       ];
     };
     tormyvancool-program-runner-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-program-runner-lua-1-0-4";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Various";
@@ -187,7 +188,7 @@
       ];
     };
     tormyvancool-exportdata-lua-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-exportdata-lua-3-5";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Various";
@@ -201,7 +202,7 @@
       ];
     };
     tormyvancool-vsts-vstis-extractor-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-vsts-vstis-extractor-lua-2-1";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Various";
@@ -215,7 +216,7 @@
       ];
     };
     tormyvancool-vsts-vstis-extractor-lua-2-2-pixy = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-vsts-vstis-extractor-lua-2-2-pixy";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Various";
@@ -229,7 +230,7 @@
       ];
     };
     tormyvancool-vsts-vstis-extractor-lua-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-vsts-vstis-extractor-lua-3-1";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Various";
@@ -243,7 +244,7 @@
       ];
     };
     _5-1-surround-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_5-1-surround-1-3";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Multichannel";
@@ -257,7 +258,7 @@
       ];
     };
     _7-1-surround-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_7-1-surround-1-3";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Multichannel";
@@ -271,7 +272,7 @@
       ];
     };
     _7-1-2-surround-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_7-1-2-surround-1-3";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Multichannel";
@@ -285,7 +286,7 @@
       ];
     };
     _7-1-4-surround-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_7-1-4-surround-1-3";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Multichannel";
@@ -299,7 +300,7 @@
       ];
     };
     _7-1-2-downmix-to-5-1-2-surround-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_7-1-2-downmix-to-5-1-2-surround-1-3";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Multichannel";

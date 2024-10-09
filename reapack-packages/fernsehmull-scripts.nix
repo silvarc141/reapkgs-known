@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   fernsehmull-scripts = {
     fernsehmuell-add-edit-s-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-add-edit-s-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -19,7 +20,7 @@
       ];
     };
     fernsehmuell-clear-both-marks-g-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-clear-both-marks-g-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -33,7 +34,7 @@
       ];
     };
     fernsehmuell-clear-in-marks-d-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-clear-in-marks-d-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -47,7 +48,7 @@
       ];
     };
     fernsehmuell-clear-out-marks-f-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-clear-out-marks-f-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -61,7 +62,7 @@
       ];
     };
     fernsehmuell-extract-x-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-extract-x-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -75,7 +76,7 @@
       ];
     };
     fernsehmuell-forward-play-shuttle-l-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-forward-play-shuttle-l-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -89,7 +90,7 @@
       ];
     };
     fernsehmuell-go-to-next-event-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-go-to-next-event-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -103,7 +104,7 @@
       ];
     };
     fernsehmuell-go-to-prev-event-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-go-to-prev-event-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -117,7 +118,7 @@
       ];
     };
     fernsehmuell-gotoin-q-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-gotoin-q-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -131,7 +132,7 @@
       ];
     };
     fernsehmuell-gotoout-w-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-gotoout-w-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -145,7 +146,7 @@
       ];
     };
     fernsehmuell-lift-y-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-lift-y-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -159,7 +160,7 @@
       ];
     };
     fernsehmuell-markclip-t-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-markclip-t-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -173,7 +174,7 @@
       ];
     };
     fernsehmuell-pause-k-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-pause-k-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -187,7 +188,7 @@
       ];
     };
     fernsehmuell-reverse-play-shuttle-j-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-reverse-play-shuttle-j-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -201,7 +202,7 @@
       ];
     };
     fernsehmuell-reverse-play-shuttle-j-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-reverse-play-shuttle-j-lua-1-1";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -215,7 +216,7 @@
       ];
     };
     fernsehmuell-reverse-play-shuttle-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-reverse-play-shuttle-background-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -229,7 +230,7 @@
       ];
     };
     fernsehmuell-setin-i-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-setin-i-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -243,7 +244,7 @@
       ];
     };
     fernsehmuell-setout-o-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-setout-o-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -257,7 +258,7 @@
       ];
     };
     fernsehmuell-step-backwards-400ms-1-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-step-backwards-400ms-1-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -271,7 +272,7 @@
       ];
     };
     fernsehmuell-step-backwards-40ms-3-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-step-backwards-40ms-3-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -285,7 +286,7 @@
       ];
     };
     fernsehmuell-step-forwards-400ms-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-step-forwards-400ms-2-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";
@@ -299,7 +300,7 @@
       ];
     };
     fernsehmuell-step-forwards-40ms-4-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fernsehmuell-step-forwards-40ms-4-lua-1-0";
       indexName = "Fernsehmüll Scripts";
       categoryName = "Mediacomposer_like_functions";

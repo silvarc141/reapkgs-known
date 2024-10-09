@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   joabe-lopes-multitrack-show-creation = {
     createmultipletracks-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "createmultipletracks-lua-1-3";
       indexName = "Joabe Lopes Multitrack_Show_Creation";
       categoryName = "Various";
@@ -19,7 +20,7 @@
       ];
     };
     createmultipletracks-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "createmultipletracks-lua-1-2";
       indexName = "Joabe Lopes Multitrack_Show_Creation";
       categoryName = "Various";
@@ -33,7 +34,7 @@
       ];
     };
     createmultipletracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "createmultipletracks-lua-1-1";
       indexName = "Joabe Lopes Multitrack_Show_Creation";
       categoryName = "Various";
@@ -47,7 +48,7 @@
       ];
     };
     createmultipletracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "createmultipletracks-lua-1-0";
       indexName = "Joabe Lopes Multitrack_Show_Creation";
       categoryName = "Various";
@@ -61,7 +62,7 @@
       ];
     };
     insertmultiplefiles-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insertmultiplefiles-lua-2-0";
       indexName = "Joabe Lopes Multitrack_Show_Creation";
       categoryName = "Various";
@@ -75,7 +76,7 @@
       ];
     };
     insertmultiplefiles-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insertmultiplefiles-lua-1-2";
       indexName = "Joabe Lopes Multitrack_Show_Creation";
       categoryName = "Various";
@@ -89,7 +90,7 @@
       ];
     };
     insertmultiplefiles-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insertmultiplefiles-lua-1-1";
       indexName = "Joabe Lopes Multitrack_Show_Creation";
       categoryName = "Various";
@@ -103,7 +104,7 @@
       ];
     };
     insertmultiplefiles-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insertmultiplefiles-lua-1-0";
       indexName = "Joabe Lopes Multitrack_Show_Creation";
       categoryName = "Various";
@@ -117,7 +118,7 @@
       ];
     };
     newmultiplefiles-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "newmultiplefiles-lua-2-0";
       indexName = "Joabe Lopes Multitrack_Show_Creation";
       categoryName = "Various";
@@ -131,7 +132,7 @@
       ];
     };
     newmultiplefiles-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "newmultiplefiles-lua-1-2";
       indexName = "Joabe Lopes Multitrack_Show_Creation";
       categoryName = "Various";
@@ -145,7 +146,7 @@
       ];
     };
     newmultiplefiles-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "newmultiplefiles-lua-1-1";
       indexName = "Joabe Lopes Multitrack_Show_Creation";
       categoryName = "Various";
@@ -159,7 +160,7 @@
       ];
     };
     newmultiplefiles-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "newmultiplefiles-lua-1-0";
       indexName = "Joabe Lopes Multitrack_Show_Creation";
       categoryName = "Various";

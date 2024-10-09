@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   ply-scripts = {
     ply-synchronize-and-heal-selected-items-lua-0-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-synchronize-and-heal-selected-items-lua-0-2-1";
       indexName = "ply Scripts";
       categoryName = "Items Editing";
@@ -19,7 +20,7 @@
       ];
     };
     ply-source-destination-edit-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-source-destination-edit-lua-1-2-2";
       indexName = "ply Scripts";
       categoryName = "Items Editing/Source-Destination";
@@ -38,7 +39,7 @@
       ];
     };
     ply-source-destination-edit-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-source-destination-edit-lua-1-3-0";
       indexName = "ply Scripts";
       categoryName = "Items Editing/Source-Destination";
@@ -72,7 +73,7 @@
       ];
     };
     ply-source-destination-edit-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-source-destination-edit-lua-1-4-0";
       indexName = "ply Scripts";
       categoryName = "Items Editing/Source-Destination";
@@ -106,7 +107,7 @@
       ];
     };
     ply-export-positions-of-selected-items-to-clipboard-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-export-positions-of-selected-items-to-clipboard-lua-1-1-1";
       indexName = "ply Scripts";
       categoryName = "Items Properties";
@@ -120,7 +121,7 @@
       ];
     };
     ply-5-1-output-router-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-5-1-output-router-jsfx-1-0-1";
       indexName = "ply Scripts";
       categoryName = "JSFX/Routing";
@@ -134,7 +135,7 @@
       ];
     };
     ply-output-switcher-jsfx-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-output-switcher-jsfx-0-1";
       indexName = "ply Scripts";
       categoryName = "JSFX/Routing";
@@ -148,7 +149,7 @@
       ];
     };
     ply-insert-marker-with-id-larger-than-10-at-playback-position-dialog-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-insert-marker-with-id-larger-than-10-at-playback-position-dialog-lua-1-2-1";
       indexName = "ply Scripts";
       categoryName = "Markers";
@@ -162,7 +163,7 @@
       ];
     };
     ply-set-time-selection-relative-to-edit-cursor-dialog-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-set-time-selection-relative-to-edit-cursor-dialog-lua-1-0-1";
       indexName = "ply Scripts";
       categoryName = "Time Selection";
@@ -176,7 +177,7 @@
       ];
     };
     ply-horizontal-zoom-in-center-at-edit-cursor-eel-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-horizontal-zoom-in-center-at-edit-cursor-eel-1-0-1";
       indexName = "ply Scripts";
       categoryName = "Various";
@@ -190,7 +191,7 @@
       ];
     };
     ply-horizontal-zoom-out-center-at-edit-cursor-eel-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-horizontal-zoom-out-center-at-edit-cursor-eel-1-0-1";
       indexName = "ply Scripts";
       categoryName = "Various";
@@ -204,7 +205,7 @@
       ];
     };
     ply-play-by-loop-pre-roll-value-from-loop-end-or-current-cursor-position-if-no-selection-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-play-by-loop-pre-roll-value-from-loop-end-or-current-cursor-position-if-no-selection-lua-1-0-1";
       indexName = "ply Scripts";
       categoryName = "Various";
@@ -218,7 +219,7 @@
       ];
     };
     ply-play-by-loop-pre-roll-value-from-loop-start-or-current-cursor-position-if-no-selection-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-play-by-loop-pre-roll-value-from-loop-start-or-current-cursor-position-if-no-selection-lua-1-0-1";
       indexName = "ply Scripts";
       categoryName = "Various";
@@ -232,7 +233,7 @@
       ];
     };
     ply-playhead-vs-selected-track-items-and-markers-window-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-playhead-vs-selected-track-items-and-markers-window-lua-1-1-1";
       indexName = "ply Scripts";
       categoryName = "Various";
@@ -246,7 +247,7 @@
       ];
     };
     ply-transport-startstop-recording-safe-eel-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-transport-startstop-recording-safe-eel-1-2-1";
       indexName = "ply Scripts";
       categoryName = "Various";
@@ -260,7 +261,7 @@
       ];
     };
     ply-m7util-jsfx-0-1alpha-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ply-m7util-jsfx-0-1alpha-1";
       indexName = "ply Scripts";
       categoryName = "Various/BricastiM7";

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   tjf-scripts = {
     tjf-aaf-remove-fades-after-aaf-conversion-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-aaf-remove-fades-after-aaf-conversion-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "AAF";
@@ -19,7 +20,7 @@
       ];
     };
     tjf-aaf-select-all-split-stereo-tracks-from-aaf-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-aaf-select-all-split-stereo-tracks-from-aaf-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "AAF";
@@ -33,7 +34,7 @@
       ];
     };
     tjf-chunk-editor-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-chunk-editor-lua-2-1";
       indexName = "TJF Scripts";
       categoryName = "Developer Tools";
@@ -47,7 +48,7 @@
       ];
     };
     tjf-search-ucs-for-catid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-search-ucs-for-catid-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Developer Tools";
@@ -61,7 +62,7 @@
       ];
     };
     tjf-search-ucs-for-catid-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-search-ucs-for-catid-lua-1-1";
       indexName = "TJF Scripts";
       categoryName = "Developer Tools";
@@ -75,7 +76,7 @@
       ];
     };
     tjf-search-ucs-for-catid-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-search-ucs-for-catid-lua-1-2";
       indexName = "TJF Scripts";
       categoryName = "Developer Tools";
@@ -89,7 +90,7 @@
       ];
     };
     tjf-add-stretch-marker-hover-mode-dependant-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-add-stretch-marker-hover-mode-dependant-lua-2-1";
       indexName = "TJF Scripts";
       categoryName = "Editing";
@@ -103,7 +104,7 @@
       ];
     };
     tjf-glue-item-preserve-fx-chain-and-then-open-sampleeditor-lua-1-02-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-glue-item-preserve-fx-chain-and-then-open-sampleeditor-lua-1-02-3";
       indexName = "TJF Scripts";
       categoryName = "Editing";
@@ -117,7 +118,7 @@
       ];
     };
     tjf-hover-mode-toggle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-hover-mode-toggle-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing";
@@ -131,7 +132,7 @@
       ];
     };
     tjf-move-edit-cursor-and-selection-to-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-edit-cursor-and-selection-to-mouse-cursor-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing";
@@ -145,7 +146,7 @@
       ];
     };
     tjf-move-edit-cursor-and-selection-to-mouse-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-edit-cursor-and-selection-to-mouse-cursor-lua-1-1";
       indexName = "TJF Scripts";
       categoryName = "Editing";
@@ -159,7 +160,7 @@
       ];
     };
     tjf-split-item-to-time-glue-preserve-fx-chain-and-open-in-sampleeditor-lua-1-02-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-split-item-to-time-glue-preserve-fx-chain-and-open-in-sampleeditor-lua-1-02-3";
       indexName = "TJF Scripts";
       categoryName = "Editing";
@@ -173,7 +174,7 @@
       ];
     };
     tjf-toggle-item-lock-matches-first-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-item-lock-matches-first-item-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing";
@@ -187,7 +188,7 @@
       ];
     };
     tjf-toggle-move-mode-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-move-mode-lua-2-10";
       indexName = "TJF Scripts";
       categoryName = "Editing";
@@ -201,7 +202,7 @@
       ];
     };
     tjf-fade-in-to-edit-cursor-or-mouse-hover-mode-dependant-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-fade-in-to-edit-cursor-or-mouse-hover-mode-dependant-lua-2-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Fades";
@@ -215,7 +216,7 @@
       ];
     };
     tjf-fade-out-from-edit-cursor-or-mouse-hover-mode-dependant-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-fade-out-from-edit-cursor-or-mouse-hover-mode-dependant-lua-2-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Fades";
@@ -229,7 +230,7 @@
       ];
     };
     tjf-smartfade-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-smartfade-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Fades";
@@ -243,7 +244,7 @@
       ];
     };
     tjf-smartfade-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-smartfade-lua-1-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Fades";
@@ -257,7 +258,7 @@
       ];
     };
     tjf-smartfade-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-smartfade-lua-1-3";
       indexName = "TJF Scripts";
       categoryName = "Editing/Fades";
@@ -271,7 +272,7 @@
       ];
     };
     tjf-smartfade-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-smartfade-lua-1-4";
       indexName = "TJF Scripts";
       categoryName = "Editing/Fades";
@@ -285,7 +286,7 @@
       ];
     };
     tjf-smartfade-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-smartfade-lua-1-5";
       indexName = "TJF Scripts";
       categoryName = "Editing/Fades";
@@ -299,7 +300,7 @@
       ];
     };
     tjf-smartfade-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-smartfade-lua-1-6";
       indexName = "TJF Scripts";
       categoryName = "Editing/Fades";
@@ -313,7 +314,7 @@
       ];
     };
     tjf-smartfade-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-smartfade-lua-1-7";
       indexName = "TJF Scripts";
       categoryName = "Editing/Fades";
@@ -327,7 +328,7 @@
       ];
     };
     tjf-smartfade-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-smartfade-lua-1-8";
       indexName = "TJF Scripts";
       categoryName = "Editing/Fades";
@@ -341,7 +342,7 @@
       ];
     };
     tjf-nudge-decrease-both-fade-legths-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-nudge-decrease-both-fade-legths-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Nudge";
@@ -355,7 +356,7 @@
       ];
     };
     tjf-nudge-decrease-both-fade-legths-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-nudge-decrease-both-fade-legths-lua-1-01";
       indexName = "TJF Scripts";
       categoryName = "Editing/Nudge";
@@ -369,7 +370,7 @@
       ];
     };
     tjf-nudge-decrease-fade-in-legth-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-nudge-decrease-fade-in-legth-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Nudge";
@@ -383,7 +384,7 @@
       ];
     };
     tjf-nudge-decrease-fade-in-legth-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-nudge-decrease-fade-in-legth-lua-1-01";
       indexName = "TJF Scripts";
       categoryName = "Editing/Nudge";
@@ -397,7 +398,7 @@
       ];
     };
     tjf-nudge-decrease-fade-out-legth-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-nudge-decrease-fade-out-legth-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Nudge";
@@ -411,7 +412,7 @@
       ];
     };
     tjf-nudge-decrease-fade-out-legth-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-nudge-decrease-fade-out-legth-lua-1-01";
       indexName = "TJF Scripts";
       categoryName = "Editing/Nudge";
@@ -425,7 +426,7 @@
       ];
     };
     tjf-nudge-increase-both-fade-legths-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-nudge-increase-both-fade-legths-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Nudge";
@@ -439,7 +440,7 @@
       ];
     };
     tjf-nudge-increase-both-fade-legths-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-nudge-increase-both-fade-legths-lua-1-01";
       indexName = "TJF Scripts";
       categoryName = "Editing/Nudge";
@@ -453,7 +454,7 @@
       ];
     };
     tjf-nudge-increase-fade-in-legth-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-nudge-increase-fade-in-legth-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Nudge";
@@ -467,7 +468,7 @@
       ];
     };
     tjf-nudge-increase-fade-in-legth-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-nudge-increase-fade-in-legth-lua-1-01";
       indexName = "TJF Scripts";
       categoryName = "Editing/Nudge";
@@ -481,7 +482,7 @@
       ];
     };
     tjf-nudge-increase-fade-out-legth-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-nudge-increase-fade-out-legth-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Nudge";
@@ -495,7 +496,7 @@
       ];
     };
     tjf-nudge-increase-fade-out-legth-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-nudge-increase-fade-out-legth-lua-1-01";
       indexName = "TJF Scripts";
       categoryName = "Editing/Nudge";
@@ -509,7 +510,7 @@
       ];
     };
     tjf-nudge-selected-items-volume-plus3db-eel-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-nudge-selected-items-volume-plus3db-eel-1-0-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Nudge";
@@ -523,7 +524,7 @@
       ];
     };
     tjf-nudge-selected-items-volume-3db-eel-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-nudge-selected-items-volume-3db-eel-1-0-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Nudge";
@@ -537,7 +538,7 @@
       ];
     };
     tjf-adjust-razor-edit-end-to-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-adjust-razor-edit-end-to-edit-cursor-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -551,7 +552,7 @@
       ];
     };
     tjf-adjust-razor-edit-start-to-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-adjust-razor-edit-start-to-edit-cursor-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -565,7 +566,7 @@
       ];
     };
     tjf-export-razor-edit-to-new-project-lua-2-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-export-razor-edit-to-new-project-lua-2-7";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -579,7 +580,7 @@
       ];
     };
     tjf-link-razor-edit-and-item-selection-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-link-razor-edit-and-item-selection-lua-2-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -593,7 +594,7 @@
       ];
     };
     tjf-link-razor-edit-selection-with-folders-item-grouping-affects-behavior-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-link-razor-edit-selection-with-folders-item-grouping-affects-behavior-lua-2-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -607,7 +608,7 @@
       ];
     };
     tjf-link-time-selection-to-razor-edits-deferred-script-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-link-time-selection-to-razor-edits-deferred-script-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -621,7 +622,7 @@
       ];
     };
     tjf-move-edit-cursor-to-end-of-razor-edits-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-edit-cursor-to-end-of-razor-edits-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -635,7 +636,7 @@
       ];
     };
     tjf-move-edit-cursor-to-start-of-razor-edits-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-edit-cursor-to-start-of-razor-edits-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -649,7 +650,7 @@
       ];
     };
     tjf-move-left-edge-of-razor-edits-to-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-left-edge-of-razor-edits-to-edit-cursor-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -663,7 +664,7 @@
       ];
     };
     tjf-move-left-edge-of-razor-edits-to-edit-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-left-edge-of-razor-edits-to-edit-cursor-lua-1-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -677,7 +678,7 @@
       ];
     };
     tjf-move-razor-edits-to-new-subproject-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-razor-edits-to-new-subproject-lua-0-9";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -691,7 +692,7 @@
       ];
     };
     tjf-move-razor-edits-to-new-subproject-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-razor-edits-to-new-subproject-lua-0-2";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -705,7 +706,7 @@
       ];
     };
     tjf-move-razor-edits-to-new-subproject-lua-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-razor-edits-to-new-subproject-lua-0-3";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -719,7 +720,7 @@
       ];
     };
     tjf-move-razor-edits-to-new-subproject-lua-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-razor-edits-to-new-subproject-lua-0-4";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -733,7 +734,7 @@
       ];
     };
     tjf-move-razor-edits-to-new-subproject-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-razor-edits-to-new-subproject-lua-0-5";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -747,7 +748,7 @@
       ];
     };
     tjf-move-razor-edits-to-new-subproject-lua-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-razor-edits-to-new-subproject-lua-0-6";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -761,7 +762,7 @@
       ];
     };
     tjf-move-razor-edits-to-new-subproject-lua-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-razor-edits-to-new-subproject-lua-0-7";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -775,7 +776,7 @@
       ];
     };
     tjf-move-razor-edits-to-new-subproject-lua-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-razor-edits-to-new-subproject-lua-0-8";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -789,7 +790,7 @@
       ];
     };
     tjf-move-razor-edits-to-new-subproject-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-razor-edits-to-new-subproject-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -803,7 +804,7 @@
       ];
     };
     tjf-move-razor-edits-to-new-subproject-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-razor-edits-to-new-subproject-lua-1-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -817,7 +818,7 @@
       ];
     };
     tjf-move-razor-edits-to-new-subproject-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-razor-edits-to-new-subproject-lua-1-2";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -831,7 +832,7 @@
       ];
     };
     tjf-move-razor-edits-to-new-subproject-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-razor-edits-to-new-subproject-lua-1-4";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -845,7 +846,7 @@
       ];
     };
     tjf-move-razor-edits-to-new-subproject-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-razor-edits-to-new-subproject-lua-1-5";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -859,7 +860,7 @@
       ];
     };
     tjf-move-right-edge-of-razor-edits-to-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-right-edge-of-razor-edits-to-edit-cursor-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -873,7 +874,7 @@
       ];
     };
     tjf-move-right-edge-of-razor-edits-to-edit-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-right-edge-of-razor-edits-to-edit-cursor-lua-1-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -887,7 +888,7 @@
       ];
     };
     tjf-razor-edit-enclose-media-items-leave-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-razor-edit-enclose-media-items-leave-selection-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -901,7 +902,7 @@
       ];
     };
     tjf-set-time-selection-to-razor-edits-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-set-time-selection-to-razor-edits-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Razor Edit";
@@ -915,7 +916,7 @@
       ];
     };
     tjf-non-destructive-reverse-time-selection-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-non-destructive-reverse-time-selection-lua-2-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Reverse";
@@ -929,7 +930,7 @@
       ];
     };
     tjf-non-destructive-reverse-time-selection-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-non-destructive-reverse-time-selection-lua-2-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Reverse";
@@ -943,7 +944,7 @@
       ];
     };
     tjf-reverse-fades-with-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-reverse-fades-with-item-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Reverse";
@@ -957,7 +958,7 @@
       ];
     };
     tjf-reverse-order-of-items-in-time-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-reverse-order-of-items-in-time-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Reverse";
@@ -971,7 +972,7 @@
       ];
     };
     tjf-add-sync-point-hover-mode-dependent-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-add-sync-point-hover-mode-dependent-lua-2-01";
       indexName = "TJF Scripts";
       categoryName = "Editing/Takes";
@@ -985,7 +986,7 @@
       ];
     };
     tjf-cycle-through-take-channels-stereo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-cycle-through-take-channels-stereo-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Takes";
@@ -999,7 +1000,7 @@
       ];
     };
     tjf-cycle-through-take-channels-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-cycle-through-take-channels-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Takes";
@@ -1013,7 +1014,7 @@
       ];
     };
     tjf-explode-media-items-into-new-mono-items-for-each-channel-of-source-media-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-explode-media-items-into-new-mono-items-for-each-channel-of-source-media-lua-0-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Takes";
@@ -1027,7 +1028,7 @@
       ];
     };
     tjf-rename-and-format-items-and-source-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-rename-and-format-items-and-source-lua-2-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Takes";
@@ -1041,7 +1042,7 @@
       ];
     };
     tjf-rename-and-format-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-rename-and-format-items-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Takes";
@@ -1055,7 +1056,7 @@
       ];
     };
     tjf-rename-and-format-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-rename-and-format-items-lua-1-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Takes";
@@ -1069,7 +1070,7 @@
       ];
     };
     tjf-route-all-mono-sounds-to-center-channel-via-takes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-route-all-mono-sounds-to-center-channel-via-takes-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Takes";
@@ -1083,7 +1084,7 @@
       ];
     };
     tjf-set-take-to-mono-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-set-take-to-mono-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Takes";
@@ -1097,7 +1098,7 @@
       ];
     };
     tjf-simple-ucs-format-and-rename-items-lua-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-simple-ucs-format-and-rename-items-lua-3-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Takes";
@@ -1111,7 +1112,7 @@
       ];
     };
     tjf-smart-or-possibly-anger-inducing-mute-item-toggle-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-smart-or-possibly-anger-inducing-mute-item-toggle-lua-1-2";
       indexName = "TJF Scripts";
       categoryName = "Editing/Takes";
@@ -1125,7 +1126,7 @@
       ];
     };
     tjf-toggle-mute-match-first-selected-lua-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-mute-match-first-selected-lua-2-5";
       indexName = "TJF Scripts";
       categoryName = "Editing/Takes";
@@ -1139,7 +1140,7 @@
       ];
     };
     tjf-toggle-take-channel-stereo-flip-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-take-channel-stereo-flip-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Takes";
@@ -1153,7 +1154,7 @@
       ];
     };
     tjf-merge-selected-tracks-to-psuedo-stereo-pairs-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-merge-selected-tracks-to-psuedo-stereo-pairs-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Tracks";
@@ -1167,7 +1168,7 @@
       ];
     };
     tjf-remove-any-empty-tracks-among-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-remove-any-empty-tracks-among-selected-tracks-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Tracks";
@@ -1181,7 +1182,7 @@
       ];
     };
     tjf-remove-any-empty-tracks-in-session-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-remove-any-empty-tracks-in-session-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Tracks";
@@ -1195,7 +1196,7 @@
       ];
     };
     tjf-split-item-hover-mode-dependant-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-split-item-hover-mode-dependant-lua-2-01";
       indexName = "TJF Scripts";
       categoryName = "Editing/Trim";
@@ -1209,7 +1210,7 @@
       ];
     };
     tjf-split-item-at-time-selection-otherwise-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-split-item-at-time-selection-otherwise-mouse-cursor-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Trim";
@@ -1223,7 +1224,7 @@
       ];
     };
     tjf-trim-and-fill-to-time-selection-only-if-items-are-selected-selected-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-trim-and-fill-to-time-selection-only-if-items-are-selected-selected-lua-1-1";
       indexName = "TJF Scripts";
       categoryName = "Editing/Trim";
@@ -1237,7 +1238,7 @@
       ];
     };
     tjf-trim-items-left-of-cursor-or-time-selection-only-if-selected-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-trim-items-left-of-cursor-or-time-selection-only-if-selected-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Trim";
@@ -1251,7 +1252,7 @@
       ];
     };
     tjf-trim-items-right-of-cursor-or-time-selection-only-if-selected-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-trim-items-right-of-cursor-or-time-selection-only-if-selected-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Editing/Trim";
@@ -1265,7 +1266,7 @@
       ];
     };
     tjf-trim-left-side-of-items-hover-mode-dependant-lua-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-trim-left-side-of-items-hover-mode-dependant-lua-2-6";
       indexName = "TJF Scripts";
       categoryName = "Editing/Trim";
@@ -1279,7 +1280,7 @@
       ];
     };
     tjf-trim-right-side-of-items-hover-mode-dependant-lua-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-trim-right-side-of-items-hover-mode-dependant-lua-2-6";
       indexName = "TJF Scripts";
       categoryName = "Editing/Trim";
@@ -1293,7 +1294,7 @@
       ];
     };
     tjf-add-4-envelope-points-to-all-envelopes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-add-4-envelope-points-to-all-envelopes-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1307,7 +1308,7 @@
       ];
     };
     tjf-add-4-envelope-points-to-visible-envelopes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-add-4-envelope-points-to-visible-envelopes-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1321,7 +1322,7 @@
       ];
     };
     tjf-arm-all-envelopes-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-arm-all-envelopes-selected-tracks-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1335,7 +1336,7 @@
       ];
     };
     tjf-arm-all-envelopes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-arm-all-envelopes-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1349,7 +1350,7 @@
       ];
     };
     tjf-coalesce-take-volume-to-track-volume-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-coalesce-take-volume-to-track-volume-lua-0-1";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1363,7 +1364,7 @@
       ];
     };
     tjf-coalesce-track-volume-to-take-volume-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-coalesce-track-volume-to-take-volume-lua-0-1";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1377,7 +1378,7 @@
       ];
     };
     tjf-glide-all-envelopes-to-time-razoredit-or-item-selection-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-glide-all-envelopes-to-time-razoredit-or-item-selection-lua-2-2";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1391,7 +1392,7 @@
       ];
     };
     tjf-glide-all-visible-envelopes-to-time-razoredit-or-item-selection-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-glide-all-visible-envelopes-to-time-razoredit-or-item-selection-lua-2-2";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1405,7 +1406,7 @@
       ];
     };
     tjf-options-toggle-check-edit-cursor-for-protools-sytle-automation-write-and-glide-functions-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-options-toggle-check-edit-cursor-for-protools-sytle-automation-write-and-glide-functions-lua-2-1";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1419,7 +1420,7 @@
       ];
     };
     tjf-punch-visible-envelopes-2-razor-edit-support-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-punch-visible-envelopes-2-razor-edit-support-lua-2-1";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1433,7 +1434,7 @@
       ];
     };
     tjf-punch-write-envelope-points-to-all-visible-envelopes-to-time-selection-or-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-punch-write-envelope-points-to-all-visible-envelopes-to-time-selection-or-selected-items-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1447,7 +1448,7 @@
       ];
     };
     tjf-show-last-touched-fx-envelope-hide-others-deferred-stays-active-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-show-last-touched-fx-envelope-hide-others-deferred-stays-active-lua-1-4";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1461,7 +1462,7 @@
       ];
     };
     tjf-show-last-touched-fx-envelope-hide-others-deferred-stays-active-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-show-last-touched-fx-envelope-hide-others-deferred-stays-active-lua-1-5";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1475,7 +1476,7 @@
       ];
     };
     tjf-toggle-item-pitch-envelope-visible-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-item-pitch-envelope-visible-lua-2-3";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1489,7 +1490,7 @@
       ];
     };
     tjf-toggle-last-touched-fx-envelope-visible-hide-others-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-last-touched-fx-envelope-visible-hide-others-lua-1-5";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1503,7 +1504,7 @@
       ];
     };
     tjf-toggle-last-touched-fx-envelope-visible-hide-others-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-last-touched-fx-envelope-visible-hide-others-lua-1-6";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1517,7 +1518,7 @@
       ];
     };
     tjf-toggle-pan-envelope-visible-for-track-or-items-if-items-are-selected-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-pan-envelope-visible-for-track-or-items-if-items-are-selected-lua-2-3";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1531,7 +1532,7 @@
       ];
     };
     tjf-toggle-volume-prefx-envelope-visible-for-track-or-items-if-items-are-selected-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-volume-prefx-envelope-visible-for-track-or-items-if-items-are-selected-lua-2-0";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1545,7 +1546,7 @@
       ];
     };
     tjf-toggle-volume-envelope-visible-for-track-or-items-if-items-are-selected-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-volume-envelope-visible-for-track-or-items-if-items-are-selected-lua-2-0";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1559,7 +1560,7 @@
       ];
     };
     tjf-write-punch-all-envelopes-to-time-razoredit-or-item-selection-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-write-punch-all-envelopes-to-time-razoredit-or-item-selection-lua-2-2";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1573,7 +1574,7 @@
       ];
     };
     tjf-write-punch-all-envelopes-to-time-razoredit-or-item-selection-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-write-punch-all-envelopes-to-time-razoredit-or-item-selection-lua-2-3";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1587,7 +1588,7 @@
       ];
     };
     tjf-write-punch-all-envelopes-to-time-razoredit-or-item-selection-lua-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-write-punch-all-envelopes-to-time-razoredit-or-item-selection-lua-2-4";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1601,7 +1602,7 @@
       ];
     };
     tjf-write-punch-all-visible-envelopes-to-time-razoredit-or-item-selection-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-write-punch-all-visible-envelopes-to-time-razoredit-or-item-selection-lua-2-2";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1615,7 +1616,7 @@
       ];
     };
     tjf-write-punch-all-visible-envelopes-to-time-razoredit-or-item-selection-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-write-punch-all-visible-envelopes-to-time-razoredit-or-item-selection-lua-2-3";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1629,7 +1630,7 @@
       ];
     };
     tjf-write-punch-all-visible-envelopes-to-time-razoredit-or-item-selection-lua-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-write-punch-all-visible-envelopes-to-time-razoredit-or-item-selection-lua-2-4";
       indexName = "TJF Scripts";
       categoryName = "Envelopes or Automation";
@@ -1643,7 +1644,7 @@
       ];
     };
     tjf-playback-at-half-speed-once-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-playback-at-half-speed-once-lua-1-2";
       indexName = "TJF Scripts";
       categoryName = "Playback";
@@ -1657,7 +1658,7 @@
       ];
     };
     tjf-playback-that-reads-insertion-toggle-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-playback-that-reads-insertion-toggle-lua-1-2";
       indexName = "TJF Scripts";
       categoryName = "Playback";
@@ -1671,7 +1672,7 @@
       ];
     };
     tjf-toggle-insertion-follows-playback-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-insertion-follows-playback-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Playback";
@@ -1685,7 +1686,7 @@
       ];
     };
     tjf-toggle-link-loop-selection-to-time-selection-on-playback-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-link-loop-selection-to-time-selection-on-playback-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Playback";
@@ -1699,7 +1700,7 @@
       ];
     };
     tjf-takefx-plugin-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-takefx-plugin-lua-1-1";
       indexName = "TJF Scripts";
       categoryName = "Plugin Manipulation";
@@ -1713,7 +1714,7 @@
       ];
     };
     tjf-add-adjust-reset-reasurround2-settings-for-selected-items-or-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-add-adjust-reset-reasurround2-settings-for-selected-items-or-tracks-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Plugin Manipulation/ReaSurround2";
@@ -1727,7 +1728,7 @@
       ];
     };
     tjf-add-adjust-reset-reasurround2-settings-for-selected-items-or-tracks-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-add-adjust-reset-reasurround2-settings-for-selected-items-or-tracks-lua-1-2";
       indexName = "TJF Scripts";
       categoryName = "Plugin Manipulation/ReaSurround2";
@@ -1741,7 +1742,7 @@
       ];
     };
     tjf-cycle-selected-track-size-tiny-small-medium-large-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-cycle-selected-track-size-tiny-small-medium-large-lua-1-7";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1755,7 +1756,7 @@
       ];
     };
     tjf-cycle-track-size-and-zoom-to-selection-if-any-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-cycle-track-size-and-zoom-to-selection-if-any-lua-1-7";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1769,7 +1770,7 @@
       ];
     };
     tjf-decrease-selected-track-heights-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-decrease-selected-track-heights-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1783,7 +1784,7 @@
       ];
     };
     tjf-escape-key-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-escape-key-lua-2-0";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1797,7 +1798,7 @@
       ];
     };
     tjf-folder-cycle-collapsed-hidden-expanded-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-folder-cycle-collapsed-hidden-expanded-lua-1-1";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1811,7 +1812,7 @@
       ];
     };
     tjf-gridlock-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-gridlock-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1825,7 +1826,7 @@
       ];
     };
     tjf-increase-selected-track-heights-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-increase-selected-track-heights-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1839,7 +1840,7 @@
       ];
     };
     tjf-link-track-and-item-and-razor-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-link-track-and-item-and-razor-selection-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1853,7 +1854,7 @@
       ];
     };
     tjf-link-track-and-item-and-razor-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-link-track-and-item-and-razor-selection-lua-1-1";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1867,7 +1868,7 @@
       ];
     };
     tjf-link-track-and-item-and-razor-selection-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-link-track-and-item-and-razor-selection-lua-1-2";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1881,7 +1882,7 @@
       ];
     };
     tjf-minimize-all-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-minimize-all-tracks-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1895,7 +1896,7 @@
       ];
     };
     tjf-move-edit-cursor-to-middle-of-time-selection-or-selection-of-items-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-edit-cursor-to-middle-of-time-selection-or-selection-of-items-lua-2-1";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1909,7 +1910,7 @@
       ];
     };
     tjf-move-edit-cursor-to-start-of-items-upon-first-selection-deferred-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-move-edit-cursor-to-start-of-items-upon-first-selection-deferred-lua-1-1-3";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1923,7 +1924,7 @@
       ];
     };
     tjf-option-tab-function-similar-to-pro-tools-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-option-tab-function-similar-to-pro-tools-lua-1-1";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1937,7 +1938,7 @@
       ];
     };
     tjf-save-all-open-dirty-projects-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-save-all-open-dirty-projects-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1951,7 +1952,7 @@
       ];
     };
     tjf-select-pix-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-select-pix-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1965,7 +1966,7 @@
       ];
     };
     tjf-set-time-selection-to-item-or-open-item-properties-if-time-already-matches-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-set-time-selection-to-item-or-open-item-properties-if-time-already-matches-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1979,7 +1980,7 @@
       ];
     };
     tjf-smart-move-edit-cursor-to-end-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-smart-move-edit-cursor-to-end-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -1993,7 +1994,7 @@
       ];
     };
     tjf-smart-move-edit-cursor-to-start-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-smart-move-edit-cursor-to-start-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -2007,7 +2008,7 @@
       ];
     };
     tjf-tab-function-similar-to-pro-tools-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-tab-function-similar-to-pro-tools-lua-1-1";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -2021,7 +2022,7 @@
       ];
     };
     tjf-toggle-session-stereo-or-6channel-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-session-stereo-or-6channel-lua-2-0";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -2035,7 +2036,7 @@
       ];
     };
     tjf-toggle-tab-to-transient-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-tab-to-transient-lua-1-0";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";
@@ -2049,7 +2050,7 @@
       ];
     };
     tjf-toggle-track-supercollapsed-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tjf-toggle-track-supercollapsed-lua-1-1";
       indexName = "TJF Scripts";
       categoryName = "Session Navigation";

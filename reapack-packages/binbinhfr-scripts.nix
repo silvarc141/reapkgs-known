@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   binbinhfr-scripts = {
     bbh-goto-last-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-goto-last-track-lua-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Arrange";
@@ -19,7 +20,7 @@
       ];
     };
     bbh-goto-master-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-goto-master-track-lua-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Arrange";
@@ -33,7 +34,7 @@
       ];
     };
     bbh-goto-next-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-goto-next-track-lua-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Arrange";
@@ -47,7 +48,7 @@
       ];
     };
     bbh-goto-previous-or-master-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-goto-previous-or-master-track-lua-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Arrange";
@@ -61,7 +62,7 @@
       ];
     };
     bbh-zoomwheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-zoomwheel-lua-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Arrange";
@@ -75,7 +76,7 @@
       ];
     };
     bbh-clean-sustain-cc-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-clean-sustain-cc-lua-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Item Editing";
@@ -89,7 +90,7 @@
       ];
     };
     bbh-clean-sustain-cc-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-clean-sustain-cc-lua-1-1";
       indexName = "BinbinHfr Scripts";
       categoryName = "Item Editing";
@@ -103,7 +104,7 @@
       ];
     };
     bbh-delete-all-sysex-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-delete-all-sysex-lua-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Item Editing";
@@ -117,7 +118,7 @@
       ];
     };
     bbh-legato-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-legato-notes-lua-1-1";
       indexName = "BinbinHfr Scripts";
       categoryName = "Item Editing";
@@ -131,7 +132,7 @@
       ];
     };
     bbh-legato-notes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-legato-notes-lua-1-2";
       indexName = "BinbinHfr Scripts";
       categoryName = "Item Editing";
@@ -145,7 +146,7 @@
       ];
     };
     bbh-legato-notes-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-legato-notes-lua-1-3";
       indexName = "BinbinHfr Scripts";
       categoryName = "Item Editing";
@@ -159,7 +160,7 @@
       ];
     };
     bbh-scale-notes-velocities-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-scale-notes-velocities-lua-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Item Editing";
@@ -173,7 +174,7 @@
       ];
     };
     bbh-scale-notes-velocities-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-scale-notes-velocities-lua-1-1";
       indexName = "BinbinHfr Scripts";
       categoryName = "Item Editing";
@@ -187,7 +188,7 @@
       ];
     };
     bbh-scale-notes-velocities-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-scale-notes-velocities-lua-1-2";
       indexName = "BinbinHfr Scripts";
       categoryName = "Item Editing";
@@ -201,7 +202,7 @@
       ];
     };
     bbh-scale-notes-velocities-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-scale-notes-velocities-lua-1-5";
       indexName = "BinbinHfr Scripts";
       categoryName = "Item Editing";
@@ -215,7 +216,7 @@
       ];
     };
     bbh-transpose-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-transpose-notes-lua-1-1";
       indexName = "BinbinHfr Scripts";
       categoryName = "Item Editing";
@@ -229,7 +230,7 @@
       ];
     };
     bbh-transpose-notes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-transpose-notes-lua-1-2";
       indexName = "BinbinHfr Scripts";
       categoryName = "Item Editing";
@@ -243,7 +244,7 @@
       ];
     };
     bbh-trim-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-trim-selected-items-lua-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Item Editing";
@@ -257,7 +258,7 @@
       ];
     };
     bbh-midi-compressor-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-midi-compressor-jsfx-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -271,7 +272,7 @@
       ];
     };
     bbh-midi-keyboard-sensitivity-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-midi-keyboard-sensitivity-jsfx-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -285,7 +286,7 @@
       ];
     };
     bbh-midi-transpose-project-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-midi-transpose-project-jsfx-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -299,7 +300,7 @@
       ];
     };
     bbh-midi-transpose-project-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-midi-transpose-project-jsfx-1-1";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -313,7 +314,7 @@
       ];
     };
     bbh-midi-transpose-project-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-midi-transpose-project-jsfx-1-2";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -327,7 +328,7 @@
       ];
     };
     bbh-midi-transpose-project-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-midi-transpose-project-jsfx-1-3";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -341,7 +342,7 @@
       ];
     };
     bbh-midi-transpose-track-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-midi-transpose-track-jsfx-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -355,7 +356,7 @@
       ];
     };
     bbh-midi-transpose-track-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-midi-transpose-track-jsfx-1-1";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -369,7 +370,7 @@
       ];
     };
     bbh-midi-transpose-track-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-midi-transpose-track-jsfx-1-2";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -383,7 +384,7 @@
       ];
     };
     bbh-midi-transpose-track-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-midi-transpose-track-jsfx-1-3";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -397,7 +398,7 @@
       ];
     };
     bbh-ms-decoder-gains-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-ms-decoder-gains-jsfx-1-2";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -411,7 +412,7 @@
       ];
     };
     bbh-ms-encoder-gains-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-ms-encoder-gains-jsfx-1-2";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -425,7 +426,7 @@
       ];
     };
     bbh-simple-gain-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-simple-gain-jsfx-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -439,7 +440,7 @@
       ];
     };
     bbh-simple-gain-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-simple-gain-jsfx-1-1";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -453,7 +454,7 @@
       ];
     };
     bbh-simple-smooth-gain-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-simple-smooth-gain-jsfx-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -467,7 +468,7 @@
       ];
     };
     bbh-simple-smooth-gain-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-simple-smooth-gain-jsfx-1-1";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -481,7 +482,7 @@
       ];
     };
     bbh-simple-smooth-gain-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-simple-smooth-gain-jsfx-1-2";
       indexName = "BinbinHfr Scripts";
       categoryName = "Jsfx";
@@ -495,7 +496,7 @@
       ];
     };
     bbh-lyricator-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-lyricator-lua-1-4";
       indexName = "BinbinHfr Scripts";
       categoryName = "Various";
@@ -509,7 +510,7 @@
       ];
     };
     bbh-lyricator-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-lyricator-lua-1-5";
       indexName = "BinbinHfr Scripts";
       categoryName = "Various";
@@ -523,7 +524,7 @@
       ];
     };
     bbh-lyricator-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-lyricator-lua-1-6";
       indexName = "BinbinHfr Scripts";
       categoryName = "Various";
@@ -537,7 +538,7 @@
       ];
     };
     bbh-lyricator-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-lyricator-lua-1-7";
       indexName = "BinbinHfr Scripts";
       categoryName = "Various";
@@ -551,7 +552,7 @@
       ];
     };
     bbh-lyricator-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-lyricator-lua-1-8";
       indexName = "BinbinHfr Scripts";
       categoryName = "Various";
@@ -565,7 +566,7 @@
       ];
     };
     bbh-lyricator-lua-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-lyricator-lua-1-9";
       indexName = "BinbinHfr Scripts";
       categoryName = "Various";
@@ -589,7 +590,7 @@
       ];
     };
     bbh-lyricator-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-lyricator-lua-1-10";
       indexName = "BinbinHfr Scripts";
       categoryName = "Various";
@@ -613,7 +614,7 @@
       ];
     };
     bbh-lyricator-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-lyricator-lua-1-11";
       indexName = "BinbinHfr Scripts";
       categoryName = "Various";
@@ -637,7 +638,7 @@
       ];
     };
     bbh-reload-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bbh-reload-project-lua-1-0";
       indexName = "BinbinHfr Scripts";
       categoryName = "Various";

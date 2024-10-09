@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   dfk-reaper-scripts = {
     dfk-advance-loop-segment-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dfk-advance-loop-segment-lua-1-01";
       indexName = "Dfk REAPER Scripts";
       categoryName = "Dfk REAPER Scripts";
@@ -19,7 +20,7 @@
       ];
     };
     dfk-custom-toolbar-utility-lua-0-83 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dfk-custom-toolbar-utility-lua-0-83";
       indexName = "Dfk REAPER Scripts";
       categoryName = "Dfk REAPER Scripts";
@@ -33,7 +34,7 @@
       ];
     };
     dfk-item-reader-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dfk-item-reader-lua-2-21";
       indexName = "Dfk REAPER Scripts";
       categoryName = "Dfk REAPER Scripts";
@@ -47,7 +48,7 @@
       ];
     };
     dfk-mini-track-mixer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dfk-mini-track-mixer-lua-1-0";
       indexName = "Dfk REAPER Scripts";
       categoryName = "Dfk REAPER Scripts";
@@ -61,7 +62,7 @@
       ];
     };
     dfk-multiple-track-zero-cross-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dfk-multiple-track-zero-cross-lua-1-00";
       indexName = "Dfk REAPER Scripts";
       categoryName = "Dfk REAPER Scripts";
@@ -75,7 +76,7 @@
       ];
     };
     dfk-project-map-navigator-lua-0-95a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dfk-project-map-navigator-lua-0-95a";
       indexName = "Dfk REAPER Scripts";
       categoryName = "Dfk REAPER Scripts";
@@ -89,7 +90,7 @@
       ];
     };
     dfk-quantize-project-markers-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dfk-quantize-project-markers-lua-1-00";
       indexName = "Dfk REAPER Scripts";
       categoryName = "Dfk REAPER Scripts";
@@ -103,7 +104,7 @@
       ];
     };
     dfk-regress-loop-segment-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dfk-regress-loop-segment-lua-1-00";
       indexName = "Dfk REAPER Scripts";
       categoryName = "Dfk REAPER Scripts";
@@ -117,7 +118,7 @@
       ];
     };
     dfk-track-router-lua-0-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dfk-track-router-lua-0-80";
       indexName = "Dfk REAPER Scripts";
       categoryName = "Dfk REAPER Scripts";
@@ -131,7 +132,7 @@
       ];
     };
     dfk-transient-guru-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dfk-transient-guru-lua-1-1";
       indexName = "Dfk REAPER Scripts";
       categoryName = "Dfk REAPER Scripts";

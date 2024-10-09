@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   tracker-tools = {
     tracker-lua-0-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-0-94";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -19,7 +20,7 @@
       ];
     };
     tracker-lua-0-96 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-0-96";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -33,7 +34,7 @@
       ];
     };
     tracker-lua-0-97 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-0-97";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -47,7 +48,7 @@
       ];
     };
     tracker-lua-0-98 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-0-98";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -61,7 +62,7 @@
       ];
     };
     tracker-lua-0-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-0-99";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -75,7 +76,7 @@
       ];
     };
     tracker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-0";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -89,7 +90,7 @@
       ];
     };
     tracker-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-01";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -103,7 +104,7 @@
       ];
     };
     tracker-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-02";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -117,7 +118,7 @@
       ];
     };
     tracker-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-03";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -131,7 +132,7 @@
       ];
     };
     tracker-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-04";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -145,7 +146,7 @@
       ];
     };
     tracker-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-05";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -159,7 +160,7 @@
       ];
     };
     tracker-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-06";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -173,7 +174,7 @@
       ];
     };
     tracker-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-07";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -187,7 +188,7 @@
       ];
     };
     tracker-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-08";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -201,7 +202,7 @@
       ];
     };
     tracker-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-09";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -215,7 +216,7 @@
       ];
     };
     tracker-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-10";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -229,7 +230,7 @@
       ];
     };
     tracker-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-11";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -243,7 +244,7 @@
       ];
     };
     tracker-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-12";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -257,7 +258,7 @@
       ];
     };
     tracker-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-13";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -271,7 +272,7 @@
       ];
     };
     tracker-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-14";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -285,7 +286,7 @@
       ];
     };
     tracker-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-15";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -299,7 +300,7 @@
       ];
     };
     tracker-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-16";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -313,7 +314,7 @@
       ];
     };
     tracker-lua-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-17";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -327,7 +328,7 @@
       ];
     };
     tracker-lua-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-18";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -341,7 +342,7 @@
       ];
     };
     tracker-lua-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-19";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -355,7 +356,7 @@
       ];
     };
     tracker-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-21";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -369,7 +370,7 @@
       ];
     };
     tracker-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-22";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -383,7 +384,7 @@
       ];
     };
     tracker-lua-1-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-23";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -397,7 +398,7 @@
       ];
     };
     tracker-lua-1-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-24";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -411,7 +412,7 @@
       ];
     };
     tracker-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-25";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -425,7 +426,7 @@
       ];
     };
     tracker-lua-1-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-26";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -439,7 +440,7 @@
       ];
     };
     tracker-lua-1-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-27";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -453,7 +454,7 @@
       ];
     };
     tracker-lua-1-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-28";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -467,7 +468,7 @@
       ];
     };
     tracker-lua-1-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-29";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -481,7 +482,7 @@
       ];
     };
     tracker-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-30";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -495,7 +496,7 @@
       ];
     };
     tracker-lua-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-32";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -509,7 +510,7 @@
       ];
     };
     tracker-lua-1-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-34";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -523,7 +524,7 @@
       ];
     };
     tracker-lua-1-34b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-34b";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -542,7 +543,7 @@
       ];
     };
     tracker-lua-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-35";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -561,7 +562,7 @@
       ];
     };
     tracker-lua-1-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-36";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -580,7 +581,7 @@
       ];
     };
     tracker-lua-1-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-37";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -599,7 +600,7 @@
       ];
     };
     tracker-lua-1-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-38";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -618,7 +619,7 @@
       ];
     };
     tracker-lua-1-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-41";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -637,7 +638,7 @@
       ];
     };
     tracker-lua-1-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-42";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -656,7 +657,7 @@
       ];
     };
     tracker-lua-1-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-43";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -675,7 +676,7 @@
       ];
     };
     tracker-lua-1-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-44";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -694,7 +695,7 @@
       ];
     };
     tracker-lua-1-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-45";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -713,7 +714,7 @@
       ];
     };
     tracker-lua-1-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-46";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -732,7 +733,7 @@
       ];
     };
     tracker-lua-1-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-47";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -751,7 +752,7 @@
       ];
     };
     tracker-lua-1-48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-48";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -770,7 +771,7 @@
       ];
     };
     tracker-lua-1-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-50";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -789,7 +790,7 @@
       ];
     };
     tracker-lua-1-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-51";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -808,7 +809,7 @@
       ];
     };
     tracker-lua-1-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-52";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -827,7 +828,7 @@
       ];
     };
     tracker-lua-1-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-54";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -846,7 +847,7 @@
       ];
     };
     tracker-lua-1-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-55";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -865,7 +866,7 @@
       ];
     };
     tracker-lua-1-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-56";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -884,7 +885,7 @@
       ];
     };
     tracker-lua-1-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-57";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -903,7 +904,7 @@
       ];
     };
     tracker-lua-1-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-58";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -922,7 +923,7 @@
       ];
     };
     tracker-lua-1-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-59";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -941,7 +942,7 @@
       ];
     };
     tracker-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-60";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -960,7 +961,7 @@
       ];
     };
     tracker-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-61";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -979,7 +980,7 @@
       ];
     };
     tracker-lua-1-62 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-62";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -998,7 +999,7 @@
       ];
     };
     tracker-lua-1-63 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-63";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1017,7 +1018,7 @@
       ];
     };
     tracker-lua-1-64 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-64";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1036,7 +1037,7 @@
       ];
     };
     tracker-lua-1-65 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-65";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1055,7 +1056,7 @@
       ];
     };
     tracker-lua-1-66 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-66";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1074,7 +1075,7 @@
       ];
     };
     tracker-lua-1-67 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-67";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1093,7 +1094,7 @@
       ];
     };
     tracker-lua-1-68 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-68";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1112,7 +1113,7 @@
       ];
     };
     tracker-lua-1-69 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-69";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1131,7 +1132,7 @@
       ];
     };
     tracker-lua-1-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-70";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1150,7 +1151,7 @@
       ];
     };
     tracker-lua-1-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-71";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1169,7 +1170,7 @@
       ];
     };
     tracker-lua-1-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-72";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1188,7 +1189,7 @@
       ];
     };
     tracker-lua-1-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-73";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1207,7 +1208,7 @@
       ];
     };
     tracker-lua-1-74 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-74";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1226,7 +1227,7 @@
       ];
     };
     tracker-lua-1-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-75";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1245,7 +1246,7 @@
       ];
     };
     tracker-lua-1-76 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-76";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1264,7 +1265,7 @@
       ];
     };
     tracker-lua-1-77 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-77";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1283,7 +1284,7 @@
       ];
     };
     tracker-lua-1-78 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-78";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1302,7 +1303,7 @@
       ];
     };
     tracker-lua-1-79 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-79";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1321,7 +1322,7 @@
       ];
     };
     tracker-lua-1-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-80";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1340,7 +1341,7 @@
       ];
     };
     tracker-lua-1-81 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-81";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1359,7 +1360,7 @@
       ];
     };
     tracker-lua-1-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-82";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1378,7 +1379,7 @@
       ];
     };
     tracker-lua-1-83 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-83";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1397,7 +1398,7 @@
       ];
     };
     tracker-lua-1-84 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-84";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1416,7 +1417,7 @@
       ];
     };
     tracker-lua-1-85 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-85";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1435,7 +1436,7 @@
       ];
     };
     tracker-lua-1-86 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-86";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1454,7 +1455,7 @@
       ];
     };
     tracker-lua-1-87 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-87";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1473,7 +1474,7 @@
       ];
     };
     tracker-lua-1-88 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-88";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1492,7 +1493,7 @@
       ];
     };
     tracker-lua-1-89 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-89";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1511,7 +1512,7 @@
       ];
     };
     tracker-lua-1-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-90";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1530,7 +1531,7 @@
       ];
     };
     tracker-lua-1-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-91";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1549,7 +1550,7 @@
       ];
     };
     tracker-lua-1-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-92";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1568,7 +1569,7 @@
       ];
     };
     tracker-lua-1-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-93";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1587,7 +1588,7 @@
       ];
     };
     tracker-lua-1-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-94";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1606,7 +1607,7 @@
       ];
     };
     tracker-lua-1-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-95";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1625,7 +1626,7 @@
       ];
     };
     tracker-lua-1-96 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-96";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1644,7 +1645,7 @@
       ];
     };
     tracker-lua-1-97 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-97";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1663,7 +1664,7 @@
       ];
     };
     tracker-lua-1-98 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-98";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1682,7 +1683,7 @@
       ];
     };
     tracker-lua-1-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-1-99";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1701,7 +1702,7 @@
       ];
     };
     tracker-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-00";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1720,7 +1721,7 @@
       ];
     };
     tracker-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-01";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1739,7 +1740,7 @@
       ];
     };
     tracker-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-02";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1758,7 +1759,7 @@
       ];
     };
     tracker-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-03";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1777,7 +1778,7 @@
       ];
     };
     tracker-lua-2-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-04";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1796,7 +1797,7 @@
       ];
     };
     tracker-lua-2-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-05";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1815,7 +1816,7 @@
       ];
     };
     tracker-lua-2-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-06";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1834,7 +1835,7 @@
       ];
     };
     tracker-lua-2-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-07";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1853,7 +1854,7 @@
       ];
     };
     tracker-lua-2-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-09";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1872,7 +1873,7 @@
       ];
     };
     tracker-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-10";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1891,7 +1892,7 @@
       ];
     };
     tracker-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-11";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1910,7 +1911,7 @@
       ];
     };
     tracker-lua-2-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-12";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1929,7 +1930,7 @@
       ];
     };
     tracker-lua-2-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-13";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1948,7 +1949,7 @@
       ];
     };
     tracker-lua-2-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-14";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1967,7 +1968,7 @@
       ];
     };
     tracker-lua-2-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-15";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -1986,7 +1987,7 @@
       ];
     };
     tracker-lua-2-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-16";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2005,7 +2006,7 @@
       ];
     };
     tracker-lua-2-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-17";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2024,7 +2025,7 @@
       ];
     };
     tracker-lua-2-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-18";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2043,7 +2044,7 @@
       ];
     };
     tracker-lua-2-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-19";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2062,7 +2063,7 @@
       ];
     };
     tracker-lua-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-20";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2081,7 +2082,7 @@
       ];
     };
     tracker-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-21";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2100,7 +2101,7 @@
       ];
     };
     tracker-lua-2-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-22";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2119,7 +2120,7 @@
       ];
     };
     tracker-lua-2-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-23";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2143,7 +2144,7 @@
       ];
     };
     tracker-lua-2-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-25";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2167,7 +2168,7 @@
       ];
     };
     tracker-lua-2-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-26";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2191,7 +2192,7 @@
       ];
     };
     tracker-lua-2-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-27";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2215,7 +2216,7 @@
       ];
     };
     tracker-lua-2-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-28";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2239,7 +2240,7 @@
       ];
     };
     tracker-lua-2-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-29";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2263,7 +2264,7 @@
       ];
     };
     tracker-lua-2-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-30";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2287,7 +2288,7 @@
       ];
     };
     tracker-lua-2-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-31";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2311,7 +2312,7 @@
       ];
     };
     tracker-lua-2-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-32";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2335,7 +2336,7 @@
       ];
     };
     tracker-lua-2-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-33";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2359,7 +2360,7 @@
       ];
     };
     tracker-lua-2-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-34";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2383,7 +2384,7 @@
       ];
     };
     tracker-lua-2-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-35";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2407,7 +2408,7 @@
       ];
     };
     tracker-lua-2-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-36";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2431,7 +2432,7 @@
       ];
     };
     tracker-lua-2-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-37";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2455,7 +2456,7 @@
       ];
     };
     tracker-lua-2-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-38";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2479,7 +2480,7 @@
       ];
     };
     tracker-lua-2-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-39";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2503,7 +2504,7 @@
       ];
     };
     tracker-lua-2-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-40";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2527,7 +2528,7 @@
       ];
     };
     tracker-lua-2-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-41";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2551,7 +2552,7 @@
       ];
     };
     tracker-lua-2-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-42";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2575,7 +2576,7 @@
       ];
     };
     tracker-lua-2-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-43";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2599,7 +2600,7 @@
       ];
     };
     tracker-lua-2-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-44";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2638,7 +2639,7 @@
       ];
     };
     tracker-lua-2-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-46";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2677,7 +2678,7 @@
       ];
     };
     tracker-lua-2-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-47";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2716,7 +2717,7 @@
       ];
     };
     tracker-lua-2-48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-48";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2755,7 +2756,7 @@
       ];
     };
     tracker-lua-2-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-49";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2794,7 +2795,7 @@
       ];
     };
     tracker-lua-2-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-50";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2833,7 +2834,7 @@
       ];
     };
     tracker-lua-2-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-51";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2872,7 +2873,7 @@
       ];
     };
     tracker-lua-2-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-52";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2911,7 +2912,7 @@
       ];
     };
     tracker-lua-2-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-53";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2950,7 +2951,7 @@
       ];
     };
     tracker-lua-2-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-54";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -2989,7 +2990,7 @@
       ];
     };
     tracker-lua-2-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-55";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3028,7 +3029,7 @@
       ];
     };
     tracker-lua-2-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-56";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3067,7 +3068,7 @@
       ];
     };
     tracker-lua-2-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-57";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3106,7 +3107,7 @@
       ];
     };
     tracker-lua-2-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-58";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3145,7 +3146,7 @@
       ];
     };
     tracker-lua-2-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-59";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3184,7 +3185,7 @@
       ];
     };
     tracker-lua-2-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-60";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3223,7 +3224,7 @@
       ];
     };
     tracker-lua-2-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-61";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3262,7 +3263,7 @@
       ];
     };
     tracker-lua-2-62 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-62";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3301,7 +3302,7 @@
       ];
     };
     tracker-lua-2-63 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-63";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3340,7 +3341,7 @@
       ];
     };
     tracker-lua-2-64 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-64";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3379,7 +3380,7 @@
       ];
     };
     tracker-lua-2-65 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-65";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3418,7 +3419,7 @@
       ];
     };
     tracker-lua-2-66 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-66";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3457,7 +3458,7 @@
       ];
     };
     tracker-lua-2-67 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-67";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3496,7 +3497,7 @@
       ];
     };
     tracker-lua-2-68 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-68";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3535,7 +3536,7 @@
       ];
     };
     tracker-lua-2-69 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-69";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3574,7 +3575,7 @@
       ];
     };
     tracker-lua-2-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-70";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3613,7 +3614,7 @@
       ];
     };
     tracker-lua-2-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-71";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3657,7 +3658,7 @@
       ];
     };
     tracker-lua-2-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-72";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3701,7 +3702,7 @@
       ];
     };
     tracker-lua-2-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-73";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3745,7 +3746,7 @@
       ];
     };
     tracker-lua-2-74 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-74";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3789,7 +3790,7 @@
       ];
     };
     tracker-lua-2-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-75";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3833,7 +3834,7 @@
       ];
     };
     tracker-lua-2-76 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-76";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3877,7 +3878,7 @@
       ];
     };
     tracker-lua-2-77 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-77";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3921,7 +3922,7 @@
       ];
     };
     tracker-lua-2-78 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-78";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -3965,7 +3966,7 @@
       ];
     };
     tracker-lua-2-79 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-79";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4009,7 +4010,7 @@
       ];
     };
     tracker-lua-2-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-80";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4053,7 +4054,7 @@
       ];
     };
     tracker-lua-2-81 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-81";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4097,7 +4098,7 @@
       ];
     };
     tracker-lua-2-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-82";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4141,7 +4142,7 @@
       ];
     };
     tracker-lua-2-83 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-83";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4185,7 +4186,7 @@
       ];
     };
     tracker-lua-2-84 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-84";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4229,7 +4230,7 @@
       ];
     };
     tracker-lua-2-85 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-85";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4278,7 +4279,7 @@
       ];
     };
     tracker-lua-2-86 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-86";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4327,7 +4328,7 @@
       ];
     };
     tracker-lua-2-87 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-87";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4376,7 +4377,7 @@
       ];
     };
     tracker-lua-2-88 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-88";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4425,7 +4426,7 @@
       ];
     };
     tracker-lua-2-89 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-89";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4474,7 +4475,7 @@
       ];
     };
     tracker-lua-2-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-91";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4523,7 +4524,7 @@
       ];
     };
     tracker-lua-2-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-92";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4572,7 +4573,7 @@
       ];
     };
     tracker-lua-2-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-93";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4621,7 +4622,7 @@
       ];
     };
     tracker-lua-2-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-94";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4670,7 +4671,7 @@
       ];
     };
     tracker-lua-2-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-95";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4719,7 +4720,7 @@
       ];
     };
     tracker-lua-2-96 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-96";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4768,7 +4769,7 @@
       ];
     };
     tracker-lua-2-97 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-97";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4817,7 +4818,7 @@
       ];
     };
     tracker-lua-2-98 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-98";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4871,7 +4872,7 @@
       ];
     };
     tracker-lua-2-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-2-99";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4925,7 +4926,7 @@
       ];
     };
     tracker-lua-3-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-00";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -4979,7 +4980,7 @@
       ];
     };
     tracker-lua-3-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-01";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5033,7 +5034,7 @@
       ];
     };
     tracker-lua-3-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-02";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5087,7 +5088,7 @@
       ];
     };
     tracker-lua-3-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-03";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5141,7 +5142,7 @@
       ];
     };
     tracker-lua-3-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-04";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5195,7 +5196,7 @@
       ];
     };
     tracker-lua-3-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-05";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5249,7 +5250,7 @@
       ];
     };
     tracker-lua-3-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-06";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5303,7 +5304,7 @@
       ];
     };
     tracker-lua-3-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-07";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5357,7 +5358,7 @@
       ];
     };
     tracker-lua-3-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-08";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5411,7 +5412,7 @@
       ];
     };
     tracker-lua-3-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-09";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5465,7 +5466,7 @@
       ];
     };
     tracker-lua-3-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-10";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5519,7 +5520,7 @@
       ];
     };
     tracker-lua-3-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-11";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5573,7 +5574,7 @@
       ];
     };
     tracker-lua-3-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-12";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5627,7 +5628,7 @@
       ];
     };
     tracker-lua-3-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-13";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5681,7 +5682,7 @@
       ];
     };
     tracker-lua-3-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-14";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5735,7 +5736,7 @@
       ];
     };
     tracker-lua-3-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-15";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5789,7 +5790,7 @@
       ];
     };
     tracker-lua-3-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-16";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5843,7 +5844,7 @@
       ];
     };
     tracker-lua-3-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-17";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5897,7 +5898,7 @@
       ];
     };
     tracker-lua-3-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-18";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -5951,7 +5952,7 @@
       ];
     };
     tracker-lua-3-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-19";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6005,7 +6006,7 @@
       ];
     };
     tracker-lua-3-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-20";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6059,7 +6060,7 @@
       ];
     };
     tracker-lua-3-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-21";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6113,7 +6114,7 @@
       ];
     };
     tracker-lua-3-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-22";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6167,7 +6168,7 @@
       ];
     };
     tracker-lua-3-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-23";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6221,7 +6222,7 @@
       ];
     };
     tracker-lua-3-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-24";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6275,7 +6276,7 @@
       ];
     };
     tracker-lua-3-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-25";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6329,7 +6330,7 @@
       ];
     };
     tracker-lua-3-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-26";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6383,7 +6384,7 @@
       ];
     };
     tracker-lua-3-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-27";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6437,7 +6438,7 @@
       ];
     };
     tracker-lua-3-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-28";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6491,7 +6492,7 @@
       ];
     };
     tracker-lua-3-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-29";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6545,7 +6546,7 @@
       ];
     };
     tracker-lua-3-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-30";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6599,7 +6600,7 @@
       ];
     };
     tracker-lua-3-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-31";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6653,7 +6654,7 @@
       ];
     };
     tracker-lua-3-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-32";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6707,7 +6708,7 @@
       ];
     };
     tracker-lua-3-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-33";
       indexName = "Tracker tools";
       categoryName = "Tracker";
@@ -6761,7 +6762,7 @@
       ];
     };
     tracker-lua-3-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tracker-lua-3-34";
       indexName = "Tracker tools";
       categoryName = "Tracker";

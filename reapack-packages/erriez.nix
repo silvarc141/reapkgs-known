@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   erriez = {
     erriez-midi-velocity-viewer-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "erriez-midi-velocity-viewer-jsfx-1-0";
       indexName = "Erriez";
       categoryName = "MIDI";
@@ -19,7 +20,7 @@
       ];
     };
     erriez-midi-velocity-viewer-drums-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "erriez-midi-velocity-viewer-drums-jsfx-1-0";
       indexName = "Erriez";
       categoryName = "MIDI";
@@ -108,7 +109,7 @@
       ];
     };
     erriez-midi-velocity-viewer-drums-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "erriez-midi-velocity-viewer-drums-jsfx-1-1";
       indexName = "Erriez";
       categoryName = "MIDI";

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   geraint-s-jsfx = {
     bad-connection-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -24,7 +25,7 @@
       ];
     };
     bad-connection-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -43,7 +44,7 @@
       ];
     };
     bad-connection-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -62,7 +63,7 @@
       ];
     };
     bad-connection-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -81,7 +82,7 @@
       ];
     };
     bad-connection-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-1-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -100,7 +101,7 @@
       ];
     };
     bad-connection-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-1-0-5";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -119,7 +120,7 @@
       ];
     };
     bad-connection-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-2-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -143,7 +144,7 @@
       ];
     };
     bad-connection-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-2-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -167,7 +168,7 @@
       ];
     };
     bad-connection-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-2-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -191,7 +192,7 @@
       ];
     };
     bad-connection-2-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-2-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -215,7 +216,7 @@
       ];
     };
     bad-connection-2-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-2-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -239,7 +240,7 @@
       ];
     };
     bad-connection-2-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-2-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -263,7 +264,7 @@
       ];
     };
     bad-connection-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-2-1-1";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -292,7 +293,7 @@
       ];
     };
     bad-connection-2-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-2-1-2";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -321,7 +322,7 @@
       ];
     };
     bad-connection-2-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bad-connection-2-1-3";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -350,7 +351,7 @@
       ];
     };
     sandwich-amp-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sandwich-amp-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -369,7 +370,7 @@
       ];
     };
     sandwich-amp-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sandwich-amp-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -388,7 +389,7 @@
       ];
     };
     sandwich-amp-1-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sandwich-amp-1-0-10";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -417,7 +418,7 @@
       ];
     };
     sandwich-amp-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sandwich-amp-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -436,7 +437,7 @@
       ];
     };
     sandwich-amp-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sandwich-amp-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -455,7 +456,7 @@
       ];
     };
     sandwich-amp-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sandwich-amp-1-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -474,7 +475,7 @@
       ];
     };
     sandwich-amp-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sandwich-amp-1-0-5";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -493,7 +494,7 @@
       ];
     };
     sandwich-amp-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sandwich-amp-1-0-6";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -512,7 +513,7 @@
       ];
     };
     sandwich-amp-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sandwich-amp-1-0-7";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -536,7 +537,7 @@
       ];
     };
     sandwich-amp-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sandwich-amp-1-0-8";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -560,7 +561,7 @@
       ];
     };
     sandwich-amp-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sandwich-amp-1-0-9";
       indexName = "Geraint's JSFX";
       categoryName = "Distortion";
@@ -589,7 +590,7 @@
       ];
     };
     spectrum-matcher-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -608,7 +609,7 @@
       ];
     };
     spectrum-matcher-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -627,7 +628,7 @@
       ];
     };
     spectrum-matcher-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -646,7 +647,7 @@
       ];
     };
     spectrum-matcher-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -665,7 +666,7 @@
       ];
     };
     spectrum-matcher-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -684,7 +685,7 @@
       ];
     };
     spectrum-matcher-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-0-5";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -703,7 +704,7 @@
       ];
     };
     spectrum-matcher-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-0-6";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -722,7 +723,7 @@
       ];
     };
     spectrum-matcher-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -741,7 +742,7 @@
       ];
     };
     spectrum-matcher-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-2-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -760,7 +761,7 @@
       ];
     };
     spectrum-matcher-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-3-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -779,7 +780,7 @@
       ];
     };
     spectrum-matcher-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-3-1";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -798,7 +799,7 @@
       ];
     };
     spectrum-matcher-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-3-2";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -817,7 +818,7 @@
       ];
     };
     spectrum-matcher-1-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-3-3";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -836,7 +837,7 @@
       ];
     };
     spectrum-matcher-1-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-3-4";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -855,7 +856,7 @@
       ];
     };
     spectrum-matcher-1-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-3-5";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -874,7 +875,7 @@
       ];
     };
     spectrum-matcher-1-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-3-6";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -893,7 +894,7 @@
       ];
     };
     spectrum-matcher-1-3-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-3-7";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -912,7 +913,7 @@
       ];
     };
     spectrum-matcher-1-3-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-3-8";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -931,7 +932,7 @@
       ];
     };
     spectrum-matcher-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-4-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -950,7 +951,7 @@
       ];
     };
     spectrum-matcher-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-5-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -969,7 +970,7 @@
       ];
     };
     spectrum-matcher-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-5-1";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -988,7 +989,7 @@
       ];
     };
     spectrum-matcher-1-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-6-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1007,7 +1008,7 @@
       ];
     };
     spectrum-matcher-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-6-1";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1026,7 +1027,7 @@
       ];
     };
     spectrum-matcher-1-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-7-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1045,7 +1046,7 @@
       ];
     };
     spectrum-matcher-1-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spectrum-matcher-1-7-1";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1064,7 +1065,7 @@
       ];
     };
     smooth-limiter-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smooth-limiter-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1083,7 +1084,7 @@
       ];
     };
     smooth-limiter-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smooth-limiter-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1102,7 +1103,7 @@
       ];
     };
     smooth-limiter-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smooth-limiter-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1121,7 +1122,7 @@
       ];
     };
     smooth-limiter-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smooth-limiter-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1140,7 +1141,7 @@
       ];
     };
     smooth-limiter-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smooth-limiter-1-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1159,7 +1160,7 @@
       ];
     };
     smooth-limiter-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smooth-limiter-1-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1178,7 +1179,7 @@
       ];
     };
     smooth-limiter-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smooth-limiter-1-1-1";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1202,7 +1203,7 @@
       ];
     };
     smooth-limiter-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smooth-limiter-1-1-2";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1226,7 +1227,7 @@
       ];
     };
     panalysis-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "panalysis-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1245,7 +1246,7 @@
       ];
     };
     panalysis-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "panalysis-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1264,7 +1265,7 @@
       ];
     };
     panalysis-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "panalysis-1-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1283,7 +1284,7 @@
       ];
     };
     panalysis-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "panalysis-1-1-1";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1302,7 +1303,7 @@
       ];
     };
     panalysis-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "panalysis-1-1-2";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1321,7 +1322,7 @@
       ];
     };
     panalysis-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "panalysis-1-1-3";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1340,7 +1341,7 @@
       ];
     };
     panalysis-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "panalysis-1-1-4";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1359,7 +1360,7 @@
       ];
     };
     panalysis-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "panalysis-1-1-5";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1383,7 +1384,7 @@
       ];
     };
     panalysis-1-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "panalysis-1-1-6";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1407,7 +1408,7 @@
       ];
     };
     panalysis-1-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "panalysis-1-1-7";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1436,7 +1437,7 @@
       ];
     };
     level-meter-0-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "level-meter-0-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1460,7 +1461,7 @@
       ];
     };
     level-meter-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "level-meter-0-1-1";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1484,7 +1485,7 @@
       ];
     };
     piano-display-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "piano-display-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1513,7 +1514,7 @@
       ];
     };
     piano-display-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "piano-display-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1542,7 +1543,7 @@
       ];
     };
     vocoder-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vocoder-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1566,7 +1567,7 @@
       ];
     };
     vocoder-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vocoder-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Utility";
@@ -1590,7 +1591,7 @@
       ];
     };
     spring-box-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spring-box-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1609,7 +1610,7 @@
       ];
     };
     spring-box-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spring-box-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1628,7 +1629,7 @@
       ];
     };
     spring-box-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spring-box-1-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1647,7 +1648,7 @@
       ];
     };
     spring-box-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spring-box-1-0-5";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1666,7 +1667,7 @@
       ];
     };
     spring-box-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spring-box-1-0-6";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1690,7 +1691,7 @@
       ];
     };
     spring-box-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spring-box-1-0-7";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1714,7 +1715,7 @@
       ];
     };
     spring-box-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spring-box-1-0-8";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1738,7 +1739,7 @@
       ];
     };
     spring-box-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spring-box-1-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1767,7 +1768,7 @@
       ];
     };
     spring-box-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spring-box-1-1-1";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1796,7 +1797,7 @@
       ];
     };
     spring-box-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spring-box-1-1-2";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1825,7 +1826,7 @@
       ];
     };
     spring-box-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spring-box-1-1-3";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1859,7 +1860,7 @@
       ];
     };
     spring-box-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spring-box-1-1-4";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1893,7 +1894,7 @@
       ];
     };
     spring-box-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spring-box-1-1-5";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1927,7 +1928,7 @@
       ];
     };
     spring-box-1-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spring-box-1-1-6";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1966,7 +1967,7 @@
       ];
     };
     stereo-alignment-delay-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -1985,7 +1986,7 @@
       ];
     };
     stereo-alignment-delay-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2004,7 +2005,7 @@
       ];
     };
     stereo-alignment-delay-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-1-1";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2023,7 +2024,7 @@
       ];
     };
     stereo-alignment-delay-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-1-2";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2042,7 +2043,7 @@
       ];
     };
     stereo-alignment-delay-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-2-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2061,7 +2062,7 @@
       ];
     };
     stereo-alignment-delay-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-2-1";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2080,7 +2081,7 @@
       ];
     };
     stereo-alignment-delay-1-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-2-10";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2099,7 +2100,7 @@
       ];
     };
     stereo-alignment-delay-1-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-2-11";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2118,7 +2119,7 @@
       ];
     };
     stereo-alignment-delay-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-2-2";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2137,7 +2138,7 @@
       ];
     };
     stereo-alignment-delay-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-2-3";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2156,7 +2157,7 @@
       ];
     };
     stereo-alignment-delay-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-2-4";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2175,7 +2176,7 @@
       ];
     };
     stereo-alignment-delay-1-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-2-5";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2194,7 +2195,7 @@
       ];
     };
     stereo-alignment-delay-1-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-2-6";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2213,7 +2214,7 @@
       ];
     };
     stereo-alignment-delay-1-2-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-2-7";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2232,7 +2233,7 @@
       ];
     };
     stereo-alignment-delay-1-2-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-2-8";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2251,7 +2252,7 @@
       ];
     };
     stereo-alignment-delay-1-2-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-2-9";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2270,7 +2271,7 @@
       ];
     };
     stereo-alignment-delay-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-3-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2289,7 +2290,7 @@
       ];
     };
     stereo-alignment-delay-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-alignment-delay-1-3-1";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2308,7 +2309,7 @@
       ];
     };
     echo-cycles-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "echo-cycles-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2337,7 +2338,7 @@
       ];
     };
     echo-cycles-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "echo-cycles-1-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2371,7 +2372,7 @@
       ];
     };
     echo-cycles-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "echo-cycles-1-2-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2405,7 +2406,7 @@
       ];
     };
     echo-cycles-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "echo-cycles-1-2-1";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2444,7 +2445,7 @@
       ];
     };
     echo-cycles-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "echo-cycles-1-2-2";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2483,7 +2484,7 @@
       ];
     };
     echo-cycles-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "echo-cycles-1-2-3";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2527,7 +2528,7 @@
       ];
     };
     echo-cycles-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "echo-cycles-1-2-4";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2571,7 +2572,7 @@
       ];
     };
     vibrato-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vibrato-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2605,7 +2606,7 @@
       ];
     };
     vibrato-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vibrato-1-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2639,7 +2640,7 @@
       ];
     };
     vibrato-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vibrato-1-1-1";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2673,7 +2674,7 @@
       ];
     };
     vibrato-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vibrato-1-1-2";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2712,7 +2713,7 @@
       ];
     };
     vibrato-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vibrato-1-1-3";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2751,7 +2752,7 @@
       ];
     };
     vibrato-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vibrato-1-1-4";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2790,7 +2791,7 @@
       ];
     };
     cross-polyphonic-fm-0-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cross-polyphonic-fm-0-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2829,7 +2830,7 @@
       ];
     };
     cross-polyphonic-fm-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cross-polyphonic-fm-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2868,7 +2869,7 @@
       ];
     };
     cross-polyphonic-fm-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cross-polyphonic-fm-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2907,7 +2908,7 @@
       ];
     };
     cross-polyphonic-fm-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cross-polyphonic-fm-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2946,7 +2947,7 @@
       ];
     };
     cross-polyphonic-fm-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cross-polyphonic-fm-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -2985,7 +2986,7 @@
       ];
     };
     cross-polyphonic-fm-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cross-polyphonic-fm-1-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3024,7 +3025,7 @@
       ];
     };
     cross-polyphonic-fm-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cross-polyphonic-fm-1-0-5";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3068,7 +3069,7 @@
       ];
     };
     cross-polyphonic-fm-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cross-polyphonic-fm-1-0-6";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3112,7 +3113,7 @@
       ];
     };
     cross-polyphonic-fm-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cross-polyphonic-fm-1-0-7";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3156,7 +3157,7 @@
       ];
     };
     cross-polyphonic-fm-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cross-polyphonic-fm-1-0-8";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3200,7 +3201,7 @@
       ];
     };
     cross-polyphonic-fm-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cross-polyphonic-fm-1-0-9";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3249,7 +3250,7 @@
       ];
     };
     ripple-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ripple-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3278,7 +3279,7 @@
       ];
     };
     ripple-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ripple-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3307,7 +3308,7 @@
       ];
     };
     ripple-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ripple-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3341,7 +3342,7 @@
       ];
     };
     ripple-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ripple-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3375,7 +3376,7 @@
       ];
     };
     ripple-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ripple-1-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3409,7 +3410,7 @@
       ];
     };
     atlantis-reverb-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3438,7 +3439,7 @@
       ];
     };
     atlantis-reverb-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3467,7 +3468,7 @@
       ];
     };
     atlantis-reverb-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3496,7 +3497,7 @@
       ];
     };
     atlantis-reverb-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3525,7 +3526,7 @@
       ];
     };
     atlantis-reverb-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3554,7 +3555,7 @@
       ];
     };
     atlantis-reverb-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3583,7 +3584,7 @@
       ];
     };
     atlantis-reverb-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-1-1";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3612,7 +3613,7 @@
       ];
     };
     atlantis-reverb-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-1-2";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3641,7 +3642,7 @@
       ];
     };
     atlantis-reverb-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-2-0";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3670,7 +3671,7 @@
       ];
     };
     atlantis-reverb-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-2-1";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3699,7 +3700,7 @@
       ];
     };
     atlantis-reverb-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-2-2";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3728,7 +3729,7 @@
       ];
     };
     atlantis-reverb-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-2-3";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3757,7 +3758,7 @@
       ];
     };
     atlantis-reverb-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-2-4";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3786,7 +3787,7 @@
       ];
     };
     atlantis-reverb-1-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-2-5";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3815,7 +3816,7 @@
       ];
     };
     atlantis-reverb-1-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-2-6";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3844,7 +3845,7 @@
       ];
     };
     atlantis-reverb-1-2-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atlantis-reverb-1-2-7";
       indexName = "Geraint's JSFX";
       categoryName = "Delay";
@@ -3873,7 +3874,7 @@
       ];
     };
     padsynth-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -3892,7 +3893,7 @@
       ];
     };
     padsynth-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -3911,7 +3912,7 @@
       ];
     };
     padsynth-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -3930,7 +3931,7 @@
       ];
     };
     padsynth-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -3949,7 +3950,7 @@
       ];
     };
     padsynth-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -3968,7 +3969,7 @@
       ];
     };
     padsynth-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-1-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -3987,7 +3988,7 @@
       ];
     };
     padsynth-1-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-1-10";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4016,7 +4017,7 @@
       ];
     };
     padsynth-1-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-1-11";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4045,7 +4046,7 @@
       ];
     };
     padsynth-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-1-2";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4064,7 +4065,7 @@
       ];
     };
     padsynth-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-1-3";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4083,7 +4084,7 @@
       ];
     };
     padsynth-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-1-4";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4102,7 +4103,7 @@
       ];
     };
     padsynth-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-1-5";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4121,7 +4122,7 @@
       ];
     };
     padsynth-1-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-1-6";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4145,7 +4146,7 @@
       ];
     };
     padsynth-1-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-1-7";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4169,7 +4170,7 @@
       ];
     };
     padsynth-1-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-1-8";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4193,7 +4194,7 @@
       ];
     };
     padsynth-1-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "padsynth-1-1-9";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4222,7 +4223,7 @@
       ];
     };
     learning-sampler-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "learning-sampler-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4246,7 +4247,7 @@
       ];
     };
     learning-sampler-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "learning-sampler-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4270,7 +4271,7 @@
       ];
     };
     learning-sampler-1-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "learning-sampler-1-0-10";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4294,7 +4295,7 @@
       ];
     };
     learning-sampler-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "learning-sampler-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4318,7 +4319,7 @@
       ];
     };
     learning-sampler-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "learning-sampler-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4342,7 +4343,7 @@
       ];
     };
     learning-sampler-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "learning-sampler-1-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4366,7 +4367,7 @@
       ];
     };
     learning-sampler-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "learning-sampler-1-0-5";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4390,7 +4391,7 @@
       ];
     };
     learning-sampler-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "learning-sampler-1-0-6";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4414,7 +4415,7 @@
       ];
     };
     learning-sampler-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "learning-sampler-1-0-7";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4438,7 +4439,7 @@
       ];
     };
     learning-sampler-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "learning-sampler-1-0-8";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4462,7 +4463,7 @@
       ];
     };
     learning-sampler-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "learning-sampler-1-0-9";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4486,7 +4487,7 @@
       ];
     };
     hammer-and-string-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-string-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4515,7 +4516,7 @@
       ];
     };
     hammer-and-string-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-string-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4544,7 +4545,7 @@
       ];
     };
     hammer-and-string-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-string-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4573,7 +4574,7 @@
       ];
     };
     hammer-and-string-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-string-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4602,7 +4603,7 @@
       ];
     };
     hammer-and-string-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-string-1-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4631,7 +4632,7 @@
       ];
     };
     hammer-and-chord-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4665,7 +4666,7 @@
       ];
     };
     hammer-and-chord-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4699,7 +4700,7 @@
       ];
     };
     hammer-and-chord-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4733,7 +4734,7 @@
       ];
     };
     hammer-and-chord-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4767,7 +4768,7 @@
       ];
     };
     hammer-and-chord-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4801,7 +4802,7 @@
       ];
     };
     hammer-and-chord-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-1-4";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4835,7 +4836,7 @@
       ];
     };
     hammer-and-chord-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-2-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4869,7 +4870,7 @@
       ];
     };
     hammer-and-chord-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-2-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4903,7 +4904,7 @@
       ];
     };
     hammer-and-chord-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-2-2";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4937,7 +4938,7 @@
       ];
     };
     hammer-and-chord-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-2-3";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -4971,7 +4972,7 @@
       ];
     };
     hammer-and-chord-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-2-4";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5005,7 +5006,7 @@
       ];
     };
     hammer-and-chord-1-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-2-5";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5039,7 +5040,7 @@
       ];
     };
     hammer-and-chord-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-3-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5073,7 +5074,7 @@
       ];
     };
     hammer-and-chord-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-3-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5107,7 +5108,7 @@
       ];
     };
     hammer-and-chord-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-4-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5141,7 +5142,7 @@
       ];
     };
     hammer-and-chord-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-4-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5175,7 +5176,7 @@
       ];
     };
     hammer-and-chord-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-4-2";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5209,7 +5210,7 @@
       ];
     };
     hammer-and-chord-1-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-4-3";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5243,7 +5244,7 @@
       ];
     };
     hammer-and-chord-1-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-4-4";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5277,7 +5278,7 @@
       ];
     };
     hammer-and-chord-1-4-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-4-5";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5311,7 +5312,7 @@
       ];
     };
     hammer-and-chord-1-4-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-4-6";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5350,7 +5351,7 @@
       ];
     };
     hammer-and-chord-1-4-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-4-7";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5389,7 +5390,7 @@
       ];
     };
     hammer-and-chord-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-5-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5428,7 +5429,7 @@
       ];
     };
     hammer-and-chord-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-5-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5467,7 +5468,7 @@
       ];
     };
     hammer-and-chord-1-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-5-2";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5506,7 +5507,7 @@
       ];
     };
     hammer-and-chord-1-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-5-3";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5545,7 +5546,7 @@
       ];
     };
     hammer-and-chord-1-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-5-4";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5584,7 +5585,7 @@
       ];
     };
     hammer-and-chord-1-5-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hammer-and-chord-1-5-5";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5628,7 +5629,7 @@
       ];
     };
     humonica-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5652,7 +5653,7 @@
       ];
     };
     humonica-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-1-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5676,7 +5677,7 @@
       ];
     };
     humonica-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-1-2-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5700,7 +5701,7 @@
       ];
     };
     humonica-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-1-2-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5724,7 +5725,7 @@
       ];
     };
     humonica-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-1-2-2";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5753,7 +5754,7 @@
       ];
     };
     humonica-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-1-3-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5782,7 +5783,7 @@
       ];
     };
     humonica-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-1-3-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5811,7 +5812,7 @@
       ];
     };
     humonica-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-1-3-2";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5840,7 +5841,7 @@
       ];
     };
     humonica-1-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-1-3-3";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5869,7 +5870,7 @@
       ];
     };
     humonica-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5898,7 +5899,7 @@
       ];
     };
     humonica-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5927,7 +5928,7 @@
       ];
     };
     humonica-2-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-0-10";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5956,7 +5957,7 @@
       ];
     };
     humonica-2-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-0-11";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -5985,7 +5986,7 @@
       ];
     };
     humonica-2-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-0-12";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6019,7 +6020,7 @@
       ];
     };
     humonica-2-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-0-13";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6053,7 +6054,7 @@
       ];
     };
     humonica-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6082,7 +6083,7 @@
       ];
     };
     humonica-2-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6111,7 +6112,7 @@
       ];
     };
     humonica-2-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6140,7 +6141,7 @@
       ];
     };
     humonica-2-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-0-5";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6169,7 +6170,7 @@
       ];
     };
     humonica-2-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-0-6";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6198,7 +6199,7 @@
       ];
     };
     humonica-2-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-0-7";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6227,7 +6228,7 @@
       ];
     };
     humonica-2-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-0-8";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6256,7 +6257,7 @@
       ];
     };
     humonica-2-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-0-9";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6285,7 +6286,7 @@
       ];
     };
     humonica-2-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6324,7 +6325,7 @@
       ];
     };
     humonica-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-1-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6363,7 +6364,7 @@
       ];
     };
     humonica-2-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-1-2";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6402,7 +6403,7 @@
       ];
     };
     humonica-2-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-1-3";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6441,7 +6442,7 @@
       ];
     };
     humonica-2-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-1-4";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6480,7 +6481,7 @@
       ];
     };
     humonica-2-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-2-1-5";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6524,7 +6525,7 @@
       ];
     };
     humonica-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-3-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6573,7 +6574,7 @@
       ];
     };
     humonica-3-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-3-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6622,7 +6623,7 @@
       ];
     };
     humonica-3-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-3-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6671,7 +6672,7 @@
       ];
     };
     humonica-3-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-3-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6720,7 +6721,7 @@
       ];
     };
     humonica-3-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "humonica-3-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6769,7 +6770,7 @@
       ];
     };
     soft-bell-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "soft-bell-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6808,7 +6809,7 @@
       ];
     };
     soft-bell-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "soft-bell-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6852,7 +6853,7 @@
       ];
     };
     soft-bell-1-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "soft-bell-1-0-10";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6901,7 +6902,7 @@
       ];
     };
     soft-bell-1-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "soft-bell-1-0-11";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -6955,7 +6956,7 @@
       ];
     };
     soft-bell-1-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "soft-bell-1-0-12";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -7009,7 +7010,7 @@
       ];
     };
     soft-bell-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "soft-bell-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -7053,7 +7054,7 @@
       ];
     };
     soft-bell-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "soft-bell-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -7097,7 +7098,7 @@
       ];
     };
     soft-bell-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "soft-bell-1-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -7141,7 +7142,7 @@
       ];
     };
     soft-bell-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "soft-bell-1-0-5";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -7185,7 +7186,7 @@
       ];
     };
     soft-bell-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "soft-bell-1-0-6";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -7229,7 +7230,7 @@
       ];
     };
     soft-bell-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "soft-bell-1-0-7";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -7278,7 +7279,7 @@
       ];
     };
     soft-bell-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "soft-bell-1-0-8";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -7327,7 +7328,7 @@
       ];
     };
     soft-bell-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "soft-bell-1-0-9";
       indexName = "Geraint's JSFX";
       categoryName = "Synth";
@@ -7376,7 +7377,7 @@
       ];
     };
     warble-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "warble-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "Pitch Correction";
@@ -7405,7 +7406,7 @@
       ];
     };
     warble-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "warble-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "Pitch Correction";
@@ -7434,7 +7435,7 @@
       ];
     };
     warble-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "warble-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "Pitch Correction";
@@ -7463,7 +7464,7 @@
       ];
     };
     warble-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "warble-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "Pitch Correction";
@@ -7492,7 +7493,7 @@
       ];
     };
     warble-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "warble-1-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "Pitch Correction";
@@ -7521,7 +7522,7 @@
       ];
     };
     warble-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "warble-1-0-5";
       indexName = "Geraint's JSFX";
       categoryName = "Pitch Correction";
@@ -7550,7 +7551,7 @@
       ];
     };
     warble-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "warble-1-0-6";
       indexName = "Geraint's JSFX";
       categoryName = "Pitch Correction";
@@ -7579,7 +7580,7 @@
       ];
     };
     warble-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "warble-1-0-7";
       indexName = "Geraint's JSFX";
       categoryName = "Pitch Correction";
@@ -7608,7 +7609,7 @@
       ];
     };
     warble-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "warble-1-0-8";
       indexName = "Geraint's JSFX";
       categoryName = "Pitch Correction";
@@ -7637,7 +7638,7 @@
       ];
     };
     warble-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "warble-1-0-9";
       indexName = "Geraint's JSFX";
       categoryName = "Pitch Correction";
@@ -7666,7 +7667,7 @@
       ];
     };
     midi-gate-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-gate-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -7690,7 +7691,7 @@
       ];
     };
     midi-gate-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-gate-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -7714,7 +7715,7 @@
       ];
     };
     midi-gate-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-gate-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -7738,7 +7739,7 @@
       ];
     };
     midi-gate-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-gate-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -7762,7 +7763,7 @@
       ];
     };
     midi-gate-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-gate-1-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -7786,7 +7787,7 @@
       ];
     };
     midi-gate-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-gate-1-2-0";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -7810,7 +7811,7 @@
       ];
     };
     midi-gate-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-gate-1-2-1";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -7834,7 +7835,7 @@
       ];
     };
     midi-gate-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-gate-1-2-2";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -7858,7 +7859,7 @@
       ];
     };
     midi-harmony-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-harmony-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -7882,7 +7883,7 @@
       ];
     };
     midi-harmony-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-harmony-1-0-1";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -7906,7 +7907,7 @@
       ];
     };
     midi-harmony-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-harmony-1-0-2";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -7935,7 +7936,7 @@
       ];
     };
     midi-harmony-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-harmony-1-0-3";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -7964,7 +7965,7 @@
       ];
     };
     midi-harmony-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-harmony-1-0-4";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -7998,7 +7999,7 @@
       ];
     };
     midi-harmony-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-harmony-1-0-5";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -8032,7 +8033,7 @@
       ];
     };
     droplets-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "droplets-1-0-0";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -8061,7 +8062,7 @@
       ];
     };
     droplets-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "droplets-1-1-0";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -8090,7 +8091,7 @@
       ];
     };
     droplets-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "droplets-1-2-0";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -8129,7 +8130,7 @@
       ];
     };
     droplets-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "droplets-1-2-1";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -8168,7 +8169,7 @@
       ];
     };
     droplets-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "droplets-1-2-2";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -8207,7 +8208,7 @@
       ];
     };
     droplets-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "droplets-1-2-3";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -8246,7 +8247,7 @@
       ];
     };
     droplets-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "droplets-1-2-4";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -8285,7 +8286,7 @@
       ];
     };
     droplets-1-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "droplets-1-2-5";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -8324,7 +8325,7 @@
       ];
     };
     droplets-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "droplets-1-3-0";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -8363,7 +8364,7 @@
       ];
     };
     droplets-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "droplets-1-3-1";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -8402,7 +8403,7 @@
       ];
     };
     droplets-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "droplets-1-3-2";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -8441,7 +8442,7 @@
       ];
     };
     droplets-1-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "droplets-1-3-3";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";
@@ -8480,7 +8481,7 @@
       ];
     };
     droplets-1-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "droplets-1-3-4";
       indexName = "Geraint's JSFX";
       categoryName = "MIDI";

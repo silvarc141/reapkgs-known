@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   ix = {
     ix-keymaps-data-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ix-keymaps-data-1-0";
       indexName = "IX";
       categoryName = "Data";
@@ -19,7 +20,7 @@
       ];
     };
     ix-scales-data-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ix-scales-data-1-0";
       indexName = "IX";
       categoryName = "Data";
@@ -93,7 +94,7 @@
       ];
     };
     ix-sequences-data-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ix-sequences-data-1-0";
       indexName = "IX";
       categoryName = "Data";
@@ -157,7 +158,7 @@
       ];
     };
     mixer-8xm-1xs-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mixer-8xm-1xs-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/Audio";
@@ -171,7 +172,7 @@
       ];
     };
     mixer-8xs-1xs-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mixer-8xs-1xs-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/Audio";
@@ -185,7 +186,7 @@
       ];
     };
     muteonstop-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "muteonstop-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/Audio";
@@ -199,7 +200,7 @@
       ];
     };
     muterangeonstop-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "muterangeonstop-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/Audio";
@@ -213,7 +214,7 @@
       ];
     };
     phaseadjustingrouter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "phaseadjustingrouter-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/Audio";
@@ -227,7 +228,7 @@
       ];
     };
     stereophaseinvert-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereophaseinvert-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/Audio";
@@ -241,7 +242,7 @@
       ];
     };
     switcher2-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "switcher2-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/Audio";
@@ -255,7 +256,7 @@
       ];
     };
     switcher3-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "switcher3-jsfx-1-1";
       indexName = "IX";
       categoryName = "Effects/Audio";
@@ -269,7 +270,7 @@
       ];
     };
     switcher5-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "switcher5-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/Audio";
@@ -283,7 +284,7 @@
       ];
     };
     switcher5-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "switcher5-jsfx-1-1";
       indexName = "IX";
       categoryName = "Effects/Audio";
@@ -297,7 +298,7 @@
       ];
     };
     swixmitch-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "swixmitch-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/Audio";
@@ -311,7 +312,7 @@
       ];
     };
     midi-antiflam-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-antiflam-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -325,7 +326,7 @@
       ];
     };
     midi-ccrider-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-ccrider-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -339,7 +340,7 @@
       ];
     };
     midi-chokinghazard-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-chokinghazard-jsfx-1-1";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -353,7 +354,7 @@
       ];
     };
     midi-duplicatefilter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-duplicatefilter-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -367,7 +368,7 @@
       ];
     };
     midi-highpriority-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-highpriority-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -381,7 +382,7 @@
       ];
     };
     midi-keymap-ii-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-keymap-ii-jsfx-1-1";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -395,7 +396,7 @@
       ];
     };
     midi-keymap-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-keymap-jsfx-2-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -409,7 +410,7 @@
       ];
     };
     midi-keymap-jsfx-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-keymap-jsfx-2-1";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -423,7 +424,7 @@
       ];
     };
     midi-keymap-jsfx-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-keymap-jsfx-2-2";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -437,7 +438,7 @@
       ];
     };
     midi-keysnap-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-keysnap-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -451,7 +452,7 @@
       ];
     };
     midi-keysnap-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-keysnap-jsfx-1-1";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -465,7 +466,7 @@
       ];
     };
     midi-latch-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-latch-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -479,7 +480,7 @@
       ];
     };
     midi-looper-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-looper-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -493,7 +494,7 @@
       ];
     };
     midi-patchutil-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-patchutil-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -507,7 +508,7 @@
       ];
     };
     midi-probalocity-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-probalocity-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -521,7 +522,7 @@
       ];
     };
     midi-router-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-router-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -535,7 +536,7 @@
       ];
     };
     midi-serialkiller-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-serialkiller-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -549,7 +550,7 @@
       ];
     };
     midi-tool-ii-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-tool-ii-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -563,7 +564,7 @@
       ];
     };
     midi-tool-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-tool-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -577,7 +578,7 @@
       ];
     };
     midi-variant-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-variant-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -591,7 +592,7 @@
       ];
     };
     midi-variant-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-variant-jsfx-1-1";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -605,7 +606,7 @@
       ];
     };
     midi-variant-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-variant-jsfx-1-2";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -619,7 +620,7 @@
       ];
     };
     midi-variant-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-variant-jsfx-1-3";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -633,7 +634,7 @@
       ];
     };
     midi-velocifier-ii-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-velocifier-ii-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -647,7 +648,7 @@
       ];
     };
     midi-velocifier-ii-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-velocifier-ii-jsfx-1-1";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -661,7 +662,7 @@
       ];
     };
     midi-wobulator-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-wobulator-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/MIDI";
@@ -675,7 +676,7 @@
       ];
     };
     dc-generator-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dc-generator-jsfx-1-0";
       indexName = "IX";
       categoryName = "Effects/Utility";
@@ -689,7 +690,7 @@
       ];
     };
     globalsliders-jsfx-1-4a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "globalsliders-jsfx-1-4a";
       indexName = "IX";
       categoryName = "Effects/Utility";

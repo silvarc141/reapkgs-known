@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   daniel-lumertz-scripts = {
     comp-razor-edit-embass-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "comp-razor-edit-embass-lua-1-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Embass Razor Edit Comp GUI";
@@ -24,7 +25,7 @@
       ];
     };
     comp-razor-edit-embass-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "comp-razor-edit-embass-lua-1-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Embass Razor Edit Comp GUI";
@@ -43,7 +44,7 @@
       ];
     };
     comp-razor-edit-embass-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "comp-razor-edit-embass-lua-1-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Embass Razor Edit Comp GUI";
@@ -62,7 +63,7 @@
       ];
     };
     comp-razor-edit-embass-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "comp-razor-edit-embass-lua-1-4-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Embass Razor Edit Comp GUI";
@@ -81,7 +82,7 @@
       ];
     };
     comp-razor-edit-embass-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "comp-razor-edit-embass-lua-1-4-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Embass Razor Edit Comp GUI";
@@ -100,7 +101,7 @@
       ];
     };
     comp-razor-edit-embass-lua-1-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "comp-razor-edit-embass-lua-1-4-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Embass Razor Edit Comp GUI";
@@ -119,7 +120,7 @@
       ];
     };
     daniellumertz-birdbird-envelope-palette-lua-0-9-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-birdbird-envelope-palette-lua-0-9-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Envelopes/Envelope Palette";
@@ -163,7 +164,7 @@
       ];
     };
     daniellumertz-delete-automation-items-preserving-points-at-time-selection-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-delete-automation-items-preserving-points-at-time-selection-for-selected-tracks-lua-1-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Envelopes/Misc";
@@ -177,7 +178,7 @@
       ];
     };
     daniellumertz-delete-automation-items-preserving-points-at-time-selection-for-selected-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-delete-automation-items-preserving-points-at-time-selection-for-selected-tracks-lua-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Envelopes/Misc";
@@ -191,7 +192,7 @@
       ];
     };
     daniellumertz-delete-automation-items-preserving-points-at-time-selection-for-selected-tracks-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-delete-automation-items-preserving-points-at-time-selection-for-selected-tracks-lua-1-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Envelopes/Misc";
@@ -260,7 +261,7 @@
       ];
     };
     toggle-show-only-select-envelope-and-show-all-envelopes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-only-select-envelope-and-show-all-envelopes-lua-1-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Envelopes/Misc";
@@ -274,7 +275,7 @@
       ];
     };
     set-last-touched-parameter-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-last-touched-parameter-lua-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "FX/Set Last Touched Param";
@@ -298,7 +299,7 @@
       ];
     };
     set-last-touched-parameter-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-last-touched-parameter-lua-0-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "FX/Set Last Touched Param";
@@ -322,7 +323,7 @@
       ];
     };
     bartoker-for-children-3-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bartoker-for-children-3-lua-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Bartoker";
@@ -366,7 +367,7 @@
       ];
     };
     bartoker-for-children-3-lua-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bartoker-for-children-3-lua-0-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Bartoker";
@@ -410,7 +411,7 @@
       ];
     };
     bartoker-for-children-3-lua-0-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bartoker-for-children-3-lua-0-1-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Bartoker";
@@ -454,7 +455,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-1-1b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-1-1b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -658,7 +659,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-1-2b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-1-2b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -867,7 +868,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-1-3b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-1-3b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -1076,7 +1077,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-1-4b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-1-4b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -1290,7 +1291,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-1-5b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-1-5b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -1504,7 +1505,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-2-0b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-2-0b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -1718,7 +1719,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-2-1b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-2-1b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -1932,7 +1933,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-2-2b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-2-2b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -2146,7 +2147,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-2-3b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-2-3b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -2360,7 +2361,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-3-0b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-3-0b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -2589,7 +2590,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-3-1b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-3-1b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -2823,7 +2824,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-3-2b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-3-2b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -3057,7 +3058,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-4-0b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-4-0b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -3291,7 +3292,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-5-0b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-5-0b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -3530,7 +3531,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-6-0b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-6-0b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -3769,7 +3770,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-7-1b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-7-1b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -4003,7 +4004,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-7-2b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-7-2b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -4237,7 +4238,7 @@
       ];
     };
     daniellumertz-clouds-lua-0-7-3b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-clouds-lua-0-7-3b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Clouds";
@@ -4471,7 +4472,7 @@
       ];
     };
     daniellumertz-its-gonna-phase-lua-0-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-its-gonna-phase-lua-0-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Its Gonna Phase";
@@ -4535,7 +4536,7 @@
       ];
     };
     daniellumertz-its-gonna-phase-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-its-gonna-phase-lua-1-0-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Generative/Its Gonna Phase";
@@ -4599,7 +4600,7 @@
       ];
     };
     daniellumertz-fake-grids-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-fake-grids-lua-1-0-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Grids/Fake Grids";
@@ -4653,7 +4654,7 @@
       ];
     };
     daniellumertz-fake-grids-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-fake-grids-lua-1-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Grids/Fake Grids";
@@ -4707,7 +4708,7 @@
       ];
     };
     daniellumertz-fake-grids-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-fake-grids-lua-1-0-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Grids/Fake Grids";
@@ -4766,7 +4767,7 @@
       ];
     };
     daniellumertz-fake-grids-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-fake-grids-lua-1-0-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Grids/Fake Grids";
@@ -4825,7 +4826,7 @@
       ];
     };
     clipboard-paste-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "clipboard-paste-lua-1-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Clipboard";
@@ -4869,7 +4870,7 @@
       ];
     };
     clipboard-paste-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "clipboard-paste-lua-1-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Clipboard";
@@ -4913,7 +4914,7 @@
       ];
     };
     clipboard-paste-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "clipboard-paste-lua-1-0-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Clipboard";
@@ -4957,7 +4958,7 @@
       ];
     };
     clipboard-paste-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "clipboard-paste-lua-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Clipboard";
@@ -5001,7 +5002,7 @@
       ];
     };
     clipboard-paste-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "clipboard-paste-lua-1-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Clipboard";
@@ -5045,7 +5046,7 @@
       ];
     };
     clipboard-paste-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "clipboard-paste-lua-1-1-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Clipboard";
@@ -5089,7 +5090,7 @@
       ];
     };
     clipboard-paste-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "clipboard-paste-lua-1-1-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Clipboard";
@@ -5133,7 +5134,7 @@
       ];
     };
     clipboard-paste-lua-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "clipboard-paste-lua-1-1-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Clipboard";
@@ -5177,7 +5178,7 @@
       ];
     };
     item-sampler-lua-1-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "item-sampler-lua-1-3-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Item Sampler";
@@ -5221,7 +5222,7 @@
       ];
     };
     item-sampler-lua-1-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "item-sampler-lua-1-3-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Item Sampler";
@@ -5265,7 +5266,7 @@
       ];
     };
     item-sampler-lua-1-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "item-sampler-lua-1-3-5";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Item Sampler";
@@ -5314,7 +5315,7 @@
       ];
     };
     item-sampler-lua-1-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "item-sampler-lua-1-3-6";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Item Sampler";
@@ -5363,7 +5364,7 @@
       ];
     };
     create-regions-using-items-sequence-across-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "create-regions-using-items-sequence-across-tracks-lua-1-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Misc";
@@ -5377,7 +5378,7 @@
       ];
     };
     items-organize-in-sequence-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "items-organize-in-sequence-lua-1-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Misc";
@@ -5391,7 +5392,7 @@
       ];
     };
     items-organize-in-sequence-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "items-organize-in-sequence-lua-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Misc";
@@ -5405,7 +5406,7 @@
       ];
     };
     samples-organizer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "samples-organizer-lua-1-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Sample Organizer";
@@ -5424,7 +5425,7 @@
       ];
     };
     samples-organizer-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "samples-organizer-lua-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Sample Organizer";
@@ -5448,7 +5449,7 @@
       ];
     };
     samples-organizer-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "samples-organizer-lua-1-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Items/Sample Organizer";
@@ -5472,7 +5473,7 @@
       ];
     };
     demo-serialize-table-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "demo-serialize-table-lua-1-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Json";
@@ -5486,7 +5487,7 @@
       ];
     };
     daniellumertz-alternator-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-alternator-lua-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Alternator";
@@ -5580,7 +5581,7 @@
       ];
     };
     daniellumertz-alternator-lua-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-alternator-lua-0-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Alternator";
@@ -5674,7 +5675,7 @@
       ];
     };
     daniellumertz-alternator-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-alternator-lua-0-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Alternator";
@@ -5768,7 +5769,7 @@
       ];
     };
     daniellumertz-alternator-lua-0-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-alternator-lua-0-2-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Alternator";
@@ -5862,7 +5863,7 @@
       ];
     };
     daniellumertz-alternator-lua-0-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-alternator-lua-0-2-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Alternator";
@@ -5956,7 +5957,7 @@
       ];
     };
     daniellumertz-alternator-lua-0-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-alternator-lua-0-2-5";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Alternator";
@@ -6050,7 +6051,7 @@
       ];
     };
     daniellumertz-alternator-lua-0-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-alternator-lua-0-2-6";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Alternator";
@@ -6144,7 +6145,7 @@
       ];
     };
     daniellumertz-alternator-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-alternator-lua-1-0-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Alternator";
@@ -6238,7 +6239,7 @@
       ];
     };
     daniellumertz-alternator-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-alternator-lua-1-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Alternator";
@@ -6332,7 +6333,7 @@
       ];
     };
     daniellumertz-layers-lua-0-0-1b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-0-1b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -6436,7 +6437,7 @@
       ];
     };
     daniellumertz-layers-lua-0-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-0-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -6550,7 +6551,7 @@
       ];
     };
     daniellumertz-layers-lua-0-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-0-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -6664,7 +6665,7 @@
       ];
     };
     daniellumertz-layers-lua-0-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-0-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -6778,7 +6779,7 @@
       ];
     };
     daniellumertz-layers-lua-0-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-1-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -6892,7 +6893,7 @@
       ];
     };
     daniellumertz-layers-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -7006,7 +7007,7 @@
       ];
     };
     daniellumertz-layers-lua-0-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-2-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -7120,7 +7121,7 @@
       ];
     };
     daniellumertz-layers-lua-0-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-2-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -7234,7 +7235,7 @@
       ];
     };
     daniellumertz-layers-lua-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -7348,7 +7349,7 @@
       ];
     };
     daniellumertz-layers-lua-0-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-3-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -7462,7 +7463,7 @@
       ];
     };
     daniellumertz-layers-lua-0-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-3-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -7576,7 +7577,7 @@
       ];
     };
     daniellumertz-layers-lua-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -7690,7 +7691,7 @@
       ];
     };
     daniellumertz-layers-lua-0-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-4-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -7804,7 +7805,7 @@
       ];
     };
     daniellumertz-layers-lua-0-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-4-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -7918,7 +7919,7 @@
       ];
     };
     daniellumertz-layers-lua-0-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-4-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -8032,7 +8033,7 @@
       ];
     };
     daniellumertz-layers-lua-0-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-0-4-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -8146,7 +8147,7 @@
       ];
     };
     daniellumertz-layers-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-1-0-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -8260,7 +8261,7 @@
       ];
     };
     daniellumertz-layers-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-layers-lua-1-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/Layers";
@@ -8374,7 +8375,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -8468,7 +8469,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-0-1b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-0-1b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -8562,7 +8563,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-0-2b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-0-2b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -8656,7 +8657,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-0-3b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-0-3b";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -8750,7 +8751,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -8849,7 +8850,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -8948,7 +8949,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -9047,7 +9048,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-2-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -9146,7 +9147,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -9245,7 +9246,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -9344,7 +9345,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-4-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -9443,7 +9444,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-4-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -9542,7 +9543,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-4-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -9641,7 +9642,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-4-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -9740,7 +9741,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-4-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-4-5";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -9839,7 +9840,7 @@
       ];
     };
     daniellumertz-reagoto-lua-0-4-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-0-4-6";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -9938,7 +9939,7 @@
       ];
     };
     daniellumertz-reagoto-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-1-0-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -10037,7 +10038,7 @@
       ];
     };
     daniellumertz-reagoto-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-1-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -10136,7 +10137,7 @@
       ];
     };
     daniellumertz-reagoto-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-reagoto-lua-1-0-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Live/ReaGoTo";
@@ -10235,7 +10236,7 @@
       ];
     };
     lua-sockets-demo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-1-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -10264,7 +10265,7 @@
       ];
     };
     lua-sockets-demo-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-1-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -10363,7 +10364,7 @@
       ];
     };
     lua-sockets-demo-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-1-1-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -10462,7 +10463,7 @@
       ];
     };
     lua-sockets-demo-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-1-1-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -10556,7 +10557,7 @@
       ];
     };
     lua-sockets-demo-lua-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-1-1-5";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -10655,7 +10656,7 @@
       ];
     };
     lua-sockets-demo-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-1-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -10754,7 +10755,7 @@
       ];
     };
     lua-sockets-demo-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-1-2-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -10853,7 +10854,7 @@
       ];
     };
     lua-sockets-demo-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-2-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -10952,7 +10953,7 @@
       ];
     };
     lua-sockets-demo-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-2-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -11051,7 +11052,7 @@
       ];
     };
     lua-sockets-demo-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-2-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -11155,7 +11156,7 @@
       ];
     };
     lua-sockets-demo-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-2-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -11264,7 +11265,7 @@
       ];
     };
     lua-sockets-demo-lua-2-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-2-3-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -11373,7 +11374,7 @@
       ];
     };
     lua-sockets-demo-lua-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-3-0-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -11482,7 +11483,7 @@
       ];
     };
     lua-sockets-demo-lua-3-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-3-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -11591,7 +11592,7 @@
       ];
     };
     lua-sockets-demo-lua-3-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lua-sockets-demo-lua-3-0-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "LUA Sockets";
@@ -11700,7 +11701,7 @@
       ];
     };
     midi-transfer-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1-01";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -11789,7 +11790,7 @@
       ];
     };
     midi-transfer-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1-02";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -11878,7 +11879,7 @@
       ];
     };
     midi-transfer-lua-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -11967,7 +11968,7 @@
       ];
     };
     midi-transfer-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -12056,7 +12057,7 @@
       ];
     };
     midi-transfer-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1-31";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -12145,7 +12146,7 @@
       ];
     };
     midi-transfer-lua-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1-32";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -12234,7 +12235,7 @@
       ];
     };
     midi-transfer-lua-1-32-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1-32-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -12323,7 +12324,7 @@
       ];
     };
     midi-transfer-lua-1-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1-33";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -12412,7 +12413,7 @@
       ];
     };
     midi-transfer-lua-1-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1-34";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -12501,7 +12502,7 @@
       ];
     };
     midi-transfer-lua-1-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1-36";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -12600,7 +12601,7 @@
       ];
     };
     midi-transfer-lua-1-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1-37";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -12699,7 +12700,7 @@
       ];
     };
     midi-transfer-lua-1-37-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1-37-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -12798,7 +12799,7 @@
       ];
     };
     midi-transfer-lua-1-37-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1-37-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -12897,7 +12898,7 @@
       ];
     };
     midi-transfer-lua-1-37-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1-37-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -13001,7 +13002,7 @@
       ];
     };
     midi-transfer-lua-1-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transfer-lua-1-38";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI Transfer";
@@ -13105,7 +13106,7 @@
       ];
     };
     copy-paste-midi-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "copy-paste-midi-lua-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Copy Paste MIDI";
@@ -13144,7 +13145,7 @@
       ];
     };
     copy-paste-midi-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "copy-paste-midi-lua-0-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Copy Paste MIDI";
@@ -13183,7 +13184,7 @@
       ];
     };
     copy-paste-midi-lua-0-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "copy-paste-midi-lua-0-2-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Copy Paste MIDI";
@@ -13222,7 +13223,7 @@
       ];
     };
     copy-paste-midi-lua-0-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "copy-paste-midi-lua-0-2-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Copy Paste MIDI";
@@ -13261,7 +13262,7 @@
       ];
     };
     copy-paste-midi-lua-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "copy-paste-midi-lua-0-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Copy Paste MIDI";
@@ -13300,7 +13301,7 @@
       ];
     };
     copy-paste-midi-lua-0-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "copy-paste-midi-lua-0-3-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Copy Paste MIDI";
@@ -13339,7 +13340,7 @@
       ];
     };
     copy-paste-midi-lua-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "copy-paste-midi-lua-0-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Copy Paste MIDI";
@@ -13378,7 +13379,7 @@
       ];
     };
     copy-paste-midi-lua-0-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "copy-paste-midi-lua-0-4-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Copy Paste MIDI";
@@ -13417,7 +13418,7 @@
       ];
     };
     copy-paste-midi-lua-0-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "copy-paste-midi-lua-0-4-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Copy Paste MIDI";
@@ -13456,7 +13457,7 @@
       ];
     };
     copy-paste-midi-lua-0-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "copy-paste-midi-lua-0-4-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Copy Paste MIDI";
@@ -13500,7 +13501,7 @@
       ];
     };
     copy-paste-midi-lua-0-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "copy-paste-midi-lua-0-4-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Copy Paste MIDI";
@@ -13544,7 +13545,7 @@
       ];
     };
     markov-chains-lua-0-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "markov-chains-lua-0-1-13";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Markov Chains";
@@ -13633,7 +13634,7 @@
       ];
     };
     markov-chains-lua-0-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "markov-chains-lua-0-1-14";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Markov Chains";
@@ -13722,7 +13723,7 @@
       ];
     };
     markov-chains-lua-0-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "markov-chains-lua-0-1-15";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Markov Chains";
@@ -13816,7 +13817,7 @@
       ];
     };
     markov-chains-lua-0-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "markov-chains-lua-0-1-16";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Markov Chains";
@@ -13910,7 +13911,7 @@
       ];
     };
     markov-chains-lua-0-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "markov-chains-lua-0-1-17";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Markov Chains";
@@ -14004,7 +14005,7 @@
       ];
     };
     markov-chains-lua-0-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "markov-chains-lua-0-1-18";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Markov Chains";
@@ -14098,7 +14099,7 @@
       ];
     };
     markov-chains-lua-0-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "markov-chains-lua-0-1-19";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Markov Chains";
@@ -14192,7 +14193,7 @@
       ];
     };
     markov-chains-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "markov-chains-lua-1-0-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Markov Chains";
@@ -14286,7 +14287,7 @@
       ];
     };
     markov-chains-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "markov-chains-lua-1-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Markov Chains";
@@ -14380,7 +14381,7 @@
       ];
     };
     markov-chains-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "markov-chains-lua-1-0-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Markov Chains";
@@ -14479,7 +14480,7 @@
       ];
     };
     markov-chains-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "markov-chains-lua-1-0-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Markov Chains";
@@ -14578,7 +14579,7 @@
       ];
     };
     markov-chains-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "markov-chains-lua-1-0-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Markov Chains";
@@ -14677,7 +14678,7 @@
       ];
     };
     markov-chains-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "markov-chains-lua-1-0-5";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Markov Chains";
@@ -14776,7 +14777,7 @@
       ];
     };
     markov-chains-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "markov-chains-lua-1-0-6";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Markov Chains";
@@ -14875,7 +14876,7 @@
       ];
     };
     microrhythms-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "microrhythms-lua-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Microrhythms";
@@ -14919,7 +14920,7 @@
       ];
     };
     microrhythms-lua-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "microrhythms-lua-0-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Microrhythms";
@@ -14963,7 +14964,7 @@
       ];
     };
     microrhythms-lua-0-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "microrhythms-lua-0-1-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Microrhythms";
@@ -15007,7 +15008,7 @@
       ];
     };
     microrhythms-lua-0-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "microrhythms-lua-0-1-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Microrhythms";
@@ -15051,7 +15052,7 @@
       ];
     };
     microrhythms-lua-0-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "microrhythms-lua-0-1-5";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Microrhythms";
@@ -15095,7 +15096,7 @@
       ];
     };
     microrhythms-lua-0-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "microrhythms-lua-0-1-6";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Microrhythms";
@@ -15144,7 +15145,7 @@
       ];
     };
     microrhythms-lua-0-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "microrhythms-lua-0-1-7";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Microrhythms";
@@ -15193,7 +15194,7 @@
       ];
     };
     daniellumertz-midi-toolkit-lua-0-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-midi-toolkit-lua-0-1-15";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/MIDI Toolkit";
@@ -15287,7 +15288,7 @@
       ];
     };
     daniellumertz-midi-toolkit-lua-0-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-midi-toolkit-lua-0-1-16";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/MIDI Toolkit";
@@ -15381,7 +15382,7 @@
       ];
     };
     daniellumertz-midi-toolkit-lua-0-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-midi-toolkit-lua-0-1-17";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/MIDI Toolkit";
@@ -15475,7 +15476,7 @@
       ];
     };
     daniellumertz-midi-toolkit-lua-0-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-midi-toolkit-lua-0-1-18";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/MIDI Toolkit";
@@ -15569,7 +15570,7 @@
       ];
     };
     daniellumertz-midi-toolkit-lua-0-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-midi-toolkit-lua-0-1-19";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/MIDI Toolkit";
@@ -15663,7 +15664,7 @@
       ];
     };
     daniellumertz-midi-toolkit-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-midi-toolkit-lua-1-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/MIDI Toolkit";
@@ -15757,7 +15758,7 @@
       ];
     };
     daniellumertz-midi-toolkit-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-midi-toolkit-lua-1-0-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/MIDI Toolkit";
@@ -15856,7 +15857,7 @@
       ];
     };
     daniellumertz-midi-toolkit-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-midi-toolkit-lua-1-0-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/MIDI Toolkit";
@@ -15955,7 +15956,7 @@
       ];
     };
     daniellumertz-midi-toolkit-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-midi-toolkit-lua-1-0-5";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/MIDI Toolkit";
@@ -16054,7 +16055,7 @@
       ];
     };
     daniellumertz-midi-toolkit-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-midi-toolkit-lua-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/MIDI Toolkit";
@@ -16153,7 +16154,7 @@
       ];
     };
     daniellumertz-midi-toolkit-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daniellumertz-midi-toolkit-lua-1-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/MIDI Toolkit";
@@ -16252,7 +16253,7 @@
       ];
     };
     split-items-in-midi-notes-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "split-items-in-midi-notes-lua-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Misc";
@@ -16316,7 +16317,7 @@
       ];
     };
     split-items-in-midi-notes-lua-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "split-items-in-midi-notes-lua-0-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Misc";
@@ -16380,7 +16381,7 @@
       ];
     };
     pitch-class-counter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pitch-class-counter-lua-1-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Pitch Class Counter";
@@ -16394,7 +16395,7 @@
       ];
     };
     pitch-class-counter-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pitch-class-counter-lua-1-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Pitch Class Counter";
@@ -16408,7 +16409,7 @@
       ];
     };
     pitch-class-counter-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pitch-class-counter-lua-1-0-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Pitch Class Counter";
@@ -16422,7 +16423,7 @@
       ];
     };
     pitch-class-counter-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pitch-class-counter-lua-1-0-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "MIDI/Pitch Class Counter";
@@ -16436,7 +16437,7 @@
       ];
     };
     copy-items-to-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "copy-items-to-selected-tracks-lua-1-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Misc";
@@ -16450,7 +16451,7 @@
       ];
     };
     create-4-points-inside-time-selection-using-grid-values-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "create-4-points-inside-time-selection-using-grid-values-lua-1-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Misc";
@@ -16464,7 +16465,7 @@
       ];
     };
     create-4-points-inside-time-selection-using-grid-values-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "create-4-points-inside-time-selection-using-grid-values-lua-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Misc";
@@ -16478,7 +16479,7 @@
       ];
     };
     create-4-points-inside-time-selection-using-grid-values-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "create-4-points-inside-time-selection-using-grid-values-lua-1-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Misc";
@@ -16492,7 +16493,7 @@
       ];
     };
     multikey-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "multikey-lua-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Multikey";
@@ -16526,7 +16527,7 @@
       ];
     };
     reashare-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reashare-lua-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "ReaShare";
@@ -16645,7 +16646,7 @@
       ];
     };
     reashare-lua-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reashare-lua-0-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "ReaShare";
@@ -16764,7 +16765,7 @@
       ];
     };
     reashare-lua-0-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reashare-lua-0-1-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "ReaShare";
@@ -16883,7 +16884,7 @@
       ];
     };
     reashare-lua-0-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reashare-lua-0-1-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "ReaShare";
@@ -17002,7 +17003,7 @@
       ];
     };
     reashare-lua-0-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reashare-lua-0-1-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "ReaShare";
@@ -17121,7 +17122,7 @@
       ];
     };
     render-selected-items-in-new-tracks-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "render-selected-items-in-new-tracks-lua-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Render/Misc";
@@ -17185,7 +17186,7 @@
       ];
     };
     render-selected-items-in-new-tracks-lua-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "render-selected-items-in-new-tracks-lua-0-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Render/Misc";
@@ -17249,7 +17250,7 @@
       ];
     };
     render-selected-items-in-new-tracks-lua-0-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "render-selected-items-in-new-tracks-lua-0-1-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Render/Misc";
@@ -17313,7 +17314,7 @@
       ];
     };
     randomize-takes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "randomize-takes-lua-1-0";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Takes/Misc";
@@ -17327,7 +17328,7 @@
       ];
     };
     track-snapshot-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-0-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -17376,7 +17377,7 @@
       ];
     };
     track-snapshot-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-0-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -17425,7 +17426,7 @@
       ];
     };
     track-snapshot-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-0-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -17474,7 +17475,7 @@
       ];
     };
     track-snapshot-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-0-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -17523,7 +17524,7 @@
       ];
     };
     track-snapshot-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-0-5";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -17572,7 +17573,7 @@
       ];
     };
     track-snapshot-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-0-6";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -17621,7 +17622,7 @@
       ];
     };
     track-snapshot-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -17670,7 +17671,7 @@
       ];
     };
     track-snapshot-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -17719,7 +17720,7 @@
       ];
     };
     track-snapshot-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -17778,7 +17779,7 @@
       ];
     };
     track-snapshot-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-3-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -17837,7 +17838,7 @@
       ];
     };
     track-snapshot-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-3-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -17896,7 +17897,7 @@
       ];
     };
     track-snapshot-lua-1-4pre1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-4pre1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -17960,7 +17961,7 @@
       ];
     };
     track-snapshot-lua-1-4pre2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-4pre2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -18024,7 +18025,7 @@
       ];
     };
     track-snapshot-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -18088,7 +18089,7 @@
       ];
     };
     track-snapshot-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-4-1";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -18152,7 +18153,7 @@
       ];
     };
     track-snapshot-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-4-2";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -18216,7 +18217,7 @@
       ];
     };
     track-snapshot-lua-1-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-4-3";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -18280,7 +18281,7 @@
       ];
     };
     track-snapshot-lua-1-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-4-4";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -18344,7 +18345,7 @@
       ];
     };
     track-snapshot-lua-1-4-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-4-5";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -18408,7 +18409,7 @@
       ];
     };
     track-snapshot-lua-1-4-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-4-6";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -18472,7 +18473,7 @@
       ];
     };
     track-snapshot-lua-1-4-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-4-7";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -18536,7 +18537,7 @@
       ];
     };
     track-snapshot-lua-1-4-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-4-8";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -18605,7 +18606,7 @@
       ];
     };
     track-snapshot-lua-1-4-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-4-9";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -18674,7 +18675,7 @@
       ];
     };
     track-snapshot-lua-1-4-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-4-10";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";
@@ -18743,7 +18744,7 @@
       ];
     };
     track-snapshot-lua-1-4-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-snapshot-lua-1-4-11";
       indexName = "Daniel Lumertz Scripts";
       categoryName = "Tracks/Track Snapshot";

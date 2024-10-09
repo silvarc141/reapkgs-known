@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   beaunus-scripts = {
     beaunus-import-reaper-clip-splicer-json-py-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "beaunus-import-reaper-clip-splicer-json-py-1-0";
       indexName = "Beaunus Scripts";
       categoryName = "Clip Splicer";
@@ -19,7 +20,7 @@
       ];
     };
     beaunus-gravity-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "beaunus-gravity-jsfx-1-0";
       indexName = "Beaunus Scripts";
       categoryName = "JSFX";
@@ -33,7 +34,7 @@
       ];
     };
     beaunus-offset-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "beaunus-offset-jsfx-1-0";
       indexName = "Beaunus Scripts";
       categoryName = "JSFX";
@@ -47,7 +48,7 @@
       ];
     };
     beaunus-rectify-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "beaunus-rectify-jsfx-1-0";
       indexName = "Beaunus Scripts";
       categoryName = "JSFX";
@@ -61,7 +62,7 @@
       ];
     };
     beaunus-wave-shaper-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "beaunus-wave-shaper-jsfx-1-0";
       indexName = "Beaunus Scripts";
       categoryName = "JSFX";
@@ -75,7 +76,7 @@
       ];
     };
     beaunus-wave-shaper-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "beaunus-wave-shaper-jsfx-1-1";
       indexName = "Beaunus Scripts";
       categoryName = "JSFX";

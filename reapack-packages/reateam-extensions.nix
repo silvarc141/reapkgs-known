@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   reateam-extensions = {
     ak5k-reablink-ext-0-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reablink-ext-0-4-3";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -59,7 +60,7 @@
       ];
     };
     ak5k-reablink-ext-0-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reablink-ext-0-4-4";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -118,7 +119,7 @@
       ];
     };
     ak5k-reablink-ext-0-4-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reablink-ext-0-4-5";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -177,7 +178,7 @@
       ];
     };
     ak5k-reablink-ext-0-4-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reablink-ext-0-4-6";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -236,7 +237,7 @@
       ];
     };
     ak5k-reablink-ext-0-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reablink-ext-0-5-0";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -295,7 +296,7 @@
       ];
     };
     ak5k-reablink-ext-0-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reablink-ext-0-5-1";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -354,7 +355,7 @@
       ];
     };
     ak5k-reablink-ext-0-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reablink-ext-0-5-2";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -413,7 +414,7 @@
       ];
     };
     ak5k-reablink-ext-0-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reablink-ext-0-5-3";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -472,7 +473,7 @@
       ];
     };
     ak5k-reablink-ext-0-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reablink-ext-0-5-4";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -531,7 +532,7 @@
       ];
     };
     ak5k-reablink-ext-0-5-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reablink-ext-0-5-5";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -590,7 +591,7 @@
       ];
     };
     ak5k-reablink-ext-0-5-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reablink-ext-0-5-6";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -649,7 +650,7 @@
       ];
     };
     ak5k-reamculive-programmable-reascript-api-control-surface-extension-ext-0-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reamculive-programmable-reascript-api-control-surface-extension-ext-0-1-6";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -683,7 +684,7 @@
       ];
     };
     ak5k-reamculive-programmable-reascript-api-control-surface-extension-ext-0-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reamculive-programmable-reascript-api-control-surface-extension-ext-0-1-7";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -717,7 +718,7 @@
       ];
     };
     js-reascriptapi-ext-0-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-93";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -751,7 +752,7 @@
       ];
     };
     js-reascriptapi-ext-0-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-94";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -790,7 +791,7 @@
       ];
     };
     js-reascriptapi-ext-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-95";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -829,7 +830,7 @@
       ];
     };
     js-reascriptapi-ext-0-951 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-951";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -868,7 +869,7 @@
       ];
     };
     js-reascriptapi-ext-0-962 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-962";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -907,7 +908,7 @@
       ];
     };
     js-reascriptapi-ext-0-963 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-963";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -946,7 +947,7 @@
       ];
     };
     js-reascriptapi-ext-0-964 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-964";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -985,7 +986,7 @@
       ];
     };
     js-reascriptapi-ext-0-970 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-970";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1024,7 +1025,7 @@
       ];
     };
     js-reascriptapi-ext-0-971 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-971";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1063,7 +1064,7 @@
       ];
     };
     js-reascriptapi-ext-0-972 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-972";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1102,7 +1103,7 @@
       ];
     };
     js-reascriptapi-ext-0-980 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-980";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1141,7 +1142,7 @@
       ];
     };
     js-reascriptapi-ext-0-980a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-980a";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1180,7 +1181,7 @@
       ];
     };
     js-reascriptapi-ext-0-981 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-981";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1219,7 +1220,7 @@
       ];
     };
     js-reascriptapi-ext-0-982 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-982";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1258,7 +1259,7 @@
       ];
     };
     js-reascriptapi-ext-0-984 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-984";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1297,7 +1298,7 @@
       ];
     };
     js-reascriptapi-ext-0-985 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-985";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1336,7 +1337,7 @@
       ];
     };
     js-reascriptapi-ext-0-986 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-986";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1375,7 +1376,7 @@
       ];
     };
     js-reascriptapi-ext-0-987 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-987";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1414,7 +1415,7 @@
       ];
     };
     js-reascriptapi-ext-0-988 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-988";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1453,7 +1454,7 @@
       ];
     };
     js-reascriptapi-ext-0-989 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-989";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1492,7 +1493,7 @@
       ];
     };
     js-reascriptapi-ext-0-990 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-990";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1531,7 +1532,7 @@
       ];
     };
     js-reascriptapi-ext-0-991 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-991";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1570,7 +1571,7 @@
       ];
     };
     js-reascriptapi-ext-0-992 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-992";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1609,7 +1610,7 @@
       ];
     };
     js-reascriptapi-ext-0-993 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-993";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1648,7 +1649,7 @@
       ];
     };
     js-reascriptapi-ext-0-994 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-994";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1687,7 +1688,7 @@
       ];
     };
     js-reascriptapi-ext-0-995 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-995";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1726,7 +1727,7 @@
       ];
     };
     js-reascriptapi-ext-0-996 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-996";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1765,7 +1766,7 @@
       ];
     };
     js-reascriptapi-ext-0-997 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-997";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1804,7 +1805,7 @@
       ];
     };
     js-reascriptapi-ext-0-998 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-998";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1843,7 +1844,7 @@
       ];
     };
     js-reascriptapi-ext-0-999 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-0-999";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1882,7 +1883,7 @@
       ];
     };
     js-reascriptapi-ext-1-000 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-1-000";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1921,7 +1922,7 @@
       ];
     };
     js-reascriptapi-ext-1-001 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-1-001";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1960,7 +1961,7 @@
       ];
     };
     js-reascriptapi-ext-1-002 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-1-002";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -1994,7 +1995,7 @@
       ];
     };
     js-reascriptapi-ext-1-010 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-1-010";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2028,7 +2029,7 @@
       ];
     };
     js-reascriptapi-ext-1-210 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-1-210";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2062,7 +2063,7 @@
       ];
     };
     js-reascriptapi-ext-1-215 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-1-215";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2096,7 +2097,7 @@
       ];
     };
     js-reascriptapi-ext-1-217 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-1-217";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2130,7 +2131,7 @@
       ];
     };
     js-reascriptapi-ext-1-220 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-1-220";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2169,7 +2170,7 @@
       ];
     };
     js-reascriptapi-ext-1-301 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-1-301";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2203,7 +2204,7 @@
       ];
     };
     js-reascriptapi-ext-1-310 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-reascriptapi-ext-1-310";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2237,7 +2238,7 @@
       ];
     };
     reaper-imgui-ext-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-1";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2301,7 +2302,7 @@
       ];
     };
     reaper-imgui-ext-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-1-1";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2370,7 +2371,7 @@
       ];
     };
     reaper-imgui-ext-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-2";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2439,7 +2440,7 @@
       ];
     };
     reaper-imgui-ext-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-3";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2513,7 +2514,7 @@
       ];
     };
     reaper-imgui-ext-0-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-3-1";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2587,7 +2588,7 @@
       ];
     };
     reaper-imgui-ext-0-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-3-2";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2661,7 +2662,7 @@
       ];
     };
     reaper-imgui-ext-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-4";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2735,7 +2736,7 @@
       ];
     };
     reaper-imgui-ext-0-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-4-1";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2809,7 +2810,7 @@
       ];
     };
     reaper-imgui-ext-0-5-beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-5-beta";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2883,7 +2884,7 @@
       ];
     };
     reaper-imgui-ext-0-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-5-1";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -2962,7 +2963,7 @@
       ];
     };
     reaper-imgui-ext-0-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-5-2";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -3041,7 +3042,7 @@
       ];
     };
     reaper-imgui-ext-0-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-5-3";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -3120,7 +3121,7 @@
       ];
     };
     reaper-imgui-ext-0-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-5-4";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -3199,7 +3200,7 @@
       ];
     };
     reaper-imgui-ext-0-5-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-5-5";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -3278,7 +3279,7 @@
       ];
     };
     reaper-imgui-ext-0-5-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-5-6";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -3357,7 +3358,7 @@
       ];
     };
     reaper-imgui-ext-0-5-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-5-7";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -3436,7 +3437,7 @@
       ];
     };
     reaper-imgui-ext-0-5-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-5-8";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -3515,7 +3516,7 @@
       ];
     };
     reaper-imgui-ext-0-5-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-5-9";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -3594,7 +3595,7 @@
       ];
     };
     reaper-imgui-ext-0-5-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-5-10";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -3673,7 +3674,7 @@
       ];
     };
     reaper-imgui-ext-0-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-6-0";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -3752,7 +3753,7 @@
       ];
     };
     reaper-imgui-ext-0-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-6-1";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -3831,7 +3832,7 @@
       ];
     };
     reaper-imgui-ext-0-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-6-2";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -3910,7 +3911,7 @@
       ];
     };
     reaper-imgui-ext-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-7";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -3994,7 +3995,7 @@
       ];
     };
     reaper-imgui-ext-0-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-7-1";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -4083,7 +4084,7 @@
       ];
     };
     reaper-imgui-ext-0-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-7-2";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -4172,7 +4173,7 @@
       ];
     };
     reaper-imgui-ext-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -4261,7 +4262,7 @@
       ];
     };
     reaper-imgui-ext-0-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8-1";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -4350,7 +4351,7 @@
       ];
     };
     reaper-imgui-ext-0-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8-2";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -4439,7 +4440,7 @@
       ];
     };
     reaper-imgui-ext-0-8-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8-3";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -4528,7 +4529,7 @@
       ];
     };
     reaper-imgui-ext-0-8-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8-4";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -4617,7 +4618,7 @@
       ];
     };
     reaper-imgui-ext-0-8-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8-5";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -4706,7 +4707,7 @@
       ];
     };
     reaper-imgui-ext-0-8-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8-6";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -4795,7 +4796,7 @@
       ];
     };
     reaper-imgui-ext-0-8-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8-6-1";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -4884,7 +4885,7 @@
       ];
     };
     reaper-imgui-ext-0-8-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8-7";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -4973,7 +4974,7 @@
       ];
     };
     reaper-imgui-ext-0-8-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8-7-1";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -5062,7 +5063,7 @@
       ];
     };
     reaper-imgui-ext-0-8-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8-7-2";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -5151,7 +5152,7 @@
       ];
     };
     reaper-imgui-ext-0-8-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8-7-3";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -5240,7 +5241,7 @@
       ];
     };
     reaper-imgui-ext-0-8-7-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8-7-4";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -5329,7 +5330,7 @@
       ];
     };
     reaper-imgui-ext-0-8-7-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8-7-5";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -5418,7 +5419,7 @@
       ];
     };
     reaper-imgui-ext-0-8-7-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-8-7-6";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -5507,7 +5508,7 @@
       ];
     };
     reaper-imgui-ext-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-9";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -5596,7 +5597,7 @@
       ];
     };
     reaper-imgui-ext-0-9-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-9-0-1";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -5685,7 +5686,7 @@
       ];
     };
     reaper-imgui-ext-0-9-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-9-0-2";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -5774,7 +5775,7 @@
       ];
     };
     reaper-imgui-ext-0-9-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-9-1";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -5853,7 +5854,7 @@
       ];
     };
     reaper-imgui-ext-0-9-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-9-2";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -5932,7 +5933,7 @@
       ];
     };
     reaper-imgui-ext-0-9-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-9-3";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -6011,7 +6012,7 @@
       ];
     };
     reaper-imgui-ext-0-9-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-imgui-ext-0-9-3-1";
       indexName = "ReaTeam Extensions";
       categoryName = "API";
@@ -6090,7 +6091,7 @@
       ];
     };
     ak5k-reasolotus-reaper-solo-bus-extension-ext-0-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reasolotus-reaper-solo-bus-extension-ext-0-1-6";
       indexName = "ReaTeam Extensions";
       categoryName = "Control Surfaces";
@@ -6124,7 +6125,7 @@
       ];
     };
     ak5k-reasolotus-reaper-solo-bus-extension-ext-0-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reasolotus-reaper-solo-bus-extension-ext-0-1-7";
       indexName = "ReaTeam Extensions";
       categoryName = "Control Surfaces";
@@ -6158,7 +6159,7 @@
       ];
     };
     ak5k-reasolotus-reaper-solo-bus-extension-ext-0-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reasolotus-reaper-solo-bus-extension-ext-0-1-8";
       indexName = "ReaTeam Extensions";
       categoryName = "Control Surfaces";
@@ -6192,7 +6193,7 @@
       ];
     };
     ak5k-reasolotus-reaper-solo-bus-extension-ext-0-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reasolotus-reaper-solo-bus-extension-ext-0-2-0";
       indexName = "ReaTeam Extensions";
       categoryName = "Control Surfaces";
@@ -6226,7 +6227,7 @@
       ];
     };
     brumbear-reakontrol-ext-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "brumbear-reakontrol-ext-1-00";
       indexName = "ReaTeam Extensions";
       categoryName = "Control Surfaces";
@@ -6250,7 +6251,7 @@
       ];
     };
     brumbear-reakontrol-ext-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "brumbear-reakontrol-ext-1-10";
       indexName = "ReaTeam Extensions";
       categoryName = "Control Surfaces";
@@ -6269,7 +6270,7 @@
       ];
     };
     ruxton-tascamus2400-ext-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ruxton-tascamus2400-ext-1-2-1";
       indexName = "ReaTeam Extensions";
       categoryName = "Control Surfaces";
@@ -6558,7 +6559,7 @@
       ];
     };
     reaper-oss-sws-ext-2-14-beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-oss-sws-ext-2-14-beta";
       indexName = "ReaTeam Extensions";
       categoryName = "Extensions";
@@ -7067,7 +7068,7 @@
       ];
     };
     reaper-oss-sws-ext-2-14-0-1-beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-oss-sws-ext-2-14-0-1-beta";
       indexName = "ReaTeam Extensions";
       categoryName = "Extensions";
@@ -7576,7 +7577,7 @@
       ];
     };
     reaper-oss-sws-ext-2-14-0-2-beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-oss-sws-ext-2-14-0-2-beta";
       indexName = "ReaTeam Extensions";
       categoryName = "Extensions";
@@ -8085,7 +8086,7 @@
       ];
     };
     reaper-oss-sws-ext-2-14-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-oss-sws-ext-2-14-0-3";
       indexName = "ReaTeam Extensions";
       categoryName = "Extensions";
@@ -8594,7 +8595,7 @@
       ];
     };
     ak5k-reafab-fabulous-reaper-plug-in-controller-extension-ext-0-3-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reafab-fabulous-reaper-plug-in-controller-extension-ext-0-3-10";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -8648,7 +8649,7 @@
       ];
     };
     ak5k-reafab-fabulous-reaper-plug-in-controller-extension-ext-0-3-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reafab-fabulous-reaper-plug-in-controller-extension-ext-0-3-11";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -8702,7 +8703,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-3-0";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -8756,7 +8757,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-3-1";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -8810,7 +8811,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-3-2";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -8864,7 +8865,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-4-0";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -8918,7 +8919,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-4-1";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -8972,7 +8973,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-4-3";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -9026,7 +9027,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-5-0";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -9080,7 +9081,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-1";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -9134,7 +9135,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-2";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -9188,7 +9189,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-3";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -9242,7 +9243,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-4";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -9296,7 +9297,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-5";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -9350,7 +9351,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-6";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -9404,7 +9405,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-7";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -9458,7 +9459,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-8";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -9512,7 +9513,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-9";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -9566,7 +9567,7 @@
       ];
     };
     ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-6-10";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";
@@ -9620,7 +9621,7 @@
       ];
     };
     frabert-ogler-ext-0-10-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "frabert-ogler-ext-0-10-0";
       indexName = "ReaTeam Extensions";
       categoryName = "FX";

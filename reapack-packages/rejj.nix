@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   rejj = {
     reeq-jsfx-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reeq-jsfx-1-2-0";
       indexName = "ReJJ";
       categoryName = "ReEQ";
@@ -34,7 +35,7 @@
       ];
     };
     respectrum-jsfx-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "respectrum-jsfx-1-1-4";
       indexName = "ReJJ";
       categoryName = "ReSpectrum";

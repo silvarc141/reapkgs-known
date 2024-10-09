@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   chmaha-scripts = {
     rcplugs-jsfx-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcplugs-jsfx-1-12";
       indexName = "chmaha Scripts";
       categoryName = "RCPlugs";
@@ -89,7 +90,7 @@
       ];
     };
     reaclassical-lua-24-24-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaclassical-lua-24-24-4";
       indexName = "chmaha Scripts";
       categoryName = "ReaClassical";
@@ -478,7 +479,7 @@
       ];
     };
     reaclassical-lua-24-24-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaclassical-lua-24-24-5";
       indexName = "chmaha Scripts";
       categoryName = "ReaClassical";

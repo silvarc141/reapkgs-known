@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   x-raym-midi-makey-makey = {
     x-raym-makey-makey-midi-notes-channel-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-makey-makey-midi-notes-channel-jsfx-1-0";
       indexName = "X-Raym MIDI Makey Makey";
       categoryName = "JSFX";
@@ -19,7 +20,7 @@
       ];
     };
     x-raym-makey-makey-midi-notes-map-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-makey-makey-midi-notes-map-jsfx-1-0";
       indexName = "X-Raym MIDI Makey Makey";
       categoryName = "JSFX";
@@ -33,7 +34,7 @@
       ];
     };
     x-raym-makey-makey-midi-notes-map-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-makey-makey-midi-notes-map-jsfx-1-0-1";
       indexName = "X-Raym MIDI Makey Makey";
       categoryName = "JSFX";
@@ -47,7 +48,7 @@
       ];
     };
     x-raym-makey-makey-midi-notes-monitor-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-makey-makey-midi-notes-monitor-jsfx-1-0";
       indexName = "X-Raym MIDI Makey Makey";
       categoryName = "JSFX";
@@ -61,7 +62,7 @@
       ];
     };
     x-raym-makey-makey-midi-notes-velocity-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-makey-makey-midi-notes-velocity-jsfx-1-0";
       indexName = "X-Raym MIDI Makey Makey";
       categoryName = "JSFX";
@@ -75,7 +76,7 @@
       ];
     };
     x-raym-makey-makey-midi-notes-velocity-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-makey-makey-midi-notes-velocity-jsfx-1-0-1";
       indexName = "X-Raym MIDI Makey Makey";
       categoryName = "JSFX";

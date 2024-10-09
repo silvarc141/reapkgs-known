@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   robu-scripts = {
     robu-midi-ex-machina-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "robu-midi-ex-machina-lua-1-2-1";
       indexName = "RobU Scripts";
       categoryName = "MIDI Editor/MIDI Ex Machina";
@@ -34,7 +35,7 @@
       ];
     };
     robu-midi-ex-machina-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "robu-midi-ex-machina-lua-1-3";
       indexName = "RobU Scripts";
       categoryName = "MIDI Editor/MIDI Ex Machina";
@@ -63,7 +64,7 @@
       ];
     };
     robu-midi-ex-machina-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "robu-midi-ex-machina-lua-1-3-2";
       indexName = "RobU Scripts";
       categoryName = "MIDI Editor/MIDI Ex Machina";
@@ -92,7 +93,7 @@
       ];
     };
     robu-midi-ex-machina-lua-1-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "robu-midi-ex-machina-lua-1-3-3";
       indexName = "RobU Scripts";
       categoryName = "MIDI Editor/MIDI Ex Machina";
@@ -121,7 +122,7 @@
       ];
     };
     robu-midi-ex-machina-lua-1-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "robu-midi-ex-machina-lua-1-3-4";
       indexName = "RobU Scripts";
       categoryName = "MIDI Editor/MIDI Ex Machina";
@@ -150,7 +151,7 @@
       ];
     };
     robu-midi-ex-machina-lua-1-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "robu-midi-ex-machina-lua-1-3-5";
       indexName = "RobU Scripts";
       categoryName = "MIDI Editor/MIDI Ex Machina";
@@ -179,7 +180,7 @@
       ];
     };
     robu-midi-ex-machina-lua-1-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "robu-midi-ex-machina-lua-1-3-6";
       indexName = "RobU Scripts";
       categoryName = "MIDI Editor/MIDI Ex Machina";

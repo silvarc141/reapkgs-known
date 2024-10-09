@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   mrlimbic-scripts = {
     mrlimbic-apply-vr-rotate-from-item-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-apply-vr-rotate-from-item-notes-lua-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "Envelopes";
@@ -19,7 +20,7 @@
       ];
     };
     mrlimbic-merge-track-volume-envelope-into-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-merge-track-volume-envelope-into-selected-items-lua-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "Envelopes";
@@ -33,7 +34,7 @@
       ];
     };
     _4-ch-4-band-joiner-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_4-ch-4-band-joiner-jsfx-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -47,7 +48,7 @@
       ];
     };
     _4-ch-4-band-splitter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_4-ch-4-band-splitter-jsfx-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -61,7 +62,7 @@
       ];
     };
     _4-ch-limiter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_4-ch-limiter-jsfx-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -75,7 +76,7 @@
       ];
     };
     _4-ch-sidechain-compressor-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_4-ch-sidechain-compressor-jsfx-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -89,7 +90,7 @@
       ];
     };
     dopp-wobbler-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dopp-wobbler-jsfx-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -103,7 +104,7 @@
       ];
     };
     mmc-locate-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mmc-locate-jsfx-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -117,7 +118,7 @@
       ];
     };
     mmc-locate-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mmc-locate-jsfx-1-1";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -131,7 +132,7 @@
       ];
     };
     mmc-locate-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mmc-locate-jsfx-1-2";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -145,7 +146,7 @@
       ];
     };
     mmc-locate-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mmc-locate-jsfx-1-3";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -159,7 +160,7 @@
       ];
     };
     mmc-locate-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mmc-locate-jsfx-1-4";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -173,7 +174,7 @@
       ];
     };
     mrlimbic-lcr-mono-panner-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-lcr-mono-panner-jsfx-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -187,7 +188,7 @@
       ];
     };
     mrlimbic-lcr-mono-panner-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-lcr-mono-panner-jsfx-1-1";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -201,7 +202,7 @@
       ];
     };
     mrlimbic-lcr-mono-panner-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-lcr-mono-panner-jsfx-1-2";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -215,7 +216,7 @@
       ];
     };
     mrlimbic-lcr-mono-panner-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-lcr-mono-panner-jsfx-1-3";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -229,7 +230,7 @@
       ];
     };
     mrlimbic-lcr-mono-panner-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-lcr-mono-panner-jsfx-1-4";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -243,7 +244,7 @@
       ];
     };
     mrlimbic-square-pusher-distorion-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-square-pusher-distorion-jsfx-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "JSFX";
@@ -257,7 +258,7 @@
       ];
     };
     mrlimbic-create-regions-from-item-groups-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-create-regions-from-item-groups-lua-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "Regions";
@@ -271,7 +272,7 @@
       ];
     };
     mrlimbic-create-regions-from-item-groups-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-create-regions-from-item-groups-lua-1-1";
       indexName = "mrlimbic scripts";
       categoryName = "Regions";
@@ -285,7 +286,7 @@
       ];
     };
     mrlimbic-import-timecoded-regions-from-tab-delimited-csv-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-import-timecoded-regions-from-tab-delimited-csv-lua-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "Regions";
@@ -299,7 +300,7 @@
       ];
     };
     mrlimbic-add-sequential-mono-sends-to-parent-and-disable-master-parent-send-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-add-sequential-mono-sends-to-parent-and-disable-master-parent-send-lua-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "Routing";
@@ -313,7 +314,7 @@
       ];
     };
     mrlimbic-timecode-entry-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-timecode-entry-lua-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "Timecode";
@@ -327,7 +328,7 @@
       ];
     };
     mrlimbic-export-video-items-on-selected-track-s-as-edl-s-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-export-video-items-on-selected-track-s-as-edl-s-lua-1-0";
       indexName = "mrlimbic scripts";
       categoryName = "Video";
@@ -341,7 +342,7 @@
       ];
     };
     mrlimbic-ffprobe-scene-detect-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-ffprobe-scene-detect-lua-1-1";
       indexName = "mrlimbic scripts";
       categoryName = "Video";
@@ -355,7 +356,7 @@
       ];
     };
     mrlimbic-ffprobe-scene-detect-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrlimbic-ffprobe-scene-detect-lua-1-2";
       indexName = "mrlimbic scripts";
       categoryName = "Video";

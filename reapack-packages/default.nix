@@ -1,8 +1,8 @@
 {
+  lib,
   mkReapackPackage,
   stdenv,
   fetchurl,
-  lib,
 }: let
   imports = [
     ./acendan-scripts.nix
@@ -81,6 +81,6 @@
     ./yannick-reascripts.nix
     ./zaibuyidao-scripts.nix
   ];
-  importedPackages = map (path: import path {inherit mkReapackPackage stdenv fetchurl;}) imports;
+  importedPackages = map (path: import path {inherit lib mkReapackPackage stdenv fetchurl;}) imports;
 in
   lib.foldl lib.mergeAttrs {} importedPackages

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   me2beats-scripts = {
     me2beats-copy-active-take-envelopes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-active-take-envelopes-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -19,7 +20,7 @@
       ];
     };
     me2beats-copy-selected-track-volume-envelope-points-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-selected-track-volume-envelope-points-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -33,7 +34,7 @@
       ];
     };
     me2beats-copy-selected-track-volume-envelope-points-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-selected-track-volume-envelope-points-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -47,7 +48,7 @@
       ];
     };
     me2beats-delete-envelope-at-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-envelope-at-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -61,7 +62,7 @@
       ];
     };
     me2beats-delete-envelope-at-mouse-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-envelope-at-mouse-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -75,7 +76,7 @@
       ];
     };
     me2beats-delete-envelope-at-mouse-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-envelope-at-mouse-lua-1-2";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -89,7 +90,7 @@
       ];
     };
     me2beats-delete-envelope-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-envelope-for-last-touched-parameter-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -103,7 +104,7 @@
       ];
     };
     me2beats-delete-envelope-for-last-touched-parameter-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-envelope-for-last-touched-parameter-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -117,7 +118,7 @@
       ];
     };
     me2beats-delete-envelope-for-last-touched-parameter-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-envelope-for-last-touched-parameter-lua-1-2";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -131,7 +132,7 @@
       ];
     };
     me2beats-edit-nearest-envelope-point-from-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-edit-nearest-envelope-point-from-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -145,7 +146,7 @@
       ];
     };
     me2beats-edit-nearest-envelope-point-from-mouse-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-edit-nearest-envelope-point-from-mouse-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -159,7 +160,7 @@
       ];
     };
     me2beats-edit-selected-envelope-point-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-edit-selected-envelope-point-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -173,7 +174,7 @@
       ];
     };
     me2beats-insert-new-envelope-point-at-mouse-obey-snapping-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-insert-new-envelope-point-at-mouse-obey-snapping-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -187,7 +188,7 @@
       ];
     };
     me2beats-move-cursor-to-last-selected-envelope-selected-point-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-cursor-to-last-selected-envelope-selected-point-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -201,7 +202,7 @@
       ];
     };
     me2beats-move-cursor-to-selected-envelope-selected-point-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-cursor-to-selected-envelope-selected-point-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -215,7 +216,7 @@
       ];
     };
     me2beats-move-envelope-points-x-sec-right-or-left-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-envelope-points-x-sec-right-or-left-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -229,7 +230,7 @@
       ];
     };
     me2beats-move-selected-envelope-down-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-selected-envelope-down-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -243,7 +244,7 @@
       ];
     };
     me2beats-move-selected-envelope-down-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-selected-envelope-down-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -257,7 +258,7 @@
       ];
     };
     me2beats-move-selected-envelope-points-x-sec-right-or-left-without-input-box-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-selected-envelope-points-x-sec-right-or-left-without-input-box-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -271,7 +272,7 @@
       ];
     };
     me2beats-move-selected-envelope-points-x-sec-right-or-left-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-selected-envelope-points-x-sec-right-or-left-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -285,7 +286,7 @@
       ];
     };
     me2beats-move-selected-envelope-up-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-selected-envelope-up-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -299,7 +300,7 @@
       ];
     };
     me2beats-move-selected-envelope-up-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-selected-envelope-up-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -313,7 +314,7 @@
       ];
     };
     me2beats-paste-envelopes-to-active-takes-of-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-paste-envelopes-to-active-takes-of-selected-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -327,7 +328,7 @@
       ];
     };
     me2beats-paste-saved-points-to-selected-track-volume-envelope-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-paste-saved-points-to-selected-track-volume-envelope-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -341,7 +342,7 @@
       ];
     };
     me2beats-show-selected-envelope-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-show-selected-envelope-fx-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -355,7 +356,7 @@
       ];
     };
     me2beats-toggle-show-selected-envelope-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-show-selected-envelope-fx-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Envelopes";
@@ -369,7 +370,7 @@
       ];
     };
     me2beats-add-fx-by-name-to-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-add-fx-by-name-to-selected-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -383,7 +384,7 @@
       ];
     };
     me2beats-add-fx-by-name-to-selected-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-add-fx-by-name-to-selected-track-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -397,7 +398,7 @@
       ];
     };
     me2beats-add-fx-by-name-to-track-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-add-fx-by-name-to-track-under-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -411,7 +412,7 @@
       ];
     };
     me2beats-add-fx-by-name-to-track-under-mouse-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-add-fx-by-name-to-track-under-mouse-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -425,7 +426,7 @@
       ];
     };
     me2beats-close-all-fx-windows-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-close-all-fx-windows-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -439,7 +440,7 @@
       ];
     };
     me2beats-close-all-fx-windows-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-close-all-fx-windows-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -453,7 +454,7 @@
       ];
     };
     me2beats-close-last-touched-floating-fx-window-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-close-last-touched-floating-fx-window-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -467,7 +468,7 @@
       ];
     };
     me2beats-copy-focused-fx-with-automation-to-selected-tracks-lua-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-focused-fx-with-automation-to-selected-tracks-lua-0-7";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -481,7 +482,7 @@
       ];
     };
     me2beats-copy-focused-fx-with-automation-to-selected-tracks-lua-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-focused-fx-with-automation-to-selected-tracks-lua-0-8";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -495,7 +496,7 @@
       ];
     };
     me2beats-permanent-fx-size-defer-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-permanent-fx-size-defer-lua-0-5";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -509,7 +510,7 @@
       ];
     };
     me2beats-permanent-fx-size-defer-lua-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-permanent-fx-size-defer-lua-0-6";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -523,7 +524,7 @@
       ];
     };
     me2beats-remove-focused-track-fx-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-focused-track-fx-lua-0-9";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -537,7 +538,7 @@
       ];
     };
     me2beats-rename-current-fx-preset-of-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-rename-current-fx-preset-of-focused-fx-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -551,7 +552,7 @@
       ];
     };
     me2beats-searcher-lua-0-96 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-searcher-lua-0-96";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -565,7 +566,7 @@
       ];
     };
     me2beats-select-last-touched-fx-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-last-touched-fx-lua-0-9";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -579,7 +580,7 @@
       ];
     };
     me2beats-select-last-touched-fx-lua-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-last-touched-fx-lua-0-95";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -593,7 +594,7 @@
       ];
     };
     me2beats-set-preset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-preset-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -607,7 +608,7 @@
       ];
     };
     me2beats-set-random-preset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-random-preset-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -621,7 +622,7 @@
       ];
     };
     me2beats-set-random-user-preset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-random-user-preset-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -635,7 +636,7 @@
       ];
     };
     me2beats-toggle-all-fx-offline-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-all-fx-offline-for-selected-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -649,7 +650,7 @@
       ];
     };
     me2beats-toggle-all-input-fx-bypass-for-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-all-input-fx-bypass-for-selected-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -663,7 +664,7 @@
       ];
     };
     me2beats-toggle-bypass-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-bypass-focused-fx-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "FX";
@@ -677,7 +678,7 @@
       ];
     };
     me2beats-close-all-midi-editors-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-close-all-midi-editors-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -691,7 +692,7 @@
       ];
     };
     me2beats-copy-first-track-item-to-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-first-track-item-to-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -705,7 +706,7 @@
       ];
     };
     me2beats-copy-fx-of-item-under-mouse-to-selected-items-active-takes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-fx-of-item-under-mouse-to-selected-items-active-takes-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -719,7 +720,7 @@
       ];
     };
     me2beats-copy-fx-of-item-under-mouse-to-selected-items-active-takes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-fx-of-item-under-mouse-to-selected-items-active-takes-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -733,7 +734,7 @@
       ];
     };
     me2beats-copy-item-to-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-item-to-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -747,7 +748,7 @@
       ];
     };
     me2beats-copy-items-positions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-items-positions-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -761,7 +762,7 @@
       ];
     };
     me2beats-copy-take-start-offset-to-clipboard-don-t-round-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-take-start-offset-to-clipboard-don-t-round-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -775,7 +776,7 @@
       ];
     };
     me2beats-copy-take-start-offset-to-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-take-start-offset-to-clipboard-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -789,7 +790,7 @@
       ];
     };
     me2beats-decrease-active-takes-pitch-linearly-1-semitone-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-decrease-active-takes-pitch-linearly-1-semitone-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -803,7 +804,7 @@
       ];
     };
     me2beats-delete-freeze-in-tracks-items-names-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-freeze-in-tracks-items-names-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -817,7 +818,7 @@
       ];
     };
     me2beats-delete-untitled-midi-item-in-items-names-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-untitled-midi-item-in-items-names-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -831,7 +832,7 @@
       ];
     };
     me2beats-delete-muted-items-from-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-muted-items-from-selected-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -845,7 +846,7 @@
       ];
     };
     me2beats-delete-small-notes-at-item-edges-active-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-small-notes-at-item-edges-active-take-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -859,7 +860,7 @@
       ];
     };
     me2beats-destutter-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-destutter-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -873,7 +874,7 @@
       ];
     };
     me2beats-destutter-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-destutter-items-lua-1-01";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -887,7 +888,7 @@
       ];
     };
     me2beats-duplicate-items-fill-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-duplicate-items-fill-time-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -901,7 +902,7 @@
       ];
     };
     me2beats-duplicate-items-fill-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-duplicate-items-fill-time-selection-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -915,7 +916,7 @@
       ];
     };
     me2beats-duplicate-items-to-track-at-mouse-select-new-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-duplicate-items-to-track-at-mouse-select-new-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -929,7 +930,7 @@
       ];
     };
     me2beats-duplicate-selected-area-of-items-replace-area-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-duplicate-selected-area-of-items-replace-area-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -943,7 +944,7 @@
       ];
     };
     me2beats-duplicate-selected-area-of-items-replace-area-use-loop-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-duplicate-selected-area-of-items-replace-area-use-loop-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -957,7 +958,7 @@
       ];
     };
     me2beats-duplicate-selected-items-to-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-duplicate-selected-items-to-selected-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -971,7 +972,7 @@
       ];
     };
     me2beats-fit-first-item-end-to-second-item-start-stretch-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-fit-first-item-end-to-second-item-start-stretch-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -985,7 +986,7 @@
       ];
     };
     me2beats-fit-item-to-notes-active-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-fit-item-to-notes-active-take-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -999,7 +1000,7 @@
       ];
     };
     me2beats-increase-active-takes-pitch-linearly-plus1-semitone-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-increase-active-takes-pitch-linearly-plus1-semitone-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1013,7 +1014,7 @@
       ];
     };
     me2beats-increase-selected-items-volume-linearly-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-increase-selected-items-volume-linearly-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1027,7 +1028,7 @@
       ];
     };
     me2beats-insert-2-bars-midi-item-at-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-insert-2-bars-midi-item-at-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1041,7 +1042,7 @@
       ];
     };
     me2beats-insert-4-bars-midi-item-at-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-insert-4-bars-midi-item-at-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1055,7 +1056,7 @@
       ];
     };
     me2beats-insert-4-bars-midi-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-insert-4-bars-midi-item-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1069,7 +1070,7 @@
       ];
     };
     me2beats-insert-a-bar-midi-item-at-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-insert-a-bar-midi-item-at-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1083,7 +1084,7 @@
       ];
     };
     me2beats-invert-item-selection-on-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-invert-item-selection-on-selected-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1097,7 +1098,7 @@
       ];
     };
     me2beats-match-selected-items-tempo-to-project-tempo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-match-selected-items-tempo-to-project-tempo-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1111,7 +1112,7 @@
       ];
     };
     me2beats-move-cursor-to-center-of-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-cursor-to-center-of-selected-item-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1125,7 +1126,7 @@
       ];
     };
     me2beats-move-item-content-left-one-grid-unit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-item-content-left-one-grid-unit-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1139,7 +1140,7 @@
       ];
     };
     me2beats-move-item-content-right-one-grid-unit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-item-content-right-one-grid-unit-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1153,7 +1154,7 @@
       ];
     };
     me2beats-move-item-one-measure-left-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-item-one-measure-left-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1167,7 +1168,7 @@
       ];
     };
     me2beats-move-item-one-measure-right-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-item-one-measure-right-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1181,7 +1182,7 @@
       ];
     };
     me2beats-move-items-left-or-right-by-grid-size-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-items-left-or-right-by-grid-size-mousewheel-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1195,7 +1196,7 @@
       ];
     };
     me2beats-move-items-to-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-items-to-selected-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1209,7 +1210,7 @@
       ];
     };
     me2beats-move-items-to-start-of-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-items-to-start-of-project-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1223,7 +1224,7 @@
       ];
     };
     me2beats-move-items-to-time-selection-end-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-items-to-time-selection-end-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1237,7 +1238,7 @@
       ];
     };
     me2beats-move-items-to-time-selection-start-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-items-to-time-selection-start-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1251,7 +1252,7 @@
       ];
     };
     me2beats-move-selected-items-to-new-track-in-named-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-selected-items-to-new-track-in-named-folder-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1265,7 +1266,7 @@
       ];
     };
     me2beats-move-selected-items-to-next-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-selected-items-to-next-item-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1279,7 +1280,7 @@
       ];
     };
     me2beats-move-selected-items-to-next-track-create-track-if-doesn-t-exist-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-selected-items-to-next-track-create-track-if-doesn-t-exist-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1293,7 +1294,7 @@
       ];
     };
     me2beats-move-selected-items-to-next-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-selected-items-to-next-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1307,7 +1308,7 @@
       ];
     };
     me2beats-move-selected-items-to-previous-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-selected-items-to-previous-item-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1321,7 +1322,7 @@
       ];
     };
     me2beats-move-selected-items-to-previous-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-selected-items-to-previous-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1335,7 +1336,7 @@
       ];
     };
     me2beats-normalize-items-active-takes-with-track-volume-compensation-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-normalize-items-active-takes-with-track-volume-compensation-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1349,7 +1350,7 @@
       ];
     };
     me2beats-normalize-items-active-takes-with-track-volume-compensation-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-normalize-items-active-takes-with-track-volume-compensation-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1363,7 +1364,7 @@
       ];
     };
     me2beats-normalize-items-active-takes-with-track-volume-compensation-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-normalize-items-active-takes-with-track-volume-compensation-lua-1-2";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1377,7 +1378,7 @@
       ];
     };
     me2beats-nudge-active-take-volume-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-nudge-active-take-volume-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1391,7 +1392,7 @@
       ];
     };
     me2beats-nudge-selected-items-volume-down-by-1-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-nudge-selected-items-volume-down-by-1-db-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1405,7 +1406,7 @@
       ];
     };
     me2beats-nudge-selected-items-volume-up-by-1-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-nudge-selected-items-volume-up-by-1-db-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1419,7 +1420,7 @@
       ];
     };
     me2beats-nudge-selected-items-volume-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-nudge-selected-items-volume-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1433,7 +1434,7 @@
       ];
     };
     me2beats-paste-items-at-copied-positions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-paste-items-at-copied-positions-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1447,7 +1448,7 @@
       ];
     };
     me2beats-pool-active-takes-of-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-pool-active-takes-of-selected-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1461,7 +1462,7 @@
       ];
     };
     me2beats-quantize-midi-note-positions-to-project-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-quantize-midi-note-positions-to-project-grid-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1475,7 +1476,7 @@
       ];
     };
     me2beats-remove-even-items-starting-from-selected-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-even-items-starting-from-selected-one-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1489,7 +1490,7 @@
       ];
     };
     me2beats-remove-item-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-item-under-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1503,7 +1504,7 @@
       ];
     };
     me2beats-remove-items-and-select-next-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-items-and-select-next-item-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1517,7 +1518,7 @@
       ];
     };
     me2beats-remove-odd-items-starting-from-selected-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-odd-items-starting-from-selected-one-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1531,7 +1532,7 @@
       ];
     };
     me2beats-remove-selected-items-envelopes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-selected-items-envelopes-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1545,7 +1546,7 @@
       ];
     };
     me2beats-rename-takes-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-rename-takes-2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1559,7 +1560,7 @@
       ];
     };
     me2beats-rename-takes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-rename-takes-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1573,7 +1574,7 @@
       ];
     };
     me2beats-select-even-items-starting-from-selected-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-even-items-starting-from-selected-one-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1587,7 +1588,7 @@
       ];
     };
     me2beats-select-item-in-next-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-item-in-next-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1601,7 +1602,7 @@
       ];
     };
     me2beats-select-item-in-previous-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-item-in-previous-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1615,7 +1616,7 @@
       ];
     };
     me2beats-select-item-near-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-item-near-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1629,7 +1630,7 @@
       ];
     };
     me2beats-select-items-from-cursor-to-end-of-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-items-from-cursor-to-end-of-project-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1643,7 +1644,7 @@
       ];
     };
     me2beats-select-items-from-mouse-to-end-of-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-items-from-mouse-to-end-of-project-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1657,7 +1658,7 @@
       ];
     };
     me2beats-select-items-from-start-of-project-to-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-items-from-start-of-project-to-cursor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1671,7 +1672,7 @@
       ];
     };
     me2beats-select-items-from-start-of-project-to-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-items-from-start-of-project-to-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1685,7 +1686,7 @@
       ];
     };
     me2beats-select-items-on-track-at-mouse-obey-region-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-items-on-track-at-mouse-obey-region-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1699,7 +1700,7 @@
       ];
     };
     me2beats-select-odd-items-starting-from-selected-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-odd-items-starting-from-selected-one-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1713,7 +1714,7 @@
       ];
     };
     me2beats-select-only-even-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-even-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1727,7 +1728,7 @@
       ];
     };
     me2beats-select-only-item-near-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-item-near-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1741,7 +1742,7 @@
       ];
     };
     me2beats-select-only-items-from-cursor-to-end-of-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-items-from-cursor-to-end-of-project-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1755,7 +1756,7 @@
       ];
     };
     me2beats-select-only-items-from-mouse-to-end-of-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-items-from-mouse-to-end-of-project-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1769,7 +1770,7 @@
       ];
     };
     me2beats-select-only-items-from-start-of-project-to-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-items-from-start-of-project-to-cursor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1783,7 +1784,7 @@
       ];
     };
     me2beats-select-only-items-from-start-of-project-to-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-items-from-start-of-project-to-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1797,7 +1798,7 @@
       ];
     };
     me2beats-select-only-items-on-track-at-mouse-obey-region-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-items-on-track-at-mouse-obey-region-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1811,7 +1812,7 @@
       ];
     };
     me2beats-select-only-odd-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-odd-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1825,7 +1826,7 @@
       ];
     };
     me2beats-select-take-by-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-take-by-name-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1839,7 +1840,7 @@
       ];
     };
     me2beats-select-take-by-number-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-take-by-number-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1853,7 +1854,7 @@
       ];
     };
     me2beats-set-active-takes-to-random-pitch-12-plus12-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-active-takes-to-random-pitch-12-plus12-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1867,7 +1868,7 @@
       ];
     };
     me2beats-set-active-takes-to-random-pitch-7-plus7-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-active-takes-to-random-pitch-7-plus7-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1881,7 +1882,7 @@
       ];
     };
     me2beats-set-crossfade-shape-to-type-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-crossfade-shape-to-type-2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1895,7 +1896,7 @@
       ];
     };
     me2beats-set-distance-between-items-with-input-box-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-distance-between-items-with-input-box-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1909,7 +1910,7 @@
       ];
     };
     me2beats-set-distance-between-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-distance-between-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1923,7 +1924,7 @@
       ];
     };
     me2beats-set-ends-of-items-to-cursor-stretch-takes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-ends-of-items-to-cursor-stretch-takes-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1937,7 +1938,7 @@
       ];
     };
     me2beats-set-item-rate-to-1-move-item-start-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-item-rate-to-1-move-item-start-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1951,7 +1952,7 @@
       ];
     };
     me2beats-set-items-fade-in-to-default-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-items-fade-in-to-default-length-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1965,7 +1966,7 @@
       ];
     };
     me2beats-set-items-fade-in-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-items-fade-in-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1979,7 +1980,7 @@
       ];
     };
     me2beats-set-items-fade-out-to-default-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-items-fade-out-to-default-length-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -1993,7 +1994,7 @@
       ];
     };
     me2beats-set-items-fade-out-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-items-fade-out-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2007,7 +2008,7 @@
       ];
     };
     me2beats-set-items-length-to-0-5-stretch-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-items-length-to-0-5-stretch-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2021,7 +2022,7 @@
       ];
     };
     me2beats-set-items-length-to-2-stretch-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-items-length-to-2-stretch-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2035,7 +2036,7 @@
       ];
     };
     me2beats-set-items-volume-to-0-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-items-volume-to-0-db-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2049,7 +2050,7 @@
       ];
     };
     me2beats-set-items-volume-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-items-volume-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2063,7 +2064,7 @@
       ];
     };
     me2beats-set-min-and-max-velocity-for-selected-notes-silent-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-min-and-max-velocity-for-selected-notes-silent-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2077,7 +2078,7 @@
       ];
     };
     me2beats-set-min-and-max-velocity-for-selected-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-min-and-max-velocity-for-selected-notes-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2091,7 +2092,7 @@
       ];
     };
     me2beats-set-min-and-max-velocity-for-take-notes-silent-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-min-and-max-velocity-for-take-notes-silent-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2105,7 +2106,7 @@
       ];
     };
     me2beats-set-min-and-max-velocity-for-take-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-min-and-max-velocity-for-take-notes-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2119,7 +2120,7 @@
       ];
     };
     me2beats-set-selected-item-notes-end-to-end-of-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-selected-item-notes-end-to-end-of-item-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2133,7 +2134,7 @@
       ];
     };
     me2beats-set-selected-items-fades-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-selected-items-fades-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2147,7 +2148,7 @@
       ];
     };
     me2beats-set-selected-items-length-to-length-of-item-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-selected-items-length-to-length-of-item-under-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2161,7 +2162,7 @@
       ];
     };
     me2beats-split-items-in-half-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-split-items-in-half-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2175,7 +2176,7 @@
       ];
     };
     me2beats-split-items-with-given-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-split-items-with-given-length-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2189,7 +2190,7 @@
       ];
     };
     me2beats-split-items-with-given-length-2-without-input-box-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-split-items-with-given-length-2-without-input-box-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2203,7 +2204,7 @@
       ];
     };
     me2beats-split-items-with-given-length-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-split-items-with-given-length-2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2217,7 +2218,7 @@
       ];
     };
     me2beats-split-selected-items-according-to-first-selected-track-items-delete-gaps-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-split-selected-items-according-to-first-selected-track-items-delete-gaps-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2231,7 +2232,7 @@
       ];
     };
     me2beats-split-selected-track-items-according-to-first-selected-track-items-delete-gaps-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-split-selected-track-items-according-to-first-selected-track-items-delete-gaps-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2245,7 +2246,7 @@
       ];
     };
     me2beats-stutter-items-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-stutter-items-mousewheel-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2259,7 +2260,7 @@
       ];
     };
     me2beats-stutter-items-mousewheel-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-stutter-items-mousewheel-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2273,7 +2274,7 @@
       ];
     };
     me2beats-stutter-items-mousewheel-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-stutter-items-mousewheel-lua-1-2";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2287,7 +2288,7 @@
       ];
     };
     me2beats-stutter-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-stutter-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2301,7 +2302,7 @@
       ];
     };
     me2beats-stutter-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-stutter-items-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2315,7 +2316,7 @@
       ];
     };
     me2beats-stutter-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-stutter-items-lua-1-2";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2329,7 +2330,7 @@
       ];
     };
     me2beats-switch-item-source-file-to-random-in-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-switch-item-source-file-to-random-in-folder-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2343,7 +2344,7 @@
       ];
     };
     me2beats-toggle-mute-for-muted-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-mute-for-muted-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2357,7 +2358,7 @@
       ];
     };
     me2beats-toggle-open-inline-editors-of-item-at-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-open-inline-editors-of-item-at-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2371,7 +2372,7 @@
       ];
     };
     me2beats-toggle-open-inline-editors-of-item-at-mouse-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-open-inline-editors-of-item-at-mouse-lua-1-01";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2385,7 +2386,7 @@
       ];
     };
     me2beats-toggle-open-items-inline-editors-plus-zoom-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-open-items-inline-editors-plus-zoom-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2399,7 +2400,7 @@
       ];
     };
     me2beats-toggle-open-items-inline-editors-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-open-items-inline-editors-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2413,7 +2414,7 @@
       ];
     };
     me2beats-toggle-random-active-takes-reverse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-random-active-takes-reverse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2427,7 +2428,7 @@
       ];
     };
     me2beats-toggle-select-item-near-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-select-item-near-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2441,7 +2442,7 @@
       ];
     };
     me2beats-toggle-select-only-item-near-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-select-only-item-near-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2455,7 +2456,7 @@
       ];
     };
     me2beats-transpose-audio-items-or-midi-items-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-transpose-audio-items-or-midi-items-notes-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2469,7 +2470,7 @@
       ];
     };
     me2beats-transpose-selected-track-audio-items-or-midi-items-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-transpose-selected-track-audio-items-or-midi-items-notes-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2483,7 +2484,7 @@
       ];
     };
     me2beats-trim-end-of-selected-item-to-end-of-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-end-of-selected-item-to-end-of-time-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2497,7 +2498,7 @@
       ];
     };
     me2beats-trim-first-item-end-and-second-item-start-to-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-first-item-end-and-second-item-start-to-edit-cursor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2511,7 +2512,7 @@
       ];
     };
     me2beats-trim-items-edges-to-nearest-measure-start-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-items-edges-to-nearest-measure-start-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2525,7 +2526,7 @@
       ];
     };
     me2beats-trim-sel-items-edges-to-nearest-grid-divisions-increase-items-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-sel-items-edges-to-nearest-grid-divisions-increase-items-length-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2539,7 +2540,7 @@
       ];
     };
     me2beats-trim-sel-items-edges-to-nearest-grid-divisions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-sel-items-edges-to-nearest-grid-divisions-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2553,7 +2554,7 @@
       ];
     };
     me2beats-trim-sel-items-edges-to-nearest-measure-increase-items-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-sel-items-edges-to-nearest-measure-increase-items-length-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2567,7 +2568,7 @@
       ];
     };
     me2beats-trim-sel-items-left-edges-to-nearest-grid-divisions-increase-items-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-sel-items-left-edges-to-nearest-grid-divisions-increase-items-length-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2581,7 +2582,7 @@
       ];
     };
     me2beats-trim-sel-items-left-edges-to-nearest-grid-divisions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-sel-items-left-edges-to-nearest-grid-divisions-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2595,7 +2596,7 @@
       ];
     };
     me2beats-trim-sel-items-right-edges-to-nearest-grid-divisions-increase-items-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-sel-items-right-edges-to-nearest-grid-divisions-increase-items-length-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2609,7 +2610,7 @@
       ];
     };
     me2beats-trim-sel-items-right-edges-to-nearest-grid-divisions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-sel-items-right-edges-to-nearest-grid-divisions-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2623,7 +2624,7 @@
       ];
     };
     me2beats-trim-start-of-selected-item-to-start-of-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-start-of-selected-item-to-start-of-time-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2637,7 +2638,7 @@
       ];
     };
     me2beats-unselect-item-near-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-unselect-item-near-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2651,7 +2652,7 @@
       ];
     };
     me2beats-unselect-items-less-than-1-32-grid-size-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-unselect-items-less-than-1-32-grid-size-lua-1-01";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2665,7 +2666,7 @@
       ];
     };
     me2beats-unselect-items-less-than-1-32-grid-size-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-unselect-items-less-than-1-32-grid-size-lua-1-02";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2679,7 +2680,7 @@
       ];
     };
     me2beats-unselect-items-less-than-1-32-measure-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-unselect-items-less-than-1-32-measure-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Items";
@@ -2693,7 +2694,7 @@
       ];
     };
     me2beats-add-marker-with-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-add-marker-with-offset-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2707,7 +2708,7 @@
       ];
     };
     me2beats-copy-markers-in-time-selection-to-cursor-relative-to-time-selection-start-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-markers-in-time-selection-to-cursor-relative-to-time-selection-start-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2721,7 +2722,7 @@
       ];
     };
     me2beats-copy-selected-regions-to-cursor-with-contents-move-later-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-selected-regions-to-cursor-with-contents-move-later-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2735,7 +2736,7 @@
       ];
     };
     me2beats-copy-selected-regions-to-project-end-with-contents-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-selected-regions-to-project-end-with-contents-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2749,7 +2750,7 @@
       ];
     };
     me2beats-duplicate-region-at-mouse-with-items-insert-time-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-duplicate-region-at-mouse-with-items-insert-time-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2763,7 +2764,7 @@
       ];
     };
     me2beats-duplicate-regions-in-time-selection-with-items-insert-time-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-duplicate-regions-in-time-selection-with-items-insert-time-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2777,7 +2778,7 @@
       ];
     };
     me2beats-insert-markers-from-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-insert-markers-from-time-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2791,7 +2792,7 @@
       ];
     };
     me2beats-join-selected-regions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-join-selected-regions-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2805,7 +2806,7 @@
       ];
     };
     me2beats-remove-selected-regions-contents-moving-later-items-and-loop-points-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-selected-regions-contents-moving-later-items-and-loop-points-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2819,7 +2820,7 @@
       ];
     };
     me2beats-remove-selected-regions-contents-moving-later-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-selected-regions-contents-moving-later-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2833,7 +2834,7 @@
       ];
     };
     me2beats-remove-tempo-markers-from-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-tempo-markers-from-time-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2847,7 +2848,7 @@
       ];
     };
     me2beats-remove-tempo-markers-from-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-tempo-markers-from-time-selection-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2861,7 +2862,7 @@
       ];
     };
     me2beats-remove-tempo-markers-from-time-selection-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-tempo-markers-from-time-selection-lua-1-11";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2875,7 +2876,7 @@
       ];
     };
     me2beats-select-region-at-cursor-keeping-current-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-region-at-cursor-keeping-current-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2889,7 +2890,7 @@
       ];
     };
     me2beats-select-region-at-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-region-at-cursor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2903,7 +2904,7 @@
       ];
     };
     me2beats-select-region-at-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-region-at-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2917,7 +2918,7 @@
       ];
     };
     me2beats-select-time-from-the-first-region-to-last-region-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-time-from-the-first-region-to-last-region-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2931,7 +2932,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-markers-from-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-markers-from-cursor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2945,7 +2946,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-markers-from-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-markers-from-cursor-lua-1-01";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2959,7 +2960,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-markers-from-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-markers-from-cursor-lua-1-02";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2973,7 +2974,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-markers-from-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-markers-from-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -2987,7 +2988,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-markers-from-mouse-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-markers-from-mouse-lua-1-01";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3001,7 +3002,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-markers-from-mouse-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-markers-from-mouse-lua-1-02";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3015,7 +3016,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-markers-from-mouse-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-markers-from-mouse-lua-1-03";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3029,7 +3030,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-cursor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3043,7 +3044,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-cursor-lua-1-03";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3057,7 +3058,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-cursor-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-cursor-lua-1-05";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3071,7 +3072,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-cursor-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3085,7 +3086,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-cursor-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-cursor-lua-1-11";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3099,7 +3100,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-cursor-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-cursor-lua-1-12";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3113,7 +3114,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-cursor-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-cursor-lua-1-13";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3127,7 +3128,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3141,7 +3142,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-03";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3155,7 +3156,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-04";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3169,7 +3170,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-05";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3183,7 +3184,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3197,7 +3198,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-11";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3211,7 +3212,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-12";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3225,7 +3226,7 @@
       ];
     };
     me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-time-selection-to-nearest-project-or-tempo-markers-from-mouse-lua-1-13";
       indexName = "me2beats Scripts";
       categoryName = "Markers and regions";
@@ -3239,7 +3240,7 @@
       ];
     };
     me2beats-auto-open-folder-with-media-item-active-take-source-media-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-auto-open-folder-with-media-item-active-take-source-media-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Media Explorer";
@@ -3253,7 +3254,7 @@
       ];
     };
     me2beats-close-media-explorer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-close-media-explorer-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Media Explorer";
@@ -3267,7 +3268,7 @@
       ];
     };
     me2beats-close-media-explorer-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-close-media-explorer-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Media Explorer";
@@ -3281,7 +3282,7 @@
       ];
     };
     me2beats-open-folder-with-media-item-active-take-source-media-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-open-folder-with-media-item-active-take-source-media-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Media Explorer";
@@ -3295,7 +3296,7 @@
       ];
     };
     me2beats-open-media-explorer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-open-media-explorer-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Media Explorer";
@@ -3309,7 +3310,7 @@
       ];
     };
     me2beats-add-notes-of-current-measure-to-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-add-notes-of-current-measure-to-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3323,7 +3324,7 @@
       ];
     };
     me2beats-adjust-value-for-event-under-mouse-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-adjust-value-for-event-under-mouse-mousewheel-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3337,7 +3338,7 @@
       ];
     };
     me2beats-adjust-value-for-event-under-mouse-mousewheel-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-adjust-value-for-event-under-mouse-mousewheel-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3351,7 +3352,7 @@
       ];
     };
     me2beats-auto-set-selected-notes-pitch-to-last-touched-note-pitch-defer-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-auto-set-selected-notes-pitch-to-last-touched-note-pitch-defer-lua-0-9";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3365,7 +3366,7 @@
       ];
     };
     me2beats-auto-set-selected-notes-pitch-to-last-touched-note-pitch-defer-lua-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-auto-set-selected-notes-pitch-to-last-touched-note-pitch-defer-lua-0-91";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3379,7 +3380,7 @@
       ];
     };
     me2beats-auto-set-selected-notes-pitch-to-last-touched-note-pitch-defer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-auto-set-selected-notes-pitch-to-last-touched-note-pitch-defer-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3393,7 +3394,7 @@
       ];
     };
     me2beats-auto-set-selected-notes-pitch-to-last-touched-note-pitch-defer-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-auto-set-selected-notes-pitch-to-last-touched-note-pitch-defer-lua-1-01";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3407,7 +3408,7 @@
       ];
     };
     me2beats-delete-all-notes-in-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-all-notes-in-time-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3421,7 +3422,7 @@
       ];
     };
     me2beats-delete-all-notes-with-velocity-less-than-10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-all-notes-with-velocity-less-than-10-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3435,7 +3436,7 @@
       ];
     };
     me2beats-delete-all-notes-with-velocity-less-than-x-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-all-notes-with-velocity-less-than-x-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3449,7 +3450,7 @@
       ];
     };
     me2beats-delete-small-notes-at-item-edges-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-small-notes-at-item-edges-midi-editor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3463,7 +3464,7 @@
       ];
     };
     me2beats-duplicate-selected-events-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-duplicate-selected-events-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3477,7 +3478,7 @@
       ];
     };
     me2beats-duplicate-selected-events-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-duplicate-selected-events-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3491,7 +3492,7 @@
       ];
     };
     me2beats-go-to-start-of-current-measure-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-go-to-start-of-current-measure-midi-editor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3505,7 +3506,7 @@
       ];
     };
     me2beats-increase-selected-notes-volume-linearly-0-9-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-increase-selected-notes-volume-linearly-0-9-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3519,7 +3520,7 @@
       ];
     };
     me2beats-move-cursor-to-start-of-current-measure-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-cursor-to-start-of-current-measure-midi-editor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3533,7 +3534,7 @@
       ];
     };
     me2beats-move-notes-up-or-down-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-notes-up-or-down-mousewheel-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3547,7 +3548,7 @@
       ];
     };
     me2beats-restore-midi-editor-view-slot-1-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-midi-editor-view-slot-1-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3561,7 +3562,7 @@
       ];
     };
     me2beats-restore-midi-editor-view-slot-1-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-midi-editor-view-slot-1-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3575,7 +3576,7 @@
       ];
     };
     me2beats-restore-midi-editor-view-slot-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-midi-editor-view-slot-2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3589,7 +3590,7 @@
       ];
     };
     me2beats-restore-midi-editor-view-slot-2-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-midi-editor-view-slot-2-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3603,7 +3604,7 @@
       ];
     };
     me2beats-restore-midi-editor-view-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-midi-editor-view-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3617,7 +3618,7 @@
       ];
     };
     me2beats-restore-midi-editor-view-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-midi-editor-view-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3631,7 +3632,7 @@
       ];
     };
     me2beats-restore-time-selection-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-time-selection-midi-editor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3645,7 +3646,7 @@
       ];
     };
     me2beats-reverse-horizontally-2-selected-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-reverse-horizontally-2-selected-notes-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3659,7 +3660,7 @@
       ];
     };
     me2beats-save-midi-editor-view-slot-1-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-midi-editor-view-slot-1-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3673,7 +3674,7 @@
       ];
     };
     me2beats-save-midi-editor-view-slot-1-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-midi-editor-view-slot-1-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3687,7 +3688,7 @@
       ];
     };
     me2beats-save-midi-editor-view-slot-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-midi-editor-view-slot-2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3701,7 +3702,7 @@
       ];
     };
     me2beats-save-midi-editor-view-slot-2-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-midi-editor-view-slot-2-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3715,7 +3716,7 @@
       ];
     };
     me2beats-save-midi-editor-view-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-midi-editor-view-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3729,7 +3730,7 @@
       ];
     };
     me2beats-save-midi-editor-view-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-midi-editor-view-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3743,7 +3744,7 @@
       ];
     };
     me2beats-save-time-selection-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-time-selection-midi-editor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3757,7 +3758,7 @@
       ];
     };
     me2beats-select-note-near-mouse-add-to-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-note-near-mouse-add-to-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3771,7 +3772,7 @@
       ];
     };
     me2beats-select-note-near-mouse-add-to-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-note-near-mouse-add-to-selection-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3785,7 +3786,7 @@
       ];
     };
     me2beats-select-notes-in-every-1-beat-add-to-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-notes-in-every-1-beat-add-to-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3799,7 +3800,7 @@
       ];
     };
     me2beats-select-notes-in-every-2-beat-add-to-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-notes-in-every-2-beat-add-to-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3813,7 +3814,7 @@
       ];
     };
     me2beats-select-notes-in-every-3-beat-add-to-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-notes-in-every-3-beat-add-to-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3827,7 +3828,7 @@
       ];
     };
     me2beats-select-notes-in-every-4-beat-add-to-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-notes-in-every-4-beat-add-to-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3841,7 +3842,7 @@
       ];
     };
     me2beats-select-only-chord-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-chord-under-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3855,7 +3856,7 @@
       ];
     };
     me2beats-select-only-chord-under-mouse-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-chord-under-mouse-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3869,7 +3870,7 @@
       ];
     };
     me2beats-select-only-even-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-even-notes-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3883,7 +3884,7 @@
       ];
     };
     me2beats-select-only-note-near-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-note-near-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3897,7 +3898,7 @@
       ];
     };
     me2beats-select-only-note-near-mouse-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-note-near-mouse-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3911,7 +3912,7 @@
       ];
     };
     me2beats-select-only-note-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-note-under-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3925,7 +3926,7 @@
       ];
     };
     me2beats-select-only-note-under-mouse-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-note-under-mouse-lua-1-01";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3939,7 +3940,7 @@
       ];
     };
     me2beats-select-only-note-under-mouse-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-note-under-mouse-lua-1-02";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3953,7 +3954,7 @@
       ];
     };
     me2beats-select-only-notes-in-every-1-beat-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-notes-in-every-1-beat-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3967,7 +3968,7 @@
       ];
     };
     me2beats-select-only-notes-in-every-2-beat-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-notes-in-every-2-beat-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3981,7 +3982,7 @@
       ];
     };
     me2beats-select-only-notes-in-every-3-beat-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-notes-in-every-3-beat-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -3995,7 +3996,7 @@
       ];
     };
     me2beats-select-only-notes-in-every-4-beat-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-notes-in-every-4-beat-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4009,7 +4010,7 @@
       ];
     };
     me2beats-select-only-notes-with-lowest-pitch-from-selected-notes-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-notes-with-lowest-pitch-from-selected-notes-lua-1-11";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4023,7 +4024,7 @@
       ];
     };
     me2beats-select-only-notes-with-lowest-pitch-from-selected-notes-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-notes-with-lowest-pitch-from-selected-notes-lua-1-12";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4037,7 +4038,7 @@
       ];
     };
     me2beats-select-only-odd-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-odd-notes-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4051,7 +4052,7 @@
       ];
     };
     me2beats-set-min-and-max-velocity-for-selected-notes-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-min-and-max-velocity-for-selected-notes-midi-editor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4065,7 +4066,7 @@
       ];
     };
     me2beats-set-min-and-max-velocity-for-selected-notes-silent-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-min-and-max-velocity-for-selected-notes-silent-midi-editor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4079,7 +4080,7 @@
       ];
     };
     me2beats-set-min-and-max-velocity-for-take-notes-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-min-and-max-velocity-for-take-notes-midi-editor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4093,7 +4094,7 @@
       ];
     };
     me2beats-set-min-and-max-velocity-for-take-notes-silent-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-min-and-max-velocity-for-take-notes-silent-midi-editor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4107,7 +4108,7 @@
       ];
     };
     me2beats-set-note-ends-to-start-of-next-note-legato-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-note-ends-to-start-of-next-note-legato-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4121,7 +4122,7 @@
       ];
     };
     me2beats-set-note-ends-to-start-of-next-note-legato-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-note-ends-to-start-of-next-note-legato-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4135,7 +4136,7 @@
       ];
     };
     me2beats-set-note-ends-to-start-of-next-note-with-same-pitch-legato-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-note-ends-to-start-of-next-note-with-same-pitch-legato-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4149,7 +4150,7 @@
       ];
     };
     me2beats-set-notes-length-to-length-of-note-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-notes-length-to-length-of-note-under-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4163,7 +4164,7 @@
       ];
     };
     me2beats-set-notes-length-to-length-of-note-under-mouse-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-notes-length-to-length-of-note-under-mouse-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4177,7 +4178,7 @@
       ];
     };
     me2beats-set-selected-notes-to-one-random-channel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-selected-notes-to-one-random-channel-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4191,7 +4192,7 @@
       ];
     };
     me2beats-set-selected-notes-to-random-channels-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-selected-notes-to-random-channels-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4205,7 +4206,7 @@
       ];
     };
     me2beats-set-take-notes-to-one-random-channel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-take-notes-to-one-random-channel-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4219,7 +4220,7 @@
       ];
     };
     me2beats-set-take-notes-to-random-channels-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-take-notes-to-random-channels-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4233,7 +4234,7 @@
       ];
     };
     me2beats-set-velocity-for-selected-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-velocity-for-selected-notes-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4247,7 +4248,7 @@
       ];
     };
     me2beats-shuffle-selected-notes-preserving-chords-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-shuffle-selected-notes-preserving-chords-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4261,7 +4262,7 @@
       ];
     };
     me2beats-solo-track-with-active-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-solo-track-with-active-midi-editor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4275,7 +4276,7 @@
       ];
     };
     me2beats-split-midi-item-at-notes-starts-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-split-midi-item-at-notes-starts-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4289,7 +4290,7 @@
       ];
     };
     me2beats-split-notes-select-left-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-split-notes-select-left-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4303,7 +4304,7 @@
       ];
     };
     me2beats-split-notes-select-left-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-split-notes-select-left-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4317,7 +4318,7 @@
       ];
     };
     me2beats-split-notes-select-right-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-split-notes-select-right-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4331,7 +4332,7 @@
       ];
     };
     me2beats-split-notes-select-right-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-split-notes-select-right-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4345,7 +4346,7 @@
       ];
     };
     me2beats-toggle-select-chord-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-select-chord-under-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4359,7 +4360,7 @@
       ];
     };
     me2beats-toggle-select-chord-under-mouse-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-select-chord-under-mouse-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4373,7 +4374,7 @@
       ];
     };
     me2beats-trim-position-of-note-at-mouse-no-undo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-position-of-note-at-mouse-no-undo-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4387,7 +4388,7 @@
       ];
     };
     me2beats-trim-position-of-note-at-mouse-no-undo-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-position-of-note-at-mouse-no-undo-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4401,7 +4402,7 @@
       ];
     };
     me2beats-trim-position-of-note-at-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-position-of-note-at-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4415,7 +4416,7 @@
       ];
     };
     me2beats-trim-position-of-note-at-mouse-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-position-of-note-at-mouse-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4429,7 +4430,7 @@
       ];
     };
     me2beats-trim-positions-of-notes-at-mouse-defer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-positions-of-notes-at-mouse-defer-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4443,7 +4444,7 @@
       ];
     };
     me2beats-trim-positions-of-notes-at-mouse-defer-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-trim-positions-of-notes-at-mouse-defer-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "MIDI Editor";
@@ -4457,7 +4458,7 @@
       ];
     };
     me2beats-adjust-grid-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-adjust-grid-mousewheel-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Other";
@@ -4471,7 +4472,7 @@
       ];
     };
     me2beats-adjust-metronome-volume-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-adjust-metronome-volume-lua-0-5";
       indexName = "me2beats Scripts";
       categoryName = "Other";
@@ -4485,7 +4486,7 @@
       ];
     };
     me2beats-close-toolbar-1-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-close-toolbar-1-lua-0-5";
       indexName = "me2beats Scripts";
       categoryName = "Other";
@@ -4499,7 +4500,7 @@
       ];
     };
     me2beats-disable-swing-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-disable-swing-grid-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Other";
@@ -4513,7 +4514,7 @@
       ];
     };
     me2beats-enable-swing-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-enable-swing-grid-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Other";
@@ -4527,7 +4528,7 @@
       ];
     };
     me2beats-open-toolbar-1-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-open-toolbar-1-lua-0-5";
       indexName = "me2beats Scripts";
       categoryName = "Other";
@@ -4541,7 +4542,7 @@
       ];
     };
     me2beats-restore-project-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-project-grid-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Other";
@@ -4555,7 +4556,7 @@
       ];
     };
     me2beats-save-project-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-project-grid-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Other";
@@ -4569,7 +4570,7 @@
       ];
     };
     me2beats-go-to-first-playing-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-go-to-first-playing-project-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4583,7 +4584,7 @@
       ];
     };
     me2beats-go-to-first-project-tab-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-go-to-first-project-tab-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4597,7 +4598,7 @@
       ];
     };
     me2beats-go-to-last-playing-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-go-to-last-playing-project-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4611,7 +4612,7 @@
       ];
     };
     me2beats-go-to-last-project-tab-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-go-to-last-project-tab-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4625,7 +4626,7 @@
       ];
     };
     me2beats-go-to-next-playing-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-go-to-next-playing-project-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4639,7 +4640,7 @@
       ];
     };
     me2beats-go-to-previous-playing-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-go-to-previous-playing-project-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4653,7 +4654,7 @@
       ];
     };
     me2beats-project-tabs-toggle-between-slots-1-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-project-tabs-toggle-between-slots-1-2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4667,7 +4668,7 @@
       ];
     };
     me2beats-restore-saved-project-tab-slot-1-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-saved-project-tab-slot-1-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4681,7 +4682,7 @@
       ];
     };
     me2beats-restore-saved-project-tab-slot-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-saved-project-tab-slot-2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4695,7 +4696,7 @@
       ];
     };
     me2beats-restore-saved-project-tab-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-saved-project-tab-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4709,7 +4710,7 @@
       ];
     };
     me2beats-save-active-project-tab-slot-1-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-active-project-tab-slot-1-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4723,7 +4724,7 @@
       ];
     };
     me2beats-save-active-project-tab-slot-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-active-project-tab-slot-2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4737,7 +4738,7 @@
       ];
     };
     me2beats-save-active-project-tab-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-active-project-tab-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4751,7 +4752,7 @@
       ];
     };
     me2beats-save-all-projects-as-new-versions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-all-projects-as-new-versions-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4765,7 +4766,7 @@
       ];
     };
     me2beats-save-all-unsaved-dirty-projects-as-new-versions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-all-unsaved-dirty-projects-as-new-versions-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4779,7 +4780,7 @@
       ];
     };
     me2beats-stop-all-playing-projects-but-current-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-stop-all-playing-projects-but-current-one-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Projects";
@@ -4793,7 +4794,7 @@
       ];
     };
     me2beats-auto-select-track-with-focused-fx-defer-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-auto-select-track-with-focused-fx-defer-lua-1-2";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -4807,7 +4808,7 @@
       ];
     };
     me2beats-auto-select-track-with-focused-fx-defer-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-auto-select-track-with-focused-fx-defer-lua-1-3";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -4821,7 +4822,7 @@
       ];
     };
     me2beats-auto-select-track-with-focused-fx-defer-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-auto-select-track-with-focused-fx-defer-lua-1-31";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -4835,7 +4836,7 @@
       ];
     };
     me2beats-auto-solo-for-selected-tracks-defer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-auto-solo-for-selected-tracks-defer-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -4849,7 +4850,7 @@
       ];
     };
     me2beats-auto-solo-for-selected-tracks-defer-obey-track-grouping-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-auto-solo-for-selected-tracks-defer-obey-track-grouping-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -4863,7 +4864,7 @@
       ];
     };
     me2beats-clear-track-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-clear-track-name-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -4877,7 +4878,7 @@
       ];
     };
     me2beats-close-focused-track-fx-window-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-close-focused-track-fx-window-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -4891,7 +4892,7 @@
       ];
     };
     me2beats-copy-track-name-to-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-track-name-to-clipboard-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -4905,7 +4906,7 @@
       ];
     };
     me2beats-create-child-track-for-track-at-mouse-move-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-create-child-track-for-track-at-mouse-move-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -4919,7 +4920,7 @@
       ];
     };
     me2beats-create-child-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-create-child-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -4933,7 +4934,7 @@
       ];
     };
     me2beats-create-folder-from-each-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-create-folder-from-each-selected-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -4947,7 +4948,7 @@
       ];
     };
     me2beats-create-folder-from-selected-track-to-track-at-mouse-plusrename-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-create-folder-from-selected-track-to-track-at-mouse-plusrename-folder-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -4961,7 +4962,7 @@
       ];
     };
     me2beats-create-folder-from-selected-track-to-track-at-mouse-plusrename-folder-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-create-folder-from-selected-track-to-track-at-mouse-plusrename-folder-lua-1-01";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -4975,7 +4976,7 @@
       ];
     };
     me2beats-create-folder-from-selected-tracks-plusrename-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-create-folder-from-selected-tracks-plusrename-folder-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -4989,7 +4990,7 @@
       ];
     };
     me2beats-create-folder-from-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-create-folder-from-selected-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5003,7 +5004,7 @@
       ];
     };
     me2beats-create-folder-from-selected-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-create-folder-from-selected-tracks-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5017,7 +5018,7 @@
       ];
     };
     me2beats-delete-track-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-track-under-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5031,7 +5032,7 @@
       ];
     };
     me2beats-delete-tracks-don-t-delete-unselected-children-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-delete-tracks-don-t-delete-unselected-children-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5045,7 +5046,7 @@
       ];
     };
     me2beats-duplicate-tracks-without-envelopes-and-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-duplicate-tracks-without-envelopes-and-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5059,7 +5060,7 @@
       ];
     };
     me2beats-duplicate-tracks-without-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-duplicate-tracks-without-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5073,7 +5074,7 @@
       ];
     };
     me2beats-duplicate-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-duplicate-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5087,7 +5088,7 @@
       ];
     };
     me2beats-go-to-highest-track-with-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-go-to-highest-track-with-selected-item-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5101,7 +5102,7 @@
       ];
     };
     me2beats-go-to-lowest-track-with-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-go-to-lowest-track-with-selected-item-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5115,7 +5116,7 @@
       ];
     };
     me2beats-go-to-next-soloed-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-go-to-next-soloed-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5129,7 +5130,7 @@
       ];
     };
     me2beats-go-to-previous-soloed-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-go-to-previous-soloed-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5143,7 +5144,7 @@
       ];
     };
     me2beats-hide-mcp-sends-area-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-hide-mcp-sends-area-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5157,7 +5158,7 @@
       ];
     };
     me2beats-insert-and-select-track-after-selected-track-or-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-insert-and-select-track-after-selected-track-or-folder-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5171,7 +5172,7 @@
       ];
     };
     me2beats-load-note-names-from-file-to-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-load-note-names-from-file-to-selected-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5185,7 +5186,7 @@
       ];
     };
     me2beats-load-note-names-to-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-load-note-names-to-selected-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5199,7 +5200,7 @@
       ];
     };
     me2beats-move-items-to-new-tracks-duplicate-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-items-to-new-tracks-duplicate-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5213,7 +5214,7 @@
       ];
     };
     me2beats-nudge-selected-track-volume-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-nudge-selected-track-volume-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5227,7 +5228,7 @@
       ];
     };
     me2beats-nudge-selected-tracks-volume-down-by-1-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-nudge-selected-tracks-volume-down-by-1-db-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5241,7 +5242,7 @@
       ];
     };
     me2beats-nudge-selected-tracks-volume-up-by-1-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-nudge-selected-tracks-volume-up-by-1-db-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5255,7 +5256,7 @@
       ];
     };
     me2beats-nudge-tracks-volume-down-0-5-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-nudge-tracks-volume-down-0-5-db-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5269,7 +5270,7 @@
       ];
     };
     me2beats-nudge-tracks-volume-up-0-5-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-nudge-tracks-volume-up-0-5-db-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5283,7 +5284,7 @@
       ];
     };
     me2beats-remove-focused-track-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-focused-track-fx-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5297,7 +5298,7 @@
       ];
     };
     me2beats-remove-muted-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-muted-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5311,7 +5312,7 @@
       ];
     };
     me2beats-remove-tracks-with-no-items-except-tracks-with-sends-and-hidden-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-tracks-with-no-items-except-tracks-with-sends-and-hidden-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5325,7 +5326,7 @@
       ];
     };
     me2beats-remove-tracks-with-no-items-except-tracks-with-sends-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-tracks-with-no-items-except-tracks-with-sends-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5339,7 +5340,7 @@
       ];
     };
     me2beats-remove-tracks-with-no-items-and-no-fx-except-tracks-with-sends-receives-and-hardware-outputs-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-tracks-with-no-items-and-no-fx-except-tracks-with-sends-receives-and-hardware-outputs-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5353,7 +5354,7 @@
       ];
     };
     me2beats-remove-tracks-with-no-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-remove-tracks-with-no-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5367,7 +5368,7 @@
       ];
     };
     me2beats-restore-saved-track-selection-slot-1-persist-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-saved-track-selection-slot-1-persist-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5381,7 +5382,7 @@
       ];
     };
     me2beats-restore-saved-track-selection-slot-2-persist-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-saved-track-selection-slot-2-persist-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5395,7 +5396,7 @@
       ];
     };
     me2beats-restore-saved-track-selection-slot-3-persist-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-saved-track-selection-slot-3-persist-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5409,7 +5410,7 @@
       ];
     };
     me2beats-restore-selected-tracks-add-to-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-selected-tracks-add-to-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5423,7 +5424,7 @@
       ];
     };
     me2beats-restore-selected-tracks-slot-1-add-to-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-selected-tracks-slot-1-add-to-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5437,7 +5438,7 @@
       ];
     };
     me2beats-restore-selected-tracks-slot-1plus2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-selected-tracks-slot-1plus2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5451,7 +5452,7 @@
       ];
     };
     me2beats-restore-selected-tracks-slot-1-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-selected-tracks-slot-1-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5465,7 +5466,7 @@
       ];
     };
     me2beats-restore-selected-tracks-slot-2-add-to-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-selected-tracks-slot-2-add-to-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5479,7 +5480,7 @@
       ];
     };
     me2beats-restore-selected-tracks-slot-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-selected-tracks-slot-2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5493,7 +5494,7 @@
       ];
     };
     me2beats-restore-selected-tracks-slots-1plus2-add-to-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-selected-tracks-slots-1plus2-add-to-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5507,7 +5508,7 @@
       ];
     };
     me2beats-restore-selected-tracks-slots-1plus2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-selected-tracks-slots-1plus2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5521,7 +5522,7 @@
       ];
     };
     me2beats-restore-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-selected-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5535,7 +5536,7 @@
       ];
     };
     me2beats-restore-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-selected-tracks-lua-1-01";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5549,7 +5550,7 @@
       ];
     };
     me2beats-save-selected-tracks-slot-1-persist-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-selected-tracks-slot-1-persist-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5563,7 +5564,7 @@
       ];
     };
     me2beats-save-selected-tracks-slot-1-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-selected-tracks-slot-1-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5577,7 +5578,7 @@
       ];
     };
     me2beats-save-selected-tracks-slot-2-persist-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-selected-tracks-slot-2-persist-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5591,7 +5592,7 @@
       ];
     };
     me2beats-save-selected-tracks-slot-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-selected-tracks-slot-2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5605,7 +5606,7 @@
       ];
     };
     me2beats-save-selected-tracks-slot-3-persist-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-selected-tracks-slot-3-persist-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5619,7 +5620,7 @@
       ];
     };
     me2beats-save-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-selected-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5633,7 +5634,7 @@
       ];
     };
     me2beats-save-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-selected-tracks-lua-1-01";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5647,7 +5648,7 @@
       ];
     };
     me2beats-select-all-receives-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-all-receives-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5661,7 +5662,7 @@
       ];
     };
     me2beats-select-all-sends-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-all-sends-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5675,7 +5676,7 @@
       ];
     };
     me2beats-select-all-tracks-but-children-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-all-tracks-but-children-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5689,7 +5690,7 @@
       ];
     };
     me2beats-select-all-tracks-in-selected-track-groups-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-all-tracks-in-selected-track-groups-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5703,7 +5704,7 @@
       ];
     };
     me2beats-select-all-tracks-with-hardware-outputs-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-all-tracks-with-hardware-outputs-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5717,7 +5718,7 @@
       ];
     };
     me2beats-select-all-tracks-with-name-x-without-input-box-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-all-tracks-with-name-x-without-input-box-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5731,7 +5732,7 @@
       ];
     };
     me2beats-select-last-track-in-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-last-track-in-folder-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5745,7 +5746,7 @@
       ];
     };
     me2beats-select-next-hidden-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-next-hidden-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5759,7 +5760,7 @@
       ];
     };
     me2beats-select-only-first-track-with-name-x-without-input-box-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-first-track-with-name-x-without-input-box-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5773,7 +5774,7 @@
       ];
     };
     me2beats-select-only-highest-track-with-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-highest-track-with-selected-item-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5787,7 +5788,7 @@
       ];
     };
     me2beats-select-only-last-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-last-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5801,7 +5802,7 @@
       ];
     };
     me2beats-select-only-last-track-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-last-track-lua-1-01";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5815,7 +5816,7 @@
       ];
     };
     me2beats-select-only-lowest-track-with-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-only-lowest-track-with-selected-item-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5829,7 +5830,7 @@
       ];
     };
     me2beats-select-previous-hidden-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-previous-hidden-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5843,7 +5844,7 @@
       ];
     };
     me2beats-select-several-tracks-shiftplusdown-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-several-tracks-shiftplusdown-lua-0-9";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5857,7 +5858,7 @@
       ];
     };
     me2beats-select-several-tracks-shiftplusup-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-several-tracks-shiftplusup-lua-0-9";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5871,7 +5872,7 @@
       ];
     };
     me2beats-select-tracks-shiftplusdown-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-tracks-shiftplusdown-2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5885,7 +5886,7 @@
       ];
     };
     me2beats-select-tracks-shiftplusup-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-tracks-shiftplusup-2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5899,7 +5900,7 @@
       ];
     };
     me2beats-select-tracks-from-first-track-to-selected-one-but-hidden-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-tracks-from-first-track-to-selected-one-but-hidden-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5913,7 +5914,7 @@
       ];
     };
     me2beats-select-tracks-from-first-track-to-selected-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-tracks-from-first-track-to-selected-one-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5927,7 +5928,7 @@
       ];
     };
     me2beats-select-tracks-from-selected-track-to-last-one-but-hidden-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-tracks-from-selected-track-to-last-one-but-hidden-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5941,7 +5942,7 @@
       ];
     };
     me2beats-select-tracks-from-selected-track-to-last-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-tracks-from-selected-track-to-last-one-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5955,7 +5956,7 @@
       ];
     };
     me2beats-select-tracks-from-selected-track-to-track-at-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-tracks-from-selected-track-to-track-at-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5969,7 +5970,7 @@
       ];
     };
     me2beats-select-tracks-with-no-items-except-tracks-with-sends-and-hidden-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-tracks-with-no-items-except-tracks-with-sends-and-hidden-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5983,7 +5984,7 @@
       ];
     };
     me2beats-select-tracks-with-no-items-except-tracks-with-sends-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-tracks-with-no-items-except-tracks-with-sends-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -5997,7 +5998,7 @@
       ];
     };
     me2beats-select-tracks-with-no-items-and-no-fx-except-tracks-with-sends-receives-and-hardware-outputs-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-tracks-with-no-items-and-no-fx-except-tracks-with-sends-receives-and-hardware-outputs-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6011,7 +6012,7 @@
       ];
     };
     me2beats-select-tracks-with-no-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-tracks-with-no-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6025,7 +6026,7 @@
       ];
     };
     me2beats-select-tracks-with-the-same-color-as-selected-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-select-tracks-with-the-same-color-as-selected-one-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6039,7 +6040,7 @@
       ];
     };
     me2beats-send-track-under-mouse-to-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-send-track-under-mouse-to-selected-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6053,7 +6054,7 @@
       ];
     };
     me2beats-set-name-of-track-at-mouse-to-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-name-of-track-at-mouse-to-selected-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6067,7 +6068,7 @@
       ];
     };
     me2beats-set-pan-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-pan-for-selected-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6081,7 +6082,7 @@
       ];
     };
     me2beats-set-pan-for-track-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-pan-for-track-under-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6095,7 +6096,7 @@
       ];
     };
     me2beats-set-same-color-to-children-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-same-color-to-children-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6109,7 +6110,7 @@
       ];
     };
     me2beats-set-same-icon-to-children-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-same-icon-to-children-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6123,7 +6124,7 @@
       ];
     };
     me2beats-set-selected-tracks-color-to-color-of-track-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-selected-tracks-color-to-color-of-track-under-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6137,7 +6138,7 @@
       ];
     };
     me2beats-set-selected-tracks-name-to-name-of-track-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-selected-tracks-name-to-name-of-track-under-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6151,7 +6152,7 @@
       ];
     };
     me2beats-show-selected-track-receives-fx-windows-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-show-selected-track-receives-fx-windows-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6165,7 +6166,7 @@
       ];
     };
     me2beats-show-selected-track-sends-fx-windows-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-show-selected-track-sends-fx-windows-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6179,7 +6180,7 @@
       ];
     };
     me2beats-show-hide-children-of-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-show-hide-children-of-selected-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6193,7 +6194,7 @@
       ];
     };
     me2beats-smart-insert-track-keep-track-height-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-smart-insert-track-keep-track-height-lua-1-02";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6207,7 +6208,7 @@
       ];
     };
     me2beats-smart-insert-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-smart-insert-track-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6221,7 +6222,7 @@
       ];
     };
     me2beats-toggle-exclusive-solo-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-exclusive-solo-for-selected-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6235,7 +6236,7 @@
       ];
     };
     me2beats-toggle-exclusive-solo-for-track-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-exclusive-solo-for-track-under-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6249,7 +6250,7 @@
       ];
     };
     me2beats-toggle-folder-collapsed-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-folder-collapsed-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6263,7 +6264,7 @@
       ];
     };
     me2beats-toggle-mute-for-muted-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-mute-for-muted-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6277,7 +6278,7 @@
       ];
     };
     me2beats-toggle-mute-track-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-mute-track-under-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6291,7 +6292,7 @@
       ];
     };
     me2beats-toggle-read-latch-for-track-with-focused-fx-no-undo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-read-latch-for-track-with-focused-fx-no-undo-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6305,7 +6306,7 @@
       ];
     };
     me2beats-toggle-read-latch-for-track-with-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-read-latch-for-track-with-focused-fx-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6319,7 +6320,7 @@
       ];
     };
     me2beats-toggle-select-track-at-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-select-track-at-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6333,7 +6334,7 @@
       ];
     };
     me2beats-toggle-show-hide-saved-selected-tracks-slot-1-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-show-hide-saved-selected-tracks-slot-1-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6347,7 +6348,7 @@
       ];
     };
     me2beats-toggle-show-hide-saved-selected-tracks-slot-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-show-hide-saved-selected-tracks-slot-2-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6361,7 +6362,7 @@
       ];
     };
     me2beats-toggle-show-hide-saved-tracks-slot-1-persist-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-show-hide-saved-tracks-slot-1-persist-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6375,7 +6376,7 @@
       ];
     };
     me2beats-toggle-show-hide-saved-tracks-slot-2-persist-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-show-hide-saved-tracks-slot-2-persist-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6389,7 +6390,7 @@
       ];
     };
     me2beats-toggle-show-hide-saved-tracks-slot-3-persist-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-show-hide-saved-tracks-slot-3-persist-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6403,7 +6404,7 @@
       ];
     };
     me2beats-toggle-solo-for-soloed-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-solo-for-soloed-tracks-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6417,7 +6418,7 @@
       ];
     };
     me2beats-toggle-solo-track-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-solo-track-under-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6431,7 +6432,7 @@
       ];
     };
     me2beats-translit-all-tracks-names-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-translit-all-tracks-names-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6445,7 +6446,7 @@
       ];
     };
     me2beats-translit-sel-tracks-names-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-translit-sel-tracks-names-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6459,7 +6460,7 @@
       ];
     };
     me2beats-view-scroll-to-end-of-tracklist-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-view-scroll-to-end-of-tracklist-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6473,7 +6474,7 @@
       ];
     };
     me2beats-view-scroll-to-start-of-tracklist-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-view-scroll-to-start-of-tracklist-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Tracks";
@@ -6487,7 +6488,7 @@
       ];
     };
     me2beats-copy-bpm-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-copy-bpm-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6501,7 +6502,7 @@
       ];
     };
     me2beats-go-to-measure-8-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-go-to-measure-8-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6515,7 +6516,7 @@
       ];
     };
     me2beats-go-to-measure-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-go-to-measure-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6529,7 +6530,7 @@
       ];
     };
     me2beats-go-to-the-rightmost-item-end-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-go-to-the-rightmost-item-end-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6543,7 +6544,7 @@
       ];
     };
     me2beats-horizontal-zoom-to-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-horizontal-zoom-to-project-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6557,7 +6558,7 @@
       ];
     };
     me2beats-horizontal-zoom-to-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-horizontal-zoom-to-selected-items-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6571,7 +6572,7 @@
       ];
     };
     me2beats-master-playrate-toggle-between-current-rate-and-1-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-master-playrate-toggle-between-current-rate-and-1-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6585,7 +6586,7 @@
       ];
     };
     me2beats-move-cursor-to-closest-marker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-cursor-to-closest-marker-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6599,7 +6600,7 @@
       ];
     };
     me2beats-move-cursor-to-closest-marker-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-cursor-to-closest-marker-lua-1-02";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6613,7 +6614,7 @@
       ];
     };
     me2beats-move-cursor-to-end-of-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-cursor-to-end-of-project-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6627,7 +6628,7 @@
       ];
     };
     me2beats-move-cursor-to-measure-8-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-cursor-to-measure-8-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6641,7 +6642,7 @@
       ];
     };
     me2beats-move-cursor-to-measure-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-cursor-to-measure-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6655,7 +6656,7 @@
       ];
     };
     me2beats-move-cursor-to-nearest-grid-division-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-cursor-to-nearest-grid-division-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6669,7 +6670,7 @@
       ];
     };
     me2beats-move-cursor-to-start-of-loop-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-cursor-to-start-of-loop-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6683,7 +6684,7 @@
       ];
     };
     me2beats-move-cursor-to-start-of-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-cursor-to-start-of-project-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6697,7 +6698,7 @@
       ];
     };
     me2beats-move-cursor-to-the-rightmost-item-end-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-cursor-to-the-rightmost-item-end-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6711,7 +6712,7 @@
       ];
     };
     me2beats-move-time-selection-end-left-one-measure-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-time-selection-end-left-one-measure-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6725,7 +6726,7 @@
       ];
     };
     me2beats-move-time-selection-end-right-one-measure-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-time-selection-end-right-one-measure-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6739,7 +6740,7 @@
       ];
     };
     me2beats-move-time-selection-left-one-measure-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-time-selection-left-one-measure-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6753,7 +6754,7 @@
       ];
     };
     me2beats-move-time-selection-right-one-measure-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-time-selection-right-one-measure-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6767,7 +6768,7 @@
       ];
     };
     me2beats-move-time-selection-start-left-one-measure-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-time-selection-start-left-one-measure-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6781,7 +6782,7 @@
       ];
     };
     me2beats-move-time-selection-start-right-one-measure-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-move-time-selection-start-right-one-measure-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6795,7 +6796,7 @@
       ];
     };
     me2beats-paste-bpm-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-paste-bpm-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6809,7 +6810,7 @@
       ];
     };
     me2beats-play-stop-and-record-off-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-play-stop-and-record-off-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6823,7 +6824,7 @@
       ];
     };
     me2beats-play-stop-and-record-off-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-play-stop-and-record-off-lua-1-11";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6837,7 +6838,7 @@
       ];
     };
     me2beats-record-toggle-wait-for-midi-note-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-record-toggle-wait-for-midi-note-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6851,7 +6852,7 @@
       ];
     };
     me2beats-record-toggle-wait-for-midi-note-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-record-toggle-wait-for-midi-note-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6865,7 +6866,7 @@
       ];
     };
     me2beats-record-toggle-wait-for-midi-note-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-record-toggle-wait-for-midi-note-lua-1-2";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6879,7 +6880,7 @@
       ];
     };
     me2beats-record-toggle-wait-for-midi-note-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-record-toggle-wait-for-midi-note-lua-1-3";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6893,7 +6894,7 @@
       ];
     };
     me2beats-record-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-record-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6907,7 +6908,7 @@
       ];
     };
     me2beats-record-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-record-lua-1-1";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6921,7 +6922,7 @@
       ];
     };
     me2beats-record-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-record-lua-1-11";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6935,7 +6936,7 @@
       ];
     };
     me2beats-restore-cursor-position-defer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-restore-cursor-position-defer-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6949,7 +6950,7 @@
       ];
     };
     me2beats-save-cursor-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-save-cursor-position-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6963,7 +6964,7 @@
       ];
     };
     me2beats-set-loop-selection-to-bar-at-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-loop-selection-to-bar-at-edit-cursor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6977,7 +6978,7 @@
       ];
     };
     me2beats-set-loop-selection-to-bar-at-play-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-loop-selection-to-bar-at-play-cursor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -6991,7 +6992,7 @@
       ];
     };
     me2beats-set-loop-selection-to-beat-at-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-loop-selection-to-beat-at-edit-cursor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -7005,7 +7006,7 @@
       ];
     };
     me2beats-set-loop-selection-to-beat-at-play-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-loop-selection-to-beat-at-play-cursor-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -7019,7 +7020,7 @@
       ];
     };
     me2beats-set-playrate-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-playrate-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -7033,7 +7034,7 @@
       ];
     };
     me2beats-set-project-bpm-according-to-selected-take-name-bpm-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-set-project-bpm-according-to-selected-take-name-bpm-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -7047,7 +7048,7 @@
       ];
     };
     me2beats-stop-all-projects-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-stop-all-projects-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -7061,7 +7062,7 @@
       ];
     };
     me2beats-toggle-zoom-to-loop-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-toggle-zoom-to-loop-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -7075,7 +7076,7 @@
       ];
     };
     me2beats-vertical-zoom-to-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-vertical-zoom-to-project-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -7089,7 +7090,7 @@
       ];
     };
     me2beats-vertical-zoom-to-tracks-with-items-minimize-others-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-vertical-zoom-to-tracks-with-items-minimize-others-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -7103,7 +7104,7 @@
       ];
     };
     me2beats-wait-for-midi-note-play-stop-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-wait-for-midi-note-play-stop-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -7117,7 +7118,7 @@
       ];
     };
     me2beats-wait-for-midi-note-stop-recording-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-wait-for-midi-note-stop-recording-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -7131,7 +7132,7 @@
       ];
     };
     me2beats-zoom-horizontally-if-ruler-is-at-mouse-otherwise-scroll-vertically-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-zoom-horizontally-if-ruler-is-at-mouse-otherwise-scroll-vertically-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -7145,7 +7146,7 @@
       ];
     };
     me2beats-zoom-to-loop-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-zoom-to-loop-selection-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -7159,7 +7160,7 @@
       ];
     };
     me2beats-zoom-to-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-zoom-to-mouse-lua-1-0";
       indexName = "me2beats Scripts";
       categoryName = "Transport and navigation";
@@ -7173,7 +7174,7 @@
       ];
     };
     me2beats-create-folder-from-selected-tracks-plusrename-folder-2-lua-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-create-folder-from-selected-tracks-plusrename-folder-2-lua-0-7";
       indexName = "me2beats Scripts";
       categoryName = "Why we need MoveTrack(idx) function";
@@ -7187,7 +7188,7 @@
       ];
     };
     me2beats-sort-tracks-alphabetically-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "me2beats-sort-tracks-alphabetically-lua-0-1";
       indexName = "me2beats Scripts";
       categoryName = "Why we need MoveTrack(idx) function";

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   chmaha-airwindows-jsfx-ports = {
     analog-a-licious-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "analog-a-licious-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -19,7 +20,7 @@
       ];
     };
     corameta-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "corameta-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -38,7 +39,7 @@
       ];
     };
     corameta-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "corameta-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -57,7 +58,7 @@
       ];
     };
     desk-a-docious-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "desk-a-docious-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -71,7 +72,7 @@
       ];
     };
     elsa-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "elsa-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -85,7 +86,7 @@
       ];
     };
     elsa-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "elsa-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -99,7 +100,7 @@
       ];
     };
     em-see-eye-console-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "em-see-eye-console-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -118,7 +119,7 @@
       ];
     };
     eurydice-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "eurydice-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -147,7 +148,7 @@
       ];
     };
     eurydice-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "eurydice-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -176,7 +177,7 @@
       ];
     };
     eurydice-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "eurydice-jsfx-1-4";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -205,7 +206,7 @@
       ];
     };
     genesis-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "genesis-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -234,7 +235,7 @@
       ];
     };
     genesis-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "genesis-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -263,7 +264,7 @@
       ];
     };
     genesis-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "genesis-jsfx-1-4";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -292,7 +293,7 @@
       ];
     };
     genesis-jsfx-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "genesis-jsfx-1-5";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -321,7 +322,7 @@
       ];
     };
     genesis-jsfx-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "genesis-jsfx-1-6";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -350,7 +351,7 @@
       ];
     };
     magicfairydust-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "magicfairydust-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -364,7 +365,7 @@
       ];
     };
     magicfairydust-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "magicfairydust-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -378,7 +379,7 @@
       ];
     };
     octo4-console-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "octo4-console-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -397,7 +398,7 @@
       ];
     };
     orpheus-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "orpheus-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -446,7 +447,7 @@
       ];
     };
     orpheus-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "orpheus-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -495,7 +496,7 @@
       ];
     };
     orpheus-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "orpheus-jsfx-1-4";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -544,7 +545,7 @@
       ];
     };
     orpheus-jsfx-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "orpheus-jsfx-1-5";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -593,7 +594,7 @@
       ];
     };
     orpheus-lite-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "orpheus-lite-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -622,7 +623,7 @@
       ];
     };
     orpheus-lite-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "orpheus-lite-jsfx-1-4";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -651,7 +652,7 @@
       ];
     };
     seattlety-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "seattlety-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -665,7 +666,7 @@
       ];
     };
     sororium-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sororium-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -679,7 +680,7 @@
       ];
     };
     supersonic-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "supersonic-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -693,7 +694,7 @@
       ];
     };
     supersonic-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "supersonic-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Consoles";
@@ -707,7 +708,7 @@
       ];
     };
     essenzadither-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "essenzadither-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Dithers";
@@ -721,7 +722,7 @@
       ];
     };
     groovydither-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "groovydither-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Dithers";
@@ -735,7 +736,7 @@
       ];
     };
     groovydither-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "groovydither-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Dithers";
@@ -749,7 +750,7 @@
       ];
     };
     luciditydither-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "luciditydither-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Dithers";
@@ -763,7 +764,7 @@
       ];
     };
     nintenda-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nintenda-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Dithers";
@@ -777,7 +778,7 @@
       ];
     };
     piratedither-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "piratedither-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Dithers";
@@ -791,7 +792,7 @@
       ];
     };
     reeldither-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reeldither-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Dithers";
@@ -805,7 +806,7 @@
       ];
     };
     scottydither-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "scottydither-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Dithers";
@@ -819,7 +820,7 @@
       ];
     };
     six-dither-sid-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "six-dither-sid-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Dithers";
@@ -833,7 +834,7 @@
       ];
     };
     stan-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stan-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Dithers";
@@ -847,7 +848,7 @@
       ];
     };
     twilight-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "twilight-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Dithers";
@@ -861,7 +862,7 @@
       ];
     };
     wtfdither-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "wtfdither-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Dithers";
@@ -875,7 +876,7 @@
       ];
     };
     xonnos-dither-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "xonnos-dither-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Dithers";
@@ -889,7 +890,7 @@
       ];
     };
     bricastic-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bricastic-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Reverbs";
@@ -903,7 +904,7 @@
       ];
     };
     bricastic-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bricastic-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Reverbs";
@@ -917,7 +918,7 @@
       ];
     };
     bricastic2-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bricastic2-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Reverbs";
@@ -931,7 +932,7 @@
       ];
     };
     interstellar-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "interstellar-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Reverbs";
@@ -945,7 +946,7 @@
       ];
     };
     interstellar-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "interstellar-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Reverbs";
@@ -959,7 +960,7 @@
       ];
     };
     nw8bplatereverb-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nw8bplatereverb-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Reverbs";
@@ -973,7 +974,7 @@
       ];
     };
     nw8cplatereverb-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nw8cplatereverb-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Reverbs";
@@ -987,7 +988,7 @@
       ];
     };
     nw8dplatereverb-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nw8dplatereverb-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Reverbs";
@@ -1001,7 +1002,7 @@
       ];
     };
     nw8platereverb-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nw8platereverb-jsfx-1-1";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Reverbs";
@@ -1015,7 +1016,7 @@
       ];
     };
     phiverb-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "phiverb-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Reverbs";
@@ -1029,7 +1030,7 @@
       ];
     };
     phiverb-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "phiverb-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Reverbs";
@@ -1043,7 +1044,7 @@
       ];
     };
     _78slewclipper-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_78slewclipper-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1057,7 +1058,7 @@
       ];
     };
     _78slewclipper-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_78slewclipper-jsfx-1-1";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1071,7 +1072,7 @@
       ];
     };
     a-coo-sticks-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "a-coo-sticks-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1085,7 +1086,7 @@
       ];
     };
     allears-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "allears-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1099,7 +1100,7 @@
       ];
     };
     altitude-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "altitude-jsfx-1-1";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1113,7 +1114,7 @@
       ];
     };
     ambrosia-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ambrosia-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1127,7 +1128,7 @@
       ];
     };
     amphitrite-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amphitrite-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1141,7 +1142,7 @@
       ];
     };
     amphitrite-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amphitrite-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1155,7 +1156,7 @@
       ];
     };
     amphitrite-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amphitrite-jsfx-1-4";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1169,7 +1170,7 @@
       ];
     };
     aurora-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "aurora-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1183,7 +1184,7 @@
       ];
     };
     aurora-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "aurora-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1197,7 +1198,7 @@
       ];
     };
     aurora-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "aurora-jsfx-1-4";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1211,7 +1212,7 @@
       ];
     };
     biased-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "biased-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1225,7 +1226,7 @@
       ];
     };
     biquadicus-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "biquadicus-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1239,7 +1240,7 @@
       ];
     };
     buttress-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buttress-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1253,7 +1254,7 @@
       ];
     };
     buttress-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buttress-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1267,7 +1268,7 @@
       ];
     };
     cataclysmicclipper-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cataclysmicclipper-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1281,7 +1282,7 @@
       ];
     };
     channeltwister-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "channeltwister-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1295,7 +1296,7 @@
       ];
     };
     clippysquish-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "clippysquish-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1309,7 +1310,7 @@
       ];
     };
     coralbones-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "coralbones-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1323,7 +1324,7 @@
       ];
     };
     coralbones-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "coralbones-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1337,7 +1338,7 @@
       ];
     };
     discordia-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "discordia-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1351,7 +1352,7 @@
       ];
     };
     discordia-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "discordia-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1365,7 +1366,7 @@
       ];
     };
     discordia-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "discordia-jsfx-1-4";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1379,7 +1380,7 @@
       ];
     };
     domar-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "domar-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1393,7 +1394,7 @@
       ];
     };
     enyo-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "enyo-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1407,7 +1408,7 @@
       ];
     };
     eris-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "eris-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1421,7 +1422,7 @@
       ];
     };
     eris-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "eris-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1435,7 +1436,7 @@
       ];
     };
     evolution-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "evolution-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1449,7 +1450,7 @@
       ];
     };
     film-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "film-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1463,7 +1464,7 @@
       ];
     };
     flattop-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "flattop-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1477,7 +1478,7 @@
       ];
     };
     flutternutter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "flutternutter-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1491,7 +1492,7 @@
       ];
     };
     heft-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heft-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1505,7 +1506,7 @@
       ];
     };
     heft-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heft-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1519,7 +1520,7 @@
       ];
     };
     hippity-hoppity-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hippity-hoppity-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1533,7 +1534,7 @@
       ];
     };
     lunaeq-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lunaeq-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1547,7 +1548,7 @@
       ];
     };
     lyra-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lyra-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1561,7 +1562,7 @@
       ];
     };
     lyra-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lyra-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1575,7 +1576,7 @@
       ];
     };
     lyra-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lyra-jsfx-1-4";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1589,7 +1590,7 @@
       ];
     };
     madhatter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "madhatter-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1603,7 +1604,7 @@
       ];
     };
     magnetique-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "magnetique-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1617,7 +1618,7 @@
       ];
     };
     magnetique-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "magnetique-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1631,7 +1632,7 @@
       ];
     };
     millie-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "millie-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1645,7 +1646,7 @@
       ];
     };
     multisine-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "multisine-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1659,7 +1660,7 @@
       ];
     };
     mutube-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mutube-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1673,7 +1674,7 @@
       ];
     };
     mutube-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mutube-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1687,7 +1688,7 @@
       ];
     };
     mutube-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mutube-jsfx-1-4";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1701,7 +1702,7 @@
       ];
     };
     oxonia-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "oxonia-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1715,7 +1716,7 @@
       ];
     };
     oxonia-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "oxonia-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1729,7 +1730,7 @@
       ];
     };
     pascal-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pascal-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1743,7 +1744,7 @@
       ];
     };
     pascal-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pascal-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1757,7 +1758,7 @@
       ];
     };
     phasity-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "phasity-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1771,7 +1772,7 @@
       ];
     };
     port-and-lemon-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "port-and-lemon-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1785,7 +1786,7 @@
       ];
     };
     port-and-lemon-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "port-and-lemon-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1799,7 +1800,7 @@
       ];
     };
     port-and-lemon-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "port-and-lemon-jsfx-1-4";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1813,7 +1814,7 @@
       ];
     };
     primalovertones-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "primalovertones-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1827,7 +1828,7 @@
       ];
     };
     quantumgain-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "quantumgain-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1841,7 +1842,7 @@
       ];
     };
     quantumpan-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "quantumpan-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1855,7 +1856,7 @@
       ];
     };
     reelty-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reelty-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1869,7 +1870,7 @@
       ];
     };
     saccharine-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saccharine-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1883,7 +1884,7 @@
       ];
     };
     seriouslyamazingwidener-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "seriouslyamazingwidener-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1897,7 +1898,7 @@
       ];
     };
     seriouslyamazingwidener2-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "seriouslyamazingwidener2-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1911,7 +1912,7 @@
       ];
     };
     seriouslyamazingwidener2-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "seriouslyamazingwidener2-jsfx-1-4";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1925,7 +1926,7 @@
       ];
     };
     sillons-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sillons-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1939,7 +1940,7 @@
       ];
     };
     sillons-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sillons-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1953,7 +1954,7 @@
       ];
     };
     sillons-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sillons-jsfx-1-4";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1967,7 +1968,7 @@
       ];
     };
     snippity-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "snippity-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1981,7 +1982,7 @@
       ];
     };
     solar-wind-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solar-wind-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -1995,7 +1996,7 @@
       ];
     };
     solar-wind-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solar-wind-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -2009,7 +2010,7 @@
       ];
     };
     titan-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "titan-jsfx-1-2";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -2023,7 +2024,7 @@
       ];
     };
     titan-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "titan-jsfx-1-3";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -2037,7 +2038,7 @@
       ];
     };
     toed-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toed-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -2051,7 +2052,7 @@
       ];
     };
     typhon-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "typhon-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -2065,7 +2066,7 @@
       ];
     };
     valvity-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "valvity-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";
@@ -2079,7 +2080,7 @@
       ];
     };
     walkety-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "walkety-jsfx-1-0";
       indexName = "chmaha airwindows JSFX Ports";
       categoryName = "Various";

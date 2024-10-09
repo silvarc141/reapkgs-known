@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   bsmith96-scripts = {
     locate-to-marker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "locate-to-marker-lua-1-0";
       indexName = "BSmith96 Scripts";
       categoryName = "Markers";
@@ -19,7 +20,7 @@
       ];
     };
     locate-to-marker-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "locate-to-marker-lua-1-1";
       indexName = "BSmith96 Scripts";
       categoryName = "Markers";
@@ -33,7 +34,7 @@
       ];
     };
     locate-to-marker-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "locate-to-marker-lua-1-2";
       indexName = "BSmith96 Scripts";
       categoryName = "Markers";
@@ -47,7 +48,7 @@
       ];
     };
     locate-to-marker-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "locate-to-marker-lua-1-3";
       indexName = "BSmith96 Scripts";
       categoryName = "Markers";
@@ -61,7 +62,7 @@
       ];
     };
     locate-to-marker-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "locate-to-marker-lua-1-4";
       indexName = "BSmith96 Scripts";
       categoryName = "Markers";
@@ -75,7 +76,7 @@
       ];
     };
     autopan-set-tempo-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "autopan-set-tempo-lua-1-6";
       indexName = "BSmith96 Scripts";
       categoryName = "Miscellaneous";
@@ -94,7 +95,7 @@
       ];
     };
     vca-assign-template-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vca-assign-template-lua-2-0";
       indexName = "BSmith96 Scripts";
       categoryName = "Miscellaneous";
@@ -108,7 +109,7 @@
       ];
     };
     vca-assign-template-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vca-assign-template-lua-2-1";
       indexName = "BSmith96 Scripts";
       categoryName = "Miscellaneous";
@@ -122,7 +123,7 @@
       ];
     };
     arm-all-tracks-within-folders-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-all-tracks-within-folders-lua-1-0";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -136,7 +137,7 @@
       ];
     };
     arm-all-tracks-within-folders-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-all-tracks-within-folders-lua-1-1";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -150,7 +151,7 @@
       ];
     };
     arm-all-tracks-within-folders-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-all-tracks-within-folders-lua-1-2";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -174,7 +175,7 @@
       ];
     };
     arm-all-tracks-within-folders-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-all-tracks-within-folders-lua-1-3";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -198,7 +199,7 @@
       ];
     };
     arm-all-tracks-within-folders-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-all-tracks-within-folders-lua-1-4";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -222,7 +223,7 @@
       ];
     };
     arm-all-tracks-within-folders-lua-1-5-beta1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-all-tracks-within-folders-lua-1-5-beta1";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -246,7 +247,7 @@
       ];
     };
     arm-all-tracks-within-folders-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-all-tracks-within-folders-lua-1-5";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -270,7 +271,7 @@
       ];
     };
     arm-tracks-for-recording-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-tracks-for-recording-lua-1-1";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -284,7 +285,7 @@
       ];
     };
     arm-tracks-for-recording-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-tracks-for-recording-lua-1-2";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -298,7 +299,7 @@
       ];
     };
     arm-tracks-for-recording-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-tracks-for-recording-lua-1-3";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -312,7 +313,7 @@
       ];
     };
     arm-tracks-within-selected-folder-lua-1-0-beta1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-tracks-within-selected-folder-lua-1-0-beta1";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -336,7 +337,7 @@
       ];
     };
     arm-tracks-within-selected-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-tracks-within-selected-folder-lua-1-0";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -360,7 +361,7 @@
       ];
     };
     arm-tracks-within-selected-folder-lua-2-0-beta1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-tracks-within-selected-folder-lua-2-0-beta1";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -384,7 +385,7 @@
       ];
     };
     arm-tracks-within-selected-folder-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-tracks-within-selected-folder-lua-2-0";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -408,7 +409,7 @@
       ];
     };
     arm-tracks-within-selected-folder-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arm-tracks-within-selected-folder-lua-2-1";
       indexName = "BSmith96 Scripts";
       categoryName = "Recording";
@@ -432,7 +433,7 @@
       ];
     };
     set-track-inputs-1-to-1-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-track-inputs-1-to-1-lua-2-0";
       indexName = "BSmith96 Scripts";
       categoryName = "Routing";
@@ -456,7 +457,7 @@
       ];
     };
     set-track-inputs-1-to-1-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-track-inputs-1-to-1-lua-2-1";
       indexName = "BSmith96 Scripts";
       categoryName = "Routing";
@@ -480,7 +481,7 @@
       ];
     };
     set-track-inputs-1-to-1-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-track-inputs-1-to-1-lua-2-2";
       indexName = "BSmith96 Scripts";
       categoryName = "Routing";
@@ -504,7 +505,7 @@
       ];
     };
     set-track-inputs-1-to-1-lua-2-3-b-2022-11-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-track-inputs-1-to-1-lua-2-3-b-2022-11-12";
       indexName = "BSmith96 Scripts";
       categoryName = "Routing";
@@ -528,7 +529,7 @@
       ];
     };
     set-track-inputs-1-to-1-lua-2-3-b-2022-11-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-track-inputs-1-to-1-lua-2-3-b-2022-11-13";
       indexName = "BSmith96 Scripts";
       categoryName = "Routing";
@@ -552,7 +553,7 @@
       ];
     };
     set-track-outputs-1-to-1-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-track-outputs-1-to-1-lua-2-0";
       indexName = "BSmith96 Scripts";
       categoryName = "Routing";
@@ -576,7 +577,7 @@
       ];
     };
     set-track-outputs-1-to-1-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-track-outputs-1-to-1-lua-2-1";
       indexName = "BSmith96 Scripts";
       categoryName = "Routing";
@@ -600,7 +601,7 @@
       ];
     };
     set-track-outputs-1-to-1-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-track-outputs-1-to-1-lua-2-2";
       indexName = "BSmith96 Scripts";
       categoryName = "Routing";
@@ -624,7 +625,7 @@
       ];
     };
     set-track-outputs-1-to-1-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-track-outputs-1-to-1-lua-2-3";
       indexName = "BSmith96 Scripts";
       categoryName = "Routing";
@@ -648,7 +649,7 @@
       ];
     };
     toggle-routing-and-solo-to-master-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-routing-and-solo-to-master-lua-1-0";
       indexName = "BSmith96 Scripts";
       categoryName = "Routing";
@@ -662,7 +663,7 @@
       ];
     };
     toggle-routing-and-solo-to-master-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-routing-and-solo-to-master-lua-1-1";
       indexName = "BSmith96 Scripts";
       categoryName = "Routing";
@@ -676,7 +677,7 @@
       ];
     };
     toggle-routing-and-solo-to-master-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-routing-and-solo-to-master-lua-1-2";
       indexName = "BSmith96 Scripts";
       categoryName = "Routing";
@@ -690,7 +691,7 @@
       ];
     };
     toggle-routing-and-solo-to-master-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-routing-and-solo-to-master-lua-1-3";
       indexName = "BSmith96 Scripts";
       categoryName = "Routing";
@@ -704,7 +705,7 @@
       ];
     };
     toggle-routing-and-solo-to-master-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-routing-and-solo-to-master-lua-1-4";
       indexName = "BSmith96 Scripts";
       categoryName = "Routing";
@@ -718,7 +719,7 @@
       ];
     };
     explode-multichannel-audio-files-lua-1-0-alpha1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "explode-multichannel-audio-files-lua-1-0-alpha1";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -737,7 +738,7 @@
       ];
     };
     explode-multichannel-audio-files-lua-1-0-alpha2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "explode-multichannel-audio-files-lua-1-0-alpha2";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -761,7 +762,7 @@
       ];
     };
     explode-multichannel-audio-files-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "explode-multichannel-audio-files-lua-1-0";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -785,7 +786,7 @@
       ];
     };
     explode-multichannel-audio-files-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "explode-multichannel-audio-files-lua-1-1";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -809,7 +810,7 @@
       ];
     };
     explode-multichannel-audio-files-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "explode-multichannel-audio-files-lua-1-2";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -833,7 +834,7 @@
       ];
     };
     explode-multichannel-audio-files-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "explode-multichannel-audio-files-lua-1-3";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -857,7 +858,7 @@
       ];
     };
     explode-multichannel-audio-files-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "explode-multichannel-audio-files-lua-1-4";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -881,7 +882,7 @@
       ];
     };
     explode-multichannel-audio-files-lua-1-5-beta1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "explode-multichannel-audio-files-lua-1-5-beta1";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -905,7 +906,7 @@
       ];
     };
     explode-multichannel-audio-files-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "explode-multichannel-audio-files-lua-1-5";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -929,7 +930,7 @@
       ];
     };
     explode-multichannel-audio-files-lua-1-6-beta1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "explode-multichannel-audio-files-lua-1-6-beta1";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -958,7 +959,7 @@
       ];
     };
     explode-multichannel-audio-files-lua-1-6-beta2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "explode-multichannel-audio-files-lua-1-6-beta2";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -987,7 +988,7 @@
       ];
     };
     explode-multichannel-audio-files-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "explode-multichannel-audio-files-lua-1-6";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -1016,7 +1017,7 @@
       ];
     };
     put-selected-tracks-in-new-folder-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "put-selected-tracks-in-new-folder-track-lua-1-0";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -1030,7 +1031,7 @@
       ];
     };
     put-selected-tracks-in-new-folder-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "put-selected-tracks-in-new-folder-track-lua-1-1";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -1044,7 +1045,7 @@
       ];
     };
     put-selected-tracks-in-new-folder-track-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "put-selected-tracks-in-new-folder-track-lua-1-2";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -1063,7 +1064,7 @@
       ];
     };
     put-selected-tracks-in-new-folder-track-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "put-selected-tracks-in-new-folder-track-lua-1-3";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";
@@ -1082,7 +1083,7 @@
       ];
     };
     put-selected-tracks-in-new-folder-track-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "put-selected-tracks-in-new-folder-track-lua-1-4";
       indexName = "BSmith96 Scripts";
       categoryName = "Tracks";

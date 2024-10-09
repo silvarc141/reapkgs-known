@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   suzuki-scripts = {
     suzuki-check-stereo-channels-input-bitmask-for-last-touched-track-or-take-fx-inside-container-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-check-stereo-channels-input-bitmask-for-last-touched-track-or-take-fx-inside-container-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "Development";
@@ -19,7 +20,7 @@
       ];
     };
     suzuki-check-stereo-channels-output-bitmask-for-last-touched-track-or-take-fx-inside-container-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-check-stereo-channels-output-bitmask-for-last-touched-track-or-take-fx-inside-container-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "Development";
@@ -33,7 +34,7 @@
       ];
     };
     suzuki-toggle-show-hide-visible-envelope-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-show-hide-visible-envelope-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "Envelopes";
@@ -47,7 +48,7 @@
       ];
     };
     suzuki-toggle-show-hide-visible-envelope-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-show-hide-visible-envelope-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "Envelopes";
@@ -61,7 +62,7 @@
       ];
     };
     suzuki-toggle-show-hide-visible-envelope-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-show-hide-visible-envelope-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-2";
       indexName = "Suzuki Scripts";
       categoryName = "Envelopes";
@@ -75,7 +76,7 @@
       ];
     };
     suzuki-add-stereo-channels-to-last-touched-track-or-take-fx-inside-container-input-and-output-channel-mappings-user-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-add-stereo-channels-to-last-touched-track-or-take-fx-inside-container-input-and-output-channel-mappings-user-input-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -89,7 +90,7 @@
       ];
     };
     suzuki-add-stereo-channels-to-last-touched-track-or-take-fx-inside-container-input-and-output-channel-mappings-user-input-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-add-stereo-channels-to-last-touched-track-or-take-fx-inside-container-input-and-output-channel-mappings-user-input-lua-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -103,7 +104,7 @@
       ];
     };
     suzuki-add-stereo-channels-to-last-touched-track-or-take-fx-inside-container-input-channel-mappings-user-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-add-stereo-channels-to-last-touched-track-or-take-fx-inside-container-input-channel-mappings-user-input-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -117,7 +118,7 @@
       ];
     };
     suzuki-add-stereo-channels-to-last-touched-track-or-take-fx-inside-container-input-channel-mappings-user-input-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-add-stereo-channels-to-last-touched-track-or-take-fx-inside-container-input-channel-mappings-user-input-lua-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -131,7 +132,7 @@
       ];
     };
     suzuki-add-stereo-channels-to-last-touched-track-or-take-fx-inside-container-output-channel-mappings-user-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-add-stereo-channels-to-last-touched-track-or-take-fx-inside-container-output-channel-mappings-user-input-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -145,7 +146,7 @@
       ];
     };
     suzuki-add-stereo-channels-to-last-touched-track-or-take-fx-inside-container-output-channel-mappings-user-input-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-add-stereo-channels-to-last-touched-track-or-take-fx-inside-container-output-channel-mappings-user-input-lua-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -159,7 +160,7 @@
       ];
     };
     suzuki-close-all-floating-take-fx-inside-container-windows-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-close-all-floating-take-fx-inside-container-windows-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -173,7 +174,7 @@
       ];
     };
     suzuki-close-all-floating-track-incl-input-and-monitoring-fx-inside-container-windows-for-all-tracks-incl-master-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-close-all-floating-track-incl-input-and-monitoring-fx-inside-container-windows-for-all-tracks-incl-master-track-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -187,7 +188,7 @@
       ];
     };
     suzuki-close-all-floating-track-incl-input-and-monitoring-fx-inside-container-windows-for-selected-tracks-incl-master-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-close-all-floating-track-incl-input-and-monitoring-fx-inside-container-windows-for-selected-tracks-incl-master-track-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -201,7 +202,7 @@
       ];
     };
     suzuki-close-all-floating-track-and-take-incl-input-and-monitoring-fx-inside-container-windows-incl-master-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-close-all-floating-track-and-take-incl-input-and-monitoring-fx-inside-container-windows-incl-master-track-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -215,7 +216,7 @@
       ];
     };
     suzuki-close-all-floating-track-fx-inside-container-windows-for-all-tracks-excl-master-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-close-all-floating-track-fx-inside-container-windows-for-all-tracks-excl-master-track-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -229,7 +230,7 @@
       ];
     };
     suzuki-close-all-floating-track-fx-inside-container-windows-for-all-tracks-incl-master-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-close-all-floating-track-fx-inside-container-windows-for-all-tracks-incl-master-track-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -243,7 +244,7 @@
       ];
     };
     suzuki-close-all-floating-track-fx-inside-container-windows-for-selected-tracks-excl-master-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-close-all-floating-track-fx-inside-container-windows-for-selected-tracks-excl-master-track-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -257,7 +258,7 @@
       ];
     };
     suzuki-close-all-floating-track-fx-inside-container-windows-for-selected-tracks-incl-master-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-close-all-floating-track-fx-inside-container-windows-for-selected-tracks-incl-master-track-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -271,7 +272,7 @@
       ];
     };
     suzuki-close-all-fx-windows-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-close-all-fx-windows-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -285,7 +286,7 @@
       ];
     };
     suzuki-close-all-track-and-take-incl-input-and-monitoring-fx-chain-windows-incl-master-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-close-all-track-and-take-incl-input-and-monitoring-fx-chain-windows-incl-master-track-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -299,7 +300,7 @@
       ];
     };
     suzuki-close-last-touched-floating-track-or-take-fx-inside-container-window-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-close-last-touched-floating-track-or-take-fx-inside-container-window-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -313,7 +314,7 @@
       ];
     };
     suzuki-copy-stereo-input-and-output-channel-pin-mappings-from-last-touched-track-or-take-fx-inside-container-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-copy-stereo-input-and-output-channel-pin-mappings-from-last-touched-track-or-take-fx-inside-container-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -327,7 +328,7 @@
       ];
     };
     suzuki-copy-stereo-input-channel-pin-mappings-from-last-touched-track-or-take-fx-inside-container-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-copy-stereo-input-channel-pin-mappings-from-last-touched-track-or-take-fx-inside-container-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -341,7 +342,7 @@
       ];
     };
     suzuki-copy-stereo-output-channel-pin-mappings-from-last-touched-track-or-take-fx-inside-container-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-copy-stereo-output-channel-pin-mappings-from-last-touched-track-or-take-fx-inside-container-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -355,7 +356,7 @@
       ];
     };
     suzuki-paste-channel-pin-mappings-into-last-touched-track-or-take-fx-inside-container-stereo-input-and-output-channel-pin-mappings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-paste-channel-pin-mappings-into-last-touched-track-or-take-fx-inside-container-stereo-input-and-output-channel-pin-mappings-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -369,7 +370,7 @@
       ];
     };
     suzuki-paste-channel-pin-mappings-into-last-touched-track-or-take-fx-inside-container-stereo-input-channel-pin-mappings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-paste-channel-pin-mappings-into-last-touched-track-or-take-fx-inside-container-stereo-input-channel-pin-mappings-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -383,7 +384,7 @@
       ];
     };
     suzuki-paste-channel-pin-mappings-into-last-touched-track-or-take-fx-inside-container-stereo-output-channel-pin-mappings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-paste-channel-pin-mappings-into-last-touched-track-or-take-fx-inside-container-stereo-output-channel-pin-mappings-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -397,7 +398,7 @@
       ];
     };
     suzuki-paste-channel-pin-mappings-into-last-touched-track-or-take-fx-inside-container-stereo-output-channel-pin-mappings-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-paste-channel-pin-mappings-into-last-touched-track-or-take-fx-inside-container-stereo-output-channel-pin-mappings-lua-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -411,7 +412,7 @@
       ];
     };
     suzuki-set-last-touched-track-or-take-fx-inside-container-input-and-output-channel-pin-mappings-to-stereo-channels-user-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-set-last-touched-track-or-take-fx-inside-container-input-and-output-channel-pin-mappings-to-stereo-channels-user-input-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -425,7 +426,7 @@
       ];
     };
     suzuki-set-last-touched-track-or-take-fx-inside-container-input-channel-pin-mappings-to-stereo-channels-user-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-set-last-touched-track-or-take-fx-inside-container-input-channel-pin-mappings-to-stereo-channels-user-input-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -439,7 +440,7 @@
       ];
     };
     suzuki-set-last-touched-track-or-take-fx-inside-container-input-stereo-channels-to-31-32-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-set-last-touched-track-or-take-fx-inside-container-input-stereo-channels-to-31-32-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -453,7 +454,7 @@
       ];
     };
     suzuki-set-last-touched-track-or-take-fx-inside-container-input-stereo-channels-to-31-32-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-set-last-touched-track-or-take-fx-inside-container-input-stereo-channels-to-31-32-lua-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -467,7 +468,7 @@
       ];
     };
     suzuki-set-last-touched-track-or-take-fx-inside-container-input-stereo-channels-to-63-64-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-set-last-touched-track-or-take-fx-inside-container-input-stereo-channels-to-63-64-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -481,7 +482,7 @@
       ];
     };
     suzuki-set-last-touched-track-or-take-fx-inside-container-input-stereo-channels-to-63-64-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-set-last-touched-track-or-take-fx-inside-container-input-stereo-channels-to-63-64-lua-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -495,7 +496,7 @@
       ];
     };
     suzuki-set-last-touched-track-or-take-fx-inside-container-output-channel-pin-mappings-to-stereo-channels-user-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-set-last-touched-track-or-take-fx-inside-container-output-channel-pin-mappings-to-stereo-channels-user-input-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -509,7 +510,7 @@
       ];
     };
     suzuki-set-last-touched-track-or-take-fx-inside-container-output-channel-pin-mappings-to-stereo-channels-and-send-it-to-a-new-track-in-bus-user-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-set-last-touched-track-or-take-fx-inside-container-output-channel-pin-mappings-to-stereo-channels-and-send-it-to-a-new-track-in-bus-user-input-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -523,7 +524,7 @@
       ];
     };
     suzuki-set-last-touched-track-or-take-fx-inside-container-output-stereo-channels-to-125-126-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-set-last-touched-track-or-take-fx-inside-container-output-stereo-channels-to-125-126-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -537,7 +538,7 @@
       ];
     };
     suzuki-set-last-touched-track-or-take-fx-inside-container-output-stereo-channels-to-127-128-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-set-last-touched-track-or-take-fx-inside-container-output-stereo-channels-to-127-128-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -551,7 +552,7 @@
       ];
     };
     suzuki-set-last-touched-track-or-take-fx-inside-container-output-stereo-channels-to-95-96-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-set-last-touched-track-or-take-fx-inside-container-output-stereo-channels-to-95-96-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -565,7 +566,7 @@
       ];
     };
     suzuki-toggle-map-to-the-root-container-parameter-for-last-touched-track-or-take-fx-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-map-to-the-root-container-parameter-for-last-touched-track-or-take-fx-parameter-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "FX";
@@ -579,7 +580,7 @@
       ];
     };
     lewloiwc-s-sound-design-suite-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lewloiwc-s-sound-design-suite-jsfx-1-0-0";
       indexName = "Suzuki Scripts";
       categoryName = "lewloiwc's Sound Design Suite";
@@ -618,7 +619,7 @@
       ];
     };
     lewloiwc-s-sound-design-suite-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lewloiwc-s-sound-design-suite-jsfx-1-0-1";
       indexName = "Suzuki Scripts";
       categoryName = "lewloiwc's Sound Design Suite";
@@ -662,7 +663,7 @@
       ];
     };
     lewloiwc-s-splitter-suite-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lewloiwc-s-splitter-suite-jsfx-1-0-0";
       indexName = "Suzuki Scripts";
       categoryName = "lewloiwc's Splitter Suite";
@@ -731,7 +732,7 @@
       ];
     };
     lewloiwc-s-splitter-suite-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lewloiwc-s-splitter-suite-jsfx-1-0-1";
       indexName = "Suzuki Scripts";
       categoryName = "lewloiwc's Splitter Suite";
@@ -805,7 +806,7 @@
       ];
     };
     lewloiwc-s-splitter-suite-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lewloiwc-s-splitter-suite-jsfx-1-0-2";
       indexName = "Suzuki Scripts";
       categoryName = "lewloiwc's Splitter Suite";
@@ -879,7 +880,7 @@
       ];
     };
     suzuki-set-last-touched-track-or-take-fx-inside-container-parameter-as-a-lead-parameter-for-parameter-link-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-set-last-touched-track-or-take-fx-inside-container-parameter-as-a-lead-parameter-for-parameter-link-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "Modulation";
@@ -893,7 +894,7 @@
       ];
     };
     suzuki-toggle-enable-disable-audio-control-signal-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-enable-disable-audio-control-signal-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "Modulation";
@@ -907,7 +908,7 @@
       ];
     };
     suzuki-toggle-enable-disable-audio-control-signal-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-enable-disable-audio-control-signal-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "Modulation";
@@ -921,7 +922,7 @@
       ];
     };
     suzuki-toggle-enable-disable-lfo-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-enable-disable-lfo-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "Modulation";
@@ -935,7 +936,7 @@
       ];
     };
     suzuki-toggle-enable-disable-lfo-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-enable-disable-lfo-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "Modulation";
@@ -949,7 +950,7 @@
       ];
     };
     suzuki-toggle-link-last-touched-track-or-take-fx-inside-container-parameter-as-a-follower-to-the-lead-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-link-last-touched-track-or-take-fx-inside-container-parameter-as-a-follower-to-the-lead-parameter-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "Modulation";
@@ -963,7 +964,7 @@
       ];
     };
     suzuki-toggle-set-midi-cc-link-119-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-set-midi-cc-link-119-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "Modulation";
@@ -977,7 +978,7 @@
       ];
     };
     suzuki-toggle-set-midi-cc-link-119-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-set-midi-cc-link-119-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "Modulation";
@@ -991,7 +992,7 @@
       ];
     };
     suzuki-toggle-set-midi-cc-link-31-63-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-set-midi-cc-link-31-63-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "Modulation";
@@ -1005,7 +1006,7 @@
       ];
     };
     suzuki-toggle-set-midi-cc-link-31-63-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-set-midi-cc-link-31-63-for-last-touched-track-or-take-fx-inside-container-parameter-lua-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "Modulation";
@@ -1019,7 +1020,7 @@
       ];
     };
     suzuki-toggle-set-midi-cc-link-for-last-touched-track-or-take-fx-inside-container-parameter-user-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-set-midi-cc-link-for-last-touched-track-or-take-fx-inside-container-parameter-user-input-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "Modulation";
@@ -1033,7 +1034,7 @@
       ];
     };
     suzuki-toggle-set-midi-cc-link-for-last-touched-track-or-take-fx-inside-container-parameter-user-input-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-toggle-set-midi-cc-link-for-last-touched-track-or-take-fx-inside-container-parameter-user-input-lua-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "Modulation";
@@ -1047,7 +1048,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1066,7 +1067,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-0-1a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-0-1a";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1085,7 +1086,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-0-2";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1104,7 +1105,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-0-3";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1123,7 +1124,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-0-4";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1142,7 +1143,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-0-5";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1161,7 +1162,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-0-6";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1180,7 +1181,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-0-7";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1199,7 +1200,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-0-8";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1218,7 +1219,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-0-9";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1237,7 +1238,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1266,7 +1267,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1295,7 +1296,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-1-2";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1324,7 +1325,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-1-3";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1378,7 +1379,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-1-4";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1437,7 +1438,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-1-5";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1496,7 +1497,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-1-6";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1555,7 +1556,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-1-7";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1614,7 +1615,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-1-8";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1683,7 +1684,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-1-9";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1752,7 +1753,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-2";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1811,7 +1812,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-2-1";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1870,7 +1871,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-2-2";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1929,7 +1930,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-2-3";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -1988,7 +1989,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-2-4";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -2047,7 +2048,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-2-5";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -2106,7 +2107,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-2-6";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -2165,7 +2166,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-2-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-2-7";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -2229,7 +2230,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-2-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-2-8";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -2293,7 +2294,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-2-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-2-9";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -2357,7 +2358,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-3";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -2426,7 +2427,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-3-1";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -2495,7 +2496,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-3-2-pre1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-3-2-pre1";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -2564,7 +2565,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-3-2-pre2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-3-2-pre2";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -2633,7 +2634,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-3-2";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -2712,7 +2713,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-3-3-pre1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-3-3-pre1";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -2791,7 +2792,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-3-3";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -2870,7 +2871,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-3-4-pre1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-3-4-pre1";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -2949,7 +2950,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-3-4";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -3028,7 +3029,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-3-5";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -3117,7 +3118,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-3-6";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -3206,7 +3207,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-3-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-3-7";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -3295,7 +3296,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-3-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-3-8";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -3384,7 +3385,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-3-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-3-9";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -3473,7 +3474,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-4-0";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -3562,7 +3563,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-4-1";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -3651,7 +3652,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-4-2";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -3740,7 +3741,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-4-3";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -3829,7 +3830,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-4-4";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -3918,7 +3919,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-4-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-4-5";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -4007,7 +4008,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-4-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-4-6";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -4096,7 +4097,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-4-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-4-7";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -4185,7 +4186,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-4-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-4-8";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -4274,7 +4275,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-4-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-4-9";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -4363,7 +4364,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-5-0";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -4452,7 +4453,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-5-1";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -4541,7 +4542,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-5-2";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -4630,7 +4631,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-5-3";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -4719,7 +4720,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-5-4";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -4808,7 +4809,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-5-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-5-5";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -4897,7 +4898,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-5-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-5-6";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -4986,7 +4987,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-5-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-5-7";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -5075,7 +5076,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-5-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-5-8";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -5164,7 +5165,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-5-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-5-9";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -5253,7 +5254,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-6-0";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -5342,7 +5343,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-6-1";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -5426,7 +5427,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-6-2";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -5510,7 +5511,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-6-3";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -5594,7 +5595,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-6-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-6-4";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -5678,7 +5679,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-6-5";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -5762,7 +5763,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-6-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-6-6";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -5846,7 +5847,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-6-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-6-7";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -5930,7 +5931,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-6-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-6-8";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -6014,7 +6015,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-6-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-6-9";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -6103,7 +6104,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-7-0";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -6192,7 +6193,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-7-1";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -6281,7 +6282,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-7-2";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -6370,7 +6371,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-7-3";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -6459,7 +6460,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-7-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-7-4";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -6548,7 +6549,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-7-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-7-5";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -6637,7 +6638,7 @@
       ];
     };
     suzuki-readrum-machine-instruments-rack-lua-1-7-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-readrum-machine-instruments-rack-lua-1-7-6";
       indexName = "Suzuki Scripts";
       categoryName = "ReaDrum Machine";
@@ -6726,7 +6727,7 @@
       ];
     };
     suzuki-track-template-shortcut-generator-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-track-template-shortcut-generator-lua-1-0";
       indexName = "Suzuki Scripts";
       categoryName = "Track/Track Template Shortcut Generator";
@@ -6740,7 +6741,7 @@
       ];
     };
     suzuki-track-template-shortcut-generator-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-track-template-shortcut-generator-lua-1-1";
       indexName = "Suzuki Scripts";
       categoryName = "Track/Track Template Shortcut Generator";
@@ -6754,7 +6755,7 @@
       ];
     };
     suzuki-track-template-shortcut-generator-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "suzuki-track-template-shortcut-generator-lua-1-2";
       indexName = "Suzuki Scripts";
       categoryName = "Track/Track Template Shortcut Generator";

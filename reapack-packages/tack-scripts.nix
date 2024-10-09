@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   tack-scripts = {
     meta-cc-to-program-change-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "meta-cc-to-program-change-lua-1-0";
       indexName = "Tack Scripts";
       categoryName = "MIDI";
@@ -44,7 +45,7 @@
       ];
     };
     tack-smart-record-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tack-smart-record-lua-1-0";
       indexName = "Tack Scripts";
       categoryName = "MIDI";
@@ -58,7 +59,7 @@
       ];
     };
     tack-track-exclusive-toggle-inline-editor-for-item-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tack-track-exclusive-toggle-inline-editor-for-item-under-mouse-cursor-lua-1-0";
       indexName = "Tack Scripts";
       categoryName = "MIDI";
@@ -72,7 +73,7 @@
       ];
     };
     meta-sync-midi-ccs-on-track-select-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "meta-sync-midi-ccs-on-track-select-lua-1-0";
       indexName = "Tack Scripts";
       categoryName = "Track";

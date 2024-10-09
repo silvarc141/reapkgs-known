@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   tukan = {
     december-synth-tukan-0-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-2-6";
       indexName = "Tukan";
       categoryName = "..";
@@ -199,7 +200,7 @@
       ];
     };
     december-synth-tukan-0-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-2-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -393,7 +394,7 @@
       ];
     };
     december-synth-tukan-0-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-2-4";
       indexName = "Tukan";
       categoryName = "..";
@@ -582,7 +583,7 @@
       ];
     };
     december-synth-tukan-0-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-2-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -771,7 +772,7 @@
       ];
     };
     december-synth-tukan-0-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-2-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -960,7 +961,7 @@
       ];
     };
     december-synth-tukan-0-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-2-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -1149,7 +1150,7 @@
       ];
     };
     december-synth-tukan-0-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-2-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -1338,7 +1339,7 @@
       ];
     };
     december-synth-tukan-0-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-1-9";
       indexName = "Tukan";
       categoryName = "..";
@@ -1527,7 +1528,7 @@
       ];
     };
     december-synth-tukan-0-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-1-8";
       indexName = "Tukan";
       categoryName = "..";
@@ -1716,7 +1717,7 @@
       ];
     };
     december-synth-tukan-0-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-1-7";
       indexName = "Tukan";
       categoryName = "..";
@@ -1905,7 +1906,7 @@
       ];
     };
     december-synth-tukan-0-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-1-6";
       indexName = "Tukan";
       categoryName = "..";
@@ -2094,7 +2095,7 @@
       ];
     };
     december-synth-tukan-0-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-1-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -2283,7 +2284,7 @@
       ];
     };
     december-synth-tukan-0-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-1-4";
       indexName = "Tukan";
       categoryName = "..";
@@ -2472,7 +2473,7 @@
       ];
     };
     december-synth-tukan-0-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-1-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -2661,7 +2662,7 @@
       ];
     };
     december-synth-tukan-0-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-1-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -2850,7 +2851,7 @@
       ];
     };
     december-synth-tukan-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-1-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -3039,7 +3040,7 @@
       ];
     };
     december-synth-tukan-0-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -3228,7 +3229,7 @@
       ];
     };
     december-synth-tukan-0-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-0-9";
       indexName = "Tukan";
       categoryName = "..";
@@ -3417,7 +3418,7 @@
       ];
     };
     december-synth-tukan-0-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-0-8";
       indexName = "Tukan";
       categoryName = "..";
@@ -3606,7 +3607,7 @@
       ];
     };
     december-synth-tukan-0-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-0-7";
       indexName = "Tukan";
       categoryName = "..";
@@ -3795,7 +3796,7 @@
       ];
     };
     december-synth-tukan-0-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-0-6";
       indexName = "Tukan";
       categoryName = "..";
@@ -3984,7 +3985,7 @@
       ];
     };
     december-synth-tukan-0-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-0-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -4173,7 +4174,7 @@
       ];
     };
     december-synth-tukan-0-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-0-4";
       indexName = "Tukan";
       categoryName = "..";
@@ -4362,7 +4363,7 @@
       ];
     };
     december-synth-tukan-0-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-0-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -4551,7 +4552,7 @@
       ];
     };
     december-synth-tukan-0-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-0-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -4740,7 +4741,7 @@
       ];
     };
     december-synth-tukan-0-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "december-synth-tukan-0-0-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -4929,7 +4930,7 @@
       ];
     };
     synthesizers-tukan-0-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "synthesizers-tukan-0-6-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -5128,7 +5129,7 @@
       ];
     };
     synthesizers-tukan-0-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "synthesizers-tukan-0-5-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -5302,7 +5303,7 @@
       ];
     };
     series-2-tukan-1-1-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-1-1-6-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -6876,7 +6877,7 @@
       ];
     };
     series-2-tukan-1-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-1-1-5-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -8400,7 +8401,7 @@
       ];
     };
     series-2-tukan-1-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-1-1-4-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -9909,7 +9910,7 @@
       ];
     };
     series-2-tukan-1-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-1-1-3-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -11393,7 +11394,7 @@
       ];
     };
     series-2-tukan-1-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-1-1-2-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -12872,7 +12873,7 @@
       ];
     };
     series-2-tukan-1-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-1-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -14341,7 +14342,7 @@
       ];
     };
     series-2-tukan-1-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-1-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -15800,7 +15801,7 @@
       ];
     };
     series-2-tukan-1-0-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-1-0-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -17254,7 +17255,7 @@
       ];
     };
     series-2-tukan-0-9-9-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-9-9-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -18708,7 +18709,7 @@
       ];
     };
     series-2-tukan-0-9-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-9-9";
       indexName = "Tukan";
       categoryName = "..";
@@ -19912,7 +19913,7 @@
       ];
     };
     series-2-tukan-0-9-8-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-9-8-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -21111,7 +21112,7 @@
       ];
     };
     series-2-tukan-0-9-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-9-8";
       indexName = "Tukan";
       categoryName = "..";
@@ -22290,7 +22291,7 @@
       ];
     };
     series-2-tukan-0-9-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-9-7";
       indexName = "Tukan";
       categoryName = "..";
@@ -23374,7 +23375,7 @@
       ];
     };
     series-2-tukan-0-9-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-9-6";
       indexName = "Tukan";
       categoryName = "..";
@@ -24453,7 +24454,7 @@
       ];
     };
     series-2-tukan-0-9-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-9-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -25532,7 +25533,7 @@
       ];
     };
     series-2-tukan-0-9-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-9-4";
       indexName = "Tukan";
       categoryName = "..";
@@ -26511,7 +26512,7 @@
       ];
     };
     series-2-tukan-0-9-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-9-3-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -27145,7 +27146,7 @@
       ];
     };
     series-2-tukan-0-9-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-9-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -27779,7 +27780,7 @@
       ];
     };
     series-2-tukan-0-9-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-9-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -28413,7 +28414,7 @@
       ];
     };
     series-2-tukan-0-9-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-9-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -29042,7 +29043,7 @@
       ];
     };
     series-2-tukan-0-9-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-9-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -29601,7 +29602,7 @@
       ];
     };
     series-2-tukan-0-8-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-8-6";
       indexName = "Tukan";
       categoryName = "..";
@@ -30135,7 +30136,7 @@
       ];
     };
     series-2-tukan-0-8-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-8-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -30614,7 +30615,7 @@
       ];
     };
     series-2-tukan-0-8-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-8-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -30993,7 +30994,7 @@
       ];
     };
     series-2-tukan-0-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-7-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -31307,7 +31308,7 @@
       ];
     };
     series-2-tukan-0-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-7-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -31621,7 +31622,7 @@
       ];
     };
     series-2-tukan-0-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-6-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -31875,7 +31876,7 @@
       ];
     };
     series-2-tukan-0-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-6-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -32004,7 +32005,7 @@
       ];
     };
     series-2-tukan-0-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "series-2-tukan-0-5-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -32113,7 +32114,7 @@
       ];
     };
     bustools-tukan-1-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bustools-tukan-1-5-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -32422,7 +32423,7 @@
       ];
     };
     bustools-tukan-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bustools-tukan-1-4-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -32701,7 +32702,7 @@
       ];
     };
     bustools-tukan-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bustools-tukan-1-3-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -32935,7 +32936,7 @@
       ];
     };
     bustools-tukan-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bustools-tukan-1-2-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -33149,7 +33150,7 @@
       ];
     };
     bustools-tukan-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bustools-tukan-1-1-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -33333,7 +33334,7 @@
       ];
     };
     bustools-tukan-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bustools-tukan-1-0-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -33402,7 +33403,7 @@
       ];
     };
     bustools-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bustools-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -33471,7 +33472,7 @@
       ];
     };
     tool-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tool-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -33520,7 +33521,7 @@
       ];
     };
     tool-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tool-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -33569,7 +33570,7 @@
       ];
     };
     sphinx-tukan-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sphinx-tukan-1-0-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -33608,7 +33609,7 @@
       ];
     };
     sphinx-tukan-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sphinx-tukan-1-0-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -33647,7 +33648,7 @@
       ];
     };
     sphinx-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sphinx-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -33686,7 +33687,7 @@
       ];
     };
     console-meter-tukan-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "console-meter-tukan-1-0-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -33735,7 +33736,7 @@
       ];
     };
     console-meter-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "console-meter-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -33784,7 +33785,7 @@
       ];
     };
     guitar-stuff-tukan-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "guitar-stuff-tukan-1-0-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -34193,7 +34194,7 @@
       ];
     };
     guitar-stuff-tukan-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "guitar-stuff-tukan-1-0-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -34602,7 +34603,7 @@
       ];
     };
     guitar-stuff-tukan-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "guitar-stuff-tukan-1-0-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -35011,7 +35012,7 @@
       ];
     };
     guitar-stuff-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "guitar-stuff-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -35415,7 +35416,7 @@
       ];
     };
     denoiser-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "denoiser-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -35454,7 +35455,7 @@
       ];
     };
     denoiser-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "denoiser-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -35493,7 +35494,7 @@
       ];
     };
     sumchannel-tukan-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumchannel-tukan-1-5-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -35707,7 +35708,7 @@
       ];
     };
     sumchannel-tukan-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumchannel-tukan-1-5-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -35921,7 +35922,7 @@
       ];
     };
     sumchannel-tukan-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumchannel-tukan-1-4-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -36130,7 +36131,7 @@
       ];
     };
     sumchannel-tukan-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumchannel-tukan-1-3-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -36339,7 +36340,7 @@
       ];
     };
     sumchannel-tukan-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumchannel-tukan-1-2-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -36548,7 +36549,7 @@
       ];
     };
     sumchannel-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumchannel-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -36757,7 +36758,7 @@
       ];
     };
     sumchannel-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumchannel-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -36911,7 +36912,7 @@
       ];
     };
     sumthing-tukan-0-8-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumthing-tukan-0-8-4";
       indexName = "Tukan";
       categoryName = "..";
@@ -37070,7 +37071,7 @@
       ];
     };
     sumthing-tukan-0-8-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumthing-tukan-0-8-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -37229,7 +37230,7 @@
       ];
     };
     sumthing-tukan-0-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumthing-tukan-0-8-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -37388,7 +37389,7 @@
       ];
     };
     sumthing-tukan-0-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumthing-tukan-0-8-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -37547,7 +37548,7 @@
       ];
     };
     sumthing-tukan-0-8-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumthing-tukan-0-8-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -37701,7 +37702,7 @@
       ];
     };
     sumthing-tukan-0-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumthing-tukan-0-7-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -37855,7 +37856,7 @@
       ];
     };
     sumthing-tukan-0-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumthing-tukan-0-7-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -37999,7 +38000,7 @@
       ];
     };
     sumthing-tukan-0-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sumthing-tukan-0-5-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -38108,7 +38109,7 @@
       ];
     };
     d-treasure-tukan-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "d-treasure-tukan-1-0-6";
       indexName = "Tukan";
       categoryName = "..";
@@ -38202,7 +38203,7 @@
       ];
     };
     d-treasure-tukan-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "d-treasure-tukan-1-0-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -38296,7 +38297,7 @@
       ];
     };
     d-treasure-tukan-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "d-treasure-tukan-1-0-4";
       indexName = "Tukan";
       categoryName = "..";
@@ -38385,7 +38386,7 @@
       ];
     };
     d-treasure-tukan-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "d-treasure-tukan-1-0-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -38474,7 +38475,7 @@
       ];
     };
     d-treasure-tukan-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "d-treasure-tukan-1-0-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -38563,7 +38564,7 @@
       ];
     };
     d-treasure-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "d-treasure-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -38627,7 +38628,7 @@
       ];
     };
     meter-tukan-1-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "meter-tukan-1-1-9";
       indexName = "Tukan";
       categoryName = "..";
@@ -38751,7 +38752,7 @@
       ];
     };
     meter-tukan-1-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "meter-tukan-1-1-8";
       indexName = "Tukan";
       categoryName = "..";
@@ -38875,7 +38876,7 @@
       ];
     };
     meter-tukan-1-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "meter-tukan-1-1-7";
       indexName = "Tukan";
       categoryName = "..";
@@ -38999,7 +39000,7 @@
       ];
     };
     meter-tukan-1-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "meter-tukan-1-1-6";
       indexName = "Tukan";
       categoryName = "..";
@@ -39108,7 +39109,7 @@
       ];
     };
     meter-tukan-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "meter-tukan-1-1-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -39167,7 +39168,7 @@
       ];
     };
     meter-tukan-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "meter-tukan-1-1-4";
       indexName = "Tukan";
       categoryName = "..";
@@ -39226,7 +39227,7 @@
       ];
     };
     meter-tukan-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "meter-tukan-1-1-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -39280,7 +39281,7 @@
       ];
     };
     meter-tukan-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "meter-tukan-1-1-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -39329,7 +39330,7 @@
       ];
     };
     meter-tukan-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "meter-tukan-1-1-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -39368,7 +39369,7 @@
       ];
     };
     meter-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "meter-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -39387,7 +39388,7 @@
       ];
     };
     nc76-tukan-1-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nc76-tukan-1-1-6";
       indexName = "Tukan";
       categoryName = "..";
@@ -39466,7 +39467,7 @@
       ];
     };
     nc76-tukan-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nc76-tukan-1-1-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -39545,7 +39546,7 @@
       ];
     };
     nc76-tukan-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nc76-tukan-1-1-4";
       indexName = "Tukan";
       categoryName = "..";
@@ -39624,7 +39625,7 @@
       ];
     };
     nc76-tukan-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nc76-tukan-1-1-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -39683,7 +39684,7 @@
       ];
     };
     nc76-tukan-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nc76-tukan-1-1-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -39737,7 +39738,7 @@
       ];
     };
     nc76-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nc76-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -39786,7 +39787,7 @@
       ];
     };
     nc76-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nc76-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -39830,7 +39831,7 @@
       ];
     };
     delaymachine-tukan-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "delaymachine-tukan-1-1-4";
       indexName = "Tukan";
       categoryName = "..";
@@ -39944,7 +39945,7 @@
       ];
     };
     delaymachine-tukan-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "delaymachine-tukan-1-1-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -40053,7 +40054,7 @@
       ];
     };
     delaymachine-tukan-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "delaymachine-tukan-1-1-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -40162,7 +40163,7 @@
       ];
     };
     delaymachine-tukan-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "delaymachine-tukan-1-1-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -40271,7 +40272,7 @@
       ];
     };
     delaymachine-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "delaymachine-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -40380,7 +40381,7 @@
       ];
     };
     delaymachine-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "delaymachine-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -40489,7 +40490,7 @@
       ];
     };
     eq-1-1-tukan-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "eq-1-1-tukan-1-1-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -40608,7 +40609,7 @@
       ];
     };
     eq-1-1-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "eq-1-1-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -40722,7 +40723,7 @@
       ];
     };
     eqt-1a-tukan-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "eqt-1a-tukan-1-1-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -40761,7 +40762,7 @@
       ];
     };
     eqt-1a-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "eqt-1a-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -40800,7 +40801,7 @@
       ];
     };
     eqt-1a-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "eqt-1a-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -40839,7 +40840,7 @@
       ];
     };
     exciterplussub-tukan-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "exciterplussub-tukan-1-1-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -40918,7 +40919,7 @@
       ];
     };
     exciterplussub-tukan-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "exciterplussub-tukan-1-1-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -40992,7 +40993,7 @@
       ];
     };
     exciterplussub-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "exciterplussub-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -41066,7 +41067,7 @@
       ];
     };
     exciterplussub-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "exciterplussub-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -41140,7 +41141,7 @@
       ];
     };
     expgate-2-tukan-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "expgate-2-tukan-1-1-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -41229,7 +41230,7 @@
       ];
     };
     expgate-2-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "expgate-2-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -41313,7 +41314,7 @@
       ];
     };
     la-1a-tukan-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "la-1a-tukan-1-7";
       indexName = "Tukan";
       categoryName = "..";
@@ -41367,7 +41368,7 @@
       ];
     };
     la-1a-tukan-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "la-1a-tukan-1-6";
       indexName = "Tukan";
       categoryName = "..";
@@ -41421,7 +41422,7 @@
       ];
     };
     la-1a-tukan-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "la-1a-tukan-1-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -41475,7 +41476,7 @@
       ];
     };
     la-1a-tukan-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "la-1a-tukan-1-4";
       indexName = "Tukan";
       categoryName = "..";
@@ -41524,7 +41525,7 @@
       ];
     };
     la-1a-tukan-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "la-1a-tukan-1-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -41573,7 +41574,7 @@
       ];
     };
     la-1a-tukan-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "la-1a-tukan-1-1-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -41622,7 +41623,7 @@
       ];
     };
     la-1a-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "la-1a-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -41666,7 +41667,7 @@
       ];
     };
     la-1a-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "la-1a-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -41705,7 +41706,7 @@
       ];
     };
     tukan-reverb-bundle-tukan-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tukan-reverb-bundle-tukan-1-1-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -41939,7 +41940,7 @@
       ];
     };
     tukan-reverb-bundle-tukan-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tukan-reverb-bundle-tukan-1-1-4";
       indexName = "Tukan";
       categoryName = "..";
@@ -42118,7 +42119,7 @@
       ];
     };
     tukan-reverb-bundle-tukan-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tukan-reverb-bundle-tukan-1-1-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -42297,7 +42298,7 @@
       ];
     };
     tukan-reverb-bundle-tukan-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tukan-reverb-bundle-tukan-1-1-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -42476,7 +42477,7 @@
       ];
     };
     tukan-reverb-bundle-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tukan-reverb-bundle-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -42650,7 +42651,7 @@
       ];
     };
     tukan-reverb-bundle-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tukan-reverb-bundle-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -42824,7 +42825,7 @@
       ];
     };
     modulation-tukan-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "modulation-tukan-1-5-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -42983,7 +42984,7 @@
       ];
     };
     modulation-tukan-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "modulation-tukan-1-4-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -43142,7 +43143,7 @@
       ];
     };
     modulation-tukan-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "modulation-tukan-1-3-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -43301,7 +43302,7 @@
       ];
     };
     modulation-tukan-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "modulation-tukan-1-2-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -43365,7 +43366,7 @@
       ];
     };
     modulation-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "modulation-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -43424,7 +43425,7 @@
       ];
     };
     modulation-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "modulation-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -43483,7 +43484,7 @@
       ];
     };
     preamp-tukan-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "preamp-tukan-1-2-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -43537,7 +43538,7 @@
       ];
     };
     preamp-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "preamp-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -43586,7 +43587,7 @@
       ];
     };
     preamp-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "preamp-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -43635,7 +43636,7 @@
       ];
     };
     goniometer-tukan-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "goniometer-tukan-1-1-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -43664,7 +43665,7 @@
       ];
     };
     goniometer-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "goniometer-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -43693,7 +43694,7 @@
       ];
     };
     goniometer-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "goniometer-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -43722,7 +43723,7 @@
       ];
     };
     tape-tukan-1-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tape-tukan-1-1-6";
       indexName = "Tukan";
       categoryName = "..";
@@ -43841,7 +43842,7 @@
       ];
     };
     tape-tukan-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tape-tukan-1-1-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -43955,7 +43956,7 @@
       ];
     };
     tape-tukan-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tape-tukan-1-1-4";
       indexName = "Tukan";
       categoryName = "..";
@@ -44069,7 +44070,7 @@
       ];
     };
     tape-tukan-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tape-tukan-1-1-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -44163,7 +44164,7 @@
       ];
     };
     tape-tukan-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tape-tukan-1-1-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -44252,7 +44253,7 @@
       ];
     };
     tape-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tape-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -44336,7 +44337,7 @@
       ];
     };
     tape-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tape-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -44415,7 +44416,7 @@
       ];
     };
     compressor-2-tukan-1-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "compressor-2-tukan-1-1-8";
       indexName = "Tukan";
       categoryName = "..";
@@ -44524,7 +44525,7 @@
       ];
     };
     compressor-2-tukan-1-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "compressor-2-tukan-1-1-7";
       indexName = "Tukan";
       categoryName = "..";
@@ -44633,7 +44634,7 @@
       ];
     };
     compressor-2-tukan-1-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "compressor-2-tukan-1-1-6";
       indexName = "Tukan";
       categoryName = "..";
@@ -44742,7 +44743,7 @@
       ];
     };
     compressor-2-tukan-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "compressor-2-tukan-1-1-5";
       indexName = "Tukan";
       categoryName = "..";
@@ -44851,7 +44852,7 @@
       ];
     };
     compressor-2-tukan-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "compressor-2-tukan-1-1-4";
       indexName = "Tukan";
       categoryName = "..";
@@ -44960,7 +44961,7 @@
       ];
     };
     compressor-2-tukan-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "compressor-2-tukan-1-1-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -45064,7 +45065,7 @@
       ];
     };
     compressor-2-tukan-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "compressor-2-tukan-1-1-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -45148,7 +45149,7 @@
       ];
     };
     compressor-2-tukan-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "compressor-2-tukan-1-1-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -45207,7 +45208,7 @@
       ];
     };
     compressor-2-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "compressor-2-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -45261,7 +45262,7 @@
       ];
     };
     compressor-2-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "compressor-2-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -45310,7 +45311,7 @@
       ];
     };
     envelope-tukan-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "envelope-tukan-1-1-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -45379,7 +45380,7 @@
       ];
     };
     envelope-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "envelope-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -45443,7 +45444,7 @@
       ];
     };
     envelope-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "envelope-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -45507,7 +45508,7 @@
       ];
     };
     limiter-2-tukan-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "limiter-2-tukan-1-1-3";
       indexName = "Tukan";
       categoryName = "..";
@@ -45566,7 +45567,7 @@
       ];
     };
     limiter-2-tukan-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "limiter-2-tukan-1-1-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -45620,7 +45621,7 @@
       ];
     };
     limiter-2-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "limiter-2-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -45674,7 +45675,7 @@
       ];
     };
     limiter-2-tukan-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "limiter-2-tukan-1-0-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -45728,7 +45729,7 @@
       ];
     };
     delaymachine2-tukan-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "delaymachine2-tukan-1-1-2";
       indexName = "Tukan";
       categoryName = "..";
@@ -45807,7 +45808,7 @@
       ];
     };
     delaymachine2-tukan-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "delaymachine2-tukan-1-1-1";
       indexName = "Tukan";
       categoryName = "..";
@@ -45881,7 +45882,7 @@
       ];
     };
     delaymachine2-tukan-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "delaymachine2-tukan-1-1-0";
       indexName = "Tukan";
       categoryName = "..";
@@ -45955,7 +45956,7 @@
       ];
     };
     delaymachine2-tukan-0-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "delaymachine2-tukan-0-7-0";
       indexName = "Tukan";
       categoryName = "..";

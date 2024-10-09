@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   n0ne-scripts = {
     n0ne-fast-fx-finder-lua-0-7-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "n0ne-fast-fx-finder-lua-0-7-15";
       indexName = "n0ne scripts";
       categoryName = "Various/FX Finder";
@@ -89,7 +90,7 @@
       ];
     };
     n0ne-fast-fx-finder-lua-0-7-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "n0ne-fast-fx-finder-lua-0-7-16";
       indexName = "n0ne scripts";
       categoryName = "Various/FX Finder";
@@ -173,7 +174,7 @@
       ];
     };
     n0ne-fast-fx-finder-lua-0-7-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "n0ne-fast-fx-finder-lua-0-7-17";
       indexName = "n0ne scripts";
       categoryName = "Various/FX Finder";
@@ -257,7 +258,7 @@
       ];
     };
     n0ne-fast-fx-finder-lua-0-7-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "n0ne-fast-fx-finder-lua-0-7-18";
       indexName = "n0ne scripts";
       categoryName = "Various/FX Finder";
@@ -341,7 +342,7 @@
       ];
     };
     n0ne-fast-fx-finder-lua-0-7-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "n0ne-fast-fx-finder-lua-0-7-19";
       indexName = "n0ne scripts";
       categoryName = "Various/FX Finder";
@@ -425,7 +426,7 @@
       ];
     };
     n0ne-fast-fx-finder-lua-0-7-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "n0ne-fast-fx-finder-lua-0-7-20";
       indexName = "n0ne scripts";
       categoryName = "Various/FX Finder";
@@ -509,7 +510,7 @@
       ];
     };
     n0ne-fast-fx-finder-lua-0-7-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "n0ne-fast-fx-finder-lua-0-7-21";
       indexName = "n0ne scripts";
       categoryName = "Various/FX Finder";
@@ -593,7 +594,7 @@
       ];
     };
     n0ne-fast-fx-finder-lua-0-7-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "n0ne-fast-fx-finder-lua-0-7-22";
       indexName = "n0ne scripts";
       categoryName = "Various/FX Finder";
@@ -677,7 +678,7 @@
       ];
     };
     n0ne-fast-fx-finder-lua-0-7-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "n0ne-fast-fx-finder-lua-0-7-23";
       indexName = "n0ne scripts";
       categoryName = "Various/FX Finder";
@@ -761,7 +762,7 @@
       ];
     };
     n0ne-fast-fx-finder-lua-0-7-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "n0ne-fast-fx-finder-lua-0-7-24";
       indexName = "n0ne scripts";
       categoryName = "Various/FX Finder";
@@ -845,7 +846,7 @@
       ];
     };
     n0ne-fast-fx-finder-lua-0-7-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "n0ne-fast-fx-finder-lua-0-7-25";
       indexName = "n0ne scripts";
       categoryName = "Various/FX Finder";
@@ -929,7 +930,7 @@
       ];
     };
     n0ne-fast-fx-finder-lua-0-7-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "n0ne-fast-fx-finder-lua-0-7-26";
       indexName = "n0ne scripts";
       categoryName = "Various/FX Finder";
@@ -1013,7 +1014,7 @@
       ];
     };
     n0ne-fast-fx-finder-lua-0-7-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "n0ne-fast-fx-finder-lua-0-7-27";
       indexName = "n0ne scripts";
       categoryName = "Various/FX Finder";
@@ -1097,7 +1098,7 @@
       ];
     };
     n0ne-fast-fx-finder-lua-0-7-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "n0ne-fast-fx-finder-lua-0-7-28";
       indexName = "n0ne scripts";
       categoryName = "Various/FX Finder";

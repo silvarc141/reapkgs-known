@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   audiokinetic = {
     reawwise-ext-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reawwise-ext-1-0-1";
       indexName = "Audiokinetic";
       categoryName = "Extensions";
@@ -24,7 +25,7 @@
       ];
     };
     reawwise-ext-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reawwise-ext-1-0-2";
       indexName = "Audiokinetic";
       categoryName = "Extensions";
@@ -43,7 +44,7 @@
       ];
     };
     reawwise-ext-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reawwise-ext-1-0-3";
       indexName = "Audiokinetic";
       categoryName = "Extensions";
@@ -62,7 +63,7 @@
       ];
     };
     reawwise-ext-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reawwise-ext-1-0-4";
       indexName = "Audiokinetic";
       categoryName = "Extensions";
@@ -81,7 +82,7 @@
       ];
     };
     reawwise-ext-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reawwise-ext-1-0-5";
       indexName = "Audiokinetic";
       categoryName = "Extensions";
@@ -100,7 +101,7 @@
       ];
     };
     reawwise-ext-1-0-6a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reawwise-ext-1-0-6a";
       indexName = "Audiokinetic";
       categoryName = "Extensions";
@@ -119,7 +120,7 @@
       ];
     };
     openassociatedreaperproject-lua-1-0-0-rc-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "openassociatedreaperproject-lua-1-0-0-rc-1";
       indexName = "Audiokinetic";
       categoryName = "OpenAssociatedReaperProject";
@@ -143,7 +144,7 @@
       ];
     };
     openassociatedreaperproject-lua-1-0-0-rc-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "openassociatedreaperproject-lua-1-0-0-rc-2";
       indexName = "Audiokinetic";
       categoryName = "OpenAssociatedReaperProject";
@@ -167,7 +168,7 @@
       ];
     };
     openassociatedreaperproject-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "openassociatedreaperproject-lua-1-0-0";
       indexName = "Audiokinetic";
       categoryName = "OpenAssociatedReaperProject";
@@ -191,7 +192,7 @@
       ];
     };
     strata-copy-selection-to-next-project-lua-1-0-2a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "strata-copy-selection-to-next-project-lua-1-0-2a";
       indexName = "Audiokinetic";
       categoryName = "Scripts";
@@ -205,7 +206,7 @@
       ];
     };
     strata-copy-selection-to-next-project-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "strata-copy-selection-to-next-project-lua-1-0-2";
       indexName = "Audiokinetic";
       categoryName = "Scripts";
@@ -219,7 +220,7 @@
       ];
     };
     strata-open-associated-strata-project-from-selected-audio-file-lua-1-0-0-rc-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "strata-open-associated-strata-project-from-selected-audio-file-lua-1-0-0-rc-1";
       indexName = "Audiokinetic";
       categoryName = "Scripts";
@@ -233,7 +234,7 @@
       ];
     };
     strata-open-associated-strata-project-from-selected-audio-file-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "strata-open-associated-strata-project-from-selected-audio-file-lua-1-1-0";
       indexName = "Audiokinetic";
       categoryName = "Scripts";

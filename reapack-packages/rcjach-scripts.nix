@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   rcjach-scripts = {
     rcjach-delete-content-under-mouse-contextual-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-delete-content-under-mouse-contextual-lua-1-0";
       indexName = "RCJacH Scripts";
       categoryName = "Item Editing";
@@ -19,7 +20,7 @@
       ];
     };
     rcjach-glue-selected-items-preserve-first-item-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-glue-selected-items-preserve-first-item-name-lua-1-0";
       indexName = "RCJacH Scripts";
       categoryName = "Item Editing";
@@ -33,7 +34,7 @@
       ];
     };
     rcjach-quick-add-or-edit-take-marker-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-quick-add-or-edit-take-marker-under-mouse-cursor-lua-1-0";
       indexName = "RCJacH Scripts";
       categoryName = "Item Editing";
@@ -47,7 +48,7 @@
       ];
     };
     rcjach-select-tracks-with-regex-lua-1-0a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-select-tracks-with-regex-lua-1-0a";
       indexName = "RCJacH Scripts";
       categoryName = "Item Editing";
@@ -61,7 +62,7 @@
       ];
     };
     rcjach-split-items-under-mouse-cursor-obey-snapping-and-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-split-items-under-mouse-cursor-obey-snapping-and-selection-lua-1-0";
       indexName = "RCJacH Scripts";
       categoryName = "Item Editing";
@@ -75,7 +76,7 @@
       ];
     };
     rcjach-spread-items-horizontally-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-spread-items-horizontally-lua-1-0";
       indexName = "RCJacH Scripts";
       categoryName = "Item Editing";
@@ -89,7 +90,7 @@
       ];
     };
     ab-comparison-1innout-stereo-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ab-comparison-1innout-stereo-jsfx-1-2";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -103,7 +104,7 @@
       ];
     };
     ab-comparison-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ab-comparison-jsfx-1-0";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -117,7 +118,7 @@
       ];
     };
     ab-comparison-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ab-comparison-jsfx-1-1";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -131,7 +132,7 @@
       ];
     };
     noisebuzz-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "noisebuzz-jsfx-1-0";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -145,7 +146,7 @@
       ];
     };
     rcbitrangegain-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcbitrangegain-jsfx-1-1";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -159,7 +160,7 @@
       ];
     };
     rcbitrangegain-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcbitrangegain-jsfx-1-3";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -173,7 +174,7 @@
       ];
     };
     rceverygain-jsfx-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rceverygain-jsfx-1-5";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -187,7 +188,7 @@
       ];
     };
     rcinflator-jsfx-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcinflator-jsfx-0-2";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -201,7 +202,7 @@
       ];
     };
     rcinflator-jsfx-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcinflator-jsfx-0-4";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -215,7 +216,7 @@
       ];
     };
     rcinflator-jsfx-0-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcinflator-jsfx-0-5-2";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -229,7 +230,7 @@
       ];
     };
     rcinflator-jsfx-0-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcinflator-jsfx-0-5-3";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -243,7 +244,7 @@
       ];
     };
     rcinflator-jsfx-0-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcinflator-jsfx-0-5-4";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -257,7 +258,7 @@
       ];
     };
     rcinflator-jsfx-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcinflator-jsfx-0-6";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -271,7 +272,7 @@
       ];
     };
     rcnoisebuzz-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcnoisebuzz-jsfx-1-1";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -285,7 +286,7 @@
       ];
     };
     rcnoisebuzz-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcnoisebuzz-jsfx-1-3";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Audio";
@@ -299,7 +300,7 @@
       ];
     };
     rcmship-perfect-pitch-jsfx-1-0rc1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcmship-perfect-pitch-jsfx-1-0rc1";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Game";
@@ -313,7 +314,7 @@
       ];
     };
     midi-cc-eater-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-cc-eater-jsfx-1-0";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -327,7 +328,7 @@
       ];
     };
     midi-note-beat-repeater-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-note-beat-repeater-jsfx-1-1";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -341,7 +342,7 @@
       ];
     };
     rc-midi-channel-router-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rc-midi-channel-router-jsfx-1-0";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -355,7 +356,7 @@
       ];
     };
     rc-midi-channel-router-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rc-midi-channel-router-jsfx-1-1";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -369,7 +370,7 @@
       ];
     };
     rc-midi-channel-router-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rc-midi-channel-router-jsfx-1-1-1";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -383,7 +384,7 @@
       ];
     };
     rc-midi-channel-router-jsfx-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rc-midi-channel-router-jsfx-1-1-2";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -397,7 +398,7 @@
       ];
     };
     rc-midi-channel-router-jsfx-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rc-midi-channel-router-jsfx-1-1-3";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -411,7 +412,7 @@
       ];
     };
     rc-midi-circular-note-generator-jsfx-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rc-midi-circular-note-generator-jsfx-0-1";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -425,7 +426,7 @@
       ];
     };
     rc-midi-circular-note-generator-jsfx-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rc-midi-circular-note-generator-jsfx-0-3";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -439,7 +440,7 @@
       ];
     };
     rc-midi-circular-note-generator-jsfx-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rc-midi-circular-note-generator-jsfx-0-4";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -453,7 +454,7 @@
       ];
     };
     rc-midi-circular-note-generator-jsfx-0-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rc-midi-circular-note-generator-jsfx-0-4-1";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -467,7 +468,7 @@
       ];
     };
     rc-midi-circular-note-generator-jsfx-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rc-midi-circular-note-generator-jsfx-0-5";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -481,7 +482,7 @@
       ];
     };
     rc-midi-circular-note-generator-jsfx-0-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rc-midi-circular-note-generator-jsfx-0-5-1";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -495,7 +496,7 @@
       ];
     };
     rc-midi-circular-note-generator-jsfx-0-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rc-midi-circular-note-generator-jsfx-0-5-2";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -509,7 +510,7 @@
       ];
     };
     rc-midi-circular-note-generator-jsfx-0-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rc-midi-circular-note-generator-jsfx-0-5-3";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -523,7 +524,7 @@
       ];
     };
     rc-midi-harmonizer-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rc-midi-harmonizer-jsfx-1-0-0";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/MIDI";
@@ -537,7 +538,7 @@
       ];
     };
     tone-sweep-jsfx-1-0rc2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tone-sweep-jsfx-1-0rc2";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Synth";
@@ -551,7 +552,7 @@
       ];
     };
     tone-sweep-jsfx-1-0rc2a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tone-sweep-jsfx-1-0rc2a";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Synth";
@@ -565,7 +566,7 @@
       ];
     };
     rcautopanner-jsfx-1-0pre1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcautopanner-jsfx-1-0pre1";
       indexName = "RCJacH Scripts";
       categoryName = "JSFX/Synth/ReaModular";
@@ -579,7 +580,7 @@
       ];
     };
     rcjach-midi-humanizer-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-midi-humanizer-lua-0-1";
       indexName = "RCJacH Scripts";
       categoryName = "MIDI Editor";
@@ -593,7 +594,7 @@
       ];
     };
     rcjach-split-notes-at-mouse-cursor-obey-snapping-and-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-split-notes-at-mouse-cursor-obey-snapping-and-selection-lua-1-0";
       indexName = "RCJacH Scripts";
       categoryName = "MIDI Editor";
@@ -607,7 +608,7 @@
       ];
     };
     rcjach-split-notes-at-mouse-cursor-obey-snapping-and-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-split-notes-at-mouse-cursor-obey-snapping-and-selection-lua-1-1";
       indexName = "RCJacH Scripts";
       categoryName = "MIDI Editor";
@@ -621,7 +622,7 @@
       ];
     };
     rcjach-split-notes-at-mouse-cursor-obey-snapping-and-selection-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-split-notes-at-mouse-cursor-obey-snapping-and-selection-lua-1-1-1";
       indexName = "RCJacH Scripts";
       categoryName = "MIDI Editor";
@@ -635,7 +636,7 @@
       ];
     };
     rcjach-split-notes-at-mouse-cursor-obey-snapping-and-selection-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-split-notes-at-mouse-cursor-obey-snapping-and-selection-lua-1-1-2";
       indexName = "RCJacH Scripts";
       categoryName = "MIDI Editor";
@@ -649,7 +650,7 @@
       ];
     };
     rcjach-split-notes-at-mouse-cursor-obey-snapping-and-selection-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-split-notes-at-mouse-cursor-obey-snapping-and-selection-lua-1-2";
       indexName = "RCJacH Scripts";
       categoryName = "MIDI Editor";
@@ -663,7 +664,7 @@
       ];
     };
     rcjach-split-notes-at-mouse-cursor-obey-snapping-and-selection-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-split-notes-at-mouse-cursor-obey-snapping-and-selection-lua-1-2-1";
       indexName = "RCJacH Scripts";
       categoryName = "MIDI Editor";
@@ -677,7 +678,7 @@
       ];
     };
     rcjach-split-notes-at-mouse-cursor-obey-snapping-and-selection-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-split-notes-at-mouse-cursor-obey-snapping-and-selection-lua-1-2-2";
       indexName = "RCJacH Scripts";
       categoryName = "MIDI Editor";
@@ -691,7 +692,7 @@
       ];
     };
     rcjach-set-airwindows-console-trackfx-pin-mapping-lua-1-0a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-set-airwindows-console-trackfx-pin-mapping-lua-1-0a";
       indexName = "RCJacH Scripts";
       categoryName = "Templating";
@@ -705,7 +706,7 @@
       ];
     };
     rcjach-set-parent-send-channel-offset-of-selected-tracks-lua-1-0a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-set-parent-send-channel-offset-of-selected-tracks-lua-1-0a";
       indexName = "RCJacH Scripts";
       categoryName = "Track Properties";
@@ -719,7 +720,7 @@
       ];
     };
     rcjach-set-parent-send-channel-offset-to-sequentially-stereos-for-selected-tracks-lua-1-0a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-set-parent-send-channel-offset-to-sequentially-stereos-for-selected-tracks-lua-1-0a";
       indexName = "RCJacH Scripts";
       categoryName = "Track Properties";
@@ -733,7 +734,7 @@
       ];
     };
     rcjach-generate-lrc-lyrics-and-export-to-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-generate-lrc-lyrics-and-export-to-clipboard-lua-1-0";
       indexName = "RCJacH Scripts";
       categoryName = "Various";
@@ -747,7 +748,7 @@
       ];
     };
     rcjach-vimper-solo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-vimper-solo-lua-1-0";
       indexName = "RCJacH Scripts";
       categoryName = "Various/Vimper Solo";

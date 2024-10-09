@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   helgoboss-projects = {
     midi-fighter-twister-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-fighter-twister-2-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -19,7 +20,7 @@
       ];
     };
     midi-fighter-twister-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-fighter-twister-1-1-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -33,7 +34,7 @@
       ];
     };
     midi-fighter-twister-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-fighter-twister-1-0-2";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -47,7 +48,7 @@
       ];
     };
     midi-fighter-twister-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-fighter-twister-1-0-1";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -61,7 +62,7 @@
       ];
     };
     midi-fighter-twister-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-fighter-twister-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -75,7 +76,7 @@
       ];
     };
     midi-fighter-twister-bank-2-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-fighter-twister-bank-2-2-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -89,7 +90,7 @@
       ];
     };
     midi-fighter-twister-bank-2-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-fighter-twister-bank-2-1-1-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -103,7 +104,7 @@
       ];
     };
     midi-fighter-twister-bank-2-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-fighter-twister-bank-2-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -117,7 +118,7 @@
       ];
     };
     apc-key-25-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "apc-key-25-1-1-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -131,7 +132,7 @@
       ];
     };
     apc-key-25-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "apc-key-25-1-0-1";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -145,7 +146,7 @@
       ];
     };
     apc-key-25-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "apc-key-25-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -159,7 +160,7 @@
       ];
     };
     icon-platform-m-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "icon-platform-m-3-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -173,7 +174,7 @@
       ];
     };
     icon-platform-m-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "icon-platform-m-2-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -187,7 +188,7 @@
       ];
     };
     icon-platform-m-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "icon-platform-m-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -201,7 +202,7 @@
       ];
     };
     launchpad-pro-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "launchpad-pro-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -215,7 +216,7 @@
       ];
     };
     launchpad-pro-1-0-0-pre1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "launchpad-pro-1-0-0-pre1";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -229,7 +230,7 @@
       ];
     };
     x-touch-compact-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-touch-compact-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -243,7 +244,7 @@
       ];
     };
     x-touch-compact-1-0-0-pre1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-touch-compact-1-0-0-pre1";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -257,7 +258,7 @@
       ];
     };
     x-touch-compact-layer-b-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-touch-compact-layer-b-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -271,7 +272,7 @@
       ];
     };
     x-touch-compact-layer-b-1-0-0-pre1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-touch-compact-layer-b-1-0-0-pre1";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -285,7 +286,7 @@
       ];
     };
     mackie-control-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mackie-control-3-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -299,7 +300,7 @@
       ];
     };
     mackie-control-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mackie-control-2-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -313,7 +314,7 @@
       ];
     };
     mackie-control-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mackie-control-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -327,7 +328,7 @@
       ];
     };
     mackie-control-1-0-0-pre1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mackie-control-1-0-0-pre1";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -341,7 +342,7 @@
       ];
     };
     faderport-8-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "faderport-8-1-1-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -355,7 +356,7 @@
       ];
     };
     faderport-8-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "faderport-8-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -369,7 +370,7 @@
       ];
     };
     faderport-classic-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "faderport-classic-1-1-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -383,7 +384,7 @@
       ];
     };
     faderport-classic-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "faderport-classic-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -397,7 +398,7 @@
       ];
     };
     keylab-mkii-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "keylab-mkii-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -411,7 +412,7 @@
       ];
     };
     minilab-mkii-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "minilab-mkii-1-1-1";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -425,7 +426,7 @@
       ];
     };
     minilab-mkii-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "minilab-mkii-1-1-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -439,7 +440,7 @@
       ];
     };
     minilab-mkii-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "minilab-mkii-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -453,7 +454,7 @@
       ];
     };
     nord-stage-3-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nord-stage-3-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -467,7 +468,7 @@
       ];
     };
     pad-kontrol-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pad-kontrol-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -481,7 +482,7 @@
       ];
     };
     uc-33-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "uc-33-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn controller presets";
@@ -495,7 +496,7 @@
       ];
     };
     daw-control-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daw-control-2-0-2";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn main presets";
@@ -509,7 +510,7 @@
       ];
     };
     daw-control-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daw-control-2-0-1";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn main presets";
@@ -523,7 +524,7 @@
       ];
     };
     daw-control-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daw-control-2-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn main presets";
@@ -537,7 +538,7 @@
       ];
     };
     daw-control-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daw-control-1-0-0";
       indexName = "Helgoboss Projects";
       categoryName = "ReaLearn main presets";
@@ -551,7 +552,7 @@
       ];
     };
     realearn-x64-2-16-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-10";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -645,7 +646,7 @@
       ];
     };
     realearn-x64-2-16-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -739,7 +740,7 @@
       ];
     };
     realearn-x64-2-16-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-8";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -833,7 +834,7 @@
       ];
     };
     realearn-x64-2-16-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -927,7 +928,7 @@
       ];
     };
     realearn-x64-2-16-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -1021,7 +1022,7 @@
       ];
     };
     realearn-x64-2-16-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -1115,7 +1116,7 @@
       ];
     };
     realearn-x64-2-16-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -1209,7 +1210,7 @@
       ];
     };
     realearn-x64-2-16-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -1303,7 +1304,7 @@
       ];
     };
     realearn-x64-2-16-0-pre-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-0-pre-18";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -1397,7 +1398,7 @@
       ];
     };
     realearn-x64-2-16-0-pre-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-0-pre-17";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -1491,7 +1492,7 @@
       ];
     };
     realearn-x64-2-16-0-pre-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-0-pre-15";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -1585,7 +1586,7 @@
       ];
     };
     realearn-x64-2-16-0-pre-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-0-pre-14";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -1679,7 +1680,7 @@
       ];
     };
     realearn-x64-2-16-0-pre-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-0-pre-13";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -1773,7 +1774,7 @@
       ];
     };
     realearn-x64-2-16-0-pre-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-0-pre-9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -1867,7 +1868,7 @@
       ];
     };
     realearn-x64-2-16-0-pre-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-0-pre-7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -1916,7 +1917,7 @@
       ];
     };
     realearn-x64-2-16-0-pre-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-0-pre-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -1965,7 +1966,7 @@
       ];
     };
     realearn-x64-2-16-0-pre-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-0-pre-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2014,7 +2015,7 @@
       ];
     };
     realearn-x64-2-16-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2063,7 +2064,7 @@
       ];
     };
     realearn-x64-2-15-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-15-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2112,7 +2113,7 @@
       ];
     };
     realearn-x64-2-15-0-pre-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-15-0-pre-7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2161,7 +2162,7 @@
       ];
     };
     realearn-x64-2-15-0-pre-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-15-0-pre-6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2210,7 +2211,7 @@
       ];
     };
     realearn-x64-2-15-0-pre-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-15-0-pre-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2259,7 +2260,7 @@
       ];
     };
     realearn-x64-2-15-0-pre-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-15-0-pre-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2308,7 +2309,7 @@
       ];
     };
     realearn-x64-2-15-0-pre-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-15-0-pre-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2392,7 +2393,7 @@
       ];
     };
     realearn-x64-2-15-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-15-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2476,7 +2477,7 @@
       ];
     };
     realearn-x64-2-14-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-14-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2560,7 +2561,7 @@
       ];
     };
     realearn-x64-2-14-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-14-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2644,7 +2645,7 @@
       ];
     };
     realearn-x64-2-14-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-14-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2728,7 +2729,7 @@
       ];
     };
     realearn-x64-2-14-0-pre-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-14-0-pre-11";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2812,7 +2813,7 @@
       ];
     };
     realearn-x64-2-14-0-pre-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-14-0-pre-10";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2896,7 +2897,7 @@
       ];
     };
     realearn-x64-2-14-0-pre-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-14-0-pre-9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -2980,7 +2981,7 @@
       ];
     };
     realearn-x64-2-14-0-pre-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-14-0-pre-7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -3064,7 +3065,7 @@
       ];
     };
     realearn-x64-2-14-0-pre-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-14-0-pre-6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -3148,7 +3149,7 @@
       ];
     };
     realearn-x64-2-14-0-pre-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-14-0-pre-5";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -3232,7 +3233,7 @@
       ];
     };
     realearn-x64-2-14-0-pre-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-14-0-pre-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -3316,7 +3317,7 @@
       ];
     };
     realearn-x64-2-14-0-pre-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-14-0-pre-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -3400,7 +3401,7 @@
       ];
     };
     realearn-x64-2-14-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-14-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -3484,7 +3485,7 @@
       ];
     };
     realearn-x64-2-13-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-13-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -3543,7 +3544,7 @@
       ];
     };
     realearn-x64-2-13-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-13-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -3602,7 +3603,7 @@
       ];
     };
     realearn-x64-2-13-0-pre-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-13-0-pre-13";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -3661,7 +3662,7 @@
       ];
     };
     realearn-x64-2-13-0-pre-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-13-0-pre-12";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -3720,7 +3721,7 @@
       ];
     };
     realearn-x64-2-13-0-pre-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-13-0-pre-11";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -3779,7 +3780,7 @@
       ];
     };
     realearn-x64-2-13-0-pre-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-13-0-pre-10";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -3838,7 +3839,7 @@
       ];
     };
     realearn-x64-2-13-0-pre-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-13-0-pre-9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -3897,7 +3898,7 @@
       ];
     };
     realearn-x64-2-13-0-pre-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-13-0-pre-8";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -3956,7 +3957,7 @@
       ];
     };
     realearn-x64-2-13-0-pre-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-13-0-pre-7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4015,7 +4016,7 @@
       ];
     };
     realearn-x64-2-13-0-pre-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-13-0-pre-6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4074,7 +4075,7 @@
       ];
     };
     realearn-x64-2-13-0-pre-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-13-0-pre-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4133,7 +4134,7 @@
       ];
     };
     realearn-x64-2-13-0-pre-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-13-0-pre-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4192,7 +4193,7 @@
       ];
     };
     realearn-x64-2-13-0-pre-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-13-0-pre-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4251,7 +4252,7 @@
       ];
     };
     realearn-x64-2-13-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-13-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4310,7 +4311,7 @@
       ];
     };
     realearn-x64-2-12-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-12-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4369,7 +4370,7 @@
       ];
     };
     realearn-x64-2-12-0-pre-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-12-0-pre-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4428,7 +4429,7 @@
       ];
     };
     realearn-x64-2-12-0-pre-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-12-0-pre-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4487,7 +4488,7 @@
       ];
     };
     realearn-x64-2-12-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-12-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4546,7 +4547,7 @@
       ];
     };
     realearn-x64-2-11-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-11-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4605,7 +4606,7 @@
       ];
     };
     realearn-x64-2-11-0-pre-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-11-0-pre-15";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4664,7 +4665,7 @@
       ];
     };
     realearn-x64-2-11-0-pre-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-11-0-pre-14";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4723,7 +4724,7 @@
       ];
     };
     realearn-x64-2-11-0-pre-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-11-0-pre-13";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4782,7 +4783,7 @@
       ];
     };
     realearn-x64-2-11-0-pre-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-11-0-pre-12";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4841,7 +4842,7 @@
       ];
     };
     realearn-x64-2-11-0-pre-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-11-0-pre-11";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4900,7 +4901,7 @@
       ];
     };
     realearn-x64-2-11-0-pre-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-11-0-pre-9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -4959,7 +4960,7 @@
       ];
     };
     realearn-x64-2-11-0-pre-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-11-0-pre-8";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5018,7 +5019,7 @@
       ];
     };
     realearn-x64-2-11-0-pre-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-11-0-pre-6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5077,7 +5078,7 @@
       ];
     };
     realearn-x64-2-11-0-pre-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-11-0-pre-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5126,7 +5127,7 @@
       ];
     };
     realearn-x64-2-11-0-pre-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-11-0-pre-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5175,7 +5176,7 @@
       ];
     };
     realearn-x64-2-11-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-11-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5224,7 +5225,7 @@
       ];
     };
     realearn-x64-2-10-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-10-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5273,7 +5274,7 @@
       ];
     };
     realearn-x64-2-10-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-10-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5322,7 +5323,7 @@
       ];
     };
     realearn-x64-2-10-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-10-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5371,7 +5372,7 @@
       ];
     };
     realearn-x64-2-10-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-10-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5420,7 +5421,7 @@
       ];
     };
     realearn-x64-2-10-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-10-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5469,7 +5470,7 @@
       ];
     };
     realearn-x64-2-10-0-pre-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-10-0-pre-10";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5518,7 +5519,7 @@
       ];
     };
     realearn-x64-2-10-0-pre-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-10-0-pre-9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5567,7 +5568,7 @@
       ];
     };
     realearn-x64-2-10-0-pre-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-10-0-pre-6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5616,7 +5617,7 @@
       ];
     };
     realearn-x64-2-10-0-pre-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-10-0-pre-5";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5665,7 +5666,7 @@
       ];
     };
     realearn-x64-2-10-0-pre-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-10-0-pre-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5714,7 +5715,7 @@
       ];
     };
     realearn-x64-2-10-0-pre-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-10-0-pre-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5763,7 +5764,7 @@
       ];
     };
     realearn-x64-2-10-0-pre-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-10-0-pre-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5812,7 +5813,7 @@
       ];
     };
     realearn-x64-2-10-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-10-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5861,7 +5862,7 @@
       ];
     };
     realearn-x64-2-9-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-9-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5910,7 +5911,7 @@
       ];
     };
     realearn-x64-2-9-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-9-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -5959,7 +5960,7 @@
       ];
     };
     realearn-x64-2-9-0-pre-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-9-0-pre-9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6008,7 +6009,7 @@
       ];
     };
     realearn-x64-2-9-0-pre-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-9-0-pre-8";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6057,7 +6058,7 @@
       ];
     };
     realearn-x64-2-9-0-pre-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-9-0-pre-7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6106,7 +6107,7 @@
       ];
     };
     realearn-x64-2-9-0-pre-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-9-0-pre-6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6155,7 +6156,7 @@
       ];
     };
     realearn-x64-2-9-0-pre-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-9-0-pre-5";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6204,7 +6205,7 @@
       ];
     };
     realearn-x64-2-9-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-9-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6243,7 +6244,7 @@
       ];
     };
     realearn-x64-2-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6282,7 +6283,7 @@
       ];
     };
     realearn-x64-2-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6321,7 +6322,7 @@
       ];
     };
     realearn-x64-2-8-0-rc-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-0-rc-6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6360,7 +6361,7 @@
       ];
     };
     realearn-x64-2-8-0-rc-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-0-rc-5";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6399,7 +6400,7 @@
       ];
     };
     realearn-x64-2-8-0-rc-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-0-rc-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6438,7 +6439,7 @@
       ];
     };
     realearn-x64-2-8-0-rc-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-0-rc-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6477,7 +6478,7 @@
       ];
     };
     realearn-x64-2-8-0-rc-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-0-rc-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6516,7 +6517,7 @@
       ];
     };
     realearn-x64-2-8-0-pre9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-0-pre9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6555,7 +6556,7 @@
       ];
     };
     realearn-x64-2-8-0-pre8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-0-pre8";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6594,7 +6595,7 @@
       ];
     };
     realearn-x64-2-8-0-pre7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-0-pre7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6633,7 +6634,7 @@
       ];
     };
     realearn-x64-2-8-0-pre6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-0-pre6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6672,7 +6673,7 @@
       ];
     };
     realearn-x64-2-8-0-pre5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-0-pre5";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6711,7 +6712,7 @@
       ];
     };
     realearn-x64-2-8-0-pre4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-0-pre4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6750,7 +6751,7 @@
       ];
     };
     realearn-x64-2-8-0-pre3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-0-pre3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6789,7 +6790,7 @@
       ];
     };
     realearn-x64-2-8-0-pre2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-0-pre2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6828,7 +6829,7 @@
       ];
     };
     realearn-x64-2-8-0-pre1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-8-0-pre1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6867,7 +6868,7 @@
       ];
     };
     realearn-x64-2-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-7-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6906,7 +6907,7 @@
       ];
     };
     realearn-x64-2-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-6-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6945,7 +6946,7 @@
       ];
     };
     realearn-x64-2-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-5-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -6984,7 +6985,7 @@
       ];
     };
     realearn-x64-2-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-4-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7023,7 +7024,7 @@
       ];
     };
     realearn-x64-2-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-3-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7062,7 +7063,7 @@
       ];
     };
     realearn-x64-2-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-3-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7101,7 +7102,7 @@
       ];
     };
     realearn-x64-2-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-3-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7140,7 +7141,7 @@
       ];
     };
     realearn-x64-2-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-2-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7179,7 +7180,7 @@
       ];
     };
     realearn-x64-2-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-1-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7218,7 +7219,7 @@
       ];
     };
     realearn-x64-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-2-0-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7257,7 +7258,7 @@
       ];
     };
     realearn-x64-1-12-0-pre21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre21";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7281,7 +7282,7 @@
       ];
     };
     realearn-x64-1-12-0-pre20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre20";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7305,7 +7306,7 @@
       ];
     };
     realearn-x64-1-12-0-pre19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre19";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7329,7 +7330,7 @@
       ];
     };
     realearn-x64-1-12-0-pre18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre18";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7353,7 +7354,7 @@
       ];
     };
     realearn-x64-1-12-0-pre16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre16";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7377,7 +7378,7 @@
       ];
     };
     realearn-x64-1-12-0-pre15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre15";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7401,7 +7402,7 @@
       ];
     };
     realearn-x64-1-12-0-pre14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre14";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7425,7 +7426,7 @@
       ];
     };
     realearn-x64-1-12-0-pre11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre11";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7449,7 +7450,7 @@
       ];
     };
     realearn-x64-1-12-0-pre10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre10";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7473,7 +7474,7 @@
       ];
     };
     realearn-x64-1-12-0-pre9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7512,7 +7513,7 @@
       ];
     };
     realearn-x64-1-12-0-pre8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre8";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7551,7 +7552,7 @@
       ];
     };
     realearn-x64-1-12-0-pre7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7575,7 +7576,7 @@
       ];
     };
     realearn-x64-1-12-0-pre6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7599,7 +7600,7 @@
       ];
     };
     realearn-x64-1-12-0-pre5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre5";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7623,7 +7624,7 @@
       ];
     };
     realearn-x64-1-12-0-pre4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-12-0-pre4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7647,7 +7648,7 @@
       ];
     };
     realearn-x64-1-11-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-11-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7671,7 +7672,7 @@
       ];
     };
     realearn-x64-1-11-0-pre2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-11-0-pre2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7695,7 +7696,7 @@
       ];
     };
     realearn-x64-1-11-0-pre1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-11-0-pre1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7719,7 +7720,7 @@
       ];
     };
     realearn-x64-1-10-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-10-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7743,7 +7744,7 @@
       ];
     };
     realearn-x64-1-10-0-pre8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-10-0-pre8";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7767,7 +7768,7 @@
       ];
     };
     realearn-x64-1-10-0-pre7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-10-0-pre7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7791,7 +7792,7 @@
       ];
     };
     realearn-x64-1-10-0-pre6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-10-0-pre6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7815,7 +7816,7 @@
       ];
     };
     realearn-x64-1-10-0-pre5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-10-0-pre5";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7839,7 +7840,7 @@
       ];
     };
     realearn-x64-1-10-0-pre4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-10-0-pre4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7863,7 +7864,7 @@
       ];
     };
     realearn-x64-1-10-0-pre3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-10-0-pre3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7887,7 +7888,7 @@
       ];
     };
     realearn-x64-1-10-0-pre2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x64-1-10-0-pre2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7911,7 +7912,7 @@
       ];
     };
     realearn-x86-2-16-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-10";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7950,7 +7951,7 @@
       ];
     };
     realearn-x86-2-16-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -7989,7 +7990,7 @@
       ];
     };
     realearn-x86-2-16-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-8";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8028,7 +8029,7 @@
       ];
     };
     realearn-x86-2-16-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8067,7 +8068,7 @@
       ];
     };
     realearn-x86-2-16-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8106,7 +8107,7 @@
       ];
     };
     realearn-x86-2-16-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8145,7 +8146,7 @@
       ];
     };
     realearn-x86-2-16-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8184,7 +8185,7 @@
       ];
     };
     realearn-x86-2-16-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8223,7 +8224,7 @@
       ];
     };
     realearn-x86-2-16-0-pre-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-0-pre-18";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8262,7 +8263,7 @@
       ];
     };
     realearn-x86-2-16-0-pre-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-0-pre-17";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8301,7 +8302,7 @@
       ];
     };
     realearn-x86-2-16-0-pre-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-0-pre-15";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8340,7 +8341,7 @@
       ];
     };
     realearn-x86-2-16-0-pre-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-0-pre-14";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8379,7 +8380,7 @@
       ];
     };
     realearn-x86-2-16-0-pre-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-0-pre-13";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8418,7 +8419,7 @@
       ];
     };
     realearn-x86-2-16-0-pre-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-0-pre-9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8457,7 +8458,7 @@
       ];
     };
     realearn-x86-2-16-0-pre-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-0-pre-7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8476,7 +8477,7 @@
       ];
     };
     realearn-x86-2-16-0-pre-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-0-pre-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8495,7 +8496,7 @@
       ];
     };
     realearn-x86-2-16-0-pre-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-0-pre-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8514,7 +8515,7 @@
       ];
     };
     realearn-x86-2-16-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8533,7 +8534,7 @@
       ];
     };
     realearn-x86-2-15-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-15-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8552,7 +8553,7 @@
       ];
     };
     realearn-x86-2-15-0-pre-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-15-0-pre-7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8571,7 +8572,7 @@
       ];
     };
     realearn-x86-2-15-0-pre-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-15-0-pre-6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8590,7 +8591,7 @@
       ];
     };
     realearn-x86-2-15-0-pre-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-15-0-pre-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8609,7 +8610,7 @@
       ];
     };
     realearn-x86-2-15-0-pre-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-15-0-pre-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8628,7 +8629,7 @@
       ];
     };
     realearn-x86-2-15-0-pre-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-15-0-pre-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8667,7 +8668,7 @@
       ];
     };
     realearn-x86-2-15-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-15-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8706,7 +8707,7 @@
       ];
     };
     realearn-x86-2-14-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-14-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8745,7 +8746,7 @@
       ];
     };
     realearn-x86-2-14-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-14-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8784,7 +8785,7 @@
       ];
     };
     realearn-x86-2-14-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-14-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8823,7 +8824,7 @@
       ];
     };
     realearn-x86-2-14-0-pre-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-14-0-pre-11";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8862,7 +8863,7 @@
       ];
     };
     realearn-x86-2-14-0-pre-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-14-0-pre-10";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8901,7 +8902,7 @@
       ];
     };
     realearn-x86-2-14-0-pre-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-14-0-pre-9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8940,7 +8941,7 @@
       ];
     };
     realearn-x86-2-14-0-pre-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-14-0-pre-7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -8979,7 +8980,7 @@
       ];
     };
     realearn-x86-2-14-0-pre-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-14-0-pre-6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9018,7 +9019,7 @@
       ];
     };
     realearn-x86-2-14-0-pre-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-14-0-pre-5";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9057,7 +9058,7 @@
       ];
     };
     realearn-x86-2-14-0-pre-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-14-0-pre-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9096,7 +9097,7 @@
       ];
     };
     realearn-x86-2-14-0-pre-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-14-0-pre-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9135,7 +9136,7 @@
       ];
     };
     realearn-x86-2-14-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-14-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9174,7 +9175,7 @@
       ];
     };
     realearn-x86-2-13-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-13-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9203,7 +9204,7 @@
       ];
     };
     realearn-x86-2-13-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-13-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9232,7 +9233,7 @@
       ];
     };
     realearn-x86-2-13-0-pre-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-13-0-pre-13";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9261,7 +9262,7 @@
       ];
     };
     realearn-x86-2-13-0-pre-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-13-0-pre-12";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9290,7 +9291,7 @@
       ];
     };
     realearn-x86-2-13-0-pre-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-13-0-pre-11";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9319,7 +9320,7 @@
       ];
     };
     realearn-x86-2-13-0-pre-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-13-0-pre-10";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9348,7 +9349,7 @@
       ];
     };
     realearn-x86-2-13-0-pre-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-13-0-pre-9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9377,7 +9378,7 @@
       ];
     };
     realearn-x86-2-13-0-pre-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-13-0-pre-8";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9406,7 +9407,7 @@
       ];
     };
     realearn-x86-2-13-0-pre-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-13-0-pre-7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9435,7 +9436,7 @@
       ];
     };
     realearn-x86-2-13-0-pre-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-13-0-pre-6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9464,7 +9465,7 @@
       ];
     };
     realearn-x86-2-13-0-pre-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-13-0-pre-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9493,7 +9494,7 @@
       ];
     };
     realearn-x86-2-13-0-pre-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-13-0-pre-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9522,7 +9523,7 @@
       ];
     };
     realearn-x86-2-13-0-pre-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-13-0-pre-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9551,7 +9552,7 @@
       ];
     };
     realearn-x86-2-13-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-13-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9580,7 +9581,7 @@
       ];
     };
     realearn-x86-2-12-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-12-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9609,7 +9610,7 @@
       ];
     };
     realearn-x86-2-12-0-pre-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-12-0-pre-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9638,7 +9639,7 @@
       ];
     };
     realearn-x86-2-12-0-pre-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-12-0-pre-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9667,7 +9668,7 @@
       ];
     };
     realearn-x86-2-12-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-12-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9696,7 +9697,7 @@
       ];
     };
     realearn-x86-2-11-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-11-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9725,7 +9726,7 @@
       ];
     };
     realearn-x86-2-11-0-pre-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-11-0-pre-15";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9754,7 +9755,7 @@
       ];
     };
     realearn-x86-2-11-0-pre-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-11-0-pre-14";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9783,7 +9784,7 @@
       ];
     };
     realearn-x86-2-11-0-pre-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-11-0-pre-13";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9812,7 +9813,7 @@
       ];
     };
     realearn-x86-2-11-0-pre-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-11-0-pre-12";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9841,7 +9842,7 @@
       ];
     };
     realearn-x86-2-11-0-pre-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-11-0-pre-11";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9870,7 +9871,7 @@
       ];
     };
     realearn-x86-2-11-0-pre-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-11-0-pre-9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9899,7 +9900,7 @@
       ];
     };
     realearn-x86-2-11-0-pre-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-11-0-pre-8";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9928,7 +9929,7 @@
       ];
     };
     realearn-x86-2-11-0-pre-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-11-0-pre-6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9957,7 +9958,7 @@
       ];
     };
     realearn-x86-2-11-0-pre-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-11-0-pre-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9976,7 +9977,7 @@
       ];
     };
     realearn-x86-2-11-0-pre-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-11-0-pre-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -9995,7 +9996,7 @@
       ];
     };
     realearn-x86-2-11-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-11-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10014,7 +10015,7 @@
       ];
     };
     realearn-x86-2-10-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-10-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10033,7 +10034,7 @@
       ];
     };
     realearn-x86-2-10-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-10-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10052,7 +10053,7 @@
       ];
     };
     realearn-x86-2-10-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-10-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10071,7 +10072,7 @@
       ];
     };
     realearn-x86-2-10-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-10-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10090,7 +10091,7 @@
       ];
     };
     realearn-x86-2-10-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-10-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10109,7 +10110,7 @@
       ];
     };
     realearn-x86-2-10-0-pre-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-10-0-pre-10";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10128,7 +10129,7 @@
       ];
     };
     realearn-x86-2-10-0-pre-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-10-0-pre-9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10147,7 +10148,7 @@
       ];
     };
     realearn-x86-2-10-0-pre-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-10-0-pre-6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10166,7 +10167,7 @@
       ];
     };
     realearn-x86-2-10-0-pre-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-10-0-pre-5";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10185,7 +10186,7 @@
       ];
     };
     realearn-x86-2-10-0-pre-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-10-0-pre-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10204,7 +10205,7 @@
       ];
     };
     realearn-x86-2-10-0-pre-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-10-0-pre-3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10223,7 +10224,7 @@
       ];
     };
     realearn-x86-2-10-0-pre-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-10-0-pre-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10242,7 +10243,7 @@
       ];
     };
     realearn-x86-2-10-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-10-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10261,7 +10262,7 @@
       ];
     };
     realearn-x86-2-9-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-9-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10280,7 +10281,7 @@
       ];
     };
     realearn-x86-2-9-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-9-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10299,7 +10300,7 @@
       ];
     };
     realearn-x86-2-9-0-pre-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-9-0-pre-9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10318,7 +10319,7 @@
       ];
     };
     realearn-x86-2-9-0-pre-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-9-0-pre-8";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10337,7 +10338,7 @@
       ];
     };
     realearn-x86-2-9-0-pre-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-9-0-pre-7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10356,7 +10357,7 @@
       ];
     };
     realearn-x86-2-9-0-pre-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-9-0-pre-6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10375,7 +10376,7 @@
       ];
     };
     realearn-x86-2-9-0-pre-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-9-0-pre-5";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10394,7 +10395,7 @@
       ];
     };
     realearn-x86-2-9-0-pre-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-9-0-pre-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10413,7 +10414,7 @@
       ];
     };
     realearn-x86-2-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10432,7 +10433,7 @@
       ];
     };
     realearn-x86-2-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10451,7 +10452,7 @@
       ];
     };
     realearn-x86-2-8-0-rc-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-0-rc-6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10470,7 +10471,7 @@
       ];
     };
     realearn-x86-2-8-0-rc-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-0-rc-5";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10489,7 +10490,7 @@
       ];
     };
     realearn-x86-2-8-0-rc-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-0-rc-4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10508,7 +10509,7 @@
       ];
     };
     realearn-x86-2-8-0-rc-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-0-rc-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10527,7 +10528,7 @@
       ];
     };
     realearn-x86-2-8-0-rc-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-0-rc-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10546,7 +10547,7 @@
       ];
     };
     realearn-x86-2-8-0-pre9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-0-pre9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10565,7 +10566,7 @@
       ];
     };
     realearn-x86-2-8-0-pre8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-0-pre8";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10584,7 +10585,7 @@
       ];
     };
     realearn-x86-2-8-0-pre7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-0-pre7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10603,7 +10604,7 @@
       ];
     };
     realearn-x86-2-8-0-pre6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-0-pre6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10622,7 +10623,7 @@
       ];
     };
     realearn-x86-2-8-0-pre5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-0-pre5";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10641,7 +10642,7 @@
       ];
     };
     realearn-x86-2-8-0-pre4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-0-pre4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10660,7 +10661,7 @@
       ];
     };
     realearn-x86-2-8-0-pre3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-0-pre3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10679,7 +10680,7 @@
       ];
     };
     realearn-x86-2-8-0-pre2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-0-pre2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10698,7 +10699,7 @@
       ];
     };
     realearn-x86-2-8-0-pre1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-8-0-pre1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10717,7 +10718,7 @@
       ];
     };
     realearn-x86-2-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-7-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10736,7 +10737,7 @@
       ];
     };
     realearn-x86-2-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-6-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10755,7 +10756,7 @@
       ];
     };
     realearn-x86-2-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-5-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10774,7 +10775,7 @@
       ];
     };
     realearn-x86-2-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-4-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10793,7 +10794,7 @@
       ];
     };
     realearn-x86-2-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-3-2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10812,7 +10813,7 @@
       ];
     };
     realearn-x86-2-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-3-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10831,7 +10832,7 @@
       ];
     };
     realearn-x86-2-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-3-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10850,7 +10851,7 @@
       ];
     };
     realearn-x86-2-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-2-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10869,7 +10870,7 @@
       ];
     };
     realearn-x86-2-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-1-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10888,7 +10889,7 @@
       ];
     };
     realearn-x86-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-2-0-1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10907,7 +10908,7 @@
       ];
     };
     realearn-x86-1-12-0-pre21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre21";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10921,7 +10922,7 @@
       ];
     };
     realearn-x86-1-12-0-pre20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre20";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10935,7 +10936,7 @@
       ];
     };
     realearn-x86-1-12-0-pre19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre19";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10949,7 +10950,7 @@
       ];
     };
     realearn-x86-1-12-0-pre18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre18";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10963,7 +10964,7 @@
       ];
     };
     realearn-x86-1-12-0-pre16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre16";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10977,7 +10978,7 @@
       ];
     };
     realearn-x86-1-12-0-pre15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre15";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -10991,7 +10992,7 @@
       ];
     };
     realearn-x86-1-12-0-pre14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre14";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11005,7 +11006,7 @@
       ];
     };
     realearn-x86-1-12-0-pre11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre11";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11019,7 +11020,7 @@
       ];
     };
     realearn-x86-1-12-0-pre10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre10";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11033,7 +11034,7 @@
       ];
     };
     realearn-x86-1-12-0-pre9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre9";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11052,7 +11053,7 @@
       ];
     };
     realearn-x86-1-12-0-pre8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre8";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11071,7 +11072,7 @@
       ];
     };
     realearn-x86-1-12-0-pre7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11085,7 +11086,7 @@
       ];
     };
     realearn-x86-1-12-0-pre6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11099,7 +11100,7 @@
       ];
     };
     realearn-x86-1-12-0-pre5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre5";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11113,7 +11114,7 @@
       ];
     };
     realearn-x86-1-12-0-pre4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-12-0-pre4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11127,7 +11128,7 @@
       ];
     };
     realearn-x86-1-11-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-11-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11141,7 +11142,7 @@
       ];
     };
     realearn-x86-1-11-0-pre2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-11-0-pre2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11155,7 +11156,7 @@
       ];
     };
     realearn-x86-1-11-0-pre1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-11-0-pre1";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11169,7 +11170,7 @@
       ];
     };
     realearn-x86-1-10-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-10-0";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11183,7 +11184,7 @@
       ];
     };
     realearn-x86-1-10-0-pre8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-10-0-pre8";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11197,7 +11198,7 @@
       ];
     };
     realearn-x86-1-10-0-pre7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-10-0-pre7";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11211,7 +11212,7 @@
       ];
     };
     realearn-x86-1-10-0-pre6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-10-0-pre6";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11225,7 +11226,7 @@
       ];
     };
     realearn-x86-1-10-0-pre5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-10-0-pre5";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11239,7 +11240,7 @@
       ];
     };
     realearn-x86-1-10-0-pre4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-10-0-pre4";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11253,7 +11254,7 @@
       ];
     };
     realearn-x86-1-10-0-pre3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-10-0-pre3";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";
@@ -11267,7 +11268,7 @@
       ];
     };
     realearn-x86-1-10-0-pre2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "realearn-x86-1-10-0-pre2";
       indexName = "Helgoboss Projects";
       categoryName = "Extensions";

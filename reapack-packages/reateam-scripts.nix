@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   reateam-scripts = {
     amagalma-move-edit-cursor-to-closest-item-edge-among-the-selected-items-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-closest-item-edge-among-the-selected-items-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -19,7 +20,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-closest-item-edge-in-project-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-closest-item-edge-in-project-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -33,7 +34,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-next-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-next-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -47,7 +48,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-next-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-next-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -61,7 +62,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-next-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-next-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -75,7 +76,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-next-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-next-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-06";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -89,7 +90,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-next-visible-grid-line-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-next-visible-grid-line-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -103,7 +104,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-next-visible-grid-line-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-next-visible-grid-line-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -117,7 +118,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-next-visible-grid-line-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-next-visible-grid-line-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -131,7 +132,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-next-visible-grid-line-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-next-visible-grid-line-lua-1-04";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -145,7 +146,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-next-visible-grid-line-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-next-visible-grid-line-lua-1-07";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -159,7 +160,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-next-visible-grid-line-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-next-visible-grid-line-lua-1-08";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -173,7 +174,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-next-visible-grid-line-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-next-visible-grid-line-lua-1-09";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -187,7 +188,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-previous-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-previous-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -201,7 +202,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-previous-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-previous-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -215,7 +216,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-previous-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-previous-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -229,7 +230,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-previous-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-previous-possible-bad-or-missing-items-crossfade-on-selected-tracks-lua-1-06";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -243,7 +244,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -257,7 +258,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -271,7 +272,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -285,7 +286,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -299,7 +300,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -313,7 +314,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-06";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -327,7 +328,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-07";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -341,7 +342,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-08";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -355,7 +356,7 @@
       ];
     };
     amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-edit-cursor-to-previous-visible-grid-line-lua-1-09";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -369,7 +370,7 @@
       ];
     };
     amagalma-transport-play-from-start-of-arrange-view-stop-at-play-cursor-editing-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-transport-play-from-start-of-arrange-view-stop-at-play-cursor-editing-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -383,7 +384,7 @@
       ];
     };
     amagalma-transport-play-from-start-of-arrange-view-stop-at-play-cursor-editing-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-transport-play-from-start-of-arrange-view-stop-at-play-cursor-editing-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -397,7 +398,7 @@
       ];
     };
     az-go-to-timecode-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-go-to-timecode-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -416,7 +417,7 @@
       ];
     };
     az-go-to-timecode-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-go-to-timecode-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -435,7 +436,7 @@
       ];
     };
     az-play-from-mouse-cursor-with-2-sec-shift-move-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-play-from-mouse-cursor-with-2-sec-shift-move-edit-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -449,7 +450,7 @@
       ];
     };
     buyone-move-edit-cursor-to-snap-offset-cursor-fades-take-stretch-markers-media-cues-razor-edit-area-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-move-edit-cursor-to-snap-offset-cursor-fades-take-stretch-markers-media-cues-razor-edit-area-edges-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -538,7 +539,7 @@
       ];
     };
     buyone-snap-edit-cursor-to-item-edges-snap-offset-fades-within-x-ms-across-tracks-see-settings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-snap-edit-cursor-to-item-edges-snap-offset-fades-within-x-ms-across-tracks-see-settings-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -552,7 +553,7 @@
       ];
     };
     buyone-snap-edit-cursor-to-item-edges-snap-offset-fades-within-x-ms-across-tracks-see-settings-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-snap-edit-cursor-to-item-edges-snap-offset-fades-within-x-ms-across-tracks-see-settings-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -566,7 +567,7 @@
       ];
     };
     cfillion-copy-current-position-to-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-copy-current-position-to-clipboard-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -580,7 +581,7 @@
       ];
     };
     cfillion-copy-current-position-to-clipboard-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-copy-current-position-to-clipboard-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -594,7 +595,7 @@
       ];
     };
     cfillion-copy-current-position-to-clipboard-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-copy-current-position-to-clipboard-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -608,7 +609,7 @@
       ];
     };
     lokasenna-move-edit-cursor-ahead-five-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-ahead-five-seconds-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -622,7 +623,7 @@
       ];
     };
     lokasenna-move-edit-cursor-ahead-one-minute-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-ahead-one-minute-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -636,7 +637,7 @@
       ];
     };
     lokasenna-move-edit-cursor-ahead-one-second-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-ahead-one-second-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -650,7 +651,7 @@
       ];
     };
     lokasenna-move-edit-cursor-ahead-ten-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-ahead-ten-seconds-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -664,7 +665,7 @@
       ];
     };
     lokasenna-move-edit-cursor-ahead-thirty-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-ahead-thirty-seconds-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -678,7 +679,7 @@
       ];
     };
     lokasenna-move-edit-cursor-ahead-two-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-ahead-two-seconds-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -692,7 +693,7 @@
       ];
     };
     lokasenna-move-edit-cursor-back-five-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-back-five-seconds-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -706,7 +707,7 @@
       ];
     };
     lokasenna-move-edit-cursor-back-one-minute-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-back-one-minute-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -720,7 +721,7 @@
       ];
     };
     lokasenna-move-edit-cursor-back-one-second-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-back-one-second-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -734,7 +735,7 @@
       ];
     };
     lokasenna-move-edit-cursor-back-ten-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-back-ten-seconds-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -748,7 +749,7 @@
       ];
     };
     lokasenna-move-edit-cursor-back-thirty-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-back-thirty-seconds-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -762,7 +763,7 @@
       ];
     };
     lokasenna-move-edit-cursor-back-two-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-back-two-seconds-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -776,7 +777,7 @@
       ];
     };
     lokasenna-move-edit-cursor-to-start-of-first-item-in-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-to-start-of-first-item-in-project-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -790,7 +791,7 @@
       ];
     };
     lokasenna-move-edit-cursor-to-start-of-first-item-in-project-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-to-start-of-first-item-in-project-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -804,7 +805,7 @@
       ];
     };
     lokasenna-move-edit-cursor-to-start-of-first-item-in-project-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-to-start-of-first-item-in-project-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -818,7 +819,7 @@
       ];
     };
     lokasenna-move-edit-cursor-to-start-of-first-item-in-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-to-start-of-first-item-in-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -832,7 +833,7 @@
       ];
     };
     lokasenna-move-edit-cursor-to-start-of-first-item-in-selected-tracks-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-to-start-of-first-item-in-selected-tracks-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -846,7 +847,7 @@
       ];
     };
     lokasenna-move-edit-cursor-to-start-of-first-item-in-selected-tracks-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-edit-cursor-to-start-of-first-item-in-selected-tracks-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -860,7 +861,7 @@
       ];
     };
     place-play-cursor-into-view-when-playing-or-center-edit-cursor-when-stopped-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "place-play-cursor-into-view-when-playing-or-center-edit-cursor-when-stopped-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -874,7 +875,7 @@
       ];
     };
     rodilab-move-cursor-to-nearest-item-edge-in-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-move-cursor-to-nearest-item-edge-in-selected-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -903,7 +904,7 @@
       ];
     };
     spk77-move-edit-cursor-back-by-1-frame-or-1-beat-eel-0-2014-9-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-move-edit-cursor-back-by-1-frame-or-1-beat-eel-0-2014-9-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -917,7 +918,7 @@
       ];
     };
     spk77-move-edit-cursor-back-by-1-frame-or-1-beat-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-move-edit-cursor-back-by-1-frame-or-1-beat-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -931,7 +932,7 @@
       ];
     };
     spk77-move-edit-cursor-forward-by-1-frame-or-1-beat-eel-0-2014-9-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-move-edit-cursor-forward-by-1-frame-or-1-beat-eel-0-2014-9-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -945,7 +946,7 @@
       ];
     };
     spk77-move-edit-cursor-forward-by-1-frame-or-1-beat-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-move-edit-cursor-forward-by-1-frame-or-1-beat-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -959,7 +960,7 @@
       ];
     };
     spk77-move-edit-cursor-to-start-of-current-measure-eel-0-2014-9-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-move-edit-cursor-to-start-of-current-measure-eel-0-2014-9-26";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -973,7 +974,7 @@
       ];
     };
     spk77-move-edit-cursor-to-start-of-current-measure-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-move-edit-cursor-to-start-of-current-measure-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Cursor";
@@ -987,7 +988,7 @@
       ];
     };
     amagalma-find-action-or-script-name-by-its-command-id-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-find-action-or-script-name-by-its-command-id-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1001,7 +1002,7 @@
       ];
     };
     amagalma-find-action-or-script-name-by-its-command-id-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-find-action-or-script-name-by-its-command-id-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1015,7 +1016,7 @@
       ];
     };
     amagalma-find-action-or-script-name-by-its-command-id-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-find-action-or-script-name-by-its-command-id-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1029,7 +1030,7 @@
       ];
     };
     amagalma-search-for-the-selected-action-in-the-action-list-or-the-open-script-in-the-ide-in-reapack-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-search-for-the-selected-action-in-the-action-list-or-the-open-script-in-the-ide-in-reapack-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1043,7 +1044,7 @@
       ];
     };
     amagalma-show-the-reapack-about-dialog-of-the-given-package-entry-for-the-selected-action-in-the-action-list-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-show-the-reapack-about-dialog-of-the-given-package-entry-for-the-selected-action-in-the-action-list-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1057,7 +1058,7 @@
       ];
     };
     amagalma-theme-variable-descriptions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-theme-variable-descriptions-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1071,7 +1072,7 @@
       ];
     };
     amagalma-theme-variable-descriptions-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-theme-variable-descriptions-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1085,7 +1086,7 @@
       ];
     };
     amagalma-theme-variable-descriptions-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-theme-variable-descriptions-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1099,7 +1100,7 @@
       ];
     };
     cfillion-dump-file-to-string-literal-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-dump-file-to-string-literal-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1113,7 +1114,7 @@
       ];
     };
     cfillion-gfx-input-inspector-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-gfx-input-inspector-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1127,7 +1128,7 @@
       ];
     };
     cfillion-gfx-input-inspector-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-gfx-input-inspector-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1141,7 +1142,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1155,7 +1156,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1169,7 +1170,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1183,7 +1184,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1197,7 +1198,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-4-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1211,7 +1212,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-4-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1225,7 +1226,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-4-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1239,7 +1240,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1253,7 +1254,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1267,7 +1268,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-6-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1281,7 +1282,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-6-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1295,7 +1296,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-7";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1309,7 +1310,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-7-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1323,7 +1324,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-8";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1337,7 +1338,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-8-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1351,7 +1352,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-8-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1365,7 +1366,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-8-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-8-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1379,7 +1380,7 @@
       ];
     };
     cfillion-interactive-reascript-lua-0-8-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-interactive-reascript-lua-0-8-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1393,7 +1394,7 @@
       ];
     };
     cfillion-joystick-inspector-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-joystick-inspector-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1407,7 +1408,7 @@
       ];
     };
     cfillion-lua-profiler-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-lua-profiler-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1421,7 +1422,7 @@
       ];
     };
     cfillion-lua-profiler-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-lua-profiler-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1435,7 +1436,7 @@
       ];
     };
     cfillion-lua-profiler-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-lua-profiler-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1449,7 +1450,7 @@
       ];
     };
     cfillion-search-action-by-command-id-or-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-search-action-by-command-id-or-name-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1463,7 +1464,7 @@
       ];
     };
     cfillion-search-action-by-command-id-or-name-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-search-action-by-command-id-or-name-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1477,7 +1478,7 @@
       ];
     };
     cfillion-search-action-by-command-id-or-name-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-search-action-by-command-id-or-name-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1491,7 +1492,7 @@
       ];
     };
     cfillion-search-action-by-command-id-or-name-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-search-action-by-command-id-or-name-lua-2-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1505,7 +1506,7 @@
       ];
     };
     cfillion-search-action-by-command-id-or-name-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-search-action-by-command-id-or-name-lua-2-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1519,7 +1520,7 @@
       ];
     };
     cfillion-search-action-by-command-id-or-name-lua-2-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-search-action-by-command-id-or-name-lua-2-0-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1533,7 +1534,7 @@
       ];
     };
     cfillion-sws-cf-preview-api-demo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-sws-cf-preview-api-demo-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1547,7 +1548,7 @@
       ];
     };
     cfillion-sws-cf-preview-api-demo-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-sws-cf-preview-api-demo-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1561,7 +1562,7 @@
       ];
     };
     cfillion-sws-cf-preview-api-demo-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-sws-cf-preview-api-demo-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1575,7 +1576,7 @@
       ];
     };
     cfillion-sws-cf-preview-api-demo-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-sws-cf-preview-api-demo-lua-1-0-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1589,7 +1590,7 @@
       ];
     };
     lokasenna-gui-library-v2-developer-tools-lua-2-9-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-developer-tools-lua-2-9-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1638,7 +1639,7 @@
       ];
     };
     lokasenna-gui-library-v2-developer-tools-lua-2-9-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-developer-tools-lua-2-9-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1687,7 +1688,7 @@
       ];
     };
     lokasenna-gui-library-v2-developer-tools-lua-2-9-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-developer-tools-lua-2-9-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1736,7 +1737,7 @@
       ];
     };
     lokasenna-gui-library-v2-developer-tools-lua-2-9-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-developer-tools-lua-2-9-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1785,7 +1786,7 @@
       ];
     };
     lokasenna-gui-library-v2-developer-tools-lua-2-9-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-developer-tools-lua-2-9-04";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1834,7 +1835,7 @@
       ];
     };
     lokasenna-gui-library-v2-developer-tools-lua-2-10-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-developer-tools-lua-2-10-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -1958,7 +1959,7 @@
       ];
     };
     lokasenna-gui-library-v2-developer-tools-lua-2-10-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-developer-tools-lua-2-10-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -2072,7 +2073,7 @@
       ];
     };
     lokasenna-gui-library-v2-developer-tools-lua-2-11-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-developer-tools-lua-2-11-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -2191,7 +2192,7 @@
       ];
     };
     lokasenna-gui-library-v2-developer-tools-lua-2-12-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-developer-tools-lua-2-12-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -2315,7 +2316,7 @@
       ];
     };
     lokasenna-gui-library-v2-developer-tools-lua-2-12-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-developer-tools-lua-2-12-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -2439,7 +2440,7 @@
       ];
     };
     lokasenna-gui-library-v2-developer-tools-lua-2-12-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-developer-tools-lua-2-12-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -2563,7 +2564,7 @@
       ];
     };
     lokasenna-gui-library-v2-developer-tools-lua-2-12-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-developer-tools-lua-2-12-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -2682,7 +2683,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-9-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-9-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -2766,7 +2767,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-10-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-10-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -2850,7 +2851,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-10-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-10-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -2934,7 +2935,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-11-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-11-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -3018,7 +3019,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-11-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-11-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -3102,7 +3103,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-11-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-11-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -3186,7 +3187,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-11-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-11-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -3270,7 +3271,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-11-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-11-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -3354,7 +3355,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-12-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-12-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -3438,7 +3439,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-13-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-13-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -3522,7 +3523,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-14-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-14-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -3546,7 +3547,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-14-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-14-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -3635,7 +3636,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-15-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-15-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -3724,7 +3725,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-15-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-15-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -3813,7 +3814,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-15-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-15-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -3902,7 +3903,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-15-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-15-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -3991,7 +3992,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-15-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-15-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -4080,7 +4081,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-15-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-15-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -4169,7 +4170,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-15-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-15-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -4258,7 +4259,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-15-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-15-7";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -4347,7 +4348,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-15-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-15-8";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -4436,7 +4437,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-15-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-15-9";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -4525,7 +4526,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-15-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-15-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -4614,7 +4615,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-15-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-15-11";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -4703,7 +4704,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-15-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-15-12";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -4792,7 +4793,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-16-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-16-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -4881,7 +4882,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-16-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-16-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -4970,7 +4971,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-16-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-16-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -5059,7 +5060,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-16-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-16-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -5148,7 +5149,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-16-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-16-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -5237,7 +5238,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-16-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-16-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -5326,7 +5327,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-16-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-16-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -5415,7 +5416,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-16-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-16-7";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -5504,7 +5505,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-16-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-16-8";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -5593,7 +5594,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-16-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-16-9";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -5682,7 +5683,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-16-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-16-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -5771,7 +5772,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-16-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-16-11";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -5860,7 +5861,7 @@
       ];
     };
     lokasenna-gui-library-v2-lua-2-16-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-v2-lua-2-16-12";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -5949,7 +5950,7 @@
       ];
     };
     lokasenna-run-last-lua-script-in-debug-mode-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-run-last-lua-script-in-debug-mode-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -5963,7 +5964,7 @@
       ];
     };
     lokasenna-run-lua-script-in-debug-mode-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-run-lua-script-in-debug-mode-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -5977,7 +5978,7 @@
       ];
     };
     lokasenna-script-compiler-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-script-compiler-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -5991,7 +5992,7 @@
       ];
     };
     lokasenna-script-compiler-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-script-compiler-lua-2-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -6005,7 +6006,7 @@
       ];
     };
     lokasenna-scythe-library-v3-developer-tools-lua-3-0-0alpha1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-scythe-library-v3-developer-tools-lua-3-0-0alpha1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -6114,7 +6115,7 @@
       ];
     };
     lokasenna-scythe-library-v3-developer-tools-lua-3-0-0alpha2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-scythe-library-v3-developer-tools-lua-3-0-0alpha2";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -6408,7 +6409,7 @@
       ];
     };
     lokasenna-scythe-library-v3-developer-tools-lua-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-scythe-library-v3-developer-tools-lua-3-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -6702,7 +6703,7 @@
       ];
     };
     lokasenna-scythe-library-v3-lua-3-0-0alpha1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-scythe-library-v3-lua-3-0-0alpha1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -6906,7 +6907,7 @@
       ];
     };
     lokasenna-scythe-library-v3-lua-3-0-0alpha2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-scythe-library-v3-lua-3-0-0alpha2";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -7110,7 +7111,7 @@
       ];
     };
     lokasenna-scythe-library-v3-lua-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-scythe-library-v3-lua-3-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -7314,7 +7315,7 @@
       ];
     };
     pandabot-convert-image-to-lua-function-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-convert-image-to-lua-function-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -7328,7 +7329,7 @@
       ];
     };
     willdevelop-read-tags-for-plugin-tag-system-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "willdevelop-read-tags-for-plugin-tag-system-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -7342,7 +7343,7 @@
       ];
     };
     willdevelop-read-tags-for-plugin-tag-system-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "willdevelop-read-tags-for-plugin-tag-system-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -7356,7 +7357,7 @@
       ];
     };
     x-raym-color-functions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-color-functions-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development";
@@ -7370,7 +7371,7 @@
       ];
     };
     amagalma-display-all-referenced-media-files-in-all-projects-residing-in-a-folder-path-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-display-all-referenced-media-files-in-all-projects-residing-in-a-folder-path-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Development/RPP-Parser";
@@ -7384,7 +7385,7 @@
       ];
     };
     amagalma-display-all-referenced-media-files-in-all-projects-residing-in-a-folder-path-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-display-all-referenced-media-files-in-all-projects-residing-in-a-folder-path-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Development/RPP-Parser";
@@ -7398,7 +7399,7 @@
       ];
     };
     reateam-rpp-parser-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reateam-rpp-parser-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development/RPP-Parser";
@@ -7412,7 +7413,7 @@
       ];
     };
     reateam-rpp-parser-test-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reateam-rpp-parser-test-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Development/RPP-Parser";
@@ -7426,7 +7427,7 @@
       ];
     };
     amagalma-clear-multiple-track-envelopes-for-all-selected-tracks-or-for-all-tracks-in-project-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-clear-multiple-track-envelopes-for-all-selected-tracks-or-for-all-tracks-in-project-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7440,7 +7441,7 @@
       ];
     };
     amagalma-set-envelope-segment-under-mouse-cursor-to-0-db-or-center-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-set-envelope-segment-under-mouse-cursor-to-0-db-or-center-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7454,7 +7455,7 @@
       ];
     };
     amagalma-set-envelope-segment-under-mouse-cursor-to-0-db-or-center-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-set-envelope-segment-under-mouse-cursor-to-0-db-or-center-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7468,7 +7469,7 @@
       ];
     };
     amagalma-spk77-adjust-envelope-point-at-mouse-cursor-via-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-spk77-adjust-envelope-point-at-mouse-cursor-via-mousewheel-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7482,7 +7483,7 @@
       ];
     };
     amagalma-spk77-adjust-envelope-point-at-mouse-cursor-via-mousewheel-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-spk77-adjust-envelope-point-at-mouse-cursor-via-mousewheel-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7496,7 +7497,7 @@
       ];
     };
     amagalma-spk77-adjust-envelope-point-at-mouse-cursor-via-mousewheel-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-spk77-adjust-envelope-point-at-mouse-cursor-via-mousewheel-lua-1-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7510,7 +7511,7 @@
       ];
     };
     amagalma-toggle-active-take-volume-envelope-visible-for-selected-item-s-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-active-take-volume-envelope-visible-for-selected-item-s-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7524,7 +7525,7 @@
       ];
     };
     amagalma-toggle-active-take-volume-envelope-visible-for-selected-item-s-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-active-take-volume-envelope-visible-for-selected-item-s-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7538,7 +7539,7 @@
       ];
     };
     amagalma-toggle-active-take-volume-envelope-visible-for-selected-item-s-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-active-take-volume-envelope-visible-for-selected-item-s-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7552,7 +7553,7 @@
       ];
     };
     amagalma-toggle-active-take-volume-envelope-visible-for-selected-item-s-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-active-take-volume-envelope-visible-for-selected-item-s-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7566,7 +7567,7 @@
       ];
     };
     amagalma-toggle-active-take-volume-envelope-visible-for-selected-item-s-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-active-take-volume-envelope-visible-for-selected-item-s-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7580,7 +7581,7 @@
       ];
     };
     amagalma-toggle-active-take-volume-envelope-visible-for-selected-item-s-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-active-take-volume-envelope-visible-for-selected-item-s-lua-2-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7594,7 +7595,7 @@
       ];
     };
     amagalma-toggle-take-volume-envelope-visible-for-all-takes-of-all-items-in-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-take-volume-envelope-visible-for-all-takes-of-all-items-in-project-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7608,7 +7609,7 @@
       ];
     };
     amagalma-toggle-take-volume-envelope-visible-for-all-takes-of-all-items-in-project-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-take-volume-envelope-visible-for-all-takes-of-all-items-in-project-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7622,7 +7623,7 @@
       ];
     };
     amagalma-toggle-take-volume-envelope-visible-for-all-takes-of-all-items-in-project-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-take-volume-envelope-visible-for-all-takes-of-all-items-in-project-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7636,7 +7637,7 @@
       ];
     };
     amagalma-toggle-volume-envelope-visibility-for-selected-tracks-or-items-depending-on-mouse-position-or-last-context-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-volume-envelope-visibility-for-selected-tracks-or-items-depending-on-mouse-position-or-last-context-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7650,7 +7651,7 @@
       ];
     };
     buyone-un-collapse-envelope-lanes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-un-collapse-envelope-lanes-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7749,7 +7750,7 @@
       ];
     };
     buyone-un-collapse-envelope-lanes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-un-collapse-envelope-lanes-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7848,7 +7849,7 @@
       ];
     };
     buyone-un-collapse-envelope-lanes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-un-collapse-envelope-lanes-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7947,7 +7948,7 @@
       ];
     };
     buyone-move-selected-fx-envelope-in-track-to-top-bottom-upwards-downwards-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-move-selected-fx-envelope-in-track-to-top-bottom-upwards-downwards-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7961,7 +7962,7 @@
       ];
     };
     buyone-move-selected-fx-envelope-in-track-to-top-bottom-upwards-downwards-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-move-selected-fx-envelope-in-track-to-top-bottom-upwards-downwards-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -7990,7 +7991,7 @@
       ];
     };
     buyone-move-selected-fx-envelope-in-track-to-top-bottom-upwards-downwards-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-move-selected-fx-envelope-in-track-to-top-bottom-upwards-downwards-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8029,7 +8030,7 @@
       ];
     };
     buyone-move-selected-fx-envelope-in-track-to-top-bottom-upwards-downwards-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-move-selected-fx-envelope-in-track-to-top-bottom-upwards-downwards-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8043,7 +8044,7 @@
       ];
     };
     cfillion-delete-points-before-or-after-the-edit-cursor-in-selected-envelope-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-delete-points-before-or-after-the-edit-cursor-in-selected-envelope-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8062,7 +8063,7 @@
       ];
     };
     cfillion-delete-points-outside-of-the-time-selection-in-selected-envelope-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-delete-points-outside-of-the-time-selection-in-selected-envelope-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8076,7 +8077,7 @@
       ];
     };
     cfillion-linear-ramp-selected-envelope-points-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-linear-ramp-selected-envelope-points-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8090,7 +8091,7 @@
       ];
     };
     cfillion-linear-ramp-selected-envelope-points-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-linear-ramp-selected-envelope-points-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8104,7 +8105,7 @@
       ];
     };
     cool-mk-shaperstutter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-shaperstutter-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8118,7 +8119,7 @@
       ];
     };
     cool-mk-shaperstutter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-shaperstutter-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8132,7 +8133,7 @@
       ];
     };
     cool-mk-shaperstutter-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-shaperstutter-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8146,7 +8147,7 @@
       ];
     };
     cool-mk-shaperstutter-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-shaperstutter-lua-1-30";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8160,7 +8161,7 @@
       ];
     };
     edgemeal-scroll-last-touched-track-fx-envelope-into-view-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-scroll-last-touched-track-fx-envelope-into-view-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8174,7 +8175,7 @@
       ];
     };
     edgemeal-scroll-last-touched-track-fx-envelope-into-view-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-scroll-last-touched-track-fx-envelope-into-view-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8188,7 +8189,7 @@
       ];
     };
     edgemeal-toggle-active-envelopes-inlane-for-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-toggle-active-envelopes-inlane-for-selected-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8202,7 +8203,7 @@
       ];
     };
     edgemeal-toggle-envelope-lanes-for-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-toggle-envelope-lanes-for-selected-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8216,7 +8217,7 @@
       ];
     };
     edgemeal-toggle-visible-envelopes-inlane-for-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-toggle-visible-envelopes-inlane-for-selected-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8230,7 +8231,7 @@
       ];
     };
     jreverb-snap-selected-tcpfx-envelope-points-to-semitones-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jreverb-snap-selected-tcpfx-envelope-points-to-semitones-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8259,7 +8260,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-0-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-0-99";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8273,7 +8274,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-0-996 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-0-996";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8287,7 +8288,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-0-997 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-0-997";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8301,7 +8302,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-0-998 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-0-998";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8315,7 +8316,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-0-999 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-0-999";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8329,7 +8330,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-0-9999 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-0-9999";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8343,7 +8344,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8357,7 +8358,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8371,7 +8372,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8385,7 +8386,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8399,7 +8400,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-04";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8413,7 +8414,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8427,7 +8428,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-11";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8441,7 +8442,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8455,7 +8456,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-30";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8469,7 +8470,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-31";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8483,7 +8484,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-32";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8497,7 +8498,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-40";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8511,7 +8512,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-41";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8525,7 +8526,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-50";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8539,7 +8540,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-1-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-1-51";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8553,7 +8554,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8567,7 +8568,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8581,7 +8582,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-2-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8595,7 +8596,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-2-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8609,7 +8610,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-2-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-2-04";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8623,7 +8624,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8637,7 +8638,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-2-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-2-15";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8651,7 +8652,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-2-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-2-16";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8665,7 +8666,7 @@
       ];
     };
     js-envelope-lfo-generator-and-shaper-lua-2-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-envelope-lfo-generator-and-shaper-lua-2-17";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8679,7 +8680,7 @@
       ];
     };
     lokasenna-switch-to-next-track-envelope-in-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-switch-to-next-track-envelope-in-selected-tracks-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8693,7 +8694,7 @@
       ];
     };
     mespotine-toggle-height-of-selected-track-envelope-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mespotine-toggle-height-of-selected-track-envelope-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8707,7 +8708,7 @@
       ];
     };
     spk77-adjust-volume-envelope-point-at-mouse-cursor-via-mousewheel-lua-0-2015-9-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-adjust-volume-envelope-point-at-mouse-cursor-via-mousewheel-lua-0-2015-9-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8721,7 +8722,7 @@
       ];
     };
     spk77-adjust-volume-envelope-point-at-mouse-cursor-via-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-adjust-volume-envelope-point-at-mouse-cursor-via-mousewheel-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8735,7 +8736,7 @@
       ];
     };
     spk77-adjust-volume-envelope-point-at-mouse-cursor-via-mousewheel-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-adjust-volume-envelope-point-at-mouse-cursor-via-mousewheel-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8749,7 +8750,7 @@
       ];
     };
     spk77-adjust-volume-envelope-point-at-mouse-cursor-via-mousewheel-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-adjust-volume-envelope-point-at-mouse-cursor-via-mousewheel-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8763,7 +8764,7 @@
       ];
     };
     spk77-compress-or-expand-selected-envelope-points-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-compress-or-expand-selected-envelope-points-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8777,7 +8778,7 @@
       ];
     };
     spk77-create-envelope-points-from-fx-param-values-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-create-envelope-points-from-fx-param-values-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8791,7 +8792,7 @@
       ];
     };
     spk77-delete-track-fx-envelope-points-in-time-selection-last-focused-fx-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-delete-track-fx-envelope-points-in-time-selection-last-focused-fx-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8805,7 +8806,7 @@
       ];
     };
     spk77-delete-track-fx-envelope-points-in-time-selection-last-focused-fx-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-delete-track-fx-envelope-points-in-time-selection-last-focused-fx-lua-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8819,7 +8820,7 @@
       ];
     };
     talagan-minimize-all-track-envelopes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-minimize-all-track-envelopes-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8833,7 +8834,7 @@
       ];
     };
     tilr-snapshooter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-snapshooter-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8912,7 +8913,7 @@
       ];
     };
     tilr-snapshooter-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-snapshooter-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -8991,7 +8992,7 @@
       ];
     };
     tilr-snapshooter-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-snapshooter-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -9070,7 +9071,7 @@
       ];
     };
     tilr-snapshooter-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-snapshooter-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes";
@@ -9149,7 +9150,7 @@
       ];
     };
     amagalma-insert-pooled-instances-of-automation-items-in-all-razor-edit-areas-for-each-envelope-type-according-to-envelope-name-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-insert-pooled-instances-of-automation-items-in-all-razor-edit-areas-for-each-envelope-type-according-to-envelope-name-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9163,7 +9164,7 @@
       ];
     };
     amagalma-insert-pooled-instances-of-one-automation-item-in-all-razor-edit-areas-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-insert-pooled-instances-of-one-automation-item-in-all-razor-edit-areas-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9177,7 +9178,7 @@
       ];
     };
     amagalma-insert-pooled-instances-of-one-automation-item-in-time-selection-for-selected-tracks-and-selected-envelope-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-insert-pooled-instances-of-one-automation-item-in-time-selection-for-selected-tracks-and-selected-envelope-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9191,7 +9192,7 @@
       ];
     };
     amagalma-insert-pooled-instances-of-one-automation-item-in-time-selection-for-selected-tracks-and-selected-envelope-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-insert-pooled-instances-of-one-automation-item-in-time-selection-for-selected-tracks-and-selected-envelope-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9205,7 +9206,7 @@
       ];
     };
     amagalma-insert-pooled-instances-of-one-automation-item-in-time-selection-for-selected-tracks-and-selected-envelope-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-insert-pooled-instances-of-one-automation-item-in-time-selection-for-selected-tracks-and-selected-envelope-lua-1-11";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9219,7 +9220,7 @@
       ];
     };
     amagalma-insert-pooled-instances-of-one-automation-item-in-time-selection-for-selected-tracks-and-selected-envelope-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-insert-pooled-instances-of-one-automation-item-in-time-selection-for-selected-tracks-and-selected-envelope-lua-1-12";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9233,7 +9234,7 @@
       ];
     };
     amagalma-insert-pooled-instances-of-one-automation-item-in-time-selection-for-selected-tracks-and-selected-envelope-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-insert-pooled-instances-of-one-automation-item-in-time-selection-for-selected-tracks-and-selected-envelope-lua-1-13";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9247,7 +9248,7 @@
       ];
     };
     amagalma-insert-pooled-instances-of-one-automation-item-in-time-selection-for-selected-tracks-and-selected-envelope-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-insert-pooled-instances-of-one-automation-item-in-time-selection-for-selected-tracks-and-selected-envelope-lua-1-14";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9261,7 +9262,7 @@
       ];
     };
     amagalma-select-all-visible-pooled-instances-of-selected-automation-items-in-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-select-all-visible-pooled-instances-of-selected-automation-items-in-project-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9275,7 +9276,7 @@
       ];
     };
     amagalma-select-all-visible-pooled-instances-of-selected-automation-items-in-project-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-select-all-visible-pooled-instances-of-selected-automation-items-in-project-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9289,7 +9290,7 @@
       ];
     };
     cfillion-automation-item-selection-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-automation-item-selection-bundle-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9348,7 +9349,7 @@
       ];
     };
     cfillion-automation-item-selection-bundle-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-automation-item-selection-bundle-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9447,7 +9448,7 @@
       ];
     };
     cfillion-automation-item-selection-bundle-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-automation-item-selection-bundle-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9531,7 +9532,7 @@
       ];
     };
     cfillion-automation-item-selection-bundle-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-automation-item-selection-bundle-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9680,7 +9681,7 @@
       ];
     };
     cfillion-enable-or-disable-automation-item-loop-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-enable-or-disable-automation-item-loop-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9699,7 +9700,7 @@
       ];
     };
     cfillion-move-right-edge-of-selected-automation-items-to-end-of-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-move-right-edge-of-selected-automation-items-to-end-of-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9713,7 +9714,7 @@
       ];
     };
     cfillion-move-right-edge-of-selected-automation-items-to-end-of-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-move-right-edge-of-selected-automation-items-to-end-of-time-selection-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9732,7 +9733,7 @@
       ];
     };
     cfillion-move-right-edge-of-selected-automation-items-to-end-of-time-selection-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-move-right-edge-of-selected-automation-items-to-end-of-time-selection-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9751,7 +9752,7 @@
       ];
     };
     cfillion-split-selected-automation-items-at-project-markers-and-regions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-split-selected-automation-items-at-project-markers-and-regions-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9775,7 +9776,7 @@
       ];
     };
     edgemeal-set-first-selected-point-to-last-selected-point-value-in-ai-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-set-first-selected-point-to-last-selected-point-value-in-ai-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9789,7 +9790,7 @@
       ];
     };
     edgemeal-set-last-selected-point-to-first-selected-point-value-in-ai-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-set-last-selected-point-to-first-selected-point-value-in-ai-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9803,7 +9804,7 @@
       ];
     };
     select-all-visible-synchronous-pooled-instances-of-selected-automation-items-across-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "select-all-visible-synchronous-pooled-instances-of-selected-automation-items-across-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -9817,7 +9818,7 @@
       ];
     };
     amagalma-change-take-volume-insert-4-points-for-selected-items-or-selected-take-vol-env-in-time-selection-by-set-amount-down-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-change-take-volume-insert-4-points-for-selected-items-or-selected-take-vol-env-in-time-selection-by-set-amount-down-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -9831,7 +9832,7 @@
       ];
     };
     amagalma-change-take-volume-insert-4-points-for-selected-items-or-selected-take-vol-env-in-time-selection-by-set-amount-down-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-change-take-volume-insert-4-points-for-selected-items-or-selected-take-vol-env-in-time-selection-by-set-amount-down-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -9845,7 +9846,7 @@
       ];
     };
     amagalma-change-take-volume-insert-4-points-for-selected-items-or-selected-take-vol-env-in-time-selection-by-set-amount-settings-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-change-take-volume-insert-4-points-for-selected-items-or-selected-take-vol-env-in-time-selection-by-set-amount-settings-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -9859,7 +9860,7 @@
       ];
     };
     amagalma-change-take-volume-insert-4-points-for-selected-items-or-selected-take-vol-env-in-time-selection-by-set-amount-up-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-change-take-volume-insert-4-points-for-selected-items-or-selected-take-vol-env-in-time-selection-by-set-amount-up-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -9873,7 +9874,7 @@
       ];
     };
     amagalma-change-take-volume-insert-4-points-for-selected-items-or-selected-take-vol-env-in-time-selection-by-set-amount-up-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-change-take-volume-insert-4-points-for-selected-items-or-selected-take-vol-env-in-time-selection-by-set-amount-up-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -9887,7 +9888,7 @@
       ];
     };
     amagalma-clear-all-take-envelopes-for-all-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-clear-all-take-envelopes-for-all-selected-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -9901,7 +9902,7 @@
       ];
     };
     edgemeal-toggle-last-touched-take-fx-envelope-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-toggle-last-touched-take-fx-envelope-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -9915,7 +9916,7 @@
       ];
     };
     edgemeal-toggle-selected-items-take-envelopes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-toggle-selected-items-take-envelopes-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -9929,7 +9930,7 @@
       ];
     };
     edgemeal-toggle-selected-take-envelopes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-toggle-selected-take-envelopes-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -9943,7 +9944,7 @@
       ];
     };
     lokasenna-toggle-take-fx-envelope-visibility-in-selected-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toggle-take-fx-envelope-visibility-in-selected-items-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -9967,7 +9968,7 @@
       ];
     };
     odedd-convert-item-fades-to-take-volume-envelopes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "odedd-convert-item-fades-to-take-volume-envelopes-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -9981,7 +9982,7 @@
       ];
     };
     odedd-convert-item-fades-to-take-volume-envelopes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "odedd-convert-item-fades-to-take-volume-envelopes-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -9995,7 +9996,7 @@
       ];
     };
     odedd-convert-item-fades-to-take-volume-envelopes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "odedd-convert-item-fades-to-take-volume-envelopes-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10009,7 +10010,7 @@
       ];
     };
     odedd-convert-item-fades-to-take-volume-envelopes-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "odedd-convert-item-fades-to-take-volume-envelopes-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10023,7 +10024,7 @@
       ];
     };
     odedd-convert-item-fades-to-take-volume-envelopes-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "odedd-convert-item-fades-to-take-volume-envelopes-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10037,7 +10038,7 @@
       ];
     };
     spk77-copy-take-mute-envelope-from-selected-take-to-other-takes-in-same-group-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-copy-take-mute-envelope-from-selected-take-to-other-takes-in-same-group-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10051,7 +10052,7 @@
       ];
     };
     spk77-copy-take-pan-envelope-from-selected-take-to-other-takes-in-same-group-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-copy-take-pan-envelope-from-selected-take-to-other-takes-in-same-group-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10065,7 +10066,7 @@
       ];
     };
     spk77-copy-take-pitch-envelope-from-selected-take-to-other-takes-in-same-group-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-copy-take-pitch-envelope-from-selected-take-to-other-takes-in-same-group-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10079,7 +10080,7 @@
       ];
     };
     spk77-copy-take-volume-envelope-from-selected-take-to-other-takes-in-same-group-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-copy-take-volume-envelope-from-selected-take-to-other-takes-in-same-group-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10093,7 +10094,7 @@
       ];
     };
     spk77-create-take-mute-envelope-from-active-take-to-other-takes-in-item-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-create-take-mute-envelope-from-active-take-to-other-takes-in-item-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10107,7 +10108,7 @@
       ];
     };
     spk77-create-take-pan-envelope-from-active-take-to-other-takes-in-item-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-create-take-pan-envelope-from-active-take-to-other-takes-in-item-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10121,7 +10122,7 @@
       ];
     };
     spk77-create-take-pan-envelope-from-take-pan-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-create-take-pan-envelope-from-take-pan-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10135,7 +10136,7 @@
       ];
     };
     spk77-create-take-pitch-envelope-from-active-take-in-other-takes-in-item-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-create-take-pitch-envelope-from-active-take-in-other-takes-in-item-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10149,7 +10150,7 @@
       ];
     };
     spk77-create-take-volume-envelope-from-active-take-to-other-takes-in-item-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-create-take-volume-envelope-from-active-take-to-other-takes-in-item-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10163,7 +10164,7 @@
       ];
     };
     spk77-create-take-volume-envelope-from-active-take-to-other-takes-in-item-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-create-take-volume-envelope-from-active-take-to-other-takes-in-item-eel-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10177,7 +10178,7 @@
       ];
     };
     spk77-create-take-volume-envelope-from-active-take-to-other-takes-in-item-eel-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-create-take-volume-envelope-from-active-take-to-other-takes-in-item-eel-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10191,7 +10192,7 @@
       ];
     };
     spk77-paste-stored-take-mute-envelope-source-to-active-takes-in-same-group-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-paste-stored-take-mute-envelope-source-to-active-takes-in-same-group-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10205,7 +10206,7 @@
       ];
     };
     spk77-paste-stored-take-mute-envelope-source-to-active-takes-in-selected-items-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-paste-stored-take-mute-envelope-source-to-active-takes-in-selected-items-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10219,7 +10220,7 @@
       ];
     };
     spk77-paste-stored-take-pan-envelope-source-to-active-takes-in-same-group-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-paste-stored-take-pan-envelope-source-to-active-takes-in-same-group-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10233,7 +10234,7 @@
       ];
     };
     spk77-paste-stored-take-pan-envelope-source-to-active-takes-in-selected-items-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-paste-stored-take-pan-envelope-source-to-active-takes-in-selected-items-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10247,7 +10248,7 @@
       ];
     };
     spk77-paste-stored-take-pitch-envelope-source-to-active-takes-in-same-group-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-paste-stored-take-pitch-envelope-source-to-active-takes-in-same-group-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10261,7 +10262,7 @@
       ];
     };
     spk77-paste-stored-take-pitch-envelope-source-to-active-takes-in-selected-items-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-paste-stored-take-pitch-envelope-source-to-active-takes-in-selected-items-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10275,7 +10276,7 @@
       ];
     };
     spk77-paste-stored-take-vol-envelope-source-to-active-takes-in-same-group-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-paste-stored-take-vol-envelope-source-to-active-takes-in-same-group-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10289,7 +10290,7 @@
       ];
     };
     spk77-paste-stored-take-vol-envelope-source-to-active-takes-in-selected-items-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-paste-stored-take-vol-envelope-source-to-active-takes-in-selected-items-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10303,7 +10304,7 @@
       ];
     };
     spk77-paste-take-envelopes-from-active-take-to-other-takes-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-paste-take-envelopes-from-active-take-to-other-takes-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10317,7 +10318,7 @@
       ];
     };
     spk77-store-take-envelope-source-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-store-take-envelope-source-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Envelopes/Takes";
@@ -10331,7 +10332,7 @@
       ];
     };
     _80icio-floating-fx-bypass-toggle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_80icio-floating-fx-bypass-toggle-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10345,7 +10346,7 @@
       ];
     };
     _80icio-floating-fx-bypass-toggle-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_80icio-floating-fx-bypass-toggle-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10359,7 +10360,7 @@
       ];
     };
     amagalma-calculate-difference-in-lufs-for-selected-or-all-fx-of-focused-fx-chain-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-calculate-difference-in-lufs-for-selected-or-all-fx-of-focused-fx-chain-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10373,7 +10374,7 @@
       ];
     };
     amagalma-calculate-difference-in-lufs-for-selected-or-all-fx-of-focused-fx-chain-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-calculate-difference-in-lufs-for-selected-or-all-fx-of-focused-fx-chain-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10387,7 +10388,7 @@
       ];
     };
     amagalma-center-in-screen-the-floating-fx-or-fx-chain-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-center-in-screen-the-floating-fx-or-fx-chain-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10401,7 +10402,7 @@
       ];
     };
     amagalma-copy-paste-the-selected-or-all-the-fx-from-the-focused-fx-chain-to-all-the-selected-items-or-tracks-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-copy-paste-the-selected-or-all-the-fx-from-the-focused-fx-chain-to-all-the-selected-items-or-tracks-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10415,7 +10416,7 @@
       ];
     };
     amagalma-float-centered-exclusively-the-next-fx-for-the-current-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-float-centered-exclusively-the-next-fx-for-the-current-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10429,7 +10430,7 @@
       ];
     };
     amagalma-float-centered-exclusively-the-next-fx-for-the-current-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-float-centered-exclusively-the-next-fx-for-the-current-track-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10443,7 +10444,7 @@
       ];
     };
     amagalma-float-centered-exclusively-the-previous-fx-for-the-current-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-float-centered-exclusively-the-previous-fx-for-the-current-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10457,7 +10458,7 @@
       ];
     };
     amagalma-float-centered-exclusively-the-previous-fx-for-the-current-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-float-centered-exclusively-the-previous-fx-for-the-current-track-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10471,7 +10472,7 @@
       ];
     };
     amagalma-list-parameters-id-numbers-and-names-for-focused-fx-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-list-parameters-id-numbers-and-names-for-focused-fx-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10485,7 +10486,7 @@
       ];
     };
     amagalma-re-open-and-float-the-last-touched-and-closed-fx-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-re-open-and-float-the-last-touched-and-closed-fx-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10499,7 +10500,7 @@
       ];
     };
     amagalma-toggle-wet-0-100-or-current-value-for-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-wet-0-100-or-current-value-for-focused-fx-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10513,7 +10514,7 @@
       ];
     };
     amagalma-toggle-wet-0-100-or-current-value-for-focused-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-wet-0-100-or-current-value-for-focused-fx-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10527,7 +10528,7 @@
       ];
     };
     amagalma-toggle-wet-0-100-or-current-value-for-focused-fx-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-wet-0-100-or-current-value-for-focused-fx-lua-1-11";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10541,7 +10542,7 @@
       ];
     };
     amagalma-toggle-wet-0-100-or-current-value-for-focused-fx-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-wet-0-100-or-current-value-for-focused-fx-lua-1-12";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10555,7 +10556,7 @@
       ];
     };
     buyone-un-tag-fx-with-in-active-envelopes-settings-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-un-tag-fx-with-in-active-envelopes-settings-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10569,7 +10570,7 @@
       ];
     };
     buyone-un-tag-fx-with-in-active-parameter-modulation-sett-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-un-tag-fx-with-in-active-parameter-modulation-sett-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10583,7 +10584,7 @@
       ];
     };
     buyone-fx-presets-menu-guide-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-fx-presets-menu-guide-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10597,7 +10598,7 @@
       ];
     };
     buyone-fx-presets-menu-guide-inside-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-fx-presets-menu-guide-inside-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10611,7 +10612,7 @@
       ];
     };
     buyone-fx-presets-menu-guide-inside-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-fx-presets-menu-guide-inside-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10625,7 +10626,7 @@
       ];
     };
     buyone-fx-presets-menu-guide-inside-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-fx-presets-menu-guide-inside-lua-1-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10639,7 +10640,7 @@
       ];
     };
     buyone-fx-presets-menu-guide-inside-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-fx-presets-menu-guide-inside-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10653,7 +10654,7 @@
       ];
     };
     buyone-fx-presets-menu-guide-inside-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-fx-presets-menu-guide-inside-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10667,7 +10668,7 @@
       ];
     };
     buyone-fx-presets-menu-guide-inside-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-fx-presets-menu-guide-inside-lua-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10681,7 +10682,7 @@
       ];
     };
     buyone-fx-presets-navigation-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-fx-presets-navigation-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10725,7 +10726,7 @@
       ];
     };
     buyone-fx-presets-navigation-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-fx-presets-navigation-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10769,7 +10770,7 @@
       ];
     };
     buyone-generate-reabank-file-from-fx-preset-list-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-generate-reabank-file-from-fx-preset-list-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10783,7 +10784,7 @@
       ];
     };
     buyone-insert-selected-fx-or-fx-chain-presets-in-or-copy-focused-fx-to-selected-objects-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-insert-selected-fx-or-fx-chain-presets-in-or-copy-focused-fx-to-selected-objects-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10797,7 +10798,7 @@
       ];
     };
     buyone-insert-selected-fx-or-fx-chain-presets-in-or-copy-focused-fx-to-selected-objects-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-insert-selected-fx-or-fx-chain-presets-in-or-copy-focused-fx-to-selected-objects-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10811,7 +10812,7 @@
       ];
     };
     buyone-insert-selected-fx-or-fx-chain-presets-in-or-copy-focused-fx-to-selected-objects-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-insert-selected-fx-or-fx-chain-presets-in-or-copy-focused-fx-to-selected-objects-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10825,7 +10826,7 @@
       ];
     };
     buyone-insert-selected-fx-or-fx-chain-presets-in-or-copy-focused-fx-to-selected-objects-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-insert-selected-fx-or-fx-chain-presets-in-or-copy-focused-fx-to-selected-objects-lua-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10839,7 +10840,7 @@
       ];
     };
     buyone-link-two-fx-parameters-via-parameter-modulation-guide-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-link-two-fx-parameters-via-parameter-modulation-guide-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10853,7 +10854,7 @@
       ];
     };
     buyone-list-all-linked-fx-parameters-in-the-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-list-all-linked-fx-parameters-in-the-project-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10867,7 +10868,7 @@
       ];
     };
     buyone-load-fx-chain-on-selected-objects-via-file-dialogue-guide-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-load-fx-chain-on-selected-objects-via-file-dialogue-guide-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10881,7 +10882,7 @@
       ];
     };
     buyone-load-fx-chain-on-selected-objects-via-file-dialogue-guide-inside-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-load-fx-chain-on-selected-objects-via-file-dialogue-guide-inside-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10895,7 +10896,7 @@
       ];
     };
     buyone-lock-fx-and-fx-chains-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-lock-fx-and-fx-chains-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10914,7 +10915,7 @@
       ];
     };
     buyone-lock-fx-and-fx-chains-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-lock-fx-and-fx-chains-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10933,7 +10934,7 @@
       ];
     };
     buyone-lock-fx-and-fx-chains-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-lock-fx-and-fx-chains-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10952,7 +10953,7 @@
       ];
     };
     buyone-lock-fx-and-fx-chains-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-lock-fx-and-fx-chains-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -10971,7 +10972,7 @@
       ];
     };
     buyone-toggle-un-bypass-input-fx-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-toggle-un-bypass-input-fx-for-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11115,7 +11116,7 @@
       ];
     };
     buyone-toggle-bypass-offline-state-of-all-fx-in-a-focused-selected-item-take-plus-visual-indication-guide-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-toggle-bypass-offline-state-of-all-fx-in-a-focused-selected-item-take-plus-visual-indication-guide-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11129,7 +11130,7 @@
       ];
     };
     buyone-update-fx-chain-at-object-selection-when-one-fx-window-at-a-time-enabled-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-update-fx-chain-at-object-selection-when-one-fx-window-at-a-time-enabled-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11143,7 +11144,7 @@
       ];
     };
     buyone-update-fx-chain-at-object-selection-when-one-fx-window-at-a-time-enabled-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-update-fx-chain-at-object-selection-when-one-fx-window-at-a-time-enabled-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11157,7 +11158,7 @@
       ];
     };
     buyone-update-fx-chain-at-object-selection-when-one-fx-window-at-a-time-enabled-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-update-fx-chain-at-object-selection-when-one-fx-window-at-a-time-enabled-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11171,7 +11172,7 @@
       ];
     };
     buyone-update-fx-chain-at-object-selection-when-one-fx-window-at-a-time-enabled-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-update-fx-chain-at-object-selection-when-one-fx-window-at-a-time-enabled-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11185,7 +11186,7 @@
       ];
     };
     cfillion-monitoring-fx-bypass-bundle-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-monitoring-fx-bypass-bundle-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11314,7 +11315,7 @@
       ];
     };
     cfillion-repair-missing-jsfx-files-in-current-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-repair-missing-jsfx-files-in-current-project-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11328,7 +11329,7 @@
       ];
     };
     cfillion-show-reapack-about-dialog-for-the-focused-jsfx-lua-0-1beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-show-reapack-about-dialog-for-the-focused-jsfx-lua-0-1beta";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11342,7 +11343,7 @@
       ];
     };
     cfillion-show-reapack-about-dialog-for-the-focused-jsfx-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-show-reapack-about-dialog-for-the-focused-jsfx-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11356,7 +11357,7 @@
       ];
     };
     cfillion-toggle-input-fx-bypass-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-toggle-input-fx-bypass-for-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11405,7 +11406,7 @@
       ];
     };
     edgemeal-copy-fx-from-item-under-mouse-to-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-copy-fx-from-item-under-mouse-to-selected-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11419,7 +11420,7 @@
       ];
     };
     edgemeal-copy-fx-from-item-under-mouse-to-selected-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-copy-fx-from-item-under-mouse-to-selected-items-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11433,7 +11434,7 @@
       ];
     };
     edgemeal-display-last-touched-fx-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-display-last-touched-fx-parameter-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11447,7 +11448,7 @@
       ];
     };
     edgemeal-display-last-touched-fx-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-display-last-touched-fx-parameter-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11461,7 +11462,7 @@
       ];
     };
     edgemeal-save-and-restore-selected-tracks-floating-fx-windows-4-slots-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-save-and-restore-selected-tracks-floating-fx-windows-4-slots-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11510,7 +11511,7 @@
       ];
     };
     edgemeal-save-and-restore-selected-tracks-floating-fx-windows-4-slots-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-save-and-restore-selected-tracks-floating-fx-windows-4-slots-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11559,7 +11560,7 @@
       ];
     };
     edgemeal-save-selected-tracks-floating-input-fx-windows-to-slot-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-save-selected-tracks-floating-input-fx-windows-to-slot-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11608,7 +11609,7 @@
       ];
     };
     edgemeal-toggle-show-monitoring-fx-chain-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-toggle-show-monitoring-fx-chain-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11622,7 +11623,7 @@
       ];
     };
     fabian-mfxlist-lua-0-9-1beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fabian-mfxlist-lua-0-9-1beta";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11636,7 +11637,7 @@
       ];
     };
     fabian-mfxlist-lua-0-9-2beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fabian-mfxlist-lua-0-9-2beta";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11650,7 +11651,7 @@
       ];
     };
     fabian-mfxlist-lua-0-9-3beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fabian-mfxlist-lua-0-9-3beta";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11664,7 +11665,7 @@
       ];
     };
     fabian-mfxlist-lua-0-9-4beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fabian-mfxlist-lua-0-9-4beta";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11678,7 +11679,7 @@
       ];
     };
     fabian-mfxlist-lua-0-9-5beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fabian-mfxlist-lua-0-9-5beta";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11692,7 +11693,7 @@
       ];
     };
     fabian-mfxlist-lua-0-9-6beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fabian-mfxlist-lua-0-9-6beta";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11706,7 +11707,7 @@
       ];
     };
     fabian-mfxlist-lua-0-9-7beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fabian-mfxlist-lua-0-9-7beta";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11720,7 +11721,7 @@
       ];
     };
     fabian-mfxlist-lua-0-9-8beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fabian-mfxlist-lua-0-9-8beta";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11734,7 +11735,7 @@
       ];
     };
     fabian-mfxlist-lua-0-9-9beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fabian-mfxlist-lua-0-9-9beta";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11748,7 +11749,7 @@
       ];
     };
     jrtaylormusic-get-and-propagate-last-touched-fx-parameter-to-all-instances-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jrtaylormusic-get-and-propagate-last-touched-fx-parameter-to-all-instances-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11762,7 +11763,7 @@
       ];
     };
     js-track-fx-grouping-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-track-fx-grouping-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11776,7 +11777,7 @@
       ];
     };
     js-track-fx-grouping-lua-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-track-fx-grouping-lua-0-91";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11790,7 +11791,7 @@
       ];
     };
     js-track-fx-grouping-lua-0-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-track-fx-grouping-lua-0-92";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11804,7 +11805,7 @@
       ];
     };
     js-track-fx-grouping-lua-0-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-track-fx-grouping-lua-0-93";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11818,7 +11819,7 @@
       ];
     };
     kawa-trackfxs-routing-matrix-ds-kw-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-trackfxs-routing-matrix-ds-kw-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11832,7 +11833,7 @@
       ];
     };
     larryseyer-live-keys-scripts-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "larryseyer-live-keys-scripts-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -11931,7 +11932,7 @@
       ];
     };
     larryseyer-live-keys-scripts-lua-1-0-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "larryseyer-live-keys-scripts-lua-1-0-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12030,7 +12031,7 @@
       ];
     };
     lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12084,7 +12085,7 @@
       ];
     };
     lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12148,7 +12149,7 @@
       ];
     };
     lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12217,7 +12218,7 @@
       ];
     };
     lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12286,7 +12287,7 @@
       ];
     };
     lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-2-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12405,7 +12406,7 @@
       ];
     };
     lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-2-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12524,7 +12525,7 @@
       ];
     };
     lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-2-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-2-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12698,7 +12699,7 @@
       ];
     };
     lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-adjust-reasamplomatic-5000-pitch-offset-lua-2-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12872,7 +12873,7 @@
       ];
     };
     lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12886,7 +12887,7 @@
       ];
     };
     lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12900,7 +12901,7 @@
       ];
     };
     lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12914,7 +12915,7 @@
       ];
     };
     lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-21";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12928,7 +12929,7 @@
       ];
     };
     lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-30";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12942,7 +12943,7 @@
       ];
     };
     lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-31";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12956,7 +12957,7 @@
       ];
     };
     lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-32";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12970,7 +12971,7 @@
       ];
     };
     lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toggle-fx-bypass-by-track-and-slot-lua-1-33";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12984,7 +12985,7 @@
       ];
     };
     sexan-lil-fx-slot-homie-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-lil-fx-slot-homie-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -12998,7 +12999,7 @@
       ];
     };
     sexan-lil-fx-slot-homie-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-lil-fx-slot-homie-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13012,7 +13013,7 @@
       ];
     };
     sexan-lil-fx-slot-homie-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-lil-fx-slot-homie-lua-1-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13026,7 +13027,7 @@
       ];
     };
     spk77-link-selected-tracks-fx-parameters-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-link-selected-tracks-fx-parameters-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13040,7 +13041,7 @@
       ];
     };
     spk77-link-selected-tracks-fx-parameters-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-link-selected-tracks-fx-parameters-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13054,7 +13055,7 @@
       ];
     };
     spk77-link-selected-tracks-fx-parameters-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-link-selected-tracks-fx-parameters-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13068,7 +13069,7 @@
       ];
     };
     tagirijus-fx-list-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-fx-list-menu-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13082,7 +13083,7 @@
       ];
     };
     tagirijus-fx-list-menu-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-fx-list-menu-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13096,7 +13097,7 @@
       ];
     };
     tagirijus-fx-list-menu-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-fx-list-menu-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13110,7 +13111,7 @@
       ];
     };
     tagirijus-fx-list-menu-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-fx-list-menu-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13124,7 +13125,7 @@
       ];
     };
     tagirijus-toggle-bypass-non-instrument-fx-on-selected-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-toggle-bypass-non-instrument-fx-on-selected-track-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13138,7 +13139,7 @@
       ];
     };
     tilr-rs5k-mapper-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-rs5k-mapper-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13157,7 +13158,7 @@
       ];
     };
     tilr-rs5k-mapper-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-rs5k-mapper-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13176,7 +13177,7 @@
       ];
     };
     tompad-fx-chain-ab-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-fx-chain-ab-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13190,7 +13191,7 @@
       ];
     };
     tompad-fx-chain-ab-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-fx-chain-ab-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13204,7 +13205,7 @@
       ];
     };
     tompad-fx-chain-ab-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-fx-chain-ab-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13218,7 +13219,7 @@
       ];
     };
     tompad-fx-chain-ab-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-fx-chain-ab-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "FX";
@@ -13232,7 +13233,7 @@
       ];
     };
     _80icio-perfect-timing-audio-quantizer-lua-0-21-beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_80icio-perfect-timing-audio-quantizer-lua-0-21-beta";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13246,7 +13247,7 @@
       ];
     };
     _80icio-perfect-timing-audio-quantizer-lua-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_80icio-perfect-timing-audio-quantizer-lua-0-22";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13260,7 +13261,7 @@
       ];
     };
     _80icio-perfect-timing-audio-quantizer-lua-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_80icio-perfect-timing-audio-quantizer-lua-0-23";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13274,7 +13275,7 @@
       ];
     };
     _80icio-perfect-timing-audio-quantizer-lua-0-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_80icio-perfect-timing-audio-quantizer-lua-0-24";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13288,7 +13289,7 @@
       ];
     };
     _80icio-perfect-timing-audio-quantizer-lua-0-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_80icio-perfect-timing-audio-quantizer-lua-0-25";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13302,7 +13303,7 @@
       ];
     };
     _80icio-perfect-timing-audio-quantizer-lua-0-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_80icio-perfect-timing-audio-quantizer-lua-0-26";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13316,7 +13317,7 @@
       ];
     };
     _80icio-perfect-timing-audio-quantizer-lua-0-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_80icio-perfect-timing-audio-quantizer-lua-0-27";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13330,7 +13331,7 @@
       ];
     };
     add-project-markers-as-cue-points-to-selected-items-and-replace-source-files-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "add-project-markers-as-cue-points-to-selected-items-and-replace-source-files-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13344,7 +13345,7 @@
       ];
     };
     ak5k-drums-to-midi-lua-0-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-drums-to-midi-lua-0-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13358,7 +13359,7 @@
       ];
     };
     ak5k-drums-to-midi-lua-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-drums-to-midi-lua-0-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13372,7 +13373,7 @@
       ];
     };
     ak5k-toms-tool-lua-0-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-toms-tool-lua-0-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13386,7 +13387,7 @@
       ];
     };
     amagalma-add-all-completely-visible-items-in-arrange-viewport-to-selection-for-all-completely-visible-tracks-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-add-all-completely-visible-items-in-arrange-viewport-to-selection-for-all-completely-visible-tracks-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13400,7 +13401,7 @@
       ];
     };
     amagalma-add-all-completely-visible-items-in-arrange-viewport-to-selection-for-selected-tracks-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-add-all-completely-visible-items-in-arrange-viewport-to-selection-for-selected-tracks-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13414,7 +13415,7 @@
       ];
     };
     amagalma-apply-track-take-fx-to-items-mono-output-and-place-in-new-track-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-apply-track-take-fx-to-items-mono-output-and-place-in-new-track-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13428,7 +13429,7 @@
       ];
     };
     amagalma-apply-track-take-fx-to-items-stereo-output-and-place-in-new-track-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-apply-track-take-fx-to-items-stereo-output-and-place-in-new-track-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13442,7 +13443,7 @@
       ];
     };
     amagalma-close-gaps-remove-space-between-all-items-of-selected-tracks-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-close-gaps-remove-space-between-all-items-of-selected-tracks-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13456,7 +13457,7 @@
       ];
     };
     amagalma-close-gaps-remove-space-between-selected-items-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-close-gaps-remove-space-between-selected-items-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13470,7 +13471,7 @@
       ];
     };
     amagalma-convert-empty-items-with-notes-to-dedicated-video-processor-item-named-after-the-notes-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-convert-empty-items-with-notes-to-dedicated-video-processor-item-named-after-the-notes-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13484,7 +13485,7 @@
       ];
     };
     amagalma-copy-paste-items-edges-positions-item-start-and-end-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-copy-paste-items-edges-positions-item-start-and-end-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13498,7 +13499,7 @@
       ];
     };
     amagalma-crossfade-any-overlapping-items-even-on-different-tracks-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-crossfade-any-overlapping-items-even-on-different-tracks-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13512,7 +13513,7 @@
       ];
     };
     amagalma-crossfade-any-overlapping-items-even-on-different-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-crossfade-any-overlapping-items-even-on-different-tracks-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13526,7 +13527,7 @@
       ];
     };
     amagalma-delete-and-retain-selected-items-in-project-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-delete-and-retain-selected-items-in-project-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13540,7 +13541,7 @@
       ];
     };
     amagalma-delete-cc-text-sysex-events-by-type-for-selected-midi-items-active-takes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-delete-cc-text-sysex-events-by-type-for-selected-midi-items-active-takes-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13554,7 +13555,7 @@
       ];
     };
     amagalma-delete-cc-text-sysex-events-by-type-for-selected-midi-items-active-takes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-delete-cc-text-sysex-events-by-type-for-selected-midi-items-active-takes-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13568,7 +13569,7 @@
       ];
     };
     amagalma-delete-cc-text-sysex-events-by-type-for-selected-midi-items-active-takes-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-delete-cc-text-sysex-events-by-type-for-selected-midi-items-active-takes-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13582,7 +13583,7 @@
       ];
     };
     amagalma-delete-crossfade-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-delete-crossfade-under-mouse-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13596,7 +13597,7 @@
       ];
     };
     amagalma-explode-takes-of-items-across-children-tracks-optionally-mute-and-lock-original-items-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-explode-takes-of-items-across-children-tracks-optionally-mute-and-lock-original-items-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13610,7 +13611,7 @@
       ];
     };
     amagalma-explode-takes-of-items-across-children-tracks-optionally-mute-and-lock-original-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-explode-takes-of-items-across-children-tracks-optionally-mute-and-lock-original-items-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13624,7 +13625,7 @@
       ];
     };
     amagalma-explode-takes-of-items-across-children-tracks-optionally-mute-and-lock-original-items-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-explode-takes-of-items-across-children-tracks-optionally-mute-and-lock-original-items-lua-1-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13638,7 +13639,7 @@
       ];
     };
     amagalma-explode-takes-of-items-across-children-tracks-optionally-mute-and-lock-original-items-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-explode-takes-of-items-across-children-tracks-optionally-mute-and-lock-original-items-lua-1-07";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13652,7 +13653,7 @@
       ];
     };
     amagalma-explode-takes-of-items-across-children-tracks-optionally-mute-and-lock-original-items-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-explode-takes-of-items-across-children-tracks-optionally-mute-and-lock-original-items-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13666,7 +13667,7 @@
       ];
     };
     amagalma-explode-takes-of-items-across-tracks-according-to-source-files-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-explode-takes-of-items-across-tracks-according-to-source-files-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13680,7 +13681,7 @@
       ];
     };
     amagalma-explode-takes-of-items-across-tracks-according-to-source-files-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-explode-takes-of-items-across-tracks-according-to-source-files-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13694,7 +13695,7 @@
       ];
     };
     amagalma-explode-takes-of-items-across-tracks-according-to-source-files-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-explode-takes-of-items-across-tracks-according-to-source-files-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13708,7 +13709,7 @@
       ];
     };
     amagalma-explode-takes-of-items-across-tracks-according-to-source-files-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-explode-takes-of-items-across-tracks-according-to-source-files-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13722,7 +13723,7 @@
       ];
     };
     amagalma-fill-space-between-selected-items-with-empty-items-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-fill-space-between-selected-items-with-empty-items-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13736,7 +13737,7 @@
       ];
     };
     amagalma-implode-enclosed-items-as-takes-of-longer-items-on-the-same-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-implode-enclosed-items-as-takes-of-longer-items-on-the-same-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13750,7 +13751,7 @@
       ];
     };
     amagalma-implode-enclosed-items-as-takes-of-longer-items-on-the-same-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-implode-enclosed-items-as-takes-of-longer-items-on-the-same-track-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13764,7 +13765,7 @@
       ];
     };
     amagalma-implode-enclosed-items-as-takes-of-longer-items-on-the-same-track-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-implode-enclosed-items-as-takes-of-longer-items-on-the-same-track-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13778,7 +13779,7 @@
       ];
     };
     amagalma-implode-items-across-tracks-into-takes-keep-splits-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-implode-items-across-tracks-into-takes-keep-splits-lua-1-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13792,7 +13793,7 @@
       ];
     };
     amagalma-move-closest-crossfade-to-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-move-closest-crossfade-to-mouse-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13806,7 +13807,7 @@
       ];
     };
     amagalma-nudge-to-source-preferred-position-used-by-bwf-for-selected-items-active-takes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-nudge-to-source-preferred-position-used-by-bwf-for-selected-items-active-takes-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13820,7 +13821,7 @@
       ];
     };
     amagalma-remove-selected-items-active-takes-source-file-cue-points-wav-only-no-undo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-remove-selected-items-active-takes-source-file-cue-points-wav-only-no-undo-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13834,7 +13835,7 @@
       ];
     };
     amagalma-remove-selected-items-active-takes-source-file-cue-points-wav-only-no-undo-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-remove-selected-items-active-takes-source-file-cue-points-wav-only-no-undo-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13848,7 +13849,7 @@
       ];
     };
     amagalma-remove-selected-items-cue-points-and-replace-source-file-wav-only-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-remove-selected-items-cue-points-and-replace-source-file-wav-only-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13862,7 +13863,7 @@
       ];
     };
     amagalma-remove-selected-items-cue-points-and-replace-source-file-wav-only-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-remove-selected-items-cue-points-and-replace-source-file-wav-only-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13876,7 +13877,7 @@
       ];
     };
     amagalma-remove-selected-items-cue-points-and-replace-source-file-wav-only-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-remove-selected-items-cue-points-and-replace-source-file-wav-only-lua-1-11";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13890,7 +13891,7 @@
       ];
     };
     amagalma-remove-visible-content-trim-behind-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-remove-visible-content-trim-behind-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13904,7 +13905,7 @@
       ];
     };
     amagalma-remove-visible-content-trim-behind-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-remove-visible-content-trim-behind-items-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13918,7 +13919,7 @@
       ];
     };
     amagalma-remove-visible-content-trim-behind-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-remove-visible-content-trim-behind-items-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13932,7 +13933,7 @@
       ];
     };
     amagalma-remove-visible-content-trim-behind-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-remove-visible-content-trim-behind-items-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13946,7 +13947,7 @@
       ];
     };
     amagalma-remove-visible-fades-from-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-remove-visible-fades-from-selected-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13960,7 +13961,7 @@
       ];
     };
     amagalma-set-items-rate-according-to-their-bpm-metadata-tag-if-present-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-set-items-rate-according-to-their-bpm-metadata-tag-if-present-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13974,7 +13975,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -13988,7 +13989,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14002,7 +14003,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-21";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14016,7 +14017,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-22";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14030,7 +14031,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-24";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14044,7 +14045,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-25";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14058,7 +14059,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-26";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14072,7 +14073,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-27";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14086,7 +14087,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-28";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14100,7 +14101,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-30";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14114,7 +14115,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-31";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14128,7 +14129,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-32";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14142,7 +14143,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-33";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14156,7 +14157,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-34";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14170,7 +14171,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-35";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14184,7 +14185,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-36";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14198,7 +14199,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-37";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14212,7 +14213,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-50";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14226,7 +14227,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-51";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14240,7 +14241,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-60";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14254,7 +14255,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-61";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14268,7 +14269,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-70";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14282,7 +14283,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-71";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14296,7 +14297,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-72";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14310,7 +14311,7 @@
       ];
     };
     amagalma-smart-crossfade-lua-1-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-73";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14324,7 +14325,7 @@
       ];
     };
     amagalma-snap-midi-item-s-edges-to-grid-without-changing-content-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-snap-midi-item-s-edges-to-grid-without-changing-content-position-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14338,7 +14339,7 @@
       ];
     };
     amagalma-split-item-at-mouse-cursor-position-use-defined-crossfade-and-selection-settings-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-item-at-mouse-cursor-position-use-defined-crossfade-and-selection-settings-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14357,7 +14358,7 @@
       ];
     };
     amagalma-split-item-at-mouse-cursor-position-use-defined-crossfade-and-selection-settings-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-item-at-mouse-cursor-position-use-defined-crossfade-and-selection-settings-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14376,7 +14377,7 @@
       ];
     };
     amagalma-split-item-at-mouse-cursor-position-use-defined-crossfade-and-selection-settings-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-item-at-mouse-cursor-position-use-defined-crossfade-and-selection-settings-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14395,7 +14396,7 @@
       ];
     };
     amagalma-split-item-at-mouse-cursor-position-use-defined-crossfade-and-selection-settings-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-item-at-mouse-cursor-position-use-defined-crossfade-and-selection-settings-lua-1-04";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14414,7 +14415,7 @@
       ];
     };
     amagalma-split-item-at-mouse-cursor-position-use-defined-crossfade-and-selection-settings-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-item-at-mouse-cursor-position-use-defined-crossfade-and-selection-settings-lua-1-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14433,7 +14434,7 @@
       ];
     };
     amagalma-split-item-at-mouse-cursor-position-use-defined-crossfade-and-selection-settings-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-item-at-mouse-cursor-position-use-defined-crossfade-and-selection-settings-lua-1-06";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14452,7 +14453,7 @@
       ];
     };
     amagalma-split-item-at-mouse-cursor-position-use-defined-crossfade-and-selection-settings-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-item-at-mouse-cursor-position-use-defined-crossfade-and-selection-settings-lua-1-07";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14471,7 +14472,7 @@
       ];
     };
     amagalma-split-items-under-mouse-with-selection-option-selected-items-get-priority-over-grouped-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-items-under-mouse-with-selection-option-selected-items-get-priority-over-grouped-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14485,7 +14486,7 @@
       ];
     };
     amagalma-split-items-under-mouse-with-selection-option-selected-items-get-priority-over-grouped-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-items-under-mouse-with-selection-option-selected-items-get-priority-over-grouped-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14499,7 +14500,7 @@
       ];
     };
     amagalma-split-items-under-mouse-with-selection-option-selected-items-get-priority-over-grouped-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-items-under-mouse-with-selection-option-selected-items-get-priority-over-grouped-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14513,7 +14514,7 @@
       ];
     };
     amagalma-split-items-under-mouse-with-selection-option-selected-items-get-priority-over-grouped-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-items-under-mouse-with-selection-option-selected-items-get-priority-over-grouped-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14527,7 +14528,7 @@
       ];
     };
     amagalma-toggle-guide-line-size-between-full-arrange-or-item-height-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-guide-line-size-between-full-arrange-or-item-height-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14541,7 +14542,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14555,7 +14556,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-21";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14569,7 +14570,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-25";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14583,7 +14584,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-26";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14597,7 +14598,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-30";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14611,7 +14612,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-31";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14625,7 +14626,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-40";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14639,7 +14640,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-41";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14653,7 +14654,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-50";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14667,7 +14668,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-55";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14681,7 +14682,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-57";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14695,7 +14696,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-58";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14709,7 +14710,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-59";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14723,7 +14724,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-60";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14737,7 +14738,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-61";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14751,7 +14752,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-62 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-62";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14765,7 +14766,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-75";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14779,7 +14780,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-80";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14793,7 +14794,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-81 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-81";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14807,7 +14808,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-82";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14821,7 +14822,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-84 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-84";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14835,7 +14836,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-85 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-85";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14849,7 +14850,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-86 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-86";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14863,7 +14864,7 @@
       ];
     };
     amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-87 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-editing-guide-line-on-item-under-mouse-cursor-in-main-window-or-in-midi-editor-lua-1-87";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14877,7 +14878,7 @@
       ];
     };
     argitoth-select-items-with-color-of-selected-items-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "argitoth-select-items-with-color-of-selected-items-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14891,7 +14892,7 @@
       ];
     };
     atmanactive-apply-track-take-fx-to-selected-items-and-propagate-new-files-to-other-items-with-same-source-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "atmanactive-apply-track-take-fx-to-selected-items-and-propagate-new-files-to-other-items-with-same-source-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14905,7 +14906,7 @@
       ];
     };
     az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14919,7 +14920,7 @@
       ];
     };
     az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14933,7 +14934,7 @@
       ];
     };
     az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14947,7 +14948,7 @@
       ];
     };
     az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14961,7 +14962,7 @@
       ];
     };
     az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -14985,7 +14986,7 @@
       ];
     };
     az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15009,7 +15010,7 @@
       ];
     };
     az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15033,7 +15034,7 @@
       ];
     };
     az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15057,7 +15058,7 @@
       ];
     };
     az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15081,7 +15082,7 @@
       ];
     };
     az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15105,7 +15106,7 @@
       ];
     };
     az-open-item-copy-in-primary-external-editor-with-handles-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-open-item-copy-in-primary-external-editor-with-handles-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15119,7 +15120,7 @@
       ];
     };
     az-smart-split-items-by-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-smart-split-items-by-mouse-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15133,7 +15134,7 @@
       ];
     };
     az-smart-split-items-by-mouse-cursor-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-smart-split-items-by-mouse-cursor-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15147,7 +15148,7 @@
       ];
     };
     az-smart-split-items-by-mouse-cursor-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-smart-split-items-by-mouse-cursor-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15161,7 +15162,7 @@
       ];
     };
     az-smart-split-items-by-mouse-cursor-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-smart-split-items-by-mouse-cursor-lua-2-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15175,7 +15176,7 @@
       ];
     };
     az-smart-split-items-by-mouse-cursor-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-smart-split-items-by-mouse-cursor-lua-2-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15189,7 +15190,7 @@
       ];
     };
     az-smart-split-items-by-mouse-cursor-lua-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-smart-split-items-by-mouse-cursor-lua-2-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15203,7 +15204,7 @@
       ];
     };
     az-smart-split-items-by-mouse-cursor-lua-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-smart-split-items-by-mouse-cursor-lua-3-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15222,7 +15223,7 @@
       ];
     };
     az-smart-split-items-by-mouse-cursor-lua-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-smart-split-items-by-mouse-cursor-lua-3-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15241,7 +15242,7 @@
       ];
     };
     az-smart-split-items-by-mouse-cursor-lua-3-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-smart-split-items-by-mouse-cursor-lua-3-15";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15260,7 +15261,7 @@
       ];
     };
     az-smart-split-items-by-mouse-cursor-lua-3-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-smart-split-items-by-mouse-cursor-lua-3-20";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15279,7 +15280,7 @@
       ];
     };
     az-smart-split-items-by-mouse-cursor-lua-3-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-smart-split-items-by-mouse-cursor-lua-3-30";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15298,7 +15299,7 @@
       ];
     };
     az-smart-split-items-by-mouse-cursor-lua-3-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-smart-split-items-by-mouse-cursor-lua-3-40";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15317,7 +15318,7 @@
       ];
     };
     az-trim-left-right-or-both-item-edges-via-mouse-and-razor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-trim-left-right-or-both-item-edges-via-mouse-and-razor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15331,7 +15332,7 @@
       ];
     };
     az-trim-left-right-or-both-item-edges-via-mouse-and-razor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-trim-left-right-or-both-item-edges-via-mouse-and-razor-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15345,7 +15346,7 @@
       ];
     };
     az-trim-left-right-or-both-item-edges-via-mouse-and-razor-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-trim-left-right-or-both-item-edges-via-mouse-and-razor-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15364,7 +15365,7 @@
       ];
     };
     az-trim-left-right-or-both-item-edges-via-mouse-and-razor-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-trim-left-right-or-both-item-edges-via-mouse-and-razor-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15383,7 +15384,7 @@
       ];
     };
     az-trim-left-right-or-both-item-edges-via-mouse-and-razor-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-trim-left-right-or-both-item-edges-via-mouse-and-razor-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15402,7 +15403,7 @@
       ];
     };
     beaunus-name-item-takes-by-last-marker-to-cut-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "beaunus-name-item-takes-by-last-marker-to-cut-item-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15416,7 +15417,7 @@
       ];
     };
     bfut-extract-loop-section-under-mouse-cursor-to-new-item-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-extract-loop-section-under-mouse-cursor-to-new-item-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15430,7 +15431,7 @@
       ];
     };
     bfut-select-items-of-less-than-1-sample-in-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-select-items-of-less-than-1-sample-in-length-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15444,7 +15445,7 @@
       ];
     };
     bfut-split-looped-item-into-separate-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-split-looped-item-into-separate-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15458,7 +15459,7 @@
       ];
     };
     bfut-split-looped-item-into-separate-items-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-split-looped-item-into-separate-items-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15472,7 +15473,7 @@
       ];
     };
     bfut-trim-to-source-media-lengths-limit-items-lengths-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-trim-to-source-media-lengths-limit-items-lengths-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15486,7 +15487,7 @@
       ];
     };
     bfut-trim-to-source-media-lengths-limit-items-lengths-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-trim-to-source-media-lengths-limit-items-lengths-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15500,7 +15501,7 @@
       ];
     };
     bfut-unselect-items-touching-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-unselect-items-touching-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15514,7 +15515,7 @@
       ];
     };
     bfut-unselect-items-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-unselect-items-within-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15528,7 +15529,7 @@
       ];
     };
     boringcactus-beatpermute-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "boringcactus-beatpermute-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15542,7 +15543,7 @@
       ];
     };
     breeder-spk77-gluetools-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "breeder-spk77-gluetools-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15556,7 +15557,7 @@
       ];
     };
     breeder-spk77-gluetools-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "breeder-spk77-gluetools-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15570,7 +15571,7 @@
       ];
     };
     buyone-create-pitch-rate-vari-speed-take-envelope-and-render-to-new-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-create-pitch-rate-vari-speed-take-envelope-and-render-to-new-take-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15584,7 +15585,7 @@
       ];
     };
     buyone-create-pitch-rate-vari-speed-take-envelope-and-render-to-new-take-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-create-pitch-rate-vari-speed-take-envelope-and-render-to-new-take-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15598,7 +15599,7 @@
       ];
     };
     buyone-delete-selected-item-s-and-select-next-or-previous-settings-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-delete-selected-item-s-and-select-next-or-previous-settings-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15612,7 +15613,7 @@
       ];
     };
     buyone-exclusively-solo-or-mute-only-selected-grouped-items-settings-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-exclusively-solo-or-mute-only-selected-grouped-items-settings-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15626,7 +15627,7 @@
       ];
     };
     buyone-exclusively-solo-or-mute-only-selected-grouped-items-settings-inside-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-exclusively-solo-or-mute-only-selected-grouped-items-settings-inside-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15640,7 +15641,7 @@
       ];
     };
     buyone-explode-midi-note-rows-pitch-to-new-items-keyboard-note-order-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-explode-midi-note-rows-pitch-to-new-items-keyboard-note-order-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15654,7 +15655,7 @@
       ];
     };
     buyone-explode-midi-note-rows-pitch-to-new-items-keyboard-note-order-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-explode-midi-note-rows-pitch-to-new-items-keyboard-note-order-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15668,7 +15669,7 @@
       ];
     };
     buyone-explode-multichannel-midi-to-new-one-channel-items-obeying-keyboard-note-order-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-explode-multichannel-midi-to-new-one-channel-items-obeying-keyboard-note-order-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15682,7 +15683,7 @@
       ];
     };
     buyone-manipulate-overlapping-items-in-lanes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-manipulate-overlapping-items-in-lanes-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15756,7 +15757,7 @@
       ];
     };
     buyone-move-items-from-one-track-to-many-or-from-many-to-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-move-items-from-one-track-to-many-or-from-many-to-one-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15770,7 +15771,7 @@
       ];
     };
     buyone-propagate-items-in-current-region-to-other-regions-by-name-color-or-index-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-propagate-items-in-current-region-to-other-regions-by-name-color-or-index-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15784,7 +15785,7 @@
       ];
     };
     buyone-ripple-edit-per-track-when-selected-item-length-changes-settings-inside-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-ripple-edit-per-track-when-selected-item-length-changes-settings-inside-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15798,7 +15799,7 @@
       ];
     };
     buyone-ripple-edit-per-track-when-selected-item-length-changes-settings-inside-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-ripple-edit-per-track-when-selected-item-length-changes-settings-inside-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15812,7 +15813,7 @@
       ];
     };
     buyone-split-grouped-items-keeping-splits-in-the-same-group-as-the-originals-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-split-grouped-items-keeping-splits-in-the-same-group-as-the-originals-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15826,7 +15827,7 @@
       ];
     };
     buyone-split-selected-midi-item-at-every-note-or-chord-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-split-selected-midi-item-at-every-note-or-chord-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15840,7 +15841,7 @@
       ];
     };
     buyone-swap-2-items-select-both-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-swap-2-items-select-both-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15854,7 +15855,7 @@
       ];
     };
     cfillion-move-selected-items-to-a-fipm-lane-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-move-selected-items-to-a-fipm-lane-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15873,7 +15874,7 @@
       ];
     };
     cfillion-move-selected-items-to-one-fipm-lane-per-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-move-selected-items-to-one-fipm-lane-per-color-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15892,7 +15893,7 @@
       ];
     };
     cfillion-set-item-end-to-cursor-and-resize-trailing-midi-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-set-item-end-to-cursor-and-resize-trailing-midi-notes-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15906,7 +15907,7 @@
       ];
     };
     cfillion-set-item-end-to-cursor-and-resize-trailing-midi-notes-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-set-item-end-to-cursor-and-resize-trailing-midi-notes-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15920,7 +15921,7 @@
       ];
     };
     cfillion-show-all-saved-nudge-settings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-show-all-saved-nudge-settings-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15934,7 +15935,7 @@
       ];
     };
     cfillion-show-all-saved-nudge-settings-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-show-all-saved-nudge-settings-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15948,7 +15949,7 @@
       ];
     };
     cfillion-show-all-saved-nudge-settings-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-show-all-saved-nudge-settings-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15962,7 +15963,7 @@
       ];
     };
     cfillion-show-all-saved-nudge-settings-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-show-all-saved-nudge-settings-lua-2-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -15976,7 +15977,7 @@
       ];
     };
     cfillion-show-all-saved-nudge-settings-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-show-all-saved-nudge-settings-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16000,7 +16001,7 @@
       ];
     };
     cfillion-show-all-saved-nudge-settings-lua-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-show-all-saved-nudge-settings-lua-3-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16024,7 +16025,7 @@
       ];
     };
     cfillion-show-all-saved-nudge-settings-lua-3-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-show-all-saved-nudge-settings-lua-3-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16048,7 +16049,7 @@
       ];
     };
     cfillion-show-all-saved-nudge-settings-lua-3-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-show-all-saved-nudge-settings-lua-3-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16072,7 +16073,7 @@
       ];
     };
     cfillion-show-all-saved-nudge-settings-lua-3-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-show-all-saved-nudge-settings-lua-3-0-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16096,7 +16097,7 @@
       ];
     };
     cfillion-split-selected-non-locked-items-at-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-split-selected-non-locked-items-at-edit-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16110,7 +16111,7 @@
       ];
     };
     cfillion-split-selected-non-locked-items-at-edit-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-split-selected-non-locked-items-at-edit-cursor-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16124,7 +16125,7 @@
       ];
     };
     cool-mk-slicer-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16143,7 +16144,7 @@
       ];
     };
     cool-mk-slicer-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-1-3-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16157,7 +16158,7 @@
       ];
     };
     cool-mk-slicer-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-1-3-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16171,7 +16172,7 @@
       ];
     };
     cool-mk-slicer-lua-1-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-1-3-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16185,7 +16186,7 @@
       ];
     };
     cool-mk-slicer-lua-1-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-1-3-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16199,7 +16200,7 @@
       ];
     };
     cool-mk-slicer-lua-1-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-1-3-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16213,7 +16214,7 @@
       ];
     };
     cool-mk-slicer-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16227,7 +16228,7 @@
       ];
     };
     cool-mk-slicer-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-1-4-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16241,7 +16242,7 @@
       ];
     };
     cool-mk-slicer-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-1-4-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16255,7 +16256,7 @@
       ];
     };
     cool-mk-slicer-lua-1-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-1-4-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16269,7 +16270,7 @@
       ];
     };
     cool-mk-slicer-lua-1-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-1-4-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16283,7 +16284,7 @@
       ];
     };
     cool-mk-slicer-lua-1-4-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-1-4-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16297,7 +16298,7 @@
       ];
     };
     cool-mk-slicer-lua-1-4-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-1-4-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16311,7 +16312,7 @@
       ];
     };
     cool-mk-slicer-lua-1-4-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-1-4-7";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16325,7 +16326,7 @@
       ];
     };
     cool-mk-slicer-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16339,7 +16340,7 @@
       ];
     };
     cool-mk-slicer-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16353,7 +16354,7 @@
       ];
     };
     cool-mk-slicer-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-2-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16367,7 +16368,7 @@
       ];
     };
     cool-mk-slicer-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-2-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16381,7 +16382,7 @@
       ];
     };
     cool-mk-slicer-lua-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-2-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16395,7 +16396,7 @@
       ];
     };
     cool-mk-slicer-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-2-11";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16409,7 +16410,7 @@
       ];
     };
     cool-mk-slicer-lua-2-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-2-12";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16423,7 +16424,7 @@
       ];
     };
     cool-mk-slicer-lua-2-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-2-13";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16437,7 +16438,7 @@
       ];
     };
     cool-mk-slicer-lua-2-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-2-14";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16451,7 +16452,7 @@
       ];
     };
     cool-mk-slicer-lua-2-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-2-15";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16465,7 +16466,7 @@
       ];
     };
     cool-mk-slicer-lua-2-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-2-50";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16479,7 +16480,7 @@
       ];
     };
     cool-mk-slicer-lua-2-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-2-52";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16493,7 +16494,7 @@
       ];
     };
     cool-mk-slicer-lua-3-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-3-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16507,7 +16508,7 @@
       ];
     };
     cool-mk-slicer-lua-3-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-3-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16521,7 +16522,7 @@
       ];
     };
     cool-mk-slicer-lua-3-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-3-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16535,7 +16536,7 @@
       ];
     };
     cool-mk-slicer-lua-3-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-3-04";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16549,7 +16550,7 @@
       ];
     };
     cool-mk-slicer-lua-3-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-3-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16563,7 +16564,7 @@
       ];
     };
     cool-mk-slicer-lua-3-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-3-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16577,7 +16578,7 @@
       ];
     };
     cool-mk-slicer-lua-3-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-3-11";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16591,7 +16592,7 @@
       ];
     };
     cool-mk-slicer-lua-3-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-3-12";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16605,7 +16606,7 @@
       ];
     };
     cool-mk-slicer-lua-3-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-3-20";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16619,7 +16620,7 @@
       ];
     };
     cool-mk-slicer-lua-3-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-3-21";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16633,7 +16634,7 @@
       ];
     };
     cool-mk-slicer-lua-3-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-slicer-lua-3-22";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16647,7 +16648,7 @@
       ];
     };
     demoji-next-variation-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "demoji-next-variation-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16661,7 +16662,7 @@
       ];
     };
     ed-select-items-with-take-fx-in-active-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ed-select-items-with-take-fx-in-active-take-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16675,7 +16676,7 @@
       ];
     };
     ed-select-items-with-take-fx-in-active-take-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ed-select-items-with-take-fx-in-active-take-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16689,7 +16690,7 @@
       ];
     };
     ed-select-items-with-take-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ed-select-items-with-take-fx-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16703,7 +16704,7 @@
       ];
     };
     ed-set-envelope-to-maximum-value-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ed-set-envelope-to-maximum-value-within-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16717,7 +16718,7 @@
       ];
     };
     ed-set-envelope-to-minimum-value-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ed-set-envelope-to-minimum-value-within-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16731,7 +16732,7 @@
       ];
     };
     ed-toggle-selecting-all-items-on-the-track-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ed-toggle-selecting-all-items-on-the-track-under-mouse-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16745,7 +16746,7 @@
       ];
     };
     fna-unselect-first-last-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fna-unselect-first-last-selected-item-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16764,7 +16765,7 @@
       ];
     };
     ilovemedia-replace-with-an-empty-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ilovemedia-replace-with-an-empty-item-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16778,7 +16779,7 @@
       ];
     };
     jercontact-zero-crossing-loop-maker-for-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jercontact-zero-crossing-loop-maker-for-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16792,7 +16793,7 @@
       ];
     };
     jercontact-zero-crossing-loop-maker-for-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jercontact-zero-crossing-loop-maker-for-items-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16806,7 +16807,7 @@
       ];
     };
     jercontact-zero-crossing-loop-maker-for-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jercontact-zero-crossing-loop-maker-for-items-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16820,7 +16821,7 @@
       ];
     };
     jercontact-zero-crossing-loop-maker-for-items-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jercontact-zero-crossing-loop-maker-for-items-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16834,7 +16835,7 @@
       ];
     };
     jercontact-zero-crossing-loop-maker-for-items-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jercontact-zero-crossing-loop-maker-for-items-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16848,7 +16849,7 @@
       ];
     };
     jercontact-zero-crossing-loop-maker-for-items-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jercontact-zero-crossing-loop-maker-for-items-lua-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16862,7 +16863,7 @@
       ];
     };
     jrt-split-all-items-at-time-selection-or-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jrt-split-all-items-at-time-selection-or-edit-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16876,7 +16877,7 @@
       ];
     };
     js-comp-items-unmute-item-under-mouse-and-mute-overlapping-items-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-comp-items-unmute-item-under-mouse-and-mute-overlapping-items-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16890,7 +16891,7 @@
       ];
     };
     js-edit-insert-chased-ccs-at-edit-cursor-in-selected-midi-items-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-edit-insert-chased-ccs-at-edit-cursor-in-selected-midi-items-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16904,7 +16905,7 @@
       ];
     };
     js-remove-all-ccs-pitch-channel-pressure-and-program-change-events-from-all-tracks-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-all-ccs-pitch-channel-pressure-and-program-change-events-from-all-tracks-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16918,7 +16919,7 @@
       ];
     };
     js-remove-all-ccs-pitch-channel-pressure-and-program-change-events-from-all-tracks-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-all-ccs-pitch-channel-pressure-and-program-change-events-from-all-tracks-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16932,7 +16933,7 @@
       ];
     };
     js-render-items-into-next-take-and-toggle-freeze-active-take-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-render-items-into-next-take-and-toggle-freeze-active-take-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16946,7 +16947,7 @@
       ];
     };
     js-render-items-into-next-take-and-toggle-freeze-active-take-lua-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-render-items-into-next-take-and-toggle-freeze-active-take-lua-0-91";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16960,7 +16961,7 @@
       ];
     };
     js-render-items-into-next-take-apply-track-fx-and-toggle-freeze-active-take-fx-lua-0-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-render-items-into-next-take-apply-track-fx-and-toggle-freeze-active-take-fx-lua-0-92";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16974,7 +16975,7 @@
       ];
     };
     kkkanten-deselect-odd-numbered-items-from-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kkkanten-deselect-odd-numbered-items-from-selected-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -16988,7 +16989,7 @@
       ];
     };
     lokasenna-fill-selected-midi-item-with-notes-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-fill-selected-midi-item-with-notes-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17002,7 +17003,7 @@
       ];
     };
     lokasenna-fill-selected-midi-item-with-notes-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-fill-selected-midi-item-with-notes-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17016,7 +17017,7 @@
       ];
     };
     lokasenna-fill-selected-midi-item-with-notes-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-fill-selected-midi-item-with-notes-lua-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17030,7 +17031,7 @@
       ];
     };
     lokasenna-fill-selected-midi-item-with-notes-lua-1-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-fill-selected-midi-item-with-notes-lua-1-51";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17044,7 +17045,7 @@
       ];
     };
     lokasenna-fill-selected-midi-item-with-notes-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-fill-selected-midi-item-with-notes-lua-1-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17058,7 +17059,7 @@
       ];
     };
     lokasenna-fill-selected-midi-item-with-notes-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-fill-selected-midi-item-with-notes-lua-1-60";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17072,7 +17073,7 @@
       ];
     };
     lokasenna-fill-selected-midi-item-with-notes-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-fill-selected-midi-item-with-notes-lua-1-61";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17086,7 +17087,7 @@
       ];
     };
     lokasenna-fill-time-selection-with-empty-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-fill-time-selection-with-empty-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17100,7 +17101,7 @@
       ];
     };
     lokasenna-insert-empty-item-for-each-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-insert-empty-item-for-each-selected-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17114,7 +17115,7 @@
       ];
     };
     lokasenna-pad-item-start-and-end-with-15-frames-of-silence-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-pad-item-start-and-end-with-15-frames-of-silence-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17128,7 +17129,7 @@
       ];
     };
     lokasenna-select-all-midi-notes-in-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-select-all-midi-notes-in-selected-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17142,7 +17143,7 @@
       ];
     };
     lokasenna-select-all-midi-notes-in-selected-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-select-all-midi-notes-in-selected-items-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17156,7 +17157,7 @@
       ];
     };
     lokasenna-set-item-start-and-end-spot-mode-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-set-item-start-and-end-spot-mode-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17170,7 +17171,7 @@
       ];
     };
     lokasenna-shuffle-selected-items-to-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-shuffle-selected-items-to-mouse-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17184,7 +17185,7 @@
       ];
     };
     lokasenna-shuffle-selected-items-to-mouse-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-shuffle-selected-items-to-mouse-cursor-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17198,7 +17199,7 @@
       ];
     };
     lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17212,7 +17213,7 @@
       ];
     };
     lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17226,7 +17227,7 @@
       ];
     };
     lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17240,7 +17241,7 @@
       ];
     };
     lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17254,7 +17255,7 @@
       ];
     };
     lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17268,7 +17269,7 @@
       ];
     };
     lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17282,7 +17283,7 @@
       ];
     };
     lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17296,7 +17297,7 @@
       ];
     };
     lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17310,7 +17311,7 @@
       ];
     };
     lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17324,7 +17325,7 @@
       ];
     };
     lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-3-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17338,7 +17339,7 @@
       ];
     };
     lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-smart-fill-gaps-by-stretching-item-tails-lua-1-3-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17352,7 +17353,7 @@
       ];
     };
     lokasenna-trim-items-to-specified-length-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-trim-items-to-specified-length-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17366,7 +17367,7 @@
       ];
     };
     lokasenna-trim-items-to-specified-length-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-trim-items-to-specified-length-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17380,7 +17381,7 @@
       ];
     };
     lokasenna-trim-items-to-specified-length-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-trim-items-to-specified-length-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17394,7 +17395,7 @@
       ];
     };
     lokasenna-trim-items-to-specified-length-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-trim-items-to-specified-length-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17408,7 +17409,7 @@
       ];
     };
     lokasenna-unselect-all-midi-notes-in-selected-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-unselect-all-midi-notes-in-selected-items-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17422,7 +17423,7 @@
       ];
     };
     mendel-restore-ripple-mode-from-persistent-extstate-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mendel-restore-ripple-mode-from-persistent-extstate-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17436,7 +17437,7 @@
       ];
     };
     mendel-save-ripple-mode-to-persistent-extstate-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mendel-save-ripple-mode-to-persistent-extstate-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17450,7 +17451,7 @@
       ];
     };
     mk-slicer-80icio-mod-lua-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mk-slicer-80icio-mod-lua-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17464,7 +17465,7 @@
       ];
     };
     mk-slicer-80icio-mod-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mk-slicer-80icio-mod-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17478,7 +17479,7 @@
       ];
     };
     mk-slicer-80icio-mod-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mk-slicer-80icio-mod-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17492,7 +17493,7 @@
       ];
     };
     mk-slicer-80icio-mod-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mk-slicer-80icio-mod-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17506,7 +17507,7 @@
       ];
     };
     mk-slicer-80icio-mod-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mk-slicer-80icio-mod-lua-1-04";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17520,7 +17521,7 @@
       ];
     };
     mk-slicer-80icio-mod-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mk-slicer-80icio-mod-lua-1-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17534,7 +17535,7 @@
       ];
     };
     mk-slicer-80icio-mod-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mk-slicer-80icio-mod-lua-1-06";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17548,7 +17549,7 @@
       ];
     };
     mk-slicer-80icio-mod-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mk-slicer-80icio-mod-lua-1-07";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17562,7 +17563,7 @@
       ];
     };
     mk-slicer-80icio-mod-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mk-slicer-80icio-mod-lua-1-08";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17576,7 +17577,7 @@
       ];
     };
     mk-slicer-80icio-mod-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mk-slicer-80icio-mod-lua-1-09";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17590,7 +17591,7 @@
       ];
     };
     mk-slicer-80icio-mod-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mk-slicer-80icio-mod-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17604,7 +17605,7 @@
       ];
     };
     mordi-align-grouped-items-to-selected-items-respectively-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-align-grouped-items-to-selected-items-respectively-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17618,7 +17619,7 @@
       ];
     };
     mordi-glue-items-add-take-markers-and-name-after-first-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-glue-items-add-take-markers-and-name-after-first-item-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17632,7 +17633,7 @@
       ];
     };
     mordi-move-cursor-or-content-to-next-or-previous-transient-after-x-ms-silence-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-move-cursor-or-content-to-next-or-previous-transient-after-x-ms-silence-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17661,7 +17662,7 @@
       ];
     };
     mordi-move-selected-items-content-to-previous-cue-align-with-snap-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-move-selected-items-content-to-previous-cue-align-with-snap-offset-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17680,7 +17681,7 @@
       ];
     };
     mordi-move-selected-items-content-to-previous-cue-align-with-snap-offset-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-move-selected-items-content-to-previous-cue-align-with-snap-offset-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17699,7 +17700,7 @@
       ];
     };
     mordi-move-selected-items-to-markers-with-the-same-name-as-the-active-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-move-selected-items-to-markers-with-the-same-name-as-the-active-take-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17713,7 +17714,7 @@
       ];
     };
     mordi-move-selected-items-to-new-individual-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-move-selected-items-to-new-individual-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17727,7 +17728,7 @@
       ];
     };
     mordi-spk77-sort-items-by-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-spk77-sort-items-by-length-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17741,7 +17742,7 @@
       ];
     };
     mrtnz-preview-item-from-starkovsky-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrtnz-preview-item-from-starkovsky-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17755,7 +17756,7 @@
       ];
     };
     pandabot-copy-and-paste-rhythm-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-copy-and-paste-rhythm-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17774,7 +17775,7 @@
       ];
     };
     pandabot-copy-and-paste-rhythm-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-copy-and-paste-rhythm-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17793,7 +17794,7 @@
       ];
     };
     pandabot-extend-items-by-note-divisions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-extend-items-by-note-divisions-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17832,7 +17833,7 @@
       ];
     };
     pandabot-extend-items-by-note-divisions-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-extend-items-by-note-divisions-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17871,7 +17872,7 @@
       ];
     };
     pandabot-isolate-items-by-note-divisions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-isolate-items-by-note-divisions-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17910,7 +17911,7 @@
       ];
     };
     pandabot-isolate-time-selection-by-note-divisions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-isolate-time-selection-by-note-divisions-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17949,7 +17950,7 @@
       ];
     };
     pandabot-select-every-n-items-within-selection-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-select-every-n-items-within-selection-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17963,7 +17964,7 @@
       ];
     };
     pandabot-select-every-n-items-within-selection-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-select-every-n-items-within-selection-eel-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17977,7 +17978,7 @@
       ];
     };
     pandabot-select-every-n-items-within-selection-eel-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-select-every-n-items-within-selection-eel-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -17991,7 +17992,7 @@
       ];
     };
     pandabot-select-every-n-tracks-within-selection-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-select-every-n-tracks-within-selection-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18005,7 +18006,7 @@
       ];
     };
     pandabot-select-every-n-tracks-within-selection-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-select-every-n-tracks-within-selection-eel-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18019,7 +18020,7 @@
       ];
     };
     pandabot-select-every-n-tracks-within-selection-eel-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-select-every-n-tracks-within-selection-eel-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18033,7 +18034,7 @@
       ];
     };
     rodilab-duplicate-items-or-tracks-depending-on-focus-and-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-duplicate-items-or-tracks-depending-on-focus-and-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18047,7 +18048,7 @@
       ];
     };
     rodilab-explode-multichannel-items-to-mono-items-in-new-tracks-without-render-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-explode-multichannel-items-to-mono-items-in-new-tracks-without-render-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18061,7 +18062,7 @@
       ];
     };
     rodilab-explode-multichannel-items-to-mono-items-in-new-tracks-without-render-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-explode-multichannel-items-to-mono-items-in-new-tracks-without-render-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18075,7 +18076,7 @@
       ];
     };
     rodilab-implode-items-on-same-track-into-takes-align-with-snap-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-implode-items-on-same-track-into-takes-align-with-snap-offset-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18089,7 +18090,7 @@
       ];
     };
     rodilab-implode-mono-items-into-stereo-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-implode-mono-items-into-stereo-item-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18103,7 +18104,7 @@
       ];
     };
     rodilab-implode-mono-items-into-stereo-item-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-implode-mono-items-into-stereo-item-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18117,7 +18118,7 @@
       ];
     };
     rodilab-implode-mono-items-into-stereo-item-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-implode-mono-items-into-stereo-item-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18131,7 +18132,7 @@
       ];
     };
     rodilab-limit-items-edges-at-source-start-and-stop-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-limit-items-edges-at-source-start-and-stop-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18145,7 +18146,7 @@
       ];
     };
     rodilab-limit-items-edges-at-source-start-and-stop-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-limit-items-edges-at-source-start-and-stop-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18159,7 +18160,7 @@
       ];
     };
     rodilab-match-criteria-match-with-bwf-and-ixml-metadata-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-match-criteria-match-with-bwf-and-ixml-metadata-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18173,7 +18174,7 @@
       ];
     };
     rodilab-match-criteria-match-with-bwf-and-ixml-metadata-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-match-criteria-match-with-bwf-and-ixml-metadata-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18187,7 +18188,7 @@
       ];
     };
     rodilab-match-criteria-match-with-bwf-and-ixml-metadata-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-match-criteria-match-with-bwf-and-ixml-metadata-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18201,7 +18202,7 @@
       ];
     };
     rodilab-match-criteria-match-with-bwf-and-ixml-metadata-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-match-criteria-match-with-bwf-and-ixml-metadata-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18215,7 +18216,7 @@
       ];
     };
     rodilab-match-criteria-match-with-bwf-and-ixml-metadata-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-match-criteria-match-with-bwf-and-ixml-metadata-lua-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18229,7 +18230,7 @@
       ];
     };
     rodilab-move-items-to-synchronize-with-the-timeref-of-the-first-selected-item-bwf-metadata-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-move-items-to-synchronize-with-the-timeref-of-the-first-selected-item-bwf-metadata-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18243,7 +18244,7 @@
       ];
     };
     rodilab-move-items-preserving-crossfade-lengths-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-move-items-preserving-crossfade-lengths-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18262,7 +18263,7 @@
       ];
     };
     rodilab-move-selected-notes-to-a-new-midi-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-move-selected-notes-to-a-new-midi-item-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18276,7 +18277,7 @@
       ];
     };
     rodilab-move-selected-notes-to-a-new-midi-item-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-move-selected-notes-to-a-new-midi-item-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18290,7 +18291,7 @@
       ];
     };
     rodilab-reorganize-vertically-all-items-in-selected-tracks-according-to-track-index-metadata-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-reorganize-vertically-all-items-in-selected-tracks-according-to-track-index-metadata-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18304,7 +18305,7 @@
       ];
     };
     rodilab-reorganize-vertically-all-items-in-selected-tracks-according-to-track-index-metadata-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-reorganize-vertically-all-items-in-selected-tracks-according-to-track-index-metadata-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18318,7 +18319,7 @@
       ];
     };
     rodilab-smart-copy-and-move-cursor-to-start-of-items-if-copying-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-smart-copy-and-move-cursor-to-start-of-items-if-copying-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18332,7 +18333,7 @@
       ];
     };
     rodilab-smart-cut-and-move-cursor-to-start-of-items-if-cuting-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-smart-cut-and-move-cursor-to-start-of-items-if-cuting-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18346,7 +18347,7 @@
       ];
     };
     rodilab-trim-oversized-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-trim-oversized-edges-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18360,7 +18361,7 @@
       ];
     };
     rodilab-trim-oversized-edges-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-trim-oversized-edges-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18374,7 +18375,7 @@
       ];
     };
     rodilab-trim-oversized-edges-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-trim-oversized-edges-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18388,7 +18389,7 @@
       ];
     };
     solger-smart-split-midi-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-smart-split-midi-item-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18412,7 +18413,7 @@
       ];
     };
     solger-smart-split-midi-item-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-smart-split-midi-item-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18436,7 +18437,7 @@
       ];
     };
     spk77-copy-items-and-store-positions-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-copy-items-and-store-positions-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18450,7 +18451,7 @@
       ];
     };
     spk77-glue-selected-items-preserving-names-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-glue-selected-items-preserving-names-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18464,7 +18465,7 @@
       ];
     };
     spk77-paste-items-and-recall-positions-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-paste-items-and-recall-positions-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18478,7 +18479,7 @@
       ];
     };
     spk77-remove-contents-of-time-sel-from-selected-items-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-remove-contents-of-time-sel-from-selected-items-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18492,7 +18493,7 @@
       ];
     };
     spk77-replace-selected-items-with-item-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-replace-selected-items-with-item-under-mouse-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18506,7 +18507,7 @@
       ];
     };
     spk77-select-every-n-th-item-within-time-selection-eel-0-2014-8-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-select-every-n-th-item-within-time-selection-eel-0-2014-8-23";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18520,7 +18521,7 @@
       ];
     };
     spk77-select-every-n-th-item-within-time-selection-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-select-every-n-th-item-within-time-selection-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18534,7 +18535,7 @@
       ];
     };
     spk77-select-items-within-time-selection-on-selected-tracks-eel-0-2014-7-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-select-items-within-time-selection-on-selected-tracks-eel-0-2014-7-24";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18548,7 +18549,7 @@
       ];
     };
     spk77-select-items-within-time-selection-on-selected-tracks-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-select-items-within-time-selection-on-selected-tracks-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18562,7 +18563,7 @@
       ];
     };
     spk77-split-all-items-at-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-split-all-items-at-edit-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18576,7 +18577,7 @@
       ];
     };
     spk77-split-all-items-at-edit-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-split-all-items-at-edit-cursor-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18590,7 +18591,7 @@
       ];
     };
     spk77-split-all-non-locked-audio-items-at-edit-cursor-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-split-all-non-locked-audio-items-at-edit-cursor-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18604,7 +18605,7 @@
       ];
     };
     spk77-split-all-non-locked-midi-items-at-edit-cursor-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-split-all-non-locked-midi-items-at-edit-cursor-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18618,7 +18619,7 @@
       ];
     };
     spk77-split-and-implode-items-across-tracks-into-takes-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-split-and-implode-items-across-tracks-into-takes-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18632,7 +18633,7 @@
       ];
     };
     spk77-split-selected-items-at-mouse-cursor-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-split-selected-items-at-mouse-cursor-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18646,7 +18647,7 @@
       ];
     };
     tagirijus-open-item-and-center-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-open-item-and-center-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18660,7 +18661,7 @@
       ];
     };
     tagirijus-open-item-and-center-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-open-item-and-center-track-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18674,7 +18675,7 @@
       ];
     };
     triode-track-based-item-selection-lua-0-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "triode-track-based-item-selection-lua-0-72";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Editing";
@@ -18738,7 +18739,7 @@
       ];
     };
     acendan-set-subprojects-in-selected-items-to-custom-color-slot-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-set-subprojects-in-selected-items-to-custom-color-slot-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18802,7 +18803,7 @@
       ];
     };
     amagalma-apply-track-fader-volume-to-all-items-in-selected-tracks-and-reset-faders-to-0db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-apply-track-fader-volume-to-all-items-in-selected-tracks-and-reset-faders-to-0db-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18816,7 +18817,7 @@
       ];
     };
     amagalma-choose-active-take-for-item-under-mouse-show-menu-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-choose-active-take-for-item-under-mouse-show-menu-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18830,7 +18831,7 @@
       ];
     };
     amagalma-choose-active-take-for-item-under-mouse-show-menu-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-choose-active-take-for-item-under-mouse-show-menu-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18844,7 +18845,7 @@
       ];
     };
     amagalma-choose-active-take-for-item-under-mouse-show-menu-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-choose-active-take-for-item-under-mouse-show-menu-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18858,7 +18859,7 @@
       ];
     };
     amagalma-disable-no-autofades-property-for-selected-items-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-disable-no-autofades-property-for-selected-items-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18872,7 +18873,7 @@
       ];
     };
     amagalma-enable-no-autofades-property-for-selected-items-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-enable-no-autofades-property-for-selected-items-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18886,7 +18887,7 @@
       ];
     };
     amagalma-explode-selected-item-active-take-to-new-track-remove-take-from-original-item-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-explode-selected-item-active-take-to-new-track-remove-take-from-original-item-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18900,7 +18901,7 @@
       ];
     };
     amagalma-group-selected-items-vertically-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-group-selected-items-vertically-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18914,7 +18915,7 @@
       ];
     };
     amagalma-group-selected-items-vertically-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-group-selected-items-vertically-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18928,7 +18929,7 @@
       ];
     };
     amagalma-group-selected-items-vertically-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-group-selected-items-vertically-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18942,7 +18943,7 @@
       ];
     };
     amagalma-lock-all-items-in-project-to-their-active-take-mouse-click-will-not-change-active-take-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-lock-all-items-in-project-to-their-active-take-mouse-click-will-not-change-active-take-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18956,7 +18957,7 @@
       ];
     };
     amagalma-name-selected-items-notes-after-the-region-they-are-in-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-name-selected-items-notes-after-the-region-they-are-in-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18970,7 +18971,7 @@
       ];
     };
     amagalma-paste-text-from-clipboard-to-selected-items-notes-one-line-per-item-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-paste-text-from-clipboard-to-selected-items-notes-one-line-per-item-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18984,7 +18985,7 @@
       ];
     };
     amagalma-select-all-items-in-track-that-have-exactly-the-same-video-processors-as-the-selected-item-unselect-original-item-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-select-all-items-in-track-that-have-exactly-the-same-video-processors-as-the-selected-item-unselect-original-item-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -18998,7 +18999,7 @@
       ];
     };
     amagalma-select-all-items-in-track-that-have-exactly-the-same-video-processors-as-the-selected-item-unselect-original-item-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-select-all-items-in-track-that-have-exactly-the-same-video-processors-as-the-selected-item-unselect-original-item-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19012,7 +19013,7 @@
       ];
     };
     amagalma-select-all-items-in-track-that-have-exactly-the-same-video-processors-as-the-selected-item-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-select-all-items-in-track-that-have-exactly-the-same-video-processors-as-the-selected-item-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19026,7 +19027,7 @@
       ];
     };
     amagalma-select-all-items-in-track-that-have-exactly-the-same-video-processors-as-the-selected-item-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-select-all-items-in-track-that-have-exactly-the-same-video-processors-as-the-selected-item-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19040,7 +19041,7 @@
       ];
     };
     amagalma-select-next-item-with-take-fx-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-select-next-item-with-take-fx-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19054,7 +19055,7 @@
       ];
     };
     amagalma-select-next-item-with-take-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-select-next-item-with-take-fx-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19068,7 +19069,7 @@
       ];
     };
     amagalma-select-previous-item-with-take-fx-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-select-previous-item-with-take-fx-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19082,7 +19083,7 @@
       ];
     };
     amagalma-select-previous-item-with-take-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-select-previous-item-with-take-fx-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19096,7 +19097,7 @@
       ];
     };
     amagalma-switch-unlocked-items-only-to-previous-or-next-take-bundle-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-switch-unlocked-items-only-to-previous-or-next-take-bundle-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19115,7 +19116,7 @@
       ];
     };
     buyone-apply-fade-in-fade-out-and-crossfade-to-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-apply-fade-in-fade-out-and-crossfade-to-selected-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19129,7 +19130,7 @@
       ];
     };
     buyone-fade-presets-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-fade-presets-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19143,7 +19144,7 @@
       ];
     };
     cfillion-set-item-volume-control-mode-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-set-item-volume-control-mode-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19167,7 +19168,7 @@
       ];
     };
     ixix-delete-selected-items-active-take-envelopes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ixix-delete-selected-items-active-take-envelopes-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19181,7 +19182,7 @@
       ];
     };
     lokasenna-item-properties-loop-item-source-on-and-off-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-item-properties-loop-item-source-on-and-off-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19200,7 +19201,7 @@
       ];
     };
     lokasenna-item-selection-follows-the-edit-cursor-for-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-item-selection-follows-the-edit-cursor-for-selected-tracks-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19214,7 +19215,7 @@
       ];
     };
     lokasenna-item-selection-follows-the-edit-cursor-for-selected-tracks-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-item-selection-follows-the-edit-cursor-for-selected-tracks-lua-1-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19228,7 +19229,7 @@
       ];
     };
     lokasenna-toggle-item-under-mouse-cursor-s-image-between-notes-and-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toggle-item-under-mouse-cursor-s-image-between-notes-and-background-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19242,7 +19243,7 @@
       ];
     };
     lokasenna-toggle-item-under-mouse-cursor-s-image-between-notes-and-background-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toggle-item-under-mouse-cursor-s-image-between-notes-and-background-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19256,7 +19257,7 @@
       ];
     };
     lokasenna-toggle-selected-item-s-image-between-notes-and-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toggle-selected-item-s-image-between-notes-and-background-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19270,7 +19271,7 @@
       ];
     };
     lokasenna-toggle-selected-item-s-image-between-notes-and-background-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toggle-selected-item-s-image-between-notes-and-background-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19284,7 +19285,7 @@
       ];
     };
     lokasenna-track-selection-follows-item-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-track-selection-follows-item-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19298,7 +19299,7 @@
       ];
     };
     lokasenna-track-selection-follows-item-selection-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-track-selection-follows-item-selection-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19312,7 +19313,7 @@
       ];
     };
     lokasenna-track-selection-follows-item-selection-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-track-selection-follows-item-selection-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19326,7 +19327,7 @@
       ];
     };
     lokasenna-track-selection-follows-item-selection-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-track-selection-follows-item-selection-lua-1-0-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19340,7 +19341,7 @@
       ];
     };
     lokasenna-track-selection-follows-item-selection-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-track-selection-follows-item-selection-lua-1-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19354,7 +19355,7 @@
       ];
     };
     lokasenna-track-selection-follows-item-selection-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-track-selection-follows-item-selection-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19368,7 +19369,7 @@
       ];
     };
     lokasenna-track-selection-follows-item-selection-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-track-selection-follows-item-selection-lua-1-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19382,7 +19383,7 @@
       ];
     };
     mordi-rename-take-markers-from-1-to-x-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-rename-take-markers-from-1-to-x-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19396,7 +19397,7 @@
       ];
     };
     nantho-item-auto-gain-staging-peak-vs-lufs-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nantho-item-auto-gain-staging-peak-vs-lufs-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19415,7 +19416,7 @@
       ];
     };
     nantho-item-auto-gain-staging-peak-vs-rms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nantho-item-auto-gain-staging-peak-vs-rms-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19434,7 +19435,7 @@
       ];
     };
     nantho-item-auto-gain-staging-peak-vs-rms-lua-1-0-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nantho-item-auto-gain-staging-peak-vs-rms-lua-1-0-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19453,7 +19454,7 @@
       ];
     };
     rodilab-loop-section-of-audiomidi-item-source-within-time-selection-if-any-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-loop-section-of-audiomidi-item-source-within-time-selection-if-any-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19467,7 +19468,7 @@
       ];
     };
     rodilab-loop-section-of-audiomidi-item-source-within-time-selection-if-any-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-loop-section-of-audiomidi-item-source-within-time-selection-if-any-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19481,7 +19482,7 @@
       ];
     };
     rodilab-rename-takes-and-item-notes-with-bwf-and-ixml-metadata-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-rename-takes-and-item-notes-with-bwf-and-ixml-metadata-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19495,7 +19496,7 @@
       ];
     };
     rodilab-rename-takes-and-item-notes-with-bwf-and-ixml-metadata-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-rename-takes-and-item-notes-with-bwf-and-ixml-metadata-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19509,7 +19510,7 @@
       ];
     };
     rodilab-rename-takes-and-item-notes-with-bwf-and-ixml-metadata-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-rename-takes-and-item-notes-with-bwf-and-ixml-metadata-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19523,7 +19524,7 @@
       ];
     };
     rodilab-rename-takes-and-item-notes-with-bwf-and-ixml-metadata-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-rename-takes-and-item-notes-with-bwf-and-ixml-metadata-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19537,7 +19538,7 @@
       ];
     };
     rodilab-rename-takes-and-item-notes-with-bwf-and-ixml-metadata-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-rename-takes-and-item-notes-with-bwf-and-ixml-metadata-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19551,7 +19552,7 @@
       ];
     };
     rodilab-set-items-snap-offset-to-max-peak-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-set-items-snap-offset-to-max-peak-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19565,7 +19566,7 @@
       ];
     };
     rodilab-set-items-snap-offset-to-max-peak-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-set-items-snap-offset-to-max-peak-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19579,7 +19580,7 @@
       ];
     };
     spk77-breeder-pl9-copy-paste-item-properties-incl-bwf-eel-0-2015-7-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-breeder-pl9-copy-paste-item-properties-incl-bwf-eel-0-2015-7-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19593,7 +19594,7 @@
       ];
     };
     spk77-breeder-pl9-copy-paste-item-properties-incl-bwf-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-breeder-pl9-copy-paste-item-properties-incl-bwf-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19607,7 +19608,7 @@
       ];
     };
     spk77-export-item-names-and-time-stamps-to-text-file-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-export-item-names-and-time-stamps-to-text-file-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19621,7 +19622,7 @@
       ];
     };
     spk77-export-item-names-and-time-stamps-to-text-file-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-export-item-names-and-time-stamps-to-text-file-lua-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19635,7 +19636,7 @@
       ];
     };
     spk77-normalize-selected-items-to-given-range-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-normalize-selected-items-to-given-range-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19649,7 +19650,7 @@
       ];
     };
     spk77-rename-items-to-track-name-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-rename-items-to-track-name-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19663,7 +19664,7 @@
       ];
     };
     spk77-trim-item-volumes-eel-0-2015-5-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-trim-item-volumes-eel-0-2015-5-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19677,7 +19678,7 @@
       ];
     };
     spk77-trim-item-volumes-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-trim-item-volumes-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19691,7 +19692,7 @@
       ];
     };
     tagirijus-toggle-loop-source-on-item-under-cursor-in-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-toggle-loop-source-on-item-under-cursor-in-selected-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19705,7 +19706,7 @@
       ];
     };
     willdevelop-pitch-scale-generator-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "willdevelop-pitch-scale-generator-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19719,7 +19720,7 @@
       ];
     };
     yatsumehole-turn-item-pitch-in-the-selected-track-into-midi-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yatsumehole-turn-item-pitch-in-the-selected-track-into-midi-notes-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19733,7 +19734,7 @@
       ];
     };
     yatsumehole-turn-item-pitch-in-the-selected-track-into-midi-notes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yatsumehole-turn-item-pitch-in-the-selected-track-into-midi-notes-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Items Properties";
@@ -19747,7 +19748,7 @@
       ];
     };
     acendan-find-and-replace-in-marker-region-names-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-find-and-replace-in-marker-region-names-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19766,7 +19767,7 @@
       ];
     };
     acendan-find-and-replace-in-marker-region-names-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-find-and-replace-in-marker-region-names-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19785,7 +19786,7 @@
       ];
     };
     acendan-find-and-replace-in-marker-region-names-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "acendan-find-and-replace-in-marker-region-names-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19804,7 +19805,7 @@
       ];
     };
     amagalma-go-to-marker-choose-from-menu-list-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-go-to-marker-choose-from-menu-list-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19818,7 +19819,7 @@
       ];
     };
     amagalma-go-to-marker-choose-from-menu-list-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-go-to-marker-choose-from-menu-list-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19832,7 +19833,7 @@
       ];
     };
     amagalma-go-to-marker-choose-from-menu-list-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-go-to-marker-choose-from-menu-list-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19846,7 +19847,7 @@
       ];
     };
     amagalma-go-to-marker-choose-from-menu-list-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-go-to-marker-choose-from-menu-list-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19860,7 +19861,7 @@
       ];
     };
     amagalma-rename-region-at-edit-cursor-after-the-first-selected-item-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-rename-region-at-edit-cursor-after-the-first-selected-item-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19874,7 +19875,7 @@
       ];
     };
     amagalma-rename-region-at-edit-cursor-after-the-first-selected-track-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-rename-region-at-edit-cursor-after-the-first-selected-track-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19888,7 +19889,7 @@
       ];
     };
     amagalma-write-project-markers-as-media-cues-to-selected-items-active-takes-source-files-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-write-project-markers-as-media-cues-to-selected-items-active-takes-source-files-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19902,7 +19903,7 @@
       ];
     };
     amagalma-write-project-markers-as-media-cues-to-selected-items-active-takes-source-files-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-write-project-markers-as-media-cues-to-selected-items-active-takes-source-files-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19916,7 +19917,7 @@
       ];
     };
     amagalma-write-project-markers-as-media-cues-to-selected-items-active-takes-source-files-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-write-project-markers-as-media-cues-to-selected-items-active-takes-source-files-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19930,7 +19931,7 @@
       ];
     };
     amagalma-write-project-markers-as-media-cues-to-selected-items-active-takes-source-files-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-write-project-markers-as-media-cues-to-selected-items-active-takes-source-files-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19944,7 +19945,7 @@
       ];
     };
     az-insert-project-marker-under-mouse-or-play-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-insert-project-marker-under-mouse-or-play-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19963,7 +19964,7 @@
       ];
     };
     beaunus-add-markers-for-lyrics-in-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "beaunus-add-markers-for-lyrics-in-selected-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19977,7 +19978,7 @@
       ];
     };
     beaunus-add-markers-for-lyrics-in-selected-items-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "beaunus-add-markers-for-lyrics-in-selected-items-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -19991,7 +19992,7 @@
       ];
     };
     buyone-insert-project-marker-with-current-timestamp-at-edit-mouse-cursor-options-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-insert-project-marker-with-current-timestamp-at-edit-mouse-cursor-options-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20005,7 +20006,7 @@
       ];
     };
     buyone-insert-take-marker-with-current-timestamp-at-edit-mouse-cursor-in-selected-items-takes-options-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-insert-take-marker-with-current-timestamp-at-edit-mouse-cursor-in-selected-items-takes-options-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20019,7 +20020,7 @@
       ];
     };
     buyone-set-markers-and-or-regions-to-random-color-s-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-set-markers-and-or-regions-to-random-color-s-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20063,7 +20064,7 @@
       ];
     };
     cfillion-copy-and-paste-project-markers-and-regions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-copy-and-paste-project-markers-and-regions-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20092,7 +20093,7 @@
       ];
     };
     cfillion-copy-and-paste-project-markers-and-regions-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-copy-and-paste-project-markers-and-regions-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20126,7 +20127,7 @@
       ];
     };
     cfillion-copy-and-paste-project-markers-and-regions-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-copy-and-paste-project-markers-and-regions-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20160,7 +20161,7 @@
       ];
     };
     cfillion-copy-and-paste-project-markers-and-regions-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-copy-and-paste-project-markers-and-regions-lua-1-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20194,7 +20195,7 @@
       ];
     };
     cfillion-delete-last-marker-left-of-the-play-or-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-delete-last-marker-left-of-the-play-or-edit-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20208,7 +20209,7 @@
       ];
     };
     cfillion-export-markers-to-mkvmerge-simple-chapter-format-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-export-markers-to-mkvmerge-simple-chapter-format-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20222,7 +20223,7 @@
       ];
     };
     cfillion-insert-regions-at-markers-and-vice-versa-in-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-insert-regions-at-markers-and-vice-versa-in-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20236,7 +20237,7 @@
       ];
     };
     daxliniere-live-recording-take-commenter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "daxliniere-live-recording-take-commenter-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20250,7 +20251,7 @@
       ];
     };
     hypex-tempo-marker-list-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hypex-tempo-marker-list-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20269,7 +20270,7 @@
       ];
     };
     js-stretch-tempo-markers-to-edit-cursor-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-stretch-tempo-markers-to-edit-cursor-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20283,7 +20284,7 @@
       ];
     };
     lokasenna-fill-time-selection-with-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-fill-time-selection-with-markers-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20297,7 +20298,7 @@
       ];
     };
     lokasenna-fill-time-selection-with-markers-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-fill-time-selection-with-markers-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20311,7 +20312,7 @@
       ];
     };
     lokasenna-go-to-marker-00-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-go-to-marker-00-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20325,7 +20326,7 @@
       ];
     };
     mordi-add-project-markers-as-take-markers-into-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-add-project-markers-as-take-markers-into-selected-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20339,7 +20340,7 @@
       ];
     };
     mordi-add-project-markers-as-take-markers-into-selected-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-add-project-markers-as-take-markers-into-selected-items-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20353,7 +20354,7 @@
       ];
     };
     mordi-create-tempo-map-from-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-create-tempo-map-from-markers-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20367,7 +20368,7 @@
       ];
     };
     mordi-create-tempo-map-from-markers-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-create-tempo-map-from-markers-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20381,7 +20382,7 @@
       ];
     };
     mordi-replace-string-in-marker-and-region-names-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-replace-string-in-marker-and-region-names-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20395,7 +20396,7 @@
       ];
     };
     rekseffeks-protoolsmarkerjump-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rekseffeks-protoolsmarkerjump-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20409,7 +20410,7 @@
       ];
     };
     spk77-duplicate-previous-marker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-duplicate-previous-marker-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20423,7 +20424,7 @@
       ];
     };
     spk77-move-nearest-marker-to-edit-cursor-eel-0-2014-9-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-move-nearest-marker-to-edit-cursor-eel-0-2014-9-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20437,7 +20438,7 @@
       ];
     };
     spk77-move-nearest-marker-to-edit-cursor-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-move-nearest-marker-to-edit-cursor-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20451,7 +20452,7 @@
       ];
     };
     tormyvancool-audiobooks-chapter-marker-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-audiobooks-chapter-marker-lua-2-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Markers";
@@ -20470,7 +20471,7 @@
       ];
     };
     amagalma-delete-cc-text-sysex-events-by-type-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-delete-cc-text-sysex-events-by-type-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20484,7 +20485,7 @@
       ];
     };
     amagalma-delete-cc-text-sysex-events-by-type-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-delete-cc-text-sysex-events-by-type-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20498,7 +20499,7 @@
       ];
     };
     amagalma-midi-note-velocity-statistics-compress-or-expand-above-and-below-threshold-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-midi-note-velocity-statistics-compress-or-expand-above-and-below-threshold-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20512,7 +20513,7 @@
       ];
     };
     amagalma-midi-note-velocity-statistics-compress-or-expand-above-and-below-threshold-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-midi-note-velocity-statistics-compress-or-expand-above-and-below-threshold-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20526,7 +20527,7 @@
       ];
     };
     buy-one-time-selection-set-start-end-point-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buy-one-time-selection-set-start-end-point-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20545,7 +20546,7 @@
       ];
     };
     buyone-convert-selected-notes-to-dotted-settings-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-convert-selected-notes-to-dotted-settings-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20559,7 +20560,7 @@
       ];
     };
     buyone-copy-or-move-all-notes-and-or-other-midi-events-to-specified-midi-channels-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-copy-or-move-all-notes-and-or-other-midi-events-to-specified-midi-channels-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20573,7 +20574,7 @@
       ];
     };
     buyone-copy-or-move-all-notes-and-or-other-midi-events-to-specified-midi-channels-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-copy-or-move-all-notes-and-or-other-midi-events-to-specified-midi-channels-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20587,7 +20588,7 @@
       ];
     };
     buyone-copy-or-move-selected-notes-and-or-other-midi-events-in-visible-lanes-to-specified-midi-channels-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-copy-or-move-selected-notes-and-or-other-midi-events-in-visible-lanes-to-specified-midi-channels-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20601,7 +20602,7 @@
       ];
     };
     buyone-copy-or-move-selected-notes-and-or-other-midi-events-in-visible-lanes-to-specified-midi-channels-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-copy-or-move-selected-notes-and-or-other-midi-events-in-visible-lanes-to-specified-midi-channels-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20615,7 +20616,7 @@
       ];
     };
     buyone-copy-or-move-selected-notes-and-or-other-midi-events-in-visible-lanes-to-specified-midi-channels-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-copy-or-move-selected-notes-and-or-other-midi-events-in-visible-lanes-to-specified-midi-channels-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20629,7 +20630,7 @@
       ];
     };
     buyone-insert-note-at-constant-velocity-depending-on-dummy-toggle-scripts-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-insert-note-at-constant-velocity-depending-on-dummy-toggle-scripts-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20643,7 +20644,7 @@
       ];
     };
     buyone-insert-note-at-constant-velocity-set-via-a-dialogue-guide-inside-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-insert-note-at-constant-velocity-set-via-a-dialogue-guide-inside-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20657,7 +20658,7 @@
       ];
     };
     buyone-insert-note-at-constant-velocity-set-via-a-dialogue-guide-inside-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-insert-note-at-constant-velocity-set-via-a-dialogue-guide-inside-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20671,7 +20672,7 @@
       ];
     };
     buyone-insert-note-at-constant-velocity-set-via-a-dialogue-guide-inside-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-insert-note-at-constant-velocity-set-via-a-dialogue-guide-inside-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20685,7 +20686,7 @@
       ];
     };
     buyone-insert-note-at-constant-velocity-set-via-a-dialogue-guide-inside-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-insert-note-at-constant-velocity-set-via-a-dialogue-guide-inside-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20699,7 +20700,7 @@
       ];
     };
     buyone-move-pitch-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-move-pitch-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20823,7 +20824,7 @@
       ];
     };
     buyone-move-selected-notes-to-a-new-midi-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-move-selected-notes-to-a-new-midi-item-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20837,7 +20838,7 @@
       ];
     };
     buyone-paste-notes-at-edit-cursor-obeying-pitch-cursor-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-paste-notes-at-edit-cursor-obeying-pitch-cursor-position-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20851,7 +20852,7 @@
       ];
     };
     buyone-switch-to-next-previous-active-cc-envelope-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-switch-to-next-previous-active-cc-envelope-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20870,7 +20871,7 @@
       ];
     };
     cfillion-clamp-velocity-of-selected-midi-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-clamp-velocity-of-selected-midi-notes-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20884,7 +20885,7 @@
       ];
     };
     cfillion-clamp-velocity-of-selected-midi-notes-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-clamp-velocity-of-selected-midi-notes-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20898,7 +20899,7 @@
       ];
     };
     cfillion-clamp-velocity-of-selected-midi-notes-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-clamp-velocity-of-selected-midi-notes-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20912,7 +20913,7 @@
       ];
     };
     cfillion-clamp-velocity-of-selected-midi-notes-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-clamp-velocity-of-selected-midi-notes-lua-1-0-3";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20926,7 +20927,7 @@
       ];
     };
     cfillion-clamp-velocity-of-selected-midi-notes-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-clamp-velocity-of-selected-midi-notes-lua-1-0-4";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20940,7 +20941,7 @@
       ];
     };
     cfillion-set-space-between-selected-notes-from-grid-size-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-set-space-between-selected-notes-from-grid-size-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20954,7 +20955,7 @@
       ];
     };
     cfillion-set-space-between-selected-notes-from-grid-size-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-set-space-between-selected-notes-from-grid-size-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20968,7 +20969,7 @@
       ];
     };
     cfillion-step-sequencing-replace-mode-lua-1-0alpha = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-step-sequencing-replace-mode-lua-1-0alpha";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -20987,7 +20988,7 @@
       ];
     };
     cfillion-step-sequencing-replace-mode-lua-1-0alpha2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-step-sequencing-replace-mode-lua-1-0alpha2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21011,7 +21012,7 @@
       ];
     };
     cfillion-step-sequencing-replace-mode-lua-1-0alpha3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-step-sequencing-replace-mode-lua-1-0alpha3";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21035,7 +21036,7 @@
       ];
     };
     cfillion-step-sequencing-replace-mode-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-step-sequencing-replace-mode-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21059,7 +21060,7 @@
       ];
     };
     cfillion-step-sequencing-replace-mode-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-step-sequencing-replace-mode-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21083,7 +21084,7 @@
       ];
     };
     cfillion-step-sequencing-replace-mode-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-step-sequencing-replace-mode-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21107,7 +21108,7 @@
       ];
     };
     cfillion-step-sequencing-replace-mode-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-step-sequencing-replace-mode-lua-1-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21131,7 +21132,7 @@
       ];
     };
     cfillion-step-sequencing-replace-mode-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-step-sequencing-replace-mode-lua-1-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21155,7 +21156,7 @@
       ];
     };
     cfillion-toggle-midi-preview-on-transport-change-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-toggle-midi-preview-on-transport-change-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21169,7 +21170,7 @@
       ];
     };
     cfillion-toggle-midi-preview-on-transport-change-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-toggle-midi-preview-on-transport-change-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21183,7 +21184,7 @@
       ];
     };
     edgemeal-close-all-floating-midi-windows-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-close-all-floating-midi-windows-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21197,7 +21198,7 @@
       ];
     };
     eriklandskov-select-all-midi-notes-that-share-midi-channel-with-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "eriklandskov-select-all-midi-notes-that-share-midi-channel-with-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21211,7 +21212,7 @@
       ];
     };
     flaneurette-guitarchorder-py-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "flaneurette-guitarchorder-py-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21230,7 +21231,7 @@
       ];
     };
     flaneurette-reachorder-py-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "flaneurette-reachorder-py-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21469,7 +21470,7 @@
       ];
     };
     fna-join-selected-overlapping-and-consecutive-notes-with-spacing-below-threshold-input-and-no-input-versions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fna-join-selected-overlapping-and-consecutive-notes-with-spacing-below-threshold-input-and-no-input-versions-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21488,7 +21489,7 @@
       ];
     };
     fna-join-selected-overlapping-and-consecutive-notes-with-spacing-below-threshold-input-and-no-input-versions-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fna-join-selected-overlapping-and-consecutive-notes-with-spacing-below-threshold-input-and-no-input-versions-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21507,7 +21508,7 @@
       ];
     };
     gofer-spk77-smooth-ccs-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gofer-spk77-smooth-ccs-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21521,7 +21522,7 @@
       ];
     };
     jrt-navigate-next-or-previous-note-or-measure-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jrt-navigate-next-or-previous-note-or-measure-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21540,7 +21541,7 @@
       ];
     };
     jrt-navigate-zoom-vertically-or-move-notes-up-or-down-ignoring-key-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jrt-navigate-zoom-vertically-or-move-notes-up-or-down-ignoring-key-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21559,7 +21560,7 @@
       ];
     };
     jrt-scroll-view-or-move-notes-up-or-down-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jrt-scroll-view-or-move-notes-up-or-down-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21578,7 +21579,7 @@
       ];
     };
     js-deselect-all-events-outside-time-selection-from-all-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-deselect-all-events-outside-time-selection-from-all-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21592,7 +21593,7 @@
       ];
     };
     js-deselect-all-events-outside-time-selection-from-all-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-deselect-all-events-outside-time-selection-from-all-tracks-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21606,7 +21607,7 @@
       ];
     };
     js-deselect-all-events-outside-time-selection-from-all-tracks-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-deselect-all-events-outside-time-selection-from-all-tracks-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21620,7 +21621,7 @@
       ];
     };
     js-deselect-all-events-outside-time-selection-from-all-tracks-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-deselect-all-events-outside-time-selection-from-all-tracks-lua-1-11";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21634,7 +21635,7 @@
       ];
     };
     js-deselect-all-events-outside-time-selection-from-all-tracks-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-deselect-all-events-outside-time-selection-from-all-tracks-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21648,7 +21649,7 @@
       ];
     };
     js-deselect-all-events-outside-time-selection-from-all-tracks-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-deselect-all-events-outside-time-selection-from-all-tracks-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21662,7 +21663,7 @@
       ];
     };
     js-deselect-all-events-outside-time-selection-from-all-tracks-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-deselect-all-events-outside-time-selection-from-all-tracks-lua-2-02";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21676,7 +21677,7 @@
       ];
     };
     js-deselect-all-midi-except-in-active-channel-of-active-take-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-deselect-all-midi-except-in-active-channel-of-active-take-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21690,7 +21691,7 @@
       ];
     };
     js-deselect-all-midi-except-in-active-channel-of-active-take-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-deselect-all-midi-except-in-active-channel-of-active-take-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21704,7 +21705,7 @@
       ];
     };
     js-deselect-all-midi-except-in-active-channel-of-active-take-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-deselect-all-midi-except-in-active-channel-of-active-take-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21718,7 +21719,7 @@
       ];
     };
     js-deselect-all-midi-except-in-active-channel-of-active-take-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-deselect-all-midi-except-in-active-channel-of-active-take-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21732,7 +21733,7 @@
       ];
     };
     js-deselect-all-midi-except-in-active-channel-of-active-take-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-deselect-all-midi-except-in-active-channel-of-active-take-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21746,7 +21747,7 @@
       ];
     };
     js-fit-all-selected-events-to-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-fit-all-selected-events-to-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21760,7 +21761,7 @@
       ];
     };
     js-fit-all-selected-events-to-time-selection-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-fit-all-selected-events-to-time-selection-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21774,7 +21775,7 @@
       ];
     };
     js-fit-selected-events-to-time-selection-in-lane-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-fit-selected-events-to-time-selection-in-lane-under-mouse-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21788,7 +21789,7 @@
       ];
     };
     js-fit-selected-events-to-time-selection-in-lane-under-mouse-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-fit-selected-events-to-time-selection-in-lane-under-mouse-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21802,7 +21803,7 @@
       ];
     };
     js-fit-selected-events-to-time-selection-in-last-clicked-lane-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-fit-selected-events-to-time-selection-in-last-clicked-lane-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21816,7 +21817,7 @@
       ];
     };
     js-fit-selected-events-to-time-selection-in-last-clicked-lane-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-fit-selected-events-to-time-selection-in-last-clicked-lane-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21830,7 +21831,7 @@
       ];
     };
     js-insert-cc-or-pitch-at-mouse-position-leaving-other-selected-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-insert-cc-or-pitch-at-mouse-position-leaving-other-selected-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21844,7 +21845,7 @@
       ];
     };
     js-insert-cc-or-pitch-at-mouse-position-leaving-other-selected-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-insert-cc-or-pitch-at-mouse-position-leaving-other-selected-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21858,7 +21859,7 @@
       ];
     };
     js-insert-cc-or-pitch-at-mouse-position-leaving-other-selected-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-insert-cc-or-pitch-at-mouse-position-leaving-other-selected-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21872,7 +21873,7 @@
       ];
     };
     js-insert-cc-or-pitch-at-mouse-position-leaving-other-selected-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-insert-cc-or-pitch-at-mouse-position-leaving-other-selected-lua-2-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21886,7 +21887,7 @@
       ];
     };
     js-insert-cc-or-pitch-at-mouse-position-leaving-other-selected-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-insert-cc-or-pitch-at-mouse-position-leaving-other-selected-lua-2-3";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21900,7 +21901,7 @@
       ];
     };
     js-insert-cc-or-pitch-at-mouse-position-leaving-other-selected-lua-2-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-insert-cc-or-pitch-at-mouse-position-leaving-other-selected-lua-2-31";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21914,7 +21915,7 @@
       ];
     };
     js-insert-cc-or-pitch-at-mouse-position-leaving-other-selected-lua-3-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-insert-cc-or-pitch-at-mouse-position-leaving-other-selected-lua-3-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21928,7 +21929,7 @@
       ];
     };
     js-insert-pitch-reset-at-start-of-each-selected-note-all-editable-takes-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-insert-pitch-reset-at-start-of-each-selected-note-all-editable-takes-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21942,7 +21943,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21956,7 +21957,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21970,7 +21971,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-02";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21984,7 +21985,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -21998,7 +21999,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-11";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22012,7 +22013,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22026,7 +22027,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-21";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22040,7 +22041,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22054,7 +22055,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-31";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22068,7 +22069,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-32";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22082,7 +22083,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-50";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22096,7 +22097,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-60";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22110,7 +22111,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-70";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22124,7 +22125,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-71";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22138,7 +22139,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-lane-under-mouse-lua-2-80";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22152,7 +22153,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22166,7 +22167,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22180,7 +22181,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-02";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22194,7 +22195,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22208,7 +22209,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-11";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22222,7 +22223,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22236,7 +22237,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-21";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22250,7 +22251,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22264,7 +22265,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-31";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22278,7 +22279,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-32";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22292,7 +22293,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-50";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22306,7 +22307,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-60";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22320,7 +22321,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-70";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22334,7 +22335,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-71";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22348,7 +22349,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-apply-to-existing-ccs-or-velocities-in-last-clicked-lane-lua-2-80";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22362,7 +22363,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-1-04";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22376,7 +22377,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22390,7 +22391,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22404,7 +22405,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-02";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22418,7 +22419,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22432,7 +22433,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-11";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22446,7 +22447,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22460,7 +22461,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-21";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22474,7 +22475,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22488,7 +22489,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-31";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22502,7 +22503,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-32";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22516,7 +22517,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-50";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22530,7 +22531,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-60";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22544,7 +22545,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-70";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22558,7 +22559,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-71";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22572,7 +22573,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-lane-under-mouse-lua-2-80";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22586,7 +22587,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-1-04";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22600,7 +22601,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22614,7 +22615,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22628,7 +22629,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-02";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22642,7 +22643,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22656,7 +22657,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-11";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22670,7 +22671,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22684,7 +22685,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-21";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22698,7 +22699,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22712,7 +22713,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-31";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22726,7 +22727,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-32";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22740,7 +22741,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-50";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22754,7 +22755,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-60";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22768,7 +22769,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-70";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22782,7 +22783,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-71";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22796,7 +22797,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-in-time-selection-in-last-clicked-lane-lua-2-80";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22810,7 +22811,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-1-04";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22824,7 +22825,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22838,7 +22839,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22852,7 +22853,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-02";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22866,7 +22867,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22880,7 +22881,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-11";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22894,7 +22895,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22908,7 +22909,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-21";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22922,7 +22923,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22936,7 +22937,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-31";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22950,7 +22951,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-32";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22964,7 +22965,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-50";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22978,7 +22979,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-60";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -22992,7 +22993,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-70";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23006,7 +23007,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-71";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23020,7 +23021,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-lane-under-mouse-lua-2-80";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23034,7 +23035,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-1-04";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23048,7 +23049,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23062,7 +23063,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23076,7 +23077,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-02";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23090,7 +23091,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23104,7 +23105,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-11";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23118,7 +23119,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23132,7 +23133,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-21";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23146,7 +23147,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23160,7 +23161,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-31";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23174,7 +23175,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-32";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23188,7 +23189,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-50";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23202,7 +23203,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-60";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23216,7 +23217,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-70";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23230,7 +23231,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-71";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23244,7 +23245,7 @@
       ];
     };
     js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-lfo-tool-midi-editor-version-insert-ccs-under-selected-notes-in-last-clicked-lane-lua-2-80";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23258,7 +23259,7 @@
       ];
     };
     js-midi-inspector-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23272,7 +23273,7 @@
       ];
     };
     js-midi-inspector-lua-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-0-91";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23286,7 +23287,7 @@
       ];
     };
     js-midi-inspector-lua-0-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-0-92";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23300,7 +23301,7 @@
       ];
     };
     js-midi-inspector-lua-0-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-0-93";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23314,7 +23315,7 @@
       ];
     };
     js-midi-inspector-lua-0-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-0-94";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23328,7 +23329,7 @@
       ];
     };
     js-midi-inspector-lua-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-0-95";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23342,7 +23343,7 @@
       ];
     };
     js-midi-inspector-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23356,7 +23357,7 @@
       ];
     };
     js-midi-inspector-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23370,7 +23371,7 @@
       ];
     };
     js-midi-inspector-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23384,7 +23385,7 @@
       ];
     };
     js-midi-inspector-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23398,7 +23399,7 @@
       ];
     };
     js-midi-inspector-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-21";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23412,7 +23413,7 @@
       ];
     };
     js-midi-inspector-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-22";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23426,7 +23427,7 @@
       ];
     };
     js-midi-inspector-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23440,7 +23441,7 @@
       ];
     };
     js-midi-inspector-lua-1-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-40";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23454,7 +23455,7 @@
       ];
     };
     js-midi-inspector-lua-1-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-45";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23468,7 +23469,7 @@
       ];
     };
     js-midi-inspector-lua-1-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-46";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23482,7 +23483,7 @@
       ];
     };
     js-midi-inspector-lua-1-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-47";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23496,7 +23497,7 @@
       ];
     };
     js-midi-inspector-lua-1-48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-48";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23510,7 +23511,7 @@
       ];
     };
     js-midi-inspector-lua-1-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-49";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23524,7 +23525,7 @@
       ];
     };
     js-midi-inspector-lua-1-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-50";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23538,7 +23539,7 @@
       ];
     };
     js-midi-inspector-lua-1-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-55";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23552,7 +23553,7 @@
       ];
     };
     js-midi-inspector-lua-1-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-56";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23566,7 +23567,7 @@
       ];
     };
     js-midi-inspector-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-60";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23580,7 +23581,7 @@
       ];
     };
     js-midi-inspector-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-61";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23594,7 +23595,7 @@
       ];
     };
     js-midi-inspector-lua-1-62 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-62";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23608,7 +23609,7 @@
       ];
     };
     js-midi-inspector-lua-1-65 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-midi-inspector-lua-1-65";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23622,7 +23623,7 @@
       ];
     };
     js-mouse-editing-connect-nodes-lua-4-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-connect-nodes-lua-4-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23636,7 +23637,7 @@
       ];
     };
     js-mouse-editing-connect-nodes-lua-4-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-connect-nodes-lua-4-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23650,7 +23651,7 @@
       ];
     };
     js-mouse-editing-connect-nodes-lua-4-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-connect-nodes-lua-4-02";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23664,7 +23665,7 @@
       ];
     };
     js-mouse-editing-connect-nodes-lua-4-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-connect-nodes-lua-4-03";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23678,7 +23679,7 @@
       ];
     };
     js-mouse-editing-connect-nodes-lua-4-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-connect-nodes-lua-4-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23692,7 +23693,7 @@
       ];
     };
     js-mouse-editing-connect-nodes-lua-4-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-connect-nodes-lua-4-11";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23706,7 +23707,7 @@
       ];
     };
     js-mouse-editing-connect-nodes-lua-4-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-connect-nodes-lua-4-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23720,7 +23721,7 @@
       ];
     };
     js-mouse-editing-draw-lfo-lua-4-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-lfo-lua-4-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23734,7 +23735,7 @@
       ];
     };
     js-mouse-editing-draw-lfo-lua-4-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-lfo-lua-4-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23748,7 +23749,7 @@
       ];
     };
     js-mouse-editing-draw-lfo-lua-4-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-lfo-lua-4-02";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23762,7 +23763,7 @@
       ];
     };
     js-mouse-editing-draw-lfo-lua-4-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-lfo-lua-4-03";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23776,7 +23777,7 @@
       ];
     };
     js-mouse-editing-draw-lfo-lua-4-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-lfo-lua-4-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23790,7 +23791,7 @@
       ];
     };
     js-mouse-editing-draw-lfo-lua-4-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-lfo-lua-4-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23804,7 +23805,7 @@
       ];
     };
     js-mouse-editing-draw-lfo-lua-4-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-lfo-lua-4-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23818,7 +23819,7 @@
       ];
     };
     js-mouse-editing-draw-ramp-lua-4-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-ramp-lua-4-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23832,7 +23833,7 @@
       ];
     };
     js-mouse-editing-draw-ramp-lua-4-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-ramp-lua-4-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23846,7 +23847,7 @@
       ];
     };
     js-mouse-editing-draw-ramp-lua-4-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-ramp-lua-4-02";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23860,7 +23861,7 @@
       ];
     };
     js-mouse-editing-draw-ramp-lua-4-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-ramp-lua-4-03";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23874,7 +23875,7 @@
       ];
     };
     js-mouse-editing-draw-ramp-lua-4-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-ramp-lua-4-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23888,7 +23889,7 @@
       ];
     };
     js-mouse-editing-draw-ramp-lua-4-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-ramp-lua-4-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23902,7 +23903,7 @@
       ];
     };
     js-mouse-editing-draw-ramp-lua-4-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-ramp-lua-4-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23916,7 +23917,7 @@
       ];
     };
     js-mouse-editing-draw-ramp-lua-4-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-ramp-lua-4-50";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23930,7 +23931,7 @@
       ];
     };
     js-mouse-editing-draw-ramp-lua-4-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-ramp-lua-4-51";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23944,7 +23945,7 @@
       ];
     };
     js-mouse-editing-draw-ramp-lua-4-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-ramp-lua-4-52";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23958,7 +23959,7 @@
       ];
     };
     js-mouse-editing-draw-ramp-lua-4-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-draw-ramp-lua-4-55";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23972,7 +23973,7 @@
       ];
     };
     js-mouse-editing-extract-nodes-lua-0-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-extract-nodes-lua-0-99";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -23991,7 +23992,7 @@
       ];
     };
     js-mouse-editing-extract-nodes-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-extract-nodes-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24010,7 +24011,7 @@
       ];
     };
     js-mouse-editing-extract-nodes-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-extract-nodes-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24029,7 +24030,7 @@
       ];
     };
     js-mouse-editing-extract-nodes-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-extract-nodes-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24048,7 +24049,7 @@
       ];
     };
     js-mouse-editing-extract-nodes-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-extract-nodes-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24067,7 +24068,7 @@
       ];
     };
     js-mouse-editing-extract-nodes-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-extract-nodes-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24086,7 +24087,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24125,7 +24126,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-02";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24164,7 +24165,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-03";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24203,7 +24204,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-04";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24242,7 +24243,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-05";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24281,7 +24282,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24320,7 +24321,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-11";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24359,7 +24360,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-12";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24398,7 +24399,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24437,7 +24438,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-21";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24476,7 +24477,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-22";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24515,7 +24516,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-23";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24554,7 +24555,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-25";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24593,7 +24594,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24632,7 +24633,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-31";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24671,7 +24672,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-35";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24710,7 +24711,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-40";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24749,7 +24750,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-50";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24788,7 +24789,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-51";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24827,7 +24828,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-5-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-5-52";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24866,7 +24867,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24905,7 +24906,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24944,7 +24945,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-02";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -24983,7 +24984,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-03";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25022,7 +25023,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-04";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25061,7 +25062,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-05";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25100,7 +25101,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-06";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25139,7 +25140,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-07";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25178,7 +25179,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25217,7 +25218,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-11";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25256,7 +25257,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-12";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25295,7 +25296,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25334,7 +25335,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-21";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25373,7 +25374,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25412,7 +25413,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-31";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25451,7 +25452,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-32";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25490,7 +25491,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-40";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25529,7 +25530,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-41";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25568,7 +25569,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-42";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25607,7 +25608,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-43";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25646,7 +25647,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-45";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25685,7 +25686,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-50";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25724,7 +25725,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-51";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25763,7 +25764,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-52";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25802,7 +25803,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-53";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25841,7 +25842,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-55";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25880,7 +25881,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-56";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25919,7 +25920,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-60";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25958,7 +25959,7 @@
       ];
     };
     js-mouse-editing-multi-tool-lua-6-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-multi-tool-lua-6-61";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -25997,7 +25998,7 @@
       ];
     };
     js-mouse-editing-run-script-that-is-armed-in-toolbar-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-run-script-that-is-armed-in-toolbar-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26011,7 +26012,7 @@
       ];
     };
     js-mouse-editing-run-script-that-is-armed-in-toolbar-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-run-script-that-is-armed-in-toolbar-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26025,7 +26026,7 @@
       ];
     };
     js-mouse-editing-slice-notes-lua-4-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-slice-notes-lua-4-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26044,7 +26045,7 @@
       ];
     };
     js-mouse-editing-slice-notes-lua-4-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-slice-notes-lua-4-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26063,7 +26064,7 @@
       ];
     };
     js-mouse-editing-slice-notes-lua-4-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-slice-notes-lua-4-02";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26082,7 +26083,7 @@
       ];
     };
     js-mouse-editing-slice-notes-lua-4-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-slice-notes-lua-4-03";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26101,7 +26102,7 @@
       ];
     };
     js-mouse-editing-slice-notes-lua-4-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-slice-notes-lua-4-04";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26120,7 +26121,7 @@
       ];
     };
     js-mouse-editing-slice-notes-lua-4-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-slice-notes-lua-4-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26139,7 +26140,7 @@
       ];
     };
     js-mouse-editing-slice-notes-lua-4-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-slice-notes-lua-4-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26158,7 +26159,7 @@
       ];
     };
     js-mouse-editing-slice-notes-lua-4-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-slice-notes-lua-4-21";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26177,7 +26178,7 @@
       ];
     };
     js-mouse-editing-swipe-select-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-swipe-select-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26191,7 +26192,7 @@
       ];
     };
     js-mouse-editing-swipe-select-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-swipe-select-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26205,7 +26206,7 @@
       ];
     };
     js-mouse-editing-swipe-select-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-swipe-select-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26219,7 +26220,7 @@
       ];
     };
     js-mouse-editing-swipe-select-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-swipe-select-lua-2-02";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26233,7 +26234,7 @@
       ];
     };
     js-mouse-editing-swipe-select-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-swipe-select-lua-2-03";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26247,7 +26248,7 @@
       ];
     };
     js-mouse-editing-swipe-select-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-swipe-select-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26261,7 +26262,7 @@
       ];
     };
     js-mouse-editing-swipe-select-lua-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-swipe-select-lua-2-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26275,7 +26276,7 @@
       ];
     };
     js-mouse-editing-swipe-select-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-mouse-editing-swipe-select-lua-2-21";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26289,7 +26290,7 @@
       ];
     };
     js-notation-select-all-notes-that-have-customized-display-lengths-or-positions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-select-all-notes-that-have-customized-display-lengths-or-positions-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26303,7 +26304,7 @@
       ];
     };
     js-notation-select-all-notes-that-have-customized-display-lengths-or-positions-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-select-all-notes-that-have-customized-display-lengths-or-positions-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26317,7 +26318,7 @@
       ];
     };
     js-notation-select-all-notes-that-have-customized-display-lengths-or-positions-lua-3-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-select-all-notes-that-have-customized-display-lengths-or-positions-lua-3-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26331,7 +26332,7 @@
       ];
     };
     js-notation-select-all-notes-that-have-customized-display-lengths-or-positions-lua-3-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-select-all-notes-that-have-customized-display-lengths-or-positions-lua-3-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26345,7 +26346,7 @@
       ];
     };
     js-notation-select-notes-by-notation-keywords-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-select-notes-by-notation-keywords-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26359,7 +26360,7 @@
       ];
     };
     js-notation-select-notes-by-user-supplied-notation-text-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-select-notes-by-user-supplied-notation-text-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26373,7 +26374,7 @@
       ];
     };
     js-notation-set-beaming-of-selected-notes-to-custom-rhythm-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-beaming-of-selected-notes-to-custom-rhythm-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26387,7 +26388,7 @@
       ];
     };
     js-notation-set-beaming-of-selected-notes-to-custom-rhythm-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-beaming-of-selected-notes-to-custom-rhythm-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26401,7 +26402,7 @@
       ];
     };
     js-notation-set-beaming-of-selected-notes-to-custom-rhythm-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-beaming-of-selected-notes-to-custom-rhythm-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26415,7 +26416,7 @@
       ];
     };
     js-notation-set-beaming-of-selected-notes-to-custom-rhythm-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-beaming-of-selected-notes-to-custom-rhythm-lua-1-25";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26429,7 +26430,7 @@
       ];
     };
     js-notation-set-beaming-of-selected-notes-to-custom-rhythm-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-beaming-of-selected-notes-to-custom-rhythm-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26443,7 +26444,7 @@
       ];
     };
     js-notation-set-beaming-of-selected-notes-to-custom-rhythm-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-beaming-of-selected-notes-to-custom-rhythm-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26457,7 +26458,7 @@
       ];
     };
     js-notation-set-display-length-of-selected-notes-to-double-and-add-staccato-articulation-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-display-length-of-selected-notes-to-double-and-add-staccato-articulation-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26471,7 +26472,7 @@
       ];
     };
     js-notation-set-display-length-of-selected-notes-to-double-and-add-staccato-articulation-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-display-length-of-selected-notes-to-double-and-add-staccato-articulation-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26485,7 +26486,7 @@
       ];
     };
     js-notation-set-display-length-of-selected-notes-to-double-and-add-staccato-articulation-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-display-length-of-selected-notes-to-double-and-add-staccato-articulation-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26499,7 +26500,7 @@
       ];
     };
     js-notation-set-display-length-of-selected-notes-to-double-and-add-staccato-articulation-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-display-length-of-selected-notes-to-double-and-add-staccato-articulation-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26513,7 +26514,7 @@
       ];
     };
     js-notation-set-display-length-of-selected-notes-to-quadruple-and-add-staccatissimo-articulation-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-display-length-of-selected-notes-to-quadruple-and-add-staccatissimo-articulation-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26527,7 +26528,7 @@
       ];
     };
     js-notation-set-display-length-of-selected-notes-to-quadruple-and-add-staccatissimo-articulation-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-display-length-of-selected-notes-to-quadruple-and-add-staccatissimo-articulation-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26541,7 +26542,7 @@
       ];
     };
     js-notation-set-display-length-of-selected-notes-to-quadruple-and-add-staccatissimo-articulation-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-display-length-of-selected-notes-to-quadruple-and-add-staccatissimo-articulation-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26555,7 +26556,7 @@
       ];
     };
     js-notation-set-display-length-of-selected-notes-to-quadruple-and-add-staccatissimo-articulation-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-display-length-of-selected-notes-to-quadruple-and-add-staccatissimo-articulation-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26569,7 +26570,7 @@
       ];
     };
     js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26583,7 +26584,7 @@
       ];
     };
     js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-1-11";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26597,7 +26598,7 @@
       ];
     };
     js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26611,7 +26612,7 @@
       ];
     };
     js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26625,7 +26626,7 @@
       ];
     };
     js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-1-21";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26639,7 +26640,7 @@
       ];
     };
     js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26653,7 +26654,7 @@
       ];
     };
     js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26667,7 +26668,7 @@
       ];
     };
     js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26681,7 +26682,7 @@
       ];
     };
     js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-2-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26695,7 +26696,7 @@
       ];
     };
     js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-notation-set-displayed-length-of-selected-notes-to-custom-value-lua-2-3";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26709,7 +26710,7 @@
       ];
     };
     js-option-selecting-single-note-or-cc-in-active-take-sets-channel-for-new-events-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-option-selecting-single-note-or-cc-in-active-take-sets-channel-for-new-events-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26723,7 +26724,7 @@
       ];
     };
     js-option-selecting-single-note-or-cc-in-active-take-sets-channel-for-new-events-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-option-selecting-single-note-or-cc-in-active-take-sets-channel-for-new-events-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26737,7 +26738,7 @@
       ];
     };
     js-option-selecting-single-note-or-cc-in-active-take-sets-channel-for-new-events-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-option-selecting-single-note-or-cc-in-active-take-sets-channel-for-new-events-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26751,7 +26752,7 @@
       ];
     };
     js-option-selecting-single-note-or-cc-in-active-take-sets-channel-for-new-events-lua-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-option-selecting-single-note-or-cc-in-active-take-sets-channel-for-new-events-lua-2-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26765,7 +26766,7 @@
       ];
     };
     js-option-selecting-single-note-or-cc-in-active-take-sets-channel-for-new-events-lua-2-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-option-selecting-single-note-or-cc-in-active-take-sets-channel-for-new-events-lua-2-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26779,7 +26780,7 @@
       ];
     };
     js-option-selecting-single-note-or-cc-in-active-take-sets-channel-for-new-events-lua-2-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-option-selecting-single-note-or-cc-in-active-take-sets-channel-for-new-events-lua-2-31";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26793,7 +26794,7 @@
       ];
     };
     js-option-switching-active-take-sets-channel-for-new-events-to-channel-of-existing-events-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-option-switching-active-take-sets-channel-for-new-events-to-channel-of-existing-events-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26807,7 +26808,7 @@
       ];
     };
     js-option-switching-active-take-sets-channel-for-new-events-to-channel-of-existing-events-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-option-switching-active-take-sets-channel-for-new-events-to-channel-of-existing-events-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26821,7 +26822,7 @@
       ];
     };
     js-option-switching-active-take-sets-channel-for-new-events-to-channel-of-existing-events-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-option-switching-active-take-sets-channel-for-new-events-to-channel-of-existing-events-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26835,7 +26836,7 @@
       ];
     };
     js-option-switching-active-take-sets-channel-for-new-events-to-channel-of-existing-events-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-option-switching-active-take-sets-channel-for-new-events-to-channel-of-existing-events-lua-1-11";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26849,7 +26850,7 @@
       ];
     };
     js-option-switching-active-take-sets-channel-for-new-events-to-channel-of-existing-events-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-option-switching-active-take-sets-channel-for-new-events-to-channel-of-existing-events-lua-1-12";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26863,7 +26864,7 @@
       ];
     };
     js-option-toggle-skip-redundant-events-when-inserting-ccs-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-option-toggle-skip-redundant-events-when-inserting-ccs-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26877,7 +26878,7 @@
       ];
     };
     js-panic-stop-all-keystroke-intercepts-by-scripts-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-panic-stop-all-keystroke-intercepts-by-scripts-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26891,7 +26892,7 @@
       ];
     };
     js-remove-redundant-ccs-from-selected-events-in-lane-under-mouse-lua-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-from-selected-events-in-lane-under-mouse-lua-0-91";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26905,7 +26906,7 @@
       ];
     };
     js-remove-redundant-ccs-from-selected-events-in-lane-under-mouse-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-from-selected-events-in-lane-under-mouse-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26919,7 +26920,7 @@
       ];
     };
     js-remove-redundant-ccs-from-selected-events-in-lane-under-mouse-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-from-selected-events-in-lane-under-mouse-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26933,7 +26934,7 @@
       ];
     };
     js-remove-redundant-ccs-from-selected-events-in-lane-under-mouse-lua-3-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-from-selected-events-in-lane-under-mouse-lua-3-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26947,7 +26948,7 @@
       ];
     };
     js-remove-redundant-ccs-from-selected-events-in-lane-under-mouse-lua-3-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-from-selected-events-in-lane-under-mouse-lua-3-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26961,7 +26962,7 @@
       ];
     };
     js-remove-redundant-ccs-from-selected-events-in-lane-under-mouse-lua-3-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-from-selected-events-in-lane-under-mouse-lua-3-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26975,7 +26976,7 @@
       ];
     };
     js-remove-redundant-ccs-from-selected-events-in-last-clicked-lane-lua-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-from-selected-events-in-last-clicked-lane-lua-0-91";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -26989,7 +26990,7 @@
       ];
     };
     js-remove-redundant-ccs-from-selected-events-in-last-clicked-lane-lua-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-from-selected-events-in-last-clicked-lane-lua-0-95";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27003,7 +27004,7 @@
       ];
     };
     js-remove-redundant-ccs-from-selected-events-in-last-clicked-lane-lua-3-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-from-selected-events-in-last-clicked-lane-lua-3-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27017,7 +27018,7 @@
       ];
     };
     js-remove-redundant-ccs-from-selected-events-in-last-clicked-lane-lua-3-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-from-selected-events-in-last-clicked-lane-lua-3-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27031,7 +27032,7 @@
       ];
     };
     js-remove-redundant-ccs-from-selected-events-in-last-clicked-lane-lua-3-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-from-selected-events-in-last-clicked-lane-lua-3-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27045,7 +27046,7 @@
       ];
     };
     js-remove-redundant-ccs-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-lua-0-9";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27059,7 +27060,7 @@
       ];
     };
     js-remove-redundant-ccs-lua-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-lua-0-91";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27073,7 +27074,7 @@
       ];
     };
     js-remove-redundant-ccs-lua-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-lua-0-95";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27087,7 +27088,7 @@
       ];
     };
     js-remove-redundant-ccs-lua-3-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-lua-3-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27101,7 +27102,7 @@
       ];
     };
     js-remove-redundant-ccs-lua-3-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-lua-3-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27115,7 +27116,7 @@
       ];
     };
     js-remove-redundant-ccs-lua-3-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-remove-redundant-ccs-lua-3-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27129,7 +27130,7 @@
       ];
     };
     js-select-and-deselect-midi-notes-by-step-pattern-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-and-deselect-midi-notes-by-step-pattern-lua-0-9";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27143,7 +27144,7 @@
       ];
     };
     js-select-and-deselect-midi-notes-by-step-pattern-lua-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-and-deselect-midi-notes-by-step-pattern-lua-0-91";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27157,7 +27158,7 @@
       ];
     };
     js-select-and-deselect-midi-notes-by-step-pattern-lua-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-and-deselect-midi-notes-by-step-pattern-lua-0-95";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27171,7 +27172,7 @@
       ];
     };
     js-select-and-deselect-midi-notes-by-step-pattern-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-and-deselect-midi-notes-by-step-pattern-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27185,7 +27186,7 @@
       ];
     };
     js-select-and-deselect-midi-notes-by-step-pattern-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-and-deselect-midi-notes-by-step-pattern-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27199,7 +27200,7 @@
       ];
     };
     js-select-and-deselect-midi-notes-by-step-pattern-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-and-deselect-midi-notes-by-step-pattern-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27213,7 +27214,7 @@
       ];
     };
     js-select-and-deselect-midi-notes-by-step-pattern-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-and-deselect-midi-notes-by-step-pattern-lua-1-21";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27227,7 +27228,7 @@
       ];
     };
     js-select-and-deselect-midi-notes-by-step-pattern-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-and-deselect-midi-notes-by-step-pattern-lua-1-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27241,7 +27242,7 @@
       ];
     };
     js-select-channel-for-new-events-for-inline-midi-editor-under-mouse-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-channel-for-new-events-for-inline-midi-editor-under-mouse-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27255,7 +27256,7 @@
       ];
     };
     js-set-time-selection-to-selected-events-in-lane-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-set-time-selection-to-selected-events-in-lane-under-mouse-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27269,7 +27270,7 @@
       ];
     };
     js-set-time-selection-to-selected-events-in-last-clicked-lane-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-set-time-selection-to-selected-events-in-last-clicked-lane-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27283,7 +27284,7 @@
       ];
     };
     js-tilt-selected-events-in-lane-under-mouse-to-fit-both-sides-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-tilt-selected-events-in-lane-under-mouse-to-fit-both-sides-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27297,7 +27298,7 @@
       ];
     };
     js-zoom-midi-editor-to-5-measures-at-mouse-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-zoom-midi-editor-to-5-measures-at-mouse-position-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27311,7 +27312,7 @@
       ];
     };
     js-zoom-midi-editor-to-5-measures-at-mouse-position-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-zoom-midi-editor-to-5-measures-at-mouse-position-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27325,7 +27326,7 @@
       ];
     };
     js-zoom-midi-editor-to-5-measures-at-mouse-position-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-zoom-midi-editor-to-5-measures-at-mouse-position-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27339,7 +27340,7 @@
       ];
     };
     js-zoom-midi-editor-to-5-measures-at-mouse-position-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-zoom-midi-editor-to-5-measures-at-mouse-position-lua-1-21";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27353,7 +27354,7 @@
       ];
     };
     js-zoom-midi-editor-to-5-measures-at-mouse-position-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-zoom-midi-editor-to-5-measures-at-mouse-position-lua-1-22";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27367,7 +27368,7 @@
       ];
     };
     js-zoom-midi-editor-to-5-measures-at-mouse-position-lua-1-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-zoom-midi-editor-to-5-measures-at-mouse-position-lua-1-23";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27381,7 +27382,7 @@
       ];
     };
     js-zoom-midi-editor-to-5-measures-at-mouse-position-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-zoom-midi-editor-to-5-measures-at-mouse-position-lua-1-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27395,7 +27396,7 @@
       ];
     };
     kl-preset-velocity-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kl-preset-velocity-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27419,7 +27420,7 @@
       ];
     };
     kl-preset-velocity-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kl-preset-velocity-lua-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27443,7 +27444,7 @@
       ];
     };
     lokasenna-cc-ryder-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-cc-ryder-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27667,7 +27668,7 @@
       ];
     };
     lokasenna-cc-ryder-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-cc-ryder-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -27891,7 +27892,7 @@
       ];
     };
     lokasenna-cc-ryder-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-cc-ryder-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28115,7 +28116,7 @@
       ];
     };
     lokasenna-convert-current-scale-to-ix-scale-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-convert-current-scale-to-ix-scale-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28129,7 +28130,7 @@
       ];
     };
     lokasenna-copy-values-from-selected-midi-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-copy-values-from-selected-midi-notes-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28143,7 +28144,7 @@
       ];
     };
     lokasenna-copy-values-from-selected-midi-notes-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-copy-values-from-selected-midi-notes-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28157,7 +28158,7 @@
       ];
     };
     lokasenna-copy-values-from-selected-midi-notes-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-copy-values-from-selected-midi-notes-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28171,7 +28172,7 @@
       ];
     };
     lokasenna-copy-values-from-selected-midi-notes-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-copy-values-from-selected-midi-notes-lua-1-15";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28185,7 +28186,7 @@
       ];
     };
     lokasenna-copy-values-from-selected-midi-notes-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-copy-values-from-selected-midi-notes-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28199,7 +28200,7 @@
       ];
     };
     lokasenna-copy-values-from-selected-midi-notes-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-copy-values-from-selected-midi-notes-lua-1-25";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28213,7 +28214,7 @@
       ];
     };
     lokasenna-copy-values-from-selected-midi-notes-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-copy-values-from-selected-midi-notes-lua-1-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28227,7 +28228,7 @@
       ];
     };
     lokasenna-copy-values-from-selected-midi-notes-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-copy-values-from-selected-midi-notes-lua-1-31";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28241,7 +28242,7 @@
       ];
     };
     lokasenna-copy-values-from-selected-midi-notes-lua-1-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-copy-values-from-selected-midi-notes-lua-1-33";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28255,7 +28256,7 @@
       ];
     };
     lokasenna-delete-all-notes-outside-the-current-scale-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-delete-all-notes-outside-the-current-scale-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28269,7 +28270,7 @@
       ];
     };
     lokasenna-delete-note-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-delete-note-under-mouse-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28283,7 +28284,7 @@
       ];
     };
     lokasenna-delete-selected-notes-outside-the-current-scale-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-delete-selected-notes-outside-the-current-scale-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28297,7 +28298,7 @@
       ];
     };
     lokasenna-duplicate-selected-notes-chromatically-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-duplicate-selected-notes-chromatically-lua-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28421,7 +28422,7 @@
       ];
     };
     lokasenna-duplicate-selected-notes-diatonically-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-duplicate-selected-notes-diatonically-lua-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28535,7 +28536,7 @@
       ];
     };
     lokasenna-duplicate-selected-notes-diatonically-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-duplicate-selected-notes-diatonically-lua-1-5-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28649,7 +28650,7 @@
       ];
     };
     lokasenna-invert-selected-cc-event-values-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-invert-selected-cc-event-values-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28663,7 +28664,7 @@
       ];
     };
     lokasenna-midi-note-selector-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-midi-note-selector-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28677,7 +28678,7 @@
       ];
     };
     lokasenna-midi-note-selector-lua-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-midi-note-selector-lua-2-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28691,7 +28692,7 @@
       ];
     };
     lokasenna-midi-note-selector-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-midi-note-selector-lua-2-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28705,7 +28706,7 @@
       ];
     };
     lokasenna-midi-randomization-tool-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-midi-randomization-tool-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28719,7 +28720,7 @@
       ];
     };
     lokasenna-mute-all-notes-outside-the-current-scale-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-mute-all-notes-outside-the-current-scale-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28733,7 +28734,7 @@
       ];
     };
     lokasenna-mute-selected-notes-outside-the-current-scale-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-mute-selected-notes-outside-the-current-scale-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -28747,7 +28748,7 @@
       ];
     };
     lokasenna-pedal-steel-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-pedal-steel-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29086,7 +29087,7 @@
       ];
     };
     lokasenna-pedal-steel-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-pedal-steel-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29425,7 +29426,7 @@
       ];
     };
     lokasenna-pedal-steel-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-pedal-steel-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29764,7 +29765,7 @@
       ];
     };
     lokasenna-select-note-and-note-row-under-mouse-cursor-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-select-note-and-note-row-under-mouse-cursor-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29778,7 +29779,7 @@
       ];
     };
     lokasenna-select-notes-above-or-below-note-number-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-select-notes-above-or-below-note-number-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29792,7 +29793,7 @@
       ];
     };
     lokasenna-set-selected-note-lengths-to-at-least-x-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-set-selected-note-lengths-to-at-least-x-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29806,7 +29807,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29820,7 +29821,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29834,7 +29835,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-15";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29848,7 +29849,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-16";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29862,7 +29863,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29876,7 +29877,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-25";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29890,7 +29891,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-26";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29904,7 +29905,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-27";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29918,7 +29919,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-28";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29932,7 +29933,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-29";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29946,7 +29947,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29960,7 +29961,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-31";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29974,7 +29975,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-32";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -29988,7 +29989,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-37";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30002,7 +30003,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-38";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30016,7 +30017,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-39";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30030,7 +30031,7 @@
       ];
     };
     lokasenna-theory-helper-lua-1-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-theory-helper-lua-1-40";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30044,7 +30045,7 @@
       ];
     };
     mordi-ahmusic-search-selected-notes-in-scale-finder-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-ahmusic-search-selected-notes-in-scale-finder-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30058,7 +30059,7 @@
       ];
     };
     mordi-search-selected-notes-in-chord-finder-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-search-selected-notes-in-chord-finder-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30072,7 +30073,7 @@
       ];
     };
     mordi-search-selected-notes-in-chord-finder-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-search-selected-notes-in-chord-finder-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30086,7 +30087,7 @@
       ];
     };
     pandabot-select-every-n-notes-within-selection-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-select-every-n-notes-within-selection-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30100,7 +30101,7 @@
       ];
     };
     pandabot-select-every-n-notes-within-selection-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-select-every-n-notes-within-selection-eel-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30114,7 +30115,7 @@
       ];
     };
     pandabot-select-every-n-notes-within-selection-eel-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-select-every-n-notes-within-selection-eel-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30128,7 +30129,7 @@
       ];
     };
     spk77-add-to-selection-next-note-at-same-pitch-eel-0-2014-9-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-add-to-selection-next-note-at-same-pitch-eel-0-2014-9-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30142,7 +30143,7 @@
       ];
     };
     spk77-add-to-selection-next-note-at-same-pitch-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-add-to-selection-next-note-at-same-pitch-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30156,7 +30157,7 @@
       ];
     };
     spk77-add-to-selection-previous-note-at-same-pitch-eel-0-2014-8-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-add-to-selection-previous-note-at-same-pitch-eel-0-2014-8-30";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30170,7 +30171,7 @@
       ];
     };
     spk77-add-to-selection-previous-note-at-same-pitch-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-add-to-selection-previous-note-at-same-pitch-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30184,7 +30185,7 @@
       ];
     };
     spk77-midi-velocity-tool-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-midi-velocity-tool-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30198,7 +30199,7 @@
       ];
     };
     spk77-midi-velocity-tool-eel-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-midi-velocity-tool-eel-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30212,7 +30213,7 @@
       ];
     };
     spk77-move-edit-cursor-to-start-of-next-note-plus-preview-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-move-edit-cursor-to-start-of-next-note-plus-preview-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30226,7 +30227,7 @@
       ];
     };
     spk77-move-edit-cursor-to-start-of-next-note-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-move-edit-cursor-to-start-of-next-note-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30240,7 +30241,7 @@
       ];
     };
     spk77-move-edit-cursor-to-start-of-previous-measure-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-move-edit-cursor-to-start-of-previous-measure-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30254,7 +30255,7 @@
       ];
     };
     spk77-move-edit-cursor-to-start-of-previous-note-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-move-edit-cursor-to-start-of-previous-note-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30268,7 +30269,7 @@
       ];
     };
     spk77-remove-redundant-ccs-eel-0-2014-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-remove-redundant-ccs-eel-0-2014-5-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30282,7 +30283,7 @@
       ];
     };
     spk77-remove-redundant-ccs-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-remove-redundant-ccs-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30296,7 +30297,7 @@
       ];
     };
     spk77-restrict-polyphony-eel-0-2014-7-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-restrict-polyphony-eel-0-2014-7-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30310,7 +30311,7 @@
       ];
     };
     spk77-restrict-polyphony-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-restrict-polyphony-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30324,7 +30325,7 @@
       ];
     };
     spk77-select-all-midi-notes-and-events-right-of-cursor-eel-0-2014-12-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-select-all-midi-notes-and-events-right-of-cursor-eel-0-2014-12-27";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30338,7 +30339,7 @@
       ];
     };
     spk77-select-all-midi-notes-and-events-right-of-cursor-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-select-all-midi-notes-and-events-right-of-cursor-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30352,7 +30353,7 @@
       ];
     };
     spk77-select-all-midi-notes-and-events-right-of-cursor-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-select-all-midi-notes-and-events-right-of-cursor-eel-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30366,7 +30367,7 @@
       ];
     };
     spk77-set-random-velocities-for-selected-notes-eel-0-2014-3-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-random-velocities-for-selected-notes-eel-0-2014-3-26";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30380,7 +30381,7 @@
       ];
     };
     spk77-set-random-velocities-for-selected-notes-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-random-velocities-for-selected-notes-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30394,7 +30395,7 @@
       ];
     };
     spk77-split-selected-takes-to-midi-notes-boundaries-eel-0-2015-2-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-split-selected-takes-to-midi-notes-boundaries-eel-0-2015-2-13";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30408,7 +30409,7 @@
       ];
     };
     spk77-split-selected-takes-to-midi-notes-boundaries-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-split-selected-takes-to-midi-notes-boundaries-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30422,7 +30423,7 @@
       ];
     };
     talagan-distribute-midi-notes-evenly-action-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-distribute-midi-notes-evenly-action-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30461,7 +30462,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30615,7 +30616,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-8";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -30809,7 +30810,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -31028,7 +31029,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -31272,7 +31273,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-2";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -31521,7 +31522,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-3";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -31805,7 +31806,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-4";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -32089,7 +32090,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-5";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -32398,7 +32399,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-6";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -32857,7 +32858,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-7";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -33371,7 +33372,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-8";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -33885,7 +33886,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-9";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -34399,7 +34400,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -35043,7 +35044,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-11";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -35687,7 +35688,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-12";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -36331,7 +36332,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-13";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -36975,7 +36976,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-14";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -37629,7 +37630,7 @@
       ];
     };
     talagan-onesmallstep-lua-0-9-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-9-15";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38288,7 +38289,7 @@
       ];
     };
     timtam-accessichords-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timtam-accessichords-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38322,7 +38323,7 @@
       ];
     };
     timtam-accessichords-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timtam-accessichords-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38376,7 +38377,7 @@
       ];
     };
     ugurcanorcun-reaks-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ugurcanorcun-reaks-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38390,7 +38391,7 @@
       ];
     };
     ugurcanorcun-reaks-lua-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ugurcanorcun-reaks-lua-0-3";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38404,7 +38405,7 @@
       ];
     };
     ugurcanorcun-reaks-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ugurcanorcun-reaks-lua-0-5";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38418,7 +38419,7 @@
       ];
     };
     ugurcanorcun-reaks-lua-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ugurcanorcun-reaks-lua-0-6";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38432,7 +38433,7 @@
       ];
     };
     ugurcanorcun-reaks-lua-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ugurcanorcun-reaks-lua-0-7";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38446,7 +38447,7 @@
       ];
     };
     ugurcanorcun-reaks-lua-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ugurcanorcun-reaks-lua-0-8";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38460,7 +38461,7 @@
       ];
     };
     ugurcanorcun-reaks-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ugurcanorcun-reaks-lua-0-9";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38474,7 +38475,7 @@
       ];
     };
     ugurcanorcun-reaks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ugurcanorcun-reaks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38488,7 +38489,7 @@
       ];
     };
     ugurcanorcun-reaks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ugurcanorcun-reaks-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38502,7 +38503,7 @@
       ];
     };
     ugurcanorcun-reaks-lua-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ugurcanorcun-reaks-lua-1-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38516,7 +38517,7 @@
       ];
     };
     ugurcanorcun-reaks-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ugurcanorcun-reaks-lua-1-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38530,7 +38531,7 @@
       ];
     };
     ugurcanorcun-reaks-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ugurcanorcun-reaks-lua-1-3-0";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Editor";
@@ -38544,7 +38545,7 @@
       ];
     };
     js-deselect-all-midi-except-in-active-channel-of-inline-midi-editor-under-mouse-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-deselect-all-midi-except-in-active-channel-of-inline-midi-editor-under-mouse-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38558,7 +38559,7 @@
       ];
     };
     js-select-cc-lanes-to-show-in-midi-item-under-mouse-lua-0-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-cc-lanes-to-show-in-midi-item-under-mouse-lua-0-93";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38572,7 +38573,7 @@
       ];
     };
     js-select-cc-lanes-to-show-in-midi-item-under-mouse-lua-0-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-cc-lanes-to-show-in-midi-item-under-mouse-lua-0-94";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38586,7 +38587,7 @@
       ];
     };
     js-select-cc-lanes-to-show-in-midi-item-under-mouse-lua-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-cc-lanes-to-show-in-midi-item-under-mouse-lua-0-95";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38600,7 +38601,7 @@
       ];
     };
     js-select-cc-lanes-to-show-in-midi-item-under-mouse-lua-0-96 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-cc-lanes-to-show-in-midi-item-under-mouse-lua-0-96";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38614,7 +38615,7 @@
       ];
     };
     js-select-cc-lanes-to-show-in-midi-item-under-mouse-lua-0-97 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-cc-lanes-to-show-in-midi-item-under-mouse-lua-0-97";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38628,7 +38629,7 @@
       ];
     };
     js-select-cc-lanes-to-show-in-midi-item-under-mouse-lua-0-98 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-cc-lanes-to-show-in-midi-item-under-mouse-lua-0-98";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38642,7 +38643,7 @@
       ];
     };
     js-select-cc-lanes-to-show-in-midi-item-under-mouse-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-cc-lanes-to-show-in-midi-item-under-mouse-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38656,7 +38657,7 @@
       ];
     };
     js-select-cc-lanes-to-show-in-selected-midi-items-lua-0-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-cc-lanes-to-show-in-selected-midi-items-lua-0-93";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38670,7 +38671,7 @@
       ];
     };
     js-select-cc-lanes-to-show-in-selected-midi-items-lua-0-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-cc-lanes-to-show-in-selected-midi-items-lua-0-94";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38684,7 +38685,7 @@
       ];
     };
     js-select-cc-lanes-to-show-in-selected-midi-items-lua-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-cc-lanes-to-show-in-selected-midi-items-lua-0-95";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38698,7 +38699,7 @@
       ];
     };
     js-select-cc-lanes-to-show-in-selected-midi-items-lua-0-96 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-cc-lanes-to-show-in-selected-midi-items-lua-0-96";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38712,7 +38713,7 @@
       ];
     };
     js-select-cc-lanes-to-show-in-selected-midi-items-lua-0-97 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-cc-lanes-to-show-in-selected-midi-items-lua-0-97";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38726,7 +38727,7 @@
       ];
     };
     js-select-cc-lanes-to-show-in-selected-midi-items-lua-0-98 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-cc-lanes-to-show-in-selected-midi-items-lua-0-98";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38740,7 +38741,7 @@
       ];
     };
     js-select-cc-lanes-to-show-in-selected-midi-items-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-cc-lanes-to-show-in-selected-midi-items-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38754,7 +38755,7 @@
       ];
     };
     js-select-channel-for-new-events-for-midi-editor-under-mouse-lua-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-select-channel-for-new-events-for-midi-editor-under-mouse-lua-0-95";
       indexName = "ReaTeam Scripts";
       categoryName = "MIDI Inline Editor";
@@ -38768,7 +38769,7 @@
       ];
     };
     amagalma-disable-project-bay-option-automatically-retain-items-when-removed-from-project-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-disable-project-bay-option-automatically-retain-items-when-removed-from-project-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38782,7 +38783,7 @@
       ];
     };
     amagalma-enable-project-bay-option-automatically-retain-items-when-removed-from-project-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-enable-project-bay-option-automatically-retain-items-when-removed-from-project-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38796,7 +38797,7 @@
       ];
     };
     amagalma-set-project-grid-via-dropdown-menu-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-set-project-grid-via-dropdown-menu-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38810,7 +38811,7 @@
       ];
     };
     amagalma-set-project-grid-via-dropdown-menu-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-set-project-grid-via-dropdown-menu-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38824,7 +38825,7 @@
       ];
     };
     amagalma-set-project-grid-via-dropdown-menu-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-set-project-grid-via-dropdown-menu-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38838,7 +38839,7 @@
       ];
     };
     amagalma-set-project-grid-via-dropdown-menu-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-set-project-grid-via-dropdown-menu-lua-1-04";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38852,7 +38853,7 @@
       ];
     };
     amagalma-set-project-length-limit-to-edit-cursor-position-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-set-project-length-limit-to-edit-cursor-position-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38866,7 +38867,7 @@
       ];
     };
     amagalma-set-project-samplerate-to-that-of-the-first-selected-item-if-different-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-set-project-samplerate-to-that-of-the-first-selected-item-if-different-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38880,7 +38881,7 @@
       ];
     };
     amagalma-toggle-project-bay-option-automatically-retain-items-when-removed-from-project-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-project-bay-option-automatically-retain-items-when-removed-from-project-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38894,7 +38895,7 @@
       ];
     };
     benjyo-reset-project-start-measure-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "benjyo-reset-project-start-measure-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38908,7 +38909,7 @@
       ];
     };
     benjyo-reset-project-start-time-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "benjyo-reset-project-start-time-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38922,7 +38923,7 @@
       ];
     };
     benjyo-set-measure-1-to-current-edit-cursor-position-rounded-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "benjyo-set-measure-1-to-current-edit-cursor-position-rounded-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38936,7 +38937,7 @@
       ];
     };
     buyone-close-tab-or-quit-reaper-without-save-prompt-see-settings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-close-tab-or-quit-reaper-without-save-prompt-see-settings-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38950,7 +38951,7 @@
       ];
     };
     buyone-export-project-tabs-and-import-from-dump-settings-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-export-project-tabs-and-import-from-dump-settings-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38964,7 +38965,7 @@
       ];
     };
     buyone-export-project-tabs-and-import-from-dump-settings-inside-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-export-project-tabs-and-import-from-dump-settings-inside-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38978,7 +38979,7 @@
       ];
     };
     buyone-load-instance-of-current-project-in-another-tab-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-load-instance-of-current-project-in-another-tab-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -38992,7 +38993,7 @@
       ];
     };
     buyone-open-recent-projects-in-new-tab-settings-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-open-recent-projects-in-new-tab-settings-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39006,7 +39007,7 @@
       ];
     };
     buyone-open-recent-projects-in-new-tab-settings-inside-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-open-recent-projects-in-new-tab-settings-inside-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39020,7 +39021,7 @@
       ];
     };
     buyone-open-recent-projects-in-new-tab-settings-inside-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-open-recent-projects-in-new-tab-settings-inside-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39034,7 +39035,7 @@
       ];
     };
     buyone-save-load-window-set-1-10-with-mixer-scroll-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-save-load-window-set-1-10-with-mixer-scroll-position-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39093,7 +39094,7 @@
       ];
     };
     buyone-save-load-window-set-1-10-with-mixer-scroll-position-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-save-load-window-set-1-10-with-mixer-scroll-position-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39152,7 +39153,7 @@
       ];
     };
     buyone-save-load-window-set-1-10-with-mixer-scroll-position-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-save-load-window-set-1-10-with-mixer-scroll-position-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39211,7 +39212,7 @@
       ];
     };
     buyone-scroll-named-track-into-view-in-the-mixer-guide-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-scroll-named-track-into-view-in-the-mixer-guide-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39225,7 +39226,7 @@
       ];
     };
     buyone-scroll-named-track-into-view-in-the-mixer-guide-inside-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-scroll-named-track-into-view-in-the-mixer-guide-inside-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39239,7 +39240,7 @@
       ];
     };
     buyone-scroll-named-track-into-view-in-the-mixer-guide-inside-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-scroll-named-track-into-view-in-the-mixer-guide-inside-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39253,7 +39254,7 @@
       ];
     };
     buyone-scroll-named-track-into-view-in-the-mixer-guide-inside-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-scroll-named-track-into-view-in-the-mixer-guide-inside-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39267,7 +39268,7 @@
       ];
     };
     cfillion-normalize-peaks-display-gain-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-normalize-peaks-display-gain-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39291,7 +39292,7 @@
       ];
     };
     cfillion-normalize-peaks-display-gain-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-normalize-peaks-display-gain-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39315,7 +39316,7 @@
       ];
     };
     cfillion-normalize-project-encoding-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-normalize-project-encoding-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39329,7 +39330,7 @@
       ];
     };
     cfillion-set-master-track-mono-mode-to-lplusr-l-r-or-l-r-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-set-master-track-mono-mode-to-lplusr-l-r-or-l-r-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39358,7 +39359,7 @@
       ];
     };
     cfillion-set-timecode-at-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-set-timecode-at-edit-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39372,7 +39373,7 @@
       ];
     };
     cfillion-set-timecode-at-edit-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-set-timecode-at-edit-cursor-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39396,7 +39397,7 @@
       ];
     };
     cfillion-set-timecode-at-edit-cursor-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-set-timecode-at-edit-cursor-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39420,7 +39421,7 @@
       ];
     };
     cfillion-set-timecode-at-edit-cursor-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-set-timecode-at-edit-cursor-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39449,7 +39450,7 @@
       ];
     };
     edgemeal-do-not-process-muted-tracks-toggle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-do-not-process-muted-tracks-toggle-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39463,7 +39464,7 @@
       ];
     };
     edgemeal-save-project-plugin-info-to-text-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-save-project-plugin-info-to-text-file-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39477,7 +39478,7 @@
       ];
     };
     edgemeal-save-project-plugin-info-to-text-file-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-save-project-plugin-info-to-text-file-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39491,7 +39492,7 @@
       ];
     };
     edgemeal-save-project-plugin-info-to-text-file-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-save-project-plugin-info-to-text-file-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39505,7 +39506,7 @@
       ];
     };
     edgemeal-save-project-plugin-info-to-text-file-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-save-project-plugin-info-to-text-file-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39519,7 +39520,7 @@
       ];
     };
     edgemeal-save-project-plugin-info-to-text-file-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-save-project-plugin-info-to-text-file-lua-1-04";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39533,7 +39534,7 @@
       ];
     };
     edgemeal-save-project-plugin-info-to-text-file-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-save-project-plugin-info-to-text-file-lua-1-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39547,7 +39548,7 @@
       ];
     };
     edgemeal-save-project-plugin-info-to-text-file-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-save-project-plugin-info-to-text-file-lua-1-06";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39561,7 +39562,7 @@
       ];
     };
     edgemeal-save-project-plugin-info-to-text-file-lua-1-06-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-save-project-plugin-info-to-text-file-lua-1-06-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39580,7 +39581,7 @@
       ];
     };
     jercontact-open-project-based-on-file-in-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jercontact-open-project-based-on-file-in-clipboard-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39594,7 +39595,7 @@
       ];
     };
     jercontact-open-project-based-on-file-in-clipboard-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jercontact-open-project-based-on-file-in-clipboard-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39608,7 +39609,7 @@
       ];
     };
     jercontact-open-project-based-on-file-in-clipboard-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jercontact-open-project-based-on-file-in-clipboard-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39622,7 +39623,7 @@
       ];
     };
     jercontact-open-project-based-on-file-in-clipboard-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jercontact-open-project-based-on-file-in-clipboard-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39636,7 +39637,7 @@
       ];
     };
     nickstomp-import-export-track-group-names-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nickstomp-import-export-track-group-names-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39655,7 +39656,7 @@
       ];
     };
     solger-realauncher-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39669,7 +39670,7 @@
       ];
     };
     solger-realauncher-lua-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-0-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39683,7 +39684,7 @@
       ];
     };
     solger-realauncher-lua-0-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-0-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39697,7 +39698,7 @@
       ];
     };
     solger-realauncher-lua-0-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-0-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39711,7 +39712,7 @@
       ];
     };
     solger-realauncher-lua-0-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-0-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39725,7 +39726,7 @@
       ];
     };
     solger-realauncher-lua-0-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-0-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39739,7 +39740,7 @@
       ];
     };
     solger-realauncher-lua-0-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-0-1-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39753,7 +39754,7 @@
       ];
     };
     solger-realauncher-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39767,7 +39768,7 @@
       ];
     };
     solger-realauncher-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39781,7 +39782,7 @@
       ];
     };
     solger-realauncher-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39795,7 +39796,7 @@
       ];
     };
     solger-realauncher-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-1-5-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39809,7 +39810,7 @@
       ];
     };
     solger-realauncher-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-1-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39823,7 +39824,7 @@
       ];
     };
     solger-realauncher-lua-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-1-6-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39837,7 +39838,7 @@
       ];
     };
     solger-realauncher-lua-1-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-1-6-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39851,7 +39852,7 @@
       ];
     };
     solger-realauncher-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-1-7";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39865,7 +39866,7 @@
       ];
     };
     solger-realauncher-lua-1-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-1-7-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39879,7 +39880,7 @@
       ];
     };
     solger-realauncher-lua-1-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-1-7-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39893,7 +39894,7 @@
       ];
     };
     solger-realauncher-lua-1-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-1-7-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39907,7 +39908,7 @@
       ];
     };
     solger-realauncher-lua-1-7-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-1-7-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39921,7 +39922,7 @@
       ];
     };
     solger-realauncher-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39935,7 +39936,7 @@
       ];
     };
     solger-realauncher-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39949,7 +39950,7 @@
       ];
     };
     solger-realauncher-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-2-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39963,7 +39964,7 @@
       ];
     };
     solger-realauncher-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-2-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39977,7 +39978,7 @@
       ];
     };
     solger-realauncher-lua-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-2-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -39991,7 +39992,7 @@
       ];
     };
     solger-realauncher-lua-2-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-2-4-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -40005,7 +40006,7 @@
       ];
     };
     solger-realauncher-lua-2-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-2-4-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -40019,7 +40020,7 @@
       ];
     };
     solger-realauncher-lua-2-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-2-4-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -40033,7 +40034,7 @@
       ];
     };
     solger-realauncher-lua-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-2-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -40047,7 +40048,7 @@
       ];
     };
     solger-realauncher-lua-2-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-2-5-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -40061,7 +40062,7 @@
       ];
     };
     solger-realauncher-lua-2-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-2-5-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -40075,7 +40076,7 @@
       ];
     };
     solger-realauncher-lua-2-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-2-5-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -40089,7 +40090,7 @@
       ];
     };
     solger-realauncher-lua-2-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "solger-realauncher-lua-2-5-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Project Properties";
@@ -40103,7 +40104,7 @@
       ];
     };
     amagalma-add-razor-edit-on-selected-tracks-within-region-bounds-under-mouse-or-edit-cursor-keep-other-re-areas-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-add-razor-edit-on-selected-tracks-within-region-bounds-under-mouse-or-edit-cursor-keep-other-re-areas-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40117,7 +40118,7 @@
       ];
     };
     amagalma-create-razor-edit-on-selected-tracks-within-region-bounds-under-mouse-or-edit-cursor-clear-other-re-areas-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-razor-edit-on-selected-tracks-within-region-bounds-under-mouse-or-edit-cursor-clear-other-re-areas-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40131,7 +40132,7 @@
       ];
     };
     amagalma-crossfade-items-in-razor-edit-area-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-crossfade-items-in-razor-edit-area-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40145,7 +40146,7 @@
       ];
     };
     amagalma-delete-all-envelope-points-inside-razor-edit-areas-do-not-add-edge-points-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-delete-all-envelope-points-inside-razor-edit-areas-do-not-add-edge-points-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40159,7 +40160,7 @@
       ];
     };
     amagalma-delete-all-envelope-points-inside-razor-edit-areas-do-not-add-edge-points-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-delete-all-envelope-points-inside-razor-edit-areas-do-not-add-edge-points-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40173,7 +40174,7 @@
       ];
     };
     amagalma-delete-razor-edit-areas-contents-moving-later-items-ripple-per-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-delete-razor-edit-areas-contents-moving-later-items-ripple-per-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40187,7 +40188,7 @@
       ];
     };
     amagalma-insert-empty-space-at-razor-edit-areas-moving-later-items-ripple-per-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-insert-empty-space-at-razor-edit-areas-moving-later-items-ripple-per-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40201,7 +40202,7 @@
       ];
     };
     amagalma-insert-empty-space-at-razor-edit-areas-moving-later-items-ripple-per-track-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-insert-empty-space-at-razor-edit-areas-moving-later-items-ripple-per-track-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40215,7 +40216,7 @@
       ];
     };
     amagalma-remove-all-item-fades-within-razor-edit-areas-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-remove-all-item-fades-within-razor-edit-areas-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40229,7 +40230,7 @@
       ];
     };
     amagalma-set-time-selection-to-razor-edits-start-and-end-selected-tracks-only-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-set-time-selection-to-razor-edits-start-and-end-selected-tracks-only-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40243,7 +40244,7 @@
       ];
     };
     amagalma-set-time-selection-to-razor-edits-start-and-end-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-set-time-selection-to-razor-edits-start-and-end-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40257,7 +40258,7 @@
       ];
     };
     amagalma-split-media-items-at-razor-edit-area-edges-crossfades-to-the-left-of-the-splits-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-media-items-at-razor-edit-area-edges-crossfades-to-the-left-of-the-splits-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40271,7 +40272,7 @@
       ];
     };
     amagalma-split-media-items-at-razor-edit-area-edges-crossfades-to-the-left-of-the-splits-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-media-items-at-razor-edit-area-edges-crossfades-to-the-left-of-the-splits-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40285,7 +40286,7 @@
       ];
     };
     amagalma-split-media-items-at-razor-edit-area-edges-crossfades-to-the-left-of-the-splits-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-media-items-at-razor-edit-area-edges-crossfades-to-the-left-of-the-splits-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40299,7 +40300,7 @@
       ];
     };
     amagalma-split-media-items-at-razor-edit-area-edges-crossfades-to-the-left-of-the-splits-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-media-items-at-razor-edit-area-edges-crossfades-to-the-left-of-the-splits-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40313,7 +40314,7 @@
       ];
     };
     amagalma-split-media-items-at-razor-edit-area-edges-crossfades-to-the-left-of-the-splits-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-split-media-items-at-razor-edit-area-edges-crossfades-to-the-left-of-the-splits-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40327,7 +40328,7 @@
       ];
     };
     az-exclude-tracks-or-envelopes-from-razor-area-depending-on-mouse-placement-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-exclude-tracks-or-envelopes-from-razor-area-depending-on-mouse-placement-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40341,7 +40342,7 @@
       ];
     };
     az-exclude-tracks-or-envelopes-from-razor-area-depending-on-mouse-placement-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-exclude-tracks-or-envelopes-from-razor-area-depending-on-mouse-placement-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40355,7 +40356,7 @@
       ];
     };
     js-razor-edit-apply-lfo-to-razor-areas-by-converting-to-temporary-automation-items-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-razor-edit-apply-lfo-to-razor-areas-by-converting-to-temporary-automation-items-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40369,7 +40370,7 @@
       ];
     };
     js-razor-edit-enclose-selected-media-items-and-automation-items-in-minimal-razor-areas-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-razor-edit-enclose-selected-media-items-and-automation-items-in-minimal-razor-areas-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Razor Edit";
@@ -40383,7 +40384,7 @@
       ];
     };
     amagalma-go-to-region-marker-choose-from-menu-list-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-go-to-region-marker-choose-from-menu-list-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40397,7 +40398,7 @@
       ];
     };
     amagalma-go-to-region-marker-choose-from-menu-list-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-go-to-region-marker-choose-from-menu-list-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40411,7 +40412,7 @@
       ];
     };
     amagalma-go-to-region-marker-choose-from-menu-list-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-go-to-region-marker-choose-from-menu-list-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40425,7 +40426,7 @@
       ];
     };
     ausbaxter-save-and-load-region-render-matrix-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ausbaxter-save-and-load-region-render-matrix-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40479,7 +40480,7 @@
       ];
     };
     buyone-set-region-at-play-or-edit-cursor-to-a-predefined-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-set-region-at-play-or-edit-cursor-to-a-predefined-color-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40493,7 +40494,7 @@
       ];
     };
     buyone-sort-by-length-region-bars-displayed-in-lanes-respecting-time-sel-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-sort-by-length-region-bars-displayed-in-lanes-respecting-time-sel-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40507,7 +40508,7 @@
       ];
     };
     cfillion-nudge-start-or-end-of-regions-in-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-nudge-start-or-end-of-regions-in-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40521,7 +40522,7 @@
       ];
     };
     edgemeal-select-region-in-region-manager-window-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-select-region-in-region-manager-window-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40540,7 +40541,7 @@
       ];
     };
     edgemeal-select-region-in-region-manager-window-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-select-region-in-region-manager-window-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40559,7 +40560,7 @@
       ];
     };
     epacheco-create-a-single-region-with-name-and-tail-length-from-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "epacheco-create-a-single-region-with-name-and-tail-length-from-selected-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40573,7 +40574,7 @@
       ];
     };
     epacheco-create-a-single-region-with-name-and-tail-length-from-selected-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "epacheco-create-a-single-region-with-name-and-tail-length-from-selected-items-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40587,7 +40588,7 @@
       ];
     };
     epacheco-create-a-single-region-with-name-and-tail-length-from-selected-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "epacheco-create-a-single-region-with-name-and-tail-length-from-selected-items-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40601,7 +40602,7 @@
       ];
     };
     epacheco-create-a-single-region-with-name-from-selected-items-lua-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "epacheco-create-a-single-region-with-name-from-selected-items-lua-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40615,7 +40616,7 @@
       ];
     };
     heda-regionmatrixautotrack-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-regionmatrixautotrack-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40629,7 +40630,7 @@
       ];
     };
     micheldejoode-mute-unmute-tracks-per-region-by-region-render-matrix-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "micheldejoode-mute-unmute-tracks-per-region-by-region-render-matrix-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40643,7 +40644,7 @@
       ];
     };
     mordi-create-single-region-from-selected-items-get-name-and-color-from-folder-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-create-single-region-from-selected-items-get-name-and-color-from-folder-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40657,7 +40658,7 @@
       ];
     };
     mordi-create-single-region-from-selected-items-get-name-and-color-from-folder-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-create-single-region-from-selected-items-get-name-and-color-from-folder-track-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40671,7 +40672,7 @@
       ];
     };
     mordi-create-single-region-from-selected-items-get-name-and-color-from-folder-track-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-create-single-region-from-selected-items-get-name-and-color-from-folder-track-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40695,7 +40696,7 @@
       ];
     };
     mordi-create-single-region-from-selected-items-get-name-and-color-from-folder-track-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-create-single-region-from-selected-items-get-name-and-color-from-folder-track-lua-1-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40719,7 +40720,7 @@
       ];
     };
     mordi-set-render-matrix-by-comparing-track-names-and-region-names-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-set-render-matrix-by-comparing-track-names-and-region-names-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40733,7 +40734,7 @@
       ];
     };
     mordi-set-render-matrix-by-comparing-track-names-and-region-names-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-set-render-matrix-by-comparing-track-names-and-region-names-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40747,7 +40748,7 @@
       ];
     };
     mordi-set-render-matrix-by-comparing-track-names-and-region-names-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-set-render-matrix-by-comparing-track-names-and-region-names-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40761,7 +40762,7 @@
       ];
     };
     spk77-create-regions-with-tail-from-selected-items-lua-0-2015-9-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-create-regions-with-tail-from-selected-items-lua-0-2015-9-13";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40775,7 +40776,7 @@
       ];
     };
     spk77-create-regions-with-tail-from-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-create-regions-with-tail-from-selected-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40789,7 +40790,7 @@
       ];
     };
     stepanhlavsa-big-region-progress-bar-for-live-use-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stepanhlavsa-big-region-progress-bar-for-live-use-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40803,7 +40804,7 @@
       ];
     };
     thonex-set-region-at-edit-cursor-to-time-selection-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "thonex-set-region-at-edit-cursor-to-time-selection-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40817,7 +40818,7 @@
       ];
     };
     thonex-set-time-selection-to-region-at-edit-cursor-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "thonex-set-time-selection-to-region-at-edit-cursor-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40831,7 +40832,7 @@
       ];
     };
     tormyvancool-chapter-region-for-podcasts-and-recorded-broadcasts-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tormyvancool-chapter-region-for-podcasts-and-recorded-broadcasts-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Regions";
@@ -40845,7 +40846,7 @@
       ];
     };
     buyone-play-a-file-when-rendering-is-finished-guide-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-play-a-file-when-rendering-is-finished-guide-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -40859,7 +40860,7 @@
       ];
     };
     buyone-render-each-item-in-place-separately-guide-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-render-each-item-in-place-separately-guide-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -40873,7 +40874,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -40887,7 +40888,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -40906,7 +40907,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -40925,7 +40926,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-0-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -40944,7 +40945,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-0-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -40963,7 +40964,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-0-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -40982,7 +40983,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-0-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41001,7 +41002,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-0-7";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41020,7 +41021,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-0-8";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41039,7 +41040,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-0-9";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41058,7 +41059,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-0-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41077,7 +41078,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41096,7 +41097,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41115,7 +41116,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41134,7 +41135,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-1-3-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41153,7 +41154,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41172,7 +41173,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-2-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41191,7 +41192,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-2-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41210,7 +41211,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-2-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-2-0-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41229,7 +41230,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41248,7 +41249,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-2-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41267,7 +41268,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-2-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-2-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41286,7 +41287,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-2-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-2-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41305,7 +41306,7 @@
       ];
     };
     cfillion-apply-render-preset-lua-2-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-apply-render-preset-lua-2-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41324,7 +41325,7 @@
       ];
     };
     dsg-render-time-selection-to-new-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dsg-render-time-selection-to-new-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41338,7 +41339,7 @@
       ];
     };
     dsg-render-time-selection-to-new-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dsg-render-time-selection-to-new-track-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41352,7 +41353,7 @@
       ];
     };
     dsg-render-time-selection-to-new-track-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dsg-render-time-selection-to-new-track-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41366,7 +41367,7 @@
       ];
     };
     rodilab-render-whole-items-in-new-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-render-whole-items-in-new-take-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41380,7 +41381,7 @@
       ];
     };
     rodilab-render-whole-items-in-new-take-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-render-whole-items-in-new-take-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41394,7 +41395,7 @@
       ];
     };
     rodilab-render-whole-items-in-new-take-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-render-whole-items-in-new-take-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41408,7 +41409,7 @@
       ];
     };
     rodilab-render-whole-items-in-new-take-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-render-whole-items-in-new-take-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41427,7 +41428,7 @@
       ];
     };
     uorcun-insert-start-and-end-markers-to-time-selection-for-subprojects-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "uorcun-insert-start-and-end-markers-to-time-selection-for-subprojects-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41441,7 +41442,7 @@
       ];
     };
     uorcun-insert-start-and-end-markers-to-time-selection-for-subprojects-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "uorcun-insert-start-and-end-markers-to-time-selection-for-subprojects-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Rendering";
@@ -41455,7 +41456,7 @@
       ];
     };
     argitoth-split-selected-items-at-stretch-markers-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "argitoth-split-selected-items-at-stretch-markers-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Stretch Markers";
@@ -41469,7 +41470,7 @@
       ];
     };
     hypex-item-stretch-list-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hypex-item-stretch-list-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Stretch Markers";
@@ -41483,7 +41484,7 @@
       ];
     };
     hypex-item-stretch-list-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hypex-item-stretch-list-eel-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Stretch Markers";
@@ -41502,7 +41503,7 @@
       ];
     };
     js-adjust-audio-items-to-tempo-changes-using-stretch-markers-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-adjust-audio-items-to-tempo-changes-using-stretch-markers-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "Stretch Markers";
@@ -41516,7 +41517,7 @@
       ];
     };
     js-convert-all-stretch-markers-in-selected-items-to-slopes-with-starting-rate-1-0-to-protect-transients-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-convert-all-stretch-markers-in-selected-items-to-slopes-with-starting-rate-1-0-to-protect-transients-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Stretch Markers";
@@ -41530,7 +41531,7 @@
       ];
     };
     js-convert-all-stretch-markers-in-take-under-mouse-to-slopes-with-starting-rate-1-0-to-protect-transients-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-convert-all-stretch-markers-in-take-under-mouse-to-slopes-with-starting-rate-1-0-to-protect-transients-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Stretch Markers";
@@ -41544,7 +41545,7 @@
       ];
     };
     js-convert-all-stretch-markers-in-take-under-mouse-to-slopes-with-starting-rate-1-0-to-protect-transients-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-convert-all-stretch-markers-in-take-under-mouse-to-slopes-with-starting-rate-1-0-to-protect-transients-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Stretch Markers";
@@ -41558,7 +41559,7 @@
       ];
     };
     spk77-copy-stretch-markers-from-selected-item-to-other-items-in-group-eel-0-2014-12-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-copy-stretch-markers-from-selected-item-to-other-items-in-group-eel-0-2014-12-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Stretch Markers";
@@ -41572,7 +41573,7 @@
       ];
     };
     spk77-copy-stretch-markers-from-selected-item-to-other-items-in-group-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-copy-stretch-markers-from-selected-item-to-other-items-in-group-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Stretch Markers";
@@ -41586,7 +41587,7 @@
       ];
     };
     spk77-quantize-stretch-markers-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-quantize-stretch-markers-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Stretch Markers";
@@ -41600,7 +41601,7 @@
       ];
     };
     amagalma-set-all-take-markers-color-for-selected-items-in-time-selection-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-set-all-take-markers-color-for-selected-items-in-time-selection-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41614,7 +41615,7 @@
       ];
     };
     argitoth-convert-all-takes-pitch-to-rate-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "argitoth-convert-all-takes-pitch-to-rate-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41628,7 +41629,7 @@
       ];
     };
     argitoth-convert-all-takes-rate-to-pitch-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "argitoth-convert-all-takes-rate-to-pitch-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41642,7 +41643,7 @@
       ];
     };
     az-propagate-project-pitch-shift-mode-to-all-takes-with-default-mode-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-propagate-project-pitch-shift-mode-to-all-takes-with-default-mode-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41656,7 +41657,7 @@
       ];
     };
     az-propagate-project-pitch-shift-mode-to-all-takes-with-default-mode-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-propagate-project-pitch-shift-mode-to-all-takes-with-default-mode-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41670,7 +41671,7 @@
       ];
     };
     az-propagate-project-pitch-shift-mode-to-all-takes-with-default-mode-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-propagate-project-pitch-shift-mode-to-all-takes-with-default-mode-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41684,7 +41685,7 @@
       ];
     };
     az-propagate-project-pitch-shift-mode-to-all-takes-with-default-mode-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-propagate-project-pitch-shift-mode-to-all-takes-with-default-mode-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41698,7 +41699,7 @@
       ];
     };
     buyone-randomize-active-take-in-items-settings-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-randomize-active-take-in-items-settings-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41712,7 +41713,7 @@
       ];
     };
     buyone-reverse-order-of-all-takes-in-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-reverse-order-of-all-takes-in-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41726,7 +41727,7 @@
       ];
     };
     cfillion-select-the-item-with-highest-or-lowest-pitch-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-the-item-with-highest-or-lowest-pitch-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41745,7 +41746,7 @@
       ];
     };
     cfillion-select-the-item-with-highest-or-lowest-pitch-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-the-item-with-highest-or-lowest-pitch-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41764,7 +41765,7 @@
       ];
     };
     cfillion-toggle-take-fx-bypass-for-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-toggle-take-fx-bypass-for-selected-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41803,7 +41804,7 @@
       ];
     };
     cfillion-toggle-take-fx-bypass-for-selected-items-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-toggle-take-fx-bypass-for-selected-items-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41837,7 +41838,7 @@
       ];
     };
     edgemeal-cycle-item-last-selected-take-up-down-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-cycle-item-last-selected-take-up-down-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41856,7 +41857,7 @@
       ];
     };
     js-sort-takes-by-lufs-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-sort-takes-by-lufs-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41870,7 +41871,7 @@
       ];
     };
     js-sort-takes-by-lufs-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-sort-takes-by-lufs-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41884,7 +41885,7 @@
       ];
     };
     mordi-add-count-of-same-named-takes-to-selected-takes-names-starting-from-1-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-add-count-of-same-named-takes-to-selected-takes-names-starting-from-1-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41898,7 +41899,7 @@
       ];
     };
     mordi-move-first-character-of-active-takes-name-to-end-on-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-move-first-character-of-active-takes-name-to-end-on-selected-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41912,7 +41913,7 @@
       ];
     };
     mordi-namecount-from-x-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-namecount-from-x-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41926,7 +41927,7 @@
       ];
     };
     mordi-set-selected-items-active-takes-name-to-track-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-set-selected-items-active-takes-name-to-track-name-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41940,7 +41941,7 @@
       ];
     };
     myrrc-toggle-take-two-mono-to-stereo-play-doubletrack-mode-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "myrrc-toggle-take-two-mono-to-stereo-play-doubletrack-mode-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41954,7 +41955,7 @@
       ];
     };
     nagasaki45-randomize-active-takes-pan-in-selected-items-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nagasaki45-randomize-active-takes-pan-in-selected-items-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41968,7 +41969,7 @@
       ];
     };
     spk77-pan-active-takes-randomly-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-pan-active-takes-randomly-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41982,7 +41983,7 @@
       ];
     };
     spk77-randomize-active-takes-pitch-in-selected-items-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-randomize-active-takes-pitch-in-selected-items-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -41996,7 +41997,7 @@
       ];
     };
     spk77-reset-takes-pan-to-center-eel-0-2014-11-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-reset-takes-pan-to-center-eel-0-2014-11-15";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -42010,7 +42011,7 @@
       ];
     };
     spk77-reset-takes-pan-to-center-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-reset-takes-pan-to-center-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Takes Properties";
@@ -42024,7 +42025,7 @@
       ];
     };
     az-link-time-selection-or-loop-points-to-arrange-view-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-link-time-selection-or-loop-points-to-arrange-view-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42038,7 +42039,7 @@
       ];
     };
     az-link-time-selection-or-loop-points-to-arrange-view-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-link-time-selection-or-loop-points-to-arrange-view-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42052,7 +42053,7 @@
       ];
     };
     buyone-create-time-selection-between-two-marked-points-from-the-closest-to-cursor-on-the-left-guide-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-create-time-selection-between-two-marked-points-from-the-closest-to-cursor-on-the-left-guide-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42066,7 +42067,7 @@
       ];
     };
     cfillion-extend-time-selection-to-cover-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-extend-time-selection-to-cover-selected-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42080,7 +42081,7 @@
       ];
     };
     cfillion-insert-empty-space-from-time-selection-at-edit-cursor-moving-later-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-insert-empty-space-from-time-selection-at-edit-cursor-moving-later-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42094,7 +42095,7 @@
       ];
     };
     edgemeal-move-time-selection-to-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-move-time-selection-to-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42108,7 +42109,7 @@
       ];
     };
     edgemeal-playhead-follower-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-playhead-follower-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42122,7 +42123,7 @@
       ];
     };
     edgemeal-select-muted-items-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-select-muted-items-within-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42136,7 +42137,7 @@
       ];
     };
     edgemeal-select-non-locked-items-in-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-select-non-locked-items-in-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42150,7 +42151,7 @@
       ];
     };
     edgemeal-unselect-items-not-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-unselect-items-not-within-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42164,7 +42165,7 @@
       ];
     };
     jrt-extend-selection-to-start-of-session-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jrt-extend-selection-to-start-of-session-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42178,7 +42179,7 @@
       ];
     };
     js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42192,7 +42193,7 @@
       ];
     };
     js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-91";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42206,7 +42207,7 @@
       ];
     };
     js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-92";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42220,7 +42221,7 @@
       ];
     };
     js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-93";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42234,7 +42235,7 @@
       ];
     };
     js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-95";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42248,7 +42249,7 @@
       ];
     };
     js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-96 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-96";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42262,7 +42263,7 @@
       ];
     };
     js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-97 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-97";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42276,7 +42277,7 @@
       ];
     };
     js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-98 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-98";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42290,7 +42291,7 @@
       ];
     };
     js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-0-99";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42304,7 +42305,7 @@
       ];
     };
     js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42318,7 +42319,7 @@
       ];
     };
     js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42332,7 +42333,7 @@
       ];
     };
     js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-time-selection-insert-empty-beats-at-time-selection-moving-later-items-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42346,7 +42347,7 @@
       ];
     };
     lokasenna-create-time-selection-at-edit-cursor-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-time-selection-at-edit-cursor-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42360,7 +42361,7 @@
       ];
     };
     lokasenna-create-time-selection-at-edit-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-time-selection-at-edit-cursor-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42374,7 +42375,7 @@
       ];
     };
     lokasenna-create-time-selection-at-edit-cursor-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-time-selection-at-edit-cursor-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42388,7 +42389,7 @@
       ];
     };
     lokasenna-create-time-selection-at-edit-cursor-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-time-selection-at-edit-cursor-lua-1-11";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42402,7 +42403,7 @@
       ];
     };
     lokasenna-create-time-selection-at-edit-cursor-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-time-selection-at-edit-cursor-lua-1-12";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42416,7 +42417,7 @@
       ];
     };
     lokasenna-create-time-selection-at-edit-cursor-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-time-selection-at-edit-cursor-lua-1-13";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42430,7 +42431,7 @@
       ];
     };
     lokasenna-create-time-selection-at-edit-cursor-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-time-selection-at-edit-cursor-lua-1-14";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42444,7 +42445,7 @@
       ];
     };
     lokasenna-create-time-selection-at-play-cursor-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-time-selection-at-play-cursor-lua-1-14";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42458,7 +42459,7 @@
       ];
     };
     lokasenna-move-time-selection-left-by-time-selection-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-time-selection-left-by-time-selection-length-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42472,7 +42473,7 @@
       ];
     };
     lokasenna-move-time-selection-right-by-time-selection-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-move-time-selection-right-by-time-selection-length-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42486,7 +42487,7 @@
       ];
     };
     lokasenna-set-time-selection-from-edit-cursor-to-play-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-set-time-selection-from-edit-cursor-to-play-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42500,7 +42501,7 @@
       ];
     };
     lokasenna-snap-time-selection-or-loop-points-to-grid-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-snap-time-selection-or-loop-points-to-grid-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42569,7 +42570,7 @@
       ];
     };
     rodilab-play-next-item-once-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-play-next-item-once-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42583,7 +42584,7 @@
       ];
     };
     rodilab-play-next-item-once-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-play-next-item-once-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42597,7 +42598,7 @@
       ];
     };
     rodilab-set-time-selection-to-fade-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-set-time-selection-to-fade-under-mouse-cursor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42611,7 +42612,7 @@
       ];
     };
     rodilab-set-time-selection-to-fade-under-mouse-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-set-time-selection-to-fade-under-mouse-cursor-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42625,7 +42626,7 @@
       ];
     };
     spk77-set-time-selection-from-edit-cursor-to-end-of-items-eel-0-2015-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-time-selection-from-edit-cursor-to-end-of-items-eel-0-2015-7-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42639,7 +42640,7 @@
       ];
     };
     spk77-set-time-selection-from-edit-cursor-to-end-of-items-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-time-selection-from-edit-cursor-to-end-of-items-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42653,7 +42654,7 @@
       ];
     };
     spk77-set-time-selection-from-edit-cursor-to-end-of-selected-tracks-eel-2015-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-time-selection-from-edit-cursor-to-end-of-selected-tracks-eel-2015-7-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42667,7 +42668,7 @@
       ];
     };
     spk77-set-time-selection-from-edit-cursor-to-end-of-selected-tracks-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-time-selection-from-edit-cursor-to-end-of-selected-tracks-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42681,7 +42682,7 @@
       ];
     };
     spk77-set-time-selection-to-item-fade-in-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-time-selection-to-item-fade-in-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42695,7 +42696,7 @@
       ];
     };
     spk77-set-time-selection-to-item-fade-out-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-time-selection-to-item-fade-out-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Time Selection";
@@ -42709,7 +42710,7 @@
       ];
     };
     cfillion-remove-empty-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-remove-empty-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks";
@@ -42728,7 +42729,7 @@
       ];
     };
     gus-lan-select-folder-tracks-of-depth-x-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gus-lan-select-folder-tracks-of-depth-x-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks";
@@ -42767,7 +42768,7 @@
       ];
     };
     kaddaok-import-uvr-separations-into-comping-lane-structure-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kaddaok-import-uvr-separations-into-comping-lane-structure-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks";
@@ -42781,7 +42782,7 @@
       ];
     };
     kaddaok-import-uvr-separations-into-comping-lane-structure-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kaddaok-import-uvr-separations-into-comping-lane-structure-lua-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks";
@@ -42795,7 +42796,7 @@
       ];
     };
     reapertips-track-icon-selector-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reapertips-track-icon-selector-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks";
@@ -42809,7 +42810,7 @@
       ];
     };
     reapertips-track-icon-selector-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reapertips-track-icon-selector-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks";
@@ -42823,7 +42824,7 @@
       ];
     };
     reapertips-track-icon-selector-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reapertips-track-icon-selector-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks";
@@ -42837,7 +42838,7 @@
       ];
     };
     reapertips-track-icon-selector-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reapertips-track-icon-selector-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks";
@@ -42861,7 +42862,7 @@
       ];
     };
     reapertips-track-icon-selector-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reapertips-track-icon-selector-lua-1-04";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks";
@@ -42885,7 +42886,7 @@
       ];
     };
     reapertips-track-icon-selector-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reapertips-track-icon-selector-lua-1-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks";
@@ -42909,7 +42910,7 @@
       ];
     };
     reapertips-track-icon-selector-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reapertips-track-icon-selector-lua-1-06";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks";
@@ -42933,7 +42934,7 @@
       ];
     };
     reapertips-track-icon-selector-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reapertips-track-icon-selector-lua-1-07";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks";
@@ -42957,7 +42958,7 @@
       ];
     };
     tilr-keyboard-splitter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-keyboard-splitter-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks";
@@ -42981,7 +42982,7 @@
       ];
     };
     tilr-keyboard-splitter-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-keyboard-splitter-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks";
@@ -43005,7 +43006,7 @@
       ];
     };
     airon-show-vca-followers-of-selected-vca-leader-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "airon-show-vca-followers-of-selected-vca-leader-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43019,7 +43020,7 @@
       ];
     };
     airon-vca-show-leaders-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "airon-vca-show-leaders-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43033,7 +43034,7 @@
       ];
     };
     ak5k-toggle-track-visibility-by-items-in-current-region-lua-0-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-toggle-track-visibility-by-items-in-current-region-lua-0-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43047,7 +43048,7 @@
       ];
     };
     ak5k-toggle-track-visibility-by-items-in-current-region-lua-0-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-toggle-track-visibility-by-items-in-current-region-lua-0-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43061,7 +43062,7 @@
       ];
     };
     ak5k-toggle-track-visibility-by-items-in-current-region-lua-0-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ak5k-toggle-track-visibility-by-items-in-current-region-lua-0-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43075,7 +43076,7 @@
       ];
     };
     amagalma-cycle-layout-for-track-under-mouse-cursor-applies-to-other-selected-tracks-if-track-selected-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-cycle-layout-for-track-under-mouse-cursor-applies-to-other-selected-tracks-if-track-selected-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43089,7 +43090,7 @@
       ];
     };
     amagalma-fit-vertically-all-tracks-into-view-if-possible-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-fit-vertically-all-tracks-into-view-if-possible-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43103,7 +43104,7 @@
       ];
     };
     amagalma-insert-a-new-track-as-the-last-child-for-each-selected-track-optionally-enumerate-and-name-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-insert-a-new-track-as-the-last-child-for-each-selected-track-optionally-enumerate-and-name-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43117,7 +43118,7 @@
       ];
     };
     amagalma-normalize-selected-tracks-calculate-only-for-the-time-selection-if-present-peakrmslufs-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-normalize-selected-tracks-calculate-only-for-the-time-selection-if-present-peakrmslufs-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43131,7 +43132,7 @@
       ];
     };
     amagalma-normalize-selected-tracks-calculate-only-for-the-time-selection-if-present-peakrmslufs-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-normalize-selected-tracks-calculate-only-for-the-time-selection-if-present-peakrmslufs-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43145,7 +43146,7 @@
       ];
     };
     amagalma-normalize-selected-tracks-calculate-only-for-the-time-selection-if-present-peakrmslufs-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-normalize-selected-tracks-calculate-only-for-the-time-selection-if-present-peakrmslufs-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43159,7 +43160,7 @@
       ];
     };
     amagalma-route-selected-tracks-to-new-channel-selector-track-above-them-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-route-selected-tracks-to-new-channel-selector-track-above-them-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43173,7 +43174,7 @@
       ];
     };
     amagalma-route-selected-tracks-to-new-channel-selector-track-above-them-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-route-selected-tracks-to-new-channel-selector-track-above-them-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43187,7 +43188,7 @@
       ];
     };
     amagalma-smart-track-layout-picker-categories-with-sub-menus-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-track-layout-picker-categories-with-sub-menus-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43201,7 +43202,7 @@
       ];
     };
     amagalma-smart-track-layout-picker-categories-with-sub-menus-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-track-layout-picker-categories-with-sub-menus-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43215,7 +43216,7 @@
       ];
     };
     amagalma-smart-track-layout-picker-categories-with-sub-menus-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-track-layout-picker-categories-with-sub-menus-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43229,7 +43230,7 @@
       ];
     };
     amagalma-smart-track-layout-picker-categories-with-sub-menus-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-track-layout-picker-categories-with-sub-menus-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43243,7 +43244,7 @@
       ];
     };
     argitoth-set-number-of-channels-for-selected-tracks-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "argitoth-set-number-of-channels-for-selected-tracks-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43257,7 +43258,7 @@
       ];
     };
     az-toggle-exclusive-solo-for-track-under-mouse-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-toggle-exclusive-solo-for-track-under-mouse-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43271,7 +43272,7 @@
       ];
     };
     az-toggle-exclusive-solo-for-track-under-mouse-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-toggle-exclusive-solo-for-track-under-mouse-eel-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43285,7 +43286,7 @@
       ];
     };
     bryanchi-fxd-vertical-fx-list-lua-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fxd-vertical-fx-list-lua-0-8";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43344,7 +43345,7 @@
       ];
     };
     bryanchi-fxd-vertical-fx-list-lua-0-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fxd-vertical-fx-list-lua-0-8-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43403,7 +43404,7 @@
       ];
     };
     buyone-re-store-mixer-scroll-position-per-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-re-store-mixer-scroll-position-per-project-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43417,7 +43418,7 @@
       ];
     };
     buyone-automatically-increase-height-of-selected-tracks-decrease-others-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-automatically-increase-height-of-selected-tracks-decrease-others-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43431,7 +43432,7 @@
       ];
     };
     buyone-mute-empty-tracks-with-fx-and-optionally-set-their-fx-offline-guide-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-mute-empty-tracks-with-fx-and-optionally-set-their-fx-offline-guide-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43445,7 +43446,7 @@
       ];
     };
     buyone-navigate-to-track-send-destination-or-receive-source-track-via-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-navigate-to-track-send-destination-or-receive-source-track-via-menu-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43459,7 +43460,7 @@
       ];
     };
     buyone-save-track-template-with-items-selected-or-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-save-track-template-with-items-selected-or-within-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43473,7 +43474,7 @@
       ];
     };
     buyone-scroll-to-or-exclusively-show-track-s-by-name-or-index-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-scroll-to-or-exclusively-show-track-s-by-name-or-index-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43487,7 +43488,7 @@
       ];
     };
     buyone-scroll-to-or-exclusively-show-track-s-by-name-or-index-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-scroll-to-or-exclusively-show-track-s-by-name-or-index-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43501,7 +43502,7 @@
       ];
     };
     buyone-set-sends-receives-in-selected-tracks-to-the-next-mode-relative-to-the-current-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-set-sends-receives-in-selected-tracks-to-the-next-mode-relative-to-the-current-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43515,7 +43516,7 @@
       ];
     };
     buyone-set-sends-receives-in-selected-tracks-to-the-same-mode-and-cycle-through-the-modes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-set-sends-receives-in-selected-tracks-to-the-same-mode-and-cycle-through-the-modes-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43529,7 +43530,7 @@
       ];
     };
     cfillion-bypass-all-input-fx-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-bypass-all-input-fx-for-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43543,7 +43544,7 @@
       ];
     };
     cfillion-bypass-all-input-fx-for-selected-tracks-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-bypass-all-input-fx-for-selected-tracks-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43567,7 +43568,7 @@
       ];
     };
     cfillion-disable-audio-or-midi-source-of-all-sends-on-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-disable-audio-or-midi-source-of-all-sends-on-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43586,7 +43587,7 @@
       ];
     };
     cfillion-duplicate-tracks-preserving-sws-track-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-duplicate-tracks-preserving-sws-track-notes-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43600,7 +43601,7 @@
       ];
     };
     cfillion-explode-selected-tracks-to-mono-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-explode-selected-tracks-to-mono-tracks-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43614,7 +43615,7 @@
       ];
     };
     cfillion-remove-hardware-outputs-of-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-remove-hardware-outputs-of-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43628,7 +43629,7 @@
       ];
     };
     cfillion-remove-hardware-outputs-of-selected-tracks-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-remove-hardware-outputs-of-selected-tracks-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43642,7 +43643,7 @@
       ];
     };
     cfillion-rename-selected-tracks-from-clipboard-lines-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-rename-selected-tracks-from-clipboard-lines-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43656,7 +43657,7 @@
       ];
     };
     cfillion-reset-stereo-width-of-selected-tracks-to-100-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-reset-stereo-width-of-selected-tracks-to-100-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43670,7 +43671,7 @@
       ];
     };
     cfillion-reset-tcp-height-of-selected-tracks-to-default-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-reset-tcp-height-of-selected-tracks-to-default-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43684,7 +43685,7 @@
       ];
     };
     cfillion-select-destination-tracks-of-selected-tracks-sends-recursively-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-destination-tracks-of-selected-tracks-sends-recursively-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43698,7 +43699,7 @@
       ];
     };
     cfillion-select-destination-tracks-of-selected-tracks-sends-recursively-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-destination-tracks-of-selected-tracks-sends-recursively-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43712,7 +43713,7 @@
       ];
     };
     cfillion-select-destination-tracks-of-selected-tracks-sends-recursively-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-destination-tracks-of-selected-tracks-sends-recursively-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43736,7 +43737,7 @@
       ];
     };
     cfillion-select-destination-tracks-of-selected-tracks-sends-recursively-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-destination-tracks-of-selected-tracks-sends-recursively-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43755,7 +43756,7 @@
       ];
     };
     cfillion-select-destination-tracks-of-selected-tracks-sends-recursively-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-destination-tracks-of-selected-tracks-sends-recursively-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43774,7 +43775,7 @@
       ];
     };
     cfillion-select-destination-tracks-of-selected-tracks-sends-recursively-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-destination-tracks-of-selected-tracks-sends-recursively-lua-1-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43788,7 +43789,7 @@
       ];
     };
     cfillion-select-destination-tracks-of-selected-tracks-sends-recursively-lua-1-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-destination-tracks-of-selected-tracks-sends-recursively-lua-1-2-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43807,7 +43808,7 @@
       ];
     };
     cfillion-select-source-tracks-of-selected-tracks-receives-recursively-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-source-tracks-of-selected-tracks-receives-recursively-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43831,7 +43832,7 @@
       ];
     };
     cfillion-select-source-tracks-of-selected-tracks-receives-recursively-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-source-tracks-of-selected-tracks-receives-recursively-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43855,7 +43856,7 @@
       ];
     };
     cfillion-select-source-tracks-of-selected-tracks-receives-recursively-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-source-tracks-of-selected-tracks-receives-recursively-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43874,7 +43875,7 @@
       ];
     };
     cfillion-select-source-tracks-of-selected-tracks-receives-recursively-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-source-tracks-of-selected-tracks-receives-recursively-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43893,7 +43894,7 @@
       ];
     };
     cfillion-select-source-tracks-of-selected-tracks-receives-recursively-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-source-tracks-of-selected-tracks-receives-recursively-lua-1-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43912,7 +43913,7 @@
       ];
     };
     cfillion-select-track-fx-by-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-select-track-fx-by-name-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43931,7 +43932,7 @@
       ];
     };
     cfillion-set-audio-source-of-all-sends-on-selected-tracks-to-all-channels-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-set-audio-source-of-all-sends-on-selected-tracks-to-all-channels-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -43945,7 +43946,7 @@
       ];
     };
     cfillion-set-destination-or-source-bus-of-midi-sends-on-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-set-destination-or-source-bus-of-midi-sends-on-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44114,7 +44115,7 @@
       ];
     };
     cfillion-toggle-track-fx-bypass-by-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-toggle-track-fx-bypass-by-name-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44128,7 +44129,7 @@
       ];
     };
     cfillion-toggle-track-fx-bypass-by-name-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-toggle-track-fx-bypass-by-name-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44142,7 +44143,7 @@
       ];
     };
     cfillion-toggle-track-fx-bypass-by-name-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-toggle-track-fx-bypass-by-name-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44161,7 +44162,7 @@
       ];
     };
     cfillion-toggle-track-fx-bypass-by-name-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-toggle-track-fx-bypass-by-name-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44180,7 +44181,7 @@
       ];
     };
     cfillion-toggle-track-fx-bypass-by-name-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-toggle-track-fx-bypass-by-name-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44199,7 +44200,7 @@
       ];
     };
     cfillion-toggle-visibility-of-empty-non-folder-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-toggle-visibility-of-empty-non-folder-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44213,7 +44214,7 @@
       ];
     };
     cfillion-toggle-visibility-of-empty-non-folder-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-toggle-visibility-of-empty-non-folder-tracks-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44232,7 +44233,7 @@
       ];
     };
     cfillion-toggle-visual-spacer-before-or-after-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-toggle-visual-spacer-before-or-after-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44251,7 +44252,7 @@
       ];
     };
     cfillion-unselect-hidden-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-unselect-hidden-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44275,7 +44276,7 @@
       ];
     };
     dp-set-track-playback-offset-lua-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dp-set-track-playback-offset-lua-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44289,7 +44290,7 @@
       ];
     };
     ed-toggle-free-item-positioning-mode-with-track-name-marker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ed-toggle-free-item-positioning-mode-with-track-name-marker-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44303,7 +44304,7 @@
       ];
     };
     edgemeal-disable-multichannel-metering-on-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-disable-multichannel-metering-on-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44317,7 +44318,7 @@
       ];
     };
     edgemeal-enable-playback-offset-for-selected-tracks-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-enable-playback-offset-for-selected-tracks-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44331,7 +44332,7 @@
       ];
     };
     edgemeal-enable-track-playback-offset-for-selected-tracks-samples-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-enable-track-playback-offset-for-selected-tracks-samples-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44345,7 +44346,7 @@
       ];
     };
     edgemeal-remove-muted-track-sends-from-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-remove-muted-track-sends-from-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44359,7 +44360,7 @@
       ];
     };
     edgemeal-remove-muted-track-sends-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-remove-muted-track-sends-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44373,7 +44374,7 @@
       ];
     };
     edgemeal-select-tracks-with-locked-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-select-tracks-with-locked-items-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44387,7 +44388,7 @@
       ];
     };
     edgemeal-show-vsti-from-selected-midi-track-sends-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-show-vsti-from-selected-midi-track-sends-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44401,7 +44402,7 @@
       ];
     };
     edgemeal-unselect-last-bottom-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-unselect-last-bottom-selected-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44415,7 +44416,7 @@
       ];
     };
     icio-set-color-gradient-to-children-tracks-starting-from-parent-color-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "icio-set-color-gradient-to-children-tracks-starting-from-parent-color-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44429,7 +44430,7 @@
       ];
     };
     icio-set-color-gradient-to-children-tracks-starting-from-parent-color-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "icio-set-color-gradient-to-children-tracks-starting-from-parent-color-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44443,7 +44444,7 @@
       ];
     };
     jmieszkowski-create-folders-from-selected-tracks-based-on-their-names-and-color-them-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jmieszkowski-create-folders-from-selected-tracks-based-on-their-names-and-color-them-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44457,7 +44458,7 @@
       ];
     };
     jmieszkowski-set-the-color-of-selected-tracks-from-their-parent-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jmieszkowski-set-the-color-of-selected-tracks-from-their-parent-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44471,7 +44472,7 @@
       ];
     };
     jrt-mute-and-hide-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jrt-mute-and-hide-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44485,7 +44486,7 @@
       ];
     };
     js-autoincrement-midi-send-channels-of-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-autoincrement-midi-send-channels-of-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44499,7 +44500,7 @@
       ];
     };
     js-autoincrement-midi-send-channels-of-selected-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-autoincrement-midi-send-channels-of-selected-tracks-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44513,7 +44514,7 @@
       ];
     };
     js-propagate-note-and-cc-names-of-last-clicked-track-to-all-selected-tracks-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-propagate-note-and-cc-names-of-last-clicked-track-to-all-selected-tracks-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44527,7 +44528,7 @@
       ];
     };
     js-set-midi-send-channel-of-selected-tracks-to-channel-of-existing-midi-events-in-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-set-midi-send-channel-of-selected-tracks-to-channel-of-existing-midi-events-in-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44541,7 +44542,7 @@
       ];
     };
     js-set-midi-send-channel-of-selected-tracks-to-channel-of-existing-midi-events-in-track-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-set-midi-send-channel-of-selected-tracks-to-channel-of-existing-midi-events-in-track-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44555,7 +44556,7 @@
       ];
     };
     js-set-midi-send-channel-of-selected-tracks-to-channel-of-existing-midi-events-in-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-set-midi-send-channel-of-selected-tracks-to-channel-of-existing-midi-events-in-track-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44569,7 +44570,7 @@
       ];
     };
     lokasenna-append-selected-track-names-with-their-first-send-destination-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-append-selected-track-names-with-their-first-send-destination-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44583,7 +44584,7 @@
       ];
     };
     lokasenna-create-bus-after-selected-tracks-and-reroute-them-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-bus-after-selected-tracks-and-reroute-them-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44597,7 +44598,7 @@
       ];
     };
     lokasenna-create-bus-before-selected-tracks-and-reroute-them-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-bus-before-selected-tracks-and-reroute-them-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44611,7 +44612,7 @@
       ];
     };
     lokasenna-create-folder-to-contain-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-folder-to-contain-selected-tracks-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44625,7 +44626,7 @@
       ];
     };
     lokasenna-create-folder-to-contain-selected-tracks-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-folder-to-contain-selected-tracks-lua-1-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44639,7 +44640,7 @@
       ];
     };
     lokasenna-create-send-from-selected-tracks-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-send-from-selected-tracks-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44653,7 +44654,7 @@
       ];
     };
     lokasenna-create-send-from-selected-tracks-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-send-from-selected-tracks-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44667,7 +44668,7 @@
       ];
     };
     lokasenna-create-send-from-selected-tracks-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-send-from-selected-tracks-lua-1-21";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44681,7 +44682,7 @@
       ];
     };
     lokasenna-create-send-from-selected-tracks-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-send-from-selected-tracks-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44700,7 +44701,7 @@
       ];
     };
     lokasenna-create-send-from-selected-tracks-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-send-from-selected-tracks-lua-1-30";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44719,7 +44720,7 @@
       ];
     };
     lokasenna-create-send-from-selected-tracks-lua-1-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-send-from-selected-tracks-lua-1-40";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44743,7 +44744,7 @@
       ];
     };
     lokasenna-select-tracks-by-name-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-select-tracks-by-name-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44757,7 +44758,7 @@
       ];
     };
     lokasenna-select-tracks-by-name-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-select-tracks-by-name-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44771,7 +44772,7 @@
       ];
     };
     lokasenna-select-tracks-by-name-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-select-tracks-by-name-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44785,7 +44786,7 @@
       ];
     };
     lokasenna-select-tracks-in-selection-with-items-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-select-tracks-in-selection-with-items-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44799,7 +44800,7 @@
       ];
     };
     lokasenna-select-tracks-in-selection-with-no-items-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-select-tracks-in-selection-with-no-items-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44813,7 +44814,7 @@
       ];
     };
     lokasenna-show-only-specified-tracks-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-show-only-specified-tracks-lua-1-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44827,7 +44828,7 @@
       ];
     };
     lokasenna-show-only-specified-tracks-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-show-only-specified-tracks-lua-1-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44841,7 +44842,7 @@
       ];
     };
     lokasenna-show-only-specified-tracks-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-show-only-specified-tracks-lua-1-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44855,7 +44856,7 @@
       ];
     };
     lokasenna-show-only-specified-tracks-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-show-only-specified-tracks-lua-1-3-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44869,7 +44870,7 @@
       ];
     };
     lokasenna-show-only-specified-tracks-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-show-only-specified-tracks-lua-1-3-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44883,7 +44884,7 @@
       ];
     };
     lokasenna-show-only-specified-tracks-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-show-only-specified-tracks-lua-1-4-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44897,7 +44898,7 @@
       ];
     };
     lokasenna-show-only-specified-tracks-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-show-only-specified-tracks-lua-1-4-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44911,7 +44912,7 @@
       ];
     };
     lokasenna-show-only-specified-tracks-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-show-only-specified-tracks-lua-1-4-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44925,7 +44926,7 @@
       ];
     };
     lokasenna-show-only-specified-tracks-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-show-only-specified-tracks-lua-1-5-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44939,7 +44940,7 @@
       ];
     };
     lokasenna-show-only-specified-tracks-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-show-only-specified-tracks-lua-1-5-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44953,7 +44954,7 @@
       ];
     };
     mordi-insert-new-track-inherit-color-from-parent-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-insert-new-track-inherit-color-from-parent-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44967,7 +44968,7 @@
       ];
     };
     mordi-paste-text-from-clipboard-to-selected-tracks-names-separate-by-newline-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-paste-text-from-clipboard-to-selected-tracks-names-separate-by-newline-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44981,7 +44982,7 @@
       ];
     };
     mordi-set-media-playback-offset-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-set-media-playback-offset-for-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -44995,7 +44996,7 @@
       ];
     };
     mordi-sort-selected-tracks-alphabetically-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mordi-sort-selected-tracks-alphabetically-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45009,7 +45010,7 @@
       ];
     };
     ook-insert-new-track-with-two-way-midiaudio-send-to-selected-track-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ook-insert-new-track-with-two-way-midiaudio-send-to-selected-track-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45023,7 +45024,7 @@
       ];
     };
     patrickmartin-setup-multi-out-vst-lua-1-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "patrickmartin-setup-multi-out-vst-lua-1-0beta";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45037,7 +45038,7 @@
       ];
     };
     patrickmartin-setup-multi-out-vst-lua-1-1beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "patrickmartin-setup-multi-out-vst-lua-1-1beta";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45051,7 +45052,7 @@
       ];
     };
     reaperblog-plus3db-trim-send-levels-on-selected-track-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaperblog-plus3db-trim-send-levels-on-selected-track-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45065,7 +45066,7 @@
       ];
     };
     reaperblog-3db-trim-send-levels-on-selected-track-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaperblog-3db-trim-send-levels-on-selected-track-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45079,7 +45080,7 @@
       ];
     };
     rodilab-toggle-hide-tracks-with-no-items-in-current-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-toggle-hide-tracks-with-no-items-in-current-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45093,7 +45094,7 @@
       ];
     };
     rodilab-track-name-groups-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-track-name-groups-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45107,7 +45108,7 @@
       ];
     };
     rodilab-track-name-groups-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-track-name-groups-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45121,7 +45122,7 @@
       ];
     };
     rodilab-track-name-groups-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-track-name-groups-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45135,7 +45136,7 @@
       ];
     };
     rodilab-track-name-groups-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-track-name-groups-lua-1-30";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45149,7 +45150,7 @@
       ];
     };
     rodilab-track-name-groups-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-track-name-groups-lua-1-31";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45163,7 +45164,7 @@
       ];
     };
     rodilab-track-name-groups-lua-1-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-track-name-groups-lua-1-40";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45177,7 +45178,7 @@
       ];
     };
     rodilab-track-name-groups-lua-1-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-track-name-groups-lua-1-41";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45191,7 +45192,7 @@
       ];
     };
     rodilab-track-name-groups-lua-1-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-track-name-groups-lua-1-50";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45205,7 +45206,7 @@
       ];
     };
     smandrap-sendbox-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smandrap-sendbox-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45219,7 +45220,7 @@
       ];
     };
     spk77-adjust-all-receive-volumes-on-selected-track-by-x-db-eel-0-2015-4-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-adjust-all-receive-volumes-on-selected-track-by-x-db-eel-0-2015-4-25";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45233,7 +45234,7 @@
       ];
     };
     spk77-adjust-all-receive-volumes-on-selected-track-by-x-db-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-adjust-all-receive-volumes-on-selected-track-by-x-db-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45247,7 +45248,7 @@
       ];
     };
     spk77-adjust-all-send-volumes-on-selected-track-by-x-db-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-adjust-all-send-volumes-on-selected-track-by-x-db-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45261,7 +45262,7 @@
       ];
     };
     spk77-rename-tracks-after-first-program-change-for-general-midi-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-rename-tracks-after-first-program-change-for-general-midi-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45275,7 +45276,7 @@
       ];
     };
     spk77-reset-all-tracks-pan-eel-0-2015-2-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-reset-all-tracks-pan-eel-0-2015-2-8";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45289,7 +45290,7 @@
       ];
     };
     spk77-reset-all-tracks-pan-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-reset-all-tracks-pan-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45303,7 +45304,7 @@
       ];
     };
     spk77-reset-all-tracks-volume-eel-0-2015-2-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-reset-all-tracks-volume-eel-0-2015-2-8";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45317,7 +45318,7 @@
       ];
     };
     spk77-reset-all-tracks-volume-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-reset-all-tracks-volume-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45331,7 +45332,7 @@
       ];
     };
     spk77-set-pan-for-selected-tracks-lua-0-2015-9-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-pan-for-selected-tracks-lua-0-2015-9-15";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45345,7 +45346,7 @@
       ];
     };
     spk77-set-pan-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-pan-for-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45359,7 +45360,7 @@
       ];
     };
     spk77-set-solo-for-send-x-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-solo-for-send-x-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45398,7 +45399,7 @@
       ];
     };
     spk77-set-solo-for-send-x-lua-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-solo-for-send-x-lua-0-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45432,7 +45433,7 @@
       ];
     };
     spk77-set-track-names-to-first-item-active-take-name-eel-0-2014-8-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-track-names-to-first-item-active-take-name-eel-0-2014-8-21";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45446,7 +45447,7 @@
       ];
     };
     spk77-set-track-names-to-first-item-active-take-name-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-track-names-to-first-item-active-take-name-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45460,7 +45461,7 @@
       ];
     };
     spk77-set-track-names-to-source-filename-remove-extension-eel-0-2014-8-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-track-names-to-source-filename-remove-extension-eel-0-2014-8-21";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45474,7 +45475,7 @@
       ];
     };
     spk77-set-track-names-to-source-filename-remove-extension-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-track-names-to-source-filename-remove-extension-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45488,7 +45489,7 @@
       ];
     };
     spk77-set-track-names-to-source-filename-remove-extension-eel-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-track-names-to-source-filename-remove-extension-eel-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45502,7 +45503,7 @@
       ];
     };
     spk77-set-volume-for-selected-tracks-lua-0-2015-9-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-volume-for-selected-tracks-lua-0-2015-9-27";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45516,7 +45517,7 @@
       ];
     };
     spk77-set-volume-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-set-volume-for-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45530,7 +45531,7 @@
       ];
     };
     spk77-sexan-folder-record-and-monitor-arm-to-children-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-sexan-folder-record-and-monitor-arm-to-children-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45544,7 +45545,7 @@
       ];
     };
     spk77-sexan-folder-record-and-monitor-arm-to-children-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-sexan-folder-record-and-monitor-arm-to-children-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45558,7 +45559,7 @@
       ];
     };
     talagan-track-color-layouts-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-track-color-layouts-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45612,7 +45613,7 @@
       ];
     };
     tm-set-hardware-outputs-of-selected-tracks-to-post-fader-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tm-set-hardware-outputs-of-selected-tracks-to-post-fader-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45626,7 +45627,7 @@
       ];
     };
     tm-set-hardware-outputs-of-selected-tracks-to-pre-fader-post-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tm-set-hardware-outputs-of-selected-tracks-to-pre-fader-post-fx-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45640,7 +45641,7 @@
       ];
     };
     tm-set-hardware-outputs-of-selected-tracks-to-pre-fader-pre-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tm-set-hardware-outputs-of-selected-tracks-to-pre-fader-pre-fx-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45654,7 +45655,7 @@
       ];
     };
     triode-adjust-selected-tracks-sends-via-send-window-or-fader-volume-if-no-send-window-lua-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "triode-adjust-selected-tracks-sends-via-send-window-or-fader-volume-if-no-send-window-lua-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45673,7 +45674,7 @@
       ];
     };
     will-develop-random-track-order-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "will-develop-random-track-order-for-selected-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Tracks Properties";
@@ -45687,7 +45688,7 @@
       ];
     };
     airon-colour-swatch-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "airon-colour-swatch-lua-1-60";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45701,7 +45702,7 @@
       ];
     };
     airon-colour-swatch-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "airon-colour-swatch-lua-1-61";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45715,7 +45716,7 @@
       ];
     };
     amagalma-add-smart-metronome-click-track-below-the-selected-track-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-add-smart-metronome-click-track-below-the-selected-track-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45729,7 +45730,7 @@
       ];
     };
     amagalma-add-smart-metronome-click-track-below-the-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-add-smart-metronome-click-track-below-the-selected-track-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45743,7 +45744,7 @@
       ];
     };
     amagalma-adjust-theme-colors-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45757,7 +45758,7 @@
       ];
     };
     amagalma-adjust-theme-colors-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45771,7 +45772,7 @@
       ];
     };
     amagalma-adjust-theme-colors-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-1-25";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45785,7 +45786,7 @@
       ];
     };
     amagalma-adjust-theme-colors-lua-1-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-1-27";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45799,7 +45800,7 @@
       ];
     };
     amagalma-adjust-theme-colors-lua-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-1-35";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45813,7 +45814,7 @@
       ];
     };
     amagalma-adjust-theme-colors-lua-1-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-1-40";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45827,7 +45828,7 @@
       ];
     };
     amagalma-adjust-theme-colors-lua-1-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-1-41";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45841,7 +45842,7 @@
       ];
     };
     amagalma-adjust-theme-colors-lua-1-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-1-42";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45855,7 +45856,7 @@
       ];
     };
     amagalma-adjust-theme-colors-lua-2-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-2-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45869,7 +45870,7 @@
       ];
     };
     amagalma-adjust-theme-colors-lua-2-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-2-06";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45883,7 +45884,7 @@
       ];
     };
     amagalma-adjust-theme-colors-lua-2-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-2-07";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45897,7 +45898,7 @@
       ];
     };
     amagalma-adjust-theme-colors-lua-2-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-2-08";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45911,12 +45912,12 @@
         {
           path = ''7za.exe'';
           url = "https://www.dropbox.com/s/nyrrt3h64u0gojw/7za.exe?dl=1";
-          sha256 = "0vbi9qb0akm969j0q7vm9gh35qnwn1r41na3l5hb29zrl9v8qc7a";
+          sha256 = "";
         }
       ];
     };
     amagalma-adjust-theme-colors-lua-2-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-2-09";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45930,12 +45931,12 @@
         {
           path = ''7za.exe'';
           url = "https://www.dropbox.com/s/nyrrt3h64u0gojw/7za.exe?dl=1";
-          sha256 = "0vbi9qb0akm969j0q7vm9gh35qnwn1r41na3l5hb29zrl9v8qc7a";
+          sha256 = "";
         }
       ];
     };
     amagalma-adjust-theme-colors-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45949,12 +45950,12 @@
         {
           path = ''7za.exe'';
           url = "https://www.dropbox.com/s/nyrrt3h64u0gojw/7za.exe?dl=1";
-          sha256 = "0vbi9qb0akm969j0q7vm9gh35qnwn1r41na3l5hb29zrl9v8qc7a";
+          sha256 = "";
         }
       ];
     };
     amagalma-adjust-theme-colors-lua-2-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-2-15";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45968,12 +45969,12 @@
         {
           path = ''7za.exe'';
           url = "https://www.dropbox.com/s/nyrrt3h64u0gojw/7za.exe?dl=1";
-          sha256 = "0vbi9qb0akm969j0q7vm9gh35qnwn1r41na3l5hb29zrl9v8qc7a";
+          sha256 = "";
         }
       ];
     };
     amagalma-adjust-theme-colors-lua-2-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-2-16";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -45987,12 +45988,12 @@
         {
           path = ''7za.exe'';
           url = "https://www.dropbox.com/s/nyrrt3h64u0gojw/7za.exe?dl=1";
-          sha256 = "0vbi9qb0akm969j0q7vm9gh35qnwn1r41na3l5hb29zrl9v8qc7a";
+          sha256 = "";
         }
       ];
     };
     amagalma-adjust-theme-colors-lua-2-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-2-17";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46006,12 +46007,12 @@
         {
           path = ''7za.exe'';
           url = "https://www.dropbox.com/s/nyrrt3h64u0gojw/7za.exe?dl=1";
-          sha256 = "0vbi9qb0akm969j0q7vm9gh35qnwn1r41na3l5hb29zrl9v8qc7a";
+          sha256 = "";
         }
       ];
     };
     amagalma-adjust-theme-colors-lua-2-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-2-18";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46025,12 +46026,12 @@
         {
           path = ''7za.exe'';
           url = "https://www.dropbox.com/s/nyrrt3h64u0gojw/7za.exe?dl=1";
-          sha256 = "0vbi9qb0akm969j0q7vm9gh35qnwn1r41na3l5hb29zrl9v8qc7a";
+          sha256 = "";
         }
       ];
     };
     amagalma-adjust-theme-colors-lua-2-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-adjust-theme-colors-lua-2-19";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46044,12 +46045,12 @@
         {
           path = ''7za.exe'';
           url = "https://www.dropbox.com/s/nyrrt3h64u0gojw/7za.exe?dl=1";
-          sha256 = "0vbi9qb0akm969j0q7vm9gh35qnwn1r41na3l5hb29zrl9v8qc7a";
+          sha256 = "";
         }
       ];
     };
     amagalma-backup-limit-automatic-keep-x-number-of-most-recent-timestamped-backups-of-current-project-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-backup-limit-automatic-keep-x-number-of-most-recent-timestamped-backups-of-current-project-file-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46063,7 +46064,7 @@
       ];
     };
     amagalma-backup-limit-manual-keep-x-number-of-most-recent-timestamped-backups-of-current-project-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-backup-limit-manual-keep-x-number-of-most-recent-timestamped-backups-of-current-project-file-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46077,7 +46078,7 @@
       ];
     };
     amagalma-backup-limit-manual-keep-x-number-of-most-recent-timestamped-backups-of-current-project-file-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-backup-limit-manual-keep-x-number-of-most-recent-timestamped-backups-of-current-project-file-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46091,7 +46092,7 @@
       ];
     };
     amagalma-backup-limit-manual-keep-x-number-of-most-recent-timestamped-backups-of-current-project-file-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-backup-limit-manual-keep-x-number-of-most-recent-timestamped-backups-of-current-project-file-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46105,7 +46106,7 @@
       ];
     };
     amagalma-backup-limit-manual-keep-x-number-of-most-recent-timestamped-backups-of-current-project-file-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-backup-limit-manual-keep-x-number-of-most-recent-timestamped-backups-of-current-project-file-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46119,7 +46120,7 @@
       ];
     };
     amagalma-backup-limit-settings-keep-x-number-of-most-recent-timestamped-backups-of-current-project-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-backup-limit-settings-keep-x-number-of-most-recent-timestamped-backups-of-current-project-file-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46133,7 +46134,7 @@
       ];
     };
     amagalma-backup-limit-stand-alone-keep-x-number-of-most-recent-timestamped-backups-of-the-selected-project-s-browse-to-specify-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-backup-limit-stand-alone-keep-x-number-of-most-recent-timestamped-backups-of-the-selected-project-s-browse-to-specify-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46147,7 +46148,7 @@
       ];
     };
     amagalma-calculate-difference-in-lufs-when-take-and-track-fx-are-applied-to-selected-item-via-dry-run-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-calculate-difference-in-lufs-when-take-and-track-fx-are-applied-to-selected-item-via-dry-run-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46161,7 +46162,7 @@
       ];
     };
     amagalma-calculate-difference-in-lufs-when-take-and-track-fx-are-applied-to-selected-item-via-dry-run-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-calculate-difference-in-lufs-when-take-and-track-fx-are-applied-to-selected-item-via-dry-run-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46175,7 +46176,7 @@
       ];
     };
     amagalma-chunk-viewereditor-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-chunk-viewereditor-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46189,7 +46190,7 @@
       ];
     };
     amagalma-chunk-viewereditor-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-chunk-viewereditor-lua-1-06";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46203,7 +46204,7 @@
       ];
     };
     amagalma-chunk-viewereditor-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-chunk-viewereditor-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46222,7 +46223,7 @@
       ];
     };
     amagalma-chunk-viewereditor-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-chunk-viewereditor-lua-1-21";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46241,7 +46242,7 @@
       ];
     };
     amagalma-chunk-viewereditor-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-chunk-viewereditor-lua-1-25";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46260,7 +46261,7 @@
       ];
     };
     amagalma-chunk-viewereditor-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-chunk-viewereditor-lua-1-31";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46279,7 +46280,7 @@
       ];
     };
     amagalma-chunk-viewereditor-lua-1-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-chunk-viewereditor-lua-1-50";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46298,7 +46299,7 @@
       ];
     };
     amagalma-chunk-viewereditor-lua-1-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-chunk-viewereditor-lua-1-53";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46317,7 +46318,7 @@
       ];
     };
     amagalma-chunk-viewereditor-lua-1-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-chunk-viewereditor-lua-1-55";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46336,7 +46337,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46350,7 +46351,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46364,7 +46365,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-30";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46378,7 +46379,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-33";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46392,7 +46393,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-34";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46406,7 +46407,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-35";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46420,7 +46421,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-37";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46434,7 +46435,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-38";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46448,7 +46449,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-1-39";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46462,7 +46463,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46476,7 +46477,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46490,7 +46491,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46504,7 +46505,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46518,7 +46519,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46532,7 +46533,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-06";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46546,7 +46547,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46560,7 +46561,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-12";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46574,7 +46575,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-13";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46588,7 +46589,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-14";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46602,7 +46603,7 @@
       ];
     };
     amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-15";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46616,7 +46617,7 @@
       ];
     };
     amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46630,7 +46631,7 @@
       ];
     };
     amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46644,7 +46645,7 @@
       ];
     };
     amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-15";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46658,7 +46659,7 @@
       ];
     };
     amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-16";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46672,7 +46673,7 @@
       ];
     };
     amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46686,7 +46687,7 @@
       ];
     };
     amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-21";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46700,7 +46701,7 @@
       ];
     };
     amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-30";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46714,7 +46715,7 @@
       ];
     };
     amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-31";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46728,7 +46729,7 @@
       ];
     };
     amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-distinguish-visually-the-ripple-editing-modes-lua-1-32";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46742,7 +46743,7 @@
       ];
     };
     amagalma-edgemeal-get-number-of-all-actions-in-the-action-list-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-edgemeal-get-number-of-all-actions-in-the-action-list-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46756,7 +46757,7 @@
       ];
     };
     amagalma-edgemeal-get-number-of-all-actions-in-the-action-list-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-edgemeal-get-number-of-all-actions-in-the-action-list-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46770,7 +46771,7 @@
       ];
     };
     amagalma-enclose-selected-or-focused-fx-in-visible-chain-with-ablm2-level-matching-vst-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-enclose-selected-or-focused-fx-in-visible-chain-with-ablm2-level-matching-vst-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46784,7 +46785,7 @@
       ];
     };
     amagalma-gianfini-reanamer-track-item-region-marker-renaming-utility-lua-1-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-gianfini-reanamer-track-item-region-marker-renaming-utility-lua-1-45";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46808,7 +46809,7 @@
       ];
     };
     amagalma-gianfini-reanamer-track-item-region-marker-renaming-utility-lua-1-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-gianfini-reanamer-track-item-region-marker-renaming-utility-lua-1-47";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46832,7 +46833,7 @@
       ];
     };
     amagalma-go-to-track-mousewheel-only-reverse-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-go-to-track-mousewheel-only-reverse-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46846,7 +46847,7 @@
       ];
     };
     amagalma-grid-settings-button-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-grid-settings-button-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46910,7 +46911,7 @@
       ];
     };
     amagalma-grid-settings-button-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-grid-settings-button-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -46974,7 +46975,7 @@
       ];
     };
     amagalma-grid-settings-button-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-grid-settings-button-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47038,7 +47039,7 @@
       ];
     };
     amagalma-grid-settings-button-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-grid-settings-button-lua-1-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47102,7 +47103,7 @@
       ];
     };
     amagalma-horizontal-zoom-preset-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-horizontal-zoom-preset-bundle-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47136,7 +47137,7 @@
       ];
     };
     amagalma-implode-items-across-tracks-into-takes-remove-empty-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-implode-items-across-tracks-into-takes-remove-empty-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47150,7 +47151,7 @@
       ];
     };
     amagalma-implode-items-across-tracks-into-takes-remove-empty-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-implode-items-across-tracks-into-takes-remove-empty-tracks-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47164,7 +47165,7 @@
       ];
     };
     amagalma-insert-or-remove-space-at-project-start-moving-everything-and-optionally-keep-same-arrange-view-position-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-insert-or-remove-space-at-project-start-moving-everything-and-optionally-keep-same-arrange-view-position-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47178,7 +47179,7 @@
       ];
     };
     amagalma-insert-or-remove-space-at-project-start-moving-everything-and-optionally-keep-same-arrange-view-position-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-insert-or-remove-space-at-project-start-moving-everything-and-optionally-keep-same-arrange-view-position-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47192,7 +47193,7 @@
       ];
     };
     amagalma-mespotine-create-midi-morse-message-item-at-edit-cursor-position-grid-length-duration-first-selectedlast-touched-or-first-track-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-mespotine-create-midi-morse-message-item-at-edit-cursor-position-grid-length-duration-first-selectedlast-touched-or-first-track-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47206,7 +47207,7 @@
       ];
     };
     amagalma-mespotine-create-midi-morse-message-item-at-edit-cursor-position-grid-length-duration-first-selectedlast-touched-or-first-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-mespotine-create-midi-morse-message-item-at-edit-cursor-position-grid-length-duration-first-selectedlast-touched-or-first-track-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47220,7 +47221,7 @@
       ];
     };
     amagalma-mespotine-create-midi-morse-message-item-at-edit-cursor-position-grid-length-duration-first-selectedlast-touched-or-first-track-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-mespotine-create-midi-morse-message-item-at-edit-cursor-position-grid-length-duration-first-selectedlast-touched-or-first-track-lua-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47234,7 +47235,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-1-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-1-50";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47248,7 +47249,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-1-60";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47262,7 +47263,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-1-61";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47276,7 +47277,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-1-63 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-1-63";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47290,7 +47291,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-1-66 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-1-66";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47304,7 +47305,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-1-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-1-75";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47318,7 +47319,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-1-85 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-1-85";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47332,7 +47333,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-1-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-1-90";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47346,7 +47347,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-1-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-1-95";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47360,7 +47361,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-0beta";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47374,7 +47375,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47388,7 +47389,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47402,7 +47403,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47416,7 +47417,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-02g = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-02g";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47430,7 +47431,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-03";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47444,7 +47445,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-04";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47458,7 +47459,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47472,7 +47473,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-06";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47486,7 +47487,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-07";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47500,7 +47501,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-08";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47514,7 +47515,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-09";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47528,7 +47529,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47542,7 +47543,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-11";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47556,7 +47557,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-12";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47570,7 +47571,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-13";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47584,7 +47585,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-14";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47598,7 +47599,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-15";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47612,7 +47613,7 @@
       ];
     };
     amagalma-reanoir-track-item-take-coloring-utility-lua-2-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reanoir-track-item-take-coloring-utility-lua-2-16";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47626,7 +47627,7 @@
       ];
     };
     amagalma-reaper-gui-color-controls-xl-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reaper-gui-color-controls-xl-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47640,7 +47641,7 @@
       ];
     };
     amagalma-reaper-gui-color-controls-xl-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reaper-gui-color-controls-xl-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47654,7 +47655,7 @@
       ];
     };
     amagalma-reaper-gui-color-controls-xl-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reaper-gui-color-controls-xl-lua-1-05";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47668,7 +47669,7 @@
       ];
     };
     amagalma-reaper-gui-color-controls-xl-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-reaper-gui-color-controls-xl-lua-1-08";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47682,7 +47683,7 @@
       ];
     };
     amagalma-remove-all-invalid-file-paths-from-the-recent-project-list-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-remove-all-invalid-file-paths-from-the-recent-project-list-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47696,7 +47697,7 @@
       ];
     };
     amagalma-ripple-recording-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-ripple-recording-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47710,7 +47711,7 @@
       ];
     };
     amagalma-save-current-horizontal-zoom-as-preset-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-save-current-horizontal-zoom-as-preset-bundle-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47744,7 +47745,7 @@
       ];
     };
     amagalma-save-current-vertical-zoom-as-preset-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-save-current-vertical-zoom-as-preset-bundle-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47778,7 +47779,7 @@
       ];
     };
     amagalma-set-size-of-vertical-zoom-presets-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-set-size-of-vertical-zoom-presets-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47792,7 +47793,7 @@
       ];
     };
     amagalma-show-menu-for-dry-run-calculate-loudness-actions-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-show-menu-for-dry-run-calculate-loudness-actions-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47806,7 +47807,7 @@
       ];
     };
     amagalma-show-menu-for-dry-run-calculate-loudness-actions-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-show-menu-for-dry-run-calculate-loudness-actions-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47820,7 +47821,7 @@
       ];
     };
     amagalma-show-menu-for-dry-run-calculate-loudness-actions-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-show-menu-for-dry-run-calculate-loudness-actions-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47834,7 +47835,7 @@
       ];
     };
     amagalma-show-offscreen-item-selection-as-a-tooltip-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-show-offscreen-item-selection-as-a-tooltip-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47848,7 +47849,7 @@
       ];
     };
     amagalma-show-path-from-list-menu-resource-selected-item-project-file-record-secondary-record-render-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-show-path-from-list-menu-resource-selected-item-project-file-record-secondary-record-render-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47862,7 +47863,7 @@
       ];
     };
     amagalma-show-path-from-list-menu-resource-selected-item-project-file-record-secondary-record-render-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-show-path-from-list-menu-resource-selected-item-project-file-record-secondary-record-render-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47876,7 +47877,7 @@
       ];
     };
     amagalma-show-path-from-list-menu-resource-selected-item-project-file-record-secondary-record-render-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-show-path-from-list-menu-resource-selected-item-project-file-record-secondary-record-render-lua-1-11";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47890,7 +47891,7 @@
       ];
     };
     amagalma-show-path-from-list-menu-resource-selected-item-project-file-record-secondary-record-render-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-show-path-from-list-menu-resource-selected-item-project-file-record-secondary-record-render-lua-1-12";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47904,7 +47905,7 @@
       ];
     };
     amagalma-simulate-tempo-with-playrate-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-simulate-tempo-with-playrate-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47918,7 +47919,7 @@
       ];
     };
     amagalma-simulate-tempo-with-playrate-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-simulate-tempo-with-playrate-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47932,7 +47933,7 @@
       ];
     };
     amagalma-simulate-tempo-with-playrate-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-simulate-tempo-with-playrate-lua-1-11";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47946,7 +47947,7 @@
       ];
     };
     amagalma-simulate-tempo-with-playrate-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-simulate-tempo-with-playrate-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47960,7 +47961,7 @@
       ];
     };
     amagalma-smart-automatic-record-mode-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-automatic-record-mode-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47974,7 +47975,7 @@
       ];
     };
     amagalma-smart-automatic-record-mode-eel-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-automatic-record-mode-eel-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -47988,7 +47989,7 @@
       ];
     };
     amagalma-smart-contextual-zoom-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-contextual-zoom-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48002,7 +48003,7 @@
       ];
     };
     amagalma-smart-contextual-zoom-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-contextual-zoom-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48016,7 +48017,7 @@
       ];
     };
     amagalma-smart-contextual-zoom-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-contextual-zoom-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48030,7 +48031,7 @@
       ];
     };
     amagalma-smart-contextual-zoom-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-contextual-zoom-lua-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48044,7 +48045,7 @@
       ];
     };
     amagalma-smart-contextual-zoom-lua-1-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-contextual-zoom-lua-1-51";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48058,7 +48059,7 @@
       ];
     };
     amagalma-smart-contextual-zoom-lua-1-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-contextual-zoom-lua-1-53";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48072,7 +48073,7 @@
       ];
     };
     amagalma-smart-contextual-zoom-lua-1-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-contextual-zoom-lua-1-54";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48086,7 +48087,7 @@
       ];
     };
     amagalma-smart-contextual-zoom-lua-1-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smart-contextual-zoom-lua-1-55";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48100,7 +48101,7 @@
       ];
     };
     amagalma-smooth-scroll-view-left-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smooth-scroll-view-left-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48114,7 +48115,7 @@
       ];
     };
     amagalma-smooth-scroll-view-right-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-smooth-scroll-view-right-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48128,7 +48129,7 @@
       ];
     };
     amagalma-toggle-behavior-of-play-stop-buttons-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-behavior-of-play-stop-buttons-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48142,7 +48143,7 @@
       ];
     };
     amagalma-toggle-enclose-focused-fx-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-focused-fx-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48156,7 +48157,7 @@
       ];
     };
     amagalma-toggle-enclose-focused-fx-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-focused-fx-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48170,7 +48171,7 @@
       ];
     };
     amagalma-toggle-enclose-focused-fx-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-focused-fx-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48184,7 +48185,7 @@
       ];
     };
     amagalma-toggle-enclose-focused-fx-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-focused-fx-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-26";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48198,7 +48199,7 @@
       ];
     };
     amagalma-toggle-enclose-focused-fx-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-focused-fx-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-27";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48212,7 +48213,7 @@
       ];
     };
     amagalma-toggle-enclose-focused-fx-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-focused-fx-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-35";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48226,7 +48227,7 @@
       ];
     };
     amagalma-toggle-enclose-focused-fx-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-focused-fx-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-36";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48240,7 +48241,7 @@
       ];
     };
     amagalma-toggle-enclose-focused-fx-chain-with-ablm2-level-matching-vst-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-focused-fx-chain-with-ablm2-level-matching-vst-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48254,7 +48255,7 @@
       ];
     };
     amagalma-toggle-enclose-focused-fx-chain-with-ablm2-level-matching-vst-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-focused-fx-chain-with-ablm2-level-matching-vst-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48268,7 +48269,7 @@
       ];
     };
     amagalma-toggle-enclose-focused-fx-chain-with-ablm2-level-matching-vst-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-focused-fx-chain-with-ablm2-level-matching-vst-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48282,7 +48283,7 @@
       ];
     };
     amagalma-toggle-enclose-selected-or-focused-fx-in-visible-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-selected-or-focused-fx-in-visible-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-27";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48296,7 +48297,7 @@
       ];
     };
     amagalma-toggle-enclose-selected-or-focused-fx-in-visible-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-selected-or-focused-fx-in-visible-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-35";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48310,7 +48311,7 @@
       ];
     };
     amagalma-toggle-enclose-selected-or-focused-fx-in-visible-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-selected-or-focused-fx-in-visible-chain-with-ab-lm-level-matching-vst-or-jsfx-lua-1-36";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48324,7 +48325,7 @@
       ];
     };
     amagalma-toggle-enclose-selected-or-focused-fx-in-visible-chain-with-ablm2-level-matching-vst-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-selected-or-focused-fx-in-visible-chain-with-ablm2-level-matching-vst-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48338,7 +48339,7 @@
       ];
     };
     amagalma-toggle-enclose-selected-or-focused-fx-in-visible-chain-with-ablm2-level-matching-vst-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-selected-or-focused-fx-in-visible-chain-with-ablm2-level-matching-vst-lua-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48352,7 +48353,7 @@
       ];
     };
     amagalma-toggle-enclose-selected-or-focused-fx-in-visible-chain-with-ablm2-level-matching-vst-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-enclose-selected-or-focused-fx-in-visible-chain-with-ablm2-level-matching-vst-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48366,7 +48367,7 @@
       ];
     };
     amagalma-toggle-select-all-tracks-items-or-envelope-points-under-mouse-smart-select-all-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-select-all-tracks-items-or-envelope-points-under-mouse-smart-select-all-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48380,7 +48381,7 @@
       ];
     };
     amagalma-toggle-select-all-tracks-items-or-envelope-points-under-mouse-smart-select-all-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-select-all-tracks-items-or-envelope-points-under-mouse-smart-select-all-eel-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48394,7 +48395,7 @@
       ];
     };
     amagalma-toggle-select-all-tracks-items-or-envelope-points-under-mouse-smart-select-all-eel-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-select-all-tracks-items-or-envelope-points-under-mouse-smart-select-all-eel-1-11";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48408,7 +48409,7 @@
       ];
     };
     amagalma-toggle-show-media-itemtake-or-automation-item-properties-depending-on-last-touched-context-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-toggle-show-media-itemtake-or-automation-item-properties-depending-on-last-touched-context-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48422,7 +48423,7 @@
       ];
     };
     amagalma-transport-play-with-memory-no-undo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-transport-play-with-memory-no-undo-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48436,7 +48437,7 @@
       ];
     };
     amagalma-transport-play-with-memory-no-undo-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-transport-play-with-memory-no-undo-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48450,7 +48451,7 @@
       ];
     };
     amagalma-transport-play-stop-with-memory-no-undo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-transport-play-stop-with-memory-no-undo-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48464,7 +48465,7 @@
       ];
     };
     amagalma-transport-play-stop-with-memory-no-undo-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-transport-play-stop-with-memory-no-undo-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48478,7 +48479,7 @@
       ];
     };
     amagalma-transport-stop-toggle-position-with-memory-no-undo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-transport-stop-toggle-position-with-memory-no-undo-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48492,7 +48493,7 @@
       ];
     };
     amagalma-transport-stop-toggle-position-with-memory-no-undo-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-transport-stop-toggle-position-with-memory-no-undo-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48506,7 +48507,7 @@
       ];
     };
     amagalma-transport-stop-toggle-position-with-memory-no-undo-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-transport-stop-toggle-position-with-memory-no-undo-lua-1-11";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48520,7 +48521,7 @@
       ];
     };
     amagalma-vertical-zoom-preset-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-vertical-zoom-preset-bundle-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48554,7 +48555,7 @@
       ];
     };
     ausbaxter-render-item-columns-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ausbaxter-render-item-columns-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48568,7 +48569,7 @@
       ];
     };
     ausbaxter-render-item-columns-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ausbaxter-render-item-columns-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48582,7 +48583,7 @@
       ];
     };
     ausbaxter-render-item-columns-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ausbaxter-render-item-columns-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48596,7 +48597,7 @@
       ];
     };
     az-auto-send-all-inputs-to-the-virtual-midi-keyboard-vkb-if-mouse-is-in-empty-track-space-or-recording-is-running-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-auto-send-all-inputs-to-the-virtual-midi-keyboard-vkb-if-mouse-is-in-empty-track-space-or-recording-is-running-background-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48610,7 +48611,7 @@
       ];
     };
     az-simple-project-reconform-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-simple-project-reconform-lua-0-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48624,7 +48625,7 @@
       ];
     };
     beaunus-import-clip-splicer-specification-json-py-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "beaunus-import-clip-splicer-specification-json-py-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48648,7 +48649,7 @@
       ];
     };
     buyone-adjust-track-item-envelope-points-fx-parameters-with-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-adjust-track-item-envelope-points-fx-parameters-with-mousewheel-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48662,7 +48663,7 @@
       ];
     };
     buyone-check-length-of-custom-action-s-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-check-length-of-custom-action-s-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48676,7 +48677,7 @@
       ];
     };
     buyone-convert-custom-actions-to-lua-reascript-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-convert-custom-actions-to-lua-reascript-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48700,7 +48701,7 @@
       ];
     };
     buyone-cursor-toggleable-toolbars-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-cursor-toggleable-toolbars-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48734,7 +48735,7 @@
       ];
     };
     buyone-duplicate-selected-tracks-media-or-automation-items-with-input-box-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-duplicate-selected-tracks-media-or-automation-items-with-input-box-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48748,7 +48749,7 @@
       ];
     };
     buyone-dynamic-reapermenu-guide-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-dynamic-reapermenu-guide-inside-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48762,7 +48763,7 @@
       ];
     };
     buyone-exclusive-dummy-toggles-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-exclusive-dummy-toggles-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48776,7 +48777,7 @@
       ];
     };
     buyone-reaper-profile-terminal-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-reaper-profile-terminal-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48795,7 +48796,7 @@
       ];
     };
     buyone-scroll-horizontally-and-or-move-loop-and-or-time-selection-by-user-defined-interval-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-scroll-horizontally-and-or-move-loop-and-or-time-selection-by-user-defined-interval-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48809,7 +48810,7 @@
       ];
     };
     buyone-select-source-object-of-a-focused-fx-chain-or-fx-window-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-select-source-object-of-a-focused-fx-chain-or-fx-window-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48823,7 +48824,7 @@
       ];
     };
     buyone-select-track-of-the-currently-focused-track-fx-window-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-select-track-of-the-currently-focused-track-fx-window-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48837,7 +48838,7 @@
       ];
     };
     buyone-skip-marker-s-or-region-s-with-the-keyword-in-the-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "buyone-skip-marker-s-or-region-s-with-the-keyword-in-the-name-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48851,7 +48852,7 @@
       ];
     };
     cfillion-big-repeat-button-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-big-repeat-button-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48865,7 +48866,7 @@
       ];
     };
     cfillion-big-repeat-button-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-big-repeat-button-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48879,7 +48880,7 @@
       ];
     };
     cfillion-big-repeat-button-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-big-repeat-button-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48893,7 +48894,7 @@
       ];
     };
     cfillion-big-repeat-button-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-big-repeat-button-lua-1-0-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48907,7 +48908,7 @@
       ];
     };
     cfillion-docker-placeholders-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-docker-placeholders-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48921,7 +48922,7 @@
       ];
     };
     cfillion-enable-or-disable-external-timecode-synchronization-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-enable-or-disable-external-timecode-synchronization-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48940,7 +48941,7 @@
       ];
     };
     cfillion-find-shortcut-in-the-action-list-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-find-shortcut-in-the-action-list-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48954,7 +48955,7 @@
       ];
     };
     cfillion-find-shortcut-in-the-action-list-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-find-shortcut-in-the-action-list-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -48968,7 +48969,7 @@
       ];
     };
     cfillion-open-preferences-page-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-open-preferences-page-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49167,7 +49168,7 @@
       ];
     };
     cfillion-open-preferences-page-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-open-preferences-page-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49366,7 +49367,7 @@
       ];
     };
     cfillion-open-preferences-page-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-open-preferences-page-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49570,7 +49571,7 @@
       ];
     };
     cfillion-open-preferences-page-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-open-preferences-page-lua-1-0-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49774,7 +49775,7 @@
       ];
     };
     cfillion-project-underrun-monitor-xrun-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-project-underrun-monitor-xrun-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49788,7 +49789,7 @@
       ];
     };
     cfillion-project-underrun-monitor-xrun-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-project-underrun-monitor-xrun-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49802,7 +49803,7 @@
       ];
     };
     cfillion-project-underrun-monitor-xrun-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-project-underrun-monitor-xrun-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49816,7 +49817,7 @@
       ];
     };
     cfillion-project-underrun-monitor-xrun-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-project-underrun-monitor-xrun-lua-2-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49830,7 +49831,7 @@
       ];
     };
     cfillion-project-underrun-monitor-xrun-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-project-underrun-monitor-xrun-lua-2-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49844,7 +49845,7 @@
       ];
     };
     cfillion-project-underrun-monitor-xrun-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-project-underrun-monitor-xrun-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49858,7 +49859,7 @@
       ];
     };
     cfillion-project-underrun-monitor-xrun-lua-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-project-underrun-monitor-xrun-lua-2-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49872,7 +49873,7 @@
       ];
     };
     cfillion-song-switcher-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-song-switcher-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49901,7 +49902,7 @@
       ];
     };
     cfillion-song-switcher-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-song-switcher-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49930,7 +49931,7 @@
       ];
     };
     cfillion-song-switcher-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-song-switcher-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49964,7 +49965,7 @@
       ];
     };
     cfillion-song-switcher-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-song-switcher-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -49998,7 +49999,7 @@
       ];
     };
     cfillion-song-switcher-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-song-switcher-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50032,7 +50033,7 @@
       ];
     };
     cfillion-song-switcher-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-song-switcher-lua-1-4-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50066,7 +50067,7 @@
       ];
     };
     cfillion-song-switcher-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-song-switcher-lua-1-4-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50100,7 +50101,7 @@
       ];
     };
     cfillion-song-switcher-lua-1-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-song-switcher-lua-1-4-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50134,7 +50135,7 @@
       ];
     };
     cfillion-song-switcher-lua-1-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-song-switcher-lua-1-4-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50168,7 +50169,7 @@
       ];
     };
     cfillion-song-switcher-lua-1-4-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-song-switcher-lua-1-4-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50202,7 +50203,7 @@
       ];
     };
     cfillion-song-switcher-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-song-switcher-lua-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50246,7 +50247,7 @@
       ];
     };
     cfillion-song-switcher-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-song-switcher-lua-1-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50305,7 +50306,7 @@
       ];
     };
     cfillion-song-switcher-lua-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-song-switcher-lua-1-6-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50364,7 +50365,7 @@
       ];
     };
     cool-mk-resampler-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-resampler-lua-0-9";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50378,7 +50379,7 @@
       ];
     };
     cool-mk-resampler-lua-0-9-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cool-mk-resampler-lua-0-9-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50392,7 +50393,7 @@
       ];
     };
     dfk-project-map-navigator-lua-0-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dfk-project-map-navigator-lua-0-92";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50406,7 +50407,7 @@
       ];
     };
     ed-smart-toggle-mute-items-automation-items-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ed-smart-toggle-mute-items-automation-items-tracks-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50420,7 +50421,7 @@
       ];
     };
     edgemeal-maximize-foreground-window-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-maximize-foreground-window-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50434,7 +50435,7 @@
       ];
     };
     edgemeal-reset-vu-meters-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-reset-vu-meters-lua-1-21";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50448,7 +50449,7 @@
       ];
     };
     edgemeal-restore-foreground-window-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-restore-foreground-window-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50462,7 +50463,7 @@
       ];
     };
     edgemeal-toggle-snap-grid-settings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edgemeal-toggle-snap-grid-settings-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50476,7 +50477,7 @@
       ];
     };
     fna-ensure-toggle-off-item-grouping-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fna-ensure-toggle-off-item-grouping-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50490,7 +50491,7 @@
       ];
     };
     fna-ensure-toggle-off-item-grouping-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fna-ensure-toggle-off-item-grouping-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50504,7 +50505,7 @@
       ];
     };
     fna-ensure-toggle-on-item-grouping-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fna-ensure-toggle-on-item-grouping-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50518,7 +50519,7 @@
       ];
     };
     fna-ensure-toggle-on-item-grouping-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fna-ensure-toggle-on-item-grouping-lua-1-02";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50532,7 +50533,7 @@
       ];
     };
     fna-solo-in-front-dimming-louder-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fna-solo-in-front-dimming-louder-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50546,7 +50547,7 @@
       ];
     };
     fna-solo-in-front-dimming-quieter-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fna-solo-in-front-dimming-quieter-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50560,7 +50561,7 @@
       ];
     };
     fna-solo-in-front-dimming-with-mousewheel-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fna-solo-in-front-dimming-with-mousewheel-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50574,7 +50575,7 @@
       ];
     };
     fna-solo-in-front-dimming-with-mousewheel-eel-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fna-solo-in-front-dimming-with-mousewheel-eel-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50588,7 +50589,7 @@
       ];
     };
     heda-autosend-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-autosend-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50602,7 +50603,7 @@
       ];
     };
     heda-autosend-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-autosend-lua-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50616,7 +50617,7 @@
       ];
     };
     heda-crop-region-to-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-crop-region-to-selected-item-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50630,7 +50631,7 @@
       ];
     };
     heda-crop-region-to-selected-item-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-crop-region-to-selected-item-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50644,7 +50645,7 @@
       ];
     };
     heda-view-scroll-bottom-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-view-scroll-bottom-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50658,7 +50659,7 @@
       ];
     };
     heda-view-scroll-top-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-view-scroll-top-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50672,7 +50673,7 @@
       ];
     };
     ilovemedia-arranged-live-looping-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ilovemedia-arranged-live-looping-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50686,7 +50687,7 @@
       ];
     };
     jameshe-audition-takes-of-selected-items-eel-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jameshe-audition-takes-of-selected-items-eel-1-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50700,7 +50701,7 @@
       ];
     };
     jameshe-comps-display-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jameshe-comps-display-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50714,7 +50715,7 @@
       ];
     };
     jameshe-gfx-and-string-functions-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jameshe-gfx-and-string-functions-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50728,7 +50729,7 @@
       ];
     };
     jrtaylormusic-toggle-snap-globally-main-and-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jrtaylormusic-toggle-snap-globally-main-and-midi-editor-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50742,7 +50743,7 @@
       ];
     };
     js-hotstrings-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-hotstrings-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50756,7 +50757,7 @@
       ];
     };
     lokasenna-add-real-life-timestamps-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-add-real-life-timestamps-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50770,7 +50771,7 @@
       ];
     };
     lokasenna-add-real-life-timestamps-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-add-real-life-timestamps-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50784,7 +50785,7 @@
       ];
     };
     lokasenna-add-real-life-timestamps-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-add-real-life-timestamps-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50798,7 +50799,7 @@
       ];
     };
     lokasenna-add-real-life-timestamps-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-add-real-life-timestamps-lua-1-0-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50812,7 +50813,7 @@
       ];
     };
     lokasenna-add-real-life-timestamps-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-add-real-life-timestamps-lua-1-0-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50826,7 +50827,7 @@
       ];
     };
     lokasenna-create-action-to-open-a-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-action-to-open-a-file-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50840,7 +50841,7 @@
       ];
     };
     lokasenna-create-action-to-open-a-file-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-action-to-open-a-file-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50854,7 +50855,7 @@
       ];
     };
     lokasenna-create-action-to-open-a-file-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-action-to-open-a-file-lua-1-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50868,7 +50869,7 @@
       ];
     };
     lokasenna-create-action-to-open-a-file-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-action-to-open-a-file-lua-1-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50882,7 +50883,7 @@
       ];
     };
     lokasenna-create-action-to-open-a-file-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-action-to-open-a-file-lua-1-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50896,7 +50897,7 @@
       ];
     };
     lokasenna-create-action-to-open-a-file-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-action-to-open-a-file-lua-1-3-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50910,7 +50911,7 @@
       ];
     };
     lokasenna-create-mix-bus-and-reroute-all-selected-tracks-to-it-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-mix-bus-and-reroute-all-selected-tracks-to-it-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50924,7 +50925,7 @@
       ];
     };
     lokasenna-create-mix-bus-and-reroute-all-selected-tracks-to-it-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-mix-bus-and-reroute-all-selected-tracks-to-it-lua-1-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50938,7 +50939,7 @@
       ];
     };
     lokasenna-create-mix-bus-and-reroute-all-top-level-tracks-to-it-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-mix-bus-and-reroute-all-top-level-tracks-to-it-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50952,7 +50953,7 @@
       ];
     };
     lokasenna-create-mix-bus-and-reroute-all-top-level-tracks-to-it-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-create-mix-bus-and-reroute-all-top-level-tracks-to-it-lua-1-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50966,7 +50967,7 @@
       ];
     };
     lokasenna-enable-metronome-until-playback-reaches-edit-cursor-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-enable-metronome-until-playback-reaches-edit-cursor-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50980,7 +50981,7 @@
       ];
     };
     lokasenna-generate-script-from-custom-action-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-generate-script-from-custom-action-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -50994,7 +50995,7 @@
       ];
     };
     lokasenna-generate-script-from-custom-action-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-generate-script-from-custom-action-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51008,7 +51009,7 @@
       ];
     };
     lokasenna-generate-script-from-custom-action-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-generate-script-from-custom-action-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51022,7 +51023,7 @@
       ];
     };
     lokasenna-generate-script-from-custom-action-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-generate-script-from-custom-action-lua-1-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51036,7 +51037,7 @@
       ];
     };
     lokasenna-insert-most-recent-exported-file-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-insert-most-recent-exported-file-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51050,7 +51051,7 @@
       ];
     };
     lokasenna-insert-most-recent-exported-file-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-insert-most-recent-exported-file-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51064,7 +51065,7 @@
       ];
     };
     lokasenna-insert-most-recent-exported-file-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-insert-most-recent-exported-file-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51078,7 +51079,7 @@
       ];
     };
     lokasenna-open-reaper-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-open-reaper-folder-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51092,7 +51093,7 @@
       ];
     };
     lokasenna-open-resource-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-open-resource-folder-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51106,7 +51107,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51120,7 +51121,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51134,7 +51135,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51148,7 +51149,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51162,7 +51163,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51176,7 +51177,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51190,7 +51191,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51204,7 +51205,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-61";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51218,7 +51219,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-65 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-65";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51232,7 +51233,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-7";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51246,7 +51247,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-75";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51260,7 +51261,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-8";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51274,7 +51275,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-85 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-85";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51288,7 +51289,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-9";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51302,7 +51303,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-91";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51316,7 +51317,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-92";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51330,7 +51331,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-93";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51344,7 +51345,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-94";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51358,7 +51359,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-95";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51372,7 +51373,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-96 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-96";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51386,7 +51387,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-97 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-97";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51400,7 +51401,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-98 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-98";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51414,7 +51415,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-99";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51428,7 +51429,7 @@
       ];
     };
     lokasenna-radial-menu-lua-1-100 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-1-100";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51442,7 +51443,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51466,7 +51467,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51490,7 +51491,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51514,7 +51515,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51538,7 +51539,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51552,7 +51553,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51576,7 +51577,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51590,7 +51591,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51614,7 +51615,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-2-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51638,7 +51639,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-2-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51662,7 +51663,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-2-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51686,7 +51687,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-3-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51710,7 +51711,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-3-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51734,7 +51735,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-3-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51758,7 +51759,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51782,7 +51783,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-4-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51806,7 +51807,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-4-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51830,7 +51831,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-4-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-4-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51854,7 +51855,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-4-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-4-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51878,7 +51879,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-4-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-4-7";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51902,7 +51903,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-4-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-4-8";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51926,7 +51927,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-4-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-4-9";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51950,7 +51951,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-4-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-4-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51974,7 +51975,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-4-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-4-11";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -51998,7 +51999,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52022,7 +52023,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-5-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52046,7 +52047,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-6-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52070,7 +52071,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-6-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52094,7 +52095,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-7-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52118,7 +52119,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-7-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52142,7 +52143,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-7-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52166,7 +52167,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-7-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52190,7 +52191,7 @@
       ];
     };
     lokasenna-radial-menu-lua-2-7-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-radial-menu-lua-2-7-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52214,7 +52215,7 @@
       ];
     };
     lokasenna-refresh-current-theme-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-refresh-current-theme-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52228,7 +52229,7 @@
       ];
     };
     lokasenna-repeat-action-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-repeat-action-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52247,7 +52248,7 @@
       ];
     };
     lokasenna-repeat-action-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-repeat-action-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52266,7 +52267,7 @@
       ];
     };
     lokasenna-repeat-action-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-repeat-action-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52285,7 +52286,7 @@
       ];
     };
     lokasenna-repeat-action-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-repeat-action-lua-1-0-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52304,7 +52305,7 @@
       ];
     };
     lokasenna-repeat-action-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-repeat-action-lua-1-0-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52323,7 +52324,7 @@
       ];
     };
     lokasenna-repeat-action-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-repeat-action-lua-1-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52342,7 +52343,7 @@
       ];
     };
     lokasenna-reverse-order-of-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-reverse-order-of-selected-tracks-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52356,7 +52357,7 @@
       ];
     };
     lokasenna-scroll-mixer-to-first-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-scroll-mixer-to-first-selected-track-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52370,7 +52371,7 @@
       ];
     };
     lokasenna-scroll-mixer-to-first-selected-track-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-scroll-mixer-to-first-selected-track-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -52384,7 +52385,7 @@
       ];
     };
     lokasenna-toolbar-button-shortcuts-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toolbar-button-shortcuts-lua-1-0-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -54478,7 +54479,7 @@
       ];
     };
     lokasenna-toolbar-button-shortcuts-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-toolbar-button-shortcuts-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -56572,7 +56573,7 @@
       ];
     };
     mespotine-show-item-name-as-tooltip-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mespotine-show-item-name-as-tooltip-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -56586,7 +56587,7 @@
       ];
     };
     mschnell-mini-song-switcher-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-mini-song-switcher-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -56600,7 +56601,7 @@
       ];
     };
     mschnell-mini-song-switcher-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-mini-song-switcher-eel-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -56614,7 +56615,7 @@
       ];
     };
     mschnell-mini-song-switcher-eel-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-mini-song-switcher-eel-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -56633,7 +56634,7 @@
       ];
     };
     mschnell-mini-song-switcher-eel-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-mini-song-switcher-eel-2-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -56652,7 +56653,7 @@
       ];
     };
     mschnell-mute-track-x-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-mute-track-x-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -56671,7 +56672,7 @@
       ];
     };
     pandabot-chordgun-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-chordgun-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -56890,7 +56891,7 @@
       ];
     };
     pandabot-chordgun-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-chordgun-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -57109,7 +57110,7 @@
       ];
     };
     pandabot-chordgun-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-chordgun-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -57328,7 +57329,7 @@
       ];
     };
     pandabot-chordgun-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-chordgun-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -57547,7 +57548,7 @@
       ];
     };
     pandabot-chordgun-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-chordgun-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -57766,7 +57767,7 @@
       ];
     };
     pandabot-chordgun-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-chordgun-lua-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -57985,7 +57986,7 @@
       ];
     };
     pandabot-chordgun-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-chordgun-lua-1-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -58204,7 +58205,7 @@
       ];
     };
     pandabot-chordgun-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-chordgun-lua-1-7";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -58423,7 +58424,7 @@
       ];
     };
     pandabot-chordgun-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-chordgun-lua-1-8";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -58642,7 +58643,7 @@
       ];
     };
     pandabot-chordgun-lua-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pandabot-chordgun-lua-1-9";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -58866,7 +58867,7 @@
       ];
     };
     patrickmartin-split-at-transients-and-create-regions-named-from-pitches-lua-1-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "patrickmartin-split-at-transients-and-create-regions-named-from-pitches-lua-1-0beta";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -58880,7 +58881,7 @@
       ];
     };
     pl9-amagalma-source-time-position-tool-v2-lua-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pl9-amagalma-source-time-position-tool-v2-lua-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -58894,7 +58895,7 @@
       ];
     };
     pl9-amagalma-source-time-position-tool-v2-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pl9-amagalma-source-time-position-tool-v2-lua-2-01";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -58908,7 +58909,7 @@
       ];
     };
     pl9-source-time-position-tool-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pl9-source-time-position-tool-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -58922,7 +58923,7 @@
       ];
     };
     rodilab-color-palette-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -58936,7 +58937,7 @@
       ];
     };
     rodilab-color-palette-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -58950,7 +58951,7 @@
       ];
     };
     rodilab-color-palette-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -58964,7 +58965,7 @@
       ];
     };
     rodilab-color-palette-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -58978,7 +58979,7 @@
       ];
     };
     rodilab-color-palette-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -58992,7 +58993,7 @@
       ];
     };
     rodilab-color-palette-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-1-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59006,7 +59007,7 @@
       ];
     };
     rodilab-color-palette-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-1-5-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59020,7 +59021,7 @@
       ];
     };
     rodilab-color-palette-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-1-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59034,7 +59035,7 @@
       ];
     };
     rodilab-color-palette-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-1-7";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59048,7 +59049,7 @@
       ];
     };
     rodilab-color-palette-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-1-8";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59062,7 +59063,7 @@
       ];
     };
     rodilab-color-palette-lua-1-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-1-8-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59076,7 +59077,7 @@
       ];
     };
     rodilab-color-palette-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59100,7 +59101,7 @@
       ];
     };
     rodilab-color-palette-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-2-10";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59124,7 +59125,7 @@
       ];
     };
     rodilab-color-palette-lua-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-2-20";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59148,7 +59149,7 @@
       ];
     };
     rodilab-color-palette-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-color-palette-lua-2-21";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59172,7 +59173,7 @@
       ];
     };
     rodilab-smart-remove-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-smart-remove-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59186,7 +59187,7 @@
       ];
     };
     rodilab-smart-remove-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-smart-remove-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59200,7 +59201,7 @@
       ];
     };
     rodilab-smart-select-all-depending-on-focus-tracks-selected-and-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rodilab-smart-select-all-depending-on-focus-tracks-selected-and-time-selection-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59214,7 +59215,7 @@
       ];
     };
     samplesamurai-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "samplesamurai-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59228,7 +59229,7 @@
       ];
     };
     samplesamurai-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "samplesamurai-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59242,7 +59243,7 @@
       ];
     };
     sexan-project-time-counter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-project-time-counter-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59256,7 +59257,7 @@
       ];
     };
     spk77-clock-eel-0-2015-2-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-clock-eel-0-2015-2-14";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59270,7 +59271,7 @@
       ];
     };
     spk77-clock-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-clock-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59284,7 +59285,7 @@
       ];
     };
     spk77-convert-midi-notes-to-stretch-markers-eel-0-2015-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-convert-midi-notes-to-stretch-markers-eel-0-2015-1-20";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59298,7 +59299,7 @@
       ];
     };
     spk77-convert-midi-notes-to-stretch-markers-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-convert-midi-notes-to-stretch-markers-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59312,7 +59313,7 @@
       ];
     };
     spk77-convert-stretch-markers-to-midi-notes-eel-0-2014-10-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-convert-stretch-markers-to-midi-notes-eel-0-2014-10-7";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59326,7 +59327,7 @@
       ];
     };
     spk77-convert-stretch-markers-to-midi-notes-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-convert-stretch-markers-to-midi-notes-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59340,7 +59341,7 @@
       ];
     };
     spk77-convert-stretch-markers-to-midi-notes-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-convert-stretch-markers-to-midi-notes-eel-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59354,7 +59355,7 @@
       ];
     };
     spk77-info-display-mouse-cursor-context-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-info-display-mouse-cursor-context-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59368,7 +59369,7 @@
       ];
     };
     spk77-insert-empty-space-at-time-selection-prevent-moving-locked-items-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-insert-empty-space-at-time-selection-prevent-moving-locked-items-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59382,7 +59383,7 @@
       ];
     };
     spk77-time-display-tool-eel-0-2014-7-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-time-display-tool-eel-0-2014-7-21";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59396,7 +59397,7 @@
       ];
     };
     spk77-time-display-tool-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-time-display-tool-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59410,7 +59411,7 @@
       ];
     };
     spk77-track-fx-selector-eel-0-2014-8-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-fx-selector-eel-0-2014-8-19";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59424,7 +59425,7 @@
       ];
     };
     spk77-track-fx-selector-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-fx-selector-eel-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59438,7 +59439,7 @@
       ];
     };
     spk77-track-io-mixer-lua-0-2015-12-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-io-mixer-lua-0-2015-12-18";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59482,7 +59483,7 @@
       ];
     };
     spk77-track-io-mixer-lua-0-2016-06-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-io-mixer-lua-0-2016-06-25";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59526,7 +59527,7 @@
       ];
     };
     spk77-track-tags-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59540,7 +59541,7 @@
       ];
     };
     spk77-track-tags-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59554,7 +59555,7 @@
       ];
     };
     spk77-track-tags-lua-0-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-2-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59568,7 +59569,7 @@
       ];
     };
     spk77-track-tags-lua-0-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-2-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59582,7 +59583,7 @@
       ];
     };
     spk77-track-tags-lua-0-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-2-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59596,7 +59597,7 @@
       ];
     };
     spk77-track-tags-lua-0-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-2-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59610,7 +59611,7 @@
       ];
     };
     spk77-track-tags-lua-0-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-2-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59624,7 +59625,7 @@
       ];
     };
     spk77-track-tags-lua-0-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-2-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59638,7 +59639,7 @@
       ];
     };
     spk77-track-tags-lua-0-2-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-2-7";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59652,7 +59653,7 @@
       ];
     };
     spk77-track-tags-lua-0-2-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-2-8";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59666,7 +59667,7 @@
       ];
     };
     spk77-track-tags-lua-0-2-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-2-9";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59680,7 +59681,7 @@
       ];
     };
     spk77-track-tags-lua-0-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-3-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59694,7 +59695,7 @@
       ];
     };
     spk77-track-tags-lua-0-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-3-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59708,7 +59709,7 @@
       ];
     };
     spk77-track-tags-lua-0-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-3-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59722,7 +59723,7 @@
       ];
     };
     spk77-track-tags-lua-0-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-3-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59736,7 +59737,7 @@
       ];
     };
     spk77-track-tags-lua-0-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-3-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59750,7 +59751,7 @@
       ];
     };
     spk77-track-tags-lua-0-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-3-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59764,7 +59765,7 @@
       ];
     };
     spk77-track-tags-lua-0-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-3-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59778,7 +59779,7 @@
       ];
     };
     spk77-track-tags-lua-0-3-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-3-7";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59792,7 +59793,7 @@
       ];
     };
     spk77-track-tags-lua-0-3-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-3-8";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59806,7 +59807,7 @@
       ];
     };
     spk77-track-tags-lua-0-3-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-3-9";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59820,7 +59821,7 @@
       ];
     };
     spk77-track-tags-lua-0-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-4-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59834,7 +59835,7 @@
       ];
     };
     spk77-track-tags-lua-0-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-4-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59848,7 +59849,7 @@
       ];
     };
     spk77-track-tags-lua-0-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-4-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59862,7 +59863,7 @@
       ];
     };
     spk77-track-tags-lua-0-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-4-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59876,7 +59877,7 @@
       ];
     };
     spk77-track-tags-lua-0-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-4-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59890,7 +59891,7 @@
       ];
     };
     spk77-track-tags-lua-0-4-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-4-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59904,7 +59905,7 @@
       ];
     };
     spk77-track-tags-lua-0-4-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-track-tags-lua-0-4-6";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59918,7 +59919,7 @@
       ];
     };
     starshine-starmidi-microtonal-scales-using-lanes-as-piano-roll-lua-1-0-beta-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "starshine-starmidi-microtonal-scales-using-lanes-as-piano-roll-lua-1-0-beta-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59962,7 +59963,7 @@
       ];
     };
     tagirijus-delete-backups-in-project-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-delete-backups-in-project-folder-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59976,7 +59977,7 @@
       ];
     };
     tagirijus-delete-backups-in-project-folder-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-delete-backups-in-project-folder-lua-2-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -59990,7 +59991,7 @@
       ];
     };
     tagirijus-prevent-item-extend-on-record-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-prevent-item-extend-on-record-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60004,7 +60005,7 @@
       ];
     };
     tagirijus-prevent-item-extend-on-record-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-prevent-item-extend-on-record-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60018,7 +60019,7 @@
       ];
     };
     tagirijus-prevent-item-extend-on-record-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-prevent-item-extend-on-record-lua-1-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60032,7 +60033,7 @@
       ];
     };
     tagirijus-prevent-item-extend-on-record-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-prevent-item-extend-on-record-lua-1-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60046,7 +60047,7 @@
       ];
     };
     tagirijus-save-project-and-move-backups-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tagirijus-save-project-and-move-backups-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60060,7 +60061,7 @@
       ];
     };
     timtam-intellifreeze-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timtam-intellifreeze-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60094,7 +60095,7 @@
       ];
     };
     tompad-musicmath-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-musicmath-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60108,7 +60109,7 @@
       ];
     };
     tompad-musicmath-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-musicmath-lua-1-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60122,7 +60123,7 @@
       ];
     };
     tompad-musicmath-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-musicmath-lua-1-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60136,7 +60137,7 @@
       ];
     };
     tompad-obliques-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-obliques-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60155,7 +60156,7 @@
       ];
     };
     tompad-obliques-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-obliques-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60174,7 +60175,7 @@
       ];
     };
     tompad-practice-coach-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-practice-coach-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60188,7 +60189,7 @@
       ];
     };
     tompad-practice-coach-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-practice-coach-lua-1-0-1";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60202,7 +60203,7 @@
       ];
     };
     tompad-practice-coach-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-practice-coach-lua-1-0-2";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60216,7 +60217,7 @@
       ];
     };
     tompad-practice-coach-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-practice-coach-lua-1-0-3";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60230,7 +60231,7 @@
       ];
     };
     tompad-practice-coach-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-practice-coach-lua-1-0-4";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60244,7 +60245,7 @@
       ];
     };
     tompad-practice-coach-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tompad-practice-coach-lua-1-0-5";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60258,7 +60259,7 @@
       ];
     };
     vo-pomodoro-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vo-pomodoro-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Various";
@@ -60272,7 +60273,7 @@
       ];
     };
     amagalma-copy-video-processor-parameter-values-from-focused-fx-or-first-selected-dedicated-video-processor-item-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-copy-video-processor-parameter-values-from-focused-fx-or-first-selected-dedicated-video-processor-item-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Video";
@@ -60286,7 +60287,7 @@
       ];
     };
     amagalma-paste-video-processor-parameter-values-to-focused-video-fx-or-to-all-selected-items-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amagalma-paste-video-processor-parameter-values-to-focused-video-fx-or-to-all-selected-items-lua-1-00";
       indexName = "ReaTeam Scripts";
       categoryName = "Video";
@@ -60300,7 +60301,7 @@
       ];
     };
     js-video-automatically-adjust-size-of-thumbnail-items-when-zooming-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-video-automatically-adjust-size-of-thumbnail-items-when-zooming-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "Video";
@@ -60314,7 +60315,7 @@
       ];
     };
     js-video-automatically-adjust-size-of-thumbnail-items-when-zooming-lua-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-video-automatically-adjust-size-of-thumbnail-items-when-zooming-lua-0-91";
       indexName = "ReaTeam Scripts";
       categoryName = "Video";
@@ -60328,7 +60329,7 @@
       ];
     };
     js-video-automatically-adjust-size-of-thumbnail-items-when-zooming-lua-0-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-video-automatically-adjust-size-of-thumbnail-items-when-zooming-lua-0-92";
       indexName = "ReaTeam Scripts";
       categoryName = "Video";
@@ -60342,7 +60343,7 @@
       ];
     };
     js-video-create-thumbnail-items-in-selected-track-for-selected-video-items-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-video-create-thumbnail-items-in-selected-track-for-selected-video-items-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "Video";
@@ -60356,7 +60357,7 @@
       ];
     };
     js-video-create-thumbnail-items-in-selected-track-for-selected-video-items-lua-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-video-create-thumbnail-items-in-selected-track-for-selected-video-items-lua-0-91";
       indexName = "ReaTeam Scripts";
       categoryName = "Video";
@@ -60370,7 +60371,7 @@
       ];
     };
     js-video-extract-thumbnails-of-video-items-to-empty-midi-or-video-processor-items-lua-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-video-extract-thumbnails-of-video-items-to-empty-midi-or-video-processor-items-lua-0-90";
       indexName = "ReaTeam Scripts";
       categoryName = "Video";
@@ -60384,7 +60385,7 @@
       ];
     };
     js-video-extract-thumbnails-of-video-items-to-empty-midi-or-video-processor-items-lua-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-video-extract-thumbnails-of-video-items-to-empty-midi-or-video-processor-items-lua-0-91";
       indexName = "ReaTeam Scripts";
       categoryName = "Video";
@@ -60398,7 +60399,7 @@
       ];
     };
     js-video-extract-thumbnails-of-video-items-to-empty-midi-or-video-processor-items-lua-0-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-video-extract-thumbnails-of-video-items-to-empty-midi-or-video-processor-items-lua-0-92";
       indexName = "ReaTeam Scripts";
       categoryName = "Video";
@@ -60412,7 +60413,7 @@
       ];
     };
     js-video-extract-thumbnails-of-video-items-to-empty-midi-or-video-processor-items-lua-0-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-video-extract-thumbnails-of-video-items-to-empty-midi-or-video-processor-items-lua-0-93";
       indexName = "ReaTeam Scripts";
       categoryName = "Video";
@@ -60426,7 +60427,7 @@
       ];
     };
     yatsumehole-auto-screen-flipping-videos-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yatsumehole-auto-screen-flipping-videos-lua-1-0";
       indexName = "ReaTeam Scripts";
       categoryName = "Video";

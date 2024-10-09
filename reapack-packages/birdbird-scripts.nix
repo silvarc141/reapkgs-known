@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   birdbird-scripts = {
     birdbird-delete-item-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-delete-item-under-mouse-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Items Editing";
@@ -19,7 +20,7 @@
       ];
     };
     birdbird-move-selected-items-to-mouse-cursor-perform-until-shortcut-released-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-move-selected-items-to-mouse-cursor-perform-until-shortcut-released-lua-1-1";
       indexName = "BirdBird Scripts";
       categoryName = "Items Editing";
@@ -33,7 +34,7 @@
       ];
     };
     birdbird-move-selected-items-to-mouse-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-move-selected-items-to-mouse-cursor-lua-1-1";
       indexName = "BirdBird Scripts";
       categoryName = "Items Editing";
@@ -47,7 +48,7 @@
       ];
     };
     birdbird-offset-item-position-perform-until-shortcut-released-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-offset-item-position-perform-until-shortcut-released-lua-1-1";
       indexName = "BirdBird Scripts";
       categoryName = "Items Editing";
@@ -61,7 +62,7 @@
       ];
     };
     birdbird-smart-reverse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-smart-reverse-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Items Editing";
@@ -75,7 +76,7 @@
       ];
     };
     birdbird-smart-reverse-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-smart-reverse-lua-1-1";
       indexName = "BirdBird Scripts";
       categoryName = "Items Editing";
@@ -89,7 +90,7 @@
       ];
     };
     birdbird-smart-reverse-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-smart-reverse-lua-1-3";
       indexName = "BirdBird Scripts";
       categoryName = "Items Editing";
@@ -103,7 +104,7 @@
       ];
     };
     birdbird-toggle-take-reverse-reverse-envelopes-and-fades-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-toggle-take-reverse-reverse-envelopes-and-fades-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Items Editing";
@@ -117,7 +118,7 @@
       ];
     };
     birdbird-smart-duplicate-relative-to-grid-delete-overlapping-media-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-smart-duplicate-relative-to-grid-delete-overlapping-media-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Items Editing";
@@ -131,7 +132,7 @@
       ];
     };
     bb-midi-bridge-quick-midi-preview-jsfx-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bb-midi-bridge-quick-midi-preview-jsfx-1-00";
       indexName = "BirdBird Scripts";
       categoryName = "JSFX";
@@ -145,7 +146,7 @@
       ];
     };
     bb-stuck-note-utility-jsfx-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bb-stuck-note-utility-jsfx-1-00";
       indexName = "BirdBird Scripts";
       categoryName = "JSFX";
@@ -159,7 +160,7 @@
       ];
     };
     birdbird-adjust-velocity-for-selected-or-closest-notes-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-adjust-velocity-for-selected-or-closest-notes-mousewheel-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -173,7 +174,7 @@
       ];
     };
     birdbird-bring-back-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-bring-back-midi-editor-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -187,7 +188,7 @@
       ];
     };
     birdbird-extend-selected-notes-to-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-extend-selected-notes-to-mouse-cursor-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -201,7 +202,7 @@
       ];
     };
     birdbird-nudge-notes-perform-until-shortcut-released-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-nudge-notes-perform-until-shortcut-released-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -215,7 +216,7 @@
       ];
     };
     birdbird-nudge-selected-or-closest-notes-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-nudge-selected-or-closest-notes-mousewheel-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -229,7 +230,7 @@
       ];
     };
     birdbird-open-midi-editor-with-custom-settings-scroll-zoom-snap-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-open-midi-editor-with-custom-settings-scroll-zoom-snap-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -243,7 +244,7 @@
       ];
     };
     birdbird-open-midi-editor-with-custom-settings-scroll-zoom-snap-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-open-midi-editor-with-custom-settings-scroll-zoom-snap-lua-1-1";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -257,7 +258,7 @@
       ];
     };
     birdbird-paste-notes-at-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-paste-notes-at-mouse-cursor-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -271,7 +272,7 @@
       ];
     };
     birdbird-quick-midi-preview-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-quick-midi-preview-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -285,7 +286,7 @@
       ];
     };
     birdbird-quick-midi-preview-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-quick-midi-preview-lua-2-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -304,7 +305,7 @@
       ];
     };
     birdbird-quick-midi-preview-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-quick-midi-preview-lua-2-1";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -318,7 +319,7 @@
       ];
     };
     birdbird-quick-midi-preview-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-quick-midi-preview-lua-2-2";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -332,7 +333,7 @@
       ];
     };
     birdbird-quick-midi-preview-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-quick-midi-preview-lua-2-3";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -346,7 +347,7 @@
       ];
     };
     birdbird-select-notes-aligned-with-mouse-vertical-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-select-notes-aligned-with-mouse-vertical-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -360,7 +361,7 @@
       ];
     };
     birdbird-select-notes-under-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-select-notes-under-edit-cursor-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -374,7 +375,7 @@
       ];
     };
     birdbird-set-time-selection-to-active-midi-item-and-enable-repeat-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-set-time-selection-to-active-midi-item-and-enable-repeat-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -388,7 +389,7 @@
       ];
     };
     birdbird-shove-midi-editor-offscreen-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-shove-midi-editor-offscreen-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -402,7 +403,7 @@
       ];
     };
     birdbird-smart-duplicate-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-smart-duplicate-notes-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -416,7 +417,7 @@
       ];
     };
     birdbird-transpose-selected-or-closest-notes-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-transpose-selected-or-closest-notes-mousewheel-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "MIDI Editor";
@@ -430,7 +431,7 @@
       ];
     };
     birdbird-add-new-track-to-root-folder-of-the-track-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-add-new-track-to-root-folder-of-the-track-under-mouse-cursor-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Track";
@@ -444,7 +445,7 @@
       ];
     };
     birdbird-create-new-track-match-height-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-create-new-track-match-height-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Track";
@@ -458,7 +459,7 @@
       ];
     };
     birdbird-create-send-as-fader-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-create-send-as-fader-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Track";
@@ -472,7 +473,7 @@
       ];
     };
     birdbird-create-send-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-create-send-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Track";
@@ -486,7 +487,7 @@
       ];
     };
     birdbird-insert-stuck-note-utility-on-all-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-insert-stuck-note-utility-on-all-tracks-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Track";
@@ -500,7 +501,7 @@
       ];
     };
     birdbird-insert-stuck-note-utility-on-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-insert-stuck-note-utility-on-selected-tracks-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Track";
@@ -514,7 +515,7 @@
       ];
     };
     birdbird-prepare-folder-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-prepare-folder-track-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Track";
@@ -528,7 +529,7 @@
       ];
     };
     birdbird-remove-stuck-note-utility-from-all-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-remove-stuck-note-utility-from-all-tracks-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Track";
@@ -542,7 +543,7 @@
       ];
     };
     birdbird-remove-stuck-note-utility-from-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-remove-stuck-note-utility-from-selected-tracks-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Track";
@@ -556,7 +557,7 @@
       ];
     };
     birdbird-select-root-track-of-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-select-root-track-of-selected-track-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Track";
@@ -570,7 +571,7 @@
       ];
     };
     birdbird-toggle-compact-for-selected-folder-tracks-tiny-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-toggle-compact-for-selected-folder-tracks-tiny-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Track";
@@ -584,7 +585,7 @@
       ];
     };
     birdbird-select-folder-children-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-select-folder-children-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Track";
@@ -598,7 +599,7 @@
       ];
     };
     birdbird-auto-center-new-floating-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-auto-center-new-floating-fx-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Utility";
@@ -612,7 +613,7 @@
       ];
     };
     birdbird-auto-center-new-floating-fx-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-auto-center-new-floating-fx-lua-1-1";
       indexName = "BirdBird Scripts";
       categoryName = "Utility";
@@ -626,7 +627,7 @@
       ];
     };
     birdbird-disable-repeat-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-disable-repeat-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Utility";
@@ -640,7 +641,7 @@
       ];
     };
     birdbird-enable-repeat-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-enable-repeat-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Utility";
@@ -654,7 +655,7 @@
       ];
     };
     birdbird-print-item-state-chunk-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-print-item-state-chunk-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Utility";
@@ -668,7 +669,7 @@
       ];
     };
     birdbird-delete-under-mouse-perform-until-shortcut-released-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-delete-under-mouse-perform-until-shortcut-released-lua-1-1";
       indexName = "BirdBird Scripts";
       categoryName = "Workflow";
@@ -682,7 +683,7 @@
       ];
     };
     birdbird-delete-under-mouse-perform-until-shortcut-released-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-delete-under-mouse-perform-until-shortcut-released-lua-1-2";
       indexName = "BirdBird Scripts";
       categoryName = "Workflow";
@@ -696,7 +697,7 @@
       ];
     };
     birdbird-initialize-dragged-audio-item-with-custom-settings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-initialize-dragged-audio-item-with-custom-settings-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Workflow";
@@ -710,7 +711,7 @@
       ];
     };
     birdbird-quick-preview-perform-until-shortcut-released-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-quick-preview-perform-until-shortcut-released-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Workflow";
@@ -724,7 +725,7 @@
       ];
     };
     birdbird-quick-preview-perform-until-shortcut-released-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-quick-preview-perform-until-shortcut-released-lua-1-1";
       indexName = "BirdBird Scripts";
       categoryName = "Workflow";
@@ -738,7 +739,7 @@
       ];
     };
     birdbird-quick-resample-time-selection-render-to-new-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-quick-resample-time-selection-render-to-new-track-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Workflow";
@@ -752,7 +753,7 @@
       ];
     };
     birdbird-quick-resample-time-selection-render-to-new-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-quick-resample-time-selection-render-to-new-track-lua-1-1";
       indexName = "BirdBird Scripts";
       categoryName = "Workflow";
@@ -766,7 +767,7 @@
       ];
     };
     birdbird-quick-resample-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-quick-resample-lua-1-0";
       indexName = "BirdBird Scripts";
       categoryName = "Workflow";
@@ -780,7 +781,7 @@
       ];
     };
     birdbird-quick-resample-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-quick-resample-lua-1-3";
       indexName = "BirdBird Scripts";
       categoryName = "Workflow";
@@ -794,7 +795,7 @@
       ];
     };
     birdbird-quick-resample-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-quick-resample-lua-1-4";
       indexName = "BirdBird Scripts";
       categoryName = "Workflow";
@@ -808,7 +809,7 @@
       ];
     };
     birdbird-quick-resample-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-quick-resample-lua-1-5";
       indexName = "BirdBird Scripts";
       categoryName = "Workflow";
@@ -822,7 +823,7 @@
       ];
     };
     birdbird-quick-resample-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-quick-resample-lua-1-6";
       indexName = "BirdBird Scripts";
       categoryName = "Workflow";

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   mespotine-scripts-and-extensions = {
     mespotine-scripts-api-package-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mespotine-scripts-api-package-1-19";
       indexName = "Mespotine-Scripts And Extensions";
       categoryName = "Mespotine-Scripts-category";

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   sonicanomaly-jsfx = {
     _5-1-master-limiter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "_5-1-master-limiter-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";
@@ -24,7 +25,7 @@
       ];
     };
     bass-professor-mark-ii-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bass-professor-mark-ii-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";
@@ -53,7 +54,7 @@
       ];
     };
     bassprofessor-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bassprofessor-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";
@@ -92,7 +93,7 @@
       ];
     };
     hbc-2-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hbc-2-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";
@@ -126,7 +127,7 @@
       ];
     };
     hbc-5-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hbc-5-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";
@@ -170,7 +171,7 @@
       ];
     };
     leet-delay-2-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leet-delay-2-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";
@@ -199,7 +200,7 @@
       ];
     };
     quadracom-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "quadracom-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";
@@ -228,7 +229,7 @@
       ];
     };
     segx2-gate-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "segx2-gate-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";
@@ -252,7 +253,7 @@
       ];
     };
     skope2-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "skope2-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";
@@ -266,7 +267,7 @@
       ];
     };
     slax-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "slax-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";
@@ -310,7 +311,7 @@
       ];
     };
     stero2surroundrotator-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stero2surroundrotator-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";
@@ -324,7 +325,7 @@
       ];
     };
     surround-pan-2-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "surround-pan-2-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";
@@ -358,7 +359,7 @@
       ];
     };
     transpire-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "transpire-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";
@@ -407,7 +408,7 @@
       ];
     };
     trileveler2-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "trileveler2-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";
@@ -441,7 +442,7 @@
       ];
     };
     vola2-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vola2-jsfx-1-0";
       indexName = "SonicAnomaly JSFX";
       categoryName = "Plugins";

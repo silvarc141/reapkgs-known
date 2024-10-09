@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   lkc-tools = {
     lkc-change-default-fades-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-change-default-fades-lua-1-0";
       indexName = "LKC Tools";
       categoryName = "Change default fades";
@@ -44,7 +45,7 @@
       ];
     };
     lkc-construct-items-toggle-lua-1-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-construct-items-toggle-lua-1-53";
       indexName = "LKC Tools";
       categoryName = "Construct items";
@@ -63,7 +64,7 @@
       ];
     };
     lkc-construct-items-toggle-lua-1-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-construct-items-toggle-lua-1-54";
       indexName = "LKC Tools";
       categoryName = "Construct items";
@@ -87,7 +88,7 @@
       ];
     };
     lkc-construct-items-toggle-lua-1-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-construct-items-toggle-lua-1-55";
       indexName = "LKC Tools";
       categoryName = "Construct items";
@@ -116,7 +117,7 @@
       ];
     };
     lkc-colored-rippling-ext-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-colored-rippling-ext-0-3";
       indexName = "LKC Tools";
       categoryName = "Extensions";
@@ -135,7 +136,7 @@
       ];
     };
     lkc-colored-rippling-ext-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-colored-rippling-ext-0-4";
       indexName = "LKC Tools";
       categoryName = "Extensions";
@@ -154,7 +155,7 @@
       ];
     };
     lkc-colored-rippling-ext-0-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-colored-rippling-ext-0-4-1";
       indexName = "LKC Tools";
       categoryName = "Extensions";
@@ -173,7 +174,7 @@
       ];
     };
     lkc-hover-edit-details-lua-1-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-hover-edit-details-lua-1-52";
       indexName = "LKC Tools";
       categoryName = "Hover editing package";
@@ -242,7 +243,7 @@
       ];
     };
     lkc-hover-edit-details-lua-1-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-hover-edit-details-lua-1-53";
       indexName = "LKC Tools";
       categoryName = "Hover editing package";
@@ -311,7 +312,7 @@
       ];
     };
     lkc-hover-edit-details-lua-1-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-hover-edit-details-lua-1-54";
       indexName = "LKC Tools";
       categoryName = "Hover editing package";
@@ -380,7 +381,7 @@
       ];
     };
     lkc-hover-edit-details-lua-1-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-hover-edit-details-lua-1-55";
       indexName = "LKC Tools";
       categoryName = "Hover editing package";
@@ -449,7 +450,7 @@
       ];
     };
     lkc-hover-edit-details-lua-1-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-hover-edit-details-lua-1-56";
       indexName = "LKC Tools";
       categoryName = "Hover editing package";
@@ -518,7 +519,7 @@
       ];
     };
     bfo-amp-lkc-folder-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfo-amp-lkc-folder-items-lua-1-0";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -532,7 +533,7 @@
       ];
     };
     bfo-amp-lkc-folder-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfo-amp-lkc-folder-items-lua-1-01";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -546,7 +547,7 @@
       ];
     };
     bfo-amp-lkc-folder-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfo-amp-lkc-folder-items-lua-1-02";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -560,7 +561,7 @@
       ];
     };
     bfo-amp-lkc-folder-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfo-amp-lkc-folder-items-lua-1-03";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -584,7 +585,7 @@
       ];
     };
     lkc-1-frame-fadein-to-all-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-1-frame-fadein-to-all-selected-items-lua-1-0";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -603,7 +604,7 @@
       ];
     };
     lkc-align-selected-items-to-markers-inside-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-align-selected-items-to-markers-inside-time-selection-lua-1-0";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -617,7 +618,7 @@
       ];
     };
     lkc-count-midi-notes-in-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-count-midi-notes-in-project-lua-1-0";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -631,7 +632,7 @@
       ];
     };
     lkc-create-marker-at-edit-cursor-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-create-marker-at-edit-cursor-position-lua-1-0";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -645,7 +646,7 @@
       ];
     };
     lkc-declutter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-declutter-lua-1-0";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -659,7 +660,7 @@
       ];
     };
     lkc-mousewheel-gain-0-5db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-mousewheel-gain-0-5db-lua-1-0";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -673,7 +674,7 @@
       ];
     };
     lkc-mousewheel-gain-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-mousewheel-gain-lua-1-0";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -687,7 +688,7 @@
       ];
     };
     lkc-move-items-vertically-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-move-items-vertically-mousewheel-lua-1-0";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -701,7 +702,7 @@
       ];
     };
     lkc-move-items-vertically-mousewheel-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-move-items-vertically-mousewheel-lua-1-1";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -715,7 +716,7 @@
       ];
     };
     lkc-move-items-vertically-obey-time-selection-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-move-items-vertically-obey-time-selection-mousewheel-lua-1-0";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -729,7 +730,7 @@
       ];
     };
     lkc-pro-paste-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-pro-paste-lua-1-6";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -743,7 +744,7 @@
       ];
     };
     lkc-randomize-volume-of-each-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-randomize-volume-of-each-selected-track-lua-1-0";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -757,7 +758,7 @@
       ];
     };
     lkc-select-next-track-for-importing-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-select-next-track-for-importing-lua-1-2";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -771,7 +772,7 @@
       ];
     };
     lkc-select-next-track-for-importing-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-select-next-track-for-importing-lua-1-3";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -785,7 +786,7 @@
       ];
     };
     lkc-toggle-move-mode-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-toggle-move-mode-lua-1-10";
       indexName = "LKC Tools";
       categoryName = "Misc";
@@ -799,7 +800,7 @@
       ];
     };
     lkc-lawrence-randomizer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-lawrence-randomizer-lua-1-0";
       indexName = "LKC Tools";
       categoryName = "Modulate sound";
@@ -813,7 +814,7 @@
       ];
     };
     lkc-lawrence-randomizer-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-lawrence-randomizer-lua-1-1";
       indexName = "LKC Tools";
       categoryName = "Modulate sound";
@@ -827,7 +828,7 @@
       ];
     };
     lkc-modulate-sound-random-pitch-and-rate-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-modulate-sound-random-pitch-and-rate-lua-1-1";
       indexName = "LKC Tools";
       categoryName = "Modulate sound";
@@ -846,7 +847,7 @@
       ];
     };
     lkc-pro-zoom-in-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-pro-zoom-in-lua-1-6";
       indexName = "LKC Tools";
       categoryName = "Pro Zoom";
@@ -865,7 +866,7 @@
       ];
     };
     reaopen-lua-1-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-51";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -894,7 +895,7 @@
       ];
     };
     reaopen-lua-1-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-52";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -923,7 +924,7 @@
       ];
     };
     reaopen-lua-1-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-53";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -957,7 +958,7 @@
       ];
     };
     reaopen-lua-1-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-54";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -996,7 +997,7 @@
       ];
     };
     reaopen-lua-1-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-55";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -1035,7 +1036,7 @@
       ];
     };
     reaopen-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-60";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -1074,7 +1075,7 @@
       ];
     };
     reaopen-lua-1-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-70";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -1113,7 +1114,7 @@
       ];
     };
     reaopen-lua-1-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-71";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -1157,7 +1158,7 @@
       ];
     };
     reaopen-lua-1-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-72";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -1201,7 +1202,7 @@
       ];
     };
     reaopen-lua-1-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-73";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -1245,7 +1246,7 @@
       ];
     };
     reaopen-lua-1-74 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-74";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -1289,7 +1290,7 @@
       ];
     };
     reaopen-lua-1-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-75";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -1333,7 +1334,7 @@
       ];
     };
     reaopen-lua-1-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-80";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -1377,7 +1378,7 @@
       ];
     };
     reaopen-lua-1-81 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-81";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -1421,7 +1422,7 @@
       ];
     };
     reaopen-lua-1-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-82";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -1465,7 +1466,7 @@
       ];
     };
     reaopen-lua-1-83 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaopen-lua-1-83";
       indexName = "LKC Tools";
       categoryName = "ReaOpen";
@@ -1509,7 +1510,7 @@
       ];
     };
     lkc-timejump-undo-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-timejump-undo-lua-1-30";
       indexName = "LKC Tools";
       categoryName = "Timejump";
@@ -1528,7 +1529,7 @@
       ];
     };
     lkc-elevenlabs-tts-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-elevenlabs-tts-lua-0-1";
       indexName = "LKC Tools";
       categoryName = "TTS";
@@ -1542,7 +1543,7 @@
       ];
     };
     lkc-variator-gui-lua-0-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-variator-gui-lua-0-3-6";
       indexName = "LKC Tools";
       categoryName = "Variator";
@@ -1661,7 +1662,7 @@
       ];
     };
     lkc-variator-gui-lua-0-3-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lkc-variator-gui-lua-0-3-7";
       indexName = "LKC Tools";
       categoryName = "Variator";

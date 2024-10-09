@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   leandro-facchinetti = {
     leafac-volume-gain-trim-mixer-control-panel-mcp-track-control-panel-tcp-jsfx-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-volume-gain-trim-mixer-control-panel-mcp-track-control-panel-tcp-jsfx-1-2-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -24,7 +25,7 @@
       ];
     };
     leafac-volume-gain-trim-mixer-control-panel-mcp-track-control-panel-tcp-jsfx-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-volume-gain-trim-mixer-control-panel-mcp-track-control-panel-tcp-jsfx-1-1-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -43,7 +44,7 @@
       ];
     };
     leafac-waveform-jsfx-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-waveform-jsfx-1-1-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -62,7 +63,7 @@
       ];
     };
     leafac-waveform-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-waveform-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -81,7 +82,7 @@
       ];
     };
     leafac-duplicate-tracks-without-items-lua-0-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-duplicate-tracks-without-items-lua-0-0-1";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -95,7 +96,7 @@
       ];
     };
     leafac-play-from-to-in-loop-for-times-and-then-unloop-lua-0-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-play-from-to-in-loop-for-times-and-then-unloop-lua-0-0-1";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -109,7 +110,7 @@
       ];
     };
     leafac-copy-track-item-and-paste-on-new-track-measure-lua-0-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-copy-track-item-and-paste-on-new-track-measure-lua-0-0-1";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -123,7 +124,7 @@
       ];
     };
     leafac-iddqd-search-reaper-mania-tutorial-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-iddqd-search-reaper-mania-tutorial-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -137,7 +138,7 @@
       ];
     };
     leafac-explode-multistream-multitrack-media-file-to-new-one-stream-one-track-media-files-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-explode-multistream-multitrack-media-file-to-new-one-stream-one-track-media-files-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -181,7 +182,7 @@
       ];
     };
     leafac-explode-multistream-multitrack-media-file-to-new-one-stream-one-track-media-files-lua-0-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-explode-multistream-multitrack-media-file-to-new-one-stream-one-track-media-files-lua-0-0-2";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -225,7 +226,7 @@
       ];
     };
     leafac-explode-multistream-multitrack-media-file-to-new-one-stream-one-track-media-files-lua-0-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-explode-multistream-multitrack-media-file-to-new-one-stream-one-track-media-files-lua-0-0-1";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -239,7 +240,7 @@
       ];
     };
     leafac-import-take-markers-from-obs-controller-infowriter-csv-file-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-import-take-markers-from-obs-controller-infowriter-csv-file-lua-1-0-1";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -258,7 +259,7 @@
       ];
     };
     leafac-import-take-markers-from-obs-controller-infowriter-csv-file-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-import-take-markers-from-obs-controller-infowriter-csv-file-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -277,7 +278,7 @@
       ];
     };
     leafac-obs-multicam-html-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-multicam-html-1-1-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -296,7 +297,7 @@
       ];
     };
     leafac-obs-multicam-html-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-multicam-html-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -315,7 +316,7 @@
       ];
     };
     leafac-obs-lua-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-lua-3-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -364,7 +365,7 @@
       ];
     };
     leafac-obs-lua-2-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-lua-2-6-3";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -403,7 +404,7 @@
       ];
     };
     leafac-obs-lua-2-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-lua-2-6-2";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -442,7 +443,7 @@
       ];
     };
     leafac-obs-lua-2-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-lua-2-6-1";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -481,7 +482,7 @@
       ];
     };
     leafac-obs-lua-2-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-lua-2-6-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -520,7 +521,7 @@
       ];
     };
     leafac-obs-lua-2-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-lua-2-5-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -559,7 +560,7 @@
       ];
     };
     leafac-obs-lua-2-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-lua-2-4-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -598,7 +599,7 @@
       ];
     };
     leafac-obs-lua-2-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-lua-2-3-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -637,7 +638,7 @@
       ];
     };
     leafac-obs-lua-2-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-lua-2-2-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -676,7 +677,7 @@
       ];
     };
     leafac-obs-lua-2-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-lua-2-1-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -715,7 +716,7 @@
       ];
     };
     leafac-obs-lua-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-lua-2-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -754,7 +755,7 @@
       ];
     };
     leafac-obs-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-lua-1-1-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -778,7 +779,7 @@
       ];
     };
     leafac-obs-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-obs-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -802,7 +803,7 @@
       ];
     };
     leafac-ripple-delete-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-ripple-delete-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -816,7 +817,7 @@
       ];
     };
     leafac-prepare-project-for-editing-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-prepare-project-for-editing-lua-1-1-1";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -835,7 +836,7 @@
       ];
     };
     leafac-prepare-project-for-editing-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-prepare-project-for-editing-lua-1-1-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -854,7 +855,7 @@
       ];
     };
     leafac-prepare-project-for-editing-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-prepare-project-for-editing-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -873,7 +874,7 @@
       ];
     };
     leafac-set-grid-lines-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-set-grid-lines-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -892,7 +893,7 @@
       ];
     };
     leafac-set-preserve-pitch-in-audio-items-when-changing-master-playrate-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-set-preserve-pitch-in-audio-items-when-changing-master-playrate-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -911,7 +912,7 @@
       ];
     };
     leafac-play-or-stop-move-edit-cursor-to-play-cursor-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-play-or-stop-move-edit-cursor-to-play-cursor-lua-1-1-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -925,7 +926,7 @@
       ];
     };
     leafac-play-or-stop-move-edit-cursor-to-play-cursor-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-play-or-stop-move-edit-cursor-to-play-cursor-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -939,7 +940,7 @@
       ];
     };
     leafac-play-from-start-of-time-selection-or-edit-cursor-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-play-from-start-of-time-selection-or-edit-cursor-lua-1-1-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -953,7 +954,7 @@
       ];
     };
     leafac-play-from-start-of-time-selection-or-edit-cursor-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-play-from-start-of-time-selection-or-edit-cursor-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -967,7 +968,7 @@
       ];
     };
     leafac-group-and-ungroup-tracks-in-folders-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-group-and-ungroup-tracks-in-folders-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -986,7 +987,7 @@
       ];
     };
     leafac-truncate-silence-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-truncate-silence-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -1035,7 +1036,7 @@
       ];
     };
     leafac-multicam-lua-4-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-multicam-lua-4-3-1";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -1349,7 +1350,7 @@
       ];
     };
     leafac-multicam-lua-4-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-multicam-lua-4-3-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -1663,7 +1664,7 @@
       ];
     };
     leafac-multicam-lua-4-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-multicam-lua-4-2-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -1977,7 +1978,7 @@
       ];
     };
     leafac-multicam-lua-4-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-multicam-lua-4-1-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -2286,7 +2287,7 @@
       ];
     };
     leafac-multicam-lua-4-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-multicam-lua-4-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -2495,7 +2496,7 @@
       ];
     };
     leafac-multicam-lua-3-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-multicam-lua-3-1-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -2704,7 +2705,7 @@
       ];
     };
     leafac-multicam-lua-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-multicam-lua-3-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -2913,7 +2914,7 @@
       ];
     };
     leafac-multicam-lua-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-multicam-lua-2-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3122,7 +3123,7 @@
       ];
     };
     leafac-multicam-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-multicam-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3331,7 +3332,7 @@
       ];
     };
     leafac-toggle-master-playrate-fast-forward-slow-motion-lua-4-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-toggle-master-playrate-fast-forward-slow-motion-lua-4-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3375,7 +3376,7 @@
       ];
     };
     leafac-toggle-master-playrate-fast-forward-slow-motion-lua-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-toggle-master-playrate-fast-forward-slow-motion-lua-3-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3419,7 +3420,7 @@
       ];
     };
     leafac-toggle-master-playrate-fast-forward-slow-motion-lua-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-toggle-master-playrate-fast-forward-slow-motion-lua-2-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3463,7 +3464,7 @@
       ];
     };
     leafac-toggle-master-playrate-fast-forward-slow-motion-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-toggle-master-playrate-fast-forward-slow-motion-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3507,7 +3508,7 @@
       ];
     };
     leafac-render-project-to-disk-warn-if-playrate-is-not-100-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-render-project-to-disk-warn-if-playrate-is-not-100-lua-1-1-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3521,7 +3522,7 @@
       ];
     };
     leafac-render-project-to-disk-warn-if-playrate-is-not-100-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-render-project-to-disk-warn-if-playrate-is-not-100-lua-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3535,7 +3536,7 @@
       ];
     };
     leafac-automixer-jsfx-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-automixer-jsfx-2-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3554,7 +3555,7 @@
       ];
     };
     leafac-automixer-jsfx-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-automixer-jsfx-1-4-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3573,7 +3574,7 @@
       ];
     };
     leafac-automixer-jsfx-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-automixer-jsfx-1-3-2";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3592,7 +3593,7 @@
       ];
     };
     leafac-automixer-jsfx-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-automixer-jsfx-1-3-1";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3611,7 +3612,7 @@
       ];
     };
     leafac-automixer-jsfx-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-automixer-jsfx-1-3-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3630,7 +3631,7 @@
       ];
     };
     leafac-automixer-jsfx-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-automixer-jsfx-1-2-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3649,7 +3650,7 @@
       ];
     };
     leafac-automixer-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-automixer-jsfx-1-1-1";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3663,7 +3664,7 @@
       ];
     };
     leafac-automixer-jsfx-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-automixer-jsfx-1-1-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3677,7 +3678,7 @@
       ];
     };
     leafac-automixer-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-automixer-jsfx-1-0-1";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3691,7 +3692,7 @@
       ];
     };
     leafac-automixer-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-automixer-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Utility";
@@ -3705,7 +3706,7 @@
       ];
     };
     leafac-oscillator-tone-generator-lfo-jsfx-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-oscillator-tone-generator-lfo-jsfx-2-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3719,7 +3720,7 @@
       ];
     };
     leafac-oscillator-tone-generator-lfo-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-oscillator-tone-generator-lfo-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3733,7 +3734,7 @@
       ];
     };
     leafac-rms-jsfx-4-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-rms-jsfx-4-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3747,7 +3748,7 @@
       ];
     };
     leafac-rms-jsfx-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-rms-jsfx-3-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3761,7 +3762,7 @@
       ];
     };
     leafac-rms-jsfx-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-rms-jsfx-2-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3775,7 +3776,7 @@
       ];
     };
     leafac-rms-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-rms-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3789,7 +3790,7 @@
       ];
     };
     leafac-mute-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-mute-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3803,7 +3804,7 @@
       ];
     };
     leafac-enveloper-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-enveloper-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3817,7 +3818,7 @@
       ];
     };
     leafac-invert-phase-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-invert-phase-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3831,7 +3832,7 @@
       ];
     };
     leafac-limiter-hard-clipper-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-limiter-hard-clipper-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3845,7 +3846,7 @@
       ];
     };
     leafac-mid-side-decoder-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-mid-side-decoder-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3859,7 +3860,7 @@
       ];
     };
     leafac-mid-side-encoder-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-mid-side-encoder-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3873,7 +3874,7 @@
       ];
     };
     leafac-rectifier-full-wave-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-rectifier-full-wave-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3887,7 +3888,7 @@
       ];
     };
     leafac-rectifier-half-wave-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-rectifier-half-wave-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3901,7 +3902,7 @@
       ];
     };
     leafac-broken-white-noise-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-broken-white-noise-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3915,7 +3916,7 @@
       ];
     };
     leafac-copy-channel-to-all-channels-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-copy-channel-to-all-channels-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3929,7 +3930,7 @@
       ];
     };
     leafac-copy-left-to-right-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-copy-left-to-right-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3943,7 +3944,7 @@
       ];
     };
     leafac-copy-right-to-left-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-copy-right-to-left-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3957,7 +3958,7 @@
       ];
     };
     leafac-dc-offset-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-dc-offset-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3971,7 +3972,7 @@
       ];
     };
     leafac-invert-left-and-right-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-invert-left-and-right-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3985,7 +3986,7 @@
       ];
     };
     leafac-mixdown-to-mono-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-mixdown-to-mono-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -3999,7 +4000,7 @@
       ];
     };
     leafac-null-tester-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-null-tester-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -4013,7 +4014,7 @@
       ];
     };
     leafac-stereo-mixer-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-stereo-mixer-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -4027,7 +4028,7 @@
       ];
     };
     leafac-burn-in-speakers-jsfx-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-burn-in-speakers-jsfx-2-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -4041,7 +4042,7 @@
       ];
     };
     leafac-burn-in-speakers-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-burn-in-speakers-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -4055,7 +4056,7 @@
       ];
     };
     leafac-white-noise-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-white-noise-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -4069,7 +4070,7 @@
       ];
     };
     leafac-gain-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-gain-jsfx-1-0-1";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -4083,7 +4084,7 @@
       ];
     };
     leafac-gain-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-gain-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -4097,7 +4098,7 @@
       ];
     };
     leafac-oscilloscope-jsfx-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-oscilloscope-jsfx-2-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -4111,7 +4112,7 @@
       ];
     };
     leafac-oscilloscope-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-oscilloscope-jsfx-1-0-1";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -4125,7 +4126,7 @@
       ];
     };
     leafac-oscilloscope-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-oscilloscope-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -4139,7 +4140,7 @@
       ];
     };
     leafac-bit-crusher-jsfx-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-bit-crusher-jsfx-3-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -4153,7 +4154,7 @@
       ];
     };
     leafac-bit-crusher-jsfx-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-bit-crusher-jsfx-2-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";
@@ -4167,7 +4168,7 @@
       ];
     };
     leafac-bit-crusher-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "leafac-bit-crusher-jsfx-1-0-0";
       indexName = "Leandro Facchinetti";
       categoryName = "Programming Audio Effects";

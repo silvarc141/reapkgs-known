@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   reateam-jsfx = {
     loudener-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loudener-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Distortion";
@@ -39,7 +40,7 @@
       ];
     };
     loudener-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loudener-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Distortion";
@@ -73,7 +74,7 @@
       ];
     };
     loudener-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loudener-jsfx-1-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Distortion";
@@ -107,7 +108,7 @@
       ];
     };
     rcinflator2-ideal-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcinflator2-ideal-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Distortion";
@@ -121,7 +122,7 @@
       ];
     };
     rcinflator2-oxford-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcinflator2-oxford-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Distortion";
@@ -135,7 +136,7 @@
       ];
     };
     rcjach-rcinflator-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rcjach-rcinflator-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Distortion";
@@ -149,7 +150,7 @@
       ];
     };
     tiar-ze-morpho-dist-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-ze-morpho-dist-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Distortion";
@@ -168,7 +169,7 @@
       ];
     };
     ersh-transient-controller-2-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ersh-transient-controller-2-jsfx-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Dynamic";
@@ -182,7 +183,7 @@
       ];
     };
     ersh-transient-controller-2-jsfx-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ersh-transient-controller-2-jsfx-2-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Dynamic";
@@ -196,7 +197,7 @@
       ];
     };
     mrelwood-bandbass-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrelwood-bandbass-jsfx-0-02";
       indexName = "ReaTeam JSFX";
       categoryName = "Dynamic";
@@ -210,7 +211,7 @@
       ];
     };
     sinefabula-hard-clipper-jsfx-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sinefabula-hard-clipper-jsfx-0-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Dynamic";
@@ -224,7 +225,7 @@
       ];
     };
     bellesondes-eq1979-jsfx-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bellesondes-eq1979-jsfx-0-9";
       indexName = "ReaTeam JSFX";
       categoryName = "Filter";
@@ -238,7 +239,7 @@
       ];
     };
     bellesondes-eq1979-jsfx-0-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bellesondes-eq1979-jsfx-0-92";
       indexName = "ReaTeam JSFX";
       categoryName = "Filter";
@@ -252,7 +253,7 @@
       ];
     };
     bellesondes-eq1979-jsfx-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bellesondes-eq1979-jsfx-0-95";
       indexName = "ReaTeam JSFX";
       categoryName = "Filter";
@@ -266,7 +267,7 @@
       ];
     };
     tiar-lattice-filter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-lattice-filter-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Filter";
@@ -285,7 +286,7 @@
       ];
     };
     tilr-quickfilter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-quickfilter-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Filter";
@@ -304,7 +305,7 @@
       ];
     };
     tilr-skfilter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-skfilter-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Filter";
@@ -333,7 +334,7 @@
       ];
     };
     bertbouwhuis-midi-controller-for-s8-looper-with-fade-in-and-out-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bertbouwhuis-midi-controller-for-s8-looper-with-fade-in-and-out-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -347,7 +348,7 @@
       ];
     };
     bor-t-midi-xy-pad-controller-jsfx-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bor-t-midi-xy-pad-controller-jsfx-0-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -361,7 +362,7 @@
       ];
     };
     boreg-midi-routing-matrix-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "boreg-midi-routing-matrix-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -375,7 +376,7 @@
       ];
     };
     cfillion-midi-note-length-control-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-midi-note-length-control-jsfx-1-0-2";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -389,7 +390,7 @@
       ];
     };
     cfillion-midi-note-length-control-jsfx-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-midi-note-length-control-jsfx-1-0-3";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -403,7 +404,7 @@
       ];
     };
     cfillion-midi-note-length-control-jsfx-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-midi-note-length-control-jsfx-1-0-4";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -417,7 +418,7 @@
       ];
     };
     cfillion-midi-taps-repeater-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-midi-taps-repeater-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -431,7 +432,7 @@
       ];
     };
     cfillion-note-duplicator-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-note-duplicator-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -445,7 +446,7 @@
       ];
     };
     cfillion-sustain-pedal-to-note-length-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-sustain-pedal-to-note-length-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -459,7 +460,7 @@
       ];
     };
     cfillion-sustain-pedal-to-note-length-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-sustain-pedal-to-note-length-jsfx-1-0-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -473,7 +474,7 @@
       ];
     };
     ee33-triggered-random-modal-riffer-jsfx-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ee33-triggered-random-modal-riffer-jsfx-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -487,7 +488,7 @@
       ];
     };
     eralumin-midi-channel-toggle-jsfx-0-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "eralumin-midi-channel-toggle-jsfx-0-0-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -501,7 +502,7 @@
       ];
     };
     erantalmor-midi-rhythm-trainer-jsfx-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "erantalmor-midi-rhythm-trainer-jsfx-1-01";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -515,7 +516,7 @@
       ];
     };
     erantalmor-midi-rhythm-trainer-jsfx-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "erantalmor-midi-rhythm-trainer-jsfx-1-02";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -529,7 +530,7 @@
       ];
     };
     erantalmor-midi-rhythm-trainer-jsfx-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "erantalmor-midi-rhythm-trainer-jsfx-1-03";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -543,7 +544,7 @@
       ];
     };
     erantalmor-midi-rhythm-trainer-jsfx-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "erantalmor-midi-rhythm-trainer-jsfx-1-10";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -557,7 +558,7 @@
       ];
     };
     erantalmor-midi-rhythm-trainer-jsfx-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "erantalmor-midi-rhythm-trainer-jsfx-1-11";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -571,7 +572,7 @@
       ];
     };
     erantalmor-midi-rhythm-trainer-jsfx-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "erantalmor-midi-rhythm-trainer-jsfx-1-12";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -585,7 +586,7 @@
       ];
     };
     erantalmor-midi-rhythm-trainer-jsfx-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "erantalmor-midi-rhythm-trainer-jsfx-1-13";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -599,7 +600,7 @@
       ];
     };
     erantalmor-midi-rhythm-trainer-jsfx-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "erantalmor-midi-rhythm-trainer-jsfx-1-14";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -613,7 +614,7 @@
       ];
     };
     erantalmor-midi-rhythm-trainer-jsfx-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "erantalmor-midi-rhythm-trainer-jsfx-1-15";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -627,7 +628,7 @@
       ];
     };
     erantalmor-midi-rhythm-trainer-jsfx-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "erantalmor-midi-rhythm-trainer-jsfx-1-21";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -641,7 +642,7 @@
       ];
     };
     erantalmor-midi-rhythm-trainer-jsfx-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "erantalmor-midi-rhythm-trainer-jsfx-1-22";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -655,7 +656,7 @@
       ];
     };
     juan-r-keyboard-mirrorinvert-juan-r-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-keyboard-mirrorinvert-juan-r-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -669,7 +670,7 @@
       ];
     };
     juan-r-midi-floating-split-jsfx-0-02a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-midi-floating-split-jsfx-0-02a";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -683,7 +684,7 @@
       ];
     };
     juan-r-midi-fret-and-pick-jsfx-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-midi-fret-and-pick-jsfx-1-02";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -697,7 +698,7 @@
       ];
     };
     juan-r-midi-fret-and-pick-jsfx-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-midi-fret-and-pick-jsfx-1-03";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -711,7 +712,7 @@
       ];
     };
     mathphreak-learningbaby-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mathphreak-learningbaby-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -725,7 +726,7 @@
       ];
     };
     mathphreak-learningbaby-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mathphreak-learningbaby-jsfx-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -739,7 +740,7 @@
       ];
     };
     mb-midi-event-filter-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mb-midi-event-filter-jsfx-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -753,7 +754,7 @@
       ];
     };
     mb-reautomate-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mb-reautomate-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -767,7 +768,7 @@
       ];
     };
     mbncp-legato-control-jsfx-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mbncp-legato-control-jsfx-0-3";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -781,7 +782,7 @@
       ];
     };
     mbncp-pitchwheel-jsfx-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mbncp-pitchwheel-jsfx-0-2";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -795,7 +796,7 @@
       ];
     };
     mschnell-midi-cc-fluctuation-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-cc-fluctuation-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -809,7 +810,7 @@
       ];
     };
     mschnell-midi-cc-fluctuation-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-cc-fluctuation-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -828,7 +829,7 @@
       ];
     };
     mschnell-midi-cc-fluctuation-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-cc-fluctuation-jsfx-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -847,7 +848,7 @@
       ];
     };
     mschnell-midi-cc-fluctuation-jsfx-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-cc-fluctuation-jsfx-3-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -866,7 +867,7 @@
       ];
     };
     mschnell-midi-glissando-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-glissando-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -880,7 +881,7 @@
       ];
     };
     mschnell-midi-mpe-to-single-channel-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-mpe-to-single-channel-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -894,7 +895,7 @@
       ];
     };
     mschnell-midi-mpe-to-single-channel-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-mpe-to-single-channel-jsfx-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -908,7 +909,7 @@
       ];
     };
     mschnell-midi-mpe-to-single-channel-jsfx-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-mpe-to-single-channel-jsfx-2-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -922,7 +923,7 @@
       ];
     };
     mschnell-midi-mpe-to-single-channel-jsfx-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-mpe-to-single-channel-jsfx-2-2";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -936,7 +937,7 @@
       ];
     };
     mschnell-midi-mpe-to-single-channel-jsfx-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-mpe-to-single-channel-jsfx-2-3";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -950,7 +951,7 @@
       ];
     };
     mschnell-midi-pb-x-x-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-pb-x-x-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -964,7 +965,7 @@
       ];
     };
     mschnell-midi-pb-x-x-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-pb-x-x-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -978,7 +979,7 @@
       ];
     };
     mschnell-midi-route-via-gmem-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-route-via-gmem-jsfx-1-3";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -992,7 +993,7 @@
       ];
     };
     mschnell-midi-route-via-gmem-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-route-via-gmem-jsfx-1-4";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1006,7 +1007,7 @@
       ];
     };
     mschnell-midi-slider-and-midi-cc-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-slider-and-midi-cc-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1020,7 +1021,7 @@
       ];
     };
     mschnell-midi-slider-and-midi-cc-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-slider-and-midi-cc-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1034,7 +1035,7 @@
       ];
     };
     mschnell-midi-slider-and-midi-cc-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-slider-and-midi-cc-jsfx-1-2";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1048,7 +1049,7 @@
       ];
     };
     mschnell-midi-slider-and-midi-cc-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-slider-and-midi-cc-jsfx-1-3";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1062,7 +1063,7 @@
       ];
     };
     mschnell-midi-slider-and-midi-cc-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-slider-and-midi-cc-jsfx-1-4";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1076,7 +1077,7 @@
       ];
     };
     mschnell-midi-slider-and-midi-cc-jsfx-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-slider-and-midi-cc-jsfx-1-5";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1090,7 +1091,7 @@
       ];
     };
     mschnell-note-on-under-x-velocity-to-note-off-and-send-all-notes-off-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-note-on-under-x-velocity-to-note-off-and-send-all-notes-off-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1104,7 +1105,7 @@
       ];
     };
     mschnell-note-on-under-x-velocity-to-note-off-and-send-all-notes-off-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-note-on-under-x-velocity-to-note-off-and-send-all-notes-off-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1118,7 +1119,7 @@
       ];
     };
     mschnell-send-all-notes-off-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-send-all-notes-off-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1132,7 +1133,7 @@
       ];
     };
     mschnell-slider-to-midi-nrpm-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-slider-to-midi-nrpm-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1146,7 +1147,7 @@
       ];
     };
     mschnell-xy-pad-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-xy-pad-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1160,7 +1161,7 @@
       ];
     };
     mschnell-xy-pad-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-xy-pad-jsfx-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1174,7 +1175,7 @@
       ];
     };
     polgo-midi-envelocity-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "polgo-midi-envelocity-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1188,7 +1189,7 @@
       ];
     };
     polgo-midi-envelocity-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "polgo-midi-envelocity-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1202,7 +1203,7 @@
       ];
     };
     polgo-midi-envelocity-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "polgo-midi-envelocity-jsfx-1-2";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1216,7 +1217,7 @@
       ];
     };
     polgo-midi-varocity-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "polgo-midi-varocity-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1230,7 +1231,7 @@
       ];
     };
     polgo-midi-varocity-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "polgo-midi-varocity-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1244,7 +1245,7 @@
       ];
     };
     rekseffeks-midi-cc-to-pitchbend-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rekseffeks-midi-cc-to-pitchbend-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1258,7 +1259,7 @@
       ];
     };
     talagan-midi-cc-bistate-button-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-bistate-button-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1272,7 +1273,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-3-1c = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-3-1c";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1286,7 +1287,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-3-2";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1300,7 +1301,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-3-3";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1314,7 +1315,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-3-5";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -1693,7 +1694,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-3-6";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -2072,7 +2073,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-4-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -2451,7 +2452,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-4-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -2830,7 +2831,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-4-2";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -3209,7 +3210,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-4-3";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -3588,7 +3589,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-4-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-4-3-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -3967,7 +3968,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-5-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -4346,7 +4347,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-5-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -4725,7 +4726,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-5-2";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -5104,7 +5105,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-5-3";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -5483,7 +5484,7 @@
       ];
     };
     talagan-midi-cc-mapper-x-jsfx-5-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-cc-mapper-x-jsfx-5-3-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -5862,7 +5863,7 @@
       ];
     };
     talagan-midi-channel-matrix-router-jsfx-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-channel-matrix-router-jsfx-0-9";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -5876,7 +5877,7 @@
       ];
     };
     talagan-midi-channel-matrix-router-jsfx-0-9-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-channel-matrix-router-jsfx-0-9-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -5890,7 +5891,7 @@
       ];
     };
     talagan-midi-channel-matrix-router-jsfx-0-9-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-channel-matrix-router-jsfx-0-9-2";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -5904,7 +5905,7 @@
       ];
     };
     talagan-midi-poly-aftertouch-cc-multiplexer-jsfx-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-poly-aftertouch-cc-multiplexer-jsfx-0-9";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -5918,7 +5919,7 @@
       ];
     };
     talagan-midi-split-pitch-bend-to-ccs-jsfx-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "talagan-midi-split-pitch-bend-to-ccs-jsfx-0-5";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -5932,7 +5933,7 @@
       ];
     };
     tilr-notes-to-cc-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-notes-to-cc-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -5946,7 +5947,7 @@
       ];
     };
     tilr-notes-to-cc-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-notes-to-cc-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -5960,7 +5961,7 @@
       ];
     };
     tja-midi-note-banked-cc-multiplier-jsfx-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-note-banked-cc-multiplier-jsfx-0-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -5974,7 +5975,7 @@
       ];
     };
     tja-midi-note-banked-cc-multiplier-jsfx-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-note-banked-cc-multiplier-jsfx-0-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -5988,7 +5989,7 @@
       ];
     };
     tja-midi-note-banked-cc-multiplier-jsfx-0-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-note-banked-cc-multiplier-jsfx-0-1-2";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6002,7 +6003,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-5";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6016,7 +6017,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-5-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6030,7 +6031,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-5-2";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6044,7 +6045,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-5-3";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6058,7 +6059,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-5-4";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6072,7 +6073,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-5-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-5-5";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6086,7 +6087,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-5-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-5-6";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6100,7 +6101,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-5-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-5-7";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6114,7 +6115,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-5-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-5-8";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6128,7 +6129,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-5-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-5-9";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6142,7 +6143,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-5-9-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-5-9-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6156,7 +6157,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-6";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6170,7 +6171,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-6-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6184,7 +6185,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-6-2";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6198,7 +6199,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-6-3";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6212,7 +6213,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-6-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-6-4";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6226,7 +6227,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-6-5";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6240,7 +6241,7 @@
       ];
     };
     tja-midi-performer2-jsfx-0-6-6beta1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tja-midi-performer2-jsfx-0-6-6beta1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6254,7 +6255,7 @@
       ];
     };
     urtzurd-midi-glissando-jsfx-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "urtzurd-midi-glissando-jsfx-0-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6268,7 +6269,7 @@
       ];
     };
     willdevelop-every-note-the-same-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "willdevelop-every-note-the-same-jsfx-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6282,7 +6283,7 @@
       ];
     };
     willdevelop-midi-every-note-the-same-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "willdevelop-midi-every-note-the-same-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6296,7 +6297,7 @@
       ];
     };
     willdevelop-midi-every-note-the-same-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "willdevelop-midi-every-note-the-same-jsfx-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6310,7 +6311,7 @@
       ];
     };
     willdevelop-midi-note-repeater-default-key-map-b1-a4-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "willdevelop-midi-note-repeater-default-key-map-b1-a4-jsfx-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6324,7 +6325,7 @@
       ];
     };
     willdevelop-midi-note-repeater-default-key-map-b1-a4-jsfx-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "willdevelop-midi-note-repeater-default-key-map-b1-a4-jsfx-2-0-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6338,7 +6339,7 @@
       ];
     };
     willdevelop-midi-velocity-filter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "willdevelop-midi-velocity-filter-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6352,7 +6353,7 @@
       ];
     };
     xq-drum-converter-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "xq-drum-converter-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6366,7 +6367,7 @@
       ];
     };
     xq-drum-deviator-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "xq-drum-deviator-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6380,7 +6381,7 @@
       ];
     };
     xq-drum-deviator-jsfx-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "xq-drum-deviator-jsfx-3-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6394,7 +6395,7 @@
       ];
     };
     xq-drum-deviator-jsfx-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "xq-drum-deviator-jsfx-4-0";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6408,7 +6409,7 @@
       ];
     };
     xq-drum-equalizer-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "xq-drum-equalizer-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "MIDI";
@@ -6422,7 +6423,7 @@
       ];
     };
     brumbear-livebeatrepeater-jsfx-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "brumbear-livebeatrepeater-jsfx-1-02";
       indexName = "ReaTeam JSFX";
       categoryName = "Misc";
@@ -6436,7 +6437,7 @@
       ];
     };
     brumbear-livebeatrepeater-jsfx-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "brumbear-livebeatrepeater-jsfx-1-03";
       indexName = "ReaTeam JSFX";
       categoryName = "Misc";
@@ -6450,7 +6451,7 @@
       ];
     };
     brumbear-livebeatrepeater-jsfx-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "brumbear-livebeatrepeater-jsfx-1-04";
       indexName = "ReaTeam JSFX";
       categoryName = "Misc";
@@ -6464,7 +6465,7 @@
       ];
     };
     brumbear-livebeatrepeater-jsfx-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "brumbear-livebeatrepeater-jsfx-1-10";
       indexName = "ReaTeam JSFX";
       categoryName = "Misc";
@@ -6478,7 +6479,7 @@
       ];
     };
     brumbear-livebeatrepeater-jsfx-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "brumbear-livebeatrepeater-jsfx-1-12";
       indexName = "ReaTeam JSFX";
       categoryName = "Misc";
@@ -6492,7 +6493,7 @@
       ];
     };
     brumbear-livebeatrepeater-jsfx-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "brumbear-livebeatrepeater-jsfx-1-20";
       indexName = "ReaTeam JSFX";
       categoryName = "Misc";
@@ -6506,7 +6507,7 @@
       ];
     };
     brumbear-livebeatrepeater-jsfx-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "brumbear-livebeatrepeater-jsfx-1-30";
       indexName = "ReaTeam JSFX";
       categoryName = "Misc";
@@ -6520,7 +6521,7 @@
       ];
     };
     brumbear-livebeatrepeater-jsfx-1-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "brumbear-livebeatrepeater-jsfx-1-50";
       indexName = "ReaTeam JSFX";
       categoryName = "Misc";
@@ -6534,7 +6535,7 @@
       ];
     };
     brumbear-livescrubberducky-jsfx-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "brumbear-livescrubberducky-jsfx-0-7";
       indexName = "ReaTeam JSFX";
       categoryName = "Misc";
@@ -6548,7 +6549,7 @@
       ];
     };
     tiar-pm-resynth-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-pm-resynth-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Misc";
@@ -6562,7 +6563,7 @@
       ];
     };
     mschnell-delay-modulator-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-delay-modulator-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Modulation";
@@ -6576,7 +6577,7 @@
       ];
     };
     mschnell-delay-modulator-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-delay-modulator-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Modulation";
@@ -6590,7 +6591,7 @@
       ];
     };
     snjuk2-lfo-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "snjuk2-lfo-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Modulation";
@@ -6609,7 +6610,7 @@
       ];
     };
     tiar-chopchop-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-chopchop-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Modulation";
@@ -6623,7 +6624,7 @@
       ];
     };
     tiar-ze-big-chorus-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-ze-big-chorus-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Modulation";
@@ -6652,7 +6653,7 @@
       ];
     };
     tiar-ze-little-scanner-chorus-jsfx-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-ze-little-scanner-chorus-jsfx-1-06";
       indexName = "ReaTeam JSFX";
       categoryName = "Modulation";
@@ -6666,7 +6667,7 @@
       ];
     };
     tiar-hadamverb-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-hadamverb-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Reverb";
@@ -6690,7 +6691,7 @@
       ];
     };
     mdf-51-to-dms-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mdf-51-to-dms-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Routing";
@@ -6704,7 +6705,7 @@
       ];
     };
     mdf-dms-to-51-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mdf-dms-to-51-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Routing";
@@ -6718,7 +6719,7 @@
       ];
     };
     mdf-dms-to-foa-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mdf-dms-to-foa-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Routing";
@@ -6732,7 +6733,7 @@
       ];
     };
     mdf-dms-to-quad-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mdf-dms-to-quad-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Routing";
@@ -6746,7 +6747,7 @@
       ];
     };
     mdf-dms-to-stereo-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mdf-dms-to-stereo-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Routing";
@@ -6760,7 +6761,7 @@
       ];
     };
     mdf-foa-to-dms-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mdf-foa-to-dms-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Routing";
@@ -6774,7 +6775,7 @@
       ];
     };
     mdf-quad-to-dms-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mdf-quad-to-dms-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Routing";
@@ -6788,7 +6789,7 @@
       ];
     };
     mrelwood-routter-jsfx-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrelwood-routter-jsfx-1-19";
       indexName = "ReaTeam JSFX";
       categoryName = "Routing";
@@ -6802,7 +6803,7 @@
       ];
     };
     mschnell-midi-route-note-on-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-route-note-on-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Routing";
@@ -6816,7 +6817,7 @@
       ];
     };
     tiar-2op-pm-synth-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-2op-pm-synth-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -6875,7 +6876,7 @@
       ];
     };
     tiar-chua-oscillator-jsfx-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-chua-oscillator-jsfx-0-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -6889,7 +6890,7 @@
       ];
     };
     tiar-complex-x-filter-synth-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-complex-x-filter-synth-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -6938,7 +6939,7 @@
       ];
     };
     tiar-shepard-paradoxical-synth-jsfx-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-shepard-paradoxical-synth-jsfx-1-02";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -6982,7 +6983,7 @@
       ];
     };
     tiar-ze-cheesy-harmonic-synth-jsfx-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-ze-cheesy-harmonic-synth-jsfx-0-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -6996,7 +6997,7 @@
       ];
     };
     tiar-ze-cheesy-harmonic-synth-jsfx-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-ze-cheesy-harmonic-synth-jsfx-0-3";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -7010,7 +7011,7 @@
       ];
     };
     tiar-ze-digitharmorgan-jsfx-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-ze-digitharmorgan-jsfx-0-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -7024,7 +7025,7 @@
       ];
     };
     tiar-ze-musette-organ-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-ze-musette-organ-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -7038,7 +7039,7 @@
       ];
     };
     tiar-ze-musette-organ-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-ze-musette-organ-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -7052,7 +7053,7 @@
       ];
     };
     tiar-ze-musette-organ-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tiar-ze-musette-organ-jsfx-1-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -7066,7 +7067,7 @@
       ];
     };
     tilr-js3osc-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-js3osc-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -7105,7 +7106,7 @@
       ];
     };
     tilr-js3osc-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-js3osc-jsfx-1-0-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -7144,7 +7145,7 @@
       ];
     };
     tilr-js3osc-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-js3osc-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -7183,7 +7184,7 @@
       ];
     };
     tilr-jsadditiv-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-jsadditiv-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -7357,7 +7358,7 @@
       ];
     };
     tilr-jsadditiv-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-jsadditiv-jsfx-1-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -7531,7 +7532,7 @@
       ];
     };
     tilr-jsadditiv-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-jsadditiv-jsfx-1-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -7705,7 +7706,7 @@
       ];
     };
     tilr-jsadditiv-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-jsadditiv-jsfx-1-3";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -7879,7 +7880,7 @@
       ];
     };
     tilr-jsdrumpad-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-jsdrumpad-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -7918,7 +7919,7 @@
       ];
     };
     tilr-jsdrumpad-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-jsdrumpad-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -7957,7 +7958,7 @@
       ];
     };
     tilr-jsdrumsynth-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-jsdrumsynth-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -8001,7 +8002,7 @@
       ];
     };
     tilr-jsmodulator-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-jsmodulator-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -8180,7 +8181,7 @@
       ];
     };
     tilr-jsmodulator-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-jsmodulator-jsfx-1-0-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -8359,7 +8360,7 @@
       ];
     };
     tilr-jsmodulator-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-jsmodulator-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -8538,7 +8539,7 @@
       ];
     };
     tilr-jswavesynth-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-jswavesynth-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -8707,7 +8708,7 @@
       ];
     };
     tilr-jswavesynth-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-jswavesynth-jsfx-1-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -8876,7 +8877,7 @@
       ];
     };
     tilr-jswavesynth-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tilr-jswavesynth-jsfx-1-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -9045,7 +9046,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -9099,7 +9100,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-1-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -9163,7 +9164,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-1-4";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -9257,7 +9258,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-1-4-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -9361,7 +9362,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-1-4-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -9465,7 +9466,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-1-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-1-4-3";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -9569,7 +9570,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-1-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-1-4-4";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -9673,7 +9674,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-2-0-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -9767,7 +9768,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-2-0-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -9866,7 +9867,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-2-0-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -9965,7 +9966,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-2-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-2-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -10074,7 +10075,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-2-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-2-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -10183,7 +10184,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-2-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-2-2-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -10292,7 +10293,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-2-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-2-3-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -10401,7 +10402,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-2-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-2-3-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -10510,7 +10511,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-2-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-2-3-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -10619,7 +10620,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-2-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-2-3-3";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -10728,7 +10729,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-2-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-2-3-4";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -10837,7 +10838,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-2-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-2-3-5";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -10946,7 +10947,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-2-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-2-3-6";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -11055,7 +11056,7 @@
       ];
     };
     timewaster-rearack-modular-synth-jsfx-2-3-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-rearack-modular-synth-jsfx-2-3-7";
       indexName = "ReaTeam JSFX";
       categoryName = "Synth";
@@ -11164,7 +11165,7 @@
       ];
     };
     az-automute-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "az-automute-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11178,7 +11179,7 @@
       ];
     };
     belovw-goniometer-jsfx-0-16alpha = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "belovw-goniometer-jsfx-0-16alpha";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11192,7 +11193,7 @@
       ];
     };
     belovw-goniometer-jsfx-0-17alpha = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "belovw-goniometer-jsfx-0-17alpha";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11206,7 +11207,7 @@
       ];
     };
     belovw-goniometer-jsfx-0-18alpha = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "belovw-goniometer-jsfx-0-18alpha";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11220,7 +11221,7 @@
       ];
     };
     belovw-goniometer-jsfx-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "belovw-goniometer-jsfx-1-00";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11234,7 +11235,7 @@
       ];
     };
     coreyscogin-automixer-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "coreyscogin-automixer-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11248,7 +11249,7 @@
       ];
     };
     coreyscogin-automixer-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "coreyscogin-automixer-jsfx-1-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11262,7 +11263,7 @@
       ];
     };
     coreyscogin-automixer-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "coreyscogin-automixer-jsfx-1-3";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11276,7 +11277,7 @@
       ];
     };
     coreyscogin-automixer-jsfx-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "coreyscogin-automixer-jsfx-1-3-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11290,7 +11291,7 @@
       ];
     };
     coreyscogin-timedelaybydistance-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "coreyscogin-timedelaybydistance-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11304,7 +11305,7 @@
       ];
     };
     dylanmadigan-automatic-gain-stager-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dylanmadigan-automatic-gain-stager-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11318,7 +11319,7 @@
       ];
     };
     jcgurango-midi-arranged-looper-jsfx-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jcgurango-midi-arranged-looper-jsfx-0-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11332,7 +11333,7 @@
       ];
     };
     jcgurango-pre-arranged-looper-jsfx-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jcgurango-pre-arranged-looper-jsfx-0-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11346,7 +11347,7 @@
       ];
     };
     jsh-inline-input-viewer-mcp-embedded-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsh-inline-input-viewer-mcp-embedded-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11360,7 +11361,7 @@
       ];
     };
     jw-gfxscope-beat-retrigger-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jw-gfxscope-beat-retrigger-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11374,7 +11375,7 @@
       ];
     };
     jw-gfxscope-beat-retrigger-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jw-gfxscope-beat-retrigger-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11388,7 +11389,7 @@
       ];
     };
     mrelwood-blipper-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mrelwood-blipper-jsfx-1-3";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11402,7 +11403,7 @@
       ];
     };
     mschnell-dual-time-adjustment-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-dual-time-adjustment-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11416,7 +11417,7 @@
       ];
     };
     mschnell-dual-time-adjustment-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-dual-time-adjustment-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11430,7 +11431,7 @@
       ];
     };
     mschnell-dual-time-adjustment-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-dual-time-adjustment-jsfx-1-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11444,7 +11445,7 @@
       ];
     };
     mschnell-dual-time-adjustment-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-dual-time-adjustment-jsfx-1-3";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11458,7 +11459,7 @@
       ];
     };
     mschnell-dual-time-adjustment-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-dual-time-adjustment-jsfx-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11472,7 +11473,7 @@
       ];
     };
     mschnell-dual-time-adjustment-jsfx-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-dual-time-adjustment-jsfx-2-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11486,7 +11487,7 @@
       ];
     };
     mschnell-inter-track-parameter-modulation-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-inter-track-parameter-modulation-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11500,7 +11501,7 @@
       ];
     };
     mschnell-inter-track-parameter-modulation-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-inter-track-parameter-modulation-jsfx-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11514,7 +11515,7 @@
       ];
     };
     mschnell-inter-track-parameter-modulation-jsfx-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-inter-track-parameter-modulation-jsfx-3-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11528,7 +11529,7 @@
       ];
     };
     mschnell-midi-auto-engage-jsfx-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-auto-engage-jsfx-3-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11542,7 +11543,7 @@
       ];
     };
     mschnell-midi-cc-table-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-cc-table-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11556,7 +11557,7 @@
       ];
     };
     mschnell-midi-cc-table-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-cc-table-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11570,7 +11571,7 @@
       ];
     };
     mschnell-midi-cc2sysex-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-cc2sysex-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11584,7 +11585,7 @@
       ];
     };
     mschnell-midi-convert-to-cc-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-convert-to-cc-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11598,7 +11599,7 @@
       ];
     };
     mschnell-midi-convert-to-cc-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-convert-to-cc-jsfx-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11612,7 +11613,7 @@
       ];
     };
     mschnell-midi-convert-to-cc-jsfx-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-convert-to-cc-jsfx-3-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11626,7 +11627,7 @@
       ];
     };
     mschnell-midi-convert-to-cc-jsfx-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-convert-to-cc-jsfx-4-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11640,7 +11641,7 @@
       ];
     };
     mschnell-midi-convert-to-cc-jsfx-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-convert-to-cc-jsfx-4-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11654,7 +11655,7 @@
       ];
     };
     mschnell-midi-convert-to-cc-jsfx-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-convert-to-cc-jsfx-5-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11668,7 +11669,7 @@
       ];
     };
     mschnell-midi-convert-to-cc-jsfx-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-convert-to-cc-jsfx-5-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11682,7 +11683,7 @@
       ];
     };
     mschnell-midi-display-3-ccs-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-display-3-ccs-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11696,7 +11697,7 @@
       ];
     };
     mschnell-midi-display-3-ccs-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-display-3-ccs-jsfx-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11710,7 +11711,7 @@
       ];
     };
     mschnell-midi-display-patch-name-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-display-patch-name-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11724,7 +11725,7 @@
       ];
     };
     mschnell-midi-display-patch-name-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-display-patch-name-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11738,7 +11739,7 @@
       ];
     };
     mschnell-midi-fade-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-fade-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11752,7 +11753,7 @@
       ];
     };
     mschnell-midi-fade-jsfx-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-fade-jsfx-2-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11766,7 +11767,7 @@
       ];
     };
     mschnell-midi-fade-jsfx-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-fade-jsfx-2-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11780,7 +11781,7 @@
       ];
     };
     mschnell-midi-fade-jsfx-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-fade-jsfx-2-3";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11794,7 +11795,7 @@
       ];
     };
     mschnell-midi-trigger-cc-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-trigger-cc-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11808,7 +11809,7 @@
       ];
     };
     mschnell-midi-volume-control-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-volume-control-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11822,7 +11823,7 @@
       ];
     };
     mschnell-midi-volume-control-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-volume-control-jsfx-2-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11836,7 +11837,7 @@
       ];
     };
     mschnell-midi-volume-control-jsfx-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-volume-control-jsfx-3-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11850,7 +11851,7 @@
       ];
     };
     mschnell-midi-volume-control-jsfx-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-midi-volume-control-jsfx-3-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11864,7 +11865,7 @@
       ];
     };
     mschnell-multi-sin-generator-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-multi-sin-generator-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11878,7 +11879,7 @@
       ];
     };
     mschnell-multi-sin-generator-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-multi-sin-generator-jsfx-1-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11892,7 +11893,7 @@
       ];
     };
     mschnell-mute-monitor-when-recording-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-mute-monitor-when-recording-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11906,7 +11907,7 @@
       ];
     };
     mschnell-slider-to-midi-ps-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mschnell-slider-to-midi-ps-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11920,7 +11921,7 @@
       ];
     };
     nofish-volume-utility-plus-10db-sample-accurate-automation-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-volume-utility-plus-10db-sample-accurate-automation-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11934,7 +11935,7 @@
       ];
     };
     reaperblog-12db-dim-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaperblog-12db-dim-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11948,7 +11949,7 @@
       ];
     };
     reaperblog-macro-controller-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaperblog-macro-controller-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11962,7 +11963,7 @@
       ];
     };
     reaperblog-multichannel-volume-trim-2-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaperblog-multichannel-volume-trim-2-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11976,7 +11977,7 @@
       ];
     };
     reaperblog-multichannel-volume-trim-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaperblog-multichannel-volume-trim-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -11990,7 +11991,7 @@
       ];
     };
     reaperblog-multichannel-volume-trim-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaperblog-multichannel-volume-trim-jsfx-1-0-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -12004,7 +12005,7 @@
       ];
     };
     timewaster-midi-mouse-jsfx-0-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timewaster-midi-mouse-jsfx-0-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -12018,7 +12019,7 @@
       ];
     };
     zenomod-vu-meter-zenomod-userthemes-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zenomod-vu-meter-zenomod-userthemes-jsfx-1-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -12037,7 +12038,7 @@
       ];
     };
     zenomod-vu-meter-zenomod-jsfx-1-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zenomod-vu-meter-zenomod-jsfx-1-7-0";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -12051,7 +12052,7 @@
       ];
     };
     zenomod-vu-meter-zenomod-jsfx-1-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zenomod-vu-meter-zenomod-jsfx-1-7-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -12065,7 +12066,7 @@
       ];
     };
     zenomod-vu-meter-zenomod-jsfx-1-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zenomod-vu-meter-zenomod-jsfx-1-7-2";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -12079,7 +12080,7 @@
       ];
     };
     zenomod-vu-meter-zenomod-jsfx-1-7-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zenomod-vu-meter-zenomod-jsfx-1-7-2-1";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -12093,7 +12094,7 @@
       ];
     };
     zenomod-vu-meter-zenomod-jsfx-1-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zenomod-vu-meter-zenomod-jsfx-1-7-3";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -12112,7 +12113,7 @@
       ];
     };
     zenomod-vu-meter-zenomod-jsfx-1-7-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zenomod-vu-meter-zenomod-jsfx-1-7-4";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -12131,7 +12132,7 @@
       ];
     };
     zenomod-vu-meter-zenomod-jsfx-1-7-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zenomod-vu-meter-zenomod-jsfx-1-7-5";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -12150,7 +12151,7 @@
       ];
     };
     zenomod-vu-meter-zenomod-jsfx-1-7-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zenomod-vu-meter-zenomod-jsfx-1-7-6";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";
@@ -12169,7 +12170,7 @@
       ];
     };
     zenomod-vu-meter-zenomod-jsfx-1-7-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zenomod-vu-meter-zenomod-jsfx-1-7-7";
       indexName = "ReaTeam JSFX";
       categoryName = "Utility";

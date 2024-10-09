@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   reateam-themes = {
     cfillion-default-v4-0-plus-width-theme-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cfillion-default-v4-0-plus-width-theme-1-0";
       indexName = "ReaTeam Themes";
       categoryName = "Mods";
@@ -19,7 +20,7 @@
       ];
     };
     lokasenna-default-5-0-nitpicky-edition-theme-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-default-5-0-nitpicky-edition-theme-15";
       indexName = "ReaTeam Themes";
       categoryName = "Mods";
@@ -33,7 +34,7 @@
       ];
     };
     lokasenna-default-5-0-nitpicky-edition-theme-15-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-default-5-0-nitpicky-edition-theme-15-01";
       indexName = "ReaTeam Themes";
       categoryName = "Mods";
@@ -42,12 +43,12 @@
         {
           path = ''Default 5.0 Nitpicky Edition.ReaperThemeZip'';
           url = "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1";
-          sha256 = "0kqkjhs6s7pdbg7x3yd41jgljix5fdmb7j32hhsv9ari1l95nrfp";
+          sha256 = "";
         }
       ];
     };
     oleggoryachev-rado-v5-artek-theme-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "oleggoryachev-rado-v5-artek-theme-1";
       indexName = "ReaTeam Themes";
       categoryName = "Mods";
@@ -61,7 +62,7 @@
       ];
     };
     pet-default-v5-dark-theme-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pet-default-v5-dark-theme-1-2";
       indexName = "ReaTeam Themes";
       categoryName = "Mods";
@@ -75,7 +76,7 @@
       ];
     };
     pet-default-v5-dark-theme-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pet-default-v5-dark-theme-1-3";
       indexName = "ReaTeam Themes";
       categoryName = "Mods";
@@ -89,7 +90,7 @@
       ];
     };
     pet-default-v5-dark-extended-theme-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pet-default-v5-dark-extended-theme-1-1";
       indexName = "ReaTeam Themes";
       categoryName = "Mods";
@@ -103,7 +104,7 @@
       ];
     };
     pet-default-v5-dark-extended-theme-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pet-default-v5-dark-extended-theme-2-0";
       indexName = "ReaTeam Themes";
       categoryName = "Mods";

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   neutronic-scripts = {
     neutronic-show-track-or-take-envelope-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-show-track-or-take-envelope-for-last-touched-parameter-lua-1-0";
       indexName = "Neutronic Scripts";
       categoryName = "FX";
@@ -19,7 +20,7 @@
       ];
     };
     neutronic-show-track-or-take-envelope-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-show-track-or-take-envelope-for-last-touched-parameter-lua-1-01";
       indexName = "Neutronic Scripts";
       categoryName = "FX";
@@ -33,7 +34,7 @@
       ];
     };
     neutronic-show-track-or-take-envelope-for-last-touched-parameter-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-show-track-or-take-envelope-for-last-touched-parameter-lua-1-02";
       indexName = "Neutronic Scripts";
       categoryName = "FX";
@@ -47,7 +48,7 @@
       ];
     };
     neutronic-show-track-or-take-envelope-for-last-touched-parameter-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-show-track-or-take-envelope-for-last-touched-parameter-lua-1-03";
       indexName = "Neutronic Scripts";
       categoryName = "FX";
@@ -61,7 +62,7 @@
       ];
     };
     neutronic-midi-plug-and-play-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-midi-plug-and-play-lua-1-0";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities";
@@ -75,7 +76,7 @@
       ];
     };
     neutronic-quick-add-fx-or-track-template-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-add-fx-or-track-template-lua-1-0";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities";
@@ -89,7 +90,7 @@
       ];
     };
     neutronic-quick-add-fx-or-track-template-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-add-fx-or-track-template-lua-1-01";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities";
@@ -103,7 +104,7 @@
       ];
     };
     neutronic-quick-add-fx-or-track-template-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-add-fx-or-track-template-lua-1-2";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities";
@@ -117,7 +118,7 @@
       ];
     };
     neutronic-quick-add-fx-or-track-template-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-add-fx-or-track-template-lua-1-25";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities";
@@ -131,7 +132,7 @@
       ];
     };
     neutronic-quick-add-fx-or-track-template-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-add-fx-or-track-template-lua-1-30";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities";
@@ -145,7 +146,7 @@
       ];
     };
     neutronic-quick-add-fx-or-track-template-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-add-fx-or-track-template-lua-1-31";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities";
@@ -159,7 +160,7 @@
       ];
     };
     neutronic-quick-add-fx-or-track-template-lua-1-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-add-fx-or-track-template-lua-1-40";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities";
@@ -173,7 +174,7 @@
       ];
     };
     neutronic-quick-add-fx-or-track-template-lua-1-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-add-fx-or-track-template-lua-1-45";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities";
@@ -187,7 +188,7 @@
       ];
     };
     neutronic-quick-add-fx-or-track-template-lua-1-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-add-fx-or-track-template-lua-1-47";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities";
@@ -201,7 +202,7 @@
       ];
     };
     neutronic-quick-add-fx-or-track-template-lua-1-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-add-fx-or-track-template-lua-1-50";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities";
@@ -215,7 +216,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-0";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -229,7 +230,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-01";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -243,7 +244,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-05";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -257,7 +258,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-07";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -271,7 +272,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-08";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -285,7 +286,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-10";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -299,7 +300,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-15";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -313,7 +314,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-16";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -327,7 +328,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-20";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -341,7 +342,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-21";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -355,7 +356,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-22";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -369,7 +370,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-23";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -383,7 +384,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-25";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -397,7 +398,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-26";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -411,7 +412,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-27";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -425,7 +426,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-28";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -439,7 +440,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-29";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -453,7 +454,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-30";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -467,7 +468,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-31";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -481,7 +482,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-32";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -495,7 +496,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-33";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -509,7 +510,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-34";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -523,7 +524,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-35";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -537,7 +538,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-36";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -551,7 +552,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-40";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -565,7 +566,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-42";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -579,7 +580,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-43";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -593,7 +594,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-44";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -607,7 +608,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-45";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -621,7 +622,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-47";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -635,7 +636,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-49";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -649,7 +650,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-49-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-49-3";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -663,7 +664,7 @@
       ];
     };
     neutronic-quick-adder-2-lua-2-49-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-lua-2-49-4";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2";
@@ -677,7 +678,7 @@
       ];
     };
     neutronic-quick-adder-2-optimize-gui-size-for-1080p-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-optimize-gui-size-for-1080p-lua-1-0";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2/Actions";
@@ -691,7 +692,7 @@
       ];
     };
     neutronic-quick-adder-2-optimize-gui-size-for-4k-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-optimize-gui-size-for-4k-lua-1-0";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2/Actions";
@@ -705,7 +706,7 @@
       ];
     };
     neutronic-quick-adder-2-optimize-gui-size-for-5k-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-optimize-gui-size-for-5k-lua-1-0";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2/Actions";
@@ -719,7 +720,7 @@
       ];
     };
     neutronic-quick-adder-2-optimize-gui-size-for-720p-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-optimize-gui-size-for-720p-lua-1-0";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2/Actions";
@@ -733,7 +734,7 @@
       ];
     };
     neutronic-quick-adder-2-optimize-gui-size-for-8k-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-optimize-gui-size-for-8k-lua-1-0";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2/Actions";
@@ -747,7 +748,7 @@
       ];
     };
     neutronic-quick-adder-2-refresh-database-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "neutronic-quick-adder-2-refresh-database-lua-1-0";
       indexName = "Neutronic Scripts";
       categoryName = "Utilities/Quick Adder 2/Actions";

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   zaibuyidao-scripts = {
     lokasenna-gui-library-lua-2-16-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-lua-2-16-13";
       indexName = "zaibuyidao Scripts";
       categoryName = "Development";
@@ -94,7 +95,7 @@
       ];
     };
     lokasenna-gui-library-lua-2-16-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-lua-2-16-14";
       indexName = "zaibuyidao Scripts";
       categoryName = "Development";
@@ -183,7 +184,7 @@
       ];
     };
     lokasenna-gui-library-lua-2-16-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-lua-2-16-15";
       indexName = "zaibuyidao Scripts";
       categoryName = "Development";
@@ -272,7 +273,7 @@
       ];
     };
     lokasenna-gui-library-lua-2-16-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-lua-2-16-16";
       indexName = "zaibuyidao Scripts";
       categoryName = "Development";
@@ -361,7 +362,7 @@
       ];
     };
     lokasenna-gui-library-lua-2-16-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-lua-2-16-17";
       indexName = "zaibuyidao Scripts";
       categoryName = "Development";
@@ -450,7 +451,7 @@
       ];
     };
     lokasenna-gui-library-lua-2-16-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-lua-2-16-18";
       indexName = "zaibuyidao Scripts";
       categoryName = "Development";
@@ -539,7 +540,7 @@
       ];
     };
     lokasenna-gui-library-lua-2-16-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-lua-2-16-19";
       indexName = "zaibuyidao Scripts";
       categoryName = "Development";
@@ -628,7 +629,7 @@
       ];
     };
     lokasenna-gui-library-lua-2-16-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-lua-2-16-20";
       indexName = "zaibuyidao Scripts";
       categoryName = "Development";
@@ -717,7 +718,7 @@
       ];
     };
     lokasenna-gui-library-lua-2-16-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-lua-2-16-21";
       indexName = "zaibuyidao Scripts";
       categoryName = "Development";
@@ -806,7 +807,7 @@
       ];
     };
     lokasenna-gui-library-lua-2-16-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-lua-2-16-22";
       indexName = "zaibuyidao Scripts";
       categoryName = "Development";
@@ -895,7 +896,7 @@
       ];
     };
     lokasenna-gui-library-lua-2-16-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-lua-2-16-23";
       indexName = "zaibuyidao Scripts";
       categoryName = "Development";
@@ -984,7 +985,7 @@
       ];
     };
     lokasenna-gui-library-lua-2-16-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-lua-2-16-24";
       indexName = "zaibuyidao Scripts";
       categoryName = "Development";
@@ -1073,7 +1074,7 @@
       ];
     };
     lokasenna-gui-library-lua-2-16-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-lua-2-16-25";
       indexName = "zaibuyidao Scripts";
       categoryName = "Development";
@@ -1162,7 +1163,7 @@
       ];
     };
     lokasenna-gui-library-lua-2-16-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lokasenna-gui-library-lua-2-16-26";
       indexName = "zaibuyidao Scripts";
       categoryName = "Development";
@@ -1251,7 +1252,7 @@
       ];
     };
     zaibuyidao-add-take-marker-at-snap-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-add-take-marker-at-snap-offset-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1265,7 +1266,7 @@
       ];
     };
     zaibuyidao-add-take-marker-at-snap-offset-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-add-take-marker-at-snap-offset-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1279,7 +1280,7 @@
       ];
     };
     zaibuyidao-auto-trim-split-items-settings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-auto-trim-split-items-settings-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1293,7 +1294,7 @@
       ];
     };
     zaibuyidao-auto-trim-split-items-settings-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-auto-trim-split-items-settings-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1307,7 +1308,7 @@
       ];
     };
     zaibuyidao-auto-trim-split-items-settings-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-auto-trim-split-items-settings-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1321,7 +1322,7 @@
       ];
     };
     zaibuyidao-auto-trim-split-items-settings-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-auto-trim-split-items-settings-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1335,7 +1336,7 @@
       ];
     };
     zaibuyidao-auto-trim-split-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-auto-trim-split-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1349,7 +1350,7 @@
       ];
     };
     zaibuyidao-auto-trim-split-items-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-auto-trim-split-items-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1363,7 +1364,7 @@
       ];
     };
     zaibuyidao-auto-trim-split-items-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-auto-trim-split-items-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1377,7 +1378,7 @@
       ];
     };
     zaibuyidao-auto-trim-split-items-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-auto-trim-split-items-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1391,7 +1392,7 @@
       ];
     };
     zaibuyidao-auto-trim-split-items-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-auto-trim-split-items-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1405,7 +1406,7 @@
       ];
     };
     zaibuyidao-auto-trim-split-items-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-auto-trim-split-items-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1419,7 +1420,7 @@
       ];
     };
     zaibuyidao-batch-rename-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-rename-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1433,7 +1434,7 @@
       ];
     };
     zaibuyidao-batch-rename-items-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-rename-items-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1447,7 +1448,7 @@
       ];
     };
     zaibuyidao-batch-set-item-names-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-set-item-names-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1461,7 +1462,7 @@
       ];
     };
     zaibuyidao-batch-set-item-names-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-set-item-names-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1475,7 +1476,7 @@
       ];
     };
     zaibuyidao-copy-align-item-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-align-item-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1489,7 +1490,7 @@
       ];
     };
     zaibuyidao-copy-item-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-item-length-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1503,7 +1504,7 @@
       ];
     };
     zaibuyidao-copy-item-length-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-item-length-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1517,7 +1518,7 @@
       ];
     };
     zaibuyidao-copy-items-and-marker-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-items-and-marker-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1531,7 +1532,7 @@
       ];
     };
     zaibuyidao-copy-items-and-region-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-items-and-region-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1545,7 +1546,7 @@
       ];
     };
     zaibuyidao-copy-items-and-region-marker-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-items-and-region-marker-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1559,7 +1560,7 @@
       ];
     };
     zaibuyidao-copy-items-and-region-marker-in-time-selection-relative-position-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-items-and-region-marker-in-time-selection-relative-position-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1573,7 +1574,7 @@
       ];
     };
     zaibuyidao-copy-items-and-region-marker-in-time-selection-relative-position-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-items-and-region-marker-in-time-selection-relative-position-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1587,7 +1588,7 @@
       ];
     };
     zaibuyidao-copy-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1601,7 +1602,7 @@
       ];
     };
     zaibuyidao-copy-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1615,7 +1616,7 @@
       ];
     };
     zaibuyidao-copy-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1629,7 +1630,7 @@
       ];
     };
     zaibuyidao-copy-items-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-items-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1643,7 +1644,7 @@
       ];
     };
     zaibuyidao-copy-items-in-time-selection-relative-position-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-items-in-time-selection-relative-position-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1657,7 +1658,7 @@
       ];
     };
     zaibuyidao-copy-items-in-time-selection-relative-position-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-items-in-time-selection-relative-position-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1671,7 +1672,7 @@
       ];
     };
     zaibuyidao-copy-items-in-time-selection-relative-position-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-items-in-time-selection-relative-position-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1685,7 +1686,7 @@
       ];
     };
     zaibuyidao-copy-source-filenames-of-selected-active-takes-to-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-source-filenames-of-selected-active-takes-to-clipboard-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1699,7 +1700,7 @@
       ];
     };
     zaibuyidao-equal-cut-at-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-equal-cut-at-edit-cursor-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1713,7 +1714,7 @@
       ];
     };
     zaibuyidao-equal-cut-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-equal-cut-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1727,7 +1728,7 @@
       ];
     };
     zaibuyidao-humanize-item-volume-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-item-volume-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1741,7 +1742,7 @@
       ];
     };
     zaibuyidao-humanize-item-volume-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-item-volume-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1755,7 +1756,7 @@
       ];
     };
     zaibuyidao-humanize-item-volume-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-item-volume-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1769,7 +1770,7 @@
       ];
     };
     zaibuyidao-humanize-item-volume-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-item-volume-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1783,7 +1784,7 @@
       ];
     };
     zaibuyidao-humanize-item-volume-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-item-volume-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1797,7 +1798,7 @@
       ];
     };
     zaibuyidao-humanize-take-pan-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-take-pan-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1811,7 +1812,7 @@
       ];
     };
     zaibuyidao-humanize-take-pan-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-take-pan-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1825,7 +1826,7 @@
       ];
     };
     zaibuyidao-humanize-take-pitch-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-take-pitch-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1839,7 +1840,7 @@
       ];
     };
     zaibuyidao-humanize-take-pitch-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-take-pitch-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1853,7 +1854,7 @@
       ];
     };
     zaibuyidao-humanize-take-volume-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-take-volume-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1867,7 +1868,7 @@
       ];
     };
     zaibuyidao-humanize-take-volume-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-take-volume-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1881,7 +1882,7 @@
       ];
     };
     zaibuyidao-humanize-take-volume-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-take-volume-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1895,7 +1896,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-for-selected-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-for-selected-fx-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1909,7 +1910,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-for-selected-fx-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-for-selected-fx-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1923,7 +1924,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-for-selected-fx-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-for-selected-fx-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1937,7 +1938,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-for-selected-fx-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-for-selected-fx-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1951,7 +1952,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-for-selected-fx-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-for-selected-fx-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1965,7 +1966,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-for-selected-fx-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-for-selected-fx-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1979,7 +1980,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-for-selected-fx-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-for-selected-fx-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -1993,7 +1994,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2007,7 +2008,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2021,7 +2022,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2035,7 +2036,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2049,7 +2050,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2063,7 +2064,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2077,7 +2078,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2091,7 +2092,7 @@
       ];
     };
     zaibuyidao-link-selected-item-fx-parameter-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-item-fx-parameter-lua-1-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2105,7 +2106,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2119,7 +2120,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2133,7 +2134,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2147,7 +2148,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2161,7 +2162,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2175,7 +2176,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2189,7 +2190,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2203,7 +2204,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-for-selected-fx-lua-1-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2217,7 +2218,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2231,7 +2232,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2245,7 +2246,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2259,7 +2260,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2273,7 +2274,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2287,7 +2288,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2301,7 +2302,7 @@
       ];
     };
     zaibuyidao-link-selected-track-item-fx-parameter-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-item-fx-parameter-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2315,7 +2316,7 @@
       ];
     };
     zaibuyidao-list-names-of-selected-items-and-regions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-list-names-of-selected-items-and-regions-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2329,7 +2330,7 @@
       ];
     };
     zaibuyidao-list-names-of-selected-items-and-their-source-files-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-list-names-of-selected-items-and-their-source-files-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2343,7 +2344,7 @@
       ];
     };
     zaibuyidao-list-names-of-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-list-names-of-selected-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2357,7 +2358,7 @@
       ];
     };
     zaibuyidao-move-items-to-track-in-track-row-order-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-items-to-track-in-track-row-order-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2371,7 +2372,7 @@
       ];
     };
     zaibuyidao-move-items-to-track-of-first-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-items-to-track-of-first-selected-item-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2385,7 +2386,7 @@
       ];
     };
     zaibuyidao-move-selected-items-plus10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-selected-items-plus10-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2399,7 +2400,7 @@
       ];
     };
     zaibuyidao-move-selected-items-plus10-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-selected-items-plus10-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2413,7 +2414,7 @@
       ];
     };
     zaibuyidao-move-selected-items-10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-selected-items-10-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2427,7 +2428,7 @@
       ];
     };
     zaibuyidao-move-selected-items-10-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-selected-items-10-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2441,7 +2442,7 @@
       ];
     };
     zaibuyidao-move-selected-items-to-end-of-project-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-selected-items-to-end-of-project-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2455,7 +2456,7 @@
       ];
     };
     zaibuyidao-move-selected-items-to-end-of-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-selected-items-to-end-of-project-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2469,7 +2470,7 @@
       ];
     };
     zaibuyidao-move-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-selected-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2483,7 +2484,7 @@
       ];
     };
     zaibuyidao-move-selected-items-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-selected-items-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2497,7 +2498,7 @@
       ];
     };
     zaibuyidao-open-fx-panel-for-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-open-fx-panel-for-selected-item-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2511,7 +2512,7 @@
       ];
     };
     zaibuyidao-open-fx-panel-for-selected-track-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-open-fx-panel-for-selected-track-item-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2525,7 +2526,7 @@
       ];
     };
     zaibuyidao-paste-align-item-position-duplicate-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-align-item-position-duplicate-selected-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2539,7 +2540,7 @@
       ];
     };
     zaibuyidao-paste-align-item-position-move-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-align-item-position-move-selected-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2553,7 +2554,7 @@
       ];
     };
     zaibuyidao-paste-align-item-position-select-one-item-and-duplicate-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-align-item-position-select-one-item-and-duplicate-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2567,7 +2568,7 @@
       ];
     };
     zaibuyidao-paste-align-item-position-select-one-item-and-duplicate-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-align-item-position-select-one-item-and-duplicate-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2581,7 +2582,7 @@
       ];
     };
     zaibuyidao-paste-item-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-item-length-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2595,7 +2596,7 @@
       ];
     };
     zaibuyidao-paste-item-length-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-item-length-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2609,7 +2610,7 @@
       ];
     };
     zaibuyidao-paste-items-and-marker-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-and-marker-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2623,7 +2624,7 @@
       ];
     };
     zaibuyidao-paste-items-and-region-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-and-region-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2637,7 +2638,7 @@
       ];
     };
     zaibuyidao-paste-items-and-region-marker-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-and-region-marker-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2651,7 +2652,7 @@
       ];
     };
     zaibuyidao-paste-items-and-region-marker-in-time-selection-relative-position-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-and-region-marker-in-time-selection-relative-position-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2665,7 +2666,7 @@
       ];
     };
     zaibuyidao-paste-items-and-region-marker-in-time-selection-relative-position-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-and-region-marker-in-time-selection-relative-position-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2679,7 +2680,7 @@
       ];
     };
     zaibuyidao-paste-items-and-region-marker-in-time-selection-relative-position-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-and-region-marker-in-time-selection-relative-position-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2693,7 +2694,7 @@
       ];
     };
     zaibuyidao-paste-items-and-region-marker-in-time-selection-relative-position-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-and-region-marker-in-time-selection-relative-position-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2707,7 +2708,7 @@
       ];
     };
     zaibuyidao-paste-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2721,7 +2722,7 @@
       ];
     };
     zaibuyidao-paste-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2735,7 +2736,7 @@
       ];
     };
     zaibuyidao-paste-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2749,7 +2750,7 @@
       ];
     };
     zaibuyidao-paste-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2763,7 +2764,7 @@
       ];
     };
     zaibuyidao-paste-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-and-region-marker-tempo-in-time-selection-relative-position-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2777,7 +2778,7 @@
       ];
     };
     zaibuyidao-paste-items-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2791,7 +2792,7 @@
       ];
     };
     zaibuyidao-paste-items-in-time-selection-relative-position-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-in-time-selection-relative-position-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2805,7 +2806,7 @@
       ];
     };
     zaibuyidao-paste-items-in-time-selection-relative-position-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-in-time-selection-relative-position-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2819,7 +2820,7 @@
       ];
     };
     zaibuyidao-paste-items-in-time-selection-relative-position-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-in-time-selection-relative-position-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2833,7 +2834,7 @@
       ];
     };
     zaibuyidao-paste-items-in-time-selection-relative-position-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-items-in-time-selection-relative-position-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2847,7 +2848,7 @@
       ];
     };
     zaibuyidao-play-from-first-item-start-in-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-play-from-first-item-start-in-selected-tracks-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2861,7 +2862,7 @@
       ];
     };
     zaibuyidao-play-stop-from-first-selected-item-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-play-stop-from-first-selected-item-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2875,7 +2876,7 @@
       ];
     };
     zaibuyidao-play-stop-from-mouse-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-play-stop-from-mouse-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2889,7 +2890,7 @@
       ];
     };
     zaibuyidao-random-item-volume-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-item-volume-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2903,7 +2904,7 @@
       ];
     };
     zaibuyidao-random-swap-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-swap-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2917,7 +2918,7 @@
       ];
     };
     zaibuyidao-random-take-pan-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-take-pan-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2931,7 +2932,7 @@
       ];
     };
     zaibuyidao-random-take-pitch-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-take-pitch-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2945,7 +2946,7 @@
       ];
     };
     zaibuyidao-random-take-volume-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-take-volume-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2959,7 +2960,7 @@
       ];
     };
     zaibuyidao-reposition-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-reposition-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2973,7 +2974,7 @@
       ];
     };
     zaibuyidao-reposition-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-reposition-items-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -2987,7 +2988,7 @@
       ];
     };
     zaibuyidao-reposition-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-reposition-items-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3001,7 +3002,7 @@
       ];
     };
     zaibuyidao-reposition-items-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-reposition-items-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3015,7 +3016,7 @@
       ];
     };
     zaibuyidao-reposition-items-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-reposition-items-lua-1-3-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3029,7 +3030,7 @@
       ];
     };
     zaibuyidao-reposition-items-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-reposition-items-lua-1-3-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3043,7 +3044,7 @@
       ];
     };
     zaibuyidao-reposition-items-lua-1-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-reposition-items-lua-1-3-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3057,7 +3058,7 @@
       ];
     };
     zaibuyidao-reposition-items-lua-1-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-reposition-items-lua-1-3-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3071,7 +3072,7 @@
       ];
     };
     zaibuyidao-reposition-items-lua-1-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-reposition-items-lua-1-3-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3085,7 +3086,7 @@
       ];
     };
     zaibuyidao-reposition-items-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-reposition-items-lua-1-4-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3099,7 +3100,7 @@
       ];
     };
     zaibuyidao-scale-item-volume-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-item-volume-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3113,7 +3114,7 @@
       ];
     };
     zaibuyidao-set-item-volume-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-item-volume-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3127,7 +3128,7 @@
       ];
     };
     zaibuyidao-set-take-pan-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-take-pan-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3141,7 +3142,7 @@
       ];
     };
     zaibuyidao-set-take-pitch-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-take-pitch-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3155,7 +3156,7 @@
       ];
     };
     zaibuyidao-set-take-volume-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-take-volume-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3169,7 +3170,7 @@
       ];
     };
     zaibuyidao-show-fx-chain-for-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-show-fx-chain-for-selected-item-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3183,7 +3184,7 @@
       ];
     };
     zaibuyidao-show-fx-chain-for-selected-item-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-show-fx-chain-for-selected-item-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3197,7 +3198,7 @@
       ];
     };
     zaibuyidao-show-fx-chain-for-selected-item-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-show-fx-chain-for-selected-item-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3211,7 +3212,7 @@
       ];
     };
     zaibuyidao-show-fx-chain-for-selected-track-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-show-fx-chain-for-selected-track-item-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3225,7 +3226,7 @@
       ];
     };
     zaibuyidao-show-fx-chain-for-selected-track-item-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-show-fx-chain-for-selected-track-item-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3239,7 +3240,7 @@
       ];
     };
     zaibuyidao-show-fx-chain-for-selected-track-item-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-show-fx-chain-for-selected-track-item-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3253,7 +3254,7 @@
       ];
     };
     zaibuyidao-show-fx-chain-for-selected-track-item-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-show-fx-chain-for-selected-track-item-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3267,7 +3268,7 @@
       ];
     };
     zaibuyidao-show-fx-chain-for-selected-track-item-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-show-fx-chain-for-selected-track-item-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3281,7 +3282,7 @@
       ];
     };
     zaibuyidao-swap-items-of-two-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-swap-items-of-two-tracks-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3295,7 +3296,7 @@
       ];
     };
     zaibuyidao-swap-items-of-two-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-swap-items-of-two-tracks-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3309,7 +3310,7 @@
       ];
     };
     zaibuyidao-trim-item-edges-settings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-item-edges-settings-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3323,7 +3324,7 @@
       ];
     };
     zaibuyidao-trim-item-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-item-edges-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3337,7 +3338,7 @@
       ];
     };
     zaibuyidao-trim-item-edges-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-item-edges-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3351,7 +3352,7 @@
       ];
     };
     zaibuyidao-trim-item-edges-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-item-edges-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3365,7 +3366,7 @@
       ];
     };
     zaibuyidao-trim-item-edges-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-item-edges-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3379,7 +3380,7 @@
       ];
     };
     zaibuyidao-trim-item-edges-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-item-edges-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3393,7 +3394,7 @@
       ];
     };
     zaibuyidao-trim-item-edges-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-item-edges-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3407,7 +3408,7 @@
       ];
     };
     zaibuyidao-trim-item-edges-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-item-edges-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3421,7 +3422,7 @@
       ];
     };
     zaibuyidao-trim-item-edges-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-item-edges-lua-1-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3435,7 +3436,7 @@
       ];
     };
     zaibuyidao-trim-item-edges-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-item-edges-lua-1-0-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3449,7 +3450,7 @@
       ];
     };
     zaibuyidao-trim-item-edges-lua-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-item-edges-lua-1-0-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3463,7 +3464,7 @@
       ];
     };
     zaibuyidao-trim-split-items-settings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-settings-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3477,7 +3478,7 @@
       ];
     };
     zaibuyidao-trim-split-items-settings-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-settings-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3491,7 +3492,7 @@
       ];
     };
     zaibuyidao-trim-split-items-settings-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-settings-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3505,7 +3506,7 @@
       ];
     };
     zaibuyidao-trim-split-items-settings-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-settings-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3519,7 +3520,7 @@
       ];
     };
     zaibuyidao-trim-split-items-settings-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-settings-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3533,7 +3534,7 @@
       ];
     };
     zaibuyidao-trim-split-items-settings-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-settings-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3547,7 +3548,7 @@
       ];
     };
     zaibuyidao-trim-split-items-settings-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-settings-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3561,7 +3562,7 @@
       ];
     };
     zaibuyidao-trim-split-items-settings-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-settings-lua-1-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3575,7 +3576,7 @@
       ];
     };
     zaibuyidao-trim-split-items-settings-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-settings-lua-1-0-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3589,7 +3590,7 @@
       ];
     };
     zaibuyidao-trim-split-items-settings-lua-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-settings-lua-1-0-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3603,7 +3604,7 @@
       ];
     };
     zaibuyidao-trim-split-items-settings-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-settings-lua-1-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3617,7 +3618,7 @@
       ];
     };
     zaibuyidao-trim-split-items-settings-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-settings-lua-1-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3631,7 +3632,7 @@
       ];
     };
     zaibuyidao-trim-split-items-settings-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-settings-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3645,7 +3646,7 @@
       ];
     };
     zaibuyidao-trim-split-items-settings-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-settings-lua-2-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3659,7 +3660,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3673,7 +3674,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3687,7 +3688,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3701,7 +3702,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3715,7 +3716,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3729,7 +3730,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3743,7 +3744,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3757,7 +3758,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-1-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3771,7 +3772,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-1-0-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3785,7 +3786,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-1-0-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3799,7 +3800,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-1-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3813,7 +3814,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3827,7 +3828,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-1-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3841,7 +3842,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3855,7 +3856,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-2-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3869,7 +3870,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-2-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3883,7 +3884,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-2-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-2-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3897,7 +3898,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-2-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-2-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3911,7 +3912,7 @@
       ];
     };
     zaibuyidao-trim-split-items-lua-2-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-split-items-lua-2-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Items Editing";
@@ -3925,7 +3926,7 @@
       ];
     };
     midi-bank-msb-lsb-mapping-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-bank-msb-lsb-mapping-jsfx-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "JSFX";
@@ -3944,7 +3945,7 @@
       ];
     };
     midi-bank-msb-lsb-mapping-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-bank-msb-lsb-mapping-jsfx-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "JSFX";
@@ -3963,7 +3964,7 @@
       ];
     };
     midi-bank-msb-lsb-mapping-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-bank-msb-lsb-mapping-jsfx-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "JSFX";
@@ -3982,7 +3983,7 @@
       ];
     };
     midi-bank-program-on-specific-note-file-based-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-bank-program-on-specific-note-file-based-jsfx-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "JSFX";
@@ -4001,7 +4002,7 @@
       ];
     };
     midi-bank-program-on-specific-note-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-bank-program-on-specific-note-jsfx-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "JSFX";
@@ -4015,7 +4016,7 @@
       ];
     };
     midi-cc-events-first-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-cc-events-first-jsfx-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "JSFX";
@@ -4029,7 +4030,7 @@
       ];
     };
     midi-off-velocity-limiter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-off-velocity-limiter-jsfx-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "JSFX";
@@ -4043,7 +4044,7 @@
       ];
     };
     midi-route-cc-to-channel-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-route-cc-to-channel-jsfx-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "JSFX";
@@ -4057,7 +4058,7 @@
       ];
     };
     midi-route-pc-to-channel-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-route-pc-to-channel-jsfx-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "JSFX";
@@ -4071,7 +4072,7 @@
       ];
     };
     midi-transform-cc-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transform-cc-jsfx-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "JSFX";
@@ -4085,7 +4086,7 @@
       ];
     };
     midi-transform-cc-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-transform-cc-jsfx-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "JSFX";
@@ -4099,7 +4100,7 @@
       ];
     };
     zaibuyidao-batch-rename-markers-in-marker-manager-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-rename-markers-in-marker-manager-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4113,7 +4114,7 @@
       ];
     };
     zaibuyidao-batch-rename-markers-in-marker-manager-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-rename-markers-in-marker-manager-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4127,7 +4128,7 @@
       ];
     };
     zaibuyidao-batch-rename-markers-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-rename-markers-within-time-selection-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4141,7 +4142,7 @@
       ];
     };
     zaibuyidao-batch-set-marker-names-for-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-set-marker-names-for-selected-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4155,7 +4156,7 @@
       ];
     };
     zaibuyidao-copy-marker-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-marker-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4169,7 +4170,7 @@
       ];
     };
     zaibuyidao-copy-region-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-region-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4183,7 +4184,7 @@
       ];
     };
     zaibuyidao-copy-region-marker-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-region-marker-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4197,7 +4198,7 @@
       ];
     };
     zaibuyidao-copy-region-marker-in-time-selection-relative-position-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-region-marker-in-time-selection-relative-position-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4211,7 +4212,7 @@
       ];
     };
     zaibuyidao-delete-marker-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-delete-marker-within-time-selection-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4225,7 +4226,7 @@
       ];
     };
     zaibuyidao-paste-marker-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-marker-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4239,7 +4240,7 @@
       ];
     };
     zaibuyidao-paste-region-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-region-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4253,7 +4254,7 @@
       ];
     };
     zaibuyidao-paste-region-marker-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-region-marker-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4267,7 +4268,7 @@
       ];
     };
     zaibuyidao-paste-region-marker-in-time-selection-relative-position-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-region-marker-in-time-selection-relative-position-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4281,7 +4282,7 @@
       ];
     };
     zaibuyidao-random-marker-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-marker-color-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4295,7 +4296,7 @@
       ];
     };
     zaibuyidao-random-marker-region-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-marker-region-color-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4309,7 +4310,7 @@
       ];
     };
     zaibuyidao-set-marker-color-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-marker-color-within-time-selection-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Markers";
@@ -4323,7 +4324,7 @@
       ];
     };
     zaibuyidao-automate-expression-for-selected-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-automate-expression-for-selected-notes-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4337,7 +4338,7 @@
       ];
     };
     zaibuyidao-automate-expression-for-selected-notes-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-automate-expression-for-selected-notes-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4351,7 +4352,7 @@
       ];
     };
     zaibuyidao-automate-expression-for-selected-notes-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-automate-expression-for-selected-notes-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4365,7 +4366,7 @@
       ];
     };
     zaibuyidao-automate-expression-shapes-for-selected-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-automate-expression-shapes-for-selected-notes-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4379,7 +4380,7 @@
       ];
     };
     zaibuyidao-automate-expression-shapes-for-selected-notes-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-automate-expression-shapes-for-selected-notes-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4393,7 +4394,7 @@
       ];
     };
     zaibuyidao-automate-expression-shapes-for-selected-notes-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-automate-expression-shapes-for-selected-notes-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4407,7 +4408,7 @@
       ];
     };
     zaibuyidao-bend-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-bend-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4421,7 +4422,7 @@
       ];
     };
     zaibuyidao-bend-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-bend-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4435,7 +4436,7 @@
       ];
     };
     zaibuyidao-bend-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-bend-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4449,7 +4450,7 @@
       ];
     };
     zaibuyidao-bend-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-bend-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4463,7 +4464,7 @@
       ];
     };
     zaibuyidao-bend-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-bend-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4477,7 +4478,7 @@
       ];
     };
     zaibuyidao-chord-inversion-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4491,7 +4492,7 @@
       ];
     };
     zaibuyidao-chord-inversion-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4505,7 +4506,7 @@
       ];
     };
     zaibuyidao-chord-inversion-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4519,7 +4520,7 @@
       ];
     };
     zaibuyidao-chord-inversion-fast-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-fast-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4533,7 +4534,7 @@
       ];
     };
     zaibuyidao-chord-inversion-fast-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-fast-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4547,7 +4548,7 @@
       ];
     };
     zaibuyidao-chord-inversion-fast-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-fast-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4561,7 +4562,7 @@
       ];
     };
     zaibuyidao-chord-inversion-fast-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-fast-lua-1-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4575,7 +4576,7 @@
       ];
     };
     zaibuyidao-chord-inversion-start-base-plus01-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-start-base-plus01-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4589,7 +4590,7 @@
       ];
     };
     zaibuyidao-chord-inversion-start-base-plus01-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-start-base-plus01-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4603,7 +4604,7 @@
       ];
     };
     zaibuyidao-chord-inversion-start-base-01-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-start-base-01-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4617,7 +4618,7 @@
       ];
     };
     zaibuyidao-chord-inversion-start-base-01-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-start-base-01-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4631,7 +4632,7 @@
       ];
     };
     zaibuyidao-chord-inversion-start-base-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-start-base-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4645,7 +4646,7 @@
       ];
     };
     zaibuyidao-chord-inversion-start-base-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-start-base-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4659,7 +4660,7 @@
       ];
     };
     zaibuyidao-chord-inversion-start-base-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-start-base-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4673,7 +4674,7 @@
       ];
     };
     zaibuyidao-chord-inversion-start-base-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-start-base-lua-1-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4687,7 +4688,7 @@
       ];
     };
     zaibuyidao-chord-inversion-start-base-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-start-base-lua-1-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4701,7 +4702,7 @@
       ];
     };
     zaibuyidao-chord-inversion-plus01-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-plus01-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4715,7 +4716,7 @@
       ];
     };
     zaibuyidao-chord-inversion-plus01-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-plus01-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4729,7 +4730,7 @@
       ];
     };
     zaibuyidao-chord-inversion-plus01-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-plus01-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4743,7 +4744,7 @@
       ];
     };
     zaibuyidao-chord-inversion-plus01-fast-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-plus01-fast-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4757,7 +4758,7 @@
       ];
     };
     zaibuyidao-chord-inversion-plus01-fast-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-plus01-fast-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4771,7 +4772,7 @@
       ];
     };
     zaibuyidao-chord-inversion-plus01-fast-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-plus01-fast-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4785,7 +4786,7 @@
       ];
     };
     zaibuyidao-chord-inversion-plus01-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-plus01-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4799,7 +4800,7 @@
       ];
     };
     zaibuyidao-chord-inversion-plus01-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-plus01-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4813,7 +4814,7 @@
       ];
     };
     zaibuyidao-chord-inversion-01-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-01-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4827,7 +4828,7 @@
       ];
     };
     zaibuyidao-chord-inversion-01-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-01-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4841,7 +4842,7 @@
       ];
     };
     zaibuyidao-chord-inversion-01-fast-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-01-fast-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4855,7 +4856,7 @@
       ];
     };
     zaibuyidao-chord-inversion-01-fast-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-01-fast-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4869,7 +4870,7 @@
       ];
     };
     zaibuyidao-chord-inversion-01-fast-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-01-fast-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4883,7 +4884,7 @@
       ];
     };
     zaibuyidao-chord-inversion-01-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-01-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4897,7 +4898,7 @@
       ];
     };
     zaibuyidao-chord-inversion-01-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-01-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4911,7 +4912,7 @@
       ];
     };
     zaibuyidao-chord-inversion-with-same-start-position-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-with-same-start-position-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4925,7 +4926,7 @@
       ];
     };
     zaibuyidao-chord-inversion-with-same-start-position-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-with-same-start-position-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4939,7 +4940,7 @@
       ];
     };
     zaibuyidao-chord-inversion-with-same-start-position-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-with-same-start-position-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4953,7 +4954,7 @@
       ];
     };
     zaibuyidao-chord-inversion-with-same-start-position-fast-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-with-same-start-position-fast-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4967,7 +4968,7 @@
       ];
     };
     zaibuyidao-chord-inversion-with-same-start-position-fast-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-with-same-start-position-fast-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4981,7 +4982,7 @@
       ];
     };
     zaibuyidao-chord-inversion-with-same-start-position-plus01-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-with-same-start-position-plus01-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -4995,7 +4996,7 @@
       ];
     };
     zaibuyidao-chord-inversion-with-same-start-position-plus01-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-with-same-start-position-plus01-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5009,7 +5010,7 @@
       ];
     };
     zaibuyidao-chord-inversion-with-same-start-position-plus01-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-with-same-start-position-plus01-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5023,7 +5024,7 @@
       ];
     };
     zaibuyidao-chord-inversion-with-same-start-position-01-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-with-same-start-position-01-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5037,7 +5038,7 @@
       ];
     };
     zaibuyidao-chord-inversion-with-same-start-position-01-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-with-same-start-position-01-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5051,7 +5052,7 @@
       ];
     };
     zaibuyidao-chord-inversion-with-same-start-position-01-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-with-same-start-position-01-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5065,7 +5066,7 @@
       ];
     };
     zaibuyidao-chord-inversion-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5079,7 +5080,7 @@
       ];
     };
     zaibuyidao-chord-inversion-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5093,7 +5094,7 @@
       ];
     };
     zaibuyidao-chord-inversion-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5107,7 +5108,7 @@
       ];
     };
     zaibuyidao-chord-inversion-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-chord-inversion-lua-1-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5121,7 +5122,7 @@
       ];
     };
     zaibuyidao-color-notes-dynamic-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-color-notes-dynamic-menu-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5135,7 +5136,7 @@
       ];
     };
     zaibuyidao-color-notes-dynamic-menu-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-color-notes-dynamic-menu-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5149,7 +5150,7 @@
       ];
     };
     zaibuyidao-connect-two-nodes-within-time-selection-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-connect-two-nodes-within-time-selection-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5163,7 +5164,7 @@
       ];
     };
     zaibuyidao-connect-two-nodes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-connect-two-nodes-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5177,7 +5178,7 @@
       ];
     };
     zaibuyidao-connect-two-nodes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-connect-two-nodes-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5191,7 +5192,7 @@
       ];
     };
     zaibuyidao-copy-selected-arpeggio-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-selected-arpeggio-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5205,7 +5206,7 @@
       ];
     };
     zaibuyidao-copy-selected-arpeggio-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-selected-arpeggio-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5219,7 +5220,7 @@
       ];
     };
     zaibuyidao-copy-selected-arpeggio-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-selected-arpeggio-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5233,7 +5234,7 @@
       ];
     };
     zaibuyidao-copy-selected-arpeggio-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-selected-arpeggio-lua-1-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5247,7 +5248,7 @@
       ];
     };
     zaibuyidao-copy-selected-rhythm-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-selected-rhythm-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5261,7 +5262,7 @@
       ];
     };
     zaibuyidao-copy-selected-rhythm-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-selected-rhythm-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5275,7 +5276,7 @@
       ];
     };
     zaibuyidao-copy-selected-rhythm-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-selected-rhythm-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5289,7 +5290,7 @@
       ];
     };
     zaibuyidao-copy-selected-rhythm-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-selected-rhythm-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5303,7 +5304,7 @@
       ];
     };
     zaibuyidao-copy-selected-rhythm-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-selected-rhythm-lua-1-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5317,7 +5318,7 @@
       ];
     };
     zaibuyidao-copy-selected-rhythm-lua-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-selected-rhythm-lua-1-6-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5331,7 +5332,7 @@
       ];
     };
     zaibuyidao-delete-channel-events-keep-channel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-delete-channel-events-keep-channel-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5345,7 +5346,7 @@
       ];
     };
     zaibuyidao-delete-channel-events-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-delete-channel-events-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5359,7 +5360,7 @@
       ];
     };
     zaibuyidao-duplicate-cc-for-selected-cc-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-cc-for-selected-cc-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5373,7 +5374,7 @@
       ];
     };
     zaibuyidao-duplicate-cc-for-selected-cc-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-cc-for-selected-cc-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5387,7 +5388,7 @@
       ];
     };
     zaibuyidao-duplicate-cc-for-selected-cc-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-cc-for-selected-cc-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5401,7 +5402,7 @@
       ];
     };
     zaibuyidao-duplicate-cc-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-cc-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5415,7 +5416,7 @@
       ];
     };
     zaibuyidao-duplicate-cc-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-cc-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5429,7 +5430,7 @@
       ];
     };
     zaibuyidao-duplicate-cc-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-cc-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5443,7 +5444,7 @@
       ];
     };
     zaibuyidao-duplicate-events-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5457,7 +5458,7 @@
       ];
     };
     zaibuyidao-duplicate-events-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5471,7 +5472,7 @@
       ];
     };
     zaibuyidao-duplicate-events-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5485,7 +5486,7 @@
       ];
     };
     zaibuyidao-duplicate-events-fast-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-fast-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5499,7 +5500,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5513,7 +5514,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5527,7 +5528,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5541,7 +5542,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-fast-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-fast-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5555,7 +5556,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-fast-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-fast-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5569,7 +5570,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-multitrack-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-multitrack-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5583,7 +5584,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-multitrack-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-multitrack-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5597,7 +5598,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-multitrack-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-multitrack-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5611,7 +5612,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-multitrack-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-multitrack-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5625,7 +5626,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-multitrack-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-multitrack-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5639,7 +5640,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-multitrack-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-multitrack-lua-1-4-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5653,7 +5654,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5667,7 +5668,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5681,7 +5682,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5695,7 +5696,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5709,7 +5710,7 @@
       ];
     };
     zaibuyidao-duplicate-events-to-edit-cursor-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-to-edit-cursor-lua-1-4-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5723,7 +5724,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5737,7 +5738,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5751,7 +5752,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5765,7 +5766,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5779,7 +5780,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5793,7 +5794,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5807,7 +5808,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-1-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5821,7 +5822,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-1-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5835,7 +5836,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-1-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5849,7 +5850,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5863,7 +5864,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5877,7 +5878,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-2-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5891,7 +5892,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-3-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5905,7 +5906,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-3-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5919,7 +5920,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-3-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5933,7 +5934,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-3-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5947,7 +5948,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-3-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-3-3-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5961,7 +5962,7 @@
       ];
     };
     zaibuyidao-duplicate-events-lua-3-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-events-lua-3-3-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5975,7 +5976,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -5989,7 +5990,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6003,7 +6004,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6017,7 +6018,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-fast-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-fast-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6031,7 +6032,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-fast-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-fast-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6045,7 +6046,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-fast-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-fast-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6059,7 +6060,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-fast-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-fast-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6073,7 +6074,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-fast-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-fast-lua-1-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6087,7 +6088,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-fast-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-fast-lua-1-0-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6101,7 +6102,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-within-time-selection-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6115,7 +6116,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-within-time-selection-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-within-time-selection-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6129,7 +6130,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6143,7 +6144,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6157,7 +6158,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6171,7 +6172,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-lua-1-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6185,7 +6186,7 @@
       ];
     };
     zaibuyidao-duplicate-musical-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-duplicate-musical-lua-1-2-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6199,7 +6200,7 @@
       ];
     };
     zaibuyidao-event-filter-select-control-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-control-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6213,7 +6214,7 @@
       ];
     };
     zaibuyidao-event-filter-select-control-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-control-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6227,7 +6228,7 @@
       ];
     };
     zaibuyidao-event-filter-select-control-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-control-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6241,7 +6242,7 @@
       ];
     };
     zaibuyidao-event-filter-select-control-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-control-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6255,7 +6256,7 @@
       ];
     };
     zaibuyidao-event-filter-select-control-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-control-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6269,7 +6270,7 @@
       ];
     };
     zaibuyidao-event-filter-select-control-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-control-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6283,7 +6284,7 @@
       ];
     };
     zaibuyidao-event-filter-select-control-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-control-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6297,7 +6298,7 @@
       ];
     };
     zaibuyidao-event-filter-select-note-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-note-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6311,7 +6312,7 @@
       ];
     };
     zaibuyidao-event-filter-select-note-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-note-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6325,7 +6326,7 @@
       ];
     };
     zaibuyidao-event-filter-select-note-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-note-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6339,7 +6340,7 @@
       ];
     };
     zaibuyidao-event-filter-select-note-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-note-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6353,7 +6354,7 @@
       ];
     };
     zaibuyidao-event-filter-select-note-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-note-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6367,7 +6368,7 @@
       ];
     };
     zaibuyidao-event-filter-select-wheel-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-wheel-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6381,7 +6382,7 @@
       ];
     };
     zaibuyidao-event-filter-select-wheel-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-wheel-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6395,7 +6396,7 @@
       ];
     };
     zaibuyidao-event-filter-select-wheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-wheel-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6409,7 +6410,7 @@
       ];
     };
     zaibuyidao-event-filter-select-wheel-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-wheel-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6423,7 +6424,7 @@
       ];
     };
     zaibuyidao-event-filter-select-wheel-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-filter-select-wheel-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6437,7 +6438,7 @@
       ];
     };
     zaibuyidao-event-value-plus01-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-value-plus01-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6451,7 +6452,7 @@
       ];
     };
     zaibuyidao-event-value-plus01-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-value-plus01-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6465,7 +6466,7 @@
       ];
     };
     zaibuyidao-event-value-plus01-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-value-plus01-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6479,7 +6480,7 @@
       ];
     };
     zaibuyidao-event-value-plus10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-value-plus10-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6493,7 +6494,7 @@
       ];
     };
     zaibuyidao-event-value-plus10-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-value-plus10-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6507,7 +6508,7 @@
       ];
     };
     zaibuyidao-event-value-plus10-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-value-plus10-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6521,7 +6522,7 @@
       ];
     };
     zaibuyidao-event-value-01-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-value-01-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6535,7 +6536,7 @@
       ];
     };
     zaibuyidao-event-value-01-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-value-01-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6549,7 +6550,7 @@
       ];
     };
     zaibuyidao-event-value-01-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-value-01-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6563,7 +6564,7 @@
       ];
     };
     zaibuyidao-event-value-10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-value-10-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6577,7 +6578,7 @@
       ];
     };
     zaibuyidao-event-value-10-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-value-10-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6591,7 +6592,7 @@
       ];
     };
     zaibuyidao-event-value-10-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-event-value-10-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6605,7 +6606,7 @@
       ];
     };
     zaibuyidao-generate-chord-by-root-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-generate-chord-by-root-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6619,7 +6620,7 @@
       ];
     };
     zaibuyidao-generate-chord-by-root-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-generate-chord-by-root-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6633,7 +6634,7 @@
       ];
     };
     zaibuyidao-generate-chord-by-root-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-generate-chord-by-root-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6647,7 +6648,7 @@
       ];
     };
     zaibuyidao-generate-chord-by-root-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-generate-chord-by-root-lua-1-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6661,7 +6662,7 @@
       ];
     };
     zaibuyidao-generate-chord-by-root-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-generate-chord-by-root-lua-1-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6675,7 +6676,7 @@
       ];
     };
     zaibuyidao-generate-chord-by-root-lua-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-generate-chord-by-root-lua-1-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6689,7 +6690,7 @@
       ];
     };
     zaibuyidao-glissando-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-glissando-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6703,7 +6704,7 @@
       ];
     };
     zaibuyidao-glissando-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-glissando-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6717,7 +6718,7 @@
       ];
     };
     zaibuyidao-glissando-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-glissando-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6731,7 +6732,7 @@
       ];
     };
     zaibuyidao-glissando-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-glissando-lua-1-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6745,7 +6746,7 @@
       ];
     };
     zaibuyidao-glissando-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-glissando-lua-1-2-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6759,7 +6760,7 @@
       ];
     };
     zaibuyidao-glissando-lua-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-glissando-lua-1-2-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6773,7 +6774,7 @@
       ];
     };
     zaibuyidao-grid-dynamic-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-grid-dynamic-menu-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6787,7 +6788,7 @@
       ];
     };
     zaibuyidao-grid-dynamic-menu-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-grid-dynamic-menu-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6801,7 +6802,7 @@
       ];
     };
     zaibuyidao-groove-quantize-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-groove-quantize-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6815,7 +6816,7 @@
       ];
     };
     zaibuyidao-groove-quantize-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-groove-quantize-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6829,7 +6830,7 @@
       ];
     };
     zaibuyidao-groove-quantize-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-groove-quantize-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6843,7 +6844,7 @@
       ];
     };
     zaibuyidao-groove-quantize-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-groove-quantize-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6857,7 +6858,7 @@
       ];
     };
     zaibuyidao-groove-quantize-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-groove-quantize-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6871,7 +6872,7 @@
       ];
     };
     zaibuyidao-groove-quantize-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-groove-quantize-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6885,7 +6886,7 @@
       ];
     };
     zaibuyidao-groove-quantize-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-groove-quantize-lua-1-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6899,7 +6900,7 @@
       ];
     };
     zaibuyidao-groove-quantize-lua-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-groove-quantize-lua-1-6-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6913,7 +6914,7 @@
       ];
     };
     zaibuyidao-groove-quantize-lua-1-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-groove-quantize-lua-1-6-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6927,7 +6928,7 @@
       ];
     };
     zaibuyidao-groove-quantize-lua-1-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-groove-quantize-lua-1-6-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6941,7 +6942,7 @@
       ];
     };
     zaibuyidao-harmony-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-harmony-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6955,7 +6956,7 @@
       ];
     };
     zaibuyidao-harmony-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-harmony-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6969,7 +6970,7 @@
       ];
     };
     zaibuyidao-harmony-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-harmony-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6983,7 +6984,7 @@
       ];
     };
     zaibuyidao-harmony-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-harmony-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -6997,7 +6998,7 @@
       ];
     };
     zaibuyidao-humanize-velocity-customize-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-velocity-customize-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7011,7 +7012,7 @@
       ];
     };
     zaibuyidao-humanize-velocity-customize-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-velocity-customize-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7025,7 +7026,7 @@
       ];
     };
     zaibuyidao-humanize-velocity-customize-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-velocity-customize-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7039,7 +7040,7 @@
       ];
     };
     zaibuyidao-humanize-velocity-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-velocity-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7053,7 +7054,7 @@
       ];
     };
     zaibuyidao-humanize-velocity-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-velocity-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7067,7 +7068,7 @@
       ];
     };
     zaibuyidao-humanize-velocity-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-velocity-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7081,7 +7082,7 @@
       ];
     };
     zaibuyidao-humanize-velocity-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-velocity-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7095,7 +7096,7 @@
       ];
     };
     zaibuyidao-humanize-velocity-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-velocity-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7109,7 +7110,7 @@
       ];
     };
     zaibuyidao-humanize-velocity-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-velocity-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7123,7 +7124,7 @@
       ];
     };
     zaibuyidao-humanize-velocity-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-velocity-lua-1-5-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7137,7 +7138,7 @@
       ];
     };
     zaibuyidao-humanize-velocity-lua-1-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-velocity-lua-1-5-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7151,7 +7152,7 @@
       ];
     };
     zaibuyidao-humanize-velocity-lua-1-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-velocity-lua-1-5-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7165,7 +7166,7 @@
       ];
     };
     zaibuyidao-insert-all-sound-off-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-all-sound-off-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7179,7 +7180,7 @@
       ];
     };
     zaibuyidao-insert-all-sound-off-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-all-sound-off-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7193,7 +7194,7 @@
       ];
     };
     zaibuyidao-insert-all-sound-off-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-all-sound-off-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7207,7 +7208,7 @@
       ];
     };
     zaibuyidao-insert-cc-curve-sawtooth-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-curve-sawtooth-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7221,7 +7222,7 @@
       ];
     };
     zaibuyidao-insert-cc-curve-sine-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-curve-sine-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7235,7 +7236,7 @@
       ];
     };
     zaibuyidao-insert-cc-curve-square-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-curve-square-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7249,7 +7250,7 @@
       ];
     };
     zaibuyidao-insert-cc-curve-triangle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-curve-triangle-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7263,7 +7264,7 @@
       ];
     };
     zaibuyidao-insert-cc-curve-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-curve-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7277,7 +7278,7 @@
       ];
     };
     zaibuyidao-insert-cc-events-1-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-events-1-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7291,7 +7292,7 @@
       ];
     };
     zaibuyidao-insert-cc-events-1-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-events-1-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7305,7 +7306,7 @@
       ];
     };
     zaibuyidao-insert-cc-events-1-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-events-1-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7319,7 +7320,7 @@
       ];
     };
     zaibuyidao-insert-cc-events-1-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-events-1-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7333,7 +7334,7 @@
       ];
     };
     zaibuyidao-insert-cc-events-2-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-events-2-within-time-selection-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7347,7 +7348,7 @@
       ];
     };
     zaibuyidao-insert-cc-events-2-within-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-events-2-within-time-selection-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7361,7 +7362,7 @@
       ];
     };
     zaibuyidao-insert-cc-events-2-within-time-selection-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-events-2-within-time-selection-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7375,7 +7376,7 @@
       ];
     };
     zaibuyidao-insert-cc-events-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-events-2-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7389,7 +7390,7 @@
       ];
     };
     zaibuyidao-insert-cc-events-2-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-events-2-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7403,7 +7404,7 @@
       ];
     };
     zaibuyidao-insert-cc-events-2-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-events-2-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7417,7 +7418,7 @@
       ];
     };
     zaibuyidao-insert-cc-events-2-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-events-2-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7431,7 +7432,7 @@
       ];
     };
     zaibuyidao-insert-cc-events-lr-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-events-lr-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7445,7 +7446,7 @@
       ];
     };
     zaibuyidao-insert-cc-events-lr-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-events-lr-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7459,7 +7460,7 @@
       ];
     };
     zaibuyidao-insert-expression-set-cc-shape-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-expression-set-cc-shape-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7473,7 +7474,7 @@
       ];
     };
     zaibuyidao-insert-patch-change-bank-msb-lsb-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-patch-change-bank-msb-lsb-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7487,7 +7488,7 @@
       ];
     };
     zaibuyidao-insert-patch-change-bank-msb-lsb-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-patch-change-bank-msb-lsb-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7501,7 +7502,7 @@
       ];
     };
     zaibuyidao-insert-patch-change-bank-msb-lsb-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-patch-change-bank-msb-lsb-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7515,7 +7516,7 @@
       ];
     };
     zaibuyidao-insert-patch-change-bank-msb-lsb-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-patch-change-bank-msb-lsb-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7529,7 +7530,7 @@
       ];
     };
     zaibuyidao-insert-patch-change-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-patch-change-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7543,7 +7544,7 @@
       ];
     };
     zaibuyidao-insert-patch-change-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-patch-change-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7557,7 +7558,7 @@
       ];
     };
     zaibuyidao-insert-patch-change-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-patch-change-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7571,7 +7572,7 @@
       ];
     };
     zaibuyidao-insert-patch-change-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-patch-change-lua-1-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7585,7 +7586,7 @@
       ];
     };
     zaibuyidao-insert-patch-change-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-patch-change-lua-1-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7599,7 +7600,7 @@
       ];
     };
     zaibuyidao-insert-patch-change-lua-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-patch-change-lua-1-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7613,7 +7614,7 @@
       ];
     };
     zaibuyidao-insert-patch-change-lua-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-patch-change-lua-1-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7627,7 +7628,7 @@
       ];
     };
     zaibuyidao-insert-patch-change-lua-1-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-patch-change-lua-1-1-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7641,7 +7642,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-by-semitone-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-by-semitone-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7655,7 +7656,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-sawtooth-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-sawtooth-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7669,7 +7670,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-sawtooth-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-sawtooth-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7683,7 +7684,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-sawtooth-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-sawtooth-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7697,7 +7698,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-sine-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-sine-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7711,7 +7712,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-sine-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-sine-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7725,7 +7726,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-sine-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-sine-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7739,7 +7740,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-square-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-square-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7753,7 +7754,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-square-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-square-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7767,7 +7768,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-square-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-square-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7781,7 +7782,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-triangle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-triangle-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7795,7 +7796,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-triangle-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-triangle-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7809,7 +7810,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-triangle-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-triangle-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7823,7 +7824,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7837,7 +7838,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7851,7 +7852,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7865,7 +7866,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-curve-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-curve-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7879,7 +7880,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-reset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-reset-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7893,7 +7894,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7907,7 +7908,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7921,7 +7922,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7935,7 +7936,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7949,7 +7950,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7963,7 +7964,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-lua-1-4-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7977,7 +7978,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-lua-1-5-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -7991,7 +7992,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-lua-1-5-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8005,7 +8006,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-lua-1-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-lua-1-5-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8019,7 +8020,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-lua-1-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-lua-1-5-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8033,7 +8034,7 @@
       ];
     };
     zaibuyidao-insert-pitch-bend-lua-1-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-pitch-bend-lua-1-5-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8047,7 +8048,7 @@
       ];
     };
     zaibuyidao-insert-random-cc-events-for-selected-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-random-cc-events-for-selected-notes-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8061,7 +8062,7 @@
       ];
     };
     zaibuyidao-insert-random-cc-events-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-random-cc-events-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8075,7 +8076,7 @@
       ];
     };
     zaibuyidao-insert-random-cc-events-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-random-cc-events-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8089,7 +8090,7 @@
       ];
     };
     zaibuyidao-insert-random-cc-events-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-random-cc-events-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8103,7 +8104,7 @@
       ];
     };
     zaibuyidao-insert-random-cc-events-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-random-cc-events-lua-1-21";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8117,7 +8118,7 @@
       ];
     };
     zaibuyidao-insert-random-cc-events-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-random-cc-events-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8131,7 +8132,7 @@
       ];
     };
     zaibuyidao-insert-random-cc-events-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-random-cc-events-lua-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8145,7 +8146,7 @@
       ];
     };
     zaibuyidao-insert-sustain-pedal-for-selected-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-sustain-pedal-for-selected-notes-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8159,7 +8160,7 @@
       ];
     };
     zaibuyidao-insert-sustain-pedal-for-selected-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-sustain-pedal-for-selected-notes-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8173,7 +8174,7 @@
       ];
     };
     zaibuyidao-insert-sustain-pedal-for-selected-notes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-sustain-pedal-for-selected-notes-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8187,7 +8188,7 @@
       ];
     };
     zaibuyidao-insert-sustain-pedal-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-sustain-pedal-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8201,7 +8202,7 @@
       ];
     };
     zaibuyidao-insert-sustain-pedal-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-sustain-pedal-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8215,7 +8216,7 @@
       ];
     };
     zaibuyidao-insert-sustain-pedal-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-sustain-pedal-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8229,7 +8230,7 @@
       ];
     };
     zaibuyidao-insert-sustain-pedal-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-sustain-pedal-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8243,7 +8244,7 @@
       ];
     };
     zaibuyidao-insert-sustain-pedal-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-sustain-pedal-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8257,7 +8258,7 @@
       ];
     };
     zaibuyidao-insert-sustain-pedal-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-sustain-pedal-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8271,7 +8272,7 @@
       ];
     };
     zaibuyidao-insert-sustain-pedal-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-sustain-pedal-lua-1-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8285,7 +8286,7 @@
       ];
     };
     zaibuyidao-insert-sysex-message-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-sysex-message-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8299,7 +8300,7 @@
       ];
     };
     zaibuyidao-insert-tremolo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-tremolo-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8313,7 +8314,7 @@
       ];
     };
     zaibuyidao-insert-tremolo-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-tremolo-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8327,7 +8328,7 @@
       ];
     };
     zaibuyidao-insert-vibrato-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-vibrato-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8341,7 +8342,7 @@
       ];
     };
     zaibuyidao-insert-vibrato-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-vibrato-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8355,7 +8356,7 @@
       ];
     };
     zaibuyidao-insert-vibrato-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-vibrato-lua-2-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8369,7 +8370,7 @@
       ];
     };
     zaibuyidao-insert-vibrato-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-vibrato-lua-2-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8383,7 +8384,7 @@
       ];
     };
     zaibuyidao-insert-vibrato-lua-2-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-vibrato-lua-2-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8397,7 +8398,7 @@
       ];
     };
     zaibuyidao-insert-vibrato-lua-2-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-vibrato-lua-2-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8411,7 +8412,7 @@
       ];
     };
     zaibuyidao-insert-vibrato-lua-2-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-vibrato-lua-2-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8425,7 +8426,7 @@
       ];
     };
     zaibuyidao-insert-vibrato-lua-2-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-vibrato-lua-2-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8439,7 +8440,7 @@
       ];
     };
     zaibuyidao-insert-vibrato-lua-2-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-vibrato-lua-2-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8453,7 +8454,7 @@
       ];
     };
     zaibuyidao-insert-wah-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-wah-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8467,7 +8468,7 @@
       ];
     };
     zaibuyidao-insert-wah-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-wah-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8481,7 +8482,7 @@
       ];
     };
     zaibuyidao-insert-wah-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-wah-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8495,7 +8496,7 @@
       ];
     };
     zaibuyidao-insert-wah-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-wah-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8509,7 +8510,7 @@
       ];
     };
     zaibuyidao-insert-wah-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-wah-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8523,7 +8524,7 @@
       ];
     };
     zaibuyidao-insert-wah-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-wah-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8537,7 +8538,7 @@
       ];
     };
     zaibuyidao-insert-wah-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-wah-lua-1-5-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8551,7 +8552,7 @@
       ];
     };
     zaibuyidao-interval-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-interval-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8565,7 +8566,7 @@
       ];
     };
     zaibuyidao-legato-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-legato-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8579,7 +8580,7 @@
       ];
     };
     zaibuyidao-legato-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-legato-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8593,7 +8594,7 @@
       ];
     };
     zaibuyidao-legato-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-legato-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8607,7 +8608,7 @@
       ];
     };
     zaibuyidao-legato-fast-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-legato-fast-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8621,7 +8622,7 @@
       ];
     };
     zaibuyidao-legato-fast-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-legato-fast-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8635,7 +8636,7 @@
       ];
     };
     zaibuyidao-legato-fast-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-legato-fast-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8649,7 +8650,7 @@
       ];
     };
     zaibuyidao-legato-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-legato-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8663,7 +8664,7 @@
       ];
     };
     zaibuyidao-legato-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-legato-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8677,7 +8678,7 @@
       ];
     };
     zaibuyidao-linear-ramp-cc-events-multitrack-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-cc-events-multitrack-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8691,7 +8692,7 @@
       ];
     };
     zaibuyidao-linear-ramp-cc-events-multitrack-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-cc-events-multitrack-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8705,7 +8706,7 @@
       ];
     };
     zaibuyidao-linear-ramp-cc-events-multitrack-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-cc-events-multitrack-lua-1-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8719,7 +8720,7 @@
       ];
     };
     zaibuyidao-linear-ramp-cc-events-multitrack-lua-1-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-cc-events-multitrack-lua-1-7-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8733,7 +8734,7 @@
       ];
     };
     zaibuyidao-linear-ramp-cc-events-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-cc-events-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8747,7 +8748,7 @@
       ];
     };
     zaibuyidao-linear-ramp-cc-events-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-cc-events-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8761,7 +8762,7 @@
       ];
     };
     zaibuyidao-linear-ramp-cc-events-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-cc-events-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8775,7 +8776,7 @@
       ];
     };
     zaibuyidao-linear-ramp-cc-events-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-cc-events-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8789,7 +8790,7 @@
       ];
     };
     zaibuyidao-linear-ramp-cc-events-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-cc-events-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8803,7 +8804,7 @@
       ];
     };
     zaibuyidao-linear-ramp-cc-events-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-cc-events-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8817,7 +8818,7 @@
       ];
     };
     zaibuyidao-linear-ramp-cc-events-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-cc-events-lua-1-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8831,7 +8832,7 @@
       ];
     };
     zaibuyidao-linear-ramp-cc-events-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-cc-events-lua-1-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8845,7 +8846,7 @@
       ];
     };
     zaibuyidao-linear-ramp-cc-events-lua-1-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-cc-events-lua-1-7-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8859,7 +8860,7 @@
       ];
     };
     zaibuyidao-linear-ramp-pitch-bend-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-pitch-bend-within-time-selection-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8873,7 +8874,7 @@
       ];
     };
     zaibuyidao-linear-ramp-pitch-bend-within-time-selection-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-linear-ramp-pitch-bend-within-time-selection-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8887,7 +8888,7 @@
       ];
     };
     zaibuyidao-midi-item-list-dynamic-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-midi-item-list-dynamic-menu-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8901,7 +8902,7 @@
       ];
     };
     zaibuyidao-midi-item-list-dynamic-menu-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-midi-item-list-dynamic-menu-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8915,7 +8916,7 @@
       ];
     };
     zaibuyidao-midi-item-list-dynamic-menu-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-midi-item-list-dynamic-menu-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8929,7 +8930,7 @@
       ];
     };
     zaibuyidao-move-edit-cursor-plus10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-edit-cursor-plus10-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8943,7 +8944,7 @@
       ];
     };
     zaibuyidao-move-edit-cursor-plus10-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-edit-cursor-plus10-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8957,7 +8958,7 @@
       ];
     };
     zaibuyidao-move-edit-cursor-10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-edit-cursor-10-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8971,7 +8972,7 @@
       ];
     };
     zaibuyidao-move-edit-cursor-10-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-edit-cursor-10-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8985,7 +8986,7 @@
       ];
     };
     zaibuyidao-move-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-edit-cursor-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -8999,7 +9000,7 @@
       ];
     };
     zaibuyidao-move-events-by-millisecond-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-events-by-millisecond-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9013,7 +9014,7 @@
       ];
     };
     zaibuyidao-move-events-left-10-ticks-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-events-left-10-ticks-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9027,7 +9028,7 @@
       ];
     };
     zaibuyidao-move-events-left-10-ticks-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-events-left-10-ticks-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9041,7 +9042,7 @@
       ];
     };
     zaibuyidao-move-events-left-10ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-events-left-10ms-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9055,7 +9056,7 @@
       ];
     };
     zaibuyidao-move-events-left-50ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-events-left-50ms-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9069,7 +9070,7 @@
       ];
     };
     zaibuyidao-move-events-right-10-ticks-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-events-right-10-ticks-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9083,7 +9084,7 @@
       ];
     };
     zaibuyidao-move-events-right-10-ticks-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-events-right-10-ticks-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9097,7 +9098,7 @@
       ];
     };
     zaibuyidao-move-events-right-10ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-events-right-10ms-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9111,7 +9112,7 @@
       ];
     };
     zaibuyidao-move-events-right-50ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-events-right-50ms-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9125,7 +9126,7 @@
       ];
     };
     zaibuyidao-move-events-to-edit-cursor-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-events-to-edit-cursor-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9139,7 +9140,7 @@
       ];
     };
     zaibuyidao-move-events-to-edit-cursor-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-events-to-edit-cursor-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9153,7 +9154,7 @@
       ];
     };
     zaibuyidao-move-events-to-edit-cursor-multitrack-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-events-to-edit-cursor-multitrack-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9167,7 +9168,7 @@
       ];
     };
     zaibuyidao-move-events-to-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-events-to-edit-cursor-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9181,7 +9182,7 @@
       ];
     };
     zaibuyidao-move-notes-plus01-semitone-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-notes-plus01-semitone-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9195,7 +9196,7 @@
       ];
     };
     zaibuyidao-move-notes-plus12-semitone-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-notes-plus12-semitone-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9209,7 +9210,7 @@
       ];
     };
     zaibuyidao-move-notes-01-semitone-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-notes-01-semitone-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9223,7 +9224,7 @@
       ];
     };
     zaibuyidao-move-notes-12-semitone-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-notes-12-semitone-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9237,7 +9238,7 @@
       ];
     };
     zaibuyidao-move-pitch-bend-down-one-semitone-pitchwheel-range-02-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-pitch-bend-down-one-semitone-pitchwheel-range-02-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9251,7 +9252,7 @@
       ];
     };
     zaibuyidao-move-pitch-bend-down-one-semitone-pitchwheel-range-12-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-pitch-bend-down-one-semitone-pitchwheel-range-12-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9265,7 +9266,7 @@
       ];
     };
     zaibuyidao-move-pitch-bend-up-one-semitone-pitchwheel-range-02-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-pitch-bend-up-one-semitone-pitchwheel-range-02-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9279,7 +9280,7 @@
       ];
     };
     zaibuyidao-move-pitch-bend-up-one-semitone-pitchwheel-range-12-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-pitch-bend-up-one-semitone-pitchwheel-range-12-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9293,7 +9294,7 @@
       ];
     };
     zaibuyidao-move-pitch-bend-up-down-by-semitones-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-pitch-bend-up-down-by-semitones-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9307,7 +9308,7 @@
       ];
     };
     zaibuyidao-move-pitch-bend-up-down-by-semitones-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-pitch-bend-up-down-by-semitones-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9321,7 +9322,7 @@
       ];
     };
     zaibuyidao-note-off-velocity-plus01-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-note-off-velocity-plus01-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9335,7 +9336,7 @@
       ];
     };
     zaibuyidao-note-off-velocity-plus10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-note-off-velocity-plus10-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9349,7 +9350,7 @@
       ];
     };
     zaibuyidao-note-off-velocity-01-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-note-off-velocity-01-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9363,7 +9364,7 @@
       ];
     };
     zaibuyidao-note-off-velocity-10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-note-off-velocity-10-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9377,7 +9378,7 @@
       ];
     };
     zaibuyidao-notes-to-pitch-bend-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-notes-to-pitch-bend-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9391,7 +9392,7 @@
       ];
     };
     zaibuyidao-notes-to-pitch-bend-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-notes-to-pitch-bend-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9405,7 +9406,7 @@
       ];
     };
     zaibuyidao-notes-to-smooth-pitch-bend-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-notes-to-smooth-pitch-bend-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9419,7 +9420,7 @@
       ];
     };
     zaibuyidao-paste-selected-arpeggio-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-selected-arpeggio-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9433,7 +9434,7 @@
       ];
     };
     zaibuyidao-paste-selected-arpeggio-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-selected-arpeggio-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9447,7 +9448,7 @@
       ];
     };
     zaibuyidao-paste-selected-arpeggio-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-selected-arpeggio-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9461,7 +9462,7 @@
       ];
     };
     zaibuyidao-paste-selected-arpeggio-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-selected-arpeggio-lua-1-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9475,7 +9476,7 @@
       ];
     };
     zaibuyidao-paste-selected-rhythm-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-selected-rhythm-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9489,7 +9490,7 @@
       ];
     };
     zaibuyidao-paste-selected-rhythm-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-selected-rhythm-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9503,7 +9504,7 @@
       ];
     };
     zaibuyidao-paste-selected-rhythm-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-selected-rhythm-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9517,7 +9518,7 @@
       ];
     };
     zaibuyidao-paste-selected-rhythm-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-selected-rhythm-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9531,7 +9532,7 @@
       ];
     };
     zaibuyidao-paste-selected-rhythm-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-selected-rhythm-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9545,7 +9546,7 @@
       ];
     };
     zaibuyidao-paste-selected-rhythm-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-selected-rhythm-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9559,7 +9560,7 @@
       ];
     };
     zaibuyidao-paste-selected-rhythm-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-selected-rhythm-lua-1-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9573,7 +9574,7 @@
       ];
     };
     zaibuyidao-paste-selected-rhythm-lua-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-selected-rhythm-lua-1-6-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9587,7 +9588,7 @@
       ];
     };
     zaibuyidao-quantize-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9601,7 +9602,7 @@
       ];
     };
     zaibuyidao-quantize-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9615,7 +9616,7 @@
       ];
     };
     zaibuyidao-quantize-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9629,7 +9630,7 @@
       ];
     };
     zaibuyidao-quantize-fast-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-fast-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9643,7 +9644,7 @@
       ];
     };
     zaibuyidao-quantize-fast-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-fast-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9657,7 +9658,7 @@
       ];
     };
     zaibuyidao-quantize-fast-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-fast-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9671,7 +9672,7 @@
       ];
     };
     zaibuyidao-quantize-fast-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-fast-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9685,7 +9686,7 @@
       ];
     };
     zaibuyidao-quantize-fast-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-fast-lua-1-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9699,7 +9700,7 @@
       ];
     };
     zaibuyidao-quantize-fast-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-fast-lua-1-0-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9713,7 +9714,7 @@
       ];
     };
     zaibuyidao-quantize-pitch-bend-to-semitones-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-pitch-bend-to-semitones-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9727,7 +9728,7 @@
       ];
     };
     zaibuyidao-quantize-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9741,7 +9742,7 @@
       ];
     };
     zaibuyidao-quantize-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9755,7 +9756,7 @@
       ];
     };
     zaibuyidao-quantize-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9769,7 +9770,7 @@
       ];
     };
     zaibuyidao-quantize-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-lua-1-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9783,7 +9784,7 @@
       ];
     };
     zaibuyidao-quantize-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-lua-1-2-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9797,7 +9798,7 @@
       ];
     };
     zaibuyidao-quantize-lua-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-lua-1-2-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9811,7 +9812,7 @@
       ];
     };
     zaibuyidao-quantize-lua-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-quantize-lua-1-2-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9825,7 +9826,7 @@
       ];
     };
     zaibuyidao-random-cc-position-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-within-time-selection-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9839,7 +9840,7 @@
       ];
     };
     zaibuyidao-random-cc-position-within-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-within-time-selection-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9853,7 +9854,7 @@
       ];
     };
     zaibuyidao-random-cc-position-within-time-selection-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-within-time-selection-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9867,7 +9868,7 @@
       ];
     };
     zaibuyidao-random-cc-position-within-time-selection-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-within-time-selection-lua-1-21";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9881,7 +9882,7 @@
       ];
     };
     zaibuyidao-random-cc-position-within-time-selection-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-within-time-selection-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9895,7 +9896,7 @@
       ];
     };
     zaibuyidao-random-cc-position-within-time-selection-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-within-time-selection-lua-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9909,7 +9910,7 @@
       ];
     };
     zaibuyidao-random-cc-position-within-time-selection-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-within-time-selection-lua-2-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9923,7 +9924,7 @@
       ];
     };
     zaibuyidao-random-cc-position-within-time-selection-lua-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-within-time-selection-lua-3-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9937,7 +9938,7 @@
       ];
     };
     zaibuyidao-random-cc-position-and-value-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-and-value-within-time-selection-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9951,7 +9952,7 @@
       ];
     };
     zaibuyidao-random-cc-position-and-value-within-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-and-value-within-time-selection-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9965,7 +9966,7 @@
       ];
     };
     zaibuyidao-random-cc-position-and-value-within-time-selection-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-and-value-within-time-selection-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9979,7 +9980,7 @@
       ];
     };
     zaibuyidao-random-cc-position-and-value-within-time-selection-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-and-value-within-time-selection-lua-1-21";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -9993,7 +9994,7 @@
       ];
     };
     zaibuyidao-random-cc-position-and-value-within-time-selection-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-and-value-within-time-selection-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10007,7 +10008,7 @@
       ];
     };
     zaibuyidao-random-cc-position-and-value-within-time-selection-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-and-value-within-time-selection-lua-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10021,7 +10022,7 @@
       ];
     };
     zaibuyidao-random-cc-position-and-value-within-time-selection-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-and-value-within-time-selection-lua-2-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10035,7 +10036,7 @@
       ];
     };
     zaibuyidao-random-cc-position-and-value-within-time-selection-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-and-value-within-time-selection-lua-2-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10049,7 +10050,7 @@
       ];
     };
     zaibuyidao-random-cc-position-and-value-within-time-selection-lua-2-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-position-and-value-within-time-selection-lua-2-3-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10063,7 +10064,7 @@
       ];
     };
     zaibuyidao-random-cc-value-limit-range-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-limit-range-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10077,7 +10078,7 @@
       ];
     };
     zaibuyidao-random-cc-value-limit-range-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-limit-range-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10091,7 +10092,7 @@
       ];
     };
     zaibuyidao-random-cc-value-limit-range-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-limit-range-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10105,7 +10106,7 @@
       ];
     };
     zaibuyidao-random-cc-value-limit-range-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-limit-range-lua-1-21";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10119,7 +10120,7 @@
       ];
     };
     zaibuyidao-random-cc-value-limit-range-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-limit-range-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10133,7 +10134,7 @@
       ];
     };
     zaibuyidao-random-cc-value-limit-range-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-limit-range-lua-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10147,7 +10148,7 @@
       ];
     };
     zaibuyidao-random-cc-value-limit-range-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-limit-range-lua-2-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10161,7 +10162,7 @@
       ];
     };
     zaibuyidao-random-cc-value-limit-range-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-limit-range-lua-2-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10175,7 +10176,7 @@
       ];
     };
     zaibuyidao-random-cc-value-gui-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-gui-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10189,7 +10190,7 @@
       ];
     };
     zaibuyidao-random-cc-value-gui-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-gui-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10203,7 +10204,7 @@
       ];
     };
     zaibuyidao-random-cc-value-gui-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-gui-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10217,7 +10218,7 @@
       ];
     };
     zaibuyidao-random-cc-value-gui-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-gui-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10231,7 +10232,7 @@
       ];
     };
     zaibuyidao-random-cc-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10245,7 +10246,7 @@
       ];
     };
     zaibuyidao-random-cc-value-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10259,7 +10260,7 @@
       ];
     };
     zaibuyidao-random-cc-value-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10273,7 +10274,7 @@
       ];
     };
     zaibuyidao-random-cc-value-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-lua-1-21";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10287,7 +10288,7 @@
       ];
     };
     zaibuyidao-random-cc-value-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10301,7 +10302,7 @@
       ];
     };
     zaibuyidao-random-cc-value-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-lua-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10315,7 +10316,7 @@
       ];
     };
     zaibuyidao-random-cc-value-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-lua-2-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10329,7 +10330,7 @@
       ];
     };
     zaibuyidao-random-cc-value-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-cc-value-lua-2-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10343,7 +10344,7 @@
       ];
     };
     zaibuyidao-random-note-durations-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-durations-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10357,7 +10358,7 @@
       ];
     };
     zaibuyidao-random-note-ends-customizable-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-ends-customizable-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10371,7 +10372,7 @@
       ];
     };
     zaibuyidao-random-note-ends-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-ends-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10385,7 +10386,7 @@
       ];
     };
     zaibuyidao-random-note-key-customizable-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-key-customizable-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10399,7 +10400,7 @@
       ];
     };
     zaibuyidao-random-note-key-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-key-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10413,7 +10414,7 @@
       ];
     };
     zaibuyidao-random-note-key-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-key-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10427,7 +10428,7 @@
       ];
     };
     zaibuyidao-random-note-key-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-key-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10441,7 +10442,7 @@
       ];
     };
     zaibuyidao-random-note-mute-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-mute-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10455,7 +10456,7 @@
       ];
     };
     zaibuyidao-random-note-mute-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-mute-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10469,7 +10470,7 @@
       ];
     };
     zaibuyidao-random-note-pitch-customizable-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-pitch-customizable-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10483,7 +10484,7 @@
       ];
     };
     zaibuyidao-random-note-pitch-by-key-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-pitch-by-key-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10497,7 +10498,7 @@
       ];
     };
     zaibuyidao-random-note-pitch-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-pitch-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10511,7 +10512,7 @@
       ];
     };
     zaibuyidao-random-note-pitch-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-pitch-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10525,7 +10526,7 @@
       ];
     };
     zaibuyidao-random-note-position-by-grid-within-time-selection-single-line-only-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-position-by-grid-within-time-selection-single-line-only-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10539,7 +10540,7 @@
       ];
     };
     zaibuyidao-random-note-position-by-grid-within-time-selection-single-line-only-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-position-by-grid-within-time-selection-single-line-only-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10553,7 +10554,7 @@
       ];
     };
     zaibuyidao-random-note-position-by-grid-within-time-selection-single-line-only-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-position-by-grid-within-time-selection-single-line-only-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10567,7 +10568,7 @@
       ];
     };
     zaibuyidao-random-note-position-by-grid-within-time-selection-single-line-only-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-position-by-grid-within-time-selection-single-line-only-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10581,7 +10582,7 @@
       ];
     };
     zaibuyidao-random-note-position-by-grid-within-time-selection-single-line-only-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-position-by-grid-within-time-selection-single-line-only-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10595,7 +10596,7 @@
       ];
     };
     zaibuyidao-random-note-position-by-grid-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-position-by-grid-within-time-selection-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10609,7 +10610,7 @@
       ];
     };
     zaibuyidao-random-note-position-by-grid-within-time-selection-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-position-by-grid-within-time-selection-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10623,7 +10624,7 @@
       ];
     };
     zaibuyidao-random-note-position-by-grid-within-time-selection-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-position-by-grid-within-time-selection-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10637,7 +10638,7 @@
       ];
     };
     zaibuyidao-random-note-position-swap-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-position-swap-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10651,7 +10652,7 @@
       ];
     };
     zaibuyidao-random-note-position-swap-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-position-swap-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10665,7 +10666,7 @@
       ];
     };
     zaibuyidao-random-note-position-swap-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-position-swap-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10679,7 +10680,7 @@
       ];
     };
     zaibuyidao-random-note-starts-customizable-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-starts-customizable-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10693,7 +10694,7 @@
       ];
     };
     zaibuyidao-random-note-starts-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-starts-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10707,7 +10708,7 @@
       ];
     };
     zaibuyidao-random-note-to-arpeggio-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-note-to-arpeggio-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10721,7 +10722,7 @@
       ];
     };
     zaibuyidao-random-velocity-customize-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-customize-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10735,7 +10736,7 @@
       ];
     };
     zaibuyidao-random-velocity-limit-range-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-limit-range-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10749,7 +10750,7 @@
       ];
     };
     zaibuyidao-random-velocity-limit-range-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-limit-range-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10763,7 +10764,7 @@
       ];
     };
     zaibuyidao-random-velocity-limit-range-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-limit-range-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10777,7 +10778,7 @@
       ];
     };
     zaibuyidao-random-velocity-limit-range-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-limit-range-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10791,7 +10792,7 @@
       ];
     };
     zaibuyidao-random-velocity-limit-range-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-limit-range-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10805,7 +10806,7 @@
       ];
     };
     zaibuyidao-random-velocity-limit-range-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-limit-range-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10819,7 +10820,7 @@
       ];
     };
     zaibuyidao-random-velocity-gui-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-gui-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10833,7 +10834,7 @@
       ];
     };
     zaibuyidao-random-velocity-gui-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-gui-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10847,7 +10848,7 @@
       ];
     };
     zaibuyidao-random-velocity-gui-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-gui-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10861,7 +10862,7 @@
       ];
     };
     zaibuyidao-random-velocity-gui-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-gui-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10875,7 +10876,7 @@
       ];
     };
     zaibuyidao-random-velocity-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10889,7 +10890,7 @@
       ];
     };
     zaibuyidao-random-velocity-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10903,7 +10904,7 @@
       ];
     };
     zaibuyidao-random-velocity-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10917,7 +10918,7 @@
       ];
     };
     zaibuyidao-random-velocity-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10931,7 +10932,7 @@
       ];
     };
     zaibuyidao-random-velocity-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10945,7 +10946,7 @@
       ];
     };
     zaibuyidao-random-velocity-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10959,7 +10960,7 @@
       ];
     };
     zaibuyidao-random-velocity-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-random-velocity-lua-1-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10973,7 +10974,7 @@
       ];
     };
     zaibuyidao-remove-redundant-ccs-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-remove-redundant-ccs-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -10987,7 +10988,7 @@
       ];
     };
     zaibuyidao-remove-redundant-ccs-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-remove-redundant-ccs-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11001,7 +11002,7 @@
       ];
     };
     zaibuyidao-rhythm-layer-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-rhythm-layer-selection-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11015,7 +11016,7 @@
       ];
     };
     zaibuyidao-scale-control-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-control-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11029,7 +11030,7 @@
       ];
     };
     zaibuyidao-scale-control-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-control-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11043,7 +11044,7 @@
       ];
     };
     zaibuyidao-scale-control-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-control-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11057,7 +11058,7 @@
       ];
     };
     zaibuyidao-scale-velocity-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11071,7 +11072,7 @@
       ];
     };
     zaibuyidao-scale-velocity-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11085,7 +11086,7 @@
       ];
     };
     zaibuyidao-scale-velocity-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11099,7 +11100,7 @@
       ];
     };
     zaibuyidao-scale-velocity-fast-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-fast-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11113,7 +11114,7 @@
       ];
     };
     zaibuyidao-scale-velocity-fast-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-fast-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11127,7 +11128,7 @@
       ];
     };
     zaibuyidao-scale-velocity-fast-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-fast-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11141,7 +11142,7 @@
       ];
     };
     zaibuyidao-scale-velocity-fast-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-fast-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11155,7 +11156,7 @@
       ];
     };
     zaibuyidao-scale-velocity-multitrack-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-multitrack-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11169,7 +11170,7 @@
       ];
     };
     zaibuyidao-scale-velocity-multitrack-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-multitrack-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11183,7 +11184,7 @@
       ];
     };
     zaibuyidao-scale-velocity-multitrack-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-multitrack-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11197,7 +11198,7 @@
       ];
     };
     zaibuyidao-scale-velocity-multitrack-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-multitrack-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11211,7 +11212,7 @@
       ];
     };
     zaibuyidao-scale-velocity-multitrack-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-multitrack-lua-1-3-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11225,7 +11226,7 @@
       ];
     };
     zaibuyidao-scale-velocity-multitrack-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-multitrack-lua-1-3-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11239,7 +11240,7 @@
       ];
     };
     zaibuyidao-scale-velocity-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11253,7 +11254,7 @@
       ];
     };
     zaibuyidao-scale-velocity-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11267,7 +11268,7 @@
       ];
     };
     zaibuyidao-scale-velocity-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11281,7 +11282,7 @@
       ];
     };
     zaibuyidao-scale-velocity-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11295,7 +11296,7 @@
       ];
     };
     zaibuyidao-scale-velocity-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11309,7 +11310,7 @@
       ];
     };
     zaibuyidao-scale-velocity-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11323,7 +11324,7 @@
       ];
     };
     zaibuyidao-scale-velocity-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-lua-1-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11337,7 +11338,7 @@
       ];
     };
     zaibuyidao-scale-velocity-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-lua-1-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11351,7 +11352,7 @@
       ];
     };
     zaibuyidao-scale-velocity-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11365,7 +11366,7 @@
       ];
     };
     zaibuyidao-scale-velocity-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-lua-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11379,7 +11380,7 @@
       ];
     };
     zaibuyidao-scale-velocity-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-lua-2-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11393,7 +11394,7 @@
       ];
     };
     zaibuyidao-scale-velocity-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-lua-2-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11407,7 +11408,7 @@
       ];
     };
     zaibuyidao-scale-velocity-lua-2-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-lua-2-3-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11421,7 +11422,7 @@
       ];
     };
     zaibuyidao-scale-velocity-lua-2-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-scale-velocity-lua-2-3-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11435,7 +11436,7 @@
       ];
     };
     zaibuyidao-select-all-events-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-select-all-events-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11449,7 +11450,7 @@
       ];
     };
     zaibuyidao-select-bottom-notes-in-chord-leave-single-notes-selected-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-select-bottom-notes-in-chord-leave-single-notes-selected-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11463,7 +11464,7 @@
       ];
     };
     zaibuyidao-select-bottom-notes-in-chord-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-select-bottom-notes-in-chord-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11477,7 +11478,7 @@
       ];
     };
     zaibuyidao-select-even-events-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-select-even-events-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11491,7 +11492,7 @@
       ];
     };
     zaibuyidao-select-note-with-the-same-channel-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-select-note-with-the-same-channel-under-mouse-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11505,7 +11506,7 @@
       ];
     };
     zaibuyidao-select-note-with-the-same-channel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-select-note-with-the-same-channel-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11519,7 +11520,7 @@
       ];
     };
     zaibuyidao-select-notes-in-even-measures-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-select-notes-in-even-measures-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11533,7 +11534,7 @@
       ];
     };
     zaibuyidao-select-notes-in-even-measures-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-select-notes-in-even-measures-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11547,7 +11548,7 @@
       ];
     };
     zaibuyidao-select-notes-in-odd-measures-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-select-notes-in-odd-measures-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11561,7 +11562,7 @@
       ];
     };
     zaibuyidao-select-notes-in-odd-measures-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-select-notes-in-odd-measures-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11575,7 +11576,7 @@
       ];
     };
     zaibuyidao-select-odd-events-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-select-odd-events-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11589,7 +11590,7 @@
       ];
     };
     zaibuyidao-select-top-notes-in-chord-leave-single-notes-selected-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-select-top-notes-in-chord-leave-single-notes-selected-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11603,7 +11604,7 @@
       ];
     };
     zaibuyidao-select-top-notes-in-chord-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-select-top-notes-in-chord-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11617,7 +11618,7 @@
       ];
     };
     zaibuyidao-set-cc-curve-shape-dynamic-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-curve-shape-dynamic-menu-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11631,7 +11632,7 @@
       ];
     };
     zaibuyidao-set-cc-curve-shape-dynamic-menu-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-curve-shape-dynamic-menu-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11645,7 +11646,7 @@
       ];
     };
     zaibuyidao-set-cc-curve-shape-dynamic-menu-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-curve-shape-dynamic-menu-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11659,7 +11660,7 @@
       ];
     };
     zaibuyidao-set-cc-lane-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-lane-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11673,7 +11674,7 @@
       ];
     };
     zaibuyidao-set-cc-lane-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-lane-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11687,7 +11688,7 @@
       ];
     };
     zaibuyidao-set-cc-lane-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-lane-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11701,7 +11702,7 @@
       ];
     };
     zaibuyidao-set-cc-lane-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-lane-lua-1-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11715,7 +11716,7 @@
       ];
     };
     zaibuyidao-set-cc-lane-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-lane-lua-1-2-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11729,7 +11730,7 @@
       ];
     };
     zaibuyidao-set-cc-lane-lua-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-lane-lua-1-2-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11743,7 +11744,7 @@
       ];
     };
     zaibuyidao-set-cc-lane-lua-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-lane-lua-1-2-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11757,7 +11758,7 @@
       ];
     };
     zaibuyidao-set-cc-lane-lua-1-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-lane-lua-1-2-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11771,7 +11772,7 @@
       ];
     };
     zaibuyidao-set-cc-value-percentages-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-value-percentages-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11785,7 +11786,7 @@
       ];
     };
     zaibuyidao-set-cc-value-percentages-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-value-percentages-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11799,7 +11800,7 @@
       ];
     };
     zaibuyidao-set-cc-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-value-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11813,7 +11814,7 @@
       ];
     };
     zaibuyidao-set-cc-value-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-value-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11827,7 +11828,7 @@
       ];
     };
     zaibuyidao-set-cc-value-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-value-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11841,7 +11842,7 @@
       ];
     };
     zaibuyidao-set-cc-value-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-value-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11855,7 +11856,7 @@
       ];
     };
     zaibuyidao-set-cc-value-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-cc-value-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11869,7 +11870,7 @@
       ];
     };
     zaibuyidao-set-events-channel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-events-channel-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11883,7 +11884,7 @@
       ];
     };
     zaibuyidao-set-events-channel-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-events-channel-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11897,7 +11898,7 @@
       ];
     };
     zaibuyidao-set-midi-editor-grid-from-first-selected-note-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-midi-editor-grid-from-first-selected-note-length-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11911,7 +11912,7 @@
       ];
     };
     zaibuyidao-set-midi-note-shape-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-midi-note-shape-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11925,7 +11926,7 @@
       ];
     };
     zaibuyidao-set-note-ends-to-edit-cursor-fng-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-ends-to-edit-cursor-fng-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11939,7 +11940,7 @@
       ];
     };
     zaibuyidao-set-note-ends-to-edit-cursor-legacy-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-ends-to-edit-cursor-legacy-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11953,7 +11954,7 @@
       ];
     };
     zaibuyidao-set-note-ends-to-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-ends-to-edit-cursor-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11967,7 +11968,7 @@
       ];
     };
     zaibuyidao-set-note-ends-to-end-of-last-note-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-ends-to-end-of-last-note-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11981,7 +11982,7 @@
       ];
     };
     zaibuyidao-set-note-length-legacy-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-length-legacy-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -11995,7 +11996,7 @@
       ];
     };
     zaibuyidao-set-note-length-by-percentage-legacy-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-length-by-percentage-legacy-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12009,7 +12010,7 @@
       ];
     };
     zaibuyidao-set-note-length-by-percentage-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-length-by-percentage-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12023,7 +12024,7 @@
       ];
     };
     zaibuyidao-set-note-length-to-first-selected-note-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-length-to-first-selected-note-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12037,7 +12038,7 @@
       ];
     };
     zaibuyidao-set-note-length-to-note-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-length-to-note-under-mouse-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12051,7 +12052,7 @@
       ];
     };
     zaibuyidao-set-note-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-length-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12065,7 +12066,7 @@
       ];
     };
     zaibuyidao-set-note-length-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-length-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12079,7 +12080,7 @@
       ];
     };
     zaibuyidao-set-note-length-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-length-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12093,7 +12094,7 @@
       ];
     };
     zaibuyidao-set-note-length-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-length-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12107,7 +12108,7 @@
       ];
     };
     zaibuyidao-set-note-length-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-length-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12121,7 +12122,7 @@
       ];
     };
     zaibuyidao-set-note-length-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-length-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12135,7 +12136,7 @@
       ];
     };
     zaibuyidao-set-note-length-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-length-lua-1-5-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12149,7 +12150,7 @@
       ];
     };
     zaibuyidao-set-note-length-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-note-length-lua-1-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12163,7 +12164,7 @@
       ];
     };
     zaibuyidao-set-off-velocity-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-off-velocity-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12177,7 +12178,7 @@
       ];
     };
     zaibuyidao-set-off-velocity-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-off-velocity-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12191,7 +12192,7 @@
       ];
     };
     zaibuyidao-set-velocity-percentages-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-velocity-percentages-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12205,7 +12206,7 @@
       ];
     };
     zaibuyidao-set-velocity-percentages-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-velocity-percentages-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12219,7 +12220,7 @@
       ];
     };
     zaibuyidao-set-velocity-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-velocity-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12233,7 +12234,7 @@
       ];
     };
     zaibuyidao-set-velocity-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-velocity-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12247,7 +12248,7 @@
       ];
     };
     zaibuyidao-set-velocity-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-velocity-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12261,7 +12262,7 @@
       ];
     };
     zaibuyidao-set-velocity-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-velocity-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12275,7 +12276,7 @@
       ];
     };
     zaibuyidao-set-velocity-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-velocity-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12289,7 +12290,7 @@
       ];
     };
     zaibuyidao-set-velocity-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-velocity-lua-1-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12303,7 +12304,7 @@
       ];
     };
     zaibuyidao-set-velocity-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-velocity-lua-1-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12317,7 +12318,7 @@
       ];
     };
     zaibuyidao-set-velocity-lua-1-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-velocity-lua-1-7-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12331,7 +12332,7 @@
       ];
     };
     zaibuyidao-slide-plus01-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-plus01-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12345,7 +12346,7 @@
       ];
     };
     zaibuyidao-slide-plus10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-plus10-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12359,7 +12360,7 @@
       ];
     };
     zaibuyidao-slide-plus10-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-plus10-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12373,7 +12374,7 @@
       ];
     };
     zaibuyidao-slide-01-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-01-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12387,7 +12388,7 @@
       ];
     };
     zaibuyidao-slide-10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-10-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12401,7 +12402,7 @@
       ];
     };
     zaibuyidao-slide-10-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-10-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12415,7 +12416,7 @@
       ];
     };
     zaibuyidao-slide-in-with-bezier-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-in-with-bezier-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12429,7 +12430,7 @@
       ];
     };
     zaibuyidao-slide-in-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-in-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12443,7 +12444,7 @@
       ];
     };
     zaibuyidao-slide-in-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-in-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12457,7 +12458,7 @@
       ];
     };
     zaibuyidao-slide-in-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-in-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12471,7 +12472,7 @@
       ];
     };
     zaibuyidao-slide-in-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-in-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12485,7 +12486,7 @@
       ];
     };
     zaibuyidao-slide-in-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-in-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12499,7 +12500,7 @@
       ];
     };
     zaibuyidao-slide-in-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-in-lua-1-4-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12513,7 +12514,7 @@
       ];
     };
     zaibuyidao-slide-in-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-in-lua-1-4-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12527,7 +12528,7 @@
       ];
     };
     zaibuyidao-slide-in-lua-1-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-in-lua-1-4-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12541,7 +12542,7 @@
       ];
     };
     zaibuyidao-slide-in-lua-1-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-in-lua-1-4-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12555,7 +12556,7 @@
       ];
     };
     zaibuyidao-slide-in-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-in-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12569,7 +12570,7 @@
       ];
     };
     zaibuyidao-slide-in-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-in-lua-1-5-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12583,7 +12584,7 @@
       ];
     };
     zaibuyidao-slide-in-lua-1-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-in-lua-1-5-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12597,7 +12598,7 @@
       ];
     };
     zaibuyidao-slide-out-with-bezier-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-out-with-bezier-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12611,7 +12612,7 @@
       ];
     };
     zaibuyidao-slide-out-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-out-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12625,7 +12626,7 @@
       ];
     };
     zaibuyidao-slide-out-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-out-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12639,7 +12640,7 @@
       ];
     };
     zaibuyidao-slide-out-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-out-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12653,7 +12654,7 @@
       ];
     };
     zaibuyidao-slide-out-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-out-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12667,7 +12668,7 @@
       ];
     };
     zaibuyidao-slide-out-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-out-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12681,7 +12682,7 @@
       ];
     };
     zaibuyidao-slide-out-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-out-lua-1-4-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12695,7 +12696,7 @@
       ];
     };
     zaibuyidao-slide-out-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-out-lua-1-4-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12709,7 +12710,7 @@
       ];
     };
     zaibuyidao-slide-out-lua-1-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-out-lua-1-4-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12723,7 +12724,7 @@
       ];
     };
     zaibuyidao-slide-out-lua-1-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-out-lua-1-4-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12737,7 +12738,7 @@
       ];
     };
     zaibuyidao-slide-out-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-out-lua-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12751,7 +12752,7 @@
       ];
     };
     zaibuyidao-slide-out-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-out-lua-1-5-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12765,7 +12766,7 @@
       ];
     };
     zaibuyidao-slide-out-lua-1-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-slide-out-lua-1-5-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12779,7 +12780,7 @@
       ];
     };
     zaibuyidao-split-notes-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-split-notes-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12793,7 +12794,7 @@
       ];
     };
     zaibuyidao-split-notes-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-split-notes-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12807,7 +12808,7 @@
       ];
     };
     zaibuyidao-split-notes-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-split-notes-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12821,7 +12822,7 @@
       ];
     };
     zaibuyidao-split-notes-fast-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-split-notes-fast-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12835,7 +12836,7 @@
       ];
     };
     zaibuyidao-split-notes-fast-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-split-notes-fast-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12849,7 +12850,7 @@
       ];
     };
     zaibuyidao-split-notes-fast-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-split-notes-fast-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12863,7 +12864,7 @@
       ];
     };
     zaibuyidao-split-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-split-notes-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12877,7 +12878,7 @@
       ];
     };
     zaibuyidao-split-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-split-notes-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12891,7 +12892,7 @@
       ];
     };
     zaibuyidao-split-notes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-split-notes-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12905,7 +12906,7 @@
       ];
     };
     zaibuyidao-split-notes-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-split-notes-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12919,7 +12920,7 @@
       ];
     };
     zaibuyidao-split-notes-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-split-notes-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12933,7 +12934,7 @@
       ];
     };
     zaibuyidao-split-notes-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-split-notes-lua-1-4-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12947,7 +12948,7 @@
       ];
     };
     zaibuyidao-split-notes-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-split-notes-lua-1-4-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12961,7 +12962,7 @@
       ];
     };
     zaibuyidao-strum-it-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12975,7 +12976,7 @@
       ];
     };
     zaibuyidao-strum-it-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -12989,7 +12990,7 @@
       ];
     };
     zaibuyidao-strum-it-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13003,7 +13004,7 @@
       ];
     };
     zaibuyidao-strum-it-fast-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-fast-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13017,7 +13018,7 @@
       ];
     };
     zaibuyidao-strum-it-fast-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-fast-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13031,7 +13032,7 @@
       ];
     };
     zaibuyidao-strum-it-fast-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-fast-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13045,7 +13046,7 @@
       ];
     };
     zaibuyidao-strum-it-fast-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-fast-lua-1-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13059,7 +13060,7 @@
       ];
     };
     zaibuyidao-strum-it-fast-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-fast-lua-1-0-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13073,7 +13074,7 @@
       ];
     };
     zaibuyidao-strum-it-fast-lua-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-fast-lua-1-0-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13087,7 +13088,7 @@
       ];
     };
     zaibuyidao-strum-it-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13101,7 +13102,7 @@
       ];
     };
     zaibuyidao-strum-it-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13115,7 +13116,7 @@
       ];
     };
     zaibuyidao-strum-it-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13129,7 +13130,7 @@
       ];
     };
     zaibuyidao-strum-it-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13143,7 +13144,7 @@
       ];
     };
     zaibuyidao-strum-it-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-lua-1-3-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13157,7 +13158,7 @@
       ];
     };
     zaibuyidao-strum-it-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-it-lua-1-3-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13171,7 +13172,7 @@
       ];
     };
     zaibuyidao-strum-rebuilding-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-rebuilding-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13185,7 +13186,7 @@
       ];
     };
     zaibuyidao-strum-velocity-decrement-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-strum-velocity-decrement-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13199,7 +13200,7 @@
       ];
     };
     zaibuyidao-time-ppq-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-time-ppq-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13213,7 +13214,7 @@
       ];
     };
     zaibuyidao-time-ppq-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-time-ppq-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13227,7 +13228,7 @@
       ];
     };
     zaibuyidao-time-ppq-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-time-ppq-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13241,7 +13242,7 @@
       ];
     };
     zaibuyidao-time-qn-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-time-qn-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13255,7 +13256,7 @@
       ];
     };
     zaibuyidao-time-qn-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-time-qn-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13269,7 +13270,7 @@
       ];
     };
     zaibuyidao-time-qn-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-time-qn-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13283,7 +13284,7 @@
       ];
     };
     zaibuyidao-toggle-select-notes-in-measure-groups-after-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-select-notes-in-measure-groups-after-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13297,7 +13298,7 @@
       ];
     };
     zaibuyidao-toggle-select-notes-in-measure-groups-after-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-select-notes-in-measure-groups-after-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13311,7 +13312,7 @@
       ];
     };
     zaibuyidao-toggle-select-notes-in-measure-groups-after-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-select-notes-in-measure-groups-after-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13325,7 +13326,7 @@
       ];
     };
     zaibuyidao-toggle-select-notes-in-measure-groups-before-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-select-notes-in-measure-groups-before-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13339,7 +13340,7 @@
       ];
     };
     zaibuyidao-toggle-select-notes-in-measure-groups-before-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-select-notes-in-measure-groups-before-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13353,7 +13354,7 @@
       ];
     };
     zaibuyidao-toggle-select-notes-in-measure-groups-before-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-select-notes-in-measure-groups-before-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13367,7 +13368,7 @@
       ];
     };
     zaibuyidao-toggle-select-notes-in-measure-groups-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-select-notes-in-measure-groups-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13381,7 +13382,7 @@
       ];
     };
     zaibuyidao-toggle-select-notes-in-measure-groups-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-select-notes-in-measure-groups-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13395,7 +13396,7 @@
       ];
     };
     zaibuyidao-toggle-select-notes-in-measure-groups-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-select-notes-in-measure-groups-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13409,7 +13410,7 @@
       ];
     };
     zaibuyidao-transform-cc-for-selected-cc-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-transform-cc-for-selected-cc-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13423,7 +13424,7 @@
       ];
     };
     zaibuyidao-transform-cc-for-selected-cc-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-transform-cc-for-selected-cc-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13437,7 +13438,7 @@
       ];
     };
     zaibuyidao-transform-cc-for-selected-cc-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-transform-cc-for-selected-cc-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13451,7 +13452,7 @@
       ];
     };
     zaibuyidao-transform-cc-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-transform-cc-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13465,7 +13466,7 @@
       ];
     };
     zaibuyidao-transform-cc-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-transform-cc-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13479,7 +13480,7 @@
       ];
     };
     zaibuyidao-transform-cc-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-transform-cc-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13493,7 +13494,7 @@
       ];
     };
     zaibuyidao-transform-cc-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-transform-cc-lua-1-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13507,7 +13508,7 @@
       ];
     };
     zaibuyidao-transpose-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-transpose-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13521,7 +13522,7 @@
       ];
     };
     zaibuyidao-transpose-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-transpose-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13535,7 +13536,7 @@
       ];
     };
     zaibuyidao-transpose-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-transpose-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13549,7 +13550,7 @@
       ];
     };
     zaibuyidao-transpose-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-transpose-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13563,7 +13564,7 @@
       ];
     };
     zaibuyidao-transpose-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-transpose-lua-1-3-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13577,7 +13578,7 @@
       ];
     };
     zaibuyidao-transpose-lua-1-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-transpose-lua-1-3-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13591,7 +13592,7 @@
       ];
     };
     zaibuyidao-transpose-lua-1-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-transpose-lua-1-3-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13605,7 +13606,7 @@
       ];
     };
     zaibuyidao-trim-note-left-edge-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-edge-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13619,7 +13620,7 @@
       ];
     };
     zaibuyidao-trim-note-left-edge-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-edge-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13633,7 +13634,7 @@
       ];
     };
     zaibuyidao-trim-note-left-edge-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-edge-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13647,7 +13648,7 @@
       ];
     };
     zaibuyidao-trim-note-left-edge-fast-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-edge-fast-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13661,7 +13662,7 @@
       ];
     };
     zaibuyidao-trim-note-left-edge-percentages-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-edge-percentages-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13675,7 +13676,7 @@
       ];
     };
     zaibuyidao-trim-note-left-edge-plus10-ticks-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-edge-plus10-ticks-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13689,7 +13690,7 @@
       ];
     };
     zaibuyidao-trim-note-left-edge-plus10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-edge-plus10-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13703,7 +13704,7 @@
       ];
     };
     zaibuyidao-trim-note-left-edge-plus10-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-edge-plus10-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13717,7 +13718,7 @@
       ];
     };
     zaibuyidao-trim-note-left-edge-10-ticks-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-edge-10-ticks-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13731,7 +13732,7 @@
       ];
     };
     zaibuyidao-trim-note-left-edge-10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-edge-10-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13745,7 +13746,7 @@
       ];
     };
     zaibuyidao-trim-note-left-edge-10-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-edge-10-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13759,7 +13760,7 @@
       ];
     };
     zaibuyidao-trim-note-left-edge-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-edge-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13773,7 +13774,7 @@
       ];
     };
     zaibuyidao-trim-note-left-edge-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-edge-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13787,7 +13788,7 @@
       ];
     };
     zaibuyidao-trim-note-left-grid-plus1-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-grid-plus1-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13801,7 +13802,7 @@
       ];
     };
     zaibuyidao-trim-note-left-grid-plus1-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-grid-plus1-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13815,7 +13816,7 @@
       ];
     };
     zaibuyidao-trim-note-left-grid-plus1-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-grid-plus1-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13829,7 +13830,7 @@
       ];
     };
     zaibuyidao-trim-note-left-grid-1-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-grid-1-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13843,7 +13844,7 @@
       ];
     };
     zaibuyidao-trim-note-left-grid-1-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-grid-1-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13857,7 +13858,7 @@
       ];
     };
     zaibuyidao-trim-note-left-grid-1-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-left-grid-1-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13871,7 +13872,7 @@
       ];
     };
     zaibuyidao-trim-note-right-edge-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-edge-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13885,7 +13886,7 @@
       ];
     };
     zaibuyidao-trim-note-right-edge-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-edge-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13899,7 +13900,7 @@
       ];
     };
     zaibuyidao-trim-note-right-edge-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-edge-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13913,7 +13914,7 @@
       ];
     };
     zaibuyidao-trim-note-right-edge-fast-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-edge-fast-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13927,7 +13928,7 @@
       ];
     };
     zaibuyidao-trim-note-right-edge-fast-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-edge-fast-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13941,7 +13942,7 @@
       ];
     };
     zaibuyidao-trim-note-right-edge-percentages-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-edge-percentages-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13955,7 +13956,7 @@
       ];
     };
     zaibuyidao-trim-note-right-edge-plus10-ticks-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-edge-plus10-ticks-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13969,7 +13970,7 @@
       ];
     };
     zaibuyidao-trim-note-right-edge-plus10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-edge-plus10-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13983,7 +13984,7 @@
       ];
     };
     zaibuyidao-trim-note-right-edge-plus10-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-edge-plus10-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -13997,7 +13998,7 @@
       ];
     };
     zaibuyidao-trim-note-right-edge-10-ticks-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-edge-10-ticks-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -14011,7 +14012,7 @@
       ];
     };
     zaibuyidao-trim-note-right-edge-10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-edge-10-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -14025,7 +14026,7 @@
       ];
     };
     zaibuyidao-trim-note-right-edge-10-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-edge-10-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -14039,7 +14040,7 @@
       ];
     };
     zaibuyidao-trim-note-right-edge-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-edge-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -14053,7 +14054,7 @@
       ];
     };
     zaibuyidao-trim-note-right-edge-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-edge-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -14067,7 +14068,7 @@
       ];
     };
     zaibuyidao-trim-note-right-grid-plus1-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-grid-plus1-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -14081,7 +14082,7 @@
       ];
     };
     zaibuyidao-trim-note-right-grid-plus1-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-grid-plus1-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -14095,7 +14096,7 @@
       ];
     };
     zaibuyidao-trim-note-right-grid-plus1-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-grid-plus1-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -14109,7 +14110,7 @@
       ];
     };
     zaibuyidao-trim-note-right-grid-1-fast-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-grid-1-fast-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -14123,7 +14124,7 @@
       ];
     };
     zaibuyidao-trim-note-right-grid-1-fast-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-grid-1-fast-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -14137,7 +14138,7 @@
       ];
     };
     zaibuyidao-trim-note-right-grid-1-fast-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-trim-note-right-grid-1-fast-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -14151,7 +14152,7 @@
       ];
     };
     zaibuyidao-unselect-all-events-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-unselect-all-events-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
@@ -14165,7 +14166,7 @@
       ];
     };
     zaibuyidao-insert-nrpn-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-nrpn-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Event List Editor";
@@ -14179,7 +14180,7 @@
       ];
     };
     zaibuyidao-insert-nrpn-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-nrpn-lua-1-21";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Event List Editor";
@@ -14193,7 +14194,7 @@
       ];
     };
     zaibuyidao-insert-nrpn-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-nrpn-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Event List Editor";
@@ -14207,7 +14208,7 @@
       ];
     };
     zaibuyidao-insert-nrpn-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-nrpn-lua-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Event List Editor";
@@ -14221,7 +14222,7 @@
       ];
     };
     zaibuyidao-insert-nrpn-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-nrpn-lua-2-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Event List Editor";
@@ -14235,7 +14236,7 @@
       ];
     };
     zaibuyidao-insert-nrpn-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-nrpn-lua-2-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Event List Editor";
@@ -14249,7 +14250,7 @@
       ];
     };
     zaibuyidao-insert-nrpn-lua-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-nrpn-lua-2-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Event List Editor";
@@ -14263,7 +14264,7 @@
       ];
     };
     zaibuyidao-insert-nrpn-lua-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-nrpn-lua-2-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Event List Editor";
@@ -14277,7 +14278,7 @@
       ];
     };
     zaibuyidao-copy-content-and-marker-in-razor-edit-area-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-content-and-marker-in-razor-edit-area-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Razor Edit";
@@ -14291,7 +14292,7 @@
       ];
     };
     zaibuyidao-copy-content-and-region-in-razor-edit-area-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-content-and-region-in-razor-edit-area-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Razor Edit";
@@ -14305,7 +14306,7 @@
       ];
     };
     zaibuyidao-copy-content-and-region-marker-in-razor-edit-area-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-content-and-region-marker-in-razor-edit-area-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Razor Edit";
@@ -14319,7 +14320,7 @@
       ];
     };
     zaibuyidao-copy-content-and-region-marker-in-razor-edit-area-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-content-and-region-marker-in-razor-edit-area-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Razor Edit";
@@ -14333,7 +14334,7 @@
       ];
     };
     zaibuyidao-copy-content-and-region-marker-tempo-in-razor-edit-area-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-content-and-region-marker-tempo-in-razor-edit-area-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Razor Edit";
@@ -14347,7 +14348,7 @@
       ];
     };
     zaibuyidao-paste-content-and-marker-in-razor-edit-area-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-content-and-marker-in-razor-edit-area-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Razor Edit";
@@ -14361,7 +14362,7 @@
       ];
     };
     zaibuyidao-paste-content-and-region-in-razor-edit-area-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-content-and-region-in-razor-edit-area-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Razor Edit";
@@ -14375,7 +14376,7 @@
       ];
     };
     zaibuyidao-paste-content-and-region-marker-in-razor-edit-area-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-content-and-region-marker-in-razor-edit-area-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Razor Edit";
@@ -14389,7 +14390,7 @@
       ];
     };
     zaibuyidao-paste-content-and-region-marker-in-razor-edit-area-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-content-and-region-marker-in-razor-edit-area-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Razor Edit";
@@ -14403,7 +14404,7 @@
       ];
     };
     zaibuyidao-paste-content-and-region-marker-in-razor-edit-area-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-content-and-region-marker-in-razor-edit-area-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Razor Edit";
@@ -14417,7 +14418,7 @@
       ];
     };
     zaibuyidao-paste-content-and-region-marker-in-razor-edit-area-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-content-and-region-marker-in-razor-edit-area-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Razor Edit";
@@ -14431,7 +14432,7 @@
       ];
     };
     zaibuyidao-paste-content-and-region-marker-tempo-in-razor-edit-area-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-content-and-region-marker-tempo-in-razor-edit-area-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Razor Edit";
@@ -14445,7 +14446,7 @@
       ];
     };
     zaibuyidao-set-time-selection-to-razor-edit-area-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-time-selection-to-razor-edit-area-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Razor Edit";
@@ -14459,7 +14460,7 @@
       ];
     };
     zaibuyidao-batch-rename-regions-for-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-rename-regions-for-selected-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Regions";
@@ -14473,7 +14474,7 @@
       ];
     };
     zaibuyidao-batch-rename-regions-in-region-manager-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-rename-regions-in-region-manager-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Regions";
@@ -14487,7 +14488,7 @@
       ];
     };
     zaibuyidao-batch-rename-regions-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-rename-regions-within-time-selection-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Regions";
@@ -14501,7 +14502,7 @@
       ];
     };
     zaibuyidao-batch-set-region-names-for-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-set-region-names-for-selected-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Regions";
@@ -14515,7 +14516,7 @@
       ];
     };
     zaibuyidao-delete-regions-of-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-delete-regions-of-selected-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Regions";
@@ -14529,7 +14530,7 @@
       ];
     };
     zaibuyidao-delete-regions-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-delete-regions-within-time-selection-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Regions";
@@ -14543,7 +14544,7 @@
       ];
     };
     zaibuyidao-randomize-region-colors-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-randomize-region-colors-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Regions";
@@ -14557,7 +14558,7 @@
       ];
     };
     zaibuyidao-set-region-color-of-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-region-color-of-selected-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Regions";
@@ -14571,7 +14572,7 @@
       ];
     };
     zaibuyidao-set-region-color-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-region-color-within-time-selection-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Regions";
@@ -14585,7 +14586,7 @@
       ];
     };
     zaibuyidao-set-region-color-within-time-selection-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-region-color-within-time-selection-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Regions";
@@ -14599,7 +14600,7 @@
       ];
     };
     zaibuyidao-set-region-names-for-selected-items-from-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-region-names-for-selected-items-from-clipboard-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Regions";
@@ -14613,7 +14614,7 @@
       ];
     };
     zaibuyidao-set-region-tails-of-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-region-tails-of-selected-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Regions";
@@ -14627,7 +14628,7 @@
       ];
     };
     zaibuyidao-set-selected-items-to-matching-region-colors-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-selected-items-to-matching-region-colors-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Regions";
@@ -14641,7 +14642,7 @@
       ];
     };
     zaibuyidao-batch-rename-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-rename-tracks-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14655,7 +14656,7 @@
       ];
     };
     zaibuyidao-batch-rename-tracks-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-rename-tracks-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14669,7 +14670,7 @@
       ];
     };
     zaibuyidao-batch-set-track-names-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-set-track-names-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14683,7 +14684,7 @@
       ];
     };
     zaibuyidao-batch-set-track-names-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-batch-set-track-names-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14697,7 +14698,7 @@
       ];
     };
     zaibuyidao-link-selected-track-fx-parameter-for-selected-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-fx-parameter-for-selected-fx-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14711,7 +14712,7 @@
       ];
     };
     zaibuyidao-link-selected-track-fx-parameter-for-selected-fx-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-fx-parameter-for-selected-fx-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14725,7 +14726,7 @@
       ];
     };
     zaibuyidao-link-selected-track-fx-parameter-for-selected-fx-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-fx-parameter-for-selected-fx-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14739,7 +14740,7 @@
       ];
     };
     zaibuyidao-link-selected-track-fx-parameter-for-selected-fx-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-fx-parameter-for-selected-fx-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14753,7 +14754,7 @@
       ];
     };
     zaibuyidao-link-selected-track-fx-parameter-for-selected-fx-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-fx-parameter-for-selected-fx-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14767,7 +14768,7 @@
       ];
     };
     zaibuyidao-link-selected-track-fx-parameter-for-selected-fx-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-fx-parameter-for-selected-fx-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14781,7 +14782,7 @@
       ];
     };
     zaibuyidao-link-selected-track-fx-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-fx-parameter-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14795,7 +14796,7 @@
       ];
     };
     zaibuyidao-link-selected-track-fx-parameter-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-fx-parameter-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14809,7 +14810,7 @@
       ];
     };
     zaibuyidao-link-selected-track-fx-parameter-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-fx-parameter-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14823,7 +14824,7 @@
       ];
     };
     zaibuyidao-link-selected-track-fx-parameter-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-fx-parameter-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14837,7 +14838,7 @@
       ];
     };
     zaibuyidao-link-selected-track-fx-parameter-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-link-selected-track-fx-parameter-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14851,7 +14852,7 @@
       ];
     };
     zaibuyidao-open-fx-panel-for-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-open-fx-panel-for-selected-track-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14865,7 +14866,7 @@
       ];
     };
     zaibuyidao-pick-track-dynamic-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-dynamic-menu-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14879,7 +14880,7 @@
       ];
     };
     zaibuyidao-pick-track-dynamic-menu-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-dynamic-menu-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14893,7 +14894,7 @@
       ];
     };
     zaibuyidao-pick-track-dynamic-menu-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-dynamic-menu-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14907,7 +14908,7 @@
       ];
     };
     zaibuyidao-pick-track-dynamic-menu-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-dynamic-menu-lua-1-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14921,7 +14922,7 @@
       ];
     };
     zaibuyidao-pick-track-dynamic-menu-lua-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-dynamic-menu-lua-1-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14935,7 +14936,7 @@
       ];
     };
     zaibuyidao-pick-track-dynamic-menu-lua-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-dynamic-menu-lua-1-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14949,7 +14950,7 @@
       ];
     };
     zaibuyidao-pick-track-only-select-first-item-dynamic-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-only-select-first-item-dynamic-menu-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14963,7 +14964,7 @@
       ];
     };
     zaibuyidao-pick-track-only-select-first-item-dynamic-menu-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-only-select-first-item-dynamic-menu-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14977,7 +14978,7 @@
       ];
     };
     zaibuyidao-pick-track-only-select-first-item-dynamic-menu-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-only-select-first-item-dynamic-menu-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -14991,7 +14992,7 @@
       ];
     };
     zaibuyidao-pick-track-only-select-first-item-dynamic-menu-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-only-select-first-item-dynamic-menu-lua-1-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15005,7 +15006,7 @@
       ];
     };
     zaibuyidao-pick-track-only-select-first-item-dynamic-menu-lua-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-only-select-first-item-dynamic-menu-lua-1-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15019,7 +15020,7 @@
       ];
     };
     zaibuyidao-pick-track-only-select-first-item-dynamic-menu-lua-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-only-select-first-item-dynamic-menu-lua-1-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15033,7 +15034,7 @@
       ];
     };
     zaibuyidao-pick-track-only-select-first-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-only-select-first-item-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15047,7 +15048,7 @@
       ];
     };
     zaibuyidao-pick-track-only-select-first-item-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-only-select-first-item-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15061,7 +15062,7 @@
       ];
     };
     zaibuyidao-pick-track-only-select-first-item-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-only-select-first-item-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15075,7 +15076,7 @@
       ];
     };
     zaibuyidao-pick-track-only-select-first-item-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-only-select-first-item-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15089,7 +15090,7 @@
       ];
     };
     zaibuyidao-pick-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15103,7 +15104,7 @@
       ];
     };
     zaibuyidao-pick-track-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15117,7 +15118,7 @@
       ];
     };
     zaibuyidao-pick-track-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15131,7 +15132,7 @@
       ];
     };
     zaibuyidao-pick-track-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15145,7 +15146,7 @@
       ];
     };
     zaibuyidao-pick-track-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15159,7 +15160,7 @@
       ];
     };
     zaibuyidao-pick-track-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-pick-track-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15173,7 +15174,7 @@
       ];
     };
     zaibuyidao-remove-all-empty-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-remove-all-empty-tracks-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15187,7 +15188,7 @@
       ];
     };
     zaibuyidao-select-tracks-by-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-select-tracks-by-name-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15201,7 +15202,7 @@
       ];
     };
     zaibuyidao-set-track-pan-to-left-or-right-based-on-lr-name-end-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-track-pan-to-left-or-right-based-on-lr-name-end-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15215,7 +15216,7 @@
       ];
     };
     zaibuyidao-show-fx-chain-for-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-show-fx-chain-for-selected-track-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15229,7 +15230,7 @@
       ];
     };
     zaibuyidao-show-fx-chain-for-selected-track-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-show-fx-chain-for-selected-track-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15243,7 +15244,7 @@
       ];
     };
     zaibuyidao-show-fx-chain-for-selected-track-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-show-fx-chain-for-selected-track-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Tracks Properties";
@@ -15257,7 +15258,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15271,7 +15272,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15285,7 +15286,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15299,7 +15300,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15313,7 +15314,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15327,7 +15328,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15341,7 +15342,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15355,7 +15356,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15369,7 +15370,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15383,7 +15384,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15397,7 +15398,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-10";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15411,7 +15412,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-11";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15425,7 +15426,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-12";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15439,7 +15440,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-13-717 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-13-717";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15453,7 +15454,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-14-717 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-14-717";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15467,7 +15468,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-15-718 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-15-718";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15481,7 +15482,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-16-719 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-16-719";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15495,7 +15496,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-17-720 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-17-720";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15509,7 +15510,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-18-720 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-18-720";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15523,7 +15524,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-19-720 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-19-720";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15537,7 +15538,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-20-721 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-20-721";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15551,7 +15552,7 @@
       ];
     };
     chinese-simplified-reaperlangpack-1-0-21-722 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-simplified-reaperlangpack-1-0-21-722";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15565,7 +15566,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15579,7 +15580,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15593,7 +15594,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15607,7 +15608,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15621,7 +15622,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15635,7 +15636,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15649,7 +15650,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15663,7 +15664,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-10";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15677,7 +15678,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-11";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15691,7 +15692,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-12";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15705,7 +15706,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-13-717 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-13-717";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15719,7 +15720,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-14-717 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-14-717";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15733,7 +15734,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-15-718 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-15-718";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15747,7 +15748,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-16-719 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-16-719";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15761,7 +15762,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-17-720 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-17-720";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15775,7 +15776,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-18-720 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-18-720";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15789,7 +15790,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-19-720 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-19-720";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15803,7 +15804,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-20-721 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-20-721";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15817,7 +15818,7 @@
       ];
     };
     chinese-traditional-reaperlangpack-1-0-21-722 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-21-722";
       indexName = "zaibuyidao Scripts";
       categoryName = "Translations";
@@ -15831,7 +15832,7 @@
       ];
     };
     zaibuyidao-add-midi-hardware-output-amp-receives-to-selected-tracks-transcription-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-add-midi-hardware-output-amp-receives-to-selected-tracks-transcription-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -15845,7 +15846,7 @@
       ];
     };
     zaibuyidao-auto-load-vsti-for-midi-playback-settings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-auto-load-vsti-for-midi-playback-settings-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -15859,7 +15860,7 @@
       ];
     };
     zaibuyidao-auto-load-vsti-for-midi-playback-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-auto-load-vsti-for-midi-playback-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -15873,7 +15874,7 @@
       ];
     };
     zaibuyidao-build-midi-routing-channels-to-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-build-midi-routing-channels-to-selected-tracks-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -15887,7 +15888,7 @@
       ];
     };
     zaibuyidao-build-midi-routing-channels-to-selected-tracks-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-build-midi-routing-channels-to-selected-tracks-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -15901,7 +15902,7 @@
       ];
     };
     zaibuyidao-cakewalk-style-cursor-follow-main-or-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-cakewalk-style-cursor-follow-main-or-midi-editor-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -15915,7 +15916,7 @@
       ];
     };
     zaibuyidao-cakewalk-style-cursor-follow-main-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-cakewalk-style-cursor-follow-main-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -15929,7 +15930,7 @@
       ];
     };
     zaibuyidao-cakewalk-style-cursor-follow-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-cakewalk-style-cursor-follow-midi-editor-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -15943,7 +15944,7 @@
       ];
     };
     zaibuyidao-copy-tempo-time-signature-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-copy-tempo-time-signature-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -15957,7 +15958,7 @@
       ];
     };
     zaibuyidao-create-media-explorer-shortcut-new-action-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-create-media-explorer-shortcut-new-action-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -15971,7 +15972,7 @@
       ];
     };
     zaibuyidao-date-amp-time-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-date-amp-time-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -15985,7 +15986,7 @@
       ];
     };
     zaibuyidao-date-amp-time-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-date-amp-time-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -15999,7 +16000,7 @@
       ];
     };
     zaibuyidao-date-amp-time-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-date-amp-time-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16013,7 +16014,7 @@
       ];
     };
     zaibuyidao-date-amp-time-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-date-amp-time-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16027,7 +16028,7 @@
       ];
     };
     zaibuyidao-date-amp-time-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-date-amp-time-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16041,7 +16042,7 @@
       ];
     };
     zaibuyidao-date-amp-time-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-date-amp-time-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16055,7 +16056,7 @@
       ];
     };
     zaibuyidao-date-amp-time-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-date-amp-time-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16069,7 +16070,7 @@
       ];
     };
     zaibuyidao-date-amp-time-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-date-amp-time-lua-1-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16083,7 +16084,7 @@
       ];
     };
     zaibuyidao-date-amp-time-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-date-amp-time-lua-1-0-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16097,7 +16098,7 @@
       ];
     };
     zaibuyidao-design-tools-dynamic-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-design-tools-dynamic-menu-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16111,7 +16112,7 @@
       ];
     };
     zaibuyidao-design-tools-dynamic-menu-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-design-tools-dynamic-menu-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16125,7 +16126,7 @@
       ];
     };
     zaibuyidao-design-tools-dynamic-menu-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-design-tools-dynamic-menu-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16139,7 +16140,7 @@
       ];
     };
     zaibuyidao-design-tools-dynamic-menu-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-design-tools-dynamic-menu-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16153,7 +16154,7 @@
       ];
     };
     zaibuyidao-design-tools-dynamic-menu-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-design-tools-dynamic-menu-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16167,7 +16168,7 @@
       ];
     };
     zaibuyidao-design-tools-dynamic-menu-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-design-tools-dynamic-menu-lua-1-4-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16181,7 +16182,7 @@
       ];
     };
     zaibuyidao-design-tools-dynamic-menu-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-design-tools-dynamic-menu-lua-1-4-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16195,7 +16196,7 @@
       ];
     };
     zaibuyidao-display-total-length-of-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-display-total-length-of-selected-items-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16209,7 +16210,7 @@
       ];
     };
     zaibuyidao-display-total-length-of-selected-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-display-total-length-of-selected-items-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16223,7 +16224,7 @@
       ];
     };
     zaibuyidao-display-total-length-of-selected-items-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-display-total-length-of-selected-items-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16237,7 +16238,7 @@
       ];
     };
     zaibuyidao-display-total-length-of-selected-items-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-display-total-length-of-selected-items-lua-1-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16251,7 +16252,7 @@
       ];
     };
     zaibuyidao-edit-metadata-tag-custom-tags-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-edit-metadata-tag-custom-tags-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16265,7 +16266,7 @@
       ];
     };
     zaibuyidao-edit-metadata-tag-custom-tags-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-edit-metadata-tag-custom-tags-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16279,7 +16280,7 @@
       ];
     };
     zaibuyidao-edit-metadata-tag-custom-tags-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-edit-metadata-tag-custom-tags-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16293,7 +16294,7 @@
       ];
     };
     zaibuyidao-explode-drums-gm-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-explode-drums-gm-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16307,7 +16308,7 @@
       ];
     };
     zaibuyidao-explode-drums-gm-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-explode-drums-gm-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16321,7 +16322,7 @@
       ];
     };
     zaibuyidao-explode-drums-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-explode-drums-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16335,7 +16336,7 @@
       ];
     };
     zaibuyidao-explode-drums-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-explode-drums-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16349,7 +16350,7 @@
       ];
     };
     zaibuyidao-explode-drums-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-explode-drums-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16363,7 +16364,7 @@
       ];
     };
     zaibuyidao-explode-drums-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-explode-drums-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16377,7 +16378,7 @@
       ];
     };
     zaibuyidao-explode-drums-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-explode-drums-lua-1-3-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16391,7 +16392,7 @@
       ];
     };
     zaibuyidao-explode-drums-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-explode-drums-lua-1-3-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16405,7 +16406,7 @@
       ];
     };
     zaibuyidao-functions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-functions-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16419,7 +16420,7 @@
       ];
     };
     zaibuyidao-functions-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-functions-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16433,7 +16434,7 @@
       ];
     };
     zaibuyidao-functions-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-functions-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16447,7 +16448,7 @@
       ];
     };
     zaibuyidao-functions-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-functions-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16461,7 +16462,7 @@
       ];
     };
     zaibuyidao-functions-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-functions-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16475,7 +16476,7 @@
       ];
     };
     zaibuyidao-functions-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-functions-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16489,7 +16490,7 @@
       ];
     };
     zaibuyidao-functions-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-functions-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16503,7 +16504,7 @@
       ];
     };
     zaibuyidao-implode-drums-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-implode-drums-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16517,7 +16518,7 @@
       ];
     };
     zaibuyidao-implode-drums-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-implode-drums-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16531,7 +16532,7 @@
       ];
     };
     zaibuyidao-jump-to-marker-dynamic-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-jump-to-marker-dynamic-menu-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16545,7 +16546,7 @@
       ];
     };
     zaibuyidao-jump-to-marker-dynamic-menu-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-jump-to-marker-dynamic-menu-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16559,7 +16560,7 @@
       ];
     };
     zaibuyidao-jump-to-marker-region-dynamic-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-jump-to-marker-region-dynamic-menu-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16573,7 +16574,7 @@
       ];
     };
     zaibuyidao-jump-to-marker-region-dynamic-menu-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-jump-to-marker-region-dynamic-menu-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16587,7 +16588,7 @@
       ];
     };
     zaibuyidao-jump-to-region-dynamic-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-jump-to-region-dynamic-menu-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16601,7 +16602,7 @@
       ];
     };
     zaibuyidao-jump-to-region-dynamic-menu-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-jump-to-region-dynamic-menu-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16615,7 +16616,7 @@
       ];
     };
     zaibuyidao-load-reabank-to-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-load-reabank-to-selected-tracks-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16629,7 +16630,7 @@
       ];
     };
     zaibuyidao-media-explorer-search-filter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-media-explorer-search-filter-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16643,7 +16644,7 @@
       ];
     };
     zaibuyidao-media-explorer-search-filter-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-media-explorer-search-filter-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16657,7 +16658,7 @@
       ];
     };
     zaibuyidao-media-explorer-search-filter-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-media-explorer-search-filter-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16671,7 +16672,7 @@
       ];
     };
     zaibuyidao-midi-channel-from-track-send-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-midi-channel-from-track-send-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16685,7 +16686,7 @@
       ];
     };
     zaibuyidao-midi-channel-from-track-send-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-midi-channel-from-track-send-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16699,7 +16700,7 @@
       ];
     };
     zaibuyidao-midi-channel-from-track-send-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-midi-channel-from-track-send-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16713,7 +16714,7 @@
       ];
     };
     zaibuyidao-midi-channel-from-track-send-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-midi-channel-from-track-send-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16727,7 +16728,7 @@
       ];
     };
     zaibuyidao-midi-channel-from-track-send-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-midi-channel-from-track-send-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16741,7 +16742,7 @@
       ];
     };
     zaibuyidao-midi-file-track-name-fix-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-midi-file-track-name-fix-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16755,7 +16756,7 @@
       ];
     };
     zaibuyidao-paste-tempo-time-signature-in-time-selection-relative-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-paste-tempo-time-signature-in-time-selection-relative-position-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16769,7 +16770,7 @@
       ];
     };
     zaibuyidao-set-default-reabank-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-default-reabank-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16783,7 +16784,7 @@
       ];
     };
     zaibuyidao-set-default-reabank-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-default-reabank-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16797,7 +16798,7 @@
       ];
     };
     zaibuyidao-set-midi-output-devices-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-midi-output-devices-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16811,7 +16812,7 @@
       ];
     };
     zaibuyidao-set-midi-routing-channel-for-selected-track-dynamic-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-midi-routing-channel-for-selected-track-dynamic-menu-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16825,7 +16826,7 @@
       ];
     };
     zaibuyidao-set-point-shape-dynamic-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-point-shape-dynamic-menu-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16839,7 +16840,7 @@
       ];
     };
     zaibuyidao-set-point-shape-dynamic-menu-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-point-shape-dynamic-menu-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16853,7 +16854,7 @@
       ];
     };
     zaibuyidao-set-project-grid-dynamic-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-project-grid-dynamic-menu-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16867,7 +16868,7 @@
       ];
     };
     zaibuyidao-set-project-grid-dynamic-menu-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-project-grid-dynamic-menu-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16881,7 +16882,7 @@
       ];
     };
     zaibuyidao-set-project-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-project-grid-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16895,7 +16896,7 @@
       ];
     };
     zaibuyidao-set-project-grid-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-project-grid-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16909,7 +16910,7 @@
       ];
     };
     zaibuyidao-set-project-grid-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-set-project-grid-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16923,7 +16924,7 @@
       ];
     };
     zaibuyidao-toggle-mute-pc-cc6-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-mute-pc-cc6-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16937,7 +16938,7 @@
       ];
     };
     zaibuyidao-toggle-mute-pc-cc6-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-mute-pc-cc6-lua-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16951,7 +16952,7 @@
       ];
     };
     zaibuyidao-toggle-mute-pc-cc6-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-mute-pc-cc6-lua-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16965,7 +16966,7 @@
       ];
     };
     zaibuyidao-toggle-mute-pc-cc6-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-mute-pc-cc6-lua-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16979,7 +16980,7 @@
       ];
     };
     zaibuyidao-toggle-mute-pc-cc6-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-mute-pc-cc6-lua-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -16993,7 +16994,7 @@
       ];
     };
     zaibuyidao-toggle-vsti-floating-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-toggle-vsti-floating-for-selected-tracks-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -17007,7 +17008,7 @@
       ];
     };
     zaibuyidao-track-follows-item-razor-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "zaibuyidao-track-follows-item-razor-selection-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Utility";
@@ -17021,7 +17022,7 @@
       ];
     };
     advanced-solo-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "advanced-solo-bundle-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -17170,7 +17171,7 @@
       ];
     };
     advanced-solo-bundle-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "advanced-solo-bundle-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -17329,7 +17330,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -17388,7 +17389,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -17447,7 +17448,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -17506,7 +17507,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -17575,7 +17576,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -17644,7 +17645,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -17713,7 +17714,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -17782,7 +17783,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -17856,7 +17857,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-11";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -17930,7 +17931,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-12";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -18004,7 +18005,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-13";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -18078,7 +18079,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-14";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -18152,7 +18153,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-18";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -18231,7 +18232,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-19";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -18320,7 +18321,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-20";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -18409,7 +18410,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-21";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -18498,7 +18499,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-22";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -18582,7 +18583,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-23";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -18671,7 +18672,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-24";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -18815,7 +18816,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-25";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -18994,7 +18995,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-26";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -19183,7 +19184,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-27";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -19372,7 +19373,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-28";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -19561,7 +19562,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-29";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -19750,7 +19751,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-30";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -19939,7 +19940,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-31";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -20128,7 +20129,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-32";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -20317,7 +20318,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-33";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -20506,7 +20507,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-34";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -20695,7 +20696,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-35";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -20884,7 +20885,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-36";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -21073,7 +21074,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-37";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -21262,7 +21263,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-38";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -21456,7 +21457,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-39";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -21650,7 +21651,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-40";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -21844,7 +21845,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-41";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -22038,7 +22039,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-42";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -22232,7 +22233,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-43";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -22431,7 +22432,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-44";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -22630,7 +22631,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-45";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -22829,7 +22830,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-46";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -23028,7 +23029,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-47";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -23227,7 +23228,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-48";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -23431,7 +23432,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-49";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -23630,7 +23631,7 @@
       ];
     };
     articulation-map-bundle-lua-1-0-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "articulation-map-bundle-lua-1-0-50";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -23829,7 +23830,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -23938,7 +23939,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -24047,7 +24048,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -24156,7 +24157,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -24265,7 +24266,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -24374,7 +24375,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -24483,7 +24484,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -24592,7 +24593,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -24701,7 +24702,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-0-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -24810,7 +24811,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-0-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -24919,7 +24920,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -25028,7 +25029,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -25137,7 +25138,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -25246,7 +25247,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -25355,7 +25356,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -25464,7 +25465,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -25573,7 +25574,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-1-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -25717,7 +25718,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-1-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -25861,7 +25862,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-1-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -26015,7 +26016,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-1-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -26174,7 +26175,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -26348,7 +26349,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -26522,7 +26523,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-2-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -26696,7 +26697,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-2-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -26880,7 +26881,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-2-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -27064,7 +27065,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-2-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -27248,7 +27249,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-2-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -27432,7 +27433,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-2-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-2-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -27616,7 +27617,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-2-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-2-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -27805,7 +27806,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-2-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-2-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -27994,7 +27995,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-3-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -28183,7 +28184,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-3-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -28372,7 +28373,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-3-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -28561,7 +28562,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-3-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -28750,7 +28751,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-3-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -28939,7 +28940,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-3-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -29128,7 +29129,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-3-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -29317,7 +29318,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-3-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-3-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -29506,7 +29507,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-3-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-3-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -29695,7 +29696,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-3-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-3-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -29884,7 +29885,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-4-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -30073,7 +30074,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-4-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -30262,7 +30263,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-4-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -30451,7 +30452,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-4-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -30640,7 +30641,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-4-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -30829,7 +30830,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-4-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-4-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -31018,7 +31019,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-4-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-4-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -31207,7 +31208,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-4-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-4-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -31396,7 +31397,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-4-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-4-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -31585,7 +31586,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-4-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-4-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -31774,7 +31775,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-5-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -31963,7 +31964,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-5-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -32152,7 +32153,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-5-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -32341,7 +32342,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-5-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -32530,7 +32531,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-5-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -32729,7 +32730,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-5-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-5-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -32933,7 +32934,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-5-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-5-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -33137,7 +33138,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-5-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-5-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -33341,7 +33342,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-5-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-5-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -33545,7 +33546,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-5-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-5-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -33749,7 +33750,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-6-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -33963,7 +33964,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-6-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -34177,7 +34178,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-6-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -34391,7 +34392,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-6-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -34605,7 +34606,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-6-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-6-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -34819,7 +34820,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-6-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -35033,7 +35034,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-6-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-6-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -35247,7 +35248,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-6-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-6-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -35461,7 +35462,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-6-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-6-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -35675,7 +35676,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-6-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-6-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -35889,7 +35890,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-7-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -36103,7 +36104,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-7-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -36317,7 +36318,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-7-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -36531,7 +36532,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-7-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -36745,7 +36746,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-7-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-7-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -36959,7 +36960,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-7-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-7-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -37178,7 +37179,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-7-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-7-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -37397,7 +37398,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-1-7-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-1-7-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -37606,7 +37607,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -37755,7 +37756,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -37904,7 +37905,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -38053,7 +38054,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -38202,7 +38203,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -38356,7 +38357,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -38515,7 +38516,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -38674,7 +38675,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -38833,7 +38834,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -38992,7 +38993,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -39151,7 +39152,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-10";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -39310,7 +39311,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-11";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -39469,7 +39470,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-12";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -39648,7 +39649,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-13";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -39827,7 +39828,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-14";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40006,7 +40007,7 @@
       ];
     };
     sfx-tag-search-bundle-lua-2-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sfx-tag-search-bundle-lua-2-0-15";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40185,7 +40186,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40239,7 +40240,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40288,7 +40289,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-0-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40337,7 +40338,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-0-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40386,7 +40387,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-0-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40435,7 +40436,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-0-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40484,7 +40485,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-0-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40533,7 +40534,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-0-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40582,7 +40583,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-0-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40631,7 +40632,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-0-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40680,7 +40681,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40729,7 +40730,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-1-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40778,7 +40779,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-1-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40827,7 +40828,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-1-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40876,7 +40877,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-1-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40925,7 +40926,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-1-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -40994,7 +40995,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-1-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -41063,7 +41064,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-1-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -41112,7 +41113,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-1-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -41181,7 +41182,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-1-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -41250,7 +41251,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-2-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -41319,7 +41320,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-2-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -41388,7 +41389,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-2-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -41457,7 +41458,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-2-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -41531,7 +41532,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-2-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -41605,7 +41606,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-2-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -41679,7 +41680,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-2-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -41753,7 +41754,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-2-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-2-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -41827,7 +41828,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-2-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-2-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -41901,7 +41902,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-2-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-2-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -41975,7 +41976,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-3-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -42049,7 +42050,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-3-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -42123,7 +42124,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-3-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -42197,7 +42198,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-3-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -42271,7 +42272,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-3-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -42345,7 +42346,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-3-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -42419,7 +42420,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-3-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -42493,7 +42494,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-3-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-3-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -42567,7 +42568,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-3-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-3-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -42646,7 +42647,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-3-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-3-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -42725,7 +42726,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-4-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -42804,7 +42805,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-4-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -42883,7 +42884,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-4-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -42962,7 +42963,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-4-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -43041,7 +43042,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-4-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -43120,7 +43121,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-4-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-4-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -43199,7 +43200,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-4-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-4-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -43278,7 +43279,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-4-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-4-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -43357,7 +43358,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-4-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-4-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -43436,7 +43437,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-4-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-4-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -43515,7 +43516,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-5-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -43594,7 +43595,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-5-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -43673,7 +43674,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-5-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -43752,7 +43753,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-5-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -43831,7 +43832,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-5-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -43910,7 +43911,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-5-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-5-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -43989,7 +43990,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-5-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-5-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -44068,7 +44069,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-5-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-5-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -44147,7 +44148,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-5-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-5-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -44226,7 +44227,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-5-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-5-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -44305,7 +44306,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-6-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -44384,7 +44385,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-6-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -44463,7 +44464,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-6-2";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -44547,7 +44548,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-6-3";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -44631,7 +44632,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-6-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-6-4";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -44715,7 +44716,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-6-5";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -44799,7 +44800,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-6-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-6-6";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -44883,7 +44884,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-6-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-6-7";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -44967,7 +44968,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-6-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-6-8";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -45051,7 +45052,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-6-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-6-9";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";
@@ -45135,7 +45136,7 @@
       ];
     };
     ucs-tag-search-rename-bundle-lua-1-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ucs-tag-search-rename-bundle-lua-1-7-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "Various";

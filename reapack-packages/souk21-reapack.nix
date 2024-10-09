@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   souk21-reapack = {
     midi-velocity-compressor-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-velocity-compressor-jsfx-1-0";
       indexName = "Souk21 ReaPack";
       categoryName = "JSFX";
@@ -19,7 +20,7 @@
       ];
     };
     midi-velocity-compressor-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-velocity-compressor-jsfx-1-1";
       indexName = "Souk21 ReaPack";
       categoryName = "JSFX";
@@ -33,7 +34,7 @@
       ];
     };
     playstate-mixer-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "playstate-mixer-jsfx-1-0";
       indexName = "Souk21 ReaPack";
       categoryName = "JSFX";
@@ -47,7 +48,7 @@
       ];
     };
     playstate-mixer-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "playstate-mixer-jsfx-1-1";
       indexName = "Souk21 ReaPack";
       categoryName = "JSFX";
@@ -61,7 +62,7 @@
       ];
     };
     key-sequences-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-1-0";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -75,7 +76,7 @@
       ];
     };
     key-sequences-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-1-1";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -89,7 +90,7 @@
       ];
     };
     key-sequences-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-1-2";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -103,7 +104,7 @@
       ];
     };
     key-sequences-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-1-3";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -117,7 +118,7 @@
       ];
     };
     key-sequences-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-1-4";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -131,7 +132,7 @@
       ];
     };
     key-sequences-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-1-5";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -145,7 +146,7 @@
       ];
     };
     key-sequences-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-1-6";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -159,7 +160,7 @@
       ];
     };
     key-sequences-lua-2-0beta1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-2-0beta1";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -173,7 +174,7 @@
       ];
     };
     key-sequences-lua-2-0beta2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-2-0beta2";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -187,7 +188,7 @@
       ];
     };
     key-sequences-lua-2-0beta3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-2-0beta3";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -201,7 +202,7 @@
       ];
     };
     key-sequences-lua-2-0beta4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-2-0beta4";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -215,7 +216,7 @@
       ];
     };
     key-sequences-lua-2-0beta5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-2-0beta5";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -229,7 +230,7 @@
       ];
     };
     key-sequences-lua-2-0beta6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-2-0beta6";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -243,7 +244,7 @@
       ];
     };
     key-sequences-lua-2-0beta7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-2-0beta7";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -257,7 +258,7 @@
       ];
     };
     key-sequences-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-2-0";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -271,7 +272,7 @@
       ];
     };
     key-sequences-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-2-1";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -285,7 +286,7 @@
       ];
     };
     key-sequences-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "key-sequences-lua-2-3";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -299,7 +300,7 @@
       ];
     };
     open-floating-recent-projects-menu-at-mouse-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "open-floating-recent-projects-menu-at-mouse-position-lua-1-0";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -313,7 +314,7 @@
       ];
     };
     open-floating-recent-projects-menu-at-mouse-position-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "open-floating-recent-projects-menu-at-mouse-position-lua-1-1";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -327,7 +328,7 @@
       ];
     };
     open-floating-recent-projects-menu-at-mouse-position-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "open-floating-recent-projects-menu-at-mouse-position-lua-1-2";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -341,7 +342,7 @@
       ];
     };
     open-floating-recent-projects-menu-at-mouse-position-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "open-floating-recent-projects-menu-at-mouse-position-lua-1-21";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -355,7 +356,7 @@
       ];
     };
     rename-fx-instance-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "rename-fx-instance-lua-1-0";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -369,7 +370,7 @@
       ];
     };
     set-block-buffer-size-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-0";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -413,7 +414,7 @@
       ];
     };
     set-block-buffer-size-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-01";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -457,7 +458,7 @@
       ];
     };
     set-block-buffer-size-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-02";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -506,7 +507,7 @@
       ];
     };
     set-block-buffer-size-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-03";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -555,7 +556,7 @@
       ];
     };
     set-block-buffer-size-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-04";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -604,7 +605,7 @@
       ];
     };
     set-block-buffer-size-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-05";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -653,7 +654,7 @@
       ];
     };
     set-block-buffer-size-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-06";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -702,7 +703,7 @@
       ];
     };
     set-block-buffer-size-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-07";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -766,7 +767,7 @@
       ];
     };
     set-block-buffer-size-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-08";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -830,7 +831,7 @@
       ];
     };
     set-block-buffer-size-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-09";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -904,7 +905,7 @@
       ];
     };
     set-block-buffer-size-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-10";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -978,7 +979,7 @@
       ];
     };
     set-block-buffer-size-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-11";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -1057,7 +1058,7 @@
       ];
     };
     set-block-buffer-size-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-12";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -1136,7 +1137,7 @@
       ];
     };
     set-block-buffer-size-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-13";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";
@@ -1215,7 +1216,7 @@
       ];
     };
     set-block-buffer-size-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-block-buffer-size-lua-1-14";
       indexName = "Souk21 ReaPack";
       categoryName = "Scripts";

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   kawa-scripts = {
     kawa-env-changepointshape-next-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-changepointshape-next-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -19,7 +20,7 @@
       ];
     };
     kawa-env-changepointshape-prev-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-changepointshape-prev-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -33,7 +34,7 @@
       ];
     };
     kawa-env-changepointshapeall-next-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-changepointshapeall-next-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -47,7 +48,7 @@
       ];
     };
     kawa-env-changepointshapeall-prev-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-changepointshapeall-prev-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -61,7 +62,7 @@
       ];
     };
     kawa-env-clearpointsintimeselection-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-clearpointsintimeselection-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -75,7 +76,7 @@
       ];
     };
     kawa-env-decreaselength-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-decreaselength-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -89,7 +90,7 @@
       ];
     };
     kawa-env-decreaselength-type2-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-decreaselength-type2-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -103,7 +104,7 @@
       ];
     };
     kawa-env-decreasetenstion-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-decreasetenstion-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -117,7 +118,7 @@
       ];
     };
     kawa-env-decreasevalue-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-decreasevalue-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -131,7 +132,7 @@
       ];
     };
     kawa-env-decreasevalue-additive-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-decreasevalue-additive-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -145,7 +146,7 @@
       ];
     };
     kawa-env-duplicatemusical-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-duplicatemusical-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -159,7 +160,7 @@
       ];
     };
     kawa-env-duplicatemusical-abstimebase-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-duplicatemusical-abstimebase-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -173,7 +174,7 @@
       ];
     };
     kawa-env-duplicatemusical-abstimebase-back-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-duplicatemusical-abstimebase-back-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -187,7 +188,7 @@
       ];
     };
     kawa-env-duplicatemusical-backword-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-duplicatemusical-backword-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -201,7 +202,7 @@
       ];
     };
     kawa-env-duplicatesimple-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-duplicatesimple-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -215,7 +216,7 @@
       ];
     };
     kawa-env-duplicatesimple-abstimebase-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-duplicatesimple-abstimebase-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -229,7 +230,7 @@
       ];
     };
     kawa-env-duplicatesimple-abstimebase-back-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-duplicatesimple-abstimebase-back-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -243,7 +244,7 @@
       ];
     };
     kawa-env-duplicatesimple-back-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-duplicatesimple-back-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -257,7 +258,7 @@
       ];
     };
     kawa-env-expandvalue-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-expandvalue-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -271,7 +272,7 @@
       ];
     };
     kawa-env-fadeinpoints-cubic-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-fadeinpoints-cubic-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -285,7 +286,7 @@
       ];
     };
     kawa-env-fadeinpoints-liner-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-fadeinpoints-liner-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -299,7 +300,7 @@
       ];
     };
     kawa-env-fadeinpoints-sin-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-fadeinpoints-sin-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -313,7 +314,7 @@
       ];
     };
     kawa-env-fadeoutpoints-cubic-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-fadeoutpoints-cubic-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -327,7 +328,7 @@
       ];
     };
     kawa-env-fadeoutpoints-liner-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-fadeoutpoints-liner-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -341,7 +342,7 @@
       ];
     };
     kawa-env-fadeoutpoints-sin-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-fadeoutpoints-sin-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -355,7 +356,7 @@
       ];
     };
     kawa-env-fittoloopselection-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-fittoloopselection-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -369,7 +370,7 @@
       ];
     };
     kawa-env-fixvalue-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-fixvalue-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -383,7 +384,7 @@
       ];
     };
     kawa-env-generateabssin-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-generateabssin-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -397,7 +398,7 @@
       ];
     };
     kawa-env-generatebitabssin-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-generatebitabssin-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -411,7 +412,7 @@
       ];
     };
     kawa-env-generatebitsaw-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-generatebitsaw-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -425,7 +426,7 @@
       ];
     };
     kawa-env-generatebitsin-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-generatebitsin-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -439,7 +440,7 @@
       ];
     };
     kawa-env-generatebittri-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-generatebittri-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -453,7 +454,7 @@
       ];
     };
     kawa-env-generatesaw-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-generatesaw-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -467,7 +468,7 @@
       ];
     };
     kawa-env-generatesin-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-generatesin-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -481,7 +482,7 @@
       ];
     };
     kawa-env-generatesquare-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-generatesquare-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -495,7 +496,7 @@
       ];
     };
     kawa-env-generatetri-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-generatetri-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -509,7 +510,7 @@
       ];
     };
     kawa-env-gui-settingpriority-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-gui-settingpriority-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -523,7 +524,7 @@
       ];
     };
     kawa-env-increaselength-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-increaselength-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -537,7 +538,7 @@
       ];
     };
     kawa-env-increaselength-type2-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-increaselength-type2-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -551,7 +552,7 @@
       ];
     };
     kawa-env-increasetenstion-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-increasetenstion-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -565,7 +566,7 @@
       ];
     };
     kawa-env-increasevalue-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-increasevalue-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -579,7 +580,7 @@
       ];
     };
     kawa-env-increasevalue-additive-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-increasevalue-additive-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -593,7 +594,7 @@
       ];
     };
     kawa-env-insertcentervalueenvelopepoint-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-insertcentervalueenvelopepoint-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -607,7 +608,7 @@
       ];
     };
     kawa-env-insertmaxvalueenvelopepoint-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-insertmaxvalueenvelopepoint-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -621,7 +622,7 @@
       ];
     };
     kawa-env-insertminvalueenvelopepoint-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-insertminvalueenvelopepoint-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -635,7 +636,7 @@
       ];
     };
     kawa-env-invertposition-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-invertposition-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -649,7 +650,7 @@
       ];
     };
     kawa-env-invertvalue-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-invertvalue-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -663,7 +664,7 @@
       ];
     };
     kawa-env-invertvalueandposition-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-invertvalueandposition-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -677,7 +678,7 @@
       ];
     };
     kawa-env-lightwightpoints-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-lightwightpoints-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -691,7 +692,7 @@
       ];
     };
     kawa-env-lightwightpoints-type2-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-lightwightpoints-type2-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -705,7 +706,7 @@
       ];
     };
     kawa-env-lightwightpoints-type3-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-lightwightpoints-type3-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -719,7 +720,7 @@
       ];
     };
     kawa-env-presetwavetest-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-presetwavetest-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -733,7 +734,7 @@
       ];
     };
     kawa-env-quantizepoints-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-quantizepoints-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -747,7 +748,7 @@
       ];
     };
     kawa-env-quantizepoints-type2-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-quantizepoints-type2-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -761,7 +762,7 @@
       ];
     };
     kawa-env-randompointposition-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-randompointposition-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -775,7 +776,7 @@
       ];
     };
     kawa-env-randompointshape-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-randompointshape-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -789,7 +790,7 @@
       ];
     };
     kawa-env-randompointvalue-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-randompointvalue-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -803,7 +804,7 @@
       ];
     };
     kawa-env-reducevalue-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-reducevalue-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -817,7 +818,7 @@
       ];
     };
     kawa-env-selectevenpoints-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-selectevenpoints-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -831,7 +832,7 @@
       ];
     };
     kawa-env-selecthighervaluepointsthanfirstpt-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-selecthighervaluepointsthanfirstpt-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -845,7 +846,7 @@
       ];
     };
     kawa-env-selectionnext-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-selectionnext-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -859,7 +860,7 @@
       ];
     };
     kawa-env-selectionprev-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-selectionprev-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -873,7 +874,7 @@
       ];
     };
     kawa-env-selectlowervaluepointsthanfirstpt-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-selectlowervaluepointsthanfirstpt-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -887,7 +888,7 @@
       ];
     };
     kawa-env-selectoddpoints-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-selectoddpoints-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -901,7 +902,7 @@
       ];
     };
     kawa-env-selectpointsintimeselection-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-selectpointsintimeselection-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -915,7 +916,7 @@
       ];
     };
     kawa-env-setpointvaluetocentervalue-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-setpointvaluetocentervalue-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -929,7 +930,7 @@
       ];
     };
     kawa-env-setpointvaluetomaxvalue-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-setpointvaluetomaxvalue-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -943,7 +944,7 @@
       ];
     };
     kawa-env-setpointvaluetominvalue-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-setpointvaluetominvalue-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -957,7 +958,7 @@
       ];
     };
     kawa-env-shiftposition-left-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-shiftposition-left-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -971,7 +972,7 @@
       ];
     };
     kawa-env-shiftposition-left-type2-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-shiftposition-left-type2-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -985,7 +986,7 @@
       ];
     };
     kawa-env-shiftposition-right-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-shiftposition-right-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -999,7 +1000,7 @@
       ];
     };
     kawa-env-shiftposition-right-type2-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-shiftposition-right-type2-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1013,7 +1014,7 @@
       ];
     };
     kawa-env-shiftvalue-down-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-shiftvalue-down-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1027,7 +1028,7 @@
       ];
     };
     kawa-env-shiftvalue-up-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-shiftvalue-up-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1041,7 +1042,7 @@
       ];
     };
     kawa-env-showasenvelopepreset-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-showasenvelopepreset-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1055,7 +1056,7 @@
       ];
     };
     kawa-env-showenvelopestatechunk-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-showenvelopestatechunk-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1069,7 +1070,7 @@
       ];
     };
     kawa-env-showpointinfo-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-showpointinfo-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1083,7 +1084,7 @@
       ];
     };
     kawa-env-showpointinfo-more-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-showpointinfo-more-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1097,7 +1098,7 @@
       ];
     };
     kawa-env-splitpoints-fromgrid-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-splitpoints-fromgrid-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1111,7 +1112,7 @@
       ];
     };
     kawa-env-splitpoints-type1-2-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-splitpoints-type1-2-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1125,7 +1126,7 @@
       ];
     };
     kawa-env-splitpoints-type1-3-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-splitpoints-type1-3-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1139,7 +1140,7 @@
       ];
     };
     kawa-env-splitpoints-type1-4-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-splitpoints-type1-4-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1153,7 +1154,7 @@
       ];
     };
     kawa-env-splitpoints-type1-5-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-splitpoints-type1-5-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1167,7 +1168,7 @@
       ];
     };
     kawa-env-splitpoints-type1-7-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-splitpoints-type1-7-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1181,7 +1182,7 @@
       ];
     };
     kawa-env-splitpoints-type2-2-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-splitpoints-type2-2-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1195,7 +1196,7 @@
       ];
     };
     kawa-env-splitpoints-type2-3-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-splitpoints-type2-3-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1209,7 +1210,7 @@
       ];
     };
     kawa-env-splitpoints-type2-4-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-splitpoints-type2-4-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1223,7 +1224,7 @@
       ];
     };
     kawa-env-splitpoints-type2-5-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-splitpoints-type2-5-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1237,7 +1238,7 @@
       ];
     };
     kawa-env-splitpoints-type2-7-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-splitpoints-type2-7-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1251,7 +1252,7 @@
       ];
     };
     kawa-env-synctimeselectionrange-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-synctimeselectionrange-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1265,7 +1266,7 @@
       ];
     };
     kawa-env-unselectallpoints-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-env-unselectallpoints-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "ENVELOPE section";
@@ -1279,7 +1280,7 @@
       ];
     };
     kawa-gui-autotrackhighlight-lua-2018-11-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-autotrackhighlight-lua-2018-11-11";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1293,7 +1294,7 @@
       ];
     };
     kawa-gui-channelselector-lua-2022-05-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-channelselector-lua-2022-05-29";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1307,7 +1308,7 @@
       ];
     };
     kawa-gui-check-chordtone-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-check-chordtone-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1321,7 +1322,7 @@
       ];
     };
     kawa-gui-check-circleof5th-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-check-circleof5th-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1335,7 +1336,7 @@
       ];
     };
     kawa-gui-check-majorscale-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-check-majorscale-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1349,7 +1350,7 @@
       ];
     };
     kawa-gui-checkertoolset-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-checkertoolset-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1363,7 +1364,7 @@
       ];
     };
     kawa-gui-checkertoolsetfade-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-checkertoolsetfade-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1377,7 +1378,7 @@
       ];
     };
     kawa-gui-clock-lua-2018-10-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-clock-lua-2018-10-12";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1391,7 +1392,7 @@
       ];
     };
     kawa-gui-clock-withoutdate-lua-2018-10-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-clock-withoutdate-lua-2018-10-12";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1405,7 +1406,7 @@
       ];
     };
     kawa-gui-dummytimer-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-dummytimer-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1419,7 +1420,7 @@
       ];
     };
     kawa-gui-envelopepreset-lua-2017-08-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-envelopepreset-lua-2017-08-19";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1433,7 +1434,7 @@
       ];
     };
     kawa-gui-fxmorph-2-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-fxmorph-2-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1447,7 +1448,7 @@
       ];
     };
     kawa-gui-fxmorph-4-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-fxmorph-4-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1461,7 +1462,7 @@
       ];
     };
     kawa-gui-fxrandomiza-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-fxrandomiza-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1475,7 +1476,7 @@
       ];
     };
     kawa-gui-fxtoolset-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-fxtoolset-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1489,7 +1490,7 @@
       ];
     };
     kawa-gui-fxtoolsetfade-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-fxtoolsetfade-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1503,7 +1504,7 @@
       ];
     };
     kawa-gui-goniometer-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-goniometer-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1517,7 +1518,7 @@
       ];
     };
     kawa-gui-goniometer-ex-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-goniometer-ex-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1531,7 +1532,7 @@
       ];
     };
     kawa-gui-infoloopselection-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-infoloopselection-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1545,7 +1546,7 @@
       ];
     };
     kawa-gui-infotimeselection-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-infotimeselection-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1559,7 +1560,7 @@
       ];
     };
     kawa-gui-matrixanim-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-matrixanim-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1573,7 +1574,7 @@
       ];
     };
     kawa-gui-matrixanim3d-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-matrixanim3d-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1587,7 +1588,7 @@
       ];
     };
     kawa-gui-oscilloscope-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-oscilloscope-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1601,7 +1602,7 @@
       ];
     };
     kawa-gui-particalanimation-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-particalanimation-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1615,7 +1616,7 @@
       ];
     };
     kawa-gui-peakmeter-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-peakmeter-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1629,7 +1630,7 @@
       ];
     };
     kawa-gui-ramentimer-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-ramentimer-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1643,7 +1644,7 @@
       ];
     };
     kawa-gui-scaleselector-lua-2017-09-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-scaleselector-lua-2017-09-06";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1657,7 +1658,7 @@
       ];
     };
     kawa-gui-scaletranspose-lua-2017-09-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-scaletranspose-lua-2017-09-06";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1671,7 +1672,7 @@
       ];
     };
     kawa-gui-simplefx-wet-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-simplefx-wet-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1685,7 +1686,7 @@
       ];
     };
     kawa-gui-simplekeyborad-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-simplekeyborad-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1699,7 +1700,7 @@
       ];
     };
     kawa-gui-simpletoolset-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-simpletoolset-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1713,7 +1714,7 @@
       ];
     };
     kawa-gui-simpletoolsetfade-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-simpletoolsetfade-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1727,7 +1728,7 @@
       ];
     };
     kawa-gui-simplevca-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-simplevca-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1741,7 +1742,7 @@
       ];
     };
     kawa-gui-test-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-test-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1755,7 +1756,7 @@
       ];
     };
     kawa-gui-testtabcomponent-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-testtabcomponent-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1769,7 +1770,7 @@
       ];
     };
     kawa-gui-testtabcomponentfade-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gui-testtabcomponentfade-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "GUI section";
@@ -1783,7 +1784,7 @@
       ];
     };
     kawa-gonionmeter-ex-jsfx-2016-07-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-gonionmeter-ex-jsfx-2016-07-02";
       indexName = "kawa Scripts";
       categoryName = "JSFX effects";
@@ -1797,7 +1798,7 @@
       ];
     };
     kawa-simple-mid-side-jsfx-2016-06-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-simple-mid-side-jsfx-2016-06-15";
       indexName = "kawa Scripts";
       categoryName = "JSFX effects";
@@ -1811,7 +1812,7 @@
       ];
     };
     kawa-xy-bitcrusher-jsfx-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-xy-bitcrusher-jsfx-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "JSFX effects";
@@ -1825,7 +1826,7 @@
       ];
     };
     kawa-xy-chorus-jsfx-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-xy-chorus-jsfx-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "JSFX effects";
@@ -1839,7 +1840,7 @@
       ];
     };
     kawa-xy-delay-jsfx-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-xy-delay-jsfx-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "JSFX effects";
@@ -1853,7 +1854,7 @@
       ];
     };
     kawa-xy-delay-type2-jsfx-01-24-2021 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-xy-delay-type2-jsfx-01-24-2021";
       indexName = "kawa Scripts";
       categoryName = "JSFX effects";
@@ -1867,7 +1868,7 @@
       ];
     };
     kawa-xy-flanger-jsfx-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-xy-flanger-jsfx-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "JSFX effects";
@@ -1881,7 +1882,7 @@
       ];
     };
     kawa-main-basepitchtuning-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-basepitchtuning-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -1895,7 +1896,7 @@
       ];
     };
     kawa-main-changeactivetake-next-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-changeactivetake-next-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -1909,7 +1910,7 @@
       ];
     };
     kawa-main-changeactivetake-prev-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-changeactivetake-prev-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -1923,7 +1924,7 @@
       ];
     };
     kawa-main-colormarkerandregionhue-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colormarkerandregionhue-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -1937,7 +1938,7 @@
       ];
     };
     kawa-main-colormarkerhue-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colormarkerhue-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -1951,7 +1952,7 @@
       ];
     };
     kawa-main-colorregionhue-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorregionhue-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -1965,7 +1966,7 @@
       ];
     };
     kawa-main-colorselecteditemhue-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemhue-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -1979,7 +1980,7 @@
       ];
     };
     kawa-main-colorselecteditemhueclear-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemhueclear-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -1993,7 +1994,7 @@
       ];
     };
     kawa-main-colorselecteditemhuegrad-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemhuegrad-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2007,7 +2008,7 @@
       ];
     };
     kawa-main-colorselecteditemhuerand-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemhuerand-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2021,7 +2022,7 @@
       ];
     };
     kawa-main-colorselecteditemortrack-brighter-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemortrack-brighter-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2035,7 +2036,7 @@
       ];
     };
     kawa-main-colorselecteditemortrack-clear-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemortrack-clear-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2049,7 +2050,7 @@
       ];
     };
     kawa-main-colorselecteditemortrack-colorshift-l-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemortrack-colorshift-l-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2063,7 +2064,7 @@
       ];
     };
     kawa-main-colorselecteditemortrack-colorshift-r-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemortrack-colorshift-r-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2077,7 +2078,7 @@
       ];
     };
     kawa-main-colorselecteditemortrack-darker-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemortrack-darker-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2091,7 +2092,7 @@
       ];
     };
     kawa-main-colorselecteditemortrack-decreasesaturation-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemortrack-decreasesaturation-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2105,7 +2106,7 @@
       ];
     };
     kawa-main-colorselecteditemortrack-grad-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemortrack-grad-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2119,7 +2120,7 @@
       ];
     };
     kawa-main-colorselecteditemortrack-gradoption-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemortrack-gradoption-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2133,7 +2134,7 @@
       ];
     };
     kawa-main-colorselecteditemortrack-increasesaturation-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemortrack-increasesaturation-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2147,7 +2148,7 @@
       ];
     };
     kawa-main-colorselecteditemortrack-invert-lua-2017-01-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemortrack-invert-lua-2017-01-28";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2161,7 +2162,7 @@
       ];
     };
     kawa-main-colorselecteditemortrack-rand-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colorselecteditemortrack-rand-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2175,7 +2176,7 @@
       ];
     };
     kawa-main-colortrackclear-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colortrackclear-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2189,7 +2190,7 @@
       ];
     };
     kawa-main-colortrackhue-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-colortrackhue-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2203,7 +2204,7 @@
       ];
     };
     kawa-main-createsamplomatic5000-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-createsamplomatic5000-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2217,7 +2218,7 @@
       ];
     };
     kawa-main-decreaselength-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-decreaselength-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2231,7 +2232,7 @@
       ];
     };
     kawa-main-deletegluedtakename-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-deletegluedtakename-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2245,7 +2246,7 @@
       ];
     };
     kawa-main-duplicatemusical-toprojectendornextitem-withpool-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-duplicatemusical-toprojectendornextitem-withpool-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2259,7 +2260,7 @@
       ];
     };
     kawa-main-duplicatemusical-toprojectendornextitem-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-duplicatemusical-toprojectendornextitem-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2273,7 +2274,7 @@
       ];
     };
     kawa-main-duplicatemusical-withpool-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-duplicatemusical-withpool-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2287,7 +2288,7 @@
       ];
     };
     kawa-main-duplicatemusical-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-duplicatemusical-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2301,7 +2302,7 @@
       ];
     };
     kawa-main-duplicatemusical-back-toprojectstartorpreviouseitem-withpool-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-duplicatemusical-back-toprojectstartorpreviouseitem-withpool-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2315,7 +2316,7 @@
       ];
     };
     kawa-main-duplicatemusical-back-toprojectstartorpreviouseitem-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-duplicatemusical-back-toprojectstartorpreviouseitem-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2329,7 +2330,7 @@
       ];
     };
     kawa-main-duplicatemusical-back-withpool-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-duplicatemusical-back-withpool-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2343,7 +2344,7 @@
       ];
     };
     kawa-main-duplicatemusical-back-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-duplicatemusical-back-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2357,7 +2358,7 @@
       ];
     };
     kawa-main-duplicatemusical-fillinloopselection-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-duplicatemusical-fillinloopselection-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2371,7 +2372,7 @@
       ];
     };
     kawa-main-duplicatemusical-fillintimeselection-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-duplicatemusical-fillintimeselection-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2385,7 +2386,7 @@
       ];
     };
     kawa-main-duplicatemusical-nextitemorprojectend-lua-2017-01-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-duplicatemusical-nextitemorprojectend-lua-2017-01-18";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2399,7 +2400,7 @@
       ];
     };
     kawa-main-explodemidinotestonewmediaitembypitchclass-lua-2017-01-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-explodemidinotestonewmediaitembypitchclass-lua-2017-01-27";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2413,7 +2414,7 @@
       ];
     };
     kawa-main-explodemidinotestonewtrackbypitchclass-ignoredefaulttracksetting-lua-2017-01-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-explodemidinotestonewtrackbypitchclass-ignoredefaulttracksetting-lua-2017-01-27";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2427,7 +2428,7 @@
       ];
     };
     kawa-main-explodemidinotestonewtrackbypitchclass-lua-2017-01-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-explodemidinotestonewtrackbypitchclass-lua-2017-01-27";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2441,7 +2442,7 @@
       ];
     };
     kawa-main-horizontalzoom-in-3-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-horizontalzoom-in-3-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2455,7 +2456,7 @@
       ];
     };
     kawa-main-horizontalzoom-in-5-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-horizontalzoom-in-5-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2469,7 +2470,7 @@
       ];
     };
     kawa-main-horizontalzoom-out-3-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-horizontalzoom-out-3-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2483,7 +2484,7 @@
       ];
     };
     kawa-main-horizontalzoom-out-5-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-horizontalzoom-out-5-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2497,7 +2498,7 @@
       ];
     };
     kawa-main-increaselength-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-increaselength-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2511,7 +2512,7 @@
       ];
     };
     kawa-main-morsesplit-random-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-morsesplit-random-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2525,7 +2526,7 @@
       ];
     };
     kawa-main-nextfoldercompactsetting-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-nextfoldercompactsetting-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2539,7 +2540,7 @@
       ];
     };
     kawa-main-openprojectdirectory-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-openprojectdirectory-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2553,7 +2554,7 @@
       ];
     };
     kawa-main-renderselecteditemstonewtrack-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-renderselecteditemstonewtrack-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2567,7 +2568,7 @@
       ];
     };
     kawa-main-screenset-next-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-screenset-next-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2581,7 +2582,7 @@
       ];
     };
     kawa-main-screenset-prev-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-screenset-prev-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2595,7 +2596,7 @@
       ];
     };
     kawa-main-screenset-toggle-1-2-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-screenset-toggle-1-2-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2609,7 +2610,7 @@
       ];
     };
     kawa-main-screenset-toggle-3-4-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-screenset-toggle-3-4-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2623,7 +2624,7 @@
       ];
     };
     kawa-main-screenset-toggle-5-6-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-screenset-toggle-5-6-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2637,7 +2638,7 @@
       ];
     };
     kawa-main-screenset-toggle-7-8-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-screenset-toggle-7-8-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2651,7 +2652,7 @@
       ];
     };
     kawa-main-screenset-toggle-9-10-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-screenset-toggle-9-10-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2665,7 +2666,7 @@
       ];
     };
     kawa-main-selecteditemrandommute-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-selecteditemrandommute-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2679,7 +2680,7 @@
       ];
     };
     kawa-main-selecteditemspitchrate-arp-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-selecteditemspitchrate-arp-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2693,7 +2694,7 @@
       ];
     };
     kawa-main-selecteditemspitchrate-arp-type2-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-selecteditemspitchrate-arp-type2-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2707,7 +2708,7 @@
       ];
     };
     kawa-main-selecteditemspitchrate-random-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-selecteditemspitchrate-random-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2721,7 +2722,7 @@
       ];
     };
     kawa-main-selectedtrackhidetcp-type2-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-selectedtrackhidetcp-type2-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2735,7 +2736,7 @@
       ];
     };
     kawa-main-selectedtracktofolder-type2-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-selectedtracktofolder-type2-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2749,7 +2750,7 @@
       ];
     };
     kawa-main-selectionnext-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-selectionnext-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2763,7 +2764,7 @@
       ];
     };
     kawa-main-selectionprev-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-selectionprev-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2777,7 +2778,7 @@
       ];
     };
     kawa-main-setitemendtonextitemstart-type1-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-setitemendtonextitemstart-type1-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2791,7 +2792,7 @@
       ];
     };
     kawa-main-setitemendtonextitemstart-type2-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-setitemendtonextitemstart-type2-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2805,7 +2806,7 @@
       ];
     };
     kawa-main-setloopselectionbyselecteditem-sbar-measure-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-setloopselectionbyselecteditem-sbar-measure-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2819,7 +2820,7 @@
       ];
     };
     kawa-main-settimeselectionbyselecteditem-sbar-measure-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-settimeselectionbyselecteditem-sbar-measure-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2833,7 +2834,7 @@
       ];
     };
     kawa-main-splitbygrid-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-splitbygrid-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2847,7 +2848,7 @@
       ];
     };
     kawa-main-splititem2-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-splititem2-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2861,7 +2862,7 @@
       ];
     };
     kawa-main-splititem3-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-splititem3-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2875,7 +2876,7 @@
       ];
     };
     kawa-main-splititem4-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-splititem4-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2889,7 +2890,7 @@
       ];
     };
     kawa-main-splititem5-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-splititem5-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2903,7 +2904,7 @@
       ];
     };
     kawa-main-splititem7-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-splititem7-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2917,7 +2918,7 @@
       ];
     };
     kawa-main-synchronize-item-smutestate-and-track-s-type2-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-synchronize-item-smutestate-and-track-s-type2-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2931,7 +2932,7 @@
       ];
     };
     kawa-main-takenamefromtrackname-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-takenamefromtrackname-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2945,7 +2946,7 @@
       ];
     };
     kawa-main-takenamefromtracknamewithnumbering-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-takenamefromtracknamewithnumbering-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2959,7 +2960,7 @@
       ];
     };
     kawa-main-takenametotextclip-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-takenametotextclip-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2973,7 +2974,7 @@
       ];
     };
     kawa-main-takenametotrackname-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-takenametotrackname-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -2987,7 +2988,7 @@
       ];
     };
     kawa-main-togglelengthnext-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-togglelengthnext-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -3001,7 +3002,7 @@
       ];
     };
     kawa-main-togglelengthprev-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-togglelengthprev-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -3015,7 +3016,7 @@
       ];
     };
     kawa-main-transpose-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-transpose-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -3029,7 +3030,7 @@
       ];
     };
     kawa-main-verticalzoom-in-3-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-verticalzoom-in-3-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -3043,7 +3044,7 @@
       ];
     };
     kawa-main-verticalzoom-in-5-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-verticalzoom-in-5-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -3057,7 +3058,7 @@
       ];
     };
     kawa-main-verticalzoom-out-3-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-verticalzoom-out-3-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -3071,7 +3072,7 @@
       ];
     };
     kawa-main-verticalzoom-out-5-lua-2017-01-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-main-verticalzoom-out-5-lua-2017-01-16";
       indexName = "kawa Scripts";
       categoryName = "MAIN section";
@@ -3085,7 +3086,7 @@
       ];
     };
     kawa-midi-addtempochangemarker-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-addtempochangemarker-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3099,7 +3100,7 @@
       ];
     };
     kawa-midi-assignchannelfromchordtone-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-assignchannelfromchordtone-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3113,7 +3114,7 @@
       ];
     };
     kawa-midi-assignchannelfromchordtone-near-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-assignchannelfromchordtone-near-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3127,7 +3128,7 @@
       ];
     };
     kawa-midi-changeactivetake-next-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-changeactivetake-next-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3141,7 +3142,7 @@
       ];
     };
     kawa-midi-changeactivetake-prev-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-changeactivetake-prev-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3155,7 +3156,7 @@
       ];
     };
     kawa-midi-changecolornoteby-circle-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-changecolornoteby-circle-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3169,7 +3170,7 @@
       ];
     };
     kawa-midi-changenotechannel-mousewheelonly-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-changenotechannel-mousewheelonly-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3183,7 +3184,7 @@
       ];
     };
     kawa-midi-connecttwopitch-lua-2017-07-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-connecttwopitch-lua-2017-07-30";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3197,7 +3198,7 @@
       ];
     };
     kawa-midi-decreaselength-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-decreaselength-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3211,7 +3212,7 @@
       ];
     };
     kawa-midi-decreasestartpos-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-decreasestartpos-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3225,7 +3226,7 @@
       ];
     };
     kawa-midi-decreasevelocity-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-decreasevelocity-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3239,7 +3240,7 @@
       ];
     };
     kawa-midi-decrementchannel-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-decrementchannel-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3253,7 +3254,7 @@
       ];
     };
     kawa-midi-deletebottomnote-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-deletebottomnote-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3267,7 +3268,7 @@
       ];
     };
     kawa-midi-deletebottomnote-near-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-deletebottomnote-near-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3281,7 +3282,7 @@
       ];
     };
     kawa-midi-deletetopnote-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-deletetopnote-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3295,7 +3296,7 @@
       ];
     };
     kawa-midi-deletetopnote-near-lua-2017-01-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-deletetopnote-near-lua-2017-01-24";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3309,7 +3310,7 @@
       ];
     };
     kawa-midi-detectbottomnote-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-detectbottomnote-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3323,7 +3324,7 @@
       ];
     };
     kawa-midi-detectbottomnote-near-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-detectbottomnote-near-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3337,7 +3338,7 @@
       ];
     };
     kawa-midi-detecttopnote-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-detecttopnote-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3351,7 +3352,7 @@
       ];
     };
     kawa-midi-detecttopnote-near-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-detecttopnote-near-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3365,7 +3366,7 @@
       ];
     };
     kawa-midi-duplicatemusical-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-duplicatemusical-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3379,7 +3380,7 @@
       ];
     };
     kawa-midi-duplicatesimple-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-duplicatesimple-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3393,7 +3394,7 @@
       ];
     };
     kawa-midi-editingitemstracktogglesolo-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-editingitemstracktogglesolo-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3407,7 +3408,7 @@
       ];
     };
     kawa-midi-editnotes-mixed-detect-delete-lua-2017-02-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-editnotes-mixed-detect-delete-lua-2017-02-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3421,7 +3422,7 @@
       ];
     };
     kawa-midi-editnotes-mixed-detect-delete-near-lua-2017-02-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-editnotes-mixed-detect-delete-near-lua-2017-02-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3435,7 +3436,7 @@
       ];
     };
     kawa-midi-expandvelocity-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-expandvelocity-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3449,7 +3450,7 @@
       ];
     };
     kawa-midi-explodeselectednotestonewmediitembypitchclass-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-explodeselectednotestonewmediitembypitchclass-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3463,7 +3464,7 @@
       ];
     };
     kawa-midi-explodeselectednotestonewtrackbypitchclass-ignoredefaulttracksetting-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-explodeselectednotestonewtrackbypitchclass-ignoredefaulttracksetting-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3477,7 +3478,7 @@
       ];
     };
     kawa-midi-explodeselectednotestonewtrackbypitchclass-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-explodeselectednotestonewtrackbypitchclass-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3491,7 +3492,7 @@
       ];
     };
     kawa-midi-generatearp-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-generatearp-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3505,7 +3506,7 @@
       ];
     };
     kawa-midi-generateexplodearp-lua-2017-02-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-generateexplodearp-lua-2017-02-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3519,7 +3520,7 @@
       ];
     };
     kawa-midi-generaterandomarp-lua-2017-02-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-generaterandomarp-lua-2017-02-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3533,7 +3534,7 @@
       ];
     };
     kawa-midi-growup-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-growup-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3547,7 +3548,7 @@
       ];
     };
     kawa-midi-harmony-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-harmony-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3561,7 +3562,7 @@
       ];
     };
     kawa-midi-horizontalzoom-in-3-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-horizontalzoom-in-3-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3575,7 +3576,7 @@
       ];
     };
     kawa-midi-horizontalzoom-in-5-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-horizontalzoom-in-5-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3589,7 +3590,7 @@
       ];
     };
     kawa-midi-horizontalzoom-next-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-horizontalzoom-next-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3603,7 +3604,7 @@
       ];
     };
     kawa-midi-horizontalzoom-out-3-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-horizontalzoom-out-3-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3617,7 +3618,7 @@
       ];
     };
     kawa-midi-horizontalzoom-out-5-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-horizontalzoom-out-5-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3631,7 +3632,7 @@
       ];
     };
     kawa-midi-horizontalzoom-prev-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-horizontalzoom-prev-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3645,7 +3646,7 @@
       ];
     };
     kawa-midi-increaselength-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-increaselength-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3659,7 +3660,7 @@
       ];
     };
     kawa-midi-increasestartpos-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-increasestartpos-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3673,7 +3674,7 @@
       ];
     };
     kawa-midi-increasevelocity-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-increasevelocity-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3687,7 +3688,7 @@
       ];
     };
     kawa-midi-incrementchannel-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-incrementchannel-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3701,7 +3702,7 @@
       ];
     };
     kawa-midi-insertcc64-off-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-insertcc64-off-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3715,7 +3716,7 @@
       ];
     };
     kawa-midi-insertcc64-on-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-insertcc64-on-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3729,7 +3730,7 @@
       ];
     };
     kawa-midi-insertchord-onmousepitch-anyscale-lua-2017-09-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-insertchord-onmousepitch-anyscale-lua-2017-09-06";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3743,7 +3744,7 @@
       ];
     };
     kawa-midi-insertchord-onmousepitch-anyscale-custom-randomorder-lua-2017-09-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-insertchord-onmousepitch-anyscale-custom-randomorder-lua-2017-09-06";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3757,7 +3758,7 @@
       ];
     };
     kawa-midi-insertchord-onmousepitch-anyscale-custom-lua-2017-09-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-insertchord-onmousepitch-anyscale-custom-lua-2017-09-06";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3771,7 +3772,7 @@
       ];
     };
     kawa-midi-insertchord-onmousepitch-majorkeyonly-lua-2017-09-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-insertchord-onmousepitch-majorkeyonly-lua-2017-09-06";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3785,7 +3786,7 @@
       ];
     };
     kawa-midi-insertchord-onpitchcursor-anyscale-lua-2017-09-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-insertchord-onpitchcursor-anyscale-lua-2017-09-06";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3799,7 +3800,7 @@
       ];
     };
     kawa-midi-insertchord-onpitchcursor-anyscale-custom-randomorder-lua-2017-09-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-insertchord-onpitchcursor-anyscale-custom-randomorder-lua-2017-09-06";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3813,7 +3814,7 @@
       ];
     };
     kawa-midi-insertchord-onpitchcursor-anyscale-custom-lua-2017-09-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-insertchord-onpitchcursor-anyscale-custom-lua-2017-09-06";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3827,7 +3828,7 @@
       ];
     };
     kawa-midi-insertchord-onpitchcursor-majorkeyonly-lua-2017-09-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-insertchord-onpitchcursor-majorkeyonly-lua-2017-09-06";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3841,7 +3842,7 @@
       ];
     };
     kawa-midi-legatotype2-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-legatotype2-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3855,7 +3856,7 @@
       ];
     };
     kawa-midi-morseduplicate-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-morseduplicate-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3869,7 +3870,7 @@
       ];
     };
     kawa-midi-morseduplicate-random-lua-2017-06-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-morseduplicate-random-lua-2017-06-29";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3883,7 +3884,7 @@
       ];
     };
     kawa-midi-morsesplit-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-morsesplit-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3897,7 +3898,7 @@
       ];
     };
     kawa-midi-morsesplit-random-lua-2017-02-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-morsesplit-random-lua-2017-02-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3911,7 +3912,7 @@
       ];
     };
     kawa-midi-notelength-next-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-notelength-next-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3925,7 +3926,7 @@
       ];
     };
     kawa-midi-notelength-prev-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-notelength-prev-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3939,7 +3940,7 @@
       ];
     };
     kawa-midi-notelengtheach-next-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-notelengtheach-next-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3953,7 +3954,7 @@
       ];
     };
     kawa-midi-notelengtheach-prev-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-notelengtheach-prev-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3967,7 +3968,7 @@
       ];
     };
     kawa-midi-notelengthtoend-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-notelengthtoend-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3981,7 +3982,7 @@
       ];
     };
     kawa-midi-notelengthtoendoftakeitem-lua-2017-08-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-notelengthtoendoftakeitem-lua-2017-08-18";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -3995,7 +3996,7 @@
       ];
     };
     kawa-midi-nudgenoteleft-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-nudgenoteleft-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4009,7 +4010,7 @@
       ];
     };
     kawa-midi-nudgenoteright-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-nudgenoteright-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4023,7 +4024,7 @@
       ];
     };
     kawa-midi-nudgetwonoteleft-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-nudgetwonoteleft-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4037,7 +4038,7 @@
       ];
     };
     kawa-midi-nudgetwonoteright-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-nudgetwonoteright-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4051,7 +4052,7 @@
       ];
     };
     kawa-midi-pastetoupperonmousepitch-lua-2017-02-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-pastetoupperonmousepitch-lua-2017-02-07";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4065,7 +4066,7 @@
       ];
     };
     kawa-midi-pastetoupperpitchcursor-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-pastetoupperpitchcursor-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4079,7 +4080,7 @@
       ];
     };
     kawa-midi-pitchbendglide-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-pitchbendglide-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4093,7 +4094,7 @@
       ];
     };
     kawa-midi-reducevelocity-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-reducevelocity-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4107,7 +4108,7 @@
       ];
     };
     kawa-midi-resolveoverlap-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-resolveoverlap-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4121,7 +4122,7 @@
       ];
     };
     kawa-midi-selectallnotecurrenttake-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectallnotecurrenttake-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4135,7 +4136,7 @@
       ];
     };
     kawa-midi-selectbottomnotes-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectbottomnotes-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4149,7 +4150,7 @@
       ];
     };
     kawa-midi-selectbottomnotes-near-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectbottomnotes-near-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4163,7 +4164,7 @@
       ];
     };
     kawa-midi-selectbottomnotes-onpointedbar-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectbottomnotes-onpointedbar-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4177,7 +4178,7 @@
       ];
     };
     kawa-midi-selectednoteinfo-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectednoteinfo-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4191,7 +4192,7 @@
       ];
     };
     kawa-midi-selectednotestoduplicatetrack-nondeleteoriginalnotes-lua-2017-01-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectednotestoduplicatetrack-nondeleteoriginalnotes-lua-2017-01-22";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4205,7 +4206,7 @@
       ];
     };
     kawa-midi-selectednotestoduplicatetrack-lua-2017-01-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectednotestoduplicatetrack-lua-2017-01-22";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4219,7 +4220,7 @@
       ];
     };
     kawa-midi-selectednotestonewmediaitem-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectednotestonewmediaitem-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4233,7 +4234,7 @@
       ];
     };
     kawa-midi-selectednotestonewtrackmediaitem-ignoredefaulttracksetting-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectednotestonewtrackmediaitem-ignoredefaulttracksetting-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4247,7 +4248,7 @@
       ];
     };
     kawa-midi-selectednotestonewtrackmediaitem-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectednotestonewtrackmediaitem-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4261,7 +4262,7 @@
       ];
     };
     kawa-midi-selectevennotesfromlower-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectevennotesfromlower-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4275,7 +4276,7 @@
       ];
     };
     kawa-midi-selectevennotesfromlower-near-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectevennotesfromlower-near-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4289,7 +4290,7 @@
       ];
     };
     kawa-midi-selectionauto-ver1-next-lua-2017-02-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectionauto-ver1-next-lua-2017-02-05";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4303,7 +4304,7 @@
       ];
     };
     kawa-midi-selectionauto-ver1-prev-lua-2017-02-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectionauto-ver1-prev-lua-2017-02-05";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4317,7 +4318,7 @@
       ];
     };
     kawa-midi-selectionauto-ver2-lua-2017-02-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectionauto-ver2-lua-2017-02-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4331,7 +4332,7 @@
       ];
     };
     kawa-midi-selectmiddlenotes-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectmiddlenotes-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4345,7 +4346,7 @@
       ];
     };
     kawa-midi-selectmiddlenotes-near-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectmiddlenotes-near-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4359,7 +4360,7 @@
       ];
     };
     kawa-midi-selectmiddlenotes-onpointedbar-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectmiddlenotes-onpointedbar-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4373,7 +4374,7 @@
       ];
     };
     kawa-midi-selectnotes-mixed-topmiddlebottomevenodd-lua-2017-07-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectnotes-mixed-topmiddlebottomevenodd-lua-2017-07-30";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4387,7 +4388,7 @@
       ];
     };
     kawa-midi-selectnotes-mixed-topmiddlebottomevenodd-near-lua-2017-07-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectnotes-mixed-topmiddlebottomevenodd-near-lua-2017-07-30";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4401,7 +4402,7 @@
       ];
     };
     kawa-midi-selectoddnotesfromlower-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectoddnotesfromlower-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4415,7 +4416,7 @@
       ];
     };
     kawa-midi-selectoddnotesfromlower-near-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectoddnotesfromlower-near-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4429,7 +4430,7 @@
       ];
     };
     kawa-midi-selectsimilerchord-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectsimilerchord-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4443,7 +4444,7 @@
       ];
     };
     kawa-midi-selectsimilerchord-near-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selectsimilerchord-near-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4457,7 +4458,7 @@
       ];
     };
     kawa-midi-selecttopnotes-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selecttopnotes-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4471,7 +4472,7 @@
       ];
     };
     kawa-midi-selecttopnotes-near-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selecttopnotes-near-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4485,7 +4486,7 @@
       ];
     };
     kawa-midi-selecttopnotes-onpointedbar-lua-2017-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-selecttopnotes-onpointedbar-lua-2017-02-03";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4499,7 +4500,7 @@
       ];
     };
     kawa-midi-showitemstatechunk-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-showitemstatechunk-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4513,7 +4514,7 @@
       ];
     };
     kawa-midi-splitnote2-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-splitnote2-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4527,7 +4528,7 @@
       ];
     };
     kawa-midi-splitnote3-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-splitnote3-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4541,7 +4542,7 @@
       ];
     };
     kawa-midi-splitnote4-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-splitnote4-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4555,7 +4556,7 @@
       ];
     };
     kawa-midi-splitnote5-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-splitnote5-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4569,7 +4570,7 @@
       ];
     };
     kawa-midi-splitnote7-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-splitnote7-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4583,7 +4584,7 @@
       ];
     };
     kawa-midi-strokedown-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-strokedown-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4597,7 +4598,7 @@
       ];
     };
     kawa-midi-strokeup-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-strokeup-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4611,7 +4612,7 @@
       ];
     };
     kawa-midi-velocityfix-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-velocityfix-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4625,7 +4626,7 @@
       ];
     };
     kawa-midi-velocityinterpolation-cubic-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-velocityinterpolation-cubic-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4639,7 +4640,7 @@
       ];
     };
     kawa-midi-velocityinterpolation-cubicrand-lua-2017-02-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-velocityinterpolation-cubicrand-lua-2017-02-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4653,7 +4654,7 @@
       ];
     };
     kawa-midi-velocityinterpolation-liner-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-velocityinterpolation-liner-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4667,7 +4668,7 @@
       ];
     };
     kawa-midi-velocityinterpolation-linerrand-lua-2017-02-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-velocityinterpolation-linerrand-lua-2017-02-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4681,7 +4682,7 @@
       ];
     };
     kawa-midi-velocityinterpolation-sin-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-velocityinterpolation-sin-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4695,7 +4696,7 @@
       ];
     };
     kawa-midi-velocityinterpolation-sinrand-lua-2017-02-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-velocityinterpolation-sinrand-lua-2017-02-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4709,7 +4710,7 @@
       ];
     };
     kawa-midi-velocityrandom-lua-2017-02-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-velocityrandom-lua-2017-02-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4723,7 +4724,7 @@
       ];
     };
     kawa-midi-verticalscrolltobottomnote-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-verticalscrolltobottomnote-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4737,7 +4738,7 @@
       ];
     };
     kawa-midi-verticalscrolltocircle-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-verticalscrolltocircle-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4751,7 +4752,7 @@
       ];
     };
     kawa-midi-verticalscrolltoswitch-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-verticalscrolltoswitch-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4765,7 +4766,7 @@
       ];
     };
     kawa-midi-verticalscrolltotopnote-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-verticalscrolltotopnote-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4779,7 +4780,7 @@
       ];
     };
     kawa-midi-verticalzoom-in-3-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-verticalzoom-in-3-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4793,7 +4794,7 @@
       ];
     };
     kawa-midi-verticalzoom-in-5-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-verticalzoom-in-5-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4807,7 +4808,7 @@
       ];
     };
     kawa-midi-verticalzoom-next-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-verticalzoom-next-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4821,7 +4822,7 @@
       ];
     };
     kawa-midi-verticalzoom-out-3-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-verticalzoom-out-3-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4835,7 +4836,7 @@
       ];
     };
     kawa-midi-verticalzoom-out-5-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-verticalzoom-out-5-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4849,7 +4850,7 @@
       ];
     };
     kawa-midi-verticalzoom-prev-lua-2017-01-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midi-verticalzoom-prev-lua-2017-01-21";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4863,7 +4864,7 @@
       ];
     };
     kawa-midicc-clearallccinlasttouchedcclane-allch-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-clearallccinlasttouchedcclane-allch-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4877,7 +4878,7 @@
       ];
     };
     kawa-midicc-clearallccinlasttouchedcclane-onlych-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-clearallccinlasttouchedcclane-onlych-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4891,7 +4892,7 @@
       ];
     };
     kawa-midicc-clearccwithinloopselection-allch-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-clearccwithinloopselection-allch-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4905,7 +4906,7 @@
       ];
     };
     kawa-midicc-clearccwithinloopselection-onlych-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-clearccwithinloopselection-onlych-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4919,7 +4920,7 @@
       ];
     };
     kawa-midicc-compressccvalue-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-compressccvalue-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4933,7 +4934,7 @@
       ];
     };
     kawa-midicc-decreaseposition-timestrecth-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-decreaseposition-timestrecth-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4947,7 +4948,7 @@
       ];
     };
     kawa-midicc-decreasevalue-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-decreasevalue-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4961,7 +4962,7 @@
       ];
     };
     kawa-midicc-duplicatemusical-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-duplicatemusical-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4975,7 +4976,7 @@
       ];
     };
     kawa-midicc-duplicatemusical-back-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-duplicatemusical-back-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -4989,7 +4990,7 @@
       ];
     };
     kawa-midicc-duplicatesimple-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-duplicatesimple-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5003,7 +5004,7 @@
       ];
     };
     kawa-midicc-duplicatesimple-back-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-duplicatesimple-back-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5017,7 +5018,7 @@
       ];
     };
     kawa-midicc-expandccvalue-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-expandccvalue-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5031,7 +5032,7 @@
       ];
     };
     kawa-midicc-fadeinccvalue-cubic-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-fadeinccvalue-cubic-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5045,7 +5046,7 @@
       ];
     };
     kawa-midicc-fadeinccvalue-liner-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-fadeinccvalue-liner-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5059,7 +5060,7 @@
       ];
     };
     kawa-midicc-fadeinccvalue-sin-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-fadeinccvalue-sin-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5073,7 +5074,7 @@
       ];
     };
     kawa-midicc-fadeoutccvalue-cubic-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-fadeoutccvalue-cubic-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5087,7 +5088,7 @@
       ];
     };
     kawa-midicc-fadeoutccvalue-liner-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-fadeoutccvalue-liner-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5101,7 +5102,7 @@
       ];
     };
     kawa-midicc-fadeoutccvalue-sin-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-fadeoutccvalue-sin-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5115,7 +5116,7 @@
       ];
     };
     kawa-midicc-fitcopytoloopselectionrange-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-fitcopytoloopselectionrange-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5129,7 +5130,7 @@
       ];
     };
     kawa-midicc-fixccvalueabsolute-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-fixccvalueabsolute-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5143,7 +5144,7 @@
       ];
     };
     kawa-midicc-fixccvaluepercent-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-fixccvaluepercent-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5157,7 +5158,7 @@
       ];
     };
     kawa-midicc-fixccvaluetocenter-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-fixccvaluetocenter-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5171,7 +5172,7 @@
       ];
     };
     kawa-midicc-fixccvaluetomax-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-fixccvaluetomax-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5185,7 +5186,7 @@
       ];
     };
     kawa-midicc-fixccvaluetomin-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-fixccvaluetomin-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5199,7 +5200,7 @@
       ];
     };
     kawa-midicc-generatewavesignal-saw-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-generatewavesignal-saw-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5213,7 +5214,7 @@
       ];
     };
     kawa-midicc-generatewavesignal-sin-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-generatewavesignal-sin-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5227,7 +5228,7 @@
       ];
     };
     kawa-midicc-generatewavesignal-square-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-generatewavesignal-square-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5241,7 +5242,7 @@
       ];
     };
     kawa-midicc-generatewavesignal-tri-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-generatewavesignal-tri-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5255,7 +5256,7 @@
       ];
     };
     kawa-midicc-increaseposition-timestrecth-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-increaseposition-timestrecth-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5269,7 +5270,7 @@
       ];
     };
     kawa-midicc-increasevalue-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-increasevalue-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5283,7 +5284,7 @@
       ];
     };
     kawa-midicc-insertcentervaluecc-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-insertcentervaluecc-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5297,7 +5298,7 @@
       ];
     };
     kawa-midicc-insertmaxvaluecc-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-insertmaxvaluecc-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5311,7 +5312,7 @@
       ];
     };
     kawa-midicc-insertminvaluecc-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-insertminvaluecc-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5325,7 +5326,7 @@
       ];
     };
     kawa-midicc-interpolationccvalue-cubic-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-interpolationccvalue-cubic-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5339,7 +5340,7 @@
       ];
     };
     kawa-midicc-interpolationccvalue-liner-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-interpolationccvalue-liner-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5353,7 +5354,7 @@
       ];
     };
     kawa-midicc-interpolationccvalue-sin-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-interpolationccvalue-sin-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5367,7 +5368,7 @@
       ];
     };
     kawa-midicc-interpolationccvalue-sin-type2-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-interpolationccvalue-sin-type2-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5381,7 +5382,7 @@
       ];
     };
     kawa-midicc-invertposition-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-invertposition-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5395,7 +5396,7 @@
       ];
     };
     kawa-midicc-invertvalue-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-invertvalue-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5409,7 +5410,7 @@
       ];
     };
     kawa-midicc-invertvalueandposition-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-invertvalueandposition-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5423,7 +5424,7 @@
       ];
     };
     kawa-midicc-randomccposition-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-randomccposition-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5437,7 +5438,7 @@
       ];
     };
     kawa-midicc-randomccvalue-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-randomccvalue-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5451,7 +5452,7 @@
       ];
     };
     kawa-midicc-randomccvalueandposition-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-randomccvalueandposition-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5465,7 +5466,7 @@
       ];
     };
     kawa-midicc-reducecccount-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-reducecccount-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5479,7 +5480,7 @@
       ];
     };
     kawa-midicc-selectallccinlasttouchedcclane-allch-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-selectallccinlasttouchedcclane-allch-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5493,7 +5494,7 @@
       ];
     };
     kawa-midicc-selectallccinlasttouchedcclane-onlych-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-selectallccinlasttouchedcclane-onlych-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5507,7 +5508,7 @@
       ];
     };
     kawa-midicc-selectccwithinloopselection-allch-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-selectccwithinloopselection-allch-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5521,7 +5522,7 @@
       ];
     };
     kawa-midicc-selectccwithinloopselection-onlych-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-selectccwithinloopselection-onlych-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5535,7 +5536,7 @@
       ];
     };
     kawa-midicc-splitcc-bezier-eff-type1-mousewheel-only-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-bezier-eff-type1-mousewheel-only-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5549,7 +5550,7 @@
       ];
     };
     kawa-midicc-splitcc-bezier-eff-type2-mousewheel-only-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-bezier-eff-type2-mousewheel-only-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5563,7 +5564,7 @@
       ];
     };
     kawa-midicc-splitcc-bezier-type1-mousewheel-only-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-bezier-type1-mousewheel-only-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5577,7 +5578,7 @@
       ];
     };
     kawa-midicc-splitcc-bezier-type1-l-mousewheel-only-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-bezier-type1-l-mousewheel-only-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5591,7 +5592,7 @@
       ];
     };
     kawa-midicc-splitcc-bezier-type2-mousewheel-only-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-bezier-type2-mousewheel-only-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5605,7 +5606,7 @@
       ];
     };
     kawa-midicc-splitcc-bezier-type2-l-mousewheel-only-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-bezier-type2-l-mousewheel-only-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5619,7 +5620,7 @@
       ];
     };
     kawa-midicc-splitcc-cubic-02-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-cubic-02-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5633,7 +5634,7 @@
       ];
     };
     kawa-midicc-splitcc-cubic-03-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-cubic-03-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5647,7 +5648,7 @@
       ];
     };
     kawa-midicc-splitcc-cubic-04-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-cubic-04-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5661,7 +5662,7 @@
       ];
     };
     kawa-midicc-splitcc-cubic-10-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-cubic-10-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5675,7 +5676,7 @@
       ];
     };
     kawa-midicc-splitcc-cubic-30-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-cubic-30-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5689,7 +5690,7 @@
       ];
     };
     kawa-midicc-splitcc-liner-02-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-liner-02-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5703,7 +5704,7 @@
       ];
     };
     kawa-midicc-splitcc-liner-03-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-liner-03-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5717,7 +5718,7 @@
       ];
     };
     kawa-midicc-splitcc-liner-04-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-liner-04-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5731,7 +5732,7 @@
       ];
     };
     kawa-midicc-splitcc-liner-10-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-liner-10-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5745,7 +5746,7 @@
       ];
     };
     kawa-midicc-splitcc-liner-30-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-liner-30-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5759,7 +5760,7 @@
       ];
     };
     kawa-midicc-splitcc-sin-02-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-sin-02-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5773,7 +5774,7 @@
       ];
     };
     kawa-midicc-splitcc-sin-03-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-sin-03-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5787,7 +5788,7 @@
       ];
     };
     kawa-midicc-splitcc-sin-04-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-sin-04-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5801,7 +5802,7 @@
       ];
     };
     kawa-midicc-splitcc-sin-10-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-sin-10-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5815,7 +5816,7 @@
       ];
     };
     kawa-midicc-splitcc-sin-30-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-sin-30-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5829,7 +5830,7 @@
       ];
     };
     kawa-midicc-splitcc-sin-type2-02-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-sin-type2-02-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5843,7 +5844,7 @@
       ];
     };
     kawa-midicc-splitcc-sin-type2-03-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-sin-type2-03-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5857,7 +5858,7 @@
       ];
     };
     kawa-midicc-splitcc-sin-type2-04-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-sin-type2-04-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5871,7 +5872,7 @@
       ];
     };
     kawa-midicc-splitcc-sin-type2-10-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-sin-type2-10-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5885,7 +5886,7 @@
       ];
     };
     kawa-midicc-splitcc-sin-type2-30-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-splitcc-sin-type2-30-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5899,7 +5900,7 @@
       ];
     };
     kawa-midicc-warpcc-position-type1-mousewheel-only-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-warpcc-position-type1-mousewheel-only-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5913,7 +5914,7 @@
       ];
     };
     kawa-midicc-warpcc-position-type1-l-mousewheel-only-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-warpcc-position-type1-l-mousewheel-only-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5927,7 +5928,7 @@
       ];
     };
     kawa-midicc-warpcc-value-type1-mousewheel-only-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-warpcc-value-type1-mousewheel-only-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5941,7 +5942,7 @@
       ];
     };
     kawa-midicc-warpcc-value-type1-l-mousewheel-only-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-warpcc-value-type1-l-mousewheel-only-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5955,7 +5956,7 @@
       ];
     };
     kawa-midicc-warpcc-value-type2-smoozing-mousewheel-only-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-warpcc-value-type2-smoozing-mousewheel-only-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";
@@ -5969,7 +5970,7 @@
       ];
     };
     kawa-midicc-warpcc-value-type2-smoozing-l-mousewheel-only-lua-2017-01-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawa-midicc-warpcc-value-type2-smoozing-l-mousewheel-only-lua-2017-01-09";
       indexName = "kawa Scripts";
       categoryName = "MIDI editor";

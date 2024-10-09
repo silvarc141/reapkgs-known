@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   mpl-scripts = {
     mpl-convert-selected-envelope-points-to-automation-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-convert-selected-envelope-points-to-automation-item-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Automation Items";
@@ -19,7 +20,7 @@
       ];
     };
     mpl-convert-selected-envelope-points-to-automation-item-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-convert-selected-envelope-points-to-automation-item-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Automation Items";
@@ -33,7 +34,7 @@
       ];
     };
     mpl-generate-pooled-automation-item-for-selected-envelope-from-item-audio-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-generate-pooled-automation-item-for-selected-envelope-from-item-audio-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Automation Items";
@@ -47,7 +48,7 @@
       ];
     };
     mpl-generate-pooled-automation-item-for-selected-envelope-from-item-audio-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-generate-pooled-automation-item-for-selected-envelope-from-item-audio-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Automation Items";
@@ -61,7 +62,7 @@
       ];
     };
     mpl-insert-1-measure-long-automation-item-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-insert-1-measure-long-automation-item-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Automation Items";
@@ -75,7 +76,7 @@
       ];
     };
     mpl-duplicate-envelope-points-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-duplicate-envelope-points-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -89,7 +90,7 @@
       ];
     };
     mpl-duplicate-envelope-points-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-duplicate-envelope-points-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -103,7 +104,7 @@
       ];
     };
     mpl-duplicate-envelope-points-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-duplicate-envelope-points-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -117,7 +118,7 @@
       ];
     };
     mpl-duplicate-envelope-points-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-duplicate-envelope-points-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -131,7 +132,7 @@
       ];
     };
     mpl-duplicate-envelope-points-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-duplicate-envelope-points-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -145,7 +146,7 @@
       ];
     };
     mpl-duplicate-envelope-points-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-duplicate-envelope-points-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -159,7 +160,7 @@
       ];
     };
     mpl-duplicate-envelope-points-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-duplicate-envelope-points-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -173,7 +174,7 @@
       ];
     };
     mpl-hide-all-track-envelopes-except-envelope-under-mouse-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-hide-all-track-envelopes-except-envelope-under-mouse-cursor-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -187,7 +188,7 @@
       ];
     };
     mpl-remove-all-track-envelope-points-inside-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-all-track-envelope-points-inside-time-selection-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -201,7 +202,7 @@
       ];
     };
     mpl-select-active-envelopes-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-active-envelopes-tracks-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -215,7 +216,7 @@
       ];
     };
     mpl-show-all-active-track-envelopes-hide-unactive-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-show-all-active-track-envelopes-hide-unactive-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -229,7 +230,7 @@
       ];
     };
     mpl-show-all-armed-track-envelopes-hide-unarmed-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-show-all-armed-track-envelopes-hide-unarmed-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -243,7 +244,7 @@
       ];
     };
     mpl-show-existing-envelopes-for-last-touched-fx-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-show-existing-envelopes-for-last-touched-fx-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -257,7 +258,7 @@
       ];
     };
     mpl-split-all-track-envelopes-at-selected-envelope-points-positions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-split-all-track-envelopes-at-selected-envelope-points-positions-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -271,7 +272,7 @@
       ];
     };
     mpl-split-all-track-envelopes-at-selected-envelope-points-positions-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-split-all-track-envelopes-at-selected-envelope-points-positions-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -285,7 +286,7 @@
       ];
     };
     mpl-split-all-track-envelopes-at-selected-envelope-points-positions-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-split-all-track-envelopes-at-selected-envelope-points-positions-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Envelopes";
@@ -299,7 +300,7 @@
       ];
     };
     mpl-various-functions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -313,7 +314,7 @@
       ];
     };
     mpl-various-functions-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -327,7 +328,7 @@
       ];
     };
     mpl-various-functions-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -341,7 +342,7 @@
       ];
     };
     mpl-various-functions-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -355,7 +356,7 @@
       ];
     };
     mpl-various-functions-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -369,7 +370,7 @@
       ];
     };
     mpl-various-functions-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -383,7 +384,7 @@
       ];
     };
     mpl-various-functions-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -397,7 +398,7 @@
       ];
     };
     mpl-various-functions-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -411,7 +412,7 @@
       ];
     };
     mpl-various-functions-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-08";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -425,7 +426,7 @@
       ];
     };
     mpl-various-functions-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-09";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -439,7 +440,7 @@
       ];
     };
     mpl-various-functions-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-10";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -453,7 +454,7 @@
       ];
     };
     mpl-various-functions-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-11";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -467,7 +468,7 @@
       ];
     };
     mpl-various-functions-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-12";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -481,7 +482,7 @@
       ];
     };
     mpl-various-functions-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-13";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -495,7 +496,7 @@
       ];
     };
     mpl-various-functions-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-14";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -509,7 +510,7 @@
       ];
     };
     mpl-various-functions-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-15";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -523,7 +524,7 @@
       ];
     };
     mpl-various-functions-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-16";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -537,7 +538,7 @@
       ];
     };
     mpl-various-functions-lua-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-17";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -551,7 +552,7 @@
       ];
     };
     mpl-various-functions-lua-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-18";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -565,7 +566,7 @@
       ];
     };
     mpl-various-functions-lua-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-19";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -579,7 +580,7 @@
       ];
     };
     mpl-various-functions-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-20";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -593,7 +594,7 @@
       ];
     };
     mpl-various-functions-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-21";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -607,7 +608,7 @@
       ];
     };
     mpl-various-functions-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-22";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -621,7 +622,7 @@
       ];
     };
     mpl-various-functions-lua-1-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-23";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -635,7 +636,7 @@
       ];
     };
     mpl-various-functions-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-25";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -649,7 +650,7 @@
       ];
     };
     mpl-various-functions-lua-1-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-26";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -663,7 +664,7 @@
       ];
     };
     mpl-various-functions-lua-1-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-27";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -677,7 +678,7 @@
       ];
     };
     mpl-various-functions-lua-1-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-28";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -691,7 +692,7 @@
       ];
     };
     mpl-various-functions-lua-1-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-29";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -705,7 +706,7 @@
       ];
     };
     mpl-various-functions-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-30";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -719,7 +720,7 @@
       ];
     };
     mpl-various-functions-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-1-31";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -743,7 +744,7 @@
       ];
     };
     mpl-various-functions-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-0";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -777,7 +778,7 @@
       ];
     };
     mpl-various-functions-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -811,7 +812,7 @@
       ];
     };
     mpl-various-functions-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -845,7 +846,7 @@
       ];
     };
     mpl-various-functions-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-03";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -879,7 +880,7 @@
       ];
     };
     mpl-various-functions-lua-2-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-05";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -913,7 +914,7 @@
       ];
     };
     mpl-various-functions-lua-2-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-06";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -947,7 +948,7 @@
       ];
     };
     mpl-various-functions-lua-2-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-07";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -981,7 +982,7 @@
       ];
     };
     mpl-various-functions-lua-2-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-08";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1015,7 +1016,7 @@
       ];
     };
     mpl-various-functions-lua-2-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-09";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1049,7 +1050,7 @@
       ];
     };
     mpl-various-functions-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-10";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1083,7 +1084,7 @@
       ];
     };
     mpl-various-functions-lua-2-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-50";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1132,7 +1133,7 @@
       ];
     };
     mpl-various-functions-lua-2-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-52";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1181,7 +1182,7 @@
       ];
     };
     mpl-various-functions-lua-2-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-53";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1230,7 +1231,7 @@
       ];
     };
     mpl-various-functions-lua-2-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-55";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1279,7 +1280,7 @@
       ];
     };
     mpl-various-functions-lua-2-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-56";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1328,7 +1329,7 @@
       ];
     };
     mpl-various-functions-lua-2-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-57";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1377,7 +1378,7 @@
       ];
     };
     mpl-various-functions-lua-2-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-58";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1426,7 +1427,7 @@
       ];
     };
     mpl-various-functions-lua-2-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-59";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1475,7 +1476,7 @@
       ];
     };
     mpl-various-functions-lua-2-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-60";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1524,7 +1525,7 @@
       ];
     };
     mpl-various-functions-lua-2-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-61";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1573,7 +1574,7 @@
       ];
     };
     mpl-various-functions-lua-2-62 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-62";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1622,7 +1623,7 @@
       ];
     };
     mpl-various-functions-lua-2-63 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-63";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1671,7 +1672,7 @@
       ];
     };
     mpl-various-functions-lua-2-64 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-64";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1720,7 +1721,7 @@
       ];
     };
     mpl-various-functions-lua-2-66 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-66";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1769,7 +1770,7 @@
       ];
     };
     mpl-various-functions-lua-2-68 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-68";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1818,7 +1819,7 @@
       ];
     };
     mpl-various-functions-lua-2-69 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-69";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1867,7 +1868,7 @@
       ];
     };
     mpl-various-functions-lua-2-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-70";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1916,7 +1917,7 @@
       ];
     };
     mpl-various-functions-lua-2-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-71";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -1965,7 +1966,7 @@
       ];
     };
     mpl-various-functions-lua-2-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-72";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2014,7 +2015,7 @@
       ];
     };
     mpl-various-functions-lua-2-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-73";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2068,7 +2069,7 @@
       ];
     };
     mpl-various-functions-lua-2-74 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-74";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2122,7 +2123,7 @@
       ];
     };
     mpl-various-functions-lua-2-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-75";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2176,7 +2177,7 @@
       ];
     };
     mpl-various-functions-lua-2-77 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-77";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2230,7 +2231,7 @@
       ];
     };
     mpl-various-functions-lua-2-79 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-79";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2284,7 +2285,7 @@
       ];
     };
     mpl-various-functions-lua-2-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-80";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2338,7 +2339,7 @@
       ];
     };
     mpl-various-functions-lua-2-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-82";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2392,7 +2393,7 @@
       ];
     };
     mpl-various-functions-lua-2-84 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-84";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2446,7 +2447,7 @@
       ];
     };
     mpl-various-functions-lua-2-86 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-86";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2500,7 +2501,7 @@
       ];
     };
     mpl-various-functions-lua-2-87 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-87";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2554,7 +2555,7 @@
       ];
     };
     mpl-various-functions-lua-2-88 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-88";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2608,7 +2609,7 @@
       ];
     };
     mpl-various-functions-lua-2-89 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-89";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2662,7 +2663,7 @@
       ];
     };
     mpl-various-functions-lua-2-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-90";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2716,7 +2717,7 @@
       ];
     };
     mpl-various-functions-lua-2-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-91";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2755,7 +2756,7 @@
       ];
     };
     mpl-various-functions-lua-2-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-2-92";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2794,7 +2795,7 @@
       ];
     };
     mpl-various-functions-lua-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-0";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2833,7 +2834,7 @@
       ];
     };
     mpl-various-functions-lua-3-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-01";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2872,7 +2873,7 @@
       ];
     };
     mpl-various-functions-lua-3-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-03";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2911,7 +2912,7 @@
       ];
     };
     mpl-various-functions-lua-3-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-04";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2950,7 +2951,7 @@
       ];
     };
     mpl-various-functions-lua-3-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-05";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -2989,7 +2990,7 @@
       ];
     };
     mpl-various-functions-lua-3-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-07";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3028,7 +3029,7 @@
       ];
     };
     mpl-various-functions-lua-3-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-08";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3067,7 +3068,7 @@
       ];
     };
     mpl-various-functions-lua-3-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-10";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3106,7 +3107,7 @@
       ];
     };
     mpl-various-functions-lua-3-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-11";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3145,7 +3146,7 @@
       ];
     };
     mpl-various-functions-lua-3-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-12";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3184,7 +3185,7 @@
       ];
     };
     mpl-various-functions-lua-3-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-13";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3223,7 +3224,7 @@
       ];
     };
     mpl-various-functions-lua-3-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-14";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3262,7 +3263,7 @@
       ];
     };
     mpl-various-functions-lua-3-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-15";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3301,7 +3302,7 @@
       ];
     };
     mpl-various-functions-lua-3-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-16";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3340,7 +3341,7 @@
       ];
     };
     mpl-various-functions-lua-3-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-17";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3379,7 +3380,7 @@
       ];
     };
     mpl-various-functions-lua-3-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-18";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3418,7 +3419,7 @@
       ];
     };
     mpl-various-functions-lua-3-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-19";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3457,7 +3458,7 @@
       ];
     };
     mpl-various-functions-lua-3-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-20";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3496,7 +3497,7 @@
       ];
     };
     mpl-various-functions-lua-3-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-21";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3535,7 +3536,7 @@
       ];
     };
     mpl-various-functions-lua-3-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-22";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3574,7 +3575,7 @@
       ];
     };
     mpl-various-functions-lua-3-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-23";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3613,7 +3614,7 @@
       ];
     };
     mpl-various-functions-lua-3-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-24";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3652,7 +3653,7 @@
       ];
     };
     mpl-various-functions-lua-3-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-25";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3691,7 +3692,7 @@
       ];
     };
     mpl-various-functions-lua-3-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-26";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3730,7 +3731,7 @@
       ];
     };
     mpl-various-functions-lua-3-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-27";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3769,7 +3770,7 @@
       ];
     };
     mpl-various-functions-lua-3-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-28";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3808,7 +3809,7 @@
       ];
     };
     mpl-various-functions-lua-3-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-29";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3847,7 +3848,7 @@
       ];
     };
     mpl-various-functions-lua-3-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-30";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3886,7 +3887,7 @@
       ];
     };
     mpl-various-functions-lua-3-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-31";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3925,7 +3926,7 @@
       ];
     };
     mpl-various-functions-lua-3-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-32";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -3964,7 +3965,7 @@
       ];
     };
     mpl-various-functions-lua-3-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-33";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4003,7 +4004,7 @@
       ];
     };
     mpl-various-functions-lua-3-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-34";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4042,7 +4043,7 @@
       ];
     };
     mpl-various-functions-lua-3-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-35";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4081,7 +4082,7 @@
       ];
     };
     mpl-various-functions-lua-3-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-36";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4120,7 +4121,7 @@
       ];
     };
     mpl-various-functions-lua-3-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-37";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4159,7 +4160,7 @@
       ];
     };
     mpl-various-functions-lua-3-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-38";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4198,7 +4199,7 @@
       ];
     };
     mpl-various-functions-lua-3-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-39";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4237,7 +4238,7 @@
       ];
     };
     mpl-various-functions-lua-3-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-40";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4276,7 +4277,7 @@
       ];
     };
     mpl-various-functions-lua-3-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-41";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4315,7 +4316,7 @@
       ];
     };
     mpl-various-functions-lua-3-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-42";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4354,7 +4355,7 @@
       ];
     };
     mpl-various-functions-lua-3-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-43";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4393,7 +4394,7 @@
       ];
     };
     mpl-various-functions-lua-3-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-44";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4432,7 +4433,7 @@
       ];
     };
     mpl-various-functions-lua-3-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-45";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4471,7 +4472,7 @@
       ];
     };
     mpl-various-functions-lua-3-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-46";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4510,7 +4511,7 @@
       ];
     };
     mpl-various-functions-lua-3-48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-48";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4549,7 +4550,7 @@
       ];
     };
     mpl-various-functions-lua-3-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-49";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4588,7 +4589,7 @@
       ];
     };
     mpl-various-functions-lua-3-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-50";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4627,7 +4628,7 @@
       ];
     };
     mpl-various-functions-lua-3-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-51";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4666,7 +4667,7 @@
       ];
     };
     mpl-various-functions-lua-3-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-52";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4705,7 +4706,7 @@
       ];
     };
     mpl-various-functions-lua-3-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-53";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4744,7 +4745,7 @@
       ];
     };
     mpl-various-functions-lua-3-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-54";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4783,7 +4784,7 @@
       ];
     };
     mpl-various-functions-lua-3-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-55";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4822,7 +4823,7 @@
       ];
     };
     mpl-various-functions-lua-3-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-56";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4861,7 +4862,7 @@
       ];
     };
     mpl-various-functions-lua-3-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-57";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4900,7 +4901,7 @@
       ];
     };
     mpl-various-functions-lua-3-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-58";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4939,7 +4940,7 @@
       ];
     };
     mpl-various-functions-lua-3-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-59";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -4978,7 +4979,7 @@
       ];
     };
     mpl-various-functions-lua-3-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-60";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -5017,7 +5018,7 @@
       ];
     };
     mpl-various-functions-lua-3-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-61";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -5056,7 +5057,7 @@
       ];
     };
     mpl-various-functions-lua-3-62 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-62";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -5095,7 +5096,7 @@
       ];
     };
     mpl-various-functions-lua-3-63 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-63";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -5134,7 +5135,7 @@
       ];
     };
     mpl-various-functions-lua-3-64 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-various-functions-lua-3-64";
       indexName = "MPL Scripts";
       categoryName = "Functions";
@@ -5173,7 +5174,7 @@
       ];
     };
     mpl-adjust-normalized-last-touched-parameter-by-x-units-midi-osc-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-normalized-last-touched-parameter-by-x-units-midi-osc-mousewheel-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5197,7 +5198,7 @@
       ];
     };
     mpl-adjust-normalized-last-touched-parameter-by-x-units-midi-osc-mousewheel-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-normalized-last-touched-parameter-by-x-units-midi-osc-mousewheel-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5221,7 +5222,7 @@
       ];
     };
     mpl-adjust-normalized-last-touched-parameter-by-x-units-midi-osc-mousewheel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-normalized-last-touched-parameter-by-x-units-midi-osc-mousewheel-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5245,7 +5246,7 @@
       ];
     };
     mpl-adjust-normalized-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-normalized-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5284,7 +5285,7 @@
       ];
     };
     mpl-adjust-normalized-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-normalized-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5323,7 +5324,7 @@
       ];
     };
     mpl-adjust-normalized-last-touched-parameter-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-normalized-last-touched-parameter-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5362,7 +5363,7 @@
       ];
     };
     mpl-adjust-normalized-last-touched-parameter-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-normalized-last-touched-parameter-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5401,7 +5402,7 @@
       ];
     };
     mpl-bind-last-touched-controller-to-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bind-last-touched-controller-to-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5415,7 +5416,7 @@
       ];
     };
     mpl-bind-last-touched-controller-to-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bind-last-touched-controller-to-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5429,7 +5430,7 @@
       ];
     };
     mpl-bypass-all-fx-except-instruments-on-all-tracks-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-fx-except-instruments-on-all-tracks-lua-1-3";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5443,7 +5444,7 @@
       ];
     };
     mpl-bypass-all-fx-except-instruments-on-all-tracks-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-fx-except-instruments-on-all-tracks-lua-1-4";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5457,7 +5458,7 @@
       ];
     };
     mpl-bypass-all-fx-except-instruments-on-all-tracks-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-fx-except-instruments-on-all-tracks-lua-1-5";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5471,7 +5472,7 @@
       ];
     };
     mpl-bypass-all-fx-except-instruments-on-all-tracks-lua-1-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-fx-except-instruments-on-all-tracks-lua-1-51";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5485,7 +5486,7 @@
       ];
     };
     mpl-bypass-all-fx-except-instruments-on-all-tracks-lua-1-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-fx-except-instruments-on-all-tracks-lua-1-52";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5499,7 +5500,7 @@
       ];
     };
     mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5513,7 +5514,7 @@
       ];
     };
     mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-1";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5527,7 +5528,7 @@
       ];
     };
     mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-2";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5541,7 +5542,7 @@
       ];
     };
     mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-3";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5555,7 +5556,7 @@
       ];
     };
     mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-4";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5569,7 +5570,7 @@
       ];
     };
     mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-5";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5583,7 +5584,7 @@
       ];
     };
     mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-51";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5597,7 +5598,7 @@
       ];
     };
     mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-fx-except-instruments-on-selected-tracks-lua-1-52";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5611,7 +5612,7 @@
       ];
     };
     mpl-bypass-all-the-selected-track-fx-starting-after-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-the-selected-track-fx-starting-after-focused-fx-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5625,7 +5626,7 @@
       ];
     };
     mpl-bypass-all-the-selected-track-fx-starting-after-focused-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-the-selected-track-fx-starting-after-focused-fx-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5639,7 +5640,7 @@
       ];
     };
     mpl-bypass-all-the-selected-track-fx-starting-from-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-the-selected-track-fx-starting-from-focused-fx-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5653,7 +5654,7 @@
       ];
     };
     mpl-bypass-all-the-selected-track-fx-starting-from-focused-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-the-selected-track-fx-starting-from-focused-fx-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5667,7 +5668,7 @@
       ];
     };
     mpl-create-send-from-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-send-from-focused-fx-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5681,7 +5682,7 @@
       ];
     };
     mpl-create-send-from-focused-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-send-from-focused-fx-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5695,7 +5696,7 @@
       ];
     };
     mpl-cubase-ab-floating-fx-make-equal-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cubase-ab-floating-fx-make-equal-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5709,7 +5710,7 @@
       ];
     };
     mpl-cubase-ab-floating-fx-make-equal-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cubase-ab-floating-fx-make-equal-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5723,7 +5724,7 @@
       ];
     };
     mpl-cubase-ab-floating-fx-make-equal-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cubase-ab-floating-fx-make-equal-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5737,7 +5738,7 @@
       ];
     };
     mpl-cubase-ab-floating-fx-make-equal-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cubase-ab-floating-fx-make-equal-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5751,7 +5752,7 @@
       ];
     };
     mpl-cubase-ab-floating-fx-make-equal-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cubase-ab-floating-fx-make-equal-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5765,7 +5766,7 @@
       ];
     };
     mpl-cubase-ab-floating-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cubase-ab-floating-fx-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5779,7 +5780,7 @@
       ];
     };
     mpl-cubase-ab-floating-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cubase-ab-floating-fx-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5793,7 +5794,7 @@
       ];
     };
     mpl-cubase-ab-floating-fx-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cubase-ab-floating-fx-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5807,7 +5808,7 @@
       ];
     };
     mpl-cubase-ab-floating-fx-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cubase-ab-floating-fx-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5821,7 +5822,7 @@
       ];
     };
     mpl-cubase-ab-floating-fx-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cubase-ab-floating-fx-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5835,7 +5836,7 @@
       ];
     };
     mpl-cubase-ab-floating-fx-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cubase-ab-floating-fx-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5849,7 +5850,7 @@
       ];
     };
     mpl-decrease-lfo-speed-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-decrease-lfo-speed-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5863,7 +5864,7 @@
       ];
     };
     mpl-decrease-lfo-speed-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-decrease-lfo-speed-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5877,7 +5878,7 @@
       ];
     };
     mpl-delete-bypassed-fx-from-selected-tracks-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-delete-bypassed-fx-from-selected-tracks-lua-1-13";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5891,7 +5892,7 @@
       ];
     };
     mpl-delete-bypassed-fx-from-selected-tracks-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-delete-bypassed-fx-from-selected-tracks-lua-1-14";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5905,7 +5906,7 @@
       ];
     };
     mpl-delete-offline-fx-from-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-delete-offline-fx-from-selected-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5919,7 +5920,7 @@
       ];
     };
     mpl-delete-offline-fx-from-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-delete-offline-fx-from-selected-tracks-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5933,7 +5934,7 @@
       ];
     };
     mpl-disable-lfo-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-disable-lfo-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5947,7 +5948,7 @@
       ];
     };
     mpl-disable-lfo-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-disable-lfo-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5961,7 +5962,7 @@
       ];
     };
     mpl-disable-parameter-modulation-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-disable-parameter-modulation-for-selected-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5975,7 +5976,7 @@
       ];
     };
     mpl-disable-parameter-modulation-for-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-disable-parameter-modulation-for-selected-tracks-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -5989,7 +5990,7 @@
       ];
     };
     mpl-duplicate-focused-plugin-into-left-and-right-instances-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-duplicate-focused-plugin-into-left-and-right-instances-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6003,7 +6004,7 @@
       ];
     };
     mpl-enable-lfo-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-enable-lfo-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6017,7 +6018,7 @@
       ];
     };
     mpl-enable-lfo-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-enable-lfo-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6031,7 +6032,7 @@
       ];
     };
     mpl-enable-parameter-modulation-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-enable-parameter-modulation-for-selected-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6045,7 +6046,7 @@
       ];
     };
     mpl-enable-parameter-modulation-for-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-enable-parameter-modulation-for-selected-tracks-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6059,7 +6060,7 @@
       ];
     };
     mpl-float-instrument-on-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-on-selected-track-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6073,7 +6074,7 @@
       ];
     };
     mpl-float-instrument-on-selected-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-on-selected-track-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6087,7 +6088,7 @@
       ];
     };
     mpl-float-instrument-on-selected-track-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-on-selected-track-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6101,7 +6102,7 @@
       ];
     };
     mpl-float-instrument-on-selected-track-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-on-selected-track-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6115,7 +6116,7 @@
       ];
     };
     mpl-float-instrument-on-track-under-mouse-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-on-track-under-mouse-cursor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6129,7 +6130,7 @@
       ];
     };
     mpl-float-instrument-on-track-under-mouse-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-on-track-under-mouse-cursor-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6143,7 +6144,7 @@
       ];
     };
     mpl-float-instrument-on-track-under-mouse-cursor-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-on-track-under-mouse-cursor-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6157,7 +6158,7 @@
       ];
     };
     mpl-float-instrument-on-track-under-mouse-cursor-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-on-track-under-mouse-cursor-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6171,7 +6172,7 @@
       ];
     };
     mpl-float-instrument-on-track-under-mouse-cursor-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-on-track-under-mouse-cursor-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6185,7 +6186,7 @@
       ];
     };
     mpl-float-instrument-on-track-under-mouse-cursor-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-on-track-under-mouse-cursor-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6199,7 +6200,7 @@
       ];
     };
     mpl-generate-reabank-from-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-generate-reabank-from-focused-fx-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6213,7 +6214,7 @@
       ];
     };
     mpl-increase-lfo-speed-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-increase-lfo-speed-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6227,7 +6228,7 @@
       ];
     };
     mpl-increase-lfo-speed-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-increase-lfo-speed-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6241,7 +6242,7 @@
       ];
     };
     mpl-insert-focused-fx-to-selected-tracks-preserve-parameters-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-insert-focused-fx-to-selected-tracks-preserve-parameters-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6255,7 +6256,7 @@
       ];
     };
     mpl-insert-focused-fx-to-selected-tracks-preserve-parameters-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-insert-focused-fx-to-selected-tracks-preserve-parameters-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6269,7 +6270,7 @@
       ];
     };
     mpl-insert-focused-fx-to-selected-tracks-preserve-parameters-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-insert-focused-fx-to-selected-tracks-preserve-parameters-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6283,7 +6284,7 @@
       ];
     };
     mpl-insert-focused-fx-to-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-insert-focused-fx-to-selected-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6297,7 +6298,7 @@
       ];
     };
     mpl-insert-focused-fx-to-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-insert-focused-fx-to-selected-tracks-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6311,7 +6312,7 @@
       ];
     };
     mpl-instrumentrack-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6345,7 +6346,7 @@
       ];
     };
     mpl-instrumentrack-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6379,7 +6380,7 @@
       ];
     };
     mpl-instrumentrack-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6413,7 +6414,7 @@
       ];
     };
     mpl-instrumentrack-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6447,7 +6448,7 @@
       ];
     };
     mpl-instrumentrack-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6481,7 +6482,7 @@
       ];
     };
     mpl-instrumentrack-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6515,7 +6516,7 @@
       ];
     };
     mpl-instrumentrack-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6549,7 +6550,7 @@
       ];
     };
     mpl-instrumentrack-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6583,7 +6584,7 @@
       ];
     };
     mpl-instrumentrack-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-1-08";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6617,7 +6618,7 @@
       ];
     };
     mpl-instrumentrack-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-1-09";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6651,7 +6652,7 @@
       ];
     };
     mpl-instrumentrack-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-1-10";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6685,7 +6686,7 @@
       ];
     };
     mpl-instrumentrack-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-1-11";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6719,7 +6720,7 @@
       ];
     };
     mpl-instrumentrack-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-1-12";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6753,7 +6754,7 @@
       ];
     };
     mpl-instrumentrack-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-2-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6767,7 +6768,7 @@
       ];
     };
     mpl-instrumentrack-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6781,7 +6782,7 @@
       ];
     };
     mpl-instrumentrack-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6795,7 +6796,7 @@
       ];
     };
     mpl-instrumentrack-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-2-03";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6809,7 +6810,7 @@
       ];
     };
     mpl-instrumentrack-lua-2-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-instrumentrack-lua-2-04";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6823,7 +6824,7 @@
       ];
     };
     mpl-item-spacer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-item-spacer-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6837,7 +6838,7 @@
       ];
     };
     mpl-learneditor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6871,7 +6872,7 @@
       ];
     };
     mpl-learneditor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6905,7 +6906,7 @@
       ];
     };
     mpl-learneditor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6939,7 +6940,7 @@
       ];
     };
     mpl-learneditor-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -6973,7 +6974,7 @@
       ];
     };
     mpl-learneditor-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7007,7 +7008,7 @@
       ];
     };
     mpl-learneditor-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7041,7 +7042,7 @@
       ];
     };
     mpl-learneditor-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7075,7 +7076,7 @@
       ];
     };
     mpl-learneditor-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-1-09";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7114,7 +7115,7 @@
       ];
     };
     mpl-learneditor-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-1-10";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7153,7 +7154,7 @@
       ];
     };
     mpl-learneditor-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-2-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7167,7 +7168,7 @@
       ];
     };
     mpl-learneditor-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7181,7 +7182,7 @@
       ];
     };
     mpl-learneditor-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7195,7 +7196,7 @@
       ];
     };
     mpl-learneditor-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-2-03";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7209,7 +7210,7 @@
       ];
     };
     mpl-modulationeditor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-modulationeditor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7223,7 +7224,7 @@
       ];
     };
     mpl-modulationeditor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-modulationeditor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7237,7 +7238,7 @@
       ];
     };
     mpl-modulationeditor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-modulationeditor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7251,7 +7252,7 @@
       ];
     };
     mpl-modulationeditor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-modulationeditor-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7265,7 +7266,7 @@
       ];
     };
     mpl-modulationeditor-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-modulationeditor-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7279,7 +7280,7 @@
       ];
     };
     mpl-modulationeditor-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-modulationeditor-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7293,7 +7294,7 @@
       ];
     };
     mpl-modulationeditor-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-modulationeditor-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7307,7 +7308,7 @@
       ];
     };
     mpl-modulationeditor-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-modulationeditor-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7321,7 +7322,7 @@
       ];
     };
     mpl-modulationeditor-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-modulationeditor-lua-1-08";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7335,7 +7336,7 @@
       ];
     };
     mpl-modulationeditor-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-modulationeditor-lua-1-09";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7349,7 +7350,7 @@
       ];
     };
     mpl-modulationeditor-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-modulationeditor-lua-1-10";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7363,7 +7364,7 @@
       ];
     };
     mpl-offline-all-the-track-fx-before-focused-fx-including-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-offline-all-the-track-fx-before-focused-fx-including-focused-fx-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7377,7 +7378,7 @@
       ];
     };
     mpl-offline-all-the-track-fx-before-focused-fx-including-focused-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-offline-all-the-track-fx-before-focused-fx-including-focused-fx-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7391,7 +7392,7 @@
       ];
     };
     mpl-offline-all-the-track-fx-before-focused-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-offline-all-the-track-fx-before-focused-fx-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7405,7 +7406,7 @@
       ];
     };
     mpl-offline-all-the-track-fx-before-focused-fx-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-offline-all-the-track-fx-before-focused-fx-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7419,7 +7420,7 @@
       ];
     };
     mpl-offline-all-the-track-fx-starting-from-focused-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-offline-all-the-track-fx-starting-from-focused-fx-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7433,7 +7434,7 @@
       ];
     };
     mpl-offline-all-the-track-fx-starting-from-focused-fx-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-offline-all-the-track-fx-starting-from-focused-fx-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7447,7 +7448,7 @@
       ];
     };
     mpl-offline-bypassed-fx-on-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-offline-bypassed-fx-on-selected-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7461,7 +7462,7 @@
       ];
     };
     mpl-offline-bypassed-fx-on-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-offline-bypassed-fx-on-selected-tracks-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7475,7 +7476,7 @@
       ];
     };
     mpl-offline-bypassed-fx-on-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-offline-bypassed-fx-on-selected-tracks-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7489,7 +7490,7 @@
       ];
     };
     mpl-pan-focused-fx-track-10-left-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-pan-focused-fx-track-10-left-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7503,7 +7504,7 @@
       ];
     };
     mpl-pan-focused-fx-track-10-right-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-pan-focused-fx-track-10-right-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7517,7 +7518,7 @@
       ];
     };
     mpl-pan-focused-fx-track-at-center-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-pan-focused-fx-track-at-center-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7531,7 +7532,7 @@
       ];
     };
     mpl-random-modulated-parameters-lfo-phase-on-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-random-modulated-parameters-lfo-phase-on-selected-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7545,7 +7546,7 @@
       ];
     };
     mpl-random-modulated-parameters-lfo-phase-on-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-random-modulated-parameters-lfo-phase-on-selected-tracks-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7559,7 +7560,7 @@
       ];
     };
     mpl-randomize-track-fx-parameters-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-randomize-track-fx-parameters-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7573,7 +7574,7 @@
       ];
     };
     mpl-randomize-track-fx-parameters-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-randomize-track-fx-parameters-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7587,7 +7588,7 @@
       ];
     };
     mpl-randomize-track-fx-parameters-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-randomize-track-fx-parameters-lua-1-11";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7601,7 +7602,7 @@
       ];
     };
     mpl-randomize-track-fx-parameters-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-randomize-track-fx-parameters-lua-1-20";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7615,7 +7616,7 @@
       ];
     };
     mpl-randomize-track-fx-parameters-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-randomize-track-fx-parameters-lua-1-21";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7629,7 +7630,7 @@
       ];
     };
     mpl-randomize-track-fx-parameters-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-randomize-track-fx-parameters-lua-2-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7643,7 +7644,7 @@
       ];
     };
     mpl-randomize-track-fx-parameters-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-randomize-track-fx-parameters-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7657,7 +7658,7 @@
       ];
     };
     mpl-randomize-track-fx-parameters-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-randomize-track-fx-parameters-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7671,7 +7672,7 @@
       ];
     };
     mpl-remove-midi-learn-from-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-midi-learn-from-focused-fx-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7685,7 +7686,7 @@
       ];
     };
     mpl-remove-midi-learn-from-focused-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-midi-learn-from-focused-fx-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7699,7 +7700,7 @@
       ];
     };
     mpl-remove-midi-learn-from-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-midi-learn-from-selected-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7713,7 +7714,7 @@
       ];
     };
     mpl-remove-midi-learn-from-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-midi-learn-from-selected-tracks-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7727,7 +7728,7 @@
       ];
     };
     mpl-remove-osc-learn-from-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-osc-learn-from-focused-fx-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7741,7 +7742,7 @@
       ];
     };
     mpl-remove-osc-learn-from-focused-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-osc-learn-from-focused-fx-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7755,7 +7756,7 @@
       ];
     };
     mpl-remove-osc-learn-from-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-osc-learn-from-selected-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7769,7 +7770,7 @@
       ];
     };
     mpl-remove-osc-learn-from-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-osc-learn-from-selected-tracks-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7783,7 +7784,7 @@
       ];
     };
     mpl-reset-fx-chain-pin-mapping-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-reset-fx-chain-pin-mapping-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7797,7 +7798,7 @@
       ];
     };
     mpl-reset-fx-chain-pin-mapping-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-reset-fx-chain-pin-mapping-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7811,7 +7812,7 @@
       ];
     };
     mpl-route-fx-chain-followed-by-focused-fx-to-3-4-pair-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-route-fx-chain-followed-by-focused-fx-to-3-4-pair-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7825,7 +7826,7 @@
       ];
     };
     mpl-route-fx-chain-followed-by-focused-fx-to-3-4-pair-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-route-fx-chain-followed-by-focused-fx-to-3-4-pair-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7839,7 +7840,7 @@
       ];
     };
     mpl-route-fx-chain-followed-by-focused-fx-to-3-4-pair-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-route-fx-chain-followed-by-focused-fx-to-3-4-pair-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7853,7 +7854,7 @@
       ];
     };
     mpl-route-fx-chain-followed-by-focused-fx-to-3-4-pair-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-route-fx-chain-followed-by-focused-fx-to-3-4-pair-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7867,7 +7868,7 @@
       ];
     };
     mpl-set-auxilary-input-as-a-modulation-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-auxilary-input-as-a-modulation-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7881,7 +7882,7 @@
       ];
     };
     mpl-set-auxilary-input-as-a-modulation-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-auxilary-input-as-a-modulation-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7895,7 +7896,7 @@
       ];
     };
     mpl-set-auxilary-input-as-a-modulation-for-last-touched-parameter-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-auxilary-input-as-a-modulation-for-last-touched-parameter-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7909,7 +7910,7 @@
       ];
     };
     mpl-set-last-touched-parameter-value-via-deductive-brutforce-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-last-touched-parameter-value-via-deductive-brutforce-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7923,7 +7924,7 @@
       ];
     };
     mpl-set-last-touched-parameter-value-via-deductive-brutforce-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-last-touched-parameter-value-via-deductive-brutforce-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7937,7 +7938,7 @@
       ];
     };
     mpl-set-last-touched-parameter-value-via-deductive-brutforce-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-last-touched-parameter-value-via-deductive-brutforce-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7951,7 +7952,7 @@
       ];
     };
     mpl-set-last-touched-parameter-value-via-deductive-brutforce-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-last-touched-parameter-value-via-deductive-brutforce-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7965,7 +7966,7 @@
       ];
     };
     mpl-set-lfo-direction-to-centered-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-direction-to-centered-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7979,7 +7980,7 @@
       ];
     };
     mpl-set-lfo-direction-to-centered-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-direction-to-centered-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -7993,7 +7994,7 @@
       ];
     };
     mpl-set-lfo-direction-to-negative-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-direction-to-negative-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8007,7 +8008,7 @@
       ];
     };
     mpl-set-lfo-direction-to-negative-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-direction-to-negative-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8021,7 +8022,7 @@
       ];
     };
     mpl-set-lfo-direction-to-positive-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-direction-to-positive-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8035,7 +8036,7 @@
       ];
     };
     mpl-set-lfo-direction-to-positive-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-direction-to-positive-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8049,7 +8050,7 @@
       ];
     };
     mpl-set-lfo-shape-to-sine-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-shape-to-sine-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8063,7 +8064,7 @@
       ];
     };
     mpl-set-lfo-shape-to-sine-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-shape-to-sine-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8077,7 +8078,7 @@
       ];
     };
     mpl-set-lfo-speed-to-0-5-beat-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-speed-to-0-5-beat-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8091,7 +8092,7 @@
       ];
     };
     mpl-set-lfo-speed-to-0-5-beat-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-speed-to-0-5-beat-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8105,7 +8106,7 @@
       ];
     };
     mpl-set-lfo-speed-to-1-beat-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-speed-to-1-beat-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8119,7 +8120,7 @@
       ];
     };
     mpl-set-lfo-speed-to-1-beat-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-speed-to-1-beat-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8133,7 +8134,7 @@
       ];
     };
     mpl-set-lfo-speed-to-2-beats-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-speed-to-2-beats-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8147,7 +8148,7 @@
       ];
     };
     mpl-set-lfo-speed-to-2-beats-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-speed-to-2-beats-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8161,7 +8162,7 @@
       ];
     };
     mpl-set-lfo-square-to-random-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-square-to-random-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8175,7 +8176,7 @@
       ];
     };
     mpl-set-lfo-square-to-random-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-square-to-random-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8189,7 +8190,7 @@
       ];
     };
     mpl-set-lfo-square-to-saw-l-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-square-to-saw-l-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8203,7 +8204,7 @@
       ];
     };
     mpl-set-lfo-square-to-saw-l-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-square-to-saw-l-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8217,7 +8218,7 @@
       ];
     };
     mpl-set-lfo-square-to-saw-r-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-square-to-saw-r-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8231,7 +8232,7 @@
       ];
     };
     mpl-set-lfo-square-to-saw-r-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-square-to-saw-r-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8245,7 +8246,7 @@
       ];
     };
     mpl-set-lfo-square-to-sine-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-square-to-sine-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8259,7 +8260,7 @@
       ];
     };
     mpl-set-lfo-square-to-sine-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-square-to-sine-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8273,7 +8274,7 @@
       ];
     };
     mpl-set-lfo-square-to-triangle-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-square-to-triangle-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8287,7 +8288,7 @@
       ];
     };
     mpl-set-lfo-square-to-triangle-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-lfo-square-to-triangle-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8301,7 +8302,7 @@
       ];
     };
     mpl-set-main-input-as-a-modulation-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-main-input-as-a-modulation-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8315,7 +8316,7 @@
       ];
     };
     mpl-set-main-input-as-a-modulation-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-main-input-as-a-modulation-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8329,7 +8330,7 @@
       ];
     };
     mpl-set-main-input-as-a-modulation-for-last-touched-parameter-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-main-input-as-a-modulation-for-last-touched-parameter-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8343,7 +8344,7 @@
       ];
     };
     mpl-set-selected-track-fx-outputs-to-incremental-stereo-pairs-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-selected-track-fx-outputs-to-incremental-stereo-pairs-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8357,7 +8358,7 @@
       ];
     };
     mpl-set-selected-track-fx-outputs-to-incremental-stereo-pairs-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-selected-track-fx-outputs-to-incremental-stereo-pairs-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8371,7 +8372,7 @@
       ];
     };
     mpl-show-instrument-in-fx-chain-on-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-show-instrument-in-fx-chain-on-selected-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8385,7 +8386,7 @@
       ];
     };
     mpl-show-instrument-in-fx-chain-on-selected-track-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-show-instrument-in-fx-chain-on-selected-track-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8399,7 +8400,7 @@
       ];
     };
     mpl-show-instrument-in-fx-chain-on-track-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-show-instrument-in-fx-chain-on-track-under-mouse-cursor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8413,7 +8414,7 @@
       ];
     };
     mpl-show-instrument-in-fx-chain-on-track-under-mouse-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-show-instrument-in-fx-chain-on-track-under-mouse-cursor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8427,7 +8428,7 @@
       ];
     };
     mpl-show-instrument-in-fx-chain-on-track-under-mouse-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-show-instrument-in-fx-chain-on-track-under-mouse-cursor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8441,7 +8442,7 @@
       ];
     };
     mpl-show-instrument-in-fx-chain-on-track-under-mouse-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-show-instrument-in-fx-chain-on-track-under-mouse-cursor-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8455,7 +8456,7 @@
       ];
     };
     mpl-show-last-touched-fx-parameter-info-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-show-last-touched-fx-parameter-info-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8469,7 +8470,7 @@
       ];
     };
     mpl-show-plugin-path-for-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-show-plugin-path-for-focused-fx-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8483,7 +8484,7 @@
       ];
     };
     mpl-show-selected-envelope-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-show-selected-envelope-fx-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8497,7 +8498,7 @@
       ];
     };
     mpl-show-selected-envelope-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-show-selected-envelope-fx-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8511,7 +8512,7 @@
       ];
     };
     mpl-toggle-auto-bypass-on-silence-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-auto-bypass-on-silence-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8530,7 +8531,7 @@
       ];
     };
     mpl-toggle-auto-bypass-on-silence-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-auto-bypass-on-silence-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8549,7 +8550,7 @@
       ];
     };
     mpl-toggle-bypass-fx-with-latency-pdc-higher-than-x-samples-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-bypass-fx-with-latency-pdc-higher-than-x-samples-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8638,7 +8639,7 @@
       ];
     };
     mpl-toggle-bypass-fx-with-latency-pdc-higher-than-x-samples-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-bypass-fx-with-latency-pdc-higher-than-x-samples-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8727,7 +8728,7 @@
       ];
     };
     mpl-toggle-float-instrument-on-track-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-float-instrument-on-track-under-mouse-cursor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8741,7 +8742,7 @@
       ];
     };
     mpl-toggle-float-instrument-on-track-under-mouse-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-float-instrument-on-track-under-mouse-cursor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8755,7 +8756,7 @@
       ];
     };
     mpl-toggle-float-instrument-on-track-under-mouse-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-float-instrument-on-track-under-mouse-cursor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8769,7 +8770,7 @@
       ];
     };
     mpl-toggle-float-instrument-on-track-under-mouse-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-float-instrument-on-track-under-mouse-cursor-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8783,7 +8784,7 @@
       ];
     };
     mpl-toggle-float-instrument-on-track-under-mouse-cursor-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-float-instrument-on-track-under-mouse-cursor-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8797,7 +8798,7 @@
       ];
     };
     mpl-toggle-fx-oversampling-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-fx-oversampling-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8846,7 +8847,7 @@
       ];
     };
     mpl-toggle-fx-oversampling-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-fx-oversampling-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8910,7 +8911,7 @@
       ];
     };
     mpl-toggle-fx-oversampling-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-fx-oversampling-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -8974,7 +8975,7 @@
       ];
     };
     mpl-toggle-fx-oversampling-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-fx-oversampling-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9038,7 +9039,7 @@
       ];
     };
     mpl-toggle-fx-oversampling-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-fx-oversampling-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9102,7 +9103,7 @@
       ];
     };
     mpl-toggle-fx-oversampling-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-fx-oversampling-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9166,7 +9167,7 @@
       ];
     };
     mpl-toggle-fx-oversampling-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-fx-oversampling-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9230,7 +9231,7 @@
       ];
     };
     mpl-toggle-fx-oversampling-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-fx-oversampling-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9294,7 +9295,7 @@
       ];
     };
     mpl-toggle-mute-all-tracks-contain-fx-with-latency-pdc-higher-than-x-samples-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-mute-all-tracks-contain-fx-with-latency-pdc-higher-than-x-samples-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9333,7 +9334,7 @@
       ];
     };
     mpl-toggle-mute-all-tracks-contain-fx-with-latency-pdc-higher-than-x-samples-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-mute-all-tracks-contain-fx-with-latency-pdc-higher-than-x-samples-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9372,7 +9373,7 @@
       ];
     };
     mpl-toggle-mute-all-tracks-contain-fx-with-latency-pdc-higher-than-x-samples-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-mute-all-tracks-contain-fx-with-latency-pdc-higher-than-x-samples-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9411,7 +9412,7 @@
       ];
     };
     mpl-toggle-mute-focused-fx-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-mute-focused-fx-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9425,7 +9426,7 @@
       ];
     };
     mpl-toggle-offline-fx-with-latency-pdc-higher-than-x-samples-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-offline-fx-with-latency-pdc-higher-than-x-samples-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9474,7 +9475,7 @@
       ];
     };
     mpl-toggle-offline-fx-with-latency-pdc-higher-than-x-samples-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-offline-fx-with-latency-pdc-higher-than-x-samples-lua-1-08";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9523,7 +9524,7 @@
       ];
     };
     mpl-toggle-parameter-modulation-for-last-touched-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-parameter-modulation-for-last-touched-parameter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9537,7 +9538,7 @@
       ];
     };
     mpl-toggle-parameter-modulation-for-last-touched-parameter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-parameter-modulation-for-last-touched-parameter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9551,7 +9552,7 @@
       ];
     };
     mpl-toggle-parameter-modulation-for-last-touched-parameter-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-parameter-modulation-for-last-touched-parameter-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9565,7 +9566,7 @@
       ];
     };
     mpl-toggle-soft-pseudo-bypass-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-soft-pseudo-bypass-focused-fx-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9579,7 +9580,7 @@
       ];
     };
     mpl-toggle-soft-pseudo-bypass-focused-fx-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-soft-pseudo-bypass-focused-fx-lua-1-0-1";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9593,7 +9594,7 @@
       ];
     };
     mpl-toggle-soft-pseudo-bypass-focused-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-soft-pseudo-bypass-focused-fx-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9607,7 +9608,7 @@
       ];
     };
     mpl-toggle-soft-pseudo-bypass-focused-fx-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-soft-pseudo-bypass-focused-fx-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9621,7 +9622,7 @@
       ];
     };
     mpl-toggle-solo-focused-fx-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-solo-focused-fx-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9635,7 +9636,7 @@
       ];
     };
     mpl-toggle-solo-focused-fx-track-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-solo-focused-fx-track-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9649,7 +9650,7 @@
       ];
     };
     mpl-toggle-solo-for-selected-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-solo-for-selected-fx-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9663,7 +9664,7 @@
       ];
     };
     mpl-toggle-solo-for-selected-fx-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-solo-for-selected-fx-lua-1-1";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9677,7 +9678,7 @@
       ];
     };
     mpl-toggle-solo-for-selected-fx-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-solo-for-selected-fx-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9691,7 +9692,7 @@
       ];
     };
     mpl-xypad-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-xypad-background-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9705,7 +9706,7 @@
       ];
     };
     mpl-xypad-background-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-xypad-background-lua-2-0";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9719,7 +9720,7 @@
       ];
     };
     mpl-xypad-background-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-xypad-background-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9733,7 +9734,7 @@
       ];
     };
     mpl-xypad-background-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-xypad-background-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "FX";
@@ -9747,7 +9748,7 @@
       ];
     };
     mpl-add-note-into-rs5k-instance-name-on-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-add-note-into-rs5k-instance-name-on-selected-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9761,7 +9762,7 @@
       ];
     };
     mpl-add-note-into-rs5k-instance-name-on-selected-track-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-add-note-into-rs5k-instance-name-on-selected-track-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9775,7 +9776,7 @@
       ];
     };
     mpl-add-or-replace-source-of-item-under-mouse-cursor-for-rs5k-instance-on-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-add-or-replace-source-of-item-under-mouse-cursor-for-rs5k-instance-on-selected-track-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9789,7 +9790,7 @@
       ];
     };
     mpl-add-or-replace-source-of-item-under-mouse-cursor-for-rs5k-instance-on-selected-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-add-or-replace-source-of-item-under-mouse-cursor-for-rs5k-instance-on-selected-track-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9803,7 +9804,7 @@
       ];
     };
     mpl-add-or-replace-source-of-selected-item-for-rs5k-instance-on-its-track-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-add-or-replace-source-of-selected-item-for-rs5k-instance-on-its-track-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9817,7 +9818,7 @@
       ];
     };
     mpl-add-or-replace-source-of-selected-item-for-rs5k-instance-on-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-add-or-replace-source-of-selected-item-for-rs5k-instance-on-selected-track-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9831,7 +9832,7 @@
       ];
     };
     mpl-add-or-replace-source-of-selected-item-for-rs5k-instance-on-track-under-mouse-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-add-or-replace-source-of-selected-item-for-rs5k-instance-on-track-under-mouse-cursor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9845,7 +9846,7 @@
       ];
     };
     mpl-add-or-replace-source-of-selected-item-for-rs5k-instance-on-track-under-mouse-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-add-or-replace-source-of-selected-item-for-rs5k-instance-on-track-under-mouse-cursor-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9859,7 +9860,7 @@
       ];
     };
     mpl-build-harmonic-series-bands-for-focused-reaeq-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-build-harmonic-series-bands-for-focused-reaeq-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9873,7 +9874,7 @@
       ];
     };
     mpl-build-harmonic-series-bands-for-focused-reaeq-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-build-harmonic-series-bands-for-focused-reaeq-lua-1-08";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9887,7 +9888,7 @@
       ];
     };
     mpl-bypass-all-uad-fx-on-all-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-uad-fx-on-all-tracks-lua-1-1";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9901,7 +9902,7 @@
       ];
     };
     mpl-bypass-all-uad-fx-on-all-tracks-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-bypass-all-uad-fx-on-all-tracks-lua-1-11";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9915,7 +9916,7 @@
       ];
     };
     mpl-collect-and-replace-selected-tracks-rs5k-instances-samples-into-project-folder-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-collect-and-replace-selected-tracks-rs5k-instances-samples-into-project-folder-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9929,7 +9930,7 @@
       ];
     };
     mpl-collect-and-replace-selected-tracks-rs5k-instances-samples-into-project-folder-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-collect-and-replace-selected-tracks-rs5k-instances-samples-into-project-folder-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9943,7 +9944,7 @@
       ];
     };
     mpl-collect-and-replace-selected-tracks-rs5k-instances-samples-into-project-folder-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-collect-and-replace-selected-tracks-rs5k-instances-samples-into-project-folder-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9957,7 +9958,7 @@
       ];
     };
     mpl-collect-and-replace-selected-tracks-rs5k-instances-samples-into-project-folder-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-collect-and-replace-selected-tracks-rs5k-instances-samples-into-project-folder-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9971,7 +9972,7 @@
       ];
     };
     mpl-collect-and-replace-selected-tracks-rs5k-instances-samples-into-project-folder-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-collect-and-replace-selected-tracks-rs5k-instances-samples-into-project-folder-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9985,7 +9986,7 @@
       ];
     };
     mpl-collect-and-replace-selected-tracks-rs5k-instances-samples-into-project-folder-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-collect-and-replace-selected-tracks-rs5k-instances-samples-into-project-folder-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -9999,7 +10000,7 @@
       ];
     };
     mpl-convert-rs5k-midi-item-into-source-based-audio-items-drum-mode-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-convert-rs5k-midi-item-into-source-based-audio-items-drum-mode-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10013,7 +10014,7 @@
       ];
     };
     mpl-convert-rs5k-midi-item-into-source-based-audio-items-drum-mode-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-convert-rs5k-midi-item-into-source-based-audio-items-drum-mode-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10027,7 +10028,7 @@
       ];
     };
     mpl-convert-rs5k-midi-item-into-source-based-audio-items-drum-mode-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-convert-rs5k-midi-item-into-source-based-audio-items-drum-mode-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10041,7 +10042,7 @@
       ];
     };
     mpl-convert-rs5k-midi-item-into-source-based-audio-items-drum-mode-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-convert-rs5k-midi-item-into-source-based-audio-items-drum-mode-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10055,7 +10056,7 @@
       ];
     };
     mpl-convert-rs5k-midi-item-into-source-based-audio-items-drum-mode-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-convert-rs5k-midi-item-into-source-based-audio-items-drum-mode-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10069,7 +10070,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-always-new-renamed-instance-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-always-new-renamed-instance-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10083,7 +10084,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-always-new-renamed-instance-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-always-new-renamed-instance-lua-1-08";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10097,7 +10098,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-always-new-renamed-instance-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-always-new-renamed-instance-lua-1-09";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10111,7 +10112,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-ask-for-track-ids-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-ask-for-track-ids-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10125,7 +10126,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-ask-for-track-ids-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-ask-for-track-ids-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10139,7 +10140,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-ask-for-track-ids-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-ask-for-track-ids-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10153,7 +10154,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-inversed-source-destination-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-inversed-source-destination-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10167,7 +10168,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-inversed-source-destination-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-inversed-source-destination-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10181,7 +10182,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-inversed-source-destination-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-inversed-source-destination-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10195,7 +10196,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10209,7 +10210,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10223,7 +10224,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10237,7 +10238,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10251,7 +10252,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10265,7 +10266,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10279,7 +10280,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10293,7 +10294,7 @@
       ];
     };
     mpl-create-reacomp-sidechain-routing-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reacomp-sidechain-routing-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10307,7 +10308,7 @@
       ];
     };
     mpl-create-reagate-sidechain-routing-ask-for-track-ids-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reagate-sidechain-routing-ask-for-track-ids-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10321,7 +10322,7 @@
       ];
     };
     mpl-create-reagate-sidechain-routing-ask-for-track-ids-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reagate-sidechain-routing-ask-for-track-ids-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10335,7 +10336,7 @@
       ];
     };
     mpl-create-reagate-sidechain-routing-ask-for-track-ids-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reagate-sidechain-routing-ask-for-track-ids-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10349,7 +10350,7 @@
       ];
     };
     mpl-create-reagate-sidechain-routing-inversed-source-destination-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reagate-sidechain-routing-inversed-source-destination-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10363,7 +10364,7 @@
       ];
     };
     mpl-create-reagate-sidechain-routing-inversed-source-destination-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reagate-sidechain-routing-inversed-source-destination-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10377,7 +10378,7 @@
       ];
     };
     mpl-create-reagate-sidechain-routing-inversed-source-destination-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reagate-sidechain-routing-inversed-source-destination-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10391,7 +10392,7 @@
       ];
     };
     mpl-create-reagate-sidechain-routing-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reagate-sidechain-routing-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10405,7 +10406,7 @@
       ];
     };
     mpl-create-reagate-sidechain-routing-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reagate-sidechain-routing-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10419,7 +10420,7 @@
       ];
     };
     mpl-create-reagate-sidechain-routing-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reagate-sidechain-routing-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10433,7 +10434,7 @@
       ];
     };
     mpl-create-reavocode-routing-from-selected-track-to-track-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reavocode-routing-from-selected-track-to-track-under-mouse-cursor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10447,7 +10448,7 @@
       ];
     };
     mpl-create-reavocode-routing-from-selected-track-to-track-under-mouse-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-reavocode-routing-from-selected-track-to-track-under-mouse-cursor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10461,7 +10462,7 @@
       ];
     };
     mpl-create-ssd-routing-from-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-ssd-routing-from-selected-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10475,7 +10476,7 @@
       ];
     };
     mpl-explode-selected-track-rs5k-instances-to-new-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-explode-selected-track-rs5k-instances-to-new-tracks-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10489,7 +10490,7 @@
       ];
     };
     mpl-explode-selected-track-rs5k-instances-to-new-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-explode-selected-track-rs5k-instances-to-new-tracks-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10503,7 +10504,7 @@
       ];
     };
     mpl-export-rs5k-sample-into-item-on-same-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-rs5k-sample-into-item-on-same-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10517,7 +10518,7 @@
       ];
     };
     mpl-export-rs5k-sample-into-item-on-same-track-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-rs5k-sample-into-item-on-same-track-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10531,7 +10532,7 @@
       ];
     };
     mpl-export-selected-item-to-rs5k-instance-on-same-track-as-chromatic-source-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-item-to-rs5k-instance-on-same-track-as-chromatic-source-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10545,7 +10546,7 @@
       ];
     };
     mpl-export-selected-item-to-rs5k-instance-on-same-track-as-chromatic-source-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-item-to-rs5k-instance-on-same-track-as-chromatic-source-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10559,7 +10560,7 @@
       ];
     };
     mpl-export-selected-items-to-rs5k-instances-for-mcsequencer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-rs5k-instances-for-mcsequencer-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10573,7 +10574,7 @@
       ];
     };
     mpl-export-selected-items-to-rs5k-instances-for-mcsequencer-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-rs5k-instances-for-mcsequencer-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10587,7 +10588,7 @@
       ];
     };
     mpl-export-selected-items-to-rs5k-instances-for-mcsequencer-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-rs5k-instances-for-mcsequencer-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10601,7 +10602,7 @@
       ];
     };
     mpl-export-selected-items-to-rs5k-instances-for-mcsequencer-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-rs5k-instances-for-mcsequencer-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10615,7 +10616,7 @@
       ];
     };
     mpl-export-selected-items-to-rs5k-instances-on-selected-track-drum-mode-lua-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-rs5k-instances-on-selected-track-drum-mode-lua-1-18";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10629,7 +10630,7 @@
       ];
     };
     mpl-export-selected-items-to-rs5k-instances-on-selected-track-use-original-source-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-rs5k-instances-on-selected-track-use-original-source-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10643,7 +10644,7 @@
       ];
     };
     mpl-export-selected-items-to-rs5k-instances-on-selected-track-use-original-source-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-rs5k-instances-on-selected-track-use-original-source-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10657,7 +10658,7 @@
       ];
     };
     mpl-export-selected-items-to-rs5k-instances-on-selected-track-use-original-source-wait-for-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-rs5k-instances-on-selected-track-use-original-source-wait-for-input-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10671,7 +10672,7 @@
       ];
     };
     mpl-export-selected-items-to-rs5k-instances-on-selected-track-use-original-source-wait-for-input-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-rs5k-instances-on-selected-track-use-original-source-wait-for-input-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10685,7 +10686,7 @@
       ];
     };
     mpl-export-selected-items-to-rs5k-instances-on-selected-track-lua-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-rs5k-instances-on-selected-track-lua-1-17";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10699,7 +10700,7 @@
       ];
     };
     mpl-export-selected-items-to-rs5k-instances-on-selected-track-lua-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-rs5k-instances-on-selected-track-lua-1-18";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10713,7 +10714,7 @@
       ];
     };
     mpl-export-selected-items-to-single-rs5k-instance-on-selected-track-use-original-source-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-single-rs5k-instance-on-selected-track-use-original-source-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10727,7 +10728,7 @@
       ];
     };
     mpl-export-selected-items-to-single-rs5k-instance-on-selected-track-use-original-source-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-single-rs5k-instance-on-selected-track-use-original-source-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10741,7 +10742,7 @@
       ];
     };
     mpl-export-selected-items-to-single-rs5k-instance-on-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-single-rs5k-instance-on-selected-track-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10755,7 +10756,7 @@
       ];
     };
     mpl-export-selected-items-to-single-rs5k-instance-on-selected-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-to-single-rs5k-instance-on-selected-track-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10769,7 +10770,7 @@
       ];
     };
     mpl-float-fre-a-koscope-on-master-channel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-fre-a-koscope-on-master-channel-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10783,7 +10784,7 @@
       ];
     };
     mpl-float-fre-a-koscope-on-master-channel-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-fre-a-koscope-on-master-channel-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10797,7 +10798,7 @@
       ];
     };
     mpl-float-fre-a-koscope-on-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-fre-a-koscope-on-selected-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10811,7 +10812,7 @@
       ];
     };
     mpl-float-rs5k-instance-by-last-incoming-note-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-rs5k-instance-by-last-incoming-note-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10825,7 +10826,7 @@
       ];
     };
     mpl-float-rs5k-instance-by-last-incoming-note-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-rs5k-instance-by-last-incoming-note-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10839,7 +10840,7 @@
       ];
     };
     mpl-float-rs5k-related-to-input-note-on-last-touched-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-rs5k-related-to-input-note-on-last-touched-track-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10853,7 +10854,7 @@
       ];
     };
     mpl-float-s-m-exoscope-on-master-channel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-s-m-exoscope-on-master-channel-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10867,7 +10868,7 @@
       ];
     };
     mpl-generate-dc-offset-envelope-from-asymmetric-waveform-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-generate-dc-offset-envelope-from-asymmetric-waveform-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10881,7 +10882,7 @@
       ];
     };
     mpl-generate-dc-offset-envelope-from-asymmetric-waveform-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-generate-dc-offset-envelope-from-asymmetric-waveform-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10895,7 +10896,7 @@
       ];
     };
     mpl-list-next-sample-in-directory-for-focused-rs5k-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-list-next-sample-in-directory-for-focused-rs5k-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10909,7 +10910,7 @@
       ];
     };
     mpl-list-next-sample-in-directory-for-rs5k-on-selected-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-list-next-sample-in-directory-for-rs5k-on-selected-track-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10923,7 +10924,7 @@
       ];
     };
     mpl-list-previous-sample-in-directory-for-focused-rs5k-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-list-previous-sample-in-directory-for-focused-rs5k-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10937,7 +10938,7 @@
       ];
     };
     mpl-list-previous-sample-in-directory-for-rs5k-on-selected-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-list-previous-sample-in-directory-for-rs5k-on-selected-track-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10951,7 +10952,7 @@
       ];
     };
     mpl-list-random-impulse-in-directory-for-focused-reaverb-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-list-random-impulse-in-directory-for-focused-reaverb-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10965,7 +10966,7 @@
       ];
     };
     mpl-list-random-impulse-in-directory-for-focused-reaverb-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-list-random-impulse-in-directory-for-focused-reaverb-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10979,7 +10980,7 @@
       ];
     };
     mpl-list-random-sample-in-directory-for-focused-rs5k-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-list-random-sample-in-directory-for-focused-rs5k-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -10993,7 +10994,7 @@
       ];
     };
     mpl-list-samples-in-directory-for-focused-rs5k-midi-osc-mousewheel-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-list-samples-in-directory-for-focused-rs5k-midi-osc-mousewheel-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11007,7 +11008,7 @@
       ];
     };
     mpl-remove-reaeq-from-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-reaeq-from-selected-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11021,7 +11022,7 @@
       ];
     };
     mpl-remove-reaeq-from-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-reaeq-from-selected-tracks-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11035,7 +11036,7 @@
       ];
     };
     mpl-reverse-focused-rs5k-instance-sample-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-reverse-focused-rs5k-instance-sample-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11049,7 +11050,7 @@
       ];
     };
     mpl-reverse-focused-rs5k-instance-sample-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-reverse-focused-rs5k-instance-sample-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11063,7 +11064,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-26";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11077,7 +11078,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-27";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11091,7 +11092,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-28";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11105,7 +11106,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-30";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11119,7 +11120,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-50";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11163,7 +11164,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-51";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11202,7 +11203,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-52";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11241,7 +11242,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-53";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11280,7 +11281,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-54";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11319,7 +11320,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-55";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11353,7 +11354,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-56";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11387,7 +11388,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-57";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11421,7 +11422,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-60";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11455,7 +11456,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-61";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11489,7 +11490,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-62 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-62";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11523,7 +11524,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-63 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-63";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11557,7 +11558,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-64 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-64";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11591,7 +11592,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-65 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-65";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11630,7 +11631,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-66 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-66";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11669,7 +11670,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-67 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-67";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11708,7 +11709,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-70";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11747,7 +11748,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-71";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11786,7 +11787,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-72";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11825,7 +11826,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-73";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11864,7 +11865,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-74 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-74";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11903,7 +11904,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-75";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11942,7 +11943,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-76 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-76";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -11981,7 +11982,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-77 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-77";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12020,7 +12021,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-79 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-79";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12054,7 +12055,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-80";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12088,7 +12089,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-81 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-81";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12122,7 +12123,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-82";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12156,7 +12157,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-84 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-84";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12195,7 +12196,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-85 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-85";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12234,7 +12235,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-86 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-86";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12273,7 +12274,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-87 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-87";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12312,7 +12313,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-89 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-89";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12351,7 +12352,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-90";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12390,7 +12391,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-91";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12429,7 +12430,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-92";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12468,7 +12469,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-93";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12507,7 +12508,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-94";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12546,7 +12547,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-95";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12585,7 +12586,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-96 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-96";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12624,7 +12625,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-97 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-97";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12663,7 +12664,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-98 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-98";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12702,7 +12703,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-1-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-1-99";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12741,7 +12742,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-2-100 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-2-100";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12780,7 +12781,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-2-101 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-2-101";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12819,7 +12820,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-2-102 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-2-102";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12858,7 +12859,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-2-103 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-2-103";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12897,7 +12898,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-2-104 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-2-104";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12936,7 +12937,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-2-105 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-2-105";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -12975,7 +12976,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-2-110 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-2-110";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13014,7 +13015,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-2-111 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-2-111";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13053,7 +13054,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-2-120 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-2-120";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13092,7 +13093,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-2-125 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-2-125";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13131,7 +13132,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-2-126 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-2-126";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13170,7 +13171,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-2-127 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-2-127";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13209,7 +13210,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-2-128 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-2-128";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13248,7 +13249,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-2-129 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-2-129";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13287,7 +13288,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0alpha1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0alpha1";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13301,7 +13302,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0alpha2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0alpha2";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13320,7 +13321,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0alpha3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0alpha3";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13339,7 +13340,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0alpha4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0alpha4";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13358,7 +13359,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0alpha5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0alpha5";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13377,7 +13378,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0alpha6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0alpha6";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13396,7 +13397,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0alpha7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0alpha7";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13415,7 +13416,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0alpha9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0alpha9";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13434,7 +13435,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta10";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13453,7 +13454,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta11";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13472,7 +13473,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta12";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13491,7 +13492,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta13";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13510,7 +13511,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta14";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13529,7 +13530,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta15";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13548,7 +13549,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta16";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13567,7 +13568,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta21";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13586,7 +13587,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta22";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13605,7 +13606,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta24";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13624,7 +13625,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta25";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13643,7 +13644,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta30";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13662,7 +13663,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta31";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13681,7 +13682,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta33";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13700,7 +13701,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta34";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13719,7 +13720,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta35";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13738,7 +13739,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta36";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13757,7 +13758,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta37";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13776,7 +13777,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta40";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13795,7 +13796,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta41";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13814,7 +13815,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta42";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13838,7 +13839,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta43";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13862,7 +13863,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta45";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13886,7 +13887,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta46";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13910,7 +13911,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta48";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13934,7 +13935,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta50";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -13978,7 +13979,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta51";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14022,7 +14023,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta52";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14076,7 +14077,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta53";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14130,7 +14131,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta55";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14184,7 +14185,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta57";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14238,7 +14239,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0beta58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0beta58";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14292,7 +14293,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14346,7 +14347,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14400,7 +14401,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14454,7 +14455,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-03";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14508,7 +14509,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-04";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14562,7 +14563,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-05";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14616,7 +14617,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-06";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14670,7 +14671,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-07";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14724,7 +14725,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-08";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14793,7 +14794,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-09";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14862,7 +14863,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-10";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -14931,7 +14932,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-11";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15000,7 +15001,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-12";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15069,7 +15070,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-13";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15138,7 +15139,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-14";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15207,7 +15208,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-15";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15276,7 +15277,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-16";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15345,7 +15346,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-18";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15414,7 +15415,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-19";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15483,7 +15484,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-20";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15552,7 +15553,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-21";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15621,7 +15622,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-22";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15690,7 +15691,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-23";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15759,7 +15760,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-24";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15828,7 +15829,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-25";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15897,7 +15898,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-27";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -15966,7 +15967,7 @@
       ];
     };
     mpl-rs5k-manager-background-lua-3-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-background-lua-3-28";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16035,7 +16036,7 @@
       ];
     };
     mpl-rs5k-manager-macrocontrols-jsfx-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-macrocontrols-jsfx-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16049,7 +16050,7 @@
       ];
     };
     mpl-rs5k-manager-midibus-choke-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-midibus-choke-jsfx-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16063,7 +16064,7 @@
       ];
     };
     mpl-rs5k-manager-midibus-choke-jsfx-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-midibus-choke-jsfx-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16077,7 +16078,7 @@
       ];
     };
     mpl-scale-focused-reaeq-bands-gain-down-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-scale-focused-reaeq-bands-gain-down-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16091,7 +16092,7 @@
       ];
     };
     mpl-scale-focused-reaeq-bands-gain-up-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-scale-focused-reaeq-bands-gain-up-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16105,7 +16106,7 @@
       ];
     };
     mpl-set-fcs-mode-for-focused-rs5k-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-fcs-mode-for-focused-rs5k-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16119,7 +16120,7 @@
       ];
     };
     mpl-set-note-mode-for-focused-rs5k-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-note-mode-for-focused-rs5k-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16133,7 +16134,7 @@
       ];
     };
     mpl-set-rs5k-sample-start-offset-based-on-sample-peak-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-rs5k-sample-start-offset-based-on-sample-peak-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16147,7 +16148,7 @@
       ];
     };
     mpl-set-rs5k-sample-start-offset-based-on-sample-peak-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-rs5k-sample-start-offset-based-on-sample-peak-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16161,7 +16162,7 @@
       ];
     };
     mpl-set-sample-mode-for-focused-rs5k-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-sample-mode-for-focused-rs5k-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16175,7 +16176,7 @@
       ];
     };
     mpl-set-selected-tracks-reagate-threshold-to-peak-hold-level-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-selected-tracks-reagate-threshold-to-peak-hold-level-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16189,7 +16190,7 @@
       ];
     };
     mpl-set-selected-tracks-reagate-threshold-to-peak-hold-level-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-selected-tracks-reagate-threshold-to-peak-hold-level-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16203,7 +16204,7 @@
       ];
     };
     mpl-solo-last-touched-reaeq-band-alter-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-solo-last-touched-reaeq-band-alter-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16217,7 +16218,7 @@
       ];
     };
     mpl-solo-last-touched-reaeq-band-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-solo-last-touched-reaeq-band-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16231,7 +16232,7 @@
       ];
     };
     mpl-sort-by-note-start-rs5k-instances-on-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sort-by-note-start-rs5k-instances-on-selected-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16245,7 +16246,7 @@
       ];
     };
     mpl-sort-by-note-start-rs5k-instances-on-selected-track-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sort-by-note-start-rs5k-instances-on-selected-track-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16259,7 +16260,7 @@
       ];
     };
     mpl-split-focused-reaeq-to-lr-routing-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-split-focused-reaeq-to-lr-routing-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16273,7 +16274,7 @@
       ];
     };
     mpl-split-focused-reaeq-to-lr-routing-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-split-focused-reaeq-to-lr-routing-lua-2-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16287,7 +16288,7 @@
       ];
     };
     mpl-split-focused-reaeq-to-lr-routing-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-split-focused-reaeq-to-lr-routing-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16301,7 +16302,7 @@
       ];
     };
     mpl-tap-length-for-focused-readelay-first-tab-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-tap-length-for-focused-readelay-first-tab-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16315,7 +16316,7 @@
       ];
     };
     mpl-tap-length-for-focused-readelay-first-tab-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-tap-length-for-focused-readelay-first-tab-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16329,7 +16330,7 @@
       ];
     };
     mpl-toggle-64x-oversampling-for-all-reacomp-instances-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-64x-oversampling-for-all-reacomp-instances-lua-1-22";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16343,7 +16344,7 @@
       ];
     };
     mpl-toggle-solo-focused-reaxcomp-band-x-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-solo-focused-reaxcomp-band-x-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "FX specific";
@@ -16382,7 +16383,7 @@
       ];
     };
     mpl-convert-selected-looped-items-to-multiple-splits-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-convert-selected-looped-items-to-multiple-splits-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16396,7 +16397,7 @@
       ];
     };
     mpl-duplicate-items-bar-relative-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-duplicate-items-bar-relative-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16410,7 +16411,7 @@
       ];
     };
     mpl-duplicate-items-bar-relative-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-duplicate-items-bar-relative-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16424,7 +16425,7 @@
       ];
     };
     mpl-duplicate-items-bar-relative-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-duplicate-items-bar-relative-lua-2-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16438,7 +16439,7 @@
       ];
     };
     mpl-duplicate-items-until-end-of-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-duplicate-items-until-end-of-time-selection-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16452,7 +16453,7 @@
       ];
     };
     mpl-duplicate-items-until-end-of-time-selection-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-duplicate-items-until-end-of-time-selection-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16466,7 +16467,7 @@
       ];
     };
     mpl-duplicate-items-until-end-of-time-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-duplicate-items-until-end-of-time-selection-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16480,7 +16481,7 @@
       ];
     };
     mpl-explode-stereo-take-into-2-mono-takes-in-place-and-normalize-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-explode-stereo-take-into-2-mono-takes-in-place-and-normalize-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16494,7 +16495,7 @@
       ];
     };
     mpl-explode-stereo-take-into-2-mono-takes-in-place-and-normalize-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-explode-stereo-take-into-2-mono-takes-in-place-and-normalize-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16508,7 +16509,7 @@
       ];
     };
     mpl-fit-selected-items-to-midi-notes-boundaries-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-fit-selected-items-to-midi-notes-boundaries-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16522,7 +16523,7 @@
       ];
     };
     mpl-fit-selected-items-to-midi-notes-boundaries-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-fit-selected-items-to-midi-notes-boundaries-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16536,7 +16537,7 @@
       ];
     };
     mpl-invert-item-selection-in-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-invert-item-selection-in-selected-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16550,7 +16551,7 @@
       ];
     };
     mpl-invert-item-selection-in-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-invert-item-selection-in-selected-tracks-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16564,7 +16565,7 @@
       ];
     };
     mpl-move-items-to-edit-cursor-if-they-are-same-named-as-their-parent-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-items-to-edit-cursor-if-they-are-same-named-as-their-parent-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16578,7 +16579,7 @@
       ];
     };
     mpl-move-items-to-tracks-with-same-name-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-items-to-tracks-with-same-name-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16592,7 +16593,7 @@
       ];
     };
     mpl-move-items-to-tracks-with-same-name-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-items-to-tracks-with-same-name-lua-1-08";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16606,7 +16607,7 @@
       ];
     };
     mpl-move-selected-items-to-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-selected-items-to-selected-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16620,7 +16621,7 @@
       ];
     };
     mpl-remove-item-under-mouse-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-item-under-mouse-cursor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16634,7 +16635,7 @@
       ];
     };
     mpl-remove-item-under-mouse-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-item-under-mouse-cursor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16648,7 +16649,7 @@
       ];
     };
     mpl-remove-item-under-mouse-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-item-under-mouse-cursor-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16662,7 +16663,7 @@
       ];
     };
     mpl-remove-items-confirm-if-multiple-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-items-confirm-if-multiple-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16676,7 +16677,7 @@
       ];
     };
     mpl-remove-selected-overlapped-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-selected-overlapped-items-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16690,7 +16691,7 @@
       ];
     };
     mpl-remove-selected-overlapped-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-selected-overlapped-items-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16704,7 +16705,7 @@
       ];
     };
     mpl-remove-selected-overlapped-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-selected-overlapped-items-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16718,7 +16719,7 @@
       ];
     };
     mpl-remove-selected-overlapped-items-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-selected-overlapped-items-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16732,7 +16733,7 @@
       ];
     };
     mpl-select-items-named-as-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-items-named-as-selected-item-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16746,7 +16747,7 @@
       ];
     };
     mpl-smart-duplicate-items-grid-relative-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-grid-relative-lua-1-1";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16760,7 +16761,7 @@
       ];
     };
     mpl-smart-duplicate-items-grid-relative-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-grid-relative-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16774,7 +16775,7 @@
       ];
     };
     mpl-smart-duplicate-items-grid-relative-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-grid-relative-lua-1-11";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16788,7 +16789,7 @@
       ];
     };
     mpl-smart-duplicate-items-grid-relative-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-grid-relative-lua-1-12";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16802,7 +16803,7 @@
       ];
     };
     mpl-smart-duplicate-items-grid-relative-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-grid-relative-lua-1-13";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16816,7 +16817,7 @@
       ];
     };
     mpl-smart-duplicate-items-grid-relative-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-grid-relative-lua-1-14";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16830,7 +16831,7 @@
       ];
     };
     mpl-smart-duplicate-items-grid-relative-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-grid-relative-lua-1-15";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16844,7 +16845,7 @@
       ];
     };
     mpl-smart-duplicate-items-grid-relative-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-grid-relative-lua-1-16";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16858,7 +16859,7 @@
       ];
     };
     mpl-smart-duplicate-items-grid-relative-lua-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-grid-relative-lua-1-17";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16872,7 +16873,7 @@
       ];
     };
     mpl-smart-duplicate-items-n-times-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-n-times-eel-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16886,7 +16887,7 @@
       ];
     };
     mpl-smart-duplicate-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-lua-1-1";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16900,7 +16901,7 @@
       ];
     };
     mpl-smart-duplicate-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-lua-1-2";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16914,7 +16915,7 @@
       ];
     };
     mpl-smart-duplicate-items-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-lua-1-3";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16928,7 +16929,7 @@
       ];
     };
     mpl-smart-duplicate-items-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-lua-1-31";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16942,7 +16943,7 @@
       ];
     };
     mpl-smart-duplicate-items-lua-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-lua-1-32";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16956,7 +16957,7 @@
       ];
     };
     mpl-smart-duplicate-items-lua-1-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-lua-1-33";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16970,7 +16971,7 @@
       ];
     };
     mpl-smart-duplicate-items-lua-1-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-items-lua-1-34";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16984,7 +16985,7 @@
       ];
     };
     mpl-snap-selected-items-to-each-other-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-snap-selected-items-to-each-other-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -16998,7 +16999,7 @@
       ];
     };
     mpl-split-item-under-mouse-cursor-at-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-split-item-under-mouse-cursor-at-mouse-cursor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -17012,7 +17013,7 @@
       ];
     };
     mpl-split-item-under-mouse-cursor-at-mouse-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-split-item-under-mouse-cursor-at-mouse-cursor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -17026,7 +17027,7 @@
       ];
     };
     mpl-split-item-under-mouse-cursor-at-mouse-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-split-item-under-mouse-cursor-at-mouse-cursor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -17040,7 +17041,7 @@
       ];
     };
     mpl-stretch-selected-items-to-edit-cursor-preserve-snapoffset-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-stretch-selected-items-to-edit-cursor-preserve-snapoffset-eel-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
@@ -17054,7 +17055,7 @@
       ];
     };
     mpl-align-item-position-by-smpte-code-on-last-channel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-item-position-by-smpte-code-on-last-channel-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17068,7 +17069,7 @@
       ];
     };
     mpl-align-item-position-by-smpte-code-on-last-channel-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-item-position-by-smpte-code-on-last-channel-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17082,7 +17083,7 @@
       ];
     };
     mpl-align-item-position-by-smpte-code-on-last-channel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-item-position-by-smpte-code-on-last-channel-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17096,7 +17097,7 @@
       ];
     };
     mpl-change-pan-for-item-under-mouse-cursor-active-take-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-change-pan-for-item-under-mouse-cursor-active-take-mousewheel-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17110,7 +17111,7 @@
       ];
     };
     mpl-change-pan-for-item-under-mouse-cursor-active-take-mousewheel-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-change-pan-for-item-under-mouse-cursor-active-take-mousewheel-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17124,7 +17125,7 @@
       ];
     };
     mpl-change-pan-for-item-under-mouse-cursor-active-take-mousewheel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-change-pan-for-item-under-mouse-cursor-active-take-mousewheel-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17138,7 +17139,7 @@
       ];
     };
     mpl-change-pan-for-item-under-mouse-cursor-active-take-mousewheel-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-change-pan-for-item-under-mouse-cursor-active-take-mousewheel-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17152,7 +17153,7 @@
       ];
     };
     mpl-change-volume-for-item-under-mouse-cursor-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-change-volume-for-item-under-mouse-cursor-mousewheel-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17166,7 +17167,7 @@
       ];
     };
     mpl-change-volume-for-item-under-mouse-cursor-mousewheel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-change-volume-for-item-under-mouse-cursor-mousewheel-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17180,7 +17181,7 @@
       ];
     };
     mpl-change-volume-for-item-under-mouse-cursor-mousewheel-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-change-volume-for-item-under-mouse-cursor-mousewheel-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17194,7 +17195,7 @@
       ];
     };
     mpl-change-volume-for-item-under-mouse-cursor-mousewheel-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-change-volume-for-item-under-mouse-cursor-mousewheel-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17208,7 +17209,7 @@
       ];
     };
     mpl-change-volume-for-item-under-mouse-cursor-mousewheel-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-change-volume-for-item-under-mouse-cursor-mousewheel-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17222,7 +17223,7 @@
       ];
     };
     mpl-create-snap-offset-at-maximum-peak-in-first-second-of-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-snap-offset-at-maximum-peak-in-first-second-of-take-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17236,7 +17237,7 @@
       ];
     };
     mpl-cut-extension-from-selected-item-names-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cut-extension-from-selected-item-names-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17250,7 +17251,7 @@
       ];
     };
     mpl-cut-extension-from-selected-item-names-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cut-extension-from-selected-item-names-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17264,7 +17265,7 @@
       ];
     };
     mpl-mute-item-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mute-item-under-mouse-cursor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17278,7 +17279,7 @@
       ];
     };
     mpl-mute-item-under-mouse-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mute-item-under-mouse-cursor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17292,7 +17293,7 @@
       ];
     };
     mpl-normalize-selected-items-takes-loudness-to-xdb-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-normalize-selected-items-takes-loudness-to-xdb-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17346,7 +17347,7 @@
       ];
     };
     mpl-normalize-selected-items-takes-loudness-to-xdb-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-normalize-selected-items-takes-loudness-to-xdb-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17400,7 +17401,7 @@
       ];
     };
     mpl-normalize-selected-items-to-middle-loudness-between-them-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-normalize-selected-items-to-middle-loudness-between-them-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17424,7 +17425,7 @@
       ];
     };
     mpl-normalize-selected-items-to-middle-loudness-between-them-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-normalize-selected-items-to-middle-loudness-between-them-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17448,7 +17449,7 @@
       ];
     };
     mpl-normalize-selected-items-to-middle-loudness-between-them-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-normalize-selected-items-to-middle-loudness-between-them-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17472,7 +17473,7 @@
       ];
     };
     mpl-rename-audio-items-as-analyzed-midi-note-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rename-audio-items-as-analyzed-midi-note-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17486,7 +17487,7 @@
       ];
     };
     mpl-rename-items-on-selected-tracks-incrementally-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rename-items-on-selected-tracks-incrementally-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17500,7 +17501,7 @@
       ];
     };
     mpl-rename-items-on-selected-tracks-incrementally-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rename-items-on-selected-tracks-incrementally-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17514,7 +17515,7 @@
       ];
     };
     mpl-select-items-by-pattern-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-items-by-pattern-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17528,7 +17529,7 @@
       ];
     };
     mpl-select-items-by-pattern-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-items-by-pattern-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17542,7 +17543,7 @@
       ];
     };
     mpl-set-fadein-of-item-under-cursor-to-mouse-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-fadein-of-item-under-cursor-to-mouse-position-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17556,7 +17557,7 @@
       ];
     };
     mpl-set-fadein-of-item-under-cursor-to-mouse-position-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-fadein-of-item-under-cursor-to-mouse-position-lua-1-1";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17570,7 +17571,7 @@
       ];
     };
     mpl-set-fadein-of-item-under-cursor-to-mouse-position-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-fadein-of-item-under-cursor-to-mouse-position-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17584,7 +17585,7 @@
       ];
     };
     mpl-set-fadein-of-item-under-cursor-to-mouse-position-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-fadein-of-item-under-cursor-to-mouse-position-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17598,7 +17599,7 @@
       ];
     };
     mpl-set-fadeout-of-item-under-cursor-to-mouse-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-fadeout-of-item-under-cursor-to-mouse-position-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17612,7 +17613,7 @@
       ];
     };
     mpl-set-fadeout-of-item-under-cursor-to-mouse-position-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-fadeout-of-item-under-cursor-to-mouse-position-lua-1-1";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17626,7 +17627,7 @@
       ];
     };
     mpl-set-fadeout-of-item-under-cursor-to-mouse-position-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-fadeout-of-item-under-cursor-to-mouse-position-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17640,7 +17641,7 @@
       ];
     };
     mpl-set-fadeout-of-item-under-cursor-to-mouse-position-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-fadeout-of-item-under-cursor-to-mouse-position-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17654,7 +17655,7 @@
       ];
     };
     mpl-stretch-item-to-project-tempo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-stretch-item-to-project-tempo-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17668,7 +17669,7 @@
       ];
     };
     mpl-stretch-item-to-project-tempo-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-stretch-item-to-project-tempo-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17682,7 +17683,7 @@
       ];
     };
     mpl-stretch-item-to-project-tempo-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-stretch-item-to-project-tempo-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17696,7 +17697,7 @@
       ];
     };
     mpl-stretch-item-to-project-tempo-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-stretch-item-to-project-tempo-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17710,7 +17711,7 @@
       ];
     };
     mpl-toggle-solo-selected-track-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-solo-selected-track-items-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17724,7 +17725,7 @@
       ];
     };
     mpl-unlock-selected-items-for-30-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-unlock-selected-items-for-30-seconds-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17738,7 +17739,7 @@
       ];
     };
     mpl-unlock-selected-items-for-30-seconds-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-unlock-selected-items-for-30-seconds-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17752,7 +17753,7 @@
       ];
     };
     mpl-unlock-selected-items-for-30-seconds-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-unlock-selected-items-for-30-seconds-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Items Properties";
@@ -17766,7 +17767,7 @@
       ];
     };
     convert-pitch-l-gate-r-pair-from-reaktor-blocks-to-midi-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "convert-pitch-l-gate-r-pair-from-reaktor-blocks-to-midi-jsfx-1-0";
       indexName = "MPL Scripts";
       categoryName = "JSFX";
@@ -17780,7 +17781,7 @@
       ];
     };
     dc-offset-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dc-offset-jsfx-1-0";
       indexName = "MPL Scripts";
       categoryName = "JSFX";
@@ -17794,7 +17795,7 @@
       ];
     };
     mappingpanel-master-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mappingpanel-master-jsfx-1-0";
       indexName = "MPL Scripts";
       categoryName = "JSFX";
@@ -17808,7 +17809,7 @@
       ];
     };
     mappingpanel-slave-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mappingpanel-slave-jsfx-1-0";
       indexName = "MPL Scripts";
       categoryName = "JSFX";
@@ -17822,7 +17823,7 @@
       ];
     };
     mappingpanel-slave-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mappingpanel-slave-jsfx-1-1";
       indexName = "MPL Scripts";
       categoryName = "JSFX";
@@ -17836,7 +17837,7 @@
       ];
     };
     mappingpanel-slave-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mappingpanel-slave-jsfx-1-2";
       indexName = "MPL Scripts";
       categoryName = "JSFX";
@@ -17850,7 +17851,7 @@
       ];
     };
     mappingpanel-slave-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mappingpanel-slave-jsfx-2-0";
       indexName = "MPL Scripts";
       categoryName = "JSFX";
@@ -17864,7 +17865,7 @@
       ];
     };
     mappingpanel-slave-jsfx-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mappingpanel-slave-jsfx-4-0";
       indexName = "MPL Scripts";
       categoryName = "JSFX";
@@ -17878,7 +17879,7 @@
       ];
     };
     mappingpanel-slave-jsfx-4-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mappingpanel-slave-jsfx-4-01";
       indexName = "MPL Scripts";
       categoryName = "JSFX";
@@ -17892,7 +17893,7 @@
       ];
     };
     mpl-repeat-the-most-recent-action-for-all-background-tabs-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-repeat-the-most-recent-action-for-all-background-tabs-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Meta";
@@ -17906,7 +17907,7 @@
       ];
     };
     mpl-chord-reverse-positions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-reverse-positions-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -17920,7 +17921,7 @@
       ];
     };
     mpl-chord-reverse-positions-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-reverse-positions-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -17934,7 +17935,7 @@
       ];
     };
     mpl-chord-voicing-clear-internal-data-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-clear-internal-data-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -17948,7 +17949,7 @@
       ];
     };
     mpl-chord-voicing-clear-internal-data-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-clear-internal-data-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -17962,7 +17963,7 @@
       ];
     };
     mpl-chord-voicing-randomize-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-randomize-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -17976,7 +17977,7 @@
       ];
     };
     mpl-chord-voicing-randomize-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-randomize-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -17990,7 +17991,7 @@
       ];
     };
     mpl-chord-voicing-randomize-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-randomize-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18004,7 +18005,7 @@
       ];
     };
     mpl-chord-voicing-select-higher-note-under-play-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-select-higher-note-under-play-cursor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18018,7 +18019,7 @@
       ];
     };
     mpl-chord-voicing-select-higher-note-under-play-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-select-higher-note-under-play-cursor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18032,7 +18033,7 @@
       ];
     };
     mpl-chord-voicing-select-higher-note-under-play-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-select-higher-note-under-play-cursor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18046,7 +18047,7 @@
       ];
     };
     mpl-chord-voicing-select-higher-note-under-play-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-select-higher-note-under-play-cursor-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18060,7 +18061,7 @@
       ];
     };
     mpl-chord-voicing-select-higher-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-select-higher-notes-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18074,7 +18075,7 @@
       ];
     };
     mpl-chord-voicing-select-higher-notes-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-select-higher-notes-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18088,7 +18089,7 @@
       ];
     };
     mpl-chord-voicing-select-higher-notes-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-select-higher-notes-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18102,7 +18103,7 @@
       ];
     };
     mpl-chord-voicing-select-lower-note-under-play-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-select-lower-note-under-play-cursor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18116,7 +18117,7 @@
       ];
     };
     mpl-chord-voicing-select-lower-note-under-play-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-select-lower-note-under-play-cursor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18130,7 +18131,7 @@
       ];
     };
     mpl-chord-voicing-select-lower-note-under-play-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-select-lower-note-under-play-cursor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18144,7 +18145,7 @@
       ];
     };
     mpl-chord-voicing-select-lower-note-under-play-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-select-lower-note-under-play-cursor-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18158,7 +18159,7 @@
       ];
     };
     mpl-chord-voicing-select-lower-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-select-lower-notes-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18172,7 +18173,7 @@
       ];
     };
     mpl-chord-voicing-select-lower-notes-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-select-lower-notes-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18186,7 +18187,7 @@
       ];
     };
     mpl-chord-voicing-select-lower-notes-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-chord-voicing-select-lower-notes-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18200,7 +18201,7 @@
       ];
     };
     mpl-export-selected-items-as-midi-files-into-project-path-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-as-midi-files-into-project-path-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18214,7 +18215,7 @@
       ];
     };
     mpl-export-selected-items-as-midi-files-into-project-path-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-as-midi-files-into-project-path-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18228,7 +18229,7 @@
       ];
     };
     mpl-export-selected-items-as-midi-files-into-project-path-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-export-selected-items-as-midi-files-into-project-path-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18242,7 +18243,7 @@
       ];
     };
     mpl-interpolate-midi-item-envelopes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interpolate-midi-item-envelopes-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18256,7 +18257,7 @@
       ];
     };
     mpl-interpolate-midi-item-envelopes-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interpolate-midi-item-envelopes-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18270,7 +18271,7 @@
       ];
     };
     mpl-midi-note-names-generator-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-midi-note-names-generator-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18284,7 +18285,7 @@
       ];
     };
     mpl-quantize-selected-midi-notes-ends-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-selected-midi-notes-ends-lua-1-12";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18298,7 +18299,7 @@
       ];
     };
     mpl-quantize-selected-midi-notes-ends-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-selected-midi-notes-ends-lua-1-13";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18312,7 +18313,7 @@
       ];
     };
     mpl-quantize-selected-midi-notes-ends-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-selected-midi-notes-ends-lua-1-14";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18326,7 +18327,7 @@
       ];
     };
     mpl-quantize-selected-midi-notes-ends-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-selected-midi-notes-ends-lua-1-15";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18340,7 +18341,7 @@
       ];
     };
     mpl-quantize-selected-midi-notes-positions-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-selected-midi-notes-positions-lua-1-13";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18354,7 +18355,7 @@
       ];
     };
     mpl-quantize-selected-midi-notes-positions-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-selected-midi-notes-positions-lua-1-14";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18368,7 +18369,7 @@
       ];
     };
     mpl-remove-selected-takes-midi-data-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-selected-takes-midi-data-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18587,7 +18588,7 @@
       ];
     };
     mpl-remove-selected-takes-midi-data-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-selected-takes-midi-data-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -18806,7 +18807,7 @@
       ];
     };
     mpl-remove-selected-takes-midi-data-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-selected-takes-midi-data-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -19025,7 +19026,7 @@
       ];
     };
     mpl-remove-selected-takes-midi-data-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-selected-takes-midi-data-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -19244,7 +19245,7 @@
       ];
     };
     mpl-remove-selected-takes-midi-data-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-selected-takes-midi-data-lua-1-10";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -19463,7 +19464,7 @@
       ];
     };
     mpl-remove-selected-takes-midi-data-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-selected-takes-midi-data-lua-1-11";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -19687,7 +19688,7 @@
       ];
     };
     mpl-remove-selected-takes-midi-data-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-selected-takes-midi-data-lua-1-12";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -19911,7 +19912,7 @@
       ];
     };
     mpl-select-first-notes-in-selected-passages-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-first-notes-in-selected-passages-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -19925,7 +19926,7 @@
       ];
     };
     mpl-select-first-notes-in-selected-passages-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-first-notes-in-selected-passages-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -19939,7 +19940,7 @@
       ];
     };
     mpl-send-short-noteon-midi-message-to-virtual-keyboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-short-noteon-midi-message-to-virtual-keyboard-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -20073,7 +20074,7 @@
       ];
     };
     mpl-snap-takes-to-scale-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-snap-takes-to-scale-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -20087,7 +20088,7 @@
       ];
     };
     mpl-snap-takes-to-scale-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-snap-takes-to-scale-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -20101,7 +20102,7 @@
       ];
     };
     mpl-snap-takes-to-scale-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-snap-takes-to-scale-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "MIDI";
@@ -20115,7 +20116,7 @@
       ];
     };
     mpl-add-cc64-off-to-channel-0-of-active-midi-editor-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-add-cc64-off-to-channel-0-of-active-midi-editor-take-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20129,7 +20130,7 @@
       ];
     };
     mpl-add-cc64-on-to-channel-0-of-active-midi-editor-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-add-cc64-on-to-channel-0-of-active-midi-editor-take-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20143,7 +20144,7 @@
       ];
     };
     mpl-adjust-midi-editor-grid-mousewheel-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-midi-editor-grid-mousewheel-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20157,7 +20158,7 @@
       ];
     };
     mpl-adjust-midi-editor-grid-mousewheel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-midi-editor-grid-mousewheel-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20171,7 +20172,7 @@
       ];
     };
     mpl-adjust-selected-notes-pitch-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-selected-notes-pitch-mousewheel-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20185,7 +20186,7 @@
       ];
     };
     mpl-adjust-selected-notes-pitch-mousewheel-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-selected-notes-pitch-mousewheel-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20224,7 +20225,7 @@
       ];
     };
     mpl-adjust-selected-notes-pitch-mousewheel-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-selected-notes-pitch-mousewheel-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20263,7 +20264,7 @@
       ];
     };
     mpl-adjust-selected-notes-pitch-mousewheel-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-selected-notes-pitch-mousewheel-lua-2-03";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20302,7 +20303,7 @@
       ];
     };
     mpl-adjust-selected-notes-pitch-mousewheel-lua-2-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-selected-notes-pitch-mousewheel-lua-2-04";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20341,7 +20342,7 @@
       ];
     };
     mpl-convert-noteon-with-velocity-0-to-noteoff-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-convert-noteon-with-velocity-0-to-noteoff-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20355,7 +20356,7 @@
       ];
     };
     mpl-convert-noteon-with-velocity-0-to-noteoff-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-convert-noteon-with-velocity-0-to-noteoff-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20369,7 +20370,7 @@
       ];
     };
     mpl-copy-selected-cc-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-copy-selected-cc-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20383,7 +20384,7 @@
       ];
     };
     mpl-copy-selected-notes-velocities-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-copy-selected-notes-velocities-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20397,7 +20398,7 @@
       ];
     };
     mpl-cycle-grid-values-midi-editor-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cycle-grid-values-midi-editor-mousewheel-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20411,7 +20412,7 @@
       ];
     };
     mpl-cycle-grid-values-midi-editor-mousewheel-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cycle-grid-values-midi-editor-mousewheel-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20425,7 +20426,7 @@
       ];
     };
     mpl-fit-selected-notes-to-midi-item-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-fit-selected-notes-to-midi-item-edges-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20439,7 +20440,7 @@
       ];
     };
     mpl-float-instrument-relevant-to-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-relevant-to-midi-editor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20453,7 +20454,7 @@
       ];
     };
     mpl-float-instrument-relevant-to-midi-editor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-relevant-to-midi-editor-lua-1-1";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20467,7 +20468,7 @@
       ];
     };
     mpl-float-instrument-relevant-to-midi-editor-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-relevant-to-midi-editor-lua-1-2";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20481,7 +20482,7 @@
       ];
     };
     mpl-float-instrument-relevant-to-midi-editor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-relevant-to-midi-editor-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20495,7 +20496,7 @@
       ];
     };
     mpl-float-instrument-relevant-to-midi-editor-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-float-instrument-relevant-to-midi-editor-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20509,7 +20510,7 @@
       ];
     };
     mpl-move-edit-cursor-to-first-note-of-active-midi-editor-take-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-edit-cursor-to-first-note-of-active-midi-editor-take-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20523,7 +20524,7 @@
       ];
     };
     mpl-move-edit-cursor-to-first-note-of-active-midi-editor-take-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-edit-cursor-to-first-note-of-active-midi-editor-take-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20537,7 +20538,7 @@
       ];
     };
     mpl-note-selector-lua-0-1alpha = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-note-selector-lua-0-1alpha";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20551,7 +20552,7 @@
       ];
     };
     mpl-note-selector-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-note-selector-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20565,7 +20566,7 @@
       ];
     };
     mpl-paste-selected-cc-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-paste-selected-cc-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20579,7 +20580,7 @@
       ];
     };
     mpl-paste-selected-notes-velocities-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-paste-selected-notes-velocities-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20593,7 +20594,7 @@
       ];
     };
     mpl-paste-selected-notes-velocities-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-paste-selected-notes-velocities-lua-1-1";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20607,7 +20608,7 @@
       ];
     };
     mpl-remove-gaps-between-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-gaps-between-notes-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20621,7 +20622,7 @@
       ];
     };
     mpl-remove-midi-aftertouch-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-midi-aftertouch-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20635,7 +20636,7 @@
       ];
     };
     mpl-remove-midi-cc-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-midi-cc-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20649,7 +20650,7 @@
       ];
     };
     mpl-remove-midi-cc64-hold-pedal-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-midi-cc64-hold-pedal-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20663,7 +20664,7 @@
       ];
     };
     mpl-remove-midi-cc64-69-all-pedals-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-midi-cc64-69-all-pedals-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20677,7 +20678,7 @@
       ];
     };
     mpl-remove-midi-pitchwheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-midi-pitchwheel-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20691,7 +20692,7 @@
       ];
     };
     mpl-remove-midi-programchange-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-midi-programchange-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20705,7 +20706,7 @@
       ];
     };
     mpl-select-high-pitch-midi-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-high-pitch-midi-notes-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20719,7 +20720,7 @@
       ];
     };
     mpl-set-selected-cc-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-selected-cc-eel-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20733,7 +20734,7 @@
       ];
     };
     mpl-smart-duplicate-events-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-events-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20747,7 +20748,7 @@
       ];
     };
     mpl-smart-duplicate-events-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-events-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20761,7 +20762,7 @@
       ];
     };
     mpl-smart-duplicate-events-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-smart-duplicate-events-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20775,7 +20776,7 @@
       ];
     };
     mpl-snap-selected-notes-to-scale-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-snap-selected-notes-to-scale-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20789,7 +20790,7 @@
       ];
     };
     mpl-snap-selected-notes-to-scale-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-snap-selected-notes-to-scale-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20803,7 +20804,7 @@
       ];
     };
     mpl-solo-midi-editor-active-take-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-solo-midi-editor-active-take-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20817,7 +20818,7 @@
       ];
     };
     mpl-solo-midi-editor-active-take-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-solo-midi-editor-active-take-track-lua-1-1";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20831,7 +20832,7 @@
       ];
     };
     mpl-solo-midi-editor-active-take-track-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-solo-midi-editor-active-take-track-lua-1-2";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20845,7 +20846,7 @@
       ];
     };
     mpl-split-selected-notes-to-equal-parts-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-split-selected-notes-to-equal-parts-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20859,7 +20860,7 @@
       ];
     };
     mpl-stretch-selected-midi-notes-positions-by-custom-x-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-stretch-selected-midi-notes-positions-by-custom-x-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20873,7 +20874,7 @@
       ];
     };
     mpl-stretch-selected-midi-notes-positions-by-x0-5-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-stretch-selected-midi-notes-positions-by-x0-5-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20887,7 +20888,7 @@
       ];
     };
     mpl-stretch-selected-midi-notes-positions-by-x2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-stretch-selected-midi-notes-positions-by-x2-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20901,7 +20902,7 @@
       ];
     };
     mpl-strum-selected-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-strum-selected-notes-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20915,7 +20916,7 @@
       ];
     };
     mpl-strum-selected-notes-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-strum-selected-notes-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20929,7 +20930,7 @@
       ];
     };
     mpl-zoom-horizontally-change-grid-relatively-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-zoom-horizontally-change-grid-relatively-mousewheel-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20943,7 +20944,7 @@
       ];
     };
     mpl-zoom-horizontally-change-grid-relatively-mousewheel-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-zoom-horizontally-change-grid-relatively-mousewheel-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20957,7 +20958,7 @@
       ];
     };
     mpl-zoom-horizontally-change-grid-relatively-mousewheel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-zoom-horizontally-change-grid-relatively-mousewheel-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "MIDI editor";
@@ -20971,7 +20972,7 @@
       ];
     };
     mpl-move-cursor-to-next-phrase-in-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-cursor-to-next-phrase-in-items-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Navigation";
@@ -20985,7 +20986,7 @@
       ];
     };
     mpl-move-cursor-to-next-phrase-in-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-cursor-to-next-phrase-in-items-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Navigation";
@@ -20999,7 +21000,7 @@
       ];
     };
     mpl-move-cursor-to-next-selected-item-edge-keep-overlapping-condition-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-cursor-to-next-selected-item-edge-keep-overlapping-condition-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Navigation";
@@ -21013,7 +21014,7 @@
       ];
     };
     mpl-move-cursor-to-previous-phrase-in-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-cursor-to-previous-phrase-in-items-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Navigation";
@@ -21027,7 +21028,7 @@
       ];
     };
     mpl-move-cursor-to-previous-phrase-in-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-cursor-to-previous-phrase-in-items-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Navigation";
@@ -21041,7 +21042,7 @@
       ];
     };
     mpl-move-edit-cursor-to-first-note-of-selected-item-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-edit-cursor-to-first-note-of-selected-item-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Navigation";
@@ -21055,7 +21056,7 @@
       ];
     };
     mpl-select-following-phrase-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-following-phrase-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Navigation";
@@ -21069,7 +21070,7 @@
       ];
     };
     mpl-select-following-phrase-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-following-phrase-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Navigation";
@@ -21083,7 +21084,7 @@
       ];
     };
     mpl-set-time-selection-from-edit-cursor-to-end-of-current-region-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-time-selection-from-edit-cursor-to-end-of-current-region-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Navigation";
@@ -21097,7 +21098,7 @@
       ];
     };
     mpl-set-time-selection-from-edit-cursor-to-start-of-current-region-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-time-selection-from-edit-cursor-to-start-of-current-region-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Navigation";
@@ -21111,7 +21112,7 @@
       ];
     };
     mpl-convert-cue-file-into-markers-ddp-formatted-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-convert-cue-file-into-markers-ddp-formatted-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Regions";
@@ -21125,7 +21126,7 @@
       ];
     };
     mpl-convert-cue-file-into-markers-ddp-formatted-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-convert-cue-file-into-markers-ddp-formatted-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Regions";
@@ -21139,7 +21140,7 @@
       ];
     };
     mpl-convert-cue-file-into-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-convert-cue-file-into-markers-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Regions";
@@ -21153,7 +21154,7 @@
       ];
     };
     mpl-convert-cue-file-into-markers-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-convert-cue-file-into-markers-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Regions";
@@ -21167,7 +21168,7 @@
       ];
     };
     mpl-go-to-next-marker-id-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-go-to-next-marker-id-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Regions";
@@ -21181,7 +21182,7 @@
       ];
     };
     mpl-shift-regions-and-markers-to-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-shift-regions-and-markers-to-edit-cursor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Regions";
@@ -21195,7 +21196,7 @@
       ];
     };
     mpl-shift-regions-and-markers-to-edit-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-shift-regions-and-markers-to-edit-cursor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Regions";
@@ -21209,7 +21210,7 @@
       ];
     };
     mpl-disable-add-rendered-files-to-project-after-render-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-disable-add-rendered-files-to-project-after-render-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21223,7 +21224,7 @@
       ];
     };
     mpl-disable-add-rendered-files-to-project-after-render-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-disable-add-rendered-files-to-project-after-render-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21237,7 +21238,7 @@
       ];
     };
     mpl-enable-add-rendered-files-to-project-after-render-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-enable-add-rendered-files-to-project-after-render-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21251,7 +21252,7 @@
       ];
     };
     mpl-enable-add-rendered-files-to-project-after-render-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-enable-add-rendered-files-to-project-after-render-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21265,7 +21266,7 @@
       ];
     };
     mpl-glue-and-render-selected-items-as-seamless-loops-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-glue-and-render-selected-items-as-seamless-loops-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21279,7 +21280,7 @@
       ];
     };
     mpl-glue-and-render-selected-items-as-seamless-loops-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-glue-and-render-selected-items-as-seamless-loops-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21293,7 +21294,7 @@
       ];
     };
     mpl-render-inversed-midi-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-render-inversed-midi-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21307,7 +21308,7 @@
       ];
     };
     mpl-set-render-bounds-to-entire-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-bounds-to-entire-project-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21321,7 +21322,7 @@
       ];
     };
     mpl-set-render-bounds-to-entire-project-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-bounds-to-entire-project-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21335,7 +21336,7 @@
       ];
     };
     mpl-set-render-bounds-to-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-bounds-to-time-selection-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21349,7 +21350,7 @@
       ];
     };
     mpl-set-render-bounds-to-time-selection-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-bounds-to-time-selection-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21363,7 +21364,7 @@
       ];
     };
     mpl-set-render-directory-to-render-in-project-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-directory-to-render-in-project-folder-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21377,7 +21378,7 @@
       ];
     };
     mpl-set-render-directory-to-render-in-project-folder-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-directory-to-render-in-project-folder-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21391,7 +21392,7 @@
       ];
     };
     mpl-set-render-directory-to-render-in-reaper-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-directory-to-render-in-reaper-folder-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21405,7 +21406,7 @@
       ];
     };
     mpl-set-render-directory-to-render-in-reaper-folder-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-directory-to-render-in-reaper-folder-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21419,7 +21420,7 @@
       ];
     };
     mpl-set-render-directory-to-desktop-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-directory-to-desktop-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21433,7 +21434,7 @@
       ];
     };
     mpl-set-render-directory-to-desktop-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-directory-to-desktop-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21447,7 +21448,7 @@
       ];
     };
     mpl-set-render-directory-to-desktop-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-directory-to-desktop-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21461,7 +21462,7 @@
       ];
     };
     mpl-set-render-directory-to-desktop-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-directory-to-desktop-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21475,7 +21476,7 @@
       ];
     };
     mpl-set-render-filename-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-filename-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21489,7 +21490,7 @@
       ];
     };
     mpl-set-render-filename-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-filename-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21503,7 +21504,7 @@
       ];
     };
     mpl-set-render-format-to-flac-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-format-to-flac-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21517,7 +21518,7 @@
       ];
     };
     mpl-set-render-format-to-flac-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-format-to-flac-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21531,7 +21532,7 @@
       ];
     };
     mpl-set-render-format-to-mp3-128kbps-cbr-lame-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-format-to-mp3-128kbps-cbr-lame-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21545,7 +21546,7 @@
       ];
     };
     mpl-set-render-format-to-mp3-128kbps-cbr-lame-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-format-to-mp3-128kbps-cbr-lame-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21559,7 +21560,7 @@
       ];
     };
     mpl-set-render-format-to-mp3-maximum-bitrate-and-quality-lame-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-format-to-mp3-maximum-bitrate-and-quality-lame-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21573,7 +21574,7 @@
       ];
     };
     mpl-set-render-format-to-mp3-maximum-bitrate-and-quality-lame-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-format-to-mp3-maximum-bitrate-and-quality-lame-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21587,7 +21588,7 @@
       ];
     };
     mpl-set-render-format-to-video-mp4-mjpeg-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-format-to-video-mp4-mjpeg-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21601,7 +21602,7 @@
       ];
     };
     mpl-set-render-format-to-video-mp4-mjpeg-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-format-to-video-mp4-mjpeg-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21615,7 +21616,7 @@
       ];
     };
     mpl-set-render-format-to-wav-16-bit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-format-to-wav-16-bit-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21629,7 +21630,7 @@
       ];
     };
     mpl-set-render-format-to-wav-16-bit-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-format-to-wav-16-bit-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21643,7 +21644,7 @@
       ];
     };
     mpl-set-render-format-to-wav-24-bit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-format-to-wav-24-bit-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21657,7 +21658,7 @@
       ];
     };
     mpl-set-render-format-to-wav-24-bit-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-format-to-wav-24-bit-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21671,7 +21672,7 @@
       ];
     };
     mpl-set-render-format-to-wav-32-bit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-format-to-wav-32-bit-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21685,7 +21686,7 @@
       ];
     };
     mpl-set-render-format-to-wav-32-bit-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-format-to-wav-32-bit-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21699,7 +21700,7 @@
       ];
     };
     mpl-set-render-source-to-master-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-source-to-master-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21713,7 +21714,7 @@
       ];
     };
     mpl-set-render-source-to-master-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-source-to-master-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21727,7 +21728,7 @@
       ];
     };
     mpl-set-render-source-to-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-source-to-selected-items-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21741,7 +21742,7 @@
       ];
     };
     mpl-set-render-source-to-selected-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-source-to-selected-items-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21755,7 +21756,7 @@
       ];
     };
     mpl-set-render-source-to-stems-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-source-to-stems-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21769,7 +21770,7 @@
       ];
     };
     mpl-set-render-source-to-stems-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-render-source-to-stems-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Render";
@@ -21783,7 +21784,7 @@
       ];
     };
     mpl-add-time-signature-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-add-time-signature-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Ruler";
@@ -21932,7 +21933,7 @@
       ];
     };
     mpl-add-time-signature-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-add-time-signature-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Ruler";
@@ -22081,7 +22082,7 @@
       ];
     };
     mpl-adjust-arrange-grid-mousewheel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-arrange-grid-mousewheel-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Ruler";
@@ -22095,7 +22096,7 @@
       ];
     };
     mpl-cycle-grid-values-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cycle-grid-values-mousewheel-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Ruler";
@@ -22109,7 +22110,7 @@
       ];
     };
     mpl-cycle-grid-values-mousewheel-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-cycle-grid-values-mousewheel-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Ruler";
@@ -22123,7 +22124,7 @@
       ];
     };
     mpl-set-edit-cursor-to-mouse-position-quantized-to-beats-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-edit-cursor-to-mouse-position-quantized-to-beats-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Ruler";
@@ -22137,7 +22138,7 @@
       ];
     };
     mpl-set-edit-cursor-to-mouse-position-quantized-to-measures-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-edit-cursor-to-mouse-position-quantized-to-measures-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Ruler";
@@ -22151,7 +22152,7 @@
       ];
     };
     mpl-set-project-grid-midi-cc-and-osc-only-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-project-grid-midi-cc-and-osc-only-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Ruler";
@@ -22165,7 +22166,7 @@
       ];
     };
     mpl-zoom-horizontally-change-grid-relatively-mousewheel-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-zoom-horizontally-change-grid-relatively-mousewheel-lua-1-1";
       indexName = "MPL Scripts";
       categoryName = "Ruler";
@@ -22179,7 +22180,7 @@
       ];
     };
     mpl-zoom-horizontally-change-grid-relatively-preserve-grid-visibility-and-snap-state-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-zoom-horizontally-change-grid-relatively-preserve-grid-visibility-and-snap-state-mousewheel-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Ruler";
@@ -22193,7 +22194,7 @@
       ];
     };
     mpl-zoom-horizontally-change-grid-relatively-preserve-grid-visibility-and-snap-state-mousewheel-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-zoom-horizontally-change-grid-relatively-preserve-grid-visibility-and-snap-state-mousewheel-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "Ruler";
@@ -22207,7 +22208,7 @@
       ];
     };
     mpl-zoom-horizontally-change-grid-relatively-preserve-grid-visibility-and-snap-state-mousewheel-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-zoom-horizontally-change-grid-relatively-preserve-grid-visibility-and-snap-state-mousewheel-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "Ruler";
@@ -22221,7 +22222,7 @@
       ];
     };
     mpl-zoom-horizontally-change-grid-relatively-preserve-grid-visibility-and-snap-state-mousewheel-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-zoom-horizontally-change-grid-relatively-preserve-grid-visibility-and-snap-state-mousewheel-lua-2-03";
       indexName = "MPL Scripts";
       categoryName = "Ruler";
@@ -22235,7 +22236,7 @@
       ];
     };
     mpl-copy-selected-item-stretch-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-copy-selected-item-stretch-markers-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22249,7 +22250,7 @@
       ];
     };
     mpl-copy-selected-item-stretch-markers-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-copy-selected-item-stretch-markers-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22263,7 +22264,7 @@
       ];
     };
     mpl-copy-selected-item-stretch-markers-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-copy-selected-item-stretch-markers-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22277,7 +22278,7 @@
       ];
     };
     mpl-copy-selected-item-stretch-markers-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-copy-selected-item-stretch-markers-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22291,7 +22292,7 @@
       ];
     };
     mpl-move-take-content-under-stretch-markers-10ms-left-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-take-content-under-stretch-markers-10ms-left-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22305,7 +22306,7 @@
       ];
     };
     mpl-move-take-content-under-stretch-markers-10ms-right-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-take-content-under-stretch-markers-10ms-right-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22319,7 +22320,7 @@
       ];
     };
     mpl-paste-and-replace-stretch-markers-to-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-paste-and-replace-stretch-markers-to-selected-items-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22333,7 +22334,7 @@
       ];
     };
     mpl-paste-and-replace-stretch-markers-to-selected-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-paste-and-replace-stretch-markers-to-selected-items-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22347,7 +22348,7 @@
       ];
     };
     mpl-paste-and-replace-stretch-markers-to-selected-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-paste-and-replace-stretch-markers-to-selected-items-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22361,7 +22362,7 @@
       ];
     };
     mpl-paste-and-replace-stretch-markers-to-selected-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-paste-and-replace-stretch-markers-to-selected-items-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22375,7 +22376,7 @@
       ];
     };
     mpl-paste-and-replace-stretch-markers-to-selected-items-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-paste-and-replace-stretch-markers-to-selected-items-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22389,7 +22390,7 @@
       ];
     };
     mpl-quantize-stretch-markers-in-selected-items-to-zero-crossings-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-stretch-markers-in-selected-items-to-zero-crossings-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22403,7 +22404,7 @@
       ];
     };
     mpl-quantize-stretch-markers-in-selected-items-to-zero-crossings-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-stretch-markers-in-selected-items-to-zero-crossings-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22417,7 +22418,7 @@
       ];
     };
     mpl-quantize-stretch-markers-in-selected-items-to-zero-crossings-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-stretch-markers-in-selected-items-to-zero-crossings-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22431,7 +22432,7 @@
       ];
     };
     mpl-quantize-stretch-markers-in-selected-items-to-zero-crossings-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-stretch-markers-in-selected-items-to-zero-crossings-lua-1-10";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22445,7 +22446,7 @@
       ];
     };
     mpl-remove-all-non-1x-stretch-markers-from-selected-takes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-remove-all-non-1x-stretch-markers-from-selected-takes-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22459,7 +22460,7 @@
       ];
     };
     mpl-stretch-marker-guard-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-stretch-marker-guard-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22473,7 +22474,7 @@
       ];
     };
     mpl-tape-start-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-tape-start-selected-items-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22487,7 +22488,7 @@
       ];
     };
     mpl-tape-start-selected-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-tape-start-selected-items-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22501,7 +22502,7 @@
       ];
     };
     mpl-tape-stop-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-tape-stop-selected-items-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22515,7 +22516,7 @@
       ];
     };
     mpl-tape-stop-selected-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-tape-stop-selected-items-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Stretch Markers";
@@ -22529,7 +22530,7 @@
       ];
     };
     mpl-move-selected-items-to-selected-subprojects-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-selected-items-to-selected-subprojects-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Subprojects";
@@ -22543,7 +22544,7 @@
       ];
     };
     mpl-move-selected-items-to-selected-subprojects-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-selected-items-to-selected-subprojects-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Subprojects";
@@ -22557,7 +22558,7 @@
       ];
     };
     mpl-check-if-multichannel-item-has-mono-source-convert-to-mono-item-if-need-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-check-if-multichannel-item-has-mono-source-convert-to-mono-item-if-need-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Takes Properties";
@@ -22571,7 +22572,7 @@
       ];
     };
     mpl-color-drums-shots-by-spectral-content-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-color-drums-shots-by-spectral-content-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Takes Properties";
@@ -22585,7 +22586,7 @@
       ];
     };
     mpl-color-drums-shots-by-spectral-content-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-color-drums-shots-by-spectral-content-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Takes Properties";
@@ -22599,7 +22600,7 @@
       ];
     };
     mpl-color-drums-shots-by-spectral-content-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-color-drums-shots-by-spectral-content-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Takes Properties";
@@ -22613,7 +22614,7 @@
       ];
     };
     mpl-rename-active-take-as-itemname-bounce-date-time-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rename-active-take-as-itemname-bounce-date-time-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Takes Properties";
@@ -22627,7 +22628,7 @@
       ];
     };
     mpl-rename-active-take-as-itemname-bounce-date-time-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rename-active-take-as-itemname-bounce-date-time-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Takes Properties";
@@ -22641,7 +22642,7 @@
       ];
     };
     mpl-set-active-take-color-darker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-active-take-color-darker-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Takes Properties";
@@ -22655,7 +22656,7 @@
       ];
     };
     mpl-set-active-take-color-darker-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-active-take-color-darker-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Takes Properties";
@@ -22669,7 +22670,7 @@
       ];
     };
     mpl-set-active-take-color-lighter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-active-take-color-lighter-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Takes Properties";
@@ -22683,7 +22684,7 @@
       ];
     };
     mpl-set-active-take-color-lighter-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-active-take-color-lighter-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Takes Properties";
@@ -22697,7 +22698,7 @@
       ];
     };
     mpl-set-selected-items-timestretch-pitchshift-modes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-selected-items-timestretch-pitchshift-modes-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Takes Properties";
@@ -22816,7 +22817,7 @@
       ];
     };
     mpl-set-selected-items-timestretch-pitchshift-modes-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-selected-items-timestretch-pitchshift-modes-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Takes Properties";
@@ -22935,7 +22936,7 @@
       ];
     };
     mpl-import-cubase-tempo-map-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-import-cubase-tempo-map-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tempo";
@@ -22949,7 +22950,7 @@
       ];
     };
     mpl-toggle-gradually-transition-for-tempo-marker-before-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-gradually-transition-for-tempo-marker-before-edit-cursor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tempo";
@@ -22963,7 +22964,7 @@
       ];
     };
     mpl-create-layer-track-from-selected-instruments-tracks-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-layer-track-from-selected-instruments-tracks-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "Tracks Editing";
@@ -22977,7 +22978,7 @@
       ];
     };
     mpl-implode-mono-track-session-to-stereo-items-relative-to-lr-at-the-trackname-end-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-implode-mono-track-session-to-stereo-items-relative-to-lr-at-the-trackname-end-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Editing";
@@ -22991,7 +22992,7 @@
       ];
     };
     mpl-implode-mono-track-session-to-stereo-items-relative-to-lr-at-the-trackname-end-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-implode-mono-track-session-to-stereo-items-relative-to-lr-at-the-trackname-end-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Tracks Editing";
@@ -23005,7 +23006,7 @@
       ];
     };
     mpl-implode-mono-track-session-to-stereo-items-relative-to-lr-at-the-trackname-end-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-implode-mono-track-session-to-stereo-items-relative-to-lr-at-the-trackname-end-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Tracks Editing";
@@ -23019,7 +23020,7 @@
       ];
     };
     mpl-implode-mono-track-session-to-stereo-items-relative-to-lr-at-the-trackname-end-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-implode-mono-track-session-to-stereo-items-relative-to-lr-at-the-trackname-end-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Tracks Editing";
@@ -23033,7 +23034,7 @@
       ];
     };
     mpl-import-media-folder-content-as-structured-tracks-ordered-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-import-media-folder-content-as-structured-tracks-ordered-items-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Editing";
@@ -23047,7 +23048,7 @@
       ];
     };
     mpl-import-media-folder-content-as-structured-tracks-ordered-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-import-media-folder-content-as-structured-tracks-ordered-items-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Editing";
@@ -23061,7 +23062,7 @@
       ];
     };
     mpl-import-media-folder-content-as-structured-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-import-media-folder-content-as-structured-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Editing";
@@ -23075,7 +23076,7 @@
       ];
     };
     mpl-import-media-folder-content-as-structured-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-import-media-folder-content-as-structured-tracks-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Editing";
@@ -23089,7 +23090,7 @@
       ];
     };
     mpl-move-selected-tracks-to-the-end-of-receives-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-selected-tracks-to-the-end-of-receives-folder-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Editing";
@@ -23103,7 +23104,7 @@
       ];
     };
     mpl-adjust-volume-for-top-folder-midi-cc-osc-mousewheel-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-volume-for-top-folder-midi-cc-osc-mousewheel-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -23152,7 +23153,7 @@
       ];
     };
     mpl-adjust-volume-for-top-folder-midi-cc-osc-mousewheel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-volume-for-top-folder-midi-cc-osc-mousewheel-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -23201,7 +23202,7 @@
       ];
     };
     mpl-color-project-tracks-by-user-defined-filter-and-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-color-project-tracks-by-user-defined-filter-and-color-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -23215,7 +23216,7 @@
       ];
     };
     mpl-color-project-tracks-by-user-defined-filter-and-color-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-color-project-tracks-by-user-defined-filter-and-color-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -23229,7 +23230,7 @@
       ];
     };
     mpl-color-project-tracks-by-user-defined-filter-and-color-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-color-project-tracks-by-user-defined-filter-and-color-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -23243,7 +23244,7 @@
       ];
     };
     mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-12";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -23412,7 +23413,7 @@
       ];
     };
     mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-13";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -23581,7 +23582,7 @@
       ];
     };
     mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-14";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -23765,7 +23766,7 @@
       ];
     };
     mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-15";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -23949,7 +23950,7 @@
       ];
     };
     mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-16";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -24133,7 +24134,7 @@
       ];
     };
     mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-17";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -24317,7 +24318,7 @@
       ];
     };
     mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-18";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -24501,7 +24502,7 @@
       ];
     };
     mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-19";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -24685,7 +24686,7 @@
       ];
     };
     mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-20";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -24869,7 +24870,7 @@
       ];
     };
     mpl-delete-x-characters-from-selected-track-names-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-delete-x-characters-from-selected-track-names-eel-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -24883,7 +24884,7 @@
       ];
     };
     mpl-disable-master-or-parent-send-for-track-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-disable-master-or-parent-send-for-track-under-mouse-cursor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -24897,7 +24898,7 @@
       ];
     };
     mpl-disable-master-or-parent-send-for-track-under-mouse-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-disable-master-or-parent-send-for-track-under-mouse-cursor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -24911,7 +24912,7 @@
       ];
     };
     mpl-disable-master-or-parent-send-for-track-under-mouse-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-disable-master-or-parent-send-for-track-under-mouse-cursor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -24925,7 +24926,7 @@
       ];
     };
     mpl-enlarge-selected-track-background-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-enlarge-selected-track-background-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -24939,7 +24940,7 @@
       ];
     };
     mpl-enlarge-selected-track-define-height-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-enlarge-selected-track-define-height-background-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -24953,7 +24954,7 @@
       ];
     };
     mpl-go-to-first-receive-track-send-source-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-go-to-first-receive-track-send-source-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -24967,7 +24968,7 @@
       ];
     };
     mpl-go-to-first-receive-track-send-source-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-go-to-first-receive-track-send-source-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -24981,7 +24982,7 @@
       ];
     };
     mpl-go-to-first-send-destination-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-go-to-first-send-destination-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -24995,7 +24996,7 @@
       ];
     };
     mpl-go-to-first-send-destination-track-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-go-to-first-send-destination-track-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25009,7 +25010,7 @@
       ];
     };
     mpl-go-to-first-send-destination-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-go-to-first-send-destination-track-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25023,7 +25024,7 @@
       ];
     };
     mpl-invert-selected-tracks-solo-to-mute-states-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-invert-selected-tracks-solo-to-mute-states-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25037,7 +25038,7 @@
       ];
     };
     mpl-invert-selected-tracks-solo-to-mute-states-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-invert-selected-tracks-solo-to-mute-states-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25051,7 +25052,7 @@
       ];
     };
     mpl-move-selected-tracks-faders-to-0db-relative-to-holded-peak-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-move-selected-tracks-faders-to-0db-relative-to-holded-peak-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25065,7 +25066,7 @@
       ];
     };
     mpl-pan-selected-tracks-with-lr-at-the-end-of-trackname-respectively-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-pan-selected-tracks-with-lr-at-the-end-of-trackname-respectively-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25079,7 +25080,7 @@
       ];
     };
     mpl-prepare-midi-input-for-last-touched-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-prepare-midi-input-for-last-touched-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25093,7 +25094,7 @@
       ];
     };
     mpl-rename-selected-tracks-as-first-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rename-selected-tracks-as-first-fx-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25107,7 +25108,7 @@
       ];
     };
     mpl-rename-selected-tracks-as-first-fx-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rename-selected-tracks-as-first-fx-lua-1-1";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25121,7 +25122,7 @@
       ];
     };
     mpl-rename-selected-tracks-as-first-fx-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rename-selected-tracks-as-first-fx-lua-1-2";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25135,7 +25136,7 @@
       ];
     };
     mpl-rename-selected-tracks-as-first-fx-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-rename-selected-tracks-as-first-fx-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25149,7 +25150,7 @@
       ];
     };
     mpl-reset-color-for-all-children-tracks-to-their-top-level-folders-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-reset-color-for-all-children-tracks-to-their-top-level-folders-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25163,7 +25164,7 @@
       ];
     };
     mpl-return-control-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-return-control-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25177,7 +25178,7 @@
       ];
     };
     mpl-return-control-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-return-control-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25191,7 +25192,7 @@
       ];
     };
     mpl-return-control-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-return-control-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25205,7 +25206,7 @@
       ];
     };
     mpl-return-control-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-return-control-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25219,7 +25220,7 @@
       ];
     };
     mpl-return-control-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-return-control-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25233,7 +25234,7 @@
       ];
     };
     mpl-return-control-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-return-control-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25247,7 +25248,7 @@
       ];
     };
     mpl-return-control-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-return-control-lua-1-08";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25261,7 +25262,7 @@
       ];
     };
     mpl-return-control-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-return-control-lua-1-09";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25275,7 +25276,7 @@
       ];
     };
     mpl-search-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-search-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25289,7 +25290,7 @@
       ];
     };
     mpl-search-tracks-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-search-tracks-lua-1-0-1";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25303,7 +25304,7 @@
       ];
     };
     mpl-search-tracks-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-search-tracks-lua-1-0-2";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25317,7 +25318,7 @@
       ];
     };
     mpl-search-tracks-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-search-tracks-lua-1-0-3";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25331,7 +25332,7 @@
       ];
     };
     mpl-select-last-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-last-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25345,7 +25346,7 @@
       ];
     };
     mpl-select-next-track-with-instrument-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-next-track-with-instrument-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25359,7 +25360,7 @@
       ];
     };
     mpl-select-previous-instrument-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-previous-instrument-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25373,7 +25374,7 @@
       ];
     };
     mpl-select-track-of-floating-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-track-of-floating-fx-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25387,7 +25388,7 @@
       ];
     };
     mpl-select-track-of-floating-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-track-of-floating-fx-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25401,7 +25402,7 @@
       ];
     };
     mpl-select-tracks-with-instruments-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-select-tracks-with-instruments-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25415,7 +25416,7 @@
       ];
     };
     mpl-send-control-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25429,7 +25430,7 @@
       ];
     };
     mpl-send-control-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25443,7 +25444,7 @@
       ];
     };
     mpl-send-control-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25457,7 +25458,7 @@
       ];
     };
     mpl-send-control-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25471,7 +25472,7 @@
       ];
     };
     mpl-send-control-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25485,7 +25486,7 @@
       ];
     };
     mpl-send-control-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25499,7 +25500,7 @@
       ];
     };
     mpl-send-control-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25513,7 +25514,7 @@
       ];
     };
     mpl-send-control-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25527,7 +25528,7 @@
       ];
     };
     mpl-send-control-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-08";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25541,7 +25542,7 @@
       ];
     };
     mpl-send-control-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-09";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25555,7 +25556,7 @@
       ];
     };
     mpl-send-control-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-10";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25569,7 +25570,7 @@
       ];
     };
     mpl-send-control-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-11";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25583,7 +25584,7 @@
       ];
     };
     mpl-send-control-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-12";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25597,7 +25598,7 @@
       ];
     };
     mpl-send-control-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-13";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25611,7 +25612,7 @@
       ];
     };
     mpl-send-control-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-14";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25625,7 +25626,7 @@
       ];
     };
     mpl-send-control-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-15";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25639,7 +25640,7 @@
       ];
     };
     mpl-send-control-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-16";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25653,7 +25654,7 @@
       ];
     };
     mpl-send-control-lua-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-17";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25667,7 +25668,7 @@
       ];
     };
     mpl-send-control-lua-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-18";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25681,7 +25682,7 @@
       ];
     };
     mpl-send-control-lua-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-19";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25695,7 +25696,7 @@
       ];
     };
     mpl-send-control-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-20";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25709,7 +25710,7 @@
       ];
     };
     mpl-send-control-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-21";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25723,7 +25724,7 @@
       ];
     };
     mpl-send-control-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-22";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25737,7 +25738,7 @@
       ];
     };
     mpl-send-control-lua-1-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-send-control-lua-1-23";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25751,7 +25752,7 @@
       ];
     };
     mpl-set-hardware-midi-output-to-gm-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-hardware-midi-output-to-gm-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25765,7 +25766,7 @@
       ];
     };
     mpl-set-hardware-midi-output-to-gm-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-hardware-midi-output-to-gm-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25779,7 +25780,7 @@
       ];
     };
     mpl-set-parent-channels-according-to-index-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-parent-channels-according-to-index-for-selected-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25793,7 +25794,7 @@
       ];
     };
     mpl-set-parent-channels-according-to-index-for-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-parent-channels-according-to-index-for-selected-tracks-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25807,7 +25808,7 @@
       ];
     };
     mpl-set-selected-tracks-audio-input-device-to-guit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-selected-tracks-audio-input-device-to-guit-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25821,7 +25822,7 @@
       ];
     };
     mpl-set-selected-tracks-audio-input-device-to-guit-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-selected-tracks-audio-input-device-to-guit-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25835,7 +25836,7 @@
       ];
     };
     mpl-set-selected-tracks-audio-input-device-to-mic-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-selected-tracks-audio-input-device-to-mic-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25849,7 +25850,7 @@
       ];
     };
     mpl-set-selected-tracks-audio-input-device-to-mic-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-selected-tracks-audio-input-device-to-mic-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25863,7 +25864,7 @@
       ];
     };
     mpl-set-selected-tracks-midi-input-device-to-touchosc-bridge-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-selected-tracks-midi-input-device-to-touchosc-bridge-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25877,7 +25878,7 @@
       ];
     };
     mpl-set-selected-tracks-midi-input-device-to-touchosc-bridge-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-selected-tracks-midi-input-device-to-touchosc-bridge-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25891,7 +25892,7 @@
       ];
     };
     mpl-set-solo-for-random-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-solo-for-random-selected-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25905,7 +25906,7 @@
       ];
     };
     mpl-set-stereo-as-parent-channels-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-stereo-as-parent-channels-for-selected-tracks-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25919,7 +25920,7 @@
       ];
     };
     mpl-set-stereo-as-parent-channels-for-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-stereo-as-parent-channels-for-selected-tracks-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25933,7 +25934,7 @@
       ];
     };
     mpl-set-track-offset-in-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-track-offset-in-seconds-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25947,7 +25948,7 @@
       ];
     };
     mpl-set-track-offset-in-seconds-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-track-offset-in-seconds-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25961,7 +25962,7 @@
       ];
     };
     mpl-snap-selected-tracks-volume-faders-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-snap-selected-tracks-volume-faders-background-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25975,7 +25976,7 @@
       ];
     };
     mpl-solo-track-with-opened-fx-chain-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-solo-track-with-opened-fx-chain-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -25989,7 +25990,7 @@
       ];
     };
     mpl-sort-selected-tracks-by-color-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sort-selected-tracks-by-color-lua-1-4";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26003,7 +26004,7 @@
       ];
     };
     mpl-sort-selected-tracks-by-color-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sort-selected-tracks-by-color-lua-1-4-1";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26017,7 +26018,7 @@
       ];
     };
     mpl-sort-selected-tracks-by-color-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sort-selected-tracks-by-color-lua-1-4-2";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26031,7 +26032,7 @@
       ];
     };
     mpl-sort-selected-tracks-by-color-lua-1-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sort-selected-tracks-by-color-lua-1-4-3";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26045,7 +26046,7 @@
       ];
     };
     mpl-swap-master-channels-cycle-width-100-100-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-swap-master-channels-cycle-width-100-100-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26059,7 +26060,7 @@
       ];
     };
     mpl-swap-master-channels-cycle-width-100-100-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-swap-master-channels-cycle-width-100-100-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26073,7 +26074,7 @@
       ];
     };
     mpl-toggle-between-normal-and-supercollapsed-selected-folders-state-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-between-normal-and-supercollapsed-selected-folders-state-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26087,7 +26088,7 @@
       ];
     };
     mpl-toggle-between-normal-and-supercollapsed-selected-folders-state-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-between-normal-and-supercollapsed-selected-folders-state-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26101,7 +26102,7 @@
       ];
     };
     mpl-toggle-midi-hardware-output-by-name-umc-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-midi-hardware-output-by-name-umc-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26115,7 +26116,7 @@
       ];
     };
     mpl-toggle-midi-hardware-output-by-name-umc-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-midi-hardware-output-by-name-umc-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26129,7 +26130,7 @@
       ];
     };
     mpl-toggle-parent-and-regular-send-for-selected-tracks-ignore-midi-when-regular-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-parent-and-regular-send-for-selected-tracks-ignore-midi-when-regular-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26143,7 +26144,7 @@
       ];
     };
     mpl-toggle-parent-and-regular-send-for-selected-tracks-ignore-midi-when-regular-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-parent-and-regular-send-for-selected-tracks-ignore-midi-when-regular-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26157,7 +26158,7 @@
       ];
     };
     mpl-toggle-parent-and-regular-send-for-selected-tracks-ignore-midi-when-regular-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-parent-and-regular-send-for-selected-tracks-ignore-midi-when-regular-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26171,7 +26172,7 @@
       ];
     };
     mpl-toggle-recarm-on-track-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-recarm-on-track-under-mouse-cursor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26185,7 +26186,7 @@
       ];
     };
     mpl-toggle-recarm-on-track-under-mouse-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-recarm-on-track-under-mouse-cursor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26199,7 +26200,7 @@
       ];
     };
     mpl-toggle-recarm-on-track-under-mouse-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-recarm-on-track-under-mouse-cursor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26213,7 +26214,7 @@
       ];
     };
     mpl-toggle-recarm-on-track-under-mouse-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-recarm-on-track-under-mouse-cursor-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26227,7 +26228,7 @@
       ];
     };
     mpl-toggle-reverse-pan-flag-and-invert-color-of-track-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-reverse-pan-flag-and-invert-color-of-track-under-mouse-cursor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26241,7 +26242,7 @@
       ];
     };
     mpl-toggle-reverse-pan-flag-and-invert-color-of-track-under-mouse-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-reverse-pan-flag-and-invert-color-of-track-under-mouse-cursor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26255,7 +26256,7 @@
       ];
     };
     mpl-toggle-reverse-pan-flag-and-invert-color-of-track-under-mouse-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-reverse-pan-flag-and-invert-color-of-track-under-mouse-cursor-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26269,7 +26270,7 @@
       ];
     };
     mpl-toggle-reverse-volume-flag-and-invert-color-of-track-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-reverse-volume-flag-and-invert-color-of-track-under-mouse-cursor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26283,7 +26284,7 @@
       ];
     };
     mpl-toggle-reverse-volume-flag-and-invert-color-of-track-under-mouse-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-reverse-volume-flag-and-invert-color-of-track-under-mouse-cursor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26297,7 +26298,7 @@
       ];
     };
     mpl-toggle-reverse-volume-flag-and-invert-color-of-track-under-mouse-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-reverse-volume-flag-and-invert-color-of-track-under-mouse-cursor-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26311,7 +26312,7 @@
       ];
     };
     mpl-toggle-set-midi-routing-mode-for-all-selected-tracks-sends-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-set-midi-routing-mode-for-all-selected-tracks-sends-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26325,7 +26326,7 @@
       ];
     };
     mpl-toggle-set-midi-routing-mode-for-all-selected-tracks-sends-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-set-midi-routing-mode-for-all-selected-tracks-sends-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26339,7 +26340,7 @@
       ];
     };
     mpl-toggle-show-only-selected-tracks-in-mixer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-show-only-selected-tracks-in-mixer-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26353,7 +26354,7 @@
       ];
     };
     mpl-toggle-show-tracks-if-edit-cursor-crossing-any-of-their-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-show-tracks-if-edit-cursor-crossing-any-of-their-items-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26367,7 +26368,7 @@
       ];
     };
     mpl-toggle-show-tracks-if-edit-cursor-crossing-any-of-their-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-show-tracks-if-edit-cursor-crossing-any-of-their-items-lua-1-1";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26381,7 +26382,7 @@
       ];
     };
     mpl-toggle-show-tracks-if-play-cursor-crossing-any-of-their-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-show-tracks-if-play-cursor-crossing-any-of-their-items-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26395,7 +26396,7 @@
       ];
     };
     mpl-toggle-show-tracks-if-time-selection-crossing-any-of-their-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-show-tracks-if-time-selection-crossing-any-of-their-items-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26409,7 +26410,7 @@
       ];
     };
     mpl-toggle-show-tracks-if-time-selection-crossing-any-of-their-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-toggle-show-tracks-if-time-selection-crossing-any-of-their-items-lua-1-1";
       indexName = "MPL Scripts";
       categoryName = "Tracks Properties";
@@ -26423,7 +26424,7 @@
       ];
     };
     mpl-play-from-item-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-play-from-item-under-mouse-cursor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Transport";
@@ -26437,7 +26438,7 @@
       ];
     };
     mpl-play-from-item-under-mouse-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-play-from-item-under-mouse-cursor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Transport";
@@ -26451,7 +26452,7 @@
       ];
     };
     mpl-play-from-item-under-mouse-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-play-from-item-under-mouse-cursor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Transport";
@@ -26465,7 +26466,7 @@
       ];
     };
     mpl-transport-play-stop-obey-longest-negative-track-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-transport-play-stop-obey-longest-negative-track-offset-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Transport";
@@ -26479,7 +26480,7 @@
       ];
     };
     mpl-transport-play-stop-obey-longest-negative-track-offset-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-transport-play-stop-obey-longest-negative-track-offset-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Transport";
@@ -26493,7 +26494,7 @@
       ];
     };
     mpl-trigger-record-after-recent-audio-event-set-channel-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-trigger-record-after-recent-audio-event-set-channel-input-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Transport";
@@ -26507,7 +26508,7 @@
       ];
     };
     mpl-trigger-record-after-recent-audio-event-set-channel-input-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-trigger-record-after-recent-audio-event-set-channel-input-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Transport";
@@ -26521,7 +26522,7 @@
       ];
     };
     mpl-trigger-record-after-recent-input-midi-event-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-trigger-record-after-recent-input-midi-event-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "Transport";
@@ -26535,7 +26536,7 @@
       ];
     };
     mpl-trigger-record-after-recent-input-midi-event-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-trigger-record-after-recent-input-midi-event-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "Transport";
@@ -26549,7 +26550,7 @@
       ];
     };
     mpl-adjust-items-or-envelope-points-positons-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-adjust-items-or-envelope-points-positons-mousewheel-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26563,7 +26564,7 @@
       ];
     };
     mpl-align-takes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26577,7 +26578,7 @@
       ];
     };
     mpl-align-takes-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26591,7 +26592,7 @@
       ];
     };
     mpl-align-takes-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26605,7 +26606,7 @@
       ];
     };
     mpl-align-takes-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26619,7 +26620,7 @@
       ];
     };
     mpl-align-takes-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26633,7 +26634,7 @@
       ];
     };
     mpl-align-takes-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26647,7 +26648,7 @@
       ];
     };
     mpl-align-takes-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26661,7 +26662,7 @@
       ];
     };
     mpl-align-takes-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26675,7 +26676,7 @@
       ];
     };
     mpl-align-takes-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-08";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26689,7 +26690,7 @@
       ];
     };
     mpl-align-takes-lua-1-081 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-081";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26703,7 +26704,7 @@
       ];
     };
     mpl-align-takes-lua-1-082 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-082";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26717,7 +26718,7 @@
       ];
     };
     mpl-align-takes-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-10";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26731,7 +26732,7 @@
       ];
     };
     mpl-align-takes-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-11";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26745,7 +26746,7 @@
       ];
     };
     mpl-align-takes-lua-1-110 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-110";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26759,7 +26760,7 @@
       ];
     };
     mpl-align-takes-lua-1-111 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-111";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26773,7 +26774,7 @@
       ];
     };
     mpl-align-takes-lua-1-120 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-120";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26787,7 +26788,7 @@
       ];
     };
     mpl-align-takes-lua-1-130 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-130";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26801,7 +26802,7 @@
       ];
     };
     mpl-align-takes-lua-1-131 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-131";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26815,7 +26816,7 @@
       ];
     };
     mpl-align-takes-lua-1-132 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-132";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26829,7 +26830,7 @@
       ];
     };
     mpl-align-takes-lua-1-133 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-133";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26843,7 +26844,7 @@
       ];
     };
     mpl-align-takes-lua-1-134 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-134";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26857,7 +26858,7 @@
       ];
     };
     mpl-align-takes-lua-1-135 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-1-135";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26871,7 +26872,7 @@
       ];
     };
     mpl-align-takes-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26885,7 +26886,7 @@
       ];
     };
     mpl-align-takes-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26899,7 +26900,7 @@
       ];
     };
     mpl-align-takes-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26913,7 +26914,7 @@
       ];
     };
     mpl-align-takes-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26927,7 +26928,7 @@
       ];
     };
     mpl-align-takes-lua-2-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26941,7 +26942,7 @@
       ];
     };
     mpl-align-takes-lua-2-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-05";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26955,7 +26956,7 @@
       ];
     };
     mpl-align-takes-lua-2-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-06";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26969,7 +26970,7 @@
       ];
     };
     mpl-align-takes-lua-2-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-07";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26983,7 +26984,7 @@
       ];
     };
     mpl-align-takes-lua-2-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-08";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -26997,7 +26998,7 @@
       ];
     };
     mpl-align-takes-lua-2-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-09";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27011,7 +27012,7 @@
       ];
     };
     mpl-align-takes-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-10";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27025,7 +27026,7 @@
       ];
     };
     mpl-align-takes-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-11";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27039,7 +27040,7 @@
       ];
     };
     mpl-align-takes-lua-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-20";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27053,7 +27054,7 @@
       ];
     };
     mpl-align-takes-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-21";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27067,7 +27068,7 @@
       ];
     };
     mpl-align-takes-lua-2-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-22";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27081,7 +27082,7 @@
       ];
     };
     mpl-align-takes-lua-2-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-23";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27095,7 +27096,7 @@
       ];
     };
     mpl-align-takes-lua-2-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-24";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27109,7 +27110,7 @@
       ];
     };
     mpl-align-takes-lua-2-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-25";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27123,7 +27124,7 @@
       ];
     };
     mpl-align-takes-lua-2-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-26";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27137,7 +27138,7 @@
       ];
     };
     mpl-align-takes-lua-2-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-2-27";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27151,7 +27152,7 @@
       ];
     };
     mpl-align-takes-lua-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-3-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27165,7 +27166,7 @@
       ];
     };
     mpl-align-takes-lua-3-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-3-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27179,7 +27180,7 @@
       ];
     };
     mpl-align-takes-lua-3-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-3-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27193,7 +27194,7 @@
       ];
     };
     mpl-align-takes-lua-3-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-3-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27207,7 +27208,7 @@
       ];
     };
     mpl-align-takes-lua-3-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-3-05";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27221,7 +27222,7 @@
       ];
     };
     mpl-align-takes-lua-3-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-align-takes-lua-3-06";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27235,7 +27236,7 @@
       ];
     };
     mpl-check-reaper-password-quit-if-not-match-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-check-reaper-password-quit-if-not-match-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27249,7 +27250,7 @@
       ];
     };
     mpl-delete-non-existing-scripts-from-actionlist-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-delete-non-existing-scripts-from-actionlist-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27263,7 +27264,7 @@
       ];
     };
     mpl-delete-non-existing-scripts-from-actionlist-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-delete-non-existing-scripts-from-actionlist-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27277,7 +27278,7 @@
       ];
     };
     mpl-detect-item-tempo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-detect-item-tempo-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27306,7 +27307,7 @@
       ];
     };
     mpl-detect-item-tempo-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-detect-item-tempo-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27335,7 +27336,7 @@
       ];
     };
     mpl-detect-item-tempo-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-detect-item-tempo-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27364,7 +27365,7 @@
       ];
     };
     mpl-dump-retrospective-record-log-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-dump-retrospective-record-log-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27378,7 +27379,7 @@
       ];
     };
     mpl-dump-retrospective-record-log-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-dump-retrospective-record-log-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27392,7 +27393,7 @@
       ];
     };
     mpl-dump-retrospective-record-log-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-dump-retrospective-record-log-lua-2-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27446,7 +27447,7 @@
       ];
     };
     mpl-dump-retrospective-record-log-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-dump-retrospective-record-log-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27500,7 +27501,7 @@
       ];
     };
     mpl-dump-retrospective-record-log-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-dump-retrospective-record-log-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27554,7 +27555,7 @@
       ];
     };
     mpl-dump-retrospective-record-log-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-dump-retrospective-record-log-lua-2-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27613,7 +27614,7 @@
       ];
     };
     mpl-dump-retrospective-record-log-lua-2-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-dump-retrospective-record-log-lua-2-05";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27677,7 +27678,7 @@
       ];
     };
     mpl-dump-retrospective-record-log-lua-2-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-dump-retrospective-record-log-lua-2-06";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27741,7 +27742,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27780,7 +27781,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27819,7 +27820,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27858,7 +27859,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27897,7 +27898,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27936,7 +27937,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -27975,7 +27976,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28014,7 +28015,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-08";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28053,7 +28054,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-10";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28092,7 +28093,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-11";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28131,7 +28132,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-12";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28170,7 +28171,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-13";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28209,7 +28210,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-14";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28248,7 +28249,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-15";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28287,7 +28288,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-16";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28326,7 +28327,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-18";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28365,7 +28366,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-19";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28404,7 +28405,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-20";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28443,7 +28444,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-21";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28482,7 +28483,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-22";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28521,7 +28522,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-23";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28560,7 +28561,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-24";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28599,7 +28600,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-25";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28638,7 +28639,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-26";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28677,7 +28678,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-27";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28716,7 +28717,7 @@
       ];
     };
     mpl-importsessiondata-lua-1-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-1-28";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28755,7 +28756,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28769,7 +28770,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28783,7 +28784,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28797,7 +28798,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28811,7 +28812,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28825,7 +28826,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-05";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28839,7 +28840,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-06";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28853,7 +28854,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-07";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28867,7 +28868,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-08";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28881,7 +28882,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-09";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28895,7 +28896,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-10";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28909,7 +28910,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-11";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28923,7 +28924,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-12";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28937,7 +28938,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-13";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28951,7 +28952,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-14";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28965,7 +28966,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-15";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28979,7 +28980,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-16";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -28993,7 +28994,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-17";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29007,7 +29008,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-18";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29021,7 +29022,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-19";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29035,7 +29036,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-21";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29049,7 +29050,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-22";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29063,7 +29064,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-23";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29077,7 +29078,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-24";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29091,7 +29092,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-25";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29105,7 +29106,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-26";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29119,7 +29120,7 @@
       ];
     };
     mpl-importsessiondata-lua-2-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-importsessiondata-lua-2-27";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29133,7 +29134,7 @@
       ];
     };
     mpl-input-audio-check-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-input-audio-check-selected-track-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29147,7 +29148,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29201,7 +29202,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29255,7 +29256,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29309,7 +29310,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29363,7 +29364,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-10";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29417,7 +29418,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-12";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29471,7 +29472,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-15";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29530,7 +29531,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-16";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29589,7 +29590,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-17";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29648,7 +29649,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-18";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29707,7 +29708,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-19";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29766,7 +29767,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-20";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29825,7 +29826,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-21";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29884,7 +29885,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-22";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -29943,7 +29944,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-25";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30002,7 +30003,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-26";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30061,7 +30062,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-27";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30120,7 +30121,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-30";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30179,7 +30180,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-31";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30238,7 +30239,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-32";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30297,7 +30298,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-33";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30356,7 +30357,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-34";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30415,7 +30416,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-35";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30474,7 +30475,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-36";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30533,7 +30534,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-40";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30592,7 +30593,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-41";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30651,7 +30652,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-42";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30710,7 +30711,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-43";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30769,7 +30770,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-45";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30828,7 +30829,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-46";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30887,7 +30888,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-47";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -30946,7 +30947,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-50";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31005,7 +31006,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-51";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31064,7 +31065,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-52";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31123,7 +31124,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-53";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31182,7 +31183,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-55";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31241,7 +31242,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-56";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31300,7 +31301,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-57";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31359,7 +31360,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-58";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31418,7 +31419,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-59";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31477,7 +31478,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-60";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31536,7 +31537,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-61";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31595,7 +31596,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-62 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-62";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31654,7 +31655,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-64 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-64";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31713,7 +31714,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-65 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-65";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31772,7 +31773,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-66 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-66";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31831,7 +31832,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-67 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-67";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31890,7 +31891,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-68 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-68";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -31949,7 +31950,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-69 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-69";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32008,7 +32009,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-70";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32067,7 +32068,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-71";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32126,7 +32127,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-72";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32185,7 +32186,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-73";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32244,7 +32245,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-74 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-74";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32303,7 +32304,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-75";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32362,7 +32363,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-76 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-76";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32421,7 +32422,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-77 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-77";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32480,7 +32481,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-78 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-78";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32539,7 +32540,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-79 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-79";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32598,7 +32599,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-80";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32657,7 +32658,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-81 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-81";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32716,7 +32717,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-82";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32775,7 +32776,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-83 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-83";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32834,7 +32835,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-84 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-84";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32893,7 +32894,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-85 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-85";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -32957,7 +32958,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-86 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-86";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33021,7 +33022,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-87 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-87";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33080,7 +33081,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-89 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-89";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33139,7 +33140,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-90";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33198,7 +33199,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-91";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33257,7 +33258,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-92";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33316,7 +33317,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-1-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-93";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33375,7 +33376,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33434,7 +33435,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33493,7 +33494,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33552,7 +33553,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33611,7 +33612,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33670,7 +33671,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-05";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33729,7 +33730,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-06";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33788,7 +33789,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-07";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33847,7 +33848,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-08";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33906,7 +33907,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-09";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -33965,7 +33966,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-10";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34024,7 +34025,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-11";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34083,7 +34084,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-12";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34142,7 +34143,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-13";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34201,7 +34202,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-14";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34260,7 +34261,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-15";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34319,7 +34320,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-16";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34378,7 +34379,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-17";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34437,7 +34438,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-18";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34496,7 +34497,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-19";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34555,7 +34556,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-20";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34614,7 +34615,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-21";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34673,7 +34674,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-22";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34732,7 +34733,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-23";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34791,7 +34792,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-24";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34850,7 +34851,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-25";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34909,7 +34910,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-26";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -34968,7 +34969,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-27";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35027,7 +35028,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-28";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35086,7 +35087,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-29";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35145,7 +35146,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-30";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35204,7 +35205,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-31";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35263,7 +35264,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-32";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35322,7 +35323,7 @@
       ];
     };
     mpl-interactivetoolbar-lua-2-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-2-33";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35381,7 +35382,7 @@
       ];
     };
     mpl-interactivetoolbar-close-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-close-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35395,7 +35396,7 @@
       ];
     };
     mpl-interactivetoolbar-refreshgui-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-refreshgui-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35409,7 +35410,7 @@
       ];
     };
     mpl-item-spacer-lua-1-0_2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-item-spacer-lua-1-0_2";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35423,7 +35424,7 @@
       ];
     };
     mpl-keyboard-shortcuts-visualizer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-keyboard-shortcuts-visualizer-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35437,7 +35438,7 @@
       ];
     };
     mpl-keyboard-shortcuts-visualizer-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-keyboard-shortcuts-visualizer-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35451,7 +35452,7 @@
       ];
     };
     mpl-keyboard-shortcuts-visualizer-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-keyboard-shortcuts-visualizer-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35465,7 +35466,7 @@
       ];
     };
     mpl-keyboard-shortcuts-visualizer-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-keyboard-shortcuts-visualizer-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35479,7 +35480,7 @@
       ];
     };
     mpl-keyboard-shortcuts-visualizer-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-keyboard-shortcuts-visualizer-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35493,7 +35494,7 @@
       ];
     };
     mpl-keyboard-shortcuts-visualizer-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-keyboard-shortcuts-visualizer-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35507,7 +35508,7 @@
       ];
     };
     mpl-keyboard-shortcuts-visualizer-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-keyboard-shortcuts-visualizer-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35521,7 +35522,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-1-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-1-34";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35535,7 +35536,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-1-35";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35549,7 +35550,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-2-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35583,7 +35584,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35617,7 +35618,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35651,7 +35652,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-2-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35685,7 +35686,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-2-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-2-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35719,7 +35720,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-2-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-2-05";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35753,7 +35754,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-2-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-2-06";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35787,7 +35788,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-3-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35801,7 +35802,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-3-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-3-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35815,7 +35816,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-3-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-3-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35829,7 +35830,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-3-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-3-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35843,7 +35844,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-3-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-3-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35857,7 +35858,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-4-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35871,7 +35872,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-4-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-4-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35885,7 +35886,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-4-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-4-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35899,7 +35900,7 @@
       ];
     };
     mpl-mapping-panel-background-lua-4-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-4-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35913,7 +35914,7 @@
       ];
     };
     mpl-open-and-close-media-explorer-when-item-is-inserted-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-open-and-close-media-explorer-when-item-is-inserted-background-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35927,7 +35928,7 @@
       ];
     };
     mpl-peak-follower-tools-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-peak-follower-tools-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35941,7 +35942,7 @@
       ];
     };
     mpl-peak-follower-tools-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-peak-follower-tools-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35955,7 +35956,7 @@
       ];
     };
     mpl-peak-follower-tools-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-peak-follower-tools-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35969,7 +35970,7 @@
       ];
     };
     mpl-peak-follower-tools-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-peak-follower-tools-lua-1-05";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35983,7 +35984,7 @@
       ];
     };
     mpl-peak-follower-tools-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-peak-follower-tools-lua-1-06";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -35997,7 +35998,7 @@
       ];
     };
     mpl-peak-follower-tools-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-peak-follower-tools-lua-1-07";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36011,7 +36012,7 @@
       ];
     };
     mpl-peak-follower-tools-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-peak-follower-tools-lua-1-08";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36025,7 +36026,7 @@
       ];
     };
     mpl-peak-follower-tools-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-peak-follower-tools-lua-1-09";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36039,7 +36040,7 @@
       ];
     };
     mpl-peak-follower-tools-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-peak-follower-tools-lua-1-10";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36053,7 +36054,7 @@
       ];
     };
     mpl-peak-follower-tools-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-peak-follower-tools-lua-1-11";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36067,7 +36068,7 @@
       ];
     };
     mpl-pitcheditor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-pitcheditor-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36106,7 +36107,7 @@
       ];
     };
     mpl-pitcheditor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-pitcheditor-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36145,7 +36146,7 @@
       ];
     };
     mpl-pitcheditor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-pitcheditor-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36184,7 +36185,7 @@
       ];
     };
     mpl-pitcheditor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-pitcheditor-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36223,7 +36224,7 @@
       ];
     };
     mpl-pitcheditor-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-pitcheditor-lua-1-10";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36262,7 +36263,7 @@
       ];
     };
     mpl-pitcheditor-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-pitcheditor-lua-1-11";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36301,7 +36302,7 @@
       ];
     };
     mpl-pitcheditor-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-pitcheditor-lua-1-12";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36340,7 +36341,7 @@
       ];
     };
     mpl-pitcheditor-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-pitcheditor-lua-1-13";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36379,7 +36380,7 @@
       ];
     };
     mpl-projectplaylist-background-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-projectplaylist-background-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36393,7 +36394,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36407,7 +36408,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36421,7 +36422,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36435,7 +36436,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-05";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36449,7 +36450,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-06";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36463,7 +36464,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-10";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36477,7 +36478,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-11";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36491,7 +36492,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-12";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36505,7 +36506,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-13";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36519,7 +36520,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-14";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36533,7 +36534,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-15";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36547,7 +36548,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-16";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36561,7 +36562,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-17";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36575,7 +36576,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-18";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36589,7 +36590,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-19";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36603,7 +36604,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-20";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36617,7 +36618,7 @@
       ];
     };
     mpl-quantize-tool-lua-3-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-quantize-tool-lua-3-21";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36631,7 +36632,7 @@
       ];
     };
     mpl-reset-audio-and-midi-devices-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-reset-audio-and-midi-devices-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36645,7 +36646,7 @@
       ];
     };
     mpl-sampling-tool-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sampling-tool-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36659,7 +36660,7 @@
       ];
     };
     mpl-sampling-tool-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sampling-tool-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36673,7 +36674,7 @@
       ];
     };
     mpl-sampling-tool-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sampling-tool-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36687,7 +36688,7 @@
       ];
     };
     mpl-sampling-tool-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sampling-tool-lua-1-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36701,7 +36702,7 @@
       ];
     };
     mpl-sampling-tool-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sampling-tool-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36715,7 +36716,7 @@
       ];
     };
     mpl-sendfader-background-lua-1-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-1-33";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36729,7 +36730,7 @@
       ];
     };
     mpl-sendfader-background-lua-1-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-1-34";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36743,7 +36744,7 @@
       ];
     };
     mpl-sendfader-background-lua-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-1-35";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36757,7 +36758,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36771,7 +36772,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36785,7 +36786,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36799,7 +36800,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36818,7 +36819,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36837,7 +36838,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-05";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36856,7 +36857,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-06";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36875,7 +36876,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-07";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36894,7 +36895,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-08";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36913,7 +36914,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-09";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36932,7 +36933,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-10";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36951,7 +36952,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-11";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36970,7 +36971,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-12";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -36989,7 +36990,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-13";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37008,7 +37009,7 @@
       ];
     };
     mpl-sendfader-background-lua-2-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-2-14";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37027,7 +37028,7 @@
       ];
     };
     mpl-set-reaper-password-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-set-reaper-password-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37041,7 +37042,7 @@
       ];
     };
     mpl-spectral-editing-tools-perform-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-spectral-editing-tools-perform-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37055,7 +37056,7 @@
       ];
     };
     mpl-spectral-editing-tools-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-spectral-editing-tools-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37069,7 +37070,7 @@
       ];
     };
     mpl-spectral-editing-tools-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-spectral-editing-tools-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37083,7 +37084,7 @@
       ];
     };
     mpl-spectral-editing-tools-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-spectral-editing-tools-lua-1-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37097,7 +37098,7 @@
       ];
     };
     mpl-spectral-editing-tools-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-spectral-editing-tools-lua-1-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37111,7 +37112,7 @@
       ];
     };
     mpl-spectral-search-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-spectral-search-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37125,7 +37126,7 @@
       ];
     };
     mpl-taskscheduler-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-taskscheduler-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37159,7 +37160,7 @@
       ];
     };
     mpl-taskscheduler-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-taskscheduler-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37193,7 +37194,7 @@
       ];
     };
     mpl-transient-shaper-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-transient-shaper-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37207,7 +37208,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37221,7 +37222,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37235,7 +37236,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-02";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37249,7 +37250,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-03";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37263,7 +37264,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37277,7 +37278,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-05";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37291,7 +37292,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-07";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37305,7 +37306,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-08";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37319,7 +37320,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-09";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37333,7 +37334,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-10";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37347,7 +37348,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-11";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37361,7 +37362,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-12";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37375,7 +37376,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-13";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37389,7 +37390,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-15";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37403,7 +37404,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-17";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37417,7 +37418,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-18";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37431,7 +37432,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-19";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37445,7 +37446,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-20";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37459,7 +37460,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-21";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37473,7 +37474,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-22";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37487,7 +37488,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-23";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37501,7 +37502,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-24";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37515,7 +37516,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-25";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37529,7 +37530,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-26";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37543,7 +37544,7 @@
       ];
     };
     mpl-visual-mixer-lua-2-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-visual-mixer-lua-2-27";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37557,7 +37558,7 @@
       ];
     };
     mpl-write-lufs-compensation-to-trim-volume-every-bar-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-write-lufs-compensation-to-trim-volume-every-bar-lua-1-0";
       indexName = "MPL Scripts";
       categoryName = "Various";
@@ -37571,7 +37572,7 @@
       ];
     };
     mpl-write-lufs-compensation-to-trim-volume-every-bar-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-write-lufs-compensation-to-trim-volume-every-bar-lua-1-01";
       indexName = "MPL Scripts";
       categoryName = "Various";

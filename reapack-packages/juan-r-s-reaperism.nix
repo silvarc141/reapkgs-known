@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   juan-r-s-reaperism = {
     midi-floating-split-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-floating-split-jsfx-0-04";
       indexName = "Juan_R's Reaperism";
       categoryName = "MIDI";
@@ -19,7 +20,7 @@
       ];
     };
     midi-floating-split-jsfx-0-05a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-floating-split-jsfx-0-05a";
       indexName = "Juan_R's Reaperism";
       categoryName = "MIDI";
@@ -33,7 +34,7 @@
       ];
     };
     midi-floating-split-jsfx-0-06a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-floating-split-jsfx-0-06a";
       indexName = "Juan_R's Reaperism";
       categoryName = "MIDI";
@@ -47,7 +48,7 @@
       ];
     };
     midi-fret-and-pick-jsfx-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-fret-and-pick-jsfx-1-04";
       indexName = "Juan_R's Reaperism";
       categoryName = "MIDI";
@@ -61,7 +62,7 @@
       ];
     };
     midi-jrk-juan-r-stepped-pitchbend-by-semitones-jsfx-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-jrk-juan-r-stepped-pitchbend-by-semitones-jsfx-1-03";
       indexName = "Juan_R's Reaperism";
       categoryName = "MIDI";
@@ -75,7 +76,7 @@
       ];
     };
     midi-mirror-invert-keyboard-jsfx-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-mirror-invert-keyboard-jsfx-1-01";
       indexName = "Juan_R's Reaperism";
       categoryName = "MIDI";
@@ -89,7 +90,7 @@
       ];
     };
     midi-round-robin-midi-channelize-jsfx-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-round-robin-midi-channelize-jsfx-1-02";
       indexName = "Juan_R's Reaperism";
       categoryName = "MIDI";
@@ -103,7 +104,7 @@
       ];
     };
     midi-round-robin-midi-channelize-jsfx-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-round-robin-midi-channelize-jsfx-1-03";
       indexName = "Juan_R's Reaperism";
       categoryName = "MIDI";
@@ -117,7 +118,7 @@
       ];
     };
     midi-round-robin-midi-transpose-jsfx-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-round-robin-midi-transpose-jsfx-1-01";
       indexName = "Juan_R's Reaperism";
       categoryName = "MIDI";
@@ -131,7 +132,7 @@
       ];
     };
     midi-round-robin-midi-transpose-jsfx-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-round-robin-midi-transpose-jsfx-1-02";
       indexName = "Juan_R's Reaperism";
       categoryName = "MIDI";
@@ -145,7 +146,7 @@
       ];
     };
     nop-instrument-jsfx-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nop-instrument-jsfx-1-00";
       indexName = "Juan_R's Reaperism";
       categoryName = "MIDI";
@@ -159,7 +160,7 @@
       ];
     };
     juan-r-rename-and-renumber-selected-tracks-name-by-name-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-rename-and-renumber-selected-tracks-name-by-name-lua-1-0-0";
       indexName = "Juan_R's Reaperism";
       categoryName = "ReaScripts";
@@ -173,7 +174,7 @@
       ];
     };
     juan-r-rename-and-renumber-selected-tracks-name-by-name-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-rename-and-renumber-selected-tracks-name-by-name-lua-1-0-1";
       indexName = "Juan_R's Reaperism";
       categoryName = "ReaScripts";
@@ -187,7 +188,7 @@
       ];
     };
     juan-r-rename-and-renumber-selected-tracks-name-by-name-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-rename-and-renumber-selected-tracks-name-by-name-lua-1-0-2";
       indexName = "Juan_R's Reaperism";
       categoryName = "ReaScripts";
@@ -201,7 +202,7 @@
       ];
     };
     juan-r-rename-and-renumber-selected-tracks-name-by-name-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-rename-and-renumber-selected-tracks-name-by-name-lua-1-0-3";
       indexName = "Juan_R's Reaperism";
       categoryName = "ReaScripts";
@@ -215,7 +216,7 @@
       ];
     };
     juan-r-set-region-at-play-cursor-to-time-selection-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-set-region-at-play-cursor-to-time-selection-lua-1-0-0";
       indexName = "Juan_R's Reaperism";
       categoryName = "ReaScripts";
@@ -229,7 +230,7 @@
       ];
     };
     juan-r-set-region-at-play-cursor-to-time-selection-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-set-region-at-play-cursor-to-time-selection-lua-1-0-1";
       indexName = "Juan_R's Reaperism";
       categoryName = "ReaScripts";
@@ -243,7 +244,7 @@
       ];
     };
     juan-r-set-region-at-play-cursor-to-time-selection-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-set-region-at-play-cursor-to-time-selection-lua-1-0-2";
       indexName = "Juan_R's Reaperism";
       categoryName = "ReaScripts";
@@ -257,7 +258,7 @@
       ];
     };
     juan-r-set-time-selection-to-region-at-play-cursor-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-set-time-selection-to-region-at-play-cursor-lua-1-0-0";
       indexName = "Juan_R's Reaperism";
       categoryName = "ReaScripts";
@@ -271,7 +272,7 @@
       ];
     };
     juan-r-set-time-selection-to-region-at-play-cursor-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-set-time-selection-to-region-at-play-cursor-lua-1-0-1";
       indexName = "Juan_R's Reaperism";
       categoryName = "ReaScripts";
@@ -285,7 +286,7 @@
       ];
     };
     juan-r-set-time-selection-to-region-at-play-cursor-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-set-time-selection-to-region-at-play-cursor-lua-1-0-2";
       indexName = "Juan_R's Reaperism";
       categoryName = "ReaScripts";
@@ -299,7 +300,7 @@
       ];
     };
     juan-r-toggle-horizontal-zoom-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "juan-r-toggle-horizontal-zoom-lua-1-0";
       indexName = "Juan_R's Reaperism";
       categoryName = "ReaScripts";

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   peloreaper = {
     peloreaperext-ext-2019-02-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2019-02-02";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -69,7 +70,7 @@
       ];
     };
     peloreaperext-ext-2019-03-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2019-03-21";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -133,7 +134,7 @@
       ];
     };
     peloreaperext-ext-2019-04-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2019-04-08";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -197,7 +198,7 @@
       ];
     };
     peloreaperext-ext-2019-05-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2019-05-01";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -261,7 +262,7 @@
       ];
     };
     peloreaperext-ext-2019-06-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2019-06-23";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -325,7 +326,7 @@
       ];
     };
     peloreaperext-ext-2019-06-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2019-06-30";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -389,7 +390,7 @@
       ];
     };
     peloreaperext-ext-2020-11-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2020-11-05";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -453,7 +454,7 @@
       ];
     };
     peloreaperext-ext-2020-11-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2020-11-07";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -517,7 +518,7 @@
       ];
     };
     peloreaperext-ext-2020-12-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2020-12-27";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -581,7 +582,7 @@
       ];
     };
     peloreaperext-ext-2020-12-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2020-12-30";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -645,7 +646,7 @@
       ];
     };
     peloreaperext-ext-2021-01-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2021-01-24";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -709,7 +710,7 @@
       ];
     };
     peloreaperext-ext-2021-02-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2021-02-21";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -773,7 +774,7 @@
       ];
     };
     peloreaperext-ext-2021-03-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2021-03-19";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -837,7 +838,7 @@
       ];
     };
     peloreaperext-ext-2022-03-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-03-27";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -901,7 +902,7 @@
       ];
     };
     peloreaperext-ext-2022-04-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-04-18";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -965,7 +966,7 @@
       ];
     };
     peloreaperext-ext-2022-04-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-04-29";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1029,7 +1030,7 @@
       ];
     };
     peloreaperext-ext-2022-05-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-05-06";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1093,7 +1094,7 @@
       ];
     };
     peloreaperext-ext-2022-07-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-07-16";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1157,7 +1158,7 @@
       ];
     };
     peloreaperext-ext-2022-10-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-10-16";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1221,7 +1222,7 @@
       ];
     };
     peloreaperext-ext-2022-10-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-10-18";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1285,7 +1286,7 @@
       ];
     };
     peloreaperext-ext-2022-11-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-11-06";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1349,7 +1350,7 @@
       ];
     };
     peloreaperext-ext-2022-11-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-11-07";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1413,7 +1414,7 @@
       ];
     };
     peloreaperext-ext-2022-11-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-11-13";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1477,7 +1478,7 @@
       ];
     };
     peloreaperext-ext-2022-11-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-11-14";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1541,7 +1542,7 @@
       ];
     };
     peloreaperext-ext-2022-11-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-11-16";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1605,7 +1606,7 @@
       ];
     };
     peloreaperext-ext-2022-11-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-11-26";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1669,7 +1670,7 @@
       ];
     };
     peloreaperext-ext-2022-12-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-12-03";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1733,7 +1734,7 @@
       ];
     };
     peloreaperext-ext-2022-12-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2022-12-11";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1797,7 +1798,7 @@
       ];
     };
     peloreaperext-ext-2023-02-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2023-02-03";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1861,7 +1862,7 @@
       ];
     };
     peloreaperext-ext-2023-02-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2023-02-19";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1925,7 +1926,7 @@
       ];
     };
     peloreaperext-ext-2023-07-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2023-07-05";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -1989,7 +1990,7 @@
       ];
     };
     peloreaperext-ext-2023-07-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2023-07-30";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -2073,7 +2074,7 @@
       ];
     };
     peloreaperext-ext-2023-10-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2023-10-19";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -2157,7 +2158,7 @@
       ];
     };
     peloreaperext-ext-2024-08-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperext-ext-2024-08-12";
       indexName = "PeloReaper";
       categoryName = "Extensions";
@@ -2241,7 +2242,7 @@
       ];
     };
     peloreaperextdata-data-2019-02-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "peloreaperextdata-data-2019-02-02";
       indexName = "PeloReaper";
       categoryName = "Misc";

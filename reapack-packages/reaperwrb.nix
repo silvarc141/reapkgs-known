@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   reaperwrb = {
     reaperwrb-2-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaperwrb-2-2-2";
       indexName = "ReaperWRB";
       categoryName = "Various";

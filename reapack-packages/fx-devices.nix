@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   fx-devices = {
     bryanchi-fx-devices-lua-1-0beta10-4-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-4-1-2";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -279,7 +280,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-4-2";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -563,7 +564,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-3";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -862,7 +863,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-5";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -1196,7 +1197,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-5-1";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -1535,7 +1536,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-6";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -1874,7 +1875,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-7";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -2198,7 +2199,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-7-1";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -2522,7 +2523,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-8";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -2851,7 +2852,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-8-1";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -3180,7 +3181,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-9";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -3544,7 +3545,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-10";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -3908,7 +3909,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-10-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-10-1";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -4272,7 +4273,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-10-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-10-2";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -4636,7 +4637,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-10-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-10-3";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -5000,7 +5001,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-10-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-10-4";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -5364,7 +5365,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-10-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-10-5";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -5728,7 +5729,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-10-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-10-6";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -6092,7 +6093,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-11";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -6466,7 +6467,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta10-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta10-12";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -6840,7 +6841,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta11";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -7224,7 +7225,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta11-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta11-1";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -7608,7 +7609,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta12";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -7622,7 +7623,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta13";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -7976,7 +7977,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta13-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta13-1";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -8330,7 +8331,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta13-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta13-2";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -8684,7 +8685,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta13-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta13-3";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -9043,7 +9044,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta13-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta13-31";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -9402,7 +9403,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta13-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta13-32";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -9761,7 +9762,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta13-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta13-4";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -10120,7 +10121,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta13-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta13-5";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -10484,7 +10485,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta13-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta13-33";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -10848,7 +10849,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta13-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta13-35";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -11222,7 +11223,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta14";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -11601,7 +11602,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta14-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta14-01";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -11980,7 +11981,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta14-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta14-2";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -12374,7 +12375,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta14-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta14-2-1";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -12768,7 +12769,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta14-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta14-2-2";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -13162,7 +13163,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta14-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta14-2-3";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -13556,7 +13557,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta14-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta14-3";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -13950,7 +13951,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta14-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta14-3-1";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -14344,7 +14345,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta14-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta14-3-2";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -14738,7 +14739,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta14-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta14-4";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -15132,7 +15133,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta14-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta14-5";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -15526,7 +15527,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta15";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -15920,7 +15921,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta15-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta15-1";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -16314,7 +16315,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta15-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta15-2";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -16708,7 +16709,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta15-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta15-3";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -17102,7 +17103,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta16";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -17501,7 +17502,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta16-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta16-1";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -17900,7 +17901,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta16-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta16-2";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -18299,7 +18300,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta16-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta16-2-1";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -18698,7 +18699,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta16-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta16-2-2";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -19097,7 +19098,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta16-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta16-3";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -19506,7 +19507,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta16-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta16-4";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -19520,7 +19521,7 @@
       ];
     };
     bryanchi-fx-devices-lua-1-0beta16-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bryanchi-fx-devices-lua-1-0beta16-4-1";
       indexName = "FX Devices";
       categoryName = "BryanChi_FX_Devices";
@@ -19929,7 +19930,7 @@
       ];
     };
     general-functions-lua-1-0beta-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "general-functions-lua-1-0beta-1";
       indexName = "FX Devices";
       categoryName = "Sample Stacker/Functions";

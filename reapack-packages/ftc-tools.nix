@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   ftc-tools = {
     adaptive-grid-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -59,7 +60,7 @@
       ];
     };
     adaptive-grid-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -113,7 +114,7 @@
       ];
     };
     adaptive-grid-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -167,7 +168,7 @@
       ];
     };
     adaptive-grid-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-0-3";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -221,7 +222,7 @@
       ];
     };
     adaptive-grid-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -275,7 +276,7 @@
       ];
     };
     adaptive-grid-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-1-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -329,7 +330,7 @@
       ];
     };
     adaptive-grid-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-1-2";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -383,7 +384,7 @@
       ];
     };
     adaptive-grid-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-1-3";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -437,7 +438,7 @@
       ];
     };
     adaptive-grid-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -491,7 +492,7 @@
       ];
     };
     adaptive-grid-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-2-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -545,7 +546,7 @@
       ];
     };
     adaptive-grid-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-2-2";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -599,7 +600,7 @@
       ];
     };
     adaptive-grid-lua-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-2-3";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -653,7 +654,7 @@
       ];
     };
     adaptive-grid-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-3-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -707,7 +708,7 @@
       ];
     };
     adaptive-grid-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-3-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -766,7 +767,7 @@
       ];
     };
     adaptive-grid-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-4-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -830,7 +831,7 @@
       ];
     };
     adaptive-grid-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-5-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -894,7 +895,7 @@
       ];
     };
     adaptive-grid-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-5-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -958,7 +959,7 @@
       ];
     };
     adaptive-grid-lua-1-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-5-2";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1022,7 +1023,7 @@
       ];
     };
     adaptive-grid-lua-1-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-6-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1086,7 +1087,7 @@
       ];
     };
     adaptive-grid-lua-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-6-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1150,7 +1151,7 @@
       ];
     };
     adaptive-grid-lua-1-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-7-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1214,7 +1215,7 @@
       ];
     };
     adaptive-grid-lua-1-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-7-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1278,7 +1279,7 @@
       ];
     };
     adaptive-grid-lua-1-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-7-2";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1342,7 +1343,7 @@
       ];
     };
     adaptive-grid-lua-1-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-7-3";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1406,7 +1407,7 @@
       ];
     };
     adaptive-grid-lua-1-8-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-8-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1470,7 +1471,7 @@
       ];
     };
     adaptive-grid-lua-1-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-8-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1534,7 +1535,7 @@
       ];
     };
     adaptive-grid-lua-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-8-2";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1598,7 +1599,7 @@
       ];
     };
     adaptive-grid-lua-1-8-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-8-3";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1662,7 +1663,7 @@
       ];
     };
     adaptive-grid-lua-1-8-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-8-4";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1726,7 +1727,7 @@
       ];
     };
     adaptive-grid-lua-1-9-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-1-9-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1790,7 +1791,7 @@
       ];
     };
     adaptive-grid-lua-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-2-0-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1854,7 +1855,7 @@
       ];
     };
     adaptive-grid-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-2-0-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -1933,7 +1934,7 @@
       ];
     };
     adaptive-grid-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-2-0-2";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2012,7 +2013,7 @@
       ];
     };
     adaptive-grid-lua-2-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-2-0-3";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2091,7 +2092,7 @@
       ];
     };
     adaptive-grid-lua-2-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adaptive-grid-lua-2-0-4";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2170,7 +2171,7 @@
       ];
     };
     gridbox-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2184,7 +2185,7 @@
       ];
     };
     gridbox-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2198,7 +2199,7 @@
       ];
     };
     gridbox-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-1-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2212,7 +2213,7 @@
       ];
     };
     gridbox-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-1-2";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2226,7 +2227,7 @@
       ];
     };
     gridbox-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-1-3";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2240,7 +2241,7 @@
       ];
     };
     gridbox-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2254,7 +2255,7 @@
       ];
     };
     gridbox-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-2-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2268,7 +2269,7 @@
       ];
     };
     gridbox-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-2-2";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2282,7 +2283,7 @@
       ];
     };
     gridbox-lua-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-2-3";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2296,7 +2297,7 @@
       ];
     };
     gridbox-lua-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-2-4";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2310,7 +2311,7 @@
       ];
     };
     gridbox-lua-1-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-2-5";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2324,7 +2325,7 @@
       ];
     };
     gridbox-lua-1-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-2-6";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2338,7 +2339,7 @@
       ];
     };
     gridbox-lua-1-2-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-2-7";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2352,7 +2353,7 @@
       ];
     };
     gridbox-lua-1-2-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-2-8";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2366,7 +2367,7 @@
       ];
     };
     gridbox-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-3-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2380,7 +2381,7 @@
       ];
     };
     gridbox-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-3-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2394,7 +2395,7 @@
       ];
     };
     gridbox-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-4-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2408,7 +2409,7 @@
       ];
     };
     gridbox-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-4-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2422,7 +2423,7 @@
       ];
     };
     gridbox-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-4-2";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2436,7 +2437,7 @@
       ];
     };
     gridbox-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-5-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2450,7 +2451,7 @@
       ];
     };
     gridbox-lua-1-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-6-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2464,7 +2465,7 @@
       ];
     };
     gridbox-lua-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-6-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2478,7 +2479,7 @@
       ];
     };
     gridbox-lua-1-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-6-2";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2492,7 +2493,7 @@
       ];
     };
     gridbox-lua-1-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-6-3";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2506,7 +2507,7 @@
       ];
     };
     gridbox-lua-1-6-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-6-4";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2520,7 +2521,7 @@
       ];
     };
     gridbox-lua-1-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-6-5";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2534,7 +2535,7 @@
       ];
     };
     gridbox-lua-1-6-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-6-6";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2548,7 +2549,7 @@
       ];
     };
     gridbox-lua-1-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-7-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2562,7 +2563,7 @@
       ];
     };
     gridbox-lua-1-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-7-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2576,7 +2577,7 @@
       ];
     };
     gridbox-lua-1-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-7-2";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2590,7 +2591,7 @@
       ];
     };
     gridbox-lua-1-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-7-3";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2604,7 +2605,7 @@
       ];
     };
     gridbox-lua-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-2-0-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2618,7 +2619,7 @@
       ];
     };
     gridbox-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-2-0-1";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2632,7 +2633,7 @@
       ];
     };
     gridbox-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-2-0-2";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2646,7 +2647,7 @@
       ];
     };
     gridbox-lua-2-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gridbox-lua-2-1-0";
       indexName = "FTC Tools";
       categoryName = "Adaptive grid";
@@ -2660,7 +2661,7 @@
       ];
     };
     auto-hide-silent-tracks-during-playback-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-silent-tracks-during-playback-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2674,7 +2675,7 @@
       ];
     };
     auto-hide-silent-tracks-during-playback-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-silent-tracks-during-playback-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2688,7 +2689,7 @@
       ];
     };
     auto-hide-silent-tracks-in-mcp-during-playback-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-silent-tracks-in-mcp-during-playback-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2702,7 +2703,7 @@
       ];
     };
     auto-hide-silent-tracks-in-mcp-during-playback-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-silent-tracks-in-mcp-during-playback-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2716,7 +2717,7 @@
       ];
     };
     auto-hide-silent-tracks-in-mcp-during-playback-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-silent-tracks-in-mcp-during-playback-lua-1-1-1";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2730,7 +2731,7 @@
       ];
     };
     auto-hide-silent-tracks-in-mcp-during-playback-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-silent-tracks-in-mcp-during-playback-lua-1-1-2";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2744,7 +2745,7 @@
       ];
     };
     auto-hide-silent-tracks-in-mcp-during-playback-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-silent-tracks-in-mcp-during-playback-lua-1-1-3";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2758,7 +2759,7 @@
       ];
     };
     auto-hide-silent-tracks-in-tcp-during-playback-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-silent-tracks-in-tcp-during-playback-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2772,7 +2773,7 @@
       ];
     };
     auto-hide-silent-tracks-in-tcp-during-playback-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-silent-tracks-in-tcp-during-playback-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2786,7 +2787,7 @@
       ];
     };
     auto-hide-silent-tracks-in-tcp-during-playback-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-silent-tracks-in-tcp-during-playback-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2800,7 +2801,7 @@
       ];
     };
     auto-hide-tracks-in-tcp-that-have-no-items-in-current-measure-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-tracks-in-tcp-that-have-no-items-in-current-measure-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2814,7 +2815,7 @@
       ];
     };
     auto-hide-tracks-in-tcp-that-have-no-items-in-current-measure-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-tracks-in-tcp-that-have-no-items-in-current-measure-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2828,7 +2829,7 @@
       ];
     };
     auto-hide-tracks-in-tcp-that-have-no-items-in-current-measure-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-tracks-in-tcp-that-have-no-items-in-current-measure-lua-1-1-1";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2842,7 +2843,7 @@
       ];
     };
     auto-hide-tracks-in-tcp-that-have-no-items-in-current-measure-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-tracks-in-tcp-that-have-no-items-in-current-measure-lua-1-1-2";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2856,7 +2857,7 @@
       ];
     };
     auto-hide-tracks-in-tcp-that-have-no-items-in-time-selection-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-tracks-in-tcp-that-have-no-items-in-time-selection-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2870,7 +2871,7 @@
       ];
     };
     auto-hide-tracks-in-tcp-that-have-no-items-in-time-selection-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-tracks-in-tcp-that-have-no-items-in-time-selection-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2884,7 +2885,7 @@
       ];
     };
     auto-hide-tracks-in-tcp-that-have-no-items-in-time-selection-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-tracks-in-tcp-that-have-no-items-in-time-selection-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2898,7 +2899,7 @@
       ];
     };
     auto-hide-tracks-that-have-no-items-in-current-measure-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-tracks-that-have-no-items-in-current-measure-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2912,7 +2913,7 @@
       ];
     };
     auto-hide-tracks-that-have-no-items-in-current-measure-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-tracks-that-have-no-items-in-current-measure-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2926,7 +2927,7 @@
       ];
     };
     auto-hide-tracks-that-have-no-items-in-time-selection-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-tracks-that-have-no-items-in-time-selection-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2940,7 +2941,7 @@
       ];
     };
     auto-hide-tracks-that-have-no-items-in-time-selection-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-hide-tracks-that-have-no-items-in-time-selection-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Auto-Hide";
@@ -2954,7 +2955,7 @@
       ];
     };
     toggle-show-bottom-docker-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-bottom-docker-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -2968,7 +2969,7 @@
       ];
     };
     toggle-show-bottom-docker-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-bottom-docker-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -2982,7 +2983,7 @@
       ];
     };
     toggle-show-bottom-docker-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-bottom-docker-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -2996,7 +2997,7 @@
       ];
     };
     toggle-show-bottom-docker-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-bottom-docker-lua-1-3-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3010,7 +3011,7 @@
       ];
     };
     toggle-show-bottom-docker-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-bottom-docker-lua-1-4-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3024,7 +3025,7 @@
       ];
     };
     toggle-show-bottom-docker-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-bottom-docker-lua-1-5-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3038,7 +3039,7 @@
       ];
     };
     toggle-show-left-docker-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-left-docker-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3052,7 +3053,7 @@
       ];
     };
     toggle-show-left-docker-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-left-docker-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3066,7 +3067,7 @@
       ];
     };
     toggle-show-left-docker-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-left-docker-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3080,7 +3081,7 @@
       ];
     };
     toggle-show-left-docker-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-left-docker-lua-1-3-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3094,7 +3095,7 @@
       ];
     };
     toggle-show-left-docker-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-left-docker-lua-1-4-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3108,7 +3109,7 @@
       ];
     };
     toggle-show-left-docker-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-left-docker-lua-1-5-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3122,7 +3123,7 @@
       ];
     };
     toggle-show-right-docker-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-right-docker-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3136,7 +3137,7 @@
       ];
     };
     toggle-show-right-docker-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-right-docker-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3150,7 +3151,7 @@
       ];
     };
     toggle-show-right-docker-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-right-docker-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3164,7 +3165,7 @@
       ];
     };
     toggle-show-right-docker-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-right-docker-lua-1-3-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3178,7 +3179,7 @@
       ];
     };
     toggle-show-right-docker-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-right-docker-lua-1-4-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3192,7 +3193,7 @@
       ];
     };
     toggle-show-right-docker-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-right-docker-lua-1-5-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3206,7 +3207,7 @@
       ];
     };
     toggle-show-top-docker-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-top-docker-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3220,7 +3221,7 @@
       ];
     };
     toggle-show-top-docker-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-top-docker-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3234,7 +3235,7 @@
       ];
     };
     toggle-show-top-docker-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-top-docker-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3248,7 +3249,7 @@
       ];
     };
     toggle-show-top-docker-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-top-docker-lua-1-3-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3262,7 +3263,7 @@
       ];
     };
     toggle-show-top-docker-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-top-docker-lua-1-4-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3276,7 +3277,7 @@
       ];
     };
     toggle-show-top-docker-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "toggle-show-top-docker-lua-1-5-0";
       indexName = "FTC Tools";
       categoryName = "Dockers";
@@ -3290,7 +3291,7 @@
       ];
     };
     keep-only-one-floating-fx-open-and-centered-in-screen-exclude-master-track-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "keep-only-one-floating-fx-open-and-centered-in-screen-exclude-master-track-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Floating FX";
@@ -3304,7 +3305,7 @@
       ];
     };
     keep-only-one-floating-fx-open-and-centered-in-screen-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "keep-only-one-floating-fx-open-and-centered-in-screen-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Floating FX";
@@ -3318,7 +3319,7 @@
       ];
     };
     keep-only-one-floating-fx-open-and-centered-in-screen-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "keep-only-one-floating-fx-open-and-centered-in-screen-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Floating FX";
@@ -3332,7 +3333,7 @@
       ];
     };
     keep-only-one-floating-fx-open-at-the-same-position-exclude-master-track-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "keep-only-one-floating-fx-open-at-the-same-position-exclude-master-track-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Floating FX";
@@ -3346,7 +3347,7 @@
       ];
     };
     keep-only-one-floating-fx-open-at-the-same-position-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "keep-only-one-floating-fx-open-at-the-same-position-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Floating FX";
@@ -3360,7 +3361,7 @@
       ];
     };
     keep-only-one-floating-fx-open-at-the-same-position-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "keep-only-one-floating-fx-open-at-the-same-position-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Floating FX";
@@ -3374,7 +3375,7 @@
       ];
     };
     keep-only-one-floating-fx-open-at-the-same-position-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "keep-only-one-floating-fx-open-at-the-same-position-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Floating FX";
@@ -3388,7 +3389,7 @@
       ];
     };
     ftc-foldermagic-bundle-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-foldermagic-bundle-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Folder Magic";
@@ -3457,7 +3458,7 @@
       ];
     };
     ftc-foldermagic-bundle-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-foldermagic-bundle-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Folder Magic";
@@ -3526,7 +3527,7 @@
       ];
     };
     ftc-foldermagic-bundle-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-foldermagic-bundle-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Folder Magic";
@@ -3605,7 +3606,7 @@
       ];
     };
     ftc-foldermagic-bundle-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-foldermagic-bundle-lua-1-1-1";
       indexName = "FTC Tools";
       categoryName = "Folder Magic";
@@ -3684,7 +3685,7 @@
       ];
     };
     ftc-foldermagic-bundle-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-foldermagic-bundle-lua-1-1-2";
       indexName = "FTC Tools";
       categoryName = "Folder Magic";
@@ -3763,7 +3764,7 @@
       ];
     };
     ftc-foldermagic-bundle-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-foldermagic-bundle-lua-1-1-3";
       indexName = "FTC Tools";
       categoryName = "Folder Magic";
@@ -3842,7 +3843,7 @@
       ];
     };
     ftc-foldermagic-bundle-lua-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-foldermagic-bundle-lua-1-1-4";
       indexName = "FTC Tools";
       categoryName = "Folder Magic";
@@ -3921,7 +3922,7 @@
       ];
     };
     smart-freeze-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smart-freeze-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Freeze";
@@ -3940,7 +3941,7 @@
       ];
     };
     smart-freeze-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smart-freeze-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Freeze";
@@ -3959,7 +3960,7 @@
       ];
     };
     smart-freeze-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smart-freeze-lua-1-1-1";
       indexName = "FTC Tools";
       categoryName = "Freeze";
@@ -3978,7 +3979,7 @@
       ];
     };
     nymphes-control-freak-jsfx-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nymphes-control-freak-jsfx-1-00";
       indexName = "FTC Tools";
       categoryName = "JSFX";
@@ -3992,7 +3993,7 @@
       ];
     };
     nymphes-control-freak-jsfx-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nymphes-control-freak-jsfx-2-00";
       indexName = "FTC Tools";
       categoryName = "JSFX";
@@ -4006,7 +4007,7 @@
       ];
     };
     nymphes-control-freak-jsfx-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nymphes-control-freak-jsfx-2-01";
       indexName = "FTC Tools";
       categoryName = "JSFX";
@@ -4020,7 +4021,7 @@
       ];
     };
     colorize-active-theme-to-match-unthemeable-areas-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "colorize-active-theme-to-match-unthemeable-areas-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "LibSwell Colorize";
@@ -4034,7 +4035,7 @@
       ];
     };
     colorize-active-theme-to-match-unthemeable-areas-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "colorize-active-theme-to-match-unthemeable-areas-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "LibSwell Colorize";
@@ -4048,7 +4049,7 @@
       ];
     };
     colorize-unthemeable-areas-to-match-active-theme-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "colorize-unthemeable-areas-to-match-active-theme-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "LibSwell Colorize";
@@ -4062,7 +4063,7 @@
       ];
     };
     colorize-unthemeable-areas-to-match-active-theme-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "colorize-unthemeable-areas-to-match-active-theme-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "LibSwell Colorize";
@@ -4076,7 +4077,7 @@
       ];
     };
     set-unthemeable-area-colors-override-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-unthemeable-area-colors-override-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "LibSwell Colorize";
@@ -4090,7 +4091,7 @@
       ];
     };
     mx-tuner-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4104,7 +4105,7 @@
       ];
     };
     mx-tuner-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4118,7 +4119,7 @@
       ];
     };
     mx-tuner-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4132,7 +4133,7 @@
       ];
     };
     mx-tuner-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4146,7 +4147,7 @@
       ];
     };
     mx-tuner-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-1-1";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4160,7 +4161,7 @@
       ];
     };
     mx-tuner-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-1-2";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4174,7 +4175,7 @@
       ];
     };
     mx-tuner-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-1-3";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4188,7 +4189,7 @@
       ];
     };
     mx-tuner-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4202,7 +4203,7 @@
       ];
     };
     mx-tuner-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-2-1";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4216,7 +4217,7 @@
       ];
     };
     mx-tuner-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-3-0";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4230,7 +4231,7 @@
       ];
     };
     mx-tuner-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-3-1";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4244,7 +4245,7 @@
       ];
     };
     mx-tuner-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-3-2";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4258,7 +4259,7 @@
       ];
     };
     mx-tuner-lua-1-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-3-3";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4272,7 +4273,7 @@
       ];
     };
     mx-tuner-lua-1-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-3-4";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4286,7 +4287,7 @@
       ];
     };
     mx-tuner-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-4-0";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4300,7 +4301,7 @@
       ];
     };
     mx-tuner-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-4-1";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4314,7 +4315,7 @@
       ];
     };
     mx-tuner-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-4-2";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4328,7 +4329,7 @@
       ];
     };
     mx-tuner-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-5-0";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4342,7 +4343,7 @@
       ];
     };
     mx-tuner-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-5-1";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4356,7 +4357,7 @@
       ];
     };
     mx-tuner-lua-1-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-5-2";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4370,7 +4371,7 @@
       ];
     };
     mx-tuner-lua-1-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-5-3";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4384,7 +4385,7 @@
       ];
     };
     mx-tuner-lua-1-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-5-4";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4398,7 +4399,7 @@
       ];
     };
     mx-tuner-lua-1-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-6-0";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4412,7 +4413,7 @@
       ];
     };
     mx-tuner-lua-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-6-1";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4426,7 +4427,7 @@
       ];
     };
     mx-tuner-lua-1-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-7-0";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4440,7 +4441,7 @@
       ];
     };
     mx-tuner-lua-1-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-7-1";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4454,7 +4455,7 @@
       ];
     };
     mx-tuner-lua-1-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-7-2";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4468,7 +4469,7 @@
       ];
     };
     mx-tuner-lua-1-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-7-3";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4482,7 +4483,7 @@
       ];
     };
     mx-tuner-lua-1-7-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-7-4";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4496,7 +4497,7 @@
       ];
     };
     mx-tuner-lua-1-8-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-8-0";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4510,7 +4511,7 @@
       ];
     };
     mx-tuner-lua-1-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-8-1";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4524,7 +4525,7 @@
       ];
     };
     mx-tuner-lua-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-8-2";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4538,7 +4539,7 @@
       ];
     };
     mx-tuner-lua-1-8-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-8-3";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4552,7 +4553,7 @@
       ];
     };
     mx-tuner-lua-1-8-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mx-tuner-lua-1-8-4";
       indexName = "FTC Tools";
       categoryName = "Media explorer";
@@ -4566,7 +4567,7 @@
       ];
     };
     lil-chordbox-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4580,7 +4581,7 @@
       ];
     };
     lil-chordbox-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4594,7 +4595,7 @@
       ];
     };
     lil-chordbox-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4608,7 +4609,7 @@
       ];
     };
     lil-chordbox-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-3-0";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4622,7 +4623,7 @@
       ];
     };
     lil-chordbox-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-3-1";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4636,7 +4637,7 @@
       ];
     };
     lil-chordbox-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-3-2";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4650,7 +4651,7 @@
       ];
     };
     lil-chordbox-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-4-0";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4664,7 +4665,7 @@
       ];
     };
     lil-chordbox-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-4-1";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4678,7 +4679,7 @@
       ];
     };
     lil-chordbox-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-5-0";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4692,7 +4693,7 @@
       ];
     };
     lil-chordbox-lua-1-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-6-0";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4706,7 +4707,7 @@
       ];
     };
     lil-chordbox-lua-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-6-1";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4720,7 +4721,7 @@
       ];
     };
     lil-chordbox-lua-1-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-6-2";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4734,7 +4735,7 @@
       ];
     };
     lil-chordbox-lua-1-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-6-3";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4748,7 +4749,7 @@
       ];
     };
     lil-chordbox-lua-1-6-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-6-4";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4762,7 +4763,7 @@
       ];
     };
     lil-chordbox-lua-1-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-6-5";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4776,7 +4777,7 @@
       ];
     };
     lil-chordbox-lua-1-6-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-6-6";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4790,7 +4791,7 @@
       ];
     };
     lil-chordbox-lua-1-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-7-0";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4804,7 +4805,7 @@
       ];
     };
     lil-chordbox-lua-1-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-7-1";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4818,7 +4819,7 @@
       ];
     };
     lil-chordbox-lua-1-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-7-2";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4832,7 +4833,7 @@
       ];
     };
     lil-chordbox-lua-1-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-7-3";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4846,7 +4847,7 @@
       ];
     };
     lil-chordbox-lua-1-8-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-1-8-0";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4860,7 +4861,7 @@
       ];
     };
     lil-chordbox-lua-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-2-0-0";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4874,7 +4875,7 @@
       ];
     };
     lil-chordbox-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-2-0-1";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4888,7 +4889,7 @@
       ];
     };
     lil-chordbox-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-2-0-2";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4902,7 +4903,7 @@
       ];
     };
     lil-chordbox-lua-2-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-2-0-3";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4916,7 +4917,7 @@
       ];
     };
     lil-chordbox-lua-2-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-2-0-4";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4930,7 +4931,7 @@
       ];
     };
     lil-chordbox-lua-2-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-2-0-5";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4944,7 +4945,7 @@
       ];
     };
     lil-chordbox-lua-2-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-2-0-6";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4958,7 +4959,7 @@
       ];
     };
     lil-chordbox-lua-2-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-2-0-7";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4972,7 +4973,7 @@
       ];
     };
     lil-chordbox-lua-2-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-2-0-8";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -4986,7 +4987,7 @@
       ];
     };
     lil-chordbox-lua-2-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-2-0-9";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -5000,7 +5001,7 @@
       ];
     };
     lil-chordbox-lua-2-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-chordbox-lua-2-1-0";
       indexName = "FTC Tools";
       categoryName = "MIDI editor";
@@ -5014,7 +5015,7 @@
       ];
     };
     ftc-memagic-bundle-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-bundle-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -5438,7 +5439,7 @@
       ];
     };
     ftc-memagic-bundle-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-bundle-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -5862,7 +5863,7 @@
       ];
     };
     ftc-memagic-bundle-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-bundle-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -6286,7 +6287,7 @@
       ];
     };
     ftc-memagic-bundle-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-bundle-lua-1-0-3";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -6710,7 +6711,7 @@
       ];
     };
     ftc-memagic-bundle-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-bundle-lua-1-0-4";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -7009,7 +7010,7 @@
       ];
     };
     ftc-memagic-bundle-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-bundle-lua-1-0-5";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -7308,7 +7309,7 @@
       ];
     };
     ftc-memagic-bundle-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-bundle-lua-1-0-6";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -7607,7 +7608,7 @@
       ];
     };
     ftc-memagic-bundle-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-bundle-lua-1-0-7";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -7906,7 +7907,7 @@
       ];
     };
     ftc-memagic-bundle-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-bundle-lua-1-0-8";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -8205,7 +8206,7 @@
       ];
     };
     ftc-memagic-bundle-lua-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-bundle-lua-1-0-9";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -8504,7 +8505,7 @@
       ];
     };
     ftc-memagic-bundle-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-bundle-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -8883,7 +8884,7 @@
       ];
     };
     ftc-memagic-bundle-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-bundle-lua-1-3-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9302,7 +9303,7 @@
       ];
     };
     ftc-memagic-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9316,7 +9317,7 @@
       ];
     };
     ftc-memagic-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9330,7 +9331,7 @@
       ];
     };
     ftc-memagic-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9344,7 +9345,7 @@
       ];
     };
     ftc-memagic-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-lua-1-0-3";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9358,7 +9359,7 @@
       ];
     };
     ftc-memagic-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-lua-1-0-4";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9372,7 +9373,7 @@
       ];
     };
     ftc-memagic-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-lua-1-0-5";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9386,7 +9387,7 @@
       ];
     };
     ftc-memagic-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-lua-1-0-6";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9400,7 +9401,7 @@
       ];
     };
     ftc-memagic-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-lua-1-0-7";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9414,7 +9415,7 @@
       ];
     };
     ftc-memagic-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-lua-1-0-8";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9428,7 +9429,7 @@
       ];
     };
     ftc-memagic-lua-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-lua-1-0-9";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9442,7 +9443,7 @@
       ];
     };
     ftc-memagic-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9456,7 +9457,7 @@
       ];
     };
     ftc-memagic-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9470,7 +9471,7 @@
       ];
     };
     ftc-memagic-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-memagic-lua-1-3-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9484,7 +9485,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9498,7 +9499,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9512,7 +9513,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9526,7 +9527,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-1-1";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9540,7 +9541,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-1-2";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9554,7 +9555,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-1-3";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9568,7 +9569,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-1-4";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9582,7 +9583,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-1-5";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9596,7 +9597,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9610,7 +9611,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-2-1";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9624,7 +9625,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-2-2";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9638,7 +9639,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-2-3";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9652,7 +9653,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-2-4";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9666,7 +9667,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-2-5";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9680,7 +9681,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-2-6";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9694,7 +9695,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-3-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9708,7 +9709,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-4-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9722,7 +9723,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-4-1";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9736,7 +9737,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-4-2";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9750,7 +9751,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-4-3";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9764,7 +9765,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-5-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9778,7 +9779,7 @@
       ];
     };
     ftc-multi-edit-scroll-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-scroll-lua-1-5-1";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9792,7 +9793,7 @@
       ];
     };
     ftc-multi-edit-zoom-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-zoom-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9806,7 +9807,7 @@
       ];
     };
     ftc-multi-edit-zoom-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-zoom-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9820,7 +9821,7 @@
       ];
     };
     ftc-multi-edit-zoom-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-zoom-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9834,7 +9835,7 @@
       ];
     };
     ftc-multi-edit-zoom-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-zoom-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9848,7 +9849,7 @@
       ];
     };
     ftc-multi-edit-zoom-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-zoom-lua-1-1-1";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9862,7 +9863,7 @@
       ];
     };
     ftc-multi-edit-zoom-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-zoom-lua-1-1-2";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9876,7 +9877,7 @@
       ];
     };
     ftc-multi-edit-zoom-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-zoom-lua-1-1-3";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9890,7 +9891,7 @@
       ];
     };
     ftc-multi-edit-zoom-lua-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-zoom-lua-1-1-4";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9904,7 +9905,7 @@
       ];
     };
     ftc-multi-edit-zoom-lua-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-zoom-lua-1-1-5";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9918,7 +9919,7 @@
       ];
     };
     ftc-multi-edit-zoom-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-zoom-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9932,7 +9933,7 @@
       ];
     };
     ftc-multi-edit-zoom-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-zoom-lua-1-5-0";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9946,7 +9947,7 @@
       ];
     };
     ftc-multi-edit-zoom-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-multi-edit-zoom-lua-1-5-1";
       indexName = "FTC Tools";
       categoryName = "MIDI Editor Magic";
@@ -9960,7 +9961,7 @@
       ];
     };
     create-an-approximate-razor-edit-from-region-under-mouse-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "create-an-approximate-razor-edit-from-region-under-mouse-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Mouse modifiers";
@@ -9974,7 +9975,7 @@
       ];
     };
     create-an-approximate-razor-edit-from-region-under-mouse-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "create-an-approximate-razor-edit-from-region-under-mouse-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "Mouse modifiers";
@@ -9988,7 +9989,7 @@
       ];
     };
     create-an-approximate-razor-edit-from-time-selection-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "create-an-approximate-razor-edit-from-time-selection-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Mouse modifiers";
@@ -10002,7 +10003,7 @@
       ];
     };
     create-an-approximate-razor-edit-from-time-selection-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "create-an-approximate-razor-edit-from-time-selection-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "Mouse modifiers";
@@ -10016,7 +10017,7 @@
       ];
     };
     remove-region-including-contents-ruler-alt-double-click-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "remove-region-including-contents-ruler-alt-double-click-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Mouse modifiers";
@@ -10030,7 +10031,7 @@
       ];
     };
     move-razor-edit-down-by-one-track-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "move-razor-edit-down-by-one-track-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Razor edits";
@@ -10044,7 +10045,7 @@
       ];
     };
     move-razor-edit-left-by-grid-size-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "move-razor-edit-left-by-grid-size-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Razor edits";
@@ -10058,7 +10059,7 @@
       ];
     };
     move-razor-edit-left-by-one-measure-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "move-razor-edit-left-by-one-measure-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Razor edits";
@@ -10072,7 +10073,7 @@
       ];
     };
     move-razor-edit-right-by-grid-size-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "move-razor-edit-right-by-grid-size-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Razor edits";
@@ -10086,7 +10087,7 @@
       ];
     };
     move-razor-edit-right-by-one-measure-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "move-razor-edit-right-by-one-measure-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Razor edits";
@@ -10100,7 +10101,7 @@
       ];
     };
     move-razor-edit-up-by-one-track-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "move-razor-edit-up-by-one-track-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Razor edits";
@@ -10114,7 +10115,7 @@
       ];
     };
     resize-razor-edit-down-by-one-track-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "resize-razor-edit-down-by-one-track-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Razor edits";
@@ -10128,7 +10129,7 @@
       ];
     };
     resize-razor-edit-left-by-grid-size-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "resize-razor-edit-left-by-grid-size-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Razor edits";
@@ -10142,7 +10143,7 @@
       ];
     };
     resize-razor-edit-left-by-one-measure-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "resize-razor-edit-left-by-one-measure-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Razor edits";
@@ -10156,7 +10157,7 @@
       ];
     };
     resize-razor-edit-right-by-grid-size-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "resize-razor-edit-right-by-grid-size-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Razor edits";
@@ -10170,7 +10171,7 @@
       ];
     };
     resize-razor-edit-right-by-one-measure-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "resize-razor-edit-right-by-one-measure-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Razor edits";
@@ -10184,7 +10185,7 @@
       ];
     };
     resize-razor-edit-up-by-one-track-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "resize-razor-edit-up-by-one-track-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Razor edits";
@@ -10198,7 +10199,7 @@
       ];
     };
     resize-razor-edit-up-by-one-track-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "resize-razor-edit-up-by-one-track-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Razor edits";
@@ -10212,7 +10213,7 @@
       ];
     };
     insert-media-into-sample-player-on-next-played-note-s-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insert-media-into-sample-player-on-next-played-note-s-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10226,7 +10227,7 @@
       ];
     };
     insert-media-into-sample-player-on-next-played-note-s-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insert-media-into-sample-player-on-next-played-note-s-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10240,7 +10241,7 @@
       ];
     };
     insert-media-into-sample-player-on-next-played-note-s-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insert-media-into-sample-player-on-next-played-note-s-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10254,7 +10255,7 @@
       ];
     };
     insert-media-into-sample-player-on-next-played-note-s-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insert-media-into-sample-player-on-next-played-note-s-lua-1-0-3";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10268,7 +10269,7 @@
       ];
     };
     insert-media-into-sample-player-on-next-played-note-s-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insert-media-into-sample-player-on-next-played-note-s-lua-1-0-4";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10282,7 +10283,7 @@
       ];
     };
     insert-media-into-sample-player-on-next-played-note-s-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insert-media-into-sample-player-on-next-played-note-s-lua-1-0-5";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10296,7 +10297,7 @@
       ];
     };
     insert-media-into-sample-player-on-next-played-note-s-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insert-media-into-sample-player-on-next-played-note-s-lua-1-0-6";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10310,7 +10311,7 @@
       ];
     };
     insert-media-into-sample-player-on-next-played-note-s-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insert-media-into-sample-player-on-next-played-note-s-lua-1-0-7";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10324,7 +10325,7 @@
       ];
     };
     insert-media-into-sample-player-on-next-played-note-s-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insert-media-into-sample-player-on-next-played-note-s-lua-1-0-8";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10338,7 +10339,7 @@
       ];
     };
     insert-media-into-sample-player-on-next-played-note-s-lua-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insert-media-into-sample-player-on-next-played-note-s-lua-1-0-9";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10352,7 +10353,7 @@
       ];
     };
     insert-media-into-sample-player-on-next-played-note-s-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "insert-media-into-sample-player-on-next-played-note-s-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10366,7 +10367,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10380,7 +10381,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10394,7 +10395,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10408,7 +10409,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10422,7 +10423,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-1-1";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10436,7 +10437,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-1-2";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10450,7 +10451,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-1-3";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10464,7 +10465,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-1-4";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10478,7 +10479,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-1-5";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10492,7 +10493,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-1-6";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10506,7 +10507,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-1-7";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10520,7 +10521,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10534,7 +10535,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-2-1";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10548,7 +10549,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-3-0";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10562,7 +10563,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-3-1";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10576,7 +10577,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-3-2";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10590,7 +10591,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-4-0";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10604,7 +10605,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-5-0";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10618,7 +10619,7 @@
       ];
     };
     link-media-explorer-to-active-sample-player-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "link-media-explorer-to-active-sample-player-lua-1-5-1";
       indexName = "FTC Tools";
       categoryName = "ReaSamplOmatic5000";
@@ -10632,7 +10633,7 @@
       ];
     };
     ftc-record-takes-without-new-splits-extend-items-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-record-takes-without-new-splits-extend-items-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Recording";
@@ -10646,7 +10647,7 @@
       ];
     };
     ftc-record-takes-without-new-splits-extend-items-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-record-takes-without-new-splits-extend-items-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Recording";
@@ -10660,7 +10661,7 @@
       ];
     };
     ftc-record-takes-without-new-splits-extend-items-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-record-takes-without-new-splits-extend-items-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "Recording";
@@ -10674,7 +10675,7 @@
       ];
     };
     ftc-record-takes-without-new-splits-extend-items-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-record-takes-without-new-splits-extend-items-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Recording";
@@ -10688,7 +10689,7 @@
       ];
     };
     ftc-record-takes-without-new-splits-extend-items-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-record-takes-without-new-splits-extend-items-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "Recording";
@@ -10702,7 +10703,7 @@
       ];
     };
     ftc-record-takes-without-new-splits-extend-items-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-record-takes-without-new-splits-extend-items-lua-1-2-1";
       indexName = "FTC Tools";
       categoryName = "Recording";
@@ -10716,7 +10717,7 @@
       ];
     };
     ftc-record-takes-without-new-splits-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-record-takes-without-new-splits-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Recording";
@@ -10730,7 +10731,7 @@
       ];
     };
     ftc-record-takes-without-new-splits-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-record-takes-without-new-splits-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Recording";
@@ -10744,7 +10745,7 @@
       ];
     };
     ftc-record-takes-without-new-splits-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-record-takes-without-new-splits-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "Recording";
@@ -10758,7 +10759,7 @@
       ];
     };
     ftc-record-takes-without-new-splits-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-record-takes-without-new-splits-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Recording";
@@ -10772,7 +10773,7 @@
       ];
     };
     ftc-record-takes-without-new-splits-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-record-takes-without-new-splits-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "Recording";
@@ -10786,7 +10787,7 @@
       ];
     };
     ftc-record-takes-without-new-splits-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-record-takes-without-new-splits-lua-1-2-1";
       indexName = "FTC Tools";
       categoryName = "Recording";
@@ -10800,7 +10801,7 @@
       ];
     };
     drag-amp-drop-lanes-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "drag-amp-drop-lanes-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -10814,7 +10815,7 @@
       ];
     };
     drag-amp-drop-lanes-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "drag-amp-drop-lanes-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -10828,7 +10829,7 @@
       ];
     };
     drag-amp-drop-lanes-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "drag-amp-drop-lanes-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -10842,7 +10843,7 @@
       ];
     };
     drag-amp-drop-lanes-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "drag-amp-drop-lanes-lua-1-0-3";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -10856,7 +10857,7 @@
       ];
     };
     drag-amp-drop-lanes-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "drag-amp-drop-lanes-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -10870,7 +10871,7 @@
       ];
     };
     ftc-side-mixer-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-side-mixer-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -10884,7 +10885,7 @@
       ];
     };
     ftc-side-mixer-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-side-mixer-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -10898,7 +10899,7 @@
       ];
     };
     ftc-side-mixer-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-side-mixer-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -10912,7 +10913,7 @@
       ];
     };
     ftc-solo-items-under-mouse-cursor-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-solo-items-under-mouse-cursor-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -10926,7 +10927,7 @@
       ];
     };
     ftc-split-selected-items-and-divide-midi-content-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-split-selected-items-and-divide-midi-content-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -10940,7 +10941,7 @@
       ];
     };
     ftc-split-selected-items-and-divide-midi-content-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-split-selected-items-and-divide-midi-content-lua-1-0-2";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -10954,7 +10955,7 @@
       ];
     };
     ftc-split-selected-items-and-divide-midi-content-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ftc-split-selected-items-and-divide-midi-content-lua-1-0-3";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -10968,7 +10969,7 @@
       ];
     };
     grab-arrange-view-scrollbars-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "grab-arrange-view-scrollbars-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -10982,7 +10983,7 @@
       ];
     };
     reaper-update-utility-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-0-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -10996,7 +10997,7 @@
       ];
     };
     reaper-update-utility-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-0-1";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11010,7 +11011,7 @@
       ];
     };
     reaper-update-utility-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-1-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11024,7 +11025,7 @@
       ];
     };
     reaper-update-utility-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-1-1";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11038,7 +11039,7 @@
       ];
     };
     reaper-update-utility-lua-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-2-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11052,7 +11053,7 @@
       ];
     };
     reaper-update-utility-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-2-1";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11066,7 +11067,7 @@
       ];
     };
     reaper-update-utility-lua-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-3-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11080,7 +11081,7 @@
       ];
     };
     reaper-update-utility-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-3-1";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11094,7 +11095,7 @@
       ];
     };
     reaper-update-utility-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-3-2";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11108,7 +11109,7 @@
       ];
     };
     reaper-update-utility-lua-1-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-3-3";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11122,7 +11123,7 @@
       ];
     };
     reaper-update-utility-lua-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-4-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11136,7 +11137,7 @@
       ];
     };
     reaper-update-utility-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-4-1";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11150,7 +11151,7 @@
       ];
     };
     reaper-update-utility-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-4-2";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11164,7 +11165,7 @@
       ];
     };
     reaper-update-utility-lua-1-5-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-5-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11178,7 +11179,7 @@
       ];
     };
     reaper-update-utility-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-5-1";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11192,7 +11193,7 @@
       ];
     };
     reaper-update-utility-lua-1-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-5-2";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11206,7 +11207,7 @@
       ];
     };
     reaper-update-utility-lua-1-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-5-3";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11220,7 +11221,7 @@
       ];
     };
     reaper-update-utility-lua-1-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-5-4";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11234,7 +11235,7 @@
       ];
     };
     reaper-update-utility-lua-1-5-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-5-5";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11248,7 +11249,7 @@
       ];
     };
     reaper-update-utility-lua-1-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-6-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11262,7 +11263,7 @@
       ];
     };
     reaper-update-utility-lua-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-6-1";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11276,7 +11277,7 @@
       ];
     };
     reaper-update-utility-lua-1-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-6-2";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11290,7 +11291,7 @@
       ];
     };
     reaper-update-utility-lua-1-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-6-3";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11304,7 +11305,7 @@
       ];
     };
     reaper-update-utility-lua-1-6-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-6-4";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11318,7 +11319,7 @@
       ];
     };
     reaper-update-utility-lua-1-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-6-5";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11332,7 +11333,7 @@
       ];
     };
     reaper-update-utility-lua-1-6-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-6-6";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11346,7 +11347,7 @@
       ];
     };
     reaper-update-utility-lua-1-6-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-6-7";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11360,7 +11361,7 @@
       ];
     };
     reaper-update-utility-lua-1-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-7-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11374,7 +11375,7 @@
       ];
     };
     reaper-update-utility-lua-1-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-7-1";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11388,7 +11389,7 @@
       ];
     };
     reaper-update-utility-lua-1-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-7-2";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11402,7 +11403,7 @@
       ];
     };
     reaper-update-utility-lua-1-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-7-3";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11416,7 +11417,7 @@
       ];
     };
     reaper-update-utility-lua-1-7-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-7-4";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11430,7 +11431,7 @@
       ];
     };
     reaper-update-utility-lua-1-7-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-7-5";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11444,7 +11445,7 @@
       ];
     };
     reaper-update-utility-lua-1-7-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-7-6";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11458,7 +11459,7 @@
       ];
     };
     reaper-update-utility-lua-1-7-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-7-7";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11472,7 +11473,7 @@
       ];
     };
     reaper-update-utility-lua-1-8-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-8-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11486,7 +11487,7 @@
       ];
     };
     reaper-update-utility-lua-1-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-8-1";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11500,7 +11501,7 @@
       ];
     };
     reaper-update-utility-lua-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-8-2";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11514,7 +11515,7 @@
       ];
     };
     reaper-update-utility-lua-1-8-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-8-3";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11528,7 +11529,7 @@
       ];
     };
     reaper-update-utility-lua-1-8-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-8-4";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11542,7 +11543,7 @@
       ];
     };
     reaper-update-utility-lua-1-8-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-8-5";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11556,7 +11557,7 @@
       ];
     };
     reaper-update-utility-lua-1-8-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-8-6";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11570,7 +11571,7 @@
       ];
     };
     reaper-update-utility-lua-1-8-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-8-7";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11584,7 +11585,7 @@
       ];
     };
     reaper-update-utility-lua-1-8-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-8-8";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11598,7 +11599,7 @@
       ];
     };
     reaper-update-utility-lua-1-8-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-8-9";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11612,7 +11613,7 @@
       ];
     };
     reaper-update-utility-lua-1-9-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-9-0";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11626,7 +11627,7 @@
       ];
     };
     reaper-update-utility-lua-1-9-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-9-1";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11640,7 +11641,7 @@
       ];
     };
     reaper-update-utility-lua-1-9-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-9-2";
       indexName = "FTC Tools";
       categoryName = "Various";
@@ -11654,7 +11655,7 @@
       ];
     };
     reaper-update-utility-lua-1-9-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaper-update-utility-lua-1-9-3";
       indexName = "FTC Tools";
       categoryName = "Various";

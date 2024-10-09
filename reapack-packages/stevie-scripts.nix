@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   stevie-scripts = {
     sr-remove-send-from-selected-track-s-bundle-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-remove-send-from-selected-track-s-bundle-lua-1-3";
       indexName = "Stevie Scripts";
       categoryName = "FX/Remove send from selected track(s) (bundle)";
@@ -44,7 +45,7 @@
       ];
     };
     sr-send-selected-track-s-to-bus-and-remove-master-send-bundle-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-send-selected-track-s-to-bus-and-remove-master-send-bundle-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "FX/Send selected track(s) to BUS and remove master send (bundle)";
@@ -143,7 +144,7 @@
       ];
     };
     sr-send-selected-track-s-to-fx-track-bundle-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-send-selected-track-s-to-fx-track-bundle-lua-1-3";
       indexName = "Stevie Scripts";
       categoryName = "FX/Send selected track(s) to FX track (bundle)";
@@ -182,7 +183,7 @@
       ];
     };
     sr-toggle-show-ui-of-all-fx-in-send-bundle-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-toggle-show-ui-of-all-fx-in-send-bundle-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "FX/Toggle show UI of all FX in send (bundle)";
@@ -221,7 +222,7 @@
       ];
     };
     sr-toggle-show-ui-of-all-fx-in-send-track-with-prefix-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-toggle-show-ui-of-all-fx-in-send-track-with-prefix-bundle-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "FX/Toggle show UI of all FX in send track with prefix (bundle)";
@@ -260,7 +261,7 @@
       ];
     };
     sr-align-selected-item-s-to-item-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-align-selected-item-s-to-item-under-mouse-cursor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Items Editing";
@@ -274,7 +275,7 @@
       ];
     };
     sr-move-items-to-timecode-in-filename-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-items-to-timecode-in-filename-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Items Editing";
@@ -288,7 +289,7 @@
       ];
     };
     sr-move-items-to-timecode-in-filename-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-items-to-timecode-in-filename-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "Items Editing";
@@ -302,7 +303,7 @@
       ];
     };
     sr-move-items-to-timecode-in-filename-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-items-to-timecode-in-filename-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "Items Editing";
@@ -316,7 +317,7 @@
       ];
     };
     sr-move-items-to-timecode-in-filename-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-items-to-timecode-in-filename-lua-1-3";
       indexName = "Stevie Scripts";
       categoryName = "Items Editing";
@@ -330,7 +331,7 @@
       ];
     };
     sr-move-items-to-timecode-in-filename-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-items-to-timecode-in-filename-lua-1-31";
       indexName = "Stevie Scripts";
       categoryName = "Items Editing";
@@ -344,7 +345,7 @@
       ];
     };
     sr-open-midi-editor-and-zoom-to-5-measures-zoom-center-is-edit-cursor-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-open-midi-editor-and-zoom-to-5-measures-zoom-center-is-edit-cursor-lua-1-12";
       indexName = "Stevie Scripts";
       categoryName = "Items Editing";
@@ -358,7 +359,7 @@
       ];
     };
     sr-open-midi-editor-and-zoom-to-content-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-open-midi-editor-and-zoom-to-content-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Items Editing";
@@ -372,7 +373,7 @@
       ];
     };
     sr-open-midi-editor-and-zoom-to-content-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-open-midi-editor-and-zoom-to-content-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "Items Editing";
@@ -386,7 +387,7 @@
       ];
     };
     sr-render-vsti-item-s-without-track-fx-and-delete-midi-take-s-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-render-vsti-item-s-without-track-fx-and-delete-midi-take-s-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "Items Editing";
@@ -400,7 +401,7 @@
       ];
     };
     sr-render-vsti-item-s-without-track-fx-and-delete-midi-take-s-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-render-vsti-item-s-without-track-fx-and-delete-midi-take-s-lua-1-11";
       indexName = "Stevie Scripts";
       categoryName = "Items Editing";
@@ -414,7 +415,7 @@
       ];
     };
     sr-render-vsti-item-s-without-track-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-render-vsti-item-s-without-track-fx-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Items Editing";
@@ -428,7 +429,7 @@
       ];
     };
     sr-trim-head-of-item-s-and-delete-item-s-before-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-trim-head-of-item-s-and-delete-item-s-before-mouse-cursor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Items Editing";
@@ -442,7 +443,7 @@
       ];
     };
     sr-trim-tail-of-item-s-and-delete-item-s-after-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-trim-tail-of-item-s-and-delete-item-s-after-mouse-cursor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Items Editing";
@@ -456,7 +457,7 @@
       ];
     };
     sr-set-end-marker-at-cursor-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-set-end-marker-at-cursor-position-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Markers";
@@ -470,7 +471,7 @@
       ];
     };
     sr-set-start-marker-at-cursor-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-set-start-marker-at-cursor-position-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Markers";
@@ -484,7 +485,7 @@
       ];
     };
     sr-change-note-length-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-length-mousewheel-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -498,7 +499,7 @@
       ];
     };
     sr-change-note-length-mousewheel-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-length-mousewheel-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -512,7 +513,7 @@
       ];
     };
     sr-change-note-length-mousewheel-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-length-mousewheel-lua-1-11";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -526,7 +527,7 @@
       ];
     };
     sr-change-note-length-mousewheel-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-length-mousewheel-lua-1-12";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -540,7 +541,7 @@
       ];
     };
     sr-change-note-length-mousewheel-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-length-mousewheel-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -554,7 +555,7 @@
       ];
     };
     sr-change-note-length-mousewheel-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-length-mousewheel-lua-1-21";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -568,7 +569,7 @@
       ];
     };
     sr-change-note-position-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-mousewheel-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -582,7 +583,7 @@
       ];
     };
     sr-change-note-position-mousewheel-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-mousewheel-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -596,7 +597,7 @@
       ];
     };
     sr-change-note-position-mousewheel-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-mousewheel-lua-1-11";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -610,7 +611,7 @@
       ];
     };
     sr-change-note-position-mousewheel-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-mousewheel-lua-1-12";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -624,7 +625,7 @@
       ];
     };
     sr-change-note-position-mousewheel-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-mousewheel-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -638,7 +639,7 @@
       ];
     };
     sr-change-note-position-mousewheel-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-mousewheel-lua-1-21";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -652,7 +653,7 @@
       ];
     };
     sr-change-note-position-by-grid-no-quantize-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-by-grid-no-quantize-mousewheel-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -666,7 +667,7 @@
       ];
     };
     sr-change-note-position-by-grid-no-quantize-mousewheel-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-by-grid-no-quantize-mousewheel-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -680,7 +681,7 @@
       ];
     };
     sr-change-note-position-by-grid-no-quantize-mousewheel-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-by-grid-no-quantize-mousewheel-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -694,7 +695,7 @@
       ];
     };
     sr-change-note-position-by-grid-no-quantize-mousewheel-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-by-grid-no-quantize-mousewheel-lua-1-21";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -708,7 +709,7 @@
       ];
     };
     sr-change-note-position-by-grid-quantize-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-by-grid-quantize-mousewheel-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -722,7 +723,7 @@
       ];
     };
     sr-change-note-position-by-grid-quantize-mousewheel-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-by-grid-quantize-mousewheel-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -736,7 +737,7 @@
       ];
     };
     sr-change-note-position-by-grid-quantize-mousewheel-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-by-grid-quantize-mousewheel-lua-1-21";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -750,7 +751,7 @@
       ];
     };
     sr-change-note-position-to-grid-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-to-grid-mousewheel-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -764,7 +765,7 @@
       ];
     };
     sr-change-note-position-to-grid-mousewheel-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-to-grid-mousewheel-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -778,7 +779,7 @@
       ];
     };
     sr-change-note-position-to-grid-mousewheel-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-to-grid-mousewheel-lua-1-12";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -792,7 +793,7 @@
       ];
     };
     sr-change-note-position-to-grid-mousewheel-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-to-grid-mousewheel-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -806,7 +807,7 @@
       ];
     };
     sr-change-note-position-to-grid-mousewheel-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-to-grid-mousewheel-lua-1-20";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -820,7 +821,7 @@
       ];
     };
     sr-change-note-position-to-grid-mousewheel-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-to-grid-mousewheel-lua-1-21";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -834,7 +835,7 @@
       ];
     };
     sr-change-note-position-to-grid-mousewheel-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-position-to-grid-mousewheel-lua-1-30";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -848,7 +849,7 @@
       ];
     };
     sr-change-note-start-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-start-mousewheel-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -862,7 +863,7 @@
       ];
     };
     sr-change-note-start-mousewheel-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-start-mousewheel-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -876,7 +877,7 @@
       ];
     };
     sr-change-note-start-mousewheel-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-start-mousewheel-lua-1-11";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -890,7 +891,7 @@
       ];
     };
     sr-change-note-start-mousewheel-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-start-mousewheel-lua-1-12";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -904,7 +905,7 @@
       ];
     };
     sr-change-note-start-mousewheel-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-start-mousewheel-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -918,7 +919,7 @@
       ];
     };
     sr-copy-selected-cc-events-to-lane-under-mouse-cursor-at-mouse-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-copy-selected-cc-events-to-lane-under-mouse-cursor-at-mouse-position-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -932,7 +933,7 @@
       ];
     };
     sr-copy-selected-cc-events-to-lane-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-copy-selected-cc-events-to-lane-under-mouse-cursor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -946,7 +947,7 @@
       ];
     };
     sr-decrease-events-in-cc-lane-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-decrease-events-in-cc-lane-under-mouse-cursor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -960,7 +961,7 @@
       ];
     };
     sr-delete-all-ccs-not-attached-to-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-all-ccs-not-attached-to-notes-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -974,7 +975,7 @@
       ];
     };
     sr-delete-all-events-in-cc-lane-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-all-events-in-cc-lane-under-mouse-cursor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -988,7 +989,7 @@
       ];
     };
     sr-delete-notes-after-edit-cursor-in-selected-item-s-or-midi-editor-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-notes-after-edit-cursor-in-selected-item-s-or-midi-editor-lua-1-3";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1002,7 +1003,7 @@
       ];
     };
     sr-delete-notes-after-edit-cursor-in-selected-item-s-or-midi-editor-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-notes-after-edit-cursor-in-selected-item-s-or-midi-editor-lua-1-31";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1016,7 +1017,7 @@
       ];
     };
     sr-delete-notes-after-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-notes-after-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1030,7 +1031,7 @@
       ];
     };
     sr-delete-notes-before-edit-cursor-in-selected-item-s-or-midi-editor-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-notes-before-edit-cursor-in-selected-item-s-or-midi-editor-lua-1-31";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1044,7 +1045,7 @@
       ];
     };
     sr-delete-notes-before-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-notes-before-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1058,7 +1059,7 @@
       ];
     };
     sr-delete-short-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-short-notes-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1072,7 +1073,7 @@
       ];
     };
     sr-delete-short-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-short-notes-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1086,7 +1087,7 @@
       ];
     };
     sr-delete-short-notes-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-short-notes-lua-1-12";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1100,7 +1101,7 @@
       ];
     };
     sr-delete-short-notes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-short-notes-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1114,7 +1115,7 @@
       ];
     };
     sr-delete-short-notes-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-short-notes-lua-1-21";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1128,7 +1129,7 @@
       ];
     };
     sr-increase-events-in-cc-lane-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-increase-events-in-cc-lane-under-mouse-cursor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1142,7 +1143,7 @@
       ];
     };
     sr-move-legato-point-of-2-selected-notes-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-legato-point-of-2-selected-notes-mousewheel-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1156,7 +1157,7 @@
       ];
     };
     sr-move-notes-to-edit-cursor-relative-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-notes-to-edit-cursor-relative-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1170,7 +1171,7 @@
       ];
     };
     sr-move-notes-to-edit-cursor-relative-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-notes-to-edit-cursor-relative-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1184,7 +1185,7 @@
       ];
     };
     sr-move-notes-to-edit-cursor-relative-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-notes-to-edit-cursor-relative-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1198,7 +1199,7 @@
       ];
     };
     sr-move-notes-to-edit-cursor-relative-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-notes-to-edit-cursor-relative-lua-1-3";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1212,7 +1213,7 @@
       ];
     };
     sr-move-selected-cc-events-to-lane-under-mouse-cursor-at-mouse-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-selected-cc-events-to-lane-under-mouse-cursor-at-mouse-position-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1226,7 +1227,7 @@
       ];
     };
     sr-move-selected-cc-events-to-lane-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-selected-cc-events-to-lane-under-mouse-cursor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1240,7 +1241,7 @@
       ];
     };
     sr-mute-notes-after-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-mute-notes-after-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1254,7 +1255,7 @@
       ];
     };
     sr-mute-notes-before-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-mute-notes-before-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1268,7 +1269,7 @@
       ];
     };
     sr-restore-midi-editor-grid-setting-from-project-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-restore-midi-editor-grid-setting-from-project-file-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1282,7 +1283,7 @@
       ];
     };
     sr-restore-midi-editor-grid-setting-from-project-file-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-restore-midi-editor-grid-setting-from-project-file-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1296,7 +1297,7 @@
       ];
     };
     sr-save-midi-editor-grid-setting-in-project-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-save-midi-editor-grid-setting-in-project-file-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1310,7 +1311,7 @@
       ];
     };
     sr-save-midi-editor-grid-setting-in-project-file-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-save-midi-editor-grid-setting-in-project-file-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1324,7 +1325,7 @@
       ];
     };
     sr-select-all-ccs-after-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-all-ccs-after-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1338,7 +1339,7 @@
       ];
     };
     sr-select-all-ccs-before-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-all-ccs-before-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1352,7 +1353,7 @@
       ];
     };
     sr-select-all-events-in-cc-lane-after-and-under-mouse-cursor-exclusive-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-all-events-in-cc-lane-after-and-under-mouse-cursor-exclusive-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1366,7 +1367,7 @@
       ];
     };
     sr-select-all-events-in-cc-lane-after-and-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-all-events-in-cc-lane-after-and-under-mouse-cursor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1380,7 +1381,7 @@
       ];
     };
     sr-select-all-events-in-cc-lane-before-and-under-mouse-cursor-exclusive-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-all-events-in-cc-lane-before-and-under-mouse-cursor-exclusive-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1394,7 +1395,7 @@
       ];
     };
     sr-select-all-events-in-cc-lane-before-and-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-all-events-in-cc-lane-before-and-under-mouse-cursor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1408,7 +1409,7 @@
       ];
     };
     sr-select-all-events-in-cc-lane-under-mouse-cursor-exclusive-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-all-events-in-cc-lane-under-mouse-cursor-exclusive-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1422,7 +1423,7 @@
       ];
     };
     sr-select-all-events-in-cc-lane-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-all-events-in-cc-lane-under-mouse-cursor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1436,7 +1437,7 @@
       ];
     };
     sr-select-notes-after-edit-cursor-in-selected-item-s-or-midi-editor-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-notes-after-edit-cursor-in-selected-item-s-or-midi-editor-lua-1-3";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1450,7 +1451,7 @@
       ];
     };
     sr-select-notes-after-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-notes-after-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1464,7 +1465,7 @@
       ];
     };
     sr-select-notes-after-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-notes-after-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-01";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1478,7 +1479,7 @@
       ];
     };
     sr-select-notes-and-all-ccs-after-edit-cursor-in-selected-item-s-or-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-notes-and-all-ccs-after-edit-cursor-in-selected-item-s-or-midi-editor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1492,7 +1493,7 @@
       ];
     };
     sr-select-notes-and-all-ccs-before-edit-cursor-in-selected-item-s-or-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-notes-and-all-ccs-before-edit-cursor-in-selected-item-s-or-midi-editor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1506,7 +1507,7 @@
       ];
     };
     sr-select-notes-before-edit-cursor-in-selected-item-s-or-midi-editor-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-notes-before-edit-cursor-in-selected-item-s-or-midi-editor-lua-1-3";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1520,7 +1521,7 @@
       ];
     };
     sr-select-notes-before-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-notes-before-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1534,7 +1535,7 @@
       ];
     };
     sr-select-notes-before-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-notes-before-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-01";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1548,7 +1549,7 @@
       ];
     };
     sr-select-notes-under-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-notes-under-edit-cursor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1562,7 +1563,7 @@
       ];
     };
     sr-select-notes-under-edit-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-notes-under-edit-cursor-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1576,7 +1577,7 @@
       ];
     };
     sr-set-edit-cursor-to-first-note-in-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-set-edit-cursor-to-first-note-in-selected-items-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1590,7 +1591,7 @@
       ];
     };
     sr-set-edit-cursor-to-last-note-in-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-set-edit-cursor-to-last-note-in-selected-items-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1604,7 +1605,7 @@
       ];
     };
     sr-set-edit-cursor-to-last-note-in-selected-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-set-edit-cursor-to-last-note-in-selected-items-lua-1-01";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1618,7 +1619,7 @@
       ];
     };
     sr-toggle-select-all-events-in-cc-lane-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-toggle-select-all-events-in-cc-lane-under-mouse-cursor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1632,7 +1633,7 @@
       ];
     };
     sr-trim-head-of-note-s-at-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-trim-head-of-note-s-at-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1646,7 +1647,7 @@
       ];
     };
     sr-trim-head-of-note-s-at-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-trim-head-of-note-s-at-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1660,7 +1661,7 @@
       ];
     };
     sr-trim-tail-of-note-s-at-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-trim-tail-of-note-s-at-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1674,7 +1675,7 @@
       ];
     };
     sr-trim-tail-of-note-s-at-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-trim-tail-of-note-s-at-mouse-cursor-in-take-under-mouse-or-in-midi-editor-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1688,7 +1689,7 @@
       ];
     };
     sr-velocity-crescendo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-velocity-crescendo-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1702,7 +1703,7 @@
       ];
     };
     sr-velocity-crescendo-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-velocity-crescendo-lua-1-01";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1716,7 +1717,7 @@
       ];
     };
     sr-velocity-decrescendo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-velocity-decrescendo-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1730,7 +1731,7 @@
       ];
     };
     sr-velocity-decrescendo-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-velocity-decrescendo-lua-1-01";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1744,7 +1745,7 @@
       ];
     };
     sr-zoom-midi-editor-to-content-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-zoom-midi-editor-to-content-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1758,7 +1759,7 @@
       ];
     };
     sr-zoom-midi-editor-to-content-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-zoom-midi-editor-to-content-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor";
@@ -1772,7 +1773,7 @@
       ];
     };
     sr-add-notes-interval-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-add-notes-interval-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Add notes interval (bundle)";
@@ -1811,7 +1812,7 @@
       ];
     };
     sr-add-notes-interval-bundle-lua-1-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-add-notes-interval-bundle-lua-1-70";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Add notes interval (bundle)";
@@ -1850,7 +1851,7 @@
       ];
     };
     sr-add-notes-interval-bundle-lua-1-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-add-notes-interval-bundle-lua-1-71";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Add notes interval (bundle)";
@@ -1889,7 +1890,7 @@
       ];
     };
     sr-change-note-length-by-ticks-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-length-by-ticks-bundle-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Change note length by ticks (bundle)";
@@ -1918,7 +1919,7 @@
       ];
     };
     sr-change-note-length-by-ticks-bundle-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-note-length-by-ticks-bundle-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Change note length by ticks (bundle)";
@@ -1947,7 +1948,7 @@
       ];
     };
     sr-change-velocity-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-velocity-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Change velocity (bundle)";
@@ -2006,7 +2007,7 @@
       ];
     };
     sr-change-velocity-bundle-lua-1-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-velocity-bundle-lua-1-70";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Change velocity (bundle)";
@@ -2065,7 +2066,7 @@
       ];
     };
     sr-change-velocity-bundle-lua-1-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-change-velocity-bundle-lua-1-71";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Change velocity (bundle)";
@@ -2124,7 +2125,7 @@
       ];
     };
     sr-copy-cc-to-cc-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-copy-cc-to-cc-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Copy CC to CC (bundle)";
@@ -2203,7 +2204,7 @@
       ];
     };
     sr-copy-cc-to-cc-bundle-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-copy-cc-to-cc-bundle-lua-1-61";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Copy CC to CC (bundle)";
@@ -2282,7 +2283,7 @@
       ];
     };
     sr-decrease-cc-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-decrease-cc-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Decrease CC (bundle)";
@@ -2321,7 +2322,7 @@
       ];
     };
     sr-decrease-cc-bundle-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-decrease-cc-bundle-lua-1-61";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Decrease CC (bundle)";
@@ -2360,7 +2361,7 @@
       ];
     };
     sr-delete-cc-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-cc-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Delete CC (bundle)";
@@ -2409,7 +2410,7 @@
       ];
     };
     sr-delete-cc-bundle-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-cc-bundle-lua-1-61";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Delete CC (bundle)";
@@ -2458,7 +2459,7 @@
       ];
     };
     sr-delete-cc-after-edit-cursor-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-cc-after-edit-cursor-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Delete CC after edit cursor (bundle)";
@@ -2507,7 +2508,7 @@
       ];
     };
     sr-delete-cc-after-edit-cursor-bundle-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-cc-after-edit-cursor-bundle-lua-1-61";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Delete CC after edit cursor (bundle)";
@@ -2556,7 +2557,7 @@
       ];
     };
     sr-delete-cc-before-edit-cursor-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-cc-before-edit-cursor-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Delete CC before edit cursor (bundle)";
@@ -2605,7 +2606,7 @@
       ];
     };
     sr-delete-cc-before-edit-cursor-bundle-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-delete-cc-before-edit-cursor-bundle-lua-1-61";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Delete CC before edit cursor (bundle)";
@@ -2654,7 +2655,7 @@
       ];
     };
     sr-human-quantize-notes-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-human-quantize-notes-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Human quantize notes (bundle)";
@@ -2718,7 +2719,7 @@
       ];
     };
     sr-increase-cc-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-increase-cc-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Increase CC (bundle)";
@@ -2757,7 +2758,7 @@
       ];
     };
     sr-increase-cc-bundle-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-increase-cc-bundle-lua-1-61";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Increase CC (bundle)";
@@ -2796,7 +2797,7 @@
       ];
     };
     sr-move-cc-to-cc-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-cc-to-cc-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Move CC to CC (bundle)";
@@ -2875,7 +2876,7 @@
       ];
     };
     sr-move-cc-to-cc-bundle-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-cc-to-cc-bundle-lua-1-61";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Move CC to CC (bundle)";
@@ -2954,7 +2955,7 @@
       ];
     };
     sr-nudge-note-end-left-to-previous-grid-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-nudge-note-end-left-to-previous-grid-bundle-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Nudge note end left to previous grid (bundle)";
@@ -3018,7 +3019,7 @@
       ];
     };
     sr-nudge-note-end-right-to-next-grid-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-nudge-note-end-right-to-next-grid-bundle-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Nudge note end right to next grid (bundle)";
@@ -3082,7 +3083,7 @@
       ];
     };
     sr-nudge-note-start-left-to-previous-grid-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-nudge-note-start-left-to-previous-grid-bundle-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Nudge note start left to previous grid (bundle)";
@@ -3146,7 +3147,7 @@
       ];
     };
     sr-nudge-note-start-right-to-next-grid-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-nudge-note-start-right-to-next-grid-bundle-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Nudge note start right to next grid (bundle)";
@@ -3210,7 +3211,7 @@
       ];
     };
     sr-nudge-notes-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-nudge-notes-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Nudge notes (bundle)";
@@ -3239,7 +3240,7 @@
       ];
     };
     sr-nudge-notes-bundle-lua-1-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-nudge-notes-bundle-lua-1-70";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Nudge notes (bundle)";
@@ -3268,7 +3269,7 @@
       ];
     };
     sr-quantize-note-end-to-closest-grid-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-quantize-note-end-to-closest-grid-bundle-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Quantize note end to closest grid (bundle)";
@@ -3332,7 +3333,7 @@
       ];
     };
     sr-quantize-note-end-to-closest-grid-bundle-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-quantize-note-end-to-closest-grid-bundle-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Quantize note end to closest grid (bundle)";
@@ -3396,7 +3397,7 @@
       ];
     };
     sr-quantize-note-start-to-closest-grid-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-quantize-note-start-to-closest-grid-bundle-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Quantize note start to closest grid (bundle)";
@@ -3460,7 +3461,7 @@
       ];
     };
     sr-quantize-notes-bundle-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-quantize-notes-bundle-lua-2-02";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Quantize notes (bundle)";
@@ -3599,7 +3600,7 @@
       ];
     };
     sr-quantize-notes-bundle-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-quantize-notes-bundle-lua-2-03";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Quantize notes (bundle)";
@@ -3738,7 +3739,7 @@
       ];
     };
     sr-quantize-notes-bundle-lua-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-quantize-notes-bundle-lua-2-10";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Quantize notes (bundle)";
@@ -3877,7 +3878,7 @@
       ];
     };
     sr-quantize-notes-bundle-lua-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-quantize-notes-bundle-lua-2-11";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Quantize notes (bundle)";
@@ -4016,7 +4017,7 @@
       ];
     };
     sr-quantize-notes-bundle-lua-2-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-quantize-notes-bundle-lua-2-12";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Quantize notes (bundle)";
@@ -4155,7 +4156,7 @@
       ];
     };
     sr-quantize-notes-bundle-lua-2-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-quantize-notes-bundle-lua-2-13";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Quantize notes (bundle)";
@@ -4294,7 +4295,7 @@
       ];
     };
     sr-quantize-notes-bundle-lua-2-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-quantize-notes-bundle-lua-2-14";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Quantize notes (bundle)";
@@ -4433,7 +4434,7 @@
       ];
     };
     sr-quantize-notes-bundle-lua-2-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-quantize-notes-bundle-lua-2-50";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Quantize notes (bundle)";
@@ -4572,7 +4573,7 @@
       ];
     };
     sr-quantize-notes-bundle-lua-2-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-quantize-notes-bundle-lua-2-51";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Quantize notes (bundle)";
@@ -4711,7 +4712,7 @@
       ];
     };
     sr-select-cc-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-cc-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Select CC (bundle)";
@@ -4760,7 +4761,7 @@
       ];
     };
     sr-select-cc-bundle-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-cc-bundle-lua-1-61";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Select CC (bundle)";
@@ -4809,7 +4810,7 @@
       ];
     };
     sr-select-cc-after-edit-cursor-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-cc-after-edit-cursor-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Select CC after edit cursor (bundle)";
@@ -4858,7 +4859,7 @@
       ];
     };
     sr-select-cc-after-edit-cursor-bundle-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-cc-after-edit-cursor-bundle-lua-1-61";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Select CC after edit cursor (bundle)";
@@ -4907,7 +4908,7 @@
       ];
     };
     sr-select-cc-before-edit-cursor-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-cc-before-edit-cursor-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Select CC before edit cursor (bundle)";
@@ -4956,7 +4957,7 @@
       ];
     };
     sr-select-cc-before-edit-cursor-bundle-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-cc-before-edit-cursor-bundle-lua-1-61";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Select CC before edit cursor (bundle)";
@@ -5005,7 +5006,7 @@
       ];
     };
     sr-select-cc-within-note-selection-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-cc-within-note-selection-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Select CC within note selection (bundle)";
@@ -5049,7 +5050,7 @@
       ];
     };
     sr-select-cc-within-note-selection-bundle-lua-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-cc-within-note-selection-bundle-lua-1-61";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Select CC within note selection (bundle)";
@@ -5093,7 +5094,7 @@
       ];
     };
     sr-toggle-select-cc-bundle-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-toggle-select-cc-bundle-lua-1-00";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Toggle select CC (bundle)";
@@ -5142,7 +5143,7 @@
       ];
     };
     sr-toggle-select-cc-bundle-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-toggle-select-cc-bundle-lua-1-01";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Toggle select CC (bundle)";
@@ -5191,7 +5192,7 @@
       ];
     };
     sr-transpose-notes-bundle-lua-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-transpose-notes-bundle-lua-1-60";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Transpose notes (bundle)";
@@ -5330,7 +5331,7 @@
       ];
     };
     sr-transpose-notes-bundle-lua-1-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-transpose-notes-bundle-lua-1-71";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Transpose notes (bundle)";
@@ -5469,7 +5470,7 @@
       ];
     };
     sr-transpose-notes-bundle-lua-1-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-transpose-notes-bundle-lua-1-72";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Transpose notes (bundle)";
@@ -5608,7 +5609,7 @@
       ];
     };
     sr-transpose-notes-bundle-lua-1-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-transpose-notes-bundle-lua-1-73";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Transpose notes (bundle)";
@@ -5747,7 +5748,7 @@
       ];
     };
     sr-transpose-notes-bundle-lua-1-74 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-transpose-notes-bundle-lua-1-74";
       indexName = "Stevie Scripts";
       categoryName = "MIDI Editor/Transpose notes (bundle)";
@@ -5886,7 +5887,7 @@
       ];
     };
     sr-copy-and-paste-timecode-at-edit-cursor-bundle-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-copy-and-paste-timecode-at-edit-cursor-bundle-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Project Properties/Copy and Paste timecode at edit cursor (bundle)";
@@ -5910,7 +5911,7 @@
       ];
     };
     sr-set-start-and-end-marker-to-items-in-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-set-start-and-end-marker-to-items-in-project-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Regions";
@@ -5924,7 +5925,7 @@
       ];
     };
     sr-insert-signature-based-on-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-insert-signature-based-on-time-selection-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Tempo and Time Signature";
@@ -5938,7 +5939,7 @@
       ];
     };
     sr-insert-signature-based-on-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-insert-signature-based-on-time-selection-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "Tempo and Time Signature";
@@ -5952,7 +5953,7 @@
       ];
     };
     sr-hide-tracks-without-items-tcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-hide-tracks-without-items-tcp-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Tracks Properties";
@@ -5966,7 +5967,7 @@
       ];
     };
     sr-hide-tracks-without-items-and-ignore-folder-tracks-tcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-hide-tracks-without-items-and-ignore-folder-tracks-tcp-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Tracks Properties";
@@ -5980,7 +5981,7 @@
       ];
     };
     sr-toggle-collapse-selected-folders-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-toggle-collapse-selected-folders-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Tracks Properties";
@@ -5994,7 +5995,7 @@
       ];
     };
     sr-add-or-replace-vsti-bundle-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-add-or-replace-vsti-bundle-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "Tracks Properties/Add or replace VSTi";
@@ -6108,7 +6109,7 @@
       ];
     };
     sr-add-or-replace-vsti-bundle-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-add-or-replace-vsti-bundle-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "Tracks Properties/Add or replace VSTi";
@@ -6222,7 +6223,7 @@
       ];
     };
     sr-add-or-replace-vsti-bundle-lua-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-add-or-replace-vsti-bundle-lua-1-35";
       indexName = "Stevie Scripts";
       categoryName = "Tracks Properties/Add or replace VSTi";
@@ -6371,7 +6372,7 @@
       ];
     };
     sr-add-or-replace-vsti-bundle-lua-1-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-add-or-replace-vsti-bundle-lua-1-37";
       indexName = "Stevie Scripts";
       categoryName = "Tracks Properties/Add or replace VSTi";
@@ -6530,7 +6531,7 @@
       ];
     };
     sr-toggle-mute-by-track-prefix-bundle-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-toggle-mute-by-track-prefix-bundle-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "Tracks Properties/Toggle mute by track prefix (bundle)";
@@ -6709,7 +6710,7 @@
       ];
     };
     sr-toggle-mute-by-track-prefix-bundle-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-toggle-mute-by-track-prefix-bundle-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "Tracks Properties/Toggle mute by track prefix (bundle)";
@@ -6888,7 +6889,7 @@
       ];
     };
     sr-toggle-solo-by-track-prefix-bundle-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-toggle-solo-by-track-prefix-bundle-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "Tracks Properties/Toggle solo by track prefix (bundle)";
@@ -7067,7 +7068,7 @@
       ];
     };
     sr-toggle-solo-by-track-prefix-bundle-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-toggle-solo-by-track-prefix-bundle-lua-1-2";
       indexName = "Stevie Scripts";
       categoryName = "Tracks Properties/Toggle solo by track prefix (bundle)";
@@ -7246,7 +7247,7 @@
       ];
     };
     sr-edit-cursor-follows-start-of-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-edit-cursor-follows-start-of-item-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Transport";
@@ -7260,7 +7261,7 @@
       ];
     };
     sr-go-to-end-marker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-go-to-end-marker-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Transport";
@@ -7274,7 +7275,7 @@
       ];
     };
     sr-go-to-end-marker-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-go-to-end-marker-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "Transport";
@@ -7288,7 +7289,7 @@
       ];
     };
     sr-go-to-start-marker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-go-to-start-marker-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Transport";
@@ -7302,7 +7303,7 @@
       ];
     };
     sr-go-to-start-marker-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-go-to-start-marker-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "Transport";
@@ -7316,7 +7317,7 @@
       ];
     };
     sr-move-cursor-to-start-of-selected-item-and-preserve-play-state-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-cursor-to-start-of-selected-item-and-preserve-play-state-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Transport";
@@ -7330,7 +7331,7 @@
       ];
     };
     sr-move-edit-cursor-by-frames-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-move-edit-cursor-by-frames-mousewheel-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Transport";
@@ -7344,7 +7345,7 @@
       ];
     };
     sr-select-and-move-to-next-item-and-preserve-play-state-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-and-move-to-next-item-and-preserve-play-state-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Transport";
@@ -7358,7 +7359,7 @@
       ];
     };
     sr-select-and-move-to-previous-item-and-preserve-play-state-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-select-and-move-to-previous-item-and-preserve-play-state-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Transport";
@@ -7372,7 +7373,7 @@
       ];
     };
     sr-stop-return-to-last-cursor-positions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-stop-return-to-last-cursor-positions-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Transport";
@@ -7386,7 +7387,7 @@
       ];
     };
     sr-toggle-play-stop-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-toggle-play-stop-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Transport";
@@ -7400,7 +7401,7 @@
       ];
     };
     sr-toggle-resources-window-and-focus-search-box-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-toggle-resources-window-and-focus-search-box-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Various";
@@ -7414,7 +7415,7 @@
       ];
     };
     sr-toggle-resources-window-and-focus-search-box-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-toggle-resources-window-and-focus-search-box-lua-1-1";
       indexName = "Stevie Scripts";
       categoryName = "Various";
@@ -7428,7 +7429,7 @@
       ];
     };
     sr-zoom-to-start-and-end-marker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sr-zoom-to-start-and-end-marker-lua-1-0";
       indexName = "Stevie Scripts";
       categoryName = "Various";

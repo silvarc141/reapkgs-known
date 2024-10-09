@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   przemoc-s-reascripts = {
     ppp-move-edit-cursor-left-by-time-selection-length-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-move-edit-cursor-left-by-time-selection-length-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Cursor";
@@ -19,7 +20,7 @@
       ];
     };
     ppp-move-edit-cursor-right-by-time-selection-length-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-move-edit-cursor-right-by-time-selection-length-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Cursor";
@@ -33,7 +34,7 @@
       ];
     };
     ppp-add-all-items-on-the-left-of-edit-cursor-to-selection-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-add-all-items-on-the-left-of-edit-cursor-to-selection-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -47,7 +48,7 @@
       ];
     };
     ppp-add-all-items-on-the-right-of-edit-cursor-to-selection-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-add-all-items-on-the-right-of-edit-cursor-to-selection-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -61,7 +62,7 @@
       ];
     };
     ppp-add-items-under-edit-cursor-to-selection-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-add-items-under-edit-cursor-to-selection-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -75,7 +76,7 @@
       ];
     };
     ppp-add-whole-items-on-the-left-of-edit-cursor-to-selection-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-add-whole-items-on-the-left-of-edit-cursor-to-selection-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -89,7 +90,7 @@
       ];
     };
     ppp-add-whole-items-on-the-right-of-edit-cursor-to-selection-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-add-whole-items-on-the-right-of-edit-cursor-to-selection-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -103,7 +104,7 @@
       ];
     };
     ppp-move-only-left-edge-of-selected-items-left-by-time-selection-length-preserving-source-position-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-move-only-left-edge-of-selected-items-left-by-time-selection-length-preserving-source-position-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -117,7 +118,7 @@
       ];
     };
     ppp-move-only-left-edge-of-selected-items-left-by-time-selection-length-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-move-only-left-edge-of-selected-items-left-by-time-selection-length-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -131,7 +132,7 @@
       ];
     };
     ppp-move-only-left-edge-of-selected-items-right-by-time-selection-length-preserving-source-position-eel-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-move-only-left-edge-of-selected-items-right-by-time-selection-length-preserving-source-position-eel-1-01";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -145,7 +146,7 @@
       ];
     };
     ppp-move-only-left-edge-of-selected-items-right-by-time-selection-length-eel-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-move-only-left-edge-of-selected-items-right-by-time-selection-length-eel-1-01";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -159,7 +160,7 @@
       ];
     };
     ppp-move-only-right-edge-of-selected-items-left-by-time-selection-length-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-move-only-right-edge-of-selected-items-left-by-time-selection-length-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -173,7 +174,7 @@
       ];
     };
     ppp-move-only-right-edge-of-selected-items-right-by-time-selection-length-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-move-only-right-edge-of-selected-items-right-by-time-selection-length-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -187,7 +188,7 @@
       ];
     };
     ppp-move-selected-items-left-by-time-selection-length-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-move-selected-items-left-by-time-selection-length-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -201,7 +202,7 @@
       ];
     };
     ppp-move-selected-items-right-by-time-selection-length-eel-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-move-selected-items-right-by-time-selection-length-eel-1-01";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -215,7 +216,7 @@
       ];
     };
     ppp-unselect-all-items-on-the-left-of-edit-cursor-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-unselect-all-items-on-the-left-of-edit-cursor-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -229,7 +230,7 @@
       ];
     };
     ppp-unselect-all-items-on-the-right-of-edit-cursor-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-unselect-all-items-on-the-right-of-edit-cursor-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -243,7 +244,7 @@
       ];
     };
     ppp-unselect-items-on-unselected-tracks-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-unselect-items-on-unselected-tracks-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -257,7 +258,7 @@
       ];
     };
     ppp-unselect-items-under-edit-cursor-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-unselect-items-under-edit-cursor-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -271,7 +272,7 @@
       ];
     };
     ppp-unselect-whole-items-on-the-left-of-edit-cursor-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-unselect-whole-items-on-the-left-of-edit-cursor-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -285,7 +286,7 @@
       ];
     };
     ppp-unselect-whole-items-on-the-right-of-edit-cursor-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-unselect-whole-items-on-the-right-of-edit-cursor-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Item";
@@ -299,7 +300,7 @@
       ];
     };
     ppp-set-time-selection-to-items-on-selected-tracks-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ppp-set-time-selection-to-items-on-selected-tracks-eel-1-0";
       indexName = "Przemoc's ReaScripts";
       categoryName = "Time selection";

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   tilr = {
     qdelay-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "qdelay-jsfx-1-0";
       indexName = "Tilr";
       categoryName = "Delay";
@@ -39,7 +40,7 @@
       ];
     };
     qdelay-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "qdelay-jsfx-1-0-1";
       indexName = "Tilr";
       categoryName = "Delay";
@@ -73,7 +74,7 @@
       ];
     };
     qdelay-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "qdelay-jsfx-1-0-2";
       indexName = "Tilr";
       categoryName = "Delay";
@@ -107,7 +108,7 @@
       ];
     };
     qdelay-jsfx-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "qdelay-jsfx-1-0-3";
       indexName = "Tilr";
       categoryName = "Delay";
@@ -141,7 +142,7 @@
       ];
     };
     qdelay-jsfx-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "qdelay-jsfx-1-0-4";
       indexName = "Tilr";
       categoryName = "Delay";
@@ -175,7 +176,7 @@
       ];
     };
     quickdelay-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "quickdelay-jsfx-1-0";
       indexName = "Tilr";
       categoryName = "Delay";
@@ -204,7 +205,7 @@
       ];
     };
     quickdualdelay-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "quickdualdelay-jsfx-1-0";
       indexName = "Tilr";
       categoryName = "Delay";
@@ -233,7 +234,7 @@
       ];
     };
     quickdist-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "quickdist-jsfx-1-0";
       indexName = "Tilr";
       categoryName = "Distortion";
@@ -252,7 +253,7 @@
       ];
     };
     quickdist-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "quickdist-jsfx-1-0-1";
       indexName = "Tilr";
       categoryName = "Distortion";
@@ -271,7 +272,7 @@
       ];
     };
     quickfilter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "quickfilter-jsfx-1-0";
       indexName = "Tilr";
       categoryName = "Filter";
@@ -290,7 +291,7 @@
       ];
     };
     skfilter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "skfilter-jsfx-1-0";
       indexName = "Tilr";
       categoryName = "Filter";
@@ -319,7 +320,7 @@
       ];
     };
     skfilter-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "skfilter-jsfx-1-0-1";
       indexName = "Tilr";
       categoryName = "Filter";
@@ -348,7 +349,7 @@
       ];
     };
     midi-keyvel-filter-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-keyvel-filter-jsfx-1-1";
       indexName = "Tilr";
       categoryName = "MIDI";
@@ -362,7 +363,7 @@
       ];
     };
     notes-to-12-channel-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "notes-to-12-channel-jsfx-1-0";
       indexName = "Tilr";
       categoryName = "MIDI";
@@ -376,7 +377,7 @@
       ];
     };
     notes-to-cc-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "notes-to-cc-jsfx-1-1-1";
       indexName = "Tilr";
       categoryName = "MIDI";
@@ -390,7 +391,7 @@
       ];
     };
     vel-to-cc-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vel-to-cc-jsfx-1-0";
       indexName = "Tilr";
       categoryName = "MIDI";
@@ -404,7 +405,7 @@
       ];
     };
     vel-to-cc-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vel-to-cc-jsfx-1-0-1";
       indexName = "Tilr";
       categoryName = "MIDI";
@@ -418,7 +419,7 @@
       ];
     };
     vel-to-cc-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "vel-to-cc-jsfx-1-0-2";
       indexName = "Tilr";
       categoryName = "MIDI";
@@ -432,7 +433,7 @@
       ];
     };
     adsr1-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adsr1-jsfx-1-0";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -461,7 +462,7 @@
       ];
     };
     adsr1-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adsr1-jsfx-1-0-1";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -490,7 +491,7 @@
       ];
     };
     adsr1-jsfx-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adsr1-jsfx-1-1-0";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -519,7 +520,7 @@
       ];
     };
     adsr1-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adsr1-jsfx-1-1-1";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -548,7 +549,7 @@
       ];
     };
     adsr1-jsfx-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adsr1-jsfx-1-1-2";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -577,7 +578,7 @@
       ];
     };
     adsr1-jsfx-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adsr1-jsfx-1-2-0";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -606,7 +607,7 @@
       ];
     };
     adsr1-jsfx-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "adsr1-jsfx-1-2-1";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -635,7 +636,7 @@
       ];
     };
     distr-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "distr-jsfx-1-0-1";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -674,7 +675,7 @@
       ];
     };
     distr-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "distr-jsfx-1-0-0";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -713,7 +714,7 @@
       ];
     };
     distr-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "distr-jsfx-1-0-2";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -752,7 +753,7 @@
       ];
     };
     fltr1-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fltr1-jsfx-1-0";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -796,7 +797,7 @@
       ];
     };
     fltr1-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fltr1-jsfx-1-1";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -840,7 +841,7 @@
       ];
     };
     fltr1-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fltr1-jsfx-1-1-1";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -884,7 +885,7 @@
       ];
     };
     fltr1-jsfx-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fltr1-jsfx-1-1-2";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -928,7 +929,7 @@
       ];
     };
     fltr1-jsfx-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fltr1-jsfx-1-1-3";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -972,7 +973,7 @@
       ];
     };
     fltr1-jsfx-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fltr1-jsfx-1-1-4";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1016,7 +1017,7 @@
       ];
     };
     fltr1-jsfx-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fltr1-jsfx-1-1-5";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1060,7 +1061,7 @@
       ];
     };
     gate1-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gate1-jsfx-1-0";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1089,7 +1090,7 @@
       ];
     };
     gate1-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gate1-jsfx-1-0-1";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1118,7 +1119,7 @@
       ];
     };
     gate1-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gate1-jsfx-1-0-2";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1147,7 +1148,7 @@
       ];
     };
     gate1-jsfx-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gate1-jsfx-1-1-0";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1176,7 +1177,7 @@
       ];
     };
     gate1-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gate1-jsfx-1-1-1";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1205,7 +1206,7 @@
       ];
     };
     gate1-jsfx-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gate1-jsfx-1-1-2";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1234,7 +1235,7 @@
       ];
     };
     gate1-jsfx-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gate1-jsfx-1-1-3";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1263,7 +1264,7 @@
       ];
     };
     mseg1-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mseg1-jsfx-1-0";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1292,7 +1293,7 @@
       ];
     };
     mseg1-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mseg1-jsfx-1-0-1";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1321,7 +1322,7 @@
       ];
     };
     mseg1-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mseg1-jsfx-1-0-2";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1350,7 +1351,7 @@
       ];
     };
     mseg1-jsfx-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mseg1-jsfx-1-0-3";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1379,7 +1380,7 @@
       ];
     };
     mseg1-jsfx-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mseg1-jsfx-1-0-4";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1408,7 +1409,7 @@
       ];
     };
     mseg1-jsfx-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mseg1-jsfx-1-1-0";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1437,7 +1438,7 @@
       ];
     };
     mseg1-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mseg1-jsfx-1-1-1";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1466,7 +1467,7 @@
       ];
     };
     mseg1-jsfx-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mseg1-jsfx-1-1-2";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1495,7 +1496,7 @@
       ];
     };
     mseg1-jsfx-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mseg1-jsfx-1-1-3";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1524,7 +1525,7 @@
       ];
     };
     mseg1-jsfx-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mseg1-jsfx-1-1-4";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1553,7 +1554,7 @@
       ];
     };
     mseg1-jsfx-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mseg1-jsfx-1-1-5";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1582,7 +1583,7 @@
       ];
     };
     time1-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "time1-jsfx-1-0";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1616,7 +1617,7 @@
       ];
     };
     time1-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "time1-jsfx-1-0-1";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1650,7 +1651,7 @@
       ];
     };
     time1-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "time1-jsfx-1-0-2";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1684,7 +1685,7 @@
       ];
     };
     time1-jsfx-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "time1-jsfx-1-1-0";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1718,7 +1719,7 @@
       ];
     };
     time1-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "time1-jsfx-1-1-1";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1752,7 +1753,7 @@
       ];
     };
     time1-jsfx-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "time1-jsfx-1-1-2";
       indexName = "Tilr";
       categoryName = "Modulation";
@@ -1786,7 +1787,7 @@
       ];
     };
     js3osc-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js3osc-jsfx-1-1";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -1825,7 +1826,7 @@
       ];
     };
     js3osc-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js3osc-jsfx-1-1-1";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -1864,7 +1865,7 @@
       ];
     };
     js3osc-jsfx-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js3osc-jsfx-1-1-2";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -1903,7 +1904,7 @@
       ];
     };
     jsadditiv-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsadditiv-jsfx-1-3";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -2077,7 +2078,7 @@
       ];
     };
     jsadditiv-jsfx-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsadditiv-jsfx-1-3-1";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -2251,7 +2252,7 @@
       ];
     };
     jsadditiv-jsfx-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsadditiv-jsfx-1-3-2";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -2425,7 +2426,7 @@
       ];
     };
     jsadditiv-jsfx-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsadditiv-jsfx-1-4-0";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -2599,7 +2600,7 @@
       ];
     };
     jsdrumpad-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsdrumpad-jsfx-1-1";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -2638,7 +2639,7 @@
       ];
     };
     jsdrumpad-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsdrumpad-jsfx-1-1-1";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -2677,7 +2678,7 @@
       ];
     };
     jsdrumpad-jsfx-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsdrumpad-jsfx-1-1-2";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -2716,7 +2717,7 @@
       ];
     };
     jsdrumpad-jsfx-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsdrumpad-jsfx-1-1-3";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -2755,7 +2756,7 @@
       ];
     };
     jsdrumsynth-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsdrumsynth-jsfx-1-0";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -2799,7 +2800,7 @@
       ];
     };
     jsdrumsynth-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsdrumsynth-jsfx-1-0-1";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -2843,7 +2844,7 @@
       ];
     };
     jsdrumsynth-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsdrumsynth-jsfx-1-0-2";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -2887,7 +2888,7 @@
       ];
     };
     jsdrumsynth-jsfx-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsdrumsynth-jsfx-1-0-3";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -2931,7 +2932,7 @@
       ];
     };
     jsmodulator-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsmodulator-jsfx-1-1";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -3110,7 +3111,7 @@
       ];
     };
     jsmodulator-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsmodulator-jsfx-1-1-1";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -3289,7 +3290,7 @@
       ];
     };
     jsmodulator-jsfx-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsmodulator-jsfx-1-1-2";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -3468,7 +3469,7 @@
       ];
     };
     jsmodulator-jsfx-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jsmodulator-jsfx-1-2-0";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -3647,7 +3648,7 @@
       ];
     };
     jswavesynth-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jswavesynth-jsfx-1-2";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -3816,7 +3817,7 @@
       ];
     };
     jswavesynth-jsfx-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jswavesynth-jsfx-1-2-1";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -3985,7 +3986,7 @@
       ];
     };
     jswavesynth-jsfx-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jswavesynth-jsfx-1-2-2";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -4154,7 +4155,7 @@
       ];
     };
     jswavesynth-jsfx-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jswavesynth-jsfx-1-3-0";
       indexName = "Tilr";
       categoryName = "Synth";
@@ -4323,7 +4324,7 @@
       ];
     };
     tinyrec-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tinyrec-jsfx-1-0-1";
       indexName = "Tilr";
       categoryName = "Utility";
@@ -4387,7 +4388,7 @@
       ];
     };
     tinyrec-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tinyrec-jsfx-1-0-2";
       indexName = "Tilr";
       categoryName = "Utility";
@@ -4451,7 +4452,7 @@
       ];
     };
     tinyrec-jsfx-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tinyrec-jsfx-1-0-3";
       indexName = "Tilr";
       categoryName = "Utility";

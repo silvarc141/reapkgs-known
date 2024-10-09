@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   birdbird-jsfx = {
     shifter-b1-birdbird-jsfx-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "shifter-b1-birdbird-jsfx-0-5";
       indexName = "BirdBird JSFX";
       categoryName = "Shifter";
@@ -49,7 +50,7 @@
       ];
     };
     shifter-b1-birdbird-jsfx-0-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "shifter-b1-birdbird-jsfx-0-5-1";
       indexName = "BirdBird JSFX";
       categoryName = "Shifter";
@@ -93,7 +94,7 @@
       ];
     };
     sonic-tape-b1-birdbird-jsfx-0-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sonic-tape-b1-birdbird-jsfx-0-5-1";
       indexName = "BirdBird JSFX";
       categoryName = "Sonic Tape";
@@ -127,7 +128,7 @@
       ];
     };
     stereo-zapper-jsfx-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-zapper-jsfx-0-5";
       indexName = "BirdBird JSFX";
       categoryName = "Stereo Zapper";
@@ -156,7 +157,7 @@
       ];
     };
     stereo-zapper-jsfx-0-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-zapper-jsfx-0-5-1";
       indexName = "BirdBird JSFX";
       categoryName = "Stereo Zapper";
@@ -185,7 +186,7 @@
       ];
     };
     stereo-zapper-jsfx-0-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-zapper-jsfx-0-5-2";
       indexName = "BirdBird JSFX";
       categoryName = "Stereo Zapper";
@@ -214,7 +215,7 @@
       ];
     };
     water-birdbird-jsfx-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "water-birdbird-jsfx-0-5";
       indexName = "BirdBird JSFX";
       categoryName = "Water";
@@ -258,7 +259,7 @@
       ];
     };
     water-birdbird-jsfx-0-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "water-birdbird-jsfx-0-5-1";
       indexName = "BirdBird JSFX";
       categoryName = "Water";
@@ -302,7 +303,7 @@
       ];
     };
     water-birdbird-jsfx-0-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "water-birdbird-jsfx-0-5-2";
       indexName = "BirdBird JSFX";
       categoryName = "Water";
@@ -346,7 +347,7 @@
       ];
     };
     water-birdbird-jsfx-0-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "water-birdbird-jsfx-0-5-3";
       indexName = "BirdBird JSFX";
       categoryName = "Water";

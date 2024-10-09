@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   birdbird-reascript-testing = {
     birdbird-envelope-palette-lua-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-envelope-palette-lua-0-8";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Envelope Palette";
@@ -49,7 +50,7 @@
       ];
     };
     birdbird-envelope-palette-lua-0-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-envelope-palette-lua-0-8-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Envelope Palette";
@@ -93,7 +94,7 @@
       ];
     };
     birdbird-envelope-palette-lua-0-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-envelope-palette-lua-0-8-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Envelope Palette";
@@ -137,7 +138,7 @@
       ];
     };
     birdbird-envelope-palette-lua-0-8-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-envelope-palette-lua-0-8-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Envelope Palette";
@@ -181,7 +182,7 @@
       ];
     };
     birdbird-envelope-palette-lua-0-8-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-envelope-palette-lua-0-8-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Envelope Palette";
@@ -225,7 +226,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -249,7 +250,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -273,7 +274,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -297,7 +298,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -331,7 +332,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-5-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -365,7 +366,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-5-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -399,7 +400,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-5-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -433,7 +434,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-6";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -467,7 +468,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-6-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -501,7 +502,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-6-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -535,7 +536,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-6-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -569,7 +570,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-6-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-6-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -603,7 +604,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-6-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -637,7 +638,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-6-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-6-6";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -671,7 +672,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-6-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-6-7";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -705,7 +706,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-6-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-6-8";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -739,7 +740,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-6-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-6-9";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -773,7 +774,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-7";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -807,7 +808,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-7-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -841,7 +842,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-7-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -875,7 +876,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-7-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -909,7 +910,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-7-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-7-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -943,7 +944,7 @@
       ];
     };
     birdbird-functional-console-lua-0-99-7-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-functional-console-lua-0-99-7-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Functional Console";
@@ -977,7 +978,7 @@
       ];
     };
     birdbird-fx-inspector-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-inspector-lua-0-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Inspector";
@@ -1001,7 +1002,7 @@
       ];
     };
     birdbird-fx-inspector-lua-0-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-inspector-lua-0-5-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Inspector";
@@ -1025,7 +1026,7 @@
       ];
     };
     birdbird-fx-inspector-lua-0-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-inspector-lua-0-5-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Inspector";
@@ -1049,7 +1050,7 @@
       ];
     };
     birdbird-fx-inspector-lua-0-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-inspector-lua-0-5-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Inspector";
@@ -1073,7 +1074,7 @@
       ];
     };
     birdbird-fx-inspector-lua-0-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-inspector-lua-0-5-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Inspector";
@@ -1097,7 +1098,7 @@
       ];
     };
     birdbird-fx-inspector-lua-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-inspector-lua-0-6";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Inspector";
@@ -1156,7 +1157,7 @@
       ];
     };
     birdbird-fx-inspector-lua-0-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-inspector-lua-0-6-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Inspector";
@@ -1215,7 +1216,7 @@
       ];
     };
     birdbird-fx-inspector-lua-0-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-inspector-lua-0-6-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Inspector";
@@ -1274,7 +1275,7 @@
       ];
     };
     birdbird-fx-inspector-lua-0-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-inspector-lua-0-6-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Inspector";
@@ -1333,7 +1334,7 @@
       ];
     };
     birdbird-fx-inspector-lua-0-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-inspector-lua-0-6-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Inspector";
@@ -1392,7 +1393,7 @@
       ];
     };
     birdbird-fx-mangler-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-mangler-lua-0-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Mangler";
@@ -1461,7 +1462,7 @@
       ];
     };
     birdbird-fx-mangler-lua-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-mangler-lua-0-1-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Mangler";
@@ -1530,7 +1531,7 @@
       ];
     };
     birdbird-fx-mangler-lua-0-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-mangler-lua-0-1-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Mangler";
@@ -1599,7 +1600,7 @@
       ];
     };
     birdbird-fx-mangler-lua-0-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-mangler-lua-0-1-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Mangler";
@@ -1668,7 +1669,7 @@
       ];
     };
     birdbird-fx-mangler-lua-0-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-mangler-lua-0-1-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Mangler";
@@ -1737,7 +1738,7 @@
       ];
     };
     birdbird-fx-mangler-lua-0-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-mangler-lua-0-1-6";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Mangler";
@@ -1806,7 +1807,7 @@
       ];
     };
     birdbird-fx-mangler-lua-0-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-mangler-lua-0-1-8";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Mangler";
@@ -1875,7 +1876,7 @@
       ];
     };
     birdbird-fx-mangler-lua-0-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-fx-mangler-lua-0-1-9";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "FX Mangler";
@@ -1944,7 +1945,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2003,7 +2004,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2062,7 +2063,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2121,7 +2122,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2175,7 +2176,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2219,7 +2220,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2263,7 +2264,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-6";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2307,7 +2308,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-7";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2351,7 +2352,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-7-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2395,7 +2396,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-7-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2439,7 +2440,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-7-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2483,7 +2484,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-7-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-7-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2527,7 +2528,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-7-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-7-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2571,7 +2572,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-7-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-7-6";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2615,7 +2616,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-7-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-7-7";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2659,7 +2660,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-7-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-7-8";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2703,7 +2704,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-7-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-7-9";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2752,7 +2753,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-8";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2801,7 +2802,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-8-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2850,7 +2851,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-8-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2899,7 +2900,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-8-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-8-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2948,7 +2949,7 @@
       ];
     };
     birdbird-global-sampler-lua-0-99-8-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-global-sampler-lua-0-99-8-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Global Sampler";
@@ -2997,7 +2998,7 @@
       ];
     };
     birdbird-item-modifiers-lua-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-item-modifiers-lua-0-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Item Modifiers";
@@ -3086,7 +3087,7 @@
       ];
     };
     birdbird-item-modifiers-lua-0-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-item-modifiers-lua-0-4-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Item Modifiers";
@@ -3175,7 +3176,7 @@
       ];
     };
     birdbird-item-modifiers-lua-0-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-item-modifiers-lua-0-4-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Item Modifiers";
@@ -3319,7 +3320,7 @@
       ];
     };
     birdbird-item-modifiers-lua-0-4-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-item-modifiers-lua-0-4-3-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Item Modifiers";
@@ -3463,7 +3464,7 @@
       ];
     };
     birdbird-item-modifiers-lua-0-4-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-item-modifiers-lua-0-4-3-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Item Modifiers";
@@ -3607,7 +3608,7 @@
       ];
     };
     birdbird-item-modifiers-lua-0-4-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-item-modifiers-lua-0-4-3-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Item Modifiers";
@@ -3751,7 +3752,7 @@
       ];
     };
     birdbird-item-modifiers-lua-0-4-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-item-modifiers-lua-0-4-3-6";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Item Modifiers";
@@ -3895,7 +3896,7 @@
       ];
     };
     birdbird-item-modifiers-lua-0-4-3-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-item-modifiers-lua-0-4-3-7";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Item Modifiers";
@@ -4039,7 +4040,7 @@
       ];
     };
     birdbird-item-modifiers-lua-0-4-3-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-item-modifiers-lua-0-4-3-8";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Item Modifiers";
@@ -4183,7 +4184,7 @@
       ];
     };
     birdbird-item-modifiers-lua-0-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-item-modifiers-lua-0-4-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Item Modifiers";
@@ -4327,7 +4328,7 @@
       ];
     };
     birdbird-note-puncher-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-note-puncher-lua-0-9";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Note Puncher";
@@ -4341,7 +4342,7 @@
       ];
     };
     birdbird-note-puncher-lua-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-note-puncher-lua-0-91";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Note Puncher";
@@ -4355,7 +4356,7 @@
       ];
     };
     birdbird-note-puncher-lua-0-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-note-puncher-lua-0-92";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Note Puncher";
@@ -4369,7 +4370,7 @@
       ];
     };
     birdbird-note-puncher-lua-0-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-note-puncher-lua-0-93";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Note Puncher";
@@ -4383,7 +4384,7 @@
       ];
     };
     birdbird-note-puncher-lua-0-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-note-puncher-lua-0-94";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Note Puncher";
@@ -4397,7 +4398,7 @@
       ];
     };
     birdbird-parameter-history-lua-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-parameter-history-lua-0-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Parameter History";
@@ -4461,7 +4462,7 @@
       ];
     };
     birdbird-parameter-history-lua-0-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-parameter-history-lua-0-4-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Parameter History";
@@ -4525,7 +4526,7 @@
       ];
     };
     birdbird-parameter-history-lua-0-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-parameter-history-lua-0-4-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Parameter History";
@@ -4589,7 +4590,7 @@
       ];
     };
     birdbird-parameter-history-lua-0-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-parameter-history-lua-0-4-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Parameter History";
@@ -4653,7 +4654,7 @@
       ];
     };
     birdbird-parameter-history-lua-0-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-parameter-history-lua-0-4-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Parameter History";
@@ -4717,7 +4718,7 @@
       ];
     };
     birdbird-parameter-history-lua-0-4-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-parameter-history-lua-0-4-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Parameter History";
@@ -4781,7 +4782,7 @@
       ];
     };
     birdbird-parameter-history-lua-0-4-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-parameter-history-lua-0-4-6";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Parameter History";
@@ -4845,7 +4846,7 @@
       ];
     };
     birdbird-parameter-history-lua-0-4-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-parameter-history-lua-0-4-7";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Parameter History";
@@ -4909,7 +4910,7 @@
       ];
     };
     birdbird-parameter-history-lua-0-4-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-parameter-history-lua-0-4-8";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Parameter History";
@@ -4973,7 +4974,7 @@
       ];
     };
     birdbird-parameter-history-lua-0-4-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-parameter-history-lua-0-4-9";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Parameter History";
@@ -5037,7 +5038,7 @@
       ];
     };
     birdbird-parameter-history-lua-0-4-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-parameter-history-lua-0-4-91";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Parameter History";
@@ -5101,7 +5102,7 @@
       ];
     };
     birdbird-parameter-history-lua-0-4-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-parameter-history-lua-0-4-92";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Parameter History";
@@ -5165,7 +5166,7 @@
       ];
     };
     birdbird-project-tab-sets-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-project-tab-sets-lua-0-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Project Tab Sets";
@@ -5219,7 +5220,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-6";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -5323,7 +5324,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-6-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -5427,7 +5428,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-6-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -5531,7 +5532,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-6-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -5635,7 +5636,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-6-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-6-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -5739,7 +5740,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-6-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -5843,7 +5844,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-6-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-6-5-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -5947,7 +5948,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-6-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-6-5-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -6056,7 +6057,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-6-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-6-6";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -6180,7 +6181,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-6-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-6-7";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -6309,7 +6310,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-6-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-6-8";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -6438,7 +6439,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-6-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-6-9";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -6567,7 +6568,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-7";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -6696,7 +6697,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-7-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -6825,7 +6826,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-7-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -6954,7 +6955,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-7-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-7-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -7083,7 +7084,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-7-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-7-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -7212,7 +7213,7 @@
       ];
     };
     birdbird-razor-edit-utility-settings-lua-0-7-5pre = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-razor-edit-utility-settings-lua-0-7-5pre";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Razor Edit Utility";
@@ -7341,7 +7342,7 @@
       ];
     };
     birdbird-track-tags-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-tags-lua-0-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Tags";
@@ -7365,7 +7366,7 @@
       ];
     };
     birdbird-track-tags-lua-0-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-tags-lua-0-5-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Tags";
@@ -7389,7 +7390,7 @@
       ];
     };
     birdbird-track-tags-lua-0-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-tags-lua-0-5-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Tags";
@@ -7413,7 +7414,7 @@
       ];
     };
     birdbird-track-tags-lua-0-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-tags-lua-0-5-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Tags";
@@ -7437,7 +7438,7 @@
       ];
     };
     birdbird-track-tags-lua-0-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-tags-lua-0-5-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Tags";
@@ -7461,7 +7462,7 @@
       ];
     };
     birdbird-track-tags-lua-0-5-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-tags-lua-0-5-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Tags";
@@ -7485,7 +7486,7 @@
       ];
     };
     birdbird-track-tags-lua-0-5-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-tags-lua-0-5-6";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Tags";
@@ -7509,7 +7510,7 @@
       ];
     };
     birdbird-track-tags-lua-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-tags-lua-0-6";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Tags";
@@ -7533,7 +7534,7 @@
       ];
     };
     birdbird-track-tags-lua-0-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-tags-lua-0-6-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Tags";
@@ -7557,7 +7558,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -7576,7 +7577,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -7595,7 +7596,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -7614,7 +7615,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -7648,7 +7649,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -7682,7 +7683,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -7716,7 +7717,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-6";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -7755,7 +7756,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-6-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -7794,7 +7795,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-8";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -7863,7 +7864,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-8-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -7932,7 +7933,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-8-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-8-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -8001,7 +8002,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-8-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-8-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -8070,7 +8071,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-8-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-8-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -8139,7 +8140,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-9";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -8208,7 +8209,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-9-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-9-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -8277,7 +8278,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-9-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-9-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -8346,7 +8347,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-9-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-9-4";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -8415,7 +8416,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-9-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-9-5";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -8484,7 +8485,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-9-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-9-6";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -8553,7 +8554,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-9-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-9-7";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -8622,7 +8623,7 @@
       ];
     };
     birdbird-track-versions-lua-0-99-9-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-track-versions-lua-0-99-9-8";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Track Versions";
@@ -8691,7 +8692,7 @@
       ];
     };
     birdbird-very-important-compressor-jsfx-0-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-very-important-compressor-jsfx-0-99";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Very Important Compressor";
@@ -8710,7 +8711,7 @@
       ];
     };
     birdbird-very-important-compressor-jsfx-0-99-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-very-important-compressor-jsfx-0-99-1";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Very Important Compressor";
@@ -8729,7 +8730,7 @@
       ];
     };
     birdbird-very-important-compressor-jsfx-0-99-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-very-important-compressor-jsfx-0-99-2";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Very Important Compressor";
@@ -8748,7 +8749,7 @@
       ];
     };
     birdbird-very-important-compressor-jsfx-0-99-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "birdbird-very-important-compressor-jsfx-0-99-3";
       indexName = "BirdBird ReaScript Testing";
       categoryName = "Very Important Compressor";

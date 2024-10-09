@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   steviekeys-jsfx = {
     bass-x-jsfx-1-0-2pre = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bass-x-jsfx-1-0-2pre";
       indexName = "StevieKeys JSFX";
       categoryName = "Bass";
@@ -19,7 +20,7 @@
       ];
     };
     bass-x-jsfx-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bass-x-jsfx-1-1-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Bass";
@@ -33,7 +34,7 @@
       ];
     };
     bass-x-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bass-x-jsfx-1-1-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Bass";
@@ -47,7 +48,7 @@
       ];
     };
     bass-x-jsfx-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bass-x-jsfx-1-1-2";
       indexName = "StevieKeys JSFX";
       categoryName = "Bass";
@@ -61,7 +62,7 @@
       ];
     };
     bass-x-jsfx-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bass-x-jsfx-1-1-3";
       indexName = "StevieKeys JSFX";
       categoryName = "Bass";
@@ -75,7 +76,7 @@
       ];
     };
     big-bad-delay-jsfx-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "big-bad-delay-jsfx-2-0-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Delay";
@@ -94,7 +95,7 @@
       ];
     };
     big-bad-delay-jsfx-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "big-bad-delay-jsfx-2-0-2";
       indexName = "StevieKeys JSFX";
       categoryName = "Delay";
@@ -113,7 +114,7 @@
       ];
     };
     big-bad-delay-jsfx-2-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "big-bad-delay-jsfx-2-0-3";
       indexName = "StevieKeys JSFX";
       categoryName = "Delay";
@@ -132,7 +133,7 @@
       ];
     };
     big-bad-delay-jsfx-2-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "big-bad-delay-jsfx-2-0-5";
       indexName = "StevieKeys JSFX";
       categoryName = "Delay";
@@ -261,7 +262,7 @@
       ];
     };
     echo-live-vocal-in-stereo-jsfx-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "echo-live-vocal-in-stereo-jsfx-1-1-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Delay";
@@ -275,7 +276,7 @@
       ];
     };
     echo-live-vocal-in-stereo-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "echo-live-vocal-in-stereo-jsfx-1-1-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Delay";
@@ -289,7 +290,7 @@
       ];
     };
     echo-live-vocal-in-stereo-jsfx-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "echo-live-vocal-in-stereo-jsfx-1-1-2";
       indexName = "StevieKeys JSFX";
       categoryName = "Delay";
@@ -303,7 +304,7 @@
       ];
     };
     wow-tape-delay-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "wow-tape-delay-jsfx-1-0-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Delay";
@@ -317,7 +318,7 @@
       ];
     };
     wow-tape-delay-jsfx-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "wow-tape-delay-jsfx-1-1-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Delay";
@@ -331,7 +332,7 @@
       ];
     };
     wow-tape-delay-jsfx-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "wow-tape-delay-jsfx-1-1-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Delay";
@@ -345,7 +346,7 @@
       ];
     };
     wow-tape-delay-jsfx-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "wow-tape-delay-jsfx-1-1-2";
       indexName = "StevieKeys JSFX";
       categoryName = "Delay";
@@ -359,7 +360,7 @@
       ];
     };
     wow-tape-delay-jsfx-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "wow-tape-delay-jsfx-1-1-3";
       indexName = "StevieKeys JSFX";
       categoryName = "Delay";
@@ -373,7 +374,7 @@
       ];
     };
     wow-tape-delay-jsfx-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "wow-tape-delay-jsfx-1-1-4";
       indexName = "StevieKeys JSFX";
       categoryName = "Delay";
@@ -502,7 +503,7 @@
       ];
     };
     wow-tape-delay-jsfx-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "wow-tape-delay-jsfx-1-1-5";
       indexName = "StevieKeys JSFX";
       categoryName = "Delay";
@@ -631,7 +632,7 @@
       ];
     };
     hard-antiderivative-antialiasing-clipper-jsfx-0-6-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hard-antiderivative-antialiasing-clipper-jsfx-0-6-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -645,7 +646,7 @@
       ];
     };
     hard-antiderivative-antialiasing-clipper-jsfx-0-7-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hard-antiderivative-antialiasing-clipper-jsfx-0-7-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -659,7 +660,7 @@
       ];
     };
     hard-antiderivative-antialiasing-clipper-jsfx-0-7-1beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hard-antiderivative-antialiasing-clipper-jsfx-0-7-1beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -673,7 +674,7 @@
       ];
     };
     hard-antiderivative-antialiasing-clipper-jsfx-0-7-2beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hard-antiderivative-antialiasing-clipper-jsfx-0-7-2beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -687,7 +688,7 @@
       ];
     };
     hard-antiderivative-antialiasing-clipper-jsfx-0-9-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hard-antiderivative-antialiasing-clipper-jsfx-0-9-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -701,7 +702,7 @@
       ];
     };
     hard-antiderivative-antialiasing-clipper-jsfx-0-9-9beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hard-antiderivative-antialiasing-clipper-jsfx-0-9-9beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -715,7 +716,7 @@
       ];
     };
     hard-antiderivative-antialiasing-clipper-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hard-antiderivative-antialiasing-clipper-jsfx-1-0-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -729,7 +730,7 @@
       ];
     };
     hard-antiderivative-antialiasing-clipper-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hard-antiderivative-antialiasing-clipper-jsfx-1-0-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -743,7 +744,7 @@
       ];
     };
     octave-fuzz-jsfx-0-5-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "octave-fuzz-jsfx-0-5-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -757,7 +758,7 @@
       ];
     };
     octave-fuzz-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "octave-fuzz-jsfx-1-0-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -771,7 +772,7 @@
       ];
     };
     retro-distortion-jsfx-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-distortion-jsfx-1-2-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -785,7 +786,7 @@
       ];
     };
     retro-distortion-jsfx-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-distortion-jsfx-1-2-2";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -799,7 +800,7 @@
       ];
     };
     retro-distortion-jsfx-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-distortion-jsfx-2-0-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -828,7 +829,7 @@
       ];
     };
     retro-distortion-jsfx-2-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-distortion-jsfx-2-1-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -842,7 +843,7 @@
       ];
     };
     retro-distortion-jsfx-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-distortion-jsfx-2-1-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -856,7 +857,7 @@
       ];
     };
     retro-distortion-jsfx-2-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-distortion-jsfx-2-1-2";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -870,7 +871,7 @@
       ];
     };
     retro-distortion-jsfx-2-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-distortion-jsfx-2-1-3";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -884,7 +885,7 @@
       ];
     };
     retro-distortion-jsfx-2-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-distortion-jsfx-2-1-4";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -903,7 +904,7 @@
       ];
     };
     retro-distortion-jsfx-2-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-distortion-jsfx-2-1-5";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -922,7 +923,7 @@
       ];
     };
     retro-distortion-jsfx-2-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-distortion-jsfx-2-1-6";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -941,7 +942,7 @@
       ];
     };
     retro-distortion-jsfx-2-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-distortion-jsfx-2-1-7";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -970,7 +971,7 @@
       ];
     };
     retro-fuzz-jsfx-2-0-0pre1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-fuzz-jsfx-2-0-0pre1";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -984,7 +985,7 @@
       ];
     };
     retro-fuzz-jsfx-2-0-0pre2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-fuzz-jsfx-2-0-0pre2";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -998,7 +999,7 @@
       ];
     };
     retro-fuzz-jsfx-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-fuzz-jsfx-2-0-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -1012,7 +1013,7 @@
       ];
     };
     retro-fuzz-jsfx-2-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-fuzz-jsfx-2-1-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -1026,7 +1027,7 @@
       ];
     };
     retro-fuzz-jsfx-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-fuzz-jsfx-2-1-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -1040,7 +1041,7 @@
       ];
     };
     retro-fuzz-jsfx-2-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-fuzz-jsfx-2-1-2";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -1054,7 +1055,7 @@
       ];
     };
     retro-overdrive-jsfx-1-2-0pre = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-overdrive-jsfx-1-2-0pre";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -1068,7 +1069,7 @@
       ];
     };
     retro-overdrive-jsfx-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-overdrive-jsfx-1-3-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -1082,7 +1083,7 @@
       ];
     };
     retro-overdrive-jsfx-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-overdrive-jsfx-1-3-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -1096,7 +1097,7 @@
       ];
     };
     retro-overdrive-jsfx-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-overdrive-jsfx-2-0-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -1110,7 +1111,7 @@
       ];
     };
     retro-overdrive-jsfx-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-overdrive-jsfx-2-0-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Distortion";
@@ -1124,7 +1125,7 @@
       ];
     };
     blue-vocal-compressor-jsfx-0-1-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "blue-vocal-compressor-jsfx-0-1-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1138,7 +1139,7 @@
       ];
     };
     blue-vocal-compressor-jsfx-0-2-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "blue-vocal-compressor-jsfx-0-2-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1152,7 +1153,7 @@
       ];
     };
     blue-vocal-compressor-jsfx-0-2-1beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "blue-vocal-compressor-jsfx-0-2-1beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1191,7 +1192,7 @@
       ];
     };
     blue-vocal-compressor-jsfx-0-4-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "blue-vocal-compressor-jsfx-0-4-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1225,7 +1226,7 @@
       ];
     };
     blue-vocal-compressor-jsfx-0-5-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "blue-vocal-compressor-jsfx-0-5-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1259,7 +1260,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-1-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-1-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1273,7 +1274,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-1-4beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-1-4beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1287,7 +1288,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-2-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-2-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1301,7 +1302,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-2-1beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-2-1beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1315,7 +1316,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-2-2beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-2-2beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1329,7 +1330,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-2-3beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-2-3beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1343,7 +1344,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-2-4beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-2-4beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1357,7 +1358,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-2-5beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-2-5beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1371,7 +1372,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-2-6beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-2-6beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1385,7 +1386,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-2-8beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-2-8beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1399,7 +1400,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-3-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-3-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1413,7 +1414,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-3-1beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-3-1beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1427,7 +1428,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-3-2beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-3-2beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1441,7 +1442,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-3-3beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-3-3beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1480,7 +1481,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-3-6beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-3-6beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1519,7 +1520,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-3-7beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-3-7beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1558,7 +1559,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-3-9beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-3-9beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1597,7 +1598,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-4-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-4-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1636,7 +1637,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-4-2beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-4-2beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1675,7 +1676,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-5-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-5-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1714,7 +1715,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-5-1beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-5-1beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1753,7 +1754,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-5-2beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-5-2beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1792,7 +1793,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-5-5beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-5-5beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1836,7 +1837,7 @@
       ];
     };
     hq-track-compressor-jsfx-0-5-6beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-5-6beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1880,7 +1881,7 @@
       ];
     };
     limit-smash-jsfx-3-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "limit-smash-jsfx-3-1-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1894,7 +1895,7 @@
       ];
     };
     limit-smash-jsfx-3-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "limit-smash-jsfx-3-1-2";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1908,7 +1909,7 @@
       ];
     };
     limit-smash-jsfx-3-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "limit-smash-jsfx-3-2-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1922,7 +1923,7 @@
       ];
     };
     limit-smash-jsfx-3-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "limit-smash-jsfx-3-3-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1936,7 +1937,7 @@
       ];
     };
     limit-smash-jsfx-3-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "limit-smash-jsfx-3-3-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1950,7 +1951,7 @@
       ];
     };
     limit-smash-jsfx-3-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "limit-smash-jsfx-3-3-3";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1964,7 +1965,7 @@
       ];
     };
     limit-smash-jsfx-3-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "limit-smash-jsfx-3-3-4";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1978,7 +1979,7 @@
       ];
     };
     live-limit-jsfx-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "live-limit-jsfx-2-0-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -1992,7 +1993,7 @@
       ];
     };
     live-limit-jsfx-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "live-limit-jsfx-2-0-2";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2006,7 +2007,7 @@
       ];
     };
     live-limit-jsfx-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "live-limit-jsfx-3-0-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2020,7 +2021,7 @@
       ];
     };
     live-limit-jsfx-3-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "live-limit-jsfx-3-0-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2034,7 +2035,7 @@
       ];
     };
     retro-limiter-jsfx-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-limiter-jsfx-1-2-2";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2048,7 +2049,7 @@
       ];
     };
     retro-limiter-jsfx-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-limiter-jsfx-1-2-3";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2062,7 +2063,7 @@
       ];
     };
     retro-limiter-jsfx-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-limiter-jsfx-1-2-4";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2076,7 +2077,7 @@
       ];
     };
     retro-punch-comp-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-punch-comp-jsfx-1-0-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2090,7 +2091,7 @@
       ];
     };
     retro-punch-comp-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-punch-comp-jsfx-1-0-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2104,7 +2105,7 @@
       ];
     };
     retro-punch-comp-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-punch-comp-jsfx-1-0-2";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2118,7 +2119,7 @@
       ];
     };
     retro-punch-comp-jsfx-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-punch-comp-jsfx-1-0-3";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2132,7 +2133,7 @@
       ];
     };
     retro-punch-comp-jsfx-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-punch-comp-jsfx-1-0-4";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2146,7 +2147,7 @@
       ];
     };
     retro-punch-comp-jsfx-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-punch-comp-jsfx-1-0-5";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2160,7 +2161,7 @@
       ];
     };
     retro-punch-comp-jsfx-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-punch-comp-jsfx-1-0-6";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2174,7 +2175,7 @@
       ];
     };
     retro-punch-comp-jsfx-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-punch-comp-jsfx-1-0-7";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2188,7 +2189,7 @@
       ];
     };
     retro-punch-comp-jsfx-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-punch-comp-jsfx-1-0-8";
       indexName = "StevieKeys JSFX";
       categoryName = "Dynamics";
@@ -2202,7 +2203,7 @@
       ];
     };
     dirt-eq-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dirt-eq-jsfx-1-0-0";
       indexName = "StevieKeys JSFX";
       categoryName = "EQ";
@@ -2216,7 +2217,7 @@
       ];
     };
     dirt-eq-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dirt-eq-jsfx-1-0-1";
       indexName = "StevieKeys JSFX";
       categoryName = "EQ";
@@ -2230,7 +2231,7 @@
       ];
     };
     dirt-eq-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dirt-eq-jsfx-1-0-2";
       indexName = "StevieKeys JSFX";
       categoryName = "EQ";
@@ -2244,7 +2245,7 @@
       ];
     };
     highpass-lowpass-12db-jsfx-0-8-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "highpass-lowpass-12db-jsfx-0-8-0";
       indexName = "StevieKeys JSFX";
       categoryName = "EQ";
@@ -2258,7 +2259,7 @@
       ];
     };
     retro-mod-a-exciter-jsfx-0-1-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-mod-a-exciter-jsfx-0-1-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "EQ";
@@ -2272,7 +2273,7 @@
       ];
     };
     retro-q-v3-jsfx-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-q-v3-jsfx-3-0-0";
       indexName = "StevieKeys JSFX";
       categoryName = "EQ";
@@ -2286,7 +2287,7 @@
       ];
     };
     retro-q-v3-jsfx-3-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-q-v3-jsfx-3-0-1";
       indexName = "StevieKeys JSFX";
       categoryName = "EQ";
@@ -2300,7 +2301,7 @@
       ];
     };
     retro-q-v3-jsfx-3-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-q-v3-jsfx-3-0-2";
       indexName = "StevieKeys JSFX";
       categoryName = "EQ";
@@ -2314,7 +2315,7 @@
       ];
     };
     retro-q-v3-jsfx-3-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-q-v3-jsfx-3-0-3";
       indexName = "StevieKeys JSFX";
       categoryName = "EQ";
@@ -2328,7 +2329,7 @@
       ];
     };
     retro-q-v3-jsfx-3-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-q-v3-jsfx-3-0-4";
       indexName = "StevieKeys JSFX";
       categoryName = "EQ";
@@ -2342,7 +2343,7 @@
       ];
     };
     retro-q-v4-jsfx-4-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-q-v4-jsfx-4-0-0";
       indexName = "StevieKeys JSFX";
       categoryName = "EQ";
@@ -2361,7 +2362,7 @@
       ];
     };
     retro-q-v4-jsfx-4-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "retro-q-v4-jsfx-4-0-1";
       indexName = "StevieKeys JSFX";
       categoryName = "EQ";
@@ -2380,7 +2381,7 @@
       ];
     };
     pong-game-jsfx-0-8-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pong-game-jsfx-0-8-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Other";
@@ -2394,7 +2395,7 @@
       ];
     };
     pong-game-jsfx-0-8-1beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pong-game-jsfx-0-8-1beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Other";
@@ -2408,7 +2409,7 @@
       ];
     };
     pong-game-jsfx-0-8-5beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pong-game-jsfx-0-8-5beta";
       indexName = "StevieKeys JSFX";
       categoryName = "Other";
@@ -2422,7 +2423,7 @@
       ];
     };
     transient-softener-jsfx-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "transient-softener-jsfx-1-6-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Other";
@@ -2436,7 +2437,7 @@
       ];
     };
     transient-softener-jsfx-1-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "transient-softener-jsfx-1-6-2";
       indexName = "StevieKeys JSFX";
       categoryName = "Other";
@@ -2450,7 +2451,7 @@
       ];
     };
     transient-softener-jsfx-1-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "transient-softener-jsfx-1-6-3";
       indexName = "StevieKeys JSFX";
       categoryName = "Other";
@@ -2464,7 +2465,7 @@
       ];
     };
     odd-n-even-saturation-jsfx-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "odd-n-even-saturation-jsfx-1-3-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Saturation";
@@ -2478,7 +2479,7 @@
       ];
     };
     odd-n-even-saturation-jsfx-1-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "odd-n-even-saturation-jsfx-1-4-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Saturation";
@@ -2492,7 +2493,7 @@
       ];
     };
     odd-n-even-saturation-jsfx-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "odd-n-even-saturation-jsfx-1-4-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Saturation";
@@ -2506,7 +2507,7 @@
       ];
     };
     odd-saturation-jsfx-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "odd-saturation-jsfx-1-2-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Saturation";
@@ -2520,7 +2521,7 @@
       ];
     };
     odd-saturation-jsfx-1-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "odd-saturation-jsfx-1-3-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Saturation";
@@ -2534,7 +2535,7 @@
       ];
     };
     odd-saturation-jsfx-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "odd-saturation-jsfx-1-3-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Saturation";
@@ -2548,7 +2549,7 @@
       ];
     };
     odd-saturation-jsfx-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "odd-saturation-jsfx-1-3-2";
       indexName = "StevieKeys JSFX";
       categoryName = "Saturation";
@@ -2562,7 +2563,7 @@
       ];
     };
     smooth-clipper-jsfx-1-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smooth-clipper-jsfx-1-2-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Saturation";
@@ -2576,7 +2577,7 @@
       ];
     };
     smooth-clipper-jsfx-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smooth-clipper-jsfx-1-2-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Saturation";
@@ -2590,7 +2591,7 @@
       ];
     };
     haas-delay-and-filtering-jsfx-3-0-0pre = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "haas-delay-and-filtering-jsfx-3-0-0pre";
       indexName = "StevieKeys JSFX";
       categoryName = "Stereo Enhancers";
@@ -2604,7 +2605,7 @@
       ];
     };
     haas-delay-and-filtering-jsfx-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "haas-delay-and-filtering-jsfx-3-0-0";
       indexName = "StevieKeys JSFX";
       categoryName = "Stereo Enhancers";
@@ -2618,7 +2619,7 @@
       ];
     };
     haas-delay-and-filtering-jsfx-3-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "haas-delay-and-filtering-jsfx-3-0-1";
       indexName = "StevieKeys JSFX";
       categoryName = "Stereo Enhancers";
@@ -2632,7 +2633,7 @@
       ];
     };
     auto-deesser-jsfx-0-2-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-deesser-jsfx-0-2-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "utility";
@@ -2646,7 +2647,7 @@
       ];
     };
     auto-deesser-jsfx-0-3-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-deesser-jsfx-0-3-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "utility";
@@ -2660,7 +2661,7 @@
       ];
     };
     auto-deesser-jsfx-0-4-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-deesser-jsfx-0-4-0beta";
       indexName = "StevieKeys JSFX";
       categoryName = "utility";
@@ -2674,7 +2675,7 @@
       ];
     };
     auto-deesser-jsfx-0-4-5beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-deesser-jsfx-0-4-5beta";
       indexName = "StevieKeys JSFX";
       categoryName = "utility";
@@ -2688,7 +2689,7 @@
       ];
     };
     auto-deesser-jsfx-0-4-6beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "auto-deesser-jsfx-0-4-6beta";
       indexName = "StevieKeys JSFX";
       categoryName = "utility";
@@ -2702,7 +2703,7 @@
       ];
     };
     dual-360-pan-jsfx-0-8-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dual-360-pan-jsfx-0-8-0";
       indexName = "StevieKeys JSFX";
       categoryName = "utility";
@@ -2716,7 +2717,7 @@
       ];
     };
     maximum-resolution-dither-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "maximum-resolution-dither-jsfx-1-0-0";
       indexName = "StevieKeys JSFX";
       categoryName = "utility";
@@ -2730,7 +2731,7 @@
       ];
     };
     perfect-mono-jsfx-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "perfect-mono-jsfx-1-0-0";
       indexName = "StevieKeys JSFX";
       categoryName = "utility";
@@ -2744,7 +2745,7 @@
       ];
     };
     perfect-mono-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "perfect-mono-jsfx-1-0-1";
       indexName = "StevieKeys JSFX";
       categoryName = "utility";
@@ -2758,7 +2759,7 @@
       ];
     };
     perfect-mono-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "perfect-mono-jsfx-1-0-2";
       indexName = "StevieKeys JSFX";
       categoryName = "utility";

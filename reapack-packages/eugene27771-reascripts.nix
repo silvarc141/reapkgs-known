@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   eugene27771-reascripts = {
     gen-save-preset-for-last-touched-fx-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-save-preset-for-last-touched-fx-lua-1-02";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "FX";
@@ -19,7 +20,7 @@
       ];
     };
     gen-save-preset-for-last-touched-fx-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-save-preset-for-last-touched-fx-lua-1-03";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "FX";
@@ -33,7 +34,7 @@
       ];
     };
     gen-trackfx-routing-matrix-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-trackfx-routing-matrix-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "FX";
@@ -47,7 +48,7 @@
       ];
     };
     gen-explode-multichannel-audio-non-destructive-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-explode-multichannel-audio-non-destructive-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing";
@@ -61,7 +62,7 @@
       ];
     };
     gen-open-media-item-source-relative-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-open-media-item-source-relative-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing";
@@ -75,7 +76,7 @@
       ];
     };
     gen-open-media-item-type-relative-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-open-media-item-type-relative-eel-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing";
@@ -89,7 +90,7 @@
       ];
     };
     gen-remove-empty-bars-from-selected-midi-items-grid-relative-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-remove-empty-bars-from-selected-midi-items-grid-relative-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing";
@@ -103,7 +104,7 @@
       ];
     };
     gen-remove-empty-bars-from-selected-midi-items-regard-cc-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-remove-empty-bars-from-selected-midi-items-regard-cc-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing";
@@ -117,7 +118,7 @@
       ];
     };
     gen-remove-empty-bars-from-selected-midi-items-regard-cc-grid-relative-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-remove-empty-bars-from-selected-midi-items-regard-cc-grid-relative-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing";
@@ -131,7 +132,7 @@
       ];
     };
     gen-remove-empty-bars-from-selected-midi-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-remove-empty-bars-from-selected-midi-items-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing";
@@ -145,7 +146,7 @@
       ];
     };
     gen-render-selected-item-as-new-take-up-to-last-vsti-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-render-selected-item-as-new-take-up-to-last-vsti-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing";
@@ -159,7 +160,7 @@
       ];
     };
     gen-render-selected-item-on-new-track-up-to-last-vsti-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-render-selected-item-on-new-track-up-to-last-vsti-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing";
@@ -173,7 +174,7 @@
       ];
     };
     gen-sampleeditor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-sampleeditor-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing";
@@ -187,7 +188,7 @@
       ];
     };
     gen-sampleeditor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-sampleeditor-lua-1-01";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing";
@@ -201,7 +202,7 @@
       ];
     };
     gen-sampleeditor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-sampleeditor-lua-1-02";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing";
@@ -215,7 +216,7 @@
       ];
     };
     gen-stretch-selected-items-positions-and-rate-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-stretch-selected-items-positions-and-rate-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing";
@@ -229,7 +230,7 @@
       ];
     };
     gen-vox-deess-enveloper-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-vox-deess-enveloper-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing";
@@ -243,7 +244,7 @@
       ];
     };
     gen-adjust-plus10-velocity-of-selected-item-notes-within-time-selection-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-adjust-plus10-velocity-of-selected-item-notes-within-time-selection-eel-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing/MIDI item adjustment";
@@ -257,7 +258,7 @@
       ];
     };
     gen-adjust-10-velocity-of-selected-item-notes-within-time-selection-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-adjust-10-velocity-of-selected-item-notes-within-time-selection-eel-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing/MIDI item adjustment";
@@ -271,7 +272,7 @@
       ];
     };
     gen-adjust-parameters-of-selected-item-notes-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-adjust-parameters-of-selected-item-notes-eel-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing/MIDI item adjustment";
@@ -285,7 +286,7 @@
       ];
     };
     gen-adjust-velocity-of-selected-item-notes-within-time-selection-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-adjust-velocity-of-selected-item-notes-within-time-selection-eel-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing/MIDI item adjustment";
@@ -299,7 +300,7 @@
       ];
     };
     gen-move-selected-item-notes-left-within-time-selection-grid-relative-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-move-selected-item-notes-left-within-time-selection-grid-relative-eel-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing/MIDI item adjustment";
@@ -313,7 +314,7 @@
       ];
     };
     gen-move-selected-item-notes-right-within-time-selection-grid-relative-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-move-selected-item-notes-right-within-time-selection-grid-relative-eel-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing/MIDI item adjustment";
@@ -327,7 +328,7 @@
       ];
     };
     gen-transpose-selected-item-notes-down-within-time-selection-one-semitone-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-transpose-selected-item-notes-down-within-time-selection-one-semitone-eel-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing/MIDI item adjustment";
@@ -341,7 +342,7 @@
       ];
     };
     gen-transpose-selected-item-notes-up-within-time-selection-one-semitone-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-transpose-selected-item-notes-up-within-time-selection-one-semitone-eel-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing/MIDI item adjustment";
@@ -355,7 +356,7 @@
       ];
     };
     gen-transpose-selected-item-notes-within-time-selection-with-prompt-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-transpose-selected-item-notes-within-time-selection-with-prompt-eel-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Item Editing/MIDI item adjustment";
@@ -369,7 +370,7 @@
       ];
     };
     gen-delete-notes-overlaps-poly-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-delete-notes-overlaps-poly-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "MIDI Editor";
@@ -383,7 +384,7 @@
       ];
     };
     gen-simple-gui-template-for-scripts-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-simple-gui-template-for-scripts-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Templates/GUI";
@@ -397,7 +398,7 @@
       ];
     };
     gen-freeze-selected-tracks-only-instruments-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-freeze-selected-tracks-only-instruments-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Track Editing";
@@ -411,7 +412,7 @@
       ];
     };
     gen-select-next-first-level-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-select-next-first-level-track-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Tracks Properties";
@@ -425,7 +426,7 @@
       ];
     };
     gen-select-previous-first-level-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-select-previous-first-level-track-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Tracks Properties";
@@ -439,7 +440,7 @@
       ];
     };
     gen-align-items-by-transients-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-align-items-by-transients-lua-1-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various";
@@ -453,7 +454,7 @@
       ];
     };
     gen-align-items-by-transients-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-align-items-by-transients-lua-1-01";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various";
@@ -467,7 +468,7 @@
       ];
     };
     gen-create-stretch-markers-at-transients-eel-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-create-stretch-markers-at-transients-eel-1-01";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various";
@@ -481,7 +482,7 @@
       ];
     };
     gen-drum-trigger-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-drum-trigger-lua-1-01";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various";
@@ -495,7 +496,7 @@
       ];
     };
     gen-drum-trigger-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-drum-trigger-lua-1-02";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various";
@@ -509,7 +510,7 @@
       ];
     };
     gen-envelope-based-compressor-eel-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-envelope-based-compressor-eel-1-00";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various";
@@ -523,7 +524,7 @@
       ];
     };
     gen-envelope-based-compressor-eel-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-envelope-based-compressor-eel-1-01";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various";
@@ -537,7 +538,7 @@
       ];
     };
     gen-envelope-based-deesser-eel-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-envelope-based-deesser-eel-1-00";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various";
@@ -551,7 +552,7 @@
       ];
     };
     gen-envelope-based-deesser-eel-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-envelope-based-deesser-eel-1-01";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various";
@@ -565,7 +566,7 @@
       ];
     };
     gen-retrospective-record-audio-eel-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-retrospective-record-audio-eel-3-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various";
@@ -579,7 +580,7 @@
       ];
     };
     gen-retrospective-record-midi-eel-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-retrospective-record-midi-eel-3-0";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various";
@@ -593,7 +594,7 @@
       ];
     };
     gen-true-stereo-takes-test-eel-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-true-stereo-takes-test-eel-1-04";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various";
@@ -607,7 +608,7 @@
       ];
     };
     gen-true-stereo-takes-test-eel-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-true-stereo-takes-test-eel-1-05";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various";
@@ -621,7 +622,7 @@
       ];
     };
     gen-wave-generator-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-wave-generator-lua-1-02";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various";
@@ -635,7 +636,7 @@
       ];
     };
     gen-envelope-based-compressor-v2-eel-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-envelope-based-compressor-v2-eel-2-1";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various/Envelope-based Compressor";
@@ -679,7 +680,7 @@
       ];
     };
     gen-envelope-based-compressor-v2-eel-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-envelope-based-compressor-v2-eel-2-11";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various/Envelope-based Compressor";
@@ -723,7 +724,7 @@
       ];
     };
     gen-envelope-based-compressor-v2-eel-2-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-envelope-based-compressor-v2-eel-2-12";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various/Envelope-based Compressor";
@@ -767,7 +768,7 @@
       ];
     };
     gen-fxrack-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-fxrack-lua-1-00";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various/FXRack";
@@ -851,7 +852,7 @@
       ];
     };
     gen-fxrack-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gen-fxrack-lua-1-01";
       indexName = "EUGENE27771-ReaScripts";
       categoryName = "Various/FXRack";

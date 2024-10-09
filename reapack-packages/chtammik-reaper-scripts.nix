@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   chtammik-reaper-scripts = {
     chtammik-move-cursor-left-by-0-1-seconds-eel-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-cursor-left-by-0-1-seconds-eel-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Cursor";
@@ -19,7 +20,7 @@
       ];
     };
     chtammik-move-cursor-left-by-0-5-seconds-eel-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-cursor-left-by-0-5-seconds-eel-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Cursor";
@@ -33,7 +34,7 @@
       ];
     };
     chtammik-move-cursor-left-by-1-seconds-eel-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-cursor-left-by-1-seconds-eel-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Cursor";
@@ -47,7 +48,7 @@
       ];
     };
     chtammik-move-cursor-left-by-10-seconds-eel-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-cursor-left-by-10-seconds-eel-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Cursor";
@@ -61,7 +62,7 @@
       ];
     };
     chtammik-move-cursor-left-by-5-seconds-eel-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-cursor-left-by-5-seconds-eel-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Cursor";
@@ -75,7 +76,7 @@
       ];
     };
     chtammik-move-cursor-right-by-0-1-seconds-eel-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-cursor-right-by-0-1-seconds-eel-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Cursor";
@@ -89,7 +90,7 @@
       ];
     };
     chtammik-move-cursor-right-by-0-5-seconds-eel-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-cursor-right-by-0-5-seconds-eel-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Cursor";
@@ -103,7 +104,7 @@
       ];
     };
     chtammik-move-cursor-right-by-1-seconds-eel-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-cursor-right-by-1-seconds-eel-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Cursor";
@@ -117,7 +118,7 @@
       ];
     };
     chtammik-move-cursor-right-by-10-seconds-eel-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-cursor-right-by-10-seconds-eel-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Cursor";
@@ -131,7 +132,7 @@
       ];
     };
     chtammik-move-cursor-right-by-5-seconds-eel-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-cursor-right-by-5-seconds-eel-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Cursor";
@@ -145,7 +146,7 @@
       ];
     };
     chtammik-move-cursor-right-to-next-item-edge-on-same-track-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-cursor-right-to-next-item-edge-on-same-track-eel-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Cursor";
@@ -159,7 +160,7 @@
       ];
     };
     chtammik-move-cursor-right-to-next-item-edge-on-same-track-eel-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-cursor-right-to-next-item-edge-on-same-track-eel-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Cursor";
@@ -173,7 +174,7 @@
       ];
     };
     chtammik-move-selected-items-left-0-1-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-left-0-1-seconds-lua-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -187,7 +188,7 @@
       ];
     };
     chtammik-move-selected-items-left-0-1-seconds-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-left-0-1-seconds-lua-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -201,7 +202,7 @@
       ];
     };
     chtammik-move-selected-items-left-0-5-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-left-0-5-seconds-lua-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -215,7 +216,7 @@
       ];
     };
     chtammik-move-selected-items-left-0-5-seconds-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-left-0-5-seconds-lua-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -229,7 +230,7 @@
       ];
     };
     chtammik-move-selected-items-left-1-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-left-1-seconds-lua-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -243,7 +244,7 @@
       ];
     };
     chtammik-move-selected-items-left-1-seconds-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-left-1-seconds-lua-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -257,7 +258,7 @@
       ];
     };
     chtammik-move-selected-items-left-10-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-left-10-seconds-lua-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -271,7 +272,7 @@
       ];
     };
     chtammik-move-selected-items-left-10-seconds-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-left-10-seconds-lua-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -285,7 +286,7 @@
       ];
     };
     chtammik-move-selected-items-left-2-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-left-2-seconds-lua-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -299,7 +300,7 @@
       ];
     };
     chtammik-move-selected-items-left-2-seconds-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-left-2-seconds-lua-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -313,7 +314,7 @@
       ];
     };
     chtammik-move-selected-items-left-5-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-left-5-seconds-lua-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -327,7 +328,7 @@
       ];
     };
     chtammik-move-selected-items-left-5-seconds-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-left-5-seconds-lua-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -341,7 +342,7 @@
       ];
     };
     chtammik-move-selected-items-right-0-1-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-right-0-1-seconds-lua-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -355,7 +356,7 @@
       ];
     };
     chtammik-move-selected-items-right-0-1-seconds-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-right-0-1-seconds-lua-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -369,7 +370,7 @@
       ];
     };
     chtammik-move-selected-items-right-0-5-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-right-0-5-seconds-lua-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -383,7 +384,7 @@
       ];
     };
     chtammik-move-selected-items-right-0-5-seconds-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-right-0-5-seconds-lua-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -397,7 +398,7 @@
       ];
     };
     chtammik-move-selected-items-right-1-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-right-1-seconds-lua-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -411,7 +412,7 @@
       ];
     };
     chtammik-move-selected-items-right-1-seconds-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-right-1-seconds-lua-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -425,7 +426,7 @@
       ];
     };
     chtammik-move-selected-items-right-10-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-right-10-seconds-lua-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -439,7 +440,7 @@
       ];
     };
     chtammik-move-selected-items-right-10-seconds-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-right-10-seconds-lua-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -453,7 +454,7 @@
       ];
     };
     chtammik-move-selected-items-right-2-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-right-2-seconds-lua-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -467,7 +468,7 @@
       ];
     };
     chtammik-move-selected-items-right-2-seconds-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-right-2-seconds-lua-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -481,7 +482,7 @@
       ];
     };
     chtammik-move-selected-items-right-5-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-right-5-seconds-lua-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -495,7 +496,7 @@
       ];
     };
     chtammik-move-selected-items-right-5-seconds-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-move-selected-items-right-5-seconds-lua-0-1";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Items Editing";
@@ -509,7 +510,7 @@
       ];
     };
     chtammik-xor-exclusive-solo-toggle-selected-tracks-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-xor-exclusive-solo-toggle-selected-tracks-eel-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Track Properties";
@@ -523,7 +524,7 @@
       ];
     };
     chtammik-show-itemnumber-in-console-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chtammik-show-itemnumber-in-console-eel-1-0";
       indexName = "chtammik_Reaper_Scripts";
       categoryName = "Utility";

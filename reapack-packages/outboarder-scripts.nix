@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   outboarder-scripts = {
     outboarder-move-edit-cursor-x-ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-move-edit-cursor-x-ms-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Cursor";
@@ -19,7 +20,7 @@
       ];
     };
     outboarder-move-edit-cursor-left-by-10-ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-move-edit-cursor-left-by-10-ms-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Cursor";
@@ -33,7 +34,7 @@
       ];
     };
     outboarder-move-edit-cursor-left-by-100-ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-move-edit-cursor-left-by-100-ms-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Cursor";
@@ -47,7 +48,7 @@
       ];
     };
     outboarder-move-edit-cursor-left-by-5-ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-move-edit-cursor-left-by-5-ms-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Cursor";
@@ -61,7 +62,7 @@
       ];
     };
     outboarder-move-edit-cursor-left-by-50-ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-move-edit-cursor-left-by-50-ms-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Cursor";
@@ -75,7 +76,7 @@
       ];
     };
     outboarder-move-edit-cursor-right-by-10-ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-move-edit-cursor-right-by-10-ms-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Cursor";
@@ -89,7 +90,7 @@
       ];
     };
     outboarder-move-edit-cursor-right-by-100-ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-move-edit-cursor-right-by-100-ms-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Cursor";
@@ -103,7 +104,7 @@
       ];
     };
     outboarder-move-edit-cursor-right-by-5-ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-move-edit-cursor-right-by-5-ms-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Cursor";
@@ -117,7 +118,7 @@
       ];
     };
     outboarder-move-edit-cursor-right-by-50-ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-move-edit-cursor-right-by-50-ms-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Cursor";
@@ -131,7 +132,7 @@
       ];
     };
     outboarder-move-items-overlap-crossfade-between-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-move-items-overlap-crossfade-between-selected-items-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Item";
@@ -145,7 +146,7 @@
       ];
     };
     outboarder-move-selected-item-s-left-by-loop-division-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-move-selected-item-s-left-by-loop-division-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Item";
@@ -159,7 +160,7 @@
       ];
     };
     outboarder-move-selected-item-s-right-by-loop-division-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-move-selected-item-s-right-by-loop-division-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Item";
@@ -173,7 +174,7 @@
       ];
     };
     outboarder-remove-silence-join-gaps-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-remove-silence-join-gaps-selected-items-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Item";
@@ -187,7 +188,7 @@
       ];
     };
     outboarder-remove-silence-join-gaps-and-glue-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-remove-silence-join-gaps-and-glue-selected-items-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Item";
@@ -201,7 +202,7 @@
       ];
     };
     outboarder-trim-left-at-edit-cursor-move-edit-cursor-left-by-2sec-then-play-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-trim-left-at-edit-cursor-move-edit-cursor-left-by-2sec-then-play-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Item";
@@ -215,7 +216,7 @@
       ];
     };
     outboarder-trim-selected-item-to-nearest-item-on-left-side-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-trim-selected-item-to-nearest-item-on-left-side-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Item";
@@ -229,7 +230,7 @@
       ];
     };
     outboarder-insert-marker-at-edit-cursor-with-custom-name-and-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-insert-marker-at-edit-cursor-with-custom-name-and-color-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Marker";
@@ -243,7 +244,7 @@
       ];
     };
     outboarder-insert-marker-at-play-cursor-with-custom-name-and-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-insert-marker-at-play-cursor-with-custom-name-and-color-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Marker";
@@ -257,7 +258,7 @@
       ];
     };
     outboarder-copy-tcp-vol-pan-to-send-vol-pan-edit-for-instruction-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-copy-tcp-vol-pan-to-send-vol-pan-edit-for-instruction-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -271,7 +272,7 @@
       ];
     };
     outboarder-create-mono-send-from-selected-tracks-to-track-under-mouse-increment-send-channel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-create-mono-send-from-selected-tracks-to-track-under-mouse-increment-send-channel-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -285,7 +286,7 @@
       ];
     };
     outboarder-create-mono-send-from-track-under-mouse-to-selected-tracks-increment-send-channel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-create-mono-send-from-track-under-mouse-to-selected-tracks-increment-send-channel-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -299,7 +300,7 @@
       ];
     };
     outboarder-create-stereo-send-from-selected-tracks-to-track-under-mouse-via-channel-1-2-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-create-stereo-send-from-selected-tracks-to-track-under-mouse-via-channel-1-2-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -313,7 +314,7 @@
       ];
     };
     outboarder-create-stereo-send-from-selected-tracks-to-track-under-mouse-via-channel-3-4-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-create-stereo-send-from-selected-tracks-to-track-under-mouse-via-channel-3-4-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -327,7 +328,7 @@
       ];
     };
     outboarder-create-stereo-send-from-selected-tracks-to-track-under-mouse-via-channel-5-6-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-create-stereo-send-from-selected-tracks-to-track-under-mouse-via-channel-5-6-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -341,7 +342,7 @@
       ];
     };
     outboarder-create-stereo-send-from-selected-tracks-to-track-under-mouse-increment-send-channel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-create-stereo-send-from-selected-tracks-to-track-under-mouse-increment-send-channel-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -355,7 +356,7 @@
       ];
     };
     outboarder-create-stereo-send-from-track-under-mouse-to-selected-tracks-increment-send-channel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-create-stereo-send-from-track-under-mouse-to-selected-tracks-increment-send-channel-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -369,7 +370,7 @@
       ];
     };
     outboarder-create-stereo-send-from-track-under-mouse-to-selected-tracks-via-channel-3-4-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-create-stereo-send-from-track-under-mouse-to-selected-tracks-via-channel-3-4-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -383,7 +384,7 @@
       ];
     };
     outboarder-create-stereo-send-from-track-under-mouse-to-selected-tracks-via-channel-5-6-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-create-stereo-send-from-track-under-mouse-to-selected-tracks-via-channel-5-6-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -397,7 +398,7 @@
       ];
     };
     outboarder-cycle-backward-arm-and-monitor-state-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-backward-arm-and-monitor-state-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -411,7 +412,7 @@
       ];
     };
     outboarder-cycle-backward-arm-state-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-backward-arm-state-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -425,7 +426,7 @@
       ];
     };
     outboarder-cycle-backward-fx-state-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-backward-fx-state-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -439,7 +440,7 @@
       ];
     };
     outboarder-cycle-backward-monitor-state-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-backward-monitor-state-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -453,7 +454,7 @@
       ];
     };
     outboarder-cycle-backward-mute-state-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-backward-mute-state-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -467,7 +468,7 @@
       ];
     };
     outboarder-cycle-backward-pan-value-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-backward-pan-value-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -481,7 +482,7 @@
       ];
     };
     outboarder-cycle-backward-phase-state-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-backward-phase-state-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -495,7 +496,7 @@
       ];
     };
     outboarder-cycle-backward-solo-state-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-backward-solo-state-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -509,7 +510,7 @@
       ];
     };
     outboarder-cycle-backward-volume-value-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-backward-volume-value-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -523,7 +524,7 @@
       ];
     };
     outboarder-cycle-forward-arm-and-monitor-state-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-forward-arm-and-monitor-state-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -537,7 +538,7 @@
       ];
     };
     outboarder-cycle-forward-arm-state-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-forward-arm-state-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -551,7 +552,7 @@
       ];
     };
     outboarder-cycle-forward-fx-state-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-forward-fx-state-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -565,7 +566,7 @@
       ];
     };
     outboarder-cycle-forward-monitor-state-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-forward-monitor-state-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -579,7 +580,7 @@
       ];
     };
     outboarder-cycle-forward-mute-state-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-forward-mute-state-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -593,7 +594,7 @@
       ];
     };
     outboarder-cycle-forward-pan-value-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-forward-pan-value-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -607,7 +608,7 @@
       ];
     };
     outboarder-cycle-forward-phase-state-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-forward-phase-state-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -621,7 +622,7 @@
       ];
     };
     outboarder-cycle-forward-solo-state-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-forward-solo-state-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -635,7 +636,7 @@
       ];
     };
     outboarder-cycle-forward-volume-value-thru-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-cycle-forward-volume-value-thru-selected-tracks-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -649,7 +650,7 @@
       ];
     };
     outboarder-freeze-tracks-custom-item-color-tcp-mcp-layout-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-freeze-tracks-custom-item-color-tcp-mcp-layout-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -663,7 +664,7 @@
       ];
     };
     outboarder-freeze-tracks-custom-tcp-layout-and-item-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-freeze-tracks-custom-tcp-layout-and-item-color-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -677,7 +678,7 @@
       ];
     };
     outboarder-next-input-channel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-next-input-channel-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -691,7 +692,7 @@
       ];
     };
     outboarder-previous-input-channel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-previous-input-channel-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -705,7 +706,7 @@
       ];
     };
     outboarder-unfreeze-tracks-custom-tcp-layout-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-unfreeze-tracks-custom-tcp-layout-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -719,7 +720,7 @@
       ];
     };
     outboarder-unfreeze-tracks-custom-tcp-mcp-layout-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-unfreeze-tracks-custom-tcp-mcp-layout-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Track";
@@ -733,7 +734,7 @@
       ];
     };
     outboarder-note-name-text-generator-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "outboarder-note-name-text-generator-lua-1-0";
       indexName = "Outboarder Scripts";
       categoryName = "Utility";

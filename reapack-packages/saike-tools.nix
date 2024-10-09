@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   saike-tools = {
     saike-abyss-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-abyss-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Abyss";
@@ -29,7 +30,7 @@
       ];
     };
     saike-abyss-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-abyss-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Abyss";
@@ -58,7 +59,7 @@
       ];
     };
     saike-abyss-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-abyss-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Abyss";
@@ -87,7 +88,7 @@
       ];
     };
     saike-abyss-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-abyss-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Abyss";
@@ -116,7 +117,7 @@
       ];
     };
     saike-abyss-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-abyss-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Abyss";
@@ -145,7 +146,7 @@
       ];
     };
     amaranth-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -184,7 +185,7 @@
       ];
     };
     amaranth-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -223,7 +224,7 @@
       ];
     };
     amaranth-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -262,7 +263,7 @@
       ];
     };
     amaranth-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -301,7 +302,7 @@
       ];
     };
     amaranth-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -340,7 +341,7 @@
       ];
     };
     amaranth-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -379,7 +380,7 @@
       ];
     };
     amaranth-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -423,7 +424,7 @@
       ];
     };
     amaranth-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -467,7 +468,7 @@
       ];
     };
     amaranth-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -516,7 +517,7 @@
       ];
     };
     amaranth-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -565,7 +566,7 @@
       ];
     };
     amaranth-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -614,7 +615,7 @@
       ];
     };
     amaranth-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -663,7 +664,7 @@
       ];
     };
     amaranth-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -712,7 +713,7 @@
       ];
     };
     amaranth-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -761,7 +762,7 @@
       ];
     };
     amaranth-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -810,7 +811,7 @@
       ];
     };
     amaranth-jsfx-0-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-19";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -859,7 +860,7 @@
       ];
     };
     amaranth-jsfx-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-20";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -908,7 +909,7 @@
       ];
     };
     amaranth-jsfx-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-21";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -957,7 +958,7 @@
       ];
     };
     amaranth-jsfx-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-22";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -1006,7 +1007,7 @@
       ];
     };
     amaranth-jsfx-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-23";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -1055,7 +1056,7 @@
       ];
     };
     amaranth-jsfx-0-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-24";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -1104,7 +1105,7 @@
       ];
     };
     amaranth-jsfx-0-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-25";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -1153,7 +1154,7 @@
       ];
     };
     amaranth-jsfx-0-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-26";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -1202,7 +1203,7 @@
       ];
     };
     amaranth-jsfx-0-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-27";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -1251,7 +1252,7 @@
       ];
     };
     amaranth-jsfx-0-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-29";
       indexName = "Saike Tools";
       categoryName = "Amaranth";
@@ -1300,7 +1301,7 @@
       ];
     };
     bandsplitter-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1314,7 +1315,7 @@
       ];
     };
     bandsplitter-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1328,7 +1329,7 @@
       ];
     };
     bandsplitter-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1342,7 +1343,7 @@
       ];
     };
     bandsplitter-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1356,7 +1357,7 @@
       ];
     };
     bandsplitter-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1375,7 +1376,7 @@
       ];
     };
     bandsplitter-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1394,7 +1395,7 @@
       ];
     };
     bandsplitter-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1418,7 +1419,7 @@
       ];
     };
     bandsplitter-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1442,7 +1443,7 @@
       ];
     };
     bandsplitter-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1466,7 +1467,7 @@
       ];
     };
     bandsplitter-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1490,7 +1491,7 @@
       ];
     };
     bandsplitter-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1514,7 +1515,7 @@
       ];
     };
     bandsplitter-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1538,7 +1539,7 @@
       ];
     };
     bandsplitter-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1562,7 +1563,7 @@
       ];
     };
     bandsplitter-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1586,7 +1587,7 @@
       ];
     };
     bandsplitter-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1610,7 +1611,7 @@
       ];
     };
     bandsplitter-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1634,7 +1635,7 @@
       ];
     };
     bandsplitter-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1658,7 +1659,7 @@
       ];
     };
     bandsplitter-jsfx-0-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-19";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1682,7 +1683,7 @@
       ];
     };
     bandsplitter-jsfx-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-20";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1706,7 +1707,7 @@
       ];
     };
     bandsplitter-jsfx-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-21";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1730,7 +1731,7 @@
       ];
     };
     bandsplitter-jsfx-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-22";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1754,7 +1755,7 @@
       ];
     };
     bandsplitter-jsfx-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-23";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1778,7 +1779,7 @@
       ];
     };
     ms-20-jsfx-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ms-20-jsfx-1-00";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1792,7 +1793,7 @@
       ];
     };
     ms-20-jsfx-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ms-20-jsfx-1-01";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1806,7 +1807,7 @@
       ];
     };
     ms-20-jsfx-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ms-20-jsfx-1-02";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1820,7 +1821,7 @@
       ];
     };
     ms-20-jsfx-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ms-20-jsfx-1-03";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1834,7 +1835,7 @@
       ];
     };
     ms-20-jsfx-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ms-20-jsfx-1-04";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1848,7 +1849,7 @@
       ];
     };
     ms-20-jsfx-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ms-20-jsfx-1-05";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1862,7 +1863,7 @@
       ];
     };
     saike-stereo-bub-ii-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-stereo-bub-ii-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1876,7 +1877,7 @@
       ];
     };
     saike-stereo-bub-ii-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-stereo-bub-ii-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1890,7 +1891,7 @@
       ];
     };
     saike-stereo-bub-ii-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-stereo-bub-ii-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1904,7 +1905,7 @@
       ];
     };
     saike-stereo-bub-ii-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-stereo-bub-ii-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1918,7 +1919,7 @@
       ];
     };
     saike-stereo-bub-iii-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-stereo-bub-iii-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1932,7 +1933,7 @@
       ];
     };
     saike-stereo-bub-iii-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-stereo-bub-iii-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1946,7 +1947,7 @@
       ];
     };
     saike-stereo-bub-iii-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-stereo-bub-iii-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1960,7 +1961,7 @@
       ];
     };
     saike-superspreaderclone-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-superspreaderclone-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1974,7 +1975,7 @@
       ];
     };
     saike-superspreaderclone-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-superspreaderclone-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -1988,7 +1989,7 @@
       ];
     };
     saike-superspreaderclone-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-superspreaderclone-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2002,7 +2003,7 @@
       ];
     };
     saike-superspreaderclone-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-superspreaderclone-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2016,7 +2017,7 @@
       ];
     };
     saike-superspreaderclone-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-superspreaderclone-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2030,7 +2031,7 @@
       ];
     };
     saike-superspreaderclone-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-superspreaderclone-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2044,7 +2045,7 @@
       ];
     };
     saike-superspreaderclone-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-superspreaderclone-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2058,7 +2059,7 @@
       ];
     };
     saike-superspreaderclone-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-superspreaderclone-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2072,7 +2073,7 @@
       ];
     };
     saike-morph-jsfx-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-morph-jsfx-0-1";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2086,7 +2087,7 @@
       ];
     };
     saike-morph-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-morph-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2100,7 +2101,7 @@
       ];
     };
     saike-morph-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-morph-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2114,7 +2115,7 @@
       ];
     };
     saike-morph-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-morph-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2128,7 +2129,7 @@
       ];
     };
     saike-morph-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-morph-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2142,7 +2143,7 @@
       ];
     };
     saike-morph-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-morph-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2156,7 +2157,7 @@
       ];
     };
     saike-never-odd-or-even-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-never-odd-or-even-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2170,7 +2171,7 @@
       ];
     };
     saike-never-odd-or-even-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-never-odd-or-even-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2184,7 +2185,7 @@
       ];
     };
     saike-never-odd-or-even-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-never-odd-or-even-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2198,7 +2199,7 @@
       ];
     };
     saike-never-odd-or-even-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-never-odd-or-even-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2212,7 +2213,7 @@
       ];
     };
     saike-never-odd-or-even-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-never-odd-or-even-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2236,7 +2237,7 @@
       ];
     };
     saike-pitch-shift-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-pitch-shift-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2255,7 +2256,7 @@
       ];
     };
     saike-pitch-shift-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-pitch-shift-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2274,7 +2275,7 @@
       ];
     };
     saike-routing-utility-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-routing-utility-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2288,7 +2289,7 @@
       ];
     };
     saike-routing-utility-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-routing-utility-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2302,7 +2303,7 @@
       ];
     };
     saike-routing-utility-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-routing-utility-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2316,7 +2317,7 @@
       ];
     };
     saike-routing-utility-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-routing-utility-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2330,7 +2331,7 @@
       ];
     };
     saike-routing-utility-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-routing-utility-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2344,7 +2345,7 @@
       ];
     };
     saike-routing-utility-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-routing-utility-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2358,7 +2359,7 @@
       ];
     };
     saike-routing-utility-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-routing-utility-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2372,7 +2373,7 @@
       ];
     };
     saike-smooth-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-smooth-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2386,7 +2387,7 @@
       ];
     };
     saike-smooth-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-smooth-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2400,7 +2401,7 @@
       ];
     };
     saike-smooth-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-smooth-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2414,7 +2415,7 @@
       ];
     };
     saike-smooth-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-smooth-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2428,7 +2429,7 @@
       ];
     };
     saike-smooth-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-smooth-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2442,7 +2443,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-00";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2456,7 +2457,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-01";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2470,7 +2471,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-02";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2484,7 +2485,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-03";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2498,7 +2499,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-04";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2512,7 +2513,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-05";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2526,7 +2527,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-06";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2540,7 +2541,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-07";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2554,7 +2555,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-08";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2568,7 +2569,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-09";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2582,7 +2583,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-10";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2596,7 +2597,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-11";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2610,7 +2611,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-12";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2624,7 +2625,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-13";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2638,7 +2639,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-14";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2652,7 +2653,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-15";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2666,7 +2667,7 @@
       ];
     };
     tanh-saturator-aa-jsfx-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tanh-saturator-aa-jsfx-1-16";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2685,7 +2686,7 @@
       ];
     };
     tight-compressor-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tight-compressor-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2699,7 +2700,7 @@
       ];
     };
     tight-compressor-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tight-compressor-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2713,7 +2714,7 @@
       ];
     };
     tight-compressor-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tight-compressor-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2727,7 +2728,7 @@
       ];
     };
     tight-compressor-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tight-compressor-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2741,7 +2742,7 @@
       ];
     };
     tight-compressor-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tight-compressor-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2755,7 +2756,7 @@
       ];
     };
     tight-compressor-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tight-compressor-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2769,7 +2770,7 @@
       ];
     };
     tight-compressor-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tight-compressor-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2783,7 +2784,7 @@
       ];
     };
     tight-compressor-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tight-compressor-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2802,7 +2803,7 @@
       ];
     };
     tight-compressor-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tight-compressor-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2821,7 +2822,7 @@
       ];
     };
     tight-compressor-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tight-compressor-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2840,7 +2841,7 @@
       ];
     };
     tight-compressor-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tight-compressor-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2859,7 +2860,7 @@
       ];
     };
     tight-compressor-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tight-compressor-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2878,7 +2879,7 @@
       ];
     };
     tight-compressor-jsfx-0-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tight-compressor-jsfx-0-19";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2897,7 +2898,7 @@
       ];
     };
     tight-compressor-jsfx-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tight-compressor-jsfx-0-20";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2916,7 +2917,7 @@
       ];
     };
     tonestacks-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tonestacks-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2930,7 +2931,7 @@
       ];
     };
     tonestacks-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tonestacks-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2944,7 +2945,7 @@
       ];
     };
     tonestacks-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tonestacks-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2958,7 +2959,7 @@
       ];
     };
     tonestacks-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tonestacks-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2972,7 +2973,7 @@
       ];
     };
     tonestacks-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tonestacks-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -2986,7 +2987,7 @@
       ];
     };
     tonestacks-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tonestacks-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -3000,7 +3001,7 @@
       ];
     };
     tonestacks-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tonestacks-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -3014,7 +3015,7 @@
       ];
     };
     transience-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "transience-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -3028,7 +3029,7 @@
       ];
     };
     transience-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "transience-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -3042,7 +3043,7 @@
       ];
     };
     transience-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "transience-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -3056,7 +3057,7 @@
       ];
     };
     wahriffic-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "wahriffic-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -3075,7 +3076,7 @@
       ];
     };
     wahriffic-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "wahriffic-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Basics";
@@ -3094,7 +3095,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3138,7 +3139,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3182,7 +3183,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3226,7 +3227,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3270,7 +3271,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3314,7 +3315,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3358,7 +3359,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3402,7 +3403,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3451,7 +3452,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3500,7 +3501,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3549,7 +3550,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3598,7 +3599,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3652,7 +3653,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3706,7 +3707,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3760,7 +3761,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3814,7 +3815,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3868,7 +3869,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3922,7 +3923,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -3976,7 +3977,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-19";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4030,7 +4031,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-20";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4084,7 +4085,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-21";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4138,7 +4139,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-22";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4192,7 +4193,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-23";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4246,7 +4247,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-24";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4305,7 +4306,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-25";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4364,7 +4365,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-26";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4423,7 +4424,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-27";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4482,7 +4483,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-28";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4541,7 +4542,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-29";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4600,7 +4601,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-30";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4659,7 +4660,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-31";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4718,7 +4719,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-32";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4777,7 +4778,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-33";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4836,7 +4837,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-34";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4895,7 +4896,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-35";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -4954,7 +4955,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-36";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -5013,7 +5014,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-37";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -5072,7 +5073,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-38";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -5131,7 +5132,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-39";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -5190,7 +5191,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-40";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -5249,7 +5250,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-41";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -5308,7 +5309,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-42";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -5367,7 +5368,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-43";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -5426,7 +5427,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-44";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -5485,7 +5486,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-45";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -5544,7 +5545,7 @@
       ];
     };
     saike-bric-a-brac-jsfx-0-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-bric-a-brac-jsfx-0-46";
       indexName = "Saike Tools";
       categoryName = "bric-a-brac";
@@ -5603,7 +5604,7 @@
       ];
     };
     saike-duskverb-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -5687,7 +5688,7 @@
       ];
     };
     saike-duskverb-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -5771,7 +5772,7 @@
       ];
     };
     saike-duskverb-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -5855,7 +5856,7 @@
       ];
     };
     saike-duskverb-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -5939,7 +5940,7 @@
       ];
     };
     saike-duskverb-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -6023,7 +6024,7 @@
       ];
     };
     saike-duskverb-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -6107,7 +6108,7 @@
       ];
     };
     saike-duskverb-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -6191,7 +6192,7 @@
       ];
     };
     saike-duskverb-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -6275,7 +6276,7 @@
       ];
     };
     saike-duskverb-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -6359,7 +6360,7 @@
       ];
     };
     saike-duskverb-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -6443,7 +6444,7 @@
       ];
     };
     saike-duskverb-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -6527,7 +6528,7 @@
       ];
     };
     saike-duskverb-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -6611,7 +6612,7 @@
       ];
     };
     saike-duskverb-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -6695,7 +6696,7 @@
       ];
     };
     saike-duskverb-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -6779,7 +6780,7 @@
       ];
     };
     saike-duskverb-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -6863,7 +6864,7 @@
       ];
     };
     saike-duskverb-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-duskverb-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "DuskVerb";
@@ -6957,7 +6958,7 @@
       ];
     };
     filther-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -6971,7 +6972,7 @@
       ];
     };
     filther-jsfx-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-0-7";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -6985,7 +6986,7 @@
       ];
     };
     filther-jsfx-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-0-8";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -6999,7 +7000,7 @@
       ];
     };
     filther-jsfx-0-81 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-0-81";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7013,7 +7014,7 @@
       ];
     };
     filther-jsfx-0-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-0-82";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7027,7 +7028,7 @@
       ];
     };
     filther-jsfx-0-85 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-0-85";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7041,7 +7042,7 @@
       ];
     };
     filther-jsfx-0-86 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-0-86";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7055,7 +7056,7 @@
       ];
     };
     filther-jsfx-0-88 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-0-88";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7069,7 +7070,7 @@
       ];
     };
     filther-jsfx-0-89 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-0-89";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7088,7 +7089,7 @@
       ];
     };
     filther-jsfx-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-0-90";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7107,7 +7108,7 @@
       ];
     };
     filther-jsfx-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-0-91";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7126,7 +7127,7 @@
       ];
     };
     filther-jsfx-0-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-0-92";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7145,7 +7146,7 @@
       ];
     };
     filther-jsfx-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-00";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7164,7 +7165,7 @@
       ];
     };
     filther-jsfx-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-01";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7183,7 +7184,7 @@
       ];
     };
     filther-jsfx-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-05";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7202,7 +7203,7 @@
       ];
     };
     filther-jsfx-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-06";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7221,7 +7222,7 @@
       ];
     };
     filther-jsfx-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-07";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7240,7 +7241,7 @@
       ];
     };
     filther-jsfx-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-10";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7259,7 +7260,7 @@
       ];
     };
     filther-jsfx-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-15";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7278,7 +7279,7 @@
       ];
     };
     filther-jsfx-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-16";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7297,7 +7298,7 @@
       ];
     };
     filther-jsfx-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-18";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7316,7 +7317,7 @@
       ];
     };
     filther-jsfx-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-19";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7335,7 +7336,7 @@
       ];
     };
     filther-jsfx-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-22";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7354,7 +7355,7 @@
       ];
     };
     filther-jsfx-1-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-23";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7373,7 +7374,7 @@
       ];
     };
     filther-jsfx-1-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-24";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7392,7 +7393,7 @@
       ];
     };
     filther-jsfx-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-25";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7411,7 +7412,7 @@
       ];
     };
     filther-jsfx-1-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-26";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7430,7 +7431,7 @@
       ];
     };
     filther-jsfx-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-30";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7449,7 +7450,7 @@
       ];
     };
     filther-jsfx-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-31";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7468,7 +7469,7 @@
       ];
     };
     filther-jsfx-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-32";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7487,7 +7488,7 @@
       ];
     };
     filther-jsfx-1-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-33";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7506,7 +7507,7 @@
       ];
     };
     filther-jsfx-1-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-34";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7525,7 +7526,7 @@
       ];
     };
     filther-jsfx-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-35";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7544,7 +7545,7 @@
       ];
     };
     filther-jsfx-1-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-37";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7563,7 +7564,7 @@
       ];
     };
     filther-jsfx-1-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-38";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7582,7 +7583,7 @@
       ];
     };
     filther-jsfx-1-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-39";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7601,7 +7602,7 @@
       ];
     };
     filther-jsfx-1-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-40";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7620,7 +7621,7 @@
       ];
     };
     filther-jsfx-1-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-41";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7639,7 +7640,7 @@
       ];
     };
     filther-jsfx-1-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-42";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7658,7 +7659,7 @@
       ];
     };
     filther-jsfx-1-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-43";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7677,7 +7678,7 @@
       ];
     };
     filther-jsfx-1-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-44";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7696,7 +7697,7 @@
       ];
     };
     filther-jsfx-1-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-47";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7715,7 +7716,7 @@
       ];
     };
     filther-jsfx-1-48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-48";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7734,7 +7735,7 @@
       ];
     };
     filther-jsfx-1-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-50";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7753,7 +7754,7 @@
       ];
     };
     filther-jsfx-1-50b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-50b";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7772,7 +7773,7 @@
       ];
     };
     filther-jsfx-1-48b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-48b";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7791,7 +7792,7 @@
       ];
     };
     filther-jsfx-1-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-54";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7810,7 +7811,7 @@
       ];
     };
     filther-jsfx-1-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-55";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7829,7 +7830,7 @@
       ];
     };
     filther-jsfx-1-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-56";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7848,7 +7849,7 @@
       ];
     };
     filther-jsfx-1-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-57";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7867,7 +7868,7 @@
       ];
     };
     filther-jsfx-1-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-58";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7886,7 +7887,7 @@
       ];
     };
     filther-jsfx-1-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-59";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7905,7 +7906,7 @@
       ];
     };
     filther-jsfx-1-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-60";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7924,7 +7925,7 @@
       ];
     };
     filther-jsfx-1-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-61";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7943,7 +7944,7 @@
       ];
     };
     filther-jsfx-1-62 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-62";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7962,7 +7963,7 @@
       ];
     };
     filther-jsfx-1-63 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-63";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -7981,7 +7982,7 @@
       ];
     };
     filther-jsfx-1-64 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-64";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8000,7 +8001,7 @@
       ];
     };
     filther-jsfx-1-66 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-66";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8019,7 +8020,7 @@
       ];
     };
     filther-jsfx-1-67 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-67";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8038,7 +8039,7 @@
       ];
     };
     filther-jsfx-1-68 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-68";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8057,7 +8058,7 @@
       ];
     };
     filther-jsfx-1-69 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-69";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8076,7 +8077,7 @@
       ];
     };
     filther-jsfx-1-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-70";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8095,7 +8096,7 @@
       ];
     };
     filther-jsfx-1-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-71";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8114,7 +8115,7 @@
       ];
     };
     filther-jsfx-1-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-72";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8133,7 +8134,7 @@
       ];
     };
     filther-jsfx-1-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-73";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8152,7 +8153,7 @@
       ];
     };
     filther-jsfx-1-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-75";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8171,7 +8172,7 @@
       ];
     };
     filther-jsfx-1-77 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-77";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8190,7 +8191,7 @@
       ];
     };
     filther-jsfx-1-78 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-78";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8209,7 +8210,7 @@
       ];
     };
     filther-jsfx-1-79 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-79";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8228,7 +8229,7 @@
       ];
     };
     filther-jsfx-1-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-80";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8247,7 +8248,7 @@
       ];
     };
     filther-jsfx-1-81 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-81";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8266,7 +8267,7 @@
       ];
     };
     filther-jsfx-1-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-82";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8285,7 +8286,7 @@
       ];
     };
     filther-jsfx-1-83 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-83";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8304,7 +8305,7 @@
       ];
     };
     filther-jsfx-1-84 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-84";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8323,7 +8324,7 @@
       ];
     };
     filther-jsfx-1-85 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-85";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8342,7 +8343,7 @@
       ];
     };
     filther-jsfx-1-86 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-86";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8361,7 +8362,7 @@
       ];
     };
     filther-jsfx-1-87 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-87";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8380,7 +8381,7 @@
       ];
     };
     filther-jsfx-1-88 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-88";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8399,7 +8400,7 @@
       ];
     };
     filther-jsfx-1-89 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-89";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8418,7 +8419,7 @@
       ];
     };
     filther-jsfx-1-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-90";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8437,7 +8438,7 @@
       ];
     };
     filther-jsfx-1-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-92";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8456,7 +8457,7 @@
       ];
     };
     filther-jsfx-1-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-93";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8475,7 +8476,7 @@
       ];
     };
     filther-jsfx-1-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-94";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8494,7 +8495,7 @@
       ];
     };
     filther-jsfx-1-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-95";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8513,7 +8514,7 @@
       ];
     };
     filther-jsfx-1-96 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-96";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8532,7 +8533,7 @@
       ];
     };
     filther-jsfx-1-97 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-97";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8551,7 +8552,7 @@
       ];
     };
     filther-jsfx-1-98 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-98";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8570,7 +8571,7 @@
       ];
     };
     filther-jsfx-1-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-1-99";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8589,7 +8590,7 @@
       ];
     };
     filther-jsfx-2-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-00";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8608,7 +8609,7 @@
       ];
     };
     filther-jsfx-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-01";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8627,7 +8628,7 @@
       ];
     };
     filther-jsfx-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-02";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8646,7 +8647,7 @@
       ];
     };
     filther-jsfx-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-03";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8665,7 +8666,7 @@
       ];
     };
     filther-jsfx-2-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-04";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8684,7 +8685,7 @@
       ];
     };
     filther-jsfx-2-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-05";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8703,7 +8704,7 @@
       ];
     };
     filther-jsfx-2-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-06";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8722,7 +8723,7 @@
       ];
     };
     filther-jsfx-2-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-07";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8741,7 +8742,7 @@
       ];
     };
     filther-jsfx-2-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-08";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8760,7 +8761,7 @@
       ];
     };
     filther-jsfx-2-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-09";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8779,7 +8780,7 @@
       ];
     };
     filther-jsfx-2-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-10";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8798,7 +8799,7 @@
       ];
     };
     filther-jsfx-2-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-11";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8817,7 +8818,7 @@
       ];
     };
     filther-jsfx-2-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-12";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8836,7 +8837,7 @@
       ];
     };
     filther-jsfx-2-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-13";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8855,7 +8856,7 @@
       ];
     };
     filther-jsfx-2-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-14";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8874,7 +8875,7 @@
       ];
     };
     filther-jsfx-2-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-15";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8893,7 +8894,7 @@
       ];
     };
     filther-jsfx-2-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-16";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8912,7 +8913,7 @@
       ];
     };
     filther-jsfx-2-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-17";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8931,7 +8932,7 @@
       ];
     };
     filther-jsfx-2-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-18";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8950,7 +8951,7 @@
       ];
     };
     filther-jsfx-2-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-20";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8969,7 +8970,7 @@
       ];
     };
     filther-jsfx-2-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-21";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -8988,7 +8989,7 @@
       ];
     };
     filther-jsfx-2-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-22";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9007,7 +9008,7 @@
       ];
     };
     filther-jsfx-2-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-23";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9026,7 +9027,7 @@
       ];
     };
     filther-jsfx-2-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-24";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9045,7 +9046,7 @@
       ];
     };
     filther-jsfx-2-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-25";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9064,7 +9065,7 @@
       ];
     };
     filther-jsfx-2-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-26";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9083,7 +9084,7 @@
       ];
     };
     filther-jsfx-2-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-27";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9102,7 +9103,7 @@
       ];
     };
     filther-jsfx-2-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-28";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9121,7 +9122,7 @@
       ];
     };
     filther-jsfx-2-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-29";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9140,7 +9141,7 @@
       ];
     };
     filther-jsfx-2-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-30";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9159,7 +9160,7 @@
       ];
     };
     filther-jsfx-2-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-31";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9178,7 +9179,7 @@
       ];
     };
     filther-jsfx-2-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-32";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9197,7 +9198,7 @@
       ];
     };
     filther-jsfx-2-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-34";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9216,7 +9217,7 @@
       ];
     };
     filther-jsfx-2-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-35";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9235,7 +9236,7 @@
       ];
     };
     filther-jsfx-2-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-36";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9254,7 +9255,7 @@
       ];
     };
     filther-jsfx-2-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-37";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9273,7 +9274,7 @@
       ];
     };
     filther-jsfx-2-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-38";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9292,7 +9293,7 @@
       ];
     };
     filther-jsfx-2-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-39";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9311,7 +9312,7 @@
       ];
     };
     filther-jsfx-2-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-40";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9330,7 +9331,7 @@
       ];
     };
     filther-jsfx-2-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-41";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9349,7 +9350,7 @@
       ];
     };
     filther-jsfx-2-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-42";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9368,7 +9369,7 @@
       ];
     };
     filther-jsfx-2-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-43";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9387,7 +9388,7 @@
       ];
     };
     filther-jsfx-2-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-44";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9406,7 +9407,7 @@
       ];
     };
     filther-jsfx-2-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-45";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9425,7 +9426,7 @@
       ];
     };
     filther-jsfx-2-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-46";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9444,7 +9445,7 @@
       ];
     };
     filther-jsfx-2-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-47";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9463,7 +9464,7 @@
       ];
     };
     filther-jsfx-2-48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-48";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9482,7 +9483,7 @@
       ];
     };
     filther-jsfx-2-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-49";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9501,7 +9502,7 @@
       ];
     };
     filther-jsfx-2-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-50";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9520,7 +9521,7 @@
       ];
     };
     filther-jsfx-2-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-52";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9539,7 +9540,7 @@
       ];
     };
     filther-jsfx-2-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-53";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9558,7 +9559,7 @@
       ];
     };
     filther-jsfx-2-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-54";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9577,7 +9578,7 @@
       ];
     };
     filther-jsfx-2-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-55";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9596,7 +9597,7 @@
       ];
     };
     filther-jsfx-2-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-56";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9615,7 +9616,7 @@
       ];
     };
     filther-jsfx-2-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-57";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9634,7 +9635,7 @@
       ];
     };
     filther-jsfx-2-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-58";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9653,7 +9654,7 @@
       ];
     };
     filther-jsfx-2-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-59";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9672,7 +9673,7 @@
       ];
     };
     filther-jsfx-2-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-60";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9691,7 +9692,7 @@
       ];
     };
     filther-jsfx-2-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-61";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9710,7 +9711,7 @@
       ];
     };
     filther-jsfx-2-62 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-62";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9729,7 +9730,7 @@
       ];
     };
     filther-jsfx-2-64 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-64";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9748,7 +9749,7 @@
       ];
     };
     filther-jsfx-2-65 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-65";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9767,7 +9768,7 @@
       ];
     };
     filther-jsfx-2-66 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-66";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9786,7 +9787,7 @@
       ];
     };
     filther-jsfx-2-67 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-67";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9805,7 +9806,7 @@
       ];
     };
     filther-jsfx-2-68 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-68";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9824,7 +9825,7 @@
       ];
     };
     filther-jsfx-2-69 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-69";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9843,7 +9844,7 @@
       ];
     };
     filther-jsfx-2-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-70";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9862,7 +9863,7 @@
       ];
     };
     filther-jsfx-2-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-71";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9881,7 +9882,7 @@
       ];
     };
     filther-jsfx-2-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-72";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9900,7 +9901,7 @@
       ];
     };
     filther-jsfx-2-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-73";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9919,7 +9920,7 @@
       ];
     };
     filther-jsfx-2-74 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-74";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9938,7 +9939,7 @@
       ];
     };
     filther-jsfx-2-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-75";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9957,7 +9958,7 @@
       ];
     };
     filther-jsfx-2-76 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-76";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9976,7 +9977,7 @@
       ];
     };
     filther-jsfx-2-77 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-77";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -9995,7 +9996,7 @@
       ];
     };
     filther-jsfx-2-78 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-78";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10014,7 +10015,7 @@
       ];
     };
     filther-jsfx-2-79 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-79";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10033,7 +10034,7 @@
       ];
     };
     filther-jsfx-2-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-80";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10052,7 +10053,7 @@
       ];
     };
     filther-jsfx-2-81 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-81";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10071,7 +10072,7 @@
       ];
     };
     filther-jsfx-2-83 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-83";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10090,7 +10091,7 @@
       ];
     };
     filther-jsfx-2-84 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-84";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10109,7 +10110,7 @@
       ];
     };
     filther-jsfx-2-86 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-86";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10128,7 +10129,7 @@
       ];
     };
     filther-jsfx-2-87 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-87";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10147,7 +10148,7 @@
       ];
     };
     filther-jsfx-2-89 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-89";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10166,7 +10167,7 @@
       ];
     };
     filther-jsfx-2-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-91";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10185,7 +10186,7 @@
       ];
     };
     filther-jsfx-2-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-93";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10204,7 +10205,7 @@
       ];
     };
     filther-jsfx-2-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-94";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10223,7 +10224,7 @@
       ];
     };
     filther-jsfx-2-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-95";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10242,7 +10243,7 @@
       ];
     };
     filther-jsfx-2-96 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-96";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10261,7 +10262,7 @@
       ];
     };
     filther-jsfx-2-97 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-97";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10280,7 +10281,7 @@
       ];
     };
     filther-jsfx-2-98 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-98";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10299,7 +10300,7 @@
       ];
     };
     filther-jsfx-2-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-2-99";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10318,7 +10319,7 @@
       ];
     };
     filther-jsfx-3-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-00";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10337,7 +10338,7 @@
       ];
     };
     filther-jsfx-3-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-01";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10356,7 +10357,7 @@
       ];
     };
     filther-jsfx-3-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-02";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10375,7 +10376,7 @@
       ];
     };
     filther-jsfx-3-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-03";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10394,7 +10395,7 @@
       ];
     };
     filther-jsfx-3-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-04";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10413,7 +10414,7 @@
       ];
     };
     filther-jsfx-3-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-05";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10432,7 +10433,7 @@
       ];
     };
     filther-jsfx-3-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-06";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10451,7 +10452,7 @@
       ];
     };
     filther-jsfx-3-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-07";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10470,7 +10471,7 @@
       ];
     };
     filther-jsfx-3-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-08";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10489,7 +10490,7 @@
       ];
     };
     filther-jsfx-3-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-09";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10508,7 +10509,7 @@
       ];
     };
     filther-jsfx-3-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-10";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10527,7 +10528,7 @@
       ];
     };
     filther-jsfx-3-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-11";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10546,7 +10547,7 @@
       ];
     };
     filther-jsfx-3-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-12";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10565,7 +10566,7 @@
       ];
     };
     filther-jsfx-3-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-13";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10584,7 +10585,7 @@
       ];
     };
     filther-jsfx-3-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-14";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10603,7 +10604,7 @@
       ];
     };
     filther-jsfx-3-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-15";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10622,7 +10623,7 @@
       ];
     };
     filther-jsfx-3-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-17";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10641,7 +10642,7 @@
       ];
     };
     filther-jsfx-3-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-18";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10660,7 +10661,7 @@
       ];
     };
     filther-jsfx-3-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filther-jsfx-3-19";
       indexName = "Saike Tools";
       categoryName = "Filther";
@@ -10679,7 +10680,7 @@
       ];
     };
     saike-final-boss-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-final-boss-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "FinalBoss";
@@ -10778,7 +10779,7 @@
       ];
     };
     saike-final-boss-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-final-boss-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "FinalBoss";
@@ -10882,7 +10883,7 @@
       ];
     };
     saike-final-boss-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-final-boss-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "FinalBoss";
@@ -10986,7 +10987,7 @@
       ];
     };
     saike-final-boss-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-final-boss-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "FinalBoss";
@@ -11090,7 +11091,7 @@
       ];
     };
     saike-final-boss-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-final-boss-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "FinalBoss";
@@ -11194,7 +11195,7 @@
       ];
     };
     saike-final-boss-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-final-boss-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "FinalBoss";
@@ -11298,7 +11299,7 @@
       ];
     };
     saike-final-boss-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-final-boss-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "FinalBoss";
@@ -11402,7 +11403,7 @@
       ];
     };
     saike-final-boss-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-final-boss-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "FinalBoss";
@@ -11506,7 +11507,7 @@
       ];
     };
     saike-final-boss-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-final-boss-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "FinalBoss";
@@ -11610,7 +11611,7 @@
       ];
     };
     saike-final-boss-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-final-boss-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "FinalBoss";
@@ -11714,7 +11715,7 @@
       ];
     };
     saike-final-boss-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-final-boss-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "FinalBoss";
@@ -11818,7 +11819,7 @@
       ];
     };
     saike-final-boss-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-final-boss-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "FinalBoss";
@@ -11922,7 +11923,7 @@
       ];
     };
     fm-filter-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -11936,7 +11937,7 @@
       ];
     };
     fm-filter-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -11970,7 +11971,7 @@
       ];
     };
     fm-filter-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12004,7 +12005,7 @@
       ];
     };
     fm-filter-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12038,7 +12039,7 @@
       ];
     };
     fm-filter-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12072,7 +12073,7 @@
       ];
     };
     fm-filter-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12106,7 +12107,7 @@
       ];
     };
     fm-filter-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12140,7 +12141,7 @@
       ];
     };
     fm-filter-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12174,7 +12175,7 @@
       ];
     };
     fm-filter-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12208,7 +12209,7 @@
       ];
     };
     fm-filter-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12247,7 +12248,7 @@
       ];
     };
     fm-filter-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12286,7 +12287,7 @@
       ];
     };
     fm-filter-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12340,7 +12341,7 @@
       ];
     };
     fm-filter-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12394,7 +12395,7 @@
       ];
     };
     fm-filter-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12448,7 +12449,7 @@
       ];
     };
     fm-filter-jsfx-0-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-19";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12502,7 +12503,7 @@
       ];
     };
     fm-filter-jsfx-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-20";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12556,7 +12557,7 @@
       ];
     };
     fm-filter-jsfx-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fm-filter-jsfx-0-21";
       indexName = "Saike Tools";
       categoryName = "FMFilter";
@@ -12610,7 +12611,7 @@
       ];
     };
     saike-lava-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -12644,7 +12645,7 @@
       ];
     };
     saike-lava-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -12688,7 +12689,7 @@
       ];
     };
     saike-lava-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -12732,7 +12733,7 @@
       ];
     };
     saike-lava-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -12776,7 +12777,7 @@
       ];
     };
     saike-lava-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -12825,7 +12826,7 @@
       ];
     };
     saike-lava-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -12879,7 +12880,7 @@
       ];
     };
     saike-lava-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -12933,7 +12934,7 @@
       ];
     };
     saike-lava-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -12987,7 +12988,7 @@
       ];
     };
     saike-lava-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13041,7 +13042,7 @@
       ];
     };
     saike-lava-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13095,7 +13096,7 @@
       ];
     };
     saike-lava-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13149,7 +13150,7 @@
       ];
     };
     saike-lava-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13203,7 +13204,7 @@
       ];
     };
     saike-lava-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13257,7 +13258,7 @@
       ];
     };
     saike-lava-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13311,7 +13312,7 @@
       ];
     };
     saike-lava-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13365,7 +13366,7 @@
       ];
     };
     saike-lava-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13419,7 +13420,7 @@
       ];
     };
     saike-lava-jsfx-0-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-19";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13473,7 +13474,7 @@
       ];
     };
     saike-lava-jsfx-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-20";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13527,7 +13528,7 @@
       ];
     };
     saike-lava-jsfx-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-21";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13581,7 +13582,7 @@
       ];
     };
     saike-lava-jsfx-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-22";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13635,7 +13636,7 @@
       ];
     };
     saike-lava-jsfx-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-23";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13689,7 +13690,7 @@
       ];
     };
     saike-lava-jsfx-0-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-25";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13743,7 +13744,7 @@
       ];
     };
     saike-lava-jsfx-0-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-lava-jsfx-0-26";
       indexName = "Saike Tools";
       categoryName = "lavaverb";
@@ -13797,7 +13798,7 @@
       ];
     };
     modizer-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "modizer-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Modizer";
@@ -13826,7 +13827,7 @@
       ];
     };
     modizer-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "modizer-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Modizer";
@@ -13855,7 +13856,7 @@
       ];
     };
     modizer-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "modizer-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Modizer";
@@ -13884,7 +13885,7 @@
       ];
     };
     modizer-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "modizer-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Modizer";
@@ -13913,7 +13914,7 @@
       ];
     };
     modizer-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "modizer-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "Modizer";
@@ -13942,7 +13943,7 @@
       ];
     };
     saike-nostalgizer-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nostalgizer-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Nostalgizer";
@@ -13961,7 +13962,7 @@
       ];
     };
     saike-nostalgizer-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nostalgizer-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Nostalgizer";
@@ -13980,7 +13981,7 @@
       ];
     };
     saike-nostalgizer-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nostalgizer-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "Nostalgizer";
@@ -13999,7 +14000,7 @@
       ];
     };
     saike-nostalgizer-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nostalgizer-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "Nostalgizer";
@@ -14018,7 +14019,7 @@
       ];
     };
     saike-nostalgizer-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nostalgizer-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "Nostalgizer";
@@ -14037,7 +14038,7 @@
       ];
     };
     saike-nostalgizer-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nostalgizer-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "Nostalgizer";
@@ -14056,7 +14057,7 @@
       ];
     };
     saike-nostalgizer-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nostalgizer-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "Nostalgizer";
@@ -14075,7 +14076,7 @@
       ];
     };
     saike-nostalgizer-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nostalgizer-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "Nostalgizer";
@@ -14094,7 +14095,7 @@
       ];
     };
     saike-nostalgizer-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nostalgizer-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "Nostalgizer";
@@ -14113,7 +14114,7 @@
       ];
     };
     saike-nostalgizer-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nostalgizer-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "Nostalgizer";
@@ -14132,7 +14133,7 @@
       ];
     };
     saike-nostalgizer-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nostalgizer-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "Nostalgizer";
@@ -14151,7 +14152,7 @@
       ];
     };
     nott-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14165,7 +14166,7 @@
       ];
     };
     nott-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14179,7 +14180,7 @@
       ];
     };
     nott-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14193,7 +14194,7 @@
       ];
     };
     nott-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14207,7 +14208,7 @@
       ];
     };
     nott-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14221,7 +14222,7 @@
       ];
     };
     nott-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14235,7 +14236,7 @@
       ];
     };
     nott-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14249,7 +14250,7 @@
       ];
     };
     nott-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14263,7 +14264,7 @@
       ];
     };
     nott-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14277,7 +14278,7 @@
       ];
     };
     nott-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14291,7 +14292,7 @@
       ];
     };
     nott-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14305,7 +14306,7 @@
       ];
     };
     nott-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14319,7 +14320,7 @@
       ];
     };
     nott-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14333,7 +14334,7 @@
       ];
     };
     nott-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14347,7 +14348,7 @@
       ];
     };
     nott-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14361,7 +14362,7 @@
       ];
     };
     nott-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nott-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "NOTT";
@@ -14375,7 +14376,7 @@
       ];
     };
     saike-nuker-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nuker-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Nuker";
@@ -14424,7 +14425,7 @@
       ];
     };
     saike-nuker-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nuker-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Nuker";
@@ -14473,7 +14474,7 @@
       ];
     };
     saike-nuker-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nuker-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Nuker";
@@ -14522,7 +14523,7 @@
       ];
     };
     saike-nuker-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-nuker-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Nuker";
@@ -14571,7 +14572,7 @@
       ];
     };
     saike-partials-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -14620,7 +14621,7 @@
       ];
     };
     saike-partials-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -14684,7 +14685,7 @@
       ];
     };
     saike-partials-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -14748,7 +14749,7 @@
       ];
     };
     saike-partials-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -14817,7 +14818,7 @@
       ];
     };
     saike-partials-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -14886,7 +14887,7 @@
       ];
     };
     saike-partials-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -14955,7 +14956,7 @@
       ];
     };
     saike-partials-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -15024,7 +15025,7 @@
       ];
     };
     saike-partials-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -15093,7 +15094,7 @@
       ];
     };
     saike-partials-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -15162,7 +15163,7 @@
       ];
     };
     saike-partials-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -15231,7 +15232,7 @@
       ];
     };
     saike-partials-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -15300,7 +15301,7 @@
       ];
     };
     saike-partials-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -15369,7 +15370,7 @@
       ];
     };
     saike-partials-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -15443,7 +15444,7 @@
       ];
     };
     saike-partials-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -15517,7 +15518,7 @@
       ];
     };
     saike-partials-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -15591,7 +15592,7 @@
       ];
     };
     saike-partials-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -15665,7 +15666,7 @@
       ];
     };
     saike-partials-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -15739,7 +15740,7 @@
       ];
     };
     saike-partials-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -15813,7 +15814,7 @@
       ];
     };
     saike-partials-jsfx-0-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-19";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -15887,7 +15888,7 @@
       ];
     };
     saike-partials-jsfx-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-20";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -15961,7 +15962,7 @@
       ];
     };
     saike-partials-jsfx-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-21";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -16035,7 +16036,7 @@
       ];
     };
     saike-partials-jsfx-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-22";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -16109,7 +16110,7 @@
       ];
     };
     saike-partials-jsfx-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-23";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -16183,7 +16184,7 @@
       ];
     };
     saike-partials-jsfx-0-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-24";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -16257,7 +16258,7 @@
       ];
     };
     saike-partials-jsfx-0-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-25";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -16331,7 +16332,7 @@
       ];
     };
     saike-partials-jsfx-0-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-26";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -16410,7 +16411,7 @@
       ];
     };
     saike-partials-jsfx-0-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-27";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -16489,7 +16490,7 @@
       ];
     };
     saike-partials-jsfx-0-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-28";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -16568,7 +16569,7 @@
       ];
     };
     saike-partials-jsfx-0-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-29";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -16647,7 +16648,7 @@
       ];
     };
     saike-partials-jsfx-0-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-30";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -16726,7 +16727,7 @@
       ];
     };
     saike-partials-jsfx-0-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-32";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -16805,7 +16806,7 @@
       ];
     };
     saike-partials-jsfx-0-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-33";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -16884,7 +16885,7 @@
       ];
     };
     saike-partials-jsfx-0-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-35";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -16963,7 +16964,7 @@
       ];
     };
     saike-partials-jsfx-0-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-36";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -17042,7 +17043,7 @@
       ];
     };
     saike-partials-jsfx-0-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-37";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -17121,7 +17122,7 @@
       ];
     };
     saike-partials-jsfx-0-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-38";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -17200,7 +17201,7 @@
       ];
     };
     saike-partials-jsfx-0-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-39";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -17279,7 +17280,7 @@
       ];
     };
     saike-partials-jsfx-0-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-40";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -17358,7 +17359,7 @@
       ];
     };
     saike-partials-jsfx-0-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-41";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -17437,7 +17438,7 @@
       ];
     };
     saike-partials-jsfx-0-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-42";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -17516,7 +17517,7 @@
       ];
     };
     saike-partials-jsfx-0-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-43";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -17600,7 +17601,7 @@
       ];
     };
     saike-partials-jsfx-0-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-45";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -17694,7 +17695,7 @@
       ];
     };
     saike-partials-jsfx-0-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-46";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -17788,7 +17789,7 @@
       ];
     };
     saike-partials-jsfx-0-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-47";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -17882,7 +17883,7 @@
       ];
     };
     saike-partials-jsfx-0-48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-48";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -17976,7 +17977,7 @@
       ];
     };
     saike-partials-jsfx-0-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-49";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -18070,7 +18071,7 @@
       ];
     };
     saike-partials-jsfx-0-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-50";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -18164,7 +18165,7 @@
       ];
     };
     saike-partials-jsfx-0-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-51";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -18258,7 +18259,7 @@
       ];
     };
     saike-partials-jsfx-0-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-52";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -18352,7 +18353,7 @@
       ];
     };
     saike-partials-jsfx-0-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-53";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -18446,7 +18447,7 @@
       ];
     };
     saike-partials-jsfx-0-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-54";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -18540,7 +18541,7 @@
       ];
     };
     saike-partials-jsfx-0-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-55";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -18634,7 +18635,7 @@
       ];
     };
     saike-partials-jsfx-0-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-56";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -18728,7 +18729,7 @@
       ];
     };
     saike-partials-jsfx-0-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-57";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -18822,7 +18823,7 @@
       ];
     };
     saike-partials-jsfx-0-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-58";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -18916,7 +18917,7 @@
       ];
     };
     saike-partials-jsfx-0-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-59";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -19010,7 +19011,7 @@
       ];
     };
     saike-partials-jsfx-0-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-60";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -19104,7 +19105,7 @@
       ];
     };
     saike-partials-jsfx-0-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-61";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -19198,7 +19199,7 @@
       ];
     };
     saike-partials-jsfx-0-62 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-62";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -19292,7 +19293,7 @@
       ];
     };
     saike-partials-jsfx-0-63 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-63";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -19386,7 +19387,7 @@
       ];
     };
     saike-partials-jsfx-0-64 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-64";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -19480,7 +19481,7 @@
       ];
     };
     saike-partials-jsfx-0-65 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-65";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -19574,7 +19575,7 @@
       ];
     };
     saike-partials-jsfx-0-66 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-66";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -19668,7 +19669,7 @@
       ];
     };
     saike-partials-jsfx-0-67 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-partials-jsfx-0-67";
       indexName = "Saike Tools";
       categoryName = "partials";
@@ -19762,7 +19763,7 @@
       ];
     };
     saike-phase-mangler-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-phase-mangler-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "PhaseMangler";
@@ -19796,7 +19797,7 @@
       ];
     };
     saike-phase-mangler-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-phase-mangler-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "PhaseMangler";
@@ -19830,7 +19831,7 @@
       ];
     };
     saike-phase-mangler-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-phase-mangler-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "PhaseMangler";
@@ -19864,7 +19865,7 @@
       ];
     };
     saike-phase-mangler-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-phase-mangler-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "PhaseMangler";
@@ -19898,7 +19899,7 @@
       ];
     };
     saike-phase-mangler-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-phase-mangler-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "PhaseMangler";
@@ -19932,7 +19933,7 @@
       ];
     };
     poprocks-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "poprocks-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Poprocks";
@@ -19946,7 +19947,7 @@
       ];
     };
     poprocks-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "poprocks-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Poprocks";
@@ -19960,7 +19961,7 @@
       ];
     };
     saike-protosynth-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -19994,7 +19995,7 @@
       ];
     };
     saike-protosynth-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -20058,7 +20059,7 @@
       ];
     };
     saike-protosynth-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -20122,7 +20123,7 @@
       ];
     };
     saike-protosynth-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -20186,7 +20187,7 @@
       ];
     };
     saike-protosynth-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -20250,7 +20251,7 @@
       ];
     };
     saike-protosynth-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -20314,7 +20315,7 @@
       ];
     };
     saike-protosynth-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -20378,7 +20379,7 @@
       ];
     };
     saike-protosynth-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -20442,7 +20443,7 @@
       ];
     };
     saike-protosynth-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -20506,7 +20507,7 @@
       ];
     };
     saike-protosynth-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -20570,7 +20571,7 @@
       ];
     };
     saike-protosynth-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -20644,7 +20645,7 @@
       ];
     };
     saike-protosynth-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -20718,7 +20719,7 @@
       ];
     };
     saike-protosynth-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -20792,7 +20793,7 @@
       ];
     };
     saike-protosynth-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -20866,7 +20867,7 @@
       ];
     };
     saike-protosynth-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -20940,7 +20941,7 @@
       ];
     };
     saike-protosynth-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -21014,7 +21015,7 @@
       ];
     };
     saike-protosynth-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -21088,7 +21089,7 @@
       ];
     };
     saike-protosynth-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -21162,7 +21163,7 @@
       ];
     };
     saike-protosynth-jsfx-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-20";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -21236,7 +21237,7 @@
       ];
     };
     saike-protosynth-jsfx-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-21";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -21310,7 +21311,7 @@
       ];
     };
     saike-protosynth-jsfx-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-22";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -21384,7 +21385,7 @@
       ];
     };
     saike-protosynth-jsfx-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-23";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -21458,7 +21459,7 @@
       ];
     };
     saike-protosynth-jsfx-0-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-24";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -21532,7 +21533,7 @@
       ];
     };
     saike-protosynth-jsfx-0-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-25";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -21611,7 +21612,7 @@
       ];
     };
     saike-protosynth-jsfx-0-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-26";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -21690,7 +21691,7 @@
       ];
     };
     saike-protosynth-jsfx-0-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-27";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -21769,7 +21770,7 @@
       ];
     };
     saike-protosynth-jsfx-0-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-28";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -21848,7 +21849,7 @@
       ];
     };
     saike-protosynth-jsfx-0-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-29";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -21927,7 +21928,7 @@
       ];
     };
     saike-protosynth-jsfx-0-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-30";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -22006,7 +22007,7 @@
       ];
     };
     saike-protosynth-jsfx-0-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-31";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -22085,7 +22086,7 @@
       ];
     };
     saike-protosynth-jsfx-0-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-32";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -22164,7 +22165,7 @@
       ];
     };
     saike-protosynth-jsfx-0-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-33";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -22243,7 +22244,7 @@
       ];
     };
     saike-protosynth-jsfx-0-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-35";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -22322,7 +22323,7 @@
       ];
     };
     saike-protosynth-jsfx-0-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-36";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -22401,7 +22402,7 @@
       ];
     };
     saike-protosynth-jsfx-0-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-37";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -22480,7 +22481,7 @@
       ];
     };
     saike-protosynth-jsfx-0-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-38";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -22559,7 +22560,7 @@
       ];
     };
     saike-protosynth-jsfx-0-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-39";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -22638,7 +22639,7 @@
       ];
     };
     saike-protosynth-jsfx-0-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-40";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -22717,7 +22718,7 @@
       ];
     };
     saike-protosynth-jsfx-0-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-41";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -22796,7 +22797,7 @@
       ];
     };
     saike-protosynth-jsfx-0-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-42";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -22875,7 +22876,7 @@
       ];
     };
     saike-protosynth-jsfx-0-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-43";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -22954,7 +22955,7 @@
       ];
     };
     saike-protosynth-jsfx-0-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-44";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -23038,7 +23039,7 @@
       ];
     };
     saike-protosynth-jsfx-0-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-45";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -23122,7 +23123,7 @@
       ];
     };
     saike-protosynth-jsfx-0-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-46";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -23206,7 +23207,7 @@
       ];
     };
     saike-protosynth-jsfx-0-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-47";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -23290,7 +23291,7 @@
       ];
     };
     saike-protosynth-jsfx-0-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-49";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -23374,7 +23375,7 @@
       ];
     };
     saike-protosynth-jsfx-0-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-protosynth-jsfx-0-50";
       indexName = "Saike Tools";
       categoryName = "protosynth";
@@ -23457,8 +23458,92 @@
         }
       ];
     };
+    saike-protosynth-jsfx-0-51 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saike-protosynth-jsfx-0-51";
+      indexName = "Saike Tools";
+      categoryName = "protosynth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/saike_protosynth.jsfx";
+          sha256 = "0xji900mhrppwic0fmcxwlwqvgrqcr4nxzil8bah03vz3wfqi3rx";
+        }
+        {
+          path = ''protosynth_dependencies/bigfont_caps.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/protosynth_dependencies/bigfont_caps.png";
+          sha256 = "164aim0iy0v6z2rjj7arrcrm5ivr920jsqsb3jkqd1pmkk6663fy";
+        }
+        {
+          path = ''protosynth_dependencies/bigfont_caps3.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/protosynth_dependencies/bigfont_caps3.png";
+          sha256 = "0n39q8mscmi1n06yak863xl2crns6kz98pq9fqmvrpl723c5g1iv";
+        }
+        {
+          path = ''protosynth_dependencies/font.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/protosynth_dependencies/font.png";
+          sha256 = "0ga95pg57y20lrwxlmbsf7sd8vvd5xbkxh2b7fvxb9ylhdihcal7";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_diffusion.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/protosynth_dependencies/saike_proto_diffusion.jsfx-inc";
+          sha256 = "1dkp0rvkjvmin7f87g71jbwv4ilnwizr1x6xpwiijig4s7dfmfsd";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_stft_fx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/protosynth_dependencies/saike_proto_stft_fx.jsfx-inc";
+          sha256 = "0fk8fmnsicjsfds3d4yxiximpz2y7p575z8r3gdq64c92j8k1fx3";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/protosynth_dependencies/saike_proto_synth_filters.jsfx-inc";
+          sha256 = "0cqflw3skwxqvavk0h3zj2nzj7pi11lk9ry2vrfgkhahflvzqfx2";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_fx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/protosynth_dependencies/saike_proto_synth_fx.jsfx-inc";
+          sha256 = "1z47d049c3d4vf3gz4mfcp1vszfdh3ckgv110l93cc15fx9mlh2m";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_kp_midi.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/protosynth_dependencies/saike_proto_synth_kp_midi.jsfx-inc";
+          sha256 = "0qk1r8pxhqn1wr9hkfigvr3wpsrakkd2l3n479xkplj9z4k1x2ar";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_os_nl_filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/protosynth_dependencies/saike_proto_synth_os_nl_filters.jsfx-inc";
+          sha256 = "0llg71rpqcl9c0jf12qcbj89nig36af82fiigj45sd68xmwlrbqm";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_oscillators.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/protosynth_dependencies/saike_proto_synth_oscillators.jsfx-inc";
+          sha256 = "0qrjwz6fignjzrfzxmf2gwpn115dyinfm0fq6pc02hikc43zq5xh";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_pixel_gfx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/protosynth_dependencies/saike_proto_synth_pixel_gfx.jsfx-inc";
+          sha256 = "1p4pwwjdqcyjfaqj41xgn7gnp5aivchsfan1416141rqncfqz7ri";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_spreader.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/protosynth_dependencies/saike_proto_synth_spreader.jsfx-inc";
+          sha256 = "09cjw5mzrwcscml2qz2d9f2n49viydn9nxnsbsc61nbxsh6a8n1h";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_wt.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/protosynth_dependencies/saike_proto_synth_wt.jsfx-inc";
+          sha256 = "0srmgkjz9jzisr999bw83p7hz6s9pa4r84rz32nknx58lsrzp6ag";
+        }
+        {
+          path = ''saike_protosynth.jsfx.rpl'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/saike_protosynth.jsfx.rpl";
+          sha256 = "0ivwjpjjnpq3pd9s3pwp7ykp5y7zhf3qkw9qgm8rm0d8sabq32nm";
+        }
+      ];
+    };
     ravager-mb-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ravager-mb-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Ravager";
@@ -23472,7 +23557,7 @@
       ];
     };
     ravager-mb-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ravager-mb-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Ravager";
@@ -23486,7 +23571,7 @@
       ];
     };
     ravager-mb-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ravager-mb-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Ravager";
@@ -23500,7 +23585,7 @@
       ];
     };
     ravager-mb-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ravager-mb-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Ravager";
@@ -23514,7 +23599,7 @@
       ];
     };
     ravager-mb-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ravager-mb-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Ravager";
@@ -23528,7 +23613,7 @@
       ];
     };
     ravager-mb-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ravager-mb-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "Ravager";
@@ -23542,7 +23627,7 @@
       ];
     };
     ravager-mb-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ravager-mb-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "Ravager";
@@ -23556,7 +23641,7 @@
       ];
     };
     ravager-mb-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ravager-mb-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "Ravager";
@@ -23570,7 +23655,7 @@
       ];
     };
     ravager-mb-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ravager-mb-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "Ravager";
@@ -23584,7 +23669,7 @@
       ];
     };
     ravager-mb-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ravager-mb-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "Ravager";
@@ -23598,7 +23683,7 @@
       ];
     };
     ravager-mb-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ravager-mb-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "Ravager";
@@ -23612,7 +23697,7 @@
       ];
     };
     ravager-mb-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ravager-mb-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "Ravager";
@@ -23626,7 +23711,7 @@
       ];
     };
     ravager-mb-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ravager-mb-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "Ravager";
@@ -23640,7 +23725,7 @@
       ];
     };
     reabee-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reabee-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "ReaBee";
@@ -23654,7 +23739,7 @@
       ];
     };
     reabee-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reabee-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "ReaBee";
@@ -23668,7 +23753,7 @@
       ];
     };
     reflectosaurus-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23682,7 +23767,7 @@
       ];
     };
     reflectosaurus-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23696,7 +23781,7 @@
       ];
     };
     reflectosaurus-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23710,7 +23795,7 @@
       ];
     };
     reflectosaurus-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23724,7 +23809,7 @@
       ];
     };
     reflectosaurus-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23738,7 +23823,7 @@
       ];
     };
     reflectosaurus-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23752,7 +23837,7 @@
       ];
     };
     reflectosaurus-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23771,7 +23856,7 @@
       ];
     };
     reflectosaurus-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23785,7 +23870,7 @@
       ];
     };
     reflectosaurus-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23799,7 +23884,7 @@
       ];
     };
     reflectosaurus-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23813,7 +23898,7 @@
       ];
     };
     reflectosaurus-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23827,7 +23912,7 @@
       ];
     };
     reflectosaurus-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23856,7 +23941,7 @@
       ];
     };
     reflectosaurus-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23885,7 +23970,7 @@
       ];
     };
     reflectosaurus-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23914,7 +23999,7 @@
       ];
     };
     reflectosaurus-jsfx-0-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-19";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23943,7 +24028,7 @@
       ];
     };
     reflectosaurus-jsfx-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-20";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -23972,7 +24057,7 @@
       ];
     };
     reflectosaurus-jsfx-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-21";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24001,7 +24086,7 @@
       ];
     };
     reflectosaurus-jsfx-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-22";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24030,7 +24115,7 @@
       ];
     };
     reflectosaurus-jsfx-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-23";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24059,7 +24144,7 @@
       ];
     };
     reflectosaurus-jsfx-0-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-24";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24088,7 +24173,7 @@
       ];
     };
     reflectosaurus-jsfx-0-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-25";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24117,7 +24202,7 @@
       ];
     };
     reflectosaurus-jsfx-0-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-26";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24146,7 +24231,7 @@
       ];
     };
     reflectosaurus-jsfx-0-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-27";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24175,7 +24260,7 @@
       ];
     };
     reflectosaurus-jsfx-0-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-29";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24204,7 +24289,7 @@
       ];
     };
     reflectosaurus-jsfx-0-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-30";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24233,7 +24318,7 @@
       ];
     };
     reflectosaurus-jsfx-0-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-31";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24262,7 +24347,7 @@
       ];
     };
     reflectosaurus-jsfx-0-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-33";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24291,7 +24376,7 @@
       ];
     };
     reflectosaurus-jsfx-0-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-36";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24320,7 +24405,7 @@
       ];
     };
     reflectosaurus-jsfx-0-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-37";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24349,7 +24434,7 @@
       ];
     };
     reflectosaurus-jsfx-0-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-38";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24378,7 +24463,7 @@
       ];
     };
     reflectosaurus-jsfx-0-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-40";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24412,7 +24497,7 @@
       ];
     };
     reflectosaurus-jsfx-0-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-41";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24446,7 +24531,7 @@
       ];
     };
     reflectosaurus-jsfx-0-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-42";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24480,7 +24565,7 @@
       ];
     };
     reflectosaurus-jsfx-0-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-43";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24514,7 +24599,7 @@
       ];
     };
     reflectosaurus-jsfx-0-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-44";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24548,7 +24633,7 @@
       ];
     };
     reflectosaurus-jsfx-0-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-45";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24582,7 +24667,7 @@
       ];
     };
     reflectosaurus-jsfx-0-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-46";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24621,7 +24706,7 @@
       ];
     };
     reflectosaurus-jsfx-0-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-47";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24640,7 +24725,7 @@
       ];
     };
     reflectosaurus-jsfx-0-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-50";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24654,7 +24739,7 @@
       ];
     };
     reflectosaurus-jsfx-0-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-51";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24668,7 +24753,7 @@
       ];
     };
     reflectosaurus-jsfx-0-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-52";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24702,7 +24787,7 @@
       ];
     };
     reflectosaurus-jsfx-0-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-54";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24736,7 +24821,7 @@
       ];
     };
     reflectosaurus-jsfx-0-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-55";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24775,7 +24860,7 @@
       ];
     };
     reflectosaurus-jsfx-0-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-57";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24819,7 +24904,7 @@
       ];
     };
     reflectosaurus-jsfx-0-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-59";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24868,7 +24953,7 @@
       ];
     };
     reflectosaurus-jsfx-0-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-60";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24917,7 +25002,7 @@
       ];
     };
     reflectosaurus-jsfx-0-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-61";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -24981,7 +25066,7 @@
       ];
     };
     reflectosaurus-jsfx-0-62 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-62";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25045,7 +25130,7 @@
       ];
     };
     reflectosaurus-jsfx-0-64 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-64";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25109,7 +25194,7 @@
       ];
     };
     reflectosaurus-jsfx-0-66 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-66";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25173,7 +25258,7 @@
       ];
     };
     reflectosaurus-jsfx-0-67 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-67";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25237,7 +25322,7 @@
       ];
     };
     reflectosaurus-jsfx-0-68 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-68";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25301,7 +25386,7 @@
       ];
     };
     reflectosaurus-jsfx-0-69 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-69";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25365,7 +25450,7 @@
       ];
     };
     reflectosaurus-jsfx-0-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-70";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25429,7 +25514,7 @@
       ];
     };
     reflectosaurus-jsfx-0-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-71";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25493,7 +25578,7 @@
       ];
     };
     reflectosaurus-jsfx-0-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-72";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25557,7 +25642,7 @@
       ];
     };
     reflectosaurus-jsfx-0-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-73";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25621,7 +25706,7 @@
       ];
     };
     reflectosaurus-jsfx-0-74 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-74";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25685,7 +25770,7 @@
       ];
     };
     reflectosaurus-jsfx-0-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-75";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25749,7 +25834,7 @@
       ];
     };
     reflectosaurus-jsfx-0-76 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-76";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25813,7 +25898,7 @@
       ];
     };
     reflectosaurus-jsfx-0-77 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-77";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25877,7 +25962,7 @@
       ];
     };
     reflectosaurus-jsfx-0-78 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-78";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -25941,7 +26026,7 @@
       ];
     };
     reflectosaurus-jsfx-0-79 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-79";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26005,7 +26090,7 @@
       ];
     };
     reflectosaurus-jsfx-0-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-80";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26069,7 +26154,7 @@
       ];
     };
     reflectosaurus-jsfx-0-81 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-81";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26133,7 +26218,7 @@
       ];
     };
     reflectosaurus-jsfx-0-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-82";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26197,7 +26282,7 @@
       ];
     };
     reflectosaurus-jsfx-0-83 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-83";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26261,7 +26346,7 @@
       ];
     };
     reflectosaurus-jsfx-0-84 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-84";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26325,7 +26410,7 @@
       ];
     };
     reflectosaurus-jsfx-0-87 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-87";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26389,7 +26474,7 @@
       ];
     };
     reflectosaurus-jsfx-0-89 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-89";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26453,7 +26538,7 @@
       ];
     };
     reflectosaurus-jsfx-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-90";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26517,7 +26602,7 @@
       ];
     };
     reflectosaurus-jsfx-0-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-92";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26581,7 +26666,7 @@
       ];
     };
     reflectosaurus-jsfx-0-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-93";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26645,7 +26730,7 @@
       ];
     };
     reflectosaurus-jsfx-0-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-94";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26709,7 +26794,7 @@
       ];
     };
     reflectosaurus-jsfx-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-95";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26773,7 +26858,7 @@
       ];
     };
     reflectosaurus-jsfx-0-96 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-96";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26837,7 +26922,7 @@
       ];
     };
     reflectosaurus-jsfx-0-97 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-97";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26901,7 +26986,7 @@
       ];
     };
     reflectosaurus-jsfx-0-98 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-98";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -26965,7 +27050,7 @@
       ];
     };
     reflectosaurus-jsfx-0-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-99";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -27029,7 +27114,7 @@
       ];
     };
     reflectosaurus-jsfx-0-101 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-101";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -27093,7 +27178,7 @@
       ];
     };
     reflectosaurus-jsfx-0-102 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-102";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -27157,7 +27242,7 @@
       ];
     };
     reflectosaurus-jsfx-0-103 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-103";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -27221,7 +27306,7 @@
       ];
     };
     reflectosaurus-jsfx-0-104 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-104";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -27285,7 +27370,7 @@
       ];
     };
     reflectosaurus-jsfx-0-105 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-105";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -27349,7 +27434,7 @@
       ];
     };
     reflectosaurus-jsfx-0-106 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reflectosaurus-jsfx-0-106";
       indexName = "Saike Tools";
       categoryName = "Reflectosaurus";
@@ -27413,7 +27498,7 @@
       ];
     };
     ripple-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ripple-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Ripple";
@@ -27427,7 +27512,7 @@
       ];
     };
     ripple-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ripple-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Ripple";
@@ -27451,7 +27536,7 @@
       ];
     };
     ripple-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ripple-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Ripple";
@@ -27475,7 +27560,7 @@
       ];
     };
     ripple-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ripple-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Ripple";
@@ -27499,7 +27584,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27513,7 +27598,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27527,7 +27612,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27541,7 +27626,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27555,7 +27640,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27569,7 +27654,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27583,7 +27668,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27597,7 +27682,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27626,7 +27711,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27655,7 +27740,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27684,7 +27769,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27713,7 +27798,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27742,7 +27827,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27771,7 +27856,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27800,7 +27885,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27829,7 +27914,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27858,7 +27943,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27887,7 +27972,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-19";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27916,7 +28001,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-20";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27945,7 +28030,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-21";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -27974,7 +28059,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-22";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28003,7 +28088,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-23";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28032,7 +28117,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-24";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28061,7 +28146,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-25";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28090,7 +28175,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-26";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28119,7 +28204,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-27";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28148,7 +28233,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-28";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28177,7 +28262,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-29";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28206,7 +28291,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-30";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28235,7 +28320,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-31";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28264,7 +28349,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-32";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28293,7 +28378,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-33";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28322,7 +28407,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-34";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28351,7 +28436,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-35";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28380,7 +28465,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-36";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28409,7 +28494,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-37";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28438,7 +28523,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-38";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28467,7 +28552,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-39";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28496,7 +28581,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-40";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28525,7 +28610,7 @@
       ];
     };
     saike-midi-arp-jsfx-0-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-midi-arp-jsfx-0-41";
       indexName = "Saike Tools";
       categoryName = "saike_midi_arp";
@@ -28554,7 +28639,7 @@
       ];
     };
     saikedrums-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -28603,7 +28688,7 @@
       ];
     };
     saikedrums-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -28652,7 +28737,7 @@
       ];
     };
     saikedrums-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -28701,7 +28786,7 @@
       ];
     };
     saikedrums-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -28750,7 +28835,7 @@
       ];
     };
     saikedrums-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -28799,7 +28884,7 @@
       ];
     };
     saikedrums-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -28848,7 +28933,7 @@
       ];
     };
     saikedrums-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -28897,7 +28982,7 @@
       ];
     };
     saikedrums-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -28946,7 +29031,7 @@
       ];
     };
     saikedrums-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -28995,7 +29080,7 @@
       ];
     };
     saikedrums-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -29044,7 +29129,7 @@
       ];
     };
     saikedrums-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -29093,7 +29178,7 @@
       ];
     };
     saikedrums-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -29142,7 +29227,7 @@
       ];
     };
     saikedrums-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -29191,7 +29276,7 @@
       ];
     };
     saikedrums-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -29240,7 +29325,7 @@
       ];
     };
     saikedrums-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "saikedrums";
@@ -29289,7 +29374,7 @@
       ];
     };
     satanverb-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "satanverb-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "SatanVerb";
@@ -29308,7 +29393,7 @@
       ];
     };
     satanverb-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "satanverb-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "SatanVerb";
@@ -29327,7 +29412,7 @@
       ];
     };
     satanverb-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "satanverb-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "SatanVerb";
@@ -29351,7 +29436,7 @@
       ];
     };
     satanverb-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "satanverb-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "SatanVerb";
@@ -29375,7 +29460,7 @@
       ];
     };
     satanverb-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "satanverb-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "SatanVerb";
@@ -29399,7 +29484,7 @@
       ];
     };
     satanverb-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "satanverb-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "SatanVerb";
@@ -29423,7 +29508,7 @@
       ];
     };
     satanverb-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "satanverb-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "SatanVerb";
@@ -29447,7 +29532,7 @@
       ];
     };
     satanverb-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "satanverb-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "SatanVerb";
@@ -29471,7 +29556,7 @@
       ];
     };
     satanverb-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "satanverb-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "SatanVerb";
@@ -29500,7 +29585,7 @@
       ];
     };
     satanverb-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "satanverb-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "SatanVerb";
@@ -29529,7 +29614,7 @@
       ];
     };
     sequencedfx-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29543,7 +29628,7 @@
       ];
     };
     sequencedfx-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29557,7 +29642,7 @@
       ];
     };
     sequencedfx-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29571,7 +29656,7 @@
       ];
     };
     sequencedfx-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29585,7 +29670,7 @@
       ];
     };
     sequencedfx-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29599,7 +29684,7 @@
       ];
     };
     sequencedfx-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29613,7 +29698,7 @@
       ];
     };
     sequencedfx-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29627,7 +29712,7 @@
       ];
     };
     sequencedfx-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29641,7 +29726,7 @@
       ];
     };
     sequencedfx-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29655,7 +29740,7 @@
       ];
     };
     sequencedfx-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29669,7 +29754,7 @@
       ];
     };
     sequencedfx-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29683,7 +29768,7 @@
       ];
     };
     sequencedfx-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29697,7 +29782,7 @@
       ];
     };
     sequencedfx-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29751,7 +29836,7 @@
       ];
     };
     sequencedfx-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29805,7 +29890,7 @@
       ];
     };
     sequencedfx-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29859,7 +29944,7 @@
       ];
     };
     sequencedfx-jsfx-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-20";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29913,7 +29998,7 @@
       ];
     };
     sequencedfx-jsfx-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-21";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -29967,7 +30052,7 @@
       ];
     };
     sequencedfx-jsfx-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-22";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30021,7 +30106,7 @@
       ];
     };
     sequencedfx-jsfx-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-23";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30075,7 +30160,7 @@
       ];
     };
     sequencedfx-jsfx-0-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-24";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30129,7 +30214,7 @@
       ];
     };
     sequencedfx-jsfx-0-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-25";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30183,7 +30268,7 @@
       ];
     };
     sequencedfx-jsfx-0-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-26";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30237,7 +30322,7 @@
       ];
     };
     sequencedfx-jsfx-0-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-28";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30291,7 +30376,7 @@
       ];
     };
     sequencedfx-jsfx-0-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-29";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30345,7 +30430,7 @@
       ];
     };
     sequencedfx-jsfx-0-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-30";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30399,7 +30484,7 @@
       ];
     };
     sequencedfx-jsfx-0-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-31";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30453,7 +30538,7 @@
       ];
     };
     sequencedfx-jsfx-0-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-32";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30507,7 +30592,7 @@
       ];
     };
     sequencedfx-jsfx-0-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-34";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30561,7 +30646,7 @@
       ];
     };
     sequencedfx-jsfx-0-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-35";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30615,7 +30700,7 @@
       ];
     };
     sequencedfx-jsfx-0-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-36";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30669,7 +30754,7 @@
       ];
     };
     sequencedfx-jsfx-0-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-37";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30723,7 +30808,7 @@
       ];
     };
     sequencedfx-jsfx-0-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-40";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30777,7 +30862,7 @@
       ];
     };
     sequencedfx-jsfx-0-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-41";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30831,7 +30916,7 @@
       ];
     };
     sequencedfx-jsfx-0-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-42";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30885,7 +30970,7 @@
       ];
     };
     sequencedfx-jsfx-0-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-43";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30939,7 +31024,7 @@
       ];
     };
     sequencedfx-jsfx-0-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-46";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -30993,7 +31078,7 @@
       ];
     };
     sequencedfx-jsfx-0-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-47";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31047,7 +31132,7 @@
       ];
     };
     sequencedfx-jsfx-0-48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-48";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31101,7 +31186,7 @@
       ];
     };
     sequencedfx-jsfx-0-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-49";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31155,7 +31240,7 @@
       ];
     };
     sequencedfx-jsfx-0-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-50";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31209,7 +31294,7 @@
       ];
     };
     sequencedfx-jsfx-0-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-51";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31263,7 +31348,7 @@
       ];
     };
     sequencedfx-jsfx-0-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-52";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31317,7 +31402,7 @@
       ];
     };
     sequencedfx-jsfx-0-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-54";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31371,7 +31456,7 @@
       ];
     };
     sequencedfx-jsfx-0-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-55";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31425,7 +31510,7 @@
       ];
     };
     sequencedfx-jsfx-0-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-56";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31479,7 +31564,7 @@
       ];
     };
     sequencedfx-jsfx-0-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-57";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31533,7 +31618,7 @@
       ];
     };
     sequencedfx-jsfx-0-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-58";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31587,7 +31672,7 @@
       ];
     };
     sequencedfx-jsfx-0-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-59";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31641,7 +31726,7 @@
       ];
     };
     sequencedfx-jsfx-0-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-60";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31695,7 +31780,7 @@
       ];
     };
     sequencedfx-jsfx-0-63 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-63";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31749,7 +31834,7 @@
       ];
     };
     sequencedfx-jsfx-0-64 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-64";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31803,7 +31888,7 @@
       ];
     };
     sequencedfx-jsfx-0-65 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-65";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31857,7 +31942,7 @@
       ];
     };
     sequencedfx-jsfx-0-66 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-66";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31911,7 +31996,7 @@
       ];
     };
     sequencedfx-jsfx-0-67 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-67";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -31965,7 +32050,7 @@
       ];
     };
     sequencedfx-jsfx-0-68 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-68";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32019,7 +32104,7 @@
       ];
     };
     sequencedfx-jsfx-0-69 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-69";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32073,7 +32158,7 @@
       ];
     };
     sequencedfx-jsfx-0-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-70";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32127,7 +32212,7 @@
       ];
     };
     sequencedfx-jsfx-0-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-72";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32181,7 +32266,7 @@
       ];
     };
     sequencedfx-jsfx-0-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-73";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32235,7 +32320,7 @@
       ];
     };
     sequencedfx-jsfx-0-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-75";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32289,7 +32374,7 @@
       ];
     };
     sequencedfx-jsfx-0-76 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-76";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32343,7 +32428,7 @@
       ];
     };
     sequencedfx-jsfx-0-77 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-77";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32397,7 +32482,7 @@
       ];
     };
     sequencedfx-jsfx-0-78 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-78";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32451,7 +32536,7 @@
       ];
     };
     sequencedfx-jsfx-0-79 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-79";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32505,7 +32590,7 @@
       ];
     };
     sequencedfx-jsfx-0-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-82";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32559,7 +32644,7 @@
       ];
     };
     sequencedfx-jsfx-0-83 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-83";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32613,7 +32698,7 @@
       ];
     };
     sequencedfx-jsfx-0-84 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-84";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32667,7 +32752,7 @@
       ];
     };
     sequencedfx-jsfx-0-85 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-85";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32721,7 +32806,7 @@
       ];
     };
     sequencedfx-jsfx-0-86 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-86";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32775,7 +32860,7 @@
       ];
     };
     sequencedfx-jsfx-0-87 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-87";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32829,7 +32914,7 @@
       ];
     };
     sequencedfx-jsfx-0-88 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-88";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32883,7 +32968,7 @@
       ];
     };
     sequencedfx-jsfx-0-89 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-89";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32937,7 +33022,7 @@
       ];
     };
     sequencedfx-jsfx-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-90";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -32991,7 +33076,7 @@
       ];
     };
     sequencedfx-jsfx-0-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-92";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33045,7 +33130,7 @@
       ];
     };
     sequencedfx-jsfx-0-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-93";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33099,7 +33184,7 @@
       ];
     };
     sequencedfx-jsfx-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-95";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33153,7 +33238,7 @@
       ];
     };
     sequencedfx-jsfx-0-97 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-97";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33207,7 +33292,7 @@
       ];
     };
     sequencedfx-jsfx-0-98 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-98";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33261,7 +33346,7 @@
       ];
     };
     sequencedfx-jsfx-0-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-99";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33315,7 +33400,7 @@
       ];
     };
     sequencedfx-jsfx-0-100 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-100";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33369,7 +33454,7 @@
       ];
     };
     sequencedfx-jsfx-0-101 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-101";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33423,7 +33508,7 @@
       ];
     };
     sequencedfx-jsfx-0-102 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-102";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33477,7 +33562,7 @@
       ];
     };
     sequencedfx-jsfx-0-103 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-103";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33531,7 +33616,7 @@
       ];
     };
     sequencedfx-jsfx-0-104 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-104";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33585,7 +33670,7 @@
       ];
     };
     sequencedfx-jsfx-0-105 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-105";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33639,7 +33724,7 @@
       ];
     };
     sequencedfx-jsfx-0-106 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-106";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33693,7 +33778,7 @@
       ];
     };
     sequencedfx-jsfx-0-107 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-107";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33747,7 +33832,7 @@
       ];
     };
     sequencedfx-jsfx-0-109 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-109";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33801,7 +33886,7 @@
       ];
     };
     sequencedfx-jsfx-0-110 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-110";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33855,7 +33940,7 @@
       ];
     };
     sequencedfx-jsfx-0-111 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-111";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33909,7 +33994,7 @@
       ];
     };
     sequencedfx-jsfx-0-112 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-112";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -33963,7 +34048,7 @@
       ];
     };
     sequencedfx-jsfx-0-113 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-113";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -34017,7 +34102,7 @@
       ];
     };
     sequencedfx-jsfx-0-114 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-114";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -34071,7 +34156,7 @@
       ];
     };
     sequencedfx-jsfx-0-115 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-115";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -34125,7 +34210,7 @@
       ];
     };
     sequencedfx-jsfx-0-116 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-116";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -34179,7 +34264,7 @@
       ];
     };
     sequencedfx-jsfx-0-117 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-117";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -34233,7 +34318,7 @@
       ];
     };
     sequencedfx-jsfx-0-118 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-118";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -34287,7 +34372,7 @@
       ];
     };
     sequencedfx-jsfx-0-119 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-119";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -34341,7 +34426,7 @@
       ];
     };
     sequencedfx-jsfx-0-120 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-120";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -34395,7 +34480,7 @@
       ];
     };
     sequencedfx-jsfx-0-121 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-121";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -34449,7 +34534,7 @@
       ];
     };
     sequencedfx-jsfx-0-122 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-122";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -34503,7 +34588,7 @@
       ];
     };
     sequencedfx-jsfx-0-123 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-123";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -34557,7 +34642,7 @@
       ];
     };
     sequencedfx-jsfx-0-124 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-124";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -34611,7 +34696,7 @@
       ];
     };
     sequencedfx-jsfx-0-125 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sequencedfx-jsfx-0-125";
       indexName = "Saike Tools";
       categoryName = "SequencedFX";
@@ -34665,7 +34750,7 @@
       ];
     };
     loadspectrum-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loadspectrum-lua-0-1";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34684,7 +34769,7 @@
       ];
     };
     loadspectrum-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loadspectrum-lua-0-2";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34698,7 +34783,7 @@
       ];
     };
     loadspectrum-lua-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loadspectrum-lua-0-3";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34712,7 +34797,7 @@
       ];
     };
     loadspectrum-lua-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loadspectrum-lua-0-4";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34726,7 +34811,7 @@
       ];
     };
     loadspectrum-lua-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loadspectrum-lua-0-6";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34740,7 +34825,7 @@
       ];
     };
     loadspectrum-lua-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loadspectrum-lua-0-7";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34754,7 +34839,7 @@
       ];
     };
     loadspectrum-lua-0-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loadspectrum-lua-0-71";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34768,7 +34853,7 @@
       ];
     };
     loadspectrum-lua-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loadspectrum-lua-0-8";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34782,7 +34867,7 @@
       ];
     };
     loadspectrum-lua-0-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loadspectrum-lua-0-80";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34796,7 +34881,7 @@
       ];
     };
     loadspectrum-lua-0-81 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loadspectrum-lua-0-81";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34810,7 +34895,7 @@
       ];
     };
     loadspectrum-lua-0-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loadspectrum-lua-0-82";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34824,7 +34909,7 @@
       ];
     };
     loadspectrum-lua-0-83 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loadspectrum-lua-0-83";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34838,7 +34923,7 @@
       ];
     };
     loadspectrum-lua-0-84 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "loadspectrum-lua-0-84";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34852,7 +34937,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-1-0";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34871,7 +34956,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-1-1";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34890,7 +34975,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-1-2";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34909,7 +34994,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-1-3";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34928,7 +35013,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-1-4";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34947,7 +35032,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-1-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-1-52";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34966,7 +35051,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-2-0";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -34985,7 +35070,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-2-1";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35004,7 +35089,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-2-4";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35023,7 +35108,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-2-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-2-7";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35042,7 +35127,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-2-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-2-9";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35061,7 +35146,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-3-1";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35080,7 +35165,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-3-2";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35099,7 +35184,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-3-3";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35118,7 +35203,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-3-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-3-4";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35137,7 +35222,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-4-0";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35156,7 +35241,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-4-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-4-01";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35175,7 +35260,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-4-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-4-02";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35194,7 +35279,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-4-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-4-04";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35213,7 +35298,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-4-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-4-05";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35232,7 +35317,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-0";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35251,7 +35336,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-1";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35270,7 +35355,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-2";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35289,7 +35374,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-3";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35308,7 +35393,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-4";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35327,7 +35412,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-5";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35346,7 +35431,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-6";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35365,7 +35450,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-7";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35384,7 +35469,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-9";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35403,7 +35488,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-10";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35422,7 +35507,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-11";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35441,7 +35526,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-12";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35460,7 +35545,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-13";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35479,7 +35564,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-14";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35498,7 +35583,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-15";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35517,7 +35602,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-16";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35536,7 +35621,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-17";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35555,7 +35640,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-18";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35574,7 +35659,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-20";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35593,7 +35678,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-21";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35612,7 +35697,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-22";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35631,7 +35716,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-23";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35650,7 +35735,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-24";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35669,7 +35754,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-25";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35688,7 +35773,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-26";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35707,7 +35792,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-27";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35726,7 +35811,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-28";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35745,7 +35830,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-29";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35764,7 +35849,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-30";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35783,7 +35868,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-31";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35802,7 +35887,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-32";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35821,7 +35906,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-33";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35840,7 +35925,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-34";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35859,7 +35944,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-35";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35878,7 +35963,7 @@
       ];
     };
     saikemultispectralanalyzer-jsfx-5-0-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-jsfx-5-0-36";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35897,7 +35982,7 @@
       ];
     };
     saikemultispectralanalyzer-mk2-jsfx-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saikemultispectralanalyzer-mk2-jsfx-1-6";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35911,7 +35996,7 @@
       ];
     };
     stereomanipulator-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereomanipulator-jsfx-1-0";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35925,7 +36010,7 @@
       ];
     };
     stereospectrumsplit-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereospectrumsplit-jsfx-1-0";
       indexName = "Saike Tools";
       categoryName = "SpectrumAnalyzer";
@@ -35939,7 +36024,7 @@
       ];
     };
     squashman-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -35953,7 +36038,7 @@
       ];
     };
     squashman-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -35967,7 +36052,7 @@
       ];
     };
     squashman-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -35981,7 +36066,7 @@
       ];
     };
     squashman-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -35995,7 +36080,7 @@
       ];
     };
     squashman-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36009,7 +36094,7 @@
       ];
     };
     squashman-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36023,7 +36108,7 @@
       ];
     };
     squashman-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36037,7 +36122,7 @@
       ];
     };
     squashman-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36051,7 +36136,7 @@
       ];
     };
     squashman-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36065,7 +36150,7 @@
       ];
     };
     squashman-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36079,7 +36164,7 @@
       ];
     };
     squashman-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36093,7 +36178,7 @@
       ];
     };
     squashman-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36107,7 +36192,7 @@
       ];
     };
     squashman-jsfx-0-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-19";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36121,7 +36206,7 @@
       ];
     };
     squashman-jsfx-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-23";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36135,7 +36220,7 @@
       ];
     };
     squashman-jsfx-0-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-25";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36149,7 +36234,7 @@
       ];
     };
     squashman-jsfx-0-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-26";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36163,7 +36248,7 @@
       ];
     };
     squashman-jsfx-0-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-28";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36177,7 +36262,7 @@
       ];
     };
     squashman-jsfx-0-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-31";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36191,7 +36276,7 @@
       ];
     };
     squashman-jsfx-0-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-32";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36205,7 +36290,7 @@
       ];
     };
     squashman-jsfx-0-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-34";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36219,7 +36304,7 @@
       ];
     };
     squashman-jsfx-0-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-35";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36233,7 +36318,7 @@
       ];
     };
     squashman-jsfx-0-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-36";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36247,7 +36332,7 @@
       ];
     };
     squashman-jsfx-0-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-37";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36261,7 +36346,7 @@
       ];
     };
     squashman-jsfx-0-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-38";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36275,7 +36360,7 @@
       ];
     };
     squashman-jsfx-0-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-42";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36304,7 +36389,7 @@
       ];
     };
     squashman-jsfx-0-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-43";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36343,7 +36428,7 @@
       ];
     };
     squashman-jsfx-0-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-44";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36382,7 +36467,7 @@
       ];
     };
     squashman-jsfx-0-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-45";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36421,7 +36506,7 @@
       ];
     };
     squashman-jsfx-0-48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-48";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36460,7 +36545,7 @@
       ];
     };
     squashman-jsfx-0-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-49";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36499,7 +36584,7 @@
       ];
     };
     squashman-jsfx-0-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-50";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36538,7 +36623,7 @@
       ];
     };
     squashman-jsfx-0-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-51";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36577,7 +36662,7 @@
       ];
     };
     squashman-jsfx-0-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-52";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36616,7 +36701,7 @@
       ];
     };
     squashman-jsfx-0-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-56";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36655,7 +36740,7 @@
       ];
     };
     squashman-jsfx-0-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-57";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36694,7 +36779,7 @@
       ];
     };
     squashman-jsfx-0-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-58";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36733,7 +36818,7 @@
       ];
     };
     squashman-jsfx-0-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-59";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36772,7 +36857,7 @@
       ];
     };
     squashman-jsfx-0-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-60";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36811,7 +36896,7 @@
       ];
     };
     squashman-jsfx-0-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-61";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36855,7 +36940,7 @@
       ];
     };
     squashman-jsfx-0-62 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-62";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36899,7 +36984,7 @@
       ];
     };
     squashman-jsfx-0-63 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-63";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36943,7 +37028,7 @@
       ];
     };
     squashman-jsfx-0-64 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-64";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -36987,7 +37072,7 @@
       ];
     };
     squashman-jsfx-0-65 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-65";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37031,7 +37116,7 @@
       ];
     };
     squashman-jsfx-0-66 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-66";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37075,7 +37160,7 @@
       ];
     };
     squashman-jsfx-0-67 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-67";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37119,7 +37204,7 @@
       ];
     };
     squashman-jsfx-0-68 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-68";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37163,7 +37248,7 @@
       ];
     };
     squashman-jsfx-0-69 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-69";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37207,7 +37292,7 @@
       ];
     };
     squashman-jsfx-0-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-70";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37251,7 +37336,7 @@
       ];
     };
     squashman-jsfx-0-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-71";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37295,7 +37380,7 @@
       ];
     };
     squashman-jsfx-0-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-72";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37339,7 +37424,7 @@
       ];
     };
     squashman-jsfx-0-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-73";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37383,7 +37468,7 @@
       ];
     };
     squashman-jsfx-0-74 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-74";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37427,7 +37512,7 @@
       ];
     };
     squashman-jsfx-0-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-75";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37471,7 +37556,7 @@
       ];
     };
     squashman-jsfx-0-76 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-76";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37515,7 +37600,7 @@
       ];
     };
     squashman-jsfx-0-77 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-77";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37559,7 +37644,7 @@
       ];
     };
     squashman-jsfx-0-78 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-78";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37603,7 +37688,7 @@
       ];
     };
     squashman-jsfx-0-79 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-79";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37652,7 +37737,7 @@
       ];
     };
     squashman-jsfx-0-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-80";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37701,7 +37786,7 @@
       ];
     };
     squashman-jsfx-0-81 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-81";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37750,7 +37835,7 @@
       ];
     };
     squashman-jsfx-0-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-82";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37799,7 +37884,7 @@
       ];
     };
     squashman-jsfx-0-83 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-83";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37848,7 +37933,7 @@
       ];
     };
     squashman-jsfx-0-84 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-84";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37897,7 +37982,7 @@
       ];
     };
     squashman-jsfx-0-85 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "squashman-jsfx-0-85";
       indexName = "Saike Tools";
       categoryName = "Squashman";
@@ -37946,7 +38031,7 @@
       ];
     };
     swellotron-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "swellotron-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Swellotron";
@@ -37960,7 +38045,7 @@
       ];
     };
     swellotron-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "swellotron-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Swellotron";
@@ -37974,7 +38059,7 @@
       ];
     };
     swellotron-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "swellotron-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Swellotron";
@@ -37988,7 +38073,7 @@
       ];
     };
     swellotron-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "swellotron-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Swellotron";
@@ -38002,7 +38087,7 @@
       ];
     };
     swellotron-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "swellotron-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Swellotron";
@@ -38016,7 +38101,7 @@
       ];
     };
     swellotron-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "swellotron-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "Swellotron";
@@ -38030,7 +38115,7 @@
       ];
     };
     swellotron-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "swellotron-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "Swellotron";
@@ -38044,7 +38129,7 @@
       ];
     };
     swellotron-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "swellotron-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "Swellotron";
@@ -38058,7 +38143,7 @@
       ];
     };
     swellotron-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "swellotron-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "Swellotron";
@@ -38072,7 +38157,7 @@
       ];
     };
     swellotron-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "swellotron-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "Swellotron";
@@ -38086,7 +38171,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38100,7 +38185,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38114,7 +38199,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38128,7 +38213,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38142,7 +38227,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38156,7 +38241,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38170,7 +38255,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38184,7 +38269,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38198,7 +38283,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38212,7 +38297,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-11";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38226,7 +38311,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38240,7 +38325,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38254,7 +38339,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38268,7 +38353,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38282,7 +38367,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38296,7 +38381,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38310,7 +38395,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-19";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38324,7 +38409,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-20";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38338,7 +38423,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-21";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38352,7 +38437,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-22";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38366,7 +38451,7 @@
       ];
     };
     saike-fmfilter2-jsfx-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-fmfilter2-jsfx-0-23";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38380,7 +38465,7 @@
       ];
     };
     saike-yutani-jsfx-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-01";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38444,7 +38529,7 @@
       ];
     };
     saike-yutani-jsfx-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-02";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38508,7 +38593,7 @@
       ];
     };
     saike-yutani-jsfx-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-03";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38577,7 +38662,7 @@
       ];
     };
     saike-yutani-jsfx-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-04";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38646,7 +38731,7 @@
       ];
     };
     saike-yutani-jsfx-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-05";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38715,7 +38800,7 @@
       ];
     };
     saike-yutani-jsfx-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-06";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38784,7 +38869,7 @@
       ];
     };
     saike-yutani-jsfx-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-07";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38853,7 +38938,7 @@
       ];
     };
     saike-yutani-jsfx-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-08";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38922,7 +39007,7 @@
       ];
     };
     saike-yutani-jsfx-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-09";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -38991,7 +39076,7 @@
       ];
     };
     saike-yutani-jsfx-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-10";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -39060,7 +39145,7 @@
       ];
     };
     saike-yutani-jsfx-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-12";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -39134,7 +39219,7 @@
       ];
     };
     saike-yutani-jsfx-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-13";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -39208,7 +39293,7 @@
       ];
     };
     saike-yutani-jsfx-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-14";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -39282,7 +39367,7 @@
       ];
     };
     saike-yutani-jsfx-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-15";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -39356,7 +39441,7 @@
       ];
     };
     saike-yutani-jsfx-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-16";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -39430,7 +39515,7 @@
       ];
     };
     saike-yutani-jsfx-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-17";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -39504,7 +39589,7 @@
       ];
     };
     saike-yutani-jsfx-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-18";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -39578,7 +39663,7 @@
       ];
     };
     saike-yutani-jsfx-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-20";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -39652,7 +39737,7 @@
       ];
     };
     saike-yutani-jsfx-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-22";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -39731,7 +39816,7 @@
       ];
     };
     saike-yutani-jsfx-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-23";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -39810,7 +39895,7 @@
       ];
     };
     saike-yutani-jsfx-0-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-24";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -39889,7 +39974,7 @@
       ];
     };
     saike-yutani-jsfx-0-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-27";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -39968,7 +40053,7 @@
       ];
     };
     saike-yutani-jsfx-0-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-28";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -40047,7 +40132,7 @@
       ];
     };
     saike-yutani-jsfx-0-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-29";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -40126,7 +40211,7 @@
       ];
     };
     saike-yutani-jsfx-0-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-30";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -40205,7 +40290,7 @@
       ];
     };
     saike-yutani-jsfx-0-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-31";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -40284,7 +40369,7 @@
       ];
     };
     saike-yutani-jsfx-0-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-32";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -40363,7 +40448,7 @@
       ];
     };
     saike-yutani-jsfx-0-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-33";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -40442,7 +40527,7 @@
       ];
     };
     saike-yutani-jsfx-0-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-34";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -40521,7 +40606,7 @@
       ];
     };
     saike-yutani-jsfx-0-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-35";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -40600,7 +40685,7 @@
       ];
     };
     saike-yutani-jsfx-0-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-36";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -40679,7 +40764,7 @@
       ];
     };
     saike-yutani-jsfx-0-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-37";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -40758,7 +40843,7 @@
       ];
     };
     saike-yutani-jsfx-0-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-38";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -40837,7 +40922,7 @@
       ];
     };
     saike-yutani-jsfx-0-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-39";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -40916,7 +41001,7 @@
       ];
     };
     saike-yutani-jsfx-0-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-40";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -40930,7 +41015,7 @@
       ];
     };
     saike-yutani-jsfx-0-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-41";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -40944,7 +41029,7 @@
       ];
     };
     saike-yutani-jsfx-0-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-42";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -41028,7 +41113,7 @@
       ];
     };
     saike-yutani-jsfx-0-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-44";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -41112,7 +41197,7 @@
       ];
     };
     saike-yutani-jsfx-0-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-45";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -41196,7 +41281,7 @@
       ];
     };
     saike-yutani-jsfx-0-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-46";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -41280,7 +41365,7 @@
       ];
     };
     saike-yutani-jsfx-0-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-47";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -41364,7 +41449,7 @@
       ];
     };
     saike-yutani-jsfx-0-48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-48";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -41453,7 +41538,7 @@
       ];
     };
     saike-yutani-jsfx-0-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-49";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -41542,7 +41627,7 @@
       ];
     };
     saike-yutani-jsfx-0-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-50";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -41631,7 +41716,7 @@
       ];
     };
     saike-yutani-jsfx-0-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-51";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -41720,7 +41805,7 @@
       ];
     };
     saike-yutani-jsfx-0-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-52";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -41809,7 +41894,7 @@
       ];
     };
     saike-yutani-jsfx-0-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-53";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -41898,7 +41983,7 @@
       ];
     };
     saike-yutani-jsfx-0-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-54";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -41987,7 +42072,7 @@
       ];
     };
     saike-yutani-jsfx-0-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-55";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -42076,7 +42161,7 @@
       ];
     };
     saike-yutani-jsfx-0-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-56";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -42165,7 +42250,7 @@
       ];
     };
     saike-yutani-jsfx-0-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-58";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -42254,7 +42339,7 @@
       ];
     };
     saike-yutani-jsfx-0-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-59";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -42343,7 +42428,7 @@
       ];
     };
     saike-yutani-jsfx-0-60 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-60";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -42432,7 +42517,7 @@
       ];
     };
     saike-yutani-jsfx-0-61 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-61";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -42521,7 +42606,7 @@
       ];
     };
     saike-yutani-jsfx-0-62 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-62";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -42610,7 +42695,7 @@
       ];
     };
     saike-yutani-jsfx-0-63 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-63";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -42699,7 +42784,7 @@
       ];
     };
     saike-yutani-jsfx-0-64 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-64";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -42788,7 +42873,7 @@
       ];
     };
     saike-yutani-jsfx-0-65 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-65";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -42877,7 +42962,7 @@
       ];
     };
     saike-yutani-jsfx-0-66 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-66";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -42966,7 +43051,7 @@
       ];
     };
     saike-yutani-jsfx-0-67 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-67";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -43055,7 +43140,7 @@
       ];
     };
     saike-yutani-jsfx-0-68 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-68";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -43144,7 +43229,7 @@
       ];
     };
     saike-yutani-jsfx-0-69 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-69";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -43233,7 +43318,7 @@
       ];
     };
     saike-yutani-jsfx-0-70 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-70";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -43322,7 +43407,7 @@
       ];
     };
     saike-yutani-jsfx-0-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-71";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -43411,7 +43496,7 @@
       ];
     };
     saike-yutani-jsfx-0-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-72";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -43500,7 +43585,7 @@
       ];
     };
     saike-yutani-jsfx-0-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-73";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -43589,7 +43674,7 @@
       ];
     };
     saike-yutani-jsfx-0-74 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-74";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -43678,7 +43763,7 @@
       ];
     };
     saike-yutani-jsfx-0-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-75";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -43767,7 +43852,7 @@
       ];
     };
     saike-yutani-jsfx-0-76 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-76";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -43856,7 +43941,7 @@
       ];
     };
     saike-yutani-jsfx-0-77 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-77";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -43945,7 +44030,7 @@
       ];
     };
     saike-yutani-jsfx-0-78 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-78";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -44034,7 +44119,7 @@
       ];
     };
     saike-yutani-jsfx-0-79 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-79";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -44123,7 +44208,7 @@
       ];
     };
     saike-yutani-jsfx-0-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-80";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -44212,7 +44297,7 @@
       ];
     };
     saike-yutani-jsfx-0-81 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-81";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -44301,7 +44386,7 @@
       ];
     };
     saike-yutani-jsfx-0-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-82";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -44390,7 +44475,7 @@
       ];
     };
     saike-yutani-jsfx-0-83 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-83";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -44479,7 +44564,7 @@
       ];
     };
     saike-yutani-jsfx-0-84 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-84";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -44568,7 +44653,7 @@
       ];
     };
     saike-yutani-jsfx-0-85 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-85";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -44657,7 +44742,7 @@
       ];
     };
     saike-yutani-jsfx-0-86 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-86";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -44746,7 +44831,7 @@
       ];
     };
     saike-yutani-jsfx-0-87 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-87";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -44835,7 +44920,7 @@
       ];
     };
     saike-yutani-jsfx-0-88 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-88";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -44924,7 +45009,7 @@
       ];
     };
     saike-yutani-jsfx-0-89 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-89";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -45013,7 +45098,7 @@
       ];
     };
     saike-yutani-jsfx-0-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-90";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -45107,7 +45192,7 @@
       ];
     };
     saike-yutani-jsfx-0-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-91";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -45201,7 +45286,7 @@
       ];
     };
     saike-yutani-jsfx-0-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-92";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -45295,7 +45380,7 @@
       ];
     };
     saike-yutani-jsfx-0-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-93";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -45389,7 +45474,7 @@
       ];
     };
     saike-yutani-jsfx-0-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-94";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -45483,7 +45568,7 @@
       ];
     };
     saike-yutani-jsfx-0-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-95";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -45577,7 +45662,7 @@
       ];
     };
     saike-yutani-jsfx-0-96 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-96";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -45671,7 +45756,7 @@
       ];
     };
     saike-yutani-jsfx-0-97 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-97";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -45765,7 +45850,7 @@
       ];
     };
     saike-yutani-jsfx-0-98 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-98";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -45859,7 +45944,7 @@
       ];
     };
     saike-yutani-jsfx-0-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-99";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -45953,7 +46038,7 @@
       ];
     };
     saike-yutani-jsfx-0-100 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-100";
       indexName = "Saike Tools";
       categoryName = "Yutani";
@@ -46047,7 +46132,7 @@
       ];
     };
     saike-yutani-jsfx-0-101 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "saike-yutani-jsfx-0-101";
       indexName = "Saike Tools";
       categoryName = "Yutani";

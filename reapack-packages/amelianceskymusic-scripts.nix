@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   amelianceskymusic-scripts = {
     asm-library-asm-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-asm-lua-1-0-2";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -19,7 +20,7 @@
       ];
     };
     asm-library-asm-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-asm-lua-1-0-3";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -33,7 +34,7 @@
       ];
     };
     asm-library-asm-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-asm-lua-1-0-4";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -47,7 +48,7 @@
       ];
     };
     asm-library-asm-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-asm-lua-1-0-5";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -61,7 +62,7 @@
       ];
     };
     asm-library-asm-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-asm-lua-1-0-6";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -75,7 +76,7 @@
       ];
     };
     asm-library-asm-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-asm-lua-1-0-7";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -89,7 +90,7 @@
       ];
     };
     asm-library-buttons-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-buttons-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -103,7 +104,7 @@
       ];
     };
     asm-library-buttons-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-buttons-lua-1-0-1";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -117,7 +118,7 @@
       ];
     };
     asm-library-buttons-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-buttons-lua-1-0-2";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -131,7 +132,7 @@
       ];
     };
     asm-library-io-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-io-lua-1-0-1";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -145,7 +146,7 @@
       ];
     };
     asm-library-io-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-io-lua-1-0-2";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -159,7 +160,7 @@
       ];
     };
     asm-library-math-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-math-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -173,7 +174,7 @@
       ];
     };
     asm-library-math-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-math-lua-1-0-1";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -187,7 +188,7 @@
       ];
     };
     asm-library-other-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-other-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -201,7 +202,7 @@
       ];
     };
     asm-library-other-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-other-lua-1-0-1";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -215,7 +216,7 @@
       ];
     };
     asm-library-table-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-table-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -229,7 +230,7 @@
       ];
     };
     asm-library-table-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-library-table-lua-1-0-1";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -243,7 +244,7 @@
       ];
     };
     lip-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lip-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "_libraries";
@@ -257,7 +258,7 @@
       ];
     };
     asm-custom-item-select-and-move-to-item-in-next-track-save-cursor-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-custom-item-select-and-move-to-item-in-next-track-save-cursor-position-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "CUSTOM";
@@ -271,7 +272,7 @@
       ];
     };
     asm-custom-item-select-and-move-to-item-in-previous-track-save-cursor-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-custom-item-select-and-move-to-item-in-previous-track-save-cursor-position-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "CUSTOM";
@@ -285,7 +286,7 @@
       ];
     };
     asm-env-remove-automation-items-and-select-next-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-env-remove-automation-items-and-select-next-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "ENVELOPE";
@@ -299,7 +300,7 @@
       ];
     };
     asm-env-remove-automation-points-and-select-next-underlying-envelope-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-env-remove-automation-points-and-select-next-underlying-envelope-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "ENVELOPE";
@@ -313,7 +314,7 @@
       ];
     };
     asm-env-set-new-value-for-selected-automation-points-automation-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-env-set-new-value-for-selected-automation-points-automation-items-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "ENVELOPE";
@@ -327,7 +328,7 @@
       ];
     };
     asm-env-set-new-value-for-selected-automation-points-underlying-envelope-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-env-set-new-value-for-selected-automation-points-underlying-envelope-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "ENVELOPE";
@@ -341,7 +342,7 @@
       ];
     };
     asm-gui-color-asm-color-panel-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-gui-color-asm-color-panel-lua-1-0-2";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "GUI";
@@ -355,7 +356,7 @@
       ];
     };
     asm-gui-color-asm-color-panel-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-gui-color-asm-color-panel-lua-1-0-3";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "GUI";
@@ -369,7 +370,7 @@
       ];
     };
     asm-gui-color-asm-color-panel-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-gui-color-asm-color-panel-lua-1-0-4";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "GUI";
@@ -383,7 +384,7 @@
       ];
     };
     asm-gui-color-asm-color-panel-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-gui-color-asm-color-panel-lua-1-0-5";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "GUI";
@@ -397,7 +398,7 @@
       ];
     };
     asm-gui-color-asm-color-panel-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-gui-color-asm-color-panel-lua-1-0-6";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "GUI";
@@ -411,7 +412,7 @@
       ];
     };
     asm-gui-color-asm-color-panel-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-gui-color-asm-color-panel-lua-1-0-7";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "GUI";
@@ -425,7 +426,7 @@
       ];
     };
     asm-gui-control-asm-control-panel-lua-1-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-gui-control-asm-control-panel-lua-1-1-6";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "GUI";
@@ -439,7 +440,7 @@
       ];
     };
     asm-gui-developer-show-gfx-getchar-number-img-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-gui-developer-show-gfx-getchar-number-img-lua-1-0-1";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "GUI";
@@ -473,7 +474,7 @@
       ];
     };
     asm-gui-developer-show-gfx-getchar-number-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-gui-developer-show-gfx-getchar-number-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "GUI";
@@ -487,7 +488,7 @@
       ];
     };
     asm-gui-transport-record-play-stop-pause-state-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-gui-transport-record-play-stop-pause-state-lua-1-2-1";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "GUI";
@@ -506,7 +507,7 @@
       ];
     };
     asm-item-duplicate-items-relative-grid-smart-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-item-duplicate-items-relative-grid-smart-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "ITEM";
@@ -520,7 +521,7 @@
       ];
     };
     asm-item-duplicate-items-relative-grid-super-smart-4-4-or-3-4-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-item-duplicate-items-relative-grid-super-smart-4-4-or-3-4-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "ITEM";
@@ -534,7 +535,7 @@
       ];
     };
     asm-item-glue-midi-items-only-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-item-glue-midi-items-only-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "ITEM";
@@ -548,7 +549,7 @@
       ];
     };
     asm-item-open-item-contextual-editable-midi-in-editor-and-zoom-audio-properties-toggle-subproject-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-item-open-item-contextual-editable-midi-in-editor-and-zoom-audio-properties-toggle-subproject-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "ITEM";
@@ -562,7 +563,7 @@
       ];
     };
     asm-item-open-item-contextual-editable-midi-in-editor-and-zoom-audio-properties-toggle-subproject-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-item-open-item-contextual-editable-midi-in-editor-and-zoom-audio-properties-toggle-subproject-lua-1-0-1";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "ITEM";
@@ -576,7 +577,7 @@
       ];
     };
     asm-item-open-item-contextual-editable-midi-in-editor-and-zoom-audio-properties-toggle-subproject-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-item-open-item-contextual-editable-midi-in-editor-and-zoom-audio-properties-toggle-subproject-lua-1-0-2";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "ITEM";
@@ -590,7 +591,7 @@
       ];
     };
     asm-item-open-item-contextual-editable-midi-in-editor-and-zoom-audio-properties-toggle-subproject-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-item-open-item-contextual-editable-midi-in-editor-and-zoom-audio-properties-toggle-subproject-lua-1-0-3";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "ITEM";
@@ -604,7 +605,7 @@
       ];
     };
     asm-item-remove-selected-items-and-select-next-keep-the-selection-of-the-extreme-element-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-item-remove-selected-items-and-select-next-keep-the-selection-of-the-extreme-element-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "ITEM";
@@ -618,7 +619,7 @@
       ];
     };
     asm-item-remove-selected-items-and-select-next-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-item-remove-selected-items-and-select-next-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "ITEM";
@@ -632,7 +633,7 @@
       ];
     };
     asm-notes-set-average-velocity-for-selected-notes-in-active-take-with-user-window-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-notes-set-average-velocity-for-selected-notes-in-active-take-with-user-window-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "MIDI";
@@ -646,7 +647,7 @@
       ];
     };
     asm-notes-set-average-velocity-for-selected-notes-in-active-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-notes-set-average-velocity-for-selected-notes-in-active-take-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "MIDI";
@@ -660,7 +661,7 @@
       ];
     };
     asm-notes-set-max-velocity-for-selected-notes-in-active-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-notes-set-max-velocity-for-selected-notes-in-active-take-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "MIDI";
@@ -674,7 +675,7 @@
       ];
     };
     asm-notes-set-min-velocity-for-selected-notes-in-active-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-notes-set-min-velocity-for-selected-notes-in-active-take-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "MIDI";
@@ -688,7 +689,7 @@
       ];
     };
     oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "SEPARATES";
@@ -702,7 +703,7 @@
       ];
     };
     asm-track-fx-except-vsti-bypass-on-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-fx-except-vsti-bypass-on-selected-tracks-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -716,7 +717,7 @@
       ];
     };
     asm-track-fx-except-vsti-offline-on-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-fx-except-vsti-offline-on-selected-tracks-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -730,7 +731,7 @@
       ];
     };
     asm-track-fx-except-vsti-online-on-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-fx-except-vsti-online-on-selected-tracks-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -744,7 +745,7 @@
       ];
     };
     asm-track-fx-except-vsti-unbypass-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-fx-except-vsti-unbypass-selected-tracks-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -758,7 +759,7 @@
       ];
     };
     asm-track-fx-vsti-only-bypass-on-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-fx-vsti-only-bypass-on-selected-tracks-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -772,7 +773,7 @@
       ];
     };
     asm-track-fx-vsti-only-offline-on-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-fx-vsti-only-offline-on-selected-tracks-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -786,7 +787,7 @@
       ];
     };
     asm-track-fx-vsti-only-online-on-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-fx-vsti-only-online-on-selected-tracks-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -800,7 +801,7 @@
       ];
     };
     asm-track-fx-vsti-only-unbypass-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-fx-vsti-only-unbypass-selected-tracks-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -814,7 +815,7 @@
       ];
     };
     asm-track-toggle-fx-except-vsti-bypass-or-unbypass-on-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-toggle-fx-except-vsti-bypass-or-unbypass-on-selected-tracks-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -828,7 +829,7 @@
       ];
     };
     asm-track-toggle-fx-except-vsti-offline-or-online-on-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-toggle-fx-except-vsti-offline-or-online-on-selected-tracks-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -842,7 +843,7 @@
       ];
     };
     asm-track-toggle-fx-vsti-only-bypass-or-unbypass-on-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-toggle-fx-vsti-only-bypass-or-unbypass-on-selected-tracks-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -856,7 +857,7 @@
       ];
     };
     asm-track-toggle-fx-vsti-only-offline-or-online-on-selected-tracks-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-toggle-fx-vsti-only-offline-or-online-on-selected-tracks-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -870,7 +871,7 @@
       ];
     };
     asm-track-toggle-mute-tracks-solo-others-normal-solo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-toggle-mute-tracks-solo-others-normal-solo-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -884,7 +885,7 @@
       ];
     };
     asm-track-toggle-mute-tracks-solo-others-soloed-in-place-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-toggle-mute-tracks-solo-others-soloed-in-place-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -898,7 +899,7 @@
       ];
     };
     asm-track-toggle-solo-tracks-mute-others-normal-solo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-toggle-solo-tracks-mute-others-normal-solo-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -912,7 +913,7 @@
       ];
     };
     asm-track-toggle-solo-tracks-mute-others-soloed-in-place-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-track-toggle-solo-tracks-mute-others-soloed-in-place-lua-1-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRACK";
@@ -926,7 +927,7 @@
       ];
     };
     asm-transport-change-track-color-if-it-is-recording-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "asm-transport-change-track-color-if-it-is-recording-lua-1-0-0";
       indexName = "AmelianceSkyMusic scripts";
       categoryName = "TRANSPORT";

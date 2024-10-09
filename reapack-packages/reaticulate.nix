@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   reaticulate = {
     reaticulate-an-articulation-management-system-for-reaper-0-5-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaticulate-an-articulation-management-system-for-reaper-0-5-13";
       indexName = "Reaticulate";
       categoryName = "MIDI Articulations";
@@ -364,7 +365,7 @@
       ];
     };
     reaticulate-an-articulation-management-system-for-reaper-0-5-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaticulate-an-articulation-management-system-for-reaper-0-5-11";
       indexName = "Reaticulate";
       categoryName = "MIDI Articulations";
@@ -723,7 +724,7 @@
       ];
     };
     reaticulate-an-articulation-management-system-for-reaper-0-5-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaticulate-an-articulation-management-system-for-reaper-0-5-10";
       indexName = "Reaticulate";
       categoryName = "MIDI Articulations";
@@ -1077,7 +1078,7 @@
       ];
     };
     reaticulate-an-articulation-management-system-for-reaper-0-5-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaticulate-an-articulation-management-system-for-reaper-0-5-9";
       indexName = "Reaticulate";
       categoryName = "MIDI Articulations";
@@ -1431,7 +1432,7 @@
       ];
     };
     reaticulate-an-articulation-management-system-for-reaper-0-4-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaticulate-an-articulation-management-system-for-reaper-0-4-8";
       indexName = "Reaticulate";
       categoryName = "MIDI Articulations";

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   claudiohbsantos-scripts = {
     reapack-header-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reapack-header-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "DBManager";
@@ -94,7 +95,7 @@
       ];
     };
     reapack-header-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reapack-header-lua-1-12";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "DBManager";
@@ -218,7 +219,7 @@
       ];
     };
     cs-channel-32-channel-mixer-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-channel-32-channel-mixer-jsfx-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "JSFX";
@@ -232,7 +233,7 @@
       ];
     };
     cs-channel-router-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-channel-router-jsfx-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "JSFX";
@@ -246,7 +247,7 @@
       ];
     };
     cs-lr-to-center-channel-send-ch-3-mixer-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-lr-to-center-channel-send-ch-3-mixer-jsfx-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "JSFX";
@@ -260,7 +261,7 @@
       ];
     };
     cs-stereo-phase-meter-jsfx-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-stereo-phase-meter-jsfx-1-2";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "JSFX";
@@ -274,7 +275,7 @@
       ];
     };
     cs-surround-channel-order-converter-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-surround-channel-order-converter-jsfx-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "JSFX";
@@ -288,7 +289,7 @@
       ];
     };
     cs-surround-lfe-send-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-surround-lfe-send-jsfx-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "JSFX";
@@ -302,7 +303,7 @@
       ];
     };
     cs-convertvolumeautomationfadestoitemfades-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-convertvolumeautomationfadestoitemfades-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Automation";
@@ -316,7 +317,7 @@
       ];
     };
     cs-convertvolumeautomationfadestoitemfades-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-convertvolumeautomationfadestoitemfades-lua-1-21";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Automation";
@@ -330,7 +331,7 @@
       ];
     };
     cs-convertvolumeautomationfadestoitemfades-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-convertvolumeautomationfadestoitemfades-lua-1-22";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Automation";
@@ -344,7 +345,7 @@
       ];
     };
     cs-convertvolumeautomationfadestoitemfades-lua-1-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-convertvolumeautomationfadestoitemfades-lua-1-23";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Automation";
@@ -358,7 +359,7 @@
       ];
     };
     cs-reset-volume-envelope-from-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-reset-volume-envelope-from-selected-tracks-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Automation";
@@ -372,7 +373,7 @@
       ];
     };
     cs-set-all-track-envelopes-to-fader-scaling-lua-1-0beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-all-track-envelopes-to-fader-scaling-lua-1-0beta";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Automation";
@@ -386,7 +387,7 @@
       ];
     };
     cs-copy-selected-item-before-all-markers-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-copy-selected-item-before-all-markers-within-time-selection-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -400,7 +401,7 @@
       ];
     };
     cs-copy-take-volume-envelope-to-track-volume-envelope-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-copy-take-volume-envelope-to-track-volume-envelope-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -419,7 +420,7 @@
       ];
     };
     cs-copy-track-volume-envelope-to-selected-takes-and-reset-track-envelope-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-copy-track-volume-envelope-to-selected-takes-and-reset-track-envelope-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -433,7 +434,7 @@
       ];
     };
     cs-edit-bottom-item-to-match-edits-in-selected-items-on-top-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-edit-bottom-item-to-match-edits-in-selected-items-on-top-track-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -447,7 +448,7 @@
       ];
     };
     cs-extend-edges-in-both-directions-fading-from-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-extend-edges-in-both-directions-fading-from-time-selection-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -461,7 +462,7 @@
       ];
     };
     cs-extend-item-to-full-length-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-extend-item-to-full-length-lua-2-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -475,7 +476,7 @@
       ];
     };
     cs-extend-item-to-full-length-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-extend-item-to-full-length-lua-2-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -489,7 +490,7 @@
       ];
     };
     cs-extend-selected-item-to-fill-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-extend-selected-item-to-fill-time-selection-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -503,7 +504,7 @@
       ];
     };
     cs-implode-two-monos-into-stereo-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-implode-two-monos-into-stereo-lua-1-3";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -517,7 +518,7 @@
       ];
     };
     cs-implode-two-monos-into-stereo-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-implode-two-monos-into-stereo-lua-1-4";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -531,7 +532,7 @@
       ];
     };
     cs-label-rev-if-it-has-been-reversed-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-label-rev-if-it-has-been-reversed-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -545,7 +546,7 @@
       ];
     };
     cs-move-cursor-to-middle-of-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-move-cursor-to-middle-of-time-selection-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -559,7 +560,7 @@
       ];
     };
     cs-nudge-cursor-or-item-left-by-grid-division-based-on-item-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-nudge-cursor-or-item-left-by-grid-division-based-on-item-selection-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -573,7 +574,7 @@
       ];
     };
     cs-nudge-cursor-or-item-right-by-grid-division-based-on-item-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-nudge-cursor-or-item-right-by-grid-division-based-on-item-selection-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -587,7 +588,7 @@
       ];
     };
     cs-pro-tools-tab-to-next-transient-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-pro-tools-tab-to-next-transient-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -601,7 +602,7 @@
       ];
     };
     cs-pro-tools-tab-to-previous-transient-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-pro-tools-tab-to-previous-transient-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -615,7 +616,7 @@
       ];
     };
     cs-remove-selected-area-of-item-and-select-right-portion-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-remove-selected-area-of-item-and-select-right-portion-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -629,7 +630,7 @@
       ];
     };
     cs-render-as-new-take-with-handles-removing-labels-and-extensions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-render-as-new-take-with-handles-removing-labels-and-extensions-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -643,7 +644,7 @@
       ];
     };
     cs-shrink-edges-in-both-directions-fading-from-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-shrink-edges-in-both-directions-fading-from-time-selection-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -657,7 +658,7 @@
       ];
     };
     cs-smart-delete-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-smart-delete-lua-1-5";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -676,7 +677,7 @@
       ];
     };
     cs-smart-fade-lua-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-smart-fade-lua-3-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -690,7 +691,7 @@
       ];
     };
     cs-smart-mute-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-smart-mute-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -709,7 +710,7 @@
       ];
     };
     cs-smart-set-snap-offset-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-smart-set-snap-offset-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -723,7 +724,7 @@
       ];
     };
     cs-smart-split-following-snapping-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-smart-split-following-snapping-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -737,7 +738,7 @@
       ];
     };
     cs-smart-split-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-smart-split-lua-1-3";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -751,7 +752,7 @@
       ];
     };
     cs-smart-trim-left-edge-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-smart-trim-left-edge-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -770,7 +771,7 @@
       ];
     };
     cs-smart-trim-right-edge-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-smart-trim-right-edge-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Editing";
@@ -789,7 +790,7 @@
       ];
     };
     cs-item-disable-invert-phase-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-item-disable-invert-phase-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Items";
@@ -803,7 +804,7 @@
       ];
     };
     cs-item-disable-invert-phase-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-item-disable-invert-phase-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Items";
@@ -822,7 +823,7 @@
       ];
     };
     cs-item-disable-loopsource-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-item-disable-loopsource-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Items";
@@ -836,7 +837,7 @@
       ];
     };
     cs-item-disable-loopsource-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-item-disable-loopsource-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Items";
@@ -855,7 +856,7 @@
       ];
     };
     cs-item-enable-invert-phase-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-item-enable-invert-phase-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Items";
@@ -869,7 +870,7 @@
       ];
     };
     cs-item-enable-invert-phase-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-item-enable-invert-phase-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Items";
@@ -888,7 +889,7 @@
       ];
     };
     cs-item-enable-loopsource-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-item-enable-loopsource-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Items";
@@ -902,7 +903,7 @@
       ];
     };
     cs-item-enable-loopsource-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-item-enable-loopsource-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Items";
@@ -921,7 +922,7 @@
       ];
     };
     cs-select-all-item-with-same-custom-color-as-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-select-all-item-with-same-custom-color-as-selected-item-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Items";
@@ -940,7 +941,7 @@
       ];
     };
     cs-select-all-items-with-same-number-of-channels-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-select-all-items-with-same-number-of-channels-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Items";
@@ -959,7 +960,7 @@
       ];
     };
     cs-select-all-takes-with-volume-below-threshold-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-select-all-takes-with-volume-below-threshold-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Items";
@@ -973,7 +974,7 @@
       ];
     };
     cs-select-all-takes-with-volume-below-threshold-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-select-all-takes-with-volume-below-threshold-lua-1-2";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Items";
@@ -987,7 +988,7 @@
       ];
     };
     cs-add-first-marker-that-crosses-item-to-the-take-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-add-first-marker-that-crosses-item-to-the-take-name-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Markers";
@@ -1001,7 +1002,7 @@
       ];
     };
     cs-create-marker-0-blue-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-create-marker-0-blue-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Markers";
@@ -1015,7 +1016,7 @@
       ];
     };
     cs-create-marker-0-green-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-create-marker-0-green-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Markers";
@@ -1029,7 +1030,7 @@
       ];
     };
     cs-create-marker-0-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-create-marker-0-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Markers";
@@ -1043,7 +1044,7 @@
       ];
     };
     cs-create-markers-at-snap-offsets-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-create-markers-at-snap-offsets-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Markers";
@@ -1057,7 +1058,7 @@
       ];
     };
     cs-create-random-colored-region-at-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-create-random-colored-region-at-time-selection-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Markers";
@@ -1071,7 +1072,7 @@
       ];
     };
     cs-go-to-highest-numbered-marker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-go-to-highest-numbered-marker-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Markers";
@@ -1085,7 +1086,7 @@
       ];
     };
     cs-place-markers-at-clipping-points-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-place-markers-at-clipping-points-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Markers";
@@ -1099,7 +1100,7 @@
       ];
     };
     cs-place-markers-at-out-of-phase-points-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-place-markers-at-out-of-phase-points-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Markers";
@@ -1113,7 +1114,7 @@
       ];
     };
     cs-remove-all-warning-markers-998-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-remove-all-warning-markers-998-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Markers";
@@ -1127,7 +1128,7 @@
       ];
     };
     cs-remove-all-warning-markers-999-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-remove-all-warning-markers-999-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Markers";
@@ -1141,7 +1142,7 @@
       ];
     };
     cs-reset-marker-0-to-cursor-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-reset-marker-0-to-cursor-position-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Markers";
@@ -1155,7 +1156,7 @@
       ];
     };
     cs-soloxor-across-projects-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-soloxor-across-projects-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Playback";
@@ -1169,7 +1170,7 @@
       ];
     };
     cs-soloxor-across-projects-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-soloxor-across-projects-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Playback";
@@ -1183,7 +1184,7 @@
       ];
     };
     cs-rename-currently-recording-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-rename-currently-recording-take-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Recording";
@@ -1202,7 +1203,7 @@
       ];
     };
     cs-extend-track-selection-to-track-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-extend-track-selection-to-track-under-mouse-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Selection";
@@ -1216,7 +1217,7 @@
       ];
     };
     cs-export-item-name-list-to-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-export-item-name-list-to-clipboard-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1235,7 +1236,7 @@
       ];
     };
     cs-export-item-source-list-to-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-export-item-source-list-to-clipboard-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1254,7 +1255,7 @@
       ];
     };
     cs-export-item-source-list-to-clipboard-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-export-item-source-list-to-clipboard-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1273,7 +1274,7 @@
       ];
     };
     cs-gototime-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-gototime-lua-1-5";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1287,7 +1288,7 @@
       ];
     };
     cs-gototime-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-gototime-lua-1-6";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1306,7 +1307,7 @@
       ];
     };
     cs-gototime-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-gototime-lua-1-7";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1325,7 +1326,7 @@
       ];
     };
     cs-gototime-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-gototime-lua-1-8";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1344,7 +1345,7 @@
       ];
     };
     cs-gototime-lua-1-9b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-gototime-lua-1-9b";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1363,7 +1364,7 @@
       ];
     };
     cs-gototime-lua-1-99 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-gototime-lua-1-99";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1382,7 +1383,7 @@
       ];
     };
     cs-gototime-lua-1-999 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-gototime-lua-1-999";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1406,7 +1407,7 @@
       ];
     };
     cs-gototime-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-gototime-lua-2-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1425,7 +1426,7 @@
       ];
     };
     cs-gototime-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-gototime-lua-2-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1444,7 +1445,7 @@
       ];
     };
     cs-set-minimum-grid-division-pixels-to-0-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-minimum-grid-division-pixels-to-0-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1458,7 +1459,7 @@
       ];
     };
     cs-set-minimum-grid-division-pixels-to-0-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-minimum-grid-division-pixels-to-0-lua-1-0-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1472,7 +1473,7 @@
       ];
     };
     cs-set-project-time-at-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-project-time-at-cursor-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1486,7 +1487,7 @@
       ];
     };
     cs-set-time-selection-in-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-in-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1500,7 +1501,7 @@
       ];
     };
     cs-set-time-selection-in-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-in-lua-1-2";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1514,7 +1515,7 @@
       ];
     };
     cs-set-time-selection-in-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-in-lua-1-3";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1533,7 +1534,7 @@
       ];
     };
     cs-set-time-selection-in-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-in-lua-1-4";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1552,7 +1553,7 @@
       ];
     };
     cs-set-time-selection-in-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-in-lua-1-5";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1571,7 +1572,7 @@
       ];
     };
     cs-set-time-selection-in-lua-1-6b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-in-lua-1-6b";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1590,7 +1591,7 @@
       ];
     };
     cs-set-time-selection-in-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-in-lua-1-7";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1609,7 +1610,7 @@
       ];
     };
     cs-set-time-selection-in-lua-1-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-in-lua-1-71";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1633,7 +1634,7 @@
       ];
     };
     cs-set-time-selection-in-lua-1-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-in-lua-1-72";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1652,7 +1653,7 @@
       ];
     };
     cs-set-time-selection-length-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-length-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1666,7 +1667,7 @@
       ];
     };
     cs-set-time-selection-length-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-length-lua-1-2";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1680,7 +1681,7 @@
       ];
     };
     cs-set-time-selection-length-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-length-lua-1-3";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1699,7 +1700,7 @@
       ];
     };
     cs-set-time-selection-length-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-length-lua-1-4";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1718,7 +1719,7 @@
       ];
     };
     cs-set-time-selection-length-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-length-lua-1-5";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1737,7 +1738,7 @@
       ];
     };
     cs-set-time-selection-length-lua-1-6b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-length-lua-1-6b";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1756,7 +1757,7 @@
       ];
     };
     cs-set-time-selection-length-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-length-lua-1-7";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1775,7 +1776,7 @@
       ];
     };
     cs-set-time-selection-length-lua-1-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-length-lua-1-71";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1799,7 +1800,7 @@
       ];
     };
     cs-set-time-selection-length-lua-1-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-length-lua-1-72";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1818,7 +1819,7 @@
       ];
     };
     cs-set-time-selection-out-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-out-lua-1-1";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1832,7 +1833,7 @@
       ];
     };
     cs-set-time-selection-out-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-out-lua-1-2";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1846,7 +1847,7 @@
       ];
     };
     cs-set-time-selection-out-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-out-lua-1-3";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1865,7 +1866,7 @@
       ];
     };
     cs-set-time-selection-out-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-out-lua-1-4";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1884,7 +1885,7 @@
       ];
     };
     cs-set-time-selection-out-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-out-lua-1-5";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1903,7 +1904,7 @@
       ];
     };
     cs-set-time-selection-out-lua-1-6b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-out-lua-1-6b";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1922,7 +1923,7 @@
       ];
     };
     cs-set-time-selection-out-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-out-lua-1-7";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1941,7 +1942,7 @@
       ];
     };
     cs-set-time-selection-out-lua-1-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-out-lua-1-71";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1965,7 +1966,7 @@
       ];
     };
     cs-set-time-selection-out-lua-1-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-set-time-selection-out-lua-1-72";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -1989,7 +1990,7 @@
       ];
     };
     cs-setprojectstarttime-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-setprojectstarttime-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -2003,7 +2004,7 @@
       ];
     };
     set-all-selected-video-items-to-ignore-audio-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "set-all-selected-video-items-to-ignore-audio-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/Tools";
@@ -2017,7 +2018,7 @@
       ];
     };
     cs-checkerboard-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-checkerboard-selected-items-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/View";
@@ -2031,7 +2032,7 @@
       ];
     };
     cs-only-show-tracks-with-items-inside-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-only-show-tracks-with-items-inside-time-selection-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/View";
@@ -2045,7 +2046,7 @@
       ];
     };
     cs-show-fx-chain-for-item-or-track-depending-on-mouse-context-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-show-fx-chain-for-item-or-track-depending-on-mouse-context-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/View";
@@ -2059,7 +2060,7 @@
       ];
     };
     cs-toggle-item-or-track-volume-envelope-visible-depending-on-mouse-context-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cs-toggle-item-or-track-volume-envelope-visible-depending-on-mouse-context-lua-1-0";
       indexName = "Claudiohbsantos Scripts";
       categoryName = "Lua/View";

@@ -99,7 +99,7 @@
         {mkReapackPackage = import ./mk-reapack-package.nix;}
         // import ./reapack-packages {
           inherit (packages) mkReapackPackage;
-          inherit (pkgs) fetchurl stdenv lib;
+          inherit (pkgs) lib fetchurl stdenv;
         };
     });
 }

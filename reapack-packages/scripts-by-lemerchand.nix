@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   scripts-by-lemerchand = {
     itemtray-lua-0-4b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-4b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -39,7 +40,7 @@
       ];
     };
     itemtray-lua-0-45b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-45b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -73,7 +74,7 @@
       ];
     };
     itemtray-lua-0-46b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-46b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -107,7 +108,7 @@
       ];
     };
     itemtray-lua-0-466b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-466b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -141,7 +142,7 @@
       ];
     };
     itemtray-lua-0-47b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-47b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -175,7 +176,7 @@
       ];
     };
     itemtray-lua-0-48b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-48b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -209,7 +210,7 @@
       ];
     };
     itemtray-lua-0-488b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-488b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -248,7 +249,7 @@
       ];
     };
     itemtray-lua-0-5b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-5b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -312,7 +313,7 @@
       ];
     };
     itemtray-lua-0-51b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-51b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -376,7 +377,7 @@
       ];
     };
     itemtray-lua-0-61b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-61b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -440,7 +441,7 @@
       ];
     };
     itemtray-lua-0-62b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-62b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -504,7 +505,7 @@
       ];
     };
     itemtray-lua-0-633b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-633b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -568,7 +569,7 @@
       ];
     };
     itemtray-lua-0-651b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-651b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -632,7 +633,7 @@
       ];
     };
     itemtray-lua-0-661b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-661b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -696,7 +697,7 @@
       ];
     };
     itemtray-lua-0-665b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-665b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -760,7 +761,7 @@
       ];
     };
     itemtray-lua-0-6-65b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "itemtray-lua-0-6-65b";
       indexName = "Scripts by Lemerchand";
       categoryName = "ItemTray";
@@ -824,7 +825,7 @@
       ];
     };
     midi-selector-tool-lua-1-0-777b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-0-777b";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -863,7 +864,7 @@
       ];
     };
     midi-selector-tool-lua-1-0-778b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-0-778b";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -907,7 +908,7 @@
       ];
     };
     midi-selector-tool-lua-1-0-778c = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-0-778c";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -946,7 +947,7 @@
       ];
     };
     midi-selector-tool-lua-1-0-778d = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-0-778d";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -985,7 +986,7 @@
       ];
     };
     midi-selector-tool-lua-1-0-8b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-0-8b";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1024,7 +1025,7 @@
       ];
     };
     midi-selector-tool-lua-1-0-8c = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-0-8c";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1063,7 +1064,7 @@
       ];
     };
     midi-selector-tool-lua-1-0-88c = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-0-88c";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1102,7 +1103,7 @@
       ];
     };
     midi-selector-tool-lua-1-0-999c = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-0-999c";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1141,7 +1142,7 @@
       ];
     };
     midi-selector-tool-lua-1-1-b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-1-b";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1180,7 +1181,7 @@
       ];
     };
     midi-selector-tool-lua-1-2b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-2b";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1224,7 +1225,7 @@
       ];
     };
     midi-selector-tool-lua-1-2-1b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-2-1b";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1263,7 +1264,7 @@
       ];
     };
     midi-selector-tool-lua-1-2-2b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-2-2b";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1302,7 +1303,7 @@
       ];
     };
     midi-selector-tool-lua-1-2-3b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-2-3b";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1341,7 +1342,7 @@
       ];
     };
     midi-selector-tool-lua-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-2-4";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1380,7 +1381,7 @@
       ];
     };
     midi-selector-tool-lua-1-2-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-2-41";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1419,7 +1420,7 @@
       ];
     };
     midi-selector-tool-lua-1-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-2-6";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1463,7 +1464,7 @@
       ];
     };
     midi-selector-tool-lua-1-2-66 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-2-66";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1507,7 +1508,7 @@
       ];
     };
     midi-selector-tool-lua-1-2-67 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-2-67";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1551,7 +1552,7 @@
       ];
     };
     midi-selector-tool-lua-1-2-68 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-2-68";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1595,7 +1596,7 @@
       ];
     };
     midi-selector-tool-lua-1-2-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-2-71";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1639,7 +1640,7 @@
       ];
     };
     midi-selector-tool-lua-1-2-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-selector-tool-lua-1-2-73";
       indexName = "Scripts by Lemerchand";
       categoryName = "MIDI Selector Tool";
@@ -1683,7 +1684,7 @@
       ];
     };
     move-selected-notes-to-row-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "move-selected-notes-to-row-under-mouse-lua-1-0";
       indexName = "Scripts by Lemerchand";
       categoryName = "Misc MIDI Scripts";
@@ -1697,7 +1698,7 @@
       ];
     };
     multikey-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "multikey-lua-1-05";
       indexName = "Scripts by Lemerchand";
       categoryName = "multikey";
@@ -1711,7 +1712,7 @@
       ];
     };
     multikey-lua-1-061 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "multikey-lua-1-061";
       indexName = "Scripts by Lemerchand";
       categoryName = "multikey";
@@ -1840,7 +1841,7 @@
       ];
     };
     multikey-lua-1-063 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "multikey-lua-1-063";
       indexName = "Scripts by Lemerchand";
       categoryName = "multikey";
@@ -1969,7 +1970,7 @@
       ];
     };
     multikey-lua-1-064 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "multikey-lua-1-064";
       indexName = "Scripts by Lemerchand";
       categoryName = "multikey";
@@ -2098,7 +2099,7 @@
       ];
     };
     cmd-lua-0-5-1b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cmd-lua-0-5-1b";
       indexName = "Scripts by Lemerchand";
       categoryName = "Practice";
@@ -2122,7 +2123,7 @@
       ];
     };
     cmd-lua-0-6-1b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cmd-lua-0-6-1b";
       indexName = "Scripts by Lemerchand";
       categoryName = "Practice";
@@ -2146,7 +2147,7 @@
       ];
     };
     cmd-lua-0-6-6b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cmd-lua-0-6-6b";
       indexName = "Scripts by Lemerchand";
       categoryName = "Practice";
@@ -2170,7 +2171,7 @@
       ];
     };
     cmd-lua-0-6-9b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cmd-lua-0-6-9b";
       indexName = "Scripts by Lemerchand";
       categoryName = "Practice";
@@ -2194,7 +2195,7 @@
       ];
     };
     cmd-lua-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cmd-lua-0-7";
       indexName = "Scripts by Lemerchand";
       categoryName = "Practice";
@@ -2218,7 +2219,7 @@
       ];
     };
     reacon-lua-0-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reacon-lua-0-3-1";
       indexName = "Scripts by Lemerchand";
       categoryName = "reaCon";
@@ -2247,7 +2248,7 @@
       ];
     };
     reacon-lua-0-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reacon-lua-0-3-2";
       indexName = "Scripts by Lemerchand";
       categoryName = "reaCon";
@@ -2276,7 +2277,7 @@
       ];
     };
     reacon-lua-0-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reacon-lua-0-3-3";
       indexName = "Scripts by Lemerchand";
       categoryName = "reaCon";
@@ -2305,7 +2306,7 @@
       ];
     };
     sera-create-pattern-clip-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sera-create-pattern-clip-lua-0-5";
       indexName = "Scripts by Lemerchand";
       categoryName = "SERA";
@@ -2319,7 +2320,7 @@
       ];
     };
     sera-create-pattern-clip-lua-0-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sera-create-pattern-clip-lua-0-5-1";
       indexName = "Scripts by Lemerchand";
       categoryName = "SERA";
@@ -2333,7 +2334,7 @@
       ];
     };
     sera-create-pattern-clip-lua-0-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sera-create-pattern-clip-lua-0-5-2";
       indexName = "Scripts by Lemerchand";
       categoryName = "SERA";
@@ -2347,7 +2348,7 @@
       ];
     };
     sera-draw-tool-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sera-draw-tool-lua-0-5";
       indexName = "Scripts by Lemerchand";
       categoryName = "SERA";
@@ -2361,7 +2362,7 @@
       ];
     };
     sera-draw-tool-lua-0-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sera-draw-tool-lua-0-5-2";
       indexName = "Scripts by Lemerchand";
       categoryName = "SERA";
@@ -2375,7 +2376,7 @@
       ];
     };
     sera-draw-tool-lua-0-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sera-draw-tool-lua-0-5-3";
       indexName = "Scripts by Lemerchand";
       categoryName = "SERA";
@@ -2389,7 +2390,7 @@
       ];
     };
     sera-make-pattern-clip-unique-lua-0-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sera-make-pattern-clip-unique-lua-0-5-1";
       indexName = "Scripts by Lemerchand";
       categoryName = "SERA";
@@ -2403,7 +2404,7 @@
       ];
     };
     sera-make-pattern-clip-unique-lua-0-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sera-make-pattern-clip-unique-lua-0-5-2";
       indexName = "Scripts by Lemerchand";
       categoryName = "SERA";
@@ -2417,7 +2418,7 @@
       ];
     };
     sera-make-pattern-clip-unique-lua-0-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sera-make-pattern-clip-unique-lua-0-5-3";
       indexName = "Scripts by Lemerchand";
       categoryName = "SERA";
@@ -2431,7 +2432,7 @@
       ];
     };
     sera-toggle-pattern-clip-lua-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sera-toggle-pattern-clip-lua-0-5";
       indexName = "Scripts by Lemerchand";
       categoryName = "SERA";
@@ -2445,7 +2446,7 @@
       ];
     };
     sera-toggle-pattern-clip-lua-0-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sera-toggle-pattern-clip-lua-0-5-1";
       indexName = "Scripts by Lemerchand";
       categoryName = "SERA";
@@ -2459,7 +2460,7 @@
       ];
     };
     sera-toggle-pattern-clip-lua-0-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sera-toggle-pattern-clip-lua-0-5-2";
       indexName = "Scripts by Lemerchand";
       categoryName = "SERA";
@@ -2473,7 +2474,7 @@
       ];
     };
     sera-toggle-pattern-clip-lua-0-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sera-toggle-pattern-clip-lua-0-5-3";
       indexName = "Scripts by Lemerchand";
       categoryName = "SERA";

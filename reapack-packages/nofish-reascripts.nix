@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   nofish-reascripts = {
     nofish-delete-muted-items-from-item-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-delete-muted-items-from-item-selection-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "editing";
@@ -19,7 +20,7 @@
       ];
     };
     nofish-select-muted-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-select-muted-items-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "editing";
@@ -33,7 +34,7 @@
       ];
     };
     nofish-select-next-item-in-time-across-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-select-next-item-in-time-across-tracks-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "editing";
@@ -47,7 +48,7 @@
       ];
     };
     nofish-split-items-at-time-selection-else-at-edit-cursor-crossfading-to-the-left-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-split-items-at-time-selection-else-at-edit-cursor-crossfading-to-the-left-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "editing";
@@ -61,7 +62,7 @@
       ];
     };
     nofish-split-items-at-time-selection-else-at-edit-cursor-crossfading-to-the-left-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-split-items-at-time-selection-else-at-edit-cursor-crossfading-to-the-left-lua-1-01";
       indexName = "nofish ReaScripts";
       categoryName = "editing";
@@ -75,7 +76,7 @@
       ];
     };
     nofish-split-items-at-time-selection-else-at-edit-cursor-crossfading-to-the-left-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-split-items-at-time-selection-else-at-edit-cursor-crossfading-to-the-left-lua-1-02";
       indexName = "nofish ReaScripts";
       categoryName = "editing";
@@ -89,7 +90,7 @@
       ];
     };
     nofish-unselect-muted-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-unselect-muted-items-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "editing";
@@ -103,7 +104,7 @@
       ];
     };
     nofish-analyze-loudness-integrated-per-channel-of-selected-items-active-take-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-analyze-loudness-integrated-per-channel-of-selected-items-active-take-lua-1-00";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -117,7 +118,7 @@
       ];
     };
     nofish-analyze-loudness-of-master-output-in-time-selection-via-temp-render-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-analyze-loudness-of-master-output-in-time-selection-via-temp-render-lua-1-02";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -131,7 +132,7 @@
       ];
     };
     nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-momentary-no-prompt-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-momentary-no-prompt-lua-1-03";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -145,7 +146,7 @@
       ];
     };
     nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-momentary-no-prompt-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-momentary-no-prompt-lua-1-04";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -159,7 +160,7 @@
       ];
     };
     nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-momentary-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-momentary-lua-1-02";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -173,7 +174,7 @@
       ];
     };
     nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-momentary-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-momentary-lua-1-03";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -187,7 +188,7 @@
       ];
     };
     nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-no-prompt-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-no-prompt-lua-1-02";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -201,7 +202,7 @@
       ];
     };
     nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-no-prompt-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-no-prompt-lua-1-03";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -215,7 +216,7 @@
       ];
     };
     nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-no-prompt-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-no-prompt-lua-1-04";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -229,7 +230,7 @@
       ];
     };
     nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-no-prompt-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-no-prompt-lua-1-05";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -243,7 +244,7 @@
       ];
     };
     nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -257,7 +258,7 @@
       ];
     };
     nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-lua-1-01";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -271,7 +272,7 @@
       ];
     };
     nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-lua-1-02";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -285,7 +286,7 @@
       ];
     };
     nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-loudness-of-selected-items-active-take-to-x-lufs-max-short-term-lua-1-03";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -299,7 +300,7 @@
       ];
     };
     nofish-normalize-take-pan-loudness-based-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-take-pan-loudness-based-lua-1-00";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -318,7 +319,7 @@
       ];
     };
     nofish-normalize-take-pan-loudness-based-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-take-pan-loudness-based-lua-1-0-1";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -337,7 +338,7 @@
       ];
     };
     nofish-set-normalize-loudness-to-x-lufs-max-momentary-target-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-set-normalize-loudness-to-x-lufs-max-momentary-target-value-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -351,7 +352,7 @@
       ];
     };
     nofish-set-normalize-loudness-to-x-lufs-max-short-term-target-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-set-normalize-loudness-to-x-lufs-max-short-term-target-value-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "Loudness";
@@ -365,7 +366,7 @@
       ];
     };
     js-nofish-set-all-events-of-selected-midi-items-to-specific-channel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "js-nofish-set-all-events-of-selected-midi-items-to-specific-channel-lua-1-02";
       indexName = "nofish ReaScripts";
       categoryName = "MIDI (Main)";
@@ -379,7 +380,7 @@
       ];
     };
     nofish-set-all-note-ons-in-all-selected-items-midi-takes-to-specific-velocity-prompt-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-set-all-note-ons-in-all-selected-items-midi-takes-to-specific-velocity-prompt-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "MIDI (Main)";
@@ -393,7 +394,7 @@
       ];
     };
     nofish-light-toolbar-button-when-editable-midi-take-is-pooled-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-light-toolbar-button-when-editable-midi-take-is-pooled-lua-1-0-0";
       indexName = "nofish ReaScripts";
       categoryName = "MIDI Editor";
@@ -407,7 +408,7 @@
       ];
     };
     show-midi-note-name-in-tooltip-nofish-mod-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "show-midi-note-name-in-tooltip-nofish-mod-lua-1-01";
       indexName = "nofish ReaScripts";
       categoryName = "MIDI Editor";
@@ -421,7 +422,7 @@
       ];
     };
     show-midi-note-name-in-tooltip-nofish-mod-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "show-midi-note-name-in-tooltip-nofish-mod-lua-1-02";
       indexName = "nofish ReaScripts";
       categoryName = "MIDI Editor";
@@ -435,7 +436,7 @@
       ];
     };
     smart-toggle-mute-note-s-under-mouse-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smart-toggle-mute-note-s-under-mouse-lua-1-01";
       indexName = "nofish ReaScripts";
       categoryName = "MIDI Editor";
@@ -449,7 +450,7 @@
       ];
     };
     smart-toggle-mute-note-s-under-mouse-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "smart-toggle-mute-note-s-under-mouse-lua-1-02";
       indexName = "nofish ReaScripts";
       categoryName = "MIDI Editor";
@@ -463,7 +464,7 @@
       ];
     };
     mute-first-n-hardware-outs-on-tracks-that-are-currently-recording-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mute-first-n-hardware-outs-on-tracks-that-are-currently-recording-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -477,7 +478,7 @@
       ];
     };
     mute-first-n-hardware-outs-on-tracks-that-are-currently-recording-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mute-first-n-hardware-outs-on-tracks-that-are-currently-recording-lua-1-01";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -491,7 +492,7 @@
       ];
     };
     mute-first-n-hardware-outs-on-tracks-that-are-currently-recording-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mute-first-n-hardware-outs-on-tracks-that-are-currently-recording-lua-1-02";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -505,7 +506,7 @@
       ];
     };
     nofish-bypass-master-volume-envelope-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-bypass-master-volume-envelope-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -519,7 +520,7 @@
       ];
     };
     nofish-copy-item-end-timecode-to-clipboard-and-or-console-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-copy-item-end-timecode-to-clipboard-and-or-console-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -533,7 +534,7 @@
       ];
     };
     nofish-copy-item-end-timecode-to-clipboard-and-or-console-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-copy-item-end-timecode-to-clipboard-and-or-console-lua-1-01";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -547,7 +548,7 @@
       ];
     };
     nofish-dynamic-mixer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-dynamic-mixer-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -561,7 +562,7 @@
       ];
     };
     nofish-dynamic-mixer-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-dynamic-mixer-lua-1-02";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -575,7 +576,7 @@
       ];
     };
     nofish-list-tracknames-in-console-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-list-tracknames-in-console-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -589,7 +590,7 @@
       ];
     };
     nofish-needle-dropping-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-needle-dropping-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -603,7 +604,7 @@
       ];
     };
     nofish-needle-dropping-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-needle-dropping-lua-1-01";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -617,7 +618,7 @@
       ];
     };
     nofish-normalize-selected-items-active-take-to-x-dbfs-true-peak-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-normalize-selected-items-active-take-to-x-dbfs-true-peak-lua-1-05";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -631,7 +632,7 @@
       ];
     };
     nofish-play-skip-razor-edit-area-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-play-skip-razor-edit-area-lua-1-0-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -645,7 +646,7 @@
       ];
     };
     nofish-print-visible-within-item-start-end-take-markers-on-seleted-tracks-to-console-lua-1-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-print-visible-within-item-start-end-take-markers-on-seleted-tracks-to-console-lua-1-0-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -659,7 +660,7 @@
       ];
     };
     nofish-print-visible-within-item-start-end-take-markers-on-seleted-tracks-to-console-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-print-visible-within-item-start-end-take-markers-on-seleted-tracks-to-console-lua-1-0-1";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -673,7 +674,7 @@
       ];
     };
     nofish-print-visible-within-item-start-end-take-markers-on-seleted-tracks-to-console-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-print-visible-within-item-start-end-take-markers-on-seleted-tracks-to-console-lua-1-0-2";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -687,7 +688,7 @@
       ];
     };
     nofish-print-visible-within-item-start-end-take-markers-on-seleted-tracks-to-console-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-print-visible-within-item-start-end-take-markers-on-seleted-tracks-to-console-lua-1-0-3";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -701,7 +702,7 @@
       ];
     };
     nofish-print-visible-within-item-start-end-take-markers-on-seleted-tracks-to-console-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-print-visible-within-item-start-end-take-markers-on-seleted-tracks-to-console-lua-1-0-4";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -715,7 +716,7 @@
       ];
     };
     nofish-realtime-clock-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-realtime-clock-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -729,7 +730,7 @@
       ];
     };
     nofish-reset-mix-all-tracks-for-stem-export-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-reset-mix-all-tracks-for-stem-export-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -743,7 +744,7 @@
       ];
     };
     nofish-reset-mix-selected-tracks-for-stem-export-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-reset-mix-selected-tracks-for-stem-export-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -757,7 +758,7 @@
       ];
     };
     nofish-run-action-wait-x-sec-run-next-action-example-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-run-action-wait-x-sec-run-next-action-example-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -771,7 +772,7 @@
       ];
     };
     nofish-save-track-fx-chains-for-sel-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-save-track-fx-chains-for-sel-tracks-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -785,7 +786,7 @@
       ];
     };
     nofish-save-track-fx-chains-for-sel-tracks-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-save-track-fx-chains-for-sel-tracks-lua-1-0-1";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -799,7 +800,7 @@
       ];
     };
     nofish-save-track-fx-chains-for-sel-tracks-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-save-track-fx-chains-for-sel-tracks-lua-1-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -813,7 +814,7 @@
       ];
     };
     nofish-save-track-fx-chains-for-sel-tracks-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-save-track-fx-chains-for-sel-tracks-lua-1-1-1";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -827,7 +828,7 @@
       ];
     };
     nofish-set-all-items-to-timebase-time-if-at-least-containing-one-audio-or-video-take-else-to-timebase-beats-pos-length-rate-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-set-all-items-to-timebase-time-if-at-least-containing-one-audio-or-video-take-else-to-timebase-beats-pos-length-rate-lua-1-00";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -841,7 +842,7 @@
       ];
     };
     nofish-solo-exclusive-last-focused-fx-gui-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-solo-exclusive-last-focused-fx-gui-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -855,7 +856,7 @@
       ];
     };
     nofish-solo-exclusive-last-focused-fx-no-gui-w-undo-point-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-solo-exclusive-last-focused-fx-no-gui-w-undo-point-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -869,7 +870,7 @@
       ];
     };
     nofish-solo-exclusive-last-focused-fx-no-gui-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-solo-exclusive-last-focused-fx-no-gui-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -883,7 +884,7 @@
       ];
     };
     nofish-toggle-ignore-mousewheel-on-all-faders-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-toggle-ignore-mousewheel-on-all-faders-lua-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -897,7 +898,7 @@
       ];
     };
     nofish-write-tracknames-to-textfile-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-write-tracknames-to-textfile-eel-1-0";
       indexName = "nofish ReaScripts";
       categoryName = "misc";
@@ -911,7 +912,7 @@
       ];
     };
     nofish-write-tracknames-to-textfile-eel-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "nofish-write-tracknames-to-textfile-eel-1-01";
       indexName = "nofish ReaScripts";
       categoryName = "misc";

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   radio-toolkit = {
     tomtjes-x-raym-add-fades-or-ramps-at-time-selection-edges-on-chosen-envelopes-ducking-lua-1-0-1-2022-01-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-x-raym-add-fades-or-ramps-at-time-selection-edges-on-chosen-envelopes-ducking-lua-1-0-1-2022-01-29";
       indexName = "Radio Toolkit";
       categoryName = "Envelopes";
@@ -19,7 +20,7 @@
       ];
     };
     tomtjes-radio-toolkit-base-lua-1-0-pre1-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-radio-toolkit-base-lua-1-0-pre1-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Functions";
@@ -33,7 +34,7 @@
       ];
     };
     tomtjes-radio-toolkit-base-lua-1-0-pre2-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-radio-toolkit-base-lua-1-0-pre2-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Functions";
@@ -47,7 +48,7 @@
       ];
     };
     tomtjes-radio-toolkit-base-lua-1-0-pre3-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-radio-toolkit-base-lua-1-0-pre3-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Functions";
@@ -61,7 +62,7 @@
       ];
     };
     tomtjes-radio-toolkit-base-lua-1-0-2024-07-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-radio-toolkit-base-lua-1-0-2024-07-07";
       indexName = "Radio Toolkit";
       categoryName = "Functions";
@@ -75,7 +76,7 @@
       ];
     };
     tomtjes-collapse-empty-space-between-items-lua-1-0-2023-10-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-collapse-empty-space-between-items-lua-1-0-2023-10-22";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -89,7 +90,7 @@
       ];
     };
     tomtjes-collapse-empty-space-between-items-lua-1-1-pre1-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-collapse-empty-space-between-items-lua-1-1-pre1-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -103,7 +104,7 @@
       ];
     };
     tomtjes-collapse-empty-space-between-items-lua-1-1-pre2-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-collapse-empty-space-between-items-lua-1-1-pre2-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -117,7 +118,7 @@
       ];
     };
     tomtjes-collapse-empty-space-between-items-lua-1-1-pre3-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-collapse-empty-space-between-items-lua-1-1-pre3-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -131,7 +132,7 @@
       ];
     };
     tomtjes-collapse-empty-space-between-items-lua-1-1-2024-07-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-collapse-empty-space-between-items-lua-1-1-2024-07-07";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -145,7 +146,7 @@
       ];
     };
     tomtjes-collapse-empty-space-between-items-lua-1-1-1-2024-07-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-collapse-empty-space-between-items-lua-1-1-1-2024-07-07";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -159,7 +160,7 @@
       ];
     };
     tomtjes-collapse-empty-space-between-items-lua-1-2-2024-07-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-collapse-empty-space-between-items-lua-1-2-2024-07-07";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -173,7 +174,7 @@
       ];
     };
     tomtjes-extend-beginning-of-adjacent-items-across-tracks-lua-1-0-2024-06-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-extend-beginning-of-adjacent-items-across-tracks-lua-1-0-2024-06-21";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -187,7 +188,7 @@
       ];
     };
     tomtjes-extend-beginning-of-adjacent-items-across-tracks-lua-1-1-2024-07-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-extend-beginning-of-adjacent-items-across-tracks-lua-1-1-2024-07-03";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -201,7 +202,7 @@
       ];
     };
     tomtjes-extend-beginning-of-adjacent-items-across-tracks-lua-1-2-2024-07-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-extend-beginning-of-adjacent-items-across-tracks-lua-1-2-2024-07-03";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -215,7 +216,7 @@
       ];
     };
     tomtjes-extend-beginning-of-adjacent-items-across-tracks-lua-1-3-pre1-2024-07-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-extend-beginning-of-adjacent-items-across-tracks-lua-1-3-pre1-2024-07-07";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -229,7 +230,7 @@
       ];
     };
     tomtjes-extend-beginning-of-adjacent-items-across-tracks-lua-1-3-2024-07-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-extend-beginning-of-adjacent-items-across-tracks-lua-1-3-2024-07-07";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -243,7 +244,7 @@
       ];
     };
     tomtjes-extend-end-of-adjacent-items-across-tracks-lua-1-0-2024-06-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-extend-end-of-adjacent-items-across-tracks-lua-1-0-2024-06-21";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -257,7 +258,7 @@
       ];
     };
     tomtjes-extend-end-of-adjacent-items-across-tracks-lua-1-1-2024-07-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-extend-end-of-adjacent-items-across-tracks-lua-1-1-2024-07-03";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -271,7 +272,7 @@
       ];
     };
     tomtjes-extend-end-of-adjacent-items-across-tracks-lua-1-2-pre1-2024-07-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-extend-end-of-adjacent-items-across-tracks-lua-1-2-pre1-2024-07-07";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -285,7 +286,7 @@
       ];
     };
     tomtjes-extend-end-of-adjacent-items-across-tracks-lua-1-2-2024-07-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-extend-end-of-adjacent-items-across-tracks-lua-1-2-2024-07-07";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -299,7 +300,7 @@
       ];
     };
     tomtjes-glue-adjacent-items-on-track-lua-1-0-2020-09-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-glue-adjacent-items-on-track-lua-1-0-2020-09-11";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -313,7 +314,7 @@
       ];
     };
     tomtjes-split-item-on-track-according-to-info-items-on-other-track-copy-notes-to-take-names-lua-0-1-2016-09-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-split-item-on-track-according-to-info-items-on-other-track-copy-notes-to-take-names-lua-0-1-2016-09-19";
       indexName = "Radio Toolkit";
       categoryName = "Items";
@@ -327,7 +328,7 @@
       ];
     };
     tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-0-2024-06-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-0-2024-06-21";
       indexName = "Radio Toolkit";
       categoryName = "Markers";
@@ -341,7 +342,7 @@
       ];
     };
     tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-1-2024-07-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-1-2024-07-04";
       indexName = "Radio Toolkit";
       categoryName = "Markers";
@@ -355,7 +356,7 @@
       ];
     };
     tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-2-2024-07-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-2-2024-07-04";
       indexName = "Radio Toolkit";
       categoryName = "Markers";
@@ -374,7 +375,7 @@
       ];
     };
     tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-3-2024-07-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-3-2024-07-04";
       indexName = "Radio Toolkit";
       categoryName = "Markers";
@@ -393,7 +394,7 @@
       ];
     };
     tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-4-2024-07-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-4-2024-07-04";
       indexName = "Radio Toolkit";
       categoryName = "Markers";
@@ -412,7 +413,7 @@
       ];
     };
     tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-5-2024-07-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-5-2024-07-04";
       indexName = "Radio Toolkit";
       categoryName = "Markers";
@@ -431,7 +432,7 @@
       ];
     };
     tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-6-pre2-2024-07-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-6-pre2-2024-07-04";
       indexName = "Radio Toolkit";
       categoryName = "Markers";
@@ -445,7 +446,7 @@
       ];
     };
     tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-6-pre3-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-6-pre3-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Markers";
@@ -459,7 +460,7 @@
       ];
     };
     tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-6-pre4-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-6-pre4-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Markers";
@@ -473,7 +474,7 @@
       ];
     };
     tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-6-2024-07-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-add-marker-at-beginning-of-adjacent-items-across-tracks-lua-1-6-2024-07-07";
       indexName = "Radio Toolkit";
       categoryName = "Markers";
@@ -487,7 +488,7 @@
       ];
     };
     tomtjes-add-marker-at-end-of-adjacent-items-across-tracks-lua-1-0-2024-06-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-add-marker-at-end-of-adjacent-items-across-tracks-lua-1-0-2024-06-21";
       indexName = "Radio Toolkit";
       categoryName = "Markers";
@@ -501,7 +502,7 @@
       ];
     };
     tomtjes-add-marker-at-end-of-adjacent-items-across-tracks-lua-1-1-2024-07-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-add-marker-at-end-of-adjacent-items-across-tracks-lua-1-1-2024-07-04";
       indexName = "Radio Toolkit";
       categoryName = "Markers";
@@ -515,7 +516,7 @@
       ];
     };
     tomtjes-add-marker-at-end-of-adjacent-items-across-tracks-lua-1-6-pre1-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-add-marker-at-end-of-adjacent-items-across-tracks-lua-1-6-pre1-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Markers";
@@ -529,7 +530,7 @@
       ];
     };
     tomtjes-add-marker-at-end-of-adjacent-items-across-tracks-lua-1-6-2024-07-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-add-marker-at-end-of-adjacent-items-across-tracks-lua-1-6-2024-07-07";
       indexName = "Radio Toolkit";
       categoryName = "Markers";
@@ -543,7 +544,7 @@
       ];
     };
     tomtjes-calculate-total-length-of-items-on-selected-tracks-lua-1-0-2023-12-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-calculate-total-length-of-items-on-selected-tracks-lua-1-0-2023-12-19";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -557,7 +558,7 @@
       ];
     };
     tomtjes-show-project-length-in-mcp-lua-1-0-2024-06-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-in-mcp-lua-1-0-2024-06-28";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -576,7 +577,7 @@
       ];
     };
     tomtjes-show-project-length-in-mcp-lua-1-01-2024-07-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-in-mcp-lua-1-01-2024-07-01";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -595,7 +596,7 @@
       ];
     };
     tomtjes-show-project-length-in-mcp-lua-1-02-2024-07-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-in-mcp-lua-1-02-2024-07-03";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -614,7 +615,7 @@
       ];
     };
     tomtjes-show-project-length-in-mcp-lua-1-04-2024-07-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-in-mcp-lua-1-04-2024-07-03";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -633,7 +634,7 @@
       ];
     };
     tomtjes-show-project-length-in-mcp-lua-1-05-pre1-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-in-mcp-lua-1-05-pre1-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -662,7 +663,7 @@
       ];
     };
     tomtjes-show-project-length-in-mcp-lua-1-05-pre2-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-in-mcp-lua-1-05-pre2-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -691,7 +692,7 @@
       ];
     };
     tomtjes-show-project-length-in-mcp-lua-1-05-pre3-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-in-mcp-lua-1-05-pre3-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -720,7 +721,7 @@
       ];
     };
     tomtjes-show-project-length-in-mcp-lua-1-05-pre4-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-in-mcp-lua-1-05-pre4-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -749,7 +750,7 @@
       ];
     };
     tomtjes-show-project-length-in-mcp-lua-1-05-pre5-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-in-mcp-lua-1-05-pre5-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -778,7 +779,7 @@
       ];
     };
     tomtjes-show-project-length-in-mcp-lua-1-05-pre6-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-in-mcp-lua-1-05-pre6-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -807,7 +808,7 @@
       ];
     };
     tomtjes-show-project-length-in-mcp-lua-1-05-pre7-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-in-mcp-lua-1-05-pre7-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -836,7 +837,7 @@
       ];
     };
     tomtjes-show-project-length-in-mcp-lua-1-05-pre8-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-in-mcp-lua-1-05-pre8-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -865,7 +866,7 @@
       ];
     };
     tomtjes-show-project-length-in-mcp-lua-1-05-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-in-mcp-lua-1-05-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -889,7 +890,7 @@
       ];
     };
     tomtjes-show-project-length-in-mcp-lua-1-06-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-in-mcp-lua-1-06-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -913,7 +914,7 @@
       ];
     };
     tomtjes-show-project-length-lua-1-0-2023-12-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-show-project-length-lua-1-0-2023-12-20";
       indexName = "Radio Toolkit";
       categoryName = "Metadata";
@@ -927,7 +928,7 @@
       ];
     };
     tomtjes-create-regions-from-adjacent-items-across-tracks-lua-1-1-2022-01-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-create-regions-from-adjacent-items-across-tracks-lua-1-1-2022-01-28";
       indexName = "Radio Toolkit";
       categoryName = "Regions";
@@ -946,7 +947,7 @@
       ];
     };
     tomtjes-create-regions-from-adjacent-items-across-tracks-lua-1-2-2024-06-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-create-regions-from-adjacent-items-across-tracks-lua-1-2-2024-06-22";
       indexName = "Radio Toolkit";
       categoryName = "Regions";
@@ -965,7 +966,7 @@
       ];
     };
     tomtjes-create-regions-from-adjacent-items-across-tracks-lua-1-3-pre1-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-create-regions-from-adjacent-items-across-tracks-lua-1-3-pre1-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Regions";
@@ -984,7 +985,7 @@
       ];
     };
     tomtjes-create-regions-from-adjacent-items-across-tracks-lua-1-3-pre2-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-create-regions-from-adjacent-items-across-tracks-lua-1-3-pre2-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Regions";
@@ -1003,7 +1004,7 @@
       ];
     };
     tomtjes-create-regions-from-adjacent-items-across-tracks-lua-1-3-2024-07-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-create-regions-from-adjacent-items-across-tracks-lua-1-3-2024-07-07";
       indexName = "Radio Toolkit";
       categoryName = "Regions";
@@ -1022,7 +1023,7 @@
       ];
     };
     tomtjes-create-regions-from-adjacent-items-on-same-track-lua-1-0-2-2022-01-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-create-regions-from-adjacent-items-on-same-track-lua-1-0-2-2022-01-28";
       indexName = "Radio Toolkit";
       categoryName = "Regions";
@@ -1041,7 +1042,7 @@
       ];
     };
     tomtjes-create-regions-from-adjacent-items-on-same-track-lua-1-1-pre1-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-create-regions-from-adjacent-items-on-same-track-lua-1-1-pre1-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Regions";
@@ -1060,7 +1061,7 @@
       ];
     };
     tomtjes-create-regions-from-adjacent-items-on-same-track-lua-1-1-pre2-2024-07-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-create-regions-from-adjacent-items-on-same-track-lua-1-1-pre2-2024-07-06";
       indexName = "Radio Toolkit";
       categoryName = "Regions";
@@ -1079,7 +1080,7 @@
       ];
     };
     tomtjes-create-regions-from-adjacent-items-on-same-track-lua-1-1-2024-07-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-create-regions-from-adjacent-items-on-same-track-lua-1-1-2024-07-07";
       indexName = "Radio Toolkit";
       categoryName = "Regions";
@@ -1098,7 +1099,7 @@
       ];
     };
     tomtjes-drafts-helper-lua-1-0-2023-12-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-drafts-helper-lua-1-0-2023-12-20";
       indexName = "Radio Toolkit";
       categoryName = "Third Party";
@@ -1112,7 +1113,7 @@
       ];
     };
     tomtjes-set-inpoint-beginning-of-item-if-inpoint-0-lua-1-0-2017-03-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-set-inpoint-beginning-of-item-if-inpoint-0-lua-1-0-2017-03-14";
       indexName = "Radio Toolkit";
       categoryName = "Time Selection";
@@ -1126,7 +1127,7 @@
       ];
     };
     tomtjes-set-inpoint-outpoint-if-inpoint-0-lua-1-0-2017-03-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-set-inpoint-outpoint-if-inpoint-0-lua-1-0-2017-03-14";
       indexName = "Radio Toolkit";
       categoryName = "Time Selection";
@@ -1140,7 +1141,7 @@
       ];
     };
     tomtjes-preview-time-selection-lua-1-0-2017-03-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-preview-time-selection-lua-1-0-2017-03-09";
       indexName = "Radio Toolkit";
       categoryName = "Transport";
@@ -1154,7 +1155,7 @@
       ];
     };
     tomtjes-toggle-master-playrate-lua-1-1-2024-07-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-toggle-master-playrate-lua-1-1-2024-07-03";
       indexName = "Radio Toolkit";
       categoryName = "Transport";
@@ -1183,7 +1184,7 @@
       ];
     };
     tomtjes-toggle-master-playrate-lua-1-2-2024-07-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tomtjes-toggle-master-playrate-lua-1-2-2024-07-03";
       indexName = "Radio Toolkit";
       categoryName = "Transport";

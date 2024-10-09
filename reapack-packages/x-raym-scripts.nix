@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   x-raym-scripts = {
     x-raym-display-color-of-selected-tracks-items-and-takes-in-the-console-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-display-color-of-selected-tracks-items-and-takes-in-the-console-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Color";
@@ -19,7 +20,7 @@
       ];
     };
     x-raym-select-items-with-same-color-as-mouse-context-or-first-selected-item-on-selected-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-items-with-same-color-as-mouse-context-or-first-selected-item-on-selected-tracks-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Color";
@@ -33,7 +34,7 @@
       ];
     };
     x-raym-set-selected-takes-or-items-color-from-their-visible-color-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-takes-or-items-color-from-their-visible-color-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Color";
@@ -47,7 +48,7 @@
       ];
     };
     x-raym-set-selected-tracks-and-takes-color-from-hex-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-and-takes-color-from-hex-value-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Color";
@@ -61,7 +62,7 @@
       ];
     };
     x-raym-set-selected-tracks-and-takes-color-from-hex-value-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-and-takes-color-from-hex-value-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Color";
@@ -75,7 +76,7 @@
       ];
     };
     x-raym-set-selected-tracks-and-takes-color-from-hex-value-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-and-takes-color-from-hex-value-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Color";
@@ -89,7 +90,7 @@
       ];
     };
     x-raym-set-selected-tracks-and-takes-color-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-and-takes-color-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Color";
@@ -103,7 +104,7 @@
       ];
     };
     x-raym-set-selected-tracks-items-and-takes-color-from-mouse-context-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-items-and-takes-color-from-mouse-context-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Color";
@@ -117,7 +118,7 @@
       ];
     };
     x-raym-automatically-set-edit-cursor-pos-at-mouse-position-if-mouse-over-ruler-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-automatically-set-edit-cursor-pos-at-mouse-position-if-mouse-over-ruler-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Cursor";
@@ -131,7 +132,7 @@
       ];
     };
     x-raym-go-to-start-of-next-region-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-go-to-start-of-next-region-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Cursor";
@@ -145,7 +146,7 @@
       ];
     };
     x-raym-go-to-start-of-previous-region-strict-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-go-to-start-of-previous-region-strict-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Cursor";
@@ -159,7 +160,7 @@
       ];
     };
     x-raym-go-to-start-of-previous-region-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-go-to-start-of-previous-region-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Cursor";
@@ -173,7 +174,7 @@
       ];
     };
     x-raym-move-edit-cursor-to-end-of-region-under-play-or-edit-cursor-and-play-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-edit-cursor-to-end-of-region-under-play-or-edit-cursor-and-play-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Cursor";
@@ -187,7 +188,7 @@
       ];
     };
     x-raym-move-edit-cursor-to-end-of-region-under-play-or-edit-cursor-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-edit-cursor-to-end-of-region-under-play-or-edit-cursor-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Cursor";
@@ -201,7 +202,7 @@
       ];
     };
     x-raym-move-edit-cursor-to-first-selected-item-snap-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-edit-cursor-to-first-selected-item-snap-offset-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Cursor";
@@ -215,7 +216,7 @@
       ];
     };
     x-raym-move-edit-cursor-to-next-frame-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-edit-cursor-to-next-frame-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Cursor";
@@ -229,7 +230,7 @@
       ];
     };
     x-raym-move-edit-cursor-to-next-frame-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-edit-cursor-to-next-frame-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Cursor";
@@ -243,7 +244,7 @@
       ];
     };
     x-raym-move-edit-cursor-to-previous-frame-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-edit-cursor-to-previous-frame-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Cursor";
@@ -257,7 +258,7 @@
       ];
     };
     x-raym-move-edit-cursor-to-previous-frame-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-edit-cursor-to-previous-frame-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Cursor";
@@ -271,7 +272,7 @@
       ];
     };
     x-raym-move-edit-cursor-to-start-of-region-under-play-or-edit-cursor-and-play-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-edit-cursor-to-start-of-region-under-play-or-edit-cursor-and-play-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Cursor";
@@ -285,7 +286,7 @@
       ];
     };
     x-raym-move-edit-cursor-to-start-of-region-under-play-or-edit-cursor-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-edit-cursor-to-start-of-region-under-play-or-edit-cursor-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Cursor";
@@ -299,7 +300,7 @@
       ];
     };
     x-raym-clear-all-track-automation-envelope-latches-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-clear-all-track-automation-envelope-latches-background-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -313,7 +314,7 @@
       ];
     };
     x-raym-fade-out-master-envelope-at-each-selected-items-end-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-fade-out-master-envelope-at-each-selected-items-end-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -327,7 +328,7 @@
       ];
     };
     x-raym-move-edit-cursor-to-next-envelope-point-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-edit-cursor-to-next-envelope-point-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -341,7 +342,7 @@
       ];
     };
     x-raym-move-edit-cursor-to-previous-envelope-point-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-edit-cursor-to-previous-envelope-point-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -355,7 +356,7 @@
       ];
     };
     x-raym-randomize-selected-envelope-points-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-randomize-selected-envelope-points-value-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -369,7 +370,7 @@
       ];
     };
     x-raym-round-selected-envelope-points-value-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-round-selected-envelope-points-value-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -383,7 +384,7 @@
       ];
     };
     x-raym-select-envelope-point-at-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-envelope-point-at-edit-cursor-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -397,7 +398,7 @@
       ];
     };
     x-raym-set-or-offset-selected-envelope-points-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-envelope-points-value-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -411,7 +412,7 @@
       ];
     };
     x-raym-set-or-offset-selected-envelope-points-value-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-envelope-points-value-lua-1-6";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -425,7 +426,7 @@
       ];
     };
     x-raym-set-or-offset-selected-envelope-points-value-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-envelope-points-value-lua-1-7";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -439,7 +440,7 @@
       ];
     };
     x-raym-set-or-offset-selected-envelope-points-value-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-envelope-points-value-lua-1-8";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -453,7 +454,7 @@
       ];
     };
     x-raym-set-or-offset-selected-envelope-points-value-lua-1-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-envelope-points-value-lua-1-8-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -467,7 +468,7 @@
       ];
     };
     x-raym-set-or-offset-selected-envelope-points-value-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-envelope-points-value-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -481,7 +482,7 @@
       ];
     };
     x-raym-set-or-offset-selected-envelope-points-value-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-envelope-points-value-lua-2-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -495,7 +496,7 @@
       ];
     };
     x-raym-set-or-offset-selected-envelope-points-value-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-envelope-points-value-lua-2-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -509,7 +510,7 @@
       ];
     };
     x-raym-set-or-offset-selected-envelope-points-value-lua-2-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-envelope-points-value-lua-2-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -523,7 +524,7 @@
       ];
     };
     x-raym-set-selected-envelope-points-value-from-value-at-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-envelope-points-value-from-value-at-edit-cursor-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -537,7 +538,7 @@
       ];
     };
     x-raym-unselect-envelope-point-at-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-unselect-envelope-point-at-edit-cursor-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes";
@@ -551,7 +552,7 @@
       ];
     };
     x-raym-copy-visible-armed-envelope-of-last-touched-track-and-paste-to-selected-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-visible-armed-envelope-of-last-touched-track-and-paste-to-selected-tracks-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Across Tracks";
@@ -565,7 +566,7 @@
       ];
     };
     x-raym-copy-visible-armed-envelope-of-last-touched-track-and-paste-to-selected-tracks-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-visible-armed-envelope-of-last-touched-track-and-paste-to-selected-tracks-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Across Tracks";
@@ -579,7 +580,7 @@
       ];
     };
     x-raym-copy-visible-armed-envelope-points-in-time-selection-of-last-touched-track-and-insert-in-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-visible-armed-envelope-points-in-time-selection-of-last-touched-track-and-insert-in-selected-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Across Tracks";
@@ -593,7 +594,7 @@
       ];
     };
     x-raym-copy-visible-armed-envelope-points-in-time-selection-of-last-touched-track-and-insert-in-selected-tracks-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-visible-armed-envelope-points-in-time-selection-of-last-touched-track-and-insert-in-selected-tracks-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Across Tracks";
@@ -607,7 +608,7 @@
       ];
     };
     x-raym-merge-visible-armed-envelopes-of-selected-track-to-selected-tracks-vca-like-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-merge-visible-armed-envelopes-of-selected-track-to-selected-tracks-vca-like-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Across Tracks";
@@ -621,7 +622,7 @@
       ];
     };
     x-raym-delete-automation-items-in-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-automation-items-in-time-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -635,7 +636,7 @@
       ];
     };
     x-raym-select-all-automation-items-below-length-threshold-on-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-all-automation-items-below-length-threshold-on-selected-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Automation Items";
@@ -649,7 +650,7 @@
       ];
     };
     x-raym-add-envelope-point-on-edit-cursor-position-from-next-point-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-point-on-edit-cursor-position-from-next-point-value-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -663,7 +664,7 @@
       ];
     };
     x-raym-add-envelope-point-on-edit-cursor-position-from-previous-point-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-point-on-edit-cursor-position-from-previous-point-value-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -677,7 +678,7 @@
       ];
     };
     x-raym-add-envelope-point-on-edit-cursor-position-from-previous-point-value-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-point-on-edit-cursor-position-from-previous-point-value-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -691,7 +692,7 @@
       ];
     };
     x-raym-add-envelope-point-on-next-point-position-from-previous-point-value-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-point-on-next-point-position-from-previous-point-value-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -705,7 +706,7 @@
       ];
     };
     x-raym-add-envelope-point-on-next-point-position-from-previous-point-value-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-point-on-next-point-position-from-previous-point-value-lua-1-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -719,7 +720,7 @@
       ];
     };
     x-raym-add-envelope-point-on-previous-point-position-from-next-point-value-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-point-on-previous-point-position-from-next-point-value-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -733,7 +734,7 @@
       ];
     };
     x-raym-add-envelope-point-on-previous-point-position-from-next-point-value-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-point-on-previous-point-position-from-next-point-value-lua-1-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -747,7 +748,7 @@
       ];
     };
     x-raym-add-envelope-points-at-regular-interval-and-set-all-points-to-linear-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-regular-interval-and-set-all-points-to-linear-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -761,7 +762,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-center-to-center-preserving-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-center-to-center-preserving-edges-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -775,7 +776,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-center-to-center-preserving-edges-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-center-to-center-preserving-edges-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -789,7 +790,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-center-to-max-preserving-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-center-to-max-preserving-edges-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -803,7 +804,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-center-to-max-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-center-to-max-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -817,7 +818,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-center-to-min-preserving-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-center-to-min-preserving-edges-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -831,7 +832,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-center-to-min-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-center-to-min-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -845,7 +846,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-max-to-center-preserving-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-max-to-center-preserving-edges-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -859,7 +860,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-max-to-center-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-max-to-center-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -873,7 +874,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-max-to-max-preserving-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-max-to-max-preserving-edges-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -887,7 +888,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-max-to-max-preserving-edges-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-max-to-max-preserving-edges-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -901,7 +902,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-max-to-min-preserving-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-max-to-min-preserving-edges-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -915,7 +916,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-max-to-min-preserving-edges-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-max-to-min-preserving-edges-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -929,7 +930,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-max-to-min-preserving-edges-lua-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-max-to-min-preserving-edges-lua-1-2-3";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -943,7 +944,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-max-to-min-preserving-edges-lua-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-max-to-min-preserving-edges-lua-1-2-4";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -957,7 +958,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-max-to-min-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-max-to-min-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -971,7 +972,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-max-to-min-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-max-to-min-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -985,7 +986,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-max-to-min-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-max-to-min-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -999,7 +1000,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-min-to-center-preserving-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-min-to-center-preserving-edges-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1013,7 +1014,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-min-to-center-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-min-to-center-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1027,7 +1028,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-preserving-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-preserving-edges-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1041,7 +1042,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-preserving-edges-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-preserving-edges-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1055,7 +1056,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-preserving-edges-lua-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-preserving-edges-lua-1-2-3";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1069,7 +1070,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-preserving-edges-lua-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-preserving-edges-lua-1-2-4";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1083,7 +1084,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1097,7 +1098,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1111,7 +1112,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1125,7 +1126,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-min-to-max-lua-1-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1139,7 +1140,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-min-to-min-preserving-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-min-to-min-preserving-edges-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1153,7 +1154,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-min-to-min-preserving-edges-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-min-to-min-preserving-edges-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1167,7 +1168,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-x-to-y-preserving-edges-on-choosen-envelopes-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-x-to-y-preserving-edges-on-choosen-envelopes-lua-1-5";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1181,7 +1182,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-x-to-y-preserving-edges-on-choosen-envelopes-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-x-to-y-preserving-edges-on-choosen-envelopes-lua-1-6";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1195,7 +1196,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-x-to-y-preserving-edges-on-choosen-envelopes-lua-1-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-x-to-y-preserving-edges-on-choosen-envelopes-lua-1-6-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1209,7 +1210,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-x-to-y-preserving-edges-on-choosen-envelopes-lua-1-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-x-to-y-preserving-edges-on-choosen-envelopes-lua-1-6-2";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1223,7 +1224,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-x-to-y-preserving-edges-on-choosen-envelopes-lua-1-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-x-to-y-preserving-edges-on-choosen-envelopes-lua-1-6-3";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1237,7 +1238,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-xdb-to-xdb-preserving-edges-on-volume-envelope-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-xdb-to-xdb-preserving-edges-on-volume-envelope-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1251,7 +1252,7 @@
       ];
     };
     x-raym-add-envelope-points-at-time-selection-edges-from-xdb-to-xdb-preserving-edges-on-volume-envelope-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-xdb-to-xdb-preserving-edges-on-volume-envelope-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1265,7 +1266,7 @@
       ];
     };
     x-raym-add-point-on-envelopes-at-edit-cursor-with-center-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-point-on-envelopes-at-edit-cursor-with-center-value-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1279,7 +1280,7 @@
       ];
     };
     x-raym-add-point-on-envelopes-at-edit-cursor-with-max-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-point-on-envelopes-at-edit-cursor-with-max-value-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1293,7 +1294,7 @@
       ];
     };
     x-raym-add-point-on-envelopes-at-edit-cursor-with-min-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-point-on-envelopes-at-edit-cursor-with-min-value-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1307,7 +1308,7 @@
       ];
     };
     x-raym-add-point-on-envelopes-at-edit-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-point-on-envelopes-at-edit-cursor-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1321,7 +1322,7 @@
       ];
     };
     x-raym-add-points-before-and-after-selected-points-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-points-before-and-after-selected-points-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1335,7 +1336,7 @@
       ];
     };
     x-raym-add-points-on-envelopes-at-markers-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-points-on-envelopes-at-markers-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1349,7 +1350,7 @@
       ];
     };
     x-raym-add-points-on-envelopes-at-markers-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-points-on-envelopes-at-markers-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1363,7 +1364,7 @@
       ];
     };
     x-raym-add-points-on-envelopes-at-regions-start-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-points-on-envelopes-at-regions-start-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1377,7 +1378,7 @@
       ];
     };
     x-raym-add-points-on-envelopes-at-regions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-points-on-envelopes-at-regions-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1391,7 +1392,7 @@
       ];
     };
     x-raym-add-points-on-envelopes-at-regions-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-points-on-envelopes-at-regions-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1405,7 +1406,7 @@
       ];
     };
     x-raym-add-points-on-envelopes-at-regions-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-points-on-envelopes-at-regions-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1419,7 +1420,7 @@
       ];
     };
     x-raym-clean-inactive-and-hidden-envelopes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-clean-inactive-and-hidden-envelopes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1433,7 +1434,7 @@
       ];
     };
     x-raym-copy-envelope-points-in-time-selection-and-paste-at-edit-cursor-preserving-destination-edges-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-envelope-points-in-time-selection-and-paste-at-edit-cursor-preserving-destination-edges-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1447,7 +1448,7 @@
       ];
     };
     x-raym-copy-envelope-points-in-time-selection-and-paste-at-edit-cursor-preserving-destination-edges-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-envelope-points-in-time-selection-and-paste-at-edit-cursor-preserving-destination-edges-lua-1-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1461,7 +1462,7 @@
       ];
     };
     x-raym-copy-envelope-points-in-time-selection-and-paste-at-edit-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-envelope-points-in-time-selection-and-paste-at-edit-cursor-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1475,7 +1476,7 @@
       ];
     };
     x-raym-copy-envelope-values-at-edit-cursor-and-insert-at-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-envelope-values-at-edit-cursor-and-insert-at-time-selection-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1489,7 +1490,7 @@
       ];
     };
     x-raym-copy-envelope-values-at-edit-cursor-and-insert-at-time-selection-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-envelope-values-at-edit-cursor-and-insert-at-time-selection-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1503,7 +1504,7 @@
       ];
     };
     x-raym-copy-envelope-values-at-edit-cursor-and-paste-at-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-envelope-values-at-edit-cursor-and-paste-at-time-selection-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1517,7 +1518,7 @@
       ];
     };
     x-raym-delete-envelope-points-at-cursor-position-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-envelope-points-at-cursor-position-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1531,7 +1532,7 @@
       ];
     };
     x-raym-delete-envelope-points-below-consecutive-threshold-envelope-smoother-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-envelope-points-below-consecutive-threshold-envelope-smoother-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1545,7 +1546,7 @@
       ];
     };
     x-raym-delete-envelope-points-preserving-edges-if-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-envelope-points-preserving-edges-if-time-selection-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1559,7 +1560,7 @@
       ];
     };
     x-raym-delete-envelope-points-preserving-edges-if-time-selection-lua-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-envelope-points-preserving-edges-if-time-selection-lua-1-2-3";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1573,7 +1574,7 @@
       ];
     };
     x-raym-delete-envelope-points-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-envelope-points-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1587,7 +1588,7 @@
       ];
     };
     x-raym-delete-selected-points-on-selected-tracks-visible-armed-envelope-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-selected-points-on-selected-tracks-visible-armed-envelope-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1601,7 +1602,7 @@
       ];
     };
     x-raym-hide-envelope-and-set-it-as-inactive-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-hide-envelope-and-set-it-as-inactive-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1615,7 +1616,7 @@
       ];
     };
     x-raym-invert-envelope-points-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-invert-envelope-points-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1629,7 +1630,7 @@
       ];
     };
     x-raym-invert-envelope-points-values-preserving-edges-if-time-selection-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-invert-envelope-points-values-preserving-edges-if-time-selection-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1643,7 +1644,7 @@
       ];
     };
     x-raym-invert-envelope-points-values-preserving-edges-if-time-selection-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-invert-envelope-points-values-preserving-edges-if-time-selection-lua-1-5";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1657,7 +1658,7 @@
       ];
     };
     x-raym-invert-envelope-points-values-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-invert-envelope-points-values-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1671,7 +1672,7 @@
       ];
     };
     x-raym-invert-envelope-points-values-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-invert-envelope-points-values-lua-1-4";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1685,7 +1686,7 @@
       ];
     };
     x-raym-quantize-envelope-points-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-quantize-envelope-points-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1699,7 +1700,7 @@
       ];
     };
     x-raym-replace-envelope-points-by-linear-points-at-regular-interval-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-replace-envelope-points-by-linear-points-at-regular-interval-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1713,7 +1714,7 @@
       ];
     };
     x-raym-reset-envelope-with-default-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-envelope-with-default-value-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1727,7 +1728,7 @@
       ];
     };
     x-raym-reset-envelope-with-value-at-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-envelope-with-value-at-edit-cursor-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1741,7 +1742,7 @@
       ];
     };
     x-raym-reset-envelope-with-value-estimated-by-regular-intervals-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-envelope-with-value-estimated-by-regular-intervals-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1755,7 +1756,7 @@
       ];
     };
     x-raym-reset-selected-envelope-points-to-center-default-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-selected-envelope-points-to-center-default-value-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1769,7 +1770,7 @@
       ];
     };
     x-raym-select-envelope-points-in-visible-armed-envelope-of-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-envelope-points-in-visible-armed-envelope-of-selected-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1783,7 +1784,7 @@
       ];
     };
     x-raym-select-redundant-envelope-points-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-redundant-envelope-points-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1797,7 +1798,7 @@
       ];
     };
     x-raym-select-redundant-envelope-points-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-redundant-envelope-points-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1811,7 +1812,7 @@
       ];
     };
     x-raym-select-redundant-envelope-points-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-redundant-envelope-points-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1825,7 +1826,7 @@
       ];
     };
     x-raym-select-redundant-envelope-points-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-redundant-envelope-points-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1839,7 +1840,7 @@
       ];
     };
     x-raym-set-envelope-as-active-and-armed-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-envelope-as-active-and-armed-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1853,7 +1854,7 @@
       ];
     };
     x-raym-set-flat-points-value-in-time-selection-preserving-edges-if-time-selection-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-flat-points-value-in-time-selection-preserving-edges-if-time-selection-lua-1-6";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1867,7 +1868,7 @@
       ];
     };
     x-raym-set-flat-points-value-in-time-selection-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-flat-points-value-in-time-selection-lua-1-6";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1881,7 +1882,7 @@
       ];
     };
     x-raym-set-or-offset-envelope-points-preserving-edges-if-time-selection-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-envelope-points-preserving-edges-if-time-selection-lua-1-6";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1895,7 +1896,7 @@
       ];
     };
     x-raym-set-or-offset-envelope-points-value-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-envelope-points-value-lua-1-6";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1909,7 +1910,7 @@
       ];
     };
     x-raym-set-selected-tracks-parameters-values-with-envelopes-values-at-edit-cursor-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-parameters-values-with-envelopes-values-at-edit-cursor-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1923,7 +1924,7 @@
       ];
     };
     x-raym-set-selected-tracks-parameters-values-with-envelopes-values-at-edit-cursor-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-parameters-values-with-envelopes-values-at-edit-cursor-lua-1-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1937,7 +1938,7 @@
       ];
     };
     x-raym-toggle-certain-envelopes-properties-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-certain-envelopes-properties-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1951,7 +1952,7 @@
       ];
     };
     x-raym-toggle-envelope-fader-scaling-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-envelope-fader-scaling-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1965,7 +1966,7 @@
       ];
     };
     x-raym-toggle-envelopes-active-state-property-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-envelopes-active-state-property-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1979,7 +1980,7 @@
       ];
     };
     x-raym-trim-selected-tracks-parameters-values-with-envelopes-values-at-edit-cursor-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-selected-tracks-parameters-values-with-envelopes-values-at-edit-cursor-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/On Tracks";
@@ -1993,7 +1994,7 @@
       ];
     };
     spk77-create-take-pan-envelope-from-take-pan-eel-0-2014-11-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-create-take-pan-envelope-from-take-pan-eel-0-2014-11-20";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Takes";
@@ -2007,7 +2008,7 @@
       ];
     };
     spk77-pan-active-takes-randomly-normal-distribution-with-gui-eel-0-2014-11-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-pan-active-takes-randomly-normal-distribution-with-gui-eel-0-2014-11-23";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Takes";
@@ -2021,7 +2022,7 @@
       ];
     };
     spk77-pan-active-takes-randomly-normal-distribution-with-gui-eel-0-2018-04-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-pan-active-takes-randomly-normal-distribution-with-gui-eel-0-2018-04-19";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Takes";
@@ -2035,7 +2036,7 @@
       ];
     };
     spk77-pan-active-takes-randomly-normal-distribution-eel-0-2014-11-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-pan-active-takes-randomly-normal-distribution-eel-0-2014-11-20";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Takes";
@@ -2049,7 +2050,7 @@
       ];
     };
     x-raym-apply-selected-items-pitch-offset-to-their-pitch-envelope-and-reset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-apply-selected-items-pitch-offset-to-their-pitch-envelope-and-reset-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Takes";
@@ -2063,7 +2064,7 @@
       ];
     };
     x-raym-create-take-pitch-envelope-random-points-with-gui-eel-0-2014-11-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-take-pitch-envelope-random-points-with-gui-eel-0-2014-11-23";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Takes";
@@ -2077,7 +2078,7 @@
       ];
     };
     x-raym-create-take-pitch-envelope-random-points-with-gui-eel-0-2018-04-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-take-pitch-envelope-random-points-with-gui-eel-0-2018-04-19";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Takes";
@@ -2091,7 +2092,7 @@
       ];
     };
     x-raym-offset-selected-items-pitch-envelope-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-offset-selected-items-pitch-envelope-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Takes";
@@ -2105,7 +2106,7 @@
       ];
     };
     x-raym-offset-selected-items-pitch-envelope-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-offset-selected-items-pitch-envelope-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Takes";
@@ -2119,7 +2120,7 @@
       ];
     };
     x-raym-offset-selected-items-pitch-envelope-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-offset-selected-items-pitch-envelope-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Takes";
@@ -2133,7 +2134,7 @@
       ];
     };
     x-raym-offset-selected-items-pitch-envelope-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-offset-selected-items-pitch-envelope-lua-1-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Takes";
@@ -2147,7 +2148,7 @@
       ];
     };
     x-raym-pan-active-takes-randomly-normal-distribution-with-gui-oneseed-eel-0-2014-11-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-pan-active-takes-randomly-normal-distribution-with-gui-oneseed-eel-0-2014-11-23";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Takes";
@@ -2161,7 +2162,7 @@
       ];
     };
     x-raym-pan-active-takes-randomly-normal-distribution-with-gui-oneseed-eel-0-2018-04-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-pan-active-takes-randomly-normal-distribution-with-gui-oneseed-eel-0-2018-04-19";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Takes";
@@ -2175,7 +2176,7 @@
       ];
     };
     x-raym-pan-active-takes-randomly-normal-distribution-oneseed-eel-0-2014-11-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-pan-active-takes-randomly-normal-distribution-oneseed-eel-0-2014-11-20";
       indexName = "X-Raym Scripts";
       categoryName = "Envelopes/Takes";
@@ -2189,7 +2190,7 @@
       ];
     };
     spk77-button-colors-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-button-colors-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Functions";
@@ -2203,7 +2204,7 @@
       ];
     };
     spk77-class-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-class-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Functions";
@@ -2217,7 +2218,7 @@
       ];
     };
     spk77-get-max-peak-val-and-pos-from-take-function-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-get-max-peak-val-and-pos-from-take-function-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Functions";
@@ -2231,7 +2232,7 @@
       ];
     };
     spk77-get-take-rms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-get-take-rms-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Functions";
@@ -2245,7 +2246,7 @@
       ];
     };
     spk77-save-table-to-file-and-load-table-from-file-functions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-save-table-to-file-and-load-table-from-file-functions-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Functions";
@@ -2259,7 +2260,7 @@
       ];
     };
     spk77-slider-class-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-slider-class-lua-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Functions";
@@ -2273,7 +2274,7 @@
       ];
     };
     spk-slider-class-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk-slider-class-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Functions";
@@ -2287,7 +2288,7 @@
       ];
     };
     x-raym-functions-console-debug-messages-eel-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-functions-console-debug-messages-eel-1-7";
       indexName = "X-Raym Scripts";
       categoryName = "Functions";
@@ -2301,7 +2302,7 @@
       ];
     };
     x-raym-bypass-inactive-take-fx-of-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-bypass-inactive-take-fx-of-selected-items-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2315,7 +2316,7 @@
       ];
     };
     x-raym-insert-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-fx-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2329,7 +2330,7 @@
       ];
     };
     x-raym-leave-open-only-focused-fx-and-minimize-the-others-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-leave-open-only-focused-fx-and-minimize-the-others-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2343,7 +2344,7 @@
       ];
     };
     x-raym-leave-open-only-focused-fx-and-minimize-the-others-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-leave-open-only-focused-fx-and-minimize-the-others-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2357,7 +2358,7 @@
       ];
     };
     x-raym-list-installed-fx-according-to-their-installation-order-reaimgui-lua-0-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-list-installed-fx-according-to-their-installation-order-reaimgui-lua-0-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2371,7 +2372,7 @@
       ];
     };
     x-raym-propagate-last-focused-fx-parameters-values-but-bypass-to-similarly-named-fx-on-child-tracks-real-time-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-propagate-last-focused-fx-parameters-values-but-bypass-to-similarly-named-fx-on-child-tracks-real-time-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2385,7 +2386,7 @@
       ];
     };
     x-raym-screenshot-fx-on-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-screenshot-fx-on-selected-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2399,7 +2400,7 @@
       ];
     };
     x-raym-set-color-rgb-paramaters-of-named-fx-to-its-track-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-color-rgb-paramaters-of-named-fx-to-its-track-color-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2413,7 +2414,7 @@
       ];
     };
     x-raym-set-color-rgb-paramaters-of-named-fx-to-its-track-color-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-color-rgb-paramaters-of-named-fx-to-its-track-color-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2427,7 +2428,7 @@
       ];
     };
     x-raym-set-color-rgb-paramaters-of-named-fx-to-its-track-color-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-color-rgb-paramaters-of-named-fx-to-its-track-color-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2441,7 +2442,7 @@
       ];
     };
     x-raym-set-fx-name-offline-on-all-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-fx-name-offline-on-all-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2455,7 +2456,7 @@
       ];
     };
     x-raym-set-fx-name-offline-on-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-fx-name-offline-on-selected-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2469,7 +2470,7 @@
       ];
     };
     x-raym-set-fx-name-online-on-all-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-fx-name-online-on-all-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2483,7 +2484,7 @@
       ];
     };
     x-raym-set-inactive-take-fx-of-selected-items-offline-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-inactive-take-fx-of-selected-items-offline-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2497,7 +2498,7 @@
       ];
     };
     x-raym-set-inactive-take-fx-of-selected-items-offline-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-inactive-take-fx-of-selected-items-offline-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2511,7 +2512,7 @@
       ];
     };
     x-raym-set-selected-tracks-fx-parameter-value-from-last-focused-fx-last-touch-parameter-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-fx-parameter-value-from-last-focused-fx-last-touch-parameter-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2525,7 +2526,7 @@
       ];
     };
     x-raym-set-selected-tracks-fx-parameter-value-from-last-focused-fx-last-touch-parameter-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-fx-parameter-value-from-last-focused-fx-last-touch-parameter-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2539,7 +2540,7 @@
       ];
     };
     x-raym-set-selected-tracks-fx-parameters-values-from-last-focused-fx-real-time-all-instances-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-fx-parameters-values-from-last-focused-fx-real-time-all-instances-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2553,7 +2554,7 @@
       ];
     };
     x-raym-set-selected-tracks-fx-parameters-values-from-last-focused-fx-real-time-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-fx-parameters-values-from-last-focused-fx-real-time-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2567,7 +2568,7 @@
       ];
     };
     x-raym-set-selected-tracks-fx-parameters-values-from-last-focused-fx-real-time-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-fx-parameters-values-from-last-focused-fx-real-time-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2581,7 +2582,7 @@
       ];
     };
     x-raym-set-selected-tracks-fx-parameters-values-from-last-focused-fx-real-time-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-fx-parameters-values-from-last-focused-fx-real-time-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2595,7 +2596,7 @@
       ];
     };
     x-raym-set-selected-tracks-fx-parameters-values-from-last-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-fx-parameters-values-from-last-focused-fx-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2609,7 +2610,7 @@
       ];
     };
     x-raym-set-selected-tracks-fx-parameters-values-from-last-focused-fx-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-fx-parameters-values-from-last-focused-fx-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2623,7 +2624,7 @@
       ];
     };
     x-raym-toggle-all-fx-except-those-with-on-and-off-suffixes-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-all-fx-except-those-with-on-and-off-suffixes-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2637,7 +2638,7 @@
       ];
     };
     x-raym-toggle-focused-fx-chain-panel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-focused-fx-chain-panel-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2651,7 +2652,7 @@
       ];
     };
     x-raym-toggle-js-pitch-shifter-and-reapitch-on-selected-tracks-according-to-record-arm-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-js-pitch-shifter-and-reapitch-on-selected-tracks-according-to-record-arm-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2665,7 +2666,7 @@
       ];
     };
     x-raym-toggle-selected-tracks-fx-except-those-with-on-and-off-suffixes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-selected-tracks-fx-except-those-with-on-and-off-suffixes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2679,7 +2680,7 @@
       ];
     };
     x-raym-toggle-selected-tracks-fx-except-those-with-on-and-off-suffixes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-selected-tracks-fx-except-those-with-on-and-off-suffixes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
@@ -2693,7 +2694,7 @@
       ];
     };
     spk77-glue-selected-items-preserving-names-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-glue-selected-items-preserving-names-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2707,7 +2708,7 @@
       ];
     };
     spk77-quantize-items-to-grid-using-item-snap-offset-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-quantize-items-to-grid-using-item-snap-offset-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2721,7 +2722,7 @@
       ];
     };
     x-raym-align-selected-items-across-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-align-selected-items-across-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2735,7 +2736,7 @@
       ];
     };
     x-raym-align-selected-items-across-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-align-selected-items-across-tracks-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2749,7 +2750,7 @@
       ];
     };
     x-raym-align-selected-items-across-tracks-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-align-selected-items-across-tracks-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2763,7 +2764,7 @@
       ];
     };
     x-raym-convert-selected-looped-items-into-independent-items-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-selected-looped-items-into-independent-items-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2777,7 +2778,7 @@
       ];
     };
     x-raym-convert-selected-looped-items-into-independent-items-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-selected-looped-items-into-independent-items-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2791,7 +2792,7 @@
       ];
     };
     x-raym-convert-selected-looped-items-into-items-and-pooled-midi-eel-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-selected-looped-items-into-items-and-pooled-midi-eel-0-8";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2805,7 +2806,7 @@
       ];
     };
     x-raym-convert-selected-looped-items-into-items-and-pooled-midi-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-selected-looped-items-into-items-and-pooled-midi-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2819,7 +2820,7 @@
       ];
     };
     x-raym-copy-selected-items-and-paste-at-mouse-position-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-selected-items-and-paste-at-mouse-position-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2833,7 +2834,7 @@
       ];
     };
     x-raym-copy-selected-items-and-paste-at-mouse-position-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-selected-items-and-paste-at-mouse-position-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2847,7 +2848,7 @@
       ];
     };
     x-raym-create-empty-items-on-selected-tracks-from-selected-midi-takes-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-empty-items-on-selected-tracks-from-selected-midi-takes-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2861,7 +2862,7 @@
       ];
     };
     x-raym-create-seamless-loops-from-selected-items-sections-inside-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-seamless-loops-from-selected-items-sections-inside-time-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2875,7 +2876,7 @@
       ];
     };
     x-raym-delete-selected-items-and-ripple-edit-adjacent-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-selected-items-and-ripple-edit-adjacent-items-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2889,7 +2890,7 @@
       ];
     };
     x-raym-delete-selected-items-and-ripple-edit-adjacent-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-selected-items-and-ripple-edit-adjacent-items-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2903,7 +2904,7 @@
       ];
     };
     x-raym-delete-selected-items-sections-in-time-selection-if-cursor-enter-time-selection-and-ripple-new-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-selected-items-sections-in-time-selection-if-cursor-enter-time-selection-and-ripple-new-items-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2917,7 +2918,7 @@
       ];
     };
     x-raym-expand-first-selected-item-per-track-to-end-of-last-selected-ones-and-delete-inbetween-ones-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-expand-first-selected-item-per-track-to-end-of-last-selected-ones-and-delete-inbetween-ones-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2931,7 +2932,7 @@
       ];
     };
     x-raym-expand-first-selected-item-to-next-item-end-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-expand-first-selected-item-to-next-item-end-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2945,7 +2946,7 @@
       ];
     };
     x-raym-expand-item-under-mouse-to-next-item-end-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-expand-item-under-mouse-to-next-item-end-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2959,7 +2960,7 @@
       ];
     };
     x-raym-expand-left-edge-of-item-under-mouse-to-edit-cursor-keeping-snap-offset-position-and-apply-to-other-selected-items-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-expand-left-edge-of-item-under-mouse-to-edit-cursor-keeping-snap-offset-position-and-apply-to-other-selected-items-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2973,7 +2974,7 @@
       ];
     };
     x-raym-expand-selected-items-left-edge-to-the-previous-item-position-if-close-enough-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-expand-selected-items-left-edge-to-the-previous-item-position-if-close-enough-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -2987,7 +2988,7 @@
       ];
     };
     x-raym-expand-selected-items-length-to-start-and-end-of-their-source-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-expand-selected-items-length-to-start-and-end-of-their-source-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3001,7 +3002,7 @@
       ];
     };
     x-raym-expand-selected-items-length-to-the-next-item-position-if-close-enough-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-expand-selected-items-length-to-the-next-item-position-if-close-enough-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3015,7 +3016,7 @@
       ];
     };
     x-raym-expand-selected-items-length-to-the-next-item-position-if-close-enough-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-expand-selected-items-length-to-the-next-item-position-if-close-enough-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3029,7 +3030,7 @@
       ];
     };
     x-raym-explode-multi-channel-items-on-two-tracks-without-render-stereo-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-explode-multi-channel-items-on-two-tracks-without-render-stereo-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3043,7 +3044,7 @@
       ];
     };
     x-raym-explode-selected-items-on-tracks-below-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-explode-selected-items-on-tracks-below-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3057,7 +3058,7 @@
       ];
     };
     x-raym-glue-selected-items-independently-eel-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-glue-selected-items-independently-eel-0-9";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3071,7 +3072,7 @@
       ];
     };
     x-raym-implode-selected-items-on-same-track-into-takes-preserving-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-implode-selected-items-on-same-track-into-takes-preserving-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3085,7 +3086,7 @@
       ];
     };
     x-raym-implode-selected-items-on-same-track-into-takes-preserving-position-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-implode-selected-items-on-same-track-into-takes-preserving-position-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3099,7 +3100,7 @@
       ];
     };
     x-raym-move-item-position-of-item-under-mouse-to-edit-cursor-according-to-ripple-state-preserving-end-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-item-position-of-item-under-mouse-to-edit-cursor-according-to-ripple-state-preserving-end-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3113,7 +3114,7 @@
       ];
     };
     x-raym-move-item-position-of-item-under-mouse-to-edit-cursor-according-to-ripple-state-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-item-position-of-item-under-mouse-to-edit-cursor-according-to-ripple-state-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3127,7 +3128,7 @@
       ];
     };
     x-raym-move-items-to-start-preserving-groups-timing-relative-positions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-items-to-start-preserving-groups-timing-relative-positions-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3141,7 +3142,7 @@
       ];
     };
     x-raym-move-left-edge-and-content-of-item-under-mouse-to-edit-cursor-according-to-ripple-state-eel-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-left-edge-and-content-of-item-under-mouse-to-edit-cursor-according-to-ripple-state-eel-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3155,7 +3156,7 @@
       ];
     };
     x-raym-move-left-edge-of-item-under-mouse-to-edit-cursor-according-to-ripple-state-eel-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-left-edge-of-item-under-mouse-to-edit-cursor-according-to-ripple-state-eel-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3169,7 +3170,7 @@
       ];
     };
     x-raym-move-right-edge-and-content-of-item-under-mouse-to-edit-cursor-according-to-ripple-state-eel-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-right-edge-and-content-of-item-under-mouse-to-edit-cursor-according-to-ripple-state-eel-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3183,7 +3184,7 @@
       ];
     };
     x-raym-move-right-edge-of-item-under-mouse-to-edit-cursor-according-to-ripple-state-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-right-edge-of-item-under-mouse-to-edit-cursor-according-to-ripple-state-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3197,7 +3198,7 @@
       ];
     };
     x-raym-move-right-edge-of-item-under-mouse-to-edit-cursor-according-to-ripple-state-eel-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-right-edge-of-item-under-mouse-to-edit-cursor-according-to-ripple-state-eel-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3211,7 +3212,7 @@
       ];
     };
     x-raym-move-selected-items-on-first-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-on-first-selected-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3225,7 +3226,7 @@
       ];
     };
     x-raym-move-selected-items-position-left-according-to-their-snap-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-position-left-according-to-their-snap-offset-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3239,7 +3240,7 @@
       ];
     };
     x-raym-move-selected-items-position-right-according-to-their-snap-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-position-right-according-to-their-snap-offset-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3253,7 +3254,7 @@
       ];
     };
     x-raym-move-selected-items-to-end-of-previous-items-on-all-visible-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-to-end-of-previous-items-on-all-visible-tracks-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3267,7 +3268,7 @@
       ];
     };
     x-raym-move-selected-items-to-first-track-with-same-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-to-first-track-with-same-color-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3281,7 +3282,7 @@
       ];
     };
     x-raym-move-selected-items-to-next-item-on-all-visible-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-to-next-item-on-all-visible-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3295,7 +3296,7 @@
       ];
     };
     x-raym-move-selected-items-to-next-item-on-their-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-to-next-item-on-their-track-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3309,7 +3310,7 @@
       ];
     };
     x-raym-move-selected-items-up-to-the-top-visible-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-up-to-the-top-visible-track-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3323,7 +3324,7 @@
       ];
     };
     x-raym-mpl-expand-selected-takes-length-and-rate-to-edit-cursor-and-propagate-to-other-item-in-selection-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-mpl-expand-selected-takes-length-and-rate-to-edit-cursor-and-propagate-to-other-item-in-selection-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3337,7 +3338,7 @@
       ];
     };
     x-raym-multiply-selected-items-length-by-two-avoiding-overlapping-with-next-item-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-multiply-selected-items-length-by-two-avoiding-overlapping-with-next-item-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3351,7 +3352,7 @@
       ];
     };
     x-raym-prevent-items-overlapping-on-selected-items-tracks-shuffle-edit-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-prevent-items-overlapping-on-selected-items-tracks-shuffle-edit-background-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3365,7 +3366,7 @@
       ];
     };
     x-raym-quantize-selected-items-edges-at-grid-unit-inside-them-if-possible-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-quantize-selected-items-edges-at-grid-unit-inside-them-if-possible-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3379,7 +3380,7 @@
       ];
     };
     x-raym-quantize-selected-items-start-and-end-to-closest-frame-inside-them-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-quantize-selected-items-start-and-end-to-closest-frame-inside-them-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3393,7 +3394,7 @@
       ];
     };
     x-raym-quantize-selected-items-start-and-end-to-closest-frame-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-quantize-selected-items-start-and-end-to-closest-frame-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3407,7 +3408,7 @@
       ];
     };
     x-raym-quantize-selected-items-to-closest-marker-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-quantize-selected-items-to-closest-marker-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3421,7 +3422,7 @@
       ];
     };
     x-raym-quantize-selected-items-to-closest-marker-position-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-quantize-selected-items-to-closest-marker-position-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3435,7 +3436,7 @@
       ];
     };
     x-raym-quantize-selected-items-to-closest-marker-position-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-quantize-selected-items-to-closest-marker-position-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3449,7 +3450,7 @@
       ];
     };
     x-raym-quantize-selected-items-to-closest-region-start-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-quantize-selected-items-to-closest-region-start-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3463,7 +3464,7 @@
       ];
     };
     x-raym-quantize-selected-items-to-closest-region-start-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-quantize-selected-items-to-closest-region-start-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3477,7 +3478,7 @@
       ];
     };
     x-raym-quantize-selected-items-to-next-marker-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-quantize-selected-items-to-next-marker-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3491,7 +3492,7 @@
       ];
     };
     x-raym-quantize-selected-items-to-previous-marker-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-quantize-selected-items-to-previous-marker-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3505,7 +3506,7 @@
       ];
     };
     x-raym-remove-item-under-mouse-restoring-fades-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-remove-item-under-mouse-restoring-fades-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3519,7 +3520,7 @@
       ];
     };
     x-raym-remove-item-under-mouse-restoring-fades-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-remove-item-under-mouse-restoring-fades-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3533,7 +3534,7 @@
       ];
     };
     x-raym-replace-similar-midi-takes-by-pools-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-replace-similar-midi-takes-by-pools-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3547,7 +3548,7 @@
       ];
     };
     x-raym-set-item-under-mouse-start-and-end-to-items-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-item-under-mouse-start-and-end-to-items-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3561,7 +3562,7 @@
       ];
     };
     x-raym-set-selected-takes-playrate-keeping-snap-offset-position-and-adjusting-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-takes-playrate-keeping-snap-offset-position-and-adjusting-length-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3575,7 +3576,7 @@
       ];
     };
     x-raym-set-selected-takes-playrate-keeping-snap-offset-position-and-adjusting-length-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-takes-playrate-keeping-snap-offset-position-and-adjusting-length-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3589,7 +3590,7 @@
       ];
     };
     x-raym-set-selected-takes-playrate-keeping-snap-offset-position-and-adjusting-length-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-takes-playrate-keeping-snap-offset-position-and-adjusting-length-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3603,7 +3604,7 @@
       ];
     };
     x-raym-set-selected-takes-playrate-keeping-snap-offset-position-and-adjusting-length-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-takes-playrate-keeping-snap-offset-position-and-adjusting-length-lua-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3617,7 +3618,7 @@
       ];
     };
     x-raym-shift-selected-takes-source-audio-content-position-randomly-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-shift-selected-takes-source-audio-content-position-randomly-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3631,7 +3632,7 @@
       ];
     };
     x-raym-shift-selected-takes-source-audio-content-position-randomly-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-shift-selected-takes-source-audio-content-position-randomly-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3645,7 +3646,7 @@
       ];
     };
     x-raym-shuffle-order-of-selected-items-columns-keeping-snap-offset-positions-and-parent-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-shuffle-order-of-selected-items-columns-keeping-snap-offset-positions-and-parent-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3659,7 +3660,7 @@
       ];
     };
     x-raym-shuffle-order-of-selected-items-columns-keeping-snap-offset-positions-and-parent-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-shuffle-order-of-selected-items-columns-keeping-snap-offset-positions-and-parent-tracks-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3673,7 +3674,7 @@
       ];
     };
     x-raym-shuffle-order-of-selected-items-columns-keeping-snap-offset-positions-and-parent-tracks-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-shuffle-order-of-selected-items-columns-keeping-snap-offset-positions-and-parent-tracks-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3687,7 +3688,7 @@
       ];
     };
     x-raym-shuffle-order-of-selected-items-keeping-snap-offset-positions-and-parent-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-shuffle-order-of-selected-items-keeping-snap-offset-positions-and-parent-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3701,7 +3702,7 @@
       ];
     };
     x-raym-shuffle-order-of-selected-items-keeping-snap-offset-positions-and-parent-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-shuffle-order-of-selected-items-keeping-snap-offset-positions-and-parent-tracks-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3715,7 +3716,7 @@
       ];
     };
     x-raym-snap-selected-items-to-region-or-marker-with-same-name-as-their-active-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-selected-items-to-region-or-marker-with-same-name-as-their-active-take-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3729,7 +3730,7 @@
       ];
     };
     x-raym-snap-selected-items-to-the-previous-item-end-on-their-track-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-selected-items-to-the-previous-item-end-on-their-track-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3743,7 +3744,7 @@
       ];
     };
     x-raym-snap-selected-items-to-the-previous-item-end-on-their-track-eel-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-selected-items-to-the-previous-item-end-on-their-track-eel-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3757,7 +3758,7 @@
       ];
     };
     x-raym-sort-selected-items-columns-order-by-item-names-alphabetically-keeping-snap-offset-positions-per-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-sort-selected-items-columns-order-by-item-names-alphabetically-keeping-snap-offset-positions-per-track-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3771,7 +3772,7 @@
       ];
     };
     x-raym-sort-selected-items-columns-order-by-item-notes-alphabetically-keeping-snap-offset-positions-per-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-sort-selected-items-columns-order-by-item-notes-alphabetically-keeping-snap-offset-positions-per-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3785,7 +3786,7 @@
       ];
     };
     x-raym-sort-selected-items-order-by-item-notes-alphabetically-keeping-snap-offset-positions-per-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-sort-selected-items-order-by-item-notes-alphabetically-keeping-snap-offset-positions-per-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3799,7 +3800,7 @@
       ];
     };
     x-raym-sort-selected-items-order-by-takes-names-alphabetically-keeping-snap-offset-positions-per-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-sort-selected-items-order-by-takes-names-alphabetically-keeping-snap-offset-positions-per-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3813,7 +3814,7 @@
       ];
     };
     x-raym-split-first-selected-item-at-edit-carret-position-in-sws-notes-window-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-first-selected-item-at-edit-carret-position-in-sws-notes-window-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3827,7 +3828,7 @@
       ];
     };
     x-raym-split-first-selected-item-at-edit-carret-position-in-sws-notes-window-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-first-selected-item-at-edit-carret-position-in-sws-notes-window-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3841,7 +3842,7 @@
       ];
     };
     x-raym-split-selected-items-according-to-items-on-selected-tracks-and-delete-new-items-at-spaces-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-according-to-items-on-selected-tracks-and-delete-new-items-at-spaces-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3855,7 +3856,7 @@
       ];
     };
     x-raym-split-selected-items-according-to-items-on-selected-tracks-and-keep-new-items-at-spaces-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-according-to-items-on-selected-tracks-and-keep-new-items-at-spaces-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3869,7 +3870,7 @@
       ];
     };
     x-raym-split-selected-items-according-to-items-on-selected-tracks-and-keep-new-items-at-spaces-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-according-to-items-on-selected-tracks-and-keep-new-items-at-spaces-lua-2-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3883,7 +3884,7 @@
       ];
     };
     x-raym-split-selected-items-according-to-items-on-selected-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-according-to-items-on-selected-tracks-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3897,7 +3898,7 @@
       ];
     };
     x-raym-split-selected-items-according-to-items-on-selected-tracks-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-according-to-items-on-selected-tracks-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3911,7 +3912,7 @@
       ];
     };
     x-raym-split-selected-items-according-to-items-on-selected-tracks-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-according-to-items-on-selected-tracks-lua-1-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3925,7 +3926,7 @@
       ];
     };
     x-raym-split-selected-items-according-to-items-on-selected-tracks-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-according-to-items-on-selected-tracks-lua-1-1-3";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3939,7 +3940,7 @@
       ];
     };
     x-raym-split-selected-items-according-to-items-on-selected-tracks-lua-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-according-to-items-on-selected-tracks-lua-1-1-4";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3953,7 +3954,7 @@
       ];
     };
     x-raym-split-selected-items-at-regions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-at-regions-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3967,7 +3968,7 @@
       ];
     };
     x-raym-split-selected-items-at-regions-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-at-regions-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3981,7 +3982,7 @@
       ];
     };
     x-raym-split-selected-items-at-regions-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-at-regions-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -3995,7 +3996,7 @@
       ];
     };
     x-raym-split-selected-items-at-regions-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-at-regions-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4009,7 +4010,7 @@
       ];
     };
     x-raym-split-selected-items-at-their-take-markers-positions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-at-their-take-markers-positions-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4023,7 +4024,7 @@
       ];
     };
     x-raym-split-selected-items-every-x-seconds-intervals-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-every-x-seconds-intervals-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4037,7 +4038,7 @@
       ];
     };
     x-raym-split-selected-items-every-x-seconds-intervals-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-every-x-seconds-intervals-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4051,7 +4052,7 @@
       ];
     };
     x-raym-split-selected-items-into-x-equal-length-parts-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-items-into-x-equal-length-parts-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4065,7 +4066,7 @@
       ];
     };
     x-raym-stretch-selected-items-with-new-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-stretch-selected-items-with-new-length-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4079,7 +4080,7 @@
       ];
     };
     x-raym-stutter-edit-selected-media-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-stutter-edit-selected-media-items-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4093,7 +4094,7 @@
       ];
     };
     x-raym-trim-items-by-common-time-section-in-selection-columns-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-items-by-common-time-section-in-selection-columns-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4107,7 +4108,7 @@
       ];
     };
     x-raym-trim-left-edge-of-item-under-mouse-or-the-next-one-to-mouse-cursor-without-changing-fade-in-end-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-left-edge-of-item-under-mouse-or-the-next-one-to-mouse-cursor-without-changing-fade-in-end-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4121,7 +4122,7 @@
       ];
     };
     x-raym-trim-left-edge-of-item-under-mouse-or-the-next-one-to-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-left-edge-of-item-under-mouse-or-the-next-one-to-mouse-cursor-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4135,7 +4136,7 @@
       ];
     };
     x-raym-trim-left-edge-of-item-under-mouse-or-the-next-one-without-changing-fade-in-end-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-left-edge-of-item-under-mouse-or-the-next-one-without-changing-fade-in-end-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4149,7 +4150,7 @@
       ];
     };
     x-raym-trim-left-edge-of-item-under-mouse-or-the-next-one-without-changing-fade-in-end-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-left-edge-of-item-under-mouse-or-the-next-one-without-changing-fade-in-end-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4163,7 +4164,7 @@
       ];
     };
     x-raym-trim-left-edge-of-item-under-mouse-or-the-next-one-without-changing-fade-in-end-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-left-edge-of-item-under-mouse-or-the-next-one-without-changing-fade-in-end-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4177,7 +4178,7 @@
       ];
     };
     x-raym-trim-left-edge-of-item-under-mouse-or-the-next-one-without-changing-fade-in-end-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-left-edge-of-item-under-mouse-or-the-next-one-without-changing-fade-in-end-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4191,7 +4192,7 @@
       ];
     };
     x-raym-trim-left-edge-of-item-under-mouse-or-the-next-one-without-changing-fade-in-end-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-left-edge-of-item-under-mouse-or-the-next-one-without-changing-fade-in-end-lua-2-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4205,7 +4206,7 @@
       ];
     };
     x-raym-trim-left-edge-of-item-under-mouse-to-edit-cursor-without-changing-fade-in-end-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-left-edge-of-item-under-mouse-to-edit-cursor-without-changing-fade-in-end-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4219,7 +4220,7 @@
       ];
     };
     x-raym-trim-left-edge-of-selected-items-to-first-transient-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-left-edge-of-selected-items-to-first-transient-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4233,7 +4234,7 @@
       ];
     };
     x-raym-trim-right-edge-of-item-under-mouse-or-the-previous-one-to-mouse-cursor-without-changing-fade-out-start-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-right-edge-of-item-under-mouse-or-the-previous-one-to-mouse-cursor-without-changing-fade-out-start-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4247,7 +4248,7 @@
       ];
     };
     x-raym-trim-right-edge-of-item-under-mouse-or-the-previous-one-to-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-right-edge-of-item-under-mouse-or-the-previous-one-to-mouse-cursor-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4261,7 +4262,7 @@
       ];
     };
     x-raym-trim-right-edge-of-item-under-mouse-to-edit-cursor-without-changing-fade-out-start-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-right-edge-of-item-under-mouse-to-edit-cursor-without-changing-fade-out-start-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4275,7 +4276,7 @@
       ];
     };
     x-raym-trim-right-edge-of-selected-items-to-last-transient-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-right-edge-of-selected-items-to-last-transient-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4289,7 +4290,7 @@
       ];
     };
     x-raym-trim-selected-items-at-first-and-last-transient-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-selected-items-at-first-and-last-transient-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4303,7 +4304,7 @@
       ];
     };
     x-raym-unloop-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-unloop-selected-items-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Editing";
@@ -4317,7 +4318,7 @@
       ];
     };
     mpl-x-raym-unlock-selected-items-for-5-seconds-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mpl-x-raym-unlock-selected-items-for-5-seconds-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4331,7 +4332,7 @@
       ];
     };
     timatkins-set-selected-items-active-take-according-to-take-under-mouse-colour-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "timatkins-set-selected-items-active-take-according-to-take-under-mouse-colour-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4345,7 +4346,7 @@
       ];
     };
     tritonality-x-raym-cubase-style-selecttrack-on-itemselect-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "tritonality-x-raym-cubase-style-selecttrack-on-itemselect-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4359,7 +4360,7 @@
       ];
     };
     viente-x-raym-bpm-converter-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "viente-x-raym-bpm-converter-lua-1-0-6";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4373,7 +4374,7 @@
       ];
     };
     viente-x-raym-bpm-converter-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "viente-x-raym-bpm-converter-lua-1-0-7";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4387,7 +4388,7 @@
       ];
     };
     viente-x-raym-bpm-converter-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "viente-x-raym-bpm-converter-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4401,7 +4402,7 @@
       ];
     };
     viente-x-raym-bpm-converter-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "viente-x-raym-bpm-converter-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4415,7 +4416,7 @@
       ];
     };
     x-raym-add-all-items-left-to-selected-items-to-items-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-all-items-left-to-selected-items-to-items-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4429,7 +4430,7 @@
       ];
     };
     x-raym-add-all-items-on-selected-track-into-item-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-all-items-on-selected-track-into-item-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4443,7 +4444,7 @@
       ];
     };
     x-raym-add-all-items-right-to-selected-items-to-items-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-all-items-right-to-selected-items-to-items-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4457,7 +4458,7 @@
       ];
     };
     x-raym-add-empty-source-take-to-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-empty-source-take-to-selected-items-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4471,7 +4472,7 @@
       ];
     };
     x-raym-add-empty-source-take-to-selected-items-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-empty-source-take-to-selected-items-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4485,7 +4486,7 @@
       ];
     };
     x-raym-add-named-and-colored-take-markers-to-selected-takes-at-play-cursor-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-named-and-colored-take-markers-to-selected-takes-at-play-cursor-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4499,7 +4500,7 @@
       ];
     };
     x-raym-add-named-and-colored-take-markers-to-selected-takes-at-play-cursor-position-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-named-and-colored-take-markers-to-selected-takes-at-play-cursor-position-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4513,7 +4514,7 @@
       ];
     };
     x-raym-add-named-and-colored-take-markers-to-selected-takes-at-play-cursor-position-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-named-and-colored-take-markers-to-selected-takes-at-play-cursor-position-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4527,7 +4528,7 @@
       ];
     };
     x-raym-add-new-midi-take-to-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-new-midi-take-to-selected-items-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4541,7 +4542,7 @@
       ];
     };
     x-raym-add-new-midi-take-to-selected-items-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-new-midi-take-to-selected-items-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4555,7 +4556,7 @@
       ];
     };
     x-raym-add-stretch-markers-to-selected-items-at-grid-divisions-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-stretch-markers-to-selected-items-at-grid-divisions-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4569,7 +4570,7 @@
       ];
     };
     x-raym-add-stretch-markers-to-selected-items-at-grid-divisions-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-stretch-markers-to-selected-items-at-grid-divisions-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4583,7 +4584,7 @@
       ];
     };
     x-raym-add-stretch-markers-to-selected-items-at-tempo-markers-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-stretch-markers-to-selected-items-at-tempo-markers-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4597,7 +4598,7 @@
       ];
     };
     x-raym-add-take-markers-from-project-markers-to-selected-takes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-take-markers-from-project-markers-to-selected-takes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4611,7 +4612,7 @@
       ];
     };
     x-raym-apply-selected-active-takes-volume-to-their-items-volume-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-apply-selected-active-takes-volume-to-their-items-volume-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4625,7 +4626,7 @@
       ];
     };
     x-raym-apply-selected-items-volume-to-their-takes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-apply-selected-items-volume-to-their-takes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4639,7 +4640,7 @@
       ];
     };
     x-raym-apply-volume-of-previous-item-on-track-to-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-apply-volume-of-previous-item-on-track-to-selected-items-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4653,7 +4654,7 @@
       ];
     };
     x-raym-color-selected-items-according-to-their-midi-content-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-color-selected-items-according-to-their-midi-content-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4667,7 +4668,7 @@
       ];
     };
     x-raym-color-selected-items-according-to-their-midi-content-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-color-selected-items-according-to-their-midi-content-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4681,7 +4682,7 @@
       ];
     };
     x-raym-color-selected-items-according-to-their-source-file-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-color-selected-items-according-to-their-source-file-name-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4695,7 +4696,7 @@
       ];
     };
     x-raym-color-selected-items-from-regions-at-their-middle-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-color-selected-items-from-regions-at-their-middle-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4709,7 +4710,7 @@
       ];
     };
     x-raym-color-selected-items-from-regions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-color-selected-items-from-regions-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4723,7 +4724,7 @@
       ];
     };
     x-raym-color-selected-items-from-regions-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-color-selected-items-from-regions-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4737,7 +4738,7 @@
       ];
     };
     x-raym-copy-first-selected-item-volume-value-into-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-first-selected-item-volume-value-into-clipboard-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4751,7 +4752,7 @@
       ];
     };
     x-raym-copy-selected-items-colors-as-csv-to-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-selected-items-colors-as-csv-to-clipboard-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4765,7 +4766,7 @@
       ];
     };
     x-raym-copy-selected-items-colors-as-csv-to-clipboard-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-selected-items-colors-as-csv-to-clipboard-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4779,7 +4780,7 @@
       ];
     };
     x-raym-copy-selected-items-notes-as-csv-to-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-selected-items-notes-as-csv-to-clipboard-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4793,7 +4794,7 @@
       ];
     };
     x-raym-copy-selected-items-positions-as-csv-to-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-selected-items-positions-as-csv-to-clipboard-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4807,7 +4808,7 @@
       ];
     };
     x-raym-crossfade-selected-items-across-tracks-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-crossfade-selected-items-across-tracks-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4821,7 +4822,7 @@
       ];
     };
     x-raym-delete-take-markers-outside-of-selected-items-boundaries-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-take-markers-outside-of-selected-items-boundaries-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4835,7 +4836,7 @@
       ];
     };
     x-raym-display-list-of-selected-media-items-active-take-names-in-the-console-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-display-list-of-selected-media-items-active-take-names-in-the-console-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4849,7 +4850,7 @@
       ];
     };
     x-raym-display-sum-of-length-of-selected-media-items-in-the-console-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-display-sum-of-length-of-selected-media-items-in-the-console-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4863,7 +4864,7 @@
       ];
     };
     x-raym-display-taglib-metadatas-of-first-selected-item-active-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-display-taglib-metadatas-of-first-selected-item-active-take-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4877,7 +4878,7 @@
       ];
     };
     x-raym-display-taglib-metadatas-of-first-selected-item-active-take-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-display-taglib-metadatas-of-first-selected-item-active-take-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4891,7 +4892,7 @@
       ];
     };
     x-raym-exclude-items-with-or-without-fades-from-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-exclude-items-with-or-without-fades-from-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4905,7 +4906,7 @@
       ];
     };
     x-raym-exclude-items-with-or-without-fades-from-selection-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-exclude-items-with-or-without-fades-from-selection-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4919,7 +4920,7 @@
       ];
     };
     x-raym-export-selected-items-as-tab-delimited-regions-csv-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-selected-items-as-tab-delimited-regions-csv-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4933,7 +4934,7 @@
       ];
     };
     x-raym-export-selected-items-as-tab-delimited-regions-csv-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-selected-items-as-tab-delimited-regions-csv-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4947,7 +4948,7 @@
       ];
     };
     x-raym-export-selected-items-as-tab-delimited-regions-csv-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-selected-items-as-tab-delimited-regions-csv-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4961,7 +4962,7 @@
       ];
     };
     x-raym-export-selected-items-as-tab-delimited-regions-csv-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-selected-items-as-tab-delimited-regions-csv-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4975,7 +4976,7 @@
       ];
     };
     x-raym-group-selected-items-according-to-their-order-in-selection-per-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-group-selected-items-according-to-their-order-in-selection-per-track-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -4989,7 +4990,7 @@
       ];
     };
     x-raym-group-selected-items-according-to-their-order-in-selection-per-track-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-group-selected-items-according-to-their-order-in-selection-per-track-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5003,7 +5004,7 @@
       ];
     };
     x-raym-group-selected-items-vertically-by-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-group-selected-items-vertically-by-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5017,7 +5018,7 @@
       ];
     };
     x-raym-invert-tracks-reverse-vertically-of-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-invert-tracks-reverse-vertically-of-selected-items-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5031,7 +5032,7 @@
       ];
     };
     x-raym-keep-selected-items-with-x-channels-only-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-keep-selected-items-with-x-channels-only-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5045,7 +5046,7 @@
       ];
     };
     x-raym-keep-selected-only-active-takes-audio-under-or-over-peak-volume-threshold-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-keep-selected-only-active-takes-audio-under-or-over-peak-volume-threshold-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5059,7 +5060,7 @@
       ];
     };
     x-raym-keep-selected-only-active-takes-audio-under-or-over-peak-volume-threshold-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-keep-selected-only-active-takes-audio-under-or-over-peak-volume-threshold-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5073,7 +5074,7 @@
       ];
     };
     x-raym-keep-selected-only-x-items-randomly-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-keep-selected-only-x-items-randomly-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5087,7 +5088,7 @@
       ];
     };
     x-raym-list-all-audio-takes-paths-in-the-console-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-list-all-audio-takes-paths-in-the-console-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5101,7 +5102,7 @@
       ];
     };
     x-raym-list-all-audio-takes-paths-in-the-console-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-list-all-audio-takes-paths-in-the-console-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5115,7 +5116,7 @@
       ];
     };
     x-raym-move-selected-items-snap-offset-to-next-cue-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-snap-offset-to-next-cue-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5129,7 +5130,7 @@
       ];
     };
     x-raym-move-selected-items-snap-offset-to-previous-cue-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-snap-offset-to-previous-cue-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5143,7 +5144,7 @@
       ];
     };
     x-raym-move-selected-items-to-named-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-to-named-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5157,7 +5158,7 @@
       ];
     };
     x-raym-move-selected-items-to-named-tracks-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-to-named-tracks-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5171,7 +5172,7 @@
       ];
     };
     x-raym-move-selected-items-to-named-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-to-named-tracks-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5185,7 +5186,7 @@
       ];
     };
     x-raym-move-selected-items-to-named-tracks-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-to-named-tracks-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5199,7 +5200,7 @@
       ];
     };
     x-raym-move-selected-items-to-named-tracks-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-items-to-named-tracks-lua-1-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5213,7 +5214,7 @@
       ];
     };
     x-raym-multiply-selected-items-rate-by-x-and-adjust-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-multiply-selected-items-rate-by-x-and-adjust-length-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5227,7 +5228,7 @@
       ];
     };
     x-raym-nudge-active-takes-volume-randomly-normal-distribution-with-gui-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-nudge-active-takes-volume-randomly-normal-distribution-with-gui-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5241,7 +5242,7 @@
       ];
     };
     x-raym-nudge-active-takes-volume-randomly-normal-distribution-with-gui-eel-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-nudge-active-takes-volume-randomly-normal-distribution-with-gui-eel-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5255,7 +5256,7 @@
       ];
     };
     x-raym-nudge-active-takes-volume-randomly-normal-distribution-with-gui-eel-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-nudge-active-takes-volume-randomly-normal-distribution-with-gui-eel-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5269,7 +5270,7 @@
       ];
     };
     x-raym-nudge-active-takes-volume-randomly-normal-distribution-with-gui-eel-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-nudge-active-takes-volume-randomly-normal-distribution-with-gui-eel-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5283,7 +5284,7 @@
       ];
     };
     x-raym-nudge-selected-items-volume-plus0-1db-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-nudge-selected-items-volume-plus0-1db-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5297,7 +5298,7 @@
       ];
     };
     x-raym-nudge-selected-items-volume-plus0-5db-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-nudge-selected-items-volume-plus0-5db-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5311,7 +5312,7 @@
       ];
     };
     x-raym-nudge-selected-items-volume-0-1db-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-nudge-selected-items-volume-0-1db-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5325,7 +5326,7 @@
       ];
     };
     x-raym-nudge-selected-items-volume-0-5db-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-nudge-selected-items-volume-0-5db-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5339,7 +5340,7 @@
       ];
     };
     x-raym-offset-selected-items-active-take-pan-left-5-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-offset-selected-items-active-take-pan-left-5-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5353,7 +5354,7 @@
       ];
     };
     x-raym-offset-selected-items-active-take-pan-right-5-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-offset-selected-items-active-take-pan-right-5-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5367,7 +5368,7 @@
       ];
     };
     x-raym-offset-selected-items-volume-by-their-track-fader-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-offset-selected-items-volume-by-their-track-fader-value-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5381,7 +5382,7 @@
       ];
     };
     x-raym-offset-selected-media-items-source-positions-by-snap-offset-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-offset-selected-media-items-source-positions-by-snap-offset-length-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5395,7 +5396,7 @@
       ];
     };
     x-raym-pan-selected-takes-from-x-to-plusx-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-pan-selected-takes-from-x-to-plusx-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5409,7 +5410,7 @@
       ];
     };
     x-raym-pan-selected-takes-from-x-to-plusx-eel-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-pan-selected-takes-from-x-to-plusx-eel-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5423,7 +5424,7 @@
       ];
     };
     x-raym-pan-selected-takes-from-x-to-plusx-eel-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-pan-selected-takes-from-x-to-plusx-eel-1-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5437,7 +5438,7 @@
       ];
     };
     x-raym-pan-selected-takes-from-x-to-plusx-eel-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-pan-selected-takes-from-x-to-plusx-eel-1-2-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5451,7 +5452,7 @@
       ];
     };
     x-raym-pan-selected-takes-from-left-to-right-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-pan-selected-takes-from-left-to-right-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5465,7 +5466,7 @@
       ];
     };
     x-raym-pan-selected-takes-from-right-to-left-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-pan-selected-takes-from-right-to-left-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5479,7 +5480,7 @@
       ];
     };
     x-raym-paste-clipboard-content-into-selected-items-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-paste-clipboard-content-into-selected-items-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5493,7 +5494,7 @@
       ];
     };
     x-raym-paste-value-in-clipboard-as-selected-items-volume-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-paste-value-in-clipboard-as-selected-items-volume-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5507,7 +5508,7 @@
       ];
     };
     x-raym-paste-value-in-clipboard-as-selected-items-volume-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-paste-value-in-clipboard-as-selected-items-volume-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5521,7 +5522,7 @@
       ];
     };
     x-raym-propagate-items-selection-to-all-similary-named-active-takes-on-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-propagate-items-selection-to-all-similary-named-active-takes-on-track-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5535,7 +5536,7 @@
       ];
     };
     x-raym-propagate-items-selection-to-all-similary-named-active-takes-on-track-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-propagate-items-selection-to-all-similary-named-active-takes-on-track-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5549,7 +5550,7 @@
       ];
     };
     x-raym-propagate-selected-items-fx-to-all-items-with-same-active-take-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-propagate-selected-items-fx-to-all-items-with-same-active-take-name-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5563,7 +5564,7 @@
       ];
     };
     x-raym-propagate-selected-items-fx-to-all-items-with-same-active-take-name-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-propagate-selected-items-fx-to-all-items-with-same-active-take-name-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5577,7 +5578,7 @@
       ];
     };
     x-raym-propagate-selected-items-fx-to-all-items-with-same-active-take-name-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-propagate-selected-items-fx-to-all-items-with-same-active-take-name-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5591,7 +5592,7 @@
       ];
     };
     x-raym-randomize-take-pitch-normal-distribution-with-gui-eel-0-2014-11-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-randomize-take-pitch-normal-distribution-with-gui-eel-0-2014-11-23";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5605,7 +5606,7 @@
       ];
     };
     x-raym-randomize-take-pitch-normal-distribution-with-gui-eel-0-2018-19-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-randomize-take-pitch-normal-distribution-with-gui-eel-0-2018-19-04";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5619,7 +5620,7 @@
       ];
     };
     x-raym-randomize-take-playback-rate-normal-distribution-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-randomize-take-playback-rate-normal-distribution-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5633,7 +5634,7 @@
       ];
     };
     x-raym-randomize-take-playback-rate-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-randomize-take-playback-rate-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5647,7 +5648,7 @@
       ];
     };
     x-raym-remove-selected-items-images-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-remove-selected-items-images-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5661,7 +5662,7 @@
       ];
     };
     x-raym-rename-first-selected-item-take-and-associated-midi-pools-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-first-selected-item-take-and-associated-midi-pools-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5675,7 +5676,7 @@
       ];
     };
     x-raym-rename-selected-items-active-take-from-multiline-clipboard-content-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-selected-items-active-take-from-multiline-clipboard-content-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5689,7 +5690,7 @@
       ];
     };
     x-raym-rename-selected-items-active-take-from-multiline-clipboard-content-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-selected-items-active-take-from-multiline-clipboard-content-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5703,7 +5704,7 @@
       ];
     };
     x-raym-rename-selected-items-active-take-from-multiline-clipboard-content-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-selected-items-active-take-from-multiline-clipboard-content-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5717,7 +5718,7 @@
       ];
     };
     x-raym-rename-selected-items-active-take-from-multiline-clipboard-content-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-selected-items-active-take-from-multiline-clipboard-content-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5731,7 +5732,7 @@
       ];
     };
     x-raym-rename-selected-items-active-take-from-multiline-clipboard-content-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-selected-items-active-take-from-multiline-clipboard-content-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5745,7 +5746,7 @@
       ];
     };
     x-raym-rename-selected-items-active-takes-from-reaper-midi-notes-to-kontakt-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-selected-items-active-takes-from-reaper-midi-notes-to-kontakt-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5759,7 +5760,7 @@
       ];
     };
     x-raym-rename-selected-items-with-clipboard-content-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-selected-items-with-clipboard-content-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5773,7 +5774,7 @@
       ];
     };
     x-raym-rename-selected-items-with-clipboard-content-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-selected-items-with-clipboard-content-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5787,7 +5788,7 @@
       ];
     };
     x-raym-rename-selected-takes-from-csv-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-selected-takes-from-csv-input-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5801,7 +5802,7 @@
       ];
     };
     x-raym-rename-selected-takes-from-regions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-selected-takes-from-regions-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5815,7 +5816,7 @@
       ];
     };
     x-raym-reset-item-snap-offset-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-item-snap-offset-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5829,7 +5830,7 @@
       ];
     };
     x-raym-reset-selected-items-active-take-source-start-offset-according-to-media-source-preferred-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-selected-items-active-take-source-start-offset-according-to-media-source-preferred-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5843,7 +5844,7 @@
       ];
     };
     x-raym-reset-selected-items-active-take-stretch-markers-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-selected-items-active-take-stretch-markers-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5857,7 +5858,7 @@
       ];
     };
     x-raym-reset-selected-items-active-take-stretch-markers-position-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-selected-items-active-take-stretch-markers-position-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5871,7 +5872,7 @@
       ];
     };
     x-raym-reset-selected-items-active-take-stretch-markers-position-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-selected-items-active-take-stretch-markers-position-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5885,7 +5886,7 @@
       ];
     };
     x-raym-reset-selected-items-auto-fades-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-selected-items-auto-fades-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5899,7 +5900,7 @@
       ];
     };
     x-raym-reset-stretch-marker-under-mouse-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-stretch-marker-under-mouse-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5913,7 +5914,7 @@
       ];
     };
     x-raym-reset-stretch-marker-under-mouse-position-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-stretch-marker-under-mouse-position-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5927,7 +5928,7 @@
       ];
     };
     x-raym-reset-stretch-marker-under-mouse-position-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-stretch-marker-under-mouse-position-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5941,7 +5942,7 @@
       ];
     };
     x-raym-reset-stretch-marker-under-mouse-position-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-stretch-marker-under-mouse-position-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5955,7 +5956,7 @@
       ];
     };
     x-raym-reset-take-playback-rate-from-snap-offset-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-take-playback-rate-from-snap-offset-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5969,7 +5970,7 @@
       ];
     };
     x-raym-round-selected-items-volume-one-decimal-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-round-selected-items-volume-one-decimal-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5983,7 +5984,7 @@
       ];
     };
     x-raym-search-and-replace-in-selected-active-takes-names-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-selected-active-takes-names-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -5997,7 +5998,7 @@
       ];
     };
     x-raym-search-and-replace-in-selected-active-takes-names-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-selected-active-takes-names-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6011,7 +6012,7 @@
       ];
     };
     x-raym-search-and-replace-in-selected-active-takes-names-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-selected-active-takes-names-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6025,7 +6026,7 @@
       ];
     };
     x-raym-search-and-replace-in-selected-active-takes-names-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-selected-active-takes-names-lua-1-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6039,7 +6040,7 @@
       ];
     };
     x-raym-search-and-replace-in-selected-active-takes-names-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-selected-active-takes-names-lua-1-2-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6053,7 +6054,7 @@
       ];
     };
     x-raym-search-and-replace-in-selected-active-takes-names-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-selected-active-takes-names-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6067,7 +6068,7 @@
       ];
     };
     x-raym-search-and-replace-in-selected-items-takes-names-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-selected-items-takes-names-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6081,7 +6082,7 @@
       ];
     };
     x-raym-select-all-items-below-length-threshold-on-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-all-items-below-length-threshold-on-selected-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6095,7 +6096,7 @@
       ];
     };
     x-raym-select-all-items-in-current-region-at-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-all-items-in-current-region-at-edit-cursor-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6109,7 +6110,7 @@
       ];
     };
     x-raym-select-item-under-mouse-automatically-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-item-under-mouse-automatically-background-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6123,7 +6124,7 @@
       ];
     };
     x-raym-select-items-under-play-cursor-background-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-items-under-play-cursor-background-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6137,7 +6138,7 @@
       ];
     };
     x-raym-select-items-with-same-source-as-first-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-items-with-same-source-as-first-selected-item-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6151,7 +6152,7 @@
       ];
     };
     x-raym-select-items-with-same-source-as-first-selected-item-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-items-with-same-source-as-first-selected-item-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6165,7 +6166,7 @@
       ];
     };
     x-raym-select-items-with-same-source-as-first-selected-item-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-items-with-same-source-as-first-selected-item-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6179,7 +6180,7 @@
       ];
     };
     x-raym-select-items-with-same-source-as-first-selected-item-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-items-with-same-source-as-first-selected-item-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6193,7 +6194,7 @@
       ];
     };
     x-raym-set-item-under-mouse-snap-offset-at-mouse-cursor-position-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-item-under-mouse-snap-offset-at-mouse-cursor-position-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6207,7 +6208,7 @@
       ];
     };
     x-raym-set-item-under-mouse-snap-offset-value-to-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-item-under-mouse-snap-offset-value-to-selected-items-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6221,7 +6222,7 @@
       ];
     };
     x-raym-set-or-offset-selected-takes-pan-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-takes-pan-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6235,7 +6236,7 @@
       ];
     };
     x-raym-set-or-offset-selected-takes-pan-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-takes-pan-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6249,7 +6250,7 @@
       ];
     };
     x-raym-set-or-offset-selected-takes-rate-by-semitone-adjusting-item-length-and-fades-and-clearing-preserve-pitch-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-takes-rate-by-semitone-adjusting-item-length-and-fades-and-clearing-preserve-pitch-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6263,7 +6264,7 @@
       ];
     };
     x-raym-set-or-offset-selected-takes-rate-by-semitone-adjusting-item-length-and-fades-and-clearing-preserve-pitch-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-takes-rate-by-semitone-adjusting-item-length-and-fades-and-clearing-preserve-pitch-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6277,7 +6278,7 @@
       ];
     };
     x-raym-set-or-offset-selected-takes-rate-by-semitone-adjusting-item-length-and-fades-and-clearing-preserve-pitch-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-takes-rate-by-semitone-adjusting-item-length-and-fades-and-clearing-preserve-pitch-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6291,7 +6292,7 @@
       ];
     };
     x-raym-set-or-offset-selected-takes-rate-by-semitone-adjusting-item-length-and-fades-and-clearing-preserve-pitch-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-takes-rate-by-semitone-adjusting-item-length-and-fades-and-clearing-preserve-pitch-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6305,7 +6306,7 @@
       ];
     };
     x-raym-set-or-offset-selected-takes-rate-by-semitone-adjusting-item-length-and-fades-and-clearing-preserve-pitch-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-takes-rate-by-semitone-adjusting-item-length-and-fades-and-clearing-preserve-pitch-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6319,7 +6320,7 @@
       ];
     };
     x-raym-set-or-offset-selected-takes-rate-by-semitone-adjusting-item-length-and-fades-and-clearing-preserve-pitch-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-takes-rate-by-semitone-adjusting-item-length-and-fades-and-clearing-preserve-pitch-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6333,7 +6334,7 @@
       ];
     };
     x-raym-set-selected-audio-takes-gain-by-columns-according-to-takes-average-rms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-audio-takes-gain-by-columns-according-to-takes-average-rms-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6347,7 +6348,7 @@
       ];
     };
     x-raym-set-selected-audio-takes-gain-by-columns-according-to-takes-max-peak-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-audio-takes-gain-by-columns-according-to-takes-max-peak-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6361,7 +6362,7 @@
       ];
     };
     x-raym-set-selected-item-active-takes-to-random-colors-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-item-active-takes-to-random-colors-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6375,7 +6376,7 @@
       ];
     };
     x-raym-set-selected-item-active-takes-to-random-colors-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-item-active-takes-to-random-colors-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6389,7 +6390,7 @@
       ];
     };
     x-raym-set-selected-items-active-take-sources-offline-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-active-take-sources-offline-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6403,7 +6404,7 @@
       ];
     };
     x-raym-set-selected-items-active-take-sources-online-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-active-take-sources-online-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6417,7 +6418,7 @@
       ];
     };
     x-raym-set-selected-items-fade-in-fade-out-length-lua-1-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-fade-in-fade-out-length-lua-1-3-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6431,7 +6432,7 @@
       ];
     };
     x-raym-set-selected-items-fade-in-fade-out-length-lua-1-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-fade-in-fade-out-length-lua-1-3-3";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6445,7 +6446,7 @@
       ];
     };
     x-raym-set-selected-items-fade-in-to-snap-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-fade-in-to-snap-offset-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6459,7 +6460,7 @@
       ];
     };
     x-raym-set-selected-items-fade-out-to-snap-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-fade-out-to-snap-offset-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6473,7 +6474,7 @@
       ];
     };
     x-raym-set-selected-items-inactive-takes-sources-offline-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-inactive-takes-sources-offline-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6487,7 +6488,7 @@
       ];
     };
     x-raym-set-selected-items-inactive-takes-sources-offline-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-inactive-takes-sources-offline-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6501,7 +6502,7 @@
       ];
     };
     x-raym-set-selected-items-inactive-takes-sources-online-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-inactive-takes-sources-online-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6515,7 +6516,7 @@
       ];
     };
     x-raym-set-selected-items-notes-from-multiline-clipboard-content-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-notes-from-multiline-clipboard-content-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6529,7 +6530,7 @@
       ];
     };
     x-raym-set-selected-items-notes-to-their-current-region-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-notes-to-their-current-region-name-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6543,7 +6544,7 @@
       ];
     };
     x-raym-set-selected-items-sources-taglib-metadatas-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-sources-taglib-metadatas-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6557,7 +6558,7 @@
       ];
     };
     x-raym-set-selected-items-sources-taglib-metadatas-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-sources-taglib-metadatas-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6571,7 +6572,7 @@
       ];
     };
     x-raym-set-selected-items-take-names-by-columns-according-to-track-under-mouse-or-first-track-with-selected-items-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-take-names-by-columns-according-to-track-under-mouse-or-first-track-with-selected-items-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6585,7 +6586,7 @@
       ];
     };
     x-raym-set-selected-items-take-names-by-columns-according-to-track-under-mouse-or-first-track-with-selected-items-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-items-take-names-by-columns-according-to-track-under-mouse-or-first-track-with-selected-items-lua-2-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6599,7 +6600,7 @@
       ];
     };
     x-raym-set-selected-takes-volume-from-x-to-plusx-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-takes-volume-from-x-to-plusx-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6613,7 +6614,7 @@
       ];
     };
     x-raym-set-sequential-mono-channel-modes-on-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-sequential-mono-channel-modes-on-selected-items-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6627,7 +6628,7 @@
       ];
     };
     x-raym-set-sequential-mono-channel-modes-on-selected-items-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-sequential-mono-channel-modes-on-selected-items-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6641,7 +6642,7 @@
       ];
     };
     x-raym-smooth-selected-items-stretch-markers-transitions-by-adjusting-slope-and-right-rate-including-last-marker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-smooth-selected-items-stretch-markers-transitions-by-adjusting-slope-and-right-rate-including-last-marker-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6655,7 +6656,7 @@
       ];
     };
     x-raym-smooth-selected-items-stretch-markers-transitions-by-adjusting-slope-and-right-rate-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-smooth-selected-items-stretch-markers-transitions-by-adjusting-slope-and-right-rate-lua-0-9";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6669,7 +6670,7 @@
       ];
     };
     x-raym-smooth-selected-items-stretch-markers-transitions-by-adjusting-slope-and-right-rate-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-smooth-selected-items-stretch-markers-transitions-by-adjusting-slope-and-right-rate-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6683,7 +6684,7 @@
       ];
     };
     x-raym-snap-closest-stretch-marker-to-mouse-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-closest-stretch-marker-to-mouse-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6697,7 +6698,7 @@
       ];
     };
     x-raym-snap-closest-stretch-marker-to-mouse-position-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-closest-stretch-marker-to-mouse-position-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6711,7 +6712,7 @@
       ];
     };
     x-raym-snap-closest-stretch-marker-to-mouse-position-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-closest-stretch-marker-to-mouse-position-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6725,7 +6726,7 @@
       ];
     };
     x-raym-snap-selected-items-non-auto-fades-to-closest-grid-line-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-selected-items-non-auto-fades-to-closest-grid-line-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6739,7 +6740,7 @@
       ];
     };
     x-raym-snap-stretch-marker-under-mouse-to-closest-grid-line-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-stretch-marker-under-mouse-to-closest-grid-line-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6753,7 +6754,7 @@
       ];
     };
     x-raym-snap-stretch-marker-under-mouse-to-closest-grid-line-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-stretch-marker-under-mouse-to-closest-grid-line-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6767,7 +6768,7 @@
       ];
     };
     x-raym-snap-stretch-marker-under-mouse-to-closest-grid-line-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-stretch-marker-under-mouse-to-closest-grid-line-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6781,7 +6782,7 @@
       ];
     };
     x-raym-snap-stretch-marker-under-mouse-to-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-stretch-marker-under-mouse-to-edit-cursor-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6795,7 +6796,7 @@
       ];
     };
     x-raym-swap-selected-items-fades-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-swap-selected-items-fades-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6809,7 +6810,7 @@
       ];
     };
     x-raym-take-fx-list-reaimgui-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-take-fx-list-reaimgui-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6823,7 +6824,7 @@
       ];
     };
     x-raym-take-fx-list-reaimgui-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-take-fx-list-reaimgui-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6837,7 +6838,7 @@
       ];
     };
     x-raym-take-fx-list-reaimgui-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-take-fx-list-reaimgui-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6851,7 +6852,7 @@
       ];
     };
     x-raym-take-fx-list-reaimgui-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-take-fx-list-reaimgui-lua-1-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6865,7 +6866,7 @@
       ];
     };
     x-raym-toggle-selected-active-takes-reverse-arround-their-snap-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-selected-active-takes-reverse-arround-their-snap-offset-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6879,7 +6880,7 @@
       ];
     };
     x-raym-toggle-selected-active-takes-reverse-preserving-snap-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-selected-active-takes-reverse-preserving-snap-offset-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6893,7 +6894,7 @@
       ];
     };
     x-raym-toggle-selected-items-active-take-sources-online-offline-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-selected-items-active-take-sources-online-offline-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6907,7 +6908,7 @@
       ];
     };
     x-raym-toggle-selected-items-inactive-takes-sources-online-offline-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-selected-items-inactive-takes-sources-online-offline-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Items Properties";
@@ -6921,7 +6922,7 @@
       ];
     };
     x-raym-4-mono-channels-switcher-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-4-mono-channels-switcher-jsfx-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX";
@@ -6935,7 +6936,7 @@
       ];
     };
     x-raym-4-stereo-channels-switcher-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-4-stereo-channels-switcher-jsfx-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX";
@@ -6949,7 +6950,7 @@
       ];
     };
     x-raym-mute-on-loop-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-mute-on-loop-jsfx-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX";
@@ -6963,7 +6964,7 @@
       ];
     };
     x-raym-mute-on-loop-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-mute-on-loop-jsfx-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX";
@@ -6977,7 +6978,7 @@
       ];
     };
     x-raym-silence-meter-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-silence-meter-jsfx-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX";
@@ -6991,7 +6992,7 @@
       ];
     };
     x-raym-tap-tempo-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-tap-tempo-jsfx-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX";
@@ -7005,7 +7006,7 @@
       ];
     };
     x-raym-tap-tempo-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-tap-tempo-jsfx-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX";
@@ -7019,7 +7020,7 @@
       ];
     };
     x-raym-tap-tempo-jsfx-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-tap-tempo-jsfx-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX";
@@ -7033,7 +7034,7 @@
       ];
     };
     x-raym-tone-generator-with-playstate-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-tone-generator-with-playstate-jsfx-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX";
@@ -7047,7 +7048,7 @@
       ];
     };
     x-raym-tone-generator-with-playstate-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-tone-generator-with-playstate-jsfx-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX";
@@ -7061,7 +7062,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7075,7 +7076,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-5";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7089,7 +7090,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-6";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7103,7 +7104,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-7";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7117,7 +7118,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-8";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7131,7 +7132,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-9";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7145,7 +7146,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-9-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-9-1";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7159,7 +7160,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-9-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-9-2";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7178,7 +7179,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-9-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-9-3";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7277,7 +7278,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-9-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-9-4";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7376,7 +7377,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-10";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7475,7 +7476,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-11";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7574,7 +7575,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-11-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-11-1";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7673,7 +7674,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-12";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7772,7 +7773,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-13";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7871,7 +7872,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-14";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -7970,7 +7971,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-15";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8069,7 +8070,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-16";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8168,7 +8169,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-17";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8267,7 +8268,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-18";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8366,7 +8367,7 @@
       ];
     };
     x-raym-16-pads-midi-notes-map-jsfx-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-16-pads-midi-notes-map-jsfx-1-19";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8465,7 +8466,7 @@
       ];
     };
     x-raym-last-midi-event-monitor-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-last-midi-event-monitor-jsfx-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8479,7 +8480,7 @@
       ];
     };
     x-raym-midi-cc-channel-router-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-cc-channel-router-jsfx-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8493,7 +8494,7 @@
       ];
     };
     x-raym-midi-cc-mapper-24-plus24-range-jsfx-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-cc-mapper-24-plus24-range-jsfx-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8507,7 +8508,7 @@
       ];
     };
     x-raym-midi-cc-mapper-scale-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-cc-mapper-scale-jsfx-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8521,7 +8522,7 @@
       ];
     };
     x-raym-midi-note-generator-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-note-generator-jsfx-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8535,7 +8536,7 @@
       ];
     };
     x-raym-midi-notes-octave-transpose-shift-jsfx-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-notes-octave-transpose-shift-jsfx-1-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8549,7 +8550,7 @@
       ];
     };
     x-raym-midi-notes-octave-transpose-shift-jsfx-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-notes-octave-transpose-shift-jsfx-1-2-2";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8563,7 +8564,7 @@
       ];
     };
     x-raym-midi-notes-sequence-from-csv-file-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-notes-sequence-from-csv-file-jsfx-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8577,7 +8578,7 @@
       ];
     };
     x-raym-midi-notes-sequence-from-csv-file-jsfx-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-notes-sequence-from-csv-file-jsfx-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8591,7 +8592,7 @@
       ];
     };
     x-raym-midi-notes-sequence-from-csv-file-jsfx-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-notes-sequence-from-csv-file-jsfx-2-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8605,7 +8606,7 @@
       ];
     };
     x-raym-midi-notes-sequence-from-csv-file-jsfx-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-notes-sequence-from-csv-file-jsfx-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8619,7 +8620,7 @@
       ];
     };
     x-raym-midi-single-note-map-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-single-note-map-jsfx-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8633,7 +8634,7 @@
       ];
     };
     x-raym-note-on-under-x-velocity-to-note-off-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-note-on-under-x-velocity-to-note-off-jsfx-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8647,7 +8648,7 @@
       ];
     };
     x-raym-note-to-cc-jsfx-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-note-to-cc-jsfx-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8661,7 +8662,7 @@
       ];
     };
     x-raym-note-to-cc-jsfx-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-note-to-cc-jsfx-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "JSFX/MIDI";
@@ -8675,7 +8676,7 @@
       ];
     };
     x-raym-focus-arrange-view-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-focus-arrange-view-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8689,7 +8690,7 @@
       ];
     };
     x-raym-play-stop-arrange-view-from-media-explorer-context-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-play-stop-arrange-view-from-media-explorer-context-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8703,7 +8704,7 @@
       ];
     };
     x-raym-play-stop-arrange-view-from-media-explorer-context-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-play-stop-arrange-view-from-media-explorer-context-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8717,7 +8718,7 @@
       ];
     };
     x-raym-preview-media-explorer-and-play-stop-project-arrange-view-simultaneously-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-preview-media-explorer-and-play-stop-project-arrange-view-simultaneously-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8731,7 +8732,7 @@
       ];
     };
     x-raym-preview-media-explorer-and-play-stop-project-arrange-view-simultaneously-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-preview-media-explorer-and-play-stop-project-arrange-view-simultaneously-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8745,7 +8746,7 @@
       ];
     };
     x-raym-reset-media-explorer-volume-to-0db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-media-explorer-volume-to-0db-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8759,7 +8760,7 @@
       ];
     };
     x-raym-reset-media-explorer-volume-to-0db-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-media-explorer-volume-to-0db-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8773,7 +8774,7 @@
       ];
     };
     x-raym-reset-media-explorer-volume-to-0db-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-media-explorer-volume-to-0db-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8787,7 +8788,7 @@
       ];
     };
     x-raym-reset-media-explorer-volume-to-0db-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-media-explorer-volume-to-0db-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8801,7 +8802,7 @@
       ];
     };
     x-raym-set-media-explorer-volume-down-a-bit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-media-explorer-volume-down-a-bit-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8815,7 +8816,7 @@
       ];
     };
     x-raym-set-media-explorer-volume-down-a-bit-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-media-explorer-volume-down-a-bit-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8829,7 +8830,7 @@
       ];
     };
     x-raym-set-media-explorer-volume-down-a-bit-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-media-explorer-volume-down-a-bit-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8843,7 +8844,7 @@
       ];
     };
     x-raym-set-media-explorer-volume-up-a-bit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-media-explorer-volume-up-a-bit-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8857,7 +8858,7 @@
       ];
     };
     x-raym-set-media-explorer-volume-up-a-bit-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-media-explorer-volume-up-a-bit-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8871,7 +8872,7 @@
       ];
     };
     x-raym-set-media-explorer-volume-up-a-bit-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-media-explorer-volume-up-a-bit-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Media Explorer";
@@ -8885,7 +8886,7 @@
       ];
     };
     x-raym-export-first-selected-midi-item-as-csound-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-midi-item-as-csound-file-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI";
@@ -8899,7 +8900,7 @@
       ];
     };
     x-raym-insert-midi-note-in-selected-items-active-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-midi-note-in-selected-items-active-take-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI";
@@ -8913,7 +8914,7 @@
       ];
     };
     x-raym-midi-lyrics-karaoke-viewer-for-ultrastar-gui-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-lyrics-karaoke-viewer-for-ultrastar-gui-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI";
@@ -8927,7 +8928,7 @@
       ];
     };
     x-raym-midi-lyrics-karaoke-viewer-for-ultrastar-gui-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-lyrics-karaoke-viewer-for-ultrastar-gui-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI";
@@ -8941,7 +8942,7 @@
       ];
     };
     x-raym-midi-lyrics-karaoke-viewer-for-ultrastar-gui-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-lyrics-karaoke-viewer-for-ultrastar-gui-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI";
@@ -8955,7 +8956,7 @@
       ];
     };
     x-raym-midi-lyrics-karaoke-viewer-for-ultrastar-gui-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-lyrics-karaoke-viewer-for-ultrastar-gui-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI";
@@ -8969,7 +8970,7 @@
       ];
     };
     x-raym-midi-lyrics-karaoke-viewer-for-ultrastar-gui-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-midi-lyrics-karaoke-viewer-for-ultrastar-gui-lua-1-0-4";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI";
@@ -8983,7 +8984,7 @@
       ];
     };
     x-raym-remove-selected-items-midi-cc-events-lanes-where-all-events-are-equal-to-0-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-remove-selected-items-midi-cc-events-lanes-where-all-events-are-equal-to-0-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI";
@@ -8997,7 +8998,7 @@
       ];
     };
     fna-select-unselect-notes-in-grid-over-mouse-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fna-select-unselect-notes-in-grid-over-mouse-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9011,7 +9012,7 @@
       ];
     };
     fna-select-unselect-notes-in-grid-under-mouse-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "fna-select-unselect-notes-in-grid-under-mouse-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9025,7 +9026,7 @@
       ];
     };
     x-raym-add-10-to-selected-notes-velocity-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-10-to-selected-notes-velocity-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9039,7 +9040,7 @@
       ];
     };
     x-raym-add-a-midi-marker-named-page-at-edit-cursor-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-a-midi-marker-named-page-at-edit-cursor-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9053,7 +9054,7 @@
       ];
     };
     x-raym-automatically-select-notes-under-play-cursor-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-automatically-select-notes-under-play-cursor-background-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9067,7 +9068,7 @@
       ];
     };
     x-raym-automatically-select-notes-under-play-cursor-background-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-automatically-select-notes-under-play-cursor-background-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9081,7 +9082,7 @@
       ];
     };
     x-raym-duplicate-selected-notes-as-fifth-and-octave-triads-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-duplicate-selected-notes-as-fifth-and-octave-triads-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9095,7 +9096,7 @@
       ];
     };
     x-raym-duplicate-selected-notes-as-fifth-and-octave-triads-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-duplicate-selected-notes-as-fifth-and-octave-triads-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9109,7 +9110,7 @@
       ];
     };
     x-raym-duplicate-selected-notes-as-fifth-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-duplicate-selected-notes-as-fifth-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9123,7 +9124,7 @@
       ];
     };
     x-raym-duplicate-selected-notes-as-fifth-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-duplicate-selected-notes-as-fifth-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9137,7 +9138,7 @@
       ];
     };
     x-raym-duplicate-selected-notes-as-fourth-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-duplicate-selected-notes-as-fourth-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9151,7 +9152,7 @@
       ];
     };
     x-raym-duplicate-selected-notes-as-fourth-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-duplicate-selected-notes-as-fourth-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9165,7 +9166,7 @@
       ];
     };
     x-raym-export-active-take-in-midi-editor-as-csv-of-notes-and-velocity-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-active-take-in-midi-editor-as-csv-of-notes-and-velocity-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9179,7 +9180,7 @@
       ];
     };
     x-raym-export-active-take-in-midi-editor-as-csv-of-notes-and-velocity-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-active-take-in-midi-editor-as-csv-of-notes-and-velocity-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9193,7 +9194,7 @@
       ];
     };
     x-raym-export-active-take-in-midi-editor-as-csv-of-notes-and-velocity-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-active-take-in-midi-editor-as-csv-of-notes-and-velocity-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9207,7 +9208,7 @@
       ];
     };
     x-raym-insert-and-or-edit-project-marker-at-current-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-and-or-edit-project-marker-at-current-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9221,7 +9222,7 @@
       ];
     };
     x-raym-insert-cc-linear-ramp-events-between-selected-ones-if-consecutive-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-cc-linear-ramp-events-between-selected-ones-if-consecutive-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9235,7 +9236,7 @@
       ];
     };
     x-raym-insert-cc-linear-ramp-events-between-selected-ones-if-consecutive-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-cc-linear-ramp-events-between-selected-ones-if-consecutive-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9249,7 +9250,7 @@
       ];
     };
     x-raym-insert-cc-linear-ramp-events-between-selected-ones-if-consecutive-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-cc-linear-ramp-events-between-selected-ones-if-consecutive-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9263,7 +9264,7 @@
       ];
     };
     x-raym-insert-cc-linear-ramp-events-between-selected-ones-if-consecutive-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-cc-linear-ramp-events-between-selected-ones-if-consecutive-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9277,7 +9278,7 @@
       ];
     };
     x-raym-insert-midi-lyrics-event-under-each-selected-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-midi-lyrics-event-under-each-selected-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9291,7 +9292,7 @@
       ];
     };
     x-raym-insert-midi-notes-at-project-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-midi-notes-at-project-markers-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9305,7 +9306,7 @@
       ];
     };
     x-raym-insert-new-midi-item-from-midi-editor-active-take-track-and-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-new-midi-item-from-midi-editor-active-take-track-and-time-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9319,7 +9320,7 @@
       ];
     };
     x-raym-insert-sysex-events-at-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-sysex-events-at-time-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9333,7 +9334,7 @@
       ];
     };
     x-raym-move-selected-notes-to-pitch-under-mouse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-notes-to-pitch-under-mouse-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9347,7 +9348,7 @@
       ];
     };
     x-raym-mute-selected-notes-in-open-midi-take-randomly-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-mute-selected-notes-in-open-midi-take-randomly-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9361,7 +9362,7 @@
       ];
     };
     x-raym-mute-selected-notes-in-open-midi-take-randomly-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-mute-selected-notes-in-open-midi-take-randomly-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9375,7 +9376,7 @@
       ];
     };
     x-raym-remove-project-marker-at-current-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-remove-project-marker-at-current-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9389,7 +9390,7 @@
       ];
     };
     x-raym-repeat-notes-selection-pattern-from-time-selection-to-next-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-repeat-notes-selection-pattern-from-time-selection-to-next-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9403,7 +9404,7 @@
       ];
     };
     x-raym-select-all-midi-notes-and-events-right-of-mouse-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-all-midi-notes-and-events-right-of-mouse-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9417,7 +9418,7 @@
       ];
     };
     x-raym-select-only-midi-notes-above-active-note-row-pitch-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-only-midi-notes-above-active-note-row-pitch-cursor-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9431,7 +9432,7 @@
       ];
     };
     x-raym-select-only-midi-notes-below-active-note-row-pitch-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-only-midi-notes-below-active-note-row-pitch-cursor-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9445,7 +9446,7 @@
       ];
     };
     x-raym-select-unselect-all-midi-notes-over-mouse-based-on-grid-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-unselect-all-midi-notes-over-mouse-based-on-grid-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9459,7 +9460,7 @@
       ];
     };
     x-raym-select-unselect-all-midi-notes-over-mouse-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-unselect-all-midi-notes-over-mouse-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9473,7 +9474,7 @@
       ];
     };
     x-raym-select-unselect-all-midi-notes-under-mouse-based-on-grid-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-unselect-all-midi-notes-under-mouse-based-on-grid-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9487,7 +9488,7 @@
       ];
     };
     x-raym-select-unselect-all-midi-notes-under-mouse-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-unselect-all-midi-notes-under-mouse-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9501,7 +9502,7 @@
       ];
     };
     x-raym-select-unselect-all-midi-notes-with-same-pitch-left-of-the-mouse-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-unselect-all-midi-notes-with-same-pitch-left-of-the-mouse-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9515,7 +9516,7 @@
       ];
     };
     x-raym-select-unselect-all-midi-notes-with-same-pitch-right-of-the-mouse-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-unselect-all-midi-notes-with-same-pitch-right-of-the-mouse-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9529,7 +9530,7 @@
       ];
     };
     x-raym-select-unselect-highest-midi-notes-in-active-take-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-unselect-highest-midi-notes-in-active-take-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9543,7 +9544,7 @@
       ];
     };
     x-raym-select-unselect-lowest-midi-notes-in-active-take-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-unselect-lowest-midi-notes-in-active-take-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9557,7 +9558,7 @@
       ];
     };
     x-raym-set-selected-notes-velocity-to-100-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-notes-velocity-to-100-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9571,7 +9572,7 @@
       ];
     };
     x-raym-shift-midi-lyrics-events-message-after-edit-cursor-to-one-event-on-the-left-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-shift-midi-lyrics-events-message-after-edit-cursor-to-one-event-on-the-left-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9585,7 +9586,7 @@
       ];
     };
     x-raym-shift-midi-lyrics-events-message-after-edit-cursor-to-one-event-on-the-left-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-shift-midi-lyrics-events-message-after-edit-cursor-to-one-event-on-the-left-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9599,7 +9600,7 @@
       ];
     };
     x-raym-shift-midi-lyrics-events-message-after-edit-cursor-to-one-event-on-the-right-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-shift-midi-lyrics-events-message-after-edit-cursor-to-one-event-on-the-right-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9613,7 +9614,7 @@
       ];
     };
     x-raym-shift-midi-lyrics-events-message-after-edit-cursor-to-one-event-on-the-right-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-shift-midi-lyrics-events-message-after-edit-cursor-to-one-event-on-the-right-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9627,7 +9628,7 @@
       ];
     };
     x-raym-split-selected-midi-notes-half-in-2-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-selected-midi-notes-half-in-2-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9641,7 +9642,7 @@
       ];
     };
     x-raym-toggle-mute-track-with-take-in-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-mute-track-with-take-in-midi-editor-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9655,7 +9656,7 @@
       ];
     };
     x-raym-trim-midi-note-under-mouse-end-to-edit-cursor-and-ripple-edit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-midi-note-under-mouse-end-to-edit-cursor-and-ripple-edit-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9669,7 +9670,7 @@
       ];
     };
     x-raym-trim-midi-note-under-mouse-end-to-edit-cursor-and-ripple-edit-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-midi-note-under-mouse-end-to-edit-cursor-and-ripple-edit-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9683,7 +9684,7 @@
       ];
     };
     x-raym-trim-midi-note-under-mouse-start-to-edit-cursor-and-ripple-edit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-midi-note-under-mouse-start-to-edit-cursor-and-ripple-edit-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9697,7 +9698,7 @@
       ];
     };
     x-raym-trim-midi-note-under-mouse-start-to-edit-cursor-and-ripple-edit-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-trim-midi-note-under-mouse-start-to-edit-cursor-and-ripple-edit-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
@@ -9711,7 +9712,7 @@
       ];
     };
     x-raym-open-most-recent-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-open-most-recent-project-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Project";
@@ -9725,7 +9726,7 @@
       ];
     };
     x-raym-open-most-recent-project-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-open-most-recent-project-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Project";
@@ -9739,7 +9740,7 @@
       ];
     };
     x-raym-save-project-and-keep-only-x-backups-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-save-project-and-keep-only-x-backups-lua-1-0-4";
       indexName = "X-Raym Scripts";
       categoryName = "Project";
@@ -9753,7 +9754,7 @@
       ];
     };
     x-raym-save-project-and-keep-only-x-backups-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-save-project-and-keep-only-x-backups-lua-1-0-6";
       indexName = "X-Raym Scripts";
       categoryName = "Project";
@@ -9767,7 +9768,7 @@
       ];
     };
     x-raym-save-project-and-keep-only-x-backups-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-save-project-and-keep-only-x-backups-lua-1-0-7";
       indexName = "X-Raym Scripts";
       categoryName = "Project";
@@ -9781,7 +9782,7 @@
       ];
     };
     x-raym-set-selected-tracks-razor-edit-area-to-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-razor-edit-area-to-time-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Razor Edit";
@@ -9795,7 +9796,7 @@
       ];
     };
     x-raym-add-all-regions-to-render-queue-individually-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-all-regions-to-render-queue-individually-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -9809,7 +9810,7 @@
       ];
     };
     x-raym-add-envelope-markers-from-selected-envelope-points-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-markers-from-selected-envelope-points-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -9823,7 +9824,7 @@
       ];
     };
     x-raym-add-italic-markup-to-current-region-name-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-italic-markup-to-current-region-name-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -9837,7 +9838,7 @@
       ];
     };
     x-raym-add-musical-notes-to-current-region-name-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-musical-notes-to-current-region-name-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -9851,7 +9852,7 @@
       ];
     };
     x-raym-color-current-region-or-regions-in-time-selection-randomly-with-same-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-color-current-region-or-regions-in-time-selection-randomly-with-same-color-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -9865,7 +9866,7 @@
       ];
     };
     x-raym-color-current-region-or-regions-in-time-selection-randomly-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-color-current-region-or-regions-in-time-selection-randomly-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -9879,7 +9880,7 @@
       ];
     };
     x-raym-convert-current-region-or-regions-in-time-selection-to-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-current-region-or-regions-in-time-selection-to-markers-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -9893,7 +9894,7 @@
       ];
     };
     x-raym-convert-last-marker-or-marker-in-time-selection-to-regions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-last-marker-or-marker-in-time-selection-to-regions-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -9907,7 +9908,7 @@
       ];
     };
     x-raym-convert-tempo-and-time-signature-markers-into-project-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-tempo-and-time-signature-markers-into-project-markers-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -9921,7 +9922,7 @@
       ];
     };
     x-raym-create-markers-at-selected-items-snap-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-markers-at-selected-items-snap-offset-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -9935,7 +9936,7 @@
       ];
     };
     x-raym-create-markers-at-selected-items-snap-offset-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-markers-at-selected-items-snap-offset-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -9949,7 +9950,7 @@
       ];
     };
     x-raym-create-markers-at-selected-items-snap-offset-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-markers-at-selected-items-snap-offset-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -9963,7 +9964,7 @@
       ];
     };
     x-raym-create-named-marker-from-selected-items-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-named-marker-from-selected-items-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -9977,7 +9978,7 @@
       ];
     };
     x-raym-create-named-marker-x-seconds-after-last-item-end-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-named-marker-x-seconds-after-last-item-end-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -9991,7 +9992,7 @@
       ];
     };
     x-raym-create-project-markers-from-selected-takes-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-project-markers-from-selected-takes-markers-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10005,7 +10006,7 @@
       ];
     };
     x-raym-create-project-markers-from-selected-takes-markers-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-project-markers-from-selected-takes-markers-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10019,7 +10020,7 @@
       ];
     };
     x-raym-create-project-regions-from-selected-takes-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-project-regions-from-selected-takes-markers-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10033,7 +10034,7 @@
       ];
     };
     x-raym-create-regions-from-selected-items-notes-and-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-regions-from-selected-items-notes-and-color-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10047,7 +10048,7 @@
       ];
     };
     x-raym-create-regions-from-selected-takes-and-from-track-name-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-regions-from-selected-takes-and-from-track-name-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10061,7 +10062,7 @@
       ];
     };
     x-raym-create-regions-from-selected-takes-and-from-track-name-eel-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-regions-from-selected-takes-and-from-track-name-eel-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10075,7 +10076,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10089,7 +10090,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10103,7 +10104,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10117,7 +10118,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-3";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10131,7 +10132,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-4";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10145,7 +10146,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-4-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10159,7 +10160,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-4-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10173,7 +10174,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-5";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10187,7 +10188,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-davinci-resolve-edl-file-lua-1-5-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10201,7 +10202,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-tab-delimited-csv-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-tab-delimited-csv-file-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10215,7 +10216,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-tab-delimited-csv-file-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-tab-delimited-csv-file-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10229,7 +10230,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-tab-delimited-csv-file-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-tab-delimited-csv-file-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10243,7 +10244,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-tab-delimited-csv-file-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-tab-delimited-csv-file-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10257,7 +10258,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-tab-delimited-csv-file-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-tab-delimited-csv-file-lua-1-0-4";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10271,7 +10272,7 @@
       ];
     };
     x-raym-export-markers-and-regions-as-tab-delimited-csv-file-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-and-regions-as-tab-delimited-csv-file-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10285,7 +10286,7 @@
       ];
     };
     x-raym-export-markers-as-youtube-timecode-for-video-description-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-as-youtube-timecode-for-video-description-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10299,7 +10300,7 @@
       ];
     };
     x-raym-export-markers-as-youtube-timecode-for-video-description-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-as-youtube-timecode-for-video-description-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10313,7 +10314,7 @@
       ];
     };
     x-raym-export-markers-as-youtube-timecode-for-video-description-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-as-youtube-timecode-for-video-description-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10327,7 +10328,7 @@
       ];
     };
     x-raym-export-markers-as-youtube-timecode-for-video-description-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-markers-as-youtube-timecode-for-video-description-lua-1-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10341,7 +10342,7 @@
       ];
     };
     x-raym-export-regions-as-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-regions-as-file-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10355,7 +10356,7 @@
       ];
     };
     x-raym-import-markers-and-regions-from-tab-delimited-csv-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-markers-and-regions-from-tab-delimited-csv-file-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10369,7 +10370,7 @@
       ];
     };
     x-raym-import-markers-and-regions-from-tab-delimited-csv-file-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-markers-and-regions-from-tab-delimited-csv-file-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10383,7 +10384,7 @@
       ];
     };
     x-raym-import-markers-and-regions-from-tab-delimited-csv-file-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-markers-and-regions-from-tab-delimited-csv-file-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10397,7 +10398,7 @@
       ];
     };
     x-raym-import-markers-and-regions-from-tab-delimited-csv-file-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-markers-and-regions-from-tab-delimited-csv-file-lua-1-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10411,7 +10412,7 @@
       ];
     };
     x-raym-import-markers-and-regions-from-tab-delimited-csv-file-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-markers-and-regions-from-tab-delimited-csv-file-lua-1-2-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10425,7 +10426,7 @@
       ];
     };
     x-raym-insert-markers-at-grid-lines-in-time-selection-named-and-colored-with-regions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-markers-at-grid-lines-in-time-selection-named-and-colored-with-regions-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10439,7 +10440,7 @@
       ];
     };
     x-raym-insert-markers-at-grid-lines-in-time-selection-named-and-colored-with-regions-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-markers-at-grid-lines-in-time-selection-named-and-colored-with-regions-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10453,7 +10454,7 @@
       ];
     };
     x-raym-insert-markers-at-grid-lines-in-time-selection-named-and-colored-with-regions-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-markers-at-grid-lines-in-time-selection-named-and-colored-with-regions-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10467,7 +10468,7 @@
       ];
     };
     x-raym-insert-markers-at-grid-lines-in-time-selection-named-and-colored-with-regions-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-markers-at-grid-lines-in-time-selection-named-and-colored-with-regions-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10481,7 +10482,7 @@
       ];
     };
     x-raym-insert-markers-at-grid-lines-in-time-selection-named-and-colored-with-regions-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-markers-at-grid-lines-in-time-selection-named-and-colored-with-regions-lua-1-0-4";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10495,7 +10496,7 @@
       ];
     };
     x-raym-insert-markers-at-grid-lines-in-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-markers-at-grid-lines-in-time-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10509,7 +10510,7 @@
       ];
     };
     x-raym-insert-or-update-start-and-end-marker-from-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-or-update-start-and-end-marker-from-time-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10523,7 +10524,7 @@
       ];
     };
     x-raym-merge-consecutive-regions-as-dialog-lines-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-merge-consecutive-regions-as-dialog-lines-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10537,7 +10538,7 @@
       ];
     };
     x-raym-merge-consecutive-regions-with-same-name-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-merge-consecutive-regions-with-same-name-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10551,7 +10552,7 @@
       ];
     };
     x-raym-merge-overlapping-regions-with-same-name-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-merge-overlapping-regions-with-same-name-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10565,7 +10566,7 @@
       ];
     };
     x-raym-merge-region-under-cursor-and-the-next-one-eel-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-merge-region-under-cursor-and-the-next-one-eel-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10579,7 +10580,7 @@
       ];
     };
     x-raym-regions-clock-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-regions-clock-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10593,7 +10594,7 @@
       ];
     };
     x-raym-regions-clock-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-regions-clock-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10607,7 +10608,7 @@
       ];
     };
     x-raym-regions-clock-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-regions-clock-lua-1-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10621,7 +10622,7 @@
       ];
     };
     x-raym-regions-clock-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-regions-clock-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10635,7 +10636,7 @@
       ];
     };
     x-raym-regions-clock-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-regions-clock-lua-1-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10649,7 +10650,7 @@
       ];
     };
     x-raym-regions-clock-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-regions-clock-lua-1-2-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10663,7 +10664,7 @@
       ];
     };
     x-raym-regions-clock-lua-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-regions-clock-lua-1-2-3";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10677,7 +10678,7 @@
       ];
     };
     x-raym-regions-clock-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-regions-clock-lua-1-3";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10691,7 +10692,7 @@
       ];
     };
     x-raym-regions-clock-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-regions-clock-lua-1-3-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10705,7 +10706,7 @@
       ];
     };
     x-raym-search-and-replace-in-markers-names-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-markers-names-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10719,7 +10720,7 @@
       ];
     };
     x-raym-search-and-replace-in-markers-names-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-markers-names-lua-2-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10733,7 +10734,7 @@
       ];
     };
     x-raym-search-and-replace-in-markers-names-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-markers-names-lua-2-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10747,7 +10748,7 @@
       ];
     };
     x-raym-search-and-replace-in-regions-names-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-regions-names-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10761,7 +10762,7 @@
       ];
     };
     x-raym-search-and-replace-in-regions-names-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-regions-names-lua-2-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10775,7 +10776,7 @@
       ];
     };
     x-raym-set-closest-edge-of-closest-region-to-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-closest-edge-of-closest-region-to-edit-cursor-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10789,7 +10790,7 @@
       ];
     };
     x-raym-snap-all-markers-to-grid-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-all-markers-to-grid-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10803,7 +10804,7 @@
       ];
     };
     x-raym-snap-all-regions-to-grid-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-all-regions-to-grid-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10817,7 +10818,7 @@
       ];
     };
     x-raym-split-region-under-cursor-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-region-under-cursor-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10831,7 +10832,7 @@
       ];
     };
     x-raym-split-region-under-cursor-eel-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-split-region-under-cursor-eel-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10845,7 +10846,7 @@
       ];
     };
     x-raym-swap-regions-names-and-subtitles-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-swap-regions-names-and-subtitles-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10859,7 +10860,7 @@
       ];
     };
     x-raym-swap-regions-names-and-subtitles-preserving-break-lines-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-swap-regions-names-and-subtitles-preserving-break-lines-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Regions";
@@ -10873,7 +10874,7 @@
       ];
     };
     x-raym-snooks-explode-selected-subprojects-to-child-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snooks-explode-selected-subprojects-to-child-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Subprojects";
@@ -10887,7 +10888,7 @@
       ];
     };
     x-raym-snooks-explode-selected-subprojects-to-child-tracks-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snooks-explode-selected-subprojects-to-child-tracks-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Subprojects";
@@ -10901,7 +10902,7 @@
       ];
     };
     x-raym-parent-script-of-preset-script-template-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-parent-script-of-preset-script-template-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Templates/Script Preset";
@@ -10920,7 +10921,7 @@
       ];
     };
     x-raym-parent-script-of-preset-script-template-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-parent-script-of-preset-script-template-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Templates/Script Preset";
@@ -10939,7 +10940,7 @@
       ];
     };
     x-raym-parent-script-of-preset-script-template-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-parent-script-of-preset-script-template-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Templates/Script Preset";
@@ -10958,7 +10959,7 @@
       ];
     };
     x-raym-parent-script-of-preset-script-template-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-parent-script-of-preset-script-template-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Templates/Script Preset";
@@ -10977,7 +10978,7 @@
       ];
     };
     x-raym-preset-script-template-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-preset-script-template-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Templates/Script Preset";
@@ -10991,7 +10992,7 @@
       ];
     };
     michaeltonight-daxliniere-x-raym-display-notes-length-at-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "michaeltonight-daxliniere-x-raym-display-notes-length-at-edit-cursor-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Tempo and Time Signature";
@@ -11005,7 +11006,7 @@
       ];
     };
     x-raym-delete-all-tempo-markers-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-all-tempo-markers-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Tempo and Time Signature";
@@ -11019,7 +11020,7 @@
       ];
     };
     x-raym-delete-all-tempo-markers-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-all-tempo-markers-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Tempo and Time Signature";
@@ -11033,7 +11034,7 @@
       ];
     };
     x-raym-insert-time-signature-markers-from-selected-items-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-time-signature-markers-from-selected-items-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Tempo and Time Signature";
@@ -11047,7 +11048,7 @@
       ];
     };
     x-raym-round-all-tempo-markers-bpm-lua-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-round-all-tempo-markers-bpm-lua-0-9";
       indexName = "X-Raym Scripts";
       categoryName = "Tempo and Time Signature";
@@ -11061,7 +11062,7 @@
       ];
     };
     x-raym-round-all-tempo-markers-bpm-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-round-all-tempo-markers-bpm-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Tempo and Time Signature";
@@ -11075,7 +11076,7 @@
       ];
     };
     x-raym-set-selected-tempo-envelope-points-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tempo-envelope-points-value-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Tempo and Time Signature";
@@ -11089,7 +11090,7 @@
       ];
     };
     x-raym-tap-tempo-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-tap-tempo-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Tempo and Time Signature";
@@ -11103,7 +11104,7 @@
       ];
     };
     x-raym-tap-tempo-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-tap-tempo-lua-1-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Tempo and Time Signature";
@@ -11117,7 +11118,7 @@
       ];
     };
     x-raym-convert-selected-audio-item-notes-into-source-taglib-comments-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-selected-audio-item-notes-into-source-taglib-comments-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Conversion";
@@ -11131,7 +11132,7 @@
       ];
     };
     x-raym-convert-selected-audio-take-sources-taglib-comments-to-item-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-selected-audio-take-sources-taglib-comments-to-item-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Conversion";
@@ -11145,7 +11146,7 @@
       ];
     };
     x-raym-convert-selected-item-notes-to-take-name-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-selected-item-notes-to-take-name-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Conversion";
@@ -11159,7 +11160,7 @@
       ];
     };
     x-raym-convert-selected-takes-name-to-item-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-selected-takes-name-to-item-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Conversion";
@@ -11173,7 +11174,7 @@
       ];
     };
     x-raym-swap-selected-item-notes-and-take-name-preserving-break-lines-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-swap-selected-item-notes-and-take-name-preserving-break-lines-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Conversion";
@@ -11187,7 +11188,7 @@
       ];
     };
     x-raym-swap-selected-item-notes-and-take-name-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-swap-selected-item-notes-and-take-name-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Conversion";
@@ -11201,7 +11202,7 @@
       ];
     };
     x-raym-create-one-text-item-on-first-selected-track-from-last-selected-items-notes-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-one-text-item-on-first-selected-track-from-last-selected-items-notes-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11215,7 +11216,7 @@
       ];
     };
     x-raym-create-one-text-item-on-first-selected-track-from-last-selected-items-notes-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-one-text-item-on-first-selected-track-from-last-selected-items-notes-lua-1-4";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11229,7 +11230,7 @@
       ];
     };
     x-raym-create-one-text-item-on-first-selected-track-from-last-selected-items-notes-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-one-text-item-on-first-selected-track-from-last-selected-items-notes-lua-1-5";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11243,7 +11244,7 @@
       ];
     };
     x-raym-create-one-text-item-on-first-selected-track-from-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-one-text-item-on-first-selected-track-from-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11257,7 +11258,7 @@
       ];
     };
     x-raym-create-one-text-item-on-first-selected-track-from-selected-items-notes-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-one-text-item-on-first-selected-track-from-selected-items-notes-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11271,7 +11272,7 @@
       ];
     };
     x-raym-create-one-text-item-on-first-selected-track-from-selected-items-notes-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-one-text-item-on-first-selected-track-from-selected-items-notes-lua-1-4";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11285,7 +11286,7 @@
       ];
     };
     x-raym-create-one-text-item-on-first-selected-track-from-selected-items-notes-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-one-text-item-on-first-selected-track-from-selected-items-notes-lua-1-5";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11299,7 +11300,7 @@
       ];
     };
     x-raym-create-one-text-item-on-first-selected-track-from-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-one-text-item-on-first-selected-track-from-selected-items-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11313,7 +11314,7 @@
       ];
     };
     x-raym-create-one-text-item-with-dialog-dash-on-first-selected-track-from-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-one-text-item-with-dialog-dash-on-first-selected-track-from-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11327,7 +11328,7 @@
       ];
     };
     x-raym-create-one-text-item-with-dialog-dash-on-first-selected-track-from-selected-items-notes-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-one-text-item-with-dialog-dash-on-first-selected-track-from-selected-items-notes-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11341,7 +11342,7 @@
       ];
     };
     x-raym-create-one-text-item-with-dialog-dash-on-first-selected-track-from-selected-items-notes-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-one-text-item-with-dialog-dash-on-first-selected-track-from-selected-items-notes-lua-1-3";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11355,7 +11356,7 @@
       ];
     };
     x-raym-create-one-text-item-with-dialog-dash-on-first-selected-track-from-selected-items-notes-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-one-text-item-with-dialog-dash-on-first-selected-track-from-selected-items-notes-lua-1-4";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11369,7 +11370,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-grid-lines-division-in-time-selection-named-and-colored-with-regions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-grid-lines-division-in-time-selection-named-and-colored-with-regions-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11383,7 +11384,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-grid-lines-division-in-time-selection-named-and-colored-with-regions-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-grid-lines-division-in-time-selection-named-and-colored-with-regions-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11397,7 +11398,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-grid-lines-division-in-time-selection-named-and-colored-with-regions-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-grid-lines-division-in-time-selection-named-and-colored-with-regions-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11411,7 +11412,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-grid-lines-division-in-time-selection-named-and-colored-with-regions-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-grid-lines-division-in-time-selection-named-and-colored-with-regions-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11425,7 +11426,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-markers-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-markers-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11439,7 +11440,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-markers-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-markers-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11453,7 +11454,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-regions-subtitles-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-regions-subtitles-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11467,7 +11468,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-regions-lua-1-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-regions-lua-1-3-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11481,7 +11482,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-regions-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-regions-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11495,7 +11496,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-regions-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-regions-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11509,7 +11510,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-regions-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-regions-lua-1-3";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11523,7 +11524,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-regions-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-regions-lua-1-4";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11537,7 +11538,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-selected-items-groups-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-selected-items-groups-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11551,7 +11552,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11565,7 +11566,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-selected-items-notes-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-selected-items-notes-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11579,7 +11580,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-selected-items-notes-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-selected-items-notes-lua-1-3";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11593,7 +11594,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-selected-items-notes-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-selected-items-notes-lua-1-4";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11607,7 +11608,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-selected-takes-name-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-selected-takes-name-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11621,7 +11622,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-selected-takes-name-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-selected-takes-name-lua-1-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11635,7 +11636,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-selected-takes-name-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-selected-takes-name-lua-1-3";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11649,7 +11650,7 @@
       ];
     };
     x-raym-create-text-items-on-first-selected-track-from-selected-takes-name-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-create-text-items-on-first-selected-track-from-selected-takes-name-lua-1-4";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11663,7 +11664,7 @@
       ];
     };
     x-raym-merge-consecutive-and-short-text-items-on-selected-tracks-by-pair-with-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-merge-consecutive-and-short-text-items-on-selected-tracks-by-pair-with-color-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11677,7 +11678,7 @@
       ];
     };
     x-raym-merge-consecutive-and-short-text-items-on-selected-tracks-by-pair-with-color-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-merge-consecutive-and-short-text-items-on-selected-tracks-by-pair-with-color-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11691,7 +11692,7 @@
       ];
     };
     x-raym-merge-consecutive-and-short-text-items-on-selected-tracks-by-pair-with-dialog-dash-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-merge-consecutive-and-short-text-items-on-selected-tracks-by-pair-with-dialog-dash-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11705,7 +11706,7 @@
       ];
     };
     x-raym-merge-consecutive-and-short-text-items-on-selected-tracks-by-pair-with-dialog-dash-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-merge-consecutive-and-short-text-items-on-selected-tracks-by-pair-with-dialog-dash-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11719,7 +11720,7 @@
       ];
     };
     x-raym-merge-overlapping-and-consecutive-similar-text-items-on-selected-tracks-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-merge-overlapping-and-consecutive-similar-text-items-on-selected-tracks-lua-1-3";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11733,7 +11734,7 @@
       ];
     };
     x-raym-merge-selected-text-items-notes-adding-dialog-dash-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-merge-selected-text-items-notes-adding-dialog-dash-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11747,7 +11748,7 @@
       ];
     };
     x-raym-merge-selected-text-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-merge-selected-text-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Creation";
@@ -11761,7 +11762,7 @@
       ];
     };
     x-raym-add-background-color-markup-to-selected-items-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-background-color-markup-to-selected-items-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11775,7 +11776,7 @@
       ];
     };
     x-raym-add-background-color-markup-to-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-background-color-markup-to-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11789,7 +11790,7 @@
       ];
     };
     x-raym-add-bold-markup-to-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-bold-markup-to-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11803,7 +11804,7 @@
       ];
     };
     x-raym-add-bold-markup-to-selected-items-notes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-bold-markup-to-selected-items-notes-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11817,7 +11818,7 @@
       ];
     };
     x-raym-add-font-color-markup-to-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-font-color-markup-to-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11831,7 +11832,7 @@
       ];
     };
     x-raym-add-font-color-markup-to-selected-items-notes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-font-color-markup-to-selected-items-notes-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11845,7 +11846,7 @@
       ];
     };
     x-raym-add-italic-markup-to-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-italic-markup-to-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11859,7 +11860,7 @@
       ];
     };
     x-raym-add-italic-markup-to-selected-items-notes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-italic-markup-to-selected-items-notes-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11873,7 +11874,7 @@
       ];
     };
     x-raym-add-musical-notes-to-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-musical-notes-to-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11887,7 +11888,7 @@
       ];
     };
     x-raym-add-musical-notes-to-selected-items-notes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-musical-notes-to-selected-items-notes-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11901,7 +11902,7 @@
       ];
     };
     x-raym-add-text-to-selected-items-notes-items-notes-processor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-text-to-selected-items-notes-items-notes-processor-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11915,7 +11916,7 @@
       ];
     };
     x-raym-add-text-to-selected-items-notes-items-notes-processor-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-text-to-selected-items-notes-items-notes-processor-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11929,7 +11930,7 @@
       ];
     };
     x-raym-add-text-to-selected-items-notes-items-notes-processor-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-text-to-selected-items-notes-items-notes-processor-lua-1-3";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11943,7 +11944,7 @@
       ];
     };
     x-raym-add-text-to-selected-items-notes-items-notes-processor-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-text-to-selected-items-notes-items-notes-processor-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11957,7 +11958,7 @@
       ];
     };
     x-raym-add-underline-markup-to-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-underline-markup-to-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11971,7 +11972,7 @@
       ];
     };
     x-raym-add-underline-markup-to-selected-items-notes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-add-underline-markup-to-selected-items-notes-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11985,7 +11986,7 @@
       ];
     };
     x-raym-delete-all-html-markup-from-selected-items-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-all-html-markup-from-selected-items-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -11999,7 +12000,7 @@
       ];
     };
     x-raym-delete-all-html-markup-from-selected-items-notes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-all-html-markup-from-selected-items-notes-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12013,7 +12014,7 @@
       ];
     };
     x-raym-delete-background-color-markup-from-selected-items-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-background-color-markup-from-selected-items-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12027,7 +12028,7 @@
       ];
     };
     x-raym-delete-background-color-markup-from-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-background-color-markup-from-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12041,7 +12042,7 @@
       ];
     };
     x-raym-delete-bold-markup-from-selected-items-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-bold-markup-from-selected-items-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12055,7 +12056,7 @@
       ];
     };
     x-raym-delete-bold-markup-from-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-bold-markup-from-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12069,7 +12070,7 @@
       ];
     };
     x-raym-delete-breaklines-markup-from-selected-items-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-breaklines-markup-from-selected-items-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12083,7 +12084,7 @@
       ];
     };
     x-raym-delete-font-color-markup-from-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-font-color-markup-from-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12097,7 +12098,7 @@
       ];
     };
     x-raym-delete-italic-markup-from-selected-items-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-italic-markup-from-selected-items-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12111,7 +12112,7 @@
       ];
     };
     x-raym-delete-italic-markup-from-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-italic-markup-from-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12125,7 +12126,7 @@
       ];
     };
     x-raym-delete-musical-notes-from-selected-items-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-musical-notes-from-selected-items-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12139,7 +12140,7 @@
       ];
     };
     x-raym-delete-musical-notes-from-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-musical-notes-from-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12153,7 +12154,7 @@
       ];
     };
     x-raym-delete-selected-items-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-selected-items-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12167,7 +12168,7 @@
       ];
     };
     x-raym-delete-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12181,7 +12182,7 @@
       ];
     };
     x-raym-delete-underline-markup-from-selected-items-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-underline-markup-from-selected-items-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12195,7 +12196,7 @@
       ];
     };
     x-raym-delete-underline-markup-from-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-delete-underline-markup-from-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12209,7 +12210,7 @@
       ];
     };
     x-raym-insert-multiple-lines-lorem-ipsum-to-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-multiple-lines-lorem-ipsum-to-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12223,7 +12224,7 @@
       ];
     };
     x-raym-insert-multiple-lines-lorem-ipsum-to-selected-items-notes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-multiple-lines-lorem-ipsum-to-selected-items-notes-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12237,7 +12238,7 @@
       ];
     };
     x-raym-insert-single-line-lorem-ipsum-to-selected-items-notes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-single-line-lorem-ipsum-to-selected-items-notes-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12251,7 +12252,7 @@
       ];
     };
     x-raym-insert-single-line-lorem-ipsum-to-selected-items-notes-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-single-line-lorem-ipsum-to-selected-items-notes-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12265,7 +12266,7 @@
       ];
     };
     x-raym-lowercase-selected-items-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-lowercase-selected-items-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12279,7 +12280,7 @@
       ];
     };
     x-raym-search-and-replace-in-selected-items-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-selected-items-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12293,7 +12294,7 @@
       ];
     };
     x-raym-search-and-replace-in-selected-items-notes-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-selected-items-notes-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12307,7 +12308,7 @@
       ];
     };
     x-raym-uppercase-selected-items-notes-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-uppercase-selected-items-notes-lua-2-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12321,7 +12322,7 @@
       ];
     };
     x-raym-uppercase-selected-items-notes-lua-2-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-uppercase-selected-items-notes-lua-2-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Formatting";
@@ -12335,7 +12336,7 @@
       ];
     };
     heda-x-raym-export-selection-as-srt-subtitles-with-offset-and-color-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-and-color-lua-1-4";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Subtitles";
@@ -12349,7 +12350,7 @@
       ];
     };
     heda-x-raym-export-selection-as-srt-subtitles-with-offset-and-color-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-and-color-lua-1-4-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Subtitles";
@@ -12363,7 +12364,7 @@
       ];
     };
     heda-x-raym-export-selection-as-srt-subtitles-with-offset-and-color-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-and-color-lua-1-4-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Subtitles";
@@ -12377,7 +12378,7 @@
       ];
     };
     heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-0-6-beta = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-0-6-beta";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Subtitles";
@@ -12391,7 +12392,7 @@
       ];
     };
     heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Subtitles";
@@ -12405,7 +12406,7 @@
       ];
     };
     heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-4-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Subtitles";
@@ -12419,7 +12420,7 @@
       ];
     };
     heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-4-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Subtitles";
@@ -12433,7 +12434,7 @@
       ];
     };
     heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-4-3";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Subtitles";
@@ -12447,7 +12448,7 @@
       ];
     };
     heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-5-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Subtitles";
@@ -12461,7 +12462,7 @@
       ];
     };
     heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-5-2";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Subtitles";
@@ -12475,7 +12476,7 @@
       ];
     };
     x-raym-theme-auto-refresher-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-auto-refresher-background-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12489,7 +12490,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12503,7 +12504,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-1";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12517,7 +12518,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-2";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12531,7 +12532,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-3";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12545,7 +12546,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-4";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12559,7 +12560,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-5";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12573,7 +12574,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-6";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12587,7 +12588,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-7";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12601,7 +12602,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-8";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12615,7 +12616,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-9";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12629,7 +12630,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-10";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12643,7 +12644,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-11";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12657,7 +12658,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-12";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12671,7 +12672,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-13";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12685,7 +12686,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-14";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12699,7 +12700,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-6-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-6-15";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12713,7 +12714,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-7-0";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12727,7 +12728,7 @@
       ];
     };
     x-raym-theme-color-tweaker-lua-0-7-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-theme-color-tweaker-lua-0-7-1";
       indexName = "X-Raym Scripts";
       categoryName = "Theme";
@@ -12741,7 +12742,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-2-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-2-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12755,7 +12756,7 @@
       ];
     };
     x-raym-display-first-selected-track-width-and-height-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-display-first-selected-track-width-and-height-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12769,7 +12770,7 @@
       ];
     };
     x-raym-display-selected-track-pan-compensated-by-width-eel-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-display-selected-track-pan-compensated-by-width-eel-0-9";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12783,7 +12784,7 @@
       ];
     };
     x-raym-import-tracks-from-file-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-tracks-from-file-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12797,7 +12798,7 @@
       ];
     };
     x-raym-import-tracks-from-file-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-tracks-from-file-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12811,7 +12812,7 @@
       ];
     };
     x-raym-insert-one-new-child-track-for-each-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-one-new-child-track-for-each-selected-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12825,7 +12826,7 @@
       ];
     };
     x-raym-insert-one-new-child-track-for-each-selected-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-one-new-child-track-for-each-selected-tracks-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12839,7 +12840,7 @@
       ];
     };
     x-raym-invert-master-track-stereo-left-right-width-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-invert-master-track-stereo-left-right-width-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12853,7 +12854,7 @@
       ];
     };
     x-raym-invert-selected-tracks-pan-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-invert-selected-tracks-pan-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12867,7 +12868,7 @@
       ];
     };
     x-raym-invert-selected-tracks-stereo-left-right-width-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-invert-selected-tracks-stereo-left-right-width-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12881,7 +12882,7 @@
       ];
     };
     x-raym-move-selected-tracks-down-on-visible-track-list-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-tracks-down-on-visible-track-list-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12895,7 +12896,7 @@
       ];
     };
     x-raym-move-selected-tracks-down-on-visible-track-list-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-tracks-down-on-visible-track-list-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12909,7 +12910,7 @@
       ];
     };
     x-raym-move-selected-tracks-down-on-visible-track-list-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-tracks-down-on-visible-track-list-lua-2-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12923,7 +12924,7 @@
       ];
     };
     x-raym-move-selected-tracks-down-on-visible-track-list-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-tracks-down-on-visible-track-list-lua-2-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12937,7 +12938,7 @@
       ];
     };
     x-raym-move-selected-tracks-down-to-the-bottom-on-visible-track-list-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-tracks-down-to-the-bottom-on-visible-track-list-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12951,7 +12952,7 @@
       ];
     };
     x-raym-move-selected-tracks-down-to-the-bottom-on-visible-track-list-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-tracks-down-to-the-bottom-on-visible-track-list-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12965,7 +12966,7 @@
       ];
     };
     x-raym-move-selected-tracks-up-on-visible-track-list-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-tracks-up-on-visible-track-list-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12979,7 +12980,7 @@
       ];
     };
     x-raym-move-selected-tracks-up-on-visible-track-list-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-tracks-up-on-visible-track-list-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -12993,7 +12994,7 @@
       ];
     };
     x-raym-move-selected-tracks-up-on-visible-track-list-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-tracks-up-on-visible-track-list-lua-2-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13007,7 +13008,7 @@
       ];
     };
     x-raym-move-selected-tracks-up-to-the-top-of-the-visible-track-list-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-tracks-up-to-the-top-of-the-visible-track-list-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13021,7 +13022,7 @@
       ];
     };
     x-raym-move-selected-tracks-up-to-the-top-of-the-visible-track-list-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-selected-tracks-up-to-the-top-of-the-visible-track-list-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13035,7 +13036,7 @@
       ];
     };
     x-raym-mute-selected-tracks-unmuting-unselected-ones-or-unmute-if-already-muted-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-mute-selected-tracks-unmuting-unselected-ones-or-unmute-if-already-muted-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13049,7 +13050,7 @@
       ];
     };
     x-raym-mute-selected-tracks-unmuting-unselected-ones-or-unmute-if-already-muted-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-mute-selected-tracks-unmuting-unselected-ones-or-unmute-if-already-muted-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13063,7 +13064,7 @@
       ];
     };
     x-raym-rename-and-recolor-tracks-created-by-vordio-from-a-premiere-pro-xml-export-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-and-recolor-tracks-created-by-vordio-from-a-premiere-pro-xml-export-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13077,7 +13078,7 @@
       ];
     };
     x-raym-rename-selected-track-sends-based-on-their-source-track-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-selected-track-sends-based-on-their-source-track-name-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13091,7 +13092,7 @@
       ];
     };
     x-raym-rename-selected-tracks-with-counter-for-child-tracks-and-uppercase-for-parent-tracks-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-selected-tracks-with-counter-for-child-tracks-and-uppercase-for-parent-tracks-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13105,7 +13106,7 @@
       ];
     };
     x-raym-rename-tracks-with-first-vsti-and-its-preset-name-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-tracks-with-first-vsti-and-its-preset-name-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13119,7 +13120,7 @@
       ];
     };
     x-raym-rename-tracks-with-first-vsti-preset-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-tracks-with-first-vsti-preset-name-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13133,7 +13134,7 @@
       ];
     };
     x-raym-rename-tracks-with-first-vsti-preset-name-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-rename-tracks-with-first-vsti-preset-name-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13147,7 +13148,7 @@
       ];
     };
     x-raym-reset-all-tracks-to-default-tcp-height-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-all-tracks-to-default-tcp-height-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13161,7 +13162,7 @@
       ];
     };
     x-raym-restore-all-tracks-visibility-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-restore-all-tracks-visibility-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13175,7 +13176,7 @@
       ];
     };
     x-raym-restore-all-tracks-visibility-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-restore-all-tracks-visibility-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13189,7 +13190,7 @@
       ];
     };
     x-raym-restore-selected-tracks-parameters-grouping-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-restore-selected-tracks-parameters-grouping-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13203,7 +13204,7 @@
       ];
     };
     x-raym-restore-selected-tracks-parameters-grouping-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-restore-selected-tracks-parameters-grouping-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13217,7 +13218,7 @@
       ];
     };
     x-raym-restore-selected-tracks-parameters-grouping-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-restore-selected-tracks-parameters-grouping-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13231,7 +13232,7 @@
       ];
     };
     x-raym-restore-selected-tracks-parameters-grouping-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-restore-selected-tracks-parameters-grouping-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13245,7 +13246,7 @@
       ];
     };
     x-raym-round-selected-tracks-pan-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-round-selected-tracks-pan-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13259,7 +13260,7 @@
       ];
     };
     x-raym-save-all-tracks-visibility-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-save-all-tracks-visibility-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13273,7 +13274,7 @@
       ];
     };
     x-raym-save-all-tracks-visibility-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-save-all-tracks-visibility-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13287,7 +13288,7 @@
       ];
     };
     x-raym-save-selected-tracks-parameters-grouping-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-save-selected-tracks-parameters-grouping-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13301,7 +13302,7 @@
       ];
     };
     x-raym-save-selected-tracks-parameters-grouping-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-save-selected-tracks-parameters-grouping-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13315,7 +13316,7 @@
       ];
     };
     x-raym-save-selected-tracks-parameters-grouping-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-save-selected-tracks-parameters-grouping-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13329,7 +13330,7 @@
       ];
     };
     x-raym-save-selected-tracks-parameters-grouping-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-save-selected-tracks-parameters-grouping-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13343,7 +13344,7 @@
       ];
     };
     x-raym-scroll-vertically-to-track-by-name-and-select-it-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-vertically-to-track-by-name-and-select-it-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13357,7 +13358,7 @@
       ];
     };
     x-raym-scroll-vertically-to-track-by-name-and-select-it-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-vertically-to-track-by-name-and-select-it-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13371,7 +13372,7 @@
       ];
     };
     x-raym-scroll-vertically-to-track-by-name-and-select-it-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-vertically-to-track-by-name-and-select-it-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13385,7 +13386,7 @@
       ];
     };
     x-raym-scroll-vertically-to-track-by-name-and-select-it-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-vertically-to-track-by-name-and-select-it-lua-1-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13399,7 +13400,7 @@
       ];
     };
     x-raym-scroll-vertically-to-track-by-name-and-select-it-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-vertically-to-track-by-name-and-select-it-lua-1-3";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13413,7 +13414,7 @@
       ];
     };
     x-raym-search-and-replace-in-selected-tracks-names-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-selected-tracks-names-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13427,7 +13428,7 @@
       ];
     };
     x-raym-search-and-replace-in-selected-tracks-names-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-selected-tracks-names-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13441,7 +13442,7 @@
       ];
     };
     x-raym-search-and-replace-in-selected-tracks-names-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-search-and-replace-in-selected-tracks-names-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13455,7 +13456,7 @@
       ];
     };
     x-raym-select-all-rec-armed-tracks-and-unselect-the-others-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-all-rec-armed-tracks-and-unselect-the-others-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13469,7 +13470,7 @@
       ];
     };
     x-raym-select-next-visible-track-only-with-conditional-solo-exclusive-eel-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-next-visible-track-only-with-conditional-solo-exclusive-eel-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13483,7 +13484,7 @@
       ];
     };
     x-raym-select-only-tracks-of-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-only-tracks-of-selected-items-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13497,7 +13498,7 @@
       ];
     };
     x-raym-select-only-tracks-with-latch-automation-mode-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-only-tracks-with-latch-automation-mode-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13511,7 +13512,7 @@
       ];
     };
     x-raym-select-only-tracks-with-read-automation-mode-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-only-tracks-with-read-automation-mode-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13525,7 +13526,7 @@
       ];
     };
     x-raym-select-only-tracks-with-touch-automation-mode-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-only-tracks-with-touch-automation-mode-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13539,7 +13540,7 @@
       ];
     };
     x-raym-select-only-tracks-with-trim-automation-mode-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-only-tracks-with-trim-automation-mode-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13553,7 +13554,7 @@
       ];
     };
     x-raym-select-only-tracks-with-write-automation-mode-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-only-tracks-with-write-automation-mode-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13567,7 +13568,7 @@
       ];
     };
     x-raym-select-previous-visible-track-only-with-conditional-solo-exclusive-eel-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-previous-visible-track-only-with-conditional-solo-exclusive-eel-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13581,7 +13582,7 @@
       ];
     };
     x-raym-select-reference-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-reference-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13595,7 +13596,7 @@
       ];
     };
     x-raym-select-track-under-mouse-parent-track-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-track-under-mouse-parent-track-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13609,7 +13610,7 @@
       ];
     };
     x-raym-select-track-under-mouse-top-level-parent-track-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-track-under-mouse-top-level-parent-track-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13623,7 +13624,7 @@
       ];
     };
     x-raym-select-tracks-with-certain-words-in-their-sws-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-tracks-with-certain-words-in-their-sws-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13637,7 +13638,7 @@
       ];
     };
     x-raym-select-tracks-with-certain-words-in-their-sws-notes-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-tracks-with-certain-words-in-their-sws-notes-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13651,7 +13652,7 @@
       ];
     };
     x-raym-select-tracks-with-certain-words-in-their-sws-notes-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-tracks-with-certain-words-in-their-sws-notes-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13665,7 +13666,7 @@
       ];
     };
     x-raym-select-tracks-with-certain-words-in-their-sws-notes-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-tracks-with-certain-words-in-their-sws-notes-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13679,7 +13680,7 @@
       ];
     };
     x-raym-select-tracks-with-dual-pan-mode-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-tracks-with-dual-pan-mode-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13693,7 +13694,7 @@
       ];
     };
     x-raym-select-tracks-with-dual-pan-mode-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-select-tracks-with-dual-pan-mode-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13707,7 +13708,7 @@
       ];
     };
     x-raym-set-or-offset-selected-tracks-volume-pan-and-width-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-or-offset-selected-tracks-volume-pan-and-width-value-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13721,7 +13722,7 @@
       ];
     };
     x-raym-set-parents-tracks-names-to-uppercase-and-childs-ones-to-camelcase-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-parents-tracks-names-to-uppercase-and-childs-ones-to-camelcase-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13735,7 +13736,7 @@
       ];
     };
     x-raym-set-parents-tracks-names-to-uppercase-and-childs-ones-to-camelcase-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-parents-tracks-names-to-uppercase-and-childs-ones-to-camelcase-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13759,7 +13760,7 @@
       ];
     };
     x-raym-set-parents-tracks-names-to-uppercase-and-childs-ones-to-camelcase-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-parents-tracks-names-to-uppercase-and-childs-ones-to-camelcase-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13783,7 +13784,7 @@
       ];
     };
     x-raym-set-parents-tracks-names-to-uppercase-and-childs-ones-to-camelcase-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-parents-tracks-names-to-uppercase-and-childs-ones-to-camelcase-lua-2-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13807,7 +13808,7 @@
       ];
     };
     x-raym-set-selected-tracks-as-reference-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-as-reference-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13821,7 +13822,7 @@
       ];
     };
     x-raym-set-selected-tracks-channels-number-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-channels-number-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13835,7 +13836,7 @@
       ];
     };
     x-raym-set-selected-tracks-record-input-to-x-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-record-input-to-x-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13869,7 +13870,7 @@
       ];
     };
     x-raym-set-selected-tracks-record-input-to-x-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-tracks-record-input-to-x-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13943,7 +13944,7 @@
       ];
     };
     x-raym-set-track-under-mouse-as-last-touched-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-track-under-mouse-as-last-touched-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13957,7 +13958,7 @@
       ];
     };
     x-raym-set-visible-only-tracks-with-items-under-play-or-edit-cursor-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-visible-only-tracks-with-items-under-play-or-edit-cursor-background-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13971,7 +13972,7 @@
       ];
     };
     x-raym-solo-exclusive-selected-tracks-eel-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-solo-exclusive-selected-tracks-eel-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13985,7 +13986,7 @@
       ];
     };
     x-raym-solo-in-place-exclusive-selected-tracks-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-solo-in-place-exclusive-selected-tracks-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -13999,7 +14000,7 @@
       ];
     };
     x-raym-solo-selected-tracks-unsoloing-unselected-ones-or-unsolo-if-already-solo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-solo-selected-tracks-unsoloing-unselected-ones-or-unsolo-if-already-solo-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14013,7 +14014,7 @@
       ];
     };
     x-raym-solo-selected-tracks-unsoloing-unselected-ones-or-unsolo-if-already-solo-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-solo-selected-tracks-unsoloing-unselected-ones-or-unsolo-if-already-solo-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14027,7 +14028,7 @@
       ];
     };
     x-raym-solo-selected-tracks-unsoloing-unselected-ones-or-unsolo-if-already-solo-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-solo-selected-tracks-unsoloing-unselected-ones-or-unsolo-if-already-solo-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14041,7 +14042,7 @@
       ];
     };
     x-raym-sort-all-tracks-alphabetically-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-sort-all-tracks-alphabetically-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14055,7 +14056,7 @@
       ];
     };
     x-raym-sort-all-tracks-alphabetically-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-sort-all-tracks-alphabetically-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14069,7 +14070,7 @@
       ];
     };
     x-raym-sort-all-tracks-alphabetically-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-sort-all-tracks-alphabetically-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14083,7 +14084,7 @@
       ];
     };
     x-raym-sort-all-tracks-alphabetically-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-sort-all-tracks-alphabetically-lua-1-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14097,7 +14098,7 @@
       ];
     };
     x-raym-sort-selected-tracks-order-according-to-their-first-item-positions-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-sort-selected-tracks-order-according-to-their-first-item-positions-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14111,7 +14112,7 @@
       ];
     };
     x-raym-toggle-selected-tracks-solo-no-undo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-selected-tracks-solo-no-undo-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14125,7 +14126,7 @@
       ];
     };
     x-raym-toggle-selected-tracks-solo-no-undo-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-selected-tracks-solo-no-undo-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14139,7 +14140,7 @@
       ];
     };
     x-raym-toggle-solo-exclusive-reference-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-solo-exclusive-reference-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14153,7 +14154,7 @@
       ];
     };
     x-raym-toggle-solo-exclusive-reference-tracks-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-solo-exclusive-reference-tracks-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14167,7 +14168,7 @@
       ];
     };
     x-raym-toggle-solo-reference-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-solo-reference-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14181,7 +14182,7 @@
       ];
     };
     x-raym-toggle-solo-reference-tracks-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-solo-reference-tracks-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14195,7 +14196,7 @@
       ];
     };
     x-raym-toggle-track-compact-state-between-normal-and-tiny-children-copie-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-track-compact-state-between-normal-and-tiny-children-copie-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14209,7 +14210,7 @@
       ];
     };
     x-raym-toggle-track-compact-state-between-normal-and-tiny-children-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-track-compact-state-between-normal-and-tiny-children-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14223,7 +14224,7 @@
       ];
     };
     x-raym-unhide-set-visible-tracks-with-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-unhide-set-visible-tracks-with-items-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14237,7 +14238,7 @@
       ];
     };
     x-raym-unselect-tracks-with-certain-words-in-their-sws-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-unselect-tracks-with-certain-words-in-their-sws-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14251,7 +14252,7 @@
       ];
     };
     x-raym-unselect-tracks-with-certain-words-in-their-sws-notes-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-unselect-tracks-with-certain-words-in-their-sws-notes-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14265,7 +14266,7 @@
       ];
     };
     x-raym-unselect-tracks-with-certain-words-in-their-sws-notes-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-unselect-tracks-with-certain-words-in-their-sws-notes-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Track Properties";
@@ -14279,7 +14280,7 @@
       ];
     };
     x-raym-decrease-master-playrate-by-05-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-decrease-master-playrate-by-05-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14293,7 +14294,7 @@
       ];
     };
     x-raym-decrease-master-playrate-by-05-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-decrease-master-playrate-by-05-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14307,7 +14308,7 @@
       ];
     };
     x-raym-decrease-master-playrate-by-10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-decrease-master-playrate-by-10-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14321,7 +14322,7 @@
       ];
     };
     x-raym-decrease-master-playrate-by-10-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-decrease-master-playrate-by-10-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14335,7 +14336,7 @@
       ];
     };
     x-raym-increase-master-playrate-by-05-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-increase-master-playrate-by-05-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14349,7 +14350,7 @@
       ];
     };
     x-raym-increase-master-playrate-by-10-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-increase-master-playrate-by-10-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14363,7 +14364,7 @@
       ];
     };
     x-raym-increase-decrease-master-playrate-by-x-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-increase-decrease-master-playrate-by-x-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14377,7 +14378,7 @@
       ];
     };
     x-raym-name-selected-tracks-with-their-track-layout-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-name-selected-tracks-with-their-track-layout-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14391,7 +14392,7 @@
       ];
     };
     x-raym-play-first-selected-item-once-from-first-snap-offset-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-play-first-selected-item-once-from-first-snap-offset-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14405,7 +14406,7 @@
       ];
     };
     x-raym-play-first-selected-item-once-from-first-snap-offset-position-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-play-first-selected-item-once-from-first-snap-offset-position-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14419,7 +14420,7 @@
       ];
     };
     x-raym-play-from-mouse-cursor-position-and-solo-track-under-mouse-for-the-duration-and-select-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-play-from-mouse-cursor-position-and-solo-track-under-mouse-for-the-duration-and-select-track-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14433,7 +14434,7 @@
       ];
     };
     x-raym-play-from-mouse-cursor-position-and-solo-track-under-mouse-for-the-duration-and-select-track-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-play-from-mouse-cursor-position-and-solo-track-under-mouse-for-the-duration-and-select-track-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14447,7 +14448,7 @@
       ];
     };
     x-raym-play-from-mouse-cursor-position-and-solo-track-under-mouse-parent-and-select-track-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-play-from-mouse-cursor-position-and-solo-track-under-mouse-parent-and-select-track-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14461,7 +14462,7 @@
       ];
     };
     x-raym-play-from-mouse-cursor-position-and-solo-track-under-mouse-parent-and-select-track-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-play-from-mouse-cursor-position-and-solo-track-under-mouse-parent-and-select-track-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14475,7 +14476,7 @@
       ];
     };
     x-raym-play-selected-items-once-from-first-snap-offset-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-play-selected-items-once-from-first-snap-offset-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14489,7 +14490,7 @@
       ];
     };
     x-raym-play-selected-items-once-from-first-snap-offset-position-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-play-selected-items-once-from-first-snap-offset-position-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14503,7 +14504,7 @@
       ];
     };
     x-raym-record-or-stop-and-rename-newly-created-items-with-clipboard-content-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-record-or-stop-and-rename-newly-created-items-with-clipboard-content-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14517,7 +14518,7 @@
       ];
     };
     x-raym-record-or-stop-and-rename-newly-created-items-with-clipboard-content-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-record-or-stop-and-rename-newly-created-items-with-clipboard-content-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14531,7 +14532,7 @@
       ];
     };
     x-raym-set-master-playrate-to-150-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-master-playrate-to-150-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14545,7 +14546,7 @@
       ];
     };
     x-raym-set-master-playrate-to-200-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-master-playrate-to-200-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14559,7 +14560,7 @@
       ];
     };
     x-raym-set-master-playrate-to-25-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-master-playrate-to-25-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14573,7 +14574,7 @@
       ];
     };
     x-raym-set-master-playrate-to-30-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-master-playrate-to-30-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14587,7 +14588,7 @@
       ];
     };
     x-raym-set-master-playrate-to-40-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-master-playrate-to-40-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14601,7 +14602,7 @@
       ];
     };
     x-raym-set-master-playrate-to-50-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-master-playrate-to-50-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14615,7 +14616,7 @@
       ];
     };
     x-raym-set-master-playrate-to-60-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-master-playrate-to-60-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14629,7 +14630,7 @@
       ];
     };
     x-raym-set-master-playrate-to-70-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-master-playrate-to-70-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14643,7 +14644,7 @@
       ];
     };
     x-raym-set-master-playrate-to-75-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-master-playrate-to-75-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14657,7 +14658,7 @@
       ];
     };
     x-raym-set-master-playrate-to-80-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-master-playrate-to-80-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14671,7 +14672,7 @@
       ];
     };
     x-raym-set-master-playrate-to-90-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-master-playrate-to-90-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14685,7 +14686,7 @@
       ];
     };
     x-raym-set-master-playrate-to-x-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-master-playrate-to-x-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14699,7 +14700,7 @@
       ];
     };
     x-raym-snap-edit-cursor-to-nearest-grid-if-snap-is-enabled-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-edit-cursor-to-nearest-grid-if-snap-is-enabled-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14713,7 +14714,7 @@
       ];
     };
     x-raym-snap-edit-cursor-to-nearest-grid-if-snap-is-enabled-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-snap-edit-cursor-to-nearest-grid-if-snap-is-enabled-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14727,7 +14728,7 @@
       ];
     };
     x-raym-solo-exclusive-track-under-mouse-and-play-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-solo-exclusive-track-under-mouse-and-play-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14741,7 +14742,7 @@
       ];
     };
     x-raym-solo-exclusive-track-under-mouse-and-play-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-solo-exclusive-track-under-mouse-and-play-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14755,7 +14756,7 @@
       ];
     };
     x-raym-solo-exclusive-track-under-mouse-and-play-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-solo-exclusive-track-under-mouse-and-play-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14769,7 +14770,7 @@
       ];
     };
     x-raym-solo-in-place-exclusive-track-under-mouse-and-play-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-solo-in-place-exclusive-track-under-mouse-and-play-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14783,7 +14784,7 @@
       ];
     };
     x-raym-solo-in-place-exclusive-track-under-mouse-and-play-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-solo-in-place-exclusive-track-under-mouse-and-play-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14797,7 +14798,7 @@
       ];
     };
     x-raym-solo-in-place-exclusive-track-under-mouse-and-play-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-solo-in-place-exclusive-track-under-mouse-and-play-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14811,7 +14812,7 @@
       ];
     };
     x-raym-toggle-play-from-mouse-cursor-position-and-solo-track-under-mouse-for-the-duration-and-select-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-play-from-mouse-cursor-position-and-solo-track-under-mouse-for-the-duration-and-select-track-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Transport";
@@ -14825,7 +14826,7 @@
       ];
     };
     spk77-x-raym-play-and-recording-clock-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-x-raym-play-and-recording-clock-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -14839,7 +14840,7 @@
       ];
     };
     spk77-x-raym-play-and-recording-clock-eel-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-x-raym-play-and-recording-clock-eel-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -14853,7 +14854,7 @@
       ];
     };
     spk77-x-raym-play-and-recording-clock-eel-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "spk77-x-raym-play-and-recording-clock-eel-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -14867,7 +14868,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -14881,7 +14882,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -14895,7 +14896,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -14909,7 +14910,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -14923,7 +14924,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-2-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-2-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -14937,7 +14938,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-2-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-2-0-4";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -14951,7 +14952,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-2-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-2-0-5";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -14965,7 +14966,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-2-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-2-0-6";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -14979,7 +14980,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-2-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-2-0-7";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -14993,7 +14994,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-2-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-2-0-8";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15007,7 +15008,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-2-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-2-0-9";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15021,7 +15022,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15035,7 +15036,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-2-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15049,7 +15050,7 @@
       ];
     };
     x-raym-change-last-touched-track-layout-background-lua-2-1-2_2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-2-1-2_2";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15063,7 +15064,7 @@
       ];
     };
     x-raym-change-transport-theme-element-background-color-according-to-ripple-state-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-transport-theme-element-background-color-according-to-ripple-state-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15077,7 +15078,7 @@
       ];
     };
     x-raym-change-transport-theme-element-background-color-according-to-ripple-state-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-change-transport-theme-element-background-color-according-to-ripple-state-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15091,7 +15092,7 @@
       ];
     };
     x-raym-click-at-x-y-screen-position-relative-to-focused-window-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-click-at-x-y-screen-position-relative-to-focused-window-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15120,7 +15121,7 @@
       ];
     };
     x-raym-click-at-x-y-screen-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-click-at-x-y-screen-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15149,7 +15150,7 @@
       ];
     };
     x-raym-click-at-x-y-screen-position-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-click-at-x-y-screen-position-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15178,7 +15179,7 @@
       ];
     };
     x-raym-click-at-x-y-screen-position-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-click-at-x-y-screen-position-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15207,7 +15208,7 @@
       ];
     };
     x-raym-copy-filtered-action-names-list-to-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-filtered-action-names-list-to-clipboard-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15221,7 +15222,7 @@
       ];
     };
     x-raym-copy-filtered-action-names-list-to-clipboard-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-copy-filtered-action-names-list-to-clipboard-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15235,7 +15236,7 @@
       ];
     };
     x-raym-detect-selected-and-master-tracks-clips-peaks-over-0db-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-detect-selected-and-master-tracks-clips-peaks-over-0db-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15249,7 +15250,7 @@
       ];
     };
     x-raym-display-script-infos-in-the-console-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-display-script-infos-in-the-console-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15263,7 +15264,7 @@
       ];
     };
     x-raym-duplicate-lines-in-clipboard-content-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-duplicate-lines-in-clipboard-content-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15277,7 +15278,7 @@
       ];
     };
     x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15291,7 +15292,7 @@
       ];
     };
     x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15305,7 +15306,7 @@
       ];
     };
     x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15319,7 +15320,7 @@
       ];
     };
     x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15333,7 +15334,7 @@
       ];
     };
     x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-4";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15347,7 +15348,7 @@
       ];
     };
     x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-5";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15361,7 +15362,7 @@
       ];
     };
     x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-6";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15375,7 +15376,7 @@
       ];
     };
     x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-7";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15389,7 +15390,7 @@
       ];
     };
     x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-8";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15403,7 +15404,7 @@
       ];
     };
     x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-9";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15417,7 +15418,7 @@
       ];
     };
     x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-10";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15431,7 +15432,7 @@
       ];
     };
     x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-11";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15445,7 +15446,7 @@
       ];
     };
     x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-12";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15459,7 +15460,7 @@
       ];
     };
     x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-export-first-selected-track-midi-as-ultrastar-txt-file-lua-1-0-13";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15473,7 +15474,7 @@
       ];
     };
     x-raym-focus-sws-notes-window-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-focus-sws-notes-window-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15487,7 +15488,7 @@
       ];
     };
     x-raym-generate-a-combination-of-three-random-words-to-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-generate-a-combination-of-three-random-words-to-clipboard-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15501,7 +15502,7 @@
       ];
     };
     x-raym-generate-a-combination-of-three-random-words-to-clipboard-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-generate-a-combination-of-three-random-words-to-clipboard-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15515,7 +15516,7 @@
       ];
     };
     x-raym-generate-a-combination-of-three-random-words-to-clipboard-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-generate-a-combination-of-three-random-words-to-clipboard-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15529,7 +15530,7 @@
       ];
     };
     x-raym-import-ultrastar-txt-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-ultrastar-txt-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15543,7 +15544,7 @@
       ];
     };
     x-raym-import-ultrastar-txt-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-ultrastar-txt-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15557,7 +15558,7 @@
       ];
     };
     x-raym-import-ultrastar-txt-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-ultrastar-txt-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15571,7 +15572,7 @@
       ];
     };
     x-raym-import-ultrastar-txt-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-ultrastar-txt-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15585,7 +15586,7 @@
       ];
     };
     x-raym-import-ultrastar-txt-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-ultrastar-txt-lua-1-0-4";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15599,7 +15600,7 @@
       ];
     };
     x-raym-import-ultrastar-txt-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-ultrastar-txt-lua-1-0-5";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15613,7 +15614,7 @@
       ];
     };
     x-raym-import-ultrastar-txt-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-ultrastar-txt-lua-1-0-6";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15627,7 +15628,7 @@
       ];
     };
     x-raym-import-ultrastar-txt-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-ultrastar-txt-lua-1-0-7";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15641,7 +15642,7 @@
       ];
     };
     x-raym-import-ultrastar-txt-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-ultrastar-txt-lua-1-0-8";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15655,7 +15656,7 @@
       ];
     };
     x-raym-import-ultrastar-txt-lua-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-ultrastar-txt-lua-1-0-9";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15669,7 +15670,7 @@
       ];
     };
     x-raym-import-ultrastar-txt-lua-1-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-import-ultrastar-txt-lua-1-0-10";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15683,7 +15684,7 @@
       ];
     };
     x-raym-insert-empty-space-at-edit-cursor-popup-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-empty-space-at-edit-cursor-popup-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15697,7 +15698,7 @@
       ];
     };
     x-raym-insert-empty-space-at-edit-cursor-popup-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-empty-space-at-edit-cursor-popup-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15711,7 +15712,7 @@
       ];
     };
     x-raym-insert-ultrastar-lyrics-from-project-to-items-midi-notes-on-first-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-ultrastar-lyrics-from-project-to-items-midi-notes-on-first-selected-track-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15725,7 +15726,7 @@
       ];
     };
     x-raym-insert-ultrastar-lyrics-from-project-to-items-midi-notes-on-first-selected-track-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-ultrastar-lyrics-from-project-to-items-midi-notes-on-first-selected-track-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15739,7 +15740,7 @@
       ];
     };
     x-raym-insert-ultrastar-lyrics-from-project-to-items-midi-notes-on-first-selected-track-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-ultrastar-lyrics-from-project-to-items-midi-notes-on-first-selected-track-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15753,7 +15754,7 @@
       ];
     };
     x-raym-insert-ultrastar-lyrics-from-project-to-items-midi-notes-on-first-selected-track-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-ultrastar-lyrics-from-project-to-items-midi-notes-on-first-selected-track-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15767,7 +15768,7 @@
       ];
     };
     x-raym-insert-ultrastar-lyrics-from-project-to-items-midi-notes-on-first-selected-track-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-ultrastar-lyrics-from-project-to-items-midi-notes-on-first-selected-track-lua-1-0-4";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15781,7 +15782,7 @@
       ];
     };
     x-raym-insert-ultrastar-lyrics-from-project-to-items-midi-notes-on-first-selected-track-background-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-ultrastar-lyrics-from-project-to-items-midi-notes-on-first-selected-track-background-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15795,7 +15796,7 @@
       ];
     };
     x-raym-insert-ultrastar-lyrics-from-project-to-items-midi-notes-on-first-selected-track-background-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-insert-ultrastar-lyrics-from-project-to-items-midi-notes-on-first-selected-track-background-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15809,7 +15810,7 @@
       ];
     };
     x-raym-intercept-spacebar-key-background-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-intercept-spacebar-key-background-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15823,7 +15824,7 @@
       ];
     };
     x-raym-lua-pattern-viewer-reaimgui-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-lua-pattern-viewer-reaimgui-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15837,7 +15838,7 @@
       ];
     };
     x-raym-lua-pattern-viewer-reaimgui-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-lua-pattern-viewer-reaimgui-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15851,7 +15852,7 @@
       ];
     };
     x-raym-lua-pattern-viewer-reaimgui-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-lua-pattern-viewer-reaimgui-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15865,7 +15866,7 @@
       ];
     };
     x-raym-lua-pattern-viewer-reaimgui-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-lua-pattern-viewer-reaimgui-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15879,7 +15880,7 @@
       ];
     };
     x-raym-lua-pattern-viewer-reaimgui-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-lua-pattern-viewer-reaimgui-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15893,7 +15894,7 @@
       ];
     };
     x-raym-lua-pattern-viewer-reaimgui-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-lua-pattern-viewer-reaimgui-lua-1-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15907,7 +15908,7 @@
       ];
     };
     x-raym-move-edit-cursor-to-time-0-or-to-project-start-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-edit-cursor-to-time-0-or-to-project-start-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15921,7 +15922,7 @@
       ];
     };
     x-raym-move-edit-cursor-to-time-0-or-to-project-start-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-move-edit-cursor-to-time-0-or-to-project-start-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15935,7 +15936,7 @@
       ];
     };
     x-raym-open-project-folder-in-explorer-or-finder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-open-project-folder-in-explorer-or-finder-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15949,7 +15950,7 @@
       ];
     };
     x-raym-open-project-folder-in-explorer-or-finder-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-open-project-folder-in-explorer-or-finder-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15963,7 +15964,7 @@
       ];
     };
     x-raym-open-project-folder-in-explorer-or-finder-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-open-project-folder-in-explorer-or-finder-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15977,7 +15978,7 @@
       ];
     };
     x-raym-open-render-folder-in-explorer-or-finder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-open-render-folder-in-explorer-or-finder-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -15991,7 +15992,7 @@
       ];
     };
     x-raym-open-render-folder-in-explorer-or-finder-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-open-render-folder-in-explorer-or-finder-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16005,7 +16006,7 @@
       ];
     };
     x-raym-open-render-folder-in-explorer-or-finder-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-open-render-folder-in-explorer-or-finder-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16019,7 +16020,7 @@
       ];
     };
     x-raym-open-render-folder-in-explorer-or-finder-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-open-render-folder-in-explorer-or-finder-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16033,7 +16034,7 @@
       ];
     };
     x-raym-open-render-folder-in-explorer-or-finder-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-open-render-folder-in-explorer-or-finder-lua-1-0-4";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16047,7 +16048,7 @@
       ];
     };
     x-raym-remove-content-of-time-selection-preserving-time-selection-and-relative-play-cursor-in-place-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-remove-content-of-time-selection-preserving-time-selection-and-relative-play-cursor-in-place-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16061,7 +16062,7 @@
       ];
     };
     x-raym-remove-content-of-time-selection-preserving-time-selection-and-relative-play-cursor-in-place-eel-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-remove-content-of-time-selection-preserving-time-selection-and-relative-play-cursor-in-place-eel-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16075,7 +16076,7 @@
       ];
     };
     x-raym-render-selected-tracks-individually-through-master-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-render-selected-tracks-individually-through-master-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16089,7 +16090,7 @@
       ];
     };
     x-raym-render-selected-tracks-individually-through-master-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-render-selected-tracks-individually-through-master-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16103,7 +16104,7 @@
       ];
     };
     x-raym-render-selected-tracks-individually-through-master-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-render-selected-tracks-individually-through-master-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16117,7 +16118,7 @@
       ];
     };
     x-raym-render-selected-tracks-individually-through-master-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-render-selected-tracks-individually-through-master-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16131,7 +16132,7 @@
       ];
     };
     x-raym-render-selected-tracks-individually-through-master-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-render-selected-tracks-individually-through-master-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16145,7 +16146,7 @@
       ];
     };
     x-raym-render-selected-tracks-individually-through-master-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-render-selected-tracks-individually-through-master-lua-2-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16159,7 +16160,7 @@
       ];
     };
     x-raym-render-selected-tracks-individually-through-master-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-render-selected-tracks-individually-through-master-lua-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16173,7 +16174,7 @@
       ];
     };
     x-raym-reset-audio-and-midi-devices-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-reset-audio-and-midi-devices-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16187,7 +16188,7 @@
       ];
     };
     x-raym-ripple-check-eel-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-ripple-check-eel-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16201,7 +16202,7 @@
       ];
     };
     x-raym-save-mouse-cursor-x-y-screen-position-relative-to-focused-window-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-save-mouse-cursor-x-y-screen-position-relative-to-focused-window-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16230,7 +16231,7 @@
       ];
     };
     x-raym-save-mouse-cursor-x-y-screen-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-save-mouse-cursor-x-y-screen-position-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16259,7 +16260,7 @@
       ];
     };
     x-raym-save-mouse-cursor-x-y-screen-position-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-save-mouse-cursor-x-y-screen-position-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16288,7 +16289,7 @@
       ];
     };
     x-raym-set-sws-global-startup-action-extstate-value-to-off-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-sws-global-startup-action-extstate-value-to-off-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16302,7 +16303,7 @@
       ];
     };
     x-raym-set-sws-global-startup-action-extstate-value-to-on-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-sws-global-startup-action-extstate-value-to-on-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16316,7 +16317,7 @@
       ];
     };
     x-raym-set-sws-project-startup-action-extstate-value-to-off-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-sws-project-startup-action-extstate-value-to-off-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16330,7 +16331,7 @@
       ];
     };
     x-raym-set-sws-project-startup-action-extstate-value-to-on-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-sws-project-startup-action-extstate-value-to-on-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16344,7 +16345,7 @@
       ];
     };
     x-raym-set-take-item-track-region-marker-color-functions-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-take-item-track-region-marker-color-functions-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16433,7 +16434,7 @@
       ];
     };
     x-raym-set-ultrastar-project-metadata-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-ultrastar-project-metadata-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16447,7 +16448,7 @@
       ];
     };
     x-raym-set-ultrastar-project-metadata-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-set-ultrastar-project-metadata-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16461,7 +16462,7 @@
       ];
     };
     x-raym-state-chunk-editor-reaimgui-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-state-chunk-editor-reaimgui-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16475,7 +16476,7 @@
       ];
     };
     x-raym-state-chunk-editor-reaimgui-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-state-chunk-editor-reaimgui-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16489,7 +16490,7 @@
       ];
     };
     x-raym-state-chunk-editor-reaimgui-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-state-chunk-editor-reaimgui-lua-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16503,7 +16504,7 @@
       ];
     };
     x-raym-toggle-sonarworks-soundid-monitor-fx-instance-calibration-state-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-sonarworks-soundid-monitor-fx-instance-calibration-state-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16517,7 +16518,7 @@
       ];
     };
     x-raym-toggle-sonarworks-soundid-monitor-fx-instance-calibration-state-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-sonarworks-soundid-monitor-fx-instance-calibration-state-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16531,7 +16532,7 @@
       ];
     };
     x-raym-toggle-sonarworks-soundid-monitor-fx-instance-calibration-state-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-sonarworks-soundid-monitor-fx-instance-calibration-state-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16545,7 +16546,7 @@
       ];
     };
     x-raym-xr-reaimgui-themer-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-xr-reaimgui-themer-lua-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16559,7 +16560,7 @@
       ];
     };
     x-raym-xr-reaimgui-themer-lua-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-xr-reaimgui-themer-lua-0-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Various";
@@ -16573,7 +16574,7 @@
       ];
     };
     x-raym-find-and-go-to-next-items-on-selected-tracks-with-input-text-as-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-find-and-go-to-next-items-on-selected-tracks-with-input-text-as-notes-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16587,7 +16588,7 @@
       ];
     };
     x-raym-focus-media-explorer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-focus-media-explorer-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16601,7 +16602,7 @@
       ];
     };
     x-raym-focus-media-explorer-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-focus-media-explorer-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16615,7 +16616,7 @@
       ];
     };
     x-raym-focus-media-explorer-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-focus-media-explorer-lua-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16629,7 +16630,7 @@
       ];
     };
     x-raym-go-and-zoom-to-next-selected-item-without-losing-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-go-and-zoom-to-next-selected-item-without-losing-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16643,7 +16644,7 @@
       ];
     };
     x-raym-go-and-zoom-to-previous-selected-item-without-losing-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-go-and-zoom-to-previous-selected-item-without-losing-selection-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16657,7 +16658,7 @@
       ];
     };
     x-raym-offset-play-cursor-continous-play-position-eel-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-offset-play-cursor-continous-play-position-eel-0-5";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16671,7 +16672,7 @@
       ];
     };
     x-raym-scroll-arrange-view-if-mouse-reaches-reaper-window-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-arrange-view-if-mouse-reaches-reaper-window-edges-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16685,7 +16686,7 @@
       ];
     };
     x-raym-scroll-arrange-view-if-mouse-reaches-reaper-window-edges-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-arrange-view-if-mouse-reaches-reaper-window-edges-lua-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16699,7 +16700,7 @@
       ];
     };
     x-raym-scroll-arrange-view-if-mouse-reaches-reaper-window-edges-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-arrange-view-if-mouse-reaches-reaper-window-edges-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16713,7 +16714,7 @@
       ];
     };
     x-raym-scroll-arrange-view-if-mouse-reaches-reaper-window-edges-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-arrange-view-if-mouse-reaches-reaper-window-edges-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16727,7 +16728,7 @@
       ];
     };
     x-raym-scroll-arrange-view-if-mouse-reaches-reaper-window-edges-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-arrange-view-if-mouse-reaches-reaper-window-edges-lua-1-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16741,7 +16742,7 @@
       ];
     };
     x-raym-scroll-arrange-view-if-mouse-reaches-reaper-window-edges-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-arrange-view-if-mouse-reaches-reaper-window-edges-lua-1-1-3";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16755,7 +16756,7 @@
       ];
     };
     x-raym-scroll-arrange-view-if-mouse-reaches-screen-edges-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-arrange-view-if-mouse-reaches-screen-edges-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16769,7 +16770,7 @@
       ];
     };
     x-raym-scroll-arrange-view-if-mouse-reaches-screen-edges-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-arrange-view-if-mouse-reaches-screen-edges-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16783,7 +16784,7 @@
       ];
     };
     x-raym-scroll-arrange-view-if-mouse-reaches-screen-edges-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-arrange-view-if-mouse-reaches-screen-edges-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16797,7 +16798,7 @@
       ];
     };
     x-raym-scroll-arrange-view-if-mouse-reaches-screen-edges-lua-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-arrange-view-if-mouse-reaches-screen-edges-lua-1-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16811,7 +16812,7 @@
       ];
     };
     x-raym-scroll-arrange-view-if-mouse-reaches-screen-edges-lua-1-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-arrange-view-if-mouse-reaches-screen-edges-lua-1-2-2";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16825,7 +16826,7 @@
       ];
     };
     x-raym-scroll-arrange-view-if-mouse-reaches-screen-edges-lua-1-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-arrange-view-if-mouse-reaches-screen-edges-lua-1-2-3";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16839,7 +16840,7 @@
       ];
     };
     x-raym-scroll-arrange-view-if-mouse-reaches-screen-edges-lua-1-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-arrange-view-if-mouse-reaches-screen-edges-lua-1-2-4";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16853,7 +16854,7 @@
       ];
     };
     x-raym-scroll-vertically-down-a-little-bit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-vertically-down-a-little-bit-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16867,7 +16868,7 @@
       ];
     };
     x-raym-scroll-vertically-to-first-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-vertically-to-first-selected-track-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16881,7 +16882,7 @@
       ];
     };
     x-raym-scroll-vertically-up-a-little-bit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scroll-vertically-up-a-little-bit-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16895,7 +16896,7 @@
       ];
     };
     x-raym-toggle-video-window-full-screen-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-video-window-full-screen-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16909,7 +16910,7 @@
       ];
     };
     x-raym-toggle-video-window-opacity-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-toggle-video-window-opacity-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16923,7 +16924,7 @@
       ];
     };
     x-raym-zoom-to-region-at-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-zoom-to-region-at-edit-cursor-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "View";
@@ -16937,7 +16938,7 @@
       ];
     };
     x-raym-convert-first-selected-track-items-notes-for-scrolling-web-browser-interface-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-first-selected-track-items-notes-for-scrolling-web-browser-interface-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -16951,7 +16952,7 @@
       ];
     };
     x-raym-convert-lyrics-track-items-notes-for-dedicated-web-browser-interface-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-lyrics-track-items-notes-for-dedicated-web-browser-interface-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -16965,7 +16966,7 @@
       ];
     };
     x-raym-convert-lyrics-track-items-notes-for-dedicated-web-browser-interface-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-lyrics-track-items-notes-for-dedicated-web-browser-interface-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -16979,7 +16980,7 @@
       ];
     };
     x-raym-convert-lyrics-track-items-notes-for-dedicated-web-browser-interface-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-lyrics-track-items-notes-for-dedicated-web-browser-interface-lua-1-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -16993,7 +16994,7 @@
       ];
     };
     x-raym-convert-lyrics-track-items-notes-for-dedicated-web-browser-interface-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-lyrics-track-items-notes-for-dedicated-web-browser-interface-lua-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -17007,7 +17008,7 @@
       ];
     };
     x-raym-convert-region-names-for-dedicated-web-browser-interface-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-region-names-for-dedicated-web-browser-interface-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -17021,7 +17022,7 @@
       ];
     };
     x-raym-convert-region-names-for-dedicated-web-browser-interface-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-region-names-for-dedicated-web-browser-interface-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -17035,7 +17036,7 @@
       ];
     };
     x-raym-convert-region-subtitles-for-dedicated-web-browser-interface-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-region-subtitles-for-dedicated-web-browser-interface-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -17049,7 +17050,7 @@
       ];
     };
     x-raym-convert-region-subtitles-for-dedicated-web-browser-interface-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-convert-region-subtitles-for-dedicated-web-browser-interface-lua-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -17063,7 +17064,7 @@
       ];
     };
     x-raym-lyrics-www-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-lyrics-www-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -17077,7 +17078,7 @@
       ];
     };
     x-raym-lyrics-www-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-lyrics-www-1-1";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -17091,7 +17092,7 @@
       ];
     };
     x-raym-lyrics-www-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-lyrics-www-1-2";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -17105,7 +17106,7 @@
       ];
     };
     x-raym-lyrics-www-1-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-lyrics-www-1-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -17119,7 +17120,7 @@
       ];
     };
     x-raym-lyrics-www-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-lyrics-www-1-3";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -17133,7 +17134,7 @@
       ];
     };
     x-raym-lyrics-www-1-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-lyrics-www-1-4-1";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -17147,7 +17148,7 @@
       ];
     };
     x-raym-scrolling-lyrics-www-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scrolling-lyrics-www-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -17161,7 +17162,7 @@
       ];
     };
     x-raym-scrolling-lyrics-www-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scrolling-lyrics-www-1-0-1";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -17175,7 +17176,7 @@
       ];
     };
     x-raym-scrolling-lyrics-www-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scrolling-lyrics-www-1-0-2";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";
@@ -17189,7 +17190,7 @@
       ];
     };
     x-raym-scrolling-lyrics-www-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "x-raym-scrolling-lyrics-www-1-0-3";
       indexName = "X-Raym Scripts";
       categoryName = "Web Interfaces";

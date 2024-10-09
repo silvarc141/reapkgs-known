@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   chokehold-jsfx = {
     clipping-algorithm-comparison-jsfx-1-8-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "clipping-algorithm-comparison-jsfx-1-8-3";
       indexName = "chokehold JSFX";
       categoryName = "Clipper";
@@ -19,7 +20,7 @@
       ];
     };
     hard-clipper-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "hard-clipper-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Clipper";
@@ -33,7 +34,7 @@
       ];
     };
     knee-clipper-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "knee-clipper-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Clipper";
@@ -47,7 +48,7 @@
       ];
     };
     knee-clipper-jsfx-1-8-2a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "knee-clipper-jsfx-1-8-2a";
       indexName = "chokehold JSFX";
       categoryName = "Clipper";
@@ -61,7 +62,7 @@
       ];
     };
     knee-clipper-jsfx-1-8-2b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "knee-clipper-jsfx-1-8-2b";
       indexName = "chokehold JSFX";
       categoryName = "Clipper";
@@ -75,7 +76,7 @@
       ];
     };
     sine-clipper-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sine-clipper-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Clipper";
@@ -89,7 +90,7 @@
       ];
     };
     soft-clipper-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "soft-clipper-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Clipper";
@@ -103,7 +104,7 @@
       ];
     };
     staging-clipper-jsfx-1-8-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "staging-clipper-jsfx-1-8-3";
       indexName = "chokehold JSFX";
       categoryName = "Clipper";
@@ -117,7 +118,7 @@
       ];
     };
     foldback-distortion-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "foldback-distortion-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Distortion";
@@ -131,7 +132,7 @@
       ];
     };
     bus-comp-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bus-comp-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Dynamics";
@@ -145,7 +146,7 @@
       ];
     };
     consolidator-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "consolidator-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Dynamics";
@@ -159,7 +160,7 @@
       ];
     };
     gate-expander-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "gate-expander-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Dynamics";
@@ -173,7 +174,7 @@
       ];
     };
     track-comp-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "track-comp-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Dynamics";
@@ -187,7 +188,7 @@
       ];
     };
     eq-560-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "eq-560-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Equalizer";
@@ -201,7 +202,7 @@
       ];
     };
     dc-filter-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dc-filter-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Filter";
@@ -215,7 +216,7 @@
       ];
     };
     filthy-delay-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filthy-delay-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "FX";
@@ -229,7 +230,7 @@
       ];
     };
     ring-mod-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "ring-mod-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "FX";
@@ -243,7 +244,7 @@
       ];
     };
     test-signals-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "test-signals-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Generator";
@@ -257,7 +258,7 @@
       ];
     };
     amp-sim-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "amp-sim-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Instrument FX";
@@ -271,7 +272,7 @@
       ];
     };
     bass-squeezer-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bass-squeezer-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Instrument FX";
@@ -285,7 +286,7 @@
       ];
     };
     cabinet-sim-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "cabinet-sim-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Instrument FX";
@@ -299,7 +300,7 @@
       ];
     };
     chug-thug-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "chug-thug-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Instrument FX";
@@ -313,7 +314,7 @@
       ];
     };
     mic-combiner-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "mic-combiner-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Instrument FX";
@@ -327,7 +328,7 @@
       ];
     };
     signal-crusher-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "signal-crusher-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Lo-Fi";
@@ -341,7 +342,7 @@
       ];
     };
     telephone-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "telephone-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Lo-Fi";
@@ -355,7 +356,7 @@
       ];
     };
     correlation-meter-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "correlation-meter-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Metering";
@@ -369,7 +370,7 @@
       ];
     };
     phase-scope-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "phase-scope-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Metering";
@@ -383,7 +384,7 @@
       ];
     };
     stereo-checker-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-checker-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Metering";
@@ -397,7 +398,7 @@
       ];
     };
     wave-scope-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "wave-scope-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Metering";
@@ -411,7 +412,7 @@
       ];
     };
     wave-scope-jsfx-1-8-2a = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "wave-scope-jsfx-1-8-2a";
       indexName = "chokehold JSFX";
       categoryName = "Metering";
@@ -425,7 +426,7 @@
       ];
     };
     wave-scope-jsfx-1-8-2b = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "wave-scope-jsfx-1-8-2b";
       indexName = "chokehold JSFX";
       categoryName = "Metering";
@@ -439,7 +440,7 @@
       ];
     };
     wave-scope-jsfx-1-8-2c = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "wave-scope-jsfx-1-8-2c";
       indexName = "chokehold JSFX";
       categoryName = "Metering";
@@ -453,7 +454,7 @@
       ];
     };
     midi-chord-trigger-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "midi-chord-trigger-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "MIDI";
@@ -467,7 +468,7 @@
       ];
     };
     interpolated-noise-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "interpolated-noise-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Noise";
@@ -481,7 +482,7 @@
       ];
     };
     reference-noise-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reference-noise-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Noise";
@@ -495,7 +496,7 @@
       ];
     };
     m-s-fader-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "m-s-fader-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Stereo";
@@ -509,7 +510,7 @@
       ];
     };
     stereo-bleed-remover-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-bleed-remover-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Stereo";
@@ -523,7 +524,7 @@
       ];
     };
     stereo-pan-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "stereo-pan-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Stereo";
@@ -537,7 +538,7 @@
       ];
     };
     dc-offset-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "dc-offset-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Utility";
@@ -551,7 +552,7 @@
       ];
     };
     impulse-generator-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "impulse-generator-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Utility";
@@ -565,7 +566,7 @@
       ];
     };
     volume-range-trim-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "volume-range-trim-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Utility";
@@ -579,7 +580,7 @@
       ];
     };
     volume-trim-jsfx-1-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "volume-trim-jsfx-1-8-2";
       indexName = "chokehold JSFX";
       categoryName = "Utility";

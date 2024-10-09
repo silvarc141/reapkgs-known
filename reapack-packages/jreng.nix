@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   jreng = {
     jreng-cog-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jreng-cog-lua-1-0";
       indexName = "JRENG!";
       categoryName = "MIDI/COG";
@@ -19,7 +20,7 @@
       ];
     };
     jreng-colorize-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "jreng-colorize-lua-1-0";
       indexName = "JRENG!";
       categoryName = "Utility";

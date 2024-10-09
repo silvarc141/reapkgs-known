@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   sexan-scripts = {
     sexan-track-versions-gui-lua-0-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-track-versions-gui-lua-0-0-1";
       indexName = "Sexan_Scripts";
       categoryName = "Alpha";
@@ -24,7 +25,7 @@
       ];
     };
     sexan-track-versions-gui-lua-0-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-track-versions-gui-lua-0-0-2";
       indexName = "Sexan_Scripts";
       categoryName = "Alpha";
@@ -43,7 +44,7 @@
       ];
     };
     sexan-track-versions-gui-lua-0-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-track-versions-gui-lua-0-0-3";
       indexName = "Sexan_Scripts";
       categoryName = "Alpha";
@@ -62,7 +63,7 @@
       ];
     };
     sexan-track-versions-gui-lua-0-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-track-versions-gui-lua-0-0-4";
       indexName = "Sexan_Scripts";
       categoryName = "Alpha";
@@ -81,7 +82,7 @@
       ];
     };
     sexan-track-versions-gui-lua-0-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-track-versions-gui-lua-0-0-5";
       indexName = "Sexan_Scripts";
       categoryName = "Alpha";
@@ -100,7 +101,7 @@
       ];
     };
     sexan-track-versions-gui-lua-0-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-track-versions-gui-lua-0-0-6";
       indexName = "Sexan_Scripts";
       categoryName = "Alpha";
@@ -119,7 +120,7 @@
       ];
     };
     sexan-track-versions-gui-lua-0-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-track-versions-gui-lua-0-0-7";
       indexName = "Sexan_Scripts";
       categoryName = "Alpha";
@@ -138,7 +139,7 @@
       ];
     };
     reaperdefinitionsgenerator-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaperdefinitionsgenerator-lua-1-0";
       indexName = "Sexan_Scripts";
       categoryName = "ApiParser";
@@ -152,7 +153,7 @@
       ];
     };
     reaperdefinitionsgenerator-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaperdefinitionsgenerator-lua-1-01";
       indexName = "Sexan_Scripts";
       categoryName = "ApiParser";
@@ -166,7 +167,7 @@
       ];
     };
     reaperdefinitionsgenerator-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaperdefinitionsgenerator-lua-1-02";
       indexName = "Sexan_Scripts";
       categoryName = "ApiParser";
@@ -180,7 +181,7 @@
       ];
     };
     reaperdefinitionsgenerator-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaperdefinitionsgenerator-lua-1-03";
       indexName = "Sexan_Scripts";
       categoryName = "ApiParser";
@@ -194,7 +195,7 @@
       ];
     };
     reaperdefinitionsgenerator-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaperdefinitionsgenerator-lua-1-04";
       indexName = "Sexan_Scripts";
       categoryName = "ApiParser";
@@ -208,7 +209,7 @@
       ];
     };
     reaperdefinitionsgenerator-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "reaperdefinitionsgenerator-lua-1-05";
       indexName = "Sexan_Scripts";
       categoryName = "ApiParser";
@@ -222,7 +223,7 @@
       ];
     };
     area-51-rw-lua-0-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-01";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -271,7 +272,7 @@
       ];
     };
     area-51-rw-lua-0-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-02";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -320,7 +321,7 @@
       ];
     };
     area-51-rw-lua-0-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-03";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -369,7 +370,7 @@
       ];
     };
     area-51-rw-lua-0-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-04";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -418,7 +419,7 @@
       ];
     };
     area-51-rw-lua-0-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-05";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -467,7 +468,7 @@
       ];
     };
     area-51-rw-lua-0-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-06";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -516,7 +517,7 @@
       ];
     };
     area-51-rw-lua-0-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-07";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -565,7 +566,7 @@
       ];
     };
     area-51-rw-lua-0-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-08";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -614,7 +615,7 @@
       ];
     };
     area-51-rw-lua-0-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-09";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -663,7 +664,7 @@
       ];
     };
     area-51-rw-lua-0-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-10";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -712,7 +713,7 @@
       ];
     };
     area-51-rw-lua-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-11";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -761,7 +762,7 @@
       ];
     };
     area-51-rw-lua-0-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-12";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -810,7 +811,7 @@
       ];
     };
     area-51-rw-lua-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-13";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -859,7 +860,7 @@
       ];
     };
     area-51-rw-lua-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-14";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -908,7 +909,7 @@
       ];
     };
     area-51-rw-lua-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-15";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -957,7 +958,7 @@
       ];
     };
     area-51-rw-lua-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-16";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1006,7 +1007,7 @@
       ];
     };
     area-51-rw-lua-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-17";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1055,7 +1056,7 @@
       ];
     };
     area-51-rw-lua-0-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-18";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1104,7 +1105,7 @@
       ];
     };
     area-51-rw-lua-0-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-19";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1153,7 +1154,7 @@
       ];
     };
     area-51-rw-lua-0-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-20";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1202,7 +1203,7 @@
       ];
     };
     area-51-rw-lua-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-21";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1251,7 +1252,7 @@
       ];
     };
     area-51-rw-lua-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-22";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1300,7 +1301,7 @@
       ];
     };
     area-51-rw-lua-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-23";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1349,7 +1350,7 @@
       ];
     };
     area-51-rw-lua-0-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-24";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1398,7 +1399,7 @@
       ];
     };
     area-51-rw-lua-0-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-25";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1447,7 +1448,7 @@
       ];
     };
     area-51-rw-lua-0-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-26";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1496,7 +1497,7 @@
       ];
     };
     area-51-rw-lua-0-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-27";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1545,7 +1546,7 @@
       ];
     };
     area-51-rw-lua-0-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-28";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1594,7 +1595,7 @@
       ];
     };
     area-51-rw-lua-0-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-29";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1643,7 +1644,7 @@
       ];
     };
     area-51-rw-lua-0-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-30";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1692,7 +1693,7 @@
       ];
     };
     area-51-rw-lua-0-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-31";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1741,7 +1742,7 @@
       ];
     };
     area-51-rw-lua-0-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-32";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1790,7 +1791,7 @@
       ];
     };
     area-51-rw-lua-0-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-33";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1839,7 +1840,7 @@
       ];
     };
     area-51-rw-lua-0-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-34";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1888,7 +1889,7 @@
       ];
     };
     area-51-rw-lua-0-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-35";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1937,7 +1938,7 @@
       ];
     };
     area-51-rw-lua-0-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-36";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -1986,7 +1987,7 @@
       ];
     };
     area-51-rw-lua-0-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-37";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -2035,7 +2036,7 @@
       ];
     };
     area-51-rw-lua-0-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-38";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -2084,7 +2085,7 @@
       ];
     };
     area-51-rw-lua-0-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-39";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -2133,7 +2134,7 @@
       ];
     };
     area-51-rw-lua-0-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "area-51-rw-lua-0-40";
       indexName = "Sexan_Scripts";
       categoryName = "Area51";
@@ -2182,7 +2183,7 @@
       ];
     };
     edit-groups-lua-0-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "edit-groups-lua-0-39";
       indexName = "Sexan_Scripts";
       categoryName = "Edit_Groups";
@@ -2201,7 +2202,7 @@
       ];
     };
     sexan-fx-browser-parser-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parser-lua-1-0";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2215,7 +2216,7 @@
       ];
     };
     sexan-fx-browser-parser-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parser-lua-1-1";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2229,7 +2230,7 @@
       ];
     };
     sexan-fx-browser-parser-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parser-lua-1-2";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2243,7 +2244,7 @@
       ];
     };
     sexan-fx-browser-parser-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parser-lua-1-3";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2257,7 +2258,7 @@
       ];
     };
     sexan-fx-browser-parser-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parser-lua-1-4";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2271,7 +2272,7 @@
       ];
     };
     sexan-fx-browser-parser-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parser-lua-1-5";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2285,7 +2286,7 @@
       ];
     };
     sexan-fx-browser-parser-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parser-lua-1-6";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2299,7 +2300,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-0";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2313,7 +2314,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-1";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2327,7 +2328,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-2";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2341,7 +2342,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-4";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2355,7 +2356,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-5";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2369,7 +2370,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-6";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2383,7 +2384,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-7";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2397,7 +2398,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-8";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2411,7 +2412,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-9";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2425,7 +2426,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-10";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2439,7 +2440,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-12";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2453,7 +2454,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-13";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2467,7 +2468,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-14";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2481,7 +2482,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-15";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2495,7 +2496,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-17";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2509,7 +2510,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-18";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2523,7 +2524,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-19";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2537,7 +2538,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-20";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2551,7 +2552,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-21";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2565,7 +2566,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-22";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2579,7 +2580,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-23";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2593,7 +2594,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-24";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2607,7 +2608,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-25";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2621,7 +2622,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-26";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2635,7 +2636,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-27";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2649,7 +2650,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-28";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2663,7 +2664,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-29";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2677,7 +2678,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-30";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2691,7 +2692,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-31";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2705,7 +2706,7 @@
       ];
     };
     sexan-fx-browser-parserv7-lua-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-fx-browser-parserv7-lua-1-32";
       indexName = "Sexan_Scripts";
       categoryName = "FX";
@@ -2719,7 +2720,7 @@
       ];
     };
     filemanager-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filemanager-lua-1-0";
       indexName = "Sexan_Scripts";
       categoryName = "ImGui_Tools";
@@ -2733,7 +2734,7 @@
       ];
     };
     filemanager-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filemanager-lua-1-01";
       indexName = "Sexan_Scripts";
       categoryName = "ImGui_Tools";
@@ -2747,7 +2748,7 @@
       ];
     };
     filemanager-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "filemanager-lua-1-02";
       indexName = "Sexan_Scripts";
       categoryName = "ImGui_Tools";
@@ -2761,7 +2762,7 @@
       ];
     };
     sexan-chunk-viewer-lua-1-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-chunk-viewer-lua-1-00";
       indexName = "Sexan_Scripts";
       categoryName = "ImGui_Tools";
@@ -2775,7 +2776,7 @@
       ];
     };
     sexan-chunk-viewer-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-chunk-viewer-lua-1-01";
       indexName = "Sexan_Scripts";
       categoryName = "ImGui_Tools";
@@ -2789,7 +2790,7 @@
       ];
     };
     sexan-select-all-other-items-on-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-select-all-other-items-on-track-lua-1-1";
       indexName = "Sexan_Scripts";
       categoryName = "Items";
@@ -2803,7 +2804,7 @@
       ];
     };
     sexan-select-all-other-items-on-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-select-all-other-items-on-track-lua-1-0";
       indexName = "Sexan_Scripts";
       categoryName = "Items";
@@ -2817,7 +2818,7 @@
       ];
     };
     sexan-select-all-other-items-on-track-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-select-all-other-items-on-track-lua-1-11";
       indexName = "Sexan_Scripts";
       categoryName = "Items";
@@ -2831,7 +2832,7 @@
       ];
     };
     sexan-select-all-other-items-on-track-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-select-all-other-items-on-track-lua-1-12";
       indexName = "Sexan_Scripts";
       categoryName = "Items";
@@ -2845,7 +2846,7 @@
       ];
     };
     sexan-select-all-other-items-on-track-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-select-all-other-items-on-track-lua-1-13";
       indexName = "Sexan_Scripts";
       categoryName = "Items";
@@ -2859,7 +2860,7 @@
       ];
     };
     sexan-set-item-and-take-volume-of-previous-odd-to-next-even-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-set-item-and-take-volume-of-previous-odd-to-next-even-items-lua-1-0";
       indexName = "Sexan_Scripts";
       categoryName = "Items";
@@ -2873,7 +2874,7 @@
       ];
     };
     sexan-set-item-and-take-volume-of-previous-odd-to-next-even-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-set-item-and-take-volume-of-previous-odd-to-next-even-items-lua-1-1";
       indexName = "Sexan_Scripts";
       categoryName = "Items";
@@ -2887,7 +2888,7 @@
       ];
     };
     sexan-set-item-and-take-volume-of-previous-odd-to-next-even-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-set-item-and-take-volume-of-previous-odd-to-next-even-items-lua-1-2";
       indexName = "Sexan_Scripts";
       categoryName = "Items";
@@ -2901,7 +2902,7 @@
       ];
     };
     sexan-set-item-and-take-volume-of-previous-odd-to-next-even-items-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-set-item-and-take-volume-of-previous-odd-to-next-even-items-lua-1-3";
       indexName = "Sexan_Scripts";
       categoryName = "Items";
@@ -2915,7 +2916,7 @@
       ];
     };
     sexan-smartsplit-items-crossfade-left-or-right-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-smartsplit-items-crossfade-left-or-right-lua-1-01";
       indexName = "Sexan_Scripts";
       categoryName = "Items";
@@ -2929,7 +2930,7 @@
       ];
     };
     lil-item-homie-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-item-homie-lua-1-0";
       indexName = "Sexan_Scripts";
       categoryName = "Lil_Series";
@@ -2943,7 +2944,7 @@
       ];
     };
     lil-item-homie-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-item-homie-lua-1-1";
       indexName = "Sexan_Scripts";
       categoryName = "Lil_Series";
@@ -2957,7 +2958,7 @@
       ];
     };
     lil-item-homie-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-item-homie-lua-1-2";
       indexName = "Sexan_Scripts";
       categoryName = "Lil_Series";
@@ -2971,7 +2972,7 @@
       ];
     };
     lil-item-homie-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-item-homie-lua-1-21";
       indexName = "Sexan_Scripts";
       categoryName = "Lil_Series";
@@ -2985,7 +2986,7 @@
       ];
     };
     lil-item-homie-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-item-homie-lua-1-22";
       indexName = "Sexan_Scripts";
       categoryName = "Lil_Series";
@@ -2999,7 +3000,7 @@
       ];
     };
     lil-item-homie-lua-1-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-item-homie-lua-1-23";
       indexName = "Sexan_Scripts";
       categoryName = "Lil_Series";
@@ -3013,7 +3014,7 @@
       ];
     };
     lil-item-homie-lua-1-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-item-homie-lua-1-24";
       indexName = "Sexan_Scripts";
       categoryName = "Lil_Series";
@@ -3027,7 +3028,7 @@
       ];
     };
     lil-track-homie-lua-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-track-homie-lua-1-9";
       indexName = "Sexan_Scripts";
       categoryName = "Lil_Series";
@@ -3041,7 +3042,7 @@
       ];
     };
     lil-track-homie-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-track-homie-lua-1-10";
       indexName = "Sexan_Scripts";
       categoryName = "Lil_Series";
@@ -3055,7 +3056,7 @@
       ];
     };
     lil-track-homie-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-track-homie-lua-1-11";
       indexName = "Sexan_Scripts";
       categoryName = "Lil_Series";
@@ -3069,7 +3070,7 @@
       ];
     };
     lil-track-homie-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-track-homie-lua-1-12";
       indexName = "Sexan_Scripts";
       categoryName = "Lil_Series";
@@ -3083,7 +3084,7 @@
       ];
     };
     lil-track-homie-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-track-homie-lua-1-13";
       indexName = "Sexan_Scripts";
       categoryName = "Lil_Series";
@@ -3097,7 +3098,7 @@
       ];
     };
     lil-track-homie-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "lil-track-homie-lua-1-14";
       indexName = "Sexan_Scripts";
       categoryName = "Lil_Series";
@@ -3111,7 +3112,7 @@
       ];
     };
     sexan-remove-in-order-time-selection-items-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-remove-in-order-time-selection-items-tracks-lua-1-01";
       indexName = "Sexan_Scripts";
       categoryName = "Other";
@@ -3125,7 +3126,7 @@
       ];
     };
     sexan-show-midi-note-name-in-tooltip-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-show-midi-note-name-in-tooltip-lua-1-0";
       indexName = "Sexan_Scripts";
       categoryName = "Other";
@@ -3139,7 +3140,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-0";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -3208,7 +3209,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-1";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -3277,7 +3278,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-2";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -3346,7 +3347,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-3";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -3415,7 +3416,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-4";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -3484,7 +3485,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-5";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -3553,7 +3554,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-6";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -3622,7 +3623,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-7";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -3691,7 +3692,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-8";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -3760,7 +3761,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-9";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -3829,7 +3830,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-10";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -3898,7 +3899,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-11";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -3967,7 +3968,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-12";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -4036,7 +4037,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-13";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -4105,7 +4106,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-14";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -4174,7 +4175,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-15";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -4263,7 +4264,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-16";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -4362,7 +4363,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-18";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -4511,7 +4512,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-19";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -4660,7 +4661,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-20";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -4809,7 +4810,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-21";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -4958,7 +4959,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-22";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -5107,7 +5108,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-23";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -5256,7 +5257,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-24";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -5405,7 +5406,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-25";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -5514,7 +5515,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-26";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -5623,7 +5624,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-27";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -5732,7 +5733,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-28";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -5841,7 +5842,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-29";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -5950,7 +5951,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-30";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -6059,7 +6060,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-31";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -6168,7 +6169,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-31-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-31-1";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -6277,7 +6278,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-31-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-31-2";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -6386,7 +6387,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-31-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-31-3";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -6495,7 +6496,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-31-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-31-4";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -6604,7 +6605,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-31-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-31-5";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -6713,7 +6714,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-31-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-31-6";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -6822,7 +6823,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-31-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-31-7";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -6931,7 +6932,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-31-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-31-8";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -7040,7 +7041,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-31-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-31-9";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -7149,7 +7150,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-32";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -7258,7 +7259,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-33";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -7367,7 +7368,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-33-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-33-1";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -7476,7 +7477,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-33-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-33-2";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -7585,7 +7586,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-33-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-33-3";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -7694,7 +7695,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-33-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-33-31";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -7803,7 +7804,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-33-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-33-32";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -7912,7 +7913,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-33-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-33-4";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -8021,7 +8022,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-33-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-33-41";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -8130,7 +8131,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-33-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-33-42";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -8239,7 +8240,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-33-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-33-43";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -8348,7 +8349,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-33-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-33-44";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -8457,7 +8458,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-33-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-33-45";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -8566,7 +8567,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-33-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-33-46";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -8675,7 +8676,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -8784,7 +8785,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-1";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -8893,7 +8894,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-2";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -9002,7 +9003,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-3";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -9111,7 +9112,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-4";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -9220,7 +9221,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-41";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -9334,7 +9335,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-42";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -9448,7 +9449,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-43";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -9562,7 +9563,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-5";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -9676,7 +9677,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-51";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -9790,7 +9791,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-52";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -9904,7 +9905,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-53";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -10018,7 +10019,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-54";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -10132,7 +10133,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-55";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -10246,7 +10247,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-56";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -10360,7 +10361,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-57";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -10474,7 +10475,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-58";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -10588,7 +10589,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-59";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -10702,7 +10703,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-591 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-591";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -10816,7 +10817,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-34-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-34-6";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -10930,7 +10931,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-35";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -11044,7 +11045,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-35-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-35-1";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -11158,7 +11159,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-35-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-35-2";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -11272,7 +11273,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-35-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-35-3";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -11386,7 +11387,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-35-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-35-4";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -11535,7 +11536,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-35-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-35-5";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -11684,7 +11685,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-35-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-35-6";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -11833,7 +11834,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-35-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-35-7";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -11982,7 +11983,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-35-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-35-8";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -12131,7 +12132,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-35-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-35-9";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -12280,7 +12281,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-36-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-36-0";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -12429,7 +12430,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-36-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-36-1";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -12578,7 +12579,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-36-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-36-2";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -12727,7 +12728,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-36-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-36-3";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -12876,7 +12877,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-36-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-36-4";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -13025,7 +13026,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-36-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-36-5";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -13174,7 +13175,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-36-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-36-6";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -13323,7 +13324,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-36-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-36-7";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -13472,7 +13473,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-36-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-36-8";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -13621,7 +13622,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-36-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-36-9";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -13770,7 +13771,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-37-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-37-0";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -13919,7 +13920,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-37-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-37-1";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -14068,7 +14069,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-37-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-37-2";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -14217,7 +14218,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-37-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-37-3";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -14366,7 +14367,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-37-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-37-4";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -14515,7 +14516,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-37-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-37-5";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -14664,7 +14665,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-37-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-37-51";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -14813,7 +14814,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-37-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-37-52";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -14962,7 +14963,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-37-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-37-53";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -15111,7 +15112,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-37-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-37-54";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -15260,7 +15261,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-37-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-37-55";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -15409,7 +15410,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-37-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-37-56";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -15558,7 +15559,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-37-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-37-57";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -15707,7 +15708,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-37-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-37-58";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -15856,7 +15857,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-38";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -16005,7 +16006,7 @@
       ];
     };
     sexan-paranormal-fx-router-lua-1-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-paranormal-fx-router-lua-1-39";
       indexName = "Sexan_Scripts";
       categoryName = "ParanormalFX";
@@ -16154,7 +16155,7 @@
       ];
     };
     sexan-pie3000-lua-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16188,7 +16189,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-1";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16222,7 +16223,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-2";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16256,7 +16257,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-3";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16290,7 +16291,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-31";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16324,7 +16325,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-32";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16358,7 +16359,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-34";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16392,7 +16393,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-35";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16426,7 +16427,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-36";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16460,7 +16461,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-37";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16494,7 +16495,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-38";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16528,7 +16529,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-39";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16562,7 +16563,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-4";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16596,7 +16597,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-41";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16630,7 +16631,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-42";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16664,7 +16665,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-43";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16698,7 +16699,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-44";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16732,7 +16733,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-45";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16766,7 +16767,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-46";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16800,7 +16801,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-47";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16834,7 +16835,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-48";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16868,7 +16869,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-49";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16902,7 +16903,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-50";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16936,7 +16937,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-51";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -16970,7 +16971,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-52";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17004,7 +17005,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-53";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17038,7 +17039,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-54";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17072,7 +17073,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-55";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17106,7 +17107,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-56";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17140,7 +17141,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-561 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-561";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17174,7 +17175,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-562 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-562";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17208,7 +17209,7 @@
       ];
     };
     sexan-pie3000-lua-0-1-563 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-1-563";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17242,7 +17243,7 @@
       ];
     };
     sexan-pie3000-lua-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-2";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17276,7 +17277,7 @@
       ];
     };
     sexan-pie3000-lua-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-21";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17310,7 +17311,7 @@
       ];
     };
     sexan-pie3000-lua-0-21-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-21-1";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17344,7 +17345,7 @@
       ];
     };
     sexan-pie3000-lua-0-21-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-21-2";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17378,7 +17379,7 @@
       ];
     };
     sexan-pie3000-lua-0-21-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-21-3";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17417,7 +17418,7 @@
       ];
     };
     sexan-pie3000-lua-0-21-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-21-4";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17456,7 +17457,7 @@
       ];
     };
     sexan-pie3000-lua-0-21-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-21-5";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17495,7 +17496,7 @@
       ];
     };
     sexan-pie3000-lua-0-21-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-21-6";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17534,7 +17535,7 @@
       ];
     };
     sexan-pie3000-lua-0-21-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-21-7";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17573,7 +17574,7 @@
       ];
     };
     sexan-pie3000-lua-0-21-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-21-8";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17612,7 +17613,7 @@
       ];
     };
     sexan-pie3000-lua-0-21-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-21-9";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17651,7 +17652,7 @@
       ];
     };
     sexan-pie3000-lua-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-22";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17695,7 +17696,7 @@
       ];
     };
     sexan-pie3000-lua-0-22-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-22-1";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17739,7 +17740,7 @@
       ];
     };
     sexan-pie3000-lua-0-22-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-22-2";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17783,7 +17784,7 @@
       ];
     };
     sexan-pie3000-lua-0-22-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-22-3";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17827,7 +17828,7 @@
       ];
     };
     sexan-pie3000-lua-0-22-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-22-31";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17871,7 +17872,7 @@
       ];
     };
     sexan-pie3000-lua-0-22-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-22-32";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17915,7 +17916,7 @@
       ];
     };
     sexan-pie3000-lua-0-22-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-22-33";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -17959,7 +17960,7 @@
       ];
     };
     sexan-pie3000-lua-0-22-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-22-4";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18003,7 +18004,7 @@
       ];
     };
     sexan-pie3000-lua-0-22-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-22-41";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18047,7 +18048,7 @@
       ];
     };
     sexan-pie3000-lua-0-22-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-22-5";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18091,7 +18092,7 @@
       ];
     };
     sexan-pie3000-lua-0-22-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-22-51";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18135,7 +18136,7 @@
       ];
     };
     sexan-pie3000-lua-0-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-30";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18184,7 +18185,7 @@
       ];
     };
     sexan-pie3000-lua-0-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-31";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18233,7 +18234,7 @@
       ];
     };
     sexan-pie3000-lua-0-31-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-31-1";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18282,7 +18283,7 @@
       ];
     };
     sexan-pie3000-lua-0-31-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-31-2";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18331,7 +18332,7 @@
       ];
     };
     sexan-pie3000-lua-0-31-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-31-3";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18380,7 +18381,7 @@
       ];
     };
     sexan-pie3000-lua-0-31-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-31-4";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18429,7 +18430,7 @@
       ];
     };
     sexan-pie3000-lua-0-31-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-31-5";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18478,7 +18479,7 @@
       ];
     };
     sexan-pie3000-lua-0-31-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-31-7";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18527,7 +18528,7 @@
       ];
     };
     sexan-pie3000-lua-0-31-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-31-8";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18576,7 +18577,7 @@
       ];
     };
     sexan-pie3000-lua-0-31-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-31-9";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18625,7 +18626,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-0";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18674,7 +18675,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-1";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18723,7 +18724,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-2";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18772,7 +18773,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-3";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18821,7 +18822,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-4";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18870,7 +18871,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-5";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18919,7 +18920,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-51";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -18968,7 +18969,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-52";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19017,7 +19018,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-53";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19066,7 +19067,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-7";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19115,7 +19116,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-71 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-71";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19164,7 +19165,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-72 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-72";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19213,7 +19214,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-73 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-73";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19262,7 +19263,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-74 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-74";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19311,7 +19312,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-75 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-75";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19360,7 +19361,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-76 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-76";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19409,7 +19410,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-77 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-77";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19458,7 +19459,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-80 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-80";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19507,7 +19508,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-81 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-81";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19556,7 +19557,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-82 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-82";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19605,7 +19606,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-83 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-83";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19654,7 +19655,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-84 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-84";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19703,7 +19704,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-86 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-86";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19752,7 +19753,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-87 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-87";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19801,7 +19802,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-88 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-88";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19850,7 +19851,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-89 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-89";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19899,7 +19900,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-90 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-90";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19948,7 +19949,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-91 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-91";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -19997,7 +19998,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-92 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-92";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20046,7 +20047,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-93 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-93";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20095,7 +20096,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-94 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-94";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20144,7 +20145,7 @@
       ];
     };
     sexan-pie3000-lua-0-32-95 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-32-95";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20193,7 +20194,7 @@
       ];
     };
     sexan-pie3000-lua-0-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20242,7 +20243,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-01";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20291,7 +20292,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-10";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20340,7 +20341,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-11";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20389,7 +20390,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-12";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20438,7 +20439,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-13";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20487,7 +20488,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-14";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20536,7 +20537,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-15";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20585,7 +20586,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-20";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20639,7 +20640,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-21";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20693,7 +20694,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-22";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20747,7 +20748,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-30";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20801,7 +20802,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-31";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20855,7 +20856,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-32";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20909,7 +20910,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-33";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -20963,7 +20964,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-34";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21017,7 +21018,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-36";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21076,7 +21077,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-37";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21135,7 +21136,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-38";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21194,7 +21195,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-40";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21253,7 +21254,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-41";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21312,7 +21313,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-42";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21371,7 +21372,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-43";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21430,7 +21431,7 @@
       ];
     };
     sexan-pie3000-lua-0-33-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-33-44";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21489,7 +21490,7 @@
       ];
     };
     sexan-pie3000-lua-0-34-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-34-00";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21548,7 +21549,7 @@
       ];
     };
     sexan-pie3000-lua-0-34-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-34-01";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21607,7 +21608,7 @@
       ];
     };
     sexan-pie3000-lua-0-34-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-34-02";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21666,7 +21667,7 @@
       ];
     };
     sexan-pie3000-lua-0-34-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-34-03";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21725,7 +21726,7 @@
       ];
     };
     sexan-pie3000-lua-0-34-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-34-04";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21784,7 +21785,7 @@
       ];
     };
     sexan-pie3000-lua-0-34-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-34-05";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21843,7 +21844,7 @@
       ];
     };
     sexan-pie3000-lua-0-34-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-34-06";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21902,7 +21903,7 @@
       ];
     };
     sexan-pie3000-lua-0-34-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-34-07";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -21961,7 +21962,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-00 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-00";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22020,7 +22021,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-01";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22079,7 +22080,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-02";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22138,7 +22139,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-03";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22197,7 +22198,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-04";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22256,7 +22257,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-05";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22315,7 +22316,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-06";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22374,7 +22375,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-07";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22433,7 +22434,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-08";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22492,7 +22493,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-09";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22551,7 +22552,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-10";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22610,7 +22611,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-11";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22669,7 +22670,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-12";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22728,7 +22729,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-13";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22787,7 +22788,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-20";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22846,7 +22847,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-21";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22905,7 +22906,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-22";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -22964,7 +22965,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-23";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23023,7 +23024,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-24";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23082,7 +23083,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-26";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23141,7 +23142,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-27";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23200,7 +23201,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-28";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23259,7 +23260,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-30";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23318,7 +23319,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-31";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23377,7 +23378,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-32";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23436,7 +23437,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-33";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23495,7 +23496,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-34";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23554,7 +23555,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-35";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23613,7 +23614,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-40";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23672,7 +23673,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-41";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23731,7 +23732,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-42";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23790,7 +23791,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-43";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23849,7 +23850,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-44";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23908,7 +23909,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-45";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -23967,7 +23968,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-46";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -24026,7 +24027,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-47";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -24085,7 +24086,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-48";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -24144,7 +24145,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-49";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -24203,7 +24204,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-50 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-50";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -24262,7 +24263,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-51 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-51";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -24321,7 +24322,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-52 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-52";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -24380,7 +24381,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-53 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-53";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -24439,7 +24440,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-54 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-54";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -24498,7 +24499,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-55 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-55";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -24557,7 +24558,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-56 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-56";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -24616,7 +24617,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-57 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-57";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -24675,7 +24676,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-58 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-58";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -24734,7 +24735,7 @@
       ];
     };
     sexan-pie3000-lua-0-35-59 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-pie3000-lua-0-35-59";
       indexName = "Sexan_Scripts";
       categoryName = "Pie3000";
@@ -24793,7 +24794,7 @@
       ];
     };
     sexan-multi-project-time-counter-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-multi-project-time-counter-lua-1-1";
       indexName = "Sexan_Scripts";
       categoryName = "Project";
@@ -24807,7 +24808,7 @@
       ];
     };
     sexan-multi-project-time-counter-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-multi-project-time-counter-lua-1-2";
       indexName = "Sexan_Scripts";
       categoryName = "Project";
@@ -24821,7 +24822,7 @@
       ];
     };
     sexan-multi-project-time-counter-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-multi-project-time-counter-lua-1-4";
       indexName = "Sexan_Scripts";
       categoryName = "Project";
@@ -24835,7 +24836,7 @@
       ];
     };
     sexan-multi-project-time-counter-lua-1-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-multi-project-time-counter-lua-1-41";
       indexName = "Sexan_Scripts";
       categoryName = "Project";
@@ -24849,7 +24850,7 @@
       ];
     };
     sexan-multi-project-time-counter-lua-1-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-multi-project-time-counter-lua-1-42";
       indexName = "Sexan_Scripts";
       categoryName = "Project";
@@ -24863,7 +24864,7 @@
       ];
     };
     sexan-multi-project-time-counter-lua-1-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-multi-project-time-counter-lua-1-43";
       indexName = "Sexan_Scripts";
       categoryName = "Project";
@@ -24877,7 +24878,7 @@
       ];
     };
     sexan-multi-project-time-counter-lua-1-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-multi-project-time-counter-lua-1-44";
       indexName = "Sexan_Scripts";
       categoryName = "Project";
@@ -24891,7 +24892,7 @@
       ];
     };
     sexan-multi-project-time-counter-lua-1-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-multi-project-time-counter-lua-1-45";
       indexName = "Sexan_Scripts";
       categoryName = "Project";
@@ -24905,7 +24906,7 @@
       ];
     };
     sexan-project-time-counter-with-afk-mode-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-project-time-counter-with-afk-mode-lua-1-31";
       indexName = "Sexan_Scripts";
       categoryName = "Project";
@@ -24919,7 +24920,7 @@
       ];
     };
     sexan-project-time-counter-with-afk-mode-lua-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-project-time-counter-with-afk-mode-lua-1-35";
       indexName = "Sexan_Scripts";
       categoryName = "Project";
@@ -24933,7 +24934,7 @@
       ];
     };
     sexan-project-time-counter-with-afk-mode-lua-1-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-project-time-counter-with-afk-mode-lua-1-36";
       indexName = "Sexan_Scripts";
       categoryName = "Project";
@@ -24947,7 +24948,7 @@
       ];
     };
     sexan-project-time-counter-with-afk-mode-lua-1-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-project-time-counter-with-afk-mode-lua-1-37";
       indexName = "Sexan_Scripts";
       categoryName = "Project";
@@ -24961,7 +24962,7 @@
       ];
     };
     sexan-project-time-counter-with-afk-mode-lua-1-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-project-time-counter-with-afk-mode-lua-1-38";
       indexName = "Sexan_Scripts";
       categoryName = "Project";
@@ -24975,7 +24976,7 @@
       ];
     };
     sexan-project-time-counter-with-afk-mode-lua-1-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-project-time-counter-with-afk-mode-lua-1-40";
       indexName = "Sexan_Scripts";
       categoryName = "Project";
@@ -24989,7 +24990,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-9-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-9-3";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -25168,7 +25169,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-9-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-9-4";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -25347,7 +25348,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-9-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-9-5";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -25526,7 +25527,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-9-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-9-6";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -25710,7 +25711,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-9-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-9-7";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -25894,7 +25895,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-9-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-9-8";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -26078,7 +26079,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-9-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-9-9";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -26262,7 +26263,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-11";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -26446,7 +26447,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-13";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -26630,7 +26631,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-14";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -26814,7 +26815,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-15";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -26998,7 +26999,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-16";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -27182,7 +27183,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-17";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -27366,7 +27367,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-19";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -27555,7 +27556,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-21";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -27744,7 +27745,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-22";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -27938,7 +27939,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-23";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -28132,7 +28133,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-24";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -28326,7 +28327,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-25";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -28520,7 +28521,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-26";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -28714,7 +28715,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-28";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -28918,7 +28919,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-29";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -29127,7 +29128,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-31";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -29141,7 +29142,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-32";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -29350,7 +29351,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-33";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -29559,7 +29560,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-34";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -29768,7 +29769,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-36";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -29987,7 +29988,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-37";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -30206,7 +30207,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-38";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -30425,7 +30426,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-39";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -30644,7 +30645,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-40";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -30863,7 +30864,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-41";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -31082,7 +31083,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-42";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -31301,7 +31302,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-43";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -31520,7 +31521,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-44";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -31764,7 +31765,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-45";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -32008,7 +32009,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-46 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-46";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -32247,7 +32248,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-47 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-47";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -32486,7 +32487,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-48 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-48";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -32725,7 +32726,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-49 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-49";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -32964,7 +32965,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-49-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-49-1";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -33203,7 +33204,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-49-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-49-2";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -33442,7 +33443,7 @@
       ];
     };
     sexan-reaspaghetti-lua-0-49-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-reaspaghetti-lua-0-49-3";
       indexName = "Sexan_Scripts";
       categoryName = "ReaSpaghetti";
@@ -33681,7 +33682,7 @@
       ];
     };
     v6-button-organizer-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "v6-button-organizer-lua-1-0";
       indexName = "Sexan_Scripts";
       categoryName = "Theme";
@@ -33695,7 +33696,7 @@
       ];
     };
     v6-button-organizer-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "v6-button-organizer-lua-1-1";
       indexName = "Sexan_Scripts";
       categoryName = "Theme";
@@ -33709,7 +33710,7 @@
       ];
     };
     v6-button-organizer-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "v6-button-organizer-lua-1-2";
       indexName = "Sexan_Scripts";
       categoryName = "Theme";
@@ -33723,7 +33724,7 @@
       ];
     };
     v6-button-organizer-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "v6-button-organizer-lua-1-3";
       indexName = "Sexan_Scripts";
       categoryName = "Theme";
@@ -33737,7 +33738,7 @@
       ];
     };
     v6-button-organizer-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "v6-button-organizer-lua-1-31";
       indexName = "Sexan_Scripts";
       categoryName = "Theme";
@@ -33751,7 +33752,7 @@
       ];
     };
     v6-button-organizer-lua-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "v6-button-organizer-lua-1-32";
       indexName = "Sexan_Scripts";
       categoryName = "Theme";
@@ -33765,7 +33766,7 @@
       ];
     };
     sexan-create-vca-master-from-selection-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-create-vca-master-from-selection-lua-1-6";
       indexName = "Sexan_Scripts";
       categoryName = "Track";
@@ -33779,7 +33780,7 @@
       ];
     };
     sexan-create-vca-master-from-selection-lua-1-600 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-create-vca-master-from-selection-lua-1-600";
       indexName = "Sexan_Scripts";
       categoryName = "Track";
@@ -33793,7 +33794,7 @@
       ];
     };
     sexan-create-vca-master-from-selection-lua-1-700 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-create-vca-master-from-selection-lua-1-700";
       indexName = "Sexan_Scripts";
       categoryName = "Track";
@@ -33807,7 +33808,7 @@
       ];
     };
     sexan-create-vca-master-from-selection-lua-1-710 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-create-vca-master-from-selection-lua-1-710";
       indexName = "Sexan_Scripts";
       categoryName = "Track";
@@ -33821,7 +33822,7 @@
       ];
     };
     sexan-create-vca-master-from-selection-lua-1-711 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-create-vca-master-from-selection-lua-1-711";
       indexName = "Sexan_Scripts";
       categoryName = "Track";
@@ -33835,7 +33836,7 @@
       ];
     };
     sexan-create-vca-master-from-selection-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-create-vca-master-from-selection-lua-1-8";
       indexName = "Sexan_Scripts";
       categoryName = "Track";
@@ -33849,7 +33850,7 @@
       ];
     };
     sexan-create-vca-master-from-selection-lua-1-712 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-create-vca-master-from-selection-lua-1-712";
       indexName = "Sexan_Scripts";
       categoryName = "Track";
@@ -33863,7 +33864,7 @@
       ];
     };
     sexan-create-vca-master-from-selection-lua-1-713 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-create-vca-master-from-selection-lua-1-713";
       indexName = "Sexan_Scripts";
       categoryName = "Track";
@@ -33877,7 +33878,7 @@
       ];
     };
     sexan-folder-record-monitor-arming-childs-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-folder-record-monitor-arming-childs-lua-1-01";
       indexName = "Sexan_Scripts";
       categoryName = "Track";
@@ -33891,7 +33892,7 @@
       ];
     };
     sexan-remove-selected-vca-master-and-its-slaves-with-all-flags-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-remove-selected-vca-master-and-its-slaves-with-all-flags-lua-1-02";
       indexName = "Sexan_Scripts";
       categoryName = "Track";
@@ -33905,7 +33906,7 @@
       ];
     };
     sexan-remove-selected-vca-master-and-its-slaves-with-all-flags-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "sexan-remove-selected-vca-master-and-its-slaves-with-all-flags-lua-1-03";
       indexName = "Sexan_Scripts";
       categoryName = "Track";
@@ -33919,7 +33920,7 @@
       ];
     };
     pipewireconfig-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pipewireconfig-lua-1-01";
       indexName = "Sexan_Scripts";
       categoryName = "Utils";
@@ -33933,7 +33934,7 @@
       ];
     };
     pipewireconfig-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "pipewireconfig-lua-1-02";
       indexName = "Sexan_Scripts";
       categoryName = "Utils";
@@ -33947,7 +33948,7 @@
       ];
     };
     virtual-track-mouse-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-16";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -34051,7 +34052,7 @@
       ];
     };
     virtual-track-mouse-lua-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-17";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -34155,7 +34156,7 @@
       ];
     };
     virtual-track-mouse-lua-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-18";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -34259,7 +34260,7 @@
       ];
     };
     virtual-track-mouse-lua-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-19";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -34363,7 +34364,7 @@
       ];
     };
     virtual-track-mouse-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-20";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -34467,7 +34468,7 @@
       ];
     };
     virtual-track-mouse-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-21";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -34566,7 +34567,7 @@
       ];
     };
     virtual-track-mouse-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-22";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -34665,7 +34666,7 @@
       ];
     };
     virtual-track-mouse-lua-1-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-23";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -34764,7 +34765,7 @@
       ];
     };
     virtual-track-mouse-lua-1-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-24";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -34863,7 +34864,7 @@
       ];
     };
     virtual-track-mouse-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-25";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -34962,7 +34963,7 @@
       ];
     };
     virtual-track-mouse-lua-1-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-26";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -35051,7 +35052,7 @@
       ];
     };
     virtual-track-mouse-lua-1-27 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-27";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -35140,7 +35141,7 @@
       ];
     };
     virtual-track-mouse-lua-1-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-28";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -35229,7 +35230,7 @@
       ];
     };
     virtual-track-mouse-lua-1-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-29";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -35318,7 +35319,7 @@
       ];
     };
     virtual-track-mouse-lua-1-30 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-30";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -35407,7 +35408,7 @@
       ];
     };
     virtual-track-mouse-lua-1-31 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-31";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -35496,7 +35497,7 @@
       ];
     };
     virtual-track-mouse-lua-1-32 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-32";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -35585,7 +35586,7 @@
       ];
     };
     virtual-track-mouse-lua-1-33 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-33";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -35674,7 +35675,7 @@
       ];
     };
     virtual-track-mouse-lua-1-34 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-34";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -35763,7 +35764,7 @@
       ];
     };
     virtual-track-mouse-lua-1-35 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-35";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -35862,7 +35863,7 @@
       ];
     };
     virtual-track-mouse-lua-1-36 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-36";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -35961,7 +35962,7 @@
       ];
     };
     virtual-track-mouse-lua-1-37 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-37";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -36060,7 +36061,7 @@
       ];
     };
     virtual-track-mouse-lua-1-38 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-38";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -36159,7 +36160,7 @@
       ];
     };
     virtual-track-mouse-lua-1-39 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-39";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -36258,7 +36259,7 @@
       ];
     };
     virtual-track-mouse-lua-1-40 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-40";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -36357,7 +36358,7 @@
       ];
     };
     virtual-track-mouse-lua-1-41 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-41";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -36456,7 +36457,7 @@
       ];
     };
     virtual-track-mouse-lua-1-42 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-42";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -36555,7 +36556,7 @@
       ];
     };
     virtual-track-mouse-lua-1-43 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-43";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -36654,7 +36655,7 @@
       ];
     };
     virtual-track-mouse-lua-1-44 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-44";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";
@@ -36753,7 +36754,7 @@
       ];
     };
     virtual-track-mouse-lua-1-45 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "virtual-track-mouse-lua-1-45";
       indexName = "Sexan_Scripts";
       categoryName = "VirtualTrack";

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   yannick-reascripts = {
     yannick-ableton-loop-ctrlplusl-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-ableton-loop-ctrlplusl-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -19,7 +20,7 @@
       ];
     };
     yannick-ableton-loop-ctrlplusl-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-ableton-loop-ctrlplusl-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -33,7 +34,7 @@
       ];
     };
     yannick-adjust-grid-using-mousewheel-alternation-of-straight-and-triplet-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-adjust-grid-using-mousewheel-alternation-of-straight-and-triplet-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -47,7 +48,7 @@
       ];
     };
     yannick-adjust-grid-using-mousewheel-alternation-of-straight-and-triplet-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-adjust-grid-using-mousewheel-alternation-of-straight-and-triplet-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -61,7 +62,7 @@
       ];
     };
     yannick-adjust-grid-using-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-adjust-grid-using-mousewheel-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -75,7 +76,7 @@
       ];
     };
     yannick-delete-all-regions-that-have-start-and-end-points-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-delete-all-regions-that-have-start-and-end-points-within-time-selection-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -89,7 +90,7 @@
       ];
     };
     yannick-horizontal-zoom-center-settings-in-popup-menu-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-horizontal-zoom-center-settings-in-popup-menu-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -103,7 +104,7 @@
       ];
     };
     yannick-horizontal-zoom-center-settings-in-popup-menu-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-horizontal-zoom-center-settings-in-popup-menu-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -117,7 +118,7 @@
       ];
     };
     yannick-horizontal-zoom-center-settings-in-popup-menu-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-horizontal-zoom-center-settings-in-popup-menu-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -131,7 +132,7 @@
       ];
     };
     yannick-insert-start-and-end-markers-within-selected-items-area-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-start-and-end-markers-within-selected-items-area-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -145,7 +146,7 @@
       ];
     };
     yannick-insert-start-and-end-markers-within-selected-items-area-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-start-and-end-markers-within-selected-items-area-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -159,7 +160,7 @@
       ];
     };
     yannick-insert-start-marker-then-end-marker-at-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-start-marker-then-end-marker-at-edit-cursor-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -173,7 +174,7 @@
       ];
     };
     yannick-insert-start-marker-then-end-marker-at-edit-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-start-marker-then-end-marker-at-edit-cursor-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -187,7 +188,7 @@
       ];
     };
     yannick-insert-start-marker-then-end-marker-at-edit-cursor-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-start-marker-then-end-marker-at-edit-cursor-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -201,7 +202,7 @@
       ];
     };
     yannick-insert-empty-space-at-loop-points-moving-later-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-empty-space-at-loop-points-moving-later-items-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -215,7 +216,7 @@
       ];
     };
     yannick-insert-empty-space-at-loop-points-moving-later-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-empty-space-at-loop-points-moving-later-items-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -229,7 +230,7 @@
       ];
     };
     yannick-insert-region-between-the-start-and-end-point-relative-to-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-region-between-the-start-and-end-point-relative-to-edit-cursor-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -243,7 +244,7 @@
       ];
     };
     yannick-insert-region-between-the-start-and-end-point-relative-to-edit-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-region-between-the-start-and-end-point-relative-to-edit-cursor-lua-1-01";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -257,7 +258,7 @@
       ];
     };
     yannick-insert-region-between-the-start-and-end-point-relative-to-edit-cursor-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-region-between-the-start-and-end-point-relative-to-edit-cursor-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -271,7 +272,7 @@
       ];
     };
     yannick-insert-region-from-loop-points-and-edit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-region-from-loop-points-and-edit-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -285,7 +286,7 @@
       ];
     };
     yannick-insert-region-from-loop-points-and-edit-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-region-from-loop-points-and-edit-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -299,7 +300,7 @@
       ];
     };
     yannick-insert-region-from-loop-points-and-edit-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-region-from-loop-points-and-edit-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -313,7 +314,7 @@
       ];
     };
     yannick-remove-clear-time-selection-then-loop-points-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-remove-clear-time-selection-then-loop-points-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -327,7 +328,7 @@
       ];
     };
     yannick-remove-clear-time-selection-then-loop-points-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-remove-clear-time-selection-then-loop-points-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -341,7 +342,7 @@
       ];
     };
     yannick-remove-contents-of-loop-points-moving-later-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-remove-contents-of-loop-points-moving-later-items-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -355,7 +356,7 @@
       ];
     };
     yannick-remove-contents-of-loop-points-moving-later-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-remove-contents-of-loop-points-moving-later-items-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -369,7 +370,7 @@
       ];
     };
     yannick-restore-paste-tempo-markers-to-the-project-by-replacing-the-old-ones-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-restore-paste-tempo-markers-to-the-project-by-replacing-the-old-ones-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -383,7 +384,7 @@
       ];
     };
     yannick-restore-paste-tempo-markers-to-the-project-by-replacing-the-old-ones-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-restore-paste-tempo-markers-to-the-project-by-replacing-the-old-ones-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -397,7 +398,7 @@
       ];
     };
     yannick-save-copy-all-tempo-markers-from-the-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-save-copy-all-tempo-markers-from-the-project-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -411,7 +412,7 @@
       ];
     };
     yannick-save-copy-all-tempo-markers-from-the-project-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-save-copy-all-tempo-markers-from-the-project-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -425,7 +426,7 @@
       ];
     };
     yannick-set-project-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-project-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -439,7 +440,7 @@
       ];
     };
     yannick-set-project-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-project-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -453,7 +454,7 @@
       ];
     };
     yannick-set-project-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-project-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -467,7 +468,7 @@
       ];
     };
     yannick-set-project-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-project-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -481,7 +482,7 @@
       ];
     };
     yannick-set-project-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-project-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -495,7 +496,7 @@
       ];
     };
     yannick-set-project-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-project-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -509,7 +510,7 @@
       ];
     };
     yannick-set-project-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-project-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -523,7 +524,7 @@
       ];
     };
     yannick-set-project-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-project-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -537,7 +538,7 @@
       ];
     };
     yannick-set-selected-track-color-to-project-markers-and-regions-at-edit-cursor-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-selected-track-color-to-project-markers-and-regions-at-edit-cursor-position-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -551,7 +552,7 @@
       ];
     };
     yannick-set-selected-track-color-to-project-markers-and-regions-at-edit-cursor-position-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-selected-track-color-to-project-markers-and-regions-at-edit-cursor-position-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -565,7 +566,7 @@
       ];
     };
     yannick-set-selected-track-color-to-project-markers-and-regions-at-edit-cursor-position-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-selected-track-color-to-project-markers-and-regions-at-edit-cursor-position-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -579,7 +580,7 @@
       ];
     };
     yannick-set-selected-track-color-to-project-markers-and-regions-at-edit-cursor-position-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-selected-track-color-to-project-markers-and-regions-at-edit-cursor-position-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -593,7 +594,7 @@
       ];
     };
     yannick-snap-the-grid-at-edit-cursor-using-mousewheel-or-move-edit-cursor-by-step-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-snap-the-grid-at-edit-cursor-using-mousewheel-or-move-edit-cursor-by-step-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -607,7 +608,7 @@
       ];
     };
     yannick-snap-the-grid-at-edit-cursor-using-mousewheel-or-move-edit-cursor-by-step-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-snap-the-grid-at-edit-cursor-using-mousewheel-or-move-edit-cursor-by-step-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -621,7 +622,7 @@
       ];
     };
     yannick-snap-the-grid-at-edit-cursor-using-mousewheel-or-move-edit-cursor-by-step-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-snap-the-grid-at-edit-cursor-using-mousewheel-or-move-edit-cursor-by-step-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -635,7 +636,7 @@
       ];
     };
     yannick-switch-next-grid-alternation-of-straight-and-triplet-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-switch-next-grid-alternation-of-straight-and-triplet-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -649,7 +650,7 @@
       ];
     };
     yannick-switch-next-grid-alternation-of-straight-and-triplet-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-switch-next-grid-alternation-of-straight-and-triplet-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -663,7 +664,7 @@
       ];
     };
     yannick-switch-previous-grid-alternation-of-straight-and-triplet-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-switch-previous-grid-alternation-of-straight-and-triplet-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -677,7 +678,7 @@
       ];
     };
     yannick-switch-previous-grid-alternation-of-straight-and-triplet-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-switch-previous-grid-alternation-of-straight-and-triplet-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Arrange";
@@ -691,7 +692,7 @@
       ];
     };
     yannick-add-midi-file-into-project-select-folder-for-midi-files-and-replace-the-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-midi-file-into-project-select-folder-for-midi-files-and-replace-the-take-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -705,7 +706,7 @@
       ];
     };
     yannick-add-midi-file-into-project-select-folder-for-midi-files-and-replace-the-take-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-midi-file-into-project-select-folder-for-midi-files-and-replace-the-take-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -719,7 +720,7 @@
       ];
     };
     yannick-add-midi-file-into-project-select-folder-for-midi-files-and-replace-the-take-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-midi-file-into-project-select-folder-for-midi-files-and-replace-the-take-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -733,7 +734,7 @@
       ];
     };
     yannick-add-midi-file-into-project-switch-next-midi-take-from-recent-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-midi-file-into-project-switch-next-midi-take-from-recent-folder-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -747,7 +748,7 @@
       ];
     };
     yannick-add-midi-file-into-project-switch-next-midi-take-from-recent-folder-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-midi-file-into-project-switch-next-midi-take-from-recent-folder-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -761,7 +762,7 @@
       ];
     };
     yannick-add-midi-file-into-project-switch-previous-midi-take-from-recent-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-midi-file-into-project-switch-previous-midi-take-from-recent-folder-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -775,7 +776,7 @@
       ];
     };
     yannick-add-midi-file-into-project-switch-previous-midi-take-from-recent-folder-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-midi-file-into-project-switch-previous-midi-take-from-recent-folder-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -789,7 +790,7 @@
       ];
     };
     yannick-add-midi-file-into-project-switch-previous-midi-take-from-recent-folder-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-midi-file-into-project-switch-previous-midi-take-from-recent-folder-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -803,7 +804,7 @@
       ];
     };
     yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -817,7 +818,7 @@
       ];
     };
     yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -831,7 +832,7 @@
       ];
     };
     yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -845,7 +846,7 @@
       ];
     };
     yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -859,7 +860,7 @@
       ];
     };
     yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-4";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -873,7 +874,7 @@
       ];
     };
     yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-5";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -887,7 +888,7 @@
       ];
     };
     yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-6";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -901,7 +902,7 @@
       ];
     };
     yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-7";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -915,7 +916,7 @@
       ];
     };
     yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-8";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -929,7 +930,7 @@
       ];
     };
     yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-9";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -943,7 +944,7 @@
       ];
     };
     yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-or-open-melodyne-vst3-in-selected-items-lua-1-10";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -957,7 +958,7 @@
       ];
     };
     yannick-adjust-take-pitch-using-mousewheel-fine-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-adjust-take-pitch-using-mousewheel-fine-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -971,7 +972,7 @@
       ];
     };
     yannick-adjust-take-pitch-using-mousewheel-fine-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-adjust-take-pitch-using-mousewheel-fine-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -985,7 +986,7 @@
       ];
     };
     yannick-adjust-take-pitch-using-mousewheel-semitones-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-adjust-take-pitch-using-mousewheel-semitones-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -999,7 +1000,7 @@
       ];
     };
     yannick-adjust-take-pitch-using-mousewheel-semitones-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-adjust-take-pitch-using-mousewheel-semitones-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1013,7 +1014,7 @@
       ];
     };
     yannick-bounce-selection-like-in-studio-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bounce-selection-like-in-studio-one-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1027,7 +1028,7 @@
       ];
     };
     yannick-bounce-selection-like-in-studio-one-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bounce-selection-like-in-studio-one-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1041,7 +1042,7 @@
       ];
     };
     yannick-bounce-selection-like-in-studio-one-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bounce-selection-like-in-studio-one-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1055,7 +1056,7 @@
       ];
     };
     yannick-bounce-selection-like-in-studio-one-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bounce-selection-like-in-studio-one-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1069,7 +1070,7 @@
       ];
     };
     yannick-bounce-selection-like-in-studio-one-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bounce-selection-like-in-studio-one-lua-1-4";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1083,7 +1084,7 @@
       ];
     };
     yannick-bounce-selection-like-in-studio-one-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bounce-selection-like-in-studio-one-lua-1-5";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1097,7 +1098,7 @@
       ];
     };
     yannick-bounce-selection-like-in-studio-one-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bounce-selection-like-in-studio-one-lua-1-6";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1111,7 +1112,7 @@
       ];
     };
     yannick-bounce-selection-selected-items-on-the-track-merge-into-one-new-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bounce-selection-selected-items-on-the-track-merge-into-one-new-item-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1125,7 +1126,7 @@
       ];
     };
     yannick-bounce-selection-selected-items-on-the-track-merge-into-one-new-item-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bounce-selection-selected-items-on-the-track-merge-into-one-new-item-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1139,7 +1140,7 @@
       ];
     };
     yannick-bounce-selection-selected-items-on-the-track-merge-into-one-new-item-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bounce-selection-selected-items-on-the-track-merge-into-one-new-item-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1153,7 +1154,7 @@
       ];
     };
     yannick-bounce-selection-selected-items-on-the-track-merge-into-one-new-item-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bounce-selection-selected-items-on-the-track-merge-into-one-new-item-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1167,7 +1168,7 @@
       ];
     };
     yannick-bounce-selection-selected-items-on-the-track-merge-into-one-new-item-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bounce-selection-selected-items-on-the-track-merge-into-one-new-item-lua-1-4";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1181,7 +1182,7 @@
       ];
     };
     yannick-delete-item-or-selected-items-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-delete-item-or-selected-items-under-mouse-cursor-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1195,7 +1196,7 @@
       ];
     };
     yannick-delete-item-or-selected-items-under-mouse-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-delete-item-or-selected-items-under-mouse-cursor-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1209,7 +1210,7 @@
       ];
     };
     yannick-glue-selected-items-independently-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-glue-selected-items-independently-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1223,7 +1224,7 @@
       ];
     };
     yannick-glue-selected-items-independently-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-glue-selected-items-independently-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1237,7 +1238,7 @@
       ];
     };
     yannick-increase-or-decrease-peaks-on-all-items-using-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-increase-or-decrease-peaks-on-all-items-using-mousewheel-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1251,7 +1252,7 @@
       ];
     };
     yannick-increase-or-decrease-peaks-on-all-items-using-mousewheel-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-increase-or-decrease-peaks-on-all-items-using-mousewheel-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1265,7 +1266,7 @@
       ];
     };
     yannick-mixdown-selection-like-in-studio-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-mixdown-selection-like-in-studio-one-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1279,7 +1280,7 @@
       ];
     };
     yannick-mixdown-selection-like-in-studio-one-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-mixdown-selection-like-in-studio-one-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1293,7 +1294,7 @@
       ];
     };
     yannick-mixdown-selection-like-in-studio-one-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-mixdown-selection-like-in-studio-one-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1307,7 +1308,7 @@
       ];
     };
     yannick-mixdown-selection-like-in-studio-one-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-mixdown-selection-like-in-studio-one-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1321,7 +1322,7 @@
       ];
     };
     yannick-mixdown-selection-like-in-studio-one-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-mixdown-selection-like-in-studio-one-lua-1-4";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1335,7 +1336,7 @@
       ];
     };
     yannick-move-pan-envelope-points-from-active-takes-of-selected-items-into-pan-envelope-pre-fx-from-parent-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-move-pan-envelope-points-from-active-takes-of-selected-items-into-pan-envelope-pre-fx-from-parent-tracks-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1349,7 +1350,7 @@
       ];
     };
     yannick-move-pan-envelope-points-from-active-takes-of-selected-items-into-pan-envelope-pre-fx-from-parent-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-move-pan-envelope-points-from-active-takes-of-selected-items-into-pan-envelope-pre-fx-from-parent-tracks-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1363,7 +1364,7 @@
       ];
     };
     yannick-move-pan-envelope-points-from-active-takes-of-selected-items-into-pan-envelope-pre-fx-from-parent-tracks-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-move-pan-envelope-points-from-active-takes-of-selected-items-into-pan-envelope-pre-fx-from-parent-tracks-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1377,7 +1378,7 @@
       ];
     };
     yannick-move-pan-envelope-points-from-active-takes-of-selected-items-into-pan-envelope-pre-fx-from-parent-tracks-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-move-pan-envelope-points-from-active-takes-of-selected-items-into-pan-envelope-pre-fx-from-parent-tracks-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1391,7 +1392,7 @@
       ];
     };
     yannick-move-volume-envelope-points-from-active-takes-of-selected-items-into-volume-envelope-pre-fx-from-parent-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-move-volume-envelope-points-from-active-takes-of-selected-items-into-volume-envelope-pre-fx-from-parent-tracks-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1405,7 +1406,7 @@
       ];
     };
     yannick-move-volume-envelope-points-from-active-takes-of-selected-items-into-volume-envelope-pre-fx-from-parent-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-move-volume-envelope-points-from-active-takes-of-selected-items-into-volume-envelope-pre-fx-from-parent-tracks-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1419,7 +1420,7 @@
       ];
     };
     yannick-move-volume-envelope-points-from-active-takes-of-selected-items-into-volume-envelope-pre-fx-from-parent-tracks-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-move-volume-envelope-points-from-active-takes-of-selected-items-into-volume-envelope-pre-fx-from-parent-tracks-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1433,7 +1434,7 @@
       ];
     };
     yannick-move-volume-envelope-points-from-active-takes-of-selected-items-into-volume-envelope-pre-fx-from-parent-tracks-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-move-volume-envelope-points-from-active-takes-of-selected-items-into-volume-envelope-pre-fx-from-parent-tracks-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1447,7 +1448,7 @@
       ];
     };
     yannick-propagate-first-selected-item-to-all-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-propagate-first-selected-item-to-all-selected-items-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1461,7 +1462,7 @@
       ];
     };
     yannick-propagate-first-selected-item-to-all-selected-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-propagate-first-selected-item-to-all-selected-items-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1475,7 +1476,7 @@
       ];
     };
     yannick-propagate-first-selected-item-to-all-selected-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-propagate-first-selected-item-to-all-selected-items-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1489,7 +1490,7 @@
       ];
     };
     yannick-propagate-first-selected-midi-item-to-all-selected-midi-items-with-pool-them-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-propagate-first-selected-midi-item-to-all-selected-midi-items-with-pool-them-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1503,7 +1504,7 @@
       ];
     };
     yannick-propagate-first-selected-midi-item-to-all-selected-midi-items-with-pool-them-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-propagate-first-selected-midi-item-to-all-selected-midi-items-with-pool-them-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1517,7 +1518,7 @@
       ];
     };
     yannick-propagate-first-selected-midi-item-to-all-selected-midi-items-with-pool-them-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-propagate-first-selected-midi-item-to-all-selected-midi-items-with-pool-them-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1531,7 +1532,7 @@
       ];
     };
     yannick-propagate-item-under-mouse-cursor-to-all-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-propagate-item-under-mouse-cursor-to-all-selected-items-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1545,7 +1546,7 @@
       ];
     };
     yannick-propagate-item-under-mouse-cursor-to-all-selected-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-propagate-item-under-mouse-cursor-to-all-selected-items-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1559,7 +1560,7 @@
       ];
     };
     yannick-propagate-item-under-mouse-cursor-to-all-selected-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-propagate-item-under-mouse-cursor-to-all-selected-items-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1573,7 +1574,7 @@
       ];
     };
     yannick-propagate-midi-item-under-mouse-cursor-to-all-selected-midi-items-with-pool-them-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-propagate-midi-item-under-mouse-cursor-to-all-selected-midi-items-with-pool-them-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1587,7 +1588,7 @@
       ];
     };
     yannick-propagate-midi-item-under-mouse-cursor-to-all-selected-midi-items-with-pool-them-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-propagate-midi-item-under-mouse-cursor-to-all-selected-midi-items-with-pool-them-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1601,7 +1602,7 @@
       ];
     };
     yannick-propagate-midi-item-under-mouse-cursor-to-all-selected-midi-items-with-pool-them-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-propagate-midi-item-under-mouse-cursor-to-all-selected-midi-items-with-pool-them-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1615,7 +1616,7 @@
       ];
     };
     yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1629,7 +1630,7 @@
       ];
     };
     yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1643,7 +1644,7 @@
       ];
     };
     yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1657,7 +1658,7 @@
       ];
     };
     yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1671,7 +1672,7 @@
       ];
     };
     yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-4";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1685,7 +1686,7 @@
       ];
     };
     yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-5";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1699,7 +1700,7 @@
       ];
     };
     yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-6";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1713,7 +1714,7 @@
       ];
     };
     yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-7";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1727,7 +1728,7 @@
       ];
     };
     yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-pre-glued-items-that-have-active-midi-takes-and-source-track-instrument-to-new-take-without-fx-lua-1-8";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1741,7 +1742,7 @@
       ];
     };
     yannick-show-or-hide-peaks-on-all-items-global-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-show-or-hide-peaks-on-all-items-global-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1755,7 +1756,7 @@
       ];
     };
     yannick-show-or-hide-peaks-on-all-items-global-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-show-or-hide-peaks-on-all-items-global-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1769,7 +1770,7 @@
       ];
     };
     yannick-split-selected-items-at-grid-and-set-mute-state-for-every-even-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-split-selected-items-at-grid-and-set-mute-state-for-every-even-item-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1783,7 +1784,7 @@
       ];
     };
     yannick-split-selected-items-at-grid-and-set-mute-state-for-every-even-item-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-split-selected-items-at-grid-and-set-mute-state-for-every-even-item-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1797,7 +1798,7 @@
       ];
     };
     yannick-split-selected-items-at-grid-and-set-mute-state-for-every-odd-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-split-selected-items-at-grid-and-set-mute-state-for-every-odd-item-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1811,7 +1812,7 @@
       ];
     };
     yannick-split-selected-items-at-grid-and-set-mute-state-for-every-odd-item-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-split-selected-items-at-grid-and-set-mute-state-for-every-odd-item-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1825,7 +1826,7 @@
       ];
     };
     yannick-trim-left-edge-of-item-or-selected-items-to-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-trim-left-edge-of-item-or-selected-items-to-mouse-cursor-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1839,7 +1840,7 @@
       ];
     };
     yannick-trim-left-edge-of-item-or-selected-items-to-mouse-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-trim-left-edge-of-item-or-selected-items-to-mouse-cursor-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1853,7 +1854,7 @@
       ];
     };
     yannick-trim-right-edge-of-item-or-selected-items-to-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-trim-right-edge-of-item-or-selected-items-to-mouse-cursor-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1867,7 +1868,7 @@
       ];
     };
     yannick-trim-right-edge-of-item-or-selected-items-to-mouse-cursor-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-trim-right-edge-of-item-or-selected-items-to-mouse-cursor-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1881,7 +1882,7 @@
       ];
     };
     yannick-unselect-every-even-item-of-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-unselect-every-even-item-of-selected-items-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1895,7 +1896,7 @@
       ];
     };
     yannick-unselect-every-even-item-of-selected-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-unselect-every-even-item-of-selected-items-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1909,7 +1910,7 @@
       ];
     };
     yannick-unselect-every-odd-item-of-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-unselect-every-odd-item-of-selected-items-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1923,7 +1924,7 @@
       ];
     };
     yannick-unselect-every-odd-item-of-selected-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-unselect-every-odd-item-of-selected-items-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1937,7 +1938,7 @@
       ];
     };
     yannick-unselect-every-odd-item-of-selected-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-unselect-every-odd-item-of-selected-items-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1951,7 +1952,7 @@
       ];
     };
     yannick-warn-about-all-items-that-have-the-offline-takes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-warn-about-all-items-that-have-the-offline-takes-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1965,7 +1966,7 @@
       ];
     };
     yannick-warn-about-all-items-that-have-the-offline-takes-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-warn-about-all-items-that-have-the-offline-takes-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Items";
@@ -1979,7 +1980,7 @@
       ];
     };
     yannick-duplicate-in-one-file-lua-script-from-my-repository-by-name-from-clipboard-for-customisation-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-duplicate-in-one-file-lua-script-from-my-repository-by-name-from-clipboard-for-customisation-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Managing Yannick Scripts";
@@ -1993,7 +1994,7 @@
       ];
     };
     yannick-duplicate-in-one-file-lua-script-from-my-repository-by-name-from-clipboard-for-customisation-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-duplicate-in-one-file-lua-script-from-my-repository-by-name-from-clipboard-for-customisation-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Managing Yannick Scripts";
@@ -2007,7 +2008,7 @@
       ];
     };
     yannick-duplicate-in-one-file-lua-script-from-my-repository-by-name-from-clipboard-for-customisation-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-duplicate-in-one-file-lua-script-from-my-repository-by-name-from-clipboard-for-customisation-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Managing Yannick Scripts";
@@ -2021,7 +2022,7 @@
       ];
     };
     yannick-open-folder-with-duplicates-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-open-folder-with-duplicates-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Managing Yannick Scripts";
@@ -2035,7 +2036,7 @@
       ];
     };
     yannick-open-repository-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-open-repository-folder-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Managing Yannick Scripts";
@@ -2049,7 +2050,7 @@
       ];
     };
     yannick-erase-notes-along-with-moving-edit-cursor-like-back-in-studio-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-erase-notes-along-with-moving-edit-cursor-like-back-in-studio-one-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "MIDI Editor";
@@ -2063,7 +2064,7 @@
       ];
     };
     yannick-erase-notes-along-with-moving-edit-cursor-like-back-in-studio-one-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-erase-notes-along-with-moving-edit-cursor-like-back-in-studio-one-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "MIDI Editor";
@@ -2077,7 +2078,7 @@
       ];
     };
     yannick-float-instrument-from-midi-editor-from-insert-or-send-at-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-float-instrument-from-midi-editor-from-insert-or-send-at-track-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "MIDI Editor";
@@ -2091,7 +2092,7 @@
       ];
     };
     yannick-float-instrument-from-midi-editor-from-insert-or-send-at-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-float-instrument-from-midi-editor-from-insert-or-send-at-track-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "MIDI Editor";
@@ -2105,7 +2106,7 @@
       ];
     };
     yannick-remove-clear-time-selection-then-loop-points-then-close-midi-editor-disabled-by-default-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-remove-clear-time-selection-then-loop-points-then-close-midi-editor-disabled-by-default-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "MIDI Editor";
@@ -2119,7 +2120,7 @@
       ];
     };
     yannick-set-midi-editor-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-midi-editor-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "MIDI Editor";
@@ -2133,7 +2134,7 @@
       ];
     };
     yannick-set-midi-editor-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-midi-editor-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "MIDI Editor";
@@ -2147,7 +2148,7 @@
       ];
     };
     yannick-set-midi-editor-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-midi-editor-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "MIDI Editor";
@@ -2161,7 +2162,7 @@
       ];
     };
     yannick-set-midi-editor-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-midi-editor-grid-size-preserve-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "MIDI Editor";
@@ -2175,7 +2176,7 @@
       ];
     };
     yannick-set-midi-editor-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-midi-editor-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "MIDI Editor";
@@ -2189,7 +2190,7 @@
       ];
     };
     yannick-set-midi-editor-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-midi-editor-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "MIDI Editor";
@@ -2203,7 +2204,7 @@
       ];
     };
     yannick-set-midi-editor-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-midi-editor-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "MIDI Editor";
@@ -2217,7 +2218,7 @@
       ];
     };
     yannick-set-midi-editor-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-midi-editor-grid-type-normal-triplet-quintuplet-septuplet-dotted-in-popup-menu-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "MIDI Editor";
@@ -2231,7 +2232,7 @@
       ];
     };
     yannick-float-instruments-from-insert-or-send-at-selected-track-or-toggle-folder-collapse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-float-instruments-from-insert-or-send-at-selected-track-or-toggle-folder-collapse-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Mouse modifiers";
@@ -2245,7 +2246,7 @@
       ];
     };
     yannick-float-instruments-from-insert-or-send-at-selected-track-or-toggle-folder-collapse-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-float-instruments-from-insert-or-send-at-selected-track-or-toggle-folder-collapse-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Mouse modifiers";
@@ -2259,7 +2260,7 @@
       ];
     };
     yannick-insert-item-at-mouse-cursor-within-a-measure-like-in-studio-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-item-at-mouse-cursor-within-a-measure-like-in-studio-one-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Mouse modifiers";
@@ -2273,7 +2274,7 @@
       ];
     };
     yannick-insert-item-at-mouse-cursor-within-a-measure-like-in-studio-one-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-item-at-mouse-cursor-within-a-measure-like-in-studio-one-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Mouse modifiers";
@@ -2287,7 +2288,7 @@
       ];
     };
     yannick-set-exclusive-record-arm-for-track-or-toggle-folder-collapse-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-exclusive-record-arm-for-track-or-toggle-folder-collapse-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Mouse modifiers";
@@ -2301,7 +2302,7 @@
       ];
     };
     yannick-set-exclusive-record-arm-for-track-or-toggle-folder-collapse-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-exclusive-record-arm-for-track-or-toggle-folder-collapse-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Mouse modifiers";
@@ -2315,7 +2316,7 @@
       ];
     };
     yannick-set-exclusive-record-arm-for-track-or-toggle-folder-collapse-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-set-exclusive-record-arm-for-track-or-toggle-folder-collapse-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Mouse modifiers";
@@ -2329,7 +2330,7 @@
       ];
     };
     yannick-transport-off-or-on-toolbar-button-stop-or-pause-save-state-after-reaper-reboot-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-transport-off-or-on-toolbar-button-stop-or-pause-save-state-after-reaper-reboot-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Scripts with config files/Transport";
@@ -2343,7 +2344,7 @@
       ];
     };
     yannick-transport-toggle-play-or-stop-pause-project-depending-on-toolbar-button-state-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-transport-toggle-play-or-stop-pause-project-depending-on-toolbar-button-state-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Scripts with config files/Transport";
@@ -2357,7 +2358,7 @@
       ];
     };
     yannick-activate-and-set-midi-input-quantize-for-selected-tracks-in-popup-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-activate-and-set-midi-input-quantize-for-selected-tracks-in-popup-menu-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2371,7 +2372,7 @@
       ];
     };
     yannick-activate-and-set-midi-input-quantize-for-selected-tracks-in-popup-menu-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-activate-and-set-midi-input-quantize-for-selected-tracks-in-popup-menu-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2385,7 +2386,7 @@
       ];
     };
     yannick-activate-and-set-midi-input-quantize-for-selected-tracks-in-popup-menu-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-activate-and-set-midi-input-quantize-for-selected-tracks-in-popup-menu-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2399,7 +2400,7 @@
       ];
     };
     yannick-add-envelope-points-at-gridlines-within-razor-edit-automation-items-support-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-envelope-points-at-gridlines-within-razor-edit-automation-items-support-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2413,7 +2414,7 @@
       ];
     };
     yannick-add-envelope-points-at-gridlines-within-razor-edit-automation-items-support-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-envelope-points-at-gridlines-within-razor-edit-automation-items-support-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2427,7 +2428,7 @@
       ];
     };
     yannick-add-envelope-points-at-gridlines-within-razor-edit-no-automation-items-support-faster-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-envelope-points-at-gridlines-within-razor-edit-no-automation-items-support-faster-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2441,7 +2442,7 @@
       ];
     };
     yannick-add-envelope-points-at-gridlines-within-razor-edit-no-automation-items-support-faster-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-envelope-points-at-gridlines-within-razor-edit-no-automation-items-support-faster-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2455,7 +2456,7 @@
       ];
     };
     yannick-add-envelope-points-at-gridlines-within-razor-edit-no-automation-items-support-faster-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-add-envelope-points-at-gridlines-within-razor-edit-no-automation-items-support-faster-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2469,7 +2470,7 @@
       ];
     };
     yannick-bypass-all-fx-from-selected-tracks-clear-all-saves-slot-n-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bypass-all-fx-from-selected-tracks-clear-all-saves-slot-n-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2483,7 +2484,7 @@
       ];
     };
     yannick-bypass-all-fx-from-selected-tracks-clear-all-saves-slot-n-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bypass-all-fx-from-selected-tracks-clear-all-saves-slot-n-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2497,7 +2498,7 @@
       ];
     };
     yannick-bypass-all-fx-from-selected-tracks-restore-previous-slot-n-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bypass-all-fx-from-selected-tracks-restore-previous-slot-n-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2511,7 +2512,7 @@
       ];
     };
     yannick-bypass-all-fx-from-selected-tracks-restore-previous-slot-n-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bypass-all-fx-from-selected-tracks-restore-previous-slot-n-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2525,7 +2526,7 @@
       ];
     };
     yannick-bypass-all-fx-from-selected-tracks-save-previous-slot-n-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bypass-all-fx-from-selected-tracks-save-previous-slot-n-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2539,7 +2540,7 @@
       ];
     };
     yannick-bypass-all-fx-from-selected-tracks-save-previous-slot-n-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-bypass-all-fx-from-selected-tracks-save-previous-slot-n-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2553,7 +2554,7 @@
       ];
     };
     yannick-create-audio-track-from-multichannel-vsti-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-audio-track-from-multichannel-vsti-selected-track-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2567,7 +2568,7 @@
       ];
     };
     yannick-create-audio-track-from-multichannel-vsti-selected-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-audio-track-from-multichannel-vsti-selected-track-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2581,7 +2582,7 @@
       ];
     };
     yannick-create-folder-track-from-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-folder-track-from-selected-tracks-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2595,7 +2596,7 @@
       ];
     };
     yannick-create-folder-track-from-selected-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-folder-track-from-selected-tracks-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2609,7 +2610,7 @@
       ];
     };
     yannick-create-folder-track-from-selected-tracks-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-folder-track-from-selected-tracks-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2623,7 +2624,7 @@
       ];
     };
     yannick-create-folder-track-from-selected-tracks-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-folder-track-from-selected-tracks-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2637,7 +2638,7 @@
       ];
     };
     yannick-create-midi-and-audio-track-from-multichannel-vsti-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-midi-and-audio-track-from-multichannel-vsti-selected-track-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2651,7 +2652,7 @@
       ];
     };
     yannick-create-midi-and-audio-track-from-multichannel-vsti-selected-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-midi-and-audio-track-from-multichannel-vsti-selected-track-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2665,7 +2666,7 @@
       ];
     };
     yannick-create-midi-and-audio-track-from-multichannel-vsti-selected-track-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-midi-and-audio-track-from-multichannel-vsti-selected-track-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2679,7 +2680,7 @@
       ];
     };
     yannick-create-midi-track-from-multichannel-vsti-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-midi-track-from-multichannel-vsti-selected-track-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2693,7 +2694,7 @@
       ];
     };
     yannick-create-midi-track-from-multichannel-vsti-selected-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-midi-track-from-multichannel-vsti-selected-track-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2707,7 +2708,7 @@
       ];
     };
     yannick-create-midi-track-from-multichannel-vsti-selected-track-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-midi-track-from-multichannel-vsti-selected-track-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2721,7 +2722,7 @@
       ];
     };
     yannick-create-multichannel-routing-send-track-from-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-multichannel-routing-send-track-from-selected-tracks-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2735,7 +2736,7 @@
       ];
     };
     yannick-create-multichannel-routing-send-track-from-selected-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-multichannel-routing-send-track-from-selected-tracks-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2749,7 +2750,7 @@
       ];
     };
     yannick-create-new-track-audioplusmidi-from-multichannel-vsti-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-new-track-audioplusmidi-from-multichannel-vsti-selected-track-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2763,7 +2764,7 @@
       ];
     };
     yannick-create-new-track-audioplusmidi-from-multichannel-vsti-selected-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-new-track-audioplusmidi-from-multichannel-vsti-selected-track-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2777,7 +2778,7 @@
       ];
     };
     yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-windowless-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-windowless-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2791,7 +2792,7 @@
       ];
     };
     yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-windowless-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-windowless-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2805,7 +2806,7 @@
       ];
     };
     yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-windowless-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-windowless-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2819,7 +2820,7 @@
       ];
     };
     yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-windowless-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-windowless-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2833,7 +2834,7 @@
       ];
     };
     yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-windowless-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-windowless-lua-1-4";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2847,7 +2848,7 @@
       ];
     };
     yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2861,7 +2862,7 @@
       ];
     };
     yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2875,7 +2876,7 @@
       ];
     };
     yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2889,7 +2890,7 @@
       ];
     };
     yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2903,7 +2904,7 @@
       ];
     };
     yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-4";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2917,7 +2918,7 @@
       ];
     };
     yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-5";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2931,7 +2932,7 @@
       ];
     };
     yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-6";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2945,7 +2946,7 @@
       ];
     };
     yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-7";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2959,7 +2960,7 @@
       ];
     };
     yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-create-send-track-or-create-sends-from-selected-track-to-existed-track-lua-1-8";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2973,7 +2974,7 @@
       ];
     };
     yannick-decrease-all-first-identical-sends-from-selected-tracks-at-once-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-decrease-all-first-identical-sends-from-selected-tracks-at-once-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -2987,7 +2988,7 @@
       ];
     };
     yannick-decrease-all-first-identical-sends-from-selected-tracks-at-once-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-decrease-all-first-identical-sends-from-selected-tracks-at-once-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3001,7 +3002,7 @@
       ];
     };
     yannick-increase-all-first-identical-sends-from-selected-tracks-at-once-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-increase-all-first-identical-sends-from-selected-tracks-at-once-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3015,7 +3016,7 @@
       ];
     };
     yannick-increase-all-first-identical-sends-from-selected-tracks-at-once-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-increase-all-first-identical-sends-from-selected-tracks-at-once-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3029,7 +3030,7 @@
       ];
     };
     yannick-move-last-project-track-to-last-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-move-last-project-track-to-last-selected-track-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3043,7 +3044,7 @@
       ];
     };
     yannick-move-last-project-track-to-last-selected-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-move-last-project-track-to-last-selected-track-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3057,7 +3058,7 @@
       ];
     };
     yannick-mute-or-unmute-all-sends-and-receives-from-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-mute-or-unmute-all-sends-and-receives-from-selected-tracks-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3071,7 +3072,7 @@
       ];
     };
     yannick-mute-or-unmute-all-sends-and-receives-from-selected-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-mute-or-unmute-all-sends-and-receives-from-selected-tracks-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3085,7 +3086,7 @@
       ];
     };
     yannick-mute-or-unmute-all-sends-and-receives-from-selected-tracks-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-mute-or-unmute-all-sends-and-receives-from-selected-tracks-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3099,7 +3100,7 @@
       ];
     };
     yannick-offline-all-fx-from-selected-tracks-clear-all-saves-slot-n-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-selected-tracks-clear-all-saves-slot-n-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3113,7 +3114,7 @@
       ];
     };
     yannick-offline-all-fx-from-selected-tracks-clear-all-saves-slot-n-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-selected-tracks-clear-all-saves-slot-n-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3127,7 +3128,7 @@
       ];
     };
     yannick-offline-all-fx-from-selected-tracks-clear-all-saves-slot-n-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-selected-tracks-clear-all-saves-slot-n-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3141,7 +3142,7 @@
       ];
     };
     yannick-offline-all-fx-from-selected-tracks-clear-all-saves-slot-n-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-selected-tracks-clear-all-saves-slot-n-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3155,7 +3156,7 @@
       ];
     };
     yannick-offline-all-fx-from-selected-tracks-restore-previous-slot-n-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-selected-tracks-restore-previous-slot-n-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3169,7 +3170,7 @@
       ];
     };
     yannick-offline-all-fx-from-selected-tracks-restore-previous-slot-n-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-selected-tracks-restore-previous-slot-n-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3183,7 +3184,7 @@
       ];
     };
     yannick-offline-all-fx-from-selected-tracks-restore-previous-slot-n-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-selected-tracks-restore-previous-slot-n-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3197,7 +3198,7 @@
       ];
     };
     yannick-offline-all-fx-from-selected-tracks-save-previous-slot-n-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-selected-tracks-save-previous-slot-n-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3211,7 +3212,7 @@
       ];
     };
     yannick-offline-all-fx-from-selected-tracks-save-previous-slot-n-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-selected-tracks-save-previous-slot-n-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3225,7 +3226,7 @@
       ];
     };
     yannick-offline-all-fx-from-selected-tracks-save-previous-slot-n-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-selected-tracks-save-previous-slot-n-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3239,7 +3240,7 @@
       ];
     };
     yannick-offline-all-fx-from-selected-tracks-save-previous-slot-n-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-selected-tracks-save-previous-slot-n-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3253,7 +3254,7 @@
       ];
     };
     yannick-rename-selected-tracks-like-in-pro-tools-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-rename-selected-tracks-like-in-pro-tools-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3267,7 +3268,7 @@
       ];
     };
     yannick-rename-selected-tracks-like-in-pro-tools-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-rename-selected-tracks-like-in-pro-tools-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3281,7 +3282,7 @@
       ];
     };
     yannick-render-selected-tracks-to-multichannel-track-obeying-time-selection-ignore-routing-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-tracks-to-multichannel-track-obeying-time-selection-ignore-routing-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3295,7 +3296,7 @@
       ];
     };
     yannick-render-selected-tracks-to-multichannel-track-obeying-time-selection-ignore-routing-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-tracks-to-multichannel-track-obeying-time-selection-ignore-routing-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3309,7 +3310,7 @@
       ];
     };
     yannick-render-selected-tracks-to-multichannel-track-obeying-time-selection-ignore-routing-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-tracks-to-multichannel-track-obeying-time-selection-ignore-routing-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3323,7 +3324,7 @@
       ];
     };
     yannick-render-selected-tracks-to-stereo-track-obeying-time-selection-ignore-routing-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-tracks-to-stereo-track-obeying-time-selection-ignore-routing-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3337,7 +3338,7 @@
       ];
     };
     yannick-render-selected-tracks-to-stereo-track-obeying-time-selection-ignore-routing-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-tracks-to-stereo-track-obeying-time-selection-ignore-routing-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3351,7 +3352,7 @@
       ];
     };
     yannick-render-selected-tracks-to-stereo-track-obeying-time-selection-ignore-routing-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-render-selected-tracks-to-stereo-track-obeying-time-selection-ignore-routing-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3365,7 +3366,7 @@
       ];
     };
     yannick-toggle-bypass-all-envelopes-from-selected-tracks-each-track-is-individual-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-envelopes-from-selected-tracks-each-track-is-individual-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3379,7 +3380,7 @@
       ];
     };
     yannick-toggle-bypass-all-envelopes-from-selected-tracks-each-track-is-individual-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-envelopes-from-selected-tracks-each-track-is-individual-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3393,7 +3394,7 @@
       ];
     };
     yannick-toggle-bypass-all-envelopes-from-selected-tracks-each-track-is-individual-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-envelopes-from-selected-tracks-each-track-is-individual-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3407,7 +3408,7 @@
       ];
     };
     yannick-toggle-bypass-all-envelopes-from-selected-tracks-each-track-is-individual-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-envelopes-from-selected-tracks-each-track-is-individual-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3421,7 +3422,7 @@
       ];
     };
     yannick-toggle-bypass-all-envelopes-from-selected-tracks-clear-all-saves-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-envelopes-from-selected-tracks-clear-all-saves-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3435,7 +3436,7 @@
       ];
     };
     yannick-toggle-bypass-all-envelopes-from-selected-tracks-clear-all-saves-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-envelopes-from-selected-tracks-clear-all-saves-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3449,7 +3450,7 @@
       ];
     };
     yannick-toggle-bypass-all-envelopes-from-selected-tracks-clear-all-saves-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-envelopes-from-selected-tracks-clear-all-saves-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3463,7 +3464,7 @@
       ];
     };
     yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3477,7 +3478,7 @@
       ];
     };
     yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3491,7 +3492,7 @@
       ];
     };
     yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3505,7 +3506,7 @@
       ];
     };
     yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3519,7 +3520,7 @@
       ];
     };
     yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-4";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3533,7 +3534,7 @@
       ];
     };
     yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-5";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3547,7 +3548,7 @@
       ];
     };
     yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-6";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3561,7 +3562,7 @@
       ];
     };
     yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-7";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3575,7 +3576,7 @@
       ];
     };
     yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-clear-all-saves-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-clear-all-saves-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3589,7 +3590,7 @@
       ];
     };
     yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-clear-all-saves-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-clear-all-saves-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3603,7 +3604,7 @@
       ];
     };
     yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-clear-all-saves-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-bypass-all-fx-except-instruments-from-selected-tracks-clear-all-saves-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3617,7 +3618,7 @@
       ];
     };
     yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3631,7 +3632,7 @@
       ];
     };
     yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3645,7 +3646,7 @@
       ];
     };
     yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3659,7 +3660,7 @@
       ];
     };
     yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3673,7 +3674,7 @@
       ];
     };
     yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-4";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3687,7 +3688,7 @@
       ];
     };
     yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-5";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3701,7 +3702,7 @@
       ];
     };
     yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-6";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3715,7 +3716,7 @@
       ];
     };
     yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-each-track-is-individual-lua-1-7";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3729,7 +3730,7 @@
       ];
     };
     yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-clear-all-saves-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-clear-all-saves-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3743,7 +3744,7 @@
       ];
     };
     yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-clear-all-saves-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-clear-all-saves-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3757,7 +3758,7 @@
       ];
     };
     yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-clear-all-saves-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-clear-all-saves-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3771,7 +3772,7 @@
       ];
     };
     yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-clear-all-saves-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-toggle-offline-all-fx-except-instruments-from-selected-tracks-clear-all-saves-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Tracks";
@@ -3785,7 +3786,7 @@
       ];
     };
     yannick-copy-all-existed-plugins-names-to-the-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-copy-all-existed-plugins-names-to-the-clipboard-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3799,7 +3800,7 @@
       ];
     };
     yannick-copy-all-existed-plugins-names-to-the-clipboard-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-copy-all-existed-plugins-names-to-the-clipboard-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3813,7 +3814,7 @@
       ];
     };
     yannick-copy-all-existed-plugins-names-to-the-clipboard-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-copy-all-existed-plugins-names-to-the-clipboard-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3827,7 +3828,7 @@
       ];
     };
     yannick-copy-all-existed-plugins-names-to-the-clipboard-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-copy-all-existed-plugins-names-to-the-clipboard-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3841,7 +3842,7 @@
       ];
     };
     yannick-copy-all-existed-plugins-names-to-the-clipboard-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-copy-all-existed-plugins-names-to-the-clipboard-lua-1-4";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3855,7 +3856,7 @@
       ];
     };
     yannick-copy-all-existed-plugins-names-to-the-clipboard-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-copy-all-existed-plugins-names-to-the-clipboard-lua-1-5";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3869,7 +3870,7 @@
       ];
     };
     yannick-float-instrument-from-insert-or-send-at-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-float-instrument-from-insert-or-send-at-selected-tracks-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3883,7 +3884,7 @@
       ];
     };
     yannick-float-instrument-from-insert-or-send-at-selected-tracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-float-instrument-from-insert-or-send-at-selected-tracks-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3897,7 +3898,7 @@
       ];
     };
     yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-in-popup-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-in-popup-menu-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3911,7 +3912,7 @@
       ];
     };
     yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-in-popup-menu-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-in-popup-menu-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3925,7 +3926,7 @@
       ];
     };
     yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-in-popup-menu-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-in-popup-menu-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3939,7 +3940,7 @@
       ];
     };
     yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-in-popup-menu-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-in-popup-menu-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3953,7 +3954,7 @@
       ];
     };
     yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-in-popup-menu-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-in-popup-menu-lua-1-4";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3967,7 +3968,7 @@
       ];
     };
     yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3981,7 +3982,7 @@
       ];
     };
     yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -3995,7 +3996,7 @@
       ];
     };
     yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-fx-by-name-to-master-track-or-selected-tracks-or-selected-items-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4009,7 +4010,7 @@
       ];
     };
     yannick-insert-vsti-by-name-to-new-track-in-popup-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-vsti-by-name-to-new-track-in-popup-menu-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4023,7 +4024,7 @@
       ];
     };
     yannick-insert-vsti-by-name-to-new-track-in-popup-menu-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-vsti-by-name-to-new-track-in-popup-menu-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4037,7 +4038,7 @@
       ];
     };
     yannick-insert-vsti-by-name-to-new-track-in-popup-menu-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-vsti-by-name-to-new-track-in-popup-menu-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4051,7 +4052,7 @@
       ];
     };
     yannick-insert-vsti-by-name-to-new-track-in-popup-menu-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-vsti-by-name-to-new-track-in-popup-menu-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4065,7 +4066,7 @@
       ];
     };
     yannick-insert-vsti-by-name-to-new-track-in-popup-menu-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-vsti-by-name-to-new-track-in-popup-menu-lua-1-4";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4079,7 +4080,7 @@
       ];
     };
     yannick-insert-vsti-by-name-to-new-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-vsti-by-name-to-new-track-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4093,7 +4094,7 @@
       ];
     };
     yannick-insert-vsti-by-name-to-new-track-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-vsti-by-name-to-new-track-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4107,7 +4108,7 @@
       ];
     };
     yannick-insert-vsti-by-name-to-new-track-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-insert-vsti-by-name-to-new-track-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4121,7 +4122,7 @@
       ];
     };
     yannick-offline-all-fx-from-master-track-restore-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-master-track-restore-previous-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4135,7 +4136,7 @@
       ];
     };
     yannick-offline-all-fx-from-master-track-restore-previous-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-master-track-restore-previous-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4149,7 +4150,7 @@
       ];
     };
     yannick-offline-all-fx-from-master-track-restore-previous-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-master-track-restore-previous-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4163,7 +4164,7 @@
       ];
     };
     yannick-offline-all-fx-from-master-track-restore-previous-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-master-track-restore-previous-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4177,7 +4178,7 @@
       ];
     };
     yannick-offline-all-fx-from-master-track-save-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-master-track-save-previous-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4191,7 +4192,7 @@
       ];
     };
     yannick-offline-all-fx-from-master-track-save-previous-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-master-track-save-previous-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4205,7 +4206,7 @@
       ];
     };
     yannick-offline-all-fx-from-master-track-save-previous-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-fx-from-master-track-save-previous-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4219,7 +4220,7 @@
       ];
     };
     yannick-offline-all-monitoring-fx-restore-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-monitoring-fx-restore-previous-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4233,7 +4234,7 @@
       ];
     };
     yannick-offline-all-monitoring-fx-restore-previous-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-monitoring-fx-restore-previous-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4247,7 +4248,7 @@
       ];
     };
     yannick-offline-all-monitoring-fx-restore-previous-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-monitoring-fx-restore-previous-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4261,7 +4262,7 @@
       ];
     };
     yannick-offline-all-monitoring-fx-restore-previous-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-monitoring-fx-restore-previous-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4275,7 +4276,7 @@
       ];
     };
     yannick-offline-all-monitoring-fx-save-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-monitoring-fx-save-previous-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4289,7 +4290,7 @@
       ];
     };
     yannick-offline-all-monitoring-fx-save-previous-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-monitoring-fx-save-previous-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4303,7 +4304,7 @@
       ];
     };
     yannick-offline-all-monitoring-fx-save-previous-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-offline-all-monitoring-fx-save-previous-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4317,7 +4318,7 @@
       ];
     };
     yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4331,7 +4332,7 @@
       ];
     };
     yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4345,7 +4346,7 @@
       ];
     };
     yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4359,7 +4360,7 @@
       ];
     };
     yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-3";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4373,7 +4374,7 @@
       ];
     };
     yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-4";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4387,7 +4388,7 @@
       ];
     };
     yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-5";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4401,7 +4402,7 @@
       ];
     };
     yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-6";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4415,7 +4416,7 @@
       ];
     };
     yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-7";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4429,7 +4430,7 @@
       ];
     };
     yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-8";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4443,7 +4444,7 @@
       ];
     };
     yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-9";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4457,7 +4458,7 @@
       ];
     };
     yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-open-project-from-recent-projects-list-in-popup-menu-view-project-list-without-paths-lua-1-10";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4471,7 +4472,7 @@
       ];
     };
     yannick-split-items-at-mouse-cursor-or-set-track-to-exclusive-solo-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-split-items-at-mouse-cursor-or-set-track-to-exclusive-solo-lua-1-0";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4485,7 +4486,7 @@
       ];
     };
     yannick-split-items-at-mouse-cursor-or-set-track-to-exclusive-solo-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-split-items-at-mouse-cursor-or-set-track-to-exclusive-solo-lua-1-1";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";
@@ -4499,7 +4500,7 @@
       ];
     };
     yannick-split-items-at-mouse-cursor-or-set-track-to-exclusive-solo-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "yannick-split-items-at-mouse-cursor-or-set-track-to-exclusive-solo-lua-1-2";
       indexName = "Yannick-ReaScripts";
       categoryName = "Various";

@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   bfut-reascripts = {
     bfut-copy-item-to-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-item-to-clipboard-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -19,7 +20,7 @@
       ];
     };
     bfut-copy-item-to-clipboard-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-item-to-clipboard-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -33,7 +34,7 @@
       ];
     };
     bfut-copy-item-to-clipboard-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-item-to-clipboard-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -47,7 +48,7 @@
       ];
     };
     bfut-copy-item-to-clipboard-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-item-to-clipboard-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -61,7 +62,7 @@
       ];
     };
     bfut-copy-items-to-project-markers-remove-overlaps-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-items-to-project-markers-remove-overlaps-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -75,7 +76,7 @@
       ];
     };
     bfut-copy-items-to-project-markers-remove-overlaps-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-items-to-project-markers-remove-overlaps-lua-2-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -89,7 +90,7 @@
       ];
     };
     bfut-copy-items-to-project-markers-remove-overlaps-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-items-to-project-markers-remove-overlaps-lua-2-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -103,7 +104,7 @@
       ];
     };
     bfut-copy-items-to-project-markers-remove-overlaps-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-items-to-project-markers-remove-overlaps-lua-2-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -117,7 +118,7 @@
       ];
     };
     bfut-copy-items-to-project-markers-remove-overlaps-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-items-to-project-markers-remove-overlaps-lua-2-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -131,7 +132,7 @@
       ];
     };
     bfut-copy-items-to-regions-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-items-to-regions-lua-2-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -145,7 +146,7 @@
       ];
     };
     bfut-copy-items-within-time-selection-to-project-markers-remove-overlaps-lua-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-items-within-time-selection-to-project-markers-remove-overlaps-lua-2-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -159,7 +160,7 @@
       ];
     };
     bfut-copy-items-within-time-selection-to-project-markers-remove-overlaps-lua-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-items-within-time-selection-to-project-markers-remove-overlaps-lua-2-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -173,7 +174,7 @@
       ];
     };
     bfut-copy-items-within-time-selection-to-project-markers-remove-overlaps-lua-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-items-within-time-selection-to-project-markers-remove-overlaps-lua-2-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -187,7 +188,7 @@
       ];
     };
     bfut-extract-loop-section-under-mouse-cursor-to-new-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-extract-loop-section-under-mouse-cursor-to-new-item-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -201,7 +202,7 @@
       ];
     };
     bfut-extract-loop-section-under-mouse-cursor-to-new-item-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-extract-loop-section-under-mouse-cursor-to-new-item-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -215,7 +216,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-explode-note-rows-to-subtracks-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-explode-note-rows-to-subtracks-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -229,7 +230,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-explode-note-rows-to-subtracks-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-explode-note-rows-to-subtracks-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -243,7 +244,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-explode-note-rows-to-subtracks-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-explode-note-rows-to-subtracks-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -257,7 +258,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-explode-note-rows-to-subtracks-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-explode-note-rows-to-subtracks-lua-1-5";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -271,7 +272,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-explode-note-rows-to-subtracks-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-explode-note-rows-to-subtracks-lua-1-6";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -285,7 +286,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-explode-note-rows-to-subtracks-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-explode-note-rows-to-subtracks-lua-1-7";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -299,7 +300,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-explode-note-rows-to-subtracks-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-explode-note-rows-to-subtracks-lua-1-8";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -313,7 +314,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -327,7 +328,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -341,7 +342,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -355,7 +356,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-5";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -369,7 +370,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-6";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -383,7 +384,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-7";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -397,7 +398,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-8";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -411,7 +412,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -425,7 +426,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -439,7 +440,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -453,7 +454,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-5";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -467,7 +468,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-6";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -481,7 +482,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-7";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -495,7 +496,7 @@
       ];
     };
     bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-empty-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-8";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -509,7 +510,7 @@
       ];
     };
     bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -523,7 +524,7 @@
       ];
     };
     bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -537,7 +538,7 @@
       ];
     };
     bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -551,7 +552,7 @@
       ];
     };
     bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -565,7 +566,7 @@
       ];
     };
     bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -579,7 +580,7 @@
       ];
     };
     bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-5";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -593,7 +594,7 @@
       ];
     };
     bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-6";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -607,7 +608,7 @@
       ];
     };
     bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-7";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -621,7 +622,7 @@
       ];
     };
     bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-explode-note-rows-to-subtracks-lua-1-8";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -635,7 +636,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -649,7 +650,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -663,7 +664,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -677,7 +678,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -691,7 +692,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -705,7 +706,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-5";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -719,7 +720,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-6";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -733,7 +734,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-7";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -747,7 +748,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-pitch-lua-1-8";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -761,7 +762,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -775,7 +776,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -789,7 +790,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -803,7 +804,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -817,7 +818,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -831,7 +832,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-5";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -845,7 +846,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-6";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -859,7 +860,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-7";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -873,7 +874,7 @@
       ];
     };
     bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-midi-notes-to-items-notes-to-subtrack-note-pitch-as-item-rate-lua-1-8";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -887,7 +888,7 @@
       ];
     };
     bfut-paste-item-from-clipboard-to-selected-items-replace-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-from-clipboard-to-selected-items-replace-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -901,7 +902,7 @@
       ];
     };
     bfut-paste-item-from-clipboard-to-selected-items-replace-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-from-clipboard-to-selected-items-replace-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -915,7 +916,7 @@
       ];
     };
     bfut-paste-item-from-clipboard-to-selected-items-replace-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-from-clipboard-to-selected-items-replace-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -929,7 +930,7 @@
       ];
     };
     bfut-paste-item-from-clipboard-to-selected-items-replace-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-from-clipboard-to-selected-items-replace-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -943,7 +944,7 @@
       ];
     };
     bfut-remove-item-under-mouse-cursor-delete-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-remove-item-under-mouse-cursor-delete-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -957,7 +958,7 @@
       ];
     };
     bfut-remove-item-under-mouse-cursor-delete-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-remove-item-under-mouse-cursor-delete-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -971,7 +972,7 @@
       ];
     };
     bfut-remove-item-under-mouse-cursor-delete-lua-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-remove-item-under-mouse-cursor-delete-lua-2-6";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -985,7 +986,7 @@
       ];
     };
     bfut-replace-item-under-mouse-cursor-with-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-replace-item-under-mouse-cursor-with-selected-item-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -999,7 +1000,7 @@
       ];
     };
     bfut-replace-item-under-mouse-cursor-with-selected-item-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-replace-item-under-mouse-cursor-with-selected-item-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1013,7 +1014,7 @@
       ];
     };
     bfut-replace-item-under-mouse-cursor-with-selected-item-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-replace-item-under-mouse-cursor-with-selected-item-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1027,7 +1028,7 @@
       ];
     };
     bfut-replace-item-under-mouse-cursor-with-selected-item-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-replace-item-under-mouse-cursor-with-selected-item-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1041,7 +1042,7 @@
       ];
     };
     bfut-select-items-of-less-than-1-sample-in-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-select-items-of-less-than-1-sample-in-length-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1055,7 +1056,7 @@
       ];
     };
     bfut-split-looped-item-into-separate-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-split-looped-item-into-separate-items-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1069,7 +1070,7 @@
       ];
     };
     bfut-split-looped-item-into-separate-items-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-split-looped-item-into-separate-items-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1083,7 +1084,7 @@
       ];
     };
     bfut-split-looped-item-into-separate-items-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-split-looped-item-into-separate-items-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1097,7 +1098,7 @@
       ];
     };
     bfut-split-looped-item-into-separate-items-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-split-looped-item-into-separate-items-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1111,7 +1112,7 @@
       ];
     };
     bfut-step-sequencer-copy-first-item-on-track-and-fill-grid-bar-under-mouse-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-step-sequencer-copy-first-item-on-track-and-fill-grid-bar-under-mouse-lua-2-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1125,7 +1126,7 @@
       ];
     };
     bfut-step-sequencer-copy-first-item-on-track-and-fill-grid-bar-under-mouse-lua-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-step-sequencer-copy-first-item-on-track-and-fill-grid-bar-under-mouse-lua-2-5";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1139,7 +1140,7 @@
       ];
     };
     bfut-step-sequencer-copy-first-item-on-track-and-fill-grid-bar-under-mouse-lua-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-step-sequencer-copy-first-item-on-track-and-fill-grid-bar-under-mouse-lua-2-6";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1153,7 +1154,7 @@
       ];
     };
     bfut-step-sequencer-copy-first-item-on-track-to-grid-bar-under-mouse-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-step-sequencer-copy-first-item-on-track-to-grid-bar-under-mouse-lua-2-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1167,7 +1168,7 @@
       ];
     };
     bfut-step-sequencer-copy-first-item-on-track-to-grid-bar-under-mouse-lua-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-step-sequencer-copy-first-item-on-track-to-grid-bar-under-mouse-lua-2-5";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1181,7 +1182,7 @@
       ];
     };
     bfut-step-sequencer-copy-first-item-on-track-to-grid-bar-under-mouse-lua-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-step-sequencer-copy-first-item-on-track-to-grid-bar-under-mouse-lua-2-6";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1195,7 +1196,7 @@
       ];
     };
     bfut-trim-to-source-media-lengths-limit-items-lengths-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-trim-to-source-media-lengths-limit-items-lengths-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1209,7 +1210,7 @@
       ];
     };
     bfut-trim-to-source-media-lengths-limit-items-lengths-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-trim-to-source-media-lengths-limit-items-lengths-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1223,7 +1224,7 @@
       ];
     };
     bfut-unselect-grouped-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-unselect-grouped-items-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1237,7 +1238,7 @@
       ];
     };
     bfut-unselect-items-outside-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-unselect-items-outside-time-selection-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1251,7 +1252,7 @@
       ];
     };
     bfut-unselect-items-touching-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-unselect-items-touching-time-selection-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1265,7 +1266,7 @@
       ];
     };
     bfut-unselect-items-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-unselect-items-within-time-selection-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1279,7 +1280,7 @@
       ];
     };
     bfut-unselect-ungrouped-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-unselect-ungrouped-items-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Editing";
@@ -1293,7 +1294,7 @@
       ];
     };
     bfut-copy-item-properties-to-clipboard-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-item-properties-to-clipboard-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1307,7 +1308,7 @@
       ];
     };
     bfut-copy-item-properties-to-clipboard-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-item-properties-to-clipboard-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1321,7 +1322,7 @@
       ];
     };
     bfut-copy-item-properties-to-clipboard-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-item-properties-to-clipboard-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1335,7 +1336,7 @@
       ];
     };
     bfut-copy-item-properties-to-clipboard-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-item-properties-to-clipboard-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1349,7 +1350,7 @@
       ];
     };
     bfut-copy-item-properties-to-clipboard-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-copy-item-properties-to-clipboard-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1363,7 +1364,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinlength-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinlength-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1377,7 +1378,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinlength-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinlength-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1391,7 +1392,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinlength-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinlength-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1405,7 +1406,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinlength-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinlength-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1419,7 +1420,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinshape-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinshape-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1433,7 +1434,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinshape-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinshape-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1447,7 +1448,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinshape-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinshape-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1461,7 +1462,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinshape-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeinshape-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1475,7 +1476,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutlength-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutlength-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1489,7 +1490,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutlength-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutlength-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1503,7 +1504,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutlength-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutlength-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1517,7 +1518,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutlength-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutlength-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1531,7 +1532,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutshape-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutshape-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1545,7 +1546,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutshape-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutshape-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1559,7 +1560,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutshape-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutshape-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1573,7 +1574,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutshape-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fadeoutshape-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1587,7 +1588,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fixedlane-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-fixedlane-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1601,7 +1602,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-freeitemposition-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-freeitemposition-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1615,7 +1616,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-length-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-length-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1629,7 +1630,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-length-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-length-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1643,7 +1644,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-length-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-length-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1657,7 +1658,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-length-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-length-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1671,7 +1672,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-snapoffset-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-snapoffset-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1685,7 +1686,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-snapoffset-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-snapoffset-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1699,7 +1700,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-snapoffset-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-snapoffset-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1713,7 +1714,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-snapoffset-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-snapoffset-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1727,7 +1728,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-volume-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-volume-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1741,7 +1742,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-volume-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-volume-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1755,7 +1756,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-volume-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-volume-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1769,7 +1770,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-volume-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-property-volume-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1783,7 +1784,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pan-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pan-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1797,7 +1798,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pan-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pan-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1811,7 +1812,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pan-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pan-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1825,7 +1826,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pan-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pan-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1839,7 +1840,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pitch-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pitch-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1853,7 +1854,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pitch-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pitch-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1867,7 +1868,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pitch-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pitch-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1881,7 +1882,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pitch-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-pitch-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1895,7 +1896,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-playrate-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-playrate-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1909,7 +1910,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-playrate-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-playrate-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1923,7 +1924,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-playrate-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-playrate-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1937,7 +1938,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-playrate-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-playrate-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1951,7 +1952,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-startoffset-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-startoffset-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1965,7 +1966,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-startoffset-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-startoffset-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1979,7 +1980,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-startoffset-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-startoffset-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -1993,7 +1994,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-startoffset-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-startoffset-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -2007,7 +2008,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-volume-lua-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-volume-lua-1-1";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -2021,7 +2022,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-volume-lua-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-volume-lua-1-2";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -2035,7 +2036,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-volume-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-volume-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -2049,7 +2050,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-volume-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-property-volume-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -2063,7 +2064,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-stretch-markers-lua-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-stretch-markers-lua-1-3";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -2077,7 +2078,7 @@
       ];
     };
     bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-stretch-markers-lua-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-paste-item-properties-from-clipboard-to-set-selected-items-take-stretch-markers-lua-1-4";
       indexName = "bfut_ReaScripts";
       categoryName = "Items Properties";
@@ -2091,7 +2092,7 @@
       ];
     };
     bfut-add-marker-at-each-time-signature-marker-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-add-marker-at-each-time-signature-marker-within-time-selection-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Markers";
@@ -2105,7 +2106,7 @@
       ];
     };
     bfut-add-marker-at-each-time-signature-marker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-add-marker-at-each-time-signature-marker-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Markers";
@@ -2119,7 +2120,7 @@
       ];
     };
     bfut-delete-regions-of-less-than-1-sample-in-length-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "bfut-delete-regions-of-less-than-1-sample-in-length-lua-1-0";
       indexName = "bfut_ReaScripts";
       categoryName = "Regions";

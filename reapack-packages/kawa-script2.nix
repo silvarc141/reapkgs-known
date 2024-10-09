@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   kawa-script2 = {
     kawascript2-ext-2018-11-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "kawascript2-ext-2018-11-13";
       indexName = "kawa Script2";
       categoryName = "Extentions";

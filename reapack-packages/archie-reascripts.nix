@@ -1,11 +1,12 @@
 {
+  lib,
   mkReapackPackage, 
   stdenv, 
   fetchurl,
 }: {
   archie-reascripts = {
     arc-function-lua-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -19,7 +20,7 @@
       ];
     };
     arc-function-lua-lua-1-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-0-1";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -33,7 +34,7 @@
       ];
     };
     arc-function-lua-lua-1-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-0-2";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -47,7 +48,7 @@
       ];
     };
     arc-function-lua-lua-1-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-0-3";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -61,7 +62,7 @@
       ];
     };
     arc-function-lua-lua-1-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-0-4";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -75,7 +76,7 @@
       ];
     };
     arc-function-lua-lua-1-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-0-5";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -89,7 +90,7 @@
       ];
     };
     arc-function-lua-lua-1-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-0-6";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -103,7 +104,7 @@
       ];
     };
     arc-function-lua-lua-1-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-0-7";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -117,7 +118,7 @@
       ];
     };
     arc-function-lua-lua-1-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-0-8";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -131,7 +132,7 @@
       ];
     };
     arc-function-lua-lua-1-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-0-9";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -145,7 +146,7 @@
       ];
     };
     arc-function-lua-lua-1-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -159,7 +160,7 @@
       ];
     };
     arc-function-lua-lua-1-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-1-1";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -173,7 +174,7 @@
       ];
     };
     arc-function-lua-lua-1-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-1-2";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -187,7 +188,7 @@
       ];
     };
     arc-function-lua-lua-1-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-1-3";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -201,7 +202,7 @@
       ];
     };
     arc-function-lua-lua-1-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-1-4";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -215,7 +216,7 @@
       ];
     };
     arc-function-lua-lua-1-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-1-5";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -229,7 +230,7 @@
       ];
     };
     arc-function-lua-lua-1-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-1-6";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -243,7 +244,7 @@
       ];
     };
     arc-function-lua-lua-1-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-1-7";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -257,7 +258,7 @@
       ];
     };
     arc-function-lua-lua-1-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-1-8";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -271,7 +272,7 @@
       ];
     };
     arc-function-lua-lua-1-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-1-1-9";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -285,7 +286,7 @@
       ];
     };
     arc-function-lua-lua-2-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-0-0";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -299,7 +300,7 @@
       ];
     };
     arc-function-lua-lua-2-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-0-1";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -313,7 +314,7 @@
       ];
     };
     arc-function-lua-lua-2-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-0-2";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -327,7 +328,7 @@
       ];
     };
     arc-function-lua-lua-2-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-0-3";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -341,7 +342,7 @@
       ];
     };
     arc-function-lua-lua-2-0-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-0-4";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -355,7 +356,7 @@
       ];
     };
     arc-function-lua-lua-2-0-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-0-5";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -369,7 +370,7 @@
       ];
     };
     arc-function-lua-lua-2-0-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-0-6";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -383,7 +384,7 @@
       ];
     };
     arc-function-lua-lua-2-0-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-0-7";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -397,7 +398,7 @@
       ];
     };
     arc-function-lua-lua-2-0-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-0-8";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -411,7 +412,7 @@
       ];
     };
     arc-function-lua-lua-2-0-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-0-9";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -425,7 +426,7 @@
       ];
     };
     arc-function-lua-lua-2-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -439,7 +440,7 @@
       ];
     };
     arc-function-lua-lua-2-1-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-1-1";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -453,7 +454,7 @@
       ];
     };
     arc-function-lua-lua-2-1-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-1-2";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -467,7 +468,7 @@
       ];
     };
     arc-function-lua-lua-2-1-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-1-3";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -481,7 +482,7 @@
       ];
     };
     arc-function-lua-lua-2-1-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-1-4";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -495,7 +496,7 @@
       ];
     };
     arc-function-lua-lua-2-1-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-1-5";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -509,7 +510,7 @@
       ];
     };
     arc-function-lua-lua-2-1-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-1-6";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -523,7 +524,7 @@
       ];
     };
     arc-function-lua-lua-2-1-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-1-7";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -537,7 +538,7 @@
       ];
     };
     arc-function-lua-lua-2-1-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-1-8";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -551,7 +552,7 @@
       ];
     };
     arc-function-lua-lua-2-1-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-1-9";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -565,7 +566,7 @@
       ];
     };
     arc-function-lua-lua-2-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-2-0";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -579,7 +580,7 @@
       ];
     };
     arc-function-lua-lua-2-2-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-2-1";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -593,7 +594,7 @@
       ];
     };
     arc-function-lua-lua-2-2-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-2-2";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -607,7 +608,7 @@
       ];
     };
     arc-function-lua-lua-2-2-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-2-3";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -621,7 +622,7 @@
       ];
     };
     arc-function-lua-lua-2-2-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-2-4";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -635,7 +636,7 @@
       ];
     };
     arc-function-lua-lua-2-2-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-2-5";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -649,7 +650,7 @@
       ];
     };
     arc-function-lua-lua-2-2-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-2-6";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -663,7 +664,7 @@
       ];
     };
     arc-function-lua-lua-2-2-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-2-7";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -677,7 +678,7 @@
       ];
     };
     arc-function-lua-lua-2-2-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-2-9";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -691,7 +692,7 @@
       ];
     };
     arc-function-lua-lua-2-3-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-3-0";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -705,7 +706,7 @@
       ];
     };
     arc-function-lua-lua-2-3-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-3-1";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -719,7 +720,7 @@
       ];
     };
     arc-function-lua-lua-2-3-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-3-2";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -733,7 +734,7 @@
       ];
     };
     arc-function-lua-lua-2-3-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-3-3";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -747,7 +748,7 @@
       ];
     };
     arc-function-lua-lua-2-3-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-3-5";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -761,7 +762,7 @@
       ];
     };
     arc-function-lua-lua-2-3-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-3-6";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -775,7 +776,7 @@
       ];
     };
     arc-function-lua-lua-2-3-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-3-7";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -789,7 +790,7 @@
       ];
     };
     arc-function-lua-lua-2-3-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-3-8";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -803,7 +804,7 @@
       ];
     };
     arc-function-lua-lua-2-3-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-3-9";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -817,7 +818,7 @@
       ];
     };
     arc-function-lua-lua-2-4-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-4-0";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -831,7 +832,7 @@
       ];
     };
     arc-function-lua-lua-2-4-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-4-1";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -845,7 +846,7 @@
       ];
     };
     arc-function-lua-lua-2-4-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-4-2";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -859,7 +860,7 @@
       ];
     };
     arc-function-lua-lua-2-4-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-4-3";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -873,7 +874,7 @@
       ];
     };
     arc-function-lua-lua-2-4-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-4-4";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -887,7 +888,7 @@
       ];
     };
     arc-function-lua-lua-2-4-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-4-5";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -901,7 +902,7 @@
       ];
     };
     arc-function-lua-lua-2-4-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-4-6";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -915,7 +916,7 @@
       ];
     };
     arc-function-lua-lua-2-4-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-4-7";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -929,7 +930,7 @@
       ];
     };
     arc-function-lua-lua-2-4-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-4-8";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -943,7 +944,7 @@
       ];
     };
     arc-function-lua-lua-2-4-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-4-9";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -957,7 +958,7 @@
       ];
     };
     arc-function-lua-lua-2-5-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-5-1";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -971,7 +972,7 @@
       ];
     };
     arc-function-lua-lua-2-5-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-5-2";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -985,7 +986,7 @@
       ];
     };
     arc-function-lua-lua-2-5-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-5-3";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -999,7 +1000,7 @@
       ];
     };
     arc-function-lua-lua-2-5-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-5-4";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1013,7 +1014,7 @@
       ];
     };
     arc-function-lua-lua-2-5-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-5-5";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1027,7 +1028,7 @@
       ];
     };
     arc-function-lua-lua-2-5-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-5-6";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1041,7 +1042,7 @@
       ];
     };
     arc-function-lua-lua-2-5-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-5-7";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1055,7 +1056,7 @@
       ];
     };
     arc-function-lua-lua-2-5-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-5-9";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1069,7 +1070,7 @@
       ];
     };
     arc-function-lua-lua-2-6-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-6-0";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1083,7 +1084,7 @@
       ];
     };
     arc-function-lua-lua-2-6-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-6-2";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1097,7 +1098,7 @@
       ];
     };
     arc-function-lua-lua-2-6-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-6-3";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1111,7 +1112,7 @@
       ];
     };
     arc-function-lua-lua-2-6-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-6-5";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1125,7 +1126,7 @@
       ];
     };
     arc-function-lua-lua-2-7-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-7-0";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1139,7 +1140,7 @@
       ];
     };
     arc-function-lua-lua-2-7-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-7-2";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1153,7 +1154,7 @@
       ];
     };
     arc-function-lua-lua-2-7-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-7-4";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1167,7 +1168,7 @@
       ];
     };
     arc-function-lua-lua-2-7-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-7-5";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1181,7 +1182,7 @@
       ];
     };
     arc-function-lua-lua-2-7-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-7-6";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1195,7 +1196,7 @@
       ];
     };
     arc-function-lua-lua-2-7-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-7-7";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1209,7 +1210,7 @@
       ];
     };
     arc-function-lua-lua-2-7-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-7-8";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1223,7 +1224,7 @@
       ];
     };
     arc-function-lua-lua-2-7-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-7-9";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1237,7 +1238,7 @@
       ];
     };
     arc-function-lua-lua-2-8-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-8-0";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1251,7 +1252,7 @@
       ];
     };
     arc-function-lua-lua-2-8-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-8-1";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1265,7 +1266,7 @@
       ];
     };
     arc-function-lua-lua-2-8-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-8-2";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1279,7 +1280,7 @@
       ];
     };
     arc-function-lua-lua-2-8-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-8-4";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1293,7 +1294,7 @@
       ];
     };
     arc-function-lua-lua-2-8-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-8-5";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1307,7 +1308,7 @@
       ];
     };
     arc-function-lua-lua-2-8-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-8-6";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1321,7 +1322,7 @@
       ];
     };
     arc-function-lua-lua-2-8-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-8-7";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1335,7 +1336,7 @@
       ];
     };
     arc-function-lua-lua-2-9-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-9-0";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1349,7 +1350,7 @@
       ];
     };
     arc-function-lua-lua-2-9-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-9-1";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1363,7 +1364,7 @@
       ];
     };
     arc-function-lua-lua-2-9-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-9-2";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1377,7 +1378,7 @@
       ];
     };
     arc-function-lua-lua-2-9-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-9-3";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1391,7 +1392,7 @@
       ];
     };
     arc-function-lua-lua-2-9-4 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-9-4";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1405,7 +1406,7 @@
       ];
     };
     arc-function-lua-lua-2-9-5 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-9-5";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1419,7 +1420,7 @@
       ];
     };
     arc-function-lua-lua-2-9-6 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-9-6";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1433,7 +1434,7 @@
       ];
     };
     arc-function-lua-lua-2-9-7 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-9-7";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1447,7 +1448,7 @@
       ];
     };
     arc-function-lua-lua-2-9-8 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-9-8";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1461,7 +1462,7 @@
       ];
     };
     arc-function-lua-lua-2-9-9 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-2-9-9";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1475,7 +1476,7 @@
       ];
     };
     arc-function-lua-lua-3-0-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-3-0-0";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1489,7 +1490,7 @@
       ];
     };
     arc-function-lua-lua-3-0-1 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-3-0-1";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1503,7 +1504,7 @@
       ];
     };
     arc-function-lua-lua-3-0-2 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-3-0-2";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1517,7 +1518,7 @@
       ];
     };
     arc-function-lua-lua-3-0-3 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "arc-function-lua-lua-3-0-3";
       indexName = "Archie-ReaScripts";
       categoryName = "Functions";
@@ -1531,7 +1532,7 @@
       ];
     };
     archie-cont-move-tracks-down-or-items-down-depending-on-focus-skip-minimized-track-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-cont-move-tracks-down-or-items-down-depending-on-focus-skip-minimized-track-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Context";
@@ -1545,7 +1546,7 @@
       ];
     };
     archie-cont-move-tracks-down-or-items-down-depending-on-focus-skip-minimized-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-cont-move-tracks-down-or-items-down-depending-on-focus-skip-minimized-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Context";
@@ -1559,7 +1560,7 @@
       ];
     };
     archie-cont-move-tracks-down-or-items-down-depending-on-focus-skip-minimized-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-cont-move-tracks-down-or-items-down-depending-on-focus-skip-minimized-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Context";
@@ -1573,7 +1574,7 @@
       ];
     };
     archie-cont-move-tracks-up-or-items-up-depending-on-focus-skip-minimized-track-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-cont-move-tracks-up-or-items-up-depending-on-focus-skip-minimized-track-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Context";
@@ -1587,7 +1588,7 @@
       ];
     };
     archie-cont-move-tracks-up-or-items-up-depending-on-focus-skip-minimized-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-cont-move-tracks-up-or-items-up-depending-on-focus-skip-minimized-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Context";
@@ -1601,7 +1602,7 @@
       ];
     };
     archie-cont-move-tracks-up-or-items-up-depending-on-focus-skip-minimized-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-cont-move-tracks-up-or-items-up-depending-on-focus-skip-minimized-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Context";
@@ -1615,7 +1616,7 @@
       ];
     };
     archie-cont-set-focus-on-items-arrange-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-cont-set-focus-on-items-arrange-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Context";
@@ -1629,7 +1630,7 @@
       ];
     };
     archie-cont-set-focus-on-items-arrange-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-cont-set-focus-on-items-arrange-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Context";
@@ -1643,7 +1644,7 @@
       ];
     };
     archie-cont-set-focus-on-track-panels-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-cont-set-focus-on-track-panels-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Context";
@@ -1657,7 +1658,7 @@
       ];
     };
     archie-cont-set-focus-on-track-panels-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-cont-set-focus-on-track-panels-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Context";
@@ -1671,7 +1672,7 @@
       ];
     };
     archie-edit-cursor-auto-edit-cursor-under-mouse-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-auto-edit-cursor-under-mouse-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -1685,7 +1686,7 @@
       ];
     };
     archie-edit-cursor-auto-edit-cursor-under-mouse-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-auto-edit-cursor-under-mouse-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -1699,7 +1700,7 @@
       ];
     };
     archie-edit-cursor-auto-edit-cursor-under-mouse-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-auto-edit-cursor-under-mouse-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -1713,7 +1714,7 @@
       ];
     };
     archie-edit-cursor-go-to-time-beats-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-go-to-time-beats-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -1727,7 +1728,7 @@
       ];
     };
     archie-edit-cursor-go-to-time-beats-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-go-to-time-beats-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -1741,7 +1742,7 @@
       ];
     };
     archie-edit-cursor-go-to-time-time-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-go-to-time-time-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -1755,7 +1756,7 @@
       ];
     };
     archie-edit-cursor-go-to-time-time-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-go-to-time-time-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -1769,7 +1770,7 @@
       ];
     };
     archie-edit-cursor-go-to-time-time-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-go-to-time-time-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -1783,7 +1784,7 @@
       ];
     };
     archie-edit-cursor-move-cursor-for-n-milliseconds-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-cursor-for-n-milliseconds-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -1897,7 +1898,7 @@
       ];
     };
     archie-edit-cursor-move-cursor-for-n-milliseconds-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-cursor-for-n-milliseconds-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2011,7 +2012,7 @@
       ];
     };
     archie-edit-cursor-move-cursor-to-center-of-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-cursor-to-center-of-selected-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2025,7 +2026,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-last-start-of-play-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-last-start-of-play-cursor-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2039,7 +2040,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-last-start-of-play-cursor-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-last-start-of-play-cursor-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2053,7 +2054,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-nearest-1-1-3-grid-line-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-nearest-1-1-3-grid-line-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2067,7 +2068,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-nearest-1-1-3-grid-line-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-nearest-1-1-3-grid-line-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2081,7 +2082,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-nearest-1-2-grid-line-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-nearest-1-2-grid-line-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2095,7 +2096,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-nearest-1-2-grid-line-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-nearest-1-2-grid-line-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2109,7 +2110,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-nearest-1-4-grid-line-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-nearest-1-4-grid-line-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2123,7 +2124,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-nearest-1-4-grid-line-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-nearest-1-4-grid-line-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2137,7 +2138,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-nearest-measure-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-nearest-measure-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2151,7 +2152,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-nearest-measure-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-nearest-measure-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2165,7 +2166,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-nearest-visible-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-nearest-visible-grid-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2179,7 +2180,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-nearest-visible-grid-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-nearest-visible-grid-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2193,7 +2194,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-start-of-first-selected-item-and-next-in-time-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-start-of-first-selected-item-and-next-in-time-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2207,7 +2208,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-start-of-first-selected-item-and-next-in-time-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-start-of-first-selected-item-and-next-in-time-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2221,7 +2222,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-start-of-first-selected-item-in-time-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-start-of-first-selected-item-in-time-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2235,7 +2236,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-start-of-first-selected-item-in-time-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-start-of-first-selected-item-in-time-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2249,7 +2250,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-start-of-nearest-selected-item-and-next-in-time-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-start-of-nearest-selected-item-and-next-in-time-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2263,7 +2264,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-start-of-nearest-selected-item-and-next-in-time-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-start-of-nearest-selected-item-and-next-in-time-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2277,7 +2278,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-x-value-loop-in-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-x-value-loop-in-time-selection-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2291,7 +2292,7 @@
       ];
     };
     archie-edit-cursor-move-edit-cursor-to-x-value-loop-in-time-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-edit-cursor-move-edit-cursor-to-x-value-loop-in-time-selection-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Edit cursor";
@@ -2305,7 +2306,7 @@
       ];
     };
     archie-env-glue-automation-items-clean-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-glue-automation-items-clean-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2319,7 +2320,7 @@
       ];
     };
     archie-env-glue-automation-items-clean-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-glue-automation-items-clean-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2333,7 +2334,7 @@
       ];
     };
     archie-env-insert-four-points-in-time-selection-and-omit-by-1-db-env-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-insert-four-points-in-time-selection-and-omit-by-1-db-env-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2347,7 +2348,7 @@
       ];
     };
     archie-env-insert-four-points-in-time-selection-and-omit-by-1-db-env-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-insert-four-points-in-time-selection-and-omit-by-1-db-env-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2361,7 +2362,7 @@
       ];
     };
     archie-env-insert-four-points-in-time-selection-and-omit-by-1-db-env-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-insert-four-points-in-time-selection-and-omit-by-1-db-env-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2375,7 +2376,7 @@
       ];
     };
     archie-env-insert-four-points-in-time-selection-and-omit-by-1-db-envelope-track-volume-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-insert-four-points-in-time-selection-and-omit-by-1-db-envelope-track-volume-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2389,7 +2390,7 @@
       ];
     };
     archie-env-insert-four-points-in-time-selection-and-omit-by-1-db-envelope-track-volume-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-insert-four-points-in-time-selection-and-omit-by-1-db-envelope-track-volume-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2403,7 +2404,7 @@
       ];
     };
     archie-env-insert-four-points-in-time-selection-and-omit-by-1-db-envelope-track-volume-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-insert-four-points-in-time-selection-and-omit-by-1-db-envelope-track-volume-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2417,7 +2418,7 @@
       ];
     };
     archie-env-restore-envelope-point-selection-slot-01-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-restore-envelope-point-selection-slot-01-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2431,7 +2432,7 @@
       ];
     };
     archie-env-restore-envelope-point-selection-slot-01-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-restore-envelope-point-selection-slot-01-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2445,7 +2446,7 @@
       ];
     };
     archie-env-save-envelope-point-selection-slot-01-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-save-envelope-point-selection-slot-01-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2459,7 +2460,7 @@
       ];
     };
     archie-env-save-envelope-point-selection-slot-01-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-save-envelope-point-selection-slot-01-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2473,7 +2474,7 @@
       ];
     };
     archie-env-select-all-automation-items-in-selected-envelope-track-with-selected-points-preserve-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-select-all-automation-items-in-selected-envelope-track-with-selected-points-preserve-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2487,7 +2488,7 @@
       ];
     };
     archie-env-select-all-automation-items-in-selected-envelope-track-with-selected-points-preserve-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-select-all-automation-items-in-selected-envelope-track-with-selected-points-preserve-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2501,7 +2502,7 @@
       ];
     };
     archie-env-select-all-automation-items-in-selected-envelope-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-select-all-automation-items-in-selected-envelope-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2515,7 +2516,7 @@
       ];
     };
     archie-env-select-all-automation-items-in-selected-envelope-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-select-all-automation-items-in-selected-envelope-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2529,7 +2530,7 @@
       ];
     };
     archie-env-set-value-from-under-mouse-to-selected-points-active-envelope-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-set-value-from-under-mouse-to-selected-points-active-envelope-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2543,7 +2544,7 @@
       ];
     };
     archie-env-set-value-from-under-mouse-to-selected-points-active-envelope-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-set-value-from-under-mouse-to-selected-points-active-envelope-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2557,7 +2558,7 @@
       ];
     };
     archie-env-set-value-from-under-mouse-to-selected-points-active-envelope-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-set-value-from-under-mouse-to-selected-points-active-envelope-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2571,7 +2572,7 @@
       ];
     };
     archie-env-show-all-envelopes-for-all-track-containing-points-or-auto-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-show-all-envelopes-for-all-track-containing-points-or-auto-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2585,7 +2586,7 @@
       ];
     };
     archie-env-show-all-envelopes-for-all-track-containing-points-or-auto-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-show-all-envelopes-for-all-track-containing-points-or-auto-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2599,7 +2600,7 @@
       ];
     };
     archie-env-show-all-envelopes-for-selected-track-containing-points-or-auto-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-show-all-envelopes-for-selected-track-containing-points-or-auto-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2613,7 +2614,7 @@
       ];
     };
     archie-env-show-all-envelopes-for-selected-track-containing-points-or-auto-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-show-all-envelopes-for-selected-track-containing-points-or-auto-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2627,7 +2628,7 @@
       ];
     };
     archie-env-show-track-envelope-last-touched-fx-parameter-add-point-in-start-of-time-selection-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-show-track-envelope-last-touched-fx-parameter-add-point-in-start-of-time-selection-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2641,7 +2642,7 @@
       ];
     };
     archie-env-show-track-envelope-last-touched-fx-parameter-add-point-in-start-of-time-selection-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-show-track-envelope-last-touched-fx-parameter-add-point-in-start-of-time-selection-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2655,7 +2656,7 @@
       ];
     };
     archie-env-show-hide-track-envelope-last-touched-fx-parameter-add-point-in-start-of-time-selection-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-show-hide-track-envelope-last-touched-fx-parameter-add-point-in-start-of-time-selection-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2669,7 +2670,7 @@
       ];
     };
     archie-env-show-hide-track-envelope-last-touched-fx-parameter-add-point-in-start-of-time-selection-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-env-show-hide-track-envelope-last-touched-fx-parameter-add-point-in-start-of-time-selection-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope";
@@ -2683,7 +2684,7 @@
       ];
     };
     archie-envt-insert-four-points-in-time-selection-and-omit-by-1-db-envelope-take-volume-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-envt-insert-four-points-in-time-selection-and-omit-by-1-db-envelope-take-volume-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope Take";
@@ -2697,7 +2698,7 @@
       ];
     };
     archie-envt-insert-four-points-in-time-selection-and-omit-by-1-db-envelope-take-volume-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-envt-insert-four-points-in-time-selection-and-omit-by-1-db-envelope-take-volume-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope Take";
@@ -2711,7 +2712,7 @@
       ];
     };
     archie-envt-insert-points-on-edges-of-selected-items-active-take-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-envt-insert-points-on-edges-of-selected-items-active-take-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope Take";
@@ -2725,7 +2726,7 @@
       ];
     };
     archie-envt-insert-points-on-edges-of-selected-items-active-take-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-envt-insert-points-on-edges-of-selected-items-active-take-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope Take";
@@ -2739,7 +2740,7 @@
       ];
     };
     archie-envt-volume-selected-items-take-in-time-selection-mouse-wheel-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-envt-volume-selected-items-take-in-time-selection-mouse-wheel-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope Take";
@@ -2753,7 +2754,7 @@
       ];
     };
     archie-envt-volume-selected-items-take-in-time-selection-mouse-wheel-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-envt-volume-selected-items-take-in-time-selection-mouse-wheel-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope Take";
@@ -2767,7 +2768,7 @@
       ];
     };
     archie-envt-volume-take-under-mouse-in-time-selection-mouse-wheel-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-envt-volume-take-under-mouse-in-time-selection-mouse-wheel-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope Take";
@@ -2781,7 +2782,7 @@
       ];
     };
     archie-envt-volume-take-under-mouse-in-time-selection-mouse-wheel-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-envt-volume-take-under-mouse-in-time-selection-mouse-wheel-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope Take";
@@ -2795,7 +2796,7 @@
       ];
     };
     archie-envt-volume-take-under-mouse-in-time-selection-plus1-db-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-envt-volume-take-under-mouse-in-time-selection-plus1-db-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope Take";
@@ -2809,7 +2810,7 @@
       ];
     };
     archie-envt-volume-take-under-mouse-in-time-selection-plus1-db-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-envt-volume-take-under-mouse-in-time-selection-plus1-db-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope Take";
@@ -2823,7 +2824,7 @@
       ];
     };
     archie-envt-volume-take-under-mouse-in-time-selection-1-db-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-envt-volume-take-under-mouse-in-time-selection-1-db-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope Take";
@@ -2837,7 +2838,7 @@
       ];
     };
     archie-envt-volume-take-under-mouse-in-time-selection-1-db-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-envt-volume-take-under-mouse-in-time-selection-1-db-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Envelope Take";
@@ -2851,7 +2852,7 @@
       ];
     };
     archie-fade-delete-fade-in-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-delete-fade-in-selected-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -2865,7 +2866,7 @@
       ];
     };
     archie-fade-delete-fade-in-selected-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-delete-fade-in-selected-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -2879,7 +2880,7 @@
       ];
     };
     archie-fade-enlarge-fade-by-10-ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-enlarge-fade-by-10-ms-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -2893,7 +2894,7 @@
       ];
     };
     archie-fade-enlarge-fade-by-10-ms-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-enlarge-fade-by-10-ms-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -2907,7 +2908,7 @@
       ];
     };
     archie-fade-enlarge-fade-by-100-ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-enlarge-fade-by-100-ms-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -2921,7 +2922,7 @@
       ];
     };
     archie-fade-enlarge-fade-by-100-ms-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-enlarge-fade-by-100-ms-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -2935,7 +2936,7 @@
       ];
     };
     archie-fade-reduce-fade-by-10-ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-reduce-fade-by-10-ms-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -2949,7 +2950,7 @@
       ];
     };
     archie-fade-reduce-fade-by-10-ms-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-reduce-fade-by-10-ms-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -2963,7 +2964,7 @@
       ];
     };
     archie-fade-reduce-fade-by-100-ms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-reduce-fade-by-100-ms-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -2977,7 +2978,7 @@
       ];
     };
     archie-fade-reduce-fade-by-100-ms-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-reduce-fade-by-100-ms-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -2991,7 +2992,7 @@
       ];
     };
     archie-fade-save-crossfade-when-move-item-when-trim-is-on-autorun-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-save-crossfade-when-move-item-when-trim-is-on-autorun-lua-1-15";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -3005,7 +3006,7 @@
       ];
     };
     archie-fade-save-crossfade-when-move-item-when-trim-is-on-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-save-crossfade-when-move-item-when-trim-is-on-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -3019,7 +3020,7 @@
       ];
     };
     archie-fade-save-crossfade-when-move-item-when-trim-is-on-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-save-crossfade-when-move-item-when-trim-is-on-lua-1-07";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -3033,7 +3034,7 @@
       ];
     };
     archie-fade-save-crossfade-when-move-item-when-trim-is-on-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-save-crossfade-when-move-item-when-trim-is-on-lua-1-08";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -3047,7 +3048,7 @@
       ];
     };
     archie-fade-save-crossfade-when-move-item-when-trim-is-on-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-save-crossfade-when-move-item-when-trim-is-on-lua-1-10";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -3061,7 +3062,7 @@
       ];
     };
     archie-fade-save-crossfade-when-move-item-when-trim-is-on-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fade-save-crossfade-when-move-item-when-trim-is-on-lua-1-15";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Fade";
@@ -3075,7 +3076,7 @@
       ];
     };
     archie-file-clean-current-project-directory-ctrl-user-input-path-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-file-clean-current-project-directory-ctrl-user-input-path-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/File";
@@ -3089,7 +3090,7 @@
       ];
     };
     archie-file-clean-current-project-directory-ctrl-user-input-path-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-file-clean-current-project-directory-ctrl-user-input-path-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/File";
@@ -3103,7 +3104,7 @@
       ];
     };
     archie-fx-add-fx-by-name-in-selected-tracks-a-description-of-settings-inside-script-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-add-fx-by-name-in-selected-tracks-a-description-of-settings-inside-script-lua-1-08";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3117,7 +3118,7 @@
       ];
     };
     archie-fx-add-fx-by-name-in-selected-tracks-a-description-of-settings-inside-script-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-add-fx-by-name-in-selected-tracks-a-description-of-settings-inside-script-lua-1-09";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3131,7 +3132,7 @@
       ];
     };
     archie-fx-bypass-all-fx-all-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-all-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3145,7 +3146,7 @@
       ];
     };
     archie-fx-bypass-all-fx-all-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-all-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3159,7 +3160,7 @@
       ];
     };
     archie-fx-bypass-all-fx-all-tracks-restore-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-all-tracks-restore-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3173,7 +3174,7 @@
       ];
     };
     archie-fx-bypass-all-fx-all-tracks-restore-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-all-tracks-restore-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3187,7 +3188,7 @@
       ];
     };
     archie-fx-bypass-all-fx-all-tracks-save-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-all-tracks-save-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3201,7 +3202,7 @@
       ];
     };
     archie-fx-bypass-all-fx-all-tracks-save-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-all-tracks-save-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3215,7 +3216,7 @@
       ];
     };
     archie-fx-bypass-all-fx-all-tracks-except-instruments-restore-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-all-tracks-except-instruments-restore-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3229,7 +3230,7 @@
       ];
     };
     archie-fx-bypass-all-fx-all-tracks-except-instruments-restore-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-all-tracks-except-instruments-restore-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3243,7 +3244,7 @@
       ];
     };
     archie-fx-bypass-all-fx-all-tracks-except-instruments-save-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-all-tracks-except-instruments-save-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3257,7 +3258,7 @@
       ];
     };
     archie-fx-bypass-all-fx-all-tracks-except-instruments-save-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-all-tracks-except-instruments-save-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3271,7 +3272,7 @@
       ];
     };
     archie-fx-bypass-all-fx-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-selected-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3285,7 +3286,7 @@
       ];
     };
     archie-fx-bypass-all-fx-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-selected-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3299,7 +3300,7 @@
       ];
     };
     archie-fx-bypass-all-fx-selected-tracks-restore-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-selected-tracks-restore-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3313,7 +3314,7 @@
       ];
     };
     archie-fx-bypass-all-fx-selected-tracks-restore-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-selected-tracks-restore-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3327,7 +3328,7 @@
       ];
     };
     archie-fx-bypass-all-fx-selected-tracks-save-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-selected-tracks-save-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3341,7 +3342,7 @@
       ];
     };
     archie-fx-bypass-all-fx-selected-tracks-save-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-selected-tracks-save-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3355,7 +3356,7 @@
       ];
     };
     archie-fx-bypass-all-fx-selected-tracks-except-instruments-restore-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-selected-tracks-except-instruments-restore-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3369,7 +3370,7 @@
       ];
     };
     archie-fx-bypass-all-fx-selected-tracks-except-instruments-restore-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-selected-tracks-except-instruments-restore-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3383,7 +3384,7 @@
       ];
     };
     archie-fx-bypass-all-fx-selected-tracks-except-instruments-save-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-selected-tracks-except-instruments-save-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3397,7 +3398,7 @@
       ];
     };
     archie-fx-bypass-all-fx-selected-tracks-except-instruments-save-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-all-fx-selected-tracks-except-instruments-save-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3411,7 +3412,7 @@
       ];
     };
     archie-fx-bypass-instrument-all-tracks-restore-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-instrument-all-tracks-restore-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3425,7 +3426,7 @@
       ];
     };
     archie-fx-bypass-instrument-all-tracks-restore-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-instrument-all-tracks-restore-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3439,7 +3440,7 @@
       ];
     };
     archie-fx-bypass-instrument-all-tracks-save-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-instrument-all-tracks-save-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3453,7 +3454,7 @@
       ];
     };
     archie-fx-bypass-instrument-all-tracks-save-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-instrument-all-tracks-save-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3467,7 +3468,7 @@
       ];
     };
     archie-fx-bypass-instrument-selected-tracks-restore-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-instrument-selected-tracks-restore-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3481,7 +3482,7 @@
       ];
     };
     archie-fx-bypass-instrument-selected-tracks-restore-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-instrument-selected-tracks-restore-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3495,7 +3496,7 @@
       ];
     };
     archie-fx-bypass-instrument-selected-tracks-save-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-instrument-selected-tracks-save-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3509,7 +3510,7 @@
       ];
     };
     archie-fx-bypass-instrument-selected-tracks-save-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-instrument-selected-tracks-save-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3523,7 +3524,7 @@
       ];
     };
     archie-fx-bypass-necessary-fx-in-selected-tracks-user-input-through-space-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-necessary-fx-in-selected-tracks-user-input-through-space-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3537,7 +3538,7 @@
       ];
     };
     archie-fx-bypass-necessary-fx-in-selected-tracks-user-input-through-space-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-bypass-necessary-fx-in-selected-tracks-user-input-through-space-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3551,7 +3552,7 @@
       ];
     };
     archie-fx-close-all-fx-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-close-all-fx-take-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3565,7 +3566,7 @@
       ];
     };
     archie-fx-close-all-fx-take-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-close-all-fx-take-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3579,7 +3580,7 @@
       ];
     };
     archie-fx-close-all-fx-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-close-all-fx-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3593,7 +3594,7 @@
       ];
     };
     archie-fx-close-all-fx-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-close-all-fx-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3607,7 +3608,7 @@
       ];
     };
     archie-fx-close-all-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-close-all-fx-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3621,7 +3622,7 @@
       ];
     };
     archie-fx-close-all-fx-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-close-all-fx-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3635,7 +3636,7 @@
       ];
     };
     archie-fx-close-all-vsti-in-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-close-all-vsti-in-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3649,7 +3650,7 @@
       ];
     };
     archie-fx-close-all-vsti-in-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-close-all-vsti-in-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3663,7 +3664,7 @@
       ];
     };
     archie-fx-close-first-instrument-in-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-close-first-instrument-in-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3677,7 +3678,7 @@
       ];
     };
     archie-fx-close-first-instrument-in-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-close-first-instrument-in-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3691,7 +3692,7 @@
       ];
     };
     archie-fx-freeze-track-in-to-specified-fx-user-input-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-freeze-track-in-to-specified-fx-user-input-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3720,7 +3721,7 @@
       ];
     };
     archie-fx-freeze-track-in-to-specified-fx-user-input-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-freeze-track-in-to-specified-fx-user-input-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3749,7 +3750,7 @@
       ];
     };
     archie-fx-freeze-track-in-up-to-last-selected-fx-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-freeze-track-in-up-to-last-selected-fx-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3778,7 +3779,7 @@
       ];
     };
     archie-fx-freeze-track-in-up-to-last-selected-fx-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-freeze-track-in-up-to-last-selected-fx-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3807,7 +3808,7 @@
       ];
     };
     archie-fx-freeze-track-in-up-to-last-selected-fx-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-freeze-track-in-up-to-last-selected-fx-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3836,7 +3837,7 @@
       ];
     };
     archie-fx-move-last-fx-in-selected-items-to-first-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-move-last-fx-in-selected-items-to-first-position-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3850,7 +3851,7 @@
       ];
     };
     archie-fx-move-last-fx-in-selected-items-to-first-position-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-move-last-fx-in-selected-items-to-first-position-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3864,7 +3865,7 @@
       ];
     };
     archie-fx-move-last-fx-in-selected-tracks-to-first-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-move-last-fx-in-selected-tracks-to-first-position-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3878,7 +3879,7 @@
       ];
     };
     archie-fx-move-last-fx-in-selected-tracks-to-first-position-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-move-last-fx-in-selected-tracks-to-first-position-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3892,7 +3893,7 @@
       ];
     };
     archie-fx-offline-all-fx-all-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-offline-all-fx-all-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3906,7 +3907,7 @@
       ];
     };
     archie-fx-offline-all-fx-all-tracks-restore-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-offline-all-fx-all-tracks-restore-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3920,7 +3921,7 @@
       ];
     };
     archie-fx-offline-all-fx-all-tracks-save-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-offline-all-fx-all-tracks-save-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3934,7 +3935,7 @@
       ];
     };
     archie-fx-offline-all-fx-in-project-with-delay-pdc-over-256-samples-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-offline-all-fx-in-project-with-delay-pdc-over-256-samples-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3948,7 +3949,7 @@
       ];
     };
     archie-fx-offline-all-fx-in-project-with-delay-pdc-over-256-samples-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-offline-all-fx-in-project-with-delay-pdc-over-256-samples-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3962,7 +3963,7 @@
       ];
     };
     archie-fx-offline-all-fx-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-offline-all-fx-selected-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3976,7 +3977,7 @@
       ];
     };
     archie-fx-offline-all-fx-selected-tracks-restore-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-offline-all-fx-selected-tracks-restore-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -3990,7 +3991,7 @@
       ];
     };
     archie-fx-offline-all-fx-selected-tracks-restore-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-offline-all-fx-selected-tracks-restore-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4004,7 +4005,7 @@
       ];
     };
     archie-fx-offline-all-fx-selected-tracks-save-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-offline-all-fx-selected-tracks-save-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4018,7 +4019,7 @@
       ];
     };
     archie-fx-offline-all-fx-selected-tracks-save-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-offline-all-fx-selected-tracks-save-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4032,7 +4033,7 @@
       ];
     };
     archie-fx-offline-all-fx-selected-tracks-save-previous-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-offline-all-fx-selected-tracks-save-previous-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4046,7 +4047,7 @@
       ];
     };
     archie-fx-online-all-fx-all-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-online-all-fx-all-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4060,7 +4061,7 @@
       ];
     };
     archie-fx-online-all-fx-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-online-all-fx-selected-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4074,7 +4075,7 @@
       ];
     };
     archie-fx-open-all-vsti-in-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-open-all-vsti-in-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4088,7 +4089,7 @@
       ];
     };
     archie-fx-open-all-vsti-in-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-open-all-vsti-in-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4102,7 +4103,7 @@
       ];
     };
     archie-fx-open-first-instrument-in-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-open-first-instrument-in-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4116,7 +4117,7 @@
       ];
     };
     archie-fx-open-first-instrument-in-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-open-first-instrument-in-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4130,7 +4131,7 @@
       ];
     };
     archie-fx-rename-all-fx-in-selected-tracks-in-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-rename-all-fx-in-selected-tracks-in-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4144,7 +4145,7 @@
       ];
     };
     archie-fx-rename-all-fx-in-selected-tracks-in-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-rename-all-fx-in-selected-tracks-in-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4158,7 +4159,7 @@
       ];
     };
     archie-fx-rename-all-fx-in-selected-tracks-in-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-rename-all-fx-in-selected-tracks-in-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4172,7 +4173,7 @@
       ];
     };
     archie-fx-rename-all-fx-in-selected-tracks-with-specific-name-in-specific-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-rename-all-fx-in-selected-tracks-with-specific-name-in-specific-name-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4186,7 +4187,7 @@
       ];
     };
     archie-fx-rename-all-fx-in-selected-tracks-with-specific-name-in-specific-name-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-rename-all-fx-in-selected-tracks-with-specific-name-in-specific-name-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4200,7 +4201,7 @@
       ];
     };
     archie-fx-rename-fx-in-selected-tracks-to-preset-name-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-rename-fx-in-selected-tracks-to-preset-name-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4214,7 +4215,7 @@
       ];
     };
     archie-fx-rename-fx-in-selected-tracks-to-preset-name-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-rename-fx-in-selected-tracks-to-preset-name-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4228,7 +4229,7 @@
       ];
     };
     archie-fx-rename-last-fx-in-selected-tracks-name-n-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-rename-last-fx-in-selected-tracks-name-n-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4242,7 +4243,7 @@
       ];
     };
     archie-fx-rename-last-selected-fx-in-chain-in-selected-tracks-to-preset-name-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-rename-last-selected-fx-in-chain-in-selected-tracks-to-preset-name-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4256,7 +4257,7 @@
       ];
     };
     archie-fx-rename-last-selected-fx-in-chain-in-selected-tracks-to-preset-name-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-rename-last-selected-fx-in-chain-in-selected-tracks-to-preset-name-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4270,7 +4271,7 @@
       ];
     };
     archie-fx-revers-fade-in-out-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-revers-fade-in-out-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4284,7 +4285,7 @@
       ];
     };
     archie-fx-revers-fade-in-out-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-revers-fade-in-out-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4298,7 +4299,7 @@
       ];
     };
     archie-fx-show-all-active-floating-fx-windows-for-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-show-all-active-floating-fx-windows-for-selected-tracks-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4312,7 +4313,7 @@
       ];
     };
     archie-fx-show-all-active-floating-fx-windows-for-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-show-all-active-floating-fx-windows-for-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4326,7 +4327,7 @@
       ];
     };
     archie-fx-smart-template-add-fx-by-name-to-selected-tracks-plus-master-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-smart-template-add-fx-by-name-to-selected-tracks-plus-master-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4340,7 +4341,7 @@
       ];
     };
     archie-fx-smart-template-add-fx-by-name-to-selected-tracks-plus-master-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-smart-template-add-fx-by-name-to-selected-tracks-plus-master-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4354,7 +4355,7 @@
       ];
     };
     archie-fx-smart-template-add-fx-by-name-to-selected-tracks-plus-master-track-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-smart-template-add-fx-by-name-to-selected-tracks-plus-master-track-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4368,7 +4369,7 @@
       ];
     };
     archie-fx-smart-template-add-fx-chain-by-name-for-selected-items-or-in-time-selection-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-smart-template-add-fx-chain-by-name-for-selected-items-or-in-time-selection-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4382,7 +4383,7 @@
       ];
     };
     archie-fx-smart-template-add-fx-chain-by-name-for-selected-items-or-in-time-selection-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-smart-template-add-fx-chain-by-name-for-selected-items-or-in-time-selection-lua-1-07";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4396,7 +4397,7 @@
       ];
     };
     archie-fx-smart-template-add-fx-chain-by-name-for-selected-items-or-in-time-selection-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-smart-template-add-fx-chain-by-name-for-selected-items-or-in-time-selection-lua-1-08";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4410,7 +4411,7 @@
       ];
     };
     archie-fx-smart-template-add-fx-chain-by-name-for-selected-items-or-in-time-selection-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-smart-template-add-fx-chain-by-name-for-selected-items-or-in-time-selection-lua-1-15";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4424,7 +4425,7 @@
       ];
     };
     archie-fx-smart-template-add-fx-chain-by-name-for-selected-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-smart-template-add-fx-chain-by-name-for-selected-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4438,7 +4439,7 @@
       ];
     };
     archie-fx-smart-template-add-fx-chain-by-name-for-selected-tracks-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-smart-template-add-fx-chain-by-name-for-selected-tracks-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4452,7 +4453,7 @@
       ];
     };
     archie-fx-smart-template-add-fx-chain-by-name-for-selected-tracks-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-smart-template-add-fx-chain-by-name-for-selected-tracks-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4466,7 +4467,7 @@
       ];
     };
     archie-fx-toggle-auto-open-vsti-in-selected-tracks-and-close-in-the-rest-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-auto-open-vsti-in-selected-tracks-and-close-in-the-rest-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4480,7 +4481,7 @@
       ];
     };
     archie-fx-toggle-auto-open-vsti-in-selected-tracks-and-close-in-the-rest-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-auto-open-vsti-in-selected-tracks-and-close-in-the-rest-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4494,7 +4495,7 @@
       ];
     };
     archie-fx-toggle-bypass-all-fx-all-tracks-save-restore-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-bypass-all-fx-all-tracks-save-restore-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4508,7 +4509,7 @@
       ];
     };
     archie-fx-toggle-bypass-all-fx-all-tracks-save-restore-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-bypass-all-fx-all-tracks-save-restore-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4522,7 +4523,7 @@
       ];
     };
     archie-fx-toggle-bypass-all-fx-all-tracks-except-instruments-save-restore-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-bypass-all-fx-all-tracks-except-instruments-save-restore-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4536,7 +4537,7 @@
       ];
     };
     archie-fx-toggle-bypass-all-fx-all-tracks-except-instruments-save-restore-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-bypass-all-fx-all-tracks-except-instruments-save-restore-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4550,7 +4551,7 @@
       ];
     };
     archie-fx-toggle-bypass-focused-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-bypass-focused-fx-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4564,7 +4565,7 @@
       ];
     };
     archie-fx-toggle-bypass-focused-fx-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-bypass-focused-fx-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4578,7 +4579,7 @@
       ];
     };
     archie-fx-toggle-bypass-fx-by-name-in-tracks-by-name-template-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-bypass-fx-by-name-in-tracks-by-name-template-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4592,7 +4593,7 @@
       ];
     };
     archie-fx-toggle-bypass-fx-by-name-in-tracks-by-name-template-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-bypass-fx-by-name-in-tracks-by-name-template-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4606,7 +4607,7 @@
       ];
     };
     archie-fx-toggle-bypass-fx-by-name-in-tracks-by-name-template-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-bypass-fx-by-name-in-tracks-by-name-template-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4620,7 +4621,7 @@
       ];
     };
     archie-fx-toggle-bypass-instrument-all-tracks-save-restore-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-bypass-instrument-all-tracks-save-restore-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4634,7 +4635,7 @@
       ];
     };
     archie-fx-toggle-bypass-instrument-all-tracks-save-restore-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-bypass-instrument-all-tracks-save-restore-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4648,7 +4649,7 @@
       ];
     };
     archie-fx-toggle-fx-9-online-offline-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-fx-9-online-offline-for-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4662,7 +4663,7 @@
       ];
     };
     archie-fx-toggle-fx-9-online-offline-for-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-fx-9-online-offline-for-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4676,7 +4677,7 @@
       ];
     };
     archie-fx-toggle-open-close-all-vsti-in-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-open-close-all-vsti-in-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4690,7 +4691,7 @@
       ];
     };
     archie-fx-toggle-open-close-all-vsti-in-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-open-close-all-vsti-in-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4704,7 +4705,7 @@
       ];
     };
     archie-fx-toggle-show-hide-all-active-floating-fx-windows-for-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-show-hide-all-active-floating-fx-windows-for-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4718,7 +4719,7 @@
       ];
     };
     archie-fx-toggle-show-hide-all-active-floating-fx-windows-for-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-toggle-show-hide-all-active-floating-fx-windows-for-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4732,7 +4733,7 @@
       ];
     };
     archie-fx-ui-of-all-fx-in-all-send-of-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-ui-of-all-fx-in-all-send-of-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4761,7 +4762,7 @@
       ];
     };
     archie-fx-ui-of-all-fx-in-all-send-of-selected-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-ui-of-all-fx-in-all-send-of-selected-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4790,7 +4791,7 @@
       ];
     };
     archie-fx-ui-of-all-fx-in-send-n-of-selected-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-ui-of-all-fx-in-send-n-of-selected-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -4924,7 +4925,7 @@
       ];
     };
     archie-fx-ui-of-all-fx-in-send-n-of-selected-tracks-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-ui-of-all-fx-in-send-n-of-selected-tracks-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -5058,7 +5059,7 @@
       ];
     };
     archie-fx-unbypass-all-fx-all-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-unbypass-all-fx-all-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -5072,7 +5073,7 @@
       ];
     };
     archie-fx-unbypass-all-fx-all-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-unbypass-all-fx-all-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -5086,7 +5087,7 @@
       ];
     };
     archie-fx-unbypass-all-fx-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-unbypass-all-fx-selected-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -5100,7 +5101,7 @@
       ];
     };
     archie-fx-unbypass-all-fx-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-unbypass-all-fx-selected-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -5114,7 +5115,7 @@
       ];
     };
     archie-fx-unbypass-necessary-fx-in-selected-tracks-user-input-through-space-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-unbypass-necessary-fx-in-selected-tracks-user-input-through-space-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -5128,7 +5129,7 @@
       ];
     };
     archie-fx-unbypass-necessary-fx-in-selected-tracks-user-input-through-space-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-fx-unbypass-necessary-fx-in-selected-tracks-user-input-through-space-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/FX";
@@ -5142,7 +5143,7 @@
       ];
     };
     archie-grid-free-movement-of-item-s-when-snap-to-grid-is-on-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-free-movement-of-item-s-when-snap-to-grid-is-on-lua-1-08";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5156,7 +5157,7 @@
       ];
     };
     archie-grid-free-movement-of-item-s-when-snap-to-grid-is-on-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-free-movement-of-item-s-when-snap-to-grid-is-on-lua-1-09";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5170,7 +5171,7 @@
       ];
     };
     archie-grid-move-select-items-to-next-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-move-select-items-to-next-grid-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5184,7 +5185,7 @@
       ];
     };
     archie-grid-move-select-items-to-next-grid-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-move-select-items-to-next-grid-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5198,7 +5199,7 @@
       ];
     };
     archie-grid-move-select-items-to-next-visible-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-move-select-items-to-next-visible-grid-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5212,7 +5213,7 @@
       ];
     };
     archie-grid-move-select-items-to-next-visible-grid-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-move-select-items-to-next-visible-grid-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5226,7 +5227,7 @@
       ];
     };
     archie-grid-move-select-items-to-previous-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-move-select-items-to-previous-grid-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5240,7 +5241,7 @@
       ];
     };
     archie-grid-move-select-items-to-previous-grid-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-move-select-items-to-previous-grid-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5254,7 +5255,7 @@
       ];
     };
     archie-grid-move-select-items-to-previous-visible-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-move-select-items-to-previous-visible-grid-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5268,7 +5269,7 @@
       ];
     };
     archie-grid-move-select-items-to-previous-visible-grid-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-move-select-items-to-previous-visible-grid-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5282,7 +5283,7 @@
       ];
     };
     archie-grid-swing-grid-minus-one-percent-arrange-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-swing-grid-minus-one-percent-arrange-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5296,7 +5297,7 @@
       ];
     };
     archie-grid-swing-grid-minus-one-percent-arrange-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-swing-grid-minus-one-percent-arrange-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5310,7 +5311,7 @@
       ];
     };
     archie-grid-swing-grid-plus-one-percent-arrange-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-swing-grid-plus-one-percent-arrange-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5324,7 +5325,7 @@
       ];
     };
     archie-grid-swing-grid-plus-one-percent-arrange-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-swing-grid-plus-one-percent-arrange-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5338,7 +5339,7 @@
       ];
     };
     archie-grid-swing-off-and-reset-arrange-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-swing-off-and-reset-arrange-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5352,7 +5353,7 @@
       ];
     };
     archie-grid-swing-off-and-reset-arrange-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-grid-swing-off-and-reset-arrange-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Grid";
@@ -5366,7 +5367,7 @@
       ];
     };
     archie-group-toggle-mute-unmute-all-tracks-in-group-n-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-group-toggle-mute-unmute-all-tracks-in-group-n-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Group";
@@ -5535,7 +5536,7 @@
       ];
     };
     archie-group-toggle-mute-unmute-all-tracks-in-group-n-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-group-toggle-mute-unmute-all-tracks-in-group-n-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Group";
@@ -5704,7 +5705,7 @@
       ];
     };
     archie-group-toggle-solo-unsolo-all-tracks-in-group-n-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-group-toggle-solo-unsolo-all-tracks-in-group-n-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Group";
@@ -5873,7 +5874,7 @@
       ];
     };
     archie-group-toggle-solo-unsolo-all-tracks-in-group-n-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-group-toggle-solo-unsolo-all-tracks-in-group-n-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Group";
@@ -6042,7 +6043,7 @@
       ];
     };
     archie-gui-color-switch-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-color-switch-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6056,7 +6057,7 @@
       ];
     };
     archie-gui-color-switch-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-color-switch-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6070,7 +6071,7 @@
       ];
     };
     archie-gui-color-switch-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-color-switch-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6084,7 +6085,7 @@
       ];
     };
     archie-gui-duplicate-selected-items-to-time-selection-relative-given-division-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-duplicate-selected-items-to-time-selection-relative-given-division-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6098,7 +6099,7 @@
       ];
     };
     archie-gui-duplicate-selected-items-to-time-selection-relative-given-division-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-duplicate-selected-items-to-time-selection-relative-given-division-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6112,7 +6113,7 @@
       ];
     };
     archie-gui-grid-switch-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-grid-switch-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6126,7 +6127,7 @@
       ];
     };
     archie-gui-grid-switch-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-grid-switch-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6140,7 +6141,7 @@
       ];
     };
     archie-gui-grid-switch-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-grid-switch-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6154,7 +6155,7 @@
       ];
     };
     archie-gui-grid-switch-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-grid-switch-lua-1-07";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6168,7 +6169,7 @@
       ];
     };
     archie-gui-show-clock-window-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-show-clock-window-lua-1-09";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6182,7 +6183,7 @@
       ];
     };
     archie-gui-show-clock-window-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-show-clock-window-lua-1-10";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6196,7 +6197,7 @@
       ];
     };
     archie-gui-show-clock-window-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-show-clock-window-lua-1-11";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6210,7 +6211,7 @@
       ];
     };
     archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6224,7 +6225,7 @@
       ];
     };
     archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6238,7 +6239,7 @@
       ];
     };
     archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6252,7 +6253,7 @@
       ];
     };
     archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6266,7 +6267,7 @@
       ];
     };
     archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6280,7 +6281,7 @@
       ];
     };
     archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6294,7 +6295,7 @@
       ];
     };
     archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-07";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6308,7 +6309,7 @@
       ];
     };
     archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-bypass-necessary-fx-in-selected-tracks-user-input-lua-1-08";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6322,7 +6323,7 @@
       ];
     };
     archie-gui-toggle-offline-necessary-fx-in-selected-tracks-user-input-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-offline-necessary-fx-in-selected-tracks-user-input-lua-1-08";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6336,7 +6337,7 @@
       ];
     };
     archie-gui-toggle-remove-necessary-fx-in-selected-tracks-user-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-remove-necessary-fx-in-selected-tracks-user-input-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6350,7 +6351,7 @@
       ];
     };
     archie-gui-toggle-remove-necessary-fx-in-selected-tracks-user-input-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-remove-necessary-fx-in-selected-tracks-user-input-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6364,7 +6365,7 @@
       ];
     };
     archie-gui-toggle-remove-necessary-fx-in-selected-tracks-user-input-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-remove-necessary-fx-in-selected-tracks-user-input-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6378,7 +6379,7 @@
       ];
     };
     archie-gui-toggle-remove-necessary-fx-in-selected-tracks-user-input-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-remove-necessary-fx-in-selected-tracks-user-input-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6392,7 +6393,7 @@
       ];
     };
     archie-gui-toggle-remove-necessary-fx-in-selected-tracks-user-input-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-remove-necessary-fx-in-selected-tracks-user-input-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6406,7 +6407,7 @@
       ];
     };
     archie-gui-toggle-remove-necessary-fx-in-selected-tracks-user-input-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-remove-necessary-fx-in-selected-tracks-user-input-lua-1-07";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6420,7 +6421,7 @@
       ];
     };
     archie-gui-toggle-remove-necessary-fx-in-selected-tracks-user-input-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-gui-toggle-remove-necessary-fx-in-selected-tracks-user-input-lua-1-08";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Gui";
@@ -6434,7 +6435,7 @@
       ];
     };
     archie-info-counter-time-project-autorun-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-info-counter-time-project-autorun-lua-1-22";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Info";
@@ -6448,7 +6449,7 @@
       ];
     };
     archie-info-counter-time-project-autorun-lua-1-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-info-counter-time-project-autorun-lua-1-23";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Info";
@@ -6462,7 +6463,7 @@
       ];
     };
     archie-info-counter-time-project-autorun-lua-1-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-info-counter-time-project-autorun-lua-1-24";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Info";
@@ -6476,7 +6477,7 @@
       ];
     };
     archie-info-counter-time-project-autorun-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-info-counter-time-project-autorun-lua-1-25";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Info";
@@ -6490,7 +6491,7 @@
       ];
     };
     archie-info-counter-time-project-autorun-lua-1-26 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-info-counter-time-project-autorun-lua-1-26";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Info";
@@ -6504,7 +6505,7 @@
       ];
     };
     archie-info-counter-time-project-autorun-lua-1-28 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-info-counter-time-project-autorun-lua-1-28";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Info";
@@ -6518,7 +6519,7 @@
       ];
     };
     archie-info-counter-time-project-autorun-lua-1-29 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-info-counter-time-project-autorun-lua-1-29";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Info";
@@ -6532,7 +6533,7 @@
       ];
     };
     archie-info-learn-what-script-are-used-in-custom-actions-and-cycle-action-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-info-learn-what-script-are-used-in-custom-actions-and-cycle-action-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Info";
@@ -6546,7 +6547,7 @@
       ];
     };
     archie-info-learn-what-script-are-used-in-custom-actions-and-cycle-action-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-info-learn-what-script-are-used-in-custom-actions-and-cycle-action-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Info";
@@ -6560,7 +6561,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-to-nearest-grid-under-mouse-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-to-nearest-grid-under-mouse-cursor-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6574,7 +6575,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-to-nearest-grid-under-mouse-cursor-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-to-nearest-grid-under-mouse-cursor-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6588,7 +6589,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-to-nearest-grid-under-mouse-cursor-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-to-nearest-grid-under-mouse-cursor-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6602,7 +6603,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-nearest-grid-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-nearest-grid-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6616,7 +6617,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-nearest-grid-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-nearest-grid-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6630,7 +6631,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-nearest-grid-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-nearest-grid-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6644,7 +6645,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-next-grid-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-next-grid-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6658,7 +6659,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-next-grid-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-next-grid-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6672,7 +6673,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-next-grid-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-next-grid-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6686,7 +6687,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-previous-grid-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-previous-grid-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6700,7 +6701,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-previous-grid-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-previous-grid-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6714,7 +6715,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-previous-grid-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-under-mouse-cursor-and-snap-to-previous-grid-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6728,7 +6729,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-under-mouse-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-under-mouse-cursor-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6742,7 +6743,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-under-mouse-cursor-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-under-mouse-cursor-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6756,7 +6757,7 @@
       ];
     };
     archie-item-add-remove-stretch-marker-under-mouse-cursor-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-add-remove-stretch-marker-under-mouse-cursor-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6770,7 +6771,7 @@
       ];
     };
     archie-item-adjust-item-length-by-grid-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-adjust-item-length-by-grid-mousewheel-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6784,7 +6785,7 @@
       ];
     };
     archie-item-adjust-item-length-by-grid-mousewheel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-adjust-item-length-by-grid-mousewheel-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6798,7 +6799,7 @@
       ];
     };
     archie-item-adjust-item-length-in-measures-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-adjust-item-length-in-measures-mousewheel-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6812,7 +6813,7 @@
       ];
     };
     archie-item-adjust-item-length-in-measures-mousewheel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-adjust-item-length-in-measures-mousewheel-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6826,7 +6827,7 @@
       ];
     };
     archie-item-apply-track-take-fx-to-items-as-new-take-lock-act-take-bypass-all-fx-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-apply-track-take-fx-to-items-as-new-take-lock-act-take-bypass-all-fx-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6840,7 +6841,7 @@
       ];
     };
     archie-item-apply-track-take-fx-to-items-as-new-take-lock-act-take-bypass-all-fx-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-apply-track-take-fx-to-items-as-new-take-lock-act-take-bypass-all-fx-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6854,7 +6855,7 @@
       ];
     };
     archie-item-apply-track-take-fx-to-items-as-new-take-lock-act-take-bypass-all-fx-track-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-apply-track-take-fx-to-items-as-new-take-lock-act-take-bypass-all-fx-track-lua-1-10";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6868,7 +6869,7 @@
       ];
     };
     archie-item-apply-track-take-fx-to-items-as-new-take-lock-act-take-offline-all-fx-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-apply-track-take-fx-to-items-as-new-take-lock-act-take-offline-all-fx-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6882,7 +6883,7 @@
       ];
     };
     archie-item-apply-track-take-fx-to-items-as-new-take-lock-act-take-offline-all-fx-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-apply-track-take-fx-to-items-as-new-take-lock-act-take-offline-all-fx-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6896,7 +6897,7 @@
       ];
     };
     archie-item-apply-track-take-fx-to-items-as-new-take-lock-act-take-offline-all-fx-track-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-apply-track-take-fx-to-items-as-new-take-lock-act-take-offline-all-fx-track-lua-1-10";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6910,7 +6911,7 @@
       ];
     };
     archie-item-apply-track-take-fx-to-items-as-new-take-lock-active-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-apply-track-take-fx-to-items-as-new-take-lock-active-take-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6924,7 +6925,7 @@
       ];
     };
     archie-item-apply-track-take-fx-to-items-as-new-take-lock-active-take-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-apply-track-take-fx-to-items-as-new-take-lock-active-take-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6938,7 +6939,7 @@
       ];
     };
     archie-item-apply-track-take-fx-to-items-as-new-take-lock-active-take-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-apply-track-take-fx-to-items-as-new-take-lock-active-take-lua-1-10";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6952,7 +6953,7 @@
       ];
     };
     archie-item-by-frame-move-item-under-mouse-cursor-move-cursor-the-to-offset-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-by-frame-move-item-under-mouse-cursor-move-cursor-the-to-offset-mousewheel-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6966,7 +6967,7 @@
       ];
     };
     archie-item-by-frame-move-item-under-mouse-cursor-move-cursor-the-to-offset-mousewheel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-by-frame-move-item-under-mouse-cursor-move-cursor-the-to-offset-mousewheel-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6980,7 +6981,7 @@
       ];
     };
     archie-item-by-samples-move-item-under-mouse-cursor-move-cursor-the-to-offset-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-by-samples-move-item-under-mouse-cursor-move-cursor-the-to-offset-mousewheel-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -6994,7 +6995,7 @@
       ];
     };
     archie-item-by-samples-move-item-under-mouse-cursor-move-cursor-the-to-offset-mousewheel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-by-samples-move-item-under-mouse-cursor-move-cursor-the-to-offset-mousewheel-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7008,7 +7009,7 @@
       ];
     };
     archie-item-change-playback-rate-selected-items-to-ctrl-custom-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-change-playback-rate-selected-items-to-ctrl-custom-value-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7022,7 +7023,7 @@
       ];
     };
     archie-item-change-playback-rate-selected-items-to-ctrl-custom-value-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-change-playback-rate-selected-items-to-ctrl-custom-value-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7036,7 +7037,7 @@
       ];
     };
     archie-item-change-playback-rate-selected-items-to-custom-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-change-playback-rate-selected-items-to-custom-value-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7050,7 +7051,7 @@
       ];
     };
     archie-item-change-playback-rate-selected-items-to-custom-value-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-change-playback-rate-selected-items-to-custom-value-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7064,7 +7065,7 @@
       ];
     };
     archie-item-change-volume-items-in-time-selection-on-selected-tracks-ctrlplusscript-to-set-the-value-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-change-volume-items-in-time-selection-on-selected-tracks-ctrlplusscript-to-set-the-value-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7078,7 +7079,7 @@
       ];
     };
     archie-item-change-volume-items-in-time-selection-on-selected-tracks-ctrlplusscript-to-set-the-value-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-change-volume-items-in-time-selection-on-selected-tracks-ctrlplusscript-to-set-the-value-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7092,7 +7093,7 @@
       ];
     };
     archie-item-change-volume-of-selected-items-to-ctrlplusscript-to-set-value-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-change-volume-of-selected-items-to-ctrlplusscript-to-set-value-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7106,7 +7107,7 @@
       ];
     };
     archie-item-change-volume-of-selected-items-to-ctrlplusscript-to-set-value-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-change-volume-of-selected-items-to-ctrlplusscript-to-set-value-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7120,7 +7121,7 @@
       ];
     };
     archie-item-copy-source-media-file-of-all-items-to-project-directory-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-copy-source-media-file-of-all-items-to-project-directory-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7134,7 +7135,7 @@
       ];
     };
     archie-item-copy-source-media-file-of-all-items-to-project-directory-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-copy-source-media-file-of-all-items-to-project-directory-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7148,7 +7149,7 @@
       ];
     };
     archie-item-copy-source-media-file-of-all-items-to-project-directory-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-copy-source-media-file-of-all-items-to-project-directory-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7162,7 +7163,7 @@
       ];
     };
     archie-item-copy-source-media-file-of-all-items-to-project-directory-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-copy-source-media-file-of-all-items-to-project-directory-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7176,7 +7177,7 @@
       ];
     };
     archie-item-copy-source-media-file-of-selected-items-to-project-directory-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-copy-source-media-file-of-selected-items-to-project-directory-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7190,7 +7191,7 @@
       ];
     };
     archie-item-copy-source-media-file-of-selected-items-to-project-directory-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-copy-source-media-file-of-selected-items-to-project-directory-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7204,7 +7205,7 @@
       ];
     };
     archie-item-copy-source-media-file-of-selected-items-to-project-directory-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-copy-source-media-file-of-selected-items-to-project-directory-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7218,7 +7219,7 @@
       ];
     };
     archie-item-copy-source-media-file-of-selected-items-to-project-directory-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-copy-source-media-file-of-selected-items-to-project-directory-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7232,7 +7233,7 @@
       ];
     };
     archie-item-copy-stretch-markers-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-copy-stretch-markers-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7246,7 +7247,7 @@
       ];
     };
     archie-item-copy-stretch-markers-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-copy-stretch-markers-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7260,7 +7261,7 @@
       ];
     };
     archie-item-copy-stretch-markers-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-copy-stretch-markers-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7274,7 +7275,7 @@
       ];
     };
     archie-item-cut-silence-by-grid-from-selected-items-to-created-track-under-item-80-db-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-cut-silence-by-grid-from-selected-items-to-created-track-under-item-80-db-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7288,7 +7289,7 @@
       ];
     };
     archie-item-cut-silence-by-grid-from-selected-items-to-created-track-under-item-80-db-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-cut-silence-by-grid-from-selected-items-to-created-track-under-item-80-db-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7302,7 +7303,7 @@
       ];
     };
     archie-item-cut-silence-by-measure-from-selected-items-to-created-track-under-item-80-db-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-cut-silence-by-measure-from-selected-items-to-created-track-under-item-80-db-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7316,7 +7317,7 @@
       ];
     };
     archie-item-cut-silence-by-measure-from-selected-items-to-created-track-under-item-80-db-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-cut-silence-by-measure-from-selected-items-to-created-track-under-item-80-db-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7330,7 +7331,7 @@
       ];
     };
     archie-item-cut-silence-from-selected-items-to-created-track-under-item-80-db-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-cut-silence-from-selected-items-to-created-track-under-item-80-db-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7344,7 +7345,7 @@
       ];
     };
     archie-item-cut-silence-from-selected-items-to-created-track-under-item-80-db-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-cut-silence-from-selected-items-to-created-track-under-item-80-db-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7358,7 +7359,7 @@
       ];
     };
     archie-item-de-stutter-1-2-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-de-stutter-1-2-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7372,7 +7373,7 @@
       ];
     };
     archie-item-de-stutter-1-2-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-de-stutter-1-2-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7386,7 +7387,7 @@
       ];
     };
     archie-item-de-stutter-1-3-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-de-stutter-1-3-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7400,7 +7401,7 @@
       ];
     };
     archie-item-de-stutter-1-3-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-de-stutter-1-3-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7414,7 +7415,7 @@
       ];
     };
     archie-item-delete-selected-items-time-selection-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-delete-selected-items-time-selection-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7428,7 +7429,7 @@
       ];
     };
     archie-item-delete-selected-items-time-selection-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-delete-selected-items-time-selection-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7442,7 +7443,7 @@
       ];
     };
     archie-item-delete-selected-items-in-time-selection-if-any-smart-delete-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-delete-selected-items-in-time-selection-if-any-smart-delete-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7456,7 +7457,7 @@
       ];
     };
     archie-item-delete-selected-items-in-time-selection-if-any-smart-delete-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-delete-selected-items-in-time-selection-if-any-smart-delete-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7470,7 +7471,7 @@
       ];
     };
     archie-item-delete-selected-items-in-time-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-delete-selected-items-in-time-selection-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7484,7 +7485,7 @@
       ];
     };
     archie-item-delete-selected-items-in-time-selection-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-delete-selected-items-in-time-selection-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7498,7 +7499,7 @@
       ];
     };
     archie-item-delete-selected-items-outside-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-delete-selected-items-outside-time-selection-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7512,7 +7513,7 @@
       ];
     };
     archie-item-delete-selected-items-outside-time-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-delete-selected-items-outside-time-selection-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7526,7 +7527,7 @@
       ];
     };
     archie-item-duplicate-item-to-mouse-position-relative-snap-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-duplicate-item-to-mouse-position-relative-snap-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7540,7 +7541,7 @@
       ];
     };
     archie-item-duplicate-item-to-mouse-position-relative-snap-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-duplicate-item-to-mouse-position-relative-snap-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7554,7 +7555,7 @@
       ];
     };
     archie-item-duplicate-item-to-mouse-position-snap-to-grid-relative-to-project-settings-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-duplicate-item-to-mouse-position-snap-to-grid-relative-to-project-settings-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7568,7 +7569,7 @@
       ];
     };
     archie-item-duplicate-item-to-mouse-position-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-duplicate-item-to-mouse-position-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7582,7 +7583,7 @@
       ];
     };
     archie-item-duplicate-item-to-mouse-position-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-duplicate-item-to-mouse-position-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7596,7 +7597,7 @@
       ];
     };
     archie-item-duplicate-selected-area-of-items-back-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-duplicate-selected-area-of-items-back-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7610,7 +7611,7 @@
       ];
     };
     archie-item-duplicate-selected-area-of-items-back-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-duplicate-selected-area-of-items-back-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7624,7 +7625,7 @@
       ];
     };
     archie-item-glue-selected-items-each-individually-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-glue-selected-items-each-individually-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7638,7 +7639,7 @@
       ];
     };
     archie-item-glue-selected-items-each-individually-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-glue-selected-items-each-individually-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7652,7 +7653,7 @@
       ];
     };
     archie-item-glue-selected-items-to-separate-track-midi-in-midi-audio-in-audio-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-glue-selected-items-to-separate-track-midi-in-midi-audio-in-audio-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7666,7 +7667,7 @@
       ];
     };
     archie-item-grab-item-on-edge-arrange-and-scroll-to-edge-item-one-side-autorun-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-grab-item-on-edge-arrange-and-scroll-to-edge-item-one-side-autorun-lua-1-12";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7680,7 +7681,7 @@
       ];
     };
     archie-item-grab-item-on-edge-arrange-and-scroll-to-edge-item-one-side-autorun-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-grab-item-on-edge-arrange-and-scroll-to-edge-item-one-side-autorun-lua-1-14";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7694,7 +7695,7 @@
       ];
     };
     archie-item-grab-item-on-edge-arrange-and-scroll-to-edge-item-autorun-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-grab-item-on-edge-arrange-and-scroll-to-edge-item-autorun-lua-1-12";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7708,7 +7709,7 @@
       ];
     };
     archie-item-grab-item-on-edge-arrange-and-scroll-to-edge-item-autorun-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-grab-item-on-edge-arrange-and-scroll-to-edge-item-autorun-lua-1-14";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7722,7 +7723,7 @@
       ];
     };
     archie-item-grab-item-on-edge-arrange-and-trim-by-edge-window-autorun-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-grab-item-on-edge-arrange-and-trim-by-edge-window-autorun-lua-1-12";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7736,7 +7737,7 @@
       ];
     };
     archie-item-grab-item-on-edge-arrange-and-trim-by-edge-window-autorun-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-grab-item-on-edge-arrange-and-trim-by-edge-window-autorun-lua-1-14";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7750,7 +7751,7 @@
       ];
     };
     archie-item-hide-all-visible-envelopes-in-selected-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-hide-all-visible-envelopes-in-selected-items-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7764,7 +7765,7 @@
       ];
     };
     archie-item-hide-all-visible-envelopes-in-selected-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-hide-all-visible-envelopes-in-selected-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7778,7 +7779,7 @@
       ];
     };
     archie-item-ignore-item-s-lock-with-ctrl-shift-or-alt-plus-left-click-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-ignore-item-s-lock-with-ctrl-shift-or-alt-plus-left-click-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7792,7 +7793,7 @@
       ];
     };
     archie-item-ignore-item-s-lock-with-ctrl-shift-or-alt-plus-left-click-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-ignore-item-s-lock-with-ctrl-shift-or-alt-plus-left-click-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7806,7 +7807,7 @@
       ];
     };
     archie-item-insert-item-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-insert-item-under-mouse-cursor-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7820,7 +7821,7 @@
       ];
     };
     archie-item-insert-item-under-mouse-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-insert-item-under-mouse-cursor-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7834,7 +7835,7 @@
       ];
     };
     archie-item-invert-items-selection-on-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-invert-items-selection-on-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7848,7 +7849,7 @@
       ];
     };
     archie-item-invert-items-selection-on-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-invert-items-selection-on-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7862,7 +7863,7 @@
       ];
     };
     archie-item-invert-select-items-on-its-tracks-in-time-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-invert-select-items-on-its-tracks-in-time-selection-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7876,7 +7877,7 @@
       ];
     };
     archie-item-invert-select-items-on-its-tracks-in-time-selection-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-invert-select-items-on-its-tracks-in-time-selection-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7890,7 +7891,7 @@
       ];
     };
     archie-item-move-all-notes-in-all-midi-items-in-semitones-user-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-all-notes-in-all-midi-items-in-semitones-user-input-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7904,7 +7905,7 @@
       ];
     };
     archie-item-move-all-notes-in-all-midi-items-in-semitones-user-input-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-all-notes-in-all-midi-items-in-semitones-user-input-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7918,7 +7919,7 @@
       ];
     };
     archie-item-move-all-notes-in-all-midi-items-one-semitone-down-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-all-notes-in-all-midi-items-one-semitone-down-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7932,7 +7933,7 @@
       ];
     };
     archie-item-move-all-notes-in-all-midi-items-one-semitone-down-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-all-notes-in-all-midi-items-one-semitone-down-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7946,7 +7947,7 @@
       ];
     };
     archie-item-move-all-notes-in-all-midi-items-one-semitone-up-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-all-notes-in-all-midi-items-one-semitone-up-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7960,7 +7961,7 @@
       ];
     };
     archie-item-move-all-notes-in-all-midi-items-one-semitone-up-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-all-notes-in-all-midi-items-one-semitone-up-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -7974,7 +7975,7 @@
       ];
     };
     archie-item-move-all-notes-in-selected-midi-items-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-all-notes-in-selected-midi-items-one-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8003,7 +8004,7 @@
       ];
     };
     archie-item-move-all-notes-in-selected-midi-items-one-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-all-notes-in-selected-midi-items-one-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8032,7 +8033,7 @@
       ];
     };
     archie-item-move-selected-items-down-by-one-visible-track-skip-minimized-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-down-by-one-visible-track-skip-minimized-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8046,7 +8047,7 @@
       ];
     };
     archie-item-move-selected-items-down-by-one-visible-track-skip-minimized-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-down-by-one-visible-track-skip-minimized-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8060,7 +8061,7 @@
       ];
     };
     archie-item-move-selected-items-down-by-one-visible-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-down-by-one-visible-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8074,7 +8075,7 @@
       ];
     };
     archie-item-move-selected-items-down-by-one-visible-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-down-by-one-visible-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8088,7 +8089,7 @@
       ];
     };
     archie-item-move-selected-items-down-one-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-down-one-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8102,7 +8103,7 @@
       ];
     };
     archie-item-move-selected-items-down-one-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-down-one-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8116,7 +8117,7 @@
       ];
     };
     archie-item-move-selected-items-to-a-track-with-name-n-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-to-a-track-with-name-n-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8130,7 +8131,7 @@
       ];
     };
     archie-item-move-selected-items-to-a-track-with-name-n-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-to-a-track-with-name-n-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8144,7 +8145,7 @@
       ];
     };
     archie-item-move-selected-items-to-each-other-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-to-each-other-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8158,7 +8159,7 @@
       ];
     };
     archie-item-move-selected-items-to-each-other-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-to-each-other-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8172,7 +8173,7 @@
       ];
     };
     archie-item-move-selected-items-up-by-one-visible-track-skip-minimized-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-up-by-one-visible-track-skip-minimized-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8186,7 +8187,7 @@
       ];
     };
     archie-item-move-selected-items-up-by-one-visible-track-skip-minimized-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-up-by-one-visible-track-skip-minimized-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8200,7 +8201,7 @@
       ];
     };
     archie-item-move-selected-items-up-by-one-visible-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-up-by-one-visible-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8214,7 +8215,7 @@
       ];
     };
     archie-item-move-selected-items-up-by-one-visible-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-up-by-one-visible-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8228,7 +8229,7 @@
       ];
     };
     archie-item-move-selected-items-up-one-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-up-one-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8242,7 +8243,7 @@
       ];
     };
     archie-item-move-selected-items-up-one-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-move-selected-items-up-one-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8256,7 +8257,7 @@
       ];
     };
     archie-item-nudge-right-edge-of-selected-items-to-left-one-grid-unit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-nudge-right-edge-of-selected-items-to-left-one-grid-unit-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8270,7 +8271,7 @@
       ];
     };
     archie-item-nudge-right-edge-of-selected-items-to-left-one-grid-unit-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-nudge-right-edge-of-selected-items-to-left-one-grid-unit-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8284,7 +8285,7 @@
       ];
     };
     archie-item-nudge-right-edge-of-selected-items-to-right-one-grid-unit-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-nudge-right-edge-of-selected-items-to-right-one-grid-unit-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8298,7 +8299,7 @@
       ];
     };
     archie-item-nudge-right-edge-of-selected-items-to-right-one-grid-unit-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-nudge-right-edge-of-selected-items-to-right-one-grid-unit-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8312,7 +8313,7 @@
       ];
     };
     archie-item-paste-item-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-paste-item-color-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8326,7 +8327,7 @@
       ];
     };
     archie-item-paste-item-color-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-paste-item-color-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8340,7 +8341,7 @@
       ];
     };
     archie-item-paste-stretch-markers-by-playback-rate-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-paste-stretch-markers-by-playback-rate-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8354,7 +8355,7 @@
       ];
     };
     archie-item-paste-stretch-markers-by-playback-rate-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-paste-stretch-markers-by-playback-rate-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8368,7 +8369,7 @@
       ];
     };
     archie-item-paste-stretch-markers-by-playback-rate-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-paste-stretch-markers-by-playback-rate-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8382,7 +8383,7 @@
       ];
     };
     archie-item-paste-stretch-markers-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-paste-stretch-markers-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8396,7 +8397,7 @@
       ];
     };
     archie-item-paste-stretch-markers-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-paste-stretch-markers-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8410,7 +8411,7 @@
       ];
     };
     archie-item-paste-stretch-markers-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-paste-stretch-markers-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8424,7 +8425,7 @@
       ];
     };
     archie-item-pitch-down-one-semitone-all-midi-items-all-midi-take-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-pitch-down-one-semitone-all-midi-items-all-midi-take-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8438,7 +8439,7 @@
       ];
     };
     archie-item-pitch-down-one-semitone-all-midi-items-all-midi-take-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-pitch-down-one-semitone-all-midi-items-all-midi-take-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8452,7 +8453,7 @@
       ];
     };
     archie-item-pitch-up-one-semitone-all-midi-items-all-midi-take-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-pitch-up-one-semitone-all-midi-items-all-midi-take-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8466,7 +8467,7 @@
       ];
     };
     archie-item-pitch-up-one-semitone-all-midi-items-all-midi-take-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-pitch-up-one-semitone-all-midi-items-all-midi-take-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8480,7 +8481,7 @@
       ];
     };
     archie-item-remove-all-items-envelopes-from-project-including-master-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-all-items-envelopes-from-project-including-master-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8494,7 +8495,7 @@
       ];
     };
     archie-item-remove-all-items-envelopes-from-project-including-master-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-all-items-envelopes-from-project-including-master-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8508,7 +8509,7 @@
       ];
     };
     archie-item-remove-even-items-from-selected-items-in-track-2-4-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-even-items-from-selected-items-in-track-2-4-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8522,7 +8523,7 @@
       ];
     };
     archie-item-remove-even-items-from-selected-items-in-track-2-4-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-even-items-from-selected-items-in-track-2-4-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8536,7 +8537,7 @@
       ];
     };
     archie-item-remove-final-selected-item-in-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-final-selected-item-in-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8550,7 +8551,7 @@
       ];
     };
     archie-item-remove-final-selected-item-in-tracks-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-final-selected-item-in-tracks-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8564,7 +8565,7 @@
       ];
     };
     archie-item-remove-final-selected-item-in-tracks-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-final-selected-item-in-tracks-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8578,7 +8579,7 @@
       ];
     };
     archie-item-remove-items-except-first-in-one-position-by-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-items-except-first-in-one-position-by-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8592,7 +8593,7 @@
       ];
     };
     archie-item-remove-items-except-first-in-one-position-by-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-items-except-first-in-one-position-by-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8606,7 +8607,7 @@
       ];
     };
     archie-item-remove-items-except-first-in-one-position-in-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-items-except-first-in-one-position-in-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8620,7 +8621,7 @@
       ];
     };
     archie-item-remove-items-except-first-in-one-position-in-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-items-except-first-in-one-position-in-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8634,7 +8635,7 @@
       ];
     };
     archie-item-remove-items-except-first-in-one-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-items-except-first-in-one-position-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8648,7 +8649,7 @@
       ];
     };
     archie-item-remove-last-selected-item-in-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-last-selected-item-in-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8662,7 +8663,7 @@
       ];
     };
     archie-item-remove-last-selected-item-in-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-last-selected-item-in-tracks-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8676,7 +8677,7 @@
       ];
     };
     archie-item-remove-last-selected-item-in-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-last-selected-item-in-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8690,7 +8691,7 @@
       ];
     };
     archie-item-remove-non-even-items-from-selected-items-in-track-1-3-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-non-even-items-from-selected-items-in-track-1-3-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8704,7 +8705,7 @@
       ];
     };
     archie-item-remove-non-even-items-from-selected-items-in-track-1-3-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-non-even-items-from-selected-items-in-track-1-3-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8718,7 +8719,7 @@
       ];
     };
     archie-item-remove-selected-items-outside-regions-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-selected-items-outside-regions-time-selection-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8732,7 +8733,7 @@
       ];
     };
     archie-item-remove-selected-items-outside-regions-time-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-selected-items-outside-regions-time-selection-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8746,7 +8747,7 @@
       ];
     };
     archie-item-remove-selected-overlap-items-by-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-selected-overlap-items-by-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8760,7 +8761,7 @@
       ];
     };
     archie-item-remove-selected-overlap-items-by-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-selected-overlap-items-by-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8774,7 +8775,7 @@
       ];
     };
     archie-item-remove-selected-overlap-items-in-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-selected-overlap-items-in-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8788,7 +8789,7 @@
       ];
     };
     archie-item-remove-selected-overlap-items-in-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-selected-overlap-items-in-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8802,7 +8803,7 @@
       ];
     };
     archie-item-remove-selected-overlap-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-selected-overlap-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8816,7 +8817,7 @@
       ];
     };
     archie-item-remove-selected-overlap-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-selected-overlap-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8830,7 +8831,7 @@
       ];
     };
     archie-item-remove-silence-by-grid-in-selected-media-items-60-db-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-silence-by-grid-in-selected-media-items-60-db-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8844,7 +8845,7 @@
       ];
     };
     archie-item-remove-silence-by-grid-in-selected-media-items-60-db-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-silence-by-grid-in-selected-media-items-60-db-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8858,7 +8859,7 @@
       ];
     };
     archie-item-remove-silence-by-grid-in-selected-media-items-80-db-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-silence-by-grid-in-selected-media-items-80-db-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8872,7 +8873,7 @@
       ];
     };
     archie-item-remove-silence-by-grid-in-selected-media-items-80-db-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-silence-by-grid-in-selected-media-items-80-db-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8886,7 +8887,7 @@
       ];
     };
     archie-item-remove-silence-by-measure-in-selected-media-items-60-db-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-silence-by-measure-in-selected-media-items-60-db-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8900,7 +8901,7 @@
       ];
     };
     archie-item-remove-silence-by-measure-in-selected-media-items-60-db-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-silence-by-measure-in-selected-media-items-60-db-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8914,7 +8915,7 @@
       ];
     };
     archie-item-remove-silence-by-measure-in-selected-media-items-80-db-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-silence-by-measure-in-selected-media-items-80-db-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8928,7 +8929,7 @@
       ];
     };
     archie-item-remove-silence-by-measure-in-selected-media-items-80-db-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-silence-by-measure-in-selected-media-items-80-db-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8942,7 +8943,7 @@
       ];
     };
     archie-item-remove-silence-in-selected-media-items-60-db-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-silence-in-selected-media-items-60-db-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8956,7 +8957,7 @@
       ];
     };
     archie-item-remove-silence-in-selected-media-items-60-db-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-silence-in-selected-media-items-60-db-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8970,7 +8971,7 @@
       ];
     };
     archie-item-remove-silence-in-selected-media-items-80-db-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-silence-in-selected-media-items-80-db-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8984,7 +8985,7 @@
       ];
     };
     archie-item-remove-silence-in-selected-media-items-80-db-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-remove-silence-in-selected-media-items-80-db-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -8998,7 +8999,7 @@
       ];
     };
     archie-item-select-all-items-in-project-with-sources-of-selected-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-all-items-in-project-with-sources-of-selected-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9012,7 +9013,7 @@
       ];
     };
     archie-item-select-all-items-in-project-with-sources-of-selected-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-all-items-in-project-with-sources-of-selected-items-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9026,7 +9027,7 @@
       ];
     };
     archie-item-select-first-item-from-cursor-position-in-all-selected-track-without-removing-selection-from-the-previous-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-first-item-from-cursor-position-in-all-selected-track-without-removing-selection-from-the-previous-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9040,7 +9041,7 @@
       ];
     };
     archie-item-select-first-item-from-cursor-position-in-all-selected-track-without-removing-selection-from-the-previous-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-first-item-from-cursor-position-in-all-selected-track-without-removing-selection-from-the-previous-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9054,7 +9055,7 @@
       ];
     };
     archie-item-select-first-item-from-cursor-position-in-all-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-first-item-from-cursor-position-in-all-selected-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9068,7 +9069,7 @@
       ];
     };
     archie-item-select-first-item-from-cursor-position-in-all-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-first-item-from-cursor-position-in-all-selected-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9082,7 +9083,7 @@
       ];
     };
     archie-item-select-first-item-from-cursor-position-in-first-selected-track-without-removing-selection-from-the-previous-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-first-item-from-cursor-position-in-first-selected-track-without-removing-selection-from-the-previous-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9096,7 +9097,7 @@
       ];
     };
     archie-item-select-first-item-from-cursor-position-in-first-selected-track-without-removing-selection-from-the-previous-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-first-item-from-cursor-position-in-first-selected-track-without-removing-selection-from-the-previous-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9110,7 +9111,7 @@
       ];
     };
     archie-item-select-first-item-from-cursor-position-in-first-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-first-item-from-cursor-position-in-first-selected-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9124,7 +9125,7 @@
       ];
     };
     archie-item-select-first-item-from-cursor-position-in-first-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-first-item-from-cursor-position-in-first-selected-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9138,7 +9139,7 @@
       ];
     };
     archie-item-select-first-or-next-item-from-cursor-position-full-description-inside-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-first-or-next-item-from-cursor-position-full-description-inside-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9152,7 +9153,7 @@
       ];
     };
     archie-item-select-first-or-next-item-from-cursor-position-full-description-inside-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-first-or-next-item-from-cursor-position-full-description-inside-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9166,7 +9167,7 @@
       ];
     };
     archie-item-select-items-in-selected-tracks-from-cursor-to-end-of-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-items-in-selected-tracks-from-cursor-to-end-of-project-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9180,7 +9181,7 @@
       ];
     };
     archie-item-select-items-under-edit-cursor-in-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-items-under-edit-cursor-in-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9194,7 +9195,7 @@
       ];
     };
     archie-item-select-items-under-edit-cursor-in-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-items-under-edit-cursor-in-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9208,7 +9209,7 @@
       ];
     };
     archie-item-select-next-item-in-track-excluding-midi-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-next-item-in-track-excluding-midi-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9222,7 +9223,7 @@
       ];
     };
     archie-item-select-next-item-in-track-excluding-midi-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-next-item-in-track-excluding-midi-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9236,7 +9237,7 @@
       ];
     };
     archie-item-select-next-item-in-track-only-midi-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-next-item-in-track-only-midi-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9250,7 +9251,7 @@
       ];
     };
     archie-item-select-next-item-in-track-only-midi-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-next-item-in-track-only-midi-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9264,7 +9265,7 @@
       ];
     };
     archie-item-select-next-item-in-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-next-item-in-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9278,7 +9279,7 @@
       ];
     };
     archie-item-select-next-item-in-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-next-item-in-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9292,7 +9293,7 @@
       ];
     };
     archie-item-select-only-even-items-from-selected-items-in-track-2-4-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-only-even-items-from-selected-items-in-track-2-4-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9306,7 +9307,7 @@
       ];
     };
     archie-item-select-only-even-items-from-selected-items-in-track-2-4-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-only-even-items-from-selected-items-in-track-2-4-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9320,7 +9321,7 @@
       ];
     };
     archie-item-select-only-items-in-selected-tracks-from-cursor-to-end-of-project-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-only-items-in-selected-tracks-from-cursor-to-end-of-project-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9334,7 +9335,7 @@
       ];
     };
     archie-item-select-only-odd-items-from-selected-items-in-track-1-3-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-only-odd-items-from-selected-items-in-track-1-3-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9348,7 +9349,7 @@
       ];
     };
     archie-item-select-only-odd-items-from-selected-items-in-track-1-3-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-only-odd-items-from-selected-items-in-track-1-3-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9362,7 +9363,7 @@
       ];
     };
     archie-item-select-previous-item-in-track-excluding-midi-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-previous-item-in-track-excluding-midi-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9376,7 +9377,7 @@
       ];
     };
     archie-item-select-previous-item-in-track-excluding-midi-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-previous-item-in-track-excluding-midi-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9390,7 +9391,7 @@
       ];
     };
     archie-item-select-previous-item-in-track-only-midi-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-previous-item-in-track-only-midi-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9404,7 +9405,7 @@
       ];
     };
     archie-item-select-previous-item-in-track-only-midi-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-previous-item-in-track-only-midi-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9418,7 +9419,7 @@
       ];
     };
     archie-item-select-previous-item-in-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-previous-item-in-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9432,7 +9433,7 @@
       ];
     };
     archie-item-select-previous-item-in-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-select-previous-item-in-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9446,7 +9447,7 @@
       ];
     };
     archie-item-set-in-selected-items-cc-shape-to-bezier-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-in-selected-items-cc-shape-to-bezier-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9460,7 +9461,7 @@
       ];
     };
     archie-item-set-in-selected-items-cc-shape-to-bezier-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-in-selected-items-cc-shape-to-bezier-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9474,7 +9475,7 @@
       ];
     };
     archie-item-set-in-selected-items-cc-shape-to-fast-end-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-in-selected-items-cc-shape-to-fast-end-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9488,7 +9489,7 @@
       ];
     };
     archie-item-set-in-selected-items-cc-shape-to-fast-end-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-in-selected-items-cc-shape-to-fast-end-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9502,7 +9503,7 @@
       ];
     };
     archie-item-set-in-selected-items-cc-shape-to-fast-start-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-in-selected-items-cc-shape-to-fast-start-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9516,7 +9517,7 @@
       ];
     };
     archie-item-set-in-selected-items-cc-shape-to-fast-start-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-in-selected-items-cc-shape-to-fast-start-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9530,7 +9531,7 @@
       ];
     };
     archie-item-set-in-selected-items-cc-shape-to-linear-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-in-selected-items-cc-shape-to-linear-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9544,7 +9545,7 @@
       ];
     };
     archie-item-set-in-selected-items-cc-shape-to-linear-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-in-selected-items-cc-shape-to-linear-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9558,7 +9559,7 @@
       ];
     };
     archie-item-set-in-selected-items-cc-shape-to-slow-start-end-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-in-selected-items-cc-shape-to-slow-start-end-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9572,7 +9573,7 @@
       ];
     };
     archie-item-set-in-selected-items-cc-shape-to-slow-start-end-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-in-selected-items-cc-shape-to-slow-start-end-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9586,7 +9587,7 @@
       ];
     };
     archie-item-set-in-selected-items-cc-shape-to-square-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-in-selected-items-cc-shape-to-square-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9600,7 +9601,7 @@
       ];
     };
     archie-item-set-in-selected-items-cc-shape-to-square-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-in-selected-items-cc-shape-to-square-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9614,7 +9615,7 @@
       ];
     };
     archie-item-set-note-ends-to-start-of-next-note-in-selected-items-legato-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-note-ends-to-start-of-next-note-in-selected-items-legato-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9628,7 +9629,7 @@
       ];
     };
     archie-item-set-note-ends-to-start-of-next-note-in-selected-items-legato-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-note-ends-to-start-of-next-note-in-selected-items-legato-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9642,7 +9643,7 @@
       ];
     };
     archie-item-set-source-for-all-of-selected-items-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-source-for-all-of-selected-items-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9656,7 +9657,7 @@
       ];
     };
     archie-item-set-source-for-all-of-selected-items-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-source-for-all-of-selected-items-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9670,7 +9671,7 @@
       ];
     };
     archie-item-set-volume-6-db-for-selected-media-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-volume-6-db-for-selected-media-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9684,7 +9685,7 @@
       ];
     };
     archie-item-set-volume-6-db-for-selected-media-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-set-volume-6-db-for-selected-media-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9698,7 +9699,7 @@
       ];
     };
     archie-item-shift-item-content-to-10-milliseconds-mouse-wheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-shift-item-content-to-10-milliseconds-mouse-wheel-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9712,7 +9713,7 @@
       ];
     };
     archie-item-shift-item-content-to-10-milliseconds-mouse-wheel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-shift-item-content-to-10-milliseconds-mouse-wheel-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9726,7 +9727,7 @@
       ];
     };
     archie-item-shift-item-content-to-10-milliseconds-mouse-wheel-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-shift-item-content-to-10-milliseconds-mouse-wheel-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9740,7 +9741,7 @@
       ];
     };
     archie-item-shift-item-content-to-10-milliseconds-mouse-wheel-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-shift-item-content-to-10-milliseconds-mouse-wheel-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9754,7 +9755,7 @@
       ];
     };
     archie-item-show-all-visible-envelopes-in-selected-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-show-all-visible-envelopes-in-selected-items-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9768,7 +9769,7 @@
       ];
     };
     archie-item-show-all-visible-envelopes-in-selected-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-show-all-visible-envelopes-in-selected-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9782,7 +9783,7 @@
       ];
     };
     archie-item-smart-template-add-media-file-item-by-name-on-track-s-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-smart-template-add-media-file-item-by-name-on-track-s-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9796,7 +9797,7 @@
       ];
     };
     archie-item-smart-template-add-media-file-item-by-name-on-track-s-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-smart-template-add-media-file-item-by-name-on-track-s-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9810,7 +9811,7 @@
       ];
     };
     archie-item-smart-template-add-media-file-item-by-name-on-track-s-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-smart-template-add-media-file-item-by-name-on-track-s-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9824,7 +9825,7 @@
       ];
     };
     archie-item-snap-stretch-markers-to-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-snap-stretch-markers-to-grid-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9838,7 +9839,7 @@
       ];
     };
     archie-item-snap-stretch-markers-to-grid-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-snap-stretch-markers-to-grid-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9852,7 +9853,7 @@
       ];
     };
     archie-item-solo-selected-item-restore-back-ctrl-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-solo-selected-item-restore-back-ctrl-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9866,7 +9867,7 @@
       ];
     };
     archie-item-solo-selected-item-restore-back-ctrl-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-solo-selected-item-restore-back-ctrl-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9880,7 +9881,7 @@
       ];
     };
     archie-item-split-selected-item-s-under-mouse-cursor-select-left-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-split-selected-item-s-under-mouse-cursor-select-left-lua-1-09";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9894,7 +9895,7 @@
       ];
     };
     archie-item-split-selected-item-s-under-mouse-cursor-select-left-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-split-selected-item-s-under-mouse-cursor-select-left-lua-1-10";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9908,7 +9909,7 @@
       ];
     };
     archie-item-split-selected-item-s-under-mouse-cursor-select-left-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-split-selected-item-s-under-mouse-cursor-select-left-lua-1-11";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9922,7 +9923,7 @@
       ];
     };
     archie-item-split-selected-item-s-under-mouse-cursor-select-left-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-split-selected-item-s-under-mouse-cursor-select-left-lua-1-12";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9936,7 +9937,7 @@
       ];
     };
     archie-item-split-selected-item-s-under-mouse-cursor-select-right-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-split-selected-item-s-under-mouse-cursor-select-right-lua-1-09";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9950,7 +9951,7 @@
       ];
     };
     archie-item-split-selected-item-s-under-mouse-cursor-select-right-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-split-selected-item-s-under-mouse-cursor-select-right-lua-1-10";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9964,7 +9965,7 @@
       ];
     };
     archie-item-split-selected-item-s-under-mouse-cursor-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-split-selected-item-s-under-mouse-cursor-lua-1-09";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9978,7 +9979,7 @@
       ];
     };
     archie-item-split-selected-item-s-under-mouse-cursor-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-split-selected-item-s-under-mouse-cursor-lua-1-10";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -9992,7 +9993,7 @@
       ];
     };
     archie-item-split-items-at-grid-time-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-split-items-at-grid-time-selection-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10006,7 +10007,7 @@
       ];
     };
     archie-item-split-items-at-grid-time-selection-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-split-items-at-grid-time-selection-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10020,7 +10021,7 @@
       ];
     };
     archie-item-split-items-by-time-selection-unselect-with-items-outside-of-time-selection-if-there-is-selection-inside-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-split-items-by-time-selection-unselect-with-items-outside-of-time-selection-if-there-is-selection-inside-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10034,7 +10035,7 @@
       ];
     };
     archie-item-split-items-by-time-selection-unselect-with-items-outside-of-time-selection-if-there-is-selection-inside-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-split-items-by-time-selection-unselect-with-items-outside-of-time-selection-if-there-is-selection-inside-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10048,7 +10049,7 @@
       ];
     };
     archie-item-stretch-time-and-reduce-the-selected-item-s-by-2-times-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-stretch-time-and-reduce-the-selected-item-s-by-2-times-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10062,7 +10063,7 @@
       ];
     };
     archie-item-stretch-time-and-reduce-the-selected-item-s-by-2-times-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-stretch-time-and-reduce-the-selected-item-s-by-2-times-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10076,7 +10077,7 @@
       ];
     };
     archie-item-stutter-1-2-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-stutter-1-2-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10090,7 +10091,7 @@
       ];
     };
     archie-item-stutter-1-2-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-stutter-1-2-items-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10104,7 +10105,7 @@
       ];
     };
     archie-item-stutter-1-3-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-stutter-1-3-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10118,7 +10119,7 @@
       ];
     };
     archie-item-stutter-1-3-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-stutter-1-3-items-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10132,7 +10133,7 @@
       ];
     };
     archie-item-stutter-duplicate-items-n-beat-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-stutter-duplicate-items-n-beat-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10196,7 +10197,7 @@
       ];
     };
     archie-item-stutter-duplicate-items-n-beat-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-stutter-duplicate-items-n-beat-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10260,7 +10261,7 @@
       ];
     };
     archie-item-switch-item-source-file-on-next-in-directory-on-throughout-project-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-switch-item-source-file-on-next-in-directory-on-throughout-project-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10274,7 +10275,7 @@
       ];
     };
     archie-item-switch-item-source-file-on-next-in-directory-on-throughout-project-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-switch-item-source-file-on-next-in-directory-on-throughout-project-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10288,7 +10289,7 @@
       ];
     };
     archie-item-switch-item-source-file-on-next-in-directory-on-throughout-project-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-switch-item-source-file-on-next-in-directory-on-throughout-project-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10302,7 +10303,7 @@
       ];
     };
     archie-item-switch-item-source-file-on-previous-in-directory-on-throughout-project-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-switch-item-source-file-on-previous-in-directory-on-throughout-project-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10316,7 +10317,7 @@
       ];
     };
     archie-item-switch-item-source-file-on-previous-in-directory-on-throughout-project-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-switch-item-source-file-on-previous-in-directory-on-throughout-project-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10330,7 +10331,7 @@
       ];
     };
     archie-item-switch-item-source-file-on-previous-in-directory-on-throughout-project-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-switch-item-source-file-on-previous-in-directory-on-throughout-project-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10344,7 +10345,7 @@
       ];
     };
     archie-item-switch-item-source-file-to-next-in-folder-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-switch-item-source-file-to-next-in-folder-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10393,7 +10394,7 @@
       ];
     };
     archie-item-switch-item-source-file-to-next-in-folder-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-switch-item-source-file-to-next-in-folder-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10442,7 +10443,7 @@
       ];
     };
     archie-item-switch-item-source-file-to-previous-in-folder-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-switch-item-source-file-to-previous-in-folder-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10491,7 +10492,7 @@
       ];
     };
     archie-item-switch-item-source-file-to-previous-in-folder-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-switch-item-source-file-to-previous-in-folder-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10540,7 +10541,7 @@
       ];
     };
     archie-item-toggle-loop-source-off-sws-loop-section-of-selected-item-s-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-toggle-loop-source-off-sws-loop-section-of-selected-item-s-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10554,7 +10555,7 @@
       ];
     };
     archie-item-toggle-loop-source-off-sws-loop-section-of-selected-item-s-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-toggle-loop-source-off-sws-loop-section-of-selected-item-s-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10568,7 +10569,7 @@
       ];
     };
     archie-item-toggle-loop-item-source-under-mouse-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-toggle-loop-item-source-under-mouse-cursor-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10582,7 +10583,7 @@
       ];
     };
     archie-item-toggle-loop-item-source-under-mouse-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-toggle-loop-item-source-under-mouse-cursor-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10596,7 +10597,7 @@
       ];
     };
     archie-item-toggle-loop-item-source-background-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-toggle-loop-item-source-background-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10610,7 +10611,7 @@
       ];
     };
     archie-item-toggle-loop-item-source-background-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-toggle-loop-item-source-background-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10624,7 +10625,7 @@
       ];
     };
     archie-item-toggle-loop-item-source-background-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-toggle-loop-item-source-background-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10638,7 +10639,7 @@
       ];
     };
     archie-item-trim-extend-selected-of-items-to-time-selection-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-trim-extend-selected-of-items-to-time-selection-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10652,7 +10653,7 @@
       ];
     };
     archie-item-trim-extend-selected-of-items-to-time-selection-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-trim-extend-selected-of-items-to-time-selection-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10666,7 +10667,7 @@
       ];
     };
     archie-item-ungroup-item-under-mouse-cursor-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-ungroup-item-under-mouse-cursor-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10680,7 +10681,7 @@
       ];
     };
     archie-item-ungroup-item-under-mouse-cursor-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-ungroup-item-under-mouse-cursor-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10694,7 +10695,7 @@
       ];
     };
     archie-item-unquantize-selected-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unquantize-selected-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10708,7 +10709,7 @@
       ];
     };
     archie-item-unquantize-selected-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unquantize-selected-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10722,7 +10723,7 @@
       ];
     };
     archie-item-unselect-all-items-except-first-selected-in-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unselect-all-items-except-first-selected-in-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10736,7 +10737,7 @@
       ];
     };
     archie-item-unselect-all-items-except-first-selected-in-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unselect-all-items-except-first-selected-in-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10750,7 +10751,7 @@
       ];
     };
     archie-item-unselect-all-items-except-first-selected-in-track-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unselect-all-items-except-first-selected-in-track-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10764,7 +10765,7 @@
       ];
     };
     archie-item-unselect-all-items-except-last-selected-in-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unselect-all-items-except-last-selected-in-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10778,7 +10779,7 @@
       ];
     };
     archie-item-unselect-all-items-except-last-selected-in-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unselect-all-items-except-last-selected-in-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10792,7 +10793,7 @@
       ];
     };
     archie-item-unselect-all-items-except-last-selected-in-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unselect-all-items-except-last-selected-in-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10806,7 +10807,7 @@
       ];
     };
     archie-item-unselect-all-items-in-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unselect-all-items-in-time-selection-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10820,7 +10821,7 @@
       ];
     };
     archie-item-unselect-all-items-in-time-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unselect-all-items-in-time-selection-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10834,7 +10835,7 @@
       ];
     };
     archie-item-unselect-all-items-to-left-of-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unselect-all-items-to-left-of-time-selection-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10848,7 +10849,7 @@
       ];
     };
     archie-item-unselect-all-items-to-left-of-time-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unselect-all-items-to-left-of-time-selection-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10862,7 +10863,7 @@
       ];
     };
     archie-item-unselect-all-items-to-right-of-time-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unselect-all-items-to-right-of-time-selection-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10876,7 +10877,7 @@
       ];
     };
     archie-item-unselect-items-if-track-not-selected-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unselect-items-if-track-not-selected-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10890,7 +10891,7 @@
       ];
     };
     archie-item-unselect-items-if-track-not-selected-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-item-unselect-items-if-track-not-selected-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Item";
@@ -10904,7 +10905,7 @@
       ];
     };
     archie-markers-create-region-by-borders-of-selected-items-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-create-region-by-borders-of-selected-items-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -10918,7 +10919,7 @@
       ];
     };
     archie-markers-create-region-by-borders-of-selected-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-create-region-by-borders-of-selected-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -10932,7 +10933,7 @@
       ];
     };
     archie-markers-create-region-by-time-selection-or-borders-of-selected-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-create-region-by-time-selection-or-borders-of-selected-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -10946,7 +10947,7 @@
       ];
     };
     archie-markers-create-region-by-time-selection-or-borders-of-selected-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-create-region-by-time-selection-or-borders-of-selected-items-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -10960,7 +10961,7 @@
       ];
     };
     archie-markers-delete-region-in-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-delete-region-in-time-selection-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -10974,7 +10975,7 @@
       ];
     };
     archie-markers-delete-region-in-time-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-delete-region-in-time-selection-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -10988,7 +10989,7 @@
       ];
     };
     archie-markers-go-to-random-marker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-go-to-random-marker-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -11002,7 +11003,7 @@
       ];
     };
     archie-markers-go-to-random-marker-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-go-to-random-marker-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -11016,7 +11017,7 @@
       ];
     };
     archie-markers-insert-markers-by-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-insert-markers-by-time-selection-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -11030,7 +11031,7 @@
       ];
     };
     archie-markers-insert-markers-by-time-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-insert-markers-by-time-selection-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -11044,7 +11045,7 @@
       ];
     };
     archie-markers-save-insert-regions-template-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-save-insert-regions-template-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -11058,7 +11059,7 @@
       ];
     };
     archie-markers-save-insert-regions-template-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-save-insert-regions-template-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -11072,7 +11073,7 @@
       ];
     };
     archie-markers-split-selected-items-at-stretch-markers-and-remove-markers-no-save-processed-wave-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-split-selected-items-at-stretch-markers-and-remove-markers-no-save-processed-wave-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -11086,7 +11087,7 @@
       ];
     };
     archie-markers-split-selected-items-at-stretch-markers-and-remove-markers-no-save-processed-wave-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-split-selected-items-at-stretch-markers-and-remove-markers-no-save-processed-wave-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -11100,7 +11101,7 @@
       ];
     };
     archie-markers-split-selected-items-at-stretch-markers-and-remove-markers-save-processed-wave-render-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-split-selected-items-at-stretch-markers-and-remove-markers-save-processed-wave-render-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -11114,7 +11115,7 @@
       ];
     };
     archie-markers-split-selected-items-at-stretch-markers-and-remove-markers-save-processed-wave-render-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-split-selected-items-at-stretch-markers-and-remove-markers-save-processed-wave-render-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -11128,7 +11129,7 @@
       ];
     };
     archie-markers-split-selected-items-at-stretch-markers-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-split-selected-items-at-stretch-markers-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -11142,7 +11143,7 @@
       ];
     };
     archie-markers-split-selected-items-at-stretch-markers-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-split-selected-items-at-stretch-markers-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -11156,7 +11157,7 @@
       ];
     };
     archie-markers-toggle-insert-delete-marker-in-cursor-position-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-toggle-insert-delete-marker-in-cursor-position-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -11170,7 +11171,7 @@
       ];
     };
     archie-markers-toggle-insert-delete-marker-in-cursor-position-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-markers-toggle-insert-delete-marker-in-cursor-position-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Markers";
@@ -11184,7 +11185,7 @@
       ];
     };
     archie-mixer-reset-height-all-tracks-mcp-by-master-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-reset-height-all-tracks-mcp-by-master-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11198,7 +11199,7 @@
       ];
     };
     archie-mixer-reset-height-all-tracks-mcp-by-master-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-reset-height-all-tracks-mcp-by-master-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11212,7 +11213,7 @@
       ];
     };
     archie-mixer-reset-height-all-tracks-mcp-by-master-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-reset-height-all-tracks-mcp-by-master-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11226,7 +11227,7 @@
       ];
     };
     archie-mixer-reset-height-selected-tracks-mcp-by-master-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-reset-height-selected-tracks-mcp-by-master-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11240,7 +11241,7 @@
       ];
     };
     archie-mixer-reset-height-selected-tracks-mcp-by-master-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-reset-height-selected-tracks-mcp-by-master-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11254,7 +11255,7 @@
       ];
     };
     archie-mixer-reset-height-selected-tracks-mcp-by-master-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-reset-height-selected-tracks-mcp-by-master-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11268,7 +11269,7 @@
       ];
     };
     archie-mixer-reset-height-unselected-tracks-mcp-by-master-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-reset-height-unselected-tracks-mcp-by-master-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11282,7 +11283,7 @@
       ];
     };
     archie-mixer-reset-height-unselected-tracks-mcp-by-master-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-reset-height-unselected-tracks-mcp-by-master-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11296,7 +11297,7 @@
       ];
     };
     archie-mixer-reset-height-unselected-tracks-mcp-by-master-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-reset-height-unselected-tracks-mcp-by-master-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11310,7 +11311,7 @@
       ];
     };
     archie-mixer-set-height-of-all-tracks-mcp-to-height-master-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-set-height-of-all-tracks-mcp-to-height-master-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11324,7 +11325,7 @@
       ];
     };
     archie-mixer-set-height-of-all-tracks-mcp-to-height-master-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-set-height-of-all-tracks-mcp-to-height-master-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11338,7 +11339,7 @@
       ];
     };
     archie-mixer-set-height-of-all-unselected-tracks-mcp-to-height-master-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-set-height-of-all-unselected-tracks-mcp-to-height-master-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11352,7 +11353,7 @@
       ];
     };
     archie-mixer-set-height-of-all-unselected-tracks-mcp-to-height-master-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-set-height-of-all-unselected-tracks-mcp-to-height-master-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11366,7 +11367,7 @@
       ];
     };
     archie-mixer-set-height-of-not-rec-armed-tracks-mcp-to-height-master-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-set-height-of-not-rec-armed-tracks-mcp-to-height-master-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11380,7 +11381,7 @@
       ];
     };
     archie-mixer-set-height-of-not-rec-armed-tracks-mcp-to-height-master-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-set-height-of-not-rec-armed-tracks-mcp-to-height-master-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11394,7 +11395,7 @@
       ];
     };
     archie-mixer-set-height-of-rec-armed-tracks-mcp-to-height-master-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-set-height-of-rec-armed-tracks-mcp-to-height-master-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11408,7 +11409,7 @@
       ];
     };
     archie-mixer-set-height-of-rec-armed-tracks-mcp-to-height-master-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-set-height-of-rec-armed-tracks-mcp-to-height-master-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11422,7 +11423,7 @@
       ];
     };
     archie-mixer-set-height-of-selected-tracks-mcp-to-height-master-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-set-height-of-selected-tracks-mcp-to-height-master-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11436,7 +11437,7 @@
       ];
     };
     archie-mixer-set-height-of-selected-tracks-mcp-to-height-master-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-set-height-of-selected-tracks-mcp-to-height-master-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11450,7 +11451,7 @@
       ];
     };
     archie-mixer-toggle-auto-zoom-height-selected-tracks-in-mcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-toggle-auto-zoom-height-selected-tracks-in-mcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11464,7 +11465,7 @@
       ];
     };
     archie-mixer-toggle-auto-zoom-height-selected-tracks-in-mcp-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-toggle-auto-zoom-height-selected-tracks-in-mcp-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11478,7 +11479,7 @@
       ];
     };
     archie-mixer-toggle-auto-zoom-height-selected-tracks-in-mcp-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-toggle-auto-zoom-height-selected-tracks-in-mcp-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11492,7 +11493,7 @@
       ];
     };
     archie-mixer-toggle-auto-zoom-height-tracks-rec-armed-in-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-toggle-auto-zoom-height-tracks-rec-armed-in-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11506,7 +11507,7 @@
       ];
     };
     archie-mixer-toggle-auto-zoom-height-tracks-rec-armed-in-mcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-toggle-auto-zoom-height-tracks-rec-armed-in-mcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11520,7 +11521,7 @@
       ];
     };
     archie-mixer-toggle-auto-zoom-height-tracks-rec-armed-in-mcp-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-toggle-auto-zoom-height-tracks-rec-armed-in-mcp-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11534,7 +11535,7 @@
       ];
     };
     archie-mixer-toggle-mute-unmute-all-visible-track-in-mcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-toggle-mute-unmute-all-visible-track-in-mcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11548,7 +11549,7 @@
       ];
     };
     archie-mixer-toggle-mute-unmute-all-visible-track-in-mcp-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-toggle-mute-unmute-all-visible-track-in-mcp-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11562,7 +11563,7 @@
       ];
     };
     archie-mixer-toggle-unmute-mute-all-visible-track-in-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-toggle-unmute-mute-all-visible-track-in-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11576,7 +11577,7 @@
       ];
     };
     archie-mixer-toggle-unmute-mute-all-visible-track-in-mcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-mixer-toggle-unmute-mute-all-visible-track-in-mcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Mixer";
@@ -11590,7 +11591,7 @@
       ];
     };
     archie-monitorfx-smart-template-monitoring-toggle-open-fx-in-float-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-monitorfx-smart-template-monitoring-toggle-open-fx-in-float-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Monitoring";
@@ -11604,7 +11605,7 @@
       ];
     };
     archie-monitorfx-smart-template-monitoring-toggle-open-fx-in-float-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-monitorfx-smart-template-monitoring-toggle-open-fx-in-float-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Monitoring";
@@ -11618,7 +11619,7 @@
       ];
     };
     archie-monitorfx-smart-template-monitoring-toggle-open-fx-in-float-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-monitorfx-smart-template-monitoring-toggle-open-fx-in-float-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Monitoring";
@@ -11632,7 +11633,7 @@
       ];
     };
     archie-options-clear-autorun-archie-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-options-clear-autorun-archie-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Options";
@@ -11646,7 +11647,7 @@
       ];
     };
     archie-options-clear-autorun-archie-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-options-clear-autorun-archie-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Options";
@@ -11660,7 +11661,7 @@
       ];
     };
     archie-options-open-folder-fx-chains-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-options-open-folder-fx-chains-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Options";
@@ -11674,7 +11675,7 @@
       ];
     };
     archie-options-open-folder-fx-chains-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-options-open-folder-fx-chains-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Options";
@@ -11688,7 +11689,7 @@
       ];
     };
     archie-options-reset-reascript-task-control-for-all-scripts-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-options-reset-reascript-task-control-for-all-scripts-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Options";
@@ -11702,7 +11703,7 @@
       ];
     };
     archie-options-reset-reascript-task-control-for-all-scripts-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-options-reset-reascript-task-control-for-all-scripts-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Options";
@@ -11716,7 +11717,7 @@
       ];
     };
     archie-options-smart-multi-script-button-n-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-options-smart-multi-script-button-n-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Options";
@@ -11805,7 +11806,7 @@
       ];
     };
     archie-options-smart-multi-script-button-n-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-options-smart-multi-script-button-n-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Options";
@@ -11894,7 +11895,7 @@
       ];
     };
     archie-playback-toggle-stop-playback-at-end-of-time-selection-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-playback-toggle-stop-playback-at-end-of-time-selection-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Playback";
@@ -11908,7 +11909,7 @@
       ];
     };
     archie-playback-toggle-stop-playback-at-end-of-time-selection-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-playback-toggle-stop-playback-at-end-of-time-selection-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Playback";
@@ -11922,7 +11923,7 @@
       ];
     };
     archie-pref-allow-keyboard-commands-even-when-mouse-editing-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-allow-keyboard-commands-even-when-mouse-editing-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -11936,7 +11937,7 @@
       ];
     };
     archie-pref-allow-keyboard-commands-even-when-mouse-editing-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-allow-keyboard-commands-even-when-mouse-editing-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -11950,7 +11951,7 @@
       ];
     };
     archie-pref-antialiased-peak-and-waveform-drawing-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-antialiased-peak-and-waveform-drawing-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -11964,7 +11965,7 @@
       ];
     };
     archie-pref-antialiased-peak-and-waveform-drawing-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-antialiased-peak-and-waveform-drawing-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -11978,7 +11979,7 @@
       ];
     };
     archie-pref-draw-edges-on-peaks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-draw-edges-on-peaks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -11992,7 +11993,7 @@
       ];
     };
     archie-pref-draw-edges-on-peaks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-draw-edges-on-peaks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12006,7 +12007,7 @@
       ];
     };
     archie-pref-draw-edges-on-waveforms-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-draw-edges-on-waveforms-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12020,7 +12021,7 @@
       ];
     };
     archie-pref-draw-edges-on-waveforms-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-draw-edges-on-waveforms-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12034,7 +12035,7 @@
       ];
     };
     archie-pref-fill-waveforms-to-zero-line-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-fill-waveforms-to-zero-line-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12048,7 +12049,7 @@
       ];
     };
     archie-pref-fill-waveforms-to-zero-line-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-fill-waveforms-to-zero-line-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12062,7 +12063,7 @@
       ];
     };
     archie-pref-general-undo-settings-include-selection-item-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-general-undo-settings-include-selection-item-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12076,7 +12077,7 @@
       ];
     };
     archie-pref-general-undo-settings-include-selection-item-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-general-undo-settings-include-selection-item-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12090,7 +12091,7 @@
       ];
     };
     archie-pref-ignore-mousewheel-on-all-faders-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-ignore-mousewheel-on-all-faders-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12104,7 +12105,7 @@
       ];
     };
     archie-pref-ignore-mousewheel-on-all-faders-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-ignore-mousewheel-on-all-faders-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12118,7 +12119,7 @@
       ];
     };
     archie-pref-mouse-clickedit-in-track-view-changes-track-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-mouse-clickedit-in-track-view-changes-track-selection-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12132,7 +12133,7 @@
       ];
     };
     archie-pref-mouse-clickedit-in-track-view-changes-track-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-mouse-clickedit-in-track-view-changes-track-selection-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12146,7 +12147,7 @@
       ];
     };
     archie-pref-sample-level-waveform-dots-and-lines-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-sample-level-waveform-dots-and-lines-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12160,7 +12161,7 @@
       ];
     };
     archie-pref-sample-level-waveform-dots-and-lines-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-sample-level-waveform-dots-and-lines-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12174,7 +12175,7 @@
       ];
     };
     archie-pref-sample-level-waveform-dots-and-sinc-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-sample-level-waveform-dots-and-sinc-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12188,7 +12189,7 @@
       ];
     };
     archie-pref-sample-level-waveform-dots-and-sinc-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-sample-level-waveform-dots-and-sinc-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12202,7 +12203,7 @@
       ];
     };
     archie-pref-sample-level-waveform-filled-samples-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-sample-level-waveform-filled-samples-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12216,7 +12217,7 @@
       ];
     };
     archie-pref-sample-level-waveform-filled-samples-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-sample-level-waveform-filled-samples-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12230,7 +12231,7 @@
       ];
     };
     archie-pref-sample-level-waveform-outlined-samples-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-sample-level-waveform-outlined-samples-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12244,7 +12245,7 @@
       ];
     };
     archie-pref-sample-level-waveform-outlined-samples-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-sample-level-waveform-outlined-samples-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12258,7 +12259,7 @@
       ];
     };
     archie-pref-sample-level-waveform-sinc-smoothed-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-sample-level-waveform-sinc-smoothed-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12272,7 +12273,7 @@
       ];
     };
     archie-pref-sample-level-waveform-sinc-smoothed-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-sample-level-waveform-sinc-smoothed-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12286,7 +12287,7 @@
       ];
     };
     archie-pref-sample-level-waveform-smooth-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-sample-level-waveform-smooth-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12300,7 +12301,7 @@
       ];
     };
     archie-pref-sample-level-waveform-smooth-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-sample-level-waveform-smooth-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12314,7 +12315,7 @@
       ];
     };
     archie-pref-sample-level-waveform-stepped-samples-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-sample-level-waveform-stepped-samples-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12328,7 +12329,7 @@
       ];
     };
     archie-pref-sample-level-waveform-stepped-samples-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-sample-level-waveform-stepped-samples-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12342,7 +12343,7 @@
       ];
     };
     archie-pref-solo-in-front-dimming-plus1-db-from-set-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-solo-in-front-dimming-plus1-db-from-set-value-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12356,7 +12357,7 @@
       ];
     };
     archie-pref-solo-in-front-dimming-plus1-db-from-set-value-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-solo-in-front-dimming-plus1-db-from-set-value-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12370,7 +12371,7 @@
       ];
     };
     archie-pref-solo-in-front-dimming-1-db-from-set-value-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-solo-in-front-dimming-1-db-from-set-value-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12384,7 +12385,7 @@
       ];
     };
     archie-pref-solo-in-front-dimming-1-db-from-set-value-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-solo-in-front-dimming-1-db-from-set-value-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12398,7 +12399,7 @@
       ];
     };
     archie-pref-toggle-allow-snap-grid-track-envelope-routing-windows-to-stay-open-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-toggle-allow-snap-grid-track-envelope-routing-windows-to-stay-open-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12412,7 +12413,7 @@
       ];
     };
     archie-pref-toggle-allow-snap-grid-track-envelope-routing-windows-to-stay-open-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-toggle-allow-snap-grid-track-envelope-routing-windows-to-stay-open-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12426,7 +12427,7 @@
       ];
     };
     archie-pref-toggle-don-t-autosctoll-view-when-enable-when-viewing-other-parts-of-project-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-toggle-don-t-autosctoll-view-when-enable-when-viewing-other-parts-of-project-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12440,7 +12441,7 @@
       ];
     };
     archie-pref-toggle-don-t-autosctoll-view-when-enable-when-viewing-other-parts-of-project-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-pref-toggle-don-t-autosctoll-view-when-enable-when-viewing-other-parts-of-project-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Preferences";
@@ -12454,7 +12455,7 @@
       ];
     };
     archie-proj-set-project-sample-rate-user-input-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-proj-set-project-sample-rate-user-input-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Project";
@@ -12468,7 +12469,7 @@
       ];
     };
     archie-proj-set-project-sample-rate-user-input-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-proj-set-project-sample-rate-user-input-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Project";
@@ -12482,7 +12483,7 @@
       ];
     };
     archie-proj-set-project-sample-rate-176400-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-proj-set-project-sample-rate-176400-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Project";
@@ -12496,7 +12497,7 @@
       ];
     };
     archie-proj-set-project-sample-rate-176400-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-proj-set-project-sample-rate-176400-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Project";
@@ -12510,7 +12511,7 @@
       ];
     };
     archie-proj-set-project-sample-rate-192000-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-proj-set-project-sample-rate-192000-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Project";
@@ -12524,7 +12525,7 @@
       ];
     };
     archie-proj-set-project-sample-rate-192000-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-proj-set-project-sample-rate-192000-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Project";
@@ -12538,7 +12539,7 @@
       ];
     };
     archie-proj-set-project-sample-rate-44100-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-proj-set-project-sample-rate-44100-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Project";
@@ -12552,7 +12553,7 @@
       ];
     };
     archie-proj-set-project-sample-rate-44100-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-proj-set-project-sample-rate-44100-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Project";
@@ -12566,7 +12567,7 @@
       ];
     };
     archie-proj-set-project-sample-rate-48000-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-proj-set-project-sample-rate-48000-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Project";
@@ -12580,7 +12581,7 @@
       ];
     };
     archie-proj-set-project-sample-rate-48000-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-proj-set-project-sample-rate-48000-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Project";
@@ -12594,7 +12595,7 @@
       ];
     };
     archie-proj-set-project-sample-rate-88200-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-proj-set-project-sample-rate-88200-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Project";
@@ -12608,7 +12609,7 @@
       ];
     };
     archie-proj-set-project-sample-rate-88200-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-proj-set-project-sample-rate-88200-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Project";
@@ -12622,7 +12623,7 @@
       ];
     };
     archie-proj-set-project-sample-rate-96000-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-proj-set-project-sample-rate-96000-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Project";
@@ -12636,7 +12637,7 @@
       ];
     };
     archie-proj-set-project-sample-rate-96000-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-proj-set-project-sample-rate-96000-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Project";
@@ -12650,7 +12651,7 @@
       ];
     };
     archie-render-render-multi-track-to-a-stereo-track-in-certain-channels-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-multi-track-to-a-stereo-track-in-certain-channels-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render";
@@ -12664,7 +12665,7 @@
       ];
     };
     archie-render-render-multi-track-to-a-stereo-track-in-certain-channels-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-multi-track-to-a-stereo-track-in-certain-channels-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render";
@@ -12678,7 +12679,7 @@
       ];
     };
     archie-render-render-multi-track-to-a-stereo-track-in-certain-channels-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-multi-track-to-a-stereo-track-in-certain-channels-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render";
@@ -12692,7 +12693,7 @@
       ];
     };
     archie-render-render-stems-template-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-stems-template-lua-2-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render";
@@ -12706,7 +12707,7 @@
       ];
     };
     archie-render-render-stems-template-lua-2-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-stems-template-lua-2-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render";
@@ -12720,7 +12721,7 @@
       ];
     };
     archie-render-render-track-to-a-mono-track-in-certain-channels-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-to-a-mono-track-in-certain-channels-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render";
@@ -12734,7 +12735,7 @@
       ];
     };
     archie-render-render-track-to-a-mono-track-in-certain-channels-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-to-a-mono-track-in-certain-channels-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render";
@@ -12748,7 +12749,7 @@
       ];
     };
     archie-render-render-track-to-a-mono-track-in-certain-channels-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-to-a-mono-track-in-certain-channels-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render";
@@ -12762,7 +12763,7 @@
       ];
     };
     archie-render-render-track-post-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-post-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render/COPY_Render stems Template";
@@ -12776,7 +12777,7 @@
       ];
     };
     archie-render-render-track-pre-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-pre-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render/COPY_Render stems Template";
@@ -12790,7 +12791,7 @@
       ];
     };
     archie-render-render-track-into-one-new-track-post-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-into-one-new-track-post-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render/COPY_Render stems Template";
@@ -12804,7 +12805,7 @@
       ];
     };
     archie-render-render-track-into-one-new-track-pre-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-into-one-new-track-pre-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render/COPY_Render stems Template";
@@ -12818,7 +12819,7 @@
       ];
     };
     archie-render-render-track-into-one-new-track-mono-post-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-into-one-new-track-mono-post-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render/COPY_Render stems Template";
@@ -12832,7 +12833,7 @@
       ];
     };
     archie-render-render-track-into-one-new-track-mono-pre-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-into-one-new-track-mono-pre-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render/COPY_Render stems Template";
@@ -12846,7 +12847,7 @@
       ];
     };
     archie-render-render-track-into-one-new-track-stereo-post-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-into-one-new-track-stereo-post-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render/COPY_Render stems Template";
@@ -12860,7 +12861,7 @@
       ];
     };
     archie-render-render-track-into-one-new-track-stereo-pre-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-into-one-new-track-stereo-pre-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render/COPY_Render stems Template";
@@ -12874,7 +12875,7 @@
       ];
     };
     archie-render-render-track-mono-post-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-mono-post-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render/COPY_Render stems Template";
@@ -12888,7 +12889,7 @@
       ];
     };
     archie-render-render-track-mono-pre-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-mono-pre-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render/COPY_Render stems Template";
@@ -12902,7 +12903,7 @@
       ];
     };
     archie-render-render-track-stereo-post-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-stereo-post-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render/COPY_Render stems Template";
@@ -12916,7 +12917,7 @@
       ];
     };
     archie-render-render-track-stereo-pre-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-render-render-track-stereo-pre-fx-amp-wave-24-bit-amp-hq-512pt-sinc-amp-full-speed-offline-lua-2-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Render/COPY_Render stems Template";
@@ -12930,7 +12931,7 @@
       ];
     };
     archie-rout-copy-input-routing-of-focused-plug-in-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-rout-copy-input-routing-of-focused-plug-in-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Routing";
@@ -12944,7 +12945,7 @@
       ];
     };
     archie-rout-copy-input-routing-of-focused-plug-in-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-rout-copy-input-routing-of-focused-plug-in-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Routing";
@@ -12958,7 +12959,7 @@
       ];
     };
     archie-rout-copy-io-routing-of-focused-plug-in-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-rout-copy-io-routing-of-focused-plug-in-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Routing";
@@ -12972,7 +12973,7 @@
       ];
     };
     archie-rout-copy-io-routing-of-focused-plug-in-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-rout-copy-io-routing-of-focused-plug-in-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Routing";
@@ -12986,7 +12987,7 @@
       ];
     };
     archie-rout-copy-output-routing-of-focused-plug-in-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-rout-copy-output-routing-of-focused-plug-in-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Routing";
@@ -13000,7 +13001,7 @@
       ];
     };
     archie-rout-copy-output-routing-of-focused-plug-in-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-rout-copy-output-routing-of-focused-plug-in-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Routing";
@@ -13014,7 +13015,7 @@
       ];
     };
     archie-rout-paste-input-routing-in-focused-plug-in-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-rout-paste-input-routing-in-focused-plug-in-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Routing";
@@ -13028,7 +13029,7 @@
       ];
     };
     archie-rout-paste-input-routing-in-focused-plug-in-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-rout-paste-input-routing-in-focused-plug-in-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Routing";
@@ -13042,7 +13043,7 @@
       ];
     };
     archie-rout-paste-io-routing-in-focused-plug-in-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-rout-paste-io-routing-in-focused-plug-in-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Routing";
@@ -13056,7 +13057,7 @@
       ];
     };
     archie-rout-paste-io-routing-in-focused-plug-in-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-rout-paste-io-routing-in-focused-plug-in-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Routing";
@@ -13070,7 +13071,7 @@
       ];
     };
     archie-rout-paste-output-routing-in-focused-plug-in-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-rout-paste-output-routing-in-focused-plug-in-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Routing";
@@ -13084,7 +13085,7 @@
       ];
     };
     archie-rout-paste-output-routing-in-focused-plug-in-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-rout-paste-output-routing-in-focused-plug-in-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Routing";
@@ -13098,7 +13099,7 @@
       ];
     };
     archie-take-copy-active-take-to-new-items-at-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-copy-active-take-to-new-items-at-time-selection-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13112,7 +13113,7 @@
       ];
     };
     archie-take-copy-active-take-to-new-items-at-time-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-copy-active-take-to-new-items-at-time-selection-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13126,7 +13127,7 @@
       ];
     };
     archie-take-copy-active-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-copy-active-take-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13140,7 +13141,7 @@
       ];
     };
     archie-take-copy-active-take-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-copy-active-take-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13154,7 +13155,7 @@
       ];
     };
     archie-take-copy-active-take-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-copy-active-take-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13168,7 +13169,7 @@
       ];
     };
     archie-take-copy-color-item-active-take-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-copy-color-item-active-take-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13182,7 +13183,7 @@
       ];
     };
     archie-take-copy-color-item-active-take-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-copy-color-item-active-take-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13196,7 +13197,7 @@
       ];
     };
     archie-take-copy-name-item-active-take-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-copy-name-item-active-take-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13210,7 +13211,7 @@
       ];
     };
     archie-take-copy-name-item-active-take-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-copy-name-item-active-take-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13224,7 +13225,7 @@
       ];
     };
     archie-take-copy-source-active-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-copy-source-active-take-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13238,7 +13239,7 @@
       ];
     };
     archie-take-copy-source-active-take-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-copy-source-active-take-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13252,7 +13253,7 @@
       ];
     };
     archie-take-copy-source-active-take-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-copy-source-active-take-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13266,7 +13267,7 @@
       ];
     };
     archie-take-crop-to-active-take-ignore-lock-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-crop-to-active-take-ignore-lock-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13280,7 +13281,7 @@
       ];
     };
     archie-take-crop-to-active-take-ignore-lock-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-crop-to-active-take-ignore-lock-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13294,7 +13295,7 @@
       ];
     };
     archie-take-crop-to-active-take-all-items-in-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-crop-to-active-take-all-items-in-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13308,7 +13309,7 @@
       ];
     };
     archie-take-crop-to-active-take-all-items-in-selected-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-crop-to-active-take-all-items-in-selected-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13322,7 +13323,7 @@
       ];
     };
     archie-take-crop-to-active-take-all-items-in-selected-tracks-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-crop-to-active-take-all-items-in-selected-tracks-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13336,7 +13337,7 @@
       ];
     };
     archie-take-delete-name-in-selected-items-in-active-take-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-delete-name-in-selected-items-in-active-take-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13350,7 +13351,7 @@
       ];
     };
     archie-take-delete-name-in-selected-items-in-active-take-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-delete-name-in-selected-items-in-active-take-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13364,7 +13365,7 @@
       ];
     };
     archie-take-paste-color-to-selected-item-active-take-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-paste-color-to-selected-item-active-take-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13378,7 +13379,7 @@
       ];
     };
     archie-take-paste-color-to-selected-item-active-take-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-paste-color-to-selected-item-active-take-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13392,7 +13393,7 @@
       ];
     };
     archie-take-paste-color-to-selected-item-all-take-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-paste-color-to-selected-item-all-take-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13406,7 +13407,7 @@
       ];
     };
     archie-take-paste-color-to-selected-item-all-take-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-paste-color-to-selected-item-all-take-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13420,7 +13421,7 @@
       ];
     };
     archie-take-paste-name-to-selected-items-active-take-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-paste-name-to-selected-items-active-take-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13434,7 +13435,7 @@
       ];
     };
     archie-take-paste-name-to-selected-items-active-take-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-paste-name-to-selected-items-active-take-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13448,7 +13449,7 @@
       ];
     };
     archie-take-paste-source-in-active-take-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-paste-source-in-active-take-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13462,7 +13463,7 @@
       ];
     };
     archie-take-paste-source-in-active-take-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-paste-source-in-active-take-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13476,7 +13477,7 @@
       ];
     };
     archie-take-paste-source-in-active-take-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-paste-source-in-active-take-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13490,7 +13491,7 @@
       ];
     };
     archie-take-paste-take-in-active-take-x-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-paste-take-in-active-take-x-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13519,7 +13520,7 @@
       ];
     };
     archie-take-paste-take-in-active-take-x-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-paste-take-in-active-take-x-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13548,7 +13549,7 @@
       ];
     };
     archie-take-paste-take-in-active-take-x-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-paste-take-in-active-take-x-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13577,7 +13578,7 @@
       ];
     };
     archie-take-render-active-takes-into-new-items-in-place-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-render-active-takes-into-new-items-in-place-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13591,7 +13592,7 @@
       ];
     };
     archie-take-render-active-takes-into-new-items-in-place-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-render-active-takes-into-new-items-in-place-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13605,7 +13606,7 @@
       ];
     };
     archie-take-render-active-takes-into-new-items-to-new-tracks-track-fx-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-render-active-takes-into-new-items-to-new-tracks-track-fx-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13619,7 +13620,7 @@
       ];
     };
     archie-take-render-active-takes-into-new-items-to-new-tracks-track-fx-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-render-active-takes-into-new-items-to-new-tracks-track-fx-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13633,7 +13634,7 @@
       ];
     };
     archie-take-render-active-takes-into-new-items-to-new-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-render-active-takes-into-new-items-to-new-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13647,7 +13648,7 @@
       ];
     };
     archie-take-render-active-takes-into-new-items-to-new-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-render-active-takes-into-new-items-to-new-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13661,7 +13662,7 @@
       ];
     };
     archie-take-reset-color-default-in-all-take-in-selected-items-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-reset-color-default-in-all-take-in-selected-items-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13675,7 +13676,7 @@
       ];
     };
     archie-take-reset-color-default-in-all-take-in-selected-items-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-take-reset-color-default-in-all-take-in-selected-items-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Take";
@@ -13689,7 +13690,7 @@
       ];
     };
     archie-time-selection-insert-empty-space-at-time-selection-in-selected-tracks-moving-later-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-insert-empty-space-at-time-selection-in-selected-tracks-moving-later-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13703,7 +13704,7 @@
       ];
     };
     archie-time-selection-insert-empty-space-at-time-selection-in-selected-tracks-moving-later-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-insert-empty-space-at-time-selection-in-selected-tracks-moving-later-items-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13717,7 +13718,7 @@
       ];
     };
     archie-time-selection-nudge-left-edge-left-to-nearest-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-nudge-left-edge-left-to-nearest-grid-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13731,7 +13732,7 @@
       ];
     };
     archie-time-selection-nudge-left-edge-left-to-nearest-grid-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-nudge-left-edge-left-to-nearest-grid-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13745,7 +13746,7 @@
       ];
     };
     archie-time-selection-nudge-left-edge-right-to-nearest-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-nudge-left-edge-right-to-nearest-grid-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13759,7 +13760,7 @@
       ];
     };
     archie-time-selection-nudge-left-edge-right-to-nearest-grid-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-nudge-left-edge-right-to-nearest-grid-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13773,7 +13774,7 @@
       ];
     };
     archie-time-selection-nudge-right-edge-left-to-nearest-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-nudge-right-edge-left-to-nearest-grid-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13787,7 +13788,7 @@
       ];
     };
     archie-time-selection-nudge-right-edge-left-to-nearest-grid-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-nudge-right-edge-left-to-nearest-grid-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13801,7 +13802,7 @@
       ];
     };
     archie-time-selection-nudge-right-edge-right-to-nearest-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-nudge-right-edge-right-to-nearest-grid-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13815,7 +13816,7 @@
       ];
     };
     archie-time-selection-nudge-right-edge-right-to-nearest-grid-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-nudge-right-edge-right-to-nearest-grid-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13829,7 +13830,7 @@
       ];
     };
     archie-time-selection-remove-all-contents-of-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-remove-all-contents-of-time-selection-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13843,7 +13844,7 @@
       ];
     };
     archie-time-selection-remove-all-contents-of-time-selection-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-remove-all-contents-of-time-selection-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13857,7 +13858,7 @@
       ];
     };
     archie-time-selection-remove-all-contents-of-time-selection-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-remove-all-contents-of-time-selection-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13871,7 +13872,7 @@
       ];
     };
     archie-time-selection-remove-all-contents-of-time-selection-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-remove-all-contents-of-time-selection-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13885,7 +13886,7 @@
       ];
     };
     archie-time-selection-remove-contents-of-time-selection-in-selected-tracks-moving-later-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-remove-contents-of-time-selection-in-selected-tracks-moving-later-items-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13899,7 +13900,7 @@
       ];
     };
     archie-time-selection-remove-contents-of-time-selection-in-selected-tracks-moving-later-items-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-remove-contents-of-time-selection-in-selected-tracks-moving-later-items-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13913,7 +13914,7 @@
       ];
     };
     archie-time-selection-remove-contents-of-time-selection-in-selected-tracks-moving-later-items-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-remove-contents-of-time-selection-in-selected-tracks-moving-later-items-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13927,7 +13928,7 @@
       ];
     };
     archie-time-selection-remove-contents-of-time-selection-in-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-remove-contents-of-time-selection-in-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13941,7 +13942,7 @@
       ];
     };
     archie-time-selection-remove-contents-of-time-selection-in-selected-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-remove-contents-of-time-selection-in-selected-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13955,7 +13956,7 @@
       ];
     };
     archie-time-selection-remove-contents-of-time-selection-in-selected-tracks-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-remove-contents-of-time-selection-in-selected-tracks-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13969,7 +13970,7 @@
       ];
     };
     archie-time-selection-remove-contents-of-time-selection-in-selected-tracks-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-remove-contents-of-time-selection-in-selected-tracks-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13983,7 +13984,7 @@
       ];
     };
     archie-time-selection-set-loop-by-time-selection-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-set-loop-by-time-selection-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -13997,7 +13998,7 @@
       ];
     };
     archie-time-selection-set-time-selection-by-loop-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-time-selection-set-time-selection-by-loop-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Time selection";
@@ -14011,7 +14012,7 @@
       ];
     };
     archie-track-move-tracks-to-subproject-create-subdirectory-for-subproject-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-tracks-to-subproject-create-subdirectory-for-subproject-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14025,7 +14026,7 @@
       ];
     };
     archie-track-move-tracks-to-subproject-create-subdirectory-for-subproject-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-tracks-to-subproject-create-subdirectory-for-subproject-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14039,7 +14040,7 @@
       ];
     };
     archie-track-activate-deactivate-rec-armed-rec-monitoring-all-input-fx-in-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-activate-deactivate-rec-armed-rec-monitoring-all-input-fx-in-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14053,7 +14054,7 @@
       ];
     };
     archie-track-activate-deactivate-rec-armed-rec-monitoring-all-input-fx-in-selected-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-activate-deactivate-rec-armed-rec-monitoring-all-input-fx-in-selected-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14067,7 +14068,7 @@
       ];
     };
     archie-track-add-in-end-of-name-of-selected-track-archive-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-add-in-end-of-name-of-selected-track-archive-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14081,7 +14082,7 @@
       ];
     };
     archie-track-add-in-end-of-name-of-selected-track-archive-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-add-in-end-of-name-of-selected-track-archive-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14095,7 +14096,7 @@
       ];
     };
     archie-track-add-tracks-with-locked-height-to-collapsed-folders-restore-when-uncollapsed-background-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-add-tracks-with-locked-height-to-collapsed-folders-restore-when-uncollapsed-background-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14109,7 +14110,7 @@
       ];
     };
     archie-track-add-tracks-with-locked-height-to-collapsed-folders-restore-when-uncollapsed-background-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-add-tracks-with-locked-height-to-collapsed-folders-restore-when-uncollapsed-background-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14123,7 +14124,7 @@
       ];
     };
     archie-track-arm-only-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-arm-only-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14137,7 +14138,7 @@
       ];
     };
     archie-track-arm-only-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-arm-only-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14151,7 +14152,7 @@
       ];
     };
     archie-track-arm-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-arm-selected-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14165,7 +14166,7 @@
       ];
     };
     archie-track-arm-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-arm-selected-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14179,7 +14180,7 @@
       ];
     };
     archie-track-auto-add-icon-to-track-depending-on-midi-send-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-auto-add-icon-to-track-depending-on-midi-send-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14193,7 +14194,7 @@
       ];
     };
     archie-track-auto-add-icon-to-track-depending-on-midi-send-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-auto-add-icon-to-track-depending-on-midi-send-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14207,7 +14208,7 @@
       ];
     };
     archie-track-auto-open-close-fx-chain-windows-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-auto-open-close-fx-chain-windows-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14221,7 +14222,7 @@
       ];
     };
     archie-track-auto-open-close-fx-chain-windows-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-auto-open-close-fx-chain-windows-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14235,7 +14236,7 @@
       ];
     };
     archie-track-auto-solo-sel-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-auto-solo-sel-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14249,7 +14250,7 @@
       ];
     };
     archie-track-auto-solo-sel-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-auto-solo-sel-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14263,7 +14264,7 @@
       ];
     };
     archie-track-auto-solo-sel-tracks-and-all-receive-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-auto-solo-sel-tracks-and-all-receive-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14277,7 +14278,7 @@
       ];
     };
     archie-track-auto-solo-sel-tracks-and-all-send-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-auto-solo-sel-tracks-and-all-send-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14291,7 +14292,7 @@
       ];
     };
     archie-track-copy-selected-track-name-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-copy-selected-track-name-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14305,7 +14306,7 @@
       ];
     };
     archie-track-copy-selected-track-name-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-copy-selected-track-name-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14319,7 +14320,7 @@
       ];
     };
     archie-track-copy-solo-mute-state-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-copy-solo-mute-state-selected-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14333,7 +14334,7 @@
       ];
     };
     archie-track-copy-track-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-copy-track-color-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14347,7 +14348,7 @@
       ];
     };
     archie-track-copy-track-color-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-copy-track-color-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14361,7 +14362,7 @@
       ];
     };
     archie-track-copy-track-icon-ctrlplusscript-paste-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-copy-track-icon-ctrlplusscript-paste-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14375,7 +14376,7 @@
       ];
     };
     archie-track-copy-track-icon-ctrlplusscript-paste-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-copy-track-icon-ctrlplusscript-paste-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14389,7 +14390,7 @@
       ];
     };
     archie-track-copy-track-icon-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-copy-track-icon-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14403,7 +14404,7 @@
       ];
     };
     archie-track-copy-track-icon-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-copy-track-icon-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14417,7 +14418,7 @@
       ];
     };
     archie-track-copy-track-icon-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-copy-track-icon-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14431,7 +14432,7 @@
       ];
     };
     archie-track-cut-solo-mute-state-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-cut-solo-mute-state-selected-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14445,7 +14446,7 @@
       ];
     };
     archie-track-cut-track-icon-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-cut-track-icon-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14459,7 +14460,7 @@
       ];
     };
     archie-track-cut-track-icon-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-cut-track-icon-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14473,7 +14474,7 @@
       ];
     };
     archie-track-cut-track-icon-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-cut-track-icon-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14487,7 +14488,7 @@
       ];
     };
     archie-track-delete-all-receive-in-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-all-receive-in-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14501,7 +14502,7 @@
       ];
     };
     archie-track-delete-all-receive-in-selected-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-all-receive-in-selected-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14515,7 +14516,7 @@
       ];
     };
     archie-track-delete-all-send-and-receive-in-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-all-send-and-receive-in-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14529,7 +14530,7 @@
       ];
     };
     archie-track-delete-all-send-and-receive-in-selected-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-all-send-and-receive-in-selected-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14543,7 +14544,7 @@
       ];
     };
     archie-track-delete-all-send-in-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-all-send-in-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14557,7 +14558,7 @@
       ];
     };
     archie-track-delete-all-send-in-selected-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-all-send-in-selected-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14571,7 +14572,7 @@
       ];
     };
     archie-track-delete-folder-request-for-removal-of-child-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-folder-request-for-removal-of-child-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14585,7 +14586,7 @@
       ];
     };
     archie-track-delete-folder-request-for-removal-of-child-tracks-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-folder-request-for-removal-of-child-tracks-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14599,7 +14600,7 @@
       ];
     };
     archie-track-delete-folder-s-not-removing-child-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-folder-s-not-removing-child-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14613,7 +14614,7 @@
       ];
     };
     archie-track-delete-folder-s-not-removing-child-tracks-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-folder-s-not-removing-child-tracks-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14627,7 +14628,7 @@
       ];
     };
     archie-track-delete-only-selected-track-s-without-deleting-children-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-only-selected-track-s-without-deleting-children-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14641,7 +14642,7 @@
       ];
     };
     archie-track-delete-only-selected-track-s-without-deleting-children-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-only-selected-track-s-without-deleting-children-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14655,7 +14656,7 @@
       ];
     };
     archie-track-delete-only-selected-tracks-show-a-request-to-delete-child-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-only-selected-tracks-show-a-request-to-delete-child-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14669,7 +14670,7 @@
       ];
     };
     archie-track-delete-only-selected-tracks-show-a-request-to-delete-child-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-only-selected-tracks-show-a-request-to-delete-child-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14683,7 +14684,7 @@
       ];
     };
     archie-track-delete-tracks-with-no-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-tracks-with-no-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14697,7 +14698,7 @@
       ];
     };
     archie-track-delete-tracks-with-no-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-delete-tracks-with-no-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14711,7 +14712,7 @@
       ];
     };
     archie-track-go-to-next-track-track-solo-in-solo-exclusive-skip-minimized-folders-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-go-to-next-track-track-solo-in-solo-exclusive-skip-minimized-folders-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14725,7 +14726,7 @@
       ];
     };
     archie-track-go-to-next-track-track-solo-in-solo-exclusive-skip-minimized-folders-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-go-to-next-track-track-solo-in-solo-exclusive-skip-minimized-folders-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14739,7 +14740,7 @@
       ];
     };
     archie-track-go-to-next-track-track-solo-in-solo-exclusive-skip-minimized-folders-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-go-to-next-track-track-solo-in-solo-exclusive-skip-minimized-folders-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14753,7 +14754,7 @@
       ];
     };
     archie-track-go-to-next-track-track-solo-in-solo-exclusive-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-go-to-next-track-track-solo-in-solo-exclusive-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14767,7 +14768,7 @@
       ];
     };
     archie-track-go-to-next-track-track-solo-in-solo-exclusive-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-go-to-next-track-track-solo-in-solo-exclusive-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14781,7 +14782,7 @@
       ];
     };
     archie-track-go-to-next-track-track-solo-in-solo-exclusive-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-go-to-next-track-track-solo-in-solo-exclusive-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14795,7 +14796,7 @@
       ];
     };
     archie-track-go-to-previous-track-track-solo-in-solo-exclusive-skip-minimized-folders-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-go-to-previous-track-track-solo-in-solo-exclusive-skip-minimized-folders-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14809,7 +14810,7 @@
       ];
     };
     archie-track-go-to-previous-track-track-solo-in-solo-exclusive-skip-minimized-folders-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-go-to-previous-track-track-solo-in-solo-exclusive-skip-minimized-folders-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14823,7 +14824,7 @@
       ];
     };
     archie-track-go-to-previous-track-track-solo-in-solo-exclusive-skip-minimized-folders-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-go-to-previous-track-track-solo-in-solo-exclusive-skip-minimized-folders-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14837,7 +14838,7 @@
       ];
     };
     archie-track-go-to-previous-track-track-solo-in-solo-exclusive-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-go-to-previous-track-track-solo-in-solo-exclusive-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14851,7 +14852,7 @@
       ];
     };
     archie-track-go-to-previous-track-track-solo-in-solo-exclusive-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-go-to-previous-track-track-solo-in-solo-exclusive-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14865,7 +14866,7 @@
       ];
     };
     archie-track-go-to-previous-track-track-solo-in-solo-exclusive-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-go-to-previous-track-track-solo-in-solo-exclusive-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14879,7 +14880,7 @@
       ];
     };
     archie-track-hide-all-tracks-in-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-all-tracks-in-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14893,7 +14894,7 @@
       ];
     };
     archie-track-hide-all-tracks-in-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-all-tracks-in-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14907,7 +14908,7 @@
       ];
     };
     archie-track-hide-all-tracks-in-tcp-and-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-all-tracks-in-tcp-and-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14921,7 +14922,7 @@
       ];
     };
     archie-track-hide-all-tracks-in-tcp-and-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-all-tracks-in-tcp-and-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14935,7 +14936,7 @@
       ];
     };
     archie-track-hide-all-tracks-in-tcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-all-tracks-in-tcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14949,7 +14950,7 @@
       ];
     };
     archie-track-hide-all-tracks-in-tcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-all-tracks-in-tcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14963,7 +14964,7 @@
       ];
     };
     archie-track-hide-child-tracks-of-selected-folders-in-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-child-tracks-of-selected-folders-in-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14977,7 +14978,7 @@
       ];
     };
     archie-track-hide-child-tracks-of-selected-folders-in-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-child-tracks-of-selected-folders-in-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -14991,7 +14992,7 @@
       ];
     };
     archie-track-hide-child-tracks-of-selected-folders-in-mcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-child-tracks-of-selected-folders-in-mcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15005,7 +15006,7 @@
       ];
     };
     archie-track-hide-child-tracks-of-selected-folders-in-tcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-child-tracks-of-selected-folders-in-tcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15019,7 +15020,7 @@
       ];
     };
     archie-track-hide-child-tracks-of-selected-folders-in-tcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-child-tracks-of-selected-folders-in-tcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15033,7 +15034,7 @@
       ];
     };
     archie-track-hide-child-tracks-of-selected-folders-in-tcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-child-tracks-of-selected-folders-in-tcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15047,7 +15048,7 @@
       ];
     };
     archie-track-hide-selected-tracks-in-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-selected-tracks-in-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15061,7 +15062,7 @@
       ];
     };
     archie-track-hide-selected-tracks-in-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-selected-tracks-in-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15075,7 +15076,7 @@
       ];
     };
     archie-track-hide-selected-tracks-in-tcp-and-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-selected-tracks-in-tcp-and-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15089,7 +15090,7 @@
       ];
     };
     archie-track-hide-selected-tracks-in-tcp-and-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-selected-tracks-in-tcp-and-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15103,7 +15104,7 @@
       ];
     };
     archie-track-hide-selected-tracks-in-tcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-selected-tracks-in-tcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15117,7 +15118,7 @@
       ];
     };
     archie-track-hide-selected-tracks-in-tcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-selected-tracks-in-tcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15131,7 +15132,7 @@
       ];
     };
     archie-track-hide-show-track-in-slot-popup-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-show-track-in-slot-popup-menu-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15145,7 +15146,7 @@
       ];
     };
     archie-track-hide-show-track-in-slot-popup-menu-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-show-track-in-slot-popup-menu-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15159,7 +15160,7 @@
       ];
     };
     archie-track-hide-show-track-in-slot-popup-menu-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-show-track-in-slot-popup-menu-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15173,7 +15174,7 @@
       ];
     };
     archie-track-hide-show-track-in-slot-popup-menu-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-show-track-in-slot-popup-menu-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15187,7 +15188,7 @@
       ];
     };
     archie-track-hide-unselected-tracks-in-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-unselected-tracks-in-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15201,7 +15202,7 @@
       ];
     };
     archie-track-hide-unselected-tracks-in-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-unselected-tracks-in-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15215,7 +15216,7 @@
       ];
     };
     archie-track-hide-unselected-tracks-in-tcp-and-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-unselected-tracks-in-tcp-and-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15229,7 +15230,7 @@
       ];
     };
     archie-track-hide-unselected-tracks-in-tcp-and-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-unselected-tracks-in-tcp-and-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15243,7 +15244,7 @@
       ];
     };
     archie-track-hide-unselected-tracks-in-tcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-unselected-tracks-in-tcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15257,7 +15258,7 @@
       ];
     };
     archie-track-hide-unselected-tracks-in-tcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-hide-unselected-tracks-in-tcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15271,7 +15272,7 @@
       ];
     };
     archie-track-insert-new-track-with-height-last-track-touched-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-new-track-with-height-last-track-touched-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15285,7 +15286,7 @@
       ];
     };
     archie-track-insert-new-track-with-height-last-track-touched-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-new-track-with-height-last-track-touched-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15299,7 +15300,7 @@
       ];
     };
     archie-track-insert-new-track-with-send-on-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-new-track-with-send-on-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15313,7 +15314,7 @@
       ];
     };
     archie-track-insert-new-track-with-send-on-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-new-track-with-send-on-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15327,7 +15328,7 @@
       ];
     };
     archie-track-insert-new-track-with-send-on-selected-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-new-track-with-send-on-selected-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15341,7 +15342,7 @@
       ];
     };
     archie-track-insert-prefix-name-of-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-prefix-name-of-selected-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15355,7 +15356,7 @@
       ];
     };
     archie-track-insert-prefix-name-of-selected-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-prefix-name-of-selected-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15369,7 +15370,7 @@
       ];
     };
     archie-track-insert-prefix-name-of-selected-track-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-prefix-name-of-selected-track-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15383,7 +15384,7 @@
       ];
     };
     archie-track-insert-track-double-middle-click-in-empty-tcp-and-random-color-rename-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-track-double-middle-click-in-empty-tcp-and-random-color-rename-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15397,7 +15398,7 @@
       ];
     };
     archie-track-insert-track-double-middle-click-in-empty-tcp-and-random-color-rename-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-track-double-middle-click-in-empty-tcp-and-random-color-rename-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15411,7 +15412,7 @@
       ];
     };
     archie-track-insert-track-holding-the-mouse-into-empty-tcp-and-rename-random-color-lua-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-track-holding-the-mouse-into-empty-tcp-and-rename-random-color-lua-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15425,7 +15426,7 @@
       ];
     };
     archie-track-insert-track-holding-the-mouse-into-empty-tcp-and-rename-random-color-lua-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-track-holding-the-mouse-into-empty-tcp-and-rename-random-color-lua-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15439,7 +15440,7 @@
       ];
     };
     archie-track-insert-track-receive-from-all-tracks-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-track-receive-from-all-tracks-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15453,7 +15454,7 @@
       ];
     };
     archie-track-insert-track-receive-from-all-tracks-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-track-receive-from-all-tracks-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15467,7 +15468,7 @@
       ];
     };
     archie-track-insert-track-with-folder-ctrl-up-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-track-with-folder-ctrl-up-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15481,7 +15482,7 @@
       ];
     };
     archie-track-insert-track-with-folder-ctrl-up-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-insert-track-with-folder-ctrl-up-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15495,7 +15496,7 @@
       ];
     };
     archie-track-lock-selected-tracks-and-them-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-lock-selected-tracks-and-them-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15509,7 +15510,7 @@
       ];
     };
     archie-track-lock-selected-tracks-and-them-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-lock-selected-tracks-and-them-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15523,7 +15524,7 @@
       ];
     };
     archie-track-lock-selected-tracks-and-them-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-lock-selected-tracks-and-them-items-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15537,7 +15538,7 @@
       ];
     };
     archie-track-make-folder-from-selected-tracks-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-make-folder-from-selected-tracks-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15551,7 +15552,7 @@
       ];
     };
     archie-track-make-folder-from-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-make-folder-from-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15565,7 +15566,7 @@
       ];
     };
     archie-track-minimize-all-tracks-restore-back-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-minimize-all-tracks-restore-back-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15579,7 +15580,7 @@
       ];
     };
     archie-track-minimize-all-tracks-restore-back-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-minimize-all-tracks-restore-back-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15593,7 +15594,7 @@
       ];
     };
     archie-track-minimize-selected-tracks-restore-back-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-minimize-selected-tracks-restore-back-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15607,7 +15608,7 @@
       ];
     };
     archie-track-minimize-selected-tracks-restore-back-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-minimize-selected-tracks-restore-back-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15621,7 +15622,7 @@
       ];
     };
     archie-track-monitoring-track-exclusive-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-monitoring-track-exclusive-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15635,7 +15636,7 @@
       ];
     };
     archie-track-monitoring-track-exclusive-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-monitoring-track-exclusive-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15649,7 +15650,7 @@
       ];
     };
     archie-track-move-all-selected-tracks-to-first-selected-folder-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-all-selected-tracks-to-first-selected-folder-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15663,7 +15664,7 @@
       ];
     };
     archie-track-move-all-selected-tracks-to-first-selected-folder-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-all-selected-tracks-to-first-selected-folder-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15677,7 +15678,7 @@
       ];
     };
     archie-track-move-all-selected-tracks-to-first-selected-folder-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-all-selected-tracks-to-first-selected-folder-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15691,7 +15692,7 @@
       ];
     };
     archie-track-move-all-selected-tracks-to-last-selected-folder-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-all-selected-tracks-to-last-selected-folder-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15705,7 +15706,7 @@
       ];
     };
     archie-track-move-all-selected-tracks-to-last-selected-folder-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-all-selected-tracks-to-last-selected-folder-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15719,7 +15720,7 @@
       ];
     };
     archie-track-move-all-selected-tracks-to-last-selected-folder-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-all-selected-tracks-to-last-selected-folder-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15733,7 +15734,7 @@
       ];
     };
     archie-track-move-all-selected-tracks-to-last-touched-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-all-selected-tracks-to-last-touched-folder-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15747,7 +15748,7 @@
       ];
     };
     archie-track-move-all-selected-tracks-to-last-touched-folder-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-all-selected-tracks-to-last-touched-folder-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15761,7 +15762,7 @@
       ];
     };
     archie-track-move-all-selected-tracks-to-last-touched-folder-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-all-selected-tracks-to-last-touched-folder-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15775,7 +15776,7 @@
       ];
     };
     archie-track-move-all-selected-tracks-under-first-selected-track-or-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-all-selected-tracks-under-first-selected-track-or-folder-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15789,7 +15790,7 @@
       ];
     };
     archie-track-move-all-selected-tracks-under-first-selected-track-or-folder-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-all-selected-tracks-under-first-selected-track-or-folder-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15803,7 +15804,7 @@
       ];
     };
     archie-track-move-children-from-folder-and-place-them-above-folder-remove-grouping-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-children-from-folder-and-place-them-above-folder-remove-grouping-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15817,7 +15818,7 @@
       ];
     };
     archie-track-move-children-from-folder-and-place-them-above-folder-remove-grouping-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-children-from-folder-and-place-them-above-folder-remove-grouping-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15831,7 +15832,7 @@
       ];
     };
     archie-track-move-children-from-folder-and-place-them-above-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-children-from-folder-and-place-them-above-folder-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15845,7 +15846,7 @@
       ];
     };
     archie-track-move-children-from-folder-and-place-them-above-folder-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-children-from-folder-and-place-them-above-folder-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15859,7 +15860,7 @@
       ];
     };
     archie-track-move-selected-track-down-to-nearest-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-track-down-to-nearest-folder-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15873,7 +15874,7 @@
       ];
     };
     archie-track-move-selected-track-down-to-nearest-folder-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-track-down-to-nearest-folder-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15887,7 +15888,7 @@
       ];
     };
     archie-track-move-selected-track-up-to-nearest-folder-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-track-up-to-nearest-folder-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15901,7 +15902,7 @@
       ];
     };
     archie-track-move-selected-track-up-to-nearest-folder-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-track-up-to-nearest-folder-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15915,7 +15916,7 @@
       ];
     };
     archie-track-move-selected-tracks-down-by-one-visible-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-tracks-down-by-one-visible-lua-1-10";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15944,7 +15945,7 @@
       ];
     };
     archie-track-move-selected-tracks-down-by-one-visible-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-tracks-down-by-one-visible-lua-1-11";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -15973,7 +15974,7 @@
       ];
     };
     archie-track-move-selected-tracks-down-by-one-visible-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-tracks-down-by-one-visible-lua-1-15";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16002,7 +16003,7 @@
       ];
     };
     archie-track-move-selected-tracks-down-by-one-visible-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-tracks-down-by-one-visible-lua-1-16";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16031,7 +16032,7 @@
       ];
     };
     archie-track-move-selected-tracks-down-by-one-visible-lua-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-tracks-down-by-one-visible-lua-1-17";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16060,7 +16061,7 @@
       ];
     };
     archie-track-move-selected-tracks-in-folder-with-name-user-input-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-tracks-in-folder-with-name-user-input-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16074,7 +16075,7 @@
       ];
     };
     archie-track-move-selected-tracks-in-folder-with-name-user-input-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-tracks-in-folder-with-name-user-input-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16088,7 +16089,7 @@
       ];
     };
     archie-track-move-selected-tracks-up-by-one-visible-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-tracks-up-by-one-visible-lua-1-10";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16117,7 +16118,7 @@
       ];
     };
     archie-track-move-selected-tracks-up-by-one-visible-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-tracks-up-by-one-visible-lua-1-11";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16146,7 +16147,7 @@
       ];
     };
     archie-track-move-selected-tracks-up-by-one-visible-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-tracks-up-by-one-visible-lua-1-15";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16175,7 +16176,7 @@
       ];
     };
     archie-track-move-selected-tracks-up-by-one-visible-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-tracks-up-by-one-visible-lua-1-16";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16204,7 +16205,7 @@
       ];
     };
     archie-track-move-selected-tracks-up-by-one-visible-lua-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-move-selected-tracks-up-by-one-visible-lua-1-17";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16233,7 +16234,7 @@
       ];
     };
     archie-track-mute-all-children-tracks-in-selected-folders-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-mute-all-children-tracks-in-selected-folders-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16247,7 +16248,7 @@
       ];
     };
     archie-track-mute-all-children-tracks-in-selected-folders-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-mute-all-children-tracks-in-selected-folders-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16261,7 +16262,7 @@
       ];
     };
     archie-track-mute-all-children-tracks-in-selected-folders-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-mute-all-children-tracks-in-selected-folders-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16275,7 +16276,7 @@
       ];
     };
     archie-track-mute-all-selected-tracks-except-selected-folders-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-mute-all-selected-tracks-except-selected-folders-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16289,7 +16290,7 @@
       ];
     };
     archie-track-mute-all-selected-tracks-except-selected-folders-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-mute-all-selected-tracks-except-selected-folders-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16303,7 +16304,7 @@
       ];
     };
     archie-track-mute-all-visible-track-in-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-mute-all-visible-track-in-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16317,7 +16318,7 @@
       ];
     };
     archie-track-mute-all-visible-track-in-mcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-mute-all-visible-track-in-mcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16331,7 +16332,7 @@
       ];
     };
     archie-track-mute-all-visible-track-in-tcp-and-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-mute-all-visible-track-in-tcp-and-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16345,7 +16346,7 @@
       ];
     };
     archie-track-mute-all-visible-track-in-tcp-and-mcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-mute-all-visible-track-in-tcp-and-mcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16359,7 +16360,7 @@
       ];
     };
     archie-track-mute-all-visible-track-in-tcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-mute-all-visible-track-in-tcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16373,7 +16374,7 @@
       ];
     };
     archie-track-mute-all-visible-track-in-tcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-mute-all-visible-track-in-tcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16387,7 +16388,7 @@
       ];
     };
     archie-track-paste-icon-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-paste-icon-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16401,7 +16402,7 @@
       ];
     };
     archie-track-paste-icon-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-paste-icon-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16415,7 +16416,7 @@
       ];
     };
     archie-track-paste-icon-selected-tracks-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-paste-icon-selected-tracks-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16429,7 +16430,7 @@
       ];
     };
     archie-track-paste-selected-track-name-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-paste-selected-track-name-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16443,7 +16444,7 @@
       ];
     };
     archie-track-paste-selected-track-name-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-paste-selected-track-name-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16457,7 +16458,7 @@
       ];
     };
     archie-track-paste-solo-mute-state-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-paste-solo-mute-state-selected-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16471,7 +16472,7 @@
       ];
     };
     archie-track-paste-track-color-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-paste-track-color-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16485,7 +16486,7 @@
       ];
     };
     archie-track-paste-track-color-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-paste-track-color-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16499,7 +16500,7 @@
       ];
     };
     archie-track-remove-from-end-of-name-of-selected-track-archive-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-remove-from-end-of-name-of-selected-track-archive-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16513,7 +16514,7 @@
       ];
     };
     archie-track-remove-from-end-of-name-of-selected-track-archive-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-remove-from-end-of-name-of-selected-track-archive-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16527,7 +16528,7 @@
       ];
     };
     archie-track-remove-icon-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-remove-icon-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16541,7 +16542,7 @@
       ];
     };
     archie-track-remove-icon-selected-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-remove-icon-selected-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16555,7 +16556,7 @@
       ];
     };
     archie-track-remove-prefix-name-of-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-remove-prefix-name-of-selected-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16569,7 +16570,7 @@
       ];
     };
     archie-track-remove-prefix-name-of-selected-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-remove-prefix-name-of-selected-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16583,7 +16584,7 @@
       ];
     };
     archie-track-remove-prefix-name-of-selected-track-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-remove-prefix-name-of-selected-track-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16597,7 +16598,7 @@
       ];
     };
     archie-track-removes-8-characters-from-the-end-of-the-selected-track-name-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-removes-8-characters-from-the-end-of-the-selected-track-name-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16611,7 +16612,7 @@
       ];
     };
     archie-track-removes-8-characters-from-the-end-of-the-selected-track-name-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-removes-8-characters-from-the-end-of-the-selected-track-name-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16625,7 +16626,7 @@
       ];
     };
     archie-track-restore-all-track-mute-solo-state-slot-1-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-restore-all-track-mute-solo-state-slot-1-lua-1-09";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16639,7 +16640,7 @@
       ];
     };
     archie-track-restore-all-track-mute-solo-state-slot-1-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-restore-all-track-mute-solo-state-slot-1-lua-1-10";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16653,7 +16654,7 @@
       ];
     };
     archie-track-restore-all-tracks-visible-slot-1-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-restore-all-tracks-visible-slot-1-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16667,7 +16668,7 @@
       ];
     };
     archie-track-restore-all-tracks-visible-slot-1-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-restore-all-tracks-visible-slot-1-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16681,7 +16682,7 @@
       ];
     };
     archie-track-save-all-track-mute-solo-state-slot-1-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-save-all-track-mute-solo-state-slot-1-lua-1-10";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16695,7 +16696,7 @@
       ];
     };
     archie-track-save-all-track-mute-solo-state-slot-1-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-save-all-track-mute-solo-state-slot-1-lua-1-11";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16709,7 +16710,7 @@
       ];
     };
     archie-track-save-all-tracks-visible-slot-1-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-save-all-tracks-visible-slot-1-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16723,7 +16724,7 @@
       ];
     };
     archie-track-save-all-tracks-visible-slot-1-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-save-all-tracks-visible-slot-1-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16737,7 +16738,7 @@
       ];
     };
     archie-track-select-a-track-by-name-abbreviated-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-a-track-by-name-abbreviated-input-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16751,7 +16752,7 @@
       ];
     };
     archie-track-select-a-track-by-name-abbreviated-input-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-a-track-by-name-abbreviated-input-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16765,7 +16766,7 @@
       ];
     };
     archie-track-select-all-sent-and-parent-tracks-from-selected-tracks-whole-chain-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-all-sent-and-parent-tracks-from-selected-tracks-whole-chain-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16779,7 +16780,7 @@
       ];
     };
     archie-track-select-all-sent-and-parent-tracks-from-the-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-all-sent-and-parent-tracks-from-the-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16793,7 +16794,7 @@
       ];
     };
     archie-track-select-next-previous-track-skip-minimized-folders-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-next-previous-track-skip-minimized-folders-lua-1-07";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16822,7 +16823,7 @@
       ];
     };
     archie-track-select-next-previous-track-skip-minimized-folders-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-next-previous-track-skip-minimized-folders-lua-1-08";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16851,7 +16852,7 @@
       ];
     };
     archie-track-select-next-previous-track-skip-minimized-folders-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-next-previous-track-skip-minimized-folders-lua-1-09";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16900,7 +16901,7 @@
       ];
     };
     archie-track-select-next-previous-track-skip-minimized-folders-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-next-previous-track-skip-minimized-folders-lua-1-10";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16949,7 +16950,7 @@
       ];
     };
     archie-track-select-next-previous-track-skip-minimized-folders-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-next-previous-track-skip-minimized-folders-lua-1-11";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -16998,7 +16999,7 @@
       ];
     };
     archie-track-select-next-previous-track-skip-minimized-folders-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-next-previous-track-skip-minimized-folders-lua-1-12";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17047,7 +17048,7 @@
       ];
     };
     archie-track-select-next-previous-track-skip-minimized-folders-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-next-previous-track-skip-minimized-folders-lua-1-15";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17096,7 +17097,7 @@
       ];
     };
     archie-track-select-next-previous-track-skip-minimized-folders-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-next-previous-track-skip-minimized-folders-lua-1-16";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17145,7 +17146,7 @@
       ];
     };
     archie-track-select-next-previous-track-skip-minimized-folders-lua-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-next-previous-track-skip-minimized-folders-lua-1-17";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17194,7 +17195,7 @@
       ];
     };
     archie-track-select-next-previous-track-skip-minimized-folders-lua-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-next-previous-track-skip-minimized-folders-lua-1-18";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17243,7 +17244,7 @@
       ];
     };
     archie-track-select-next-previous-track-skip-minimized-folders-lua-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-next-previous-track-skip-minimized-folders-lua-1-19";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17292,7 +17293,7 @@
       ];
     };
     archie-track-select-track-with-prefix-name-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-track-with-prefix-name-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17306,7 +17307,7 @@
       ];
     };
     archie-track-select-track-with-prefix-name-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-track-with-prefix-name-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17320,7 +17321,7 @@
       ];
     };
     archie-track-select-tracks-that-have-at-end-of-name-archive-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-tracks-that-have-at-end-of-name-archive-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17334,7 +17335,7 @@
       ];
     };
     archie-track-select-tracks-that-have-at-end-of-name-archive-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-select-tracks-that-have-at-end-of-name-archive-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17348,7 +17349,7 @@
       ];
     };
     archie-track-selected-tracks-popup-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-selected-tracks-popup-menu-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17362,7 +17363,7 @@
       ];
     };
     archie-track-selected-tracks-popup-menu-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-selected-tracks-popup-menu-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17376,7 +17377,7 @@
       ];
     };
     archie-track-selected-tracks-popup-menu-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-selected-tracks-popup-menu-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17390,7 +17391,7 @@
       ];
     };
     archie-track-set-pan-on-selected-tracks-by-inverting-every-second-track-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-set-pan-on-selected-tracks-by-inverting-every-second-track-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17404,7 +17405,7 @@
       ];
     };
     archie-track-set-pan-on-selected-tracks-by-inverting-every-second-track-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-set-pan-on-selected-tracks-by-inverting-every-second-track-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17418,7 +17419,7 @@
       ];
     };
     archie-track-set-selected-folder-s-collapsed-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-set-selected-folder-s-collapsed-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17432,7 +17433,7 @@
       ];
     };
     archie-track-set-selected-folder-s-collapsed-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-set-selected-folder-s-collapsed-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17446,7 +17447,7 @@
       ];
     };
     archie-track-set-selected-folder-s-uncollapsed-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-set-selected-folder-s-uncollapsed-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17460,7 +17461,7 @@
       ];
     };
     archie-track-set-selected-folder-s-uncollapsed-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-set-selected-folder-s-uncollapsed-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17474,7 +17475,7 @@
       ];
     };
     archie-track-set-selected-tracks-all-midi-input-to-n-channels-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-set-selected-tracks-all-midi-input-to-n-channels-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17568,7 +17569,7 @@
       ];
     };
     archie-track-set-selected-tracks-all-midi-input-to-n-channels-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-set-selected-tracks-all-midi-input-to-n-channels-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17662,7 +17663,7 @@
       ];
     };
     archie-track-set-selected-tracks-virtual-midi-keyboard-to-n-channels-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-set-selected-tracks-virtual-midi-keyboard-to-n-channels-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17756,7 +17757,7 @@
       ];
     };
     archie-track-set-selected-tracks-virtual-midi-keyboard-to-n-channels-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-set-selected-tracks-virtual-midi-keyboard-to-n-channels-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17850,7 +17851,7 @@
       ];
     };
     archie-track-set-volume-all-tracks-to-6-0-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-set-volume-all-tracks-to-6-0-db-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17864,7 +17865,7 @@
       ];
     };
     archie-track-set-volume-all-tracks-to-6-0-db-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-set-volume-all-tracks-to-6-0-db-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17878,7 +17879,7 @@
       ];
     };
     archie-track-set-volume-selected-tracks-to-6-0-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-set-volume-selected-tracks-to-6-0-db-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17892,7 +17893,7 @@
       ];
     };
     archie-track-set-volume-selected-tracks-to-6-0-db-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-set-volume-selected-tracks-to-6-0-db-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17906,7 +17907,7 @@
       ];
     };
     archie-track-show-all-tracks-in-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-all-tracks-in-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17920,7 +17921,7 @@
       ];
     };
     archie-track-show-all-tracks-in-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-all-tracks-in-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17934,7 +17935,7 @@
       ];
     };
     archie-track-show-all-tracks-in-tcp-and-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-all-tracks-in-tcp-and-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17948,7 +17949,7 @@
       ];
     };
     archie-track-show-all-tracks-in-tcp-and-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-all-tracks-in-tcp-and-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17962,7 +17963,7 @@
       ];
     };
     archie-track-show-all-tracks-in-tcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-all-tracks-in-tcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17976,7 +17977,7 @@
       ];
     };
     archie-track-show-all-tracks-in-tcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-all-tracks-in-tcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -17990,7 +17991,7 @@
       ];
     };
     archie-track-show-child-tracks-of-selected-folders-in-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-child-tracks-of-selected-folders-in-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18004,7 +18005,7 @@
       ];
     };
     archie-track-show-child-tracks-of-selected-folders-in-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-child-tracks-of-selected-folders-in-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18018,7 +18019,7 @@
       ];
     };
     archie-track-show-child-tracks-of-selected-folders-in-mcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-child-tracks-of-selected-folders-in-mcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18032,7 +18033,7 @@
       ];
     };
     archie-track-show-child-tracks-of-selected-folders-in-tcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-child-tracks-of-selected-folders-in-tcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18046,7 +18047,7 @@
       ];
     };
     archie-track-show-child-tracks-of-selected-folders-in-tcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-child-tracks-of-selected-folders-in-tcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18060,7 +18061,7 @@
       ];
     };
     archie-track-show-child-tracks-of-selected-folders-in-tcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-child-tracks-of-selected-folders-in-tcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18074,7 +18075,7 @@
       ];
     };
     archie-track-show-only-send-of-selected-track-s-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-only-send-of-selected-track-s-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18088,7 +18089,7 @@
       ];
     };
     archie-track-show-only-send-of-selected-track-s-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-only-send-of-selected-track-s-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18102,7 +18103,7 @@
       ];
     };
     archie-track-show-only-send-selected-track-s-matching-name-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-only-send-selected-track-s-matching-name-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18116,7 +18117,7 @@
       ];
     };
     archie-track-show-only-send-selected-track-s-matching-name-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-only-send-selected-track-s-matching-name-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18130,7 +18131,7 @@
       ];
     };
     archie-track-show-selected-tracks-in-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-selected-tracks-in-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18144,7 +18145,7 @@
       ];
     };
     archie-track-show-selected-tracks-in-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-selected-tracks-in-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18158,7 +18159,7 @@
       ];
     };
     archie-track-show-selected-tracks-in-tcp-and-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-selected-tracks-in-tcp-and-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18172,7 +18173,7 @@
       ];
     };
     archie-track-show-selected-tracks-in-tcp-and-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-selected-tracks-in-tcp-and-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18186,7 +18187,7 @@
       ];
     };
     archie-track-show-selected-tracks-in-tcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-selected-tracks-in-tcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18200,7 +18201,7 @@
       ];
     };
     archie-track-show-selected-tracks-in-tcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-selected-tracks-in-tcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18214,7 +18215,7 @@
       ];
     };
     archie-track-show-unselected-tracks-in-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-unselected-tracks-in-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18228,7 +18229,7 @@
       ];
     };
     archie-track-show-unselected-tracks-in-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-unselected-tracks-in-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18242,7 +18243,7 @@
       ];
     };
     archie-track-show-unselected-tracks-in-tcp-and-mcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-unselected-tracks-in-tcp-and-mcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18256,7 +18257,7 @@
       ];
     };
     archie-track-show-unselected-tracks-in-tcp-and-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-unselected-tracks-in-tcp-and-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18270,7 +18271,7 @@
       ];
     };
     archie-track-show-unselected-tracks-in-tcp-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-unselected-tracks-in-tcp-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18284,7 +18285,7 @@
       ];
     };
     archie-track-show-unselected-tracks-in-tcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-unselected-tracks-in-tcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18298,7 +18299,7 @@
       ];
     };
     archie-track-show-hide-tracks-receives-created-by-script-insert-track-receive-from-all-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-hide-tracks-receives-created-by-script-insert-track-receive-from-all-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18312,7 +18313,7 @@
       ];
     };
     archie-track-show-hide-tracks-receives-created-by-script-insert-track-receive-from-all-tracks-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-show-hide-tracks-receives-created-by-script-insert-track-receive-from-all-tracks-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18326,7 +18327,7 @@
       ];
     };
     archie-track-smart-template-load-track-template-by-name-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-smart-template-load-track-template-by-name-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18340,7 +18341,7 @@
       ];
     };
     archie-track-smart-template-load-track-template-by-name-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-smart-template-load-track-template-by-name-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18354,7 +18355,7 @@
       ];
     };
     archie-track-smart-template-load-track-template-by-name-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-smart-template-load-track-template-by-name-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18368,7 +18369,7 @@
       ];
     };
     archie-track-solo-track-under-mouse-cursor-unsolo-previous-solo-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-solo-track-under-mouse-cursor-unsolo-previous-solo-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18382,7 +18383,7 @@
       ];
     };
     archie-track-solo-track-under-mouse-cursor-unsolo-previous-solo-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-solo-track-under-mouse-cursor-unsolo-previous-solo-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18396,7 +18397,7 @@
       ];
     };
     archie-track-toggle-arm-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-arm-selected-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18410,7 +18411,7 @@
       ];
     };
     archie-track-toggle-arm-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-arm-selected-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18424,7 +18425,7 @@
       ];
     };
     archie-track-toggle-auto-height-selected-tracks-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-auto-height-selected-tracks-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18438,7 +18439,7 @@
       ];
     };
     archie-track-toggle-height-selected-tracks-in-24-pixel-revert-to-average-values-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-height-selected-tracks-in-24-pixel-revert-to-average-values-lua-1-08";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18452,7 +18453,7 @@
       ];
     };
     archie-track-toggle-height-selected-tracks-in-24-pixel-revert-to-average-values-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-height-selected-tracks-in-24-pixel-revert-to-average-values-lua-1-09";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18466,7 +18467,7 @@
       ];
     };
     archie-track-toggle-hide-super-collapsed-restore-back-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-hide-super-collapsed-restore-back-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18480,7 +18481,7 @@
       ];
     };
     archie-track-toggle-hide-super-collapsed-restore-back-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-hide-super-collapsed-restore-back-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18494,7 +18495,7 @@
       ];
     };
     archie-track-toggle-hide-super-collapsed-restore-back-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-hide-super-collapsed-restore-back-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18508,7 +18509,7 @@
       ];
     };
     archie-track-toggle-hide-super-collapsed-autorun-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-hide-super-collapsed-autorun-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18522,7 +18523,7 @@
       ];
     };
     archie-track-toggle-hide-super-collapsed-autorun-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-hide-super-collapsed-autorun-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18536,7 +18537,7 @@
       ];
     };
     archie-track-toggle-hide-super-collapsed-autorun-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-hide-super-collapsed-autorun-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18550,7 +18551,7 @@
       ];
     };
     archie-track-toggle-lock-height-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-lock-height-selected-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18564,7 +18565,7 @@
       ];
     };
     archie-track-toggle-lock-height-selected-track-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-lock-height-selected-track-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18578,7 +18579,7 @@
       ];
     };
     archie-track-toggle-lock-selected-tracks-and-them-items-unlock-tracks-restore-them-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-lock-selected-tracks-and-them-items-unlock-tracks-restore-them-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18592,7 +18593,7 @@
       ];
     };
     archie-track-toggle-lock-selected-tracks-and-them-items-unlock-tracks-restore-them-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-lock-selected-tracks-and-them-items-unlock-tracks-restore-them-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18606,7 +18607,7 @@
       ];
     };
     archie-track-toggle-lock-selected-tracks-and-them-items-unlock-tracks-restore-them-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-lock-selected-tracks-and-them-items-unlock-tracks-restore-them-items-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18620,7 +18621,7 @@
       ];
     };
     archie-track-toggle-monitoring-track-exclusive-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-monitoring-track-exclusive-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18634,7 +18635,7 @@
       ];
     };
     archie-track-toggle-monitoring-track-exclusive-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-monitoring-track-exclusive-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18648,7 +18649,7 @@
       ];
     };
     archie-track-toggle-mute-unmute-all-visible-track-in-tcp-and-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-mute-unmute-all-visible-track-in-tcp-and-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18662,7 +18663,7 @@
       ];
     };
     archie-track-toggle-mute-unmute-all-visible-track-in-tcp-and-mcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-mute-unmute-all-visible-track-in-tcp-and-mcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18676,7 +18677,7 @@
       ];
     };
     archie-track-toggle-mute-unmute-all-visible-track-in-tcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-mute-unmute-all-visible-track-in-tcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18690,7 +18691,7 @@
       ];
     };
     archie-track-toggle-mute-unmute-all-visible-track-in-tcp-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-mute-unmute-all-visible-track-in-tcp-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18704,7 +18705,7 @@
       ];
     };
     archie-track-toggle-off-medium-mode-collapse-folder-autorun-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-off-medium-mode-collapse-folder-autorun-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18718,7 +18719,7 @@
       ];
     };
     archie-track-toggle-off-medium-mode-collapse-folder-autorun-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-off-medium-mode-collapse-folder-autorun-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18732,7 +18733,7 @@
       ];
     };
     archie-track-toggle-rec-arm-exclusive-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-rec-arm-exclusive-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18746,7 +18747,7 @@
       ];
     };
     archie-track-toggle-rec-arm-exclusive-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-rec-arm-exclusive-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18760,7 +18761,7 @@
       ];
     };
     archie-track-toggle-track-height-a-b-collapse-uncollapse-folder-under-mouse-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-track-height-a-b-collapse-uncollapse-folder-under-mouse-cursor-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18774,7 +18775,7 @@
       ];
     };
     archie-track-toggle-track-height-a-b-collapse-uncollapse-folder-under-mouse-cursor-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-track-height-a-b-collapse-uncollapse-folder-under-mouse-cursor-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18788,7 +18789,7 @@
       ];
     };
     archie-track-toggle-unmute-mute-all-visible-track-in-tcp-and-mcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-unmute-mute-all-visible-track-in-tcp-and-mcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18802,7 +18803,7 @@
       ];
     };
     archie-track-toggle-unmute-mute-all-visible-track-in-tcp-and-mcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-unmute-mute-all-visible-track-in-tcp-and-mcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18816,7 +18817,7 @@
       ];
     };
     archie-track-toggle-unmute-mute-all-visible-track-in-tcp-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-unmute-mute-all-visible-track-in-tcp-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18830,7 +18831,7 @@
       ];
     };
     archie-track-toggle-unmute-mute-all-visible-track-in-tcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-toggle-unmute-mute-all-visible-track-in-tcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18844,7 +18845,7 @@
       ];
     };
     archie-track-unarm-all-tracks-for-recording-autorun-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unarm-all-tracks-for-recording-autorun-lua-1-11";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18858,7 +18859,7 @@
       ];
     };
     archie-track-unarm-all-tracks-for-recording-autorun-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unarm-all-tracks-for-recording-autorun-lua-1-12";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18872,7 +18873,7 @@
       ];
     };
     archie-track-unarm-all-tracks-for-recording-autorun-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unarm-all-tracks-for-recording-autorun-lua-1-14";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18886,7 +18887,7 @@
       ];
     };
     archie-track-unarm-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unarm-selected-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18900,7 +18901,7 @@
       ];
     };
     archie-track-unarm-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unarm-selected-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18914,7 +18915,7 @@
       ];
     };
     archie-track-unlock-selected-tracks-and-restore-them-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unlock-selected-tracks-and-restore-them-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18928,7 +18929,7 @@
       ];
     };
     archie-track-unlock-selected-tracks-and-restore-them-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unlock-selected-tracks-and-restore-them-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18942,7 +18943,7 @@
       ];
     };
     archie-track-unlock-selected-tracks-and-restore-them-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unlock-selected-tracks-and-restore-them-items-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18956,7 +18957,7 @@
       ];
     };
     archie-track-unmute-all-children-tracks-in-selected-folders-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unmute-all-children-tracks-in-selected-folders-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18970,7 +18971,7 @@
       ];
     };
     archie-track-unmute-all-children-tracks-in-selected-folders-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unmute-all-children-tracks-in-selected-folders-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18984,7 +18985,7 @@
       ];
     };
     archie-track-unmute-all-selected-tracks-except-selected-folders-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unmute-all-selected-tracks-except-selected-folders-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -18998,7 +18999,7 @@
       ];
     };
     archie-track-unmute-all-selected-tracks-except-selected-folders-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unmute-all-selected-tracks-except-selected-folders-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19012,7 +19013,7 @@
       ];
     };
     archie-track-unmute-all-track-autorun-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unmute-all-track-autorun-lua-1-12";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19026,7 +19027,7 @@
       ];
     };
     archie-track-unmute-all-track-autorun-lua-1-13 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unmute-all-track-autorun-lua-1-13";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19040,7 +19041,7 @@
       ];
     };
     archie-track-unmute-all-track-autorun-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unmute-all-track-autorun-lua-1-15";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19054,7 +19055,7 @@
       ];
     };
     archie-track-unmute-all-visible-track-in-mcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unmute-all-visible-track-in-mcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19068,7 +19069,7 @@
       ];
     };
     archie-track-unmute-all-visible-track-in-mcp-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unmute-all-visible-track-in-mcp-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19082,7 +19083,7 @@
       ];
     };
     archie-track-unmute-all-visible-track-in-tcp-and-mcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unmute-all-visible-track-in-tcp-and-mcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19096,7 +19097,7 @@
       ];
     };
     archie-track-unmute-all-visible-track-in-tcp-and-mcp-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unmute-all-visible-track-in-tcp-and-mcp-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19110,7 +19111,7 @@
       ];
     };
     archie-track-unmute-all-visible-track-in-tcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unmute-all-visible-track-in-tcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19124,7 +19125,7 @@
       ];
     };
     archie-track-unmute-all-visible-track-in-tcp-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unmute-all-visible-track-in-tcp-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19138,7 +19139,7 @@
       ];
     };
     archie-track-unsolo-all-track-autorun-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unsolo-all-track-autorun-lua-1-11";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19152,7 +19153,7 @@
       ];
     };
     archie-track-unsolo-all-track-autorun-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unsolo-all-track-autorun-lua-1-12";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19166,7 +19167,7 @@
       ];
     };
     archie-track-unsolo-all-track-autorun-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unsolo-all-track-autorun-lua-1-14";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19180,7 +19181,7 @@
       ];
     };
     archie-track-unsolo-all-visible-track-in-mcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unsolo-all-visible-track-in-mcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19194,7 +19195,7 @@
       ];
     };
     archie-track-unsolo-all-visible-track-in-mcp-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unsolo-all-visible-track-in-mcp-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19208,7 +19209,7 @@
       ];
     };
     archie-track-unsolo-all-visible-track-in-tcp-and-mcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unsolo-all-visible-track-in-tcp-and-mcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19222,7 +19223,7 @@
       ];
     };
     archie-track-unsolo-all-visible-track-in-tcp-and-mcp-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unsolo-all-visible-track-in-tcp-and-mcp-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19236,7 +19237,7 @@
       ];
     };
     archie-track-unsolo-all-visible-track-in-tcp-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unsolo-all-visible-track-in-tcp-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19250,7 +19251,7 @@
       ];
     };
     archie-track-unsolo-all-visible-track-in-tcp-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-unsolo-all-visible-track-in-tcp-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19264,7 +19265,7 @@
       ];
     };
     archie-track-visible-only-selected-tracks-and-their-children-restore-back-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-visible-only-selected-tracks-and-their-children-restore-back-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19278,7 +19279,7 @@
       ];
     };
     archie-track-visible-only-selected-tracks-and-their-children-restore-back-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-visible-only-selected-tracks-and-their-children-restore-back-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19292,7 +19293,7 @@
       ];
     };
     archie-track-volume-down-on-all-tracks-inf-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-down-on-all-tracks-inf-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19306,7 +19307,7 @@
       ];
     };
     archie-track-volume-down-on-all-tracks-by-1-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-down-on-all-tracks-by-1-db-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19320,7 +19321,7 @@
       ];
     };
     archie-track-volume-down-on-all-tracks-by-1-db-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-down-on-all-tracks-by-1-db-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19334,7 +19335,7 @@
       ];
     };
     archie-track-volume-down-on-selected-tracks-inf-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-down-on-selected-tracks-inf-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19348,7 +19349,7 @@
       ];
     };
     archie-track-volume-down-on-selected-tracks-inf-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-down-on-selected-tracks-inf-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19362,7 +19363,7 @@
       ];
     };
     archie-track-volume-down-on-selected-tracks-by-1-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-down-on-selected-tracks-by-1-db-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19376,7 +19377,7 @@
       ];
     };
     archie-track-volume-down-on-selected-tracks-by-1-db-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-down-on-selected-tracks-by-1-db-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19390,7 +19391,7 @@
       ];
     };
     archie-track-volume-reset-on-all-tracks-0-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-reset-on-all-tracks-0-db-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19404,7 +19405,7 @@
       ];
     };
     archie-track-volume-reset-on-all-tracks-0-db-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-reset-on-all-tracks-0-db-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19418,7 +19419,7 @@
       ];
     };
     archie-track-volume-reset-on-selected-tracks-0-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-reset-on-selected-tracks-0-db-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19432,7 +19433,7 @@
       ];
     };
     archie-track-volume-reset-on-selected-tracks-0-db-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-reset-on-selected-tracks-0-db-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19446,7 +19447,7 @@
       ];
     };
     archie-track-volume-up-on-all-tracks-by-1-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-up-on-all-tracks-by-1-db-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19460,7 +19461,7 @@
       ];
     };
     archie-track-volume-up-on-all-tracks-by-1-db-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-up-on-all-tracks-by-1-db-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19474,7 +19475,7 @@
       ];
     };
     archie-track-volume-up-on-selected-tracks-by-1-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-up-on-selected-tracks-by-1-db-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19488,7 +19489,7 @@
       ];
     };
     archie-track-volume-up-on-selected-tracks-by-1-db-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-track-volume-up-on-selected-tracks-by-1-db-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Track";
@@ -19502,7 +19503,7 @@
       ];
     };
     archie-transp-toggle-playrate-1-0-custom-value-ctrl-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-transp-toggle-playrate-1-0-custom-value-ctrl-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Transport";
@@ -19516,7 +19517,7 @@
       ];
     };
     archie-transp-toggle-playrate-1-0-custom-value-ctrl-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-transp-toggle-playrate-1-0-custom-value-ctrl-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Transport";
@@ -19530,7 +19531,7 @@
       ];
     };
     archie-var-apply-track-take-fx-to-active-take-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-apply-track-take-fx-to-active-take-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19544,7 +19545,7 @@
       ];
     };
     archie-var-apply-track-take-fx-to-active-take-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-apply-track-take-fx-to-active-take-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19558,7 +19559,7 @@
       ];
     };
     archie-var-apply-track-take-fx-to-active-take-lua-1-10 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-apply-track-take-fx-to-active-take-lua-1-10";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19572,7 +19573,7 @@
       ];
     };
     archie-var-copy-selected-files-from-media-explorer-to-project-subdirectory-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-copy-selected-files-from-media-explorer-to-project-subdirectory-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19586,7 +19587,7 @@
       ];
     };
     archie-var-copy-selected-files-from-media-explorer-to-project-subdirectory-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-copy-selected-files-from-media-explorer-to-project-subdirectory-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19600,7 +19601,7 @@
       ];
     };
     archie-var-fade-in-out-auto-both-edges-ctrlplusfade-shiftplusfade-plusaltplusfade-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-fade-in-out-auto-both-edges-ctrlplusfade-shiftplusfade-plusaltplusfade-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19614,7 +19615,7 @@
       ];
     };
     archie-var-fade-in-out-auto-both-edges-ctrlplusfade-shiftplusfade-plusaltplusfade-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-fade-in-out-auto-both-edges-ctrlplusfade-shiftplusfade-plusaltplusfade-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19628,7 +19629,7 @@
       ];
     };
     archie-var-hide-show-add-menu-popup-menu-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-hide-show-add-menu-popup-menu-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19642,7 +19643,7 @@
       ];
     };
     archie-var-hide-show-add-menu-popup-menu-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-hide-show-add-menu-popup-menu-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19656,7 +19657,7 @@
       ];
     };
     archie-var-hide-show-add-menu-popup-menu-lua-1-07 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-hide-show-add-menu-popup-menu-lua-1-07";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19670,7 +19671,7 @@
       ];
     };
     archie-var-move-cursor-to-next-end-start-of-item-select-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-move-cursor-to-next-end-start-of-item-select-item-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19684,7 +19685,7 @@
       ];
     };
     archie-var-move-cursor-to-next-end-start-of-item-select-item-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-move-cursor-to-next-end-start-of-item-select-item-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19698,7 +19699,7 @@
       ];
     };
     archie-var-move-cursor-to-next-end-start-of-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-move-cursor-to-next-end-start-of-selected-item-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19712,7 +19713,7 @@
       ];
     };
     archie-var-move-cursor-to-next-end-start-of-selected-item-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-move-cursor-to-next-end-start-of-selected-item-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19726,7 +19727,7 @@
       ];
     };
     archie-var-move-cursor-to-previous-end-start-of-item-select-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-move-cursor-to-previous-end-start-of-item-select-item-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19740,7 +19741,7 @@
       ];
     };
     archie-var-move-cursor-to-previous-end-start-of-item-select-item-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-move-cursor-to-previous-end-start-of-item-select-item-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19754,7 +19755,7 @@
       ];
     };
     archie-var-move-cursor-to-previous-end-start-of-selected-item-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-move-cursor-to-previous-end-start-of-selected-item-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19768,7 +19769,7 @@
       ];
     };
     archie-var-move-cursor-to-previous-end-start-of-selected-item-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-move-cursor-to-previous-end-start-of-selected-item-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19782,7 +19783,7 @@
       ];
     };
     archie-var-open-midi-editor-and-zoom-to-content-by-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-open-midi-editor-and-zoom-to-content-by-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19831,7 +19832,7 @@
       ];
     };
     archie-var-open-midi-editor-and-zoom-to-content-by-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-open-midi-editor-and-zoom-to-content-by-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19880,7 +19881,7 @@
       ];
     };
     archie-var-open-midi-editor-and-zoom-to-content-by-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-open-midi-editor-and-zoom-to-content-by-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19929,7 +19930,7 @@
       ];
     };
     archie-var-popup-menu-single-level-n-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-popup-menu-single-level-n-lua-1-21";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19943,7 +19944,7 @@
       ];
     };
     archie-var-popup-menu-single-level-n-lua-1-22 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-popup-menu-single-level-n-lua-1-22";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19957,7 +19958,7 @@
       ];
     };
     archie-var-popup-menu-single-level-n-lua-1-23 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-popup-menu-single-level-n-lua-1-23";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19971,7 +19972,7 @@
       ];
     };
     archie-var-popup-menu-single-level-n-lua-1-24 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-popup-menu-single-level-n-lua-1-24";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19985,7 +19986,7 @@
       ];
     };
     archie-var-popup-menu-single-level-n-lua-1-25 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-popup-menu-single-level-n-lua-1-25";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -19999,7 +20000,7 @@
       ];
     };
     archie-var-popup-menu-n-lua-2-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-popup-menu-n-lua-2-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20013,7 +20014,7 @@
       ];
     };
     archie-var-popup-menu-n-lua-2-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-popup-menu-n-lua-2-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20027,7 +20028,7 @@
       ];
     };
     archie-var-popup-menu-n-lua-2-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-popup-menu-n-lua-2-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20041,7 +20042,7 @@
       ];
     };
     archie-var-pre-reverb-lua-1-18 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-pre-reverb-lua-1-18";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20055,7 +20056,7 @@
       ];
     };
     archie-var-pre-reverb-lua-1-19 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-pre-reverb-lua-1-19";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20069,7 +20070,7 @@
       ];
     };
     archie-var-pre-reverb-lua-1-20 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-pre-reverb-lua-1-20";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20083,7 +20084,7 @@
       ];
     };
     archie-var-pre-reverb-lua-1-21 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-pre-reverb-lua-1-21";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20097,7 +20098,7 @@
       ];
     };
     archie-var-remove-items-outside-time-selection-in-selected-track-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-remove-items-outside-time-selection-in-selected-track-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20111,7 +20112,7 @@
       ];
     };
     archie-var-remove-items-outside-time-selection-in-selected-track-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-remove-items-outside-time-selection-in-selected-track-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20125,7 +20126,7 @@
       ];
     };
     archie-var-remove-items-tracks-env-points-depending-on-focus-select-next-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-remove-items-tracks-env-points-depending-on-focus-select-next-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20139,7 +20140,7 @@
       ];
     };
     archie-var-remove-items-tracks-env-points-depending-on-focus-select-next-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-remove-items-tracks-env-points-depending-on-focus-select-next-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20153,7 +20154,7 @@
       ];
     };
     archie-var-save-time-selection-when-record-copy-selected-items-after-recording-in-place-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-save-time-selection-when-record-copy-selected-items-after-recording-in-place-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20167,7 +20168,7 @@
       ];
     };
     archie-var-save-time-selection-when-record-copy-selected-items-after-recording-in-place-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-save-time-selection-when-record-copy-selected-items-after-recording-in-place-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20181,7 +20182,7 @@
       ];
     };
     archie-var-show-hide-media-explorer-fx-browser-track-manager-region-marker-manager-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-show-hide-media-explorer-fx-browser-track-manager-region-marker-manager-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20195,7 +20196,7 @@
       ];
     };
     archie-var-show-hide-media-explorer-fx-browser-track-manager-region-marker-manager-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-show-hide-media-explorer-fx-browser-track-manager-region-marker-manager-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20209,7 +20210,7 @@
       ];
     };
     archie-var-snap-length-of-selected-items-to-nearest-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-snap-length-of-selected-items-to-nearest-grid-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20223,7 +20224,7 @@
       ];
     };
     archie-var-snap-length-of-selected-items-to-nearest-grid-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-snap-length-of-selected-items-to-nearest-grid-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20237,7 +20238,7 @@
       ];
     };
     archie-var-snap-position-and-length-of-selected-items-to-nearest-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-snap-position-and-length-of-selected-items-to-nearest-grid-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20251,7 +20252,7 @@
       ];
     };
     archie-var-snap-position-and-length-of-selected-items-to-nearest-grid-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-snap-position-and-length-of-selected-items-to-nearest-grid-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20265,7 +20266,7 @@
       ];
     };
     archie-var-snap-position-of-selected-items-to-nearest-grid-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-snap-position-of-selected-items-to-nearest-grid-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20279,7 +20280,7 @@
       ];
     };
     archie-var-snap-position-of-selected-items-to-nearest-grid-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-snap-position-of-selected-items-to-nearest-grid-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20293,7 +20294,7 @@
       ];
     };
     archie-var-toggle-auto-view-scroll-ctrlplusclick-go-to-play-position-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-toggle-auto-view-scroll-ctrlplusclick-go-to-play-position-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20312,7 +20313,7 @@
       ];
     };
     archie-var-toggle-auto-view-scroll-ctrlplusclick-go-to-play-position-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-toggle-auto-view-scroll-ctrlplusclick-go-to-play-position-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20331,7 +20332,7 @@
       ];
     };
     archie-var-toggle-auto-view-scroll-ctrlplusclick-go-to-play-position-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-toggle-auto-view-scroll-ctrlplusclick-go-to-play-position-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20350,7 +20351,7 @@
       ];
     };
     archie-var-toggle-select-all-items-tracks-envelope-points-depending-on-focus-save-previous-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-toggle-select-all-items-tracks-envelope-points-depending-on-focus-save-previous-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20364,7 +20365,7 @@
       ];
     };
     archie-var-toggle-select-all-items-tracks-envelope-points-depending-on-focus-save-previous-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-toggle-select-all-items-tracks-envelope-points-depending-on-focus-save-previous-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20378,7 +20379,7 @@
       ];
     };
     archie-var-toggle-select-unselect-all-items-tracks-envelope-points-depending-on-focus-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-toggle-select-unselect-all-items-tracks-envelope-points-depending-on-focus-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20392,7 +20393,7 @@
       ];
     };
     archie-var-toggle-select-unselect-all-items-tracks-envelope-points-depending-on-focus-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-toggle-select-unselect-all-items-tracks-envelope-points-depending-on-focus-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20406,7 +20407,7 @@
       ];
     };
     archie-var-volume-change-on-tracks-or-items-by-1-db-mouse-wheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-volume-change-on-tracks-or-items-by-1-db-mouse-wheel-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20420,7 +20421,7 @@
       ];
     };
     archie-var-volume-down-on-tracks-or-items-by-1-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-volume-down-on-tracks-or-items-by-1-db-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20434,7 +20435,7 @@
       ];
     };
     archie-var-volume-up-on-tracks-or-items-by-1-db-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-var-volume-up-on-tracks-or-items-by-1-db-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/Various";
@@ -20448,7 +20449,7 @@
       ];
     };
     archie-view-auto-enable-spectral-peaks-on-selected-tracks-lua-1-15 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-auto-enable-spectral-peaks-on-selected-tracks-lua-1-15";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20462,7 +20463,7 @@
       ];
     };
     archie-view-auto-enable-spectral-peaks-on-selected-tracks-lua-1-16 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-auto-enable-spectral-peaks-on-selected-tracks-lua-1-16";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20476,7 +20477,7 @@
       ];
     };
     archie-view-auto-enable-spectral-peaks-on-selected-tracks-lua-1-17 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-auto-enable-spectral-peaks-on-selected-tracks-lua-1-17";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20490,7 +20491,7 @@
       ];
     };
     archie-view-close-toolbar-n-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-close-toolbar-n-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20589,7 +20590,7 @@
       ];
     };
     archie-view-close-toolbar-n-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-close-toolbar-n-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20688,7 +20689,7 @@
       ];
     };
     archie-view-close-toolbar-n-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-close-toolbar-n-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20787,7 +20788,7 @@
       ];
     };
     archie-view-disabled-prevention-of-spectral-peaks-spectrogram-on-all-tracks-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-disabled-prevention-of-spectral-peaks-spectrogram-on-all-tracks-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20801,7 +20802,7 @@
       ];
     };
     archie-view-disabled-prevention-of-spectral-peaks-spectrogram-on-all-tracks-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-disabled-prevention-of-spectral-peaks-spectrogram-on-all-tracks-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20815,7 +20816,7 @@
       ];
     };
     archie-view-enable-prevention-of-spectral-peaks-spectrogram-on-all-tracks-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-enable-prevention-of-spectral-peaks-spectrogram-on-all-tracks-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20829,7 +20830,7 @@
       ];
     };
     archie-view-enable-prevention-of-spectral-peaks-spectrogram-on-all-tracks-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-enable-prevention-of-spectral-peaks-spectrogram-on-all-tracks-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20843,7 +20844,7 @@
       ];
     };
     archie-view-enable-spectral-peaks-on-selected-tracks-lua-1-11 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-enable-spectral-peaks-on-selected-tracks-lua-1-11";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20857,7 +20858,7 @@
       ];
     };
     archie-view-enable-spectral-peaks-on-selected-tracks-lua-1-12 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-enable-spectral-peaks-on-selected-tracks-lua-1-12";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20871,7 +20872,7 @@
       ];
     };
     archie-view-enable-spectral-peaks-on-selected-tracks-lua-1-14 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-enable-spectral-peaks-on-selected-tracks-lua-1-14";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20885,7 +20886,7 @@
       ];
     };
     archie-view-show-full-mixer-restore-view-back-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-show-full-mixer-restore-view-back-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20899,7 +20900,7 @@
       ];
     };
     archie-view-show-full-mixer-restore-view-back-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-show-full-mixer-restore-view-back-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20913,7 +20914,7 @@
       ];
     };
     archie-view-show-hide-mixer-and-master-in-docker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-show-hide-mixer-and-master-in-docker-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20927,7 +20928,7 @@
       ];
     };
     archie-view-show-hide-mixer-and-master-in-docker-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-show-hide-mixer-and-master-in-docker-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20941,7 +20942,7 @@
       ];
     };
     archie-view-toggle-arrange-in-center-relative-to-edit-cursor-when-change-bpm-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-toggle-arrange-in-center-relative-to-edit-cursor-when-change-bpm-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20955,7 +20956,7 @@
       ];
     };
     archie-view-toggle-arrange-in-center-relative-to-edit-cursor-when-change-bpm-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-toggle-arrange-in-center-relative-to-edit-cursor-when-change-bpm-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -20969,7 +20970,7 @@
       ];
     };
     archie-view-toggle-open-toolbar-n-at-mouse-cursor-close-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-toggle-open-toolbar-n-at-mouse-cursor-close-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21063,7 +21064,7 @@
       ];
     };
     archie-view-toggle-open-toolbar-n-at-mouse-cursor-close-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-toggle-open-toolbar-n-at-mouse-cursor-close-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21157,7 +21158,7 @@
       ];
     };
     archie-view-toggle-prevention-of-spectral-peaks-spectrogram-on-all-tracks-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-toggle-prevention-of-spectral-peaks-spectrogram-on-all-tracks-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21171,7 +21172,7 @@
       ];
     };
     archie-view-toggle-prevention-of-spectral-peaks-spectrogram-on-all-tracks-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-toggle-prevention-of-spectral-peaks-spectrogram-on-all-tracks-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21185,7 +21186,7 @@
       ];
     };
     archie-view-zoom-arrange-to-fit-screen-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-arrange-to-fit-screen-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21199,7 +21200,7 @@
       ];
     };
     archie-view-zoom-arrange-to-fit-screen-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-arrange-to-fit-screen-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21213,7 +21214,7 @@
       ];
     };
     archie-view-zoom-height-full-project-recover-back-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-height-full-project-recover-back-lua-1-08";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21227,7 +21228,7 @@
       ];
     };
     archie-view-zoom-height-full-project-recover-back-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-height-full-project-recover-back-lua-1-09";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21241,7 +21242,7 @@
       ];
     };
     archie-view-zoom-horizontally-snap-to-playback-cursor-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-horizontally-snap-to-playback-cursor-mousewheel-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21255,7 +21256,7 @@
       ];
     };
     archie-view-zoom-horizontally-snap-to-playback-cursor-mousewheel-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-horizontally-snap-to-playback-cursor-mousewheel-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21269,7 +21270,7 @@
       ];
     };
     archie-view-zoom-in-horizontally-snap-to-playback-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-in-horizontally-snap-to-playback-cursor-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21283,7 +21284,7 @@
       ];
     };
     archie-view-zoom-in-horizontally-snap-to-playback-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-in-horizontally-snap-to-playback-cursor-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21297,7 +21298,7 @@
       ];
     };
     archie-view-zoom-out-horizontally-snap-to-playback-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-out-horizontally-snap-to-playback-cursor-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21311,7 +21312,7 @@
       ];
     };
     archie-view-zoom-out-horizontally-snap-to-playback-cursor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-out-horizontally-snap-to-playback-cursor-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21325,7 +21326,7 @@
       ];
     };
     archie-view-zoom-tcp-and-arrange-to-fit-screen-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-tcp-and-arrange-to-fit-screen-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21339,7 +21340,7 @@
       ];
     };
     archie-view-zoom-tcp-and-arrange-to-fit-screen-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-tcp-and-arrange-to-fit-screen-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21353,7 +21354,7 @@
       ];
     };
     archie-view-zoom-tcp-or-arrange-depending-on-focus-to-fit-screen-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-tcp-or-arrange-depending-on-focus-to-fit-screen-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21367,7 +21368,7 @@
       ];
     };
     archie-view-zoom-tcp-or-arrange-depending-on-focus-to-fit-screen-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-tcp-or-arrange-depending-on-focus-to-fit-screen-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21381,7 +21382,7 @@
       ];
     };
     archie-view-zoom-tcp-to-fit-screen-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-tcp-to-fit-screen-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21395,7 +21396,7 @@
       ];
     };
     archie-view-zoom-tcp-to-fit-screen-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-tcp-to-fit-screen-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21409,7 +21410,7 @@
       ];
     };
     archie-view-zoom-width-full-project-recovery-back-lua-1-08 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-width-full-project-recovery-back-lua-1-08";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21423,7 +21424,7 @@
       ];
     };
     archie-view-zoom-width-full-project-recovery-back-lua-1-09 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-view-zoom-width-full-project-recovery-back-lua-1-09";
       indexName = "Archie-ReaScripts";
       categoryName = "MAIN/View";
@@ -21437,7 +21438,7 @@
       ];
     };
     archie-midieditor-activate-next-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-activate-next-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21451,7 +21452,7 @@
       ];
     };
     archie-midieditor-activate-next-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-activate-next-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21465,7 +21466,7 @@
       ];
     };
     archie-midieditor-activate-next-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-activate-next-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21479,7 +21480,7 @@
       ];
     };
     archie-midieditor-activate-next-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-activate-next-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21493,7 +21494,7 @@
       ];
     };
     archie-midieditor-activate-next-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-activate-next-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21507,7 +21508,7 @@
       ];
     };
     archie-midieditor-activate-next-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-activate-next-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21521,7 +21522,7 @@
       ];
     };
     archie-midieditor-activate-previous-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-activate-previous-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21535,7 +21536,7 @@
       ];
     };
     archie-midieditor-activate-previous-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-activate-previous-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21549,7 +21550,7 @@
       ];
     };
     archie-midieditor-activate-previous-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-activate-previous-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21563,7 +21564,7 @@
       ];
     };
     archie-midieditor-activate-previous-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-activate-previous-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21577,7 +21578,7 @@
       ];
     };
     archie-midieditor-activate-previous-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-05 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-activate-previous-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-05";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21591,7 +21592,7 @@
       ];
     };
     archie-midieditor-activate-previous-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-06 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-activate-previous-midi-item-select-only-this-item-set-cursor-to-start-items-lua-1-06";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21605,7 +21606,7 @@
       ];
     };
     archie-midieditor-close-all-midi-editors-except-active-one-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-close-all-midi-editors-except-active-one-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21619,7 +21620,7 @@
       ];
     };
     archie-midieditor-close-midi-editor-return-the-window-in-docker-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-close-midi-editor-return-the-window-in-docker-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21633,7 +21634,7 @@
       ];
     };
     archie-midieditor-close-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-close-midi-editor-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21647,7 +21648,7 @@
       ];
     };
     archie-midieditor-delete-note-s-nearest-to-edit-cursor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-delete-note-s-nearest-to-edit-cursor-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21661,7 +21662,7 @@
       ];
     };
     archie-midieditor-duplicate-selected-events-to-mouse-cursor-snap-relative-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-duplicate-selected-events-to-mouse-cursor-snap-relative-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21675,7 +21676,7 @@
       ];
     };
     archie-midieditor-duplicate-selected-events-to-mouse-position-snap-relative-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-duplicate-selected-events-to-mouse-position-snap-relative-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21689,7 +21690,7 @@
       ];
     };
     archie-midieditor-move-chords-to-grid-while-keeping-lively-unevenness-interval-is-1-16-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-move-chords-to-grid-while-keeping-lively-unevenness-interval-is-1-16-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21703,7 +21704,7 @@
       ];
     };
     archie-midieditor-move-selected-events-to-mouse-cursor-snap-relative-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-move-selected-events-to-mouse-cursor-snap-relative-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21717,7 +21718,7 @@
       ];
     };
     archie-midieditor-move-selected-events-to-mouse-position-snap-relative-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-move-selected-events-to-mouse-position-snap-relative-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21731,7 +21732,7 @@
       ];
     };
     archie-midieditor-mute-note-under-mouse-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-mute-note-under-mouse-cursor-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21745,7 +21746,7 @@
       ];
     };
     archie-midieditor-open-a-floating-instrument-appropriate-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-open-a-floating-instrument-appropriate-midi-editor-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21759,7 +21760,7 @@
       ];
     };
     archie-midieditor-open-close-notes-window-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-open-close-notes-window-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21773,7 +21774,7 @@
       ];
     };
     archie-midieditor-scroll-vertically-midi-relativemousewheel-3x-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-scroll-vertically-midi-relativemousewheel-3x-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21787,7 +21788,7 @@
       ];
     };
     archie-midieditor-select-only-chords-unevenness-interval-is-1-16-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-select-only-chords-unevenness-interval-is-1-16-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21801,7 +21802,7 @@
       ];
     };
     archie-midieditor-select-track-of-active-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-select-track-of-active-midi-editor-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21815,7 +21816,7 @@
       ];
     };
     archie-midieditor-select-track-of-active-midi-editor-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-select-track-of-active-midi-editor-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21829,7 +21830,7 @@
       ];
     };
     archie-midieditor-set-length-all-notes-to-show-popup-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-set-length-all-notes-to-show-popup-menu-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21843,7 +21844,7 @@
       ];
     };
     archie-midieditor-set-length-selected-notes-to-show-popup-menu-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-set-length-selected-notes-to-show-popup-menu-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21857,7 +21858,7 @@
       ];
     };
     archie-midieditor-set-note-ends-to-start-of-next-note-legato-all-notes-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-set-note-ends-to-start-of-next-note-legato-all-notes-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21871,7 +21872,7 @@
       ];
     };
     archie-midieditor-set-selected-notes-velocity-to-n-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-set-selected-notes-velocity-to-n-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -21955,7 +21956,7 @@
       ];
     };
     archie-midieditor-set-selected-notes-velocity-to-n-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-set-selected-notes-velocity-to-n-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22039,7 +22040,7 @@
       ];
     };
     archie-midieditor-set-velocity-selected-notes-user-input-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-set-velocity-selected-notes-user-input-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22053,7 +22054,7 @@
       ];
     };
     archie-midieditor-set-velocity-selected-notes-user-input-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-set-velocity-selected-notes-user-input-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22067,7 +22068,7 @@
       ];
     };
     archie-midieditor-set-velocity-selected-notes-user-input-lua-1-03 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-set-velocity-selected-notes-user-input-lua-1-03";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22081,7 +22082,7 @@
       ];
     };
     archie-midieditor-set-velocity-selected-notes-user-input-lua-1-04 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-set-velocity-selected-notes-user-input-lua-1-04";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22095,7 +22096,7 @@
       ];
     };
     archie-midieditor-show-instrument-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-show-instrument-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22109,7 +22110,7 @@
       ];
     };
     archie-midieditor-smart-multi-script-button-n-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-smart-multi-script-button-n-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22198,7 +22199,7 @@
       ];
     };
     archie-midieditor-swing-grid-disable-and-reset-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-swing-grid-disable-and-reset-midi-editor-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22212,7 +22213,7 @@
       ];
     };
     archie-midieditor-swing-grid-minus-one-percent-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-swing-grid-minus-one-percent-midi-editor-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22226,7 +22227,7 @@
       ];
     };
     archie-midieditor-swing-grid-plus-one-percent-midi-editor-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-swing-grid-plus-one-percent-midi-editor-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22240,7 +22241,7 @@
       ];
     };
     archie-midieditor-toggle-auto-mute-unmute-note-under-mouse-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-toggle-auto-mute-unmute-note-under-mouse-cursor-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22254,7 +22255,7 @@
       ];
     };
     archie-midieditor-toggle-loop-source-item-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-toggle-loop-source-item-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22268,7 +22269,7 @@
       ];
     };
     archie-midieditor-toggle-metronome-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-toggle-metronome-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22282,7 +22283,7 @@
       ];
     };
     archie-midieditor-unmute-note-under-mouse-cursor-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-unmute-note-under-mouse-cursor-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22296,7 +22297,7 @@
       ];
     };
     archie-midieditor-unselect-left-right-wing-events-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-unselect-left-right-wing-events-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22320,7 +22321,7 @@
       ];
     };
     archie-midieditor-velocity-for-note-mousewheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-velocity-for-note-mousewheel-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22334,7 +22335,7 @@
       ];
     };
     archie-midieditor-velocity-note-under-mouse-cursor-mouse-wheel-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "archie-midieditor-velocity-note-under-mouse-cursor-mouse-wheel-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Editor";
@@ -22348,7 +22349,7 @@
       ];
     };
     test-lua-1-0 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "test-lua-1-0";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Inline Editor";
@@ -22362,7 +22363,7 @@
       ];
     };
     test-lua-1-01 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "test-lua-1-01";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Inline Editor";
@@ -22376,7 +22377,7 @@
       ];
     };
     test-lua-1-02 = mkReapackPackage {
-      inherit stdenv fetchurl;
+      inherit lib stdenv fetchurl;
       name = "test-lua-1-02";
       indexName = "Archie-ReaScripts";
       categoryName = "MIDI Inline Editor";
