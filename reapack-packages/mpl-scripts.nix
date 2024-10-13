@@ -27235,6 +27235,34 @@
         }
       ];
     };
+    mpl-align-takes-lua-3-07 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-align-takes-lua-3-07";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/204135ebd488c80aa444b59a0c65dd5cee589498/Various/mpl_Align%20takes.lua";
+          sha256 = "184f5w2w2hxhw07r838zwc8nf3xchpz8qw1a43wrwfd5z8smx9nv";
+        }
+      ];
+    };
+    mpl-align-takes-lua-3-08 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-align-takes-lua-3-08";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7b34722dfa7cda7df293bb76349ccd9e73cacc9c/Various/mpl_Align%20takes.lua";
+          sha256 = "1661n7lqssypwnv344q49krpfz9d5a58f7cppb273wzxwp4cizv0";
+        }
+      ];
+    };
     mpl-check-reaper-password-quit-if-not-match-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-check-reaper-password-quit-if-not-match-lua-1-0";

@@ -38852,6 +38852,20 @@
         }
       ];
     };
+    amagalma-set-project-grid-via-dropdown-menu-lua-1-10 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amagalma-set-project-grid-via-dropdown-menu-lua-1-10";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Project Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/ad48adb46694cc4525b941ac053ca3c25b801b81/Project%20Properties/amagalma_Set%20project%20grid%20(via%20dropdown%20menu).lua";
+          sha256 = "0pq3lj03n3997whabpvkmpgfnh3r30hfw9xjld24g9wbyb42nni2";
+        }
+      ];
+    };
     amagalma-set-project-length-limit-to-edit-cursor-position-lua-1-00 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "amagalma-set-project-length-limit-to-edit-cursor-position-lua-1-00";
@@ -46613,6 +46627,20 @@
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/79746ce27b2126c534ad14d5bc884bf2802fba14/Various/amagalma_Create%20Impulse%20Response%20(IR)%20of%20the%20FX%20chain%20of%20the%20selected%20track.lua";
           sha256 = "1rh3kljla2b1i38mv0mwldnrqawjv1x4n5nqczxmvqpf8fz9js0s";
+        }
+      ];
+    };
+    amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-16 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-16";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/32c93a7d630e69eeeceb7b5b5163acc8bb019cee/Various/amagalma_Create%20Impulse%20Response%20(IR)%20of%20the%20FX%20chain%20of%20the%20selected%20track.lua";
+          sha256 = "1qar0qwnncz84clwxfmp51bkw34jd0xkcvi6fjv5awc74g1h9qgw";
         }
       ];
     };
