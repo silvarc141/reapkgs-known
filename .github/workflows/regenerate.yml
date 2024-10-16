@@ -16,7 +16,9 @@ jobs:
           rm -rf !(README.md|.git)
           shopt -u extglob
       - name: Generate
-        run: nix run github:silvarc141/reapkgs -- -gprqo .
+        run: |
+          nix run github:silvarc141/reapkgs -- -gprqo .
+          nix flake lock
       - name: Commit
         run: |
           git config user.name "GitHub Actions"
