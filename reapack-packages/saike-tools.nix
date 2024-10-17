@@ -6957,6 +6957,100 @@
         }
       ];
     };
+    saike-duskverb-jsfx-0-17 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saike-duskverb-jsfx-0-17";
+      indexName = "Saike Tools";
+      categoryName = "DuskVerb";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/saike_duskverb.jsfx";
+          sha256 = "0q5vc6b76jn7r6rlbjxwpv23xs903411z2b9iwkm1xmraf1isi1c";
+        }
+        {
+          path = ''DuskVerb_Dependencies/bigfont_caps.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/bigfont_caps.png";
+          sha256 = "17r9la2h5lk6h0va3f7dhm1z167b7r4ck811hlk9i2j3ly6v9x3b";
+        }
+        {
+          path = ''DuskVerb_Dependencies/bigfont_caps3.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/bigfont_caps3.png";
+          sha256 = "0n39q8mscmi1n06yak863xl2crns6kz98pq9fqmvrpl723c5g1iv";
+        }
+        {
+          path = ''DuskVerb_Dependencies/camp_0.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/camp_0.png";
+          sha256 = "1390iwcw5jz9vbzhw8b8w0awg3wbigacqa057l0yywjgn2s2ld86";
+        }
+        {
+          path = ''DuskVerb_Dependencies/camp_1.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/camp_1.png";
+          sha256 = "1alzd3jyd9ll6yh5lysh64nvgal7p5ar1zdsdn628zpvf14axs8p";
+        }
+        {
+          path = ''DuskVerb_Dependencies/camp_2.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/camp_2.png";
+          sha256 = "1hg9h0gfa7mpqa7gacwl9dcl1cbbqdgbbcpwa18znrr0kpxds25d";
+        }
+        {
+          path = ''DuskVerb_Dependencies/camp_3.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/camp_3.png";
+          sha256 = "0152pz9y4gq2bnfd70sr2dhfilmmhy7476qv7f7yxdi1qxjvhzyk";
+        }
+        {
+          path = ''DuskVerb_Dependencies/camp_4.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/camp_4.png";
+          sha256 = "1mq0im4l4px4f08fj5n3l9mksxwj8lfw019das4p13zvklwbrkgq";
+        }
+        {
+          path = ''DuskVerb_Dependencies/camp_5.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/camp_5.png";
+          sha256 = "0yzx6h680a0mlzqvlfa0912vdsyiv5519rmqkhiwragx3ddnck46";
+        }
+        {
+          path = ''DuskVerb_Dependencies/font.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/font.png";
+          sha256 = "0ga95pg57y20lrwxlmbsf7sd8vvd5xbkxh2b7fvxb9ylhdihcal7";
+        }
+        {
+          path = ''DuskVerb_Dependencies/saike_dusk_freq.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/saike_dusk_freq.jsfx-inc";
+          sha256 = "1dqp0arwsfzxkrrbxgbhj89fgzx8lrgpb2f5ni3q8ykc72c372cp";
+        }
+        {
+          path = ''DuskVerb_Dependencies/saike_dusk_grainlib.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/saike_dusk_grainlib.jsfx-inc";
+          sha256 = "1p6azwipgfv225gv7zhv6b3rxg4p5ddd35slvcf3l51k7qzq0mvr";
+        }
+        {
+          path = ''DuskVerb_Dependencies/saike_dusk_hadamard_diffusers.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/saike_dusk_hadamard_diffusers.jsfx-inc";
+          sha256 = "0fh8wqvi61f9h65d95gxm5n6m5hhf0k8d1gnvm2hrfiahq27qkin";
+        }
+        {
+          path = ''DuskVerb_Dependencies/saike_dusk_lowres_gfx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/saike_dusk_lowres_gfx.jsfx-inc";
+          sha256 = "152h2nh53af3hfghrl32711afpgmmlg4zy6svh5675qn7zngabf5";
+        }
+        {
+          path = ''DuskVerb_Dependencies/saike_dusk_octaver.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/saike_dusk_octaver.jsfx-inc";
+          sha256 = "0jndw2chj48y3w0h3spi0kdi21gpr0yx472c2dnsb1yi158w7cpz";
+        }
+        {
+          path = ''DuskVerb_Dependencies/saike_dusk_pitchlib.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/DuskVerb_Dependencies/saike_dusk_pitchlib.jsfx-inc";
+          sha256 = "1hlcagk6i7pmg06h2z9kvdqnv3h0hmwh21i0jg9d4zmbw227knzx";
+        }
+        {
+          path = ''saike_duskverb.jsfx.rpl'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/8d3533b2f295be93927cec3a9e4ed387d712f99b/DuskVerb/saike_duskverb.jsfx.rpl";
+          sha256 = "03w3nd56cm2rk2c4gfpdy1qn97c5cagdnwhrk89z5hqzavsp8hpm";
+        }
+      ];
+    };
     filther-jsfx-0-01 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "filther-jsfx-0-01";
@@ -23538,6 +23632,174 @@
         {
           path = ''saike_protosynth.jsfx.rpl'';
           url = "https://github.com/JoepVanlier/JSFX/raw/f7da55ecdc92fb503183eb785c2bbc16c5cfe9de/protosynth/saike_protosynth.jsfx.rpl";
+          sha256 = "0ivwjpjjnpq3pd9s3pwp7ykp5y7zhf3qkw9qgm8rm0d8sabq32nm";
+        }
+      ];
+    };
+    saike-protosynth-jsfx-0-52 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saike-protosynth-jsfx-0-52";
+      indexName = "Saike Tools";
+      categoryName = "protosynth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/saike_protosynth.jsfx";
+          sha256 = "1igaym0s70h5hi258n06wv6q9nri9a9kpy2agmipnmfifvnd2g65";
+        }
+        {
+          path = ''protosynth_dependencies/bigfont_caps.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/protosynth_dependencies/bigfont_caps.png";
+          sha256 = "164aim0iy0v6z2rjj7arrcrm5ivr920jsqsb3jkqd1pmkk6663fy";
+        }
+        {
+          path = ''protosynth_dependencies/bigfont_caps3.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/protosynth_dependencies/bigfont_caps3.png";
+          sha256 = "0n39q8mscmi1n06yak863xl2crns6kz98pq9fqmvrpl723c5g1iv";
+        }
+        {
+          path = ''protosynth_dependencies/font.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/protosynth_dependencies/font.png";
+          sha256 = "0ga95pg57y20lrwxlmbsf7sd8vvd5xbkxh2b7fvxb9ylhdihcal7";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_diffusion.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/protosynth_dependencies/saike_proto_diffusion.jsfx-inc";
+          sha256 = "1j8a62vgdhynwzi6qmj40gj09yi4x34rk1rr4rqql30cnwfr4wrn";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_stft_fx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/protosynth_dependencies/saike_proto_stft_fx.jsfx-inc";
+          sha256 = "0fk8fmnsicjsfds3d4yxiximpz2y7p575z8r3gdq64c92j8k1fx3";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/protosynth_dependencies/saike_proto_synth_filters.jsfx-inc";
+          sha256 = "0cqflw3skwxqvavk0h3zj2nzj7pi11lk9ry2vrfgkhahflvzqfx2";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_fx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/protosynth_dependencies/saike_proto_synth_fx.jsfx-inc";
+          sha256 = "1z47d049c3d4vf3gz4mfcp1vszfdh3ckgv110l93cc15fx9mlh2m";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_kp_midi.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/protosynth_dependencies/saike_proto_synth_kp_midi.jsfx-inc";
+          sha256 = "0qk1r8pxhqn1wr9hkfigvr3wpsrakkd2l3n479xkplj9z4k1x2ar";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_os_nl_filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/protosynth_dependencies/saike_proto_synth_os_nl_filters.jsfx-inc";
+          sha256 = "0llg71rpqcl9c0jf12qcbj89nig36af82fiigj45sd68xmwlrbqm";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_oscillators.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/protosynth_dependencies/saike_proto_synth_oscillators.jsfx-inc";
+          sha256 = "0qrjwz6fignjzrfzxmf2gwpn115dyinfm0fq6pc02hikc43zq5xh";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_pixel_gfx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/protosynth_dependencies/saike_proto_synth_pixel_gfx.jsfx-inc";
+          sha256 = "1p4pwwjdqcyjfaqj41xgn7gnp5aivchsfan1416141rqncfqz7ri";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_spreader.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/protosynth_dependencies/saike_proto_synth_spreader.jsfx-inc";
+          sha256 = "09cjw5mzrwcscml2qz2d9f2n49viydn9nxnsbsc61nbxsh6a8n1h";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_wt.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/protosynth_dependencies/saike_proto_synth_wt.jsfx-inc";
+          sha256 = "0srmgkjz9jzisr999bw83p7hz6s9pa4r84rz32nknx58lsrzp6ag";
+        }
+        {
+          path = ''saike_protosynth.jsfx.rpl'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/77aa80161057147e70a60caafcc35b4096821652/protosynth/saike_protosynth.jsfx.rpl";
+          sha256 = "0ivwjpjjnpq3pd9s3pwp7ykp5y7zhf3qkw9qgm8rm0d8sabq32nm";
+        }
+      ];
+    };
+    saike-protosynth-jsfx-0-53 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saike-protosynth-jsfx-0-53";
+      indexName = "Saike Tools";
+      categoryName = "protosynth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/saike_protosynth.jsfx";
+          sha256 = "07fviyk3jcjgbpzxy4h2zq7rywq0frw0dxajgl3h72azlr1bskln";
+        }
+        {
+          path = ''protosynth_dependencies/bigfont_caps.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/protosynth_dependencies/bigfont_caps.png";
+          sha256 = "164aim0iy0v6z2rjj7arrcrm5ivr920jsqsb3jkqd1pmkk6663fy";
+        }
+        {
+          path = ''protosynth_dependencies/bigfont_caps3.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/protosynth_dependencies/bigfont_caps3.png";
+          sha256 = "0n39q8mscmi1n06yak863xl2crns6kz98pq9fqmvrpl723c5g1iv";
+        }
+        {
+          path = ''protosynth_dependencies/font.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/protosynth_dependencies/font.png";
+          sha256 = "0ga95pg57y20lrwxlmbsf7sd8vvd5xbkxh2b7fvxb9ylhdihcal7";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_diffusion.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/protosynth_dependencies/saike_proto_diffusion.jsfx-inc";
+          sha256 = "18a4d64xr3kkvzcczfkdwqyvjv39cr1ff2vb93j47ahp9f2lh15x";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_stft_fx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/protosynth_dependencies/saike_proto_stft_fx.jsfx-inc";
+          sha256 = "0fk8fmnsicjsfds3d4yxiximpz2y7p575z8r3gdq64c92j8k1fx3";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/protosynth_dependencies/saike_proto_synth_filters.jsfx-inc";
+          sha256 = "0cqflw3skwxqvavk0h3zj2nzj7pi11lk9ry2vrfgkhahflvzqfx2";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_fx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/protosynth_dependencies/saike_proto_synth_fx.jsfx-inc";
+          sha256 = "1z47d049c3d4vf3gz4mfcp1vszfdh3ckgv110l93cc15fx9mlh2m";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_kp_midi.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/protosynth_dependencies/saike_proto_synth_kp_midi.jsfx-inc";
+          sha256 = "0qk1r8pxhqn1wr9hkfigvr3wpsrakkd2l3n479xkplj9z4k1x2ar";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_os_nl_filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/protosynth_dependencies/saike_proto_synth_os_nl_filters.jsfx-inc";
+          sha256 = "0llg71rpqcl9c0jf12qcbj89nig36af82fiigj45sd68xmwlrbqm";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_oscillators.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/protosynth_dependencies/saike_proto_synth_oscillators.jsfx-inc";
+          sha256 = "0qrjwz6fignjzrfzxmf2gwpn115dyinfm0fq6pc02hikc43zq5xh";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_pixel_gfx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/protosynth_dependencies/saike_proto_synth_pixel_gfx.jsfx-inc";
+          sha256 = "1p4pwwjdqcyjfaqj41xgn7gnp5aivchsfan1416141rqncfqz7ri";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_spreader.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/protosynth_dependencies/saike_proto_synth_spreader.jsfx-inc";
+          sha256 = "09cjw5mzrwcscml2qz2d9f2n49viydn9nxnsbsc61nbxsh6a8n1h";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_wt.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/protosynth_dependencies/saike_proto_synth_wt.jsfx-inc";
+          sha256 = "0srmgkjz9jzisr999bw83p7hz6s9pa4r84rz32nknx58lsrzp6ag";
+        }
+        {
+          path = ''saike_protosynth.jsfx.rpl'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/6694196057c7a00efa441807938545474ebaf73f/protosynth/saike_protosynth.jsfx.rpl";
           sha256 = "0ivwjpjjnpq3pd9s3pwp7ykp5y7zhf3qkw9qgm8rm0d8sabq32nm";
         }
       ];

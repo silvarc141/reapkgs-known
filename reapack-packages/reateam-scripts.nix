@@ -41338,6 +41338,25 @@
         }
       ];
     };
+    cfillion-apply-render-preset-lua-2-1-5 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "cfillion-apply-render-preset-lua-2-1-5";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Rendering";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7250e6a24d813a76b04136b87a46136834bf47c7/Rendering/cfillion_Apply%20render%20preset.lua";
+          sha256 = "0iibch978ila4ffxr8lzb5mr44rm5a5gzd3ja4y30zw1wx6qcl30";
+        }
+        {
+          path = ''cfillion_Apply render preset (create action).lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7250e6a24d813a76b04136b87a46136834bf47c7/Rendering/cfillion_Apply%20render%20preset.lua";
+          sha256 = "0iibch978ila4ffxr8lzb5mr44rm5a5gzd3ja4y30zw1wx6qcl30";
+        }
+      ];
+    };
     dsg-render-time-selection-to-new-track-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "dsg-render-time-selection-to-new-track-lua-1-0";
@@ -42063,6 +42082,20 @@
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/92caaaf059cefa9b2091d47f3cea872b02537936/Time%20Selection/az_Link%20time%20selection%20or%20loop%20points%20to%20arrange%20view.lua";
           sha256 = "057ckkz8w2ia3kx0dxm4ps43xqyijjx6ykvg82gg5q5hbv3g91pq";
+        }
+      ];
+    };
+    az-set-time-selection-to-envelope-points-selected-or-around-mouse-cursor-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "az-set-time-selection-to-envelope-points-selected-or-around-mouse-cursor-lua-1-0";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Time Selection";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/ca179e9b7b03c7269183b9bff3aa460dd64d83bf/Time%20Selection/az_Set%20time%20selection%20to%20envelope%20points%20(selected%20or%20around%20mouse%20cursor).lua";
+          sha256 = "0jrqfmmwq5i0aq9l01lk4n2da92jsh4swwzqsrckzzr99a45y97q";
         }
       ];
     };
@@ -50388,6 +50421,65 @@
         {
           path = ''song_switcher.html'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1e9da9dee3720938fd68b552c1f215a1ea41848f/Various/cfillion_Song%20switcher/song_switcher.html";
+          sha256 = "1496g09ijypnnk7nh3sjah75gp476kc2j1m1bqixnk05189p4b6r";
+        }
+      ];
+    };
+    cfillion-song-switcher-lua-1-7 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "cfillion-song-switcher-lua-1-7";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher.lua";
+          sha256 = "1pj6rzf6nig9ad3cb5mn77xpv4hlmczmbsvk6k01v73zr677jd5g";
+        }
+        {
+          path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to next song.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
+        }
+        {
+          path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to previous song.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
+        }
+        {
+          path = ''cfillion_Song switcher/cfillion_Song switcher - Reset data.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
+        }
+        {
+          path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to queued song.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
+        }
+        {
+          path = ''cfillion_Song switcher/cfillion_Song switcher - Switch song by MIDI CC.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
+        }
+        {
+          path = ''cfillion_Song switcher/cfillion_Song switcher - Queue next song.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
+        }
+        {
+          path = ''cfillion_Song switcher/cfillion_Song switcher - Queue previous song.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
+        }
+        {
+          path = ''cfillion_Song switcher/cfillion_Song switcher - Queue song by MIDI CC.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
+        }
+        {
+          path = ''song_switcher.html'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/song_switcher.html";
           sha256 = "1496g09ijypnnk7nh3sjah75gp476kc2j1m1bqixnk05189p4b6r";
         }
       ];

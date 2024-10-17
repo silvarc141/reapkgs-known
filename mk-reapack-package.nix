@@ -32,15 +32,9 @@ with lib; let
 
   decodeUrl = s: replaceStrings ["%20" "%21" "%22" "%23" "%24" "%25" "%26" "%27" "%28" "%29" "%2A" "%2B" "%2C" "%2D" "%2E" "%2F" "%3A" "%3B" "%3C" "%3D" "%3E" "%3F" "%40" "%5B" "%5C" "%5D" "%5E" "%5F" "%60" "%7B" "%7C" "%7D" "%7E"] [" " "!" "\"" "#" "$" "%" "&" "'" "(" ")" "*" "+" "," "-" "." "/" ":" ";" "<" "=" ">" "?" "@" "[" "\\" "]" "^" "_" "`" "{" "|" "}" "~"] s;
 
-  sourcesWithName = map (s: s // {name = strings.sanitizeDerivationName (decodeUrl s.url);}) sources;
+  getPathFromSource = (s: if s.path == "" then (baseNameOf (decodeUrl s.url)) else s.path);
 
-  sourceDataString = escapeSingleQuote (strings.concatMapStrings (s: let
-    path =
-      if s.path == ""
-      then (baseNameOf (decodeUrl s.url))
-      else s.path;
-  in "${s.name}|${path}|")
-  sourcesWithName);
+  sourcesWithName = map (s: s // {name = strings.sanitizeDerivationName (decodeUrl s.url);}) sources;
 in
   stdenv.mkDerivation {
     name = name;
@@ -55,23 +49,37 @@ in
 
     srcs = map (elem: fetchurl {inherit (elem) url sha256 name;}) sourcesWithName;
 
+    pairs = escapeSingleQuote (strings.concatMapStrings (s: "${s.name}|${(getPathFromSource s)}|") sourcesWithName);
+
+    passAsFile = [ "srcs" "pairs" ];
+
     installPhase =
       #bash
       ''
         runHook preInstall
 
         dst="$out/${parentDir}"
-        IFS='|' read -ra lines <<< '${sourceDataString}'
-        for ((i=0; i<''${#lines[@]}; i+=2)); do
-          name="''${lines[i]}"
-          path="''${lines[i+1]}"
+
+        readarray -td '|' pairsArray < "$pairsPath"
+
+        for ((i=0; i<''${#pairsArray[@]}; i+=2)); do
+          name="''${pairsArray[i]}"
+          path="''${pairsArray[i+1]}"
           targetName="$(basename "$path")"
           targetDir="$dst/$(dirname "$path")"
-          source=$(for s in $srcs; do echo "$s" | grep -q "$name" && echo "$s" && break; done)
-          mkdir -p "$targetDir"
+
           if [ -f "$targetDir/$targetName" ]; then
             echo "File $targetDir/$targetName already exists. Skipping."
           else
+            mkdir -p "$targetDir"
+            readarray -td ' ' sourcesArray < $srcsPath
+            source=""
+            for src in ''${sourcesArray[@]}; do
+              if [[ "$src" == *"$name" ]]; then
+                source="$src"
+                break
+              fi
+            done
             cp "$source" "$targetDir/$targetName"
           fi
         done

@@ -21307,6 +21307,20 @@
         }
       ];
     };
+    mpl-render-in-place-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-render-in-place-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Render";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/a62360493bfa4373a23af7d7261c311fe822cbbf/Render/mpl_Render-in-place.lua";
+          sha256 = "12bx68pyccfkhk5y62hm3af2irva3d09pmpj7vxfxlzxj456nn61";
+        }
+      ];
+    };
     mpl-set-render-bounds-to-entire-project-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-set-render-bounds-to-entire-project-lua-1-0";
@@ -35546,6 +35560,48 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/73aab04c9482e6eb8f6597333c3eed9ac7f9d3c6/Various/mpl_Keyboard%20Shortcuts%20Visualizer.lua";
           sha256 = "0d1468jnnl5201mcgs1cagphlkfp5r1xhxlszcjpanfwpyyjxhyd";
+        }
+      ];
+    };
+    mpl-keyboard-shortcuts-visualizer-lua-1-07 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-keyboard-shortcuts-visualizer-lua-1-07";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b6ecf9da2ce8e5d9c27868bfff9b36e81654653a/Various/mpl_Keyboard%20Shortcuts%20Visualizer.lua";
+          sha256 = "067bcss4j88lc34zi1h6y5aq57iaq9xax5ckdy4caid752kngyrc";
+        }
+      ];
+    };
+    mpl-keyboard-shortcuts-visualizer-lua-1-08 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-keyboard-shortcuts-visualizer-lua-1-08";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bd635825b59af62a299c4f846c919b17f8ada8d7/Various/mpl_Keyboard%20Shortcuts%20Visualizer.lua";
+          sha256 = "1fgkd1py27sl0mf2kipv6jwf3z2n5dqqqp247ry44jz8gygy12hx";
+        }
+      ];
+    };
+    mpl-keyboard-shortcuts-visualizer-lua-1-09 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-keyboard-shortcuts-visualizer-lua-1-09";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8e6cf230be6a48d842e1a0d344c63141fe5cb600/Various/mpl_Keyboard%20Shortcuts%20Visualizer.lua";
+          sha256 = "0vrphii12azc7q7lvkb5far82dh5gr3bn0gi06wkp2apzmhl3bab";
         }
       ];
     };

@@ -2660,6 +2660,20 @@
         }
       ];
     };
+    gridbox-lua-2-1-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "gridbox-lua-2-1-1";
+      indexName = "FTC Tools";
+      categoryName = "Adaptive grid";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/e38cb834906505d653395bafca06a200cff5c414/Adaptive%20grid/Gridbox.lua";
+          sha256 = "1afs8w3im2hvw2bf4zf51j7j3kyainf7gghlj6ifzr6d7wg81dcr";
+        }
+      ];
+    };
     auto-hide-silent-tracks-during-playback-lua-1-0-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "auto-hide-silent-tracks-during-playback-lua-1-0-0";
@@ -2951,6 +2965,76 @@
           path = '''';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20time%20selection.lua";
           sha256 = "1896c2ina7n9y0zi3zj33a3vhgi3jjwykikdp3cj02ivj2k5mrvi";
+        }
+      ];
+    };
+    toggle-show-only-selected-tracks-lua-1-0-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "toggle-show-only-selected-tracks-lua-1-0-0";
+      indexName = "FTC Tools";
+      categoryName = "Auto-Hide";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/cf0dcc5ef85a0852c362a8f57acf7d7362e8672e/Auto-Hide/Toggle%20show%20only%20selected%20tracks.lua";
+          sha256 = "14h5vs91dfrzjficgsprajpdipkmi5j7mc26w8a0khc2dr9mx3lz";
+        }
+      ];
+    };
+    toggle-show-only-selected-tracks-lua-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "toggle-show-only-selected-tracks-lua-1-0-1";
+      indexName = "FTC Tools";
+      categoryName = "Auto-Hide";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20selected%20tracks.lua";
+          sha256 = "078k7wsjxgcg4dgmk0hlrgnhb3vxg1vcbr4pyxm0qnjpjmky3zki";
+        }
+      ];
+    };
+    toggle-show-only-tracks-with-receives-in-mixer-lua-1-0-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "toggle-show-only-tracks-with-receives-in-mixer-lua-1-0-0";
+      indexName = "FTC Tools";
+      categoryName = "Auto-Hide";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/cf0dcc5ef85a0852c362a8f57acf7d7362e8672e/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua";
+          sha256 = "147jz027m23dxzn2h0apnvcib89dyc2knxi15d4nmc9v8g9bnrwi";
+        }
+      ];
+    };
+    toggle-show-only-tracks-with-receives-in-mixer-lua-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "toggle-show-only-tracks-with-receives-in-mixer-lua-1-0-1";
+      indexName = "FTC Tools";
+      categoryName = "Auto-Hide";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0afa8aed09dc7f69b6788ec7a5774e837b34438d/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua";
+          sha256 = "158nyibyqknj68dr9v1gsim6x88mx61prd47510k3vwz79isn8w4";
+        }
+      ];
+    };
+    toggle-show-only-tracks-with-receives-in-mixer-lua-1-0-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "toggle-show-only-tracks-with-receives-in-mixer-lua-1-0-2";
+      indexName = "FTC Tools";
+      categoryName = "Auto-Hide";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua";
+          sha256 = "011gsghqd6wr78yj9dq4yw6inad6h0kli58ig60igk241v8ikcvw";
         }
       ];
     };
@@ -11665,6 +11749,20 @@
           path = '''';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/46b726a5879dd837d9f6cd37d1d64a642b199a9c/Various/REAPER%20Update%20Utility.lua";
           sha256 = "1mziniz68skrbda5p01znygnxab7q4zdqk2f1h7qb06h09lkglhn";
+        }
+      ];
+    };
+    reaper-update-utility-lua-1-9-4 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "reaper-update-utility-lua-1-9-4";
+      indexName = "FTC Tools";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/4ea87370159a33566b47d1030669c75c09f1b63f/Various/REAPER%20Update%20Utility.lua";
+          sha256 = "14w5ifslbqha8mdxxaav7gqv270mwa97dpwxcq4gyjjzhswzm1xk";
         }
       ];
     };
