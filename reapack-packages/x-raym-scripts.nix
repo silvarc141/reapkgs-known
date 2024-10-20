@@ -1237,6 +1237,20 @@
         }
       ];
     };
+    x-raym-add-envelope-points-at-time-selection-edges-from-x-to-y-preserving-edges-on-choosen-envelopes-lua-1-6-4 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-add-envelope-points-at-time-selection-edges-from-x-to-y-preserving-edges-on-choosen-envelopes-lua-1-6-4";
+      indexName = "X-Raym Scripts";
+      categoryName = "Envelopes/On Tracks";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/b08ae7d2edc5503dcc34d53b6b115725bb0896cc/Envelopes/On%20Tracks/X-Raym_Add%20envelope%20points%20at%20time%20selection%20edges%20from%20X%20to%20Y%20preserving%20edges%20on%20choosen%20envelopes.lua";
+          sha256 = "1lp0ak8rhdrvjxiqn4kx400nal0ll232fs794y6y9vjrphgawldf";
+        }
+      ];
+    };
     x-raym-add-envelope-points-at-time-selection-edges-from-xdb-to-xdb-preserving-edges-on-volume-envelope-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-add-envelope-points-at-time-selection-edges-from-xdb-to-xdb-preserving-edges-on-volume-envelope-lua-1-0";

@@ -21321,6 +21321,34 @@
         }
       ];
     };
+    mpl-render-in-place-lua-1-01 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-render-in-place-lua-1-01";
+      indexName = "MPL Scripts";
+      categoryName = "Render";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/a94d2b748a97dcd39412be7b0acc7cce39f818c2/Render/mpl_Render-in-place.lua";
+          sha256 = "1bvgg4wp32xzg7cwnmayxz4xy1bnpfah6v883b4c6ybhszvwps2w";
+        }
+      ];
+    };
+    mpl-render-in-place-lua-1-02 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-render-in-place-lua-1-02";
+      indexName = "MPL Scripts";
+      categoryName = "Render";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/dd8ca95ecbe121e4c674226e9f13b83134c2ad93/Render/mpl_Render-in-place.lua";
+          sha256 = "09i5b6rvkqakix18v4cxlkd64wy7c2i03zy0z85cqcarmhlal30z";
+        }
+      ];
+    };
     mpl-set-render-bounds-to-entire-project-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-set-render-bounds-to-entire-project-lua-1-0";
@@ -25289,6 +25317,48 @@
         }
       ];
     };
+    mpl-return-control-lua-1-10 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-return-control-lua-1-10";
+      indexName = "MPL Scripts";
+      categoryName = "Tracks Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0137fddfffaeb748d85a5a87b01f8ab40442b793/Tracks%20Properties/mpl_Return%20control.lua";
+          sha256 = "0ng71xh948vmjninqv138d73vydi6psn5vkb2dxz8brrhrh9hcs6";
+        }
+      ];
+    };
+    mpl-return-control-lua-1-11 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-return-control-lua-1-11";
+      indexName = "MPL Scripts";
+      categoryName = "Tracks Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/d53b0db7f8172793c4d1c71aca06794ae71f9be4/Tracks%20Properties/mpl_Return%20control.lua";
+          sha256 = "1fgqghvcrqkchbs8f5dzfbw828hwj2xaxjv3in8iv11sq2i3462h";
+        }
+      ];
+    };
+    mpl-return-control-lua-1-12 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-return-control-lua-1-12";
+      indexName = "MPL Scripts";
+      categoryName = "Tracks Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8d76f956aa2edab886e4998da94037224a4a375/Tracks%20Properties/mpl_Return%20control.lua";
+          sha256 = "0va4lf24rv17k1d7z9mnias4h8nclpgjnp21wbpqgmmll7jpcam6";
+        }
+      ];
+    };
     mpl-search-tracks-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-search-tracks-lua-1-0";
@@ -25762,6 +25832,20 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/cc6d9e9d079c20dfbc2d7fcb1b5982d147e5e03c/Tracks%20Properties/mpl_Send%20control.lua";
           sha256 = "0r98pixxbfxy05n20jxdx8jgn52hmvc3zhpxpvp01zw2rna4xls4";
+        }
+      ];
+    };
+    mpl-send-control-lua-1-24 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-send-control-lua-1-24";
+      indexName = "MPL Scripts";
+      categoryName = "Tracks Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0137fddfffaeb748d85a5a87b01f8ab40442b793/Tracks%20Properties/mpl_Send%20control.lua";
+          sha256 = "1vjrwakgakg27p3ff03bl9xxmkh6p5k6k6wzqsfwh1jlw16cvxdr";
         }
       ];
     };
@@ -35602,6 +35686,20 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8e6cf230be6a48d842e1a0d344c63141fe5cb600/Various/mpl_Keyboard%20Shortcuts%20Visualizer.lua";
           sha256 = "0vrphii12azc7q7lvkb5far82dh5gr3bn0gi06wkp2apzmhl3bab";
+        }
+      ];
+    };
+    mpl-keyboard-shortcuts-visualizer-lua-1-10 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-keyboard-shortcuts-visualizer-lua-1-10";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/9ae93fc47c1040d3378d65cb40c7ccca1687476c/Various/mpl_Keyboard%20Shortcuts%20Visualizer.lua";
+          sha256 = "1vg2w508cyxj8h2j8zvdhgggkrjhvvrhf99blq3z5x3pqvn5haky";
         }
       ];
     };

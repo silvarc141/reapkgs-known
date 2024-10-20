@@ -6090,6 +6090,85 @@
         }
       ];
     };
+    reaper-imgui-ext-0-9-3-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "reaper-imgui-ext-0-9-3-2";
+      indexName = "ReaTeam Extensions";
+      categoryName = "API";
+      packageType = "extension";
+      sources = [
+        {
+          path = ''reaper_imgui-i386.dylib'';
+          url = "https://github.com/cfillion/reaimgui/releases/download/v0.9.3.2/reaper_imgui-i386.dylib";
+          sha256 = "0293mxspjh2692hrinniqgfahnyz8zf85pyz5xfz0c93xcg7cis4";
+        }
+        {
+          path = ''reaper_imgui-x86_64.dylib'';
+          url = "https://github.com/cfillion/reaimgui/releases/download/v0.9.3.2/reaper_imgui-x86_64.dylib";
+          sha256 = "0j9krg9skzhxf5ypj779cr17i12cqfyw6fbp3nbkmjfmscpfdyqb";
+        }
+        {
+          path = ''reaper_imgui-arm64.dylib'';
+          url = "https://github.com/cfillion/reaimgui/releases/download/v0.9.3.2/reaper_imgui-arm64.dylib";
+          sha256 = "1jx0iin2rcq4xnq8z1daf437ph91kapf1f6m04d7f7an9bn7wq8v";
+        }
+        {
+          path = ''reaper_imgui-i686.so'';
+          url = "https://github.com/cfillion/reaimgui/releases/download/v0.9.3.2/reaper_imgui-i686.so";
+          sha256 = "1nxg13rhycd8n48is79d1zzshkdib3mjyq05j8wndvl86f8az5ia";
+        }
+        {
+          path = ''reaper_imgui-x86_64.so'';
+          url = "https://github.com/cfillion/reaimgui/releases/download/v0.9.3.2/reaper_imgui-x86_64.so";
+          sha256 = "191yw8h12yianv24gs9hscjl4i1xbwxb7z0z46mffplb9y9rxmrc";
+        }
+        {
+          path = ''reaper_imgui-armv7l.so'';
+          url = "https://github.com/cfillion/reaimgui/releases/download/v0.9.3.2/reaper_imgui-armv7l.so";
+          sha256 = "1n0198fcqk2ymhbwvnvwlyabg8d74p272symgc861qnhk9kbhajc";
+        }
+        {
+          path = ''reaper_imgui-aarch64.so'';
+          url = "https://github.com/cfillion/reaimgui/releases/download/v0.9.3.2/reaper_imgui-aarch64.so";
+          sha256 = "1q9nasgk4w2g1wvs2npv32q8q4d1mj9mzhjicjb1w8r65zmcg75m";
+        }
+        {
+          path = ''reaper_imgui-x86.dll'';
+          url = "https://github.com/cfillion/reaimgui/releases/download/v0.9.3.2/reaper_imgui-x86.dll";
+          sha256 = "00yj1128vdh11si05nx2p2v96iqk4ariqcz84y49z14p5ifpk0g7";
+        }
+        {
+          path = ''reaper_imgui-x64.dll'';
+          url = "https://github.com/cfillion/reaimgui/releases/download/v0.9.3.2/reaper_imgui-x64.dll";
+          sha256 = "11p6sahw0ib740776fvj19lq55sgbjz5bi9zwcjdl8zndlliw8hj";
+        }
+        {
+          path = ''ReaImGui_Demo.lua'';
+          url = "https://github.com/cfillion/reaimgui/raw/v0.9.3.2/examples/demo.lua";
+          sha256 = "1k2xbvqv5icbmnhdnrpk3kjfsvd6176q6vqac2nbr87qffm6hlmj";
+        }
+        {
+          path = ''imgui.py'';
+          url = "https://github.com/cfillion/reaimgui/releases/download/v0.9.3.2/imgui.py";
+          sha256 = "03xcj5zlhv9rch94nrjdqxvq9xwkw5w3xy3w25lkxkp33vkyv6i8";
+        }
+        {
+          path = ''reaper_imgui_doc.html'';
+          url = "https://github.com/cfillion/reaimgui/releases/download/v0.9.3.2/reaper_imgui_doc.html";
+          sha256 = "1rbl2lcs7scm5w17rsjydcal9m196j71mabl38is6rs7ipww2dsg";
+        }
+        {
+          path = ''imgui.lua'';
+          url = "https://github.com/cfillion/reaimgui/raw/v0.9.3.2/shims/imgui.lua";
+          sha256 = "14xhahj7qhh8glr2r5pvqyix90agx243b9vynj7jsglpknasqgdp";
+        }
+        {
+          path = ''gfx2imgui.lua'';
+          url = "https://github.com/cfillion/reaimgui/releases/download/v0.9.3.2/gfx2imgui.lua";
+          sha256 = "1grmxgp3rf0hxap2pdr13wvywr05chi75lw4vpzakfa4zmphljrb";
+        }
+      ];
+    };
     ak5k-reasolotus-reaper-solo-bus-extension-ext-0-1-6 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "ak5k-reasolotus-reaper-solo-bus-extension-ext-0-1-6";
