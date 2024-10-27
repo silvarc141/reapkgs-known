@@ -15402,6 +15402,25 @@
         }
       ];
     };
+    az-trim-left-right-or-both-item-edges-via-mouse-and-razor-lua-1-4-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "az-trim-left-right-or-both-item-edges-via-mouse-and-razor-lua-1-4-1";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Items Editing";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/1d8d0974b2ee3926fd42d7ff337af2aeebc89c7a/Items%20Editing/az_Trim%20left,%20right%20or%20both%20item%20edges%20via%20mouse%20and%20razor.lua";
+          sha256 = "109drpwd996ryy7pnbishkyzj1bqr93nmwy2lfvjwxdwgdl5yy64";
+        }
+        {
+          path = ''az_Trim left, right or both item edges via mouse and razor/az_Open options for az_Trim left, right or both item edges via mouse and razor.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/1d8d0974b2ee3926fd42d7ff337af2aeebc89c7a/Items%20Editing/az_Trim%20left,%20right%20or%20both%20item%20edges%20via%20mouse%20and%20razor/az_Open%20options%20for%20az_Trim%20left,%20right%20or%20both%20item%20edges%20via%20mouse%20and%20razor.lua";
+          sha256 = "0rb505c2cagx85dc8n1aikdnwqfb01hfmnkgp34x52g00mdiq0gf";
+        }
+      ];
+    };
     beaunus-name-item-takes-by-last-marker-to-cut-item-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "beaunus-name-item-takes-by-last-marker-to-cut-item-lua-1-0";
@@ -38880,6 +38899,20 @@
         }
       ];
     };
+    amagalma-set-project-length-limit-to-edit-cursor-position-lua-1-01 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amagalma-set-project-length-limit-to-edit-cursor-position-lua-1-01";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Project Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/03c262234ffd86f427ef508323558c975175db4d/Project%20Properties/amagalma_Set%20project%20length%20limit%20to%20edit%20cursor%20position.lua";
+          sha256 = "06j1ng7fkrd64gnjiqvl8kl7xz3g2224sd4f8ssw45jaksyrb33r";
+        }
+      ];
+    };
     amagalma-set-project-samplerate-to-that-of-the-first-selected-item-if-different-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "amagalma-set-project-samplerate-to-that-of-the-first-selected-item-if-different-lua-1-0";
@@ -42772,6 +42805,48 @@
           path = ''cfillion_Remove empty tracks (no prompt).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/3013ae40bf68ce79c4674f6696db8d410dde8684/Tracks/cfillion_Remove%20empty%20tracks.lua";
           sha256 = "1w9vgr0qxkm1rdnbrk4yyvhvc2m17gc1gq38rx3z6zixq8dkkd47";
+        }
+      ];
+    };
+    edgemeal-play-lanes-in-time-selection-lua-1-00 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "edgemeal-play-lanes-in-time-selection-lua-1-00";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Tracks";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/b4aeefd20894953e5108996118c6a97e71546ed9/Tracks/edgemeal_Play%20lanes%20in%20time%20selection.lua";
+          sha256 = "0w20mg637crjpn5rc13yiciapnr70mz1gsi4z3b2yqpbp5ggr8ni";
+        }
+      ];
+    };
+    edgemeal-play-lanes-in-time-selection-lua-1-01 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "edgemeal-play-lanes-in-time-selection-lua-1-01";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Tracks";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/f208bfd7a7d606973492dbd9e6f7432d329f1b91/Tracks/edgemeal_Play%20lanes%20in%20time%20selection.lua";
+          sha256 = "1rrb41y0w259f2m03l9lnd885k73ffm8dwh0vzznr5wqi959nkmb";
+        }
+      ];
+    };
+    edgemeal-play-lanes-in-time-selection-lua-1-02 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "edgemeal-play-lanes-in-time-selection-lua-1-02";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Tracks";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/0d678e5e6dc0a73d1bc89afceb4cd34bfbf2d19a/Tracks/edgemeal_Play%20lanes%20in%20time%20selection.lua";
+          sha256 = "1ls09qdzfvvlqrwffnlg4cw1fd0vbps7briwdasxk66piyn539zs";
         }
       ];
     };
@@ -46674,6 +46749,20 @@
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/32c93a7d630e69eeeceb7b5b5163acc8bb019cee/Various/amagalma_Create%20Impulse%20Response%20(IR)%20of%20the%20FX%20chain%20of%20the%20selected%20track.lua";
           sha256 = "1qar0qwnncz84clwxfmp51bkw34jd0xkcvi6fjv5awc74g1h9qgw";
+        }
+      ];
+    };
+    amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-18 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-18";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/2c92fff11ebf3bb24da754097a7d53ee77222e7f/Various/amagalma_Create%20Impulse%20Response%20(IR)%20of%20the%20FX%20chain%20of%20the%20selected%20track.lua";
+          sha256 = "0va22fyg7jsjx9l6vw2540v4l832jfppxy84d68q6q2kwdzbq1gy";
         }
       ];
     };

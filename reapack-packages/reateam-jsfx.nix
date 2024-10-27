@@ -5904,6 +5904,20 @@
         }
       ];
     };
+    talagan-midi-note-remapper-jsfx-0-4 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "talagan-midi-note-remapper-jsfx-0-4";
+      indexName = "ReaTeam JSFX";
+      categoryName = "MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/JSFX/raw/be973f9b7104038382c78a3be21ed5bb98a036b6/MIDI/talagan_MIDI%20Note%20Remapper.jsfx";
+          sha256 = "15s0hwaw0r21r9x7hq3s6kpfhr2m5z7xw09qk3l7ci7xv26g61g3";
+        }
+      ];
+    };
     talagan-midi-poly-aftertouch-cc-multiplexer-jsfx-0-9 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "talagan-midi-poly-aftertouch-cc-multiplexer-jsfx-0-9";

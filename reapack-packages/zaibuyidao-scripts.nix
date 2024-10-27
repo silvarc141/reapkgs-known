@@ -15299,6 +15299,20 @@
         }
       ];
     };
+    chinese-simplified-reaperlangpack-1-1-1-726 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "chinese-simplified-reaperlangpack-1-1-1-726";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Translations";
+      packageType = "langpack";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/7dda8b25d6633459c9a8bd39155614abe109a5d0/Translations/Chinese%20(Simplified).ReaperLangPack";
+          sha256 = "1v3179w3l83wlw6mxljhs0mr9q7s2qj2a6f8l74cv46l0x0ffi2a";
+        }
+      ];
+    };
     chinese-traditional-reaperlangpack-1-0-724 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-724";
@@ -15338,6 +15352,20 @@
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/80e05746b21d5b6e65f9f7da1badab3e9d8a28e4/Translations/Chinese%20(Traditional).ReaperLangPack";
           sha256 = "1gbjik2s6zqcmfvhsl8nw8kj3njgmc5pk77h8nxw20mrhmsksp0w";
+        }
+      ];
+    };
+    chinese-traditional-reaperlangpack-1-1-1-726 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "chinese-traditional-reaperlangpack-1-1-1-726";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Translations";
+      packageType = "langpack";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/7dda8b25d6633459c9a8bd39155614abe109a5d0/Translations/Chinese%20(Traditional).ReaperLangPack";
+          sha256 = "1nmz5037dj7ax261vwn44g8gmigk0mfxm9kq5k23hvp5njii0c6j";
         }
       ];
     };
@@ -16262,6 +16290,118 @@
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4e06c45b98b415f8cbdd4aa37fea710e4c3a3cd0/Utility/zaibuyidao_MIDI%20File%20Track%20Name%20Fix.lua";
           sha256 = "1qsy6x82zrd2k3dks1sy93svw9qkviad8hzbr72pxla2r0g8sk00";
+        }
+      ];
+    };
+    zaibuyidao-mouse-modifiers-toggle-marquee-selection-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-mouse-modifiers-toggle-marquee-selection-lua-1-0";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/cde61119af05488658d145b9edfc06cb6a9acc3f/Utility/zaibuyidao_Mouse%20Modifiers%20-%20Toggle%20Marquee%20Selection.lua";
+          sha256 = "1cp486gzh8piqgi12pq20gcm4pzmzgnhfzh3nrrsym1b51vmk4k7";
+        }
+      ];
+    };
+    zaibuyidao-mouse-modifiers-toggle-marquee-selection-lua-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-mouse-modifiers-toggle-marquee-selection-lua-1-0-1";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/ca4eb39401b372ae99af24018551080f46c36ab6/Utility/zaibuyidao_Mouse%20Modifiers%20-%20Toggle%20Marquee%20Selection.lua";
+          sha256 = "0h5wdlykc68jqmi3lqskpn6p6ajfrkayhrgdmm63dwprnqg605yk";
+        }
+      ];
+    };
+    zaibuyidao-mouse-modifiers-toggle-move-edit-cursor-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-mouse-modifiers-toggle-move-edit-cursor-lua-1-0";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/379251a30257dbb001a45f570e38eb34c9f897d2/Utility/zaibuyidao_Mouse%20Modifiers%20-%20Toggle%20Move%20Edit%20Cursor.lua";
+          sha256 = "1n28zv6x7hwmpfsnd30gr6jhkiacv77dlqv9akj1yn00lmf814rk";
+        }
+      ];
+    };
+    zaibuyidao-mouse-modifiers-toggle-move-edit-cursor-lua-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-mouse-modifiers-toggle-move-edit-cursor-lua-1-0-1";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/cde61119af05488658d145b9edfc06cb6a9acc3f/Utility/zaibuyidao_Mouse%20Modifiers%20-%20Toggle%20Move%20Edit%20Cursor.lua";
+          sha256 = "1vxjkiiqwr59gykbywycs7h5yssy8l43qi1brc39gdrmd9sz25pg";
+        }
+      ];
+    };
+    zaibuyidao-mouse-modifiers-toggle-razor-editing-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-mouse-modifiers-toggle-razor-editing-lua-1-0";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/ca4eb39401b372ae99af24018551080f46c36ab6/Utility/zaibuyidao_Mouse%20Modifiers%20-%20Toggle%20Razor%20Editing.lua";
+          sha256 = "13rir6nhd9mns1pyk88mjafm0a4f30qhxgda5v1czv24rcznlzna";
+        }
+      ];
+    };
+    zaibuyidao-mouse-modifiers-toggle-time-selection-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-mouse-modifiers-toggle-time-selection-lua-1-0";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/cde61119af05488658d145b9edfc06cb6a9acc3f/Utility/zaibuyidao_Mouse%20Modifiers%20-%20Toggle%20Time%20Selection.lua";
+          sha256 = "1m8x756rpf72801ccf1wvh4f3bj77apgcp7b67mgfj468y9mkclv";
+        }
+      ];
+    };
+    zaibuyidao-mouse-modifiers-toggle-time-selection-lua-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-mouse-modifiers-toggle-time-selection-lua-1-0-1";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/183b8292706106ad59ff860db33f226fccf60477/Utility/zaibuyidao_Mouse%20Modifiers%20-%20Toggle%20Time%20Selection.lua";
+          sha256 = "05j55mgd6kyrc51m5x3lxk7qvmadscsnrdgkn05zq2h10xbf6ys1";
+        }
+      ];
+    };
+    zaibuyidao-mouse-modifiers-toggle-time-selection-lua-1-0-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-mouse-modifiers-toggle-time-selection-lua-1-0-2";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/ca4eb39401b372ae99af24018551080f46c36ab6/Utility/zaibuyidao_Mouse%20Modifiers%20-%20Toggle%20Time%20Selection.lua";
+          sha256 = "0kmhvi03yy427qjv9kwmscss706z42fjcv6s9xr1krhlfmcwj0bd";
         }
       ];
     };

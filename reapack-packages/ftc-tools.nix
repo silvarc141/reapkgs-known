@@ -2170,6 +2170,85 @@
         }
       ];
     };
+    adaptive-grid-lua-2-0-5 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "adaptive-grid-lua-2-0-5";
+      indexName = "FTC Tools";
+      categoryName = "Adaptive grid";
+      packageType = "script";
+      sources = [
+        {
+          path = ''Adaptive grid menu.lua'';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Adaptive%20grid%20menu.lua";
+          sha256 = "0vd1776524cf9wkl0j9zcaxplv72a0nn8cr5v2minp53a02blq72";
+        }
+        {
+          path = ''Adaptive grid (background service).lua'';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Adaptive%20grid%20(background%20service).lua";
+          sha256 = "103zl9qsicajldiq66l41km5vsnri3af1mp31xwf7k3nm0zany99";
+        }
+        {
+          path = ''Adapt grid to zoom level.lua'';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Adapt%20grid%20to%20zoom%20level.lua";
+          sha256 = "16yf5h4ipahscymv96fvck00zmjsmm7xmh895357ryy9a5zwap5d";
+        }
+        {
+          path = ''Set grid to custom size (adaptive).lua'';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Set%20grid%20to%20custom%20size%20(adaptive).lua";
+          sha256 = "1kww624kfdnyqsyd64mlddzb6kjbp8y9whpvrv0q1j15alslrfk5";
+        }
+        {
+          path = ''Set grid to fixed (adaptive).lua'';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Set%20grid%20to%20fixed%20(adaptive).lua";
+          sha256 = "1vjcq5iayjfzfsyv5x2pxvz0i17dxh2pjzlkg1g4n4i4jrw5ii1m";
+        }
+        {
+          path = ''Set grid to medium (adaptive).lua'';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Set%20grid%20to%20medium%20(adaptive).lua";
+          sha256 = "0243fx0sh069x2pgw3jdwp4cvmg5iacjhl5jyz4vaad6zqdd4ms0";
+        }
+        {
+          path = ''Set grid to narrow (adaptive).lua'';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Set%20grid%20to%20narrow%20(adaptive).lua";
+          sha256 = "1shnqisphiq46m2q1byq5r6wkawpw3kxhaaxacwfc79r4087j1nm";
+        }
+        {
+          path = ''Set grid to narrowest (adaptive).lua'';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Set%20grid%20to%20narrowest%20(adaptive).lua";
+          sha256 = "094wvg4q3y00m1z1wsj1yk02la38plg564r0xhl16lcnsg92p6w3";
+        }
+        {
+          path = ''Set grid to wide (adaptive).lua'';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Set%20grid%20to%20wide%20(adaptive).lua";
+          sha256 = "081lycgnwkkbasipiycacch2jmcpslgb3wf355mnc1hgznixx1a9";
+        }
+        {
+          path = ''Set grid to widest (adaptive).lua'';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Set%20grid%20to%20widest%20(adaptive).lua";
+          sha256 = "1xfjjnkxa0iv3xc4rr9pq9rni6g0l99ng9pajgwwsqik85qs07gk";
+        }
+        {
+          path = ''Adjust adaptive grid (mousewheel).lua'';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Adjust%20adaptive%20grid%20(mousewheel).lua";
+          sha256 = "1rrsqq4vm37qa6i2v39g42z1jckay2c3dgnx1b97z7i3lj4lvgw6";
+        }
+        {
+          path = ''Adjust fixed grid (mousewheel).lua'';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Adjust%20fixed%20grid%20(mousewheel).lua";
+          sha256 = "057dlbgf9hwk9c99vzsbdmvgr761bdm9092i6rwfridrybyza25b";
+        }
+        {
+          path = ''Adjust fixed grid by 1 ∕ divisor.lua'';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Adjust%20fixed%20grid%20by%201%20%E2%88%95%20divisor.lua";
+          sha256 = "1kvkbwrxnfsipnnp7kxca36wcwj6nz42nq8i8s7fgpsc572mvq52";
+        }
+        {
+          path = ''Adjust fixed grid by divisor.lua'';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Adjust%20fixed%20grid%20by%20divisor.lua";
+          sha256 = "1c7wwwzlxqg41c4aivxrgkdrchlc7yq8r9cc5p6jmgp4w6vpdbbk";
+        }
+      ];
+    };
     gridbox-lua-1-0-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "gridbox-lua-1-0-0";
@@ -2671,6 +2750,20 @@
           path = '''';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/e38cb834906505d653395bafca06a200cff5c414/Adaptive%20grid/Gridbox.lua";
           sha256 = "1afs8w3im2hvw2bf4zf51j7j3kyainf7gghlj6ifzr6d7wg81dcr";
+        }
+      ];
+    };
+    gridbox-lua-2-1-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "gridbox-lua-2-1-2";
+      indexName = "FTC Tools";
+      categoryName = "Adaptive grid";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/20d56c2da1aeacd783294cf9d8e8aa4b18a8172a/Adaptive%20grid/Gridbox.lua";
+          sha256 = "15p3xc1gsjhbmd3y1ng0686vjrsxkpqp0a413md2y88wjwmg2pvr";
         }
       ];
     };

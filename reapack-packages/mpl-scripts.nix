@@ -20929,6 +20929,34 @@
         }
       ];
     };
+    mpl-strum-selected-notes-lua-1-02 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-strum-selected-notes-lua-1-02";
+      indexName = "MPL Scripts";
+      categoryName = "MIDI editor";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/3e0dd895d71c57c0d549076ca5f8b4d4033c2690/MIDI%20editor/mpl_Strum%20selected%20notes.lua";
+          sha256 = "07n7h757yjb9z93y1lysdibw6znhdksiqk3ay7ylgrycpd7hl3ay";
+        }
+      ];
+    };
+    mpl-strum-selected-notes-lua-1-03 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-strum-selected-notes-lua-1-03";
+      indexName = "MPL Scripts";
+      categoryName = "MIDI editor";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/06497e704d725d8ea5324d690386d36796317b92/MIDI%20editor/mpl_Strum%20selected%20notes.lua";
+          sha256 = "1xdkc4781jp7m0cb5hmpy9xjgvrjp3mvdba3j7b2ym184c1rbgk6";
+        }
+      ];
+    };
     mpl-zoom-horizontally-change-grid-relatively-mousewheel-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-zoom-horizontally-change-grid-relatively-mousewheel-lua-1-0";
@@ -21346,6 +21374,76 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/dd8ca95ecbe121e4c674226e9f13b83134c2ad93/Render/mpl_Render-in-place.lua";
           sha256 = "09i5b6rvkqakix18v4cxlkd64wy7c2i03zy0z85cqcarmhlal30z";
+        }
+      ];
+    };
+    mpl-render-in-place-lua-1-03 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-render-in-place-lua-1-03";
+      indexName = "MPL Scripts";
+      categoryName = "Render";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/f60d7671961834b3f4d158ef94d2256caac5b67d/Render/mpl_Render-in-place.lua";
+          sha256 = "13lx0ygxsda8vkyb8rz1gvwikkgn921sya01gr8s712qdaw2xj8q";
+        }
+      ];
+    };
+    mpl-render-in-place-lua-1-04 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-render-in-place-lua-1-04";
+      indexName = "MPL Scripts";
+      categoryName = "Render";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5154511f4488107d7b14491f6732250333e59d30/Render/mpl_Render-in-place.lua";
+          sha256 = "0y6mi00j1h0a2m4f69wmpvbcx2rg4n3lvrs40qwxb500ypmcaxyy";
+        }
+      ];
+    };
+    mpl-render-in-place-lua-1-05 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-render-in-place-lua-1-05";
+      indexName = "MPL Scripts";
+      categoryName = "Render";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0123221cd83c6f0697c2e4764ff5023b022eb107/Render/mpl_Render-in-place.lua";
+          sha256 = "09mjyagq95ciqbqdsl4p7iyga90p43s8bpcwwl7nrw9pj8fay0in";
+        }
+      ];
+    };
+    mpl-render-in-place-lua-1-06 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-render-in-place-lua-1-06";
+      indexName = "MPL Scripts";
+      categoryName = "Render";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/35a4fcf31a9892ddc00438b1a10b226c5e9bde00/Render/mpl_Render-in-place.lua";
+          sha256 = "17jq6y5l2yrmfnrbgrm31ddc4bw81hkqfix2xxxn5yf86pdn7s2g";
+        }
+      ];
+    };
+    mpl-render-in-place-lua-1-07 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-render-in-place-lua-1-07";
+      indexName = "MPL Scripts";
+      categoryName = "Render";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c352898039f3021462ea7397b9bb824254bb34fb/Render/mpl_Render-in-place.lua";
+          sha256 = "085w3qwaq9zhbjkddcxmfk0mnbbybivqrnslfd31ipzx4r7laa5s";
         }
       ];
     };
@@ -35700,6 +35798,20 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/9ae93fc47c1040d3378d65cb40c7ccca1687476c/Various/mpl_Keyboard%20Shortcuts%20Visualizer.lua";
           sha256 = "1vg2w508cyxj8h2j8zvdhgggkrjhvvrhf99blq3z5x3pqvn5haky";
+        }
+      ];
+    };
+    mpl-keyboard-shortcuts-visualizer-lua-1-11 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-keyboard-shortcuts-visualizer-lua-1-11";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/a4fd02830f65347a6402b5314d3c0834b7845a45/Various/mpl_Keyboard%20Shortcuts%20Visualizer.lua";
+          sha256 = "0yj4z4zjvz8fdipdxbf7ac1pad1c5apm9ck0mxhc0ii1kb8n1z8l";
         }
       ];
     };

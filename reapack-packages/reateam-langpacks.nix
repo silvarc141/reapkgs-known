@@ -617,6 +617,20 @@
         }
       ];
     };
+    russian-mig-reaperlangpack-7-26 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "russian-mig-reaperlangpack-7-26";
+      indexName = "ReaTeam LangPacks";
+      categoryName = "Translations";
+      packageType = "langpack";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/LangPacks/raw/3b270f80d2ead1ea301dc760271eb7801f4a3684/Translations/Russian.Mig.ReaperLangPack";
+          sha256 = "13yly7lwyivz3fw84355p7nd29sdscm50ayx7zaqpagq6a0wdj5j";
+        }
+      ];
+    };
     spanishla-reaperlangpack-6-45 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "spanishla-reaperlangpack-6-45";
