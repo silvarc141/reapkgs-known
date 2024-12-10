@@ -17,6 +17,9 @@ jobs:
       - name: Generate
         run: |
           nix run github:silvarc141/reapkgs -- -gprqo .
+      - name: Lock
+        run: |
+          df -h
           nix flake lock
       - name: Commit
         run: |
