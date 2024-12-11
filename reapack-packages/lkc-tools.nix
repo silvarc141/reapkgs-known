@@ -518,6 +518,75 @@
         }
       ];
     };
+    lkc-hover-edit-details-lua-1-57 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "lkc-hover-edit-details-lua-1-57";
+      indexName = "LKC Tools";
+      categoryName = "Hover editing package";
+      packageType = "script";
+      sources = [
+        {
+          path = ''LKC - HOVER EDIT - Init setup.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/afbdee29cc9b92c1b3fcb77be8deb9dcbac5b77c/Hover%20editing%20package/LKC%20-%20HOVER%20EDIT%20-%20Init%20setup.lua";
+          sha256 = "1pvrajpgk22whfk7v7jxwjb522h60d51y8j3k2ddjjha7snwmkdw";
+        }
+        {
+          path = ''LKC - HOVER EDIT - Toggle hovering.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/afbdee29cc9b92c1b3fcb77be8deb9dcbac5b77c/Hover%20editing%20package/LKC%20-%20HOVER%20EDIT%20-%20Toggle%20hovering.lua";
+          sha256 = "0ljqxd4rgw682jp2hqlb26ax41ab7fpjwrd3b6p64hryggik28gd";
+        }
+        {
+          path = ''LKC - HOVER EDIT A - Trim from left.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/afbdee29cc9b92c1b3fcb77be8deb9dcbac5b77c/Hover%20editing%20package/LKC%20-%20HOVER%20EDIT%20A%20-%20Trim%20from%20left.lua";
+          sha256 = "146v6mz6ykz8x9hxjgjkcl37kn4cd1psnb6c7ss24a68ryijczd4";
+        }
+        {
+          path = ''LKC - HOVER EDIT B - Split.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/afbdee29cc9b92c1b3fcb77be8deb9dcbac5b77c/Hover%20editing%20package/LKC%20-%20HOVER%20EDIT%20B%20-%20Split.lua";
+          sha256 = "10hqs2clpi00csgbvdinnnlagmmf9isircf56jig2nfijfbv7l57";
+        }
+        {
+          path = ''LKC - HOVER EDIT D - Fadein.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/afbdee29cc9b92c1b3fcb77be8deb9dcbac5b77c/Hover%20editing%20package/LKC%20-%20HOVER%20EDIT%20D%20-%20Fadein.lua";
+          sha256 = "12cyl9s7y3n2xg1hcwnyf8ls9mr9m7r8cn1s2d35q23ra9g8pgvf";
+        }
+        {
+          path = ''LKC - HOVER EDIT G - Fadeout.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/afbdee29cc9b92c1b3fcb77be8deb9dcbac5b77c/Hover%20editing%20package/LKC%20-%20HOVER%20EDIT%20G%20-%20Fadeout.lua";
+          sha256 = "14jwaix2wlbr4qhhcls0l8yk8bcaqrv97lb6vaxdwr1i41bl053z";
+        }
+        {
+          path = ''LKC - HOVER EDIT Q - Untrim left.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/afbdee29cc9b92c1b3fcb77be8deb9dcbac5b77c/Hover%20editing%20package/LKC%20-%20HOVER%20EDIT%20Q%20-%20Untrim%20left.lua";
+          sha256 = "110l99j51016dn6s0pc8abw79sqd71c3r1j6xzc7sb7mpcidqal9";
+        }
+        {
+          path = ''LKC - HOVER EDIT S - Trim from right.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/afbdee29cc9b92c1b3fcb77be8deb9dcbac5b77c/Hover%20editing%20package/LKC%20-%20HOVER%20EDIT%20S%20-%20Trim%20from%20right.lua";
+          sha256 = "0qmizfvhf67ra23nswk3g218w7h1jk02jafrp0ayhvgw9ai0lnnj";
+        }
+        {
+          path = ''LKC - HOVER EDIT W - Untrim right.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/afbdee29cc9b92c1b3fcb77be8deb9dcbac5b77c/Hover%20editing%20package/LKC%20-%20HOVER%20EDIT%20W%20-%20Untrim%20right.lua";
+          sha256 = "0pffizkav3w7dnmpy3c99k12asyg3xd3zh6rvqs8pkzfkci6p4li";
+        }
+        {
+          path = ''lkc_hover_edit-fade_split.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/afbdee29cc9b92c1b3fcb77be8deb9dcbac5b77c/Hover%20editing%20package/lkc_hover_edit-fade_split.lua";
+          sha256 = "14zcq48qp55rglhpfmcqgq5gwyl1dy7i8ksk241qkii4cicq9qvb";
+        }
+        {
+          path = ''lkc_hover_edit-trim.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/afbdee29cc9b92c1b3fcb77be8deb9dcbac5b77c/Hover%20editing%20package/lkc_hover_edit-trim.lua";
+          sha256 = "0sx8ddqpnd2klca1bpx6p2jnc3bzf0r5rq91376jsybr8ilcbp18";
+        }
+        {
+          path = ''lkc_hover_edit-untrim.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/afbdee29cc9b92c1b3fcb77be8deb9dcbac5b77c/Hover%20editing%20package/lkc_hover_edit-untrim.lua";
+          sha256 = "1a7vz3nq9q2frvkpsnxznqidndflix6aiqm373ayq9kl9nj06d0p";
+        }
+      ];
+    };
     bfo-amp-lkc-folder-items-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "bfo-amp-lkc-folder-items-lua-1-0";

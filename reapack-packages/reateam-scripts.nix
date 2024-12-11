@@ -449,6 +449,25 @@
         }
       ];
     };
+    az-play-item-or-track-under-mouse-until-shortcut-released-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "az-play-item-or-track-under-mouse-until-shortcut-released-lua-1-0";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Cursor";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/37602e97eac770ded39bb7aa985d8907f171e736/Cursor/az_Play%20item%20or%20track%20under%20mouse%20until%20shortcut%20released.lua";
+          sha256 = "1dy51rxbsnc9ryxm8nhk3kr19yxq0am9grha837dakqs8gv71izi";
+        }
+        {
+          path = ''az_Play item or track under mouse until shortcut released/speaker.cur'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/37602e97eac770ded39bb7aa985d8907f171e736/Cursor/az_Play%20item%20or%20track%20under%20mouse%20until%20shortcut%20released/speaker.cur";
+          sha256 = "0lg8c4bqq2mx6rn09lk9ia4ginngfyzk9vf3pjisv1fp9q9a78j7";
+        }
+      ];
+    };
     buyone-move-edit-cursor-to-snap-offset-cursor-fades-take-stretch-markers-media-cues-razor-edit-area-edges-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "buyone-move-edit-cursor-to-snap-offset-cursor-fades-take-stretch-markers-media-cues-razor-edit-area-edges-lua-1-0";
@@ -8043,6 +8062,45 @@
         }
       ];
     };
+    buyone-move-selected-fx-envelope-in-track-to-top-bottom-upwards-downwards-lua-1-2-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "buyone-move-selected-fx-envelope-in-track-to-top-bottom-upwards-downwards-lua-1-2-1";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Envelopes";
+      packageType = "script";
+      sources = [
+        {
+          path = ''BuyOne_Move selected FX envelope/BuyOne_Move selected FX envelope in track to top lane.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cab13cfbfcf3d748f0e886debc1b986be38dda59/Envelopes/BuyOne_Move%20selected%20FX%20envelope%20in%20track%20to%20top_bottom_upwards_downwards.lua";
+          sha256 = "16sa48iy12vmkn0xn87jm5pkzl5k5syj75msm8p4d9n5y2lq7i5k";
+        }
+        {
+          path = ''BuyOne_Move selected FX envelope/BuyOne_Move selected FX envelope in track to bottom lane.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cab13cfbfcf3d748f0e886debc1b986be38dda59/Envelopes/BuyOne_Move%20selected%20FX%20envelope%20in%20track%20to%20top_bottom_upwards_downwards.lua";
+          sha256 = "16sa48iy12vmkn0xn87jm5pkzl5k5syj75msm8p4d9n5y2lq7i5k";
+        }
+        {
+          path = ''BuyOne_Move selected FX envelope/BuyOne_Move selected FX envelope in track up one lane (cycle).lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cab13cfbfcf3d748f0e886debc1b986be38dda59/Envelopes/BuyOne_Move%20selected%20FX%20envelope%20in%20track%20to%20top_bottom_upwards_downwards.lua";
+          sha256 = "16sa48iy12vmkn0xn87jm5pkzl5k5syj75msm8p4d9n5y2lq7i5k";
+        }
+        {
+          path = ''BuyOne_Move selected FX envelope/BuyOne_Move selected FX envelope in track down one lane (cycle).lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cab13cfbfcf3d748f0e886debc1b986be38dda59/Envelopes/BuyOne_Move%20selected%20FX%20envelope%20in%20track%20to%20top_bottom_upwards_downwards.lua";
+          sha256 = "16sa48iy12vmkn0xn87jm5pkzl5k5syj75msm8p4d9n5y2lq7i5k";
+        }
+        {
+          path = ''BuyOne_Move selected FX envelope/BuyOne_Move selected FX envelope in track up one lane (swap).lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cab13cfbfcf3d748f0e886debc1b986be38dda59/Envelopes/BuyOne_Move%20selected%20FX%20envelope%20in%20track%20to%20top_bottom_upwards_downwards.lua";
+          sha256 = "16sa48iy12vmkn0xn87jm5pkzl5k5syj75msm8p4d9n5y2lq7i5k";
+        }
+        {
+          path = ''BuyOne_Move selected FX envelope/BuyOne_Move selected FX envelope in track down one lane (swap).lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cab13cfbfcf3d748f0e886debc1b986be38dda59/Envelopes/BuyOne_Move%20selected%20FX%20envelope%20in%20track%20to%20top_bottom_upwards_downwards.lua";
+          sha256 = "16sa48iy12vmkn0xn87jm5pkzl5k5syj75msm8p4d9n5y2lq7i5k";
+        }
+      ];
+    };
     cfillion-delete-points-before-or-after-the-edit-cursor-in-selected-envelope-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "cfillion-delete-points-before-or-after-the-edit-cursor-in-selected-envelope-lua-1-0";
@@ -9145,6 +9203,85 @@
         {
           path = ''tilr_Snapshooter/tilr_Snapshooter write snap 4.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/aaf2ae393ccf3b305c894b7784346f7ff8d888ec/Envelopes/tilr_Snapshooter/tilr_Snapshooter%20write%20snap%204.lua";
+          sha256 = "1r8b5jhi46a8c2gi06nap0lxzy8pq19hhgwknhzpcvj949qkgppx";
+        }
+      ];
+    };
+    tilr-snapshooter-lua-1-4 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "tilr-snapshooter-lua-1-4";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Envelopes";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cfb453fa5de6332b7ad52495cfd51314782c00bb/Envelopes/tilr_Snapshooter.lua";
+          sha256 = "04nvvlz57kh2f2xbrkqqam5sdxng18cb71cfvcqknzihkdidb218";
+        }
+        {
+          path = ''tilr_Snapshooter/rtk.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cfb453fa5de6332b7ad52495cfd51314782c00bb/Envelopes/tilr_Snapshooter/rtk.lua";
+          sha256 = "14cjwnb6qib26fp9yhcn2ja7dwkjhi8bpjb4gfq0flf3ss26yfg4";
+        }
+        {
+          path = ''tilr_Snapshooter/tilr_Snapshooter apply snap 1.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cfb453fa5de6332b7ad52495cfd51314782c00bb/Envelopes/tilr_Snapshooter/tilr_Snapshooter%20apply%20snap%201.lua";
+          sha256 = "1dvs94v69p1dzhd3xl3jyhbjjvj1k66aw86zsdj2x8y40g0kjkv7";
+        }
+        {
+          path = ''tilr_Snapshooter/tilr_Snapshooter apply snap 2.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cfb453fa5de6332b7ad52495cfd51314782c00bb/Envelopes/tilr_Snapshooter/tilr_Snapshooter%20apply%20snap%202.lua";
+          sha256 = "0px8r6j4p752m86n5ixzxkinnn628b6h0vc44cp6hwgln0wxis1z";
+        }
+        {
+          path = ''tilr_Snapshooter/tilr_Snapshooter apply snap 3.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cfb453fa5de6332b7ad52495cfd51314782c00bb/Envelopes/tilr_Snapshooter/tilr_Snapshooter%20apply%20snap%203.lua";
+          sha256 = "093n36ds1hvn5mmc2nvfqx0xpkx7w8x338m37qhskllbl9mgz1gy";
+        }
+        {
+          path = ''tilr_Snapshooter/tilr_Snapshooter apply snap 4.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cfb453fa5de6332b7ad52495cfd51314782c00bb/Envelopes/tilr_Snapshooter/tilr_Snapshooter%20apply%20snap%204.lua";
+          sha256 = "1x2xpfd3ipwfm8milfrb20fgdfxm36538ndc9jx25gfhckka95j4";
+        }
+        {
+          path = ''tilr_Snapshooter/tilr_Snapshooter save snap 1.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cfb453fa5de6332b7ad52495cfd51314782c00bb/Envelopes/tilr_Snapshooter/tilr_Snapshooter%20save%20snap%201.lua";
+          sha256 = "1l2hrnl1mjpxxq0x4y5bfmzkc99g57bm7f6kki9vh5gyw1k2f7wm";
+        }
+        {
+          path = ''tilr_Snapshooter/tilr_Snapshooter save snap 2.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cfb453fa5de6332b7ad52495cfd51314782c00bb/Envelopes/tilr_Snapshooter/tilr_Snapshooter%20save%20snap%202.lua";
+          sha256 = "1kamxi5npn8sdz0dw7yrdm1xjrck4f0a8xjdbsq1ly5gy5scycj7";
+        }
+        {
+          path = ''tilr_Snapshooter/tilr_Snapshooter save snap 3.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cfb453fa5de6332b7ad52495cfd51314782c00bb/Envelopes/tilr_Snapshooter/tilr_Snapshooter%20save%20snap%203.lua";
+          sha256 = "1pv2nam3jgv8gfc3zavmmb7rrlfl29125pam3ihgqy5aqzsyrrgj";
+        }
+        {
+          path = ''tilr_Snapshooter/tilr_Snapshooter save snap 4.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cfb453fa5de6332b7ad52495cfd51314782c00bb/Envelopes/tilr_Snapshooter/tilr_Snapshooter%20save%20snap%204.lua";
+          sha256 = "029j14da0z99a5z9199f0x02np73fnds09d0nbk9i5pqqj9pxj7r";
+        }
+        {
+          path = ''tilr_Snapshooter/tilr_Snapshooter write snap 1.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cfb453fa5de6332b7ad52495cfd51314782c00bb/Envelopes/tilr_Snapshooter/tilr_Snapshooter%20write%20snap%201.lua";
+          sha256 = "0c8km3147zkd954dm0c8nc0mqpgpw4rdizbyjxfalrlwsxk74mgm";
+        }
+        {
+          path = ''tilr_Snapshooter/tilr_Snapshooter write snap 2.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cfb453fa5de6332b7ad52495cfd51314782c00bb/Envelopes/tilr_Snapshooter/tilr_Snapshooter%20write%20snap%202.lua";
+          sha256 = "0wwvmy8d7dmkbn1493hmy4pbzzxzyjn0xy9la890v86qblq897vv";
+        }
+        {
+          path = ''tilr_Snapshooter/tilr_Snapshooter write snap 3.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cfb453fa5de6332b7ad52495cfd51314782c00bb/Envelopes/tilr_Snapshooter/tilr_Snapshooter%20write%20snap%203.lua";
+          sha256 = "092f1kl23g278v3lny2avhimwwjcavyxqrhcnaz2cdq1k1yahacw";
+        }
+        {
+          path = ''tilr_Snapshooter/tilr_Snapshooter write snap 4.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/cfb453fa5de6332b7ad52495cfd51314782c00bb/Envelopes/tilr_Snapshooter/tilr_Snapshooter%20write%20snap%204.lua";
           sha256 = "1r8b5jhi46a8c2gi06nap0lxzy8pq19hhgwknhzpcvj949qkgppx";
         }
       ];
@@ -11832,6 +11969,20 @@
         }
       ];
     };
+    kawa-trackfxs-routing-matrix-ds-kw-lua-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "kawa-trackfxs-routing-matrix-ds-kw-lua-1-0-1";
+      indexName = "ReaTeam Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/be7f5689e9a2671d9c5f18fec872e055b09bf423/FX/kawa_TrackFXs_Routing_Matrix_DS_KW.lua";
+          sha256 = "02vibr86c5kxq8sbixgiwk95npjbdqd337yrf7l6c41s3c7pd04a";
+        }
+      ];
+    };
     larryseyer-live-keys-scripts-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "larryseyer-live-keys-scripts-lua-1-0";
@@ -13596,6 +13747,20 @@
         }
       ];
     };
+    amagalma-delete-crossfade-under-mouse-cursor-lua-2-00 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amagalma-delete-crossfade-under-mouse-cursor-lua-2-00";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Items Editing";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/511d560895a53c4f7d47f9dd44bd8912a637278e/Items%20Editing/amagalma_Delete%20crossfade%20under%20mouse%20cursor.lua";
+          sha256 = "1y04rcfzgii7il5r1yfb65q3wgv9p8mgdn3hv963wnsz2c9jypps";
+        }
+      ];
+    };
     amagalma-explode-takes-of-items-across-children-tracks-optionally-mute-and-lock-original-items-lua-1-00 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "amagalma-explode-takes-of-items-across-children-tracks-optionally-mute-and-lock-original-items-lua-1-00";
@@ -13719,6 +13884,34 @@
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/cf0073295e5dc5d5d1b7998afe0a1cddfdc332e4/Items%20Editing/amagalma_Explode%20takes%20of%20items%20across%20tracks%20(according%20to%20source%20files).lua";
           sha256 = "029l0ngs13my1h3ajnd6m33qzg20gds1d5mpjv43csqarpimgg9v";
+        }
+      ];
+    };
+    amagalma-explode-video-items-to-separate-audio-and-video-items-in-separate-tracks-lua-1-00 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amagalma-explode-video-items-to-separate-audio-and-video-items-in-separate-tracks-lua-1-00";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Items Editing";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/041e7c6f7f16e89af70d575f327768a5361c83d8/Items%20Editing/amagalma_Explode%20video%20items%20to%20separate%20audio%20and%20video%20items%20in%20separate%20tracks.lua";
+          sha256 = "0wlqpixqmd923vk5rr9kmqjf7f6v7sibh9ykjnnbj1scx87ijha8";
+        }
+      ];
+    };
+    amagalma-explode-video-items-to-separate-audio-and-video-items-in-separate-tracks-lua-1-20 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amagalma-explode-video-items-to-separate-audio-and-video-items-in-separate-tracks-lua-1-20";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Items Editing";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/4df6b821c03dbc1fbd5b68e9882355b3d6b3a7b9/Items%20Editing/amagalma_Explode%20video%20items%20to%20separate%20audio%20and%20video%20items%20in%20separate%20tracks.lua";
+          sha256 = "1a80g6spf6xlg7qyyzn3mh3syfj4aj653l4r9wbrv26nljp2qvaz";
         }
       ];
     };
@@ -14471,6 +14664,20 @@
         }
       ];
     };
+    amagalma-split-items-at-timeline-grid-with-extra-options-lua-1-00 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amagalma-split-items-at-timeline-grid-with-extra-options-lua-1-00";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Items Editing";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/60103e6afcf3287bd81140cac24c62a2bb6f96ef/Items%20Editing/amagalma_Split%20items%20at%20timeline%20grid%20(with%20extra%20options).lua";
+          sha256 = "093hj0flsh0zrlikvjgdcg1sbgmpsp2f4smxr15np5q6jvzz316m";
+        }
+      ];
+    };
     amagalma-split-items-under-mouse-with-selection-option-selected-items-get-priority-over-grouped-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "amagalma-split-items-under-mouse-with-selection-option-selected-items-get-priority-over-grouped-lua-1-0";
@@ -15105,6 +15312,54 @@
         }
       ];
     };
+    az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-2-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-2-2";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Items Editing";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/30d7d01e0d6ec1517cac7418e1554e0e115faad4/Items%20Editing/az_Fade%20tool%20(work%20on%20context%20of%20mouse,%20razor%20or%20time%20selection).lua";
+          sha256 = "15d6mwichvmppql2bjkmmyy43qwwclkas4xnl2v8drdbv2zj6kjd";
+        }
+        {
+          path = ''az_Fade tool (work on context of mouse, razor or time selection)/az_Options window for az_Fade tool.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/30d7d01e0d6ec1517cac7418e1554e0e115faad4/Items%20Editing/az_Fade%20tool%20(work%20on%20context%20of%20mouse,%20razor%20or%20time%20selection)/az_Options%20window%20for%20az_Fade%20tool.lua";
+          sha256 = "0whjriac8fqbc90gcib5dbqhh6n6jdz8cgw3kwm760z9xiybjicm";
+        }
+        {
+          path = ''az_Fade tool (work on context of mouse, razor or time selection)/az_Open options for az_Fade tool.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/30d7d01e0d6ec1517cac7418e1554e0e115faad4/Items%20Editing/az_Fade%20tool%20(work%20on%20context%20of%20mouse,%20razor%20or%20time%20selection)/az_Open%20options%20for%20az_Fade%20tool.lua";
+          sha256 = "0650g42r5hazf6k8q0bvj16sfdgfkkhilfsnxx4ibnn2jzx3sy6y";
+        }
+      ];
+    };
+    az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-2-3 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "az-fade-tool-work-on-context-of-mouse-razor-or-time-selection-lua-2-2-3";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Items Editing";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/0f02df6591e7af08a23b2c964839d18b051027ac/Items%20Editing/az_Fade%20tool%20(work%20on%20context%20of%20mouse,%20razor%20or%20time%20selection).lua";
+          sha256 = "0z4xlglk83cgdk8d37dr9mrfl45pn6cyyjxjny9s21qdrgzh9n98";
+        }
+        {
+          path = ''az_Fade tool (work on context of mouse, razor or time selection)/az_Options window for az_Fade tool.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/0f02df6591e7af08a23b2c964839d18b051027ac/Items%20Editing/az_Fade%20tool%20(work%20on%20context%20of%20mouse,%20razor%20or%20time%20selection)/az_Options%20window%20for%20az_Fade%20tool.lua";
+          sha256 = "0whjriac8fqbc90gcib5dbqhh6n6jdz8cgw3kwm760z9xiybjicm";
+        }
+        {
+          path = ''az_Fade tool (work on context of mouse, razor or time selection)/az_Open options for az_Fade tool.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/0f02df6591e7af08a23b2c964839d18b051027ac/Items%20Editing/az_Fade%20tool%20(work%20on%20context%20of%20mouse,%20razor%20or%20time%20selection)/az_Open%20options%20for%20az_Fade%20tool.lua";
+          sha256 = "0650g42r5hazf6k8q0bvj16sfdgfkkhilfsnxx4ibnn2jzx3sy6y";
+        }
+      ];
+    };
     az-open-item-copy-in-primary-external-editor-with-handles-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "az-open-item-copy-in-primary-external-editor-with-handles-lua-1-0";
@@ -15417,6 +15672,25 @@
         {
           path = ''az_Trim left, right or both item edges via mouse and razor/az_Open options for az_Trim left, right or both item edges via mouse and razor.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1d8d0974b2ee3926fd42d7ff337af2aeebc89c7a/Items%20Editing/az_Trim%20left,%20right%20or%20both%20item%20edges%20via%20mouse%20and%20razor/az_Open%20options%20for%20az_Trim%20left,%20right%20or%20both%20item%20edges%20via%20mouse%20and%20razor.lua";
+          sha256 = "0rb505c2cagx85dc8n1aikdnwqfb01hfmnkgp34x52g00mdiq0gf";
+        }
+      ];
+    };
+    az-trim-left-right-or-both-item-edges-via-mouse-and-razor-lua-1-5 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "az-trim-left-right-or-both-item-edges-via-mouse-and-razor-lua-1-5";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Items Editing";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/39d0fbff1f1a8d5a6b3551de8f8a15246e4901f4/Items%20Editing/az_Trim%20left,%20right%20or%20both%20item%20edges%20via%20mouse%20and%20razor.lua";
+          sha256 = "012h78yh7qqzfj2npcc18c6an91inj5b2ldb2ygp03rv7qf7xghz";
+        }
+        {
+          path = ''az_Trim left, right or both item edges via mouse and razor/az_Open options for az_Trim left, right or both item edges via mouse and razor.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/39d0fbff1f1a8d5a6b3551de8f8a15246e4901f4/Items%20Editing/az_Trim%20left,%20right%20or%20both%20item%20edges%20via%20mouse%20and%20razor/az_Open%20options%20for%20az_Trim%20left,%20right%20or%20both%20item%20edges%20via%20mouse%20and%20razor.lua";
           sha256 = "0rb505c2cagx85dc8n1aikdnwqfb01hfmnkgp34x52g00mdiq0gf";
         }
       ];
@@ -21170,6 +21444,30 @@
         {
           path = ''cfillion_Step sequencing (replace mode).jsfx'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/7fd3f170262c138ce683caea442e0381a5f5239f/MIDI%20Editor/cfillion_Step%20sequencing%20(replace%20mode).jsfx";
+          sha256 = "0kmmjqwyry3150x2bqjzwm62rnrsv7rg1cfa3yybxii1hm17kf29";
+        }
+      ];
+    };
+    cfillion-step-sequencing-replace-mode-lua-1-1-4 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "cfillion-step-sequencing-replace-mode-lua-1-1-4";
+      indexName = "ReaTeam Scripts";
+      categoryName = "MIDI Editor";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/9a18d6e0740cd6b54d5f80585f4db23f86ce0e64/MIDI%20Editor/cfillion_Step%20sequencing%20(replace%20mode).lua";
+          sha256 = "17240z5j17jpjrllrqkcmj4l3a0pmac71z2n5ibjs4hvbp75jwpg";
+        }
+        {
+          path = ''cfillion_Step sequencing (options).lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/9a18d6e0740cd6b54d5f80585f4db23f86ce0e64/MIDI%20Editor/cfillion_Step%20sequencing%20(replace%20mode).lua";
+          sha256 = "17240z5j17jpjrllrqkcmj4l3a0pmac71z2n5ibjs4hvbp75jwpg";
+        }
+        {
+          path = ''cfillion_Step sequencing (replace mode).jsfx'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/9a18d6e0740cd6b54d5f80585f4db23f86ce0e64/MIDI%20Editor/cfillion_Step%20sequencing%20(replace%20mode).jsfx";
           sha256 = "0kmmjqwyry3150x2bqjzwm62rnrsv7rg1cfa3yybxii1hm17kf29";
         }
       ];
@@ -30480,6 +30778,30 @@
         }
       ];
     };
+    talagan-find-overlapping-notes-lua-0-5 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "talagan-find-overlapping-notes-lua-0-5";
+      indexName = "ReaTeam Scripts";
+      categoryName = "MIDI Editor";
+      packageType = "script";
+      sources = [
+        {
+          path = ''./talagan_Find overlapping notes in active take and select them.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/bdc7579272df4910256c0f8cc193dec109126859/MIDI%20Editor/talagan_Find%20overlapping%20notes/actions/talagan_Find%20overlapping%20notes%20in%20active%20take%20and%20select%20them.lua";
+          sha256 = "1x1grjsracnjqz0ca99ng70rwhzaq67s0bd4sj3p40rz620j8w5b";
+        }
+        {
+          path = ''./talagan_Find overlapping notes in project and report items.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/bdc7579272df4910256c0f8cc193dec109126859/MIDI%20Editor/talagan_Find%20overlapping%20notes/actions/talagan_Find%20overlapping%20notes%20in%20project%20and%20report%20items.lua";
+          sha256 = "0rjp5zmr9f4jlr5zkxspckplqx8lzb38y1k8wg6115i6r4wlxfln";
+        }
+        {
+          path = ''talagan_Find overlapping notes/overlapping_lib.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/bdc7579272df4910256c0f8cc193dec109126859/MIDI%20Editor/talagan_Find%20overlapping%20notes/overlapping_lib.lua";
+          sha256 = "1hln4yngkdcv4wqsv70d7vmv9dsl1fs3r479s4ia0gcy9515b2xz";
+        }
+      ];
+    };
     talagan-onesmallstep-lua-0-1 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "talagan-onesmallstep-lua-0-1";
@@ -38307,6 +38629,20 @@
         }
       ];
     };
+    talagan-scroll-tcp-to-track-currently-edited-in-active-midi-editor-lua-0-5-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "talagan-scroll-tcp-to-track-currently-edited-in-active-midi-editor-lua-0-5-0";
+      indexName = "ReaTeam Scripts";
+      categoryName = "MIDI Editor";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7ed3b25e9daad0756fc7e443e73d264974af7162/MIDI%20Editor/talagan_Scroll%20TCP%20to%20track%20currently%20edited%20in%20active%20MIDI%20editor.lua";
+          sha256 = "0hfjn2nvl7dla032s6j71rp3yw3vbayz6b23fafqy6fgcwly1ami";
+        }
+      ];
+    };
     timtam-accessichords-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "timtam-accessichords-lua-1-0";
@@ -42850,6 +43186,20 @@
         }
       ];
     };
+    edgemeal-play-lanes-in-time-selection-lua-1-03 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "edgemeal-play-lanes-in-time-selection-lua-1-03";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Tracks";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/964718138d603344ef8635f1ded50405c1478e76/Tracks/edgemeal_Play%20lanes%20in%20time%20selection.lua";
+          sha256 = "0xwfb6w347c80gry5z1h4652ywz4il4f9l3p6gyycx6yvyhdsnsj";
+        }
+      ];
+    };
     gus-lan-select-folder-tracks-of-depth-x-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "gus-lan-select-folder-tracks-of-depth-x-lua-1-0";
@@ -46763,6 +47113,48 @@
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/2c92fff11ebf3bb24da754097a7d53ee77222e7f/Various/amagalma_Create%20Impulse%20Response%20(IR)%20of%20the%20FX%20chain%20of%20the%20selected%20track.lua";
           sha256 = "0va22fyg7jsjx9l6vw2540v4l832jfppxy84d68q6q2kwdzbq1gy";
+        }
+      ];
+    };
+    amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-19 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-19";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/6046b49d820d96d217a35f1a366e356c967f16cf/Various/amagalma_Create%20Impulse%20Response%20(IR)%20of%20the%20FX%20chain%20of%20the%20selected%20track.lua";
+          sha256 = "1imb4k4g3qmiyd6wxwfz98i79nqgrpmvijx28ifvnd1qwbypalbv";
+        }
+      ];
+    };
+    amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-20 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-20";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/e7af1cdef8363fcdf318889dd0640715f709ff7e/Various/amagalma_Create%20Impulse%20Response%20(IR)%20of%20the%20FX%20chain%20of%20the%20selected%20track.lua";
+          sha256 = "0w7rd7qzsinn8yfm3rbzbjn8znh3gnyzzvbdyc40a3idpp1n1a87";
+        }
+      ];
+    };
+    amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-21 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amagalma-create-impulse-response-ir-of-the-fx-chain-of-the-selected-track-lua-2-21";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/38182e635e6708048b536c73ab0d59ba7846a064/Various/amagalma_Create%20Impulse%20Response%20(IR)%20of%20the%20FX%20chain%20of%20the%20selected%20track.lua";
+          sha256 = "1m1mdqi6cgmx9bx5lgli6pnpg7mzs04hl4hchjvq8a54q8skzbxm";
         }
       ];
     };
@@ -60705,6 +61097,50 @@
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/fb9e682b742596881736b1eaaf0bca47bdb00ec0/Video/yatsumehole_Auto%20screen%20flipping%20videos.lua";
           sha256 = "0ikzinwb81lzqn4dzdjh375h8bm6yichjm321lxxa3jwqpl46q0a";
+        }
+      ];
+    };
+    talagan-docking-tools-lua-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "talagan-docking-tools-lua-0-1";
+      indexName = "ReaTeam Scripts";
+      categoryName = "View";
+      packageType = "script";
+      sources = [
+        {
+          path = ''talagan_Maximize bottommost dock.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/00497704efdfdbd2300091c785d10d1dd215d84f/View/talagan_Docking%20tools/actions/talagan_Maximize%20bottommost%20dock.lua";
+          sha256 = "18sbks7rg1g5jaz07ki7kwim1hwhn6h3z9p0kyps7f25ir7p1dyd";
+        }
+        {
+          path = ''talagan_Minimize bottommost dock.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/00497704efdfdbd2300091c785d10d1dd215d84f/View/talagan_Docking%20tools/actions/talagan_Minimize%20bottommost%20dock.lua";
+          sha256 = "1lwzh2ghsjahzf6x57yx2byxsx4xpjr8nafpd8jiw0pm633ydq99";
+        }
+        {
+          path = ''talagan_Set bottommost dock height (500).lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/00497704efdfdbd2300091c785d10d1dd215d84f/View/talagan_Docking%20tools/actions/talagan_Set%20bottommost%20dock%20height%20(500).lua";
+          sha256 = "14wxx8xbb94719i8lnr8bqi4309mjz5w1428akdjfpirxzj7lc7h";
+        }
+        {
+          path = ''talagan_Maximize dock containing active MIDI Editor.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/00497704efdfdbd2300091c785d10d1dd215d84f/View/talagan_Docking%20tools/actions/talagan_Maximize%20dock%20containing%20active%20MIDI%20Editor.lua";
+          sha256 = "0ykjs258flknhnz6knc0cjdv7p5mwvln7c9r3a14hn8nslb6k3ci";
+        }
+        {
+          path = ''talagan_Minimize dock containing active MIDI Editor.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/00497704efdfdbd2300091c785d10d1dd215d84f/View/talagan_Docking%20tools/actions/talagan_Minimize%20dock%20containing%20active%20MIDI%20Editor.lua";
+          sha256 = "05zgdilj2nlz0ya12cmrpasnshmdqk41jkhbrp7dw0vkkfmp4y46";
+        }
+        {
+          path = ''talagan_Set dock containing active MIDI Editor height (500).lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/00497704efdfdbd2300091c785d10d1dd215d84f/View/talagan_Docking%20tools/actions/talagan_Set%20dock%20containing%20active%20MIDI%20Editor%20height%20(500).lua";
+          sha256 = "0cjnl06k01p2zcc1hsslnjd1820prcz6k13i2lc2r4nzhcsz7cy6";
+        }
+        {
+          path = ''talagan_Docking tools/docking_lib.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/00497704efdfdbd2300091c785d10d1dd215d84f/View/talagan_Docking%20tools/docking_lib.lua";
+          sha256 = "05kazxzginsfxcxgw1w8ybxyy4av5ak1dw70rgn25fxxly4zkchc";
         }
       ];
     };

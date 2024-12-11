@@ -2203,20 +2203,6 @@
         }
       ];
     };
-    spk77-button-colors-lua-1-0 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "spk77-button-colors-lua-1-0";
-      indexName = "X-Raym Scripts";
-      categoryName = "Functions";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Functions/spk77_Button%20colors.lua";
-          sha256 = "0nj4y7i3fd0w4wq7p813hzf594pmmj1df4hr5qd38k8ciqfj70cz";
-        }
-      ];
-    };
     spk77-class-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "spk77-class-lua-1-0";
@@ -2228,48 +2214,6 @@
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Functions/spk77_class.lua";
           sha256 = "04lx84gc51zj958ni67fr34nqsxqbsnjw5w3zxhrkqgzklgd3lxm";
-        }
-      ];
-    };
-    spk77-get-max-peak-val-and-pos-from-take-function-lua-1-0 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "spk77-get-max-peak-val-and-pos-from-take-function-lua-1-0";
-      indexName = "X-Raym Scripts";
-      categoryName = "Functions";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fd87147195f732f9af4e2e32eae610cc8d4f1a9f/Functions/spk77_Get%20max%20peak%20val%20and%20pos%20from%20take_function.lua";
-          sha256 = "0fm9yjd559pz0im843g4bi8maga4i6bai92ny31hy247phj8vkka";
-        }
-      ];
-    };
-    spk77-get-take-rms-lua-1-0 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "spk77-get-take-rms-lua-1-0";
-      indexName = "X-Raym Scripts";
-      categoryName = "Functions";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d4f4563f691c3b235c2802f2f95d72d9dc59f044/Functions/spk77_Get%20take%20RMS.lua";
-          sha256 = "078mb6sd34w1lcchdjwbyy8bj76lqz3mhlisrp4fhaql3qxycm3f";
-        }
-      ];
-    };
-    spk77-save-table-to-file-and-load-table-from-file-functions-lua-1-0 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "spk77-save-table-to-file-and-load-table-from-file-functions-lua-1-0";
-      indexName = "X-Raym Scripts";
-      categoryName = "Functions";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/e7e04539f9408f52107bdb5976532ffb469bb1a4/Functions/spk77_Save%20table%20to%20file%20and%20load%20table%20from%20file_functions.lua";
-          sha256 = "0xqv143zpnmdz3bk23wb3vx4gdxw5g59dv5hj1mcjk06596p903i";
         }
       ];
     };
@@ -2329,17 +2273,17 @@
         }
       ];
     };
-    x-raym-insert-fx-lua-1-0 = mkReapackPackage {
+    x-raym-insert-named-fx-on-selected-tracks-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "x-raym-insert-fx-lua-1-0";
+      name = "x-raym-insert-named-fx-on-selected-tracks-lua-1-0";
       indexName = "X-Raym Scripts";
       categoryName = "FX";
       packageType = "script";
       sources = [
         {
           path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/FX/X-Raym_Insert%20FX.lua";
-          sha256 = "0pp0frp5ziqmawq9plpn2f3ax9k8cxkd2y7jj58n9z6hfg2xm8wa";
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/f4933500d81ca4390a99e7f0b8db35e40d8cb677/FX/X-Raym_Insert%20named%20FX%20on%20selected%20tracks.lua";
+          sha256 = "1ygb05msfg1lvbvyz0f8v38gc09hh5nrxcwmg4935vwzfgyrg0h2";
         }
       ];
     };
@@ -3362,6 +3306,20 @@
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Items%20Editing/X-Raym_Multiply%20selected%20items%20length%20by%20two%20avoiding%20overlapping%20with%20next%20item.eel";
           sha256 = "0fbwqsyrdxbbvxzrrf5lqj7iilihzbpxqqghdgqm2787acvxdakl";
+        }
+      ];
+    };
+    x-raym-paste-items-tracks-and-snap-items-if-selected-and-snap-enabled-lua-1-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-paste-items-tracks-and-snap-items-if-selected-and-snap-enabled-lua-1-1";
+      indexName = "X-Raym Scripts";
+      categoryName = "Items Editing";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9fd4a6549171c73b17a98ffdad3400e8afc0ffe9/Items%20Editing/X-Raym_Paste%20items-tracks%20and%20snap%20items%20if%20selected%20and%20snap%20enabled.lua";
+          sha256 = "08c99h8k94n0rj122ckqi4d77b011mhibs8k2hc4nvk2hx3w13y8";
         }
       ];
     };
@@ -4765,6 +4723,20 @@
         }
       ];
     };
+    x-raym-copy-selected-items-active-take-names-as-csv-to-clipboard-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-copy-selected-items-active-take-names-as-csv-to-clipboard-lua-1-0";
+      indexName = "X-Raym Scripts";
+      categoryName = "Items Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/73bb822ab4e3b66eee210872c80fc28674f272e3/Items%20Properties/X-Raym_Copy%20selected%20items%20active%20take%20names%20as%20CSV%20to%20clipboard.lua";
+          sha256 = "1qgxmh77gw0vsk3znn3lwh7i5pga2wbl24zl7lcyhix6alrgw03p";
+        }
+      ];
+    };
     x-raym-copy-selected-items-colors-as-csv-to-clipboard-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-copy-selected-items-colors-as-csv-to-clipboard-lua-1-0";
@@ -5084,6 +5056,20 @@
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Items%20Properties/X-Raym_Keep%20selected%20only%20active%20takes%20audio%20under%20or%20over%20peak%20volume%20threshold.lua";
           sha256 = "0p9xx5jwnmapi6zhsz2bfrs32ijfpxvy9k8j6hmzsh7f61fr7ard";
+        }
+      ];
+    };
+    x-raym-keep-selected-only-active-takes-audio-under-or-over-peak-volume-threshold-lua-2-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-keep-selected-only-active-takes-audio-under-or-over-peak-volume-threshold-lua-2-0";
+      indexName = "X-Raym Scripts";
+      categoryName = "Items Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/c0045ec68a4939764bb1674416ea2ca141b41b6d/Items%20Properties/X-Raym_Keep%20selected%20only%20active%20takes%20audio%20under%20or%20over%20peak%20volume%20threshold.lua";
+          sha256 = "04a4vlkr50dcrr0jn8cnzf0rfcb0maf4d9mb2bscy5p49nh1m372";
         }
       ];
     };
@@ -6361,6 +6347,20 @@
         }
       ];
     };
+    x-raym-set-selected-audio-takes-gain-by-columns-according-to-takes-average-rms-lua-2-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-set-selected-audio-takes-gain-by-columns-according-to-takes-average-rms-lua-2-0";
+      indexName = "X-Raym Scripts";
+      categoryName = "Items Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/44d85aa6e4bb4e32cc6be6f2de095de6995d2681/Items%20Properties/X-Raym_Set%20selected%20audio%20takes%20gain%20by%20columns%20according%20to%20takes%20average%20RMS.lua";
+          sha256 = "0f8q4kpapmazimi37zrapczx61mf6nslyhsnc2p4xmi5i9rykrv9";
+        }
+      ];
+    };
     x-raym-set-selected-audio-takes-gain-by-columns-according-to-takes-max-peak-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-set-selected-audio-takes-gain-by-columns-according-to-takes-max-peak-lua-1-0";
@@ -6372,6 +6372,20 @@
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Items%20Properties/X-Raym_Set%20selected%20audio%20takes%20gain%20by%20columns%20according%20to%20takes%20max%20peak.lua";
           sha256 = "1nx749zwa6bqilvb5nx52rf7m3p5szj9dbcsv7v3nviff4jlkpb2";
+        }
+      ];
+    };
+    x-raym-set-selected-audio-takes-gain-by-columns-according-to-takes-max-peak-lua-2-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-set-selected-audio-takes-gain-by-columns-according-to-takes-max-peak-lua-2-0";
+      indexName = "X-Raym Scripts";
+      categoryName = "Items Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/44d85aa6e4bb4e32cc6be6f2de095de6995d2681/Items%20Properties/X-Raym_Set%20selected%20audio%20takes%20gain%20by%20columns%20according%20to%20takes%20max%20peak.lua";
+          sha256 = "0cf0hlwqfp9vy77q53sx2hkjs1wlxrw5prsjbnp6yfywyrcxh4lc";
         }
       ];
     };
@@ -8479,6 +8493,214 @@
         }
       ];
     };
+    x-raym-16-pads-midi-notes-map-jsfx-1-20 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-16-pads-midi-notes-map-jsfx-1-20";
+      indexName = "X-Raym Scripts";
+      categoryName = "JSFX/MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/X-Raym_16%20pads%20MIDI%20Notes%20Map.jsfx";
+          sha256 = "0khasy87ndxyfzwhhpqya3lmqjn27f9f43i61vkykw3fdvkbzh86";
+        }
+        {
+          path = ''X-Raym_16 pads MIDI Notes Map.jsfx.rpl'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/X-Raym_16%20pads%20MIDI%20Notes%20Map.jsfx.rpl";
+          sha256 = "09w1cnfc1a0fdzm1sxlm3xsxvixmmjajzznadsii941plp3k6wl6";
+        }
+        {
+          path = ''MIDINoteImages/mt-power-drum-kit.txt'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/MIDINoteImages/mt-power-drum-kit.txt";
+          sha256 = "0ijgrn5dh5x79rnjsiqm97jcv5zcnxbsh3zca1vmlb2a84xlgnzm";
+        }
+        {
+          path = ''MIDINoteImages/NONE.txt'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/MIDINoteImages/NONE.txt";
+          sha256 = "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73";
+        }
+        {
+          path = ''Images/bongos.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/bongos.png";
+          sha256 = "068bym63f8n32fky14jx7y8npdp0qx8kz6sqfy0hipwjpw5c7v1w";
+        }
+        {
+          path = ''Images/cabasa.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/cabasa.png";
+          sha256 = "1ay1wpas5mq2xmra0jd3rg0flpisq08xw21y16ri4p03nqjr82sa";
+        }
+        {
+          path = ''Images/congas.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/congas.png";
+          sha256 = "02js964mxqpbfs04l9c9yjw0lka6jrffk550m9gaaz8smqvvivzj";
+        }
+        {
+          path = ''Images/cowbell.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/cowbell.png";
+          sha256 = "1waz9j7y4knawwis8sfyrrrrxl1d6i1grn201m8sk3mabgkypgm4";
+        }
+        {
+          path = ''Images/cowbell_more.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/cowbell_more.png";
+          sha256 = "06q95vvyi2ph4k9rqbdal5fv67y8qr4ywv32f57qzbwd5r1ijdml";
+        }
+        {
+          path = ''Images/cymbal_large.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/cymbal_large.png";
+          sha256 = "05amp8jph170sgh3g6nn0r9z2j6gbswcciv3jqfb6flj2kbjv7v8";
+        }
+        {
+          path = ''Images/cymbal_small.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/cymbal_small.png";
+          sha256 = "038m543x8yf9i1v7k3r838lcriby1vxdn9bkfw6lqzdj648bk57p";
+        }
+        {
+          path = ''Images/hihat.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/hihat.png";
+          sha256 = "1xj3pm13g00h4k6rzfky08g2dinlm7016g7rbblmz5mrch7r7a1g";
+        }
+        {
+          path = ''Images/kick.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/kick.png";
+          sha256 = "1n3m636r7mfg2yhiiwkr5g5cx63ihma49ppvfqfbf04hgl65nnin";
+        }
+        {
+          path = ''Images/maracas.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/maracas.png";
+          sha256 = "1fclw5dc6iy9z41iq83gyy7mqmwpwd0127s2ibbcszjcmpc2kbsc";
+        }
+        {
+          path = ''Images/ride_bell.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/ride_bell.png";
+          sha256 = "1calngwgb1wqyd9bp9xfqwj2m9zqszvkgf2hrr4miq5xkcrjhjzw";
+        }
+        {
+          path = ''Images/ride_rim.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/ride_rim.png";
+          sha256 = "1b1dbpszd6fw1l8swy2iyaw0w2nmrpb210pkj6ivvjcmy04kv5az";
+        }
+        {
+          path = ''Images/snare_top.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/snare_top.png";
+          sha256 = "0bdmgx54i4m6rcas1x7rgkr4f9bqs1x1ih1x690wxfcsakq8ksnm";
+        }
+        {
+          path = ''Images/tamborine.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/tamborine.png";
+          sha256 = "1fgm33002vj8rxijr0s3b7i4zcig077qz0d226xrf6rgpv3iw2dl";
+        }
+        {
+          path = ''Images/tom.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9f4b56875bcbedb4f55fd2e23d054cb35932cb83/JSFX/MIDI/Images/tom.png";
+          sha256 = "0r885mdzx66h2h3grcs7s5mmr0hind2jzh2zds2w77190my5gj7i";
+        }
+      ];
+    };
+    x-raym-16-pads-midi-notes-map-jsfx-1-21 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-16-pads-midi-notes-map-jsfx-1-21";
+      indexName = "X-Raym Scripts";
+      categoryName = "JSFX/MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/X-Raym_16%20pads%20MIDI%20Notes%20Map.jsfx";
+          sha256 = "0z21zshgfrl8l53qx89fv6wlrj826j8nw40is2m2z7mavvjlwcvj";
+        }
+        {
+          path = ''X-Raym_16 pads MIDI Notes Map.jsfx.rpl'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/X-Raym_16%20pads%20MIDI%20Notes%20Map.jsfx.rpl";
+          sha256 = "09w1cnfc1a0fdzm1sxlm3xsxvixmmjajzznadsii941plp3k6wl6";
+        }
+        {
+          path = ''MIDINoteImages/mt-power-drum-kit.txt'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/MIDINoteImages/mt-power-drum-kit.txt";
+          sha256 = "0ijgrn5dh5x79rnjsiqm97jcv5zcnxbsh3zca1vmlb2a84xlgnzm";
+        }
+        {
+          path = ''MIDINoteImages/NONE.txt'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/MIDINoteImages/NONE.txt";
+          sha256 = "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73";
+        }
+        {
+          path = ''Images/bongos.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/bongos.png";
+          sha256 = "068bym63f8n32fky14jx7y8npdp0qx8kz6sqfy0hipwjpw5c7v1w";
+        }
+        {
+          path = ''Images/cabasa.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/cabasa.png";
+          sha256 = "1ay1wpas5mq2xmra0jd3rg0flpisq08xw21y16ri4p03nqjr82sa";
+        }
+        {
+          path = ''Images/congas.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/congas.png";
+          sha256 = "02js964mxqpbfs04l9c9yjw0lka6jrffk550m9gaaz8smqvvivzj";
+        }
+        {
+          path = ''Images/cowbell.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/cowbell.png";
+          sha256 = "1waz9j7y4knawwis8sfyrrrrxl1d6i1grn201m8sk3mabgkypgm4";
+        }
+        {
+          path = ''Images/cowbell_more.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/cowbell_more.png";
+          sha256 = "06q95vvyi2ph4k9rqbdal5fv67y8qr4ywv32f57qzbwd5r1ijdml";
+        }
+        {
+          path = ''Images/cymbal_large.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/cymbal_large.png";
+          sha256 = "05amp8jph170sgh3g6nn0r9z2j6gbswcciv3jqfb6flj2kbjv7v8";
+        }
+        {
+          path = ''Images/cymbal_small.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/cymbal_small.png";
+          sha256 = "038m543x8yf9i1v7k3r838lcriby1vxdn9bkfw6lqzdj648bk57p";
+        }
+        {
+          path = ''Images/hihat.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/hihat.png";
+          sha256 = "1xj3pm13g00h4k6rzfky08g2dinlm7016g7rbblmz5mrch7r7a1g";
+        }
+        {
+          path = ''Images/kick.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/kick.png";
+          sha256 = "1n3m636r7mfg2yhiiwkr5g5cx63ihma49ppvfqfbf04hgl65nnin";
+        }
+        {
+          path = ''Images/maracas.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/maracas.png";
+          sha256 = "1fclw5dc6iy9z41iq83gyy7mqmwpwd0127s2ibbcszjcmpc2kbsc";
+        }
+        {
+          path = ''Images/ride_bell.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/ride_bell.png";
+          sha256 = "1calngwgb1wqyd9bp9xfqwj2m9zqszvkgf2hrr4miq5xkcrjhjzw";
+        }
+        {
+          path = ''Images/ride_rim.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/ride_rim.png";
+          sha256 = "1b1dbpszd6fw1l8swy2iyaw0w2nmrpb210pkj6ivvjcmy04kv5az";
+        }
+        {
+          path = ''Images/snare_top.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/snare_top.png";
+          sha256 = "0bdmgx54i4m6rcas1x7rgkr4f9bqs1x1ih1x690wxfcsakq8ksnm";
+        }
+        {
+          path = ''Images/tamborine.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/tamborine.png";
+          sha256 = "1fgm33002vj8rxijr0s3b7i4zcig077qz0d226xrf6rgpv3iw2dl";
+        }
+        {
+          path = ''Images/tom.png'';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d8cfa9b5ccf297fa4b0f1d60b5928be376bfae49/JSFX/MIDI/Images/tom.png";
+          sha256 = "0r885mdzx66h2h3grcs7s5mmr0hind2jzh2zds2w77190my5gj7i";
+        }
+      ];
+    };
     x-raym-last-midi-event-monitor-jsfx-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-last-midi-event-monitor-jsfx-1-0";
@@ -9417,6 +9639,20 @@
         }
       ];
     };
+    x-raym-repeat-notes-selection-pattern-from-time-selection-to-next-notes-lua-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-repeat-notes-selection-pattern-from-time-selection-to-next-notes-lua-1-0-1";
+      indexName = "X-Raym Scripts";
+      categoryName = "MIDI Editor";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/e47a4faea436b6462d1fdd1ffaae6a2a08df4bbb/MIDI%20Editor/X-Raym_Repeat%20notes%20selection%20pattern%20from%20time%20selection%20to%20next%20notes.lua";
+          sha256 = "19fiyd90vwx2adskmsk2z54j209z8bg61842rpy41q3jxlny4d9d";
+        }
+      ];
+    };
     x-raym-select-all-midi-notes-and-events-right-of-mouse-eel-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-select-all-midi-notes-and-events-right-of-mouse-eel-1-0";
@@ -9515,31 +9751,31 @@
         }
       ];
     };
-    x-raym-select-unselect-all-midi-notes-with-same-pitch-left-of-the-mouse-eel-1-0 = mkReapackPackage {
+    x-raym-select-unselect-all-midi-notes-with-same-pitch-left-of-the-mouse-lua-2-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "x-raym-select-unselect-all-midi-notes-with-same-pitch-left-of-the-mouse-eel-1-0";
+      name = "x-raym-select-unselect-all-midi-notes-with-same-pitch-left-of-the-mouse-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
       packageType = "script";
       sources = [
         {
           path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/MIDI%20Editor/X-Raym_Select-Unselect%20all%20MIDI%20notes%20with%20same%20pitch%20left%20of%20the%20mouse.eel";
-          sha256 = "0vzk0ccb7czzmg4a5mm9klqddjxd2xhs5nvac3kdiyx5cb556jzx";
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/2cffefae151ac216c8eff81d1074c714214687e1/MIDI%20Editor/X-Raym_Select-Unselect%20all%20MIDI%20notes%20with%20same%20pitch%20left%20of%20the%20mouse.lua";
+          sha256 = "04hhxvsnwjq5csrz24nzlsjv39q1xgzwssv0isjp69f9b4llr7y2";
         }
       ];
     };
-    x-raym-select-unselect-all-midi-notes-with-same-pitch-right-of-the-mouse-eel-1-0 = mkReapackPackage {
+    x-raym-select-unselect-all-midi-notes-with-same-pitch-right-of-the-mouse-lua-2-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "x-raym-select-unselect-all-midi-notes-with-same-pitch-right-of-the-mouse-eel-1-0";
+      name = "x-raym-select-unselect-all-midi-notes-with-same-pitch-right-of-the-mouse-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "MIDI Editor";
       packageType = "script";
       sources = [
         {
           path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/MIDI%20Editor/X-Raym_Select-Unselect%20all%20MIDI%20notes%20with%20same%20pitch%20right%20of%20the%20mouse.eel";
-          sha256 = "1xcxrdhax6hasjhss1xnj0zaz7wrq75sddlmp7r93svnxi8bjw4l";
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/2cffefae151ac216c8eff81d1074c714214687e1/MIDI%20Editor/X-Raym_Select-Unselect%20all%20MIDI%20notes%20with%20same%20pitch%20right%20of%20the%20mouse.lua";
+          sha256 = "1apzramjv1zr9hs4kqpr91w3c78n271kc5c61s6yqif7w0kk7pns";
         }
       ];
     };
@@ -9638,6 +9874,20 @@
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/68cba602baa81f474e535bf2e36bd73a497284b2/MIDI%20Editor/X-Raym_Shift%20MIDI%20lyrics%20events%20message%20after%20edit%20cursor%20to%20one%20event%20on%20the%20right.lua";
           sha256 = "0qy94piic95j8rcqff25r6bypmfr0wms2h641ak0hvdcc2lzf4rp";
+        }
+      ];
+    };
+    x-raym-snap-edit-cursor-to-closest-midi-editor-grid-line-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-snap-edit-cursor-to-closest-midi-editor-grid-line-lua-1-0";
+      indexName = "X-Raym Scripts";
+      categoryName = "MIDI Editor";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fc6f12a0b2d25e900b6176f5c662373ef5719b39/MIDI%20Editor/X-Raym_Snap%20edit%20cursor%20to%20closest%20MIDI%20editor%20grid%20line.lua";
+          sha256 = "18y9cfrli0yrhf7vwgji43m5ciys5cfvwl65xh3b8wdm8gx5i4rq";
         }
       ];
     };
@@ -9750,6 +10000,34 @@
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/b91497047d10dcc2f3b51265f38a2a85a4be82c1/Project/X-Raym_Open%20most%20recent%20project.lua";
           sha256 = "0q9nim2z7dskwqc3h5vlrxg57ddni9ii5vrc8vr7pjw8yl28rlhf";
+        }
+      ];
+    };
+    x-raym-save-all-open-project-tabs-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-save-all-open-project-tabs-lua-1-0";
+      indexName = "X-Raym Scripts";
+      categoryName = "Project";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/edc3ea7566f66a00f5f152b9cccd55d6acb648a5/Project/X-Raym_Save%20all%20open%20project%20tabs.lua";
+          sha256 = "0j8w2inczgj18bl8jfizbkh56nvgx8ghcq9m37sr1ddrglsbxx31";
+        }
+      ];
+    };
+    x-raym-save-all-open-project-tabs-lua-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-save-all-open-project-tabs-lua-1-0-1";
+      indexName = "X-Raym Scripts";
+      categoryName = "Project";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69f87ac77ef38871823be9125f7970106be16634/Project/X-Raym_Save%20all%20open%20project%20tabs.lua";
+          sha256 = "0239yxgsq0cxjkfy34ybiabnza0rsynhf2095bga5ds07cfcdgkv";
         }
       ];
     };
@@ -10800,34 +11078,6 @@
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Regions/X-Raym_Set%20closest%20edge%20of%20closest%20region%20to%20edit%20cursor.lua";
           sha256 = "108c9l2g47v077z8js813pxlarzrb6rs414pzvxz5cbxhp0g54hg";
-        }
-      ];
-    };
-    x-raym-snap-all-markers-to-grid-eel-1-0 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "x-raym-snap-all-markers-to-grid-eel-1-0";
-      indexName = "X-Raym Scripts";
-      categoryName = "Regions";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Regions/X-Raym_Snap%20all%20markers%20to%20grid.eel";
-          sha256 = "0y7qmzw4hcdd9d98z7zl390p5qcba00m50l5dym1xqsk9prc4ngf";
-        }
-      ];
-    };
-    x-raym-snap-all-regions-to-grid-eel-1-1 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "x-raym-snap-all-regions-to-grid-eel-1-1";
-      indexName = "X-Raym Scripts";
-      categoryName = "Regions";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Regions/X-Raym_Snap%20all%20regions%20to%20grid.eel";
-          sha256 = "0l802565r8wgq2zzbd5rpwvcnzflpy6imp0mh1kicwhxfl4cr6i4";
         }
       ];
     };
@@ -12349,143 +12599,31 @@
         }
       ];
     };
-    heda-x-raym-export-selection-as-srt-subtitles-with-offset-and-color-lua-1-4 = mkReapackPackage {
+    x-raym-export-items-notes-from-tracks-or-items-selection-as-srt-subtitles-file-lua-2-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-and-color-lua-1-4";
+      name = "x-raym-export-items-notes-from-tracks-or-items-selection-as-srt-subtitles-file-lua-2-0";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Subtitles";
       packageType = "script";
       sources = [
         {
           path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/90a6ba3959bca8dc2685f07dda82d98f68217d16/Text%20Items%20and%20Item%20Notes/Subtitles/HeDa_X-Raym_Export%20selection%20as%20SRT%20subtitles%20with%20offset%20and%20color.lua";
-          sha256 = "13v5nvs44l71yza36ac37c2zrlzw15xv1x3j5yj8k1wk4bv3aly6";
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/58fd5e25efd34621ae24a3736f737bc7078fe55a/Text%20Items%20and%20Item%20Notes/Subtitles/X-Raym_Export%20items%20notes%20from%20tracks%20or%20items%20selection%20as%20SRT%20subtitles%20file.lua";
+          sha256 = "03nmff4rivcqd0vhmnq5lcrm9766xgkm55d7wnkyix3k7vjli2w6";
         }
       ];
     };
-    heda-x-raym-export-selection-as-srt-subtitles-with-offset-and-color-lua-1-4-1 = mkReapackPackage {
+    x-raym-export-items-notes-from-tracks-or-items-selection-as-srt-subtitles-file-lua-2-1 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-and-color-lua-1-4-1";
+      name = "x-raym-export-items-notes-from-tracks-or-items-selection-as-srt-subtitles-file-lua-2-1";
       indexName = "X-Raym Scripts";
       categoryName = "Text Items and Item Notes/Subtitles";
       packageType = "script";
       sources = [
         {
           path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/b06e1da36f911affb6d62867d572ea142ac0dec9/Text%20Items%20and%20Item%20Notes/Subtitles/HeDa_X-Raym_Export%20selection%20as%20SRT%20subtitles%20with%20offset%20and%20color.lua";
-          sha256 = "1vkimn5gw3hsj3bdr2kmbw86d14yn5i64cfvyl6l1a6v5y9qgbra";
-        }
-      ];
-    };
-    heda-x-raym-export-selection-as-srt-subtitles-with-offset-and-color-lua-1-4-2 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-and-color-lua-1-4-2";
-      indexName = "X-Raym Scripts";
-      categoryName = "Text Items and Item Notes/Subtitles";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/964740fc3aab427b6d16790357f1d77f27fb062b/Text%20Items%20and%20Item%20Notes/Subtitles/HeDa_X-Raym_Export%20selection%20as%20SRT%20subtitles%20with%20offset%20and%20color.lua";
-          sha256 = "0gymz2b897xx7ca1kjhp7whzzyxqdn10r3q82ycjk0cnqwagqzp4";
-        }
-      ];
-    };
-    heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-0-6-beta = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-0-6-beta";
-      indexName = "X-Raym Scripts";
-      categoryName = "Text Items and Item Notes/Subtitles";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/55cc67f7a0593562235736fbb03aa2f3a8e9e398/Text%20Items%20and%20Item%20Notes/Subtitles/HeDa_X-Raym_Export%20selection%20as%20SRT%20subtitles%20with%20offset.lua";
-          sha256 = "0yc1x4j1hn25pxlnyf7hw35x734dvs3c7pbws128kvca08rkv9lb";
-        }
-      ];
-    };
-    heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-0 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-0";
-      indexName = "X-Raym Scripts";
-      categoryName = "Text Items and Item Notes/Subtitles";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/2a42303362aadeb4b5c89f36e6fc1780854b32a2/Text%20Items%20and%20Item%20Notes/Subtitles/HeDa_X-Raym_Export%20selection%20as%20SRT%20subtitles%20with%20offset.lua";
-          sha256 = "0a5hq7khy2n7pqnnm6saiw0ld07snf32ch86r9wga2y08xybb7w8";
-        }
-      ];
-    };
-    heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-4-1 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-4-1";
-      indexName = "X-Raym Scripts";
-      categoryName = "Text Items and Item Notes/Subtitles";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/b06e1da36f911affb6d62867d572ea142ac0dec9/Text%20Items%20and%20Item%20Notes/Subtitles/HeDa_X-Raym_Export%20selection%20as%20SRT%20subtitles%20with%20offset.lua";
-          sha256 = "0qd23gfx512vii96p6n673yd5lp5w3w9iinlz0rz4nyyhj47l6vm";
-        }
-      ];
-    };
-    heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-4-2 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-4-2";
-      indexName = "X-Raym Scripts";
-      categoryName = "Text Items and Item Notes/Subtitles";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/213ca697ad874f46f3153bd26ab57a0fab2b96c0/Text%20Items%20and%20Item%20Notes/Subtitles/HeDa_X-Raym_Export%20selection%20as%20SRT%20subtitles%20with%20offset.lua";
-          sha256 = "14i2gsmxc9aqwibhd7ad6wl04yhnziy14iizjnl566y3fvdk49j0";
-        }
-      ];
-    };
-    heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-4-3 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-4-3";
-      indexName = "X-Raym Scripts";
-      categoryName = "Text Items and Item Notes/Subtitles";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/f590c71357094786d1fc19bbb5a0feb835a1a526/Text%20Items%20and%20Item%20Notes/Subtitles/HeDa_X-Raym_Export%20selection%20as%20SRT%20subtitles%20with%20offset.lua";
-          sha256 = "106bnf57l37aj5mh143jc0r95bf7cp0i1hzqiwnvbasgga7kvkpz";
-        }
-      ];
-    };
-    heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-5-1 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-5-1";
-      indexName = "X-Raym Scripts";
-      categoryName = "Text Items and Item Notes/Subtitles";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/2a4eaf1ba24b2e5807ad775e15994d1a17f4b07a/Text%20Items%20and%20Item%20Notes/Subtitles/HeDa_X-Raym_Export%20selection%20as%20SRT%20subtitles%20with%20offset.lua";
-          sha256 = "0r90x5ic84izc1q8s0f0v1m989f8qhvcl1p3rb3d9d3qf2hb2kvv";
-        }
-      ];
-    };
-    heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-5-2 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "heda-x-raym-export-selection-as-srt-subtitles-with-offset-lua-1-5-2";
-      indexName = "X-Raym Scripts";
-      categoryName = "Text Items and Item Notes/Subtitles";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/238c27e57d541063b98379908f98a314ab083b50/Text%20Items%20and%20Item%20Notes/Subtitles/HeDa_X-Raym_Export%20selection%20as%20SRT%20subtitles%20with%20offset.lua";
-          sha256 = "0ba671gi1xvxbf47y5k8pgr5qy2n1q93w5j9c0zy66ajvp38mxki";
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/2034e0eb6e0e256e082089074042627f13330091/Text%20Items%20and%20Item%20Notes/Subtitles/X-Raym_Export%20items%20notes%20from%20tracks%20or%20items%20selection%20as%20SRT%20subtitles%20file.lua";
+          sha256 = "163q1cc7a4bkcdpp0x4y0sj58zv2vg82n99br1dl8nfndflwiry3";
         }
       ];
     };
@@ -15277,6 +15415,20 @@
         }
       ];
     };
+    x-raym-double-click-over-item-action-with-zoom-to-content-if-midi-take-lua-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-double-click-over-item-action-with-zoom-to-content-if-midi-take-lua-1-0-1";
+      indexName = "X-Raym Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/14fe454e2057a86c299df89c8b0e449c59bed9e9/Various/X-Raym_Double%20click%20over%20item%20action%20with%20zoom%20to%20content%20if%20MIDI%20take.lua";
+          sha256 = "0r4wif4w7d7z407dygv85j5hr9fzzirkanfcfhiqkc8jxrn46k2z";
+        }
+      ];
+    };
     x-raym-duplicate-lines-in-clipboard-content-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-duplicate-lines-in-clipboard-content-lua-1-0";
@@ -16316,6 +16468,20 @@
         }
       ];
     };
+    x-raym-set-sws-global-startup-action-extstate-value-to-off-lua-1-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-set-sws-global-startup-action-extstate-value-to-off-lua-1-1";
+      indexName = "X-Raym Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/c03c1dc130490ff3b58c3e7efe900464fe078f8c/Various/X-Raym_Set%20SWS%20global%20startup%20action%20extstate%20value%20to%20Off.lua";
+          sha256 = "0yglg34sphq7ihclm02bg1awdmrgn2w2qy02b2sq8w0i24bba358";
+        }
+      ];
+    };
     x-raym-set-sws-global-startup-action-extstate-value-to-on-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-set-sws-global-startup-action-extstate-value-to-on-lua-1-0";
@@ -16327,6 +16493,20 @@
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Various/X-Raym_Set%20SWS%20global%20startup%20action%20extstate%20value%20to%20On.lua";
           sha256 = "14s8q8ymicg0fypxjl57bqkpp9c93w11xfp2qqv3hiwzlzx073a1";
+        }
+      ];
+    };
+    x-raym-set-sws-global-startup-action-extstate-value-to-on-lua-1-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-set-sws-global-startup-action-extstate-value-to-on-lua-1-1";
+      indexName = "X-Raym Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/c03c1dc130490ff3b58c3e7efe900464fe078f8c/Various/X-Raym_Set%20SWS%20global%20startup%20action%20extstate%20value%20to%20On.lua";
+          sha256 = "1f12m8vvvldhcnfvlxbbscrzzl8h88dlg6ypmq9dw0gg5q07zf5v";
         }
       ];
     };
@@ -16556,6 +16736,34 @@
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Various/X-Raym_Toggle%20Sonarworks%20SoundID%20monitor%20FX%20instance%20Calibration%20state.lua";
           sha256 = "1bvgsb2h4164rh29argc6xbpcy68qiwczviw5dbvxzmn3m0vdn4r";
+        }
+      ];
+    };
+    x-raym-toggle-sonarworks-soundid-monitor-fx-instance-calibration-state-lua-1-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-toggle-sonarworks-soundid-monitor-fx-instance-calibration-state-lua-1-2";
+      indexName = "X-Raym Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/c03c1dc130490ff3b58c3e7efe900464fe078f8c/Various/X-Raym_Toggle%20Sonarworks%20SoundID%20monitor%20FX%20instance%20Calibration%20state.lua";
+          sha256 = "0hdnz1yj27k2b359jwg8qg51w18gwya30adw2dkbr2aw6hb5x1sv";
+        }
+      ];
+    };
+    x-raym-toggle-sonarworks-soundid-monitor-fx-instance-speakers-and-headphones-presets-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-toggle-sonarworks-soundid-monitor-fx-instance-speakers-and-headphones-presets-lua-1-0";
+      indexName = "X-Raym Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/ce5ddb8e2ad1477cb42a893e13bff72036107261/Various/X-Raym_Toggle%20Sonarworks%20SoundID%20monitor%20FX%20instance%20Speakers%20and%20Headphones%20presets.lua";
+          sha256 = "118bvpaxmf5hv3d3cghsdmc6yr0s6m9ga4fvnkliivxqmz2syqw1";
         }
       ];
     };

@@ -551,6 +551,288 @@
         }
       ];
     };
+    realearn-x64-2-16-14 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "realearn-x64-2-16-14";
+      indexName = "Helgoboss Projects";
+      categoryName = "Extensions";
+      packageType = "extension";
+      sources = [
+        {
+          path = ''FX/helgobox-x64.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.14/helgobox-windows-x86_64.dll";
+          sha256 = "1r2qrr8izqlc9s7xzd5cdqdpgif9w7ric27sddg0g06cfx8wwpc7";
+        }
+        {
+          path = ''FX/helgobox-x64.vst.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.14/helgobox-macos-x86_64.vst.dylib";
+          sha256 = "132lcpb0wasdlzvj6ss1pkwb64p23y061l1qika33di8r2rb19rk";
+        }
+        {
+          path = ''FX/helgobox-x64.so'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.14/helgobox-linux-x86_64.so";
+          sha256 = "0zzwhd05r0cpghnpbsdmvcm2gs2g2cdya5s1fszkfg8sl67x582k";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.14/realearn-user-guide.pdf";
+          sha256 = "11ln42pccpfppsx07cnykw4r888famcdylinkfx3y53n6272fllf";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.14/realearn-user-guide.pdf";
+          sha256 = "11ln42pccpfppsx07cnykw4r888famcdylinkfx3y53n6272fllf";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.14/realearn-user-guide.pdf";
+          sha256 = "11ln42pccpfppsx07cnykw4r888famcdylinkfx3y53n6272fllf";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.14/realearn-user-guide.pdf";
+          sha256 = "11ln42pccpfppsx07cnykw4r888famcdylinkfx3y53n6272fllf";
+        }
+        {
+          path = ''FX/helgobox-arm64.vst.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.14/helgobox-macos-aarch64.vst.dylib";
+          sha256 = "1zbccwvlznghn3kd1xbdyz91x0zr38wz4vkmmi3w7idxcg5jvp8y";
+        }
+        {
+          path = ''reaper_helgobox-arm64.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.14/reaper_helgobox-macos-aarch64.dylib";
+          sha256 = "07i82yxdxkr08anf28hlzypap7bi53ppkhmpf55gr40gmg4lky7f";
+        }
+        {
+          path = ''reaper_helgobox-x64.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.14/reaper_helgobox-macos-x86_64.dylib";
+          sha256 = "0qq7c58b8hi2qh02z89sx84i8rhlxbripv6pbb3bb67daxv7c86i";
+        }
+        {
+          path = ''reaper_helgobox-x64.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.14/reaper_helgobox-windows-x86_64.dll";
+          sha256 = "1vbv4xa2p4crwym03z1wvh5883sgmjh0izpihcpw92935m9405qy";
+        }
+        {
+          path = ''helgoboss/archives/helgobox-app.tar.zst'';
+          url = "https://github.com/helgoboss/helgobox-app-dist/releases/download/v0.16.0/helgobox-app-windows.tar.zst";
+          sha256 = "0vkh1hcwbch1gwqi7afdbp9i9skclpyqwm54470p9q692bvfas0f";
+        }
+        {
+          path = ''helgoboss/archives/helgobox-app.tar.zst'';
+          url = "https://github.com/helgoboss/helgobox-app-dist/releases/download/v0.16.0/helgobox-app-macos.tar.zst";
+          sha256 = "1sgzzdmfn8crxcds8cg232mnll9z2dykc0dwapa2ncffz2jj5zxj";
+        }
+        {
+          path = ''helgoboss/archives/helgobox-app.tar.zst'';
+          url = "https://github.com/helgoboss/helgobox-app-dist/releases/download/v0.16.0/helgobox-app-macos.tar.zst";
+          sha256 = "1sgzzdmfn8crxcds8cg232mnll9z2dykc0dwapa2ncffz2jj5zxj";
+        }
+        {
+          path = ''toolbar_icons/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
+        }
+        {
+          path = ''toolbar_icons/150/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
+        }
+        {
+          path = ''toolbar_icons/200/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
+        }
+      ];
+    };
+    realearn-x64-2-16-13 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "realearn-x64-2-16-13";
+      indexName = "Helgoboss Projects";
+      categoryName = "Extensions";
+      packageType = "extension";
+      sources = [
+        {
+          path = ''FX/helgobox-x64.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.13/helgobox-windows-x86_64.dll";
+          sha256 = "0h9nhr1vb35j4i4jx0wrnywmz8i5lngh2wggb1qj5a7sgzzkv17s";
+        }
+        {
+          path = ''FX/helgobox-x64.vst.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.13/helgobox-macos-x86_64.vst.dylib";
+          sha256 = "0wj5wx1d4mkfawbk93kzjs7arkywrb1p9b8kspvr6d1phwfz9xf9";
+        }
+        {
+          path = ''FX/helgobox-x64.so'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.13/helgobox-linux-x86_64.so";
+          sha256 = "13cnya43qa3rpkklaymi1g7q0p5g6mckkwzbsas6gl9sajfdlxfh";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.13/realearn-user-guide.pdf";
+          sha256 = "0w6rggvjbg1hd7nfn4xn4xvjw0xk505p4mfjmf031xd4mdqs4wgi";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.13/realearn-user-guide.pdf";
+          sha256 = "0w6rggvjbg1hd7nfn4xn4xvjw0xk505p4mfjmf031xd4mdqs4wgi";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.13/realearn-user-guide.pdf";
+          sha256 = "0w6rggvjbg1hd7nfn4xn4xvjw0xk505p4mfjmf031xd4mdqs4wgi";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.13/realearn-user-guide.pdf";
+          sha256 = "0w6rggvjbg1hd7nfn4xn4xvjw0xk505p4mfjmf031xd4mdqs4wgi";
+        }
+        {
+          path = ''FX/helgobox-arm64.vst.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.13/helgobox-macos-aarch64.vst.dylib";
+          sha256 = "00g8721xz0hcxq04shdjzrmpx85lmdxmc5892nlh2yc7dh0m1knk";
+        }
+        {
+          path = ''reaper_helgobox-arm64.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.13/reaper_helgobox-macos-aarch64.dylib";
+          sha256 = "1vi60d59yfsblvv19gf6n6jvbjxklz5m2qs53lcax6gvdb23smqy";
+        }
+        {
+          path = ''reaper_helgobox-x64.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.13/reaper_helgobox-macos-x86_64.dylib";
+          sha256 = "0nvn4a36gnv3k14lmk3jrhqycnvv4a3j8mxn4i1nmjiyxarbx3xx";
+        }
+        {
+          path = ''reaper_helgobox-x64.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.13/reaper_helgobox-windows-x86_64.dll";
+          sha256 = "1ka8vjlzy2mdlv71gk4pc4230c1q0b297lj9z26wp86jwadw9w05";
+        }
+        {
+          path = ''helgoboss/archives/helgobox-app.tar.zst'';
+          url = "https://github.com/helgoboss/helgobox-app-dist/releases/download/v0.16.0/helgobox-app-windows.tar.zst";
+          sha256 = "0vkh1hcwbch1gwqi7afdbp9i9skclpyqwm54470p9q692bvfas0f";
+        }
+        {
+          path = ''helgoboss/archives/helgobox-app.tar.zst'';
+          url = "https://github.com/helgoboss/helgobox-app-dist/releases/download/v0.16.0/helgobox-app-macos.tar.zst";
+          sha256 = "1sgzzdmfn8crxcds8cg232mnll9z2dykc0dwapa2ncffz2jj5zxj";
+        }
+        {
+          path = ''helgoboss/archives/helgobox-app.tar.zst'';
+          url = "https://github.com/helgoboss/helgobox-app-dist/releases/download/v0.16.0/helgobox-app-macos.tar.zst";
+          sha256 = "1sgzzdmfn8crxcds8cg232mnll9z2dykc0dwapa2ncffz2jj5zxj";
+        }
+        {
+          path = ''toolbar_icons/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
+        }
+        {
+          path = ''toolbar_icons/150/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
+        }
+        {
+          path = ''toolbar_icons/200/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
+        }
+      ];
+    };
+    realearn-x64-2-16-12 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "realearn-x64-2-16-12";
+      indexName = "Helgoboss Projects";
+      categoryName = "Extensions";
+      packageType = "extension";
+      sources = [
+        {
+          path = ''FX/helgobox-x64.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.12/helgobox-windows-x86_64.dll";
+          sha256 = "0gx37jygxjk9djwafk279p5gkp91v72wvdywhrcs1w3y2rz40gri";
+        }
+        {
+          path = ''FX/helgobox-x64.vst.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.12/helgobox-macos-x86_64.vst.dylib";
+          sha256 = "1ay5q5m67fima70m3qfnxa2y0w1nn6fzm130zyrb4z2rg6y0s40d";
+        }
+        {
+          path = ''FX/helgobox-x64.so'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.12/helgobox-linux-x86_64.so";
+          sha256 = "0n97jg5adn8h73nqvgr4lry0ix79r5vc9g6qc09b1h9s9cihds8p";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.12/realearn-user-guide.pdf";
+          sha256 = "0gvkjnq2p48gq4hz7xb81z6r369mkr8w1n0r9q0mqjr4yrrniw49";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.12/realearn-user-guide.pdf";
+          sha256 = "0gvkjnq2p48gq4hz7xb81z6r369mkr8w1n0r9q0mqjr4yrrniw49";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.12/realearn-user-guide.pdf";
+          sha256 = "0gvkjnq2p48gq4hz7xb81z6r369mkr8w1n0r9q0mqjr4yrrniw49";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.12/realearn-user-guide.pdf";
+          sha256 = "0gvkjnq2p48gq4hz7xb81z6r369mkr8w1n0r9q0mqjr4yrrniw49";
+        }
+        {
+          path = ''FX/helgobox-arm64.vst.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.12/helgobox-macos-aarch64.vst.dylib";
+          sha256 = "1384whg0dppxx2f3sjsg8m5m1625p2yw3p4zf2zh1pvcv2vlzf3h";
+        }
+        {
+          path = ''reaper_helgobox-arm64.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.12/reaper_helgobox-macos-aarch64.dylib";
+          sha256 = "1vi60d59yfsblvv19gf6n6jvbjxklz5m2qs53lcax6gvdb23smqy";
+        }
+        {
+          path = ''reaper_helgobox-x64.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.12/reaper_helgobox-macos-x86_64.dylib";
+          sha256 = "0nvn4a36gnv3k14lmk3jrhqycnvv4a3j8mxn4i1nmjiyxarbx3xx";
+        }
+        {
+          path = ''reaper_helgobox-x64.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.12/reaper_helgobox-windows-x86_64.dll";
+          sha256 = "03835hpwwvlfxq25kc8x0fz1lsjza3vixcrims4qshrjk9fkbc7d";
+        }
+        {
+          path = ''helgoboss/archives/helgobox-app.tar.zst'';
+          url = "https://github.com/helgoboss/helgobox-app-dist/releases/download/v0.16.0/helgobox-app-windows.tar.zst";
+          sha256 = "0vkh1hcwbch1gwqi7afdbp9i9skclpyqwm54470p9q692bvfas0f";
+        }
+        {
+          path = ''helgoboss/archives/helgobox-app.tar.zst'';
+          url = "https://github.com/helgoboss/helgobox-app-dist/releases/download/v0.16.0/helgobox-app-macos.tar.zst";
+          sha256 = "1sgzzdmfn8crxcds8cg232mnll9z2dykc0dwapa2ncffz2jj5zxj";
+        }
+        {
+          path = ''helgoboss/archives/helgobox-app.tar.zst'';
+          url = "https://github.com/helgoboss/helgobox-app-dist/releases/download/v0.16.0/helgobox-app-macos.tar.zst";
+          sha256 = "1sgzzdmfn8crxcds8cg232mnll9z2dykc0dwapa2ncffz2jj5zxj";
+        }
+        {
+          path = ''toolbar_icons/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
+        }
+        {
+          path = ''toolbar_icons/150/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
+        }
+        {
+          path = ''toolbar_icons/200/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
+        }
+      ];
+    };
     realearn-x64-2-16-11 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-11";
@@ -8002,6 +8284,123 @@
           path = ''FX/ReaLearn-x64.so'';
           url = "https://github.com/helgoboss/helgobox/releases/download/v1.10.0-pre2/realearn-linux-x86_64.so";
           sha256 = "0fgdxswk7szidri4lwch0gp57vwvr99h5h2c8xic3hxkhkw6g9mi";
+        }
+      ];
+    };
+    realearn-x86-2-16-14 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "realearn-x86-2-16-14";
+      indexName = "Helgoboss Projects";
+      categoryName = "Extensions";
+      packageType = "extension";
+      sources = [
+        {
+          path = ''FX/helgobox-x86.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.14/helgobox-windows-i686.dll";
+          sha256 = "052xydc2p4w6gqv0fv9c1agmijd81awacsw1cl3p767a1ny4i70p";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.14/realearn-user-guide.pdf";
+          sha256 = "11ln42pccpfppsx07cnykw4r888famcdylinkfx3y53n6272fllf";
+        }
+        {
+          path = ''reaper_helgobox-x86.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.14/reaper_helgobox-windows-i686.dll";
+          sha256 = "03idlm544iwxbkyqfl2n0lyw11ayy5na8py705rgz6hlk55gpfz7";
+        }
+        {
+          path = ''toolbar_icons/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
+        }
+        {
+          path = ''toolbar_icons/150/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
+        }
+        {
+          path = ''toolbar_icons/200/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
+        }
+      ];
+    };
+    realearn-x86-2-16-13 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "realearn-x86-2-16-13";
+      indexName = "Helgoboss Projects";
+      categoryName = "Extensions";
+      packageType = "extension";
+      sources = [
+        {
+          path = ''FX/helgobox-x86.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.13/helgobox-windows-i686.dll";
+          sha256 = "0bpnl4q5wsw7mbmcbrsa33518k6gpqb61d41nwycg959bgrhirsp";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.13/realearn-user-guide.pdf";
+          sha256 = "0w6rggvjbg1hd7nfn4xn4xvjw0xk505p4mfjmf031xd4mdqs4wgi";
+        }
+        {
+          path = ''reaper_helgobox-x86.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.13/reaper_helgobox-windows-i686.dll";
+          sha256 = "035zwkwvydsfyllmwifg09wbghd5bmwv20ix3q3svh5mq99cnnb3";
+        }
+        {
+          path = ''toolbar_icons/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
+        }
+        {
+          path = ''toolbar_icons/150/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
+        }
+        {
+          path = ''toolbar_icons/200/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
+        }
+      ];
+    };
+    realearn-x86-2-16-12 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "realearn-x86-2-16-12";
+      indexName = "Helgoboss Projects";
+      categoryName = "Extensions";
+      packageType = "extension";
+      sources = [
+        {
+          path = ''FX/helgobox-x86.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.12/helgobox-windows-i686.dll";
+          sha256 = "0i0wbnp1jyzs2f5yr9qxx9gwfs1cx0zjkspdaj17bnzp483dmkpv";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.12/realearn-user-guide.pdf";
+          sha256 = "0gvkjnq2p48gq4hz7xb81z6r369mkr8w1n0r9q0mqjr4yrrniw49";
+        }
+        {
+          path = ''reaper_helgobox-x86.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.12/reaper_helgobox-windows-i686.dll";
+          sha256 = "02rxcli1zycr0qjc0g45k7jmyicpdir7kaf35sd7w5cyan9n09h5";
+        }
+        {
+          path = ''toolbar_icons/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
+        }
+        {
+          path = ''toolbar_icons/150/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
+        }
+        {
+          path = ''toolbar_icons/200/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
     };

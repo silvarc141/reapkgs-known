@@ -1045,6 +1045,44 @@
         }
       ];
     };
+    acendan-lua-utilities-lua-9-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "acendan-lua-utilities-lua-9-2";
+      indexName = "ACendan Scripts";
+      categoryName = "Development";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/acendan/reascripts/raw/28f5dcc0d0da219a9ee5ff675f0df84cb2d15b04/Development/acendan_Lua%20Utilities.lua";
+          sha256 = "09xvan5lna1bp5s90vrkbd9kqi3pq9z8a1l5sgxrfnb0mz3zbms3";
+        }
+        {
+          path = ''Lib/yaml.lua'';
+          url = "https://github.com/acendan/reascripts/raw/28f5dcc0d0da219a9ee5ff675f0df84cb2d15b04/Development/Lib/yaml.lua";
+          sha256 = "1c8lna4aysii5cj1g630mzqcj7xr3bi53w7qv5m2clphyqccfih5";
+        }
+      ];
+    };
+    acendan-lua-utilities-lua-9-21 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "acendan-lua-utilities-lua-9-21";
+      indexName = "ACendan Scripts";
+      categoryName = "Development";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/acendan/reascripts/raw/5310852e8252b182be93164254fb8e39f8039fbb/Development/acendan_Lua%20Utilities.lua";
+          sha256 = "1w50sm5vri49dii6pzzfm2rj023pd4y1s0cs95pss4hagp61r5m6";
+        }
+        {
+          path = ''Lib/yaml.lua'';
+          url = "https://github.com/acendan/reascripts/raw/5310852e8252b182be93164254fb8e39f8039fbb/Development/Lib/yaml.lua";
+          sha256 = "1c8lna4aysii5cj1g630mzqcj7xr3bi53w7qv5m2clphyqccfih5";
+        }
+      ];
+    };
     acendan-copy-selected-items-take-envelope-to-selected-automation-envelope-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "acendan-copy-selected-items-take-envelope-to-selected-automation-envelope-lua-1-0";
@@ -1111,7 +1149,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert automation items on all selected tracks envelopes in time selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/dc2f6cabfa12ed6537ce56a167f48b6955d0d570/Envelopes/acendan_Insert%20automation%20items%20on%20all%20selected%20tracks%20envelopes%20in%20time%20selection.lua";
           sha256 = "19xfb4rppzgm7fkw37pqfrylbnjskraq70zxpm4rcmwrfdvz9136";
         }
@@ -1475,7 +1513,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Clear glitchy stutter generator stored values.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/03a6a0377051f69592b47bf0e52f5b9cf56021c6/Items%20Editing/acendan_Clear%20glitchy%20stutter%20generator%20stored%20values.lua";
           sha256 = "14cjcjwsvmx9ghknyng1mhsk9zssmk64wsclm40zh1l6p27hx5wv";
         }
@@ -1489,7 +1527,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Clear glitchy stutter generator stored values.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/89841685ab4af6034596c8b781bccc2a6bd62cf8/Items%20Editing/acendan_Clear%20glitchy%20stutter%20generator%20stored%20values.lua";
           sha256 = "07qc66z46m7c9nlcmhybdy6zrbaf2wvg1zpv57g013qz0f27ay19";
         }
@@ -1517,7 +1555,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Copy selected items to selected track.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/20fd6416367c8a49210b8a38403f402b285a5caf/Items%20Editing/acendan_Copy%20selected%20items%20to%20selected%20track.lua";
           sha256 = "102078nnz11bz3jsm44ib2g1q31k9dsmzy5a0lqgc4nf4vhbbnvx";
         }
@@ -1531,7 +1569,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Copy selected items to selected track.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/3ce7c902c65bd13fe6ae9aa2e3f61094d984413d/Items%20Editing/acendan_Copy%20selected%20items%20to%20selected%20track.lua";
           sha256 = "06fq1f445c1jasrn55m61ilg6jxajzya31r6d9wi82x45b84fp1m";
         }
@@ -1545,7 +1583,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Copy selected items to track - prompt for track.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/a910eaa869694363366983b69acce73eed56f227/Items%20Editing/acendan_Copy%20selected%20items%20to%20track%20-%20prompt%20for%20track.lua";
           sha256 = "1h5sp6y20prxx6zy1w7qzlckr5xhjj8xda4czxfkgsga10xz4w22";
         }
@@ -1559,7 +1597,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Copy selected items to track - prompt for track.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/a00ad9a5d65bda0db0547de6ca2e1285518e5c53/Items%20Editing/acendan_Copy%20selected%20items%20to%20track%20-%20prompt%20for%20track.lua";
           sha256 = "0jsjq75b5yg9krq71fbkwl5x35c43lixkwd5lbqk6f72c4zm4yvz";
         }
@@ -1573,7 +1611,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Count number of selected items in media explorer.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/cafcbd7a6c92f9358b62f31aaadef9edc4561f51/Items%20Editing/acendan_Count%20number%20of%20selected%20items%20in%20media%20explorer.lua";
           sha256 = "1khzm642lzg52djcdafxbrngw1ir7k9rhq1vybdaqx39sinhzd01";
         }
@@ -1951,7 +1989,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Mousewheel adjust pitch of item under cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/0a93d224eda37028f8a21d5e6068f6c598faf02a/Items%20Editing/acendan_Mousewheel%20adjust%20pitch%20of%20item%20under%20cursor.lua";
           sha256 = "1qjw1ppq5h7739558asdr5icfj1q15kklka8jrzhjf9r68a6b5i5";
         }
@@ -1965,7 +2003,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Mousewheel adjust pitch of item under cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/1ed66fe98f4986cf8930c9163dcd2f4372e58da5/Items%20Editing/acendan_Mousewheel%20adjust%20pitch%20of%20item%20under%20cursor.lua";
           sha256 = "1bazw1d3sjxqbzdvyyvp1hk3yn342lfy79bnjypk5h0jksfw581p";
         }
@@ -1979,7 +2017,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Mousewheel adjust source volume of item active take under cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/8f15713abb0ad29d1a69e1458ef73f9786d4cc10/Items%20Editing/acendan_Mousewheel%20adjust%20source%20volume%20of%20item%20active%20take%20under%20cursor.lua";
           sha256 = "137vwhpn3ziwjirrzrgy4wbgm2x7pirhfv8zvf9xf2f1indyk3v0";
         }
@@ -1993,7 +2031,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Mousewheel adjust source volume of item active take under cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/446ca000087293a6105d532f1df7e3080926229a/Items%20Editing/acendan_Mousewheel%20adjust%20source%20volume%20of%20item%20active%20take%20under%20cursor.lua";
           sha256 = "16gxkmn3fggn9wja6cnnpmmxyzrnbcxg5wzj5d8sfb1lmilbkm0l";
         }
@@ -2007,7 +2045,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Mousewheel adjust source volume of item active take under cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/ee8020bd3d57591a68f8b1d9a3dd3fa60578e0c7/Items%20Editing/acendan_Mousewheel%20adjust%20source%20volume%20of%20item%20active%20take%20under%20cursor.lua";
           sha256 = "1kqcdp6kj2a0ih3y88lwfaga6hvw4hcpnflbvb13w523d3y8vjm8";
         }
@@ -2035,7 +2073,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Mousewheel adjust volume of item under cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/0832f3c73d28e683872199f529a013dc1cb5ff27/Items%20Editing/acendan_Mousewheel%20adjust%20volume%20of%20item%20under%20cursor.lua";
           sha256 = "09b4fwm6qf20pv5v8szpnf8p44hir8lpmb94sld4qyki74ynj80m";
         }
@@ -2049,7 +2087,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Mousewheel adjust volume of item under cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/6e7799997010f2415a26be66e6731d11bd5c6ab7/Items%20Editing/acendan_Mousewheel%20adjust%20volume%20of%20item%20under%20cursor.lua";
           sha256 = "1x1c7qykv0sdifdfcc85n9a8zc0grb11fxqqadxmwwla0riawsw4";
         }
@@ -2063,7 +2101,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Mousewheel adjust volume of item under cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/20733c0d84e5871a56c3f12e62af1f65a6c1b1fc/Items%20Editing/acendan_Mousewheel%20adjust%20volume%20of%20item%20under%20cursor.lua";
           sha256 = "02dsav5i423xr4pmp460n8ncpd5aa4zkdyhakhnfkfi6x02fi30g";
         }
@@ -2077,7 +2115,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Mousewheel adjust volume of item under cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/446ca000087293a6105d532f1df7e3080926229a/Items%20Editing/acendan_Mousewheel%20adjust%20volume%20of%20item%20under%20cursor.lua";
           sha256 = "1jpnm9d9zm86dpz9fbnz8d801z2rjvwv0cxcq7l4638p7niqymf3";
         }
@@ -2091,7 +2129,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Mousewheel adjust volume of item under cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/ee8020bd3d57591a68f8b1d9a3dd3fa60578e0c7/Items%20Editing/acendan_Mousewheel%20adjust%20volume%20of%20item%20under%20cursor.lua";
           sha256 = "0vp3j7vm8f6ixbc9gslmxl619fn99pjhar02mli8xlvqx9z8a5xi";
         }
@@ -2119,7 +2157,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Mousewheel to change volume for all selected items.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/8fd7696050f550bf6b0e01d028c94b4f756af4e1/Items%20Editing/acendan_Mousewheel%20to%20change%20volume%20for%20all%20selected%20items.lua";
           sha256 = "1h3bm0z571bbdchv7427q9156rdp6rwhncz1g5pl5ncjh1isk2a8";
         }
@@ -2133,7 +2171,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Mousewheel to change volume for all selected items.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/0832f3c73d28e683872199f529a013dc1cb5ff27/Items%20Editing/acendan_Mousewheel%20to%20change%20volume%20for%20all%20selected%20items.lua";
           sha256 = "1rz7vh4lqqmds2yjqda9bb9h7gwhvva9syh3w121jynngb7nsmlg";
         }
@@ -2147,7 +2185,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Mousewheel to change volume for all selected items.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/20733c0d84e5871a56c3f12e62af1f65a6c1b1fc/Items%20Editing/acendan_Mousewheel%20to%20change%20volume%20for%20all%20selected%20items.lua";
           sha256 = "0v9dw208zcpd2z8n261xd7l9l2fxni0q6vmhis6d6g4rkb6jnij5";
         }
@@ -2189,7 +2227,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Mousewheel to zoom items peaks view gain.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/e16333f6a2f0ccb239f74f11333d9e822b768a93/Items%20Editing/acendan_Mousewheel%20to%20zoom%20items%20peaks%20view%20gain.lua";
           sha256 = "1fa4ls7b92ia1z37v681s26rv7d8i7a5g1m2yznbw7jr4alh1czs";
         }
@@ -2203,7 +2241,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_mpl_Search items.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/907e6676a52a125fbefe592a1721022d41d5e819/Items%20Editing/acendan_mpl_Search%20items.lua";
           sha256 = "1hbn6m49kdp37j8q1y3sx8cyvximwscfhjsq3r7c9gzjrhahkxmy";
         }
@@ -2315,7 +2353,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Random glitchy stutter generator.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/89841685ab4af6034596c8b781bccc2a6bd62cf8/Items%20Editing/acendan_Random%20glitchy%20stutter%20generator.lua";
           sha256 = "10yc2wgh88hdlwmmqc0b80c9031cc1i6hzx6qy81bp0ppag01gz6";
         }
@@ -2329,7 +2367,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Reset item properties pitch adjustment and playback rate to default.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/30dcab3194ed4b826bb8a3c3453275c4f7a5c4d6/Items%20Editing/acendan_Reset%20item%20properties%20pitch%20adjustment%20and%20playback%20rate%20to%20default.lua";
           sha256 = "0hv6k4x7568ps28p62fs26ssq0fm41n2mh92gkzshd590xn8jidm";
         }
@@ -2343,7 +2381,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Restore stretch markers in selected items from named project markers.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/bfd24151b260ec9bb648accf06cf9438f367303a/Items%20Editing/acendan_Restore%20stretch%20markers%20in%20selected%20items%20from%20named%20project%20markers.lua";
           sha256 = "1brm8ij0zywri0s2x8326m3b7dns8mz6as9f2z7h4bc73dqp0cyj";
         }
@@ -2371,7 +2409,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Save stretch markers in selected items as named project markers.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/bfd24151b260ec9bb648accf06cf9438f367303a/Items%20Editing/acendan_Save%20stretch%20markers%20in%20selected%20items%20as%20named%20project%20markers.lua";
           sha256 = "1vs9a2zdccka88a25jcsdwqcwda6g2dnwchsi3gfpczsvrbrfg56";
         }
@@ -2568,7 +2606,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Shuffle Mode_Move all items left continuously background.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/c6bcc0ae897030571836a2f84a2c3c706cb1fad5/Items%20Editing/acendan_Shuffle%20Mode_Move%20all%20items%20left%20continuously%20background.lua";
           sha256 = "075rgcra510y6m9h12fpakqvdps2kbnk9rac5k25nwvgyxmp4ynw";
         }
@@ -2680,7 +2718,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Stretch selected items to fit between nearest markers.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/0dca44c846f64c71bec7ec2ddafebea5b218680e/Items%20Editing/acendan_Stretch%20selected%20items%20to%20fit%20between%20nearest%20markers.lua";
           sha256 = "0yn35qxpdkwq4paqnxnqn935pc9cdjiw2ki0f9frrip4gaihzv8p";
         }
@@ -2792,7 +2830,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Trim selected items at last zero crossing.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/1e3a8e8834fa3d2d1eb5ae9db776e50b333bf45f/Items%20Editing/acendan_Trim%20selected%20items%20at%20last%20zero%20crossing.lua";
           sha256 = "19zkxanhj0v7607n2iinyz733r6rw2qvxldbc21y6pibjp1frfbh";
         }
@@ -2834,7 +2872,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Add marker to end of project regions prompt for name.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/a65d79f15f3f0c9c1f66d1c2d1e7777d6a5f8a89/Markers/acendan_Add%20marker%20to%20end%20of%20project%20regions%20prompt%20for%20name.lua";
           sha256 = "0b2a388fqac5bljsb6gs8d6zqh468aamzznnhx85i90jkm72j3d4";
         }
@@ -2862,7 +2900,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Add marker to end of selected items prompt for name.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/a879efe22f49e6e795e8c90a4b80adb62f2f8ad3/Markers/acendan_Add%20marker%20to%20end%20of%20selected%20items%20prompt%20for%20name.lua";
           sha256 = "02rbqnsr7v0wf5bg1gzx61qg4zjlngbchn1ywakmpwv0s5wcjlz7";
         }
@@ -2876,7 +2914,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Add marker to end of selected items prompt for name.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/ef52d8a34fb5508ff73003163eca30cd325d557c/Markers/acendan_Add%20marker%20to%20end%20of%20selected%20items%20prompt%20for%20name.lua";
           sha256 = "160ak5z8pnd0iz6hj3sww3fb16d41yh8w308l1wqgayx5s2wkxaw";
         }
@@ -2946,7 +2984,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Export markers and regions for Izotope RX relative to items with shared take source.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/e716d196a5f6805ac43e41a70f1660cc11113cc4/Markers/acendan_Export%20markers%20and%20regions%20for%20Izotope%20RX%20relative%20to%20items%20with%20shared%20take%20source.lua";
           sha256 = "05a7q46gmh0dirj4598kypxfgxjy5rmlyzz018w08q3b54wc54wv";
         }
@@ -2960,7 +2998,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Export markers and regions for Izotope RX relative to items with shared take source.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/7144f01cb77cb049da0d72f972928481313309a0/Markers/acendan_Export%20markers%20and%20regions%20for%20Izotope%20RX%20relative%20to%20items%20with%20shared%20take%20source.lua";
           sha256 = "032w2293hi38f7a8amkm2y9wnxrsi2lyz24k41dk5jj1lhjz8fvv";
         }
@@ -3050,7 +3088,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert marker at start of selected items with item name.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/66ddf4f4a227b11d959bb57d5e4f22789143e35d/Markers/acendan_Insert%20marker%20at%20start%20of%20selected%20items%20with%20item%20name.lua";
           sha256 = "1pfxygb9diqqw2zzp66dg87j74nsbnw7ggfc2pqi9d9i5an6b0qg";
         }
@@ -3078,7 +3116,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert marker at start of selected items with sel item number.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/b1dca015a850f1d1ec5107e84c1ec8902cbe1d3b/Markers/acendan_Insert%20marker%20at%20start%20of%20selected%20items%20with%20sel%20item%20number.lua";
           sha256 = "17d4rzddq76nagw01ds058zk6jy23jix0ni0vv7pc5fq3gaqcnhv";
         }
@@ -3092,7 +3130,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert marker at start of selected items with sel item number.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/dc2f6cabfa12ed6537ce56a167f48b6955d0d570/Markers/acendan_Insert%20marker%20at%20start%20of%20selected%20items%20with%20sel%20item%20number.lua";
           sha256 = "0fshkzys69q952wm779wzkdwxcllammd81w11n0djysj282dgfwp";
         }
@@ -3106,7 +3144,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert marker at start of selected items with sel item number.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/8e5c5318c127c9f4b53edeb0adc8dd603cf9580b/Markers/acendan_Insert%20marker%20at%20start%20of%20selected%20items%20with%20sel%20item%20number.lua";
           sha256 = "0ajmppjsix8lk68mx11dbwga769fcax93xg91n6lx5ns4a1nsyh4";
         }
@@ -3162,7 +3200,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert markers at start or end of selected items prompt for name.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/1916eb573f9b8d40f249aeec3034c07922d948f5/Markers/acendan_Insert%20markers%20at%20start%20or%20end%20of%20selected%20items%20prompt%20for%20name.lua";
           sha256 = "0fcy9a9yh0dwjd1mg5w15xlslxdb2xg6hrpl7v1w3alpibz44844";
         }
@@ -3176,7 +3214,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert markers at start or end of selected items prompt for name.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/4eddcb407899b125207509835cc410b4b6c86012/Markers/acendan_Insert%20markers%20at%20start%20or%20end%20of%20selected%20items%20prompt%20for%20name.lua";
           sha256 = "1bnzy398rvlh5qj9c3giab2n98pd92gh0y36vj10ip47gr90v9w6";
         }
@@ -3190,7 +3228,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert markers every x seconds after edit cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/0ab68984d2e556d9f09b0426af35729259a4755b/Markers/acendan_Insert%20markers%20every%20x%20seconds%20after%20edit%20cursor.lua";
           sha256 = "1k8yx10rp25rr31l5dq262milqiqny5ymq0f7mcsmr6il8bwfahm";
         }
@@ -3204,7 +3242,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert markers every x seconds after edit cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/bcde063e1854e44aa7971f0384e80dea74363e8e/Markers/acendan_Insert%20markers%20every%20x%20seconds%20after%20edit%20cursor.lua";
           sha256 = "0vldd1hdwjhcrz4xk44qqfkbhlbyjmv0vk672kndbnic02vjr8ax";
         }
@@ -3218,7 +3256,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert markers every x seconds after edit cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/5656294db3bacd564f19a3b2cb7f4cdb889a568f/Markers/acendan_Insert%20markers%20every%20x%20seconds%20after%20edit%20cursor.lua";
           sha256 = "103wwf91g8lazrliqh2qs8jlclpfabwg5377gh0ysgc894aazrh6";
         }
@@ -3512,7 +3550,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Filter media explorer for selected media items source files.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/669050349b7a31b088e4eb936dc22c0222a30535/Media%20Explorer/acendan_Filter%20media%20explorer%20for%20selected%20media%20items%20source%20files.lua";
           sha256 = "0y86aw5cj7sr8xn3540x46cssf7mags5r764kvii05yzc1j9mhkl";
         }
@@ -3596,7 +3634,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Export project render metadata settings to file.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/b6d685e8b476b1b023b2af3d92ddae5e177f557f/Metadata/acendan_Export%20project%20render%20metadata%20settings%20to%20file.lua";
           sha256 = "14bh6cwha7f8jvmi96kxl847qs13djn6d4wjfa1djnnh9sv97k4j";
         }
@@ -3610,7 +3648,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Export project render metadata settings to file.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/81d6ac9f937df2e70beb9ef290fdbbadcd3b7acc/Metadata/acendan_Export%20project%20render%20metadata%20settings%20to%20file.lua";
           sha256 = "00npj6d34xa21755pzzb5mi5iscr74iylpcfazbjswnzk7zrc1y6";
         }
@@ -3638,7 +3676,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Import project render metadata settings from file.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/b6d685e8b476b1b023b2af3d92ddae5e177f557f/Metadata/acendan_Import%20project%20render%20metadata%20settings%20from%20file.lua";
           sha256 = "1hm2gnqwxs9ycv8hsbj51wn5k8ch64xdak02ganzzx83zy8x3zf7";
         }
@@ -3652,7 +3690,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Import project render metadata settings from file.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/81d6ac9f937df2e70beb9ef290fdbbadcd3b7acc/Metadata/acendan_Import%20project%20render%20metadata%20settings%20from%20file.lua";
           sha256 = "0ma99c8rp6r4p36a6ydb5aplkgqzhqfi4am9k9fgdzvnsb9gmr69";
         }
@@ -4290,7 +4328,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Snap edit cursor to nearest razor edit edge in first selected track.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/5f542d4638685af605df0d0a6078f7d3d99c4435/Razor%20Edits/acendan_Snap%20edit%20cursor%20to%20nearest%20razor%20edit%20edge%20in%20first%20selected%20track.lua";
           sha256 = "168qfyin5bq2l0j6kgfxakw21qjscqyvqnv84gnb9dljc162yc4x";
         }
@@ -4304,7 +4342,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Snap edit cursor to nearest razor edit edge in track under mouse.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/5f542d4638685af605df0d0a6078f7d3d99c4435/Razor%20Edits/acendan_Snap%20edit%20cursor%20to%20nearest%20razor%20edit%20edge%20in%20track%20under%20mouse.lua";
           sha256 = "1ckixpl1n99xcnyc7bfw8i4naid0wcsfrks9vlk57br7h8s9q70h";
         }
@@ -4318,7 +4356,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Add prefix or suffix to regions in time selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/6ee41d03a72e26f8fcea137aaf18741b7bb93822/Regions/acendan_Add%20prefix%20or%20suffix%20to%20regions%20in%20time%20selection.lua";
           sha256 = "0swz8cg752q118qqv1ivmw9fihcfgw544yz4fwi43jcx3hi3pw31";
         }
@@ -4332,7 +4370,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Add prefix or suffix to regions in time selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/8ffc828eb9412b5a9b3210c00025fde30292db1c/Regions/acendan_Add%20prefix%20or%20suffix%20to%20regions%20in%20time%20selection.lua";
           sha256 = "1hkvbwg4jkd7znamyq3y4874ccirsmsj6gvblkmp9gj52qjlzkif";
         }
@@ -4346,7 +4384,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Add prefix or suffix to regions in time selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/c36e9092929bb627d6edc19f16c26b77007cc760/Regions/acendan_Add%20prefix%20or%20suffix%20to%20regions%20in%20time%20selection.lua";
           sha256 = "1svxdpgbzvp8ksj3zz9zp1qy6183k48ppbjpkq3lmspn8qh7mmvq";
         }
@@ -4374,7 +4412,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create one region for all items on selected tracks.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/60d2df00c65a5b89f6cc4e72e93cb4a57ee1af3c/Regions/acendan_Create%20one%20region%20for%20all%20items%20on%20selected%20tracks.lua";
           sha256 = "1gzlbx37mp08l2cic3is5xl9ajz1cf2h54chxvnd81bgh6ygycjs";
         }
@@ -4402,7 +4440,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create one region for selected items across tracks and link to parent in RRM.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/facec6fa6d14ef570e8b2fb6e060e08693782c81/Regions/acendan_Create%20one%20region%20for%20selected%20items%20across%20tracks%20and%20link%20to%20parent%20in%20RRM.lua";
           sha256 = "0giac7fcfhji0qpzpigrxgs5rzw7zayzg6c91a5y0dw9j0bsh00l";
         }
@@ -4416,7 +4454,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create one region for selected items across tracks and link to parent in RRM.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/7844e3a6c28dc9f0138c38a9c69d25691709487c/Regions/acendan_Create%20one%20region%20for%20selected%20items%20across%20tracks%20and%20link%20to%20parent%20in%20RRM.lua";
           sha256 = "1jkpj54d269pffdcbp5b34gc16j1mdjp9zm4l0cggr3x6rf9v6h4";
         }
@@ -4430,7 +4468,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create one region for selected items across tracks and link to parent in RRM.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/fe13f9a35e424b2e2ce9103519a8fd608e8fcfd6/Regions/acendan_Create%20one%20region%20for%20selected%20items%20across%20tracks%20and%20link%20to%20parent%20in%20RRM.lua";
           sha256 = "1vbq2p9n0pg135bs2fw6ygff1260dmqd500nybfasn6xjvqsgafi";
         }
@@ -4444,7 +4482,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create one region for selected items across tracks and link to parent in RRM.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/4038e2537a6a3beffb3cd445f4041ac9f276155c/Regions/acendan_Create%20one%20region%20for%20selected%20items%20across%20tracks%20and%20link%20to%20parent%20in%20RRM.lua";
           sha256 = "1wr4hbvwg735dh9axp0vd4ava11lvchra5fai3rfdsv4q9f8l9ns";
         }
@@ -4626,7 +4664,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create unique regions for selected items and link to parent track in RRM.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/f9a5af098b087cfb90f31435eaffb7ab40a248c5/Regions/acendan_Create%20unique%20regions%20for%20selected%20items%20and%20link%20to%20parent%20track%20in%20RRM.lua";
           sha256 = "1jv2wmsvzdy98vz1nv32fjx2i235fcb1gvphpyzdwj4bl646kna1";
         }
@@ -4640,7 +4678,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create unique regions for selected items and link to parent track in RRM.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/fe13f9a35e424b2e2ce9103519a8fd608e8fcfd6/Regions/acendan_Create%20unique%20regions%20for%20selected%20items%20and%20link%20to%20parent%20track%20in%20RRM.lua";
           sha256 = "1zs42qrin6gffpvg8w32312ki9mgw9rsl6hkl7ba757gqyg5306k";
         }
@@ -4654,7 +4692,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create unique regions for selected items and link to parent track in RRM.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/4038e2537a6a3beffb3cd445f4041ac9f276155c/Regions/acendan_Create%20unique%20regions%20for%20selected%20items%20and%20link%20to%20parent%20track%20in%20RRM.lua";
           sha256 = "0vrps8zkp4irvs27gv1bvlcp24nbd0za871arzir7zf7gvi3q8is";
         }
@@ -4682,7 +4720,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create unique regions for selected items and link to track in RRM.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/7844e3a6c28dc9f0138c38a9c69d25691709487c/Regions/acendan_Create%20unique%20regions%20for%20selected%20items%20and%20link%20to%20track%20in%20RRM.lua";
           sha256 = "0bbk49ls7xvm06yf1mf89lfnhd27p5327svk087pb8z2a3278nzh";
         }
@@ -4710,7 +4748,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Enumerate selected regions in manager.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/a9c02deb8527860522f7e36e5549463764bdc300/Regions/acendan_Enumerate%20selected%20regions%20in%20manager.lua";
           sha256 = "18l3n8b14m3qwjv6i0hk41pmvbmwsy0wximfv09fx8m9clsj3s9f";
         }
@@ -4724,7 +4762,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Enumerate selected regions in manager.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/470bc32df485bd45baba650805cb568d467a4255/Regions/acendan_Enumerate%20selected%20regions%20in%20manager.lua";
           sha256 = "0al4hrsc3xkbywf1prcdh039sqbkqg6qb5a3yqk9cfy7bpkn3q8f";
         }
@@ -4780,7 +4818,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Extend all regions by length.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/291638678e222ae04beb781ac7a3c2b0d7aa49e1/Regions/acendan_Extend%20all%20regions%20by%20length.lua";
           sha256 = "1c8im7kpghxjkdyjdxhqlhh352afwbi0r3rfbwgsx55ax9qig2g8";
         }
@@ -4794,7 +4832,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Extend all regions left edge by length.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/751a4fc11a8f76d792f2d639cd19e45b461ef2ea/Regions/acendan_Extend%20all%20regions%20left%20edge%20by%20length.lua";
           sha256 = "0hsv8n3fn9r80wh4kqkpvhli5kxdqi4rkhalhim9b4yg6xnd5xyz";
         }
@@ -4808,7 +4846,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Extend regions in time selection by length.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/d8547f8ff0b8acad696c8110d64343d3ce0bca46/Regions/acendan_Extend%20regions%20in%20time%20selection%20by%20length.lua";
           sha256 = "1bc0974p7cq1xq0z9nfd65jw0dd46cp517xl64lvanfkhba73vzn";
         }
@@ -4822,7 +4860,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Extend regions in time selection left edge by length.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/2591d46fffd3e382afc605a5a29d6fc3fc099b94/Regions/acendan_Extend%20regions%20in%20time%20selection%20left%20edge%20by%20length.lua";
           sha256 = "1aj9gkqwp3wqzjzdc6xm6pxm9411smyi80gbsd52d27d276rza29";
         }
@@ -4836,7 +4874,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Extend regions in time selection left edge by length.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/7db6f5b1c68a1f46acf7c7e97287e7f6828481e0/Regions/acendan_Extend%20regions%20in%20time%20selection%20left%20edge%20by%20length.lua";
           sha256 = "1qvk7b6ghr23yyxgawz5cn1xjywg6bmx41rk4hhwm6jm96l6qar5";
         }
@@ -4934,7 +4972,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Set nearest regions edges to selected media items.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/91206f25b592bfff4d80cc8f51b2aeeb8fbd5685/Regions/acendan_Set%20nearest%20regions%20edges%20to%20selected%20media%20items.lua";
           sha256 = "01bsfglvgfrhm2nq0ay79vm9j3imy0r4gylvkmdshxmhmbjnxvg4";
         }
@@ -5215,7 +5253,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Shrink overlapping regions edges to time selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/406bab8ae94fbee92b7d6e4202d4180bb623dc0a/Regions/acendan_Shrink%20overlapping%20regions%20edges%20to%20time%20selection.lua";
           sha256 = "107s3a6sjhrvs8nngxly8cn8wd4kb11c3frnqkmira8n9a3yf7m3";
         }
@@ -5229,7 +5267,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Shrink overlapping regions edges to time selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/e4b55d809108ac36963e7991c65daa5129f53724/Regions/acendan_Shrink%20overlapping%20regions%20edges%20to%20time%20selection.lua";
           sha256 = "0qpfli5gsfb4fjbh7g2bpfl3lfbzbdnq9i2csh33b2cjqj7wrbak";
         }
@@ -5243,7 +5281,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Shrink overlapping regions to edges of selected media items.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/2ecddd77cd38dc0ebb58b1cf24ec057994abeac3/Regions/acendan_Shrink%20overlapping%20regions%20to%20edges%20of%20selected%20media%20items.lua";
           sha256 = "128n9gp9balq0r0x8668bxpxcf72x1mdb2ackfawmmynq1kpqpds";
         }
@@ -5257,7 +5295,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Shrink overlapping regions to edges of selected media items.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/e4b55d809108ac36963e7991c65daa5129f53724/Regions/acendan_Shrink%20overlapping%20regions%20to%20edges%20of%20selected%20media%20items.lua";
           sha256 = "0jdr1rxb0mypd2ldwk2f7jnb263bnba4q0amvw0q22dj42l7dvhj";
         }
@@ -5271,7 +5309,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Stretch overlapping regions edges to time selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/c02c3a949019481267fce512781582e319e0cc6e/Regions/acendan_Stretch%20overlapping%20regions%20edges%20to%20time%20selection.lua";
           sha256 = "1zv860vgbs3p964316iy3fmmznzijzs3xs869qr6sqrsv1ny0mw3";
         }
@@ -5285,7 +5323,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Stretch overlapping regions edges to time selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/e4b55d809108ac36963e7991c65daa5129f53724/Regions/acendan_Stretch%20overlapping%20regions%20edges%20to%20time%20selection.lua";
           sha256 = "05qy98v5v8pa51bly4ak760gl7xgx4rms4vm1v7lga9ihzak6fjc";
         }
@@ -5299,7 +5337,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Stretch overlapping regions to edges of selected media items.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/2ecddd77cd38dc0ebb58b1cf24ec057994abeac3/Regions/acendan_Stretch%20overlapping%20regions%20to%20edges%20of%20selected%20media%20items.lua";
           sha256 = "0xrk9f0h8mgap2nqld0rv8kchlq24pxwg615w46ipyf55hk01nhv";
         }
@@ -5313,7 +5351,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create multichannel render from selected tracks with mono items.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/e8d57ce1902130f546206ee976ed01198194b9be/Rendering/acendan_Create%20multichannel%20render%20from%20selected%20tracks%20with%20mono%20items.lua";
           sha256 = "1lg0qmp07a5cg6x0xzg81h57n6hdyaw07zfpsqa0k1xdxx5mp6ci";
         }
@@ -5413,7 +5451,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Set up SoundMiner iXML metadata markers in project render metadata settings.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/a3d615565711ec0b9a260b20e985d26c7a8034d0/Rendering/acendan_Set%20up%20SoundMiner%20iXML%20metadata%20markers%20in%20project%20render%20metadata%20settings.lua";
           sha256 = "1q142abfxccvrh2890jf3nh8b9zc347m11m9zdpci8cj7zy8b29x";
         }
@@ -5427,7 +5465,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Set up SoundMiner iXML metadata markers in project render metadata settings.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/2864af50dd834b870ff7e58b196d061f288b6b2f/Rendering/acendan_Set%20up%20SoundMiner%20iXML%20metadata%20markers%20in%20project%20render%20metadata%20settings.lua";
           sha256 = "0zg8777jlcib8adr26r2w9pg6zxhq2351pdki0sxwqzzbiffirgb";
         }
@@ -5441,7 +5479,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Continuously select all items in time selection background.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/76b5b7499051662ddeec9db849d6a21e24a152e2/Time%20Selection/acendan_Continuously%20select%20all%20items%20in%20time%20selection%20background.lua";
           sha256 = "06zqzy7dhjay3dacdbvrx97xkxv6nq1s3qfifryfvkfhp10dmncm";
         }
@@ -5469,7 +5507,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create time selection from edit cursor to mouse cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/30dcab3194ed4b826bb8a3c3453275c4f7a5c4d6/Time%20Selection/acendan_Create%20time%20selection%20from%20edit%20cursor%20to%20mouse%20cursor.lua";
           sha256 = "02f619hai5rmrzbg08xpyhklhj88fvdnxd9nigfk3ybsvfafmdzn";
         }
@@ -5483,7 +5521,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create time selection from edit cursor to mouse cursor.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/88987585c1ad149ea372e869be58340aa66be699/Time%20Selection/acendan_Create%20time%20selection%20from%20edit%20cursor%20to%20mouse%20cursor.lua";
           sha256 = "040isq024rmhak57jvh4hfg95ixa45hk2w343ryxzakvxvbqf28q";
         }
@@ -5531,7 +5569,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Extend time selection left to start of project and select items.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/1369384d677fe270b89eb24fef0514e4f094d724/Time%20Selection/acendan_Extend%20time%20selection%20left%20to%20start%20of%20project%20and%20select%20items.lua";
           sha256 = "06amm9i3kxyks62mnx0l6zz9kzg7pa0c5kas76n76n2fimh618k7";
         }
@@ -5545,7 +5583,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Select from edit cursor to start of project (items and time selection).lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/a9911536a9e73982e511d88d25e4a82f18e095a7/Time%20Selection/acendan_Select%20from%20edit%20cursor%20to%20start%20of%20project%20(items%20and%20time%20selection).lua";
           sha256 = "0vpjmk0c1dimaws8zdn2iycjnxjzlr9w36qfabvp6is3dq1lh58d";
         }
@@ -5559,7 +5597,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Select from mouse cursor to start of project (items and time selection).lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/a9911536a9e73982e511d88d25e4a82f18e095a7/Time%20Selection/acendan_Select%20from%20mouse%20cursor%20to%20start%20of%20project%20(items%20and%20time%20selection).lua";
           sha256 = "0i9hhgaqsip49vz367ccjhxkr38k2c29glnq71d9mqznpixfs48x";
         }
@@ -5601,7 +5639,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert new track respect folders.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/9cb27ab195f4754ecfd3d318bc1bb9204e4cb3b8/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua";
           sha256 = "11rcyk5nq5wj52jpf9gypagm35hzwv0c4vg12a955gn22xw2qybf";
         }
@@ -5615,7 +5653,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert new track respect folders.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/fda368a709152f3017b4e7235179da361a9c5f19/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua";
           sha256 = "1xc1mk5mdzjirgfry75fc3fqyaaabvklw8z65hbgk47iqnhprld9";
         }
@@ -5629,7 +5667,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert new track respect folders.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/03c6305e7cad1e83dc9e3cfd831a240cad11480b/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua";
           sha256 = "1zp49xsxxhcb4880wzl3vkl5b8v2w1y5m0lqn8y40wm9nrbbdxkd";
         }
@@ -5643,7 +5681,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert new track respect folders.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/68dd7ae8851f4538b0b33256e8298567e3630493/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua";
           sha256 = "02la2vl0ghzv6a02i3q6ad7sfw936zp0hahpq3j6fnchmhil386w";
         }
@@ -5657,7 +5695,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert new track respect folders.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/9a63a7dda301d1af165a8b9742d6355488206f59/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua";
           sha256 = "0cwbhls81b9g8qk3qbwj4mdz3ivfa9b55dfpaj1is87pvh358f9b";
         }
@@ -5671,7 +5709,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Insert new track respect folders.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/6e7799997010f2415a26be66e6731d11bd5c6ab7/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua";
           sha256 = "010v0ifk26bxc4gg8vkp0rzwi0b2zkn416lazwm4hh82zh6wzlbm";
         }
@@ -5685,7 +5723,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Search all tracks for FX by name.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/6eb71b79c6392b0238d3117c92c65b1fb0b28e0e/Tracks%20Properties/acendan_Search%20all%20tracks%20for%20FX%20by%20name.lua";
           sha256 = "0qi4498crfp1p9rz4lm16fxqcca8817s4v8bhv3zhl4axyjayhhm";
         }
@@ -5699,7 +5737,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Select tracks when making marquee selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/1fc2cc71dd35f33feccfa198a9116b026bc4c6cf/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua";
           sha256 = "18zxzhcbjak884mirxkda5zlg5m93r69h7xir6is369x7nw06ihs";
         }
@@ -5713,7 +5751,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Select tracks when making marquee selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/edf9933cf61ab8d2c1540c2af3fad857ef143811/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua";
           sha256 = "1lg2cpy1i3igp2ffys0ayhnn7s1kqbrqqp3vplyb2dxb3jhg5r0m";
         }
@@ -5727,7 +5765,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Select tracks when making marquee selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/e57b21bca218ebbb158c94f664521e5bd195acc1/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua";
           sha256 = "1s717zsd9fhvw2p057nm8bs66mrysg9ylfpwwwws0w925k74nl5d";
         }
@@ -5741,7 +5779,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Select tracks when making marquee selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/81527fd1f9f7634d61b7aa416d1416491bc7219e/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua";
           sha256 = "19cpa1382qlrkpgf54rpgf3mrfxcmzmpvn715bzq48fhczqhr0w6";
         }
@@ -5755,7 +5793,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Select tracks when making marquee selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/30871adf59fc851b3b55231e8f4af3707dd3efd6/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua";
           sha256 = "06sl6qqnqgfdh4798iy5nb7h1qpskvd92vnv3as2nj0dws7fphqc";
         }
@@ -5769,7 +5807,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Select tracks when making marquee selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/4c30e38b198f3b81a5691a50860e3439754c3f36/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua";
           sha256 = "086w4l2c6kzrrlj7181g6wbrivrp7d44ykci3602lwbi5p7by505";
         }
@@ -5783,7 +5821,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Select tracks when making marquee selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/bb918605f737e0836a19374dc11eec92d52ec2e6/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua";
           sha256 = "0id423vmi4kn941r90z5cmm17ypis2iqfdiwnyl2f2ffmhic0q4n";
         }
@@ -5797,7 +5835,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Select tracks when making marquee selection.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/8c1438dafd89223e8442625df34cd1663ae52f91/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua";
           sha256 = "11h8hj3s4k2rn0r70d33glcs32g19viqxghcav2ip9hwkvw7i7c3";
         }
@@ -5853,7 +5891,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Bounce In Place.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/139076f1c3ca61bbadc6810e06c33fa9de1990bf/Utility/acendan_Bounce%20In%20Place.lua";
           sha256 = "03s95ffnkl6fw3xi454la0h2pxbzb553696pr1ddd8hp6xxig7jz";
         }
@@ -5867,7 +5905,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Bounce In Place.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/5883528adf54a4e0e474d6785380539b4976afb4/Utility/acendan_Bounce%20In%20Place.lua";
           sha256 = "1fck5zacap5fqhmcjbw3dvvzqlvs46g6rb4b5ymq05jg4amzwz89";
         }
@@ -5881,7 +5919,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Bounce In Place.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/e330cc99bbce3b03597b232aceae231810ab4af3/Utility/acendan_Bounce%20In%20Place.lua";
           sha256 = "1hkiza9df7g56kzhsm164fd7zafxw4cx63dvsq7gqskcwwnh7fla";
         }
@@ -5895,7 +5933,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Bounce In Place.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/0358dea947906655841c0a967edba2fb6405e1de/Utility/acendan_Bounce%20In%20Place.lua";
           sha256 = "00kmas0r4mkwdjvzydxy3k9i7c5fjxj4f6grnhwlhlnxb7immsx3";
         }
@@ -5909,7 +5947,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Bounce In Place.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/9a374e4567c783697c9f3ee233eccb8b1bc1a439/Utility/acendan_Bounce%20In%20Place.lua";
           sha256 = "09awpiifz6mbplaz30dlz7niidxx26sn6zy5d12q7dl7ln4s42yj";
         }
@@ -5923,7 +5961,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Bounce In Place.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/f24fd57fc5c10052aa18dcb842a8a62f33dad0c4/Utility/acendan_Bounce%20In%20Place.lua";
           sha256 = "0j3a6h57nsma59vffp2n0779xwkpmrrlzk2dink1sccwyz11lkvz";
         }
@@ -5937,7 +5975,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Bounce In Place.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/8e6580ebee8840212f66c0dfcd86fec673eca98a/Utility/acendan_Bounce%20In%20Place.lua";
           sha256 = "1lbdjfj94aznkzqxhd2zzifnflmhqk0rd8nz9yp3yqnh40mcci2d";
         }
@@ -5951,7 +5989,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Bounce In Place.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/dc2f6cabfa12ed6537ce56a167f48b6955d0d570/Utility/acendan_Bounce%20In%20Place.lua";
           sha256 = "05blxafj2zzrzgbqwzgdqymlx6akjgkwmbilf6yrk7bdmmpcnj58";
         }
@@ -6413,7 +6451,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Auto generate scripts to open web interfaces.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/710b8e125d611691737b89c420556007b2626979/Various/acendan_Auto%20generate%20scripts%20to%20open%20web%20interfaces.lua";
           sha256 = "093dwh2f6gsh7qyiwanvxgvdpixdk2lj69nwhbpvczp32gm52vqk";
         }
@@ -6427,7 +6465,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Auto generate scripts to open web interfaces.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/c52c70472e9953bed977c2d14d56de8f97c0c9b8/Various/acendan_Auto%20generate%20scripts%20to%20open%20web%20interfaces.lua";
           sha256 = "19wzhr73zc1i9kqmqzjakvr23f1580wzy6xqvi48p2hix9jdrr6y";
         }
@@ -6469,7 +6507,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_GUI_Display first selected item properties.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/c39cd6bb4e90c59c92c41bb18f11b46b32c7023b/Various/acendan_GUI_Display%20first%20selected%20item%20properties.lua";
           sha256 = "0frr78y8k83fgyfv65zgmaak0r51gxs7ilvcgxnmnvfrm3k0jk10";
         }
@@ -6483,7 +6521,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_GUI_Display first selected item properties.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/94ceda27368fd17bc6734792f9ee35304c520193/Various/acendan_GUI_Display%20first%20selected%20item%20properties.lua";
           sha256 = "0cc3mzgjpqhi3sbf4p0fj52f8yl7948gyzrlbsmcxmnz997m0inc";
         }
@@ -6497,7 +6535,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_GUI_Display first selected item properties.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/be41ad789f85cd86eb677783d587b2aee9d6015e/Various/acendan_GUI_Display%20first%20selected%20item%20properties.lua";
           sha256 = "18q86w6xhib6ycn7gnjhh3zrry6ivc37hpmf35km4vkmlv1kc8p5";
         }
@@ -6511,7 +6549,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_GUI_Display first selected item properties.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/59f05064888408c6d72cd60a703531a4a858e34b/Various/acendan_GUI_Display%20first%20selected%20item%20properties.lua";
           sha256 = "07bjnsipxd0hzxrik8gpbhgqw8xldzamdf11v37pkq5ki06y5yvz";
         }
@@ -7852,6 +7890,312 @@
         }
       ];
     };
+    acendan-the-last-renamer-lua-1-53 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "acendan-the-last-renamer-lua-1-53";
+      indexName = "ACendan Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/acendan/reascripts/raw/28f5dcc0d0da219a9ee5ff675f0df84cb2d15b04/Various/acendan_The%20Last%20Renamer.lua";
+          sha256 = "01sfp2vwywpn98pvajnak4rwfgz2gifr77gbdfzh5h6m27qvns63";
+        }
+        {
+          path = ''Schemes/Example.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/28f5dcc0d0da219a9ee5ff675f0df84cb2d15b04/Various/Schemes/Example.yaml";
+          sha256 = "1sdpg935617g1kkd93svlwrl5a4849gbykf3ks041v9027414v0j";
+        }
+        {
+          path = ''Schemes/Generic Game.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/28f5dcc0d0da219a9ee5ff675f0df84cb2d15b04/Various/Schemes/Generic%20Game.yaml";
+          sha256 = "11d6lda36ywdw0wi44hqj7afbd39mafgaj0z13k5zkgq53w4sbpc";
+        }
+        {
+          path = ''Schemes/UCS.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/28f5dcc0d0da219a9ee5ff675f0df84cb2d15b04/Various/Schemes/UCS.yaml";
+          sha256 = "015l702wld5i4dd50sanf19mayrv466hnpkkqwvpikrw9xajmnd2";
+        }
+        {
+          path = ''Meta/meta.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/28f5dcc0d0da219a9ee5ff675f0df84cb2d15b04/Various/Meta/meta.yaml";
+          sha256 = "0nss3rk7xx4b0nzffc0g6r5r27d8m5qhm0cl977qrdk15vbi855g";
+        }
+      ];
+    };
+    acendan-the-last-renamer-lua-1-6 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "acendan-the-last-renamer-lua-1-6";
+      indexName = "ACendan Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/acendan/reascripts/raw/b10f894d3fc3ee6840818e8ca2e793518c3d54b3/Various/acendan_The%20Last%20Renamer.lua";
+          sha256 = "0kb1svpiv8szi0mfhsd0f3zidzmm44qxdwjlvm2yj64x1jyxwm1r";
+        }
+        {
+          path = ''Schemes/Example.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/b10f894d3fc3ee6840818e8ca2e793518c3d54b3/Various/Schemes/Example.yaml";
+          sha256 = "1gfbchkvyy805apjy70xk7xr1dc9mc581faim6jzkjypb1rx0dcz";
+        }
+        {
+          path = ''Schemes/Generic Game.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/b10f894d3fc3ee6840818e8ca2e793518c3d54b3/Various/Schemes/Generic%20Game.yaml";
+          sha256 = "11d6lda36ywdw0wi44hqj7afbd39mafgaj0z13k5zkgq53w4sbpc";
+        }
+        {
+          path = ''Schemes/UCS.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/b10f894d3fc3ee6840818e8ca2e793518c3d54b3/Various/Schemes/UCS.yaml";
+          sha256 = "015l702wld5i4dd50sanf19mayrv466hnpkkqwvpikrw9xajmnd2";
+        }
+        {
+          path = ''Meta/meta.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/b10f894d3fc3ee6840818e8ca2e793518c3d54b3/Various/Meta/meta.yaml";
+          sha256 = "0nss3rk7xx4b0nzffc0g6r5r27d8m5qhm0cl977qrdk15vbi855g";
+        }
+      ];
+    };
+    acendan-the-last-renamer-lua-1-61 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "acendan-the-last-renamer-lua-1-61";
+      indexName = "ACendan Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/acendan/reascripts/raw/5310852e8252b182be93164254fb8e39f8039fbb/Various/acendan_The%20Last%20Renamer.lua";
+          sha256 = "1mrqmsv7bib0zxkwlh52cykcnyavijd9x9qcdnsbayf1bq8cz35i";
+        }
+        {
+          path = ''Schemes/Example.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/5310852e8252b182be93164254fb8e39f8039fbb/Various/Schemes/Example.yaml";
+          sha256 = "1gfbchkvyy805apjy70xk7xr1dc9mc581faim6jzkjypb1rx0dcz";
+        }
+        {
+          path = ''Schemes/Generic Game.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/5310852e8252b182be93164254fb8e39f8039fbb/Various/Schemes/Generic%20Game.yaml";
+          sha256 = "11d6lda36ywdw0wi44hqj7afbd39mafgaj0z13k5zkgq53w4sbpc";
+        }
+        {
+          path = ''Schemes/UCS.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/5310852e8252b182be93164254fb8e39f8039fbb/Various/Schemes/UCS.yaml";
+          sha256 = "015l702wld5i4dd50sanf19mayrv466hnpkkqwvpikrw9xajmnd2";
+        }
+        {
+          path = ''Meta/meta.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/5310852e8252b182be93164254fb8e39f8039fbb/Various/Meta/meta.yaml";
+          sha256 = "0nss3rk7xx4b0nzffc0g6r5r27d8m5qhm0cl977qrdk15vbi855g";
+        }
+      ];
+    };
+    acendan-the-last-renamer-lua-1-62 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "acendan-the-last-renamer-lua-1-62";
+      indexName = "ACendan Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/acendan/reascripts/raw/daa07c3c6d6431c6ef92066d43dd8a26d05f6cbd/Various/acendan_The%20Last%20Renamer.lua";
+          sha256 = "1an2i235zqsak16yqk8a05jz1np6hhnr63a7qn3bxcv0snivf4fk";
+        }
+        {
+          path = ''Schemes/Example.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/daa07c3c6d6431c6ef92066d43dd8a26d05f6cbd/Various/Schemes/Example.yaml";
+          sha256 = "1gfbchkvyy805apjy70xk7xr1dc9mc581faim6jzkjypb1rx0dcz";
+        }
+        {
+          path = ''Schemes/Generic Game.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/daa07c3c6d6431c6ef92066d43dd8a26d05f6cbd/Various/Schemes/Generic%20Game.yaml";
+          sha256 = "11d6lda36ywdw0wi44hqj7afbd39mafgaj0z13k5zkgq53w4sbpc";
+        }
+        {
+          path = ''Schemes/UCS.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/daa07c3c6d6431c6ef92066d43dd8a26d05f6cbd/Various/Schemes/UCS.yaml";
+          sha256 = "015l702wld5i4dd50sanf19mayrv466hnpkkqwvpikrw9xajmnd2";
+        }
+        {
+          path = ''Meta/meta.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/daa07c3c6d6431c6ef92066d43dd8a26d05f6cbd/Various/Meta/meta.yaml";
+          sha256 = "0nss3rk7xx4b0nzffc0g6r5r27d8m5qhm0cl977qrdk15vbi855g";
+        }
+      ];
+    };
+    acendan-the-last-renamer-lua-1-7 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "acendan-the-last-renamer-lua-1-7";
+      indexName = "ACendan Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/acendan/reascripts/raw/3c9dfbda4fdbfa0fb80b49033967e4d3a2e0d240/Various/acendan_The%20Last%20Renamer.lua";
+          sha256 = "0w6qdrs1s15h0z0vzd4x56kivjf3r7sa7y1sxfhd7hb73nrcy4np";
+        }
+        {
+          path = ''Schemes/Example.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/3c9dfbda4fdbfa0fb80b49033967e4d3a2e0d240/Various/Schemes/Example.yaml";
+          sha256 = "1gfbchkvyy805apjy70xk7xr1dc9mc581faim6jzkjypb1rx0dcz";
+        }
+        {
+          path = ''Schemes/Generic Game.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/3c9dfbda4fdbfa0fb80b49033967e4d3a2e0d240/Various/Schemes/Generic%20Game.yaml";
+          sha256 = "11d6lda36ywdw0wi44hqj7afbd39mafgaj0z13k5zkgq53w4sbpc";
+        }
+        {
+          path = ''Schemes/UCS.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/3c9dfbda4fdbfa0fb80b49033967e4d3a2e0d240/Various/Schemes/UCS.yaml";
+          sha256 = "015l702wld5i4dd50sanf19mayrv466hnpkkqwvpikrw9xajmnd2";
+        }
+        {
+          path = ''Meta/meta.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/3c9dfbda4fdbfa0fb80b49033967e4d3a2e0d240/Various/Meta/meta.yaml";
+          sha256 = "0nss3rk7xx4b0nzffc0g6r5r27d8m5qhm0cl977qrdk15vbi855g";
+        }
+      ];
+    };
+    acendan-the-last-renamer-lua-1-8 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "acendan-the-last-renamer-lua-1-8";
+      indexName = "ACendan Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/acendan/reascripts/raw/32099ddd9cd23e272da3d9b45255a8c5890ff2ac/Various/acendan_The%20Last%20Renamer.lua";
+          sha256 = "18x2m8mgllaxmcraa6h80hc038fjxmdbkijw5qn0jrj5p2ps54jr";
+        }
+        {
+          path = ''Schemes/Example.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/32099ddd9cd23e272da3d9b45255a8c5890ff2ac/Various/Schemes/Example.yaml";
+          sha256 = "1gfbchkvyy805apjy70xk7xr1dc9mc581faim6jzkjypb1rx0dcz";
+        }
+        {
+          path = ''Schemes/Generic Game.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/32099ddd9cd23e272da3d9b45255a8c5890ff2ac/Various/Schemes/Generic%20Game.yaml";
+          sha256 = "11d6lda36ywdw0wi44hqj7afbd39mafgaj0z13k5zkgq53w4sbpc";
+        }
+        {
+          path = ''Schemes/UCS.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/32099ddd9cd23e272da3d9b45255a8c5890ff2ac/Various/Schemes/UCS.yaml";
+          sha256 = "015l702wld5i4dd50sanf19mayrv466hnpkkqwvpikrw9xajmnd2";
+        }
+        {
+          path = ''Meta/meta.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/32099ddd9cd23e272da3d9b45255a8c5890ff2ac/Various/Meta/meta.yaml";
+          sha256 = "0nss3rk7xx4b0nzffc0g6r5r27d8m5qhm0cl977qrdk15vbi855g";
+        }
+      ];
+    };
+    acendan-the-last-renamer-lua-1-80 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "acendan-the-last-renamer-lua-1-80";
+      indexName = "ACendan Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/acendan/reascripts/raw/5dd1da405a0b029bc605d6e25ba8c4d85ab0c255/Various/acendan_The%20Last%20Renamer.lua";
+          sha256 = "1di38b2qn2p56n23v1y1c3qnpar4ml9bdasdjqafdp5vgwrq6lbc";
+        }
+        {
+          path = ''Schemes/Example.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/5dd1da405a0b029bc605d6e25ba8c4d85ab0c255/Various/Schemes/Example.yaml";
+          sha256 = "1gfbchkvyy805apjy70xk7xr1dc9mc581faim6jzkjypb1rx0dcz";
+        }
+        {
+          path = ''Schemes/Generic Game.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/5dd1da405a0b029bc605d6e25ba8c4d85ab0c255/Various/Schemes/Generic%20Game.yaml";
+          sha256 = "11d6lda36ywdw0wi44hqj7afbd39mafgaj0z13k5zkgq53w4sbpc";
+        }
+        {
+          path = ''Schemes/UCS.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/5dd1da405a0b029bc605d6e25ba8c4d85ab0c255/Various/Schemes/UCS.yaml";
+          sha256 = "015l702wld5i4dd50sanf19mayrv466hnpkkqwvpikrw9xajmnd2";
+        }
+        {
+          path = ''Meta/meta.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/5dd1da405a0b029bc605d6e25ba8c4d85ab0c255/Various/Meta/meta.yaml";
+          sha256 = "0nss3rk7xx4b0nzffc0g6r5r27d8m5qhm0cl977qrdk15vbi855g";
+        }
+      ];
+    };
+    acendan-the-last-renamer-lua-1-81 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "acendan-the-last-renamer-lua-1-81";
+      indexName = "ACendan Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/acendan/reascripts/raw/3b44f1058d02a55bf2240caef0a3b152a8eb914f/Various/acendan_The%20Last%20Renamer.lua";
+          sha256 = "0viad1lywripwy3iy5n7zpc2wa06fxyki5n2wkcqpwb5014j1dm0";
+        }
+        {
+          path = ''Schemes/Example.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/3b44f1058d02a55bf2240caef0a3b152a8eb914f/Various/Schemes/Example.yaml";
+          sha256 = "1gfbchkvyy805apjy70xk7xr1dc9mc581faim6jzkjypb1rx0dcz";
+        }
+        {
+          path = ''Schemes/Generic Game.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/3b44f1058d02a55bf2240caef0a3b152a8eb914f/Various/Schemes/Generic%20Game.yaml";
+          sha256 = "11d6lda36ywdw0wi44hqj7afbd39mafgaj0z13k5zkgq53w4sbpc";
+        }
+        {
+          path = ''Schemes/UCS.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/3b44f1058d02a55bf2240caef0a3b152a8eb914f/Various/Schemes/UCS.yaml";
+          sha256 = "015l702wld5i4dd50sanf19mayrv466hnpkkqwvpikrw9xajmnd2";
+        }
+        {
+          path = ''Meta/meta.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/3b44f1058d02a55bf2240caef0a3b152a8eb914f/Various/Meta/meta.yaml";
+          sha256 = "0nss3rk7xx4b0nzffc0g6r5r27d8m5qhm0cl977qrdk15vbi855g";
+        }
+      ];
+    };
+    acendan-the-last-renamer-lua-1-82 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "acendan-the-last-renamer-lua-1-82";
+      indexName = "ACendan Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/acendan/reascripts/raw/be8a8d92876f5c45e4f0d083eb3d4feb4410228c/Various/acendan_The%20Last%20Renamer.lua";
+          sha256 = "1s1rk6icny5gjpvrphllja1609smwqrh9fvq74i23bkwb1813bb2";
+        }
+        {
+          path = ''Schemes/Example.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/be8a8d92876f5c45e4f0d083eb3d4feb4410228c/Various/Schemes/Example.yaml";
+          sha256 = "1gfbchkvyy805apjy70xk7xr1dc9mc581faim6jzkjypb1rx0dcz";
+        }
+        {
+          path = ''Schemes/Generic Game.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/be8a8d92876f5c45e4f0d083eb3d4feb4410228c/Various/Schemes/Generic%20Game.yaml";
+          sha256 = "11d6lda36ywdw0wi44hqj7afbd39mafgaj0z13k5zkgq53w4sbpc";
+        }
+        {
+          path = ''Schemes/UCS.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/be8a8d92876f5c45e4f0d083eb3d4feb4410228c/Various/Schemes/UCS.yaml";
+          sha256 = "025bb6x5yyr2qwjra7kpnydr843m57812cvznv2yj2hvm3drx4mq";
+        }
+        {
+          path = ''Meta/meta.yaml'';
+          url = "https://github.com/acendan/reascripts/raw/be8a8d92876f5c45e4f0d083eb3d4feb4410228c/Various/Meta/meta.yaml";
+          sha256 = "0nss3rk7xx4b0nzffc0g6r5r27d8m5qhm0cl977qrdk15vbi855g";
+        }
+      ];
+    };
     acendan-ucs-renaming-tool-media-explorer-filter-lua-4-2 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "acendan-ucs-renaming-tool-media-explorer-filter-lua-4-2";
@@ -7860,7 +8204,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_UCS Renaming Tool - Media Explorer Filter.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/63fa3f692c60cab8815d1f36f02d72c41e044617/Various/acendan_UCS%20Renaming%20Tool%20-%20Media%20Explorer%20Filter.lua";
           sha256 = "08g9xbamdn05kyyv96f34wbgp68ralbajr6153qv3vkyzbb50y01";
         }
@@ -7875,7 +8219,7 @@
       sources = [
         {
           path = '''';
-          url = "https://raw.githubusercontent.com/acendan/reascripts/180d1371937daf522f0b97356d6a0b2061b1567f/Various/acendan_UCS%20Renaming%20Tool%20-%20Send%20To%20Interface.lua";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Various/acendan_UCS%20Renaming%20Tool%20-%20Send%20To%20Interface.lua";
           sha256 = "1jpaif82mhlijvfwb45vpidq632r0wjzs0q1cz07zrdjq87x0dz5";
         }
       ];
@@ -7944,7 +8288,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/35bb93c511916029b0304aed63b72a423929e06f/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "1dcgf0aqrkgwzfl67xir6p1ba14f19csscw2llgw1sqaqvsciphz";
         }
@@ -7958,7 +8302,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/7eda83b123d4c38abb4c1b580b24ce25798050f5/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "12d2lgmrkib169vqbkpdiahd7wbn54w0g4mykz9qg7z1np2a6kms";
         }
@@ -7972,7 +8316,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/acb6b5d45c1b74fe7ae375270932a17effcef156/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "0y32bw49hvvvqlzizj7s3zqgxj2x7sfxqb82ks3y9pnpbda6zdm0";
         }
@@ -7986,7 +8330,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/f0de9f2a04d7b775c80a6e5c90c648acc2204c8b/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "0fdi4vi561sk98asqhfncn4inl5c5d4cwgrn9zbkx10zl1hp4a1q";
         }
@@ -8000,7 +8344,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/420df730606fba718da0cfd7a0c0116749f722f0/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "1bjmj6pcdcll1kmbm4cggd7r1ipd1r399sfjf4cffqkgmdv5zdr1";
         }
@@ -8014,7 +8358,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/7afa4e4e72f27afc54255414d500edbc543c99a8/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "1cd46n9iww7kvbjrb81lhgk36mwlhaprn94xqshp38r285b5qyyi";
         }
@@ -8028,7 +8372,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/186fb765a6bc6c6da29857462f96cfdd124f3023/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "0i5f0fh36gi3a9fq9fhvfsrd9dhi7snzn3abnd44s3g8k9g20bw4";
         }
@@ -8042,7 +8386,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/98b2cecd0a2f12de81bdaddcb24b34c2615140d4/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "0s7k0ri7kynfcvs301lr8kdlzczg6idx8q1bnprh6mcbqr2xnx6w";
         }
@@ -8056,7 +8400,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/3c0507bc458137d6689e006108ed35c324f31f72/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "10pxif0djzrry29fq1fcljca7sqzpv5na287v8ka4bssd93bln79";
         }
@@ -8070,7 +8414,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/090f45bec4544809d8f92a8c90b0eb3756f4201d/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "144lw9gd5kj362dysm21kpy28mj2ac75mxx4cxpm9nl4hl6q0h6v";
         }
@@ -8084,7 +8428,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/58b45e2ef52daebf0f33fac723e1e894ddb747bb/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "0f65s8w7jpksj2sgr3p1j0wfar45pf3n913jx78z2gf8fqqv4cvg";
         }
@@ -8098,7 +8442,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/f6a83becfe837c43a8f1c2349e20649ee024d0ac/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "01d8n7lwxwiy57avb4y6cam5d4i7ai8g5lp15gg9wdlrrr1ipc5y";
         }
@@ -8112,7 +8456,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/908467f57f180f0c5d9e50cf8d4b27342fdcd835/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "1ygamg0ws1qjca6zysrfi04fnwnmr7bng01d8k9c5ph5nfl751gl";
         }
@@ -8126,7 +8470,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/ae42931458d37963a21fc3a394614ab46529e9b7/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "1j6xlm1knmzcqr8hz7vs8clp858mcqsvi5v9glbxmwsrl6aapzcw";
         }
@@ -8140,7 +8484,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/434a58a0e78eb74d460b15cbb707f55262752bf1/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "05hzawbjdc2iy36rfzlrn05kfl0lbpcjg5yv3h4238bbzg34cjrx";
         }
@@ -8154,7 +8498,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/4a2577c6221dbcfefa711f6d1f8bb3a57ffea0d8/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "1834yqbkfjpagk82diig2qamfkbknmbfz0hk2rxk8ymyjflw8frj";
         }
@@ -8168,7 +8512,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/530fba711cf931d12d1aaec4185baf2b1bc71af6/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "0q4gxz8r6zriy09klz40vlchg6rn2scl297bqvsg27f07g2j3hgn";
         }
@@ -8182,7 +8526,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/9ec4229cd34b1bb21a65e7b509dcb53da68a1633/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "1s2zd5k89q7k64j2r9kxdblrap55w3k10h02c11asmp7a9lafmvp";
         }
@@ -8196,7 +8540,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Universal Category Renaming Tool.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/62ffbe6f67057df8b575656bef29112655e523ed/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "1xpa61z349xxdawd9zq10ig9qr3fpqw1zbvxgib0x2zr0v98nzj1";
         }
@@ -8715,7 +9059,7 @@
       sources = [
         {
           path = ''acendan_UCS Renaming Tool.lua'';
-          url = "https://raw.githubusercontent.com/acendan/reascripts/180d1371937daf522f0b97356d6a0b2061b1567f/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
           sha256 = "02h280f63r9qw964zcff3dfp4ls9p1z13547n468cqf174rky275";
         }
       ];
@@ -8798,7 +9142,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create video processor text items for all project markers on new track.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/cdb21bd9d8013614889f778c7c4782115f13d892/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua";
           sha256 = "16fqq23ywnw79xhfmnshrpr1xmj5fl51ar5ya7ycklm6x83zpbvg";
         }
@@ -8817,7 +9161,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create video processor text items for all project markers on new track.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/3ef6883efd8324935e1e8bf4d96eb9b0e0790f64/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua";
           sha256 = "1sp1al5405rhq4hckqz1zv5kg427m4d5s189fhb3qxarsmigpskd";
         }
@@ -8836,7 +9180,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create video processor text items for all project markers on new track.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/cf87238cc82acdc6acca3ada89ddaa4ba8318e94/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua";
           sha256 = "19vgdc01g37bcfl8rwbr5jxdca0vxjj43vbw001ydha2q37a6nir";
         }
@@ -8855,7 +9199,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create video processor text items for all project markers on new track.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/d6333f18395a8deaf02f273ed3385cc610a31076/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua";
           sha256 = "133i60gjs4cnyw9x47x1bwp8776waq6l5m3blz1xiyn60fr2jqm8";
         }
@@ -8874,7 +9218,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create video processor text items for all project markers on new track.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/be48deadef7b49fc572cd276d195c8af60ab5fdf/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua";
           sha256 = "1qsjz7754dg5f2ff7vpkyj7ya5ak7i93bfr2dpzgdr4xcd49qmq3";
         }
@@ -8893,7 +9237,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create video processor text items for all project regions on new track.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/cdb21bd9d8013614889f778c7c4782115f13d892/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20regions%20on%20new%20track.lua";
           sha256 = "0d9bdy2fg751sh80v4g3db8b8c4ryv0ib7vsxwpd66238wrz7vly";
         }
@@ -8907,7 +9251,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create video processor text items for all project regions on new track.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/3ef6883efd8324935e1e8bf4d96eb9b0e0790f64/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20regions%20on%20new%20track.lua";
           sha256 = "001gi5d85ifxa033b01r8xgzjv3p6w2qddw2n4ysl6w811bif0yq";
         }
@@ -8921,7 +9265,7 @@
       packageType = "script";
       sources = [
         {
-          path = ''acendan_Create video processor text items for all project regions on new track.lua'';
+          path = '''';
           url = "https://github.com/acendan/reascripts/raw/cf87238cc82acdc6acca3ada89ddaa4ba8318e94/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20regions%20on%20new%20track.lua";
           sha256 = "0z1v28395m9v66xqp1xwp7vlha3n2f6g7r7hbm4pnfj4h9lsiknm";
         }
@@ -20868,293 +21212,293 @@
       sources = [
         {
           path = ''acendan_UCS Renaming Tool.html'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/acendan_UCS%20Renaming%20Tool.html";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/acendan_UCS%20Renaming%20Tool.html";
+          sha256 = "1hiydd2qfln3c8id0x1m8sj2wqy6wp54w26mq8lgf8pck6fkpl5l";
         }
         {
           path = ''ucs_libraries/UCS_Presets.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/UCS_Presets.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/UCS_Presets.txt";
+          sha256 = "0l2q3ddm62qdvka58f9dbcpmnhc1w2gckm9ywgycrfp0wng5fnmi";
         }
         {
           path = ''ucs_libraries/bloodhound.js'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/bloodhound.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/bloodhound.js";
+          sha256 = "038jmwyv3hk6lbldg2as19hzy0dgl7sf7y2p4zmp9gi5cmjlcknn";
         }
         {
           path = ''ucs_libraries/bootstrap.min.css'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/bootstrap.min.css";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/bootstrap.min.css";
+          sha256 = "0vc73w6ldgj4aiznjqkdb7qxzjnqis1spr0g5463hzixx77ks3rc";
         }
         {
           path = ''ucs_libraries/bootstrap.min.css.map'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/bootstrap.min.css.map";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/bootstrap.min.css.map";
+          sha256 = "1f70qprwzffd8viafd1amjfdxr4ggkpd0xhbiqm7nj10xdhky6qh";
         }
         {
           path = ''ucs_libraries/bootstrap.min.js'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/bootstrap.min.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/bootstrap.min.js";
+          sha256 = "06xhk5r1dvg03l09fxf5qy045yxxza51hddw7cjb8l2lxv73dvg7";
         }
         {
           path = ''ucs_libraries/bootstrap.min.js.map'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/bootstrap.min.js.map";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/bootstrap.min.js.map";
+          sha256 = "02g7zi6clnp9wmg81da7882nm9gx6knv1gjka3vpivjbh5v5ddj5";
         }
         {
           path = ''ucs_libraries/countrystatecity.js'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/countrystatecity.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/countrystatecity.js";
+          sha256 = "18p667hj0p0nwxpr0klvhmw0d0r9p68hgbsnj32arg4hj6qqzsz5";
         }
         {
           path = ''ucs_libraries/dark-feedback-icon.png'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/dark-feedback-icon.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/dark-feedback-icon.png";
+          sha256 = "1cvp9wni1vg70cxsix6b7s6m7c5k620i9wxsfgcvifd93c327bw2";
         }
         {
           path = ''ucs_libraries/dark-mode-icon.png'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/dark-mode-icon.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/dark-mode-icon.png";
+          sha256 = "10fggbwbirh9pqih6zb7cswy4f11n95cgck89yxli6aqjj06ls2z";
         }
         {
           path = ''ucs_libraries/data-transfer-download.svg'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/data-transfer-download.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/data-transfer-download.svg";
+          sha256 = "0vspkddsn2chwj5pd9vpjivnl2d9jy33h2kabk98mx1x13xbvvgz";
         }
         {
           path = ''ucs_libraries/dataTables.bootstrap4.min.css'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/dataTables.bootstrap4.min.css";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/dataTables.bootstrap4.min.css";
+          sha256 = "1gv8rwn5z0n342a5lch97c1zaa92mc234sf5vb9av12d9z76l2ms";
         }
         {
           path = ''ucs_libraries/dataTables.bootstrap4.min.js'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/dataTables.bootstrap4.min.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/dataTables.bootstrap4.min.js";
+          sha256 = "1g8rmxc8wgszmvv36hghpa203f7nd58iwp5cqn9nk4hm9vcypdnm";
         }
         {
           path = ''ucs_libraries/dialogue.svg'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/dialogue.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/dialogue.svg";
+          sha256 = "0c4j7y3p5s1k55z9wx61jrl1cis8qzfizmshrd7lw2qs4bmgyc5n";
         }
         {
           path = ''ucs_libraries/export-data-2.svg'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/export-data-2.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/export-data-2.svg";
+          sha256 = "00qwpmdvkg50rr5zpvarfvl9mmrc1fwphr030slylzd6irs3z21c";
         }
         {
           path = ''ucs_libraries/flags32.css'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/flags32.css";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/flags32.css";
+          sha256 = "0prbyq9mdcnin3m8gvgbqi0im54gxzb9cglfdnnl0hkqvjhlfcsq";
         }
         {
           path = ''ucs_libraries/flags32.png'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/flags32.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/flags32.png";
+          sha256 = "16lyk9gdl09iv0kabpi3s3vx5220ywqs0c6zlc8wpa4xsj97z5i5";
         }
         {
           path = ''ucs_libraries/gbx_logo.png'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/gbx_logo.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/gbx_logo.png";
+          sha256 = "1d7gq055sdfvcvywkl3ril03jrir6vvym3m218b9vncc7csrn1yw";
         }
         {
           path = ''ucs_libraries/import-data.svg'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/import-data.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/import-data.svg";
+          sha256 = "13ynj6b4sgwvwh56v2zc6bnbqw4isjdi6l732g43zbnsazhpclsf";
         }
         {
           path = ''ucs_libraries/info.svg'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/info.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/info.svg";
+          sha256 = "1xbgnzd25zszg2191pwjmymcwcfg1ckj59x4mf8py78gvzib1mn8";
         }
         {
           path = ''ucs_libraries/jquery-3.5.1.min.js'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/jquery-3.5.1.min.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/jquery-3.5.1.min.js";
+          sha256 = "0gbfbfcbcpl8nq2shknsyz5pirf5wbnb54m3dynxs68x9y4sbxpp";
         }
         {
           path = ''ucs_libraries/jquery.dataTables.min.js'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/jquery.dataTables.min.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/jquery.dataTables.min.js";
+          sha256 = "0q5sxsqz72rhg5hh24ag25pbj96r4qpzn11bhi51bzp5nbdyig7z";
         }
         {
           path = ''ucs_libraries/light-feedback-icon.png'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/light-feedback-icon.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/light-feedback-icon.png";
+          sha256 = "1h62hm5qz0nh54jpvd4kjaqmxl5086hlm1ifpc5mgba1bnnzirrq";
         }
         {
           path = ''ucs_libraries/light-mode-icon.png'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/light-mode-icon.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/light-mode-icon.png";
+          sha256 = "1dbhkxa4m7h53zs7fpq5rb5nzrh46z3y724kcmb0475cd72dgwp3";
         }
         {
           path = ''ucs_libraries/music2.svg'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/music2.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/music2.svg";
+          sha256 = "0hk31p4m2fpkb7r36fzn2qwcxrh9gal6z97wxcq25hy37n0wy66v";
         }
         {
           path = ''ucs_libraries/popper.min.js'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/popper.min.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/popper.min.js";
+          sha256 = "0rhdzwvsya9lmi68pvldw956kifzc810a2pfashazjkv9njplbx5";
         }
         {
           path = ''ucs_libraries/popper.min.js.map'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/popper.min.js.map";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/popper.min.js.map";
+          sha256 = "02d2f2iay8lwbhrppxwxax8jpayxym4ykzgqwn163si17kcr8fhj";
         }
         {
           path = ''ucs_libraries/settings-icon-dark.png'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/settings-icon-dark.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/settings-icon-dark.png";
+          sha256 = "1dwqx5lf6wla7wn42zzixskxmclh598llw8ainb9b8pvx4lx02bi";
         }
         {
           path = ''ucs_libraries/settings-icon-light.png'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/settings-icon-light.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/settings-icon-light.png";
+          sha256 = "1v49gvv580arl416qc0hsc8r3gsfnimdkw79krmjybdkplxz475v";
         }
         {
           path = ''ucs_libraries/settings.svg'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/settings.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/settings.svg";
+          sha256 = "1wilmpa5mf5l55gz6p57xysmy5clndssjsn2rcf599d3iy97dbyw";
         }
         {
           path = ''ucs_libraries/sfx.svg'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/sfx.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/sfx.svg";
+          sha256 = "0kvnai0hcyn1yz18n7a0rm0qmz9z6qq012yjdnwiqx2g07vdysv6";
         }
         {
           path = ''ucs_libraries/share.svg'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/share.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/share.svg";
+          sha256 = "0lxprgm3ahrn8gjx76whb2gwm42xpgkfqc06nd9zc08a6h2zcyqk";
         }
         {
           path = ''ucs_libraries/typeahead.bundle.js'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/typeahead.bundle.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/typeahead.bundle.js";
+          sha256 = "1hhr12d02kkc3ziiw0vsi1hr3l6sj52v9lwqap7v4883lw1ib8ch";
         }
         {
           path = ''ucs_libraries/typeahead.jquery.js'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/typeahead.jquery.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/typeahead.jquery.js";
+          sha256 = "081is8yyqy8la04q39si37iwpwplrqxcc0cbw2sfgvd9bxacmr55";
         }
         {
           path = ''ucs_libraries/ucs_logo_black_on_white.png'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/ucs_logo_black_on_white.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/ucs_logo_black_on_white.png";
+          sha256 = "1pfaffw1awjgpyqmvsszs4mshxhhrq08b26xm3kiad9ga7vq2idp";
         }
         {
           path = ''ucs_libraries/ucs_logo_white_on_black.png'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/ucs_logo_white_on_black.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/ucs_logo_white_on_black.png";
+          sha256 = "0nfq7v1ivf233vajd3va1jw62zhl3p57ai93vbnxn1k4zszk6spj";
         }
         {
           path = ''ucs_libraries/ucs_toolbar_icon_black.png'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/ucs_toolbar_icon_black.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/ucs_toolbar_icon_black.png";
+          sha256 = "11vf1jf4hj2yhxfw5cxbayfl3db48y80r34sh2pkidc81ypqhgzn";
         }
         {
           path = ''ucs_libraries/wifi.svg'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_libraries/wifi.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_libraries/wifi.svg";
+          sha256 = "0h4myvv6yk20bvfjy2hrnqardxnqwq45gglrh0d8602c8jkvylia";
         }
         {
           path = ''ucs_languages/UCS_br.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_br.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_br.txt";
+          sha256 = "1a418harm8002jb1ca68fwzknbw6aaqzlfs8sk42czsal6g9hqrc";
         }
         {
           path = ''ucs_languages/UCS_cn.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_cn.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_cn.txt";
+          sha256 = "1hrci9lbzr7d9n62br6qp1dangskwd1bx80hbsa781as39yzab04";
         }
         {
           path = ''ucs_languages/UCS_de.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_de.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_de.txt";
+          sha256 = "1ym4l5ddwx6d5ifwgnfakq2gssj9hvcrrncpj8smqkfm17d96rfg";
         }
         {
           path = ''ucs_languages/UCS_dk.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_dk.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_dk.txt";
+          sha256 = "1r5hdqd7b62v3bfx15b52jsf5srr038r3pqvwkhsf3irmb303klv";
         }
         {
           path = ''ucs_languages/UCS_es.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_es.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_es.txt";
+          sha256 = "0xabid4nra1zywia4npd48izbjfj7qcx160k9483syj7z8pqz7fc";
         }
         {
           path = ''ucs_languages/UCS_fi.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_fi.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_fi.txt";
+          sha256 = "04cphklwwk9vd2sqyxkplk1x3j29jpxmawgvxprahj0sw0dr6yqg";
         }
         {
           path = ''ucs_languages/UCS_fr.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_fr.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_fr.txt";
+          sha256 = "1mc8mbc9q4mpx8l469lahiw1apq7f08c8vk3a799l743ydbqcp73";
         }
         {
           path = ''ucs_languages/UCS_it.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_it.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_it.txt";
+          sha256 = "1c2gna8m9rwsbymcclhm90p4iih726jrqz596hbv1dgnfvllzw5c";
         }
         {
           path = ''ucs_languages/UCS_jp.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_jp.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_jp.txt";
+          sha256 = "0sd5l59wwdk2d4qa507m6ya3z3bm8znynaf424snh2p1mg8clb3v";
         }
         {
           path = ''ucs_languages/UCS_kr.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_kr.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_kr.txt";
+          sha256 = "1k7vi14bb7k0bp8xmx98hkrh5lcnfkw48kr18npyh7c6lgrrhk9w";
         }
         {
           path = ''ucs_languages/UCS_nl.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_nl.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_nl.txt";
+          sha256 = "00iclxv8a3xv46vrzrb6zwlsvvywl2s00xrgzfkd3a61xqwzyvr1";
         }
         {
           path = ''ucs_languages/UCS_no.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_no.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_no.txt";
+          sha256 = "1n9dwam003s0jy1sxa1gdj9sl00l2l83dlbwqx8kxla94ab5abkj";
         }
         {
           path = ''ucs_languages/UCS_pl.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_pl.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_pl.txt";
+          sha256 = "01yzyc12kwm1wfnk8ywn65alk0g284rxklirbcigvcwdd1ayczsk";
         }
         {
           path = ''ucs_languages/UCS_pt.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_pt.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_pt.txt";
+          sha256 = "0snqkphznmdwlf6bkz3335ckrlinr9njjr7ff5kwvwx5rh740br0";
         }
         {
           path = ''ucs_languages/UCS_ru.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_ru.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_ru.txt";
+          sha256 = "1ydfpmgbl7hdwsgd7qyx4f43k0ffcykiq2qmxgyf9w950vyb89rq";
         }
         {
           path = ''ucs_languages/UCS_se.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_se.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_se.txt";
+          sha256 = "138cdn10i7r1xqkddayji2j8p9imk55hc4qny8r2kq09s3g41c8j";
         }
         {
           path = ''ucs_languages/UCS_tr.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_tr.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_tr.txt";
+          sha256 = "0c3r2cgbv2bnhkhf2j5i0wgdwpz13z1gsv6y35x9c0gyy8dn9q5g";
         }
         {
           path = ''ucs_languages/UCS_tw.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_tw.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_tw.txt";
+          sha256 = "00ljb6v3bv5bq0wsik74jlidsfvxqkm762zvp4x9ksz6x778xzrx";
         }
         {
           path = ''ucs_languages/UCS_ua.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_ua.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_ua.txt";
+          sha256 = "05c5fjrvk3ig47gzf1pxw1cdgmczv3qsm0xdf4irx8spnfb4vlih";
         }
         {
           path = ''ucs_languages/UCS_us.txt'';
-          url = "https://github.com/acendan/reascripts/raw/ce21386b1af00702fa8c43a8e05db459f6e3e669/Web%20Interfaces/ucs_languages/UCS_us.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/a49006cdcaf15737e54d1f50ef334b888d51c54d/Web%20Interfaces/ucs_languages/UCS_us.txt";
+          sha256 = "1khk3scjc3z31d0v625q2ff3cblnldcvk33sna96bm4q9bfkni5c";
         }
       ];
     };
@@ -21167,298 +21511,298 @@
       sources = [
         {
           path = ''acendan_UCS Renaming Tool.html'';
-          url = "https://raw.githubusercontent.com/acendan/reascripts/180d1371937daf522f0b97356d6a0b2061b1567f/Web%20Interfaces/acendan_UCS%20Renaming%20Tool.html";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/acendan_UCS%20Renaming%20Tool.html";
           sha256 = "1p2cb9zjw95l57s634k7qsk2rpijipw4wbsvvxz7ahkniqngrzn5";
         }
         {
           path = ''ucs_libraries/UCS_Presets.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/UCS_Presets.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/UCS_Presets.txt";
+          sha256 = "0l2q3ddm62qdvka58f9dbcpmnhc1w2gckm9ywgycrfp0wng5fnmi";
         }
         {
           path = ''ucs_libraries/bloodhound.js'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/bloodhound.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/bloodhound.js";
+          sha256 = "038jmwyv3hk6lbldg2as19hzy0dgl7sf7y2p4zmp9gi5cmjlcknn";
         }
         {
           path = ''ucs_libraries/bootstrap.min.css'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/bootstrap.min.css";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/bootstrap.min.css";
+          sha256 = "0vc73w6ldgj4aiznjqkdb7qxzjnqis1spr0g5463hzixx77ks3rc";
         }
         {
           path = ''ucs_libraries/bootstrap.min.css.map'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/bootstrap.min.css.map";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/bootstrap.min.css.map";
+          sha256 = "1f70qprwzffd8viafd1amjfdxr4ggkpd0xhbiqm7nj10xdhky6qh";
         }
         {
           path = ''ucs_libraries/bootstrap.min.js'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/bootstrap.min.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/bootstrap.min.js";
+          sha256 = "06xhk5r1dvg03l09fxf5qy045yxxza51hddw7cjb8l2lxv73dvg7";
         }
         {
           path = ''ucs_libraries/bootstrap.min.js.map'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/bootstrap.min.js.map";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/bootstrap.min.js.map";
+          sha256 = "02g7zi6clnp9wmg81da7882nm9gx6knv1gjka3vpivjbh5v5ddj5";
         }
         {
           path = ''ucs_libraries/countrystatecity.js'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/countrystatecity.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/countrystatecity.js";
+          sha256 = "18p667hj0p0nwxpr0klvhmw0d0r9p68hgbsnj32arg4hj6qqzsz5";
         }
         {
           path = ''ucs_libraries/dark-feedback-icon.png'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/dark-feedback-icon.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/dark-feedback-icon.png";
+          sha256 = "1cvp9wni1vg70cxsix6b7s6m7c5k620i9wxsfgcvifd93c327bw2";
         }
         {
           path = ''ucs_libraries/dark-mode-icon.png'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/dark-mode-icon.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/dark-mode-icon.png";
+          sha256 = "10fggbwbirh9pqih6zb7cswy4f11n95cgck89yxli6aqjj06ls2z";
         }
         {
           path = ''ucs_libraries/data-transfer-download.svg'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/data-transfer-download.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/data-transfer-download.svg";
+          sha256 = "0vspkddsn2chwj5pd9vpjivnl2d9jy33h2kabk98mx1x13xbvvgz";
         }
         {
           path = ''ucs_libraries/dataTables.bootstrap4.min.css'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/dataTables.bootstrap4.min.css";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/dataTables.bootstrap4.min.css";
+          sha256 = "1gv8rwn5z0n342a5lch97c1zaa92mc234sf5vb9av12d9z76l2ms";
         }
         {
           path = ''ucs_libraries/dataTables.bootstrap4.min.js'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/dataTables.bootstrap4.min.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/dataTables.bootstrap4.min.js";
+          sha256 = "1g8rmxc8wgszmvv36hghpa203f7nd58iwp5cqn9nk4hm9vcypdnm";
         }
         {
           path = ''ucs_libraries/dialogue.svg'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/dialogue.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/dialogue.svg";
+          sha256 = "0c4j7y3p5s1k55z9wx61jrl1cis8qzfizmshrd7lw2qs4bmgyc5n";
         }
         {
           path = ''ucs_libraries/export-data-2.svg'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/export-data-2.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/export-data-2.svg";
+          sha256 = "00qwpmdvkg50rr5zpvarfvl9mmrc1fwphr030slylzd6irs3z21c";
         }
         {
           path = ''ucs_libraries/flags32.css'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/flags32.css";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/flags32.css";
+          sha256 = "0prbyq9mdcnin3m8gvgbqi0im54gxzb9cglfdnnl0hkqvjhlfcsq";
         }
         {
           path = ''ucs_libraries/flags32.png'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/flags32.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/flags32.png";
+          sha256 = "16lyk9gdl09iv0kabpi3s3vx5220ywqs0c6zlc8wpa4xsj97z5i5";
         }
         {
           path = ''ucs_libraries/gbx_logo.png'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/gbx_logo.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/gbx_logo.png";
+          sha256 = "1d7gq055sdfvcvywkl3ril03jrir6vvym3m218b9vncc7csrn1yw";
         }
         {
           path = ''ucs_libraries/import-data.svg'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/import-data.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/import-data.svg";
+          sha256 = "13ynj6b4sgwvwh56v2zc6bnbqw4isjdi6l732g43zbnsazhpclsf";
         }
         {
           path = ''ucs_libraries/info.svg'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/info.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/info.svg";
+          sha256 = "1xbgnzd25zszg2191pwjmymcwcfg1ckj59x4mf8py78gvzib1mn8";
         }
         {
           path = ''ucs_libraries/jquery-3.5.1.min.js'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/jquery-3.5.1.min.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/jquery-3.5.1.min.js";
+          sha256 = "0gbfbfcbcpl8nq2shknsyz5pirf5wbnb54m3dynxs68x9y4sbxpp";
         }
         {
           path = ''ucs_libraries/jquery.dataTables.min.js'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/jquery.dataTables.min.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/jquery.dataTables.min.js";
+          sha256 = "0q5sxsqz72rhg5hh24ag25pbj96r4qpzn11bhi51bzp5nbdyig7z";
         }
         {
           path = ''ucs_libraries/light-feedback-icon.png'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/light-feedback-icon.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/light-feedback-icon.png";
+          sha256 = "1h62hm5qz0nh54jpvd4kjaqmxl5086hlm1ifpc5mgba1bnnzirrq";
         }
         {
           path = ''ucs_libraries/light-mode-icon.png'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/light-mode-icon.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/light-mode-icon.png";
+          sha256 = "1dbhkxa4m7h53zs7fpq5rb5nzrh46z3y724kcmb0475cd72dgwp3";
         }
         {
           path = ''ucs_libraries/music2.svg'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/music2.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/music2.svg";
+          sha256 = "0hk31p4m2fpkb7r36fzn2qwcxrh9gal6z97wxcq25hy37n0wy66v";
         }
         {
           path = ''ucs_libraries/popper.min.js'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/popper.min.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/popper.min.js";
+          sha256 = "0rhdzwvsya9lmi68pvldw956kifzc810a2pfashazjkv9njplbx5";
         }
         {
           path = ''ucs_libraries/popper.min.js.map'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/popper.min.js.map";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/popper.min.js.map";
+          sha256 = "02d2f2iay8lwbhrppxwxax8jpayxym4ykzgqwn163si17kcr8fhj";
         }
         {
           path = ''ucs_libraries/reacall.svg'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/reacall.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/reacall.svg";
+          sha256 = "0gqrl9xqk9kcgy8q36c9cjyy6rlj05lljqqpks710pk0wlirrkm7";
         }
         {
           path = ''ucs_libraries/settings-icon-dark.png'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/settings-icon-dark.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/settings-icon-dark.png";
+          sha256 = "1dwqx5lf6wla7wn42zzixskxmclh598llw8ainb9b8pvx4lx02bi";
         }
         {
           path = ''ucs_libraries/settings-icon-light.png'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/settings-icon-light.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/settings-icon-light.png";
+          sha256 = "1v49gvv580arl416qc0hsc8r3gsfnimdkw79krmjybdkplxz475v";
         }
         {
           path = ''ucs_libraries/settings.svg'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/settings.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/settings.svg";
+          sha256 = "1wilmpa5mf5l55gz6p57xysmy5clndssjsn2rcf599d3iy97dbyw";
         }
         {
           path = ''ucs_libraries/sfx.svg'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/sfx.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/sfx.svg";
+          sha256 = "0kvnai0hcyn1yz18n7a0rm0qmz9z6qq012yjdnwiqx2g07vdysv6";
         }
         {
           path = ''ucs_libraries/share.svg'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/share.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/share.svg";
+          sha256 = "0lxprgm3ahrn8gjx76whb2gwm42xpgkfqc06nd9zc08a6h2zcyqk";
         }
         {
           path = ''ucs_libraries/typeahead.bundle.js'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/typeahead.bundle.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/typeahead.bundle.js";
+          sha256 = "1hhr12d02kkc3ziiw0vsi1hr3l6sj52v9lwqap7v4883lw1ib8ch";
         }
         {
           path = ''ucs_libraries/typeahead.jquery.js'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/typeahead.jquery.js";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/typeahead.jquery.js";
+          sha256 = "081is8yyqy8la04q39si37iwpwplrqxcc0cbw2sfgvd9bxacmr55";
         }
         {
           path = ''ucs_libraries/ucs_logo_black_on_white.png'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/ucs_logo_black_on_white.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/ucs_logo_black_on_white.png";
+          sha256 = "1pfaffw1awjgpyqmvsszs4mshxhhrq08b26xm3kiad9ga7vq2idp";
         }
         {
           path = ''ucs_libraries/ucs_logo_white_on_black.png'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/ucs_logo_white_on_black.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/ucs_logo_white_on_black.png";
+          sha256 = "0nfq7v1ivf233vajd3va1jw62zhl3p57ai93vbnxn1k4zszk6spj";
         }
         {
           path = ''ucs_libraries/ucs_toolbar_icon_black.png'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/ucs_toolbar_icon_black.png";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/ucs_toolbar_icon_black.png";
+          sha256 = "11vf1jf4hj2yhxfw5cxbayfl3db48y80r34sh2pkidc81ypqhgzn";
         }
         {
           path = ''ucs_libraries/wifi.svg'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_libraries/wifi.svg";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_libraries/wifi.svg";
+          sha256 = "0h4myvv6yk20bvfjy2hrnqardxnqwq45gglrh0d8602c8jkvylia";
         }
         {
           path = ''ucs_languages/UCS_br.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_br.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_br.txt";
+          sha256 = "1a418harm8002jb1ca68fwzknbw6aaqzlfs8sk42czsal6g9hqrc";
         }
         {
           path = ''ucs_languages/UCS_cn.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_cn.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_cn.txt";
+          sha256 = "1hrci9lbzr7d9n62br6qp1dangskwd1bx80hbsa781as39yzab04";
         }
         {
           path = ''ucs_languages/UCS_de.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_de.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_de.txt";
+          sha256 = "1ym4l5ddwx6d5ifwgnfakq2gssj9hvcrrncpj8smqkfm17d96rfg";
         }
         {
           path = ''ucs_languages/UCS_dk.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_dk.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_dk.txt";
+          sha256 = "1r5hdqd7b62v3bfx15b52jsf5srr038r3pqvwkhsf3irmb303klv";
         }
         {
           path = ''ucs_languages/UCS_es.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_es.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_es.txt";
+          sha256 = "0xabid4nra1zywia4npd48izbjfj7qcx160k9483syj7z8pqz7fc";
         }
         {
           path = ''ucs_languages/UCS_fi.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_fi.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_fi.txt";
+          sha256 = "04cphklwwk9vd2sqyxkplk1x3j29jpxmawgvxprahj0sw0dr6yqg";
         }
         {
           path = ''ucs_languages/UCS_fr.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_fr.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_fr.txt";
+          sha256 = "1mc8mbc9q4mpx8l469lahiw1apq7f08c8vk3a799l743ydbqcp73";
         }
         {
           path = ''ucs_languages/UCS_it.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_it.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_it.txt";
+          sha256 = "1c2gna8m9rwsbymcclhm90p4iih726jrqz596hbv1dgnfvllzw5c";
         }
         {
           path = ''ucs_languages/UCS_jp.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_jp.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_jp.txt";
+          sha256 = "0sd5l59wwdk2d4qa507m6ya3z3bm8znynaf424snh2p1mg8clb3v";
         }
         {
           path = ''ucs_languages/UCS_kr.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_kr.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_kr.txt";
+          sha256 = "1k7vi14bb7k0bp8xmx98hkrh5lcnfkw48kr18npyh7c6lgrrhk9w";
         }
         {
           path = ''ucs_languages/UCS_nl.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_nl.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_nl.txt";
+          sha256 = "00iclxv8a3xv46vrzrb6zwlsvvywl2s00xrgzfkd3a61xqwzyvr1";
         }
         {
           path = ''ucs_languages/UCS_no.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_no.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_no.txt";
+          sha256 = "1n9dwam003s0jy1sxa1gdj9sl00l2l83dlbwqx8kxla94ab5abkj";
         }
         {
           path = ''ucs_languages/UCS_pl.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_pl.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_pl.txt";
+          sha256 = "01yzyc12kwm1wfnk8ywn65alk0g284rxklirbcigvcwdd1ayczsk";
         }
         {
           path = ''ucs_languages/UCS_pt.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_pt.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_pt.txt";
+          sha256 = "0snqkphznmdwlf6bkz3335ckrlinr9njjr7ff5kwvwx5rh740br0";
         }
         {
           path = ''ucs_languages/UCS_ru.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_ru.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_ru.txt";
+          sha256 = "1ydfpmgbl7hdwsgd7qyx4f43k0ffcykiq2qmxgyf9w950vyb89rq";
         }
         {
           path = ''ucs_languages/UCS_se.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_se.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_se.txt";
+          sha256 = "138cdn10i7r1xqkddayji2j8p9imk55hc4qny8r2kq09s3g41c8j";
         }
         {
           path = ''ucs_languages/UCS_tr.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_tr.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_tr.txt";
+          sha256 = "0c3r2cgbv2bnhkhf2j5i0wgdwpz13z1gsv6y35x9c0gyy8dn9q5g";
         }
         {
           path = ''ucs_languages/UCS_tw.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_tw.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_tw.txt";
+          sha256 = "00ljb6v3bv5bq0wsik74jlidsfvxqkm762zvp4x9ksz6x778xzrx";
         }
         {
           path = ''ucs_languages/UCS_ua.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_ua.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_ua.txt";
+          sha256 = "05c5fjrvk3ig47gzf1pxw1cdgmczv3qsm0xdf4irx8spnfb4vlih";
         }
         {
           path = ''ucs_languages/UCS_us.txt'';
-          url = "https://github.com/acendan/reascripts/raw/8ed6ea1bdc524104374e642461c14cf04e3c297f/Web%20Interfaces/ucs_languages/UCS_us.txt";
-          sha256 = "";
+          url = "https://github.com/acendan/reascripts/raw/d7bf96a4a9fe9f11b76c7acad0d67f19c647406f/Web%20Interfaces/ucs_languages/UCS_us.txt";
+          sha256 = "1khk3scjc3z31d0v625q2ff3cblnldcvk33sna96bm4q9bfkni5c";
         }
       ];
     };

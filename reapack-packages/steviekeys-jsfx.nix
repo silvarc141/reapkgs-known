@@ -1259,6 +1259,40 @@
         }
       ];
     };
+    blue-vocal-compressor-jsfx-0-5-1beta = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "blue-vocal-compressor-jsfx-0-5-1beta";
+      indexName = "StevieKeys JSFX";
+      categoryName = "Dynamics";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/02c9b4505127119c21c8cf3cf76a0e618041412d/Dynamics/Blue%20Vocal%20Compressor.jsfx";
+          sha256 = "0gy4rm2kriyr6hvdqj0jrli62ch09s8x2fhm8r4r8hqcymcwh82j";
+        }
+        {
+          path = ''Blue_Vocal_Compressor/ChiControl.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/02c9b4505127119c21c8cf3cf76a0e618041412d/Dynamics/Blue_Vocal_Compressor/ChiControl.png";
+          sha256 = "1qkpakah6i28gmq6mcykadbicd6fiiznw213kndwx530i9h5prbh";
+        }
+        {
+          path = ''Blue_Vocal_Compressor/GUI_version_1.jsfx-inc'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/02c9b4505127119c21c8cf3cf76a0e618041412d/Dynamics/Blue_Vocal_Compressor/GUI_version_1.jsfx-inc";
+          sha256 = "17xnp7g62rqah5mvc8m9c45rqqivlxx6rphibnn9md9wn4l77ryg";
+        }
+        {
+          path = ''Blue_Vocal_Compressor/Vintage_PPM_meter.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/02c9b4505127119c21c8cf3cf76a0e618041412d/Dynamics/Blue_Vocal_Compressor/Vintage_PPM_meter.png";
+          sha256 = "10qi36a4gwbacfvkzn1fhfpnsr5r7s42yrbx28dn23252xspc4lp";
+        }
+        {
+          path = ''Blue_Vocal_Compressor/st-oversampler.jsfx-inc'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/02c9b4505127119c21c8cf3cf76a0e618041412d/Dynamics/Blue_Vocal_Compressor/st-oversampler.jsfx-inc";
+          sha256 = "03yzdg4v9a2gd25w3j719phv7mlazbgzhjkgh1vp1ibflf2sxsfc";
+        }
+      ];
+    };
     hq-track-compressor-jsfx-0-1-0beta = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "hq-track-compressor-jsfx-0-1-0beta";
@@ -1880,6 +1914,50 @@
         }
       ];
     };
+    hq-track-compressor-jsfx-0-5-7beta = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "hq-track-compressor-jsfx-0-5-7beta";
+      indexName = "StevieKeys JSFX";
+      categoryName = "Dynamics";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/055ac900920c7c7dd7a86289f977f61587fb48bc/Dynamics/HQ%20Track%20Compressor.jsfx";
+          sha256 = "184aqksrj1sh3w53aqwl0nvq3rywn1l043y12si6q7c88z97m81z";
+        }
+        {
+          path = ''HQ_Track_Compressor/HQcomp_back.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/055ac900920c7c7dd7a86289f977f61587fb48bc/Dynamics/HQ_Track_Compressor/HQcomp_back.png";
+          sha256 = "1c6nx2mrgz70a52v55w24w5zkhm082j495i25a0ixcx5dhgviv6q";
+        }
+        {
+          path = ''HQ_Track_Compressor/HQcomp_text.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/055ac900920c7c7dd7a86289f977f61587fb48bc/Dynamics/HQ_Track_Compressor/HQcomp_text.png";
+          sha256 = "1j1bgk7ygkk0br241nh6rbn24ls8jipwk09qq7w34l7h78ch9xpr";
+        }
+        {
+          path = ''HQ_Track_Compressor/Simple_blue.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/055ac900920c7c7dd7a86289f977f61587fb48bc/Dynamics/HQ_Track_Compressor/Simple_blue.png";
+          sha256 = "1mkwbl1w3z32dyxkzfvixck1n29xxasbx2qdv8gv64bxzw50y071";
+        }
+        {
+          path = ''HQ_Track_Compressor/Simple_red.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/055ac900920c7c7dd7a86289f977f61587fb48bc/Dynamics/HQ_Track_Compressor/Simple_red.png";
+          sha256 = "0s6na63g2kljryfcnfkjm86b2ypva8ag6wc634k8h9z3b4fkif1l";
+        }
+        {
+          path = ''HQ_Track_Compressor/Simple_silver.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/055ac900920c7c7dd7a86289f977f61587fb48bc/Dynamics/HQ_Track_Compressor/Simple_silver.png";
+          sha256 = "03qhyingj7kn7n8r1f4b91khralvhm9dbgh92d0lk976w6n16bri";
+        }
+        {
+          path = ''HQ_Track_Compressor/Vintage_PPM_meter.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/055ac900920c7c7dd7a86289f977f61587fb48bc/Dynamics/HQ_Track_Compressor/Vintage_PPM_meter.png";
+          sha256 = "10qi36a4gwbacfvkzn1fhfpnsr5r7s42yrbx28dn23252xspc4lp";
+        }
+      ];
+    };
     limit-smash-jsfx-3-1-1 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "limit-smash-jsfx-3-1-1";
@@ -2422,6 +2500,20 @@
         }
       ];
     };
+    transient-softener-2-jsfx-2-0-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "transient-softener-2-jsfx-2-0-0";
+      indexName = "StevieKeys JSFX";
+      categoryName = "Other";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b5c2710cef361abfc3e9c6a9223b5dbdcf3adcf3/Other/Transient%20Softener%202.jsfx";
+          sha256 = "0k30m9pgcxcj28zqk2iz77fvkj6632hf1cqbh5s5af8cil7x8p2g";
+        }
+      ];
+    };
     transient-softener-jsfx-1-6-1 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "transient-softener-jsfx-1-6-1";
@@ -2461,6 +2553,20 @@
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/ce685c9e4b948ead2da4034f37d6c624c695ef41/Other/Transient%20Softener.jsfx";
           sha256 = "0d55q697h5xbar5v8ysgcg53xq5mg28bc131150z8m24m568v8jd";
+        }
+      ];
+    };
+    j-clip-jsfx-0-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "j-clip-jsfx-0-2";
+      indexName = "StevieKeys JSFX";
+      categoryName = "Saturation";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2f57d08b1b573d2d93a55883b40500fc595e0e7c/Saturation/J%20Clip.jsfx";
+          sha256 = "00s34lb8j5ghzmiqlan5ymmd8z7sj9q9pq3iys08xskxw68zjffm";
         }
       ];
     };
@@ -2632,6 +2738,34 @@
         }
       ];
     };
+    haas-delay-and-filtering-jsfx-3-0-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "haas-delay-and-filtering-jsfx-3-0-2";
+      indexName = "StevieKeys JSFX";
+      categoryName = "Stereo Enhancers";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/cf37b50d0613a0d34cbcf189e4eb6fb19471b284/Stereo%20Enhancers/Haas%20Delay%20and%20Filtering.jsfx";
+          sha256 = "1p45m65ff9zrr5v9dv7y8wq98hd9zw3p8f1mv70faphgzj1x7gl1";
+        }
+      ];
+    };
+    haas-delay-and-filtering-jsfx-3-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "haas-delay-and-filtering-jsfx-3-1-0";
+      indexName = "StevieKeys JSFX";
+      categoryName = "Stereo Enhancers";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/4be047465c93a065ed22b725975f5cc55aa17070/Stereo%20Enhancers/Haas%20Delay%20and%20Filtering.jsfx";
+          sha256 = "12lnsibwxqwwvdr3za01kpnr0pkbnf4mjsl7n3d436qw905n8w77";
+        }
+      ];
+    };
     auto-deesser-jsfx-0-2-0beta = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "auto-deesser-jsfx-0-2-0beta";
@@ -2727,6 +2861,20 @@
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/46b345e4148ad0827b371cf6fbc3dbdceb6725ed/utility/Maximum%20Resolution%20Dither.jsfx";
           sha256 = "09mzivjspr2ysll80vxds2qlbc7cwv965ir66ambl0ig5v4l2m7j";
+        }
+      ];
+    };
+    maximum-resolution-dither-jsfx-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "maximum-resolution-dither-jsfx-1-0-1";
+      indexName = "StevieKeys JSFX";
+      categoryName = "utility";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/e01cba979b3bf5100e583a260c32da4ca3d0ed15/utility/Maximum%20Resolution%20Dither.jsfx";
+          sha256 = "1a23ak1qw81bjjzvp0i4yasn5ljrxzx01waarrk4rbgm7j7q80nk";
         }
       ];
     };

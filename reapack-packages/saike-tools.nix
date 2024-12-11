@@ -145,6 +145,35 @@
         }
       ];
     };
+    saike-abyss-jsfx-0-06 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saike-abyss-jsfx-0-06";
+      indexName = "Saike Tools";
+      categoryName = "Abyss";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c4f6629d3661bcc0ea7f77a9c3fda13c9165f672/Abyss/saike_abyss.jsfx";
+          sha256 = "1v451a1xg8i4z6kmc5zfqxfzs2cp4yrq1pa3wdkqrpsw50q4ynq7";
+        }
+        {
+          path = ''Abyss_Dependencies/saike_abyss_delays.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c4f6629d3661bcc0ea7f77a9c3fda13c9165f672/Abyss/Abyss_Dependencies/saike_abyss_delays.jsfx-inc";
+          sha256 = "1s92d6sbadblprn581nsp2s3dbzxn85kxmlnpnifvjwcqqp4c4qi";
+        }
+        {
+          path = ''Abyss_Dependencies/saike_abyss_pitchlib.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c4f6629d3661bcc0ea7f77a9c3fda13c9165f672/Abyss/Abyss_Dependencies/saike_abyss_pitchlib.jsfx-inc";
+          sha256 = "19grbc3i8cl1w6l2hv6fcj6w8y7nijvnqhqfcsv86dfs374c4y79";
+        }
+        {
+          path = ''Abyss_Dependencies/saike_abyss_verb.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c4f6629d3661bcc0ea7f77a9c3fda13c9165f672/Abyss/Abyss_Dependencies/saike_abyss_verb.jsfx-inc";
+          sha256 = "1qswbq63nz5yxyvd2lmqm6a9ghy6329c78gp5zk23ndywqidi550";
+        }
+      ];
+    };
     amaranth-jsfx-0-01 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "amaranth-jsfx-0-01";
@@ -13887,6 +13916,60 @@
         {
           path = ''saike_lava.jsfx.rpl'';
           url = "https://github.com/JoepVanlier/JSFX/raw/1a1a2fe944bcce918a9ec727b5a759515c974b68/lavaverb/saike_lava.jsfx.rpl";
+          sha256 = "1l7xy9vrx944fgdc948dhhwdw1b2zxskcnz21ddissxracwwbk72";
+        }
+      ];
+    };
+    saike-lava-jsfx-0-27 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saike-lava-jsfx-0-27";
+      indexName = "Saike Tools";
+      categoryName = "lavaverb";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c4f6629d3661bcc0ea7f77a9c3fda13c9165f672/lavaverb/saike_lava.jsfx";
+          sha256 = "1s5fa4gnk6888si5imri0ccycjhkmpq09v4s9fnyzgk0k58cr3m3";
+        }
+        {
+          path = ''Lava_Dependencies/saike_fft_verb.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c4f6629d3661bcc0ea7f77a9c3fda13c9165f672/lavaverb/Lava_Dependencies/saike_fft_verb.jsfx-inc";
+          sha256 = "08hf45ax323zr9772cnk3vj4n9yfcl0jww86zk34g3f0zhrbn02b";
+        }
+        {
+          path = ''Lava_Dependencies/saike_lava_cabs.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c4f6629d3661bcc0ea7f77a9c3fda13c9165f672/lavaverb/Lava_Dependencies/saike_lava_cabs.jsfx-inc";
+          sha256 = "0nxx2p3y4rkia3zqgpypwvhn5i0m7lzsn8i7bzx2l24n26b6bnh7";
+        }
+        {
+          path = ''Lava_Dependencies/saike_lava_delays.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c4f6629d3661bcc0ea7f77a9c3fda13c9165f672/lavaverb/Lava_Dependencies/saike_lava_delays.jsfx-inc";
+          sha256 = "1s92d6sbadblprn581nsp2s3dbzxn85kxmlnpnifvjwcqqp4c4qi";
+        }
+        {
+          path = ''Lava_Dependencies/saike_lava_fluid.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c4f6629d3661bcc0ea7f77a9c3fda13c9165f672/lavaverb/Lava_Dependencies/saike_lava_fluid.jsfx-inc";
+          sha256 = "0l3hykj1w74q8gmrmdimvjw1z7hslffcjp5zrxvj447kpq1ydlhi";
+        }
+        {
+          path = ''Lava_Dependencies/saike_lava_gfx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c4f6629d3661bcc0ea7f77a9c3fda13c9165f672/lavaverb/Lava_Dependencies/saike_lava_gfx.jsfx-inc";
+          sha256 = "01kp1ci5x561lw2vggyvi12mvw7h7q6610sqlgpvdyllz8p1m2q8";
+        }
+        {
+          path = ''Lava_Dependencies/saike_lava_pitchlib.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c4f6629d3661bcc0ea7f77a9c3fda13c9165f672/lavaverb/Lava_Dependencies/saike_lava_pitchlib.jsfx-inc";
+          sha256 = "03wapvs7bgydv34cqq7pqsn1a8z3rcd267xva94s8l3f4xqg7j49";
+        }
+        {
+          path = ''Lava_Dependencies/saike_lava_verb.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c4f6629d3661bcc0ea7f77a9c3fda13c9165f672/lavaverb/Lava_Dependencies/saike_lava_verb.jsfx-inc";
+          sha256 = "0sy328amasgyjlsaghk2gpd4jms0fnnjspix5frlgh7qp0qqijg9";
+        }
+        {
+          path = ''saike_lava.jsfx.rpl'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c4f6629d3661bcc0ea7f77a9c3fda13c9165f672/lavaverb/saike_lava.jsfx.rpl";
           sha256 = "1l7xy9vrx944fgdc948dhhwdw1b2zxskcnz21ddissxracwwbk72";
         }
       ];
@@ -36239,6 +36322,44 @@
         {
           path = ''colormaps.jsfx-inc'';
           url = "https://github.com/JoepVanlier/JSFX/raw/70f4ead3f2e1469d79534c81f0f81aded402c519/SpectrumAnalyzer/colormaps.jsfx-inc";
+          sha256 = "04blg31f16jwx9yzq6nr6lvvnpvbr9gw4xqr2asgr2i8ap27lfvz";
+        }
+      ];
+    };
+    saikemultispectralanalyzer-jsfx-5-0-37 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saikemultispectralanalyzer-jsfx-5-0-37";
+      indexName = "Saike Tools";
+      categoryName = "SpectrumAnalyzer";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/67d554a877a94ee0a0fb335b54ce4fe3eba113db/SpectrumAnalyzer/SaikeMultiSpectralAnalyzer.jsfx";
+          sha256 = "0szmfrl6p1w4k30hcj480ma35jqq9bfi4a61qn5hll0yvxkmjsff";
+        }
+        {
+          path = ''colormaps.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/67d554a877a94ee0a0fb335b54ce4fe3eba113db/SpectrumAnalyzer/colormaps.jsfx-inc";
+          sha256 = "04blg31f16jwx9yzq6nr6lvvnpvbr9gw4xqr2asgr2i8ap27lfvz";
+        }
+      ];
+    };
+    saikemultispectralanalyzer-jsfx-5-0-39 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saikemultispectralanalyzer-jsfx-5-0-39";
+      indexName = "Saike Tools";
+      categoryName = "SpectrumAnalyzer";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/e96a3f887cf31d8ad85662cb950d6a4dcdcfa676/SpectrumAnalyzer/SaikeMultiSpectralAnalyzer.jsfx";
+          sha256 = "1fycqwy9gcq81whcj3pgn5d1z5nc069fwa8mcm476pkpbngpbjhd";
+        }
+        {
+          path = ''colormaps.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/e96a3f887cf31d8ad85662cb950d6a4dcdcfa676/SpectrumAnalyzer/colormaps.jsfx-inc";
           sha256 = "04blg31f16jwx9yzq6nr6lvvnpvbr9gw4xqr2asgr2i8ap27lfvz";
         }
       ];

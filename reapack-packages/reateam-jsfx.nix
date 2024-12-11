@@ -5904,6 +5904,62 @@
         }
       ];
     };
+    talagan-midi-delay-x-jsfx-0-3 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "talagan-midi-delay-x-jsfx-0-3";
+      indexName = "ReaTeam JSFX";
+      categoryName = "MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/JSFX/raw/5f8d18f7941f41390119c757fcfecc65f8b8fa97/MIDI/talagan_MIDI%20Delay%20X.jsfx";
+          sha256 = "0ha2py1w9alkyzd7if76nfdsxb23y1bi2b74yz5c01hyg5qv9ffh";
+        }
+      ];
+    };
+    talagan-midi-delay-x-jsfx-0-4 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "talagan-midi-delay-x-jsfx-0-4";
+      indexName = "ReaTeam JSFX";
+      categoryName = "MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/JSFX/raw/a1ebfccf88d05d34606104b462acb08b0e8104ec/MIDI/talagan_MIDI%20Delay%20X.jsfx";
+          sha256 = "17cr2d0aqs1qqpixnq884bpi9dq9nabxv2s32crlxh2c2pl8ks1y";
+        }
+      ];
+    };
+    talagan-midi-delay-x-jsfx-0-5 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "talagan-midi-delay-x-jsfx-0-5";
+      indexName = "ReaTeam JSFX";
+      categoryName = "MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/JSFX/raw/eeb087b70ffc2d19b41e379e41bb5b56b8c9092b/MIDI/talagan_MIDI%20Delay%20X.jsfx";
+          sha256 = "1g1l8p1xc0df2339lhdv6aygk9yrj48f2m020zpwvdh3i44pcmss";
+        }
+      ];
+    };
+    talagan-midi-force-notes-to-range-jsfx-0-5 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "talagan-midi-force-notes-to-range-jsfx-0-5";
+      indexName = "ReaTeam JSFX";
+      categoryName = "MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/JSFX/raw/75226ffbcdabab68d94ccf87727f2d7ee956077e/MIDI/talagan_MIDI%20Force%20Notes%20to%20Range.jsfx";
+          sha256 = "0m676nr8sgb0hjs7jskhiqg0v93vsip2ch5py3x0b2qmyjb48ca2";
+        }
+      ];
+    };
     talagan-midi-note-remapper-jsfx-0-4 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "talagan-midi-note-remapper-jsfx-0-4";
@@ -5915,6 +5971,34 @@
           path = '''';
           url = "https://github.com/ReaTeam/JSFX/raw/be973f9b7104038382c78a3be21ed5bb98a036b6/MIDI/talagan_MIDI%20Note%20Remapper.jsfx";
           sha256 = "15s0hwaw0r21r9x7hq3s6kpfhr2m5z7xw09qk3l7ci7xv26g61g3";
+        }
+      ];
+    };
+    talagan-midi-note-remapper-jsfx-0-5 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "talagan-midi-note-remapper-jsfx-0-5";
+      indexName = "ReaTeam JSFX";
+      categoryName = "MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/JSFX/raw/4765ee9eb08e55039beed8e3e8f40a8fa0fae025/MIDI/talagan_MIDI%20Note%20Remapper.jsfx";
+          sha256 = "158lcj5ba6g51ypaj28n5shwxj3rfwd9vdwkyw14zrdh8vac48b3";
+        }
+      ];
+    };
+    talagan-midi-note-remapper-jsfx-0-6 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "talagan-midi-note-remapper-jsfx-0-6";
+      indexName = "ReaTeam JSFX";
+      categoryName = "MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/JSFX/raw/de1faadd17ae962bf7436b312881af15b75cdfbf/MIDI/talagan_MIDI%20Note%20Remapper.jsfx";
+          sha256 = "0a4a3rn1f7xhkk4hy75mycsvz31sncwsm5q6zw319zzw0czjkrwp";
         }
       ];
     };
@@ -11315,6 +11399,20 @@
           path = '''';
           url = "https://github.com/ReaTeam/JSFX/raw/7f2f0c085b27393a6c642f3f6cffd8197aa4f262/Utility/CoreyScogin_TimeDelayByDistance.jsfx";
           sha256 = "19sx6599nv510iawzmzqadlr7y98399vaxvjzvih8h57rvdc256z";
+        }
+      ];
+    };
+    denisfilippov-simple-stereo-width-control-jsfx-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "denisfilippov-simple-stereo-width-control-jsfx-1-0";
+      indexName = "ReaTeam JSFX";
+      categoryName = "Utility";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/JSFX/raw/74461a8f7932a1a944ec1d186987cc9d20306d19/Utility/denisfilippov_Simple%20Stereo%20Width%20Control.jsfx";
+          sha256 = "0dnl8xdxvrlf64gpiv8wkxl2kjk1gsdmxwwviwf0frir7ki0c8mx";
         }
       ];
     };

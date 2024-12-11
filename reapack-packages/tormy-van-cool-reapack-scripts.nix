@@ -14,7 +14,7 @@
       sources = [
         {
           path = ''TormyVanCool_AudioBooks_ChapterMarker.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/12d20c276e087bb6e67776f9d7db197c1874970f/TormyVanCool_AudioBooks_ChapterMarker.lua";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/8189bc6078a0f4d13c4a7f11a8275faa5051c611/Markers/TormyVanCool_AudioBooks_ChapterMarker.lua";
           sha256 = "1ass3ihvihgaa4q1h07k4q2g1bfcwkyjnkn6ajfyyw6b8pqgjgln";
         }
       ];
@@ -28,8 +28,8 @@
       sources = [
         {
           path = ''TormyVanCool_AudioBooks_ChapterMarkerUpdater.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/47894d3cfb325ec3a535df5e8a288296a9562fbe/TormyVanCool_AudioBooks_ChapterMarkerUpdater.lua";
-          sha256 = "1c48i9897v6cyhl0hq7vl8awgs8axsn1c5hs3wm7i6rjib3k584n";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/afe66ce671fb113926bace1a71368867a45304e7/Markers/TormyVanCool_AudioBooks_ChapterMarkerUpdater.lua";
+          sha256 = "10s5wal5bajxyxqyhql27fxhbgcpj5r8m0zjrbigk9y8rjhwgaiw";
         }
       ];
     };
@@ -42,8 +42,8 @@
       sources = [
         {
           path = ''TormyVanCool_Tempo_Markers_to_CSV.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/803e2c36b047c35c51c2770fa4f77732a969048c/TormyVanCool_Tempo_Markers_to_CSV.lua";
-          sha256 = "0yayk748fika9qqlcv44g05akzs49ns5h906vxnbkjlibrxwrmi3";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/6f0af8227f315928f2bcabeccd5641b81024ddae/Markers/TormyVanCool_Import_Tempo_Markers.lua";
+          sha256 = "01vrl9v3lyi33n5aa9w042i9qpwy0ayk8gav9sixm2l33wcyg6kb";
         }
       ];
     };
@@ -56,8 +56,8 @@
       sources = [
         {
           path = ''TormyVanCool_Import_Tempo_Markers.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/8173662016ddb7f473d8a73af0ee7c98821fefe3/TormyVanCool_Import_Tempo_Markers.lua";
-          sha256 = "0jg78j4y3cc8bg66vkd0nkpc0698x46csqykqwz4byggbb7kp6yw";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/4a5db3a05aa5b39412d34751d1f64397aa7f8154/Markers/TormyVanCool_Import_Tempo_Markers.lua";
+          sha256 = "01vrl9v3lyi33n5aa9w042i9qpwy0ayk8gav9sixm2l33wcyg6kb";
         }
       ];
     };
@@ -70,8 +70,8 @@
       sources = [
         {
           path = ''TormyVanCool_Podcasts_Songs.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/420caf38fe36d86efd5e4fa54a20e036e3c952bd/TormyVanCool_Podcasts_Songs.lua";
-          sha256 = "0dgs7vrq5plm39ljbz86rl4wy2yic78ygq1wgxlm988nrf6dk9bz";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/c04f346dd3b3383dca4e8d35771735e28cb542ee/Regions/TormyVanCool_Podcasts_Songs.lua";
+          sha256 = "08ickhgh9y97jlis3z5w7vx5j2v8xbir52a1s8fpvibp3mp0yr8p";
         }
       ];
     };
@@ -84,8 +84,8 @@
       sources = [
         {
           path = ''TormyVanCool_Podcasts_Auto_GetMetaData.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/6e2d7bd6ca4ab90a472657a0d9983a3cf4fec98f/TormyVanCool_Podcasts_Auto_GetMetaData.lua";
-          sha256 = "11c82mhn6isg01swsi3g7vyynlmzdy6wnfma6x1gc91x0iv4cyp3";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Auto_GetMetaData.lua";
+          sha256 = "0xrkb8r07pr4g1lhbmacg4f3ybgfjz2a73kycs3flwhi23rrr3j7";
         }
       ];
     };
@@ -98,7 +98,7 @@
       sources = [
         {
           path = ''TormyVanCool_Podcasts_Segmentation_FinalMarker.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/0ba13f4526c90068aafe20bfd14a1ef91a7b8f57/TormyVanCool_Podcasts_Segmentation_FinalMarker.lua";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Segmentation_FinalMarker.lua";
           sha256 = "1d0wpkwrbjd17w3agdzj767028jmklr3jyq294azjq42m4m00k16";
         }
       ];
@@ -112,7 +112,7 @@
       sources = [
         {
           path = ''TormyVanCool_Podcasts_Updater.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/695358ba22e6b0212d3fc21155cb944994841730/TormyVanCool_Podcasts_Updater.lua";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/d90150c2db1c469213fe2cfbba9682a799ad108b/Regions/TormyVanCool_Podcasts_Updater.lua";
           sha256 = "0p28bzi3cv0nmcv0m864l4c8pl78wlpsm09v0zlzfx9nqr9ph8hb";
         }
       ];
@@ -126,8 +126,8 @@
       sources = [
         {
           path = ''TormyVanCool_Songs_Library.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/31e22d619c178d73771f4840f6aeb14711fb1137/TormyVanCool_Songs_Library.lua";
-          sha256 = "01ygc69sfsblivh9m5fv90ycmraqg5sjk385452ngr7viap92p9x";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/64f8f0b0a3b1049bec5aa0e1a046262f76d21a48/Regions/TormyVanCool_Songs_Library.lua";
+          sha256 = "1l32ddm5wwvkaqyj9pn7z9kf38adpzi5mssqn01qsq2ggqzh02ym";
         }
       ];
     };
@@ -140,37 +140,62 @@
       sources = [
         {
           path = ''TormyVanCool_ExportStems.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/8524d4502738d92a29505488d195b04f6eef2452/TormyVanCool_ExportStems.lua";
-          sha256 = "0yjf2zx3r15ff4790phljdzyzcpkr1xdd39m8dq1vnk2fy3zwk43";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/1ebcd4ee0f783f7b82804fe0100761a14c11ec5b/Rendering/TormyVanCool_ExportStems.lua";
+          sha256 = "073a1cs6kvgrp1ldj75lx10rws4hqyh6hhflk2fq3ivclg4y5qg9";
         }
       ];
     };
-    tormyvancool-youtube-downloader-lua-1-6 = mkReapackPackage {
+    tormyvancool-youtube-downloader-lua-3-1 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "tormyvancool-youtube-downloader-lua-1-6";
+      name = "tormyvancool-youtube-downloader-lua-3-1";
       indexName = "Tormy Van Cool ReaPack Scripts";
-      categoryName = "Various";
+      categoryName = "Video";
       packageType = "script";
       sources = [
         {
           path = ''TormyVanCool_YOUTUBE_Downloader.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/0d00fa26bc3cb2454f0958f27feace8fbaf6be07/TormyVanCool_YOUTUBE_Downloader.lua";
-          sha256 = "0gpg2a7ysa1gsn6q441xwcpvvkai60p53kq2z1nv8k1sfmn6qqa0";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/3618c138313c15ddb3de39971f27b14eed63665e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
+          sha256 = "1nhi6hidp9dh4843bwgx7bkgc91389361rz47zsp05wl4vf8vj8i";
         }
         {
           path = ''yt-dlp/yt-dlp.exe'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/0de35bac5740e04276f1d378328cfabd79884d14/Donwloaders/yt-dlp.exe";
-          sha256 = "0l81zl2n64rsw9pr3r23pr4vijj9wsz141sa6vjjg4mrg1sjazs2";
+          url = "https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe";
+          sha256 = "0i2i1hjrwackb9qy6lxf5p5r3nr3kn0iyj77541liw5fmm84yasq";
         }
         {
           path = ''yt-dlp/yt-dlp_macos'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/0de35bac5740e04276f1d378328cfabd79884d14/Donwloaders/yt-dlp_macos";
-          sha256 = "1ra5f0lqff98nxass3wwslqlkp6n67598ax94bs5jj3pcsn92x52";
+          url = "https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_macos";
+          sha256 = "0sj8pmsv0ms749rdx2hp9p8z35hb69wjbq4qy0jafh3s31zci00n";
         }
         {
-          path = ''yt-dlp/yt-dlp'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/0de35bac5740e04276f1d378328cfabd79884d14/Donwloaders/yt-dlp";
-          sha256 = "1fzpig6dn0b9wcrk0rgl6vbmfsd5qim3q0i6rnni4mbcd2sk6w58";
+          path = ''yt-dlp/yt-dlp_macos'';
+          url = "https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_macos";
+          sha256 = "0sj8pmsv0ms749rdx2hp9p8z35hb69wjbq4qy0jafh3s31zci00n";
+        }
+        {
+          path = ''yt-dlp/yt-dlp_linux'';
+          url = "https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp";
+          sha256 = "06krxzjfwgwj5fq3mix695h3wz85vl387z2gi5l7hai0m99qdnzv";
+        }
+        {
+          path = '''';
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/3618c138313c15ddb3de39971f27b14eed63665e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
+          sha256 = "1nhi6hidp9dh4843bwgx7bkgc91389361rz47zsp05wl4vf8vj8i";
+        }
+        {
+          path = '''';
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/3618c138313c15ddb3de39971f27b14eed63665e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
+          sha256 = "1nhi6hidp9dh4843bwgx7bkgc91389361rz47zsp05wl4vf8vj8i";
+        }
+        {
+          path = '''';
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/3618c138313c15ddb3de39971f27b14eed63665e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
+          sha256 = "1nhi6hidp9dh4843bwgx7bkgc91389361rz47zsp05wl4vf8vj8i";
+        }
+        {
+          path = '''';
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/3618c138313c15ddb3de39971f27b14eed63665e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
+          sha256 = "1nhi6hidp9dh4843bwgx7bkgc91389361rz47zsp05wl4vf8vj8i";
         }
       ];
     };
@@ -183,8 +208,8 @@
       sources = [
         {
           path = ''TormyVanCool_Program_Runner.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/36c9db3aee01179cc2eb6ea928b2f8ea7250c4c6/TormyVanCool_Program_Runner.lua";
-          sha256 = "0mrxjmfdwnxzmhi01968l5jwxb91d83g6m9yh5dsghkw8iya487m";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/6f3a41d0e81ed7c7f297c2176bc4ebacbbc6330f/Various/TormyVanCool_Program_Runner.lua";
+          sha256 = "15iwxawkf8qacr7k765dw3wp3aql294xlnndlywgvpykvb1iwm9k";
         }
       ];
     };
@@ -192,13 +217,13 @@
       inherit lib stdenv fetchurl;
       name = "tormyvancool-exportdata-lua-3-5";
       indexName = "Tormy Van Cool ReaPack Scripts";
-      categoryName = "Various";
+      categoryName = "Project Properties";
       packageType = "script";
       sources = [
         {
           path = ''TormyVanCool_ExportData.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/17966d06ac0ebefbff6fe4a96d723da9f22e9fa6/TormyVanCool_ExportData.lua";
-          sha256 = "06s1d73wwbvvx7v15izd03ik5rm8kx321giza6fxfan98w3ck532";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/509d83a22cc8de33d25eb07c0cc5f6d477dcede0/Project%20Properties/TormyVanCool_ExportData.lua";
+          sha256 = "0qm7jwfn9r3p6fyylkll5q9rand0b0ridfm41nd6qh6ls77l7af8";
         }
       ];
     };
@@ -206,13 +231,13 @@
       inherit lib stdenv fetchurl;
       name = "tormyvancool-vsts-vstis-extractor-lua-2-1";
       indexName = "Tormy Van Cool ReaPack Scripts";
-      categoryName = "Various";
+      categoryName = "FX";
       packageType = "script";
       sources = [
         {
           path = ''TormyVanCool_VSTs-VSTis-Extractor.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/ad5912d2cf303eb94bdd607fed52462877ee47c2/TormyVanCool_VSTs-VSTis-Extractor.lua";
-          sha256 = "0gcd5vxqvd26pgrrjykac4angk03mck7rw9fv6davv2kly130q09";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/e4f8c845ae55608de3a3fc59d0dcb6dbcb8d7fb7/FX/TormyVanCool_VSTs-VSTis-Extractor.lua";
+          sha256 = "135n3rkgbzp8glixjagryar3jb8s5njfmx5wpjw55fbavcj09b25";
         }
       ];
     };
@@ -220,7 +245,7 @@
       inherit lib stdenv fetchurl;
       name = "tormyvancool-vsts-vstis-extractor-lua-2-2-pixy";
       indexName = "Tormy Van Cool ReaPack Scripts";
-      categoryName = "Various";
+      categoryName = "FX";
       packageType = "script";
       sources = [
         {
@@ -234,7 +259,7 @@
       inherit lib stdenv fetchurl;
       name = "tormyvancool-vsts-vstis-extractor-lua-3-1";
       indexName = "Tormy Van Cool ReaPack Scripts";
-      categoryName = "Various";
+      categoryName = "FX";
       packageType = "script";
       sources = [
         {
