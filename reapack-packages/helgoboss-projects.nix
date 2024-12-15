@@ -551,6 +551,115 @@
         }
       ];
     };
+    realearn-x64-2-16-15 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "realearn-x64-2-16-15";
+      indexName = "Helgoboss Projects";
+      categoryName = "Extensions";
+      packageType = "extension";
+      sources = [
+        {
+          path = ''FX/helgobox-x64.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.15/helgobox-windows-x86_64.dll";
+          sha256 = "1br9db0s34r5azc4aaxy6wkp9wdx60ydikpddkrj3jhpajragwz1";
+        }
+        {
+          path = ''FX/helgobox-x64.vst.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.15/helgobox-macos-x86_64.vst.dylib";
+          sha256 = "099blw5zf4vvfml3hci3yyfppsbqsx8qld9ggxgfw1j4l2w1fx2d";
+        }
+        {
+          path = ''FX/helgobox-x64.so'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.15/helgobox-linux-x86_64.so";
+          sha256 = "1bn40hgppy0cz62mndy10g88n8hdqcj440ahwssady3wkfcayv3v";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.15/realearn-user-guide.pdf";
+          sha256 = "0ij4alc5aq70vbdk43h3f6kfncvhaaf19l8k5mm10ci7bkx9w6v6";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.15/realearn-user-guide.pdf";
+          sha256 = "0ij4alc5aq70vbdk43h3f6kfncvhaaf19l8k5mm10ci7bkx9w6v6";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.15/realearn-user-guide.pdf";
+          sha256 = "0ij4alc5aq70vbdk43h3f6kfncvhaaf19l8k5mm10ci7bkx9w6v6";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.15/realearn-user-guide.pdf";
+          sha256 = "0ij4alc5aq70vbdk43h3f6kfncvhaaf19l8k5mm10ci7bkx9w6v6";
+        }
+        {
+          path = ''FX/helgobox-arm64.vst.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.15/helgobox-macos-aarch64.vst.dylib";
+          sha256 = "0r6fywp2ylnqk35i4vr1xnijrm37b50hpj7mrjly6fixcx599j3l";
+        }
+        {
+          path = ''reaper_helgobox-arm64.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.15/reaper_helgobox-macos-aarch64.dylib";
+          sha256 = "05xf1nai351g5aw5fr2xcjljqj6d22q30d53csyscnakd4dq0yk3";
+        }
+        {
+          path = ''reaper_helgobox-x64.dylib'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.15/reaper_helgobox-macos-x86_64.dylib";
+          sha256 = "0wlliqsrai4vxbxbg7x1d532s5ba72fa3mmwnh997fdjm02pdfzp";
+        }
+        {
+          path = ''reaper_helgobox-x64.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.15/reaper_helgobox-windows-x86_64.dll";
+          sha256 = "0l5cnv3p59c3mippg3qyzj58ad7rfww7z0a0bj85syckrbf8z6md";
+        }
+        {
+          path = ''helgoboss/archives/helgobox-app.tar.zst'';
+          url = "https://github.com/helgoboss/helgobox-app-dist/releases/download/v0.17.0/helgobox-app-windows.tar.zst";
+          sha256 = "0bpy99plyipy2l81g7zkn2zhz4q36jxqycqf76rcbky4bv9hy68p";
+        }
+        {
+          path = ''helgoboss/archives/helgobox-app.tar.zst'';
+          url = "https://github.com/helgoboss/helgobox-app-dist/releases/download/v0.17.0/helgobox-app-macos.tar.zst";
+          sha256 = "0baigjh2sr56g2a4q1g1vii90pd96q4ah49na2jw57s70p375gr3";
+        }
+        {
+          path = ''helgoboss/archives/helgobox-app.tar.zst'';
+          url = "https://github.com/helgoboss/helgobox-app-dist/releases/download/v0.17.0/helgobox-app-macos.tar.zst";
+          sha256 = "0baigjh2sr56g2a4q1g1vii90pd96q4ah49na2jw57s70p375gr3";
+        }
+        {
+          path = ''toolbar_icons/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
+        }
+        {
+          path = ''toolbar_icons/150/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
+        }
+        {
+          path = ''toolbar_icons/200/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
+        }
+        {
+          path = ''toolbar_icons/toolbar_playtime_custom.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime_custom.png";
+          sha256 = "0v8q72jysbqr8v7m72scw0fbd2p8y30y19py9j1ka9kdi1fwmmd3";
+        }
+        {
+          path = ''toolbar_icons/150/toolbar_playtime_custom.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime_custom.png";
+          sha256 = "1j3l8dy763i7292d0yw91p2nbzn1f5dd0wi7msy3cji6spmgdr7j";
+        }
+        {
+          path = ''toolbar_icons/200/toolbar_playtime_custom.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime_custom.png";
+          sha256 = "14vka9lwqsywnlx3n2hgrw6v9661l2q13a9nz6358wnw3dcnlxsr";
+        }
+      ];
+    };
     realearn-x64-2-16-14 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "realearn-x64-2-16-14";
@@ -630,17 +739,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -724,17 +833,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -818,17 +927,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -912,17 +1021,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -1006,17 +1115,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -1100,17 +1209,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -1194,17 +1303,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -1288,17 +1397,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -1382,17 +1491,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -1476,17 +1585,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -1570,17 +1679,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -1664,17 +1773,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -1758,17 +1867,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -1852,17 +1961,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -1946,17 +2055,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -2040,17 +2149,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -2134,17 +2243,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -2228,17 +2337,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8287,6 +8396,60 @@
         }
       ];
     };
+    realearn-x86-2-16-15 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "realearn-x86-2-16-15";
+      indexName = "Helgoboss Projects";
+      categoryName = "Extensions";
+      packageType = "extension";
+      sources = [
+        {
+          path = ''FX/helgobox-x86.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.15/helgobox-windows-i686.dll";
+          sha256 = "1pfw4fbyix37mfjz5ikzmb2jhb3kz6bijcqslax13b5b501df757";
+        }
+        {
+          path = ''helgoboss/realearn/doc/realearn-user-guide.pdf'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.15/realearn-user-guide.pdf";
+          sha256 = "0ij4alc5aq70vbdk43h3f6kfncvhaaf19l8k5mm10ci7bkx9w6v6";
+        }
+        {
+          path = ''reaper_helgobox-x86.dll'';
+          url = "https://github.com/helgoboss/helgobox/releases/download/v2.16.15/reaper_helgobox-windows-i686.dll";
+          sha256 = "1br9fb0zzr6x7wm022zhh6mr3a2q7vi04dabybknnwcjw1bw8l12";
+        }
+        {
+          path = ''toolbar_icons/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
+        }
+        {
+          path = ''toolbar_icons/150/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
+        }
+        {
+          path = ''toolbar_icons/200/toolbar_playtime.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
+        }
+        {
+          path = ''toolbar_icons/toolbar_playtime_custom.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime_custom.png";
+          sha256 = "0v8q72jysbqr8v7m72scw0fbd2p8y30y19py9j1ka9kdi1fwmmd3";
+        }
+        {
+          path = ''toolbar_icons/150/toolbar_playtime_custom.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime_custom.png";
+          sha256 = "1j3l8dy763i7292d0yw91p2nbzn1f5dd0wi7msy3cji6spmgdr7j";
+        }
+        {
+          path = ''toolbar_icons/200/toolbar_playtime_custom.png'';
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime_custom.png";
+          sha256 = "14vka9lwqsywnlx3n2hgrw6v9661l2q13a9nz6358wnw3dcnlxsr";
+        }
+      ];
+    };
     realearn-x86-2-16-14 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "realearn-x86-2-16-14";
@@ -8311,17 +8474,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8350,17 +8513,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8389,17 +8552,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8428,17 +8591,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8467,17 +8630,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8506,17 +8669,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8545,17 +8708,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8584,17 +8747,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8623,17 +8786,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8662,17 +8825,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8701,17 +8864,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8740,17 +8903,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8779,17 +8942,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8818,17 +8981,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8857,17 +9020,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8896,17 +9059,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8935,17 +9098,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];
@@ -8974,17 +9137,17 @@
         }
         {
           path = ''toolbar_icons/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/toolbar_playtime.png";
           sha256 = "05nxp6s2az7dnviymrxv7qam38irnrayii077rr0j8rp0hfbcdx9";
         }
         {
           path = ''toolbar_icons/150/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/150/toolbar_playtime.png";
           sha256 = "0vcqaaryvkdmw817pgkdfgllq878bszgqr0ycxp7bq1qjczi4zkv";
         }
         {
           path = ''toolbar_icons/200/toolbar_playtime.png'';
-          url = "https://raw.githubusercontent.com/helgoboss/helgobox/e2927854c987a2c3688219a1911f146d88c0d1a1/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
+          url = "https://raw.githubusercontent.com/helgoboss/helgobox/master/resources/artwork/toolbar_icons/200/toolbar_playtime.png";
           sha256 = "1mbfh2mrq7g8ndq8mpnk2kchpnk2isw1q5pgkgwkdh4n615aqq94";
         }
       ];

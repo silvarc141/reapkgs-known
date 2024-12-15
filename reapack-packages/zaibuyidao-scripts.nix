@@ -34272,7 +34272,7 @@
         {
           path = ''SFX/lib/REQ/j_file_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c0deee3b3f54e9ec95425e858032167f40db2579/Various/SFX/lib/REQ/j_file_functions.lua";
-          sha256 = "";
+          sha256 = "10v70h0ayjijv21kbhhyp9xr5ba31jcli0z0b2jgkmpfv3n8j7sb";
         }
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';

@@ -35534,7 +35534,7 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_GUI.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/d645c8668e970a6d84af05e7b2597c05c04948ed/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_GUI.lua";
-          sha256 = "0568vx2z4bx8mqshx67pbg38gcwnnwc9x269ajiph2lxfzpvbwh9";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_DataUpdate.lua'';
@@ -35549,12 +35549,12 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Item.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/d645c8668e970a6d84af05e7b2597c05c04948ed/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Item.lua";
-          sha256 = "0axbxy9n0a9ppaxcma17jyvgldbrp22r6hwanndchx6d0420vpz1";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Envelope.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/d645c8668e970a6d84af05e7b2597c05c04948ed/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Envelope.lua";
-          sha256 = "0v2psi2khp5rcx1h8iwnx4qp68fnrcwwxk4g5whh46a29fp1n18a";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Persist.lua'';
@@ -35583,7 +35583,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/32499e8431ea3b719809d1506a9cca991a95d337/Various/mpl_InteractiveToolbar.lua";
-          sha256 = "17yigz1piryhzx3ldp4hixnbvpl32jf4frzvswq6zqicvm1dw2gz";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_basefunc.lua'';
@@ -35593,7 +35593,7 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_GUI.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/32499e8431ea3b719809d1506a9cca991a95d337/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_GUI.lua";
-          sha256 = "07qfjhnhp1lg9q1y702ixna1mv35syi1ldq2h19cq21kzj93p59p";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_DataUpdate.lua'';
@@ -35608,7 +35608,7 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Item.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/32499e8431ea3b719809d1506a9cca991a95d337/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Item.lua";
-          sha256 = "0axbxy9n0a9ppaxcma17jyvgldbrp22r6hwanndchx6d0420vpz1";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Envelope.lua'';
@@ -35647,7 +35647,7 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_basefunc.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/3a184d5ac076ced62c346dd5ddef01a5bc35fa58/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_basefunc.lua";
-          sha256 = "1lfgzll3k3rbinq2rw31wjqr777mwsr614rwdwxj90nipa9lg9vh";
+          sha256 = "0hgk5z6dh59j5x4cxnq9jlh9csrrzcyqn9k59ms039sri3r9nykk";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_GUI.lua'';
@@ -35657,7 +35657,7 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_DataUpdate.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/3a184d5ac076ced62c346dd5ddef01a5bc35fa58/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_DataUpdate.lua";
-          sha256 = "09026fv9fqsxsgzklxqvsrlmldfqff8g7bhrpbwvgdlj8y9h4p9f";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_MOUSE.lua'';
@@ -35672,12 +35672,12 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Envelope.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/3a184d5ac076ced62c346dd5ddef01a5bc35fa58/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Envelope.lua";
-          sha256 = "0v2psi2khp5rcx1h8iwnx4qp68fnrcwwxk4g5whh46a29fp1n18a";
+          sha256 = "1svblyjar98v5akkwny3jrnhmlhrm899rmal526mmb76l3nrkhj1";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Persist.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/3a184d5ac076ced62c346dd5ddef01a5bc35fa58/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Persist.lua";
-          sha256 = "0r6mra9y7qqbglbcpcsdq8imjxnhjhrr9ikb9i96cqs5gllzwhhi";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Track.lua'';
@@ -35687,7 +35687,7 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_MIDIEditor.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/3a184d5ac076ced62c346dd5ddef01a5bc35fa58/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_MIDIEditor.lua";
-          sha256 = "0n73azlfxm37vgqmwp2g77f3ciqdf89g3v5mq7y6pmzq3zhba1mc";
+          sha256 = "";
         }
       ];
     };
@@ -35706,7 +35706,7 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_basefunc.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e82345f8731883d4201e402507b290beb9836f77/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_basefunc.lua";
-          sha256 = "1lfgzll3k3rbinq2rw31wjqr777mwsr614rwdwxj90nipa9lg9vh";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_GUI.lua'';
@@ -35770,17 +35770,17 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_GUI.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/406b2aa1510050c36f5d6363d780334c7368b347/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_GUI.lua";
-          sha256 = "07qfjhnhp1lg9q1y702ixna1mv35syi1ldq2h19cq21kzj93p59p";
+          sha256 = "17k38c3shsmcfrw88mxbdrjh3g53hz81xbz930b60j6pihn6rwpp";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_DataUpdate.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/406b2aa1510050c36f5d6363d780334c7368b347/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_DataUpdate.lua";
-          sha256 = "09026fv9fqsxsgzklxqvsrlmldfqff8g7bhrpbwvgdlj8y9h4p9f";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_MOUSE.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/406b2aa1510050c36f5d6363d780334c7368b347/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_MOUSE.lua";
-          sha256 = "073j64ywj3l7m8mb0hd57hklfdgka3b1zl6p2k3jpiffhyd5h5r0";
+          sha256 = "170mgp4a4vy2r3mb0sygsgnw6vx3684rz84bywsbwpag1chkswrk";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Item.lua'';
@@ -35800,7 +35800,7 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Track.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/406b2aa1510050c36f5d6363d780334c7368b347/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Track.lua";
-          sha256 = "0pp6zxcph4pns6g27pwj261w8q1mk26padp69s6cmxs2b1pvz8v7";
+          sha256 = "08k05c606prxvlvmwv6wala9i99b2rzzm2f7hbd91fag1d99z7r0";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_MIDIEditor.lua'';
@@ -35824,12 +35824,12 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_basefunc.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5ff3e079683ee622b2a3c70f308086e5c0531850/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_basefunc.lua";
-          sha256 = "1lfgzll3k3rbinq2rw31wjqr777mwsr614rwdwxj90nipa9lg9vh";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_GUI.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5ff3e079683ee622b2a3c70f308086e5c0531850/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_GUI.lua";
-          sha256 = "07qfjhnhp1lg9q1y702ixna1mv35syi1ldq2h19cq21kzj93p59p";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_DataUpdate.lua'';
@@ -35839,12 +35839,12 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_MOUSE.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5ff3e079683ee622b2a3c70f308086e5c0531850/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_MOUSE.lua";
-          sha256 = "073j64ywj3l7m8mb0hd57hklfdgka3b1zl6p2k3jpiffhyd5h5r0";
+          sha256 = "170mgp4a4vy2r3mb0sygsgnw6vx3684rz84bywsbwpag1chkswrk";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Item.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5ff3e079683ee622b2a3c70f308086e5c0531850/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Item.lua";
-          sha256 = "0axbxy9n0a9ppaxcma17jyvgldbrp22r6hwanndchx6d0420vpz1";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Envelope.lua'';
@@ -35854,7 +35854,7 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Persist.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5ff3e079683ee622b2a3c70f308086e5c0531850/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Persist.lua";
-          sha256 = "0r6mra9y7qqbglbcpcsdq8imjxnhjhrr9ikb9i96cqs5gllzwhhi";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Track.lua'';
@@ -35864,7 +35864,7 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_MIDIEditor.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5ff3e079683ee622b2a3c70f308086e5c0531850/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_MIDIEditor.lua";
-          sha256 = "0n73azlfxm37vgqmwp2g77f3ciqdf89g3v5mq7y6pmzq3zhba1mc";
+          sha256 = "";
         }
       ];
     };
@@ -35878,7 +35878,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/57ef51fe73d756ff45f2768a4ba6fe122137053a/Various/mpl_InteractiveToolbar.lua";
-          sha256 = "1s1i66f5jl933lddrxkijybwhb32zl3qcd4nglb6dlvnqqz55qmq";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_basefunc.lua'';
@@ -35893,17 +35893,17 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_DataUpdate.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/57ef51fe73d756ff45f2768a4ba6fe122137053a/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_DataUpdate.lua";
-          sha256 = "1xpy1bhn08xakq09mbylv9ypdfwp1wd6mgadxjapx6xy6rf7klv1";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_MOUSE.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/57ef51fe73d756ff45f2768a4ba6fe122137053a/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_MOUSE.lua";
-          sha256 = "073j64ywj3l7m8mb0hd57hklfdgka3b1zl6p2k3jpiffhyd5h5r0";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Item.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/57ef51fe73d756ff45f2768a4ba6fe122137053a/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Item.lua";
-          sha256 = "0axbxy9n0a9ppaxcma17jyvgldbrp22r6hwanndchx6d0420vpz1";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Envelope.lua'';
@@ -35913,17 +35913,17 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Persist.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/57ef51fe73d756ff45f2768a4ba6fe122137053a/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Persist.lua";
-          sha256 = "0r6mra9y7qqbglbcpcsdq8imjxnhjhrr9ikb9i96cqs5gllzwhhi";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Track.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/57ef51fe73d756ff45f2768a4ba6fe122137053a/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Track.lua";
-          sha256 = "11fpdp0cb153ddl724s1gbmr2g09mjb2ixaicml197b7c2hm5i7r";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_MIDIEditor.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/57ef51fe73d756ff45f2768a4ba6fe122137053a/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_MIDIEditor.lua";
-          sha256 = "0n73azlfxm37vgqmwp2g77f3ciqdf89g3v5mq7y6pmzq3zhba1mc";
+          sha256 = "";
         }
       ];
     };
@@ -35942,12 +35942,12 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_basefunc.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8792f2533d3367edf4aa29bc4bc4b90830a7156e/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_basefunc.lua";
-          sha256 = "1lfgzll3k3rbinq2rw31wjqr777mwsr614rwdwxj90nipa9lg9vh";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_GUI.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8792f2533d3367edf4aa29bc4bc4b90830a7156e/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_GUI.lua";
-          sha256 = "07qfjhnhp1lg9q1y702ixna1mv35syi1ldq2h19cq21kzj93p59p";
+          sha256 = "17k38c3shsmcfrw88mxbdrjh3g53hz81xbz930b60j6pihn6rwpp";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_DataUpdate.lua'';
@@ -35957,7 +35957,7 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_MOUSE.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8792f2533d3367edf4aa29bc4bc4b90830a7156e/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_MOUSE.lua";
-          sha256 = "073j64ywj3l7m8mb0hd57hklfdgka3b1zl6p2k3jpiffhyd5h5r0";
+          sha256 = "170mgp4a4vy2r3mb0sygsgnw6vx3684rz84bywsbwpag1chkswrk";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Item.lua'';
@@ -35967,17 +35967,17 @@
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Envelope.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8792f2533d3367edf4aa29bc4bc4b90830a7156e/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Envelope.lua";
-          sha256 = "0v2psi2khp5rcx1h8iwnx4qp68fnrcwwxk4g5whh46a29fp1n18a";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Persist.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8792f2533d3367edf4aa29bc4bc4b90830a7156e/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Persist.lua";
-          sha256 = "0r6mra9y7qqbglbcpcsdq8imjxnhjhrr9ikb9i96cqs5gllzwhhi";
+          sha256 = "";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Track.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8792f2533d3367edf4aa29bc4bc4b90830a7156e/Various/mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_Track.lua";
-          sha256 = "11fpdp0cb153ddl724s1gbmr2g09mjb2ixaicml197b7c2hm5i7r";
+          sha256 = "0fw9b5mz008k2dbgmjn2n85qil4wnc48dlsal36iqj2qm3p72vrs";
         }
         {
           path = ''mpl_InteractiveToolbar_functions/mpl_InteractiveToolbar_Widgets_MIDIEditor.lua'';
@@ -36024,7 +36024,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/fd8dc9e3b4a5a525d0261a0a65e5b161867ca988/Various/mpl_Item%20spacer.lua";
-          sha256 = "05arrx93imya49ph0z0fhvjdlv35r7zdh9qyks752p19lp9a39x7";
+          sha256 = "";
         }
       ];
     };
@@ -36038,7 +36038,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/3a6a8813198324453c13369a1ba2b72e7780462a/Various/mpl_Keyboard%20Shortcuts%20Visualizer.lua";
-          sha256 = "0g550565b959gwdgy1fgvkkhiicbncjifg07xcwv8ij6dbqp3kfw";
+          sha256 = "";
         }
       ];
     };
@@ -36066,7 +36066,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/f49166375d8ad20dd1883cb65b301957d1f74d67/Various/mpl_Keyboard%20Shortcuts%20Visualizer.lua";
-          sha256 = "1f0yqnsgv7lj7117kp7jy277zxji7ml8lax1c9r13jy5wr9m9dwx";
+          sha256 = "1f3q1vvn8d3xxx083mr0ksydwm2y0nzbwldj573m0az3rpi4bj6b";
         }
       ];
     };
@@ -36136,7 +36136,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b6ecf9da2ce8e5d9c27868bfff9b36e81654653a/Various/mpl_Keyboard%20Shortcuts%20Visualizer.lua";
-          sha256 = "067bcss4j88lc34zi1h6y5aq57iaq9xax5ckdy4caid752kngyrc";
+          sha256 = "";
         }
       ];
     };
@@ -36150,7 +36150,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bd635825b59af62a299c4f846c919b17f8ada8d7/Various/mpl_Keyboard%20Shortcuts%20Visualizer.lua";
-          sha256 = "1fgkd1py27sl0mf2kipv6jwf3z2n5dqqqp247ry44jz8gygy12hx";
+          sha256 = "";
         }
       ];
     };
@@ -36206,7 +36206,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/720dd322e25b6d383a245a3a4b7ec88c14625fca/Various/mpl_Mapping%20Panel%20(background).lua";
-          sha256 = "0nrlg010bjcwl2y3sbaam0dvh8c5wszhn8wx2mwvvafplig9mcf2";
+          sha256 = "";
         }
       ];
     };
@@ -36234,7 +36234,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/891530dc8243a6fcca3c1a5fc9b110efa1ca3a7c/Various/mpl_Mapping%20Panel%20(background).lua";
-          sha256 = "1hlrdl7wcmq6d8h6r5b2113z0gyavc1qhij9lynfkq3w5xrdlyzk";
+          sha256 = "";
         }
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_GUI.lua'';
@@ -36273,12 +36273,12 @@
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_GUI.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/4b0301bbabd214ad85836cbbd93cdacbfd99f295/Various/mpl_MappingPanel_functions/mpl_MappingPanel_GUI.lua";
-          sha256 = "07lbv7rkj3naci1839ijkgariw3nl5lqfagrs75qxvzjaay5m9cf";
+          sha256 = "";
         }
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_MOUSE.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/4b0301bbabd214ad85836cbbd93cdacbfd99f295/Various/mpl_MappingPanel_functions/mpl_MappingPanel_MOUSE.lua";
-          sha256 = "1cii28llxcj2m9zag91a7f8i1p0va55zx66grxgnsnhfzi4gc27d";
+          sha256 = "";
         }
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_data.lua'';
@@ -36288,7 +36288,7 @@
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_obj.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/4b0301bbabd214ad85836cbbd93cdacbfd99f295/Various/mpl_MappingPanel_functions/mpl_MappingPanel_obj.lua";
-          sha256 = "057sb2n4pziiwbv379sw1zg5zy3rz014zfs8ay9kg4xr03wf55fw";
+          sha256 = "";
         }
       ];
     };
@@ -36302,17 +36302,17 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bcabb496a04ca0c2a77c6363178f9d58a05ee95e/Various/mpl_Mapping%20Panel%20(background).lua";
-          sha256 = "1bscqs9na2snqiy4fg0ay2zfpi6q8zik7fkw5cj9gn0zh6khli9k";
+          sha256 = "";
         }
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_GUI.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bcabb496a04ca0c2a77c6363178f9d58a05ee95e/Various/mpl_MappingPanel_functions/mpl_MappingPanel_GUI.lua";
-          sha256 = "16v7igj1j75xcjrj5d1mhi7diajk2m19a7jihwan0ppkvr3whnl2";
+          sha256 = "";
         }
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_MOUSE.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bcabb496a04ca0c2a77c6363178f9d58a05ee95e/Various/mpl_MappingPanel_functions/mpl_MappingPanel_MOUSE.lua";
-          sha256 = "1cii28llxcj2m9zag91a7f8i1p0va55zx66grxgnsnhfzi4gc27d";
+          sha256 = "";
         }
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_data.lua'';
@@ -36356,7 +36356,7 @@
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_obj.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/09755080c2ef328241dee7addbcc6fc861fe65a6/Various/mpl_MappingPanel_functions/mpl_MappingPanel_obj.lua";
-          sha256 = "0yny2qdrkdhf8x6h30g1hkz8q35wa1g6hwnnjjfikg6mwb1qjvf4";
+          sha256 = "";
         }
       ];
     };
@@ -36375,7 +36375,7 @@
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_GUI.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/11361ee08931e864a21caa7e2adbbaff321e0983/Various/mpl_MappingPanel_functions/mpl_MappingPanel_GUI.lua";
-          sha256 = "1pmr70gdm5abzcyg30ypdjn0bpma4zv57gbg3s6q5jmrabbgayvy";
+          sha256 = "";
         }
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_MOUSE.lua'';
@@ -36390,7 +36390,7 @@
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_obj.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/11361ee08931e864a21caa7e2adbbaff321e0983/Various/mpl_MappingPanel_functions/mpl_MappingPanel_obj.lua";
-          sha256 = "0yny2qdrkdhf8x6h30g1hkz8q35wa1g6hwnnjjfikg6mwb1qjvf4";
+          sha256 = "";
         }
       ];
     };
@@ -36414,17 +36414,17 @@
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_MOUSE.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/329cc6352986e1c2395481528905100c3b159cf6/Various/mpl_MappingPanel_functions/mpl_MappingPanel_MOUSE.lua";
-          sha256 = "07gpzgrplyljnvba5v8zjiwqcijzq2hzshfqk1h2lhgi3j041mrg";
+          sha256 = "";
         }
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_data.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/329cc6352986e1c2395481528905100c3b159cf6/Various/mpl_MappingPanel_functions/mpl_MappingPanel_data.lua";
-          sha256 = "140hz77p7zklkmsq932qsfmhbyjr5pclm5sclrbjrl49jbv82xjj";
+          sha256 = "17gkk6s6r01x2jx2s0p2amrr38ldarg9ri3kbrhgwc5l7pdqhivx";
         }
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_obj.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/329cc6352986e1c2395481528905100c3b159cf6/Various/mpl_MappingPanel_functions/mpl_MappingPanel_obj.lua";
-          sha256 = "00jijx3s7dl5jfsvdwsvvwf74w17fj3i5jc5cid1pf9apsi6xdwv";
+          sha256 = "1xpvl0qc3r7iwbjlkga9nppkfflybznygxsdxhz1af9gsxmmdwly";
         }
       ];
     };
@@ -36438,7 +36438,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8fb08717e6f47f2e4cebfc20256f18076a41c404/Various/mpl_Mapping%20Panel%20(background).lua";
-          sha256 = "1zf5dv2c8ygd40ffk2bzsljjlr94m29spx7k3picqq1fx5n5l8yn";
+          sha256 = "";
         }
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_GUI.lua'';
@@ -36448,17 +36448,17 @@
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_MOUSE.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8fb08717e6f47f2e4cebfc20256f18076a41c404/Various/mpl_MappingPanel_functions/mpl_MappingPanel_MOUSE.lua";
-          sha256 = "1h9bbsiz3n6fhljgmgvmfj2vxq4nm3p5p0sl62hbi1pvmdx8ykgj";
+          sha256 = "";
         }
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_data.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8fb08717e6f47f2e4cebfc20256f18076a41c404/Various/mpl_MappingPanel_functions/mpl_MappingPanel_data.lua";
-          sha256 = "140hz77p7zklkmsq932qsfmhbyjr5pclm5sclrbjrl49jbv82xjj";
+          sha256 = "";
         }
         {
           path = ''mpl_MappingPanel_functions/mpl_MappingPanel_obj.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8fb08717e6f47f2e4cebfc20256f18076a41c404/Various/mpl_MappingPanel_functions/mpl_MappingPanel_obj.lua";
-          sha256 = "0wa6yddvjgcm8z9cf9ycw3r34wn9srh23f7gr82rgrl63qd0lmqk";
+          sha256 = "";
         }
       ];
     };
@@ -36528,7 +36528,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/397090989f650da661ceaddab25e4f269a897ad7/Various/mpl_Mapping%20Panel%20(background).lua";
-          sha256 = "0l606livcad49mivnaaaqxvv7qjy0p3kifilrbdqja3hvy62h3wg";
+          sha256 = "";
         }
       ];
     };
@@ -36542,7 +36542,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/f3982972220049672bbab6dc9406fa19cd8a962b/Various/mpl_Mapping%20Panel%20(background).lua";
-          sha256 = "1knmj617lgvwl3gd3i606lnv19fvnaysgr58vwvgi51kg3y1sqmh";
+          sha256 = "";
         }
       ];
     };
@@ -36612,7 +36612,21 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/813e3f48942e84d7db6a8b299e4a842a2bdbd887/Various/mpl_Mapping%20Panel%20(background).lua";
-          sha256 = "09rsssjsi1k6xliyr2xf2g5h9kc6icq2zww8hs5irzx8zwpfsak0";
+          sha256 = "";
+        }
+      ];
+    };
+    mpl-mapping-panel-background-lua-4-06 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-mapping-panel-background-lua-4-06";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/35afc1d27186f6819cc1566b005829eee16d83d9/Various/mpl_Mapping%20Panel%20(background).lua";
+          sha256 = "";
         }
       ];
     };
@@ -36626,7 +36640,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/720dd322e25b6d383a245a3a4b7ec88c14625fca/Various/mpl_Open%20and%20Close%20Media%20Explorer%20when%20item%20is%20inserted%20(background).lua";
-          sha256 = "1cjgn006bniwpndcyb5mg2xcyhacj524y1rj5gdm1nbmbnfpw9cy";
+          sha256 = "";
         }
       ];
     };
@@ -36640,7 +36654,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2a76e3f67c4a9da2701fed6a2744eceb8ce255f3/Various/mpl_Peak%20follower%20tools.lua";
-          sha256 = "04rdn7hhw7l7hgpj5ajj2dx9jcwdsjxd5i1d6j60klq75vrv97f4";
+          sha256 = "";
         }
       ];
     };
@@ -36682,7 +36696,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/dbc31cb98a0dd59492496977c8ae4ee488413283/Various/mpl_Peak%20follower%20tools.lua";
-          sha256 = "19wzds988ai0agwz8pks5gs1hplz0b7z0dmipvm18ml6cr103sb9";
+          sha256 = "";
         }
       ];
     };
@@ -36710,7 +36724,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e7290c8cc1300acce25e76ffe7690eb331f694fb/Various/mpl_Peak%20follower%20tools.lua";
-          sha256 = "1vd8h8hm30l2h9vi4w8pilbkzmj8ala2jrbddsgwk371jfavj153";
+          sha256 = "";
         }
       ];
     };
@@ -36724,7 +36738,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5a3178110e4b365a81f35d9901a64d702dac4060/Various/mpl_Peak%20follower%20tools.lua";
-          sha256 = "15vzbwpck14h8a5w12bq0w54l2bcrzv3cvj5c6rn2fklrijqqq17";
+          sha256 = "110rxwsd173xh6s7v4rah9im32hv273gzj9n1d9ijxa6k8pcxgdd";
         }
       ];
     };
@@ -36780,12 +36794,12 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/03c59f28a5cad71e046cbe099323c422ea95a006/Various/mpl_PitchEditor.lua";
-          sha256 = "0ikazym10ykb1jqgkk46dhxfp7kz7pyyvk681mrwzn0lbfcnmn83";
+          sha256 = "0fnnxjzqjs1ip2xr1236di7l22r0r1yaqqxl2x2sx3r72gpn4ih7";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_GUI.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/03c59f28a5cad71e046cbe099323c422ea95a006/Various/mpl_PitchEditor_functions/mpl_PitchEditor_GUI.lua";
-          sha256 = "05kwk4h8012nc17v0z1al91sq34kgq8jv3ikvs7vv6wvj0wl9l2c";
+          sha256 = "1q283ss8piv17s6pzczn4sg7axm8v4njhgy77zfizhici4jkjs8k";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_MOUSE.lua'';
@@ -36829,7 +36843,7 @@
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_MOUSE.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0a920f8c93552c5790bb8f30548d5472bd2b8437/Various/mpl_PitchEditor_functions/mpl_PitchEditor_MOUSE.lua";
-          sha256 = "1h6h6qiq90jaka7gsb3qssjbvjy93fzi534dlqhbi317g33zx4y7";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_data.lua'';
@@ -36858,22 +36872,22 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c4791cc9ec6437fae38efc2c7b4c2e3a0d36679d/Various/mpl_PitchEditor.lua";
-          sha256 = "09glbxrhb5v7kxfwbw3gx1wq5faw2sx656zab3hl63npsivl6j8p";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_GUI.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c4791cc9ec6437fae38efc2c7b4c2e3a0d36679d/Various/mpl_PitchEditor_functions/mpl_PitchEditor_GUI.lua";
-          sha256 = "0rga56r12jcxv2vgmx78f9swl8i8dhc3fawviykjfnckq8ni5j03";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_MOUSE.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c4791cc9ec6437fae38efc2c7b4c2e3a0d36679d/Various/mpl_PitchEditor_functions/mpl_PitchEditor_MOUSE.lua";
-          sha256 = "1h6h6qiq90jaka7gsb3qssjbvjy93fzi534dlqhbi317g33zx4y7";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_data.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c4791cc9ec6437fae38efc2c7b4c2e3a0d36679d/Various/mpl_PitchEditor_functions/mpl_PitchEditor_data.lua";
-          sha256 = "17xf141w3bjr09jrjrv6vl0nxjp6mrwp48vavhx8kks1ffqkqa14";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_obj.lua'';
@@ -36897,12 +36911,12 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/14cf2507601dd3ed07c377d68b67c56eac30c925/Various/mpl_PitchEditor.lua";
-          sha256 = "085yhr0g7x5kpd6lmhnggy2l426xa7rgb14dp6m40q48dk1pryw0";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_GUI.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/14cf2507601dd3ed07c377d68b67c56eac30c925/Various/mpl_PitchEditor_functions/mpl_PitchEditor_GUI.lua";
-          sha256 = "0ibl4h1cv6xmg7ld38h1jq5cf2cvh6jvy7a7aln0s10sq2fp2zx9";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_MOUSE.lua'';
@@ -36912,17 +36926,17 @@
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_data.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/14cf2507601dd3ed07c377d68b67c56eac30c925/Various/mpl_PitchEditor_functions/mpl_PitchEditor_data.lua";
-          sha256 = "1gmh46qxy3879xj6d9pj3rifr67bsb765kfx31xzdpcbvpvckflv";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_obj.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/14cf2507601dd3ed07c377d68b67c56eac30c925/Various/mpl_PitchEditor_functions/mpl_PitchEditor_obj.lua";
-          sha256 = "0hfm14l6dbgg5ys05yrrgrhi6afixkbknwwrinwkjyhsypbzcjbm";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_analyzer.eel'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/14cf2507601dd3ed07c377d68b67c56eac30c925/Various/mpl_PitchEditor_functions/mpl_PitchEditor_analyzer.eel";
-          sha256 = "1va3wp2xv3fa7ahzl69lyy41i162607y1qjqhf962yfs7bhcn33z";
+          sha256 = "";
         }
       ];
     };
@@ -36941,12 +36955,12 @@
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_GUI.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/855b8bf0fef362c97ed1257a203ae707ca63f07f/Various/mpl_PitchEditor_functions/mpl_PitchEditor_GUI.lua";
-          sha256 = "0fbpz3jld95ja8ks375kfg423p4xzqgr6yd28yg2p81bps4ksw5f";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_MOUSE.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/855b8bf0fef362c97ed1257a203ae707ca63f07f/Various/mpl_PitchEditor_functions/mpl_PitchEditor_MOUSE.lua";
-          sha256 = "12jigqvgbzh4b3wjisxzllzp3ilmlh2lhcsf48rbqqbbb79j81w0";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_data.lua'';
@@ -36956,12 +36970,12 @@
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_obj.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/855b8bf0fef362c97ed1257a203ae707ca63f07f/Various/mpl_PitchEditor_functions/mpl_PitchEditor_obj.lua";
-          sha256 = "17c9jydy8fha2plxp4gradps6dhb9kk2x55vi44a76s7dbpfmyag";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_analyzer.eel'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/855b8bf0fef362c97ed1257a203ae707ca63f07f/Various/mpl_PitchEditor_functions/mpl_PitchEditor_analyzer.eel";
-          sha256 = "1a9yipld8mw54n09jpnik5psxg6mf61fz7by8zq64h328dbj7k2r";
+          sha256 = "";
         }
       ];
     };
@@ -36975,12 +36989,12 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8f40c84a27194626e4cdad2e10a6577894183119/Various/mpl_PitchEditor.lua";
-          sha256 = "1kzw0b5kjxhvh7li2kr6mzfb5gi34qs32akqpyp1a3j77f4shxpv";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_GUI.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8f40c84a27194626e4cdad2e10a6577894183119/Various/mpl_PitchEditor_functions/mpl_PitchEditor_GUI.lua";
-          sha256 = "0bb8gm196dmcn1ycdwg3x7q6l5r6g3h03lclc8q569q4k3rvijhz";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_MOUSE.lua'';
@@ -37000,7 +37014,7 @@
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_analyzer.eel'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8f40c84a27194626e4cdad2e10a6577894183119/Various/mpl_PitchEditor_functions/mpl_PitchEditor_analyzer.eel";
-          sha256 = "1a9yipld8mw54n09jpnik5psxg6mf61fz7by8zq64h328dbj7k2r";
+          sha256 = "";
         }
       ];
     };
@@ -37014,7 +37028,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c97d4ad9d306c77a44038862f8476a86ed866ba8/Various/mpl_PitchEditor.lua";
-          sha256 = "1h58wz8ng0n0nmbavxx9hxn0cv3zyi4ydgsgijm7nc92zxfj43nf";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_GUI.lua'';
@@ -37029,12 +37043,12 @@
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_data.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c97d4ad9d306c77a44038862f8476a86ed866ba8/Various/mpl_PitchEditor_functions/mpl_PitchEditor_data.lua";
-          sha256 = "1azp4y26isycz6xzr8ry4aj10xggdm1w9gpdq00hz0c3lpr5qpfd";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_obj.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c97d4ad9d306c77a44038862f8476a86ed866ba8/Various/mpl_PitchEditor_functions/mpl_PitchEditor_obj.lua";
-          sha256 = "13cx31chmcjilwfwsbsj586zqwpd38bfqpsm21gjpybp0gz60kq3";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_analyzer.eel'';
@@ -37053,27 +37067,27 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/6787ddb64fe4835b6490a9744076b2a75e9905d5/Various/mpl_PitchEditor.lua";
-          sha256 = "0x2m7dnbz1ziji7bd4wa34k2yxsb1z15j33v795z8bp7wzcfgd8q";
+          sha256 = "17yvfz8vy8kfql182l2anaqrwxb0bl68svif5rbprgnzqp41rs0g";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_GUI.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/6787ddb64fe4835b6490a9744076b2a75e9905d5/Various/mpl_PitchEditor_functions/mpl_PitchEditor_GUI.lua";
-          sha256 = "0vc6vlk402c690dbnmc2xgbdrr2m28fhqyxg30f17fabsbx9xvhj";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_MOUSE.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/6787ddb64fe4835b6490a9744076b2a75e9905d5/Various/mpl_PitchEditor_functions/mpl_PitchEditor_MOUSE.lua";
-          sha256 = "13g7j6wh7754fnwmmj8y1gqg91y1hqp034ypcp9j4p7n9i0mkm9a";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_data.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/6787ddb64fe4835b6490a9744076b2a75e9905d5/Various/mpl_PitchEditor_functions/mpl_PitchEditor_data.lua";
-          sha256 = "1azp4y26isycz6xzr8ry4aj10xggdm1w9gpdq00hz0c3lpr5qpfd";
+          sha256 = "0fs82jxcjf9l0bjnq6lqxvlb63rrxyk47lf61gzsqc8kq369c4pk";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_obj.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/6787ddb64fe4835b6490a9744076b2a75e9905d5/Various/mpl_PitchEditor_functions/mpl_PitchEditor_obj.lua";
-          sha256 = "13cx31chmcjilwfwsbsj586zqwpd38bfqpsm21gjpybp0gz60kq3";
+          sha256 = "";
         }
         {
           path = ''mpl_PitchEditor_functions/mpl_PitchEditor_analyzer.eel'';
@@ -37092,7 +37106,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/720dd322e25b6d383a245a3a4b7ec88c14625fca/Various/mpl_ProjectPlaylist%20(background).lua";
-          sha256 = "1241f4zac3bc8l1xx21bjqs9s6032hk9bims8ck0jwvjgqjmh7xs";
+          sha256 = "";
         }
       ];
     };
@@ -37134,7 +37148,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/6647ffad9ddb2419d5b954b1025554df3d7dc35f/Various/mpl_Quantize%20Tool.lua";
-          sha256 = "0vb623rybh6382krqmncsxynr04hjn7pf3v5dllbh9yic8p16jp5";
+          sha256 = "";
         }
       ];
     };
@@ -37148,7 +37162,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e241de297d2d1e2b4186a8cdc330186d4456e750/Various/mpl_Quantize%20Tool.lua";
-          sha256 = "1wqj7zy08jafqc37jnpaq36cg87zbkhqk5ydv233dk1bxmkwhijf";
+          sha256 = "";
         }
       ];
     };
@@ -37176,7 +37190,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/19f62c275647c5809891fa73043fe049f14168ec/Various/mpl_Quantize%20Tool.lua";
-          sha256 = "1sgqm7crj339b7952gpjip7x6gcn3z1gvi5s9s1n79i3jfc5ggvz";
+          sha256 = "";
         }
       ];
     };
@@ -37204,7 +37218,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/f2d5b06d83d61577c6b39fb26dece514c02a9d81/Various/mpl_Quantize%20Tool.lua";
-          sha256 = "0x185ccjjyhvdzv179r8g0y3c94zf6z7k5vqf28ny412ad02z9lw";
+          sha256 = "";
         }
       ];
     };
@@ -37218,7 +37232,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5d829d34381623ead4f03e50607f32f2a658696d/Various/mpl_Quantize%20Tool.lua";
-          sha256 = "0bqj9wsrjv6m803sa9js86i7vi09y8gjf5433pdyjn4b5z7dwz4d";
+          sha256 = "";
         }
       ];
     };
@@ -37260,7 +37274,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7c7e4d6ed6e5e3f2be416095a6835ee01a33cdb3/Various/mpl_Quantize%20Tool.lua";
-          sha256 = "0hpb9n5s73i5z7jy6566iknhpkqjw2psqy6c482xdkajnllrm31x";
+          sha256 = "";
         }
       ];
     };
@@ -37288,7 +37302,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/357fb9c636e3bda245d9f4dfc0cca1083c4e9739/Various/mpl_Quantize%20Tool.lua";
-          sha256 = "1zkkym92mj5k4dla6lc5s7j4g2imb1kfvxdbbhpdzckri9n64y8y";
+          sha256 = "";
         }
       ];
     };
@@ -37330,7 +37344,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e2c9c85b0e9e1071c408263fb783e6329789ddfd/Various/mpl_Quantize%20Tool.lua";
-          sha256 = "0ji87kj5jwr7gabfhgai259a0qpn3y297r0hga043c0xgpcv98cm";
+          sha256 = "";
         }
       ];
     };
@@ -37344,7 +37358,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/060bdd0d0419850105a29babb3c08900c4158a93/Various/mpl_Quantize%20Tool.lua";
-          sha256 = "1jsildg41accidm0x501fhxicj8aahdgm8k43914bnhwjs8ac7rz";
+          sha256 = "";
         }
       ];
     };
@@ -37372,7 +37386,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bc19fcdf39bb66c262d0a96777d6c8b3d9e8a332/Various/mpl_Quantize%20Tool.lua";
-          sha256 = "0wmmcgml50vpbb5fqb4l0pcg4fdr5y4n1i7vadhhqsqsdm212jfj";
+          sha256 = "";
         }
       ];
     };
@@ -37386,7 +37400,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/f06e1773ec8ed548b5235a80a25d870e0b798cf5/Various/mpl_Quantize%20Tool.lua";
-          sha256 = "1vh83zfx0pansrr35m18slgfvwn74ii5mn5mrrlg3xz2k5shlg51";
+          sha256 = "";
         }
       ];
     };
@@ -37400,7 +37414,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/f246fee125fd8813a29662494e3b39c519f114a1/Various/mpl_Quantize%20Tool.lua";
-          sha256 = "1nsgi4nxvf04bq4jdkj2islhirvd13r3f249nfsxc9yp4njpl769";
+          sha256 = "";
         }
       ];
     };
@@ -37470,7 +37484,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/80cd1c76f1ee209a038c212ad00a888e9d1dccd5/Various/mpl_Sampling%20tool.lua";
-          sha256 = "165m03j15c074df4xhn5nhcf3i20d0kr12amhvz7awr48zpd2kiy";
+          sha256 = "";
         }
       ];
     };
@@ -37484,7 +37498,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/263509947199c930c965cc4809540aecd258e6fe/Various/mpl_Sampling%20tool.lua";
-          sha256 = "1h597ijd5hmxhpvhj12ry874nffhjiga7zbc85n8p82zqn40986a";
+          sha256 = "";
         }
       ];
     };
@@ -37498,7 +37512,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/9b7f7e8583c7f59f458a2baa4f2c40a5c425a377/Various/mpl_Sampling%20tool.lua";
-          sha256 = "0cadq19rl177nmgyfv99vxv9wla4i318igrq4jicnp8941x8039g";
+          sha256 = "";
         }
       ];
     };
@@ -37526,7 +37540,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/984379787bc63f8e422a222c46a6a3d7be0d1670/Various/mpl_SendFader%20(background).lua";
-          sha256 = "12avrq3l9akjg0ql2n261rn8mxdvbbfp3cacnkq7llknclgnxgdy";
+          sha256 = "";
         }
       ];
     };
@@ -37568,7 +37582,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/a56c67a89cc77219b5640e6d10eca9d3ce5bbf6b/Various/mpl_SendFader%20(background).lua";
-          sha256 = "19l8pjx50wg47dxg4rnaw9xd9xr2gvam16za2y0jvmbwv7skwzxf";
+          sha256 = "";
         }
       ];
     };
@@ -37582,7 +37596,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8e73f20b4c5ca62cccd464cb4adfcc7225b24029/Various/mpl_SendFader%20(background).lua";
-          sha256 = "008l1r3jy0qn7z3ncfr1h8ivd6ri719x4assipz6ifzldahwa0cw";
+          sha256 = "";
         }
       ];
     };
@@ -37596,7 +37610,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/d876bace95e71325382c7084516ef47b2a98eed3/Various/mpl_SendFader%20(background).lua";
-          sha256 = "0795n928a3cysrnpilsvi9l8immrz1rkrjicnxbbwjhh8vyd2lq7";
+          sha256 = "";
         }
         {
           path = ''mpl_SendFader_Mark selected tracks as sends.lua'';
@@ -37620,7 +37634,7 @@
         {
           path = ''mpl_SendFader_Mark selected tracks as sends.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/631368c05d1a982c693c1840ed295fe67ebfa0b4/Various/mpl_SendFader_Mark%20selected%20tracks%20as%20sends.lua";
-          sha256 = "1x89p00daymbynnmm0cn5zgrdik5112ggllkp1x3gh0hmnyr6cap";
+          sha256 = "";
         }
       ];
     };
@@ -37639,7 +37653,7 @@
         {
           path = ''mpl_SendFader_Mark selected tracks as sends.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3597b0130a17c91926bd179f495d6b5ef270cf5/Various/mpl_SendFader_Mark%20selected%20tracks%20as%20sends.lua";
-          sha256 = "1x89p00daymbynnmm0cn5zgrdik5112ggllkp1x3gh0hmnyr6cap";
+          sha256 = "";
         }
       ];
     };
@@ -37653,12 +37667,12 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/ebae04d26c39e56c71f6fc05579f098ebe6439e0/Various/mpl_SendFader%20(background).lua";
-          sha256 = "15a3dfb97zwwhw8bgrfkh26avckc8m0j2nqm9xzyy0cyawqbscsn";
+          sha256 = "";
         }
         {
           path = ''mpl_SendFader_Mark selected tracks as sends.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/ebae04d26c39e56c71f6fc05579f098ebe6439e0/Various/mpl_SendFader_Mark%20selected%20tracks%20as%20sends.lua";
-          sha256 = "1x89p00daymbynnmm0cn5zgrdik5112ggllkp1x3gh0hmnyr6cap";
+          sha256 = "";
         }
       ];
     };
@@ -37677,7 +37691,7 @@
         {
           path = ''mpl_SendFader_Mark selected tracks as sends.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/13e9829552c533cc3d0ca611bbd1ad7b6b0b366b/Various/mpl_SendFader_Mark%20selected%20tracks%20as%20sends.lua";
-          sha256 = "1x89p00daymbynnmm0cn5zgrdik5112ggllkp1x3gh0hmnyr6cap";
+          sha256 = "";
         }
       ];
     };
@@ -37715,7 +37729,7 @@
         {
           path = ''mpl_SendFader_Mark selected tracks as sends.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0d21b0cf399d7fb04552d0b6f28e62392b6dd8dd/Various/mpl_SendFader_Mark%20selected%20tracks%20as%20sends.lua";
-          sha256 = "1x89p00daymbynnmm0cn5zgrdik5112ggllkp1x3gh0hmnyr6cap";
+          sha256 = "";
         }
       ];
     };
@@ -37729,12 +37743,12 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/af150e21e70ba9de015527a987d7747031ddb697/Various/mpl_SendFader%20(background).lua";
-          sha256 = "061xlvmv07by5g53043bzcz4byh854h7v49syk19619q2svpbds1";
+          sha256 = "";
         }
         {
           path = ''mpl_SendFader_Mark selected tracks as sends.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/af150e21e70ba9de015527a987d7747031ddb697/Various/mpl_SendFader_Mark%20selected%20tracks%20as%20sends.lua";
-          sha256 = "1x89p00daymbynnmm0cn5zgrdik5112ggllkp1x3gh0hmnyr6cap";
+          sha256 = "";
         }
       ];
     };
@@ -37767,12 +37781,12 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c21ce780217b6232a2de0f434b11153c4c7f68d8/Various/mpl_SendFader%20(background).lua";
-          sha256 = "0hsnmfc9la2r275jv492sai80lml40c7bg978zhsmkybywciyf2f";
+          sha256 = "";
         }
         {
           path = ''mpl_SendFader_Mark selected tracks as receives.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c21ce780217b6232a2de0f434b11153c4c7f68d8/Various/mpl_SendFader_Mark%20selected%20tracks%20as%20receives.lua";
-          sha256 = "0y4l72q369iggxdzca0r4s77h558qy62iybf893ys8b9587pyg0n";
+          sha256 = "";
         }
       ];
     };
@@ -37786,12 +37800,12 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/a23d9100a40db1e509342c6cf569c0a74423f44e/Various/mpl_SendFader%20(background).lua";
-          sha256 = "0slxzx71bh3jkab4m131s0a4a23jlb2jqn3ml5x7jk36lk1x5xa9";
+          sha256 = "";
         }
         {
           path = ''mpl_SendFader_Mark selected tracks as receives.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/a23d9100a40db1e509342c6cf569c0a74423f44e/Various/mpl_SendFader_Mark%20selected%20tracks%20as%20receives.lua";
-          sha256 = "0y4l72q369iggxdzca0r4s77h558qy62iybf893ys8b9587pyg0n";
+          sha256 = "";
         }
       ];
     };
@@ -37810,7 +37824,7 @@
         {
           path = ''mpl_SendFader_Mark selected tracks as receives.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/be807ff22cd9678f841f7314b7cdfc640dc99549/Various/mpl_SendFader_Mark%20selected%20tracks%20as%20receives.lua";
-          sha256 = "0y4l72q369iggxdzca0r4s77h558qy62iybf893ys8b9587pyg0n";
+          sha256 = "";
         }
       ];
     };
@@ -37894,7 +37908,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e5d18b5360aaf1283df9afef94060cce7a0c054b/Various/mpl_Spectral%20editing%20tools.lua";
-          sha256 = "0bdhsccbn5g1rkk7lkhbw18jhs8amycbqhk2bkz7k3b3sdzb3bcz";
+          sha256 = "";
         }
       ];
     };
@@ -37932,12 +37946,12 @@
         {
           path = ''mpl_TaskScheduler_functions/mpl_TaskScheduler_MOUSE.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2941fc5e23f871557fd6e2d175bdd2abc5182397/Various/mpl_TaskScheduler_functions/mpl_TaskScheduler_MOUSE.lua";
-          sha256 = "0zm5ikn887kb0z29vsz1rwcljg9mr49ddzq52y9ll32m83byzhly";
+          sha256 = "";
         }
         {
           path = ''mpl_TaskScheduler_functions/mpl_TaskScheduler_data.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2941fc5e23f871557fd6e2d175bdd2abc5182397/Various/mpl_TaskScheduler_functions/mpl_TaskScheduler_data.lua";
-          sha256 = "0l33z5y0a7dvjjqgf4274vlgkngl5xyb041sa5f69b2pwgmrbb1j";
+          sha256 = "";
         }
         {
           path = ''mpl_TaskScheduler_functions/mpl_TaskScheduler_obj.lua'';
@@ -37966,12 +37980,12 @@
         {
           path = ''mpl_TaskScheduler_functions/mpl_TaskScheduler_MOUSE.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/78dcd1e9cd4e1f59a220bc50c910ffafeff13750/Various/mpl_TaskScheduler_functions/mpl_TaskScheduler_MOUSE.lua";
-          sha256 = "0zm5ikn887kb0z29vsz1rwcljg9mr49ddzq52y9ll32m83byzhly";
+          sha256 = "";
         }
         {
           path = ''mpl_TaskScheduler_functions/mpl_TaskScheduler_data.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/78dcd1e9cd4e1f59a220bc50c910ffafeff13750/Various/mpl_TaskScheduler_functions/mpl_TaskScheduler_data.lua";
-          sha256 = "0xc548vs81gn0943zp8d5fhjnkp5wiq4p3v9066621cj1rfdfji5";
+          sha256 = "";
         }
         {
           path = ''mpl_TaskScheduler_functions/mpl_TaskScheduler_obj.lua'';
@@ -38032,7 +38046,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8bcec0d06d5c81e1425f3f8dac6074cf57198d39/Various/mpl_Visual%20Mixer.lua";
-          sha256 = "1nx0izp4rfmqp0n13q8j9sdiawmlkagdxz7lpjp76bym8d3vggiw";
+          sha256 = "";
         }
       ];
     };
@@ -38046,7 +38060,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/36a11e6395837f493e745fb1b030accb7ab48683/Various/mpl_Visual%20Mixer.lua";
-          sha256 = "017xpqidr8g6rpp6cfas2451krn0yvzx3mri3nzxkpqr9grwk2ln";
+          sha256 = "";
         }
       ];
     };
@@ -38060,7 +38074,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b4abb36d84d6faab88905b8c1f42d3a6695a2f20/Various/mpl_Visual%20Mixer.lua";
-          sha256 = "07z3jpkwlmrb27f7gbx4vl9nx2w1iw3lfw0a8jif2fzf7jgl7xv4";
+          sha256 = "";
         }
       ];
     };
@@ -38074,7 +38088,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/ff761d3a39465ad357d9c26a11ac589885ae6d43/Various/mpl_Visual%20Mixer.lua";
-          sha256 = "06dbyx8p163nf43v6a76zfyqqs0r0bk1h2yp74zglrd80lhvqln0";
+          sha256 = "";
         }
       ];
     };
@@ -38088,7 +38102,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/35e0ec320d436f33eff48fc28e5c84646707219c/Various/mpl_Visual%20Mixer.lua";
-          sha256 = "0l7n82anfl6s5z8hikm547cygad5cvph5knb0m31z6p62y15b1df";
+          sha256 = "17abr2nkvmcl0fvi1mm110g50g68ifqqnkw6yzvfw3ghkfi57zvi";
         }
       ];
     };
@@ -38102,7 +38116,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/4c2b2a1fd42166142c29148aaef5a41de704eb5f/Various/mpl_Visual%20Mixer.lua";
-          sha256 = "1i8blqciha70sl3vk1sbyprx0xzc4mllsvmyyy1061r3b4fgc8i3";
+          sha256 = "1xrwnffmjabqaqwcx4pmx9l0nqimhdjpkd8pxmgbqd4ac7z8l0jf";
         }
       ];
     };
@@ -38116,7 +38130,7 @@
         {
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/4ffe84a7f77a1a324f00f9da7415d17598e2beaf/Various/mpl_Visual%20Mixer.lua";
-          sha256 = "0rngnmfpa5wqd88xavk0xyqmsyinbg4vlwcdd2c5c5117hxmzh1m";
+          sha256 = "1j08nra2ivf0pff65bzq7r4sa98d7rh0wqsxyf3cx1a7519275fh";
         }
       ];
     };

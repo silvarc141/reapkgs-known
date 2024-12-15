@@ -2499,7 +2499,7 @@
         {
           path = ''ReaImGui_Hello World.eel'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.3/examples/hello_world.eel";
-          sha256 = "0rkyk6xfmnnhq75nypqm5s5pfl8jgyz325q9j2k32caxnwnnr9rs";
+          sha256 = "";
         }
         {
           path = ''ReaImGui_Hello World (legacy syntax).eel'';
@@ -2573,12 +2573,12 @@
         {
           path = ''ReaImGui_Hello World.eel'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.3.1/examples/hello_world.eel";
-          sha256 = "0rkyk6xfmnnhq75nypqm5s5pfl8jgyz325q9j2k32caxnwnnr9rs";
+          sha256 = "";
         }
         {
           path = ''ReaImGui_Hello World (legacy syntax).eel'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.3.1/examples/hello_world_legacy.eel";
-          sha256 = "1agyph5y8gwh9i07xw2hbwr7sckx0nm1lsk26f0iy4lsiy2kwyxn";
+          sha256 = "";
         }
         {
           path = ''imgui_python.py'';
@@ -2716,7 +2716,7 @@
         {
           path = ''ReaImGui_Demo.lua'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.4/examples/demo.lua";
-          sha256 = "0pgrpsxq8q35kfr5fp39423qyllv25gjg3sjsiirigs4x285363q";
+          sha256 = "";
         }
         {
           path = ''ReaImGui_Hello World.eel'';
@@ -2800,7 +2800,7 @@
         {
           path = ''ReaImGui_Hello World (legacy syntax).eel'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.4.1/examples/hello_world_legacy.eel";
-          sha256 = "06m6q3l7b8is4vw1d45lppyhnqvywi06yv0b93h4cxklhf7f2ihf";
+          sha256 = "";
         }
         {
           path = ''imgui_python.py'';
@@ -2864,17 +2864,17 @@
         {
           path = ''ReaImGui_Demo.lua'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.5-beta/examples/demo.lua";
-          sha256 = "1pc0g56nrlhcafl8ggdl5wrd1c5p0n9blvfyhdgpmmavy6lh2a88";
+          sha256 = "";
         }
         {
           path = ''ReaImGui_Hello World.eel'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.5-beta/examples/hello_world.eel";
-          sha256 = "0mp5r4hkpxpwygnzhhsxizs5p8qqrv61rjlva4z58wl41j7q1ydk";
+          sha256 = "";
         }
         {
           path = ''ReaImGui_Hello World (legacy syntax).eel'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.5-beta/examples/hello_world_legacy.eel";
-          sha256 = "08vc0azz8f6dmqzz6jx7jvk8ssjil3rkmdlh0ibm4hrb8waj7wfz";
+          sha256 = "";
         }
         {
           path = ''imgui_python.py'';
@@ -2943,7 +2943,7 @@
         {
           path = ''ReaImGui_Hello World.eel'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.5.1/examples/hello_world.eel";
-          sha256 = "0mp5r4hkpxpwygnzhhsxizs5p8qqrv61rjlva4z58wl41j7q1ydk";
+          sha256 = "";
         }
         {
           path = ''ReaImGui_Hello World (legacy syntax).eel'';
@@ -3017,7 +3017,7 @@
         {
           path = ''ReaImGui_Demo.lua'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.5.2/examples/demo.lua";
-          sha256 = "18qbg459nygp0549jxiyrpgzjfyh3yvymhkl110yivqym4j3kls8";
+          sha256 = "";
         }
         {
           path = ''ReaImGui_Hello World.eel'';
@@ -3027,7 +3027,7 @@
         {
           path = ''ReaImGui_Hello World (legacy syntax).eel'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.5.2/examples/hello_world_legacy.eel";
-          sha256 = "08vc0azz8f6dmqzz6jx7jvk8ssjil3rkmdlh0ibm4hrb8waj7wfz";
+          sha256 = "";
         }
         {
           path = ''imgui_python.py'';
@@ -3101,12 +3101,12 @@
         {
           path = ''ReaImGui_Hello World.eel'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.5.3/examples/hello_world.eel";
-          sha256 = "0mp5r4hkpxpwygnzhhsxizs5p8qqrv61rjlva4z58wl41j7q1ydk";
+          sha256 = "";
         }
         {
           path = ''ReaImGui_Hello World (legacy syntax).eel'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.5.3/examples/hello_world_legacy.eel";
-          sha256 = "08vc0azz8f6dmqzz6jx7jvk8ssjil3rkmdlh0ibm4hrb8waj7wfz";
+          sha256 = "0lghvz9lx0vnsrmzz42s2abbrf153phyh5kaanaqx0xa3r92iwlw";
         }
         {
           path = ''imgui_python.py'';
@@ -3175,12 +3175,12 @@
         {
           path = ''ReaImGui_Demo.lua'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.5.4/examples/demo.lua";
-          sha256 = "00s79z3s2hmd229a5912yypl13bd51w1k6rrvagsw7m1hmp7ki5q";
+          sha256 = "1nip47ywrbm7r0hsbids6qc1g2jyi17519jv7r340wknb1aszg3f";
         }
         {
           path = ''ReaImGui_Hello World.eel'';
           url = "https://github.com/cfillion/reaimgui/raw/v0.5.4/examples/hello_world.eel";
-          sha256 = "0mp5r4hkpxpwygnzhhsxizs5p8qqrv61rjlva4z58wl41j7q1ydk";
+          sha256 = "011a5m29w0i23q6b8maz2qcarnfq9nijfb137skr084840hzf07c";
         }
         {
           path = ''ReaImGui_Hello World (legacy syntax).eel'';
@@ -7351,32 +7351,32 @@
         {
           path = ''Grooves/Korg DDD-1-16 71%.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/Korg%20DDD-1-16%2071%25.rgt";
-          sha256 = "087gagshh95447v8ffxfpnyxkywy4c589bhj758rnxbwy5acrvr2";
+          sha256 = "";
         }
         {
           path = ''Grooves/Korg DDD-1-16 75%.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/Korg%20DDD-1-16%2075%25.rgt";
-          sha256 = "0h9a1mcr56r9jcxg1n8bx1rhykxkbskvahjvrr2lvfrghg45zm9m";
+          sha256 = "";
         }
         {
           path = ''Grooves/Korg DDD-1-16 79%.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/Korg%20DDD-1-16%2079%25.rgt";
-          sha256 = "0ilnfd55z4mliphci13dvr20kkhb4r9phgvk8vpb58yf6sc6nw6i";
+          sha256 = "";
         }
         {
           path = ''Grooves/Korg DDD-1-16 83%.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/Korg%20DDD-1-16%2083%25.rgt";
-          sha256 = "1pczl9mmnd47pfhp2q8l2dn88lgig83xksz1qfaw4w0lln35pg96";
+          sha256 = "";
         }
         {
           path = ''Grooves/Korg DDD-1-16 88%.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/Korg%20DDD-1-16%2088%25.rgt";
-          sha256 = "1q7h8s2ynfcq39w099yxih85bp094wf0g8hdsfw747vx72afsaz1";
+          sha256 = "";
         }
         {
           path = ''Grooves/Korg DDD-1-16T%.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/Korg%20DDD-1-16T%25.rgt";
-          sha256 = "12dhxjj1m4i4mf4a8lzbpigq4dygkgl40xhrvx6dsvsc4si7vx2s";
+          sha256 = "";
         }
         {
           path = ''Grooves/Korg DDD-1-8T%.rgt'';
@@ -7386,7 +7386,7 @@
         {
           path = ''Grooves/Logic_16A.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/Logic_16A.rgt";
-          sha256 = "1fl3ggpj9yfrzg19r6qqmxf0ry0db42wqh20ijgzharkkixqfnav";
+          sha256 = "";
         }
         {
           path = ''Grooves/Logic_16B.rgt'';
@@ -7411,7 +7411,7 @@
         {
           path = ''Grooves/Logic_16F.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/Logic_16F.rgt";
-          sha256 = "1s4545iv0s15574vfxipbqply17zx682hnlrim231v15kmkxr8n5";
+          sha256 = "";
         }
         {
           path = ''Grooves/Logic_8A.rgt'';
@@ -7421,27 +7421,27 @@
         {
           path = ''Grooves/Logic_8B.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/Logic_8B.rgt";
-          sha256 = "1vg0spq295ghiqq5v2z914scpczkc0xxpnrjbc9605296ks2368f";
+          sha256 = "";
         }
         {
           path = ''Grooves/Logic_8C.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/Logic_8C.rgt";
-          sha256 = "1sa0yqidqb8a5z7wk1c38kaprfdx0ahvy8kagg54mis9b8pj9brz";
+          sha256 = "";
         }
         {
           path = ''Grooves/Logic_8D.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/Logic_8D.rgt";
-          sha256 = "1qh4sc2382vkrsj3azriqly7912p9xf18iqmrx7hnkzkmb28l5x7";
+          sha256 = "";
         }
         {
           path = ''Grooves/Logic_8E.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/Logic_8E.rgt";
-          sha256 = "04sb1aymgzsr3x01x0xz7ljizw1rjqxblkshxdahh1knr6gmp83j";
+          sha256 = "";
         }
         {
           path = ''Grooves/Logic_8F.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/Logic_8F.rgt";
-          sha256 = "1wv8rbbw0xj8jvw26h93zzqpfvgmf9wpj9y0klaqdh37zhsrqzvk";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 16'th Triplet Subz 4 bar.rgt'';
@@ -7451,12 +7451,12 @@
         {
           path = ''Grooves/MPC 32'nd Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2032'nd%20Subz%204%20bar.rgt";
-          sha256 = "1hzl14s8lmkhfb1qlpc4a2b3mn0gvqww5awkx3bkpbcxg730qsml";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 32'nd Triplet Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2032'nd%20Triplet%20Subz%204%20bar.rgt";
-          sha256 = "10dgymd801nv2kfndcpk8qnz0dhpcy6v5vnars54xr5nn6v1sm6z";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 50% Subz 4 bar.rgt'';
@@ -7466,7 +7466,7 @@
         {
           path = ''Grooves/MPC 51% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2051%25%20Subz%204%20bar.rgt";
-          sha256 = "1sl9wgmxwcvn7dg89q31addki0cc21y50ykjfaa7hn2w0d9sfhdm";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 52% Subz 4 bar.rgt'';
@@ -7481,12 +7481,12 @@
         {
           path = ''Grooves/MPC 54% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2054%25%20Subz%204%20bar.rgt";
-          sha256 = "1x2h6vybwl503lshva0m9g1n1w7ss0l59xg16bpx4s2xg6cqjx4m";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 55% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2055%25%20Subz%204%20bar.rgt";
-          sha256 = "0xmfy1bsd2k3pjcpd5mz8f979628i24rgvzhrhdccqkbqi26059j";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 56% Subz 4 bar.rgt'';
@@ -7501,22 +7501,22 @@
         {
           path = ''Grooves/MPC 58% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2058%25%20Subz%204%20bar.rgt";
-          sha256 = "0zfz655xbl1d1wq69mbmd8xd410fb9bsk6y425wgrzs0r7mml5rf";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 59% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2059%25%20Subz%204%20bar.rgt";
-          sha256 = "04w07aafzrr2rvv9wy1dy6v5d8gg1pqap0lhnlglfhq4nghr3h1y";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 60% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2060%25%20Subz%204%20bar.rgt";
-          sha256 = "05l3csf2bpmhqxkbp93zhlzyx52hipjvd4l7wmzgwmwda80jpyzs";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 61% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2061%25%20Subz%204%20bar.rgt";
-          sha256 = "0kw78ya22x99gdkycs8hg2wz5shiqxfr8xvwzqk2dmhp472yxzsk";
+          sha256 = "0hax0h1x68xm59w4fvh8br7bqz1kq9czn4zbhblgcb3fn1qldw7d";
         }
         {
           path = ''Grooves/MPC 62% Subz 4 bar.rgt'';
@@ -7526,7 +7526,7 @@
         {
           path = ''Grooves/MPC 63% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2063%25%20Subz%204%20bar.rgt";
-          sha256 = "189jzaxy8wnzr7f2clhfgxf2asgw82b1kvfxhq2hjpgfl3jcy8j2";
+          sha256 = "0mmyvvjqv1y9q3d2s6h9bdnp40kci6fx2q3q0dklp7lx79y6hxz4";
         }
         {
           path = ''Grooves/MPC 64% Subz 4 bar.rgt'';
@@ -7536,27 +7536,27 @@
         {
           path = ''Grooves/MPC 65% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2065%25%20Subz%204%20bar.rgt";
-          sha256 = "1lgfa2s6pcl9lkrmwgy49xd95wvxrz10kjf3mljm8wrv6qv01jjz";
+          sha256 = "1lsc4n0g38jlp5k2w2nw204anlyf21yh1z1nfz83qlg6wbjbjifx";
         }
         {
           path = ''Grooves/MPC 66% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2066%25%20Subz%204%20bar.rgt";
-          sha256 = "0xrn5mhd67w924vh7zix4fhcm98df5wrj2cdqjymjn6s4xkrwxd6";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 67% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2067%25%20Subz%204%20bar.rgt";
-          sha256 = "1w2478zhi3b1xf201lx3v1kmvrisavxkybfhf30l4xb9qm577244";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 68% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2068%25%20Subz%204%20bar.rgt";
-          sha256 = "0ymfvhnyx71wmxi2f4pakzqhm187x1jkha105z6nnrcfad4mk16c";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 69% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2069%25%20Subz%204%20bar.rgt";
-          sha256 = "12phqhv6lzcmg6qif0l14vzimrqffb39fa6kqzcfa4f9ir8bh0ab";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 70% Subz 4 bar.rgt'';
@@ -7566,12 +7566,12 @@
         {
           path = ''Grooves/MPC 71% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2071%25%20Subz%204%20bar.rgt";
-          sha256 = "0cl9vg1qmk7xhm7crrbnrbi5dzlgmrz7c1kzmb4ghvrzaqv6dc7r";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 72% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2072%25%20Subz%204%20bar.rgt";
-          sha256 = "0zj5cxj52f3mkblh3ly1hfwzhqsl77qwkljnklaccwbag61sqhmc";
+          sha256 = "14nij0ajkfp6l4z5n92b5zq48dkgbpaycc7bikjha5k5mz4mv93d";
         }
         {
           path = ''Grooves/MPC 73% Subz 4 bar.rgt'';
@@ -7581,12 +7581,12 @@
         {
           path = ''Grooves/MPC 74% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2074%25%20Subz%204%20bar.rgt";
-          sha256 = "0ayj8wps50cq22mja05l1mrp3navzbhav1xjn5i8gfv4rnh8vh2g";
+          sha256 = "17wh89p1h53wn71xzg1a3xfwvcg7vi39r6ypqn9bc6hhhk8xbshh";
         }
         {
           path = ''Grooves/MPC 75% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/MPC%2075%25%20Subz%204%20bar.rgt";
-          sha256 = "13knqqrl5j8fizskbhbvwps7223zlf1vjamqs7gizmyhxcik8abr";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 8'th Triplet Subz 4 bar.rgt'';
@@ -7596,7 +7596,7 @@
         {
           path = ''Grooves/SP1200_50%.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/SP1200_50%25.rgt";
-          sha256 = "1kba1q7ramzh6a17g8z8iaknpypanywmhrf3vzi3lgkycai7v6i6";
+          sha256 = "";
         }
         {
           path = ''Grooves/SP1200_50%_16T.rgt'';
@@ -7616,7 +7616,7 @@
         {
           path = ''Grooves/SP1200_54%.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.1/FingersExtras/Grooves/SP1200_54%25.rgt";
-          sha256 = "1kj9mpnpz5s02pilvywh1q0l51v4sdricxfavfyxwv4alckfnv06";
+          sha256 = "03nhw1hh4wd786w9w5r9aqmwak70368s5q9i846l2vr5ivzm0snx";
         }
         {
           path = ''Grooves/SP1200_54%_16T.rgt'';
@@ -7790,12 +7790,12 @@
         {
           path = ''Grooves/DX_16_ 50% swing.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/DX_16_%2050%25%20swing.rgt";
-          sha256 = "0g94890qkmxanib4yc6nlny9qsa9i2q6blgpd6n6sa3vs1qa321h";
+          sha256 = "";
         }
         {
           path = ''Grooves/DX_16_ 54% swing.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/DX_16_%2054%25%20swing.rgt";
-          sha256 = "00lsbycl08850zk9r2aigx7v4ia0y90vzm5mijr2dk76rph5ba43";
+          sha256 = "1bi98iqbfb1968jxic72p7d3p05vdkim152c9sd13kn2a8g44szy";
         }
         {
           path = ''Grooves/DX_16_ 58% swing.rgt'';
@@ -7815,7 +7815,7 @@
         {
           path = ''Grooves/DX_16_ 70% swing.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/DX_16_%2070%25%20swing.rgt";
-          sha256 = "1a4ciyi6n09iab6zym0zdpwylh5mjs02lwvrda3rl05lsxlqma78";
+          sha256 = "111pzpkqdk3v4kir058b4z8ya3skzqk18rviknfn4z55kyspcpy1";
         }
         {
           path = ''Grooves/DX_32_ 50% swing.rgt'';
@@ -7830,7 +7830,7 @@
         {
           path = ''Grooves/DX_32_ 83% swing.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/DX_32_%2083%25%20swing.rgt";
-          sha256 = "1hv6lqjg8rq2f3dk5awl62f2wgzs7yxbdgnjsg4q564lgh3xm1ip";
+          sha256 = "04nfr6cxgy2wpklfalazh5951fsq0wyy882rvrabrxq00hgczrw6";
         }
         {
           path = ''Grooves/Korg DDD-1-16 50%.rgt'';
@@ -7845,7 +7845,7 @@
         {
           path = ''Grooves/Korg DDD-1-16 58%.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/Korg%20DDD-1-16%2058%25.rgt";
-          sha256 = "0cdz3nmqd6mqx3rppwaligd6qq4rn8zbk9hvxlcylis2v0jp6smr";
+          sha256 = "0fcfvx360kl042r60w5s76xbdi6c91j8sk8wnd7ymd5v0j4l9r55";
         }
         {
           path = ''Grooves/Korg DDD-1-16 63%.rgt'';
@@ -7875,7 +7875,7 @@
         {
           path = ''Grooves/Korg DDD-1-16 83%.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/Korg%20DDD-1-16%2083%25.rgt";
-          sha256 = "1pczl9mmnd47pfhp2q8l2dn88lgig83xksz1qfaw4w0lln35pg96";
+          sha256 = "";
         }
         {
           path = ''Grooves/Korg DDD-1-16 88%.rgt'';
@@ -7885,12 +7885,12 @@
         {
           path = ''Grooves/Korg DDD-1-16T%.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/Korg%20DDD-1-16T%25.rgt";
-          sha256 = "12dhxjj1m4i4mf4a8lzbpigq4dygkgl40xhrvx6dsvsc4si7vx2s";
+          sha256 = "1gsgvkrgzv7j1hkwrqbxn7klh1z3hv9575ir3vn4d0l7nyvkp7a3";
         }
         {
           path = ''Grooves/Korg DDD-1-8T%.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/Korg%20DDD-1-8T%25.rgt";
-          sha256 = "1773af212qgldmkrl0kbr37n29hbf6q8szn0is6wmg5wrc1l0adm";
+          sha256 = "0mf0sg6ljxnh9ji1qshwmw9fyr71k0a2p38c1rrzafawhr7x5nn7";
         }
         {
           path = ''Grooves/Logic_16A.rgt'';
@@ -7905,7 +7905,7 @@
         {
           path = ''Grooves/Logic_16C.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/Logic_16C.rgt";
-          sha256 = "1v3scdl0z7sn357agj5b6bsiywshj1d1zx7640r8a79grsjjqwby";
+          sha256 = "0ydpxgkb7qnmdgs2nf358hkw4ypqkn7h9d6dnfkwg7gz66l55p99";
         }
         {
           path = ''Grooves/Logic_16D.rgt'';
@@ -7915,7 +7915,7 @@
         {
           path = ''Grooves/Logic_16E.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/Logic_16E.rgt";
-          sha256 = "06883cb8vhhrzypf88hnh3llv7gkzmj2npg521dqkmf0yriw9zk4";
+          sha256 = "";
         }
         {
           path = ''Grooves/Logic_16F.rgt'';
@@ -7950,12 +7950,12 @@
         {
           path = ''Grooves/Logic_8F.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/Logic_8F.rgt";
-          sha256 = "1wv8rbbw0xj8jvw26h93zzqpfvgmf9wpj9y0klaqdh37zhsrqzvk";
+          sha256 = "";
         }
         {
           path = ''Grooves/MPC 16'th Triplet Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/MPC%2016'th%20Triplet%20Subz%204%20bar.rgt";
-          sha256 = "04zdwz6q63jgsp3s7p7gisn5b30dnhksjljzgfsk1advm9gsh1xr";
+          sha256 = "0palfyyfyq5xkx7scv6rx26kpc5zkkx38gfys2qa3qshy27dqcng";
         }
         {
           path = ''Grooves/MPC 32'nd Subz 4 bar.rgt'';
@@ -7965,7 +7965,7 @@
         {
           path = ''Grooves/MPC 32'nd Triplet Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/MPC%2032'nd%20Triplet%20Subz%204%20bar.rgt";
-          sha256 = "10dgymd801nv2kfndcpk8qnz0dhpcy6v5vnars54xr5nn6v1sm6z";
+          sha256 = "1m0zc78kgav1yv5a7mbwrn1k2973f0v8b1y2sism71bavlb5ppc1";
         }
         {
           path = ''Grooves/MPC 50% Subz 4 bar.rgt'';
@@ -7975,7 +7975,7 @@
         {
           path = ''Grooves/MPC 51% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/MPC%2051%25%20Subz%204%20bar.rgt";
-          sha256 = "1sl9wgmxwcvn7dg89q31addki0cc21y50ykjfaa7hn2w0d9sfhdm";
+          sha256 = "1xrpk4v568q3wslqwq6hi6jfcwni6zjwzzrka3f08nxg6dhanzld";
         }
         {
           path = ''Grooves/MPC 52% Subz 4 bar.rgt'';
@@ -8020,17 +8020,17 @@
         {
           path = ''Grooves/MPC 60% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/MPC%2060%25%20Subz%204%20bar.rgt";
-          sha256 = "05l3csf2bpmhqxkbp93zhlzyx52hipjvd4l7wmzgwmwda80jpyzs";
+          sha256 = "0rlyba79s85kkkzxiw99cljyc9jf1yimi02l1ygd5a981bfpj9bj";
         }
         {
           path = ''Grooves/MPC 61% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/MPC%2061%25%20Subz%204%20bar.rgt";
-          sha256 = "0kw78ya22x99gdkycs8hg2wz5shiqxfr8xvwzqk2dmhp472yxzsk";
+          sha256 = "0hax0h1x68xm59w4fvh8br7bqz1kq9czn4zbhblgcb3fn1qldw7d";
         }
         {
           path = ''Grooves/MPC 62% Subz 4 bar.rgt'';
           url = "https://github.com/reaper-oss/sws/raw/v2.14.0.2/FingersExtras/Grooves/MPC%2062%25%20Subz%204%20bar.rgt";
-          sha256 = "140w2aankljscpbpkc00gfyxqq0vqnmp6n8llr1zrwpwzk4y2rn8";
+          sha256 = "1nc7g228hqcnmp8rxpij3zrz9y3sih6hpirmvicyzk7b8k02icxx";
         }
         {
           path = ''Grooves/MPC 63% Subz 4 bar.rgt'';
@@ -9696,6 +9696,65 @@
           path = ''reaper_reallm-x86_64.so'';
           url = "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-x86_64.so";
           sha256 = "1g1byzsnwcjwxpzqq17drf3l0fi8pdih119mrnxzjpyl0c9rjj97";
+        }
+      ];
+    };
+    ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-7-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "ak5k-reallm-reaper-low-latency-monitoring-plug-in-extension-ext-0-7-0";
+      indexName = "ReaTeam Extensions";
+      categoryName = "FX";
+      packageType = "extension";
+      sources = [
+        {
+          path = ''reaper_reallm-aarch64.so'';
+          url = "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-aarch64.so";
+          sha256 = "1lp968zb0xsgg781kcsxxshg2p5k3j2fi5hw3yfc7rz7lfx0s0qj";
+        }
+        {
+          path = ''reaper_reallm-arm64.dylib'';
+          url = "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-arm64.dylib";
+          sha256 = "1yl0q3xafi65ijw4j6mj3l3r5px2wgf1ilzqvxaadwqz55fr84mk";
+        }
+        {
+          path = ''reaper_reallm-armv7l.so'';
+          url = "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-armv7l.so";
+          sha256 = "10789fpa4haxm07252pvnrzhxd9jx70zdd3izx28ccxp6j9kl6s1";
+        }
+        {
+          path = ''reaper_reallm-i386.dylib'';
+          url = "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-i386.dylib";
+          sha256 = "0li97rz1xpm42ary7lzzvrv8726y470ypi3sz05lxxrwmycj7hnl";
+        }
+        {
+          path = ''reaper_reallm-i686.so'';
+          url = "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-i686.so";
+          sha256 = "1c3hz2s5p3acaric0wxbkr5wkppvw3vvnac3xsvz73qlblgrg1gf";
+        }
+        {
+          path = ''reaper_reallm-x64.dll'';
+          url = "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x64.dll";
+          sha256 = "062qmaivzv1s3104ixksn415f40npc5gk068bszxyhzka9lxzzjq";
+        }
+        {
+          path = ''reaper_reallm-x86.dll'';
+          url = "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86.dll";
+          sha256 = "1i9s31437wb16697ba2833wizvmq5ykhgdxmfpr0ibvdkf619pv8";
+        }
+        {
+          path = ''reaper_reallm-x86_64.dylib'';
+          url = "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86_64.dylib";
+          sha256 = "1j8y40brikww00pxvadx222x1b8j75r3xsimc8g765yrhca2c2dx";
+        }
+        {
+          path = ''reaper_reallm-x86_64.so'';
+          url = "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86_64.so";
+          sha256 = "1f98bpwxl6isxlgn42w60cf7z0rh3j7am85mmrd4r7sbmlzdss9v";
+        }
+        {
+          path = ''reaper_reallm-arm64ec.dll'';
+          url = "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-arm64ec.dll";
+          sha256 = "0plca6mmahq7aik3zmqc5njjm5rd658jd8axif2mm611fpwcvwcr";
         }
       ];
     };
