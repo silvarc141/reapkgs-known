@@ -2759,7 +2759,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bd5f5f3d1dfc49e6e9756fd7a4b086794abb6e78/Items%20Editing/X-Raym_Convert%20selected%20looped%20items%20into%20items%20and%20pooled%20midi.eel";
-          sha256 = "015zc8ilzish6ybb34dmjg8ybqabwn09r2l42wd7d1fmzfgwvya8";
+          sha256 = "0ckpkqj16sc0cdzkii1y7vjp1n8j00qgky388f6kdmbyx3a7394i";
         }
       ];
     };
@@ -4467,7 +4467,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fbe794ade01d5bb09dbe8a36d4fba91beb5bac69/Items%20Properties/X-Raym_Add%20named%20and%20colored%20take%20markers%20to%20selected%20takes%20at%20play%20cursor%20position.lua";
-          sha256 = "1wcy66wixdb0xa4inds9spp2a36vis7w47zfhlkxxqlj5y66jflw";
+          sha256 = "1q7cncyp15yis1yh7s1j655fz1pvf972bnmzckdidaidifd070hi";
         }
       ];
     };
@@ -5083,7 +5083,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Items%20Properties/X-Raym_Keep%20selected%20only%20X%20items%20randomly.lua";
-          sha256 = "0yxjrxrv31sh2lda0yfachqz120z3qqwygb55sbypz77vpkik3zy";
+          sha256 = "17zrl6n7gyfbi3gfhhzscqj71amzv22f0nxqv6qfyxlbyxi0q989";
         }
       ];
     };

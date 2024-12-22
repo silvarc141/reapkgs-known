@@ -840,7 +840,7 @@
         {
           path = ''Modules/Area_51_ghosts.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4dcac87fa438aeb7daaa0bf0b6092e441baba59c/Area51/Modules/Area_51_ghosts.lua";
-          sha256 = "1qgb3ndp4axbd6daq1y7jnlxnck5w869xg18fh039xhz7r7csk6s";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_key_functions.lua'';
@@ -977,12 +977,12 @@
         {
           path = ''Modules/Area_51_functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/69e3392e634425b5a4663590f9a3fafd43aa13b6/Area51/Modules/Area_51_functions.lua";
-          sha256 = "0xkb96aw75v1fv1sxk7y7908y7jrxcldf7xgd5bp79900w6q425m";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_functions_code.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/69e3392e634425b5a4663590f9a3fafd43aa13b6/Area51/Modules/Area_51_functions_code.lua";
-          sha256 = "1f0zqwilvm3rmqv4vw6p39dzmdh290hlpfbkgj1w8k0341dkxrgp";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_ghosts.lua'';
@@ -1002,7 +1002,7 @@
         {
           path = ''Modules/Area_51_mouse.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/69e3392e634425b5a4663590f9a3fafd43aa13b6/Area51/Modules/Area_51_mouse.lua";
-          sha256 = "096n3vgc3fmbmal8n99hq81zmivwkfd7ydz6m7n3n810x8w7bg0y";
+          sha256 = "";
         }
       ];
     };
@@ -1031,7 +1031,7 @@
         {
           path = ''Modules/Area_51_functions_code.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0042b62c47778f604bc93aa9f7e879ab8f528bed/Area51/Modules/Area_51_functions_code.lua";
-          sha256 = "1jdgl5n9iaamnv0hbfwj2yn38411xms7gm9i9dyviabjdd0abrvb";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_ghosts.lua'';
@@ -1046,7 +1046,7 @@
         {
           path = ''Modules/Area_51_keyboard.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0042b62c47778f604bc93aa9f7e879ab8f528bed/Area51/Modules/Area_51_keyboard.lua";
-          sha256 = "0gshgn8fdbskbqljqcwa5fqvvpbnbnzjiw9l61z9aapb5fqjvhq7";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_mouse.lua'';
@@ -1065,7 +1065,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c13c969e8336d0b11b21afa5e57380c047435c0f/Area51/Area_51_RW.lua";
-          sha256 = "17mvydjq6pj6hm5hxy3f80iifpfgmhr6wclb0rlvh35jq36ln23d";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_class.lua'';
@@ -1080,7 +1080,7 @@
         {
           path = ''Modules/Area_51_functions_code.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c13c969e8336d0b11b21afa5e57380c047435c0f/Area51/Modules/Area_51_functions_code.lua";
-          sha256 = "1jdgl5n9iaamnv0hbfwj2yn38411xms7gm9i9dyviabjdd0abrvb";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_ghosts.lua'';
@@ -1090,12 +1090,12 @@
         {
           path = ''Modules/Area_51_key_functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c13c969e8336d0b11b21afa5e57380c047435c0f/Area51/Modules/Area_51_key_functions.lua";
-          sha256 = "10y3p3jwd8hdhrl6j9sdkr30h6i7xvbw7wgycaj5pyag4nssgg24";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_keyboard.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c13c969e8336d0b11b21afa5e57380c047435c0f/Area51/Modules/Area_51_keyboard.lua";
-          sha256 = "0gshgn8fdbskbqljqcwa5fqvvpbnbnzjiw9l61z9aapb5fqjvhq7";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_mouse.lua'';
@@ -1114,7 +1114,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/46358656c85751325fd6a20411671483f0ce6882/Area51/Area_51_RW.lua";
-          sha256 = "0l30j8hm5iph3h26wxliyjvkr3zjrh1hdbma3yzjkig22kmdw9l9";
+          sha256 = "1a5rzsf7hvrnqh9yyg52j81ff68ym7xjbcn5p429kf0rflmrl3gs";
         }
         {
           path = ''Modules/Area_51_class.lua'';
@@ -1124,7 +1124,7 @@
         {
           path = ''Modules/Area_51_functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/46358656c85751325fd6a20411671483f0ce6882/Area51/Modules/Area_51_functions.lua";
-          sha256 = "1i6xfs6qds1m8lg0ggzz12vn3a5hgxc60xsfn20kxgs3vzqcvapz";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_functions_code.lua'';
@@ -1134,12 +1134,12 @@
         {
           path = ''Modules/Area_51_ghosts.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/46358656c85751325fd6a20411671483f0ce6882/Area51/Modules/Area_51_ghosts.lua";
-          sha256 = "1qgb3ndp4axbd6daq1y7jnlxnck5w869xg18fh039xhz7r7csk6s";
+          sha256 = "15j8xvx9xyz504qiy6znz85qkacx4cxr1w8gcirsk49a7bkdmh6k";
         }
         {
           path = ''Modules/Area_51_key_functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/46358656c85751325fd6a20411671483f0ce6882/Area51/Modules/Area_51_key_functions.lua";
-          sha256 = "10y3p3jwd8hdhrl6j9sdkr30h6i7xvbw7wgycaj5pyag4nssgg24";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_keyboard.lua'';
@@ -1173,7 +1173,7 @@
         {
           path = ''Modules/Area_51_functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/9d8df69d56252824c0e3369b4729b12c6a5032bf/Area51/Modules/Area_51_functions.lua";
-          sha256 = "1i6xfs6qds1m8lg0ggzz12vn3a5hgxc60xsfn20kxgs3vzqcvapz";
+          sha256 = "0sd3p3sljg19v8c7v9qasfb8h7sy9inb87y9h7g09lh0l5iaxw9g";
         }
         {
           path = ''Modules/Area_51_functions_code.lua'';
@@ -1188,12 +1188,12 @@
         {
           path = ''Modules/Area_51_key_functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/9d8df69d56252824c0e3369b4729b12c6a5032bf/Area51/Modules/Area_51_key_functions.lua";
-          sha256 = "10y3p3jwd8hdhrl6j9sdkr30h6i7xvbw7wgycaj5pyag4nssgg24";
+          sha256 = "199f1jd4wj26a5g0j6v48ys4hribyggrm1mrpns9zqlcmid5y5cd";
         }
         {
           path = ''Modules/Area_51_keyboard.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/9d8df69d56252824c0e3369b4729b12c6a5032bf/Area51/Modules/Area_51_keyboard.lua";
-          sha256 = "0gshgn8fdbskbqljqcwa5fqvvpbnbnzjiw9l61z9aapb5fqjvhq7";
+          sha256 = "0646qwyrp27i32chi0lnzgn7g486i3v8q32zl7ry2ynw77acjkpd";
         }
         {
           path = ''Modules/Area_51_mouse.lua'';
@@ -1217,12 +1217,12 @@
         {
           path = ''Modules/Area_51_class.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/221ce4fb681ca28777d169e3c33fcde44662f999/Area51/Modules/Area_51_class.lua";
-          sha256 = "0l8cjsfmk16bqcpxd0ivcv1f5p5086jq59v21xc61smxla40c70b";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/221ce4fb681ca28777d169e3c33fcde44662f999/Area51/Modules/Area_51_functions.lua";
-          sha256 = "1i6xfs6qds1m8lg0ggzz12vn3a5hgxc60xsfn20kxgs3vzqcvapz";
+          sha256 = "0sd3p3sljg19v8c7v9qasfb8h7sy9inb87y9h7g09lh0l5iaxw9g";
         }
         {
           path = ''Modules/Area_51_functions_code.lua'';
@@ -1232,7 +1232,7 @@
         {
           path = ''Modules/Area_51_ghosts.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/221ce4fb681ca28777d169e3c33fcde44662f999/Area51/Modules/Area_51_ghosts.lua";
-          sha256 = "1qgb3ndp4axbd6daq1y7jnlxnck5w869xg18fh039xhz7r7csk6s";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_key_functions.lua'';
@@ -1242,7 +1242,7 @@
         {
           path = ''Modules/Area_51_keyboard.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/221ce4fb681ca28777d169e3c33fcde44662f999/Area51/Modules/Area_51_keyboard.lua";
-          sha256 = "03li4j4d9nqi643mlg97cgja7qjazvwpq57kkm0sz1p7iyzrdgxs";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_mouse.lua'';
@@ -1261,7 +1261,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/b6a56aea5d22c4d53ad88b6ce04f62e81c646373/Area51/Area_51_RW.lua";
-          sha256 = "1nprkgjixn2464ns0yvy826h9rh9r5iahylv6k8a92zh24h5r114";
+          sha256 = "0bp0dk2mv1yq1agd5a10k4iigj4a6d8d1g2kskrhmnb8jnzk13vz";
         }
         {
           path = ''Modules/Area_51_class.lua'';
@@ -1271,7 +1271,7 @@
         {
           path = ''Modules/Area_51_functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/b6a56aea5d22c4d53ad88b6ce04f62e81c646373/Area51/Modules/Area_51_functions.lua";
-          sha256 = "1i6xfs6qds1m8lg0ggzz12vn3a5hgxc60xsfn20kxgs3vzqcvapz";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_functions_code.lua'';
@@ -1291,12 +1291,12 @@
         {
           path = ''Modules/Area_51_keyboard.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/b6a56aea5d22c4d53ad88b6ce04f62e81c646373/Area51/Modules/Area_51_keyboard.lua";
-          sha256 = "1i0sjf1ma7kah1a6agxawf7nwk6hhyv26jdbvl1cwjg4g427qqq0";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_mouse.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/b6a56aea5d22c4d53ad88b6ce04f62e81c646373/Area51/Modules/Area_51_mouse.lua";
-          sha256 = "096n3vgc3fmbmal8n99hq81zmivwkfd7ydz6m7n3n810x8w7bg0y";
+          sha256 = "1447gbmpylp9k6ilfl0l8r7nx6a43lhbb570xy22z7bxi488x697";
         }
       ];
     };
@@ -1325,7 +1325,7 @@
         {
           path = ''Modules/Area_51_functions_code.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0be75175f9c6af97c251ef79e6b65048633a822a/Area51/Modules/Area_51_functions_code.lua";
-          sha256 = "0gbvwcwrnpyjkmb9b4gf12vzsv0kz5jjs3m21ajn9r38x6qa466w";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_ghosts.lua'';
@@ -1340,7 +1340,7 @@
         {
           path = ''Modules/Area_51_keyboard.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0be75175f9c6af97c251ef79e6b65048633a822a/Area51/Modules/Area_51_keyboard.lua";
-          sha256 = "1i0sjf1ma7kah1a6agxawf7nwk6hhyv26jdbvl1cwjg4g427qqq0";
+          sha256 = "";
         }
         {
           path = ''Modules/Area_51_mouse.lua'';
@@ -1359,7 +1359,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/cbbbc575cd6259a7e0b1300f0d8e2f585f541798/Area51/Area_51_RW.lua";
-          sha256 = "0v1g399pvxh1nf3llwbby8n4nymx46f7l66mv1ag5h5y5199p2zb";
+          sha256 = "0a2mwzbjxnckfvd83s4p5aylkjlz08jr8fqwqqibk76jdppn1yfh";
         }
         {
           path = ''Modules/Area_51_class.lua'';
@@ -1369,7 +1369,7 @@
         {
           path = ''Modules/Area_51_functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/cbbbc575cd6259a7e0b1300f0d8e2f585f541798/Area51/Modules/Area_51_functions.lua";
-          sha256 = "02ccc9nfl6psrfp4a34mfbrpjzr0rmf37qs6pnhnjn7a3if885n0";
+          sha256 = "0rm4xh346zav2s8hqddy7avqxbsiih3nwvfg0hhpd83885bcizl2";
         }
         {
           path = ''Modules/Area_51_functions_code.lua'';
@@ -1389,12 +1389,12 @@
         {
           path = ''Modules/Area_51_keyboard.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/cbbbc575cd6259a7e0b1300f0d8e2f585f541798/Area51/Modules/Area_51_keyboard.lua";
-          sha256 = "1i0sjf1ma7kah1a6agxawf7nwk6hhyv26jdbvl1cwjg4g427qqq0";
+          sha256 = "109ialzl2g1nhgv0k00c2rblm96vqi4rn22gbk8fpkdx70403afv";
         }
         {
           path = ''Modules/Area_51_mouse.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/cbbbc575cd6259a7e0b1300f0d8e2f585f541798/Area51/Modules/Area_51_mouse.lua";
-          sha256 = "096n3vgc3fmbmal8n99hq81zmivwkfd7ydz6m7n3n810x8w7bg0y";
+          sha256 = "1447gbmpylp9k6ilfl0l8r7nx6a43lhbb570xy22z7bxi488x697";
         }
       ];
     };
@@ -1408,7 +1408,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c1b3c846b9fa673b4688d814a8c7e0bd7d2fe257/Area51/Area_51_RW.lua";
-          sha256 = "0y83rd0naa1g4rib8f3x80bh9l8v3hkk5rjb76280zpfi3slr8iv";
+          sha256 = "1wj0lwcqs7dpicx98zq1h77yyn5gbv46c5ap9dl5bb78yir8f0nf";
         }
         {
           path = ''Modules/Area_51_class.lua'';
@@ -3396,7 +3396,7 @@
         {
           path = ''JSFX/3BandSplitterFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/a6bc2d9ed57cabfbefb74b62314eadf82c9081e1/ParanormalFX/JSFX/3BandSplitterFX.jsfx";
-          sha256 = "10sydlijlbk61vmdmpwjjwbwa284cnj75krlc3iwk2f57pf88wjz";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX.jsfx'';
@@ -3406,7 +3406,7 @@
         {
           path = ''JSFX/3BandSplitterFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/a6bc2d9ed57cabfbefb74b62314eadf82c9081e1/ParanormalFX/JSFX/3BandSplitterFX.jsfx";
-          sha256 = "10sydlijlbk61vmdmpwjjwbwa284cnj75krlc3iwk2f57pf88wjz";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX.jsfx'';
@@ -3435,17 +3435,17 @@
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/69ad0bc0fc5bcd46f9e38688e5a32e2921328685/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "03dv0hc1f67lkgrc2dgsjma5qyq1m9xi19vvslmbgq6jvxq3p7h7";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/69ad0bc0fc5bcd46f9e38688e5a32e2921328685/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "1n952whj9pyxag63vjgcd17kv7pqd88gv12r3gsx92spyvg2d4hc";
+          sha256 = "0ap7vqpp7vjjmvb68cdndy3srrrjvpdbv8gmklqbh4pf77fdf5y3";
         }
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/69ad0bc0fc5bcd46f9e38688e5a32e2921328685/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1pjbiyz6r80rfn26kw7xm09wdgar8i16biayhbqk7fy41admg035";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -3465,7 +3465,7 @@
         {
           path = ''JSFX/3BandSplitterFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/69ad0bc0fc5bcd46f9e38688e5a32e2921328685/ParanormalFX/JSFX/3BandSplitterFX.jsfx";
-          sha256 = "10sydlijlbk61vmdmpwjjwbwa284cnj75krlc3iwk2f57pf88wjz";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX.jsfx'';
@@ -3475,7 +3475,7 @@
         {
           path = ''JSFX/3BandSplitterFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/69ad0bc0fc5bcd46f9e38688e5a32e2921328685/ParanormalFX/JSFX/3BandSplitterFX.jsfx";
-          sha256 = "10sydlijlbk61vmdmpwjjwbwa284cnj75krlc3iwk2f57pf88wjz";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX.jsfx'';
@@ -3499,7 +3499,7 @@
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/acca0ac2f21ab8c9482312b5ef026008a51c92f4/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "1ycnxm2ilx3x82mxvhddrwylbqk7vcqjz2kbgcc6ldq249n35d9y";
+          sha256 = "";
         }
         {
           path = ''Modules/ContainerCode.lua'';
@@ -3519,7 +3519,7 @@
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/acca0ac2f21ab8c9482312b5ef026008a51c92f4/ParanormalFX/Modules/Utils.lua";
-          sha256 = "1r06r1ywm2ygqxagh55i6rih7576pd2h3apl8lrpsc7y7i2vb0mr";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
@@ -3563,7 +3563,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/9de84a08d1e46aafafe1aae5b0bc4b63a63681a3/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "07z7n3hbs2zyinpl901cs9ysxv09bvdhngps6cwdzi909ycxs9sf";
+          sha256 = "";
         }
         {
           path = ''Modules/Canvas.lua'';
@@ -3573,7 +3573,7 @@
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/9de84a08d1e46aafafe1aae5b0bc4b63a63681a3/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "165vgg8fy48vs4zcfb212riag7r2855v2bwcl5s98k3ii3wzgydm";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
@@ -3593,7 +3593,7 @@
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/9de84a08d1e46aafafe1aae5b0bc4b63a63681a3/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "1rrssrjjvp5vafqfgjb4za94qqzdrx7ghk9rvc321g4am3bmwycy";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
@@ -3608,7 +3608,7 @@
         {
           path = ''JSFX/BandSelectFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/9de84a08d1e46aafafe1aae5b0bc4b63a63681a3/ParanormalFX/JSFX/BandSelectFX.jsfx";
-          sha256 = "0w0l867cd2cwjg2nhyk6mw30qypcmybzpbrmmwpk280xvbayr8wr";
+          sha256 = "";
         }
         {
           path = ''JSFX/3BandSplitterFX.jsfx'';
@@ -3618,7 +3618,7 @@
         {
           path = ''JSFX/BandSelectFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/9de84a08d1e46aafafe1aae5b0bc4b63a63681a3/ParanormalFX/JSFX/BandSelectFX.jsfx";
-          sha256 = "0w0l867cd2cwjg2nhyk6mw30qypcmybzpbrmmwpk280xvbayr8wr";
+          sha256 = "";
         }
       ];
     };
@@ -3652,12 +3652,12 @@
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/83a8e8ad0a01ad4471479c377e20c11376672d2c/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1pjbiyz6r80rfn26kw7xm09wdgar8i16biayhbqk7fy41admg035";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/83a8e8ad0a01ad4471479c377e20c11376672d2c/ParanormalFX/Modules/Utils.lua";
-          sha256 = "1r06r1ywm2ygqxagh55i6rih7576pd2h3apl8lrpsc7y7i2vb0mr";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
@@ -3677,7 +3677,7 @@
         {
           path = ''JSFX/BandSelectFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/83a8e8ad0a01ad4471479c377e20c11376672d2c/ParanormalFX/JSFX/BandSelectFX.jsfx";
-          sha256 = "0w0l867cd2cwjg2nhyk6mw30qypcmybzpbrmmwpk280xvbayr8wr";
+          sha256 = "";
         }
         {
           path = ''JSFX/3BandSplitterFX.jsfx'';
@@ -3687,7 +3687,7 @@
         {
           path = ''JSFX/BandSelectFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/83a8e8ad0a01ad4471479c377e20c11376672d2c/ParanormalFX/JSFX/BandSelectFX.jsfx";
-          sha256 = "0w0l867cd2cwjg2nhyk6mw30qypcmybzpbrmmwpk280xvbayr8wr";
+          sha256 = "";
         }
       ];
     };
@@ -3716,7 +3716,7 @@
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/19bec1188fe55bdec7efcd3feebb98bbd069f474/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "01xx4phmifwk6qnik75lyrgl4545b4wl8sham74f9nbfz1vyid77";
+          sha256 = "";
         }
         {
           path = ''Modules/Functions.lua'';
@@ -3736,27 +3736,27 @@
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/19bec1188fe55bdec7efcd3feebb98bbd069f474/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/3BandSplitterFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/19bec1188fe55bdec7efcd3feebb98bbd069f474/ParanormalFX/JSFX/3BandSplitterFX.jsfx";
-          sha256 = "10sydlijlbk61vmdmpwjjwbwa284cnj75krlc3iwk2f57pf88wjz";
+          sha256 = "0vnmw8wp9432j9x0hi874wa74xjhysv723jp43p761ffky4r3sa7";
         }
         {
           path = ''JSFX/BandSelectFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/19bec1188fe55bdec7efcd3feebb98bbd069f474/ParanormalFX/JSFX/BandSelectFX.jsfx";
-          sha256 = "0w0l867cd2cwjg2nhyk6mw30qypcmybzpbrmmwpk280xvbayr8wr";
+          sha256 = "1dgy4qd5fz3b08a2l5x4h48hja0pmp53pi95yi6m6yi4yc0887g1";
         }
         {
           path = ''JSFX/3BandSplitterFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/19bec1188fe55bdec7efcd3feebb98bbd069f474/ParanormalFX/JSFX/3BandSplitterFX.jsfx";
-          sha256 = "10sydlijlbk61vmdmpwjjwbwa284cnj75krlc3iwk2f57pf88wjz";
+          sha256 = "0vnmw8wp9432j9x0hi874wa74xjhysv723jp43p761ffky4r3sa7";
         }
         {
           path = ''JSFX/BandSelectFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/19bec1188fe55bdec7efcd3feebb98bbd069f474/ParanormalFX/JSFX/BandSelectFX.jsfx";
-          sha256 = "0w0l867cd2cwjg2nhyk6mw30qypcmybzpbrmmwpk280xvbayr8wr";
+          sha256 = "1dgy4qd5fz3b08a2l5x4h48hja0pmp53pi95yi6m6yi4yc0887g1";
         }
       ];
     };
@@ -3790,7 +3790,7 @@
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/8a766bcd656e8c9a759a524fdb2a22ae24a4ab65/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1pjbiyz6r80rfn26kw7xm09wdgar8i16biayhbqk7fy41admg035";
+          sha256 = "05dk0axnx7q16h99awcl372kw7sjg7530v6y8cx0plcks5pidl2l";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -4680,7 +4680,7 @@
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fab08a75ba8d8a08c773d69786eb4b27434d7519/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "1ngm45ks2n728ifcqvnhhbqw733xzffsc7gfmkacr6j8b3ckc6vd";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
@@ -4690,7 +4690,7 @@
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fab08a75ba8d8a08c773d69786eb4b27434d7519/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1d29x8yqzrd7b8yjlq1mnx8pi606qvhz9q9w0cn7f3myn78nx9h3";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -4730,7 +4730,7 @@
         {
           path = ''JSFX/BandSelectFX4.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fab08a75ba8d8a08c773d69786eb4b27434d7519/ParanormalFX/JSFX/BandSelectFX4.jsfx";
-          sha256 = "187vydv34ds1fsl7icim5n3gh1h4ip16nhc0cv13f2p7jg79c2vb";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX5.jsfx'';
@@ -4760,7 +4760,7 @@
         {
           path = ''FXChains/5BAND_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fab08a75ba8d8a08c773d69786eb4b27434d7519/ParanormalFX/FXChains/5BAND_SETUP.RfxChain";
-          sha256 = "0dp6zb3arfghb162xv6fvrcyx7ydpa9cw82qcbx9il6xkmwr6m41";
+          sha256 = "";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
@@ -4790,7 +4790,7 @@
         {
           path = ''JSFX/BandSelectFX4.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fab08a75ba8d8a08c773d69786eb4b27434d7519/ParanormalFX/JSFX/BandSelectFX4.jsfx";
-          sha256 = "187vydv34ds1fsl7icim5n3gh1h4ip16nhc0cv13f2p7jg79c2vb";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX5.jsfx'';
@@ -4824,7 +4824,7 @@
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/04884b5d92c9b7682eb72169c8c4df8bda07f350/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "1vdmhrx4s9b83aazd3hq207dy3lir9wqgzrg09x56l89jbjk8s4b";
+          sha256 = "";
         }
         {
           path = ''Modules/ContainerCode.lua'';
@@ -4859,7 +4859,7 @@
         {
           path = ''JSFX/3BandSplitterFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/04884b5d92c9b7682eb72169c8c4df8bda07f350/ParanormalFX/JSFX/3BandSplitterFX.jsfx";
-          sha256 = "10sydlijlbk61vmdmpwjjwbwa284cnj75krlc3iwk2f57pf88wjz";
+          sha256 = "";
         }
         {
           path = ''JSFX/4BandSplitterFX.jsfx'';
@@ -4909,17 +4909,17 @@
         {
           path = ''FXChains/5BAND_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/04884b5d92c9b7682eb72169c8c4df8bda07f350/ParanormalFX/FXChains/5BAND_SETUP.RfxChain";
-          sha256 = "0dp6zb3arfghb162xv6fvrcyx7ydpa9cw82qcbx9il6xkmwr6m41";
+          sha256 = "";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/04884b5d92c9b7682eb72169c8c4df8bda07f350/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "";
         }
         {
           path = ''JSFX/3BandSplitterFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/04884b5d92c9b7682eb72169c8c4df8bda07f350/ParanormalFX/JSFX/3BandSplitterFX.jsfx";
-          sha256 = "10sydlijlbk61vmdmpwjjwbwa284cnj75krlc3iwk2f57pf88wjz";
+          sha256 = "";
         }
         {
           path = ''JSFX/4BandSplitterFX.jsfx'';
@@ -4983,17 +4983,17 @@
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/8cb843cca7ed827fef5016af76a97ea6cfdc0ca9/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "1ynw0z9ycvrijmrfsxhflsr65z20amkb06a7zm1ggp4qdd82zxxy";
+          sha256 = "";
         }
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/8cb843cca7ed827fef5016af76a97ea6cfdc0ca9/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1d29x8yqzrd7b8yjlq1mnx8pi606qvhz9q9w0cn7f3myn78nx9h3";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/8cb843cca7ed827fef5016af76a97ea6cfdc0ca9/ParanormalFX/Modules/Utils.lua";
-          sha256 = "1r06r1ywm2ygqxagh55i6rih7576pd2h3apl8lrpsc7y7i2vb0mr";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
@@ -5013,7 +5013,7 @@
         {
           path = ''JSFX/4BandSplitterFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/8cb843cca7ed827fef5016af76a97ea6cfdc0ca9/ParanormalFX/JSFX/4BandSplitterFX.jsfx";
-          sha256 = "0jvh91vwjdl7x2a6990h0h5yshdla6d2fbxnrw22jmdli2xydrz4";
+          sha256 = "";
         }
         {
           path = ''JSFX/5BandSplitterFX.jsfx'';
@@ -5023,12 +5023,12 @@
         {
           path = ''JSFX/BandSelectFX3.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/8cb843cca7ed827fef5016af76a97ea6cfdc0ca9/ParanormalFX/JSFX/BandSelectFX3.jsfx";
-          sha256 = "0rx24y02j022acs49jqizadjcjpvz2ybw4x8l92j320904w06ibn";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX4.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/8cb843cca7ed827fef5016af76a97ea6cfdc0ca9/ParanormalFX/JSFX/BandSelectFX4.jsfx";
-          sha256 = "187vydv34ds1fsl7icim5n3gh1h4ip16nhc0cv13f2p7jg79c2vb";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX5.jsfx'';
@@ -5048,17 +5048,17 @@
         {
           path = ''FXChains/3BAND_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/8cb843cca7ed827fef5016af76a97ea6cfdc0ca9/ParanormalFX/FXChains/3BAND_SETUP.RfxChain";
-          sha256 = "1fzq25lx0ihxmg6l6yiz1jzdzg17vd1d7h1f6bz5q81f24339i5j";
+          sha256 = "";
         }
         {
           path = ''FXChains/4BAND_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/8cb843cca7ed827fef5016af76a97ea6cfdc0ca9/ParanormalFX/FXChains/4BAND_SETUP.RfxChain";
-          sha256 = "04iadmk2n0a87vnzzkp2m7356dx0zd48q8p84xx8s9dhff7x3yjz";
+          sha256 = "";
         }
         {
           path = ''FXChains/5BAND_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/8cb843cca7ed827fef5016af76a97ea6cfdc0ca9/ParanormalFX/FXChains/5BAND_SETUP.RfxChain";
-          sha256 = "0dp6zb3arfghb162xv6fvrcyx7ydpa9cw82qcbx9il6xkmwr6m41";
+          sha256 = "";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
@@ -5073,7 +5073,7 @@
         {
           path = ''JSFX/4BandSplitterFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/8cb843cca7ed827fef5016af76a97ea6cfdc0ca9/ParanormalFX/JSFX/4BandSplitterFX.jsfx";
-          sha256 = "0jvh91vwjdl7x2a6990h0h5yshdla6d2fbxnrw22jmdli2xydrz4";
+          sha256 = "";
         }
         {
           path = ''JSFX/5BandSplitterFX.jsfx'';
@@ -5083,12 +5083,12 @@
         {
           path = ''JSFX/BandSelectFX3.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/8cb843cca7ed827fef5016af76a97ea6cfdc0ca9/ParanormalFX/JSFX/BandSelectFX3.jsfx";
-          sha256 = "0rx24y02j022acs49jqizadjcjpvz2ybw4x8l92j320904w06ibn";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX4.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/8cb843cca7ed827fef5016af76a97ea6cfdc0ca9/ParanormalFX/JSFX/BandSelectFX4.jsfx";
-          sha256 = "187vydv34ds1fsl7icim5n3gh1h4ip16nhc0cv13f2p7jg79c2vb";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX5.jsfx'';
@@ -5117,12 +5117,12 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dc98f4d8dad26d5286c1c78602ced074d14d6fdb/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "068inz68jy0hqr5kjg90k3hlwjwijgrfidaxdarc3wdbgzf2cllp";
+          sha256 = "1mk9anpxiih3srnrdww6xzcr43jsg8l9mcdqj0cdj42ddszpsrvw";
         }
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dc98f4d8dad26d5286c1c78602ced074d14d6fdb/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "1lnxhv20zg2mmc5hvrqi05a8gjhg6a87kixvdw7q3n1c3ilb3k41";
+          sha256 = "0inxglvvnpyixv4ad1waqc1n0153sr75yw1xjz22ivmwbg3lb6b5";
         }
         {
           path = ''Modules/ContainerCode.lua'';
@@ -5132,7 +5132,7 @@
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dc98f4d8dad26d5286c1c78602ced074d14d6fdb/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "1ynw0z9ycvrijmrfsxhflsr65z20amkb06a7zm1ggp4qdd82zxxy";
+          sha256 = "";
         }
         {
           path = ''Modules/Functions.lua'';
@@ -5142,12 +5142,12 @@
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dc98f4d8dad26d5286c1c78602ced074d14d6fdb/ParanormalFX/Modules/Utils.lua";
-          sha256 = "1r06r1ywm2ygqxagh55i6rih7576pd2h3apl8lrpsc7y7i2vb0mr";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dc98f4d8dad26d5286c1c78602ced074d14d6fdb/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "1rrssrjjvp5vafqfgjb4za94qqzdrx7ghk9rvc321g4am3bmwycy";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
@@ -5167,7 +5167,7 @@
         {
           path = ''JSFX/5BandSplitterFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dc98f4d8dad26d5286c1c78602ced074d14d6fdb/ParanormalFX/JSFX/5BandSplitterFX.jsfx";
-          sha256 = "0bx5bs8hkry8q9ih8kzxkr8rvw9qg0yywsz43rq4lai96f70pwwq";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX3.jsfx'';
@@ -5177,7 +5177,7 @@
         {
           path = ''JSFX/BandSelectFX4.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dc98f4d8dad26d5286c1c78602ced074d14d6fdb/ParanormalFX/JSFX/BandSelectFX4.jsfx";
-          sha256 = "187vydv34ds1fsl7icim5n3gh1h4ip16nhc0cv13f2p7jg79c2vb";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX5.jsfx'';
@@ -5187,7 +5187,7 @@
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dc98f4d8dad26d5286c1c78602ced074d14d6fdb/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -5197,7 +5197,7 @@
         {
           path = ''FXChains/3BAND_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dc98f4d8dad26d5286c1c78602ced074d14d6fdb/ParanormalFX/FXChains/3BAND_SETUP.RfxChain";
-          sha256 = "1fzq25lx0ihxmg6l6yiz1jzdzg17vd1d7h1f6bz5q81f24339i5j";
+          sha256 = "";
         }
         {
           path = ''FXChains/4BAND_SETUP.RfxChain'';
@@ -5207,12 +5207,12 @@
         {
           path = ''FXChains/5BAND_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dc98f4d8dad26d5286c1c78602ced074d14d6fdb/ParanormalFX/FXChains/5BAND_SETUP.RfxChain";
-          sha256 = "0dp6zb3arfghb162xv6fvrcyx7ydpa9cw82qcbx9il6xkmwr6m41";
+          sha256 = "";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dc98f4d8dad26d5286c1c78602ced074d14d6fdb/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "";
         }
         {
           path = ''JSFX/3BandSplitterFX.jsfx'';
@@ -5227,7 +5227,7 @@
         {
           path = ''JSFX/5BandSplitterFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dc98f4d8dad26d5286c1c78602ced074d14d6fdb/ParanormalFX/JSFX/5BandSplitterFX.jsfx";
-          sha256 = "0bx5bs8hkry8q9ih8kzxkr8rvw9qg0yywsz43rq4lai96f70pwwq";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX3.jsfx'';
@@ -5237,7 +5237,7 @@
         {
           path = ''JSFX/BandSelectFX4.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dc98f4d8dad26d5286c1c78602ced074d14d6fdb/ParanormalFX/JSFX/BandSelectFX4.jsfx";
-          sha256 = "187vydv34ds1fsl7icim5n3gh1h4ip16nhc0cv13f2p7jg79c2vb";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX5.jsfx'';
@@ -5247,7 +5247,7 @@
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dc98f4d8dad26d5286c1c78602ced074d14d6fdb/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -5301,7 +5301,7 @@
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/3BandSplitterFX.jsfx'';
@@ -5316,22 +5316,22 @@
         {
           path = ''JSFX/5BandSplitterFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/JSFX/5BandSplitterFX.jsfx";
-          sha256 = "0bx5bs8hkry8q9ih8kzxkr8rvw9qg0yywsz43rq4lai96f70pwwq";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX3.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/JSFX/BandSelectFX3.jsfx";
-          sha256 = "0rx24y02j022acs49jqizadjcjpvz2ybw4x8l92j320904w06ibn";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX4.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/JSFX/BandSelectFX4.jsfx";
-          sha256 = "187vydv34ds1fsl7icim5n3gh1h4ip16nhc0cv13f2p7jg79c2vb";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX5.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/JSFX/BandSelectFX5.jsfx";
-          sha256 = "1whc5izmnxwj4nqc6g67la42im01isn2lia22wwcnc2yzd3l22gl";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
@@ -5341,27 +5341,27 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
         {
           path = ''FXChains/3BAND_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/FXChains/3BAND_SETUP.RfxChain";
-          sha256 = "1fzq25lx0ihxmg6l6yiz1jzdzg17vd1d7h1f6bz5q81f24339i5j";
+          sha256 = "";
         }
         {
           path = ''FXChains/4BAND_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/FXChains/4BAND_SETUP.RfxChain";
-          sha256 = "04iadmk2n0a87vnzzkp2m7356dx0zd48q8p84xx8s9dhff7x3yjz";
+          sha256 = "";
         }
         {
           path = ''FXChains/5BAND_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/FXChains/5BAND_SETUP.RfxChain";
-          sha256 = "0dp6zb3arfghb162xv6fvrcyx7ydpa9cw82qcbx9il6xkmwr6m41";
+          sha256 = "";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "";
         }
         {
           path = ''JSFX/3BandSplitterFX.jsfx'';
@@ -5376,22 +5376,22 @@
         {
           path = ''JSFX/5BandSplitterFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/JSFX/5BandSplitterFX.jsfx";
-          sha256 = "0bx5bs8hkry8q9ih8kzxkr8rvw9qg0yywsz43rq4lai96f70pwwq";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX3.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/JSFX/BandSelectFX3.jsfx";
-          sha256 = "0rx24y02j022acs49jqizadjcjpvz2ybw4x8l92j320904w06ibn";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX4.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/JSFX/BandSelectFX4.jsfx";
-          sha256 = "187vydv34ds1fsl7icim5n3gh1h4ip16nhc0cv13f2p7jg79c2vb";
+          sha256 = "";
         }
         {
           path = ''JSFX/BandSelectFX5.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/JSFX/BandSelectFX5.jsfx";
-          sha256 = "1whc5izmnxwj4nqc6g67la42im01isn2lia22wwcnc2yzd3l22gl";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
@@ -5401,7 +5401,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e3869c60c1aae6adeb157ef244071abad54ebbf3/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
       ];
     };
@@ -5415,7 +5415,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3eb2368a7519cef5cd36740a2342fc20259b163b/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "16dc514yzniwaxsqxvbr5pg6yvp2gxv0mm0kxdgn5a88k8g4p52h";
+          sha256 = "";
         }
         {
           path = ''Modules/Canvas.lua'';
@@ -5425,12 +5425,12 @@
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3eb2368a7519cef5cd36740a2342fc20259b163b/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "1skarwqhfrgls6j84b4pki5nxnb8qdklz69amxprdh319z2r1997";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3eb2368a7519cef5cd36740a2342fc20259b163b/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "1x6zkim9jfaxpsagyryl6rkcrldfniliwpqzah21pgs12dqmc3q8";
+          sha256 = "";
         }
         {
           path = ''Modules/Functions.lua'';
@@ -5440,17 +5440,17 @@
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3eb2368a7519cef5cd36740a2342fc20259b163b/ParanormalFX/Modules/Utils.lua";
-          sha256 = "1r06r1ywm2ygqxagh55i6rih7576pd2h3apl8lrpsc7y7i2vb0mr";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3eb2368a7519cef5cd36740a2342fc20259b163b/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "1rrssrjjvp5vafqfgjb4za94qqzdrx7ghk9rvc321g4am3bmwycy";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3eb2368a7519cef5cd36740a2342fc20259b163b/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
@@ -5465,22 +5465,22 @@
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3eb2368a7519cef5cd36740a2342fc20259b163b/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3eb2368a7519cef5cd36740a2342fc20259b163b/ParanormalFX/FXChains/4BANDSTOCK.RfxChain";
-          sha256 = "014jz9x0y0srsq1p5c7abjxic2l2wfvfwb82ax2c2m44sbprllcl";
+          sha256 = "";
         }
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3eb2368a7519cef5cd36740a2342fc20259b163b/ParanormalFX/FXChains/5BANDSTOCK.RfxChain";
-          sha256 = "18zk4sh8vmdbyip2lzpm4xq8ij4hl0kdqh00qiglc84h9xi8mhhi";
+          sha256 = "";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3eb2368a7519cef5cd36740a2342fc20259b163b/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "087r29mpj8j6c8xzbj15nrd83jdk390f9n2638h51z8s9hv8gkdz";
         }
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
@@ -5490,7 +5490,7 @@
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3eb2368a7519cef5cd36740a2342fc20259b163b/ParanormalFX/FXChains/SAIKE_3_SETUP.RfxChain";
-          sha256 = "06d8r0f9xhm5qdv5wa1qgr3hhaxcnns7s78gwb8fs6jdmzi643nj";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
@@ -5500,7 +5500,7 @@
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3eb2368a7519cef5cd36740a2342fc20259b163b/ParanormalFX/FXChains/SAIKE_5_SETUP.RfxChain";
-          sha256 = "1gyp1zvh574bl6g2fckwdgdagbp31m617isaixddb525jwn79zji";
+          sha256 = "07qca0p05v97f8b69b100gvdh5ljll3l8vc78hvd80c4dnfyxgkx";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
@@ -5524,7 +5524,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6d19f9abcea0a8c1c0c6adef13fdfb23d375db51/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "0j9fazgkbi80bmff9kq02pv1p5aqxrqj5kk27hba6mz1qs4y9x2s";
+          sha256 = "1nxycq0svlmmmrj6m7b6kn2f1l6r0nxl27lgwv2gs68i18rx5m6v";
         }
         {
           path = ''Modules/Canvas.lua'';
@@ -5544,7 +5544,7 @@
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6d19f9abcea0a8c1c0c6adef13fdfb23d375db51/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1d29x8yqzrd7b8yjlq1mnx8pi606qvhz9q9w0cn7f3myn78nx9h3";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -5554,7 +5554,7 @@
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6d19f9abcea0a8c1c0c6adef13fdfb23d375db51/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "1rrssrjjvp5vafqfgjb4za94qqzdrx7ghk9rvc321g4am3bmwycy";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
@@ -5653,7 +5653,7 @@
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c8be4f9a0158511e9bfef4b4347af6d06338b7f/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1d29x8yqzrd7b8yjlq1mnx8pi606qvhz9q9w0cn7f3myn78nx9h3";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -5757,12 +5757,12 @@
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5f235fac5a1360ef854902c4d305fb6deb512460/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "1x6zkim9jfaxpsagyryl6rkcrldfniliwpqzah21pgs12dqmc3q8";
+          sha256 = "0v6hccxnkrf719gcj6b04q60mdwbcjsr2sbnvla1pxfmy18sv3v1";
         }
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5f235fac5a1360ef854902c4d305fb6deb512460/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1d29x8yqzrd7b8yjlq1mnx8pi606qvhz9q9w0cn7f3myn78nx9h3";
+          sha256 = "1wpgks7l7mvx2if7jgfkhgj9qglm2qh8k6bdm3hkhpd4i0mdl3b0";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -6198,7 +6198,7 @@
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/1dffdc18bb5fccbd9f5137de9780ad989f789e57/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1d29x8yqzrd7b8yjlq1mnx8pi606qvhz9q9w0cn7f3myn78nx9h3";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -6223,7 +6223,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/1dffdc18bb5fccbd9f5137de9780ad989f789e57/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
@@ -6233,7 +6233,7 @@
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/1dffdc18bb5fccbd9f5137de9780ad989f789e57/ParanormalFX/FXChains/4BANDSTOCK.RfxChain";
-          sha256 = "014jz9x0y0srsq1p5c7abjxic2l2wfvfwb82ax2c2m44sbprllcl";
+          sha256 = "";
         }
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
@@ -6248,7 +6248,7 @@
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/1dffdc18bb5fccbd9f5137de9780ad989f789e57/ParanormalFX/FXChains/SAIKE_2_SETUP.RfxChain";
-          sha256 = "14jqzld97xajglfzfcqii03p59vwxqnr6wj1ws2qll424954zbg1";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
@@ -6258,12 +6258,12 @@
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/1dffdc18bb5fccbd9f5137de9780ad989f789e57/ParanormalFX/FXChains/SAIKE_4_SETUP.RfxChain";
-          sha256 = "0nfsmfgz8vllrjbarx5gjf9xkkhnwrcicym90czgrdnp04jcvmp2";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/1dffdc18bb5fccbd9f5137de9780ad989f789e57/ParanormalFX/FXChains/SAIKE_5_SETUP.RfxChain";
-          sha256 = "0jrdgbkz6mgm5k9wialwahz8ygj0ly13j589qh32lirk9r9a1dqj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
@@ -6273,7 +6273,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/1dffdc18bb5fccbd9f5137de9780ad989f789e57/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
       ];
     };
@@ -6287,17 +6287,17 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dcf367e290f9ee7fa6a11405b8502febca59c2d5/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "1k4zajh2nl40s8cpz27lx87wcfg078m7ig1sbjm1wby89iy8kaxf";
+          sha256 = "";
         }
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dcf367e290f9ee7fa6a11405b8502febca59c2d5/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "08p7wacpfdwpdifi8ia56xqbn55d7ncq0a7ih5605yzwiyhxd1p0";
+          sha256 = "";
         }
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dcf367e290f9ee7fa6a11405b8502febca59c2d5/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "03z4bn5vzmpdj8s9lj3ng0ayfi7wkn1ahnfrxcvafj98cm56fyxs";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
@@ -6322,7 +6322,7 @@
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dcf367e290f9ee7fa6a11405b8502febca59c2d5/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
@@ -6332,7 +6332,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dcf367e290f9ee7fa6a11405b8502febca59c2d5/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
@@ -6347,7 +6347,7 @@
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dcf367e290f9ee7fa6a11405b8502febca59c2d5/ParanormalFX/FXChains/5BANDSTOCK.RfxChain";
-          sha256 = "18zk4sh8vmdbyip2lzpm4xq8ij4hl0kdqh00qiglc84h9xi8mhhi";
+          sha256 = "";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
@@ -6382,7 +6382,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/dcf367e290f9ee7fa6a11405b8502febca59c2d5/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
       ];
     };
@@ -6406,12 +6406,12 @@
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/d22454da81fef92e61b66c92dfba1aab37893f7b/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "03z4bn5vzmpdj8s9lj3ng0ayfi7wkn1ahnfrxcvafj98cm56fyxs";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/d22454da81fef92e61b66c92dfba1aab37893f7b/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "0h70j4vaq60q02pahwr4vw11qad4ynm1zikarjjdm0rwlvvw7zi6";
+          sha256 = "";
         }
         {
           path = ''Modules/Functions.lua'';
@@ -6446,12 +6446,12 @@
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/d22454da81fef92e61b66c92dfba1aab37893f7b/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/d22454da81fef92e61b66c92dfba1aab37893f7b/ParanormalFX/FXChains/4BANDSTOCK.RfxChain";
-          sha256 = "014jz9x0y0srsq1p5c7abjxic2l2wfvfwb82ax2c2m44sbprllcl";
+          sha256 = "";
         }
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
@@ -6461,7 +6461,7 @@
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/d22454da81fef92e61b66c92dfba1aab37893f7b/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
@@ -6481,7 +6481,7 @@
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/d22454da81fef92e61b66c92dfba1aab37893f7b/ParanormalFX/FXChains/SAIKE_5_SETUP.RfxChain";
-          sha256 = "0jrdgbkz6mgm5k9wialwahz8ygj0ly13j589qh32lirk9r9a1dqj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
@@ -6510,7 +6510,7 @@
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6bffed08c0f3406348a50dfcb4d9c7e57a11179d/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "0b1a4kx1k6bmigv4716idqd43w7hgdp6c5jkxd8gpckydffq3bil";
+          sha256 = "1s5sr8x409gzskig3nnpylw0ssfam6yyz711srana3y8hqms0z68";
         }
         {
           path = ''Modules/ContainerCode.lua'';
@@ -6555,7 +6555,7 @@
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6bffed08c0f3406348a50dfcb4d9c7e57a11179d/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "0kqbnfab6dnhm0m51yk79ckf9a9q0shg8rmkqas3hdhbbi10zvax";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
@@ -6565,7 +6565,7 @@
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6bffed08c0f3406348a50dfcb4d9c7e57a11179d/ParanormalFX/FXChains/5BANDSTOCK.RfxChain";
-          sha256 = "18zk4sh8vmdbyip2lzpm4xq8ij4hl0kdqh00qiglc84h9xi8mhhi";
+          sha256 = "1py38fgnb757s8bprk97cjx4g7sbyakknmkiwmz29dqdpnsw4bzf";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
@@ -8284,12 +8284,12 @@
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5157af900ca88f8da6612813a3fec903863e03ff/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5157af900ca88f8da6612813a3fec903863e03ff/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -8304,22 +8304,22 @@
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5157af900ca88f8da6612813a3fec903863e03ff/ParanormalFX/FXChains/4BANDSTOCK.RfxChain";
-          sha256 = "014jz9x0y0srsq1p5c7abjxic2l2wfvfwb82ax2c2m44sbprllcl";
+          sha256 = "";
         }
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5157af900ca88f8da6612813a3fec903863e03ff/ParanormalFX/FXChains/5BANDSTOCK.RfxChain";
-          sha256 = "18zk4sh8vmdbyip2lzpm4xq8ij4hl0kdqh00qiglc84h9xi8mhhi";
+          sha256 = "";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5157af900ca88f8da6612813a3fec903863e03ff/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5157af900ca88f8da6612813a3fec903863e03ff/ParanormalFX/FXChains/SAIKE_2_SETUP.RfxChain";
-          sha256 = "14jqzld97xajglfzfcqii03p59vwxqnr6wj1ws2qll424954zbg1";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
@@ -8339,7 +8339,7 @@
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5157af900ca88f8da6612813a3fec903863e03ff/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -8388,32 +8388,32 @@
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/66355540264e3abb02ac1490664c84e2230c9cb3/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "04yld9drbcr65k2x54wqkdb5wgk176r3h1gy6wg3jxhkblh1zs4y";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/66355540264e3abb02ac1490664c84e2230c9cb3/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/66355540264e3abb02ac1490664c84e2230c9cb3/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/66355540264e3abb02ac1490664c84e2230c9cb3/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/66355540264e3abb02ac1490664c84e2230c9cb3/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/66355540264e3abb02ac1490664c84e2230c9cb3/ParanormalFX/FXChains/4BANDSTOCK.RfxChain";
-          sha256 = "014jz9x0y0srsq1p5c7abjxic2l2wfvfwb82ax2c2m44sbprllcl";
+          sha256 = "";
         }
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
@@ -8428,7 +8428,7 @@
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/66355540264e3abb02ac1490664c84e2230c9cb3/ParanormalFX/FXChains/SAIKE_2_SETUP.RfxChain";
-          sha256 = "14jqzld97xajglfzfcqii03p59vwxqnr6wj1ws2qll424954zbg1";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
@@ -8438,22 +8438,22 @@
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/66355540264e3abb02ac1490664c84e2230c9cb3/ParanormalFX/FXChains/SAIKE_4_SETUP.RfxChain";
-          sha256 = "0nfsmfgz8vllrjbarx5gjf9xkkhnwrcicym90czgrdnp04jcvmp2";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/66355540264e3abb02ac1490664c84e2230c9cb3/ParanormalFX/FXChains/SAIKE_5_SETUP.RfxChain";
-          sha256 = "0jrdgbkz6mgm5k9wialwahz8ygj0ly13j589qh32lirk9r9a1dqj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/66355540264e3abb02ac1490664c84e2230c9cb3/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/66355540264e3abb02ac1490664c84e2230c9cb3/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
       ];
     };
@@ -8467,7 +8467,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/39673f01dc98315c78305e1c1233a43c6840870e/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "17d4gjdq9q4k8s9cpkl50kkdnlc92afcd73n8bxc53bhl0vlaxv8";
+          sha256 = "";
         }
         {
           path = ''Modules/Canvas.lua'';
@@ -8487,7 +8487,7 @@
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/39673f01dc98315c78305e1c1233a43c6840870e/ParanormalFX/Modules/Functions.lua";
-          sha256 = "026857asdgsb2x263hmwva3vr73lnp6488gch95f399hs5b92rrd";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -8497,7 +8497,7 @@
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/39673f01dc98315c78305e1c1233a43c6840870e/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "04yld9drbcr65k2x54wqkdb5wgk176r3h1gy6wg3jxhkblh1zs4y";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
@@ -8507,7 +8507,7 @@
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/39673f01dc98315c78305e1c1233a43c6840870e/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "1wg091y78jz5qc19yrjmfnfh9s4zxjn33hjv101dl6jhcvxzsx2a";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -8517,7 +8517,7 @@
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/39673f01dc98315c78305e1c1233a43c6840870e/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
@@ -8547,7 +8547,7 @@
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/39673f01dc98315c78305e1c1233a43c6840870e/ParanormalFX/FXChains/SAIKE_4_SETUP.RfxChain";
-          sha256 = "0nfsmfgz8vllrjbarx5gjf9xkkhnwrcicym90czgrdnp04jcvmp2";
+          sha256 = "101kafj9rvs31cp6fbpjyylwaj5hnq3f7244wycyfkf6b2fy0kzc";
         }
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
@@ -8557,7 +8557,7 @@
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/39673f01dc98315c78305e1c1233a43c6840870e/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "1wg091y78jz5qc19yrjmfnfh9s4zxjn33hjv101dl6jhcvxzsx2a";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -8576,7 +8576,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/473d38adaf668195a97c97bdbfe3d17425dec172/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "1ydznq2hxyfmhy1mbm1hh2avqgkfym6kp9axaq9bz18xckjmaz1d";
+          sha256 = "06iaaa06v0fh5k6s91vs8jsicpnk37nq8zjpb1dgl8h1raj8wy4j";
         }
         {
           path = ''Modules/Canvas.lua'';
@@ -8586,7 +8586,7 @@
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/473d38adaf668195a97c97bdbfe3d17425dec172/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "06cavqi1sb389p6i6qzl81mkwk5fpzc2s8vv3c7j77qh0q5ayz93";
+          sha256 = "1jy9x7r4sq9090whryl992bfpvs880fm44xazjvfxqs1wg5vfx1n";
         }
         {
           path = ''Modules/Drawing.lua'';
@@ -8804,7 +8804,7 @@
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/7b9377c590ad60b5b3db73abb7578f2f87aef028/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "0hj7qj92sh2fad6xffr1bsvn4gdp7fq12byn6qwmy10l31dbrm3r";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
@@ -8839,7 +8839,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/7b9377c590ad60b5b3db73abb7578f2f87aef028/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
@@ -8869,7 +8869,7 @@
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/7b9377c590ad60b5b3db73abb7578f2f87aef028/ParanormalFX/FXChains/SAIKE_3_SETUP.RfxChain";
-          sha256 = "1khv8fnzdxc9qwpf7wglawp7s8960yb0mi80yqd9arsmd84rzjf6";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
@@ -8889,7 +8889,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/7b9377c590ad60b5b3db73abb7578f2f87aef028/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
       ];
     };
@@ -8903,7 +8903,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/413a30c91c24d35d00dc99102eedc5a1a9f0f3aa/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "13c3kizd3di62x6gawg600afsm2y73pc9gn4xa91kb1gsf4qfx45";
+          sha256 = "";
         }
         {
           path = ''Modules/Canvas.lua'';
@@ -8913,12 +8913,12 @@
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/413a30c91c24d35d00dc99102eedc5a1a9f0f3aa/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "0hj7qj92sh2fad6xffr1bsvn4gdp7fq12byn6qwmy10l31dbrm3r";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/413a30c91c24d35d00dc99102eedc5a1a9f0f3aa/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "0fm30r320zb8hsc0hjhv980s1lwd6wrnlqkswqk88zfvdsq8sa0z";
+          sha256 = "1yxgmn135vr8bx3mr1naj17msrdghb0s28racm7310s3af6bzr9k";
         }
         {
           path = ''Modules/Functions.lua'';
@@ -9062,7 +9062,7 @@
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/2722ca21456abdda3c56835720e62cc03e1929a5/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "0kqbnfab6dnhm0m51yk79ckf9a9q0shg8rmkqas3hdhbbi10zvax";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
@@ -9077,12 +9077,12 @@
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/2722ca21456abdda3c56835720e62cc03e1929a5/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/2722ca21456abdda3c56835720e62cc03e1929a5/ParanormalFX/FXChains/SAIKE_2_SETUP.RfxChain";
-          sha256 = "14jqzld97xajglfzfcqii03p59vwxqnr6wj1ws2qll424954zbg1";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
@@ -9126,12 +9126,12 @@
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/36f14800133e0ea8616206f3b0b9992c0fee2b6c/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "15d48p289gm2cwvj2fdvy95lqk3l6h2f1nvc08h3fhax7zg16221";
+          sha256 = "";
         }
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/36f14800133e0ea8616206f3b0b9992c0fee2b6c/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "0hj7qj92sh2fad6xffr1bsvn4gdp7fq12byn6qwmy10l31dbrm3r";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
@@ -9151,7 +9151,7 @@
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/36f14800133e0ea8616206f3b0b9992c0fee2b6c/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "04yld9drbcr65k2x54wqkdb5wgk176r3h1gy6wg3jxhkblh1zs4y";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
@@ -9176,7 +9176,7 @@
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/36f14800133e0ea8616206f3b0b9992c0fee2b6c/ParanormalFX/FXChains/4BANDSTOCK.RfxChain";
-          sha256 = "014jz9x0y0srsq1p5c7abjxic2l2wfvfwb82ax2c2m44sbprllcl";
+          sha256 = "";
         }
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
@@ -9250,7 +9250,7 @@
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/330f6f33cf1435677af8fd85fafbc19559acd5cb/ParanormalFX/Modules/Functions.lua";
-          sha256 = "026857asdgsb2x263hmwva3vr73lnp6488gch95f399hs5b92rrd";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -9285,7 +9285,7 @@
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/330f6f33cf1435677af8fd85fafbc19559acd5cb/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "0kqbnfab6dnhm0m51yk79ckf9a9q0shg8rmkqas3hdhbbi10zvax";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
@@ -9300,7 +9300,7 @@
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/330f6f33cf1435677af8fd85fafbc19559acd5cb/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
@@ -9310,7 +9310,7 @@
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/330f6f33cf1435677af8fd85fafbc19559acd5cb/ParanormalFX/FXChains/SAIKE_3_SETUP.RfxChain";
-          sha256 = "1khv8fnzdxc9qwpf7wglawp7s8960yb0mi80yqd9arsmd84rzjf6";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
@@ -9344,7 +9344,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/bce6b78907d7b756d131f26de92c4c4df47bbec5/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "0vmal1g374mf7zply8dhjpzpgqrxc6ngjqjn95g34y3xrqc5qg5m";
+          sha256 = "1s4vl25j47ww1937jbdprhz64zfqvwk5pa90hzhzzd0bjfqcqzsx";
         }
         {
           path = ''Modules/Canvas.lua'';
@@ -9364,7 +9364,7 @@
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/bce6b78907d7b756d131f26de92c4c4df47bbec5/ParanormalFX/Modules/Functions.lua";
-          sha256 = "026857asdgsb2x263hmwva3vr73lnp6488gch95f399hs5b92rrd";
+          sha256 = "08gj3v4prc9z4sy66jfwx1ps1jr49myi8drnizry6fa1jdr38xxj";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -9379,7 +9379,7 @@
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/bce6b78907d7b756d131f26de92c4c4df47bbec5/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "04yld9drbcr65k2x54wqkdb5wgk176r3h1gy6wg3jxhkblh1zs4y";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
@@ -9394,12 +9394,12 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/bce6b78907d7b756d131f26de92c4c4df47bbec5/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/bce6b78907d7b756d131f26de92c4c4df47bbec5/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
@@ -9414,12 +9414,12 @@
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/bce6b78907d7b756d131f26de92c4c4df47bbec5/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "087r29mpj8j6c8xzbj15nrd83jdk390f9n2638h51z8s9hv8gkdz";
         }
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/bce6b78907d7b756d131f26de92c4c4df47bbec5/ParanormalFX/FXChains/SAIKE_2_SETUP.RfxChain";
-          sha256 = "14jqzld97xajglfzfcqii03p59vwxqnr6wj1ws2qll424954zbg1";
+          sha256 = "1navfkcmcywrbvf253j0q7ldwiwdg4l8p75pjhm8xqdqhwj8ksmz";
         }
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
@@ -9444,7 +9444,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/bce6b78907d7b756d131f26de92c4c4df47bbec5/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
       ];
     };
@@ -9463,7 +9463,7 @@
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5fcd67600e965cb30c06ed68eb43ef02c26fffac/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "040b8m99pgc0g636zqrms4kfkb9n0bdkgwi4qycjb1waa31ydind";
+          sha256 = "";
         }
         {
           path = ''Modules/ContainerCode.lua'';
@@ -9493,7 +9493,7 @@
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5fcd67600e965cb30c06ed68eb43ef02c26fffac/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "04yld9drbcr65k2x54wqkdb5wgk176r3h1gy6wg3jxhkblh1zs4y";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
@@ -9543,12 +9543,12 @@
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5fcd67600e965cb30c06ed68eb43ef02c26fffac/ParanormalFX/FXChains/SAIKE_4_SETUP.RfxChain";
-          sha256 = "0nfsmfgz8vllrjbarx5gjf9xkkhnwrcicym90czgrdnp04jcvmp2";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5fcd67600e965cb30c06ed68eb43ef02c26fffac/ParanormalFX/FXChains/SAIKE_5_SETUP.RfxChain";
-          sha256 = "0jrdgbkz6mgm5k9wialwahz8ygj0ly13j589qh32lirk9r9a1dqj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
@@ -9577,7 +9577,7 @@
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f57c8427626f3634830fcb9f84d3812c0c50d59/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "14vfw0qyb0gmjf7cppkp6bvq0yhfvhhfp95z03fnc33p8xxlgqyj";
+          sha256 = "";
         }
         {
           path = ''Modules/ContainerCode.lua'';
@@ -9587,22 +9587,22 @@
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f57c8427626f3634830fcb9f84d3812c0c50d59/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "05lzcwpjhx10iaw954cl3srnvh6fdwsc3jb8scj9v0qlmvm9yw5x";
+          sha256 = "";
         }
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f57c8427626f3634830fcb9f84d3812c0c50d59/ParanormalFX/Modules/Functions.lua";
-          sha256 = "026857asdgsb2x263hmwva3vr73lnp6488gch95f399hs5b92rrd";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f57c8427626f3634830fcb9f84d3812c0c50d59/ParanormalFX/Modules/Utils.lua";
-          sha256 = "047c13b2rhmx86jclqh3cf3gcxvv77mlnccx2q7fxfjdd4fh776z";
+          sha256 = "0daaw1wrdr7psaf4bqaw5csdy1925dp0lf0nl778rrv2zpr814fz";
         }
         {
           path = ''Modules/flux.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f57c8427626f3634830fcb9f84d3812c0c50d59/ParanormalFX/Modules/flux.lua";
-          sha256 = "1dsppa6570vasfg7gzdpkwg303d48fpfsyd8dhd3192sqwg51c83";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
@@ -9612,12 +9612,12 @@
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f57c8427626f3634830fcb9f84d3812c0c50d59/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f57c8427626f3634830fcb9f84d3812c0c50d59/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -9642,17 +9642,17 @@
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f57c8427626f3634830fcb9f84d3812c0c50d59/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f57c8427626f3634830fcb9f84d3812c0c50d59/ParanormalFX/FXChains/SAIKE_2_SETUP.RfxChain";
-          sha256 = "14jqzld97xajglfzfcqii03p59vwxqnr6wj1ws2qll424954zbg1";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f57c8427626f3634830fcb9f84d3812c0c50d59/ParanormalFX/FXChains/SAIKE_3_SETUP.RfxChain";
-          sha256 = "1khv8fnzdxc9qwpf7wglawp7s8960yb0mi80yqd9arsmd84rzjf6";
+          sha256 = "06fhnlq7bh5gmhyvp12b9brsslyx5mzfhd72rgyf3igw8ms6a32q";
         }
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
@@ -9667,7 +9667,7 @@
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f57c8427626f3634830fcb9f84d3812c0c50d59/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -9686,7 +9686,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5a03f4bc81d08245db20c8a361f1fc148a775570/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "0dg59jk2q56mr5y329amcidljg6rrkrgkpbha3ndbzmm05vr8zg8";
+          sha256 = "";
         }
         {
           path = ''Modules/Canvas.lua'';
@@ -9701,12 +9701,12 @@
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5a03f4bc81d08245db20c8a361f1fc148a775570/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "05lzcwpjhx10iaw954cl3srnvh6fdwsc3jb8scj9v0qlmvm9yw5x";
+          sha256 = "";
         }
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5a03f4bc81d08245db20c8a361f1fc148a775570/ParanormalFX/Modules/Functions.lua";
-          sha256 = "026857asdgsb2x263hmwva3vr73lnp6488gch95f399hs5b92rrd";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -9721,7 +9721,7 @@
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5a03f4bc81d08245db20c8a361f1fc148a775570/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "04yld9drbcr65k2x54wqkdb5wgk176r3h1gy6wg3jxhkblh1zs4y";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
@@ -9736,7 +9736,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5a03f4bc81d08245db20c8a361f1fc148a775570/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
@@ -9746,12 +9746,12 @@
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5a03f4bc81d08245db20c8a361f1fc148a775570/ParanormalFX/FXChains/4BANDSTOCK.RfxChain";
-          sha256 = "014jz9x0y0srsq1p5c7abjxic2l2wfvfwb82ax2c2m44sbprllcl";
+          sha256 = "";
         }
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5a03f4bc81d08245db20c8a361f1fc148a775570/ParanormalFX/FXChains/5BANDSTOCK.RfxChain";
-          sha256 = "18zk4sh8vmdbyip2lzpm4xq8ij4hl0kdqh00qiglc84h9xi8mhhi";
+          sha256 = "";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
@@ -9761,7 +9761,7 @@
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5a03f4bc81d08245db20c8a361f1fc148a775570/ParanormalFX/FXChains/SAIKE_2_SETUP.RfxChain";
-          sha256 = "14jqzld97xajglfzfcqii03p59vwxqnr6wj1ws2qll424954zbg1";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
@@ -9771,7 +9771,7 @@
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5a03f4bc81d08245db20c8a361f1fc148a775570/ParanormalFX/FXChains/SAIKE_4_SETUP.RfxChain";
-          sha256 = "0nfsmfgz8vllrjbarx5gjf9xkkhnwrcicym90czgrdnp04jcvmp2";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
@@ -9786,7 +9786,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/5a03f4bc81d08245db20c8a361f1fc148a775570/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
       ];
     };
@@ -9800,7 +9800,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/01f84301a48199466b0e9d5f0f411d6c192d9000/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "068ih2jmiz05gh44vpyp2cw5lanik3c2aqgfxavx30s03w6j6dzx";
+          sha256 = "";
         }
         {
           path = ''Modules/Canvas.lua'';
@@ -9820,7 +9820,7 @@
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/01f84301a48199466b0e9d5f0f411d6c192d9000/ParanormalFX/Modules/Functions.lua";
-          sha256 = "026857asdgsb2x263hmwva3vr73lnp6488gch95f399hs5b92rrd";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -9830,7 +9830,7 @@
         {
           path = ''Modules/flux.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/01f84301a48199466b0e9d5f0f411d6c192d9000/ParanormalFX/Modules/flux.lua";
-          sha256 = "1dsppa6570vasfg7gzdpkwg303d48fpfsyd8dhd3192sqwg51c83";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
@@ -9865,7 +9865,7 @@
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/01f84301a48199466b0e9d5f0f411d6c192d9000/ParanormalFX/FXChains/5BANDSTOCK.RfxChain";
-          sha256 = "18zk4sh8vmdbyip2lzpm4xq8ij4hl0kdqh00qiglc84h9xi8mhhi";
+          sha256 = "";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
@@ -9875,12 +9875,12 @@
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/01f84301a48199466b0e9d5f0f411d6c192d9000/ParanormalFX/FXChains/SAIKE_2_SETUP.RfxChain";
-          sha256 = "14jqzld97xajglfzfcqii03p59vwxqnr6wj1ws2qll424954zbg1";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/01f84301a48199466b0e9d5f0f411d6c192d9000/ParanormalFX/FXChains/SAIKE_3_SETUP.RfxChain";
-          sha256 = "1khv8fnzdxc9qwpf7wglawp7s8960yb0mi80yqd9arsmd84rzjf6";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
@@ -9890,7 +9890,7 @@
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/01f84301a48199466b0e9d5f0f411d6c192d9000/ParanormalFX/FXChains/SAIKE_5_SETUP.RfxChain";
-          sha256 = "0jrdgbkz6mgm5k9wialwahz8ygj0ly13j589qh32lirk9r9a1dqj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
@@ -9914,7 +9914,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/f21bdfd6f02d46f02470e2a2d9e086f45ab634db/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "0py5hwrz9mcn7xf8k1p19cri09nkswgr2cgnjwgaf534nsgydi04";
+          sha256 = "";
         }
         {
           path = ''Modules/Canvas.lua'';
@@ -9929,7 +9929,7 @@
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/f21bdfd6f02d46f02470e2a2d9e086f45ab634db/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "10ad1a0k93974456b0pvvdwazz1q11gy6fsrmknnvpqq1q0qlwwv";
+          sha256 = "";
         }
         {
           path = ''Modules/Functions.lua'';
@@ -9964,7 +9964,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/f21bdfd6f02d46f02470e2a2d9e086f45ab634db/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
@@ -9989,17 +9989,17 @@
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/f21bdfd6f02d46f02470e2a2d9e086f45ab634db/ParanormalFX/FXChains/SAIKE_2_SETUP.RfxChain";
-          sha256 = "14jqzld97xajglfzfcqii03p59vwxqnr6wj1ws2qll424954zbg1";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/f21bdfd6f02d46f02470e2a2d9e086f45ab634db/ParanormalFX/FXChains/SAIKE_3_SETUP.RfxChain";
-          sha256 = "1khv8fnzdxc9qwpf7wglawp7s8960yb0mi80yqd9arsmd84rzjf6";
+          sha256 = "06fhnlq7bh5gmhyvp12b9brsslyx5mzfhd72rgyf3igw8ms6a32q";
         }
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/f21bdfd6f02d46f02470e2a2d9e086f45ab634db/ParanormalFX/FXChains/SAIKE_4_SETUP.RfxChain";
-          sha256 = "0nfsmfgz8vllrjbarx5gjf9xkkhnwrcicym90czgrdnp04jcvmp2";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
@@ -10014,7 +10014,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/f21bdfd6f02d46f02470e2a2d9e086f45ab634db/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
       ];
     };
@@ -10033,7 +10033,7 @@
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4b0122737f296a4469836c88d7a3b08da028bc3b/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "0jxxfci1bh53lcba12hnyl901pl1qmyv2123fhqyhjgh7nan8i8n";
+          sha256 = "";
         }
         {
           path = ''Modules/ContainerCode.lua'';
@@ -10098,7 +10098,7 @@
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4b0122737f296a4469836c88d7a3b08da028bc3b/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
@@ -10113,12 +10113,12 @@
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4b0122737f296a4469836c88d7a3b08da028bc3b/ParanormalFX/FXChains/SAIKE_4_SETUP.RfxChain";
-          sha256 = "0nfsmfgz8vllrjbarx5gjf9xkkhnwrcicym90czgrdnp04jcvmp2";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4b0122737f296a4469836c88d7a3b08da028bc3b/ParanormalFX/FXChains/SAIKE_5_SETUP.RfxChain";
-          sha256 = "0jrdgbkz6mgm5k9wialwahz8ygj0ly13j589qh32lirk9r9a1dqj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
@@ -10142,17 +10142,17 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/435f3902946416ffa6352be11932c04b183c7976/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "1n1y7dbq5cdqhk1r5zwwpjqrkb70p5394a9fikl296s42ia2c03k";
+          sha256 = "";
         }
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/435f3902946416ffa6352be11932c04b183c7976/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "124m49ib2vsdqbcl9g0zjn1qk2kx9i75j3rkmzva2w5y43y5wgvc";
+          sha256 = "";
         }
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/435f3902946416ffa6352be11932c04b183c7976/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "0k6l5haj69qazm391q2qp7iwgddkwb18nvrdq9221g7jjll4725q";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
@@ -10167,27 +10167,27 @@
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/435f3902946416ffa6352be11932c04b183c7976/ParanormalFX/Modules/Utils.lua";
-          sha256 = "047c13b2rhmx86jclqh3cf3gcxvv77mlnccx2q7fxfjdd4fh776z";
+          sha256 = "";
         }
         {
           path = ''Modules/flux.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/435f3902946416ffa6352be11932c04b183c7976/ParanormalFX/Modules/flux.lua";
-          sha256 = "1dsppa6570vasfg7gzdpkwg303d48fpfsyd8dhd3192sqwg51c83";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/435f3902946416ffa6352be11932c04b183c7976/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "04yld9drbcr65k2x54wqkdb5wgk176r3h1gy6wg3jxhkblh1zs4y";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/435f3902946416ffa6352be11932c04b183c7976/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/435f3902946416ffa6352be11932c04b183c7976/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -10197,17 +10197,17 @@
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/435f3902946416ffa6352be11932c04b183c7976/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "0kqbnfab6dnhm0m51yk79ckf9a9q0shg8rmkqas3hdhbbi10zvax";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/435f3902946416ffa6352be11932c04b183c7976/ParanormalFX/FXChains/4BANDSTOCK.RfxChain";
-          sha256 = "014jz9x0y0srsq1p5c7abjxic2l2wfvfwb82ax2c2m44sbprllcl";
+          sha256 = "";
         }
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/435f3902946416ffa6352be11932c04b183c7976/ParanormalFX/FXChains/5BANDSTOCK.RfxChain";
-          sha256 = "18zk4sh8vmdbyip2lzpm4xq8ij4hl0kdqh00qiglc84h9xi8mhhi";
+          sha256 = "";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
@@ -10222,7 +10222,7 @@
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/435f3902946416ffa6352be11932c04b183c7976/ParanormalFX/FXChains/SAIKE_3_SETUP.RfxChain";
-          sha256 = "1khv8fnzdxc9qwpf7wglawp7s8960yb0mi80yqd9arsmd84rzjf6";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
@@ -10232,12 +10232,12 @@
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/435f3902946416ffa6352be11932c04b183c7976/ParanormalFX/FXChains/SAIKE_5_SETUP.RfxChain";
-          sha256 = "0jrdgbkz6mgm5k9wialwahz8ygj0ly13j589qh32lirk9r9a1dqj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/435f3902946416ffa6352be11932c04b183c7976/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -10261,12 +10261,12 @@
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/43f9a627c377a7ce210d41e8df2a16acbc48fe45/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "0b7lpr424m483zcqjxk4wlah0ic8ndpihgrnrahfk9adr58s0s61";
+          sha256 = "";
         }
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/43f9a627c377a7ce210d41e8df2a16acbc48fe45/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "0k6l5haj69qazm391q2qp7iwgddkwb18nvrdq9221g7jjll4725q";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
@@ -10276,27 +10276,27 @@
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/43f9a627c377a7ce210d41e8df2a16acbc48fe45/ParanormalFX/Modules/Functions.lua";
-          sha256 = "026857asdgsb2x263hmwva3vr73lnp6488gch95f399hs5b92rrd";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/43f9a627c377a7ce210d41e8df2a16acbc48fe45/ParanormalFX/Modules/Utils.lua";
-          sha256 = "047c13b2rhmx86jclqh3cf3gcxvv77mlnccx2q7fxfjdd4fh776z";
+          sha256 = "0daaw1wrdr7psaf4bqaw5csdy1925dp0lf0nl778rrv2zpr814fz";
         }
         {
           path = ''Modules/flux.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/43f9a627c377a7ce210d41e8df2a16acbc48fe45/ParanormalFX/Modules/flux.lua";
-          sha256 = "1dsppa6570vasfg7gzdpkwg303d48fpfsyd8dhd3192sqwg51c83";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/43f9a627c377a7ce210d41e8df2a16acbc48fe45/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "04yld9drbcr65k2x54wqkdb5wgk176r3h1gy6wg3jxhkblh1zs4y";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/43f9a627c377a7ce210d41e8df2a16acbc48fe45/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
@@ -10306,12 +10306,12 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/43f9a627c377a7ce210d41e8df2a16acbc48fe45/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "1zk6qq0y7yz003rkcxswkvw9bchp955n36wn6axff84nx90ajdk4";
         }
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/43f9a627c377a7ce210d41e8df2a16acbc48fe45/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
@@ -10336,17 +10336,17 @@
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/43f9a627c377a7ce210d41e8df2a16acbc48fe45/ParanormalFX/FXChains/SAIKE_3_SETUP.RfxChain";
-          sha256 = "1khv8fnzdxc9qwpf7wglawp7s8960yb0mi80yqd9arsmd84rzjf6";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/43f9a627c377a7ce210d41e8df2a16acbc48fe45/ParanormalFX/FXChains/SAIKE_4_SETUP.RfxChain";
-          sha256 = "0nfsmfgz8vllrjbarx5gjf9xkkhnwrcicym90czgrdnp04jcvmp2";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/43f9a627c377a7ce210d41e8df2a16acbc48fe45/ParanormalFX/FXChains/SAIKE_5_SETUP.RfxChain";
-          sha256 = "0jrdgbkz6mgm5k9wialwahz8ygj0ly13j589qh32lirk9r9a1dqj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
@@ -10356,7 +10356,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/43f9a627c377a7ce210d41e8df2a16acbc48fe45/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "1zk6qq0y7yz003rkcxswkvw9bchp955n36wn6axff84nx90ajdk4";
         }
       ];
     };
@@ -10395,12 +10395,12 @@
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/7a5a191551818bd30ec335c2450b71b1e10cd62c/ParanormalFX/Modules/Utils.lua";
-          sha256 = "0ad16575c5hag05n60bwss6ximgm8c976rx7n5x4r6s1qpq7n66v";
+          sha256 = "1v9v237yawaypidb1h4rpf4jlgpyiyfvlnq8plh3hjs2716mfhis";
         }
         {
           path = ''Modules/flux.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/7a5a191551818bd30ec335c2450b71b1e10cd62c/ParanormalFX/Modules/flux.lua";
-          sha256 = "1dsppa6570vasfg7gzdpkwg303d48fpfsyd8dhd3192sqwg51c83";
+          sha256 = "1hbvky535ciamb4ah80dz9xhj4zv7idin1hxp8nx285w798xz3i1";
         }
         {
           path = ''Fonts/Icons.ttf'';
@@ -11486,7 +11486,7 @@
         {
           path = ''FXChains/LEWLOIWC_ENVELOPE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/959f6516401b74159355f55730f7eae803ed790b/ParanormalFX/FXChains/LEWLOIWC_ENVELOPE_SETUP.RfxChain";
-          sha256 = "1liayissqp191xxvfgijx9y1rkvykc3l5lwv9zy0hx9kld9syhnh";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_GATE_SETUP.RfxChain'';
@@ -11506,7 +11506,7 @@
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/959f6516401b74159355f55730f7eae803ed790b/ParanormalFX/FXChains/SAIKE_2_SETUP.RfxChain";
-          sha256 = "14jqzld97xajglfzfcqii03p59vwxqnr6wj1ws2qll424954zbg1";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
@@ -11516,7 +11516,7 @@
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/959f6516401b74159355f55730f7eae803ed790b/ParanormalFX/FXChains/SAIKE_4_SETUP.RfxChain";
-          sha256 = "0nfsmfgz8vllrjbarx5gjf9xkkhnwrcicym90czgrdnp04jcvmp2";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
@@ -11545,7 +11545,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/163611bfe987a9e165bf272a9b801d9bc78eaf9d/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "03cvqbn29i1lh6kpd4shndp8fl3gm2r01mh0c32f5cajgy887cg7";
+          sha256 = "";
         }
         {
           path = ''Modules/Canvas.lua'';
@@ -11590,7 +11590,7 @@
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/163611bfe987a9e165bf272a9b801d9bc78eaf9d/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -11600,7 +11600,7 @@
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/163611bfe987a9e165bf272a9b801d9bc78eaf9d/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
@@ -11615,17 +11615,17 @@
         {
           path = ''FXChains/LEWLOIWC_2_4_MODE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/163611bfe987a9e165bf272a9b801d9bc78eaf9d/ParanormalFX/FXChains/LEWLOIWC_2_4_MODE_SETUP.RfxChain";
-          sha256 = "0n43hcwmr2y0ifkn7sj115bspznd0i3xizfg856939ss1v44lrq9";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_2_BANDNOTCH_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/163611bfe987a9e165bf272a9b801d9bc78eaf9d/ParanormalFX/FXChains/LEWLOIWC_2_BANDNOTCH_SETUP.RfxChain";
-          sha256 = "0ir5h75lf5mfqhlysk7ngvsa5lsn23di5dral6wbmzs14g5s0r64";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_2_COMBPHASE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/163611bfe987a9e165bf272a9b801d9bc78eaf9d/ParanormalFX/FXChains/LEWLOIWC_2_COMBPHASE_SETUP.RfxChain";
-          sha256 = "198smila7jjg9sk4w3fj0ybj65g8h8a4d4305ipfbsy8glnw3s0f";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_3_MIN_PHASE_SETUP.RfxChain'';
@@ -11645,12 +11645,12 @@
         {
           path = ''FXChains/LEWLOIWC_TRANSIENT_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/163611bfe987a9e165bf272a9b801d9bc78eaf9d/ParanormalFX/FXChains/LEWLOIWC_TRANSIENT_SETUP.RfxChain";
-          sha256 = "17k1qnfdh5jnbzp0b4dkfynr73mfy6pg3zkhqy2b0n3mzb0vjcs9";
+          sha256 = "";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/163611bfe987a9e165bf272a9b801d9bc78eaf9d/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
@@ -11660,22 +11660,22 @@
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/163611bfe987a9e165bf272a9b801d9bc78eaf9d/ParanormalFX/FXChains/SAIKE_3_SETUP.RfxChain";
-          sha256 = "1khv8fnzdxc9qwpf7wglawp7s8960yb0mi80yqd9arsmd84rzjf6";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/163611bfe987a9e165bf272a9b801d9bc78eaf9d/ParanormalFX/FXChains/SAIKE_4_SETUP.RfxChain";
-          sha256 = "0nfsmfgz8vllrjbarx5gjf9xkkhnwrcicym90czgrdnp04jcvmp2";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/163611bfe987a9e165bf272a9b801d9bc78eaf9d/ParanormalFX/FXChains/SAIKE_5_SETUP.RfxChain";
-          sha256 = "0jrdgbkz6mgm5k9wialwahz8ygj0ly13j589qh32lirk9r9a1dqj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/163611bfe987a9e165bf272a9b801d9bc78eaf9d/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -11699,27 +11699,27 @@
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "1wwhi6xp4h97a119zgavkqh5ri1yg7fvlg9s9fkwk7nnys33ql7y";
+          sha256 = "";
         }
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "12zpwg3bihj0zlb4029viflpzzy8ymmmy7ds2jx84rkqqdmdxb4m";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "0hvksay97nr3r2kb1igyafrkrybiv6qj6jxk5hqgc2bqkhnh7m4w";
+          sha256 = "";
         }
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1x8kjfb6rfaac9q2ly0j0hfjyaj2ql0qv5bcr3hvdpwczz8adp8s";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/Modules/Utils.lua";
-          sha256 = "0ad16575c5hag05n60bwss6ximgm8c976rx7n5x4r6s1qpq7n66v";
+          sha256 = "";
         }
         {
           path = ''Modules/flux.lua'';
@@ -11729,12 +11729,12 @@
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "0mhs05ficbac5kbflr9sd7bmr62l58q9cxmdp7iw3bnals5sjw69";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
@@ -11749,7 +11749,7 @@
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
@@ -11759,7 +11759,7 @@
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/FXChains/5BANDSTOCK.RfxChain";
-          sha256 = "18zk4sh8vmdbyip2lzpm4xq8ij4hl0kdqh00qiglc84h9xi8mhhi";
+          sha256 = "1py38fgnb757s8bprk97cjx4g7sbyakknmkiwmz29dqdpnsw4bzf";
         }
         {
           path = ''FXChains/LEWLOIWC_2_4_MODE_SETUP.RfxChain'';
@@ -11774,7 +11774,7 @@
         {
           path = ''FXChains/LEWLOIWC_2_COMBPHASE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/FXChains/LEWLOIWC_2_COMBPHASE_SETUP.RfxChain";
-          sha256 = "198smila7jjg9sk4w3fj0ybj65g8h8a4d4305ipfbsy8glnw3s0f";
+          sha256 = "1pxawsvpl8s8b4jrycgryb8wig20z3fb6y3w3k4akzg22c58fk9v";
         }
         {
           path = ''FXChains/LEWLOIWC_3_MIN_PHASE_SETUP.RfxChain'';
@@ -11784,12 +11784,12 @@
         {
           path = ''FXChains/LEWLOIWC_ENVELOPE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/FXChains/LEWLOIWC_ENVELOPE_SETUP.RfxChain";
-          sha256 = "1liayissqp191xxvfgijx9y1rkvykc3l5lwv9zy0hx9kld9syhnh";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_GATE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/FXChains/LEWLOIWC_GATE_SETUP.RfxChain";
-          sha256 = "0ifkjgnny14hvvmmihvr40vj2lgzqahvxlwhssqwrrifnima8ih4";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_TRANSIENT_SETUP.RfxChain'';
@@ -11804,17 +11804,17 @@
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/FXChains/SAIKE_2_SETUP.RfxChain";
-          sha256 = "14jqzld97xajglfzfcqii03p59vwxqnr6wj1ws2qll424954zbg1";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/FXChains/SAIKE_3_SETUP.RfxChain";
-          sha256 = "1khv8fnzdxc9qwpf7wglawp7s8960yb0mi80yqd9arsmd84rzjf6";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/42e6bff3ea1a9f464d511959453c5ae873b7dfe3/ParanormalFX/FXChains/SAIKE_4_SETUP.RfxChain";
-          sha256 = "0nfsmfgz8vllrjbarx5gjf9xkkhnwrcicym90czgrdnp04jcvmp2";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
@@ -11843,7 +11843,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "1wpisczxy6gwalyjbsr4fm1kxdfdyx6wgakqmqcndvda4f36ssyb";
+          sha256 = "";
         }
         {
           path = ''Modules/Canvas.lua'';
@@ -11858,12 +11858,12 @@
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "0hvksay97nr3r2kb1igyafrkrybiv6qj6jxk5hqgc2bqkhnh7m4w";
+          sha256 = "";
         }
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1x8kjfb6rfaac9q2ly0j0hfjyaj2ql0qv5bcr3hvdpwczz8adp8s";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -11873,22 +11873,22 @@
         {
           path = ''Modules/flux.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/Modules/flux.lua";
-          sha256 = "1dsppa6570vasfg7gzdpkwg303d48fpfsyd8dhd3192sqwg51c83";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "0mhs05ficbac5kbflr9sd7bmr62l58q9cxmdp7iw3bnals5sjw69";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -11903,22 +11903,22 @@
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/FXChains/4BANDSTOCK.RfxChain";
-          sha256 = "014jz9x0y0srsq1p5c7abjxic2l2wfvfwb82ax2c2m44sbprllcl";
+          sha256 = "";
         }
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/FXChains/5BANDSTOCK.RfxChain";
-          sha256 = "18zk4sh8vmdbyip2lzpm4xq8ij4hl0kdqh00qiglc84h9xi8mhhi";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_2_4_MODE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/FXChains/LEWLOIWC_2_4_MODE_SETUP.RfxChain";
-          sha256 = "0n43hcwmr2y0ifkn7sj115bspznd0i3xizfg856939ss1v44lrq9";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_2_BANDNOTCH_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/FXChains/LEWLOIWC_2_BANDNOTCH_SETUP.RfxChain";
-          sha256 = "0ir5h75lf5mfqhlysk7ngvsa5lsn23di5dral6wbmzs14g5s0r64";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_2_COMBPHASE_SETUP.RfxChain'';
@@ -11933,22 +11933,22 @@
         {
           path = ''FXChains/LEWLOIWC_ENVELOPE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/FXChains/LEWLOIWC_ENVELOPE_SETUP.RfxChain";
-          sha256 = "1liayissqp191xxvfgijx9y1rkvykc3l5lwv9zy0hx9kld9syhnh";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_GATE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/FXChains/LEWLOIWC_GATE_SETUP.RfxChain";
-          sha256 = "0ifkjgnny14hvvmmihvr40vj2lgzqahvxlwhssqwrrifnima8ih4";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_TRANSIENT_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/FXChains/LEWLOIWC_TRANSIENT_SETUP.RfxChain";
-          sha256 = "17k1qnfdh5jnbzp0b4dkfynr73mfy6pg3zkhqy2b0n3mzb0vjcs9";
+          sha256 = "";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
@@ -11958,22 +11958,22 @@
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/FXChains/SAIKE_3_SETUP.RfxChain";
-          sha256 = "1khv8fnzdxc9qwpf7wglawp7s8960yb0mi80yqd9arsmd84rzjf6";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/FXChains/SAIKE_4_SETUP.RfxChain";
-          sha256 = "0nfsmfgz8vllrjbarx5gjf9xkkhnwrcicym90czgrdnp04jcvmp2";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/FXChains/SAIKE_5_SETUP.RfxChain";
-          sha256 = "0jrdgbkz6mgm5k9wialwahz8ygj0ly13j589qh32lirk9r9a1dqj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/30b599c1ac2283de20e9eaa4fce0e533fe3486ed/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -11997,137 +11997,137 @@
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "1am9rzjqkpbyfya6srsgdjrifcifk7ryvagnmapaq1baihsazsd2";
+          sha256 = "";
         }
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "12zpwg3bihj0zlb4029viflpzzy8ymmmy7ds2jx84rkqqdmdxb4m";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "0hvksay97nr3r2kb1igyafrkrybiv6qj6jxk5hqgc2bqkhnh7m4w";
+          sha256 = "";
         }
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1x8kjfb6rfaac9q2ly0j0hfjyaj2ql0qv5bcr3hvdpwczz8adp8s";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/Modules/Utils.lua";
-          sha256 = "0ad16575c5hag05n60bwss6ximgm8c976rx7n5x4r6s1qpq7n66v";
+          sha256 = "";
         }
         {
           path = ''Modules/flux.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/Modules/flux.lua";
-          sha256 = "1dsppa6570vasfg7gzdpkwg303d48fpfsyd8dhd3192sqwg51c83";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "0mhs05ficbac5kbflr9sd7bmr62l58q9cxmdp7iw3bnals5sjw69";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "1zk6qq0y7yz003rkcxswkvw9bchp955n36wn6axff84nx90ajdk4";
         }
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/4BANDSTOCK.RfxChain";
-          sha256 = "014jz9x0y0srsq1p5c7abjxic2l2wfvfwb82ax2c2m44sbprllcl";
+          sha256 = "";
         }
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/5BANDSTOCK.RfxChain";
-          sha256 = "18zk4sh8vmdbyip2lzpm4xq8ij4hl0kdqh00qiglc84h9xi8mhhi";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_2_4_MODE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/LEWLOIWC_2_4_MODE_SETUP.RfxChain";
-          sha256 = "0n43hcwmr2y0ifkn7sj115bspznd0i3xizfg856939ss1v44lrq9";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_2_BANDNOTCH_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/LEWLOIWC_2_BANDNOTCH_SETUP.RfxChain";
-          sha256 = "0ir5h75lf5mfqhlysk7ngvsa5lsn23di5dral6wbmzs14g5s0r64";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_2_COMBPHASE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/LEWLOIWC_2_COMBPHASE_SETUP.RfxChain";
-          sha256 = "198smila7jjg9sk4w3fj0ybj65g8h8a4d4305ipfbsy8glnw3s0f";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_3_MIN_PHASE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/LEWLOIWC_3_MIN_PHASE_SETUP.RfxChain";
-          sha256 = "0hd00cm89gpypfw51i82i3312ng4r13p2rlvyk2rn5srrsxxii7k";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_ENVELOPE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/LEWLOIWC_ENVELOPE_SETUP.RfxChain";
-          sha256 = "1liayissqp191xxvfgijx9y1rkvykc3l5lwv9zy0hx9kld9syhnh";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_GATE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/LEWLOIWC_GATE_SETUP.RfxChain";
-          sha256 = "0ifkjgnny14hvvmmihvr40vj2lgzqahvxlwhssqwrrifnima8ih4";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_TRANSIENT_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/LEWLOIWC_TRANSIENT_SETUP.RfxChain";
-          sha256 = "17k1qnfdh5jnbzp0b4dkfynr73mfy6pg3zkhqy2b0n3mzb0vjcs9";
+          sha256 = "";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/SAIKE_2_SETUP.RfxChain";
-          sha256 = "14jqzld97xajglfzfcqii03p59vwxqnr6wj1ws2qll424954zbg1";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/SAIKE_3_SETUP.RfxChain";
-          sha256 = "1khv8fnzdxc9qwpf7wglawp7s8960yb0mi80yqd9arsmd84rzjf6";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/SAIKE_4_SETUP.RfxChain";
-          sha256 = "0nfsmfgz8vllrjbarx5gjf9xkkhnwrcicym90czgrdnp04jcvmp2";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/FXChains/SAIKE_5_SETUP.RfxChain";
-          sha256 = "0jrdgbkz6mgm5k9wialwahz8ygj0ly13j589qh32lirk9r9a1dqj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/130bc9021ae6a0aad759c85c32d4b9c413517724/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "1zk6qq0y7yz003rkcxswkvw9bchp955n36wn6axff84nx90ajdk4";
         }
       ];
     };
@@ -12141,27 +12141,27 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "05d7qlabrxa0wbmhxhfbqp4ffns3q1x7ifibxidvpxvvbbyldf4r";
+          sha256 = "";
         }
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "0hychnigrdxlb50k3spc14vkkifh8jq4f1rpc85sk3fp6gqnlhbc";
+          sha256 = "09f0fnwz1dpz99k6dxlawz9ravfsfrn90a1rlh744vppxp8awdii";
         }
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "12zpwg3bihj0zlb4029viflpzzy8ymmmy7ds2jx84rkqqdmdxb4m";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "0hvksay97nr3r2kb1igyafrkrybiv6qj6jxk5hqgc2bqkhnh7m4w";
+          sha256 = "";
         }
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1x8kjfb6rfaac9q2ly0j0hfjyaj2ql0qv5bcr3hvdpwczz8adp8s";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -12171,7 +12171,7 @@
         {
           path = ''Modules/flux.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/Modules/flux.lua";
-          sha256 = "1dsppa6570vasfg7gzdpkwg303d48fpfsyd8dhd3192sqwg51c83";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
@@ -12181,17 +12181,17 @@
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
@@ -12201,12 +12201,12 @@
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/FXChains/4BANDSTOCK.RfxChain";
-          sha256 = "014jz9x0y0srsq1p5c7abjxic2l2wfvfwb82ax2c2m44sbprllcl";
+          sha256 = "01a0ia71z2zg0qay7v8nv0vazb22hjvy89dhsgbgh49x1zfj7lr4";
         }
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/FXChains/5BANDSTOCK.RfxChain";
-          sha256 = "18zk4sh8vmdbyip2lzpm4xq8ij4hl0kdqh00qiglc84h9xi8mhhi";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_2_4_MODE_SETUP.RfxChain'';
@@ -12216,7 +12216,7 @@
         {
           path = ''FXChains/LEWLOIWC_2_BANDNOTCH_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/FXChains/LEWLOIWC_2_BANDNOTCH_SETUP.RfxChain";
-          sha256 = "0ir5h75lf5mfqhlysk7ngvsa5lsn23di5dral6wbmzs14g5s0r64";
+          sha256 = "1v26hcwqfmibga7zsfrgbh9d491blb0w243f8ac6yz80qy3fml7p";
         }
         {
           path = ''FXChains/LEWLOIWC_2_COMBPHASE_SETUP.RfxChain'';
@@ -12236,7 +12236,7 @@
         {
           path = ''FXChains/LEWLOIWC_GATE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/FXChains/LEWLOIWC_GATE_SETUP.RfxChain";
-          sha256 = "0ifkjgnny14hvvmmihvr40vj2lgzqahvxlwhssqwrrifnima8ih4";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_TRANSIENT_SETUP.RfxChain'';
@@ -12246,7 +12246,7 @@
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/FXChains/MS_SETUP.RfxChain";
-          sha256 = "0asyv9dc8zlzcn127h3byiciglz96bhrwyr0dlbmx8zjb2sqrxk5";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
@@ -12256,7 +12256,7 @@
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/FXChains/SAIKE_3_SETUP.RfxChain";
-          sha256 = "1khv8fnzdxc9qwpf7wglawp7s8960yb0mi80yqd9arsmd84rzjf6";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
@@ -12271,12 +12271,12 @@
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be2f4a8a98ea7a4a08a32d202eb390c8b447e4e6/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
       ];
     };
@@ -12305,12 +12305,12 @@
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fc6c91b5a51d2178f3315f1af53e63a0aac7a608/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "0hvksay97nr3r2kb1igyafrkrybiv6qj6jxk5hqgc2bqkhnh7m4w";
+          sha256 = "";
         }
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fc6c91b5a51d2178f3315f1af53e63a0aac7a608/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1x8kjfb6rfaac9q2ly0j0hfjyaj2ql0qv5bcr3hvdpwczz8adp8s";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -12335,17 +12335,17 @@
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fc6c91b5a51d2178f3315f1af53e63a0aac7a608/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fc6c91b5a51d2178f3315f1af53e63a0aac7a608/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fc6c91b5a51d2178f3315f1af53e63a0aac7a608/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
@@ -12355,7 +12355,7 @@
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fc6c91b5a51d2178f3315f1af53e63a0aac7a608/ParanormalFX/FXChains/5BANDSTOCK.RfxChain";
-          sha256 = "18zk4sh8vmdbyip2lzpm4xq8ij4hl0kdqh00qiglc84h9xi8mhhi";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_2_4_MODE_SETUP.RfxChain'';
@@ -12365,12 +12365,12 @@
         {
           path = ''FXChains/LEWLOIWC_2_BANDNOTCH_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fc6c91b5a51d2178f3315f1af53e63a0aac7a608/ParanormalFX/FXChains/LEWLOIWC_2_BANDNOTCH_SETUP.RfxChain";
-          sha256 = "0ir5h75lf5mfqhlysk7ngvsa5lsn23di5dral6wbmzs14g5s0r64";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_2_COMBPHASE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fc6c91b5a51d2178f3315f1af53e63a0aac7a608/ParanormalFX/FXChains/LEWLOIWC_2_COMBPHASE_SETUP.RfxChain";
-          sha256 = "198smila7jjg9sk4w3fj0ybj65g8h8a4d4305ipfbsy8glnw3s0f";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_3_MIN_PHASE_SETUP.RfxChain'';
@@ -12400,7 +12400,7 @@
         {
           path = ''FXChains/SAIKE_2_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fc6c91b5a51d2178f3315f1af53e63a0aac7a608/ParanormalFX/FXChains/SAIKE_2_SETUP.RfxChain";
-          sha256 = "14jqzld97xajglfzfcqii03p59vwxqnr6wj1ws2qll424954zbg1";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
@@ -12410,7 +12410,7 @@
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fc6c91b5a51d2178f3315f1af53e63a0aac7a608/ParanormalFX/FXChains/SAIKE_4_SETUP.RfxChain";
-          sha256 = "0nfsmfgz8vllrjbarx5gjf9xkkhnwrcicym90czgrdnp04jcvmp2";
+          sha256 = "";
         }
         {
           path = ''FXChains/SAIKE_5_SETUP.RfxChain'';
@@ -12420,12 +12420,12 @@
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fc6c91b5a51d2178f3315f1af53e63a0aac7a608/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/fc6c91b5a51d2178f3315f1af53e63a0aac7a608/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
       ];
     };
@@ -12439,47 +12439,47 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "0cpmy8r7q2mpgbmwgp75vvq43v7vrg494vg21p5b6z7skbwfwy5x";
+          sha256 = "";
         }
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/Modules/Canvas.lua";
-          sha256 = "0hychnigrdxlb50k3spc14vkkifh8jq4f1rpc85sk3fp6gqnlhbc";
+          sha256 = "";
         }
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "12zpwg3bihj0zlb4029viflpzzy8ymmmy7ds2jx84rkqqdmdxb4m";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/Modules/Drawing.lua";
-          sha256 = "0rfb0jb6kfhfim1qsc8bxh9smb90561b3rpfnspg5nicy1p36bvp";
+          sha256 = "";
         }
         {
           path = ''Modules/Functions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/Modules/Functions.lua";
-          sha256 = "1x8kjfb6rfaac9q2ly0j0hfjyaj2ql0qv5bcr3hvdpwczz8adp8s";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/Modules/Utils.lua";
-          sha256 = "0ad16575c5hag05n60bwss6ximgm8c976rx7n5x4r6s1qpq7n66v";
+          sha256 = "";
         }
         {
           path = ''Modules/flux.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/Modules/flux.lua";
-          sha256 = "1dsppa6570vasfg7gzdpkwg303d48fpfsyd8dhd3192sqwg51c83";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/Fonts/Icons.ttf";
-          sha256 = "0mhs05ficbac5kbflr9sd7bmr62l58q9cxmdp7iw3bnals5sjw69";
+          sha256 = "";
         }
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
@@ -12489,7 +12489,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
@@ -12499,17 +12499,17 @@
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/FXChains/4BANDSTOCK.RfxChain";
-          sha256 = "014jz9x0y0srsq1p5c7abjxic2l2wfvfwb82ax2c2m44sbprllcl";
+          sha256 = "";
         }
         {
           path = ''FXChains/5BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/FXChains/5BANDSTOCK.RfxChain";
-          sha256 = "18zk4sh8vmdbyip2lzpm4xq8ij4hl0kdqh00qiglc84h9xi8mhhi";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_2_4_MODE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/FXChains/LEWLOIWC_2_4_MODE_SETUP.RfxChain";
-          sha256 = "0n43hcwmr2y0ifkn7sj115bspznd0i3xizfg856939ss1v44lrq9";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_2_BANDNOTCH_SETUP.RfxChain'';
@@ -12519,7 +12519,7 @@
         {
           path = ''FXChains/LEWLOIWC_2_COMBPHASE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/FXChains/LEWLOIWC_2_COMBPHASE_SETUP.RfxChain";
-          sha256 = "198smila7jjg9sk4w3fj0ybj65g8h8a4d4305ipfbsy8glnw3s0f";
+          sha256 = "";
         }
         {
           path = ''FXChains/LEWLOIWC_3_MIN_PHASE_SETUP.RfxChain'';
@@ -12574,7 +12574,7 @@
         {
           path = ''JSFX/MSSideFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/76bb5119b7dfbe20508ecb8ecabb1c0acd4354c3/ParanormalFX/JSFX/MSSideFX.jsfx";
-          sha256 = "1m31d4p6n0gb0ila64986l6inz9dk6ii1b5vwlyfwbgy4x48bzj9";
+          sha256 = "";
         }
       ];
     };
@@ -12598,7 +12598,7 @@
         {
           path = ''Modules/ContainerCode.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/33e79b7d91a2bbe68c7e63e90b07c910990ffa5a/ParanormalFX/Modules/ContainerCode.lua";
-          sha256 = "12zpwg3bihj0zlb4029viflpzzy8ymmmy7ds2jx84rkqqdmdxb4m";
+          sha256 = "";
         }
         {
           path = ''Modules/Drawing.lua'';
@@ -12613,7 +12613,7 @@
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/33e79b7d91a2bbe68c7e63e90b07c910990ffa5a/ParanormalFX/Modules/Utils.lua";
-          sha256 = "0ad16575c5hag05n60bwss6ximgm8c976rx7n5x4r6s1qpq7n66v";
+          sha256 = "";
         }
         {
           path = ''Modules/flux.lua'';
@@ -12628,12 +12628,12 @@
         {
           path = ''Fonts/ProggyClean.ttf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/33e79b7d91a2bbe68c7e63e90b07c910990ffa5a/ParanormalFX/Fonts/ProggyClean.ttf";
-          sha256 = "090kny85rgipl154n44z18icpf12jxh5bf3pgqzzjlg07i22lzaj";
+          sha256 = "";
         }
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/33e79b7d91a2bbe68c7e63e90b07c910990ffa5a/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "1wg091y78jz5qc19yrjmfnfh9s4zxjn33hjv101dl6jhcvxzsx2a";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -12643,7 +12643,7 @@
         {
           path = ''FXChains/3BANDSTOCK.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/33e79b7d91a2bbe68c7e63e90b07c910990ffa5a/ParanormalFX/FXChains/3BANDSTOCK.RfxChain";
-          sha256 = "1rscpxkrvl00d543cbczk87jv7y53zd0f5mlbdadb2qznkzmmxs2";
+          sha256 = "";
         }
         {
           path = ''FXChains/4BANDSTOCK.RfxChain'';
@@ -12668,7 +12668,7 @@
         {
           path = ''FXChains/LEWLOIWC_2_COMBPHASE_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/33e79b7d91a2bbe68c7e63e90b07c910990ffa5a/ParanormalFX/FXChains/LEWLOIWC_2_COMBPHASE_SETUP.RfxChain";
-          sha256 = "198smila7jjg9sk4w3fj0ybj65g8h8a4d4305ipfbsy8glnw3s0f";
+          sha256 = "1pxawsvpl8s8b4jrycgryb8wig20z3fb6y3w3k4akzg22c58fk9v";
         }
         {
           path = ''FXChains/LEWLOIWC_3_MIN_PHASE_SETUP.RfxChain'';
@@ -12703,7 +12703,7 @@
         {
           path = ''FXChains/SAIKE_3_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/33e79b7d91a2bbe68c7e63e90b07c910990ffa5a/ParanormalFX/FXChains/SAIKE_3_SETUP.RfxChain";
-          sha256 = "1khv8fnzdxc9qwpf7wglawp7s8960yb0mi80yqd9arsmd84rzjf6";
+          sha256 = "06fhnlq7bh5gmhyvp12b9brsslyx5mzfhd72rgyf3igw8ms6a32q";
         }
         {
           path = ''FXChains/SAIKE_4_SETUP.RfxChain'';
@@ -12718,7 +12718,7 @@
         {
           path = ''JSFX/MSMidFX.jsfx'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/33e79b7d91a2bbe68c7e63e90b07c910990ffa5a/ParanormalFX/JSFX/MSMidFX.jsfx";
-          sha256 = "19kbd61nvx89ifr28qfj9ca5s1cyi7phc7q6sk54yvvdrkd2hz2d";
+          sha256 = "1wg091y78jz5qc19yrjmfnfh9s4zxjn33hjv101dl6jhcvxzsx2a";
         }
         {
           path = ''JSFX/MSSideFX.jsfx'';
@@ -12737,7 +12737,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/9a1f4e32dc0f6cc1af1c4fb35fa30dd8a751ec40/ParanormalFX/Sexan_ParaNormal_FX_Router.lua";
-          sha256 = "0qxayrmw084y7wwldmwvj7s42gbjarin8n242nrsklyjzjkflk4a";
+          sha256 = "0dk8qvsw2nqrcsnkrjrwhsk5zyxkyjs7p43323xl6djm83fa56k6";
         }
         {
           path = ''Modules/Canvas.lua'';
@@ -15370,7 +15370,7 @@
         {
           path = ''FXChains/LEWLOIWC_TRANSIENT_SETUP.RfxChain'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/2672fcb63ccc7c34729c59080a2ae78e58098e3b/ParanormalFX/FXChains/LEWLOIWC_TRANSIENT_SETUP.RfxChain";
-          sha256 = "17k1qnfdh5jnbzp0b4dkfynr73mfy6pg3zkhqy2b0n3mzb0vjcs9";
+          sha256 = "1s5sgny3z0516m69bph7x8gf0yk4a29648mgs0gkz99wwcqp0wpf";
         }
         {
           path = ''FXChains/MS_SETUP.RfxChain'';
@@ -15891,7 +15891,7 @@
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/1a369eaa739bb01c662db568a0a5e499ccda41d7/ParanormalFX/Modules/Utils.lua";
-          sha256 = "1rldi2fshzfa7yssainp4hwrp31s6fhwm6bcvsv5w21p599l0j5h";
+          sha256 = "0hfbwfd089igpwcdf5fywac2fwi388vfcrhs5ak4l3vva50askf6";
         }
         {
           path = ''Modules/flux.lua'';
@@ -16266,7 +16266,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/f0e5ee4c41f759ee18a96ca42a5db30974ed1fc5/Pie3000/Sexan_Pie3000.lua";
-          sha256 = "10klq0faijgmphgp67v8i706j1gqa93y8m9qwrqla21ajdm75rys";
+          sha256 = "1lnzfwa68mizd6q0bw9i0ka2a9bb6l7m7b3hwh00hlzd85y03yav";
         }
         {
           path = ''Sexan_Pie3000_Setup.lua'';
@@ -24789,6 +24789,124 @@
         {
           path = ''Sexan_PieCleanFiles.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/d953bdd80cbbe089edc09f012c2ec5c6dee5229d/Pie3000/Sexan_PieCleanFiles.lua";
+          sha256 = "0vjz8d0yj0cjgvlx6vxyx9lr6f7jydydx7syfa7n40z5cjsby58q";
+        }
+      ];
+    };
+    sexan-pie3000-lua-0-35-60 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "sexan-pie3000-lua-0-35-60";
+      indexName = "Sexan_Scripts";
+      categoryName = "Pie3000";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/8c46fd83f9f533259f689e353d64462ab8328c8d/Pie3000/Sexan_Pie3000.lua";
+          sha256 = "197as5a8gq75hidvjzqi4axy6mxz0rd5ji9dpigvn0477xxmnvda";
+        }
+        {
+          path = ''Sexan_Pie3000_Setup.lua'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/8c46fd83f9f533259f689e353d64462ab8328c8d/Pie3000/Sexan_Pie3000_Setup.lua";
+          sha256 = "1a0cr1cc6gn7rc9vxlnqdf3jqzhbmlp4y7yzb4yivld54il6x7cg";
+        }
+        {
+          path = ''Sexan_Pie3000_Tracker_BG.lua'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/8c46fd83f9f533259f689e353d64462ab8328c8d/Pie3000/Sexan_Pie3000_Tracker_BG.lua";
+          sha256 = "0rvqzpsccwgyjmlww9g9gcjq8sb00kdzwajil5ih5snvq9cpxcgs";
+        }
+        {
+          path = ''CustomImages/Readme.txt'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/8c46fd83f9f533259f689e353d64462ab8328c8d/Pie3000/CustomImages/Readme.txt";
+          sha256 = "07ladjq7i1l9xhxcacrxlqnig6ggcvbj3pqqjq5f8360r53scpl3";
+        }
+        {
+          path = ''easing.lua'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/8c46fd83f9f533259f689e353d64462ab8328c8d/Pie3000/easing.lua";
+          sha256 = "14l323lx8nswy137xf5mypwyf7yzka5wkny476lzlbr17xbz2wyp";
+        }
+        {
+          path = ''Common.lua'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/8c46fd83f9f533259f689e353d64462ab8328c8d/Pie3000/Common.lua";
+          sha256 = "0xh4amkhkvfw1x2iw3ibfpv7inxza89gwh83gaqk7wg71fnc3dax";
+        }
+        {
+          path = ''PieUtils.lua'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/8c46fd83f9f533259f689e353d64462ab8328c8d/Pie3000/PieUtils.lua";
+          sha256 = "0vxpd34m4iph59xqsvbnicp1wnnpzw7zngmqnynam2bn6b6q3xqg";
+        }
+        {
+          path = ''fontello1.ttf'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/8c46fd83f9f533259f689e353d64462ab8328c8d/Pie3000/fontello1.ttf";
+          sha256 = "1jfccw6kl0b63mc2xxd2cp37x0rs342lsgk6hl58nqifp8fa3r0g";
+        }
+        {
+          path = ''Roboto-Medium.ttf'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/8c46fd83f9f533259f689e353d64462ab8328c8d/Pie3000/Roboto-Medium.ttf";
+          sha256 = "1y259gk2iqixax9za1g2fqvsjysalj3ih5svpaidhlddi4n16nc5";
+        }
+        {
+          path = ''Sexan_PieCleanFiles.lua'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/8c46fd83f9f533259f689e353d64462ab8328c8d/Pie3000/Sexan_PieCleanFiles.lua";
+          sha256 = "0vjz8d0yj0cjgvlx6vxyx9lr6f7jydydx7syfa7n40z5cjsby58q";
+        }
+      ];
+    };
+    sexan-pie3000-lua-0-35-61 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "sexan-pie3000-lua-0-35-61";
+      indexName = "Sexan_Scripts";
+      categoryName = "Pie3000";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/969ea803e175180d12b0fc07a0c3a04c0ea4b84d/Pie3000/Sexan_Pie3000.lua";
+          sha256 = "0xwr7piyji805pmln3r4lcw3rskhabqpiyh357darrb0v0maw95y";
+        }
+        {
+          path = ''Sexan_Pie3000_Setup.lua'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/969ea803e175180d12b0fc07a0c3a04c0ea4b84d/Pie3000/Sexan_Pie3000_Setup.lua";
+          sha256 = "1iz1h9m9l4bx8pk0aziznxxpncgm1g1ghn34dawhz7j9gv1mahqb";
+        }
+        {
+          path = ''Sexan_Pie3000_Tracker_BG.lua'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/969ea803e175180d12b0fc07a0c3a04c0ea4b84d/Pie3000/Sexan_Pie3000_Tracker_BG.lua";
+          sha256 = "0rvqzpsccwgyjmlww9g9gcjq8sb00kdzwajil5ih5snvq9cpxcgs";
+        }
+        {
+          path = ''CustomImages/Readme.txt'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/969ea803e175180d12b0fc07a0c3a04c0ea4b84d/Pie3000/CustomImages/Readme.txt";
+          sha256 = "07ladjq7i1l9xhxcacrxlqnig6ggcvbj3pqqjq5f8360r53scpl3";
+        }
+        {
+          path = ''easing.lua'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/969ea803e175180d12b0fc07a0c3a04c0ea4b84d/Pie3000/easing.lua";
+          sha256 = "14l323lx8nswy137xf5mypwyf7yzka5wkny476lzlbr17xbz2wyp";
+        }
+        {
+          path = ''Common.lua'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/969ea803e175180d12b0fc07a0c3a04c0ea4b84d/Pie3000/Common.lua";
+          sha256 = "0xh4amkhkvfw1x2iw3ibfpv7inxza89gwh83gaqk7wg71fnc3dax";
+        }
+        {
+          path = ''PieUtils.lua'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/969ea803e175180d12b0fc07a0c3a04c0ea4b84d/Pie3000/PieUtils.lua";
+          sha256 = "0vxpd34m4iph59xqsvbnicp1wnnpzw7zngmqnynam2bn6b6q3xqg";
+        }
+        {
+          path = ''fontello1.ttf'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/969ea803e175180d12b0fc07a0c3a04c0ea4b84d/Pie3000/fontello1.ttf";
+          sha256 = "1jfccw6kl0b63mc2xxd2cp37x0rs342lsgk6hl58nqifp8fa3r0g";
+        }
+        {
+          path = ''Roboto-Medium.ttf'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/969ea803e175180d12b0fc07a0c3a04c0ea4b84d/Pie3000/Roboto-Medium.ttf";
+          sha256 = "1y259gk2iqixax9za1g2fqvsjysalj3ih5svpaidhlddi4n16nc5";
+        }
+        {
+          path = ''Sexan_PieCleanFiles.lua'';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/969ea803e175180d12b0fc07a0c3a04c0ea4b84d/Pie3000/Sexan_PieCleanFiles.lua";
           sha256 = "0vjz8d0yj0cjgvlx6vxyx9lr6f7jydydx7syfa7n40z5cjsby58q";
         }
       ];

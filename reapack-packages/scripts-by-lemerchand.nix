@@ -15,7 +15,7 @@
         {
           path = '''';
           url = "https://github.com/lemerchand/lemerchand/raw/95ad305794feb5b93aa8e007ccee3aa4e1033541/ItemTray/itemtray.lua";
-          sha256 = "0206l8k0sb99idhp4slhl3gdpyx3aca5mx277y8aff9q10qy9h8m";
+          sha256 = "14qb18h8smnykzhj62vkryqd8skxjfvpkggzw4rb08wli9x7i9qp";
         }
         {
           path = ''cf.lua'';
@@ -25,12 +25,12 @@
         {
           path = ''ui.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/95ad305794feb5b93aa8e007ccee3aa4e1033541/ItemTray/ui.lua";
-          sha256 = "";
+          sha256 = "00wdrih771hl23vqsnc4k5mwyhx65amgh25nsaiqy7xmdj289zlh";
         }
         {
           path = ''vf.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/95ad305794feb5b93aa8e007ccee3aa4e1033541/ItemTray/vf.lua";
-          sha256 = "04k3zid870p76xbydwafs4vg8lx866giyk8bgbva4b150vbf13d5";
+          sha256 = "0yc0ddzs1r48id6gxzi3z0bx7p1c6dxznckyh5z3w8xygykjinxc";
         }
         {
           path = ''search.png'';
@@ -59,7 +59,7 @@
         {
           path = ''ui.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/dd067740ed2e438a061b92bea9db21d13a739787/ItemTray/ui.lua";
-          sha256 = "";
+          sha256 = "0xh5wf24gfw3f0rkwmdv1l6l4yh0r90pad3xcsncyw6n1lpjrinl";
         }
         {
           path = ''vf.lua'';
@@ -93,7 +93,7 @@
         {
           path = ''ui.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/ac6c385931ff7f542160b46c43a40b39082110a4/ItemTray/ui.lua";
-          sha256 = "";
+          sha256 = "0mgnm25p56nc3b5ivxw4pzqkcg67zjyvw1j737vbapwrm34z135i";
         }
         {
           path = ''vf.lua'';
@@ -151,12 +151,12 @@
         {
           path = '''';
           url = "https://github.com/lemerchand/lemerchand/raw/cf575f06b20ec78d5341c5e788d036cdd286c9e6/ItemTray/itemtray.lua";
-          sha256 = "";
+          sha256 = "174wh43543vwszgaggqb8gb6rm1ckh5pjsr3agm9c42ydfkcfyap";
         }
         {
           path = ''cf.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/cf575f06b20ec78d5341c5e788d036cdd286c9e6/ItemTray/cf.lua";
-          sha256 = "";
+          sha256 = "05kvmfbbj1ndf7wfiprnwmx3fs4yjsw1rdjpzr0kvlkq85h49sjp";
         }
         {
           path = ''ui.lua'';
@@ -171,7 +171,7 @@
         {
           path = ''search.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/cf575f06b20ec78d5341c5e788d036cdd286c9e6/ItemTray/search.png";
-          sha256 = "";
+          sha256 = "173qkzrrygwxjnsajx9rs0dbj5lkh28x889g5yzhpinv81hd5765";
         }
       ];
     };
@@ -239,12 +239,12 @@
         {
           path = ''search.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/386d2040bd0388754edd5546dc66682c0327149e/ItemTray/search.png";
-          sha256 = "";
+          sha256 = "173qkzrrygwxjnsajx9rs0dbj5lkh28x889g5yzhpinv81hd5765";
         }
         {
           path = ''gears.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/386d2040bd0388754edd5546dc66682c0327149e/ItemTray/gears.png";
-          sha256 = "";
+          sha256 = "0b80kw0i7pjxjks0zlmia8639k4ki9z6fcz55mkdbz21av1j3sf4";
         }
       ];
     };
@@ -268,12 +268,12 @@
         {
           path = ''ui.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/588defd2f60de1c78c3cf4555ade76650d92a5a6/ItemTray/ui.lua";
-          sha256 = "19yf67fmr2dx1hwaiw8w48w40sggxh3rryh0h97bcqrkld0pwxml";
+          sha256 = "104wy99m3sc3qsk8hqibichk66i3qf3bd8cmnvj3nh4imn9vh5r2";
         }
         {
           path = ''vf.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/588defd2f60de1c78c3cf4555ade76650d92a5a6/ItemTray/vf.lua";
-          sha256 = "0cw5g61vwnyivvhsdj96p8ir5v0g3g3lakhcgai4jb6xahs2yz60";
+          sha256 = "1gs55s6zakbhmpdjsph90cqsbph2kflvqgnfrahjw142px1nd84j";
         }
         {
           path = ''imgs/add-file.png'';
@@ -283,7 +283,7 @@
         {
           path = ''imgs/clear.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/588defd2f60de1c78c3cf4555ade76650d92a5a6/ItemTray/imgs/clear.png";
-          sha256 = "";
+          sha256 = "0m3f2yymp3qljgfj40k7f4f3yhh679snd8cj56fcacwy7s18xwz2";
         }
         {
           path = ''imgs/exit.png'';
@@ -327,7 +327,7 @@
         {
           path = ''cf.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/b835db27579680162c362b3b22ce962f3546210f/ItemTray/cf.lua";
-          sha256 = "";
+          sha256 = "18ix8l4jm5zgydypw88hi2scg1dyaj78cs1w6v0syx7a6aaypm9c";
         }
         {
           path = ''ui.lua'';
@@ -347,7 +347,7 @@
         {
           path = ''imgs/clear.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/b835db27579680162c362b3b22ce962f3546210f/ItemTray/imgs/clear.png";
-          sha256 = "";
+          sha256 = "0m3f2yymp3qljgfj40k7f4f3yhh679snd8cj56fcacwy7s18xwz2";
         }
         {
           path = ''imgs/exit.png'';
@@ -386,7 +386,7 @@
         {
           path = '''';
           url = "https://github.com/lemerchand/lemerchand/raw/a5c8e80d9cdc69c48e054e60e5fbfd508361344a/ItemTray/itemtray.lua";
-          sha256 = "07gcy4q4wzvf1fszqhy04zx5f5g27pgbsyjxbm8zvvxarq0x54s2";
+          sha256 = "17xk9hgzmvkzcy2ajcaw8mdswpj9ca80r8nnlybgjjgx9486vbn9";
         }
         {
           path = ''cf.lua'';
@@ -396,7 +396,7 @@
         {
           path = ''ui.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/a5c8e80d9cdc69c48e054e60e5fbfd508361344a/ItemTray/ui.lua";
-          sha256 = "";
+          sha256 = "0zw6dlsbgwfg09bx98nklmf8wghmji5am178cqwnaprckgcfqvll";
         }
         {
           path = ''vf.lua'';
@@ -406,7 +406,7 @@
         {
           path = ''imgs/add-file.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/a5c8e80d9cdc69c48e054e60e5fbfd508361344a/ItemTray/imgs/add-file.png";
-          sha256 = "";
+          sha256 = "0w02y822n5ig0201cni53vi4di4xgjvkkc2zydjkirgm1fa8fa29";
         }
         {
           path = ''imgs/clear.png'';
@@ -416,7 +416,7 @@
         {
           path = ''imgs/exit.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/a5c8e80d9cdc69c48e054e60e5fbfd508361344a/ItemTray/imgs/exit.png";
-          sha256 = "";
+          sha256 = "1r3pgw4iqpl0cck5vvz6xh9kwh8h4pgzrikjkhmz5923qqjvaxpn";
         }
         {
           path = ''imgs/gears.png'';
@@ -431,12 +431,12 @@
         {
           path = ''imgs/pin.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/a5c8e80d9cdc69c48e054e60e5fbfd508361344a/ItemTray/imgs/pin.png";
-          sha256 = "";
+          sha256 = "08sxh2ca4mj00fmhshgc2b8c7ks4h7fcdjxb09wgiyzrafzid85i";
         }
         {
           path = ''imgs/search.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/a5c8e80d9cdc69c48e054e60e5fbfd508361344a/ItemTray/imgs/search.png";
-          sha256 = "";
+          sha256 = "173qkzrrygwxjnsajx9rs0dbj5lkh28x889g5yzhpinv81hd5765";
         }
       ];
     };
@@ -455,12 +455,12 @@
         {
           path = ''cf.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/db2bc176bf469250110eb0bbb2094d0308d73c68/ItemTray/cf.lua";
-          sha256 = "";
+          sha256 = "1afjzxds9gbrzxaxmv1kn4a42d33nsm1smz5b3pab07bl70m7jdk";
         }
         {
           path = ''ui.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/db2bc176bf469250110eb0bbb2094d0308d73c68/ItemTray/ui.lua";
-          sha256 = "";
+          sha256 = "0yqpykznzksyihbda6vzmni4cqpfarah1w7nyfpjixamdkiwmr42";
         }
         {
           path = ''vf.lua'';
@@ -475,7 +475,7 @@
         {
           path = ''imgs/clear.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/db2bc176bf469250110eb0bbb2094d0308d73c68/ItemTray/imgs/clear.png";
-          sha256 = "";
+          sha256 = "0m3f2yymp3qljgfj40k7f4f3yhh679snd8cj56fcacwy7s18xwz2";
         }
         {
           path = ''imgs/exit.png'';
@@ -495,7 +495,7 @@
         {
           path = ''imgs/pin.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/db2bc176bf469250110eb0bbb2094d0308d73c68/ItemTray/imgs/pin.png";
-          sha256 = "";
+          sha256 = "08sxh2ca4mj00fmhshgc2b8c7ks4h7fcdjxb09wgiyzrafzid85i";
         }
         {
           path = ''imgs/search.png'';
@@ -514,7 +514,7 @@
         {
           path = '''';
           url = "https://github.com/lemerchand/lemerchand/raw/4fe69e504c2f389d6eab7765e80c58410b6fd95c/ItemTray/itemtray.lua";
-          sha256 = "";
+          sha256 = "15vm6j78680glapq1frmqxa3jzzc8w3fx28738gdnn397nq2zdrs";
         }
         {
           path = ''cf.lua'';
@@ -524,7 +524,7 @@
         {
           path = ''ui.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/4fe69e504c2f389d6eab7765e80c58410b6fd95c/ItemTray/ui.lua";
-          sha256 = "";
+          sha256 = "0yqpykznzksyihbda6vzmni4cqpfarah1w7nyfpjixamdkiwmr42";
         }
         {
           path = ''vf.lua'';
@@ -549,22 +549,22 @@
         {
           path = ''imgs/gears.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/4fe69e504c2f389d6eab7765e80c58410b6fd95c/ItemTray/imgs/gears.png";
-          sha256 = "";
+          sha256 = "0b80kw0i7pjxjks0zlmia8639k4ki9z6fcz55mkdbz21av1j3sf4";
         }
         {
           path = ''imgs/newpage.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/4fe69e504c2f389d6eab7765e80c58410b6fd95c/ItemTray/imgs/newpage.png";
-          sha256 = "";
+          sha256 = "0y9xwvsy4n7xp87fwl77249bnv9qrik0lp9120ix94666723n2fb";
         }
         {
           path = ''imgs/pin.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/4fe69e504c2f389d6eab7765e80c58410b6fd95c/ItemTray/imgs/pin.png";
-          sha256 = "";
+          sha256 = "08sxh2ca4mj00fmhshgc2b8c7ks4h7fcdjxb09wgiyzrafzid85i";
         }
         {
           path = ''imgs/search.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/4fe69e504c2f389d6eab7765e80c58410b6fd95c/ItemTray/imgs/search.png";
-          sha256 = "";
+          sha256 = "173qkzrrygwxjnsajx9rs0dbj5lkh28x889g5yzhpinv81hd5765";
         }
       ];
     };
@@ -578,12 +578,12 @@
         {
           path = '''';
           url = "https://github.com/lemerchand/lemerchand/raw/0a4a5762fb8bf6b4bdde4b9a73ee683243b4b383/ItemTray/itemtray.lua";
-          sha256 = "";
+          sha256 = "1qxh4fi5zixx5clsj1zfw30dm4amidmshg13cyvvqfcvq0nwasjx";
         }
         {
           path = ''cf.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/0a4a5762fb8bf6b4bdde4b9a73ee683243b4b383/ItemTray/cf.lua";
-          sha256 = "";
+          sha256 = "0v4s11mw3jhx4hmnf4jph3i42j9880b5w6yrrmq54gly0f4xmzc4";
         }
         {
           path = ''ui.lua'';
@@ -608,7 +608,7 @@
         {
           path = ''imgs/exit.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/0a4a5762fb8bf6b4bdde4b9a73ee683243b4b383/ItemTray/imgs/exit.png";
-          sha256 = "";
+          sha256 = "1r3pgw4iqpl0cck5vvz6xh9kwh8h4pgzrikjkhmz5923qqjvaxpn";
         }
         {
           path = ''imgs/gears.png'';
@@ -618,12 +618,12 @@
         {
           path = ''imgs/newpage.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/0a4a5762fb8bf6b4bdde4b9a73ee683243b4b383/ItemTray/imgs/newpage.png";
-          sha256 = "";
+          sha256 = "0y9xwvsy4n7xp87fwl77249bnv9qrik0lp9120ix94666723n2fb";
         }
         {
           path = ''imgs/pin.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/0a4a5762fb8bf6b4bdde4b9a73ee683243b4b383/ItemTray/imgs/pin.png";
-          sha256 = "";
+          sha256 = "08sxh2ca4mj00fmhshgc2b8c7ks4h7fcdjxb09wgiyzrafzid85i";
         }
         {
           path = ''imgs/search.png'';
@@ -642,7 +642,7 @@
         {
           path = '''';
           url = "https://github.com/lemerchand/lemerchand/raw/5702d4837b6fbecd582b4418f025e3a3af8f06ab/ItemTray/itemtray.lua";
-          sha256 = "";
+          sha256 = "17z9c956291ny4b1av89gqfzmwsdafln9x7jg6kccalf7cqz03sh";
         }
         {
           path = ''cf.lua'';
@@ -657,17 +657,17 @@
         {
           path = ''vf.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/5702d4837b6fbecd582b4418f025e3a3af8f06ab/ItemTray/vf.lua";
-          sha256 = "";
+          sha256 = "0hk17iwg270z98jlvp513gs51kmmssnirmsq80qmnh59cwqyva5z";
         }
         {
           path = ''imgs/add-file.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/5702d4837b6fbecd582b4418f025e3a3af8f06ab/ItemTray/imgs/add-file.png";
-          sha256 = "";
+          sha256 = "0w02y822n5ig0201cni53vi4di4xgjvkkc2zydjkirgm1fa8fa29";
         }
         {
           path = ''imgs/clear.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/5702d4837b6fbecd582b4418f025e3a3af8f06ab/ItemTray/imgs/clear.png";
-          sha256 = "";
+          sha256 = "0m3f2yymp3qljgfj40k7f4f3yhh679snd8cj56fcacwy7s18xwz2";
         }
         {
           path = ''imgs/exit.png'';
@@ -682,7 +682,7 @@
         {
           path = ''imgs/newpage.png'';
           url = "https://github.com/lemerchand/lemerchand/raw/5702d4837b6fbecd582b4418f025e3a3af8f06ab/ItemTray/imgs/newpage.png";
-          sha256 = "";
+          sha256 = "0y9xwvsy4n7xp87fwl77249bnv9qrik0lp9120ix94666723n2fb";
         }
         {
           path = ''imgs/pin.png'';
@@ -706,12 +706,12 @@
         {
           path = '''';
           url = "https://github.com/lemerchand/lemerchand/raw/383b4b0ebf8da89838bf97f933a4aa7773a7e27e/ItemTray/itemtray.lua";
-          sha256 = "1z8jfvvx5q589iw4ia3xni69rkpghn2s0gk8spqaiczi0nhz27sv";
+          sha256 = "0fa734z5jfmlr5261bvs35ibn5n3f3f3yk8fd8i1s66m1cps0prf";
         }
         {
           path = ''cf.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/383b4b0ebf8da89838bf97f933a4aa7773a7e27e/ItemTray/cf.lua";
-          sha256 = "01cdrfjysxf2xl2jhw9crq1d85xcylf9m2yc0ygcb5mmihg2v792";
+          sha256 = "1h1ns4cq00j69ddnbmi681ggrz443zizjg63sjnvpwr67d7q22h1";
         }
         {
           path = ''ui.lua'';

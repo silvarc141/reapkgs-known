@@ -2269,7 +2269,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/Mouse%20modifiers/Yannick_Insert%20item%20at%20mouse%20cursor%20within%20a%20measure%20(like%20in%20Studio%20One).lua";
-          sha256 = "0w34a6q1ga94xmjx07640w251mv3w49grngdbqzmqmigv276f7l5";
+          sha256 = "19l6xz253inzlii8lpcy9lwqqiwdy5wysw6wwl63rq6msr47rmp3";
         }
       ];
     };
@@ -3319,7 +3319,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Tracks/Yannick_Render%20selected%20tracks%20to%20multichannel%20track%20obeying%20time%20selection%20(ignore%20routing).lua";
-          sha256 = "1qs5c2b57a527q5h3bih6h7yjwqrw5kk6h1v4fnx8wp4hv6p5csq";
+          sha256 = "1xd9wqnr5q5azas85b96grzzsv9f37dbr2yv9jmwczbqawn1r704";
         }
       ];
     };

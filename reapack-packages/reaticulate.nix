@@ -115,7 +115,7 @@
         {
           path = ''../actions/Reaticulate_Activate articulation by CC on channel 16.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/dist/0.5.13/release/actions/Reaticulate_Activate%20articulation%20by%20CC%20on%20channel%2016.lua";
-          sha256 = "1bxqhsdnvi9cizavasyjprkwh0zvxs1mrw9gbvs7828ngixjaj1i";
+          sha256 = "";
         }
         {
           path = ''../actions/Reaticulate_Activate articulation by CC on default channel.lua'';
@@ -165,12 +165,12 @@
         {
           path = ''../actions/Reaticulate_Activate previous articulation in group 4 on default channel.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/dist/0.5.13/release/actions/Reaticulate_Activate%20previous%20articulation%20in%20group%204%20on%20default%20channel.lua";
-          sha256 = "1qdhqirpjnh2w95dqql4vy9vhczyscy1g2xlrxi11y4nl9x1r180";
+          sha256 = "0hj2yq0sjph8xp71bkjzg24aqhm756gh7kf7c2dh5cpqc8caqrps";
         }
         {
           path = ''../actions/Reaticulate_Activate selected articulation on default channel.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/dist/0.5.13/release/actions/Reaticulate_Activate%20selected%20articulation%20on%20default%20channel.lua";
-          sha256 = "0y4jyybmq8xyc4xxshasrlwx171hfsqy92810p01b68sikm8bl4q";
+          sha256 = "12vkj9k2zpax6yaysmz763hxp65m1qjm6lqpflxii815xq8d640c";
         }
         {
           path = ''../actions/Reaticulate_Disable feedback to MIDI feedback device.lua'';
@@ -215,7 +215,7 @@
         {
           path = ''../actions/Reaticulate_Select previous articulation.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/dist/0.5.13/release/actions/Reaticulate_Select%20previous%20articulation.lua";
-          sha256 = "0h7aghg8j9q65aik1xv9vaivyglgb5666ihwy25wfqnkdjmnd3lk";
+          sha256 = "0ds0mwk5m7qqvliagkm115jg289h9bk7r3g9pbldiwz09p3ps7v0";
         }
         {
           path = ''../actions/Reaticulate_Set default MIDI channel by CC.lua'';
@@ -719,7 +719,7 @@
         {
           path = ''../reaticulate.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/dist/0.5.11/release/reaticulate.lua";
-          sha256 = "0gjpq1bwizr1vrxna7p3qwlrbcnnmaj242q9nkcxlcdl2ryng164";
+          sha256 = "0fzxwfm0mm7si4nyfjag684vbpd2r6ckhb8nqhx45yb7xz8581p2";
         }
       ];
     };
@@ -1651,7 +1651,7 @@
         {
           path = ''../actions/Reaticulate_Set default MIDI channel to 01.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/actions/Reaticulate_Set%20default%20MIDI%20channel%20to%2001.lua";
-          sha256 = "1c95z97gfhh31m607hsnhrqq80xxvix4zpi2yn48h67krq7a65iq";
+          sha256 = "0imj133q7whp0zk7xczby36fi94ci48mb2c18x5cvfi2l4i1wz17";
         }
         {
           path = ''../actions/Reaticulate_Set default MIDI channel to 02.lua'';
@@ -1681,7 +1681,7 @@
         {
           path = ''../actions/Reaticulate_Set default MIDI channel to 07.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/actions/Reaticulate_Set%20default%20MIDI%20channel%20to%2007.lua";
-          sha256 = "";
+          sha256 = "15gr93wnz6dcq5p9cic3l50s3ii1vq7yzr3391lmam8wx6qjklk7";
         }
         {
           path = ''../actions/Reaticulate_Set default MIDI channel to 08.lua'';
@@ -1691,7 +1691,7 @@
         {
           path = ''../actions/Reaticulate_Set default MIDI channel to 09.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/actions/Reaticulate_Set%20default%20MIDI%20channel%20to%2009.lua";
-          sha256 = "";
+          sha256 = "1399h52splj1hbbaryx30lsdca8dvs8xx2znxps6jl99qma8rvfs";
         }
         {
           path = ''../actions/Reaticulate_Set default MIDI channel to 10.lua'';
@@ -1711,7 +1711,7 @@
         {
           path = ''../actions/Reaticulate_Set default MIDI channel to 13.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/actions/Reaticulate_Set%20default%20MIDI%20channel%20to%2013.lua";
-          sha256 = "1p3cyr0cij3267h1mnqm9j16sz4v0pv4f5ssgwnd6hvaccyvadh2";
+          sha256 = "0fix095lrsvhzd5dci9mf96g94wfkfpq5k2rklw5caz8qi47ly4a";
         }
         {
           path = ''../actions/Reaticulate_Set default MIDI channel to 14.lua'';
@@ -1761,7 +1761,7 @@
         {
           path = ''../app/articons.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/app/articons.lua";
-          sha256 = "";
+          sha256 = "06w8vgvh2iw5y8niqlgw7aml8h79gg0nvx4r6hla3zfk21iyjy7z";
         }
         {
           path = ''../app/feedback.lua'';
@@ -1771,22 +1771,22 @@
         {
           path = ''../app/lib/baseapp.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/app/lib/baseapp.lua";
-          sha256 = "";
+          sha256 = "0zpgdhhwmg8rk92ca5sf7vw7m5ifdzz6iak295kzdgi6gql7r5j0";
         }
         {
           path = ''../app/lib/binser.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/app/lib/binser.lua";
-          sha256 = "";
+          sha256 = "0cp1fly1j2s9l3yp5v42kpmgy3v9yw022b7sf03816ai83v0n3kz";
         }
         {
           path = ''../app/lib/crc32.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/app/lib/crc32.lua";
-          sha256 = "";
+          sha256 = "03kkz7ymyawd7r7qxc4g75a60hcsvimd6798gcf15zjdanc430ww";
         }
         {
           path = ''../app/lib/log.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/app/lib/log.lua";
-          sha256 = "004xdbi9xqasd616674i2axj6akx7n62q7q5qix55xhl9jzxb8bk";
+          sha256 = "0gfyxp1zyng9plfqvwvy9iyvkva6s5q6isz09xp50cwzjfxx8by8";
         }
         {
           path = ''../app/lib/middleclass.lua'';
@@ -1796,7 +1796,7 @@
         {
           path = ''../app/lib/rtk.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/app/lib/rtk.lua";
-          sha256 = "";
+          sha256 = "159rf01dayldx0h28l2avvz0cm597vcg2zszb45b8b8gbjr8892h";
         }
         {
           path = ''../app/lib/utils.lua'';
@@ -1806,7 +1806,7 @@
         {
           path = ''../app/main.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/app/main.lua";
-          sha256 = "";
+          sha256 = "1vyqh9nb5n8cssbx3f826amqvbhnyr67gsn11sixl6xyydc7q4d2";
         }
         {
           path = ''../app/reabank.lua'';
@@ -1866,12 +1866,12 @@
         {
           path = ''../img/icons-dark/18-checkbox-unchecked.png'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/img/icons-dark/18-checkbox-unchecked.png";
-          sha256 = "";
+          sha256 = "1sj6sxsdnyfzsamaf9azc8sc33xjscn1d0pppvpxf64l58h07b6r";
         }
         {
           path = ''../img/icons-dark/18-delete.png'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/img/icons-dark/18-delete.png";
-          sha256 = "";
+          sha256 = "0s2n4zs5qa1hg9sx2w1xfm2ilq00whzjl24c5ffnbp36xi8r0p9l";
         }
         {
           path = ''../img/icons-dark/18-dock_window.png'';
@@ -1901,12 +1901,12 @@
         {
           path = ''../img/icons-dark/18-loop.png'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/img/icons-dark/18-loop.png";
-          sha256 = "";
+          sha256 = "1b1f27f5b3jn57gb94fw06sg3fidvakv97z2i7yhbqkm14qvw28z";
         }
         {
           path = ''../img/icons-dark/18-pin_off.png'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/img/icons-dark/18-pin_off.png";
-          sha256 = "";
+          sha256 = "0jyf47vz5q3sy3pb9jxam7g4i6q59zqny83sls8kqycxzza842cn";
         }
         {
           path = ''../img/icons-dark/18-pin_on.png'';
@@ -1921,7 +1921,7 @@
         {
           path = ''../img/icons-dark/18-settings.png'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/img/icons-dark/18-settings.png";
-          sha256 = "";
+          sha256 = "152lyxnsxkz5xp9m1hq0a3hcxrjj66z5cg58cv19pmc3vq5hlzv1";
         }
         {
           path = ''../img/icons-dark/18-undock_window.png'';
@@ -1936,12 +1936,12 @@
         {
           path = ''../img/icons-dark/24-alert_circle_outline.png'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/img/icons-dark/24-alert_circle_outline.png";
-          sha256 = "";
+          sha256 = "0nyc05gxydjqn05jjiznbm057vpzbwymp36gd2i6jfcr5mgvgi0d";
         }
         {
           path = ''../img/icons-dark/24-drag_vertical.png'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/img/icons-dark/24-drag_vertical.png";
-          sha256 = "";
+          sha256 = "0slkcm72z7i1gbhaj8vjcr7q860k8mhjgvki3ygr7wlx1rv00pmy";
         }
         {
           path = ''../img/icons-dark/24-info_outline.png'';
@@ -1951,7 +1951,7 @@
         {
           path = ''../img/icons-dark/24-resize_bottom_right.png'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/img/icons-dark/24-resize_bottom_right.png";
-          sha256 = "";
+          sha256 = "19m98pdplypinb3a8giyay174l0gsqnal277xmgv5cygvv1gwyfp";
         }
         {
           path = ''../img/icons-dark/24-warning_amber.png'';
@@ -1961,12 +1961,12 @@
         {
           path = ''../img/icons-dark/96-alert_circle_outline.png'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/img/icons-dark/96-alert_circle_outline.png";
-          sha256 = "";
+          sha256 = "1vjlyq1hc8yp2757r1sxiyghwi1ymnv1n7i99zs51wri7l72xl38";
         }
         {
           path = ''../img/icons-light/18-add_circle_outline.png'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/img/icons-light/18-add_circle_outline.png";
-          sha256 = "";
+          sha256 = "1id1sf76y8jjrhd9715vf7ip5iwch7d24lildl2nff8gc3x6ghp5";
         }
         {
           path = ''../img/icons-light/18-arrow_back.png'';
@@ -1976,7 +1976,7 @@
         {
           path = ''../img/icons-light/18-checkbox-checked.png'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/img/icons-light/18-checkbox-checked.png";
-          sha256 = "";
+          sha256 = "0z8bi14awizs2lg2l5rij0f20yvfcqn121v4hpaqhkmib0qf3pk0";
         }
         {
           path = ''../img/icons-light/18-checkbox-intermediate.png'';
@@ -1986,7 +1986,7 @@
         {
           path = ''../img/icons-light/18-checkbox-unchecked.png'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/img/icons-light/18-checkbox-unchecked.png";
-          sha256 = "";
+          sha256 = "1jkv83db2qpaf6f4izpfa704i958545m9d7276ghm4bwx05xzp9w";
         }
         {
           path = ''../img/icons-light/18-delete.png'';
