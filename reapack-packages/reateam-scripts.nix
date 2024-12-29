@@ -15,7 +15,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/cf5f076f6a2a208d0d36325c7432f29a67ee6757/Cursor/amagalma_Move%20edit%20cursor%20to%20closest%20item%20edge%20(among%20the%20selected%20items).lua";
-          sha256 = "0xy6s7w28400grpjz602fd61g8pcbby1w1pk5zm4f0y3wp3y3naj";
+          sha256 = "1smaqr0hbs0m06f58vg47pgw0jaj8jba8m55zm88hwwf2z1vh5rq";
         }
       ];
     };
@@ -2274,7 +2274,7 @@
         {
           path = ''Lokasenna_GUI v2/Developer Tools/GUI Builder/modules/func_Project.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/85bbff1da0ea55311b145574ffbbdf5c1adf3d4d/Development/Lokasenna_GUI%20v2/Developer%20Tools/GUI%20Builder/modules/func_Project.lua";
-          sha256 = "0cn4jrq97acvhhsjnghp3izgdhzrpaayvhy00gk38x77m519zgap";
+          sha256 = "1q4c7xqb8h5gsjimj1m4417dsdqyjb60z0j38wjjj0x83dvpkwdn";
         }
         {
           path = ''Lokasenna_GUI v2/Developer Tools/GUI Builder/modules/tab_Properties.lua'';
@@ -2294,7 +2294,7 @@
         {
           path = ''Lokasenna_GUI v2/Developer Tools/GUI Builder/modules/wnd_Project.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/85bbff1da0ea55311b145574ffbbdf5c1adf3d4d/Development/Lokasenna_GUI%20v2/Developer%20Tools/GUI%20Builder/modules/wnd_Project.lua";
-          sha256 = "0swlpwcs6bf1qwqqnlz93r4y0zd34ap57kslvhhj69kj8rmdf03g";
+          sha256 = "0imwiyibpkj16jhvddgamcq4d2zka8af53aa2mym9s24lj3326k1";
         }
         {
           path = ''Lokasenna_GUI v2/Developer Tools/GUI Builder/modules/wnd_Sidebar.lua'';
@@ -2304,12 +2304,12 @@
         {
           path = ''Lokasenna_GUI v2/Developer Tools/Documentation.html'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/85bbff1da0ea55311b145574ffbbdf5c1adf3d4d/Development/Lokasenna_GUI%20v2/Developer%20Tools/Documentation.html";
-          sha256 = "1v75cwpgdadqgc9421ld8l5wmqaz6kvvwxph3d2r4iysmphxbzjp";
+          sha256 = "0v73mnmv1a5mx2jwymfahznfxxja39pg11k722rnfdw51x9ac4pv";
         }
         {
           path = ''Lokasenna_GUI v2/Developer Tools/Examples and Templates/Example - Adding a Main loop, working with Z layers, and Rewriting Methods.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/85bbff1da0ea55311b145574ffbbdf5c1adf3d4d/Development/Lokasenna_GUI%20v2/Developer%20Tools/Examples%20and%20Templates/Example%20-%20Adding%20a%20Main%20loop,%20working%20with%20Z%20layers,%20and%20Rewriting%20Methods.lua";
-          sha256 = "1s3871gvzl40j21r1l780ffprljcw8p6irwrlwv2ma3lwi4gxgm0";
+          sha256 = "1a1kn8kg8vak00kaxq232l35ylfak4rgp3llay6903hcijjda1g2";
         }
         {
           path = ''Lokasenna_GUI v2/Developer Tools/Examples and Templates/Example - Creating elements with keyed tables.lua'';
@@ -2383,7 +2383,7 @@
         {
           path = ''Lokasenna_GUI v2/Developer Tools/GUI Builder/modules/func_Export.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/3d645fb3dff0f636c082b90254a345f773a68b3a/Development/Lokasenna_GUI%20v2/Developer%20Tools/GUI%20Builder/modules/func_Export.lua";
-          sha256 = "1vkl3jzy1kj6ryhnilky5ihkyfr40biv5bqal375awfpklybcgbp";
+          sha256 = "0sj1zr4gciwj2hi41iljpw3ncppidyfsrzfmnwki02kypicjj9ly";
         }
         {
           path = ''Lokasenna_GUI v2/Developer Tools/GUI Builder/modules/func_Menu.lua'';
@@ -2443,7 +2443,7 @@
         {
           path = ''Lokasenna_GUI v2/Developer Tools/Examples and Templates/Example - General demonstration.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/3d645fb3dff0f636c082b90254a345f773a68b3a/Development/Lokasenna_GUI%20v2/Developer%20Tools/Examples%20and%20Templates/Example%20-%20General%20demonstration.lua";
-          sha256 = "0dh9a9qf0javdjval6l92p6wizjdfrnp816hg9ba2a1kaw8xj0i6";
+          sha256 = "1aq5bhllmb7y3q3xn00g7ph2h3w5ys0l7m5c0ijcx0345kclnaf4";
         }
         {
           path = ''Lokasenna_GUI v2/Developer Tools/Examples and Templates/Example - GetUserInputs module.lua'';
@@ -2497,7 +2497,7 @@
         {
           path = ''Lokasenna_GUI v2/Developer Tools/GUI Builder/modules/data_Elements.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/77529f750d741ba8215a9aca938d6596deeb5d3d/Development/Lokasenna_GUI%20v2/Developer%20Tools/GUI%20Builder/modules/data_Elements.lua";
-          sha256 = "1kwpvlcdvq0knhvl0h71vxkgdw33drsakb3vlyzypsk1jkqnsj0n";
+          sha256 = "0p28i4x3x50plh3p3yswqjkfwxxzggwh1lz90ir1fllrl40jcmfx";
         }
         {
           path = ''Lokasenna_GUI v2/Developer Tools/GUI Builder/modules/func_Elements.lua'';
@@ -2587,7 +2587,7 @@
         {
           path = ''Lokasenna_GUI v2/Developer Tools/Examples and Templates/Template - Blank GUI script.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/77529f750d741ba8215a9aca938d6596deeb5d3d/Development/Lokasenna_GUI%20v2/Developer%20Tools/Examples%20and%20Templates/Template%20-%20Blank%20GUI%20script.lua";
-          sha256 = "1i6vxx3bmk9mz8x01fav5qmwm7c3i4jzffdf4kspqmdm0qkicc4x";
+          sha256 = "0g9ia5hr8nrml9z5bbrazfa46nxmkkv9ngq6f0nvb7hrnj4ymwj6";
         }
         {
           path = ''Lokasenna_GUI v2/Developer Tools/Examples and Templates/Template - Blank class.lua'';
@@ -2730,7 +2730,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Frame.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/244869a9c53caf65f2b7b36e20865ce5aff3bf33/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Frame.lua";
-          sha256 = "1j2kfhk9fipma47fklai0kgw3ga1yvsyyip2pwd06m2zm6rm0b1x";
+          sha256 = "1zckv4d26x6ansjs9117wf1yhwm3yq2vpac76swkjxqcq10z7sbw";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Knob.lua'';
@@ -2864,7 +2864,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - TextEditor.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/bc63c1f4c405d9c0c77e514588fad4685ce2b0a9/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20TextEditor.lua";
-          sha256 = "0x6p53shi1wvx8z0qrm0b8949zaqimhhyl8a80zvw8gi7cfjwya1";
+          sha256 = "1klhfykavyrlq7qx252k7bgc1wfn8xi63159nlbp2w1xsqjsx91d";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Textbox.lua'';
@@ -2879,7 +2879,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Core.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/bc63c1f4c405d9c0c77e514588fad4685ce2b0a9/Development/Lokasenna_GUI%20v2/Library/Core.lua";
-          sha256 = "1w0586hi6h6zrzvlnq0xz204swh66dsd9kyv2axj5wja0rz5jm5y";
+          sha256 = "0xjcshl06hy1qpvb3rfhrqwy1bi2ldrjgy57fq1frxggph7ynqml";
         }
       ];
     };
@@ -2913,7 +2913,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Label.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/19b18b50b1720617ebab0126ad2cad32d002dd0c/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Label.lua";
-          sha256 = "172sg3flzaflpy9myrzvgsmzjia396bfnz8r58v3sd78aqqa6qsz";
+          sha256 = "1vbrbwjx9hlgp5b23zanyl0cfbf83ll3nzh3j95z1nj55z2bc17d";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Listbox.lua'';
@@ -2928,7 +2928,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Menubox.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/19b18b50b1720617ebab0126ad2cad32d002dd0c/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Menubox.lua";
-          sha256 = "009bp5cbxjqp34qbcz8q9jdg8s5dds9g2ajw12w8sp4j6r8wh60y";
+          sha256 = "0zi67bjq1kgsydasih94zsys6k5yyh0zj4vs2ynvlw01shl5mm7q";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Options.lua'';
@@ -2953,7 +2953,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Textbox.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/19b18b50b1720617ebab0126ad2cad32d002dd0c/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Textbox.lua";
-          sha256 = "19js4y6fj4b7bfi7qma499xzbq92769snkhhzq1b8271ps51j86x";
+          sha256 = "08wrsxx387q2gbyprjazwx9r1svqfxpimcmgnn503fz4ap40mkzb";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Window.lua'';
@@ -2977,7 +2977,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Set Lokasenna_GUI v2 library path.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e3db46c7575070b37e85ef939cca879ae1e2918f/Development/Lokasenna_GUI%20v2/Library/Set%20Lokasenna_GUI%20v2%20library%20path.lua";
-          sha256 = "1ixvkklpkvvfv55psbw614lh0j8hfbmv8nqimgdim8v9hzl98j0y";
+          sha256 = "1byam7171ijyyvj8nha6slnkmiim98zmj4hdwdxh2061sc8zpjf8";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Button.lua'';
@@ -3002,12 +3002,12 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Listbox.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e3db46c7575070b37e85ef939cca879ae1e2918f/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Listbox.lua";
-          sha256 = "";
+          sha256 = "07qx7hz8dbv5cm6z5c6fqfcbhbpry338a94g4fby3a1llcfl5d89";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Menubar.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e3db46c7575070b37e85ef939cca879ae1e2918f/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Menubar.lua";
-          sha256 = "1000gsgc4a7v3ar1bp1sf70mdqp95dk217iwyvkqyki1lr9zn6sp";
+          sha256 = "131nl9m2anqpi7nx600fl35grzqqkdcv3qz5nqfczmafxxaby74n";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Menubox.lua'';
@@ -3066,7 +3066,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Button.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/a2d2959c6a8984d6e171216b389a0c3da6f7eae1/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Button.lua";
-          sha256 = "0lab5m9vwp5m0x78kjfyq3zggdbbc8qzkvv8gdpb6689f3mkbbk2";
+          sha256 = "01axwraf8sbvgr7602h67r0w79cs4z7a17sqdbgpvd6xpf3xx8pj";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Frame.lua'';
@@ -3096,7 +3096,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Menubox.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/a2d2959c6a8984d6e171216b389a0c3da6f7eae1/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Menubox.lua";
-          sha256 = "009bp5cbxjqp34qbcz8q9jdg8s5dds9g2ajw12w8sp4j6r8wh60y";
+          sha256 = "0zi67bjq1kgsydasih94zsys6k5yyh0zj4vs2ynvlw01shl5mm7q";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Options.lua'';
@@ -3121,12 +3121,12 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Textbox.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/a2d2959c6a8984d6e171216b389a0c3da6f7eae1/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Textbox.lua";
-          sha256 = "19js4y6fj4b7bfi7qma499xzbq92769snkhhzq1b8271ps51j86x";
+          sha256 = "08wrsxx387q2gbyprjazwx9r1svqfxpimcmgnn503fz4ap40mkzb";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Window.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/a2d2959c6a8984d6e171216b389a0c3da6f7eae1/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Window.lua";
-          sha256 = "0g52kml02365qqnklqa1qxs1f7fmfx5x0i0m1v0mjanracnscpcg";
+          sha256 = "0x41rg9bf8z59rh5rmp9gc9vflmnci5k87p1s7d2v3fv04pwxarq";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Core.lua'';
@@ -3229,7 +3229,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Set Lokasenna_GUI v2 library path.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f9edfd98ab22994814e1b16075bf10179ce5241d/Development/Lokasenna_GUI%20v2/Library/Set%20Lokasenna_GUI%20v2%20library%20path.lua";
-          sha256 = "140p3kvzxfnmvpwkr2jmq3b19sna41j3avc2afy04v0dyvh1qlrb";
+          sha256 = "10s3r6gg61s4kalh9xvwbxwbj7hb5nlfay6hwzy1kzwdvdgyic52";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Button.lua'';
@@ -3244,17 +3244,17 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Knob.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f9edfd98ab22994814e1b16075bf10179ce5241d/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Knob.lua";
-          sha256 = "011ib96a3f487lbswyzzvkh79kcl09syzmcn1nwxjhwfg726z409";
+          sha256 = "1g5zxvb86yv576s6wralxfylbjzfj36rm1qcfrav8lyd975g2x9k";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Label.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f9edfd98ab22994814e1b16075bf10179ce5241d/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Label.lua";
-          sha256 = "172sg3flzaflpy9myrzvgsmzjia396bfnz8r58v3sd78aqqa6qsz";
+          sha256 = "1vbrbwjx9hlgp5b23zanyl0cfbf83ll3nzh3j95z1nj55z2bc17d";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Listbox.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f9edfd98ab22994814e1b16075bf10179ce5241d/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Listbox.lua";
-          sha256 = "12an60daqnnrl6yd7rv926sw0l281nyc8xvr8snyjvyfl12gad2i";
+          sha256 = "07qx7hz8dbv5cm6z5c6fqfcbhbpry338a94g4fby3a1llcfl5d89";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Menubar.lua'';
@@ -3274,12 +3274,12 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Slider.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f9edfd98ab22994814e1b16075bf10179ce5241d/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Slider.lua";
-          sha256 = "0z4b5mwg1krimz94zxix1f0rxhjg9rzir62d2xya4rzzb944y6lx";
+          sha256 = "0aybmxijdqbahnwlc3y1035hachjm2ng6jkai2azkmaik14qby4h";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Tabs.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f9edfd98ab22994814e1b16075bf10179ce5241d/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Tabs.lua";
-          sha256 = "0nirl4jlkpiw2fflx3fiqkh3wqhdx6w5dpx44arvjwmh21bjck04";
+          sha256 = "14arfi5gr88hb35mbjmd28hr9xxyl5hyhyi3srk3gcszvx1zbgas";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - TextEditor.lua'';
@@ -3289,7 +3289,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Textbox.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f9edfd98ab22994814e1b16075bf10179ce5241d/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Textbox.lua";
-          sha256 = "1w19rakv5a5f1psfxig1y00rhcx4z5kjp9mzqmgzsxq34m73p29n";
+          sha256 = "18wbynyvc98bb43zyimhf9n3cbaql46insy2amcakpvdi0y4x50d";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Window.lua'';
@@ -3378,7 +3378,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Window.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/d9b2fa054386782762c1ee16b4ebb755feca7485/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Window.lua";
-          sha256 = "0g52kml02365qqnklqa1qxs1f7fmfx5x0i0m1v0mjanracnscpcg";
+          sha256 = "0x41rg9bf8z59rh5rmp9gc9vflmnci5k87p1s7d2v3fv04pwxarq";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Core.lua'';
@@ -3407,7 +3407,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Frame.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/efbd98d85ba131f08eb691bccb7e978e826ae089/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Frame.lua";
-          sha256 = "1j2kfhk9fipma47fklai0kgw3ga1yvsyyip2pwd06m2zm6rm0b1x";
+          sha256 = "1zckv4d26x6ansjs9117wf1yhwm3yq2vpac76swkjxqcq10z7sbw";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Knob.lua'';
@@ -3481,7 +3481,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Set Lokasenna_GUI v2 library path.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f6aa7ee2dbfc6e24430788eda944da717cd5aa28/Development/Lokasenna_GUI%20v2/Library/Set%20Lokasenna_GUI%20v2%20library%20path.lua";
-          sha256 = "140p3kvzxfnmvpwkr2jmq3b19sna41j3avc2afy04v0dyvh1qlrb";
+          sha256 = "10s3r6gg61s4kalh9xvwbxwbj7hb5nlfay6hwzy1kzwdvdgyic52";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Button.lua'';
@@ -3521,12 +3521,12 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Options.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f6aa7ee2dbfc6e24430788eda944da717cd5aa28/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Options.lua";
-          sha256 = "0srv32ypavh2pq7gvndwm09yihj45kwrdbiwsx23w9cn0rf4hg8f";
+          sha256 = "1i265diykw5ka65f77bjjxpar08y89inrfqvkmlpw95xn3rhc0m9";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Slider.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f6aa7ee2dbfc6e24430788eda944da717cd5aa28/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Slider.lua";
-          sha256 = "0z4b5mwg1krimz94zxix1f0rxhjg9rzir62d2xya4rzzb944y6lx";
+          sha256 = "0aybmxijdqbahnwlc3y1035hachjm2ng6jkai2azkmaik14qby4h";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Tabs.lua'';
@@ -3551,7 +3551,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Core.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f6aa7ee2dbfc6e24430788eda944da717cd5aa28/Development/Lokasenna_GUI%20v2/Library/Core.lua";
-          sha256 = "08pnh68z0wrf8fh3ycgjdjsnai5zw97q14ri24484mrpzc44p0wk";
+          sha256 = "0swaknvr70dpicv1rj0dwpbihbf07l2fy8dbmc8f53z21mg8xp2r";
         }
       ];
     };
@@ -3604,17 +3604,17 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Knob.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/01a4833e3948c967548bcb7a79f3f82bac21c9a4/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Knob.lua";
-          sha256 = "011ib96a3f487lbswyzzvkh79kcl09syzmcn1nwxjhwfg726z409";
+          sha256 = "1g5zxvb86yv576s6wralxfylbjzfj36rm1qcfrav8lyd975g2x9k";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Label.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/01a4833e3948c967548bcb7a79f3f82bac21c9a4/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Label.lua";
-          sha256 = "172sg3flzaflpy9myrzvgsmzjia396bfnz8r58v3sd78aqqa6qsz";
+          sha256 = "1vbrbwjx9hlgp5b23zanyl0cfbf83ll3nzh3j95z1nj55z2bc17d";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Listbox.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/01a4833e3948c967548bcb7a79f3f82bac21c9a4/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Listbox.lua";
-          sha256 = "12y5n3mndlx83nh6bip2c9bab3axb6w3bh7cncsnksby8l6mglr0";
+          sha256 = "1jmnmmai9089kzr9f75sx7isjxb9la7sw0jpia73ylfrmdirnhpy";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Menubar.lua'';
@@ -3703,12 +3703,12 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Listbox.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/a1019e1dbfbbe6fda4bdb31e0eaf03afbcc8452d/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Listbox.lua";
-          sha256 = "12y5n3mndlx83nh6bip2c9bab3axb6w3bh7cncsnksby8l6mglr0";
+          sha256 = "1jmnmmai9089kzr9f75sx7isjxb9la7sw0jpia73ylfrmdirnhpy";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Menubar.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/a1019e1dbfbbe6fda4bdb31e0eaf03afbcc8452d/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Menubar.lua";
-          sha256 = "1000gsgc4a7v3ar1bp1sf70mdqp95dk217iwyvkqyki1lr9zn6sp";
+          sha256 = "131nl9m2anqpi7nx600fl35grzqqkdcv3qz5nqfczmafxxaby74n";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Menubox.lua'';
@@ -3733,7 +3733,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - TextEditor.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/a1019e1dbfbbe6fda4bdb31e0eaf03afbcc8452d/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20TextEditor.lua";
-          sha256 = "1rhg6aby473ygn8jlgwh983f56pr100wzfab7lavfzfc11p7ccjh";
+          sha256 = "03rmf39zydkxwk1b2bwspfg9bphsnvffjiclmm4l033zixf15qjf";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Textbox.lua'';
@@ -3832,7 +3832,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Window.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/05f28987e6382ab87a5f2160bd54d827d41dfb17/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Window.lua";
-          sha256 = "";
+          sha256 = "1vznzyyq17n62mmm9k4y23j7m00ii7c294csk21s94xghdnwfcw8";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Core.lua'';
@@ -3891,7 +3891,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Menubox.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/ef5b393b6dc875d421eaccc4867b2d172e41a408/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Menubox.lua";
-          sha256 = "009bp5cbxjqp34qbcz8q9jdg8s5dds9g2ajw12w8sp4j6r8wh60y";
+          sha256 = "0zi67bjq1kgsydasih94zsys6k5yyh0zj4vs2ynvlw01shl5mm7q";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Options.lua'';
@@ -3911,12 +3911,12 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - TextEditor.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/ef5b393b6dc875d421eaccc4867b2d172e41a408/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20TextEditor.lua";
-          sha256 = "1rhg6aby473ygn8jlgwh983f56pr100wzfab7lavfzfc11p7ccjh";
+          sha256 = "03rmf39zydkxwk1b2bwspfg9bphsnvffjiclmm4l033zixf15qjf";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Textbox.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/ef5b393b6dc875d421eaccc4867b2d172e41a408/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Textbox.lua";
-          sha256 = "1n86pfw0vh3fjk1rl3icsgz3pann703rpv1634bph9pmqgy337js";
+          sha256 = "12d1kwrjw87kwvmyyihh3qjhclh3s91ys1hdpjzy5xvywban8s6r";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Window.lua'';
@@ -4074,7 +4074,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Options.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/336165e56da1aa82a6ef0f487348fdf0e8f64b10/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Options.lua";
-          sha256 = "0srv32ypavh2pq7gvndwm09yihj45kwrdbiwsx23w9cn0rf4hg8f";
+          sha256 = "1i265diykw5ka65f77bjjxpar08y89inrfqvkmlpw95xn3rhc0m9";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Slider.lua'';
@@ -4123,7 +4123,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Set Lokasenna_GUI v2 library path.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e27d31e6e201cc18d65ec9f8266fce9848fff357/Development/Lokasenna_GUI%20v2/Library/Set%20Lokasenna_GUI%20v2%20library%20path.lua";
-          sha256 = "140p3kvzxfnmvpwkr2jmq3b19sna41j3avc2afy04v0dyvh1qlrb";
+          sha256 = "10s3r6gg61s4kalh9xvwbxwbj7hb5nlfay6hwzy1kzwdvdgyic52";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Button.lua'';
@@ -4193,7 +4193,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Core.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e27d31e6e201cc18d65ec9f8266fce9848fff357/Development/Lokasenna_GUI%20v2/Library/Core.lua";
-          sha256 = "11ilks5y21v3n6yd0jan6fmbfmjvw5kdirfwzigz51zah38a5vwm";
+          sha256 = "1mgqyiflvdybg26dbrj4h98nf6fbr0nn65l3cbyb4kas1vyjn5ir";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Modules/Window - GetUserInputs.lua'';
@@ -4252,7 +4252,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Options.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1e74c093b68a8c6e64bae274c2daa86a482414fd/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Options.lua";
-          sha256 = "0srv32ypavh2pq7gvndwm09yihj45kwrdbiwsx23w9cn0rf4hg8f";
+          sha256 = "1i265diykw5ka65f77bjjxpar08y89inrfqvkmlpw95xn3rhc0m9";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Slider.lua'';
@@ -4331,7 +4331,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Menubar.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/3f5f1805a0fd5059c964fcd6d0855fbf097832fc/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Menubar.lua";
-          sha256 = "1000gsgc4a7v3ar1bp1sf70mdqp95dk217iwyvkqyki1lr9zn6sp";
+          sha256 = "131nl9m2anqpi7nx600fl35grzqqkdcv3qz5nqfczmafxxaby74n";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Menubox.lua'';
@@ -4346,7 +4346,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Slider.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/3f5f1805a0fd5059c964fcd6d0855fbf097832fc/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Slider.lua";
-          sha256 = "";
+          sha256 = "0aybmxijdqbahnwlc3y1035hachjm2ng6jkai2azkmaik14qby4h";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Tabs.lua'';
@@ -4356,7 +4356,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - TextEditor.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/3f5f1805a0fd5059c964fcd6d0855fbf097832fc/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20TextEditor.lua";
-          sha256 = "156qw56ssyx2niwn7bi6ni769xxyijbky1932lkalq6kcf0085jx";
+          sha256 = "09yk9zfcq9pq99hkysb14651h8brawi7ajhbgribal219jdcj4z5";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Textbox.lua'';
@@ -4455,7 +4455,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Window.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/981f0af0c64658a1426281725c4ab79947bda84d/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Window.lua";
-          sha256 = "0fn37k74wdn0j3fy1y5fmqfy96fp2jr1pddfjrc8fiq06q61frgz";
+          sha256 = "1vznzyyq17n62mmm9k4y23j7m00ii7c294csk21s94xghdnwfcw8";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Core.lua'';
@@ -4465,7 +4465,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Modules/Window - GetUserInputs.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/981f0af0c64658a1426281725c4ab79947bda84d/Development/Lokasenna_GUI%20v2/Library/Modules/Window%20-%20GetUserInputs.lua";
-          sha256 = "1aaa1kixmy4gmg080mx79cp84w9cm74b4m94dnpk0w4cczc146c9";
+          sha256 = "04lx5k1w57575iglpchk7xl2dpyfrrk047sy8f9v0lf0ynhm1p4s";
         }
       ];
     };
@@ -4519,7 +4519,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Options.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/564578aba367c28e8eb39d146f7ae2cecbe58b7d/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Options.lua";
-          sha256 = "0srv32ypavh2pq7gvndwm09yihj45kwrdbiwsx23w9cn0rf4hg8f";
+          sha256 = "1i265diykw5ka65f77bjjxpar08y89inrfqvkmlpw95xn3rhc0m9";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Slider.lua'';
@@ -4539,7 +4539,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Textbox.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/564578aba367c28e8eb39d146f7ae2cecbe58b7d/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Textbox.lua";
-          sha256 = "1n86pfw0vh3fjk1rl3icsgz3pann703rpv1634bph9pmqgy337js";
+          sha256 = "12d1kwrjw87kwvmyyihh3qjhclh3s91ys1hdpjzy5xvywban8s6r";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Window.lua'';
@@ -4549,7 +4549,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Core.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/564578aba367c28e8eb39d146f7ae2cecbe58b7d/Development/Lokasenna_GUI%20v2/Library/Core.lua";
-          sha256 = "1aqhj2xh2bgd24s6gvynbz4pbs86bzn33g3rzpill767j9fg836d";
+          sha256 = "02lxhnz4790bpancmvkn99w6a8448qqlkgk6pbxcpsp25k296c4q";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Modules/Window - GetUserInputs.lua'';
@@ -4583,7 +4583,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Knob.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/7387a54581eadfb2e0da7244682db81e783b4f10/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Knob.lua";
-          sha256 = "011ib96a3f487lbswyzzvkh79kcl09syzmcn1nwxjhwfg726z409";
+          sha256 = "1g5zxvb86yv576s6wralxfylbjzfj36rm1qcfrav8lyd975g2x9k";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Label.lua'';
@@ -5162,7 +5162,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Textbox.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/7e91407f088bfc4e8efe91e79f8fe115fdc7694c/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Textbox.lua";
-          sha256 = "1d5ygvg3ld0fqpx9q1957wbiapf8qjzhwi4hgp3immdanf6pwzyf";
+          sha256 = "09v1cyazbm5ggi0x2lcy7rhzf64a019kbkjdcyym7x9vhypzj3q7";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Window.lua'';
@@ -5231,7 +5231,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Options.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/7df08ad58eb5aedc8d9431a87d28a1fc4b95fc8e/Development/Lokasenna_GUI%20v2/Library/Classes/Class%20-%20Options.lua";
-          sha256 = "0bj16rqxrk7pg7cagxvzkfjzsfv47sz228h4whis4h1lj1pd3my4";
+          sha256 = "1zkqr7fw22mhpqzpg07slpiqgy93hm6g7yg37fjysnbrxd085dg4";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Slider.lua'';
@@ -5547,7 +5547,7 @@
         {
           path = ''Lokasenna_GUI v2/Library/Set Lokasenna_GUI v2 library path.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/4f93a8a4f1a0b8e057496213b6543d941bb252e2/Development/Lokasenna_GUI%20v2/Library/Set%20Lokasenna_GUI%20v2%20library%20path.lua";
-          sha256 = "140p3kvzxfnmvpwkr2jmq3b19sna41j3avc2afy04v0dyvh1qlrb";
+          sha256 = "10s3r6gg61s4kalh9xvwbxwbj7hb5nlfay6hwzy1kzwdvdgyic52";
         }
         {
           path = ''Lokasenna_GUI v2/Library/Classes/Class - Button.lua'';

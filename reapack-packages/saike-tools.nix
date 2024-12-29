@@ -2945,6 +2945,25 @@
         }
       ];
     };
+    tight-compressor-jsfx-0-21 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "tight-compressor-jsfx-0-21";
+      indexName = "Saike Tools";
+      categoryName = "Basics";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/badcd52a437f8d3617202100a08eea60e3336500/Basics/Tight_Compressor.jsfx";
+          sha256 = "10ssnk6i5ccl65gnivr5z2ynwwdjjbsmgp50ni0zgkkipragziz8";
+        }
+        {
+          path = ''saike_upsamplers.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/badcd52a437f8d3617202100a08eea60e3336500/Basics/saike_upsamplers.jsfx-inc";
+          sha256 = "0rhsh4kv8aq275hsfz1baalsn3hggy82djihc880ki0vww3v6m62";
+        }
+      ];
+    };
     tonestacks-jsfx-0-01 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "tonestacks-jsfx-0-01";

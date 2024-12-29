@@ -115,7 +115,7 @@
         {
           path = ''../actions/Reaticulate_Activate articulation by CC on channel 16.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/dist/0.5.13/release/actions/Reaticulate_Activate%20articulation%20by%20CC%20on%20channel%2016.lua";
-          sha256 = "";
+          sha256 = "1bxqhsdnvi9cizavasyjprkwh0zvxs1mrw9gbvs7828ngixjaj1i";
         }
         {
           path = ''../actions/Reaticulate_Activate articulation by CC on default channel.lua'';
@@ -165,12 +165,12 @@
         {
           path = ''../actions/Reaticulate_Activate previous articulation in group 4 on default channel.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/dist/0.5.13/release/actions/Reaticulate_Activate%20previous%20articulation%20in%20group%204%20on%20default%20channel.lua";
-          sha256 = "0hj2yq0sjph8xp71bkjzg24aqhm756gh7kf7c2dh5cpqc8caqrps";
+          sha256 = "1qdhqirpjnh2w95dqql4vy9vhczyscy1g2xlrxi11y4nl9x1r180";
         }
         {
           path = ''../actions/Reaticulate_Activate selected articulation on default channel.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/dist/0.5.13/release/actions/Reaticulate_Activate%20selected%20articulation%20on%20default%20channel.lua";
-          sha256 = "12vkj9k2zpax6yaysmz763hxp65m1qjm6lqpflxii815xq8d640c";
+          sha256 = "0y4jyybmq8xyc4xxshasrlwx171hfsqy92810p01b68sikm8bl4q";
         }
         {
           path = ''../actions/Reaticulate_Disable feedback to MIDI feedback device.lua'';
@@ -215,7 +215,7 @@
         {
           path = ''../actions/Reaticulate_Select previous articulation.lua'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/dist/0.5.13/release/actions/Reaticulate_Select%20previous%20articulation.lua";
-          sha256 = "0ds0mwk5m7qqvliagkm115jg289h9bk7r3g9pbldiwz09p3ps7v0";
+          sha256 = "0h7aghg8j9q65aik1xv9vaivyglgb5666ihwy25wfqnkdjmnd3lk";
         }
         {
           path = ''../actions/Reaticulate_Set default MIDI channel by CC.lua'';

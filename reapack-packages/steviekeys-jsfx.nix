@@ -2636,7 +2636,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/a2fc180ebbbe6091d204a26b108404f0a607db9a/Saturation/Odd%20saturation.jsfx";
-          sha256 = "";
+          sha256 = "0lc3h8bbnncpjv56hrkmn8nf7xfhmkdn596l307wwvg21sgwbhx4";
         }
       ];
     };
@@ -2706,7 +2706,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/88b88309cb73634102ba59bfee992bdffc007df2/Stereo%20Enhancers/Haas%20Delay%20and%20Filtering.jsfx";
-          sha256 = "";
+          sha256 = "1g2syig8x4i59gn3g1hqf3rh5mxmk7w09d1awxs9a926vv9cjl79";
         }
       ];
     };
@@ -2720,7 +2720,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/c3915bfbe185057b2f8f3331dc07e46ff61790b8/Stereo%20Enhancers/Haas%20Delay%20and%20Filtering.jsfx";
-          sha256 = "";
+          sha256 = "0x970aqfssl44wk3mwnhflxzw7slgqn146680ixhaacjnwcsd1z6";
         }
       ];
     };
@@ -2748,7 +2748,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/cf37b50d0613a0d34cbcf189e4eb6fb19471b284/Stereo%20Enhancers/Haas%20Delay%20and%20Filtering.jsfx";
-          sha256 = "";
+          sha256 = "1p45m65ff9zrr5v9dv7y8wq98hd9zw3p8f1mv70faphgzj1x7gl1";
         }
       ];
     };
@@ -2790,7 +2790,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/4fd63cc7c5320ca8184a4cc1110f475ecb004181/utility/Auto%20DeEsser.jsfx";
-          sha256 = "";
+          sha256 = "00c2z25jyv3z07p0ddw94nk9wszj4wxbcgiy0jv6gs7hj4ffpjh3";
         }
       ];
     };
@@ -2804,7 +2804,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2dd0e91f739485b6396f60de3f3f22a217508b0f/utility/Auto%20DeEsser.jsfx";
-          sha256 = "";
+          sha256 = "1n066bb1i2jxnyfk9d7dcjll7jq35nfgbv64ir2clb3h9kx234h9";
         }
       ];
     };
@@ -2818,7 +2818,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/a60d79fea4cd5fbc11b39f67a6d9e30ed8796d4d/utility/Auto%20DeEsser.jsfx";
-          sha256 = "1wcn9vxliyvr27qyba2an7mfpai806m1261zs0bgjpqyvpdzqnl0";
+          sha256 = "117nb3ga7k6jd20lrj31b3jd731fbl2v9vwrr7x33zy2hymkg07b";
         }
       ];
     };
@@ -2860,7 +2860,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/46b345e4148ad0827b371cf6fbc3dbdceb6725ed/utility/Maximum%20Resolution%20Dither.jsfx";
-          sha256 = "1ds33mj94x76pc9a75np1ygvkinbvb06rxdj3c9zyjv97b1598kn";
+          sha256 = "09mzivjspr2ysll80vxds2qlbc7cwv965ir66ambl0ig5v4l2m7j";
         }
       ];
     };
@@ -2874,7 +2874,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/e01cba979b3bf5100e583a260c32da4ca3d0ed15/utility/Maximum%20Resolution%20Dither.jsfx";
-          sha256 = "";
+          sha256 = "1a23ak1qw81bjjzvp0i4yasn5ljrxzx01waarrk4rbgm7j7q80nk";
         }
       ];
     };
@@ -2902,7 +2902,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/0ed85dee5fafa8884a1e7ac621945c05921cfb1d/utility/Perfect%20Mono.jsfx";
-          sha256 = "";
+          sha256 = "1g4iwhkg4llmglsiq63lf14npj2afxkm73f0aq1mx58gk4mvg71s";
         }
       ];
     };

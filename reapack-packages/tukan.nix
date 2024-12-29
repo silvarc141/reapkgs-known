@@ -5960,6 +5960,1610 @@
         }
       ];
     };
+    series-2-tukan-1-1-7-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "series-2-tukan-1-1-7-0";
+      indexName = "Tukan";
+      categoryName = "..";
+      packageType = "effect";
+      sources = [
+        {
+          path = ''Matrix Delay S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Matrix%20Delay%20S2%20(Tukan).png";
+          sha256 = "1ybq3dv25lsh1bvb90c9d2pi0d5hpc0r7xxsck4s8jkbmygf0qq4";
+        }
+        {
+          path = ''Aux Mixer S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Aux%20Mixer%20S2%20(Tukan).png";
+          sha256 = "073yq8v18x2kijnfk4v2xa0ajjddci56id4pi0dfm1g5i68qrav0";
+        }
+        {
+          path = ''S2GFX/tk_lib 256.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/tk_lib%20256.jsfx-inc";
+          sha256 = "0pkd9ckzmg5idjh2iqrzq4knsj3vxhswhyrvldhwgmd6z8nn9c8c";
+        }
+        {
+          path = ''S2GFX/mixer_but.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/mixer_but.png";
+          sha256 = "1z29jyigr6l3220kxxpaxgzakwhmdksi0i11s58ghag2f4k70zm2";
+        }
+        {
+          path = ''S2GFX/mixer_but2.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/mixer_but2.png";
+          sha256 = "09n8wviy3lpqmf85kldxxam04gajvj9c8x3gsxdmsfsq49i3q2gg";
+        }
+        {
+          path = ''S2GFX/mixer_vol.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/mixer_vol.png";
+          sha256 = "15zjl7l92imrafmd92sn2hq5qm6rl8mqlzjwgg2km5kfmxs5w5dh";
+        }
+        {
+          path = ''Blue Lexikan S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Blue%20Lexikan%20S2%20(Tukan)116.png";
+          sha256 = "1agzk52j121dag0vsci3xqf8krm65x6hsnjxklplqp0zab8yada4";
+        }
+        {
+          path = ''New Treasure S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/New%20Treasure%20S2%20(Tukan)116.png";
+          sha256 = "0rm0fgf27pdxxk7zz9cwz5yyxhs6bqbdcrwa73njc9j1z1f4acmd";
+        }
+        {
+          path = ''ABXNULL S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/ABXNULL%20S2%20(Tukan)116.png";
+          sha256 = "0hc9q1wdg3mxqf3zn5gln6ib09pgng9193lcjw6bn0lhzw59lbrs";
+        }
+        {
+          path = ''T-EQ S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/T-EQ%20S2%20(Tukan)116.png";
+          sha256 = "0bz0ssz8h21d8q0vmfv5bgic10cfy12a98mqdycn51x49v9b7nln";
+        }
+        {
+          path = ''Vocoder S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Vocoder%20S2%20(Tukan)116.png";
+          sha256 = "1v57l1z0ca2g7b547lrbhqdi9wni2m6vli6j7y20vky1vp8iwg91";
+        }
+        {
+          path = ''VCA Compressor S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/VCA%20Compressor%20S2%20(Tukan)116.png";
+          sha256 = "1p38f1dk5aybwkgirq7z0k5c4smnypfa09ww7b7kjbqx1cwvlszb";
+        }
+        {
+          path = ''Bass Station S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Bass%20Station%20S2%20(Tukan)116.png";
+          sha256 = "06b4yczlny2y3q932aj71i241xrknidi3pkkfz9i3v5vmk65i9fd";
+        }
+        {
+          path = ''Exciter with fat bottom S2 (Tukan Studios)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Exciter%20with%20fat%20bottom%20S2%20(Tukan)116.png";
+          sha256 = "0ph5d3ly1g1kxyfvqwapkp3sy71a3mmrf3plnx57bzxlx861zdsi";
+        }
+        {
+          path = ''Tukanoplex Tape Echo S2 (Tukan Studios)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Tukanoplex%20Tape%20Echo%20S2%20(Tukan%20Studios)116.png";
+          sha256 = "0zzb3pn378lrrinihzpwwc9zss321avsnif03x2cgvj758rdajb3";
+        }
+        {
+          path = ''Multiband Processor S2 (Tukan Studios)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Multiband%20Processor%20S2%20(Tukan%20Studios)116.png";
+          sha256 = "0y2fgs9l53040dir4ikx4fp5n0pgk6lx3rsr2ghwbnl5dlaj8r66";
+        }
+        {
+          path = ''Sphinx S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Sphinx%20S2%20(Tukan)116.png";
+          sha256 = "00vrxir0xnwncrws7q53kls3hpmgm21pgkk88incxls0hdfkry1p";
+        }
+        {
+          path = ''SumBus S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SumBus%20S2%20(Tukan)116.png";
+          sha256 = "1a1hy9f716958d8y2b1c3ngbq4r5qxzw6dbc7n7c1c6zc4p5zari";
+        }
+        {
+          path = ''SumChannel S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SumChannel%20S2%20(Tukan)116.png";
+          sha256 = "02k7crkhvscwjbplax45n8b0sp19dsfcl58h3mv11cc3mzi5qixh";
+        }
+        {
+          path = ''S2GFX/tk-Comp_Lib.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/tk-Comp_Lib.jsfx-inc";
+          sha256 = "0scaz0ggskr3psjpb840pzg21153mn6qhbyddcx6zvw7xfz43p9j";
+        }
+        {
+          path = ''S2GFX/tk-obj_vu_lib.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/tk-obj_vu_lib.jsfx-inc";
+          sha256 = "1dyy28siqk5rlbs537mannmk7hlcv751lp1dvslhxpkz603b9zip";
+        }
+        {
+          path = ''Guitar Station S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Guitar%20Station%20S2%20(Tukan)116.png";
+          sha256 = "19lw8khbgdfq23kqnc9k9r24dmr12qw3il7084hj1nxlfvrv4q7a";
+        }
+        {
+          path = ''Guitar Station S2 (Tukan).RPL'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Guitar%20Station%20S2%20(Tukan).RPL";
+          sha256 = "078n43ifl9wpd0jkfbfc6wrw2rizvx8r9bqp6pqkca07v6j5l8xw";
+        }
+        {
+          path = ''Green Dynamic EQ S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Green%20Dynamic%20EQ%20S2%20(Tukan)116.png";
+          sha256 = "07j1h19jfs11kkw1vbxg15pak7j6ni6kh8y092bsldr76x8y5m2n";
+        }
+        {
+          path = ''Blacklight Modulation S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Blacklight%20Modulation%20S2%20(Tukan)116.png";
+          sha256 = "0bvi4lg6vil2l7mjp0v7g7rhhad8afd0y80s0kwgq0snf7r3fdn2";
+        }
+        {
+          path = ''Green Circles Meter S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Green%20Circles%20Meter%20S2%20(Tukan)116.png";
+          sha256 = "1awgvpjhd3mkkbqws9b20la7vyj4qvmiiqkbipx76n6bf8qh87ns";
+        }
+        {
+          path = ''Green Circles Meter S2 (Tukan).RPL'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Green%20Circles%20Meter%20S2%20(Tukan).RPL";
+          sha256 = "11kbp2hxmbclfq7x91s9806qgn7bnnqm6npc5gz4m4gx034adca1";
+        }
+        {
+          path = ''Tool S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Tool%20S2%20(Tukan)116.png";
+          sha256 = "1s043i360zc3w47gy3bkya9bpd59vpd1nycvlkw5vb6dg3wfzwkz";
+        }
+        {
+          path = ''Bus Comp S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Bus%20Comp%20S2%20(Tukan)116.png";
+          sha256 = "1s6ylr1x8f6r4577rnn5sc0rdrnsmxbnn6nzlvhlhkqjaa6nm4ii";
+        }
+        {
+          path = ''EQT-2Kan S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/EQT-2Kan%20S2%20(Tukan)116.png";
+          sha256 = "05xlcqhdrz9c6qjdil3bq284i08g82znn7hs6lh6f5jqjasm9x2i";
+        }
+        {
+          path = ''Tape Recorder S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Tape%20Recorder%20S2%20(Tukan)116.png";
+          sha256 = "08q6vd8scahcg872l2j7x3mzq2ivhwnbc59799wr3rfrliq5dnjy";
+        }
+        {
+          path = ''VariBus Comp S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/VariBus%20Comp%20S2%20(Tukan)116.png";
+          sha256 = "0wimxa35gwkx9y2h909pbiqxrnxdkcjxgix8pgx3m2zbs5i769ly";
+        }
+        {
+          path = ''LA-2KAN S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/LA-2KAN%20S2%20(Tukan)116.png";
+          sha256 = "1zm632v8z6pj9rprhvcjlb8qwm82v430h4m458ql9nbhmfmh4jqa";
+        }
+        {
+          path = ''NC76 S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/NC76%20S2%20(Tukan)116.png";
+          sha256 = "0r6kv09kgrrr0jqmymby0pp8q9qnsiacdsh28if3p7ixkw53xpsa";
+        }
+        {
+          path = ''Red Lexikan S2 (Tukan).rpl'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Red%20Lexikan%20S2%20(Tukan).rpl";
+          sha256 = "1y36wk4vfxlsn6w0fvzaqc0554jrzj02hyjj7cvzkjilr5h1c2xk";
+        }
+        {
+          path = ''Khaki Delay S2 (Tukan).rpl'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Khaki%20Delay%20S2%20(Tukan).rpl";
+          sha256 = "00cplcjl5rqjyig8jzyn9qfg02908n9fplpb3r6dah3j19pxgna3";
+        }
+        {
+          path = ''Red Lexikan S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Red%20Lexikan%20S2%20(Tukan)116.png";
+          sha256 = "1n15hj2manw6lx1g06r53zz2yda0bj9qlklw8sswv305x1qdx750";
+        }
+        {
+          path = ''Khaki Delay S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Khaki%20Delay%20S2%20(Tukan)116.png";
+          sha256 = "0dnzfw38qjknzmjklccd788hk49fqa1pp6jrd3lhbd637gfafkhl";
+        }
+        {
+          path = ''Black DeNoiser S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Black%20DeNoiser%20S2%20(Tukan)116.png";
+          sha256 = "02vxbfyz59la1nxp4m9waz9rr4kd345bxr3afjw1rh0sd5hm7l2d";
+        }
+        {
+          path = ''Violet Envelope Shaper S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Violet%20Envelope%20Shaper%20S2%20(Tukan)116.png";
+          sha256 = "0m5my9b3gizkscbi4z0z3497d2ihmcapzwypx6rmnzpkjh5yvjs3";
+        }
+        {
+          path = ''Turquoise Limiter S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Turquoise%20Limiter%20S2%20(Tukan)116.png";
+          sha256 = "0glxbdkkp2yhkyhqg3j81dmwh2ylzk0q4gslw2aijm1hyq1hydav";
+        }
+        {
+          path = ''Lime Deesser S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Lime%20Deesser%20S2%20(Tukan)116.png";
+          sha256 = "1ixfpnxb20k15m83r0z9rfqsx9sm50ml9yvma1zn87kkm26ri079";
+        }
+        {
+          path = ''Orange EQ S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Orange%20EQ%20S2%20(Tukan)116.png";
+          sha256 = "0bzp3qn78s6j7bpyvxscichg0a21z5aj3g3il0fvshh4viy2nljs";
+        }
+        {
+          path = ''S2GFX/TEQBlue.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/TEQBlue.png";
+          sha256 = "1y36c17ad0657ivs44xmxv60cx0l2b8fsg2ys5mgc313bjsqvxi0";
+        }
+        {
+          path = ''S2GFX/TEQLila.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/TEQLila.png";
+          sha256 = "1qi7dgpffng1lm8p6i6xf4ng0klzzvqrnza984w2hqibyvsiaa5p";
+        }
+        {
+          path = ''S2GFX/TEQBlack.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/TEQBlack.png";
+          sha256 = "0r9gjscv2gnpv508qcsa49qd1p4f79k07z5qfs41v1naclq7hyvq";
+        }
+        {
+          path = ''S2GFX/Ice_knob.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Ice_knob.png";
+          sha256 = "0xra2zm5y9l262m15gglkca3c23967zwf84kv5yy3kr7g0wn9652";
+        }
+        {
+          path = ''S2GFX/Treasure_Knob.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Treasure_Knob.png";
+          sha256 = "0alrsvfvgz8sj1i4c3jb8hl9dvwvsn92nabmfdmzdnihg4fxs9x9";
+        }
+        {
+          path = ''S2GFX/Treasure_button.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Treasure_button.png";
+          sha256 = "0j00360xj62qjvxmd17fx70zqfzdclpl9kdi19nigaxwpr0prap0";
+        }
+        {
+          path = ''Blue Compressor S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Blue%20Compressor%20S2%20(Tukan)116.png";
+          sha256 = "17rvp30jm89lmbwbm1xhzbg002clbw4fpqbhsa5zjvyi5l39fr8p";
+        }
+        {
+          path = ''Purple Gate Expander S2 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Purple%20Gate%20Expander%20S2%20(Tukan)116.png";
+          sha256 = "1f5f024y9knmkzcxpyna35ki0b8y5nqx6cawq1d1f5hi7pggkadz";
+        }
+        {
+          path = ''S2GFX/tk_lib.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/tk_lib.jsfx-inc";
+          sha256 = "0m4qqm63h4srnsihc5c1yn55gs2103ym64nvvzdnm7mwy2np2g81";
+        }
+        {
+          path = ''S2GFX/spectrum.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/spectrum113.jsfx-inc";
+          sha256 = "0bjsp2991my3vi8bj7anawbxzq2321fjnq7x65fjh70hfwyljv8q";
+        }
+        {
+          path = ''S2GFX/menu.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/menu.png";
+          sha256 = "02rpkvm03qc3vil1p8i6iazk2haz02mqh6nqkcmcgygrwr8iyhp8";
+        }
+        {
+          path = ''S2GFX/S2_logo.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/S2_logo.png";
+          sha256 = "0jgwjq13rn932yz2l0lcrphx0ms149w9l8mm10a6z62q1hb8nia9";
+        }
+        {
+          path = ''S2GFX/RedKnob.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/RedKnob.png";
+          sha256 = "1rfiac8izazyla7jd5ccvqmdqkbi7c0bvnppzakx3fmy1y58yv0l";
+        }
+        {
+          path = ''S2GFX/BlueKnob.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BlueKnob.png";
+          sha256 = "179wvb66i3awra7c36p5cb29cw5yc9hvl70ig31ynlz2i0847w78";
+        }
+        {
+          path = ''S2GFX/HD_Back.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/HD_Back.png";
+          sha256 = "199v1ifz7ggcl1xaii4wm6ra72wmapjcykc8lqqpv5q0xjn3xmds";
+        }
+        {
+          path = ''S2GFX/switch.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/switch.png";
+          sha256 = "0r1p7rrn7aaw41aicgd0pdargklkj7h095wg15j9ja5b639q4qxp";
+        }
+        {
+          path = ''S2GFX/button.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/button.png";
+          sha256 = "1fj525z26sbsm8zad6sfqspn2lwgww9d5zx810c9jznaffi4q6zz";
+        }
+        {
+          path = ''S2GFX/bled.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/bled.png";
+          sha256 = "0kka9phqv56x4p1amf7414s1g23sh2rlv625yvlyscfnzc5pw801";
+        }
+        {
+          path = ''S2GFX/oled.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/oled.png";
+          sha256 = "0lsi5c5smjid7jxlnms7s3h58sg94parc08qwg4m2jrphlyi0n1m";
+        }
+        {
+          path = ''S2GFX/yled.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/yled.png";
+          sha256 = "08y6792bdg4ynlsr1n6vpfflfl9dzkrsda3dkmm3svg9f429mb24";
+        }
+        {
+          path = ''S2GFX/rled.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/rled.png";
+          sha256 = "03g9lpqsj0ai6cylmw3qpzr5g1nba62i6agrifp158jb9r3mcqs7";
+        }
+        {
+          path = ''S2GFX/gled.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/gled.png";
+          sha256 = "1p9bcr5pjq35yn9d6xp7hhj7va19wrj8mkz14hrw5anh3m7gw7k7";
+        }
+        {
+          path = ''S2GFX/SmallKnob.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SmallKnob.png";
+          sha256 = "057cis2gz3bdxiyjsph8qn3693h4f7rvkczmm4gh3b02pa4pvn54";
+        }
+        {
+          path = ''S2GFX/firhalfband.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/firhalfband.jsfx-inc";
+          sha256 = "1brd6z9dgdp56yggbb6ag4vir4l31f9frgx88p687hb0v9205h90";
+        }
+        {
+          path = ''S2GFX/zdf_filter.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/zdf_filter.jsfx-inc";
+          sha256 = "0xkw947xs02r57czl92mvcc90k1msv6ki6sx4hy3lww89a472an8";
+        }
+        {
+          path = ''S2GFX/rbj_filter.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/rbj_filter.jsfx-inc";
+          sha256 = "11igb8gg0fpydzpicl75kp48avsmbahwyfx26qg7zpycwk4nz6k3";
+        }
+        {
+          path = ''S2GFX/svf_filter.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/svf_filter.jsfx-inc";
+          sha256 = "0drsig47f09gi444dmbnifsmljxwqjp5ssvi2kdpkx5n24j0wlr1";
+        }
+        {
+          path = ''S2GFX/st-oversampler.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/st-oversampler.jsfx-inc";
+          sha256 = "03yzdg4v9a2gd25w3j719phv7mlazbgzhjkgh1vp1ibflf2sxsfc";
+        }
+        {
+          path = ''S2GFX/cookdsp/analysis.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/analysis.jsfx-inc";
+          sha256 = "08hzvj4c3rnkbghm5sw3g15ma5b809a2nbixfsiwdasbzq36b0wq";
+        }
+        {
+          path = ''S2GFX/cookdsp/buffer.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/buffer.jsfx-inc";
+          sha256 = "0x22fzgidjl2hdiyn035842kfpq8cvyxj1mz3lcb4ml364i5lb86";
+        }
+        {
+          path = ''S2GFX/cookdsp/delay.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/delay.jsfx-inc";
+          sha256 = "1hjf4hfs8mhd6ablw4g1ffc9dajv087f1nr9763m377rx4klx1xp";
+        }
+        {
+          path = ''S2GFX/cookdsp/dynamics.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/dynamics.jsfx-inc";
+          sha256 = "16h3ihzmh2024s6isil6z8x23imjvfr71rn2klnvqs2zwk14sy50";
+        }
+        {
+          path = ''S2GFX/cookdsp/effects.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/effects.jsfx-inc";
+          sha256 = "1pij4ijliy5rakkwkpa5h25g131fci2pnrgj18d35c0545ljgk1b";
+        }
+        {
+          path = ''S2GFX/cookdsp/fft-mono-template'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/fft-mono-template";
+          sha256 = "08g1n5jmppnd3g8pd2gnlq9j9bgcwiq902wcakid7x5an2y0m5cq";
+        }
+        {
+          path = ''S2GFX/cookdsp/fft-stereo-template'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/fft-stereo-template";
+          sha256 = "0i8mlzwrr0mcasr9bgj0syn4pwi33q7qacnqfc5d2q3s3mv9qgr1";
+        }
+        {
+          path = ''S2GFX/cookdsp/fftobjects.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/fftobjects.jsfx-inc";
+          sha256 = "0v09xrcyjsjfgq36bl55i16hj3i1yq5x1gdq9gicfblhgfxni2pp";
+        }
+        {
+          path = ''S2GFX/cookdsp/filters.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/filters.jsfx-inc";
+          sha256 = "1n6llr1xpw5pala5mbj8520lc7x9d4pnlslh7l73v7ahsrcay1lb";
+        }
+        {
+          path = ''S2GFX/cookdsp/granulator.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/granulator.jsfx-inc";
+          sha256 = "199xmawqjd71vyr892cwhja6sbw0j11an373302nlv9r4kwm0j22";
+        }
+        {
+          path = ''S2GFX/cookdsp/list.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/list.jsfx-inc";
+          sha256 = "0kb430lpi6nkvw6k29pzx5xwycl9phkzzmirqbk7waf9la86aa1y";
+        }
+        {
+          path = ''S2GFX/cookdsp/memalloc.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/memalloc.jsfx-inc";
+          sha256 = "1x0aca57h7d03bci37rcldp91278jkg63fc9p2g8ykk6vdhvw106";
+        }
+        {
+          path = ''S2GFX/cookdsp/midi.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/midi.jsfx-inc";
+          sha256 = "193v98nwsqv1acgb7c3yr36b9k8ylhgjs8xslxkphz26124vs25w";
+        }
+        {
+          path = ''S2GFX/cookdsp/mmath.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/mmath.jsfx-inc";
+          sha256 = "1181ngna25avmywkwz5fgnhhgdagygn6xzzmba5jvz6xzd7zrfwq";
+        }
+        {
+          path = ''S2GFX/cookdsp/oscil.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/oscil.jsfx-inc";
+          sha256 = "1s3x8dv3c4aks48bb7s7dikx49yjm3vw4h6nr7bdkd2drckaj4y7";
+        }
+        {
+          path = ''S2GFX/cookdsp/pobjects.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/pobjects.jsfx-inc";
+          sha256 = "11y95ac05zsk952h8wji8dxqhaz31z22nwypsrfx3kxzq069qigz";
+        }
+        {
+          path = ''S2GFX/cookdsp/pv-mono-template'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/pv-mono-template";
+          sha256 = "1mk2yx5fwld9n649ql4s86ld9n06fpn72qrrza68gm9csk51ib20";
+        }
+        {
+          path = ''S2GFX/cookdsp/pv-stereo-template'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/pv-stereo-template";
+          sha256 = "0dh6cmf148pfw95pjca2g13qjb34m757r0j62p0bdl0mzwybxlrc";
+        }
+        {
+          path = ''S2GFX/cookdsp/pvocobjects.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/pvocobjects.jsfx-inc";
+          sha256 = "0brqm4miqd0vd5jfpxpvzy24dpqknxfdwxybpmfii2mfakk6nb2s";
+        }
+        {
+          path = ''S2GFX/cookdsp/pvtrans-example'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/pvtrans-example";
+          sha256 = "16snn5yjjwg901kyjc1pj2kf8vq8iv28nq8aai61byw921dk1kin";
+        }
+        {
+          path = ''S2GFX/cookdsp/random.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/random.jsfx-inc";
+          sha256 = "0rqxhram9hlnkazgkzpv3r2jd0zwvzsz6zp50caj01m8ak3ya3kn";
+        }
+        {
+          path = ''S2GFX/cookdsp/scaling.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp/scaling.jsfx-inc";
+          sha256 = "08nij8gplq4r33r3g7x8dy4wsvj6wncasnv9q7wd13sgvdv8mxj4";
+        }
+        {
+          path = ''S2GFX/cookdsp.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/cookdsp.jsfx-inc";
+          sha256 = "0ra21138spcgi34qn157h83wi5w8xhsxxhfg9ksgs5096019lbc8";
+        }
+        {
+          path = ''S2GFX/100button.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/100button.png";
+          sha256 = "1vgnk12kv4zyh6xw7pl102vnpbrl39nj9l9jdvwknpk4bp4l6g3l";
+        }
+        {
+          path = ''S2GFX/Noten.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Noten.png";
+          sha256 = "00nbc8fza79ncqp4paipj5awzdvv6rpyccq1vr19hmp7his2irpj";
+        }
+        {
+          path = ''S2GFX/480knob.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/480knob.png";
+          sha256 = "0lj8m918dqdwv5k590x45h17c94mp7a7qn1iv8n9ai8cli40yq5a";
+        }
+        {
+          path = ''S2GFX/my480button.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/my480button.png";
+          sha256 = "1wv8ky6kfk25lkbi5ygpamwl20l22wv2056zpxl81dvsm08bl2wr";
+        }
+        {
+          path = ''S2GFX/LEXBackWhite.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/LEXBackWhite.png";
+          sha256 = "1i6bfr5280bpv64crshgjb4p0l3qhvfz110fx9akq2xiyl9dbvb1";
+        }
+        {
+          path = ''S2GFX/DeNoiser_Back.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/DeNoiser_Back.png";
+          sha256 = "0d1df6qrkj9zlzgx1vb6y32zlc47jwfnh61775fjysar3rhsjj0g";
+        }
+        {
+          path = ''S2GFX/delay-utils.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/delay-utils.jsfx-inc";
+          sha256 = "0rd1rwznjllrbs6a2f0rxpxhi6kq8j5529anjrkzxhh99zzqrdmz";
+        }
+        {
+          path = ''S2GFX/VUMeterBIG76.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/VUMeterBIG76.png";
+          sha256 = "0kdhlmm2y9yxpw887yadskpnrgmkk5rj5mbv5yqpy1lqwj6jicnf";
+        }
+        {
+          path = ''S2GFX/76button.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/76button.png";
+          sha256 = "03cykzab0zkpnx52gm2icmhjsnh7n5l62qzh22w105mhgy898z5h";
+        }
+        {
+          path = ''S2GFX/NC76Big.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/NC76Big.png";
+          sha256 = "05clagi1xxlwg5771pibs3yfz38dk2kwblwx0slay87kh4g7n2ha";
+        }
+        {
+          path = ''S2GFX/76Back_HDB.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/76Back_HDB.png";
+          sha256 = "0zn8mli46v4r30c9xshi0p86ik7iqpdk0hkmzl8ziw1jl71kx5cn";
+        }
+        {
+          path = ''S2GFX/76Back_HD.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/76Back_HD.png";
+          sha256 = "0dzd81ila8ms5ly97fpbc4rhfb477mjvmx528la52jmkcbd92r6s";
+        }
+        {
+          path = ''S2GFX/NC76Small.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/NC76Small.png";
+          sha256 = "0bq085a5hsx72dg32s7944fj2251n7n8sg8kcsw2kzkk0ma87svq";
+        }
+        {
+          path = ''S2GFX/LAKnob.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/LAKnob.png";
+          sha256 = "1xhxslc5akyb46jvwp7adivjv0pgdzjp4l2bk8z8wfhdl4hljza2";
+        }
+        {
+          path = ''S2GFX/VUMeterBIG.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/VUMeterBIG.png";
+          sha256 = "0yqrl53kqrg5dzyn40gpywyaagng2r6pbnf4bis1llg5zzqwnc9l";
+        }
+        {
+          path = ''S2GFX/LABack_HD.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/LABack_HD.png";
+          sha256 = "0xdwn5grwsgg7fkwac5x4azsykq6zg91jylvr2pi45iw06p6kjf9";
+        }
+        {
+          path = ''S2GFX/S2_logo_dark.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/S2_logo_dark.png";
+          sha256 = "0dmdkvq9yvjq7lxhaqif7c6carv5gldd98yyl3l2bzg6mbmyfayl";
+        }
+        {
+          path = ''S2GFX/tk-vu_lib.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/tk-vu_lib.jsfx-inc";
+          sha256 = "1vvssi4x6z65ydnb29hxr5mi10radbmss5mwx6p0nz6p33jb0r62";
+        }
+        {
+          path = ''S2GFX/tapel_innen.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/tapel_innen.png";
+          sha256 = "11f33ysmp16ixm122q0m1c9za7m1s4kpawgv36lz2wp1ynjg8r6m";
+        }
+        {
+          path = ''S2GFX/tapel_HD.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/tapel_HD.png";
+          sha256 = "05pnzd95809zqpndaj5p382iwlfckr4pi1sxcrsjz5xkrsyszq7x";
+        }
+        {
+          path = ''S2GFX/TapeKnob.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/TapeKnob.png";
+          sha256 = "0496jr36xnirkhfgfiyr4zk1gl3yaagn7zq1cnvgs7cnyi93wivf";
+        }
+        {
+          path = ''S2GFX/FairHPF.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/FairHPF.png";
+          sha256 = "1cs308gyb1pcc6g07nnf9cvygn6hmzx93xk6z356l3dyknlhxhm2";
+        }
+        {
+          path = ''S2GFX/FairKnee.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/FairKnee.png";
+          sha256 = "1v3j4ygry1dq1l83d7lhvyy7gb5zxrg6fq6hfnnsdwsm55bqnsyq";
+        }
+        {
+          path = ''S2GFX/FairSelect6.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/FairSelect6.png";
+          sha256 = "1651cmkparq5mx4yjcxh87fsl3rm391fsbm4rwg5xqj7ibvrhsl4";
+        }
+        {
+          path = ''S2GFX/FairSelect3.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/FairSelect3.png";
+          sha256 = "058lagnxwj858q5v8lxj8m66z9841sfazbqcywnlvxhsvv37kgaa";
+        }
+        {
+          path = ''S2GFX/TubeGrill.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/TubeGrill.png";
+          sha256 = "065sggzyf8i7byycpk8ka5ksmx81x5v8x9klcd0jml7myp9idjgp";
+        }
+        {
+          path = ''S2GFX/TubeLight.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/TubeLight.png";
+          sha256 = "0c5wpbinagcfidxwwnq6n16gdymgk06yzx655dfzjmvhlc1cshvx";
+        }
+        {
+          path = ''S2GFX/Tube.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Tube.png";
+          sha256 = "0vrwa2z088dippqzrmzwpf0s71b3l1ywm7qkjppkydw1iw614mv4";
+        }
+        {
+          path = ''S2GFX/FairOutgain.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/FairOutgain.png";
+          sha256 = "0hw4aybjja8l5ffv6qf9z2sf9smba079d3rzcfimrvn2w2qcc3r4";
+        }
+        {
+          path = ''S2GFX/FairIngain.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/FairIngain.png";
+          sha256 = "1sc0ihkcfz97zqv6may6lifnab6daq7wqsbcvn46yf6j0fh57bjz";
+        }
+        {
+          path = ''S2GFX/VariBack.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/VariBack.png";
+          sha256 = "04qvlk19nv2dn08qkq1m9w6x3ygc85469dd83ahivjazjxl7j5qp";
+        }
+        {
+          path = ''S2GFX/VUMeterBIGVari.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/VUMeterBIGVari.png";
+          sha256 = "070j3df96czg2v9vv4df7gybgnmx46sl2rsi0qj31l2hzax8d65d";
+        }
+        {
+          path = ''S2GFX/VariVU.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/VariVU.png";
+          sha256 = "0wb5pcmkgq29nchhc8baxrj6zx9bpfggfqa6xagsiwaj7yfgpvjw";
+        }
+        {
+          path = ''S2GFX/VUMeterBIGTransp.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/VUMeterBIGTransp.png";
+          sha256 = "0ksawjh2y94rj7h7q6nq7ks0d2z0n71z90vahpyy1s8a3al5gcca";
+        }
+        {
+          path = ''S2GFX/TAPE_HD.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/TAPE_HD.png";
+          sha256 = "1jaws4jv28s3g4k4xg6c23d95kfr7cn2cmr9pgw0ickfgvysgzd4";
+        }
+        {
+          path = ''S2GFX/FairThresh.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/FairThresh.png";
+          sha256 = "0jnkpys65vqwrlq7xa6dkv1n8pz7gvv8jwigg4d5n5h8gq92i2g1";
+        }
+        {
+          path = ''S2GFX/BusCompVUBack.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BusCompVUBack.png";
+          sha256 = "0xlazr0w2zi0mrhs5bp5iinz3jbjw2zl7049xsgn9w5fs1qpz6hw";
+        }
+        {
+          path = ''S2GFX/BusCompVU.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BusCompVU.png";
+          sha256 = "1hbprhigfwr0j96zyd65qijvqwjzhfipg4h6pza2f3scix52bivq";
+        }
+        {
+          path = ''S2GFX/S2_bigssl.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/S2_bigssl.png";
+          sha256 = "1k30h61ija6rvfv2xx4n01cb199skklfgxk5kdmaq15706979mx3";
+        }
+        {
+          path = ''S2GFX/S2_bigsslg.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/S2_bigsslg.png";
+          sha256 = "03ivynaj39g2y70wbx2dz8glg64i7ik59hxxaffrs14nspc2jkw2";
+        }
+        {
+          path = ''S2GFX/EQTBack.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/EQTBack.png";
+          sha256 = "0xab1fp55215w46yhixi7vpqvn6l7bmc8gv605xpf9zrvpw4ln75";
+        }
+        {
+          path = ''S2GFX/S2_Pultec.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/S2_Pultec.png";
+          sha256 = "16lkwwx4xg7412h8cdhxnmsmc7kaix12gg9626rr7jp89prxnavr";
+        }
+        {
+          path = ''S2GFX/PultecSelectA.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/PultecSelectA.png";
+          sha256 = "1rnbnz37a8h29bvgp9qv12ziavbm5ja56jjr1aanklhknrn1aqaf";
+        }
+        {
+          path = ''S2GFX/PultecSelectB.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/PultecSelectB.png";
+          sha256 = "0j5yxdnwq66pdkg92dfaimx33x40qplkfx4n9apx56jg9ji4hqn5";
+        }
+        {
+          path = ''S2GFX/S2_pulchick.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/S2_pulchick.png";
+          sha256 = "07qnbwyfhrmqkvxd6zhvs6b6q8knf2j8knvxyp49y1lmd5460nak";
+        }
+        {
+          path = ''S2GFX/circle.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/circle.png";
+          sha256 = "1q84k9zr04y7sl6893v2b66rzdfbaacxsppwrddzk3cq1596spwg";
+        }
+        {
+          path = ''S2GFX/VU_Frame.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/VU_Frame.png";
+          sha256 = "00z509slvf0pqdh33h5x2160hc8aj0k65z3sgdrhq2gphlghqip4";
+        }
+        {
+          path = ''S2GFX/lfo_knob_cho.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/lfo_knob_cho.png";
+          sha256 = "1wd82bydkyjchnqpzhwy78wnaf1895481xxja1qgp1pb2c6ngziw";
+        }
+        {
+          path = ''S2GFX/LFO_knob_nev.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/LFO_knob_nev.png";
+          sha256 = "1y3md607jlx7bird4x43a77npfgyldib6jc90vqq1sgp3r40n2hi";
+        }
+        {
+          path = ''S2GFX/lfo_knob_ober.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/lfo_knob_ober.png";
+          sha256 = "18cc2iyjscncmka6kqlx9dg5ihdm5kans34fc69na3igc5ynd051";
+        }
+        {
+          path = ''S2GFX/lfo_knobc.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/lfo_knobc.png";
+          sha256 = "0iv1dni9zgb62ll8bl5bgbjnbvrwnswdqv6rmgmqsl3dfr28z87p";
+        }
+        {
+          path = ''S2GFX/lfo_knobg.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/lfo_knobg.png";
+          sha256 = "0hnphwfjr4hs26lysh97jfdj9qdfmp5afff3ggwc7ffbpf6lqkh6";
+        }
+        {
+          path = ''S2GFX/lfo_knobuv.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/lfo_knobuv.png";
+          sha256 = "0q9zs2jdsqna8h03viifagv29ndxbj03nlzxx15jaf5vikd5vq1b";
+        }
+        {
+          path = ''S2GFX/LFO_moog.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/LFO_moog.png";
+          sha256 = "04r8zp6f2wxcnqr67rdxnqhrys0sgp2zlfkf40hb76q356x5f8vp";
+        }
+        {
+          path = ''S2GFX/MOD_Blech.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MOD_Blech.png";
+          sha256 = "11m8cxn0bw5hcxg8qa2jxxmam2qw57nx3cmkm3bw266fwidajnnp";
+        }
+        {
+          path = ''S2GFX/MOD_Filter.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MOD_Filter.png";
+          sha256 = "1k3y5i894pdimxsq3858dk3yxw4c2lhlp8m4icj4h1ayr5sfiqwm";
+        }
+        {
+          path = ''S2GFX/MOD_Flanger.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MOD_Flanger.png";
+          sha256 = "1a7gx73ihliacq3149rc7x6gr3gly97jlazayhn3nhd2jny7a31v";
+        }
+        {
+          path = ''S2GFX/MOD_Shadow.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MOD_Shadow.png";
+          sha256 = "094f3cczlxqwi2345xf25ilmmk5ln1lrzsx6srmlvcr82jbr7z43";
+        }
+        {
+          path = ''S2GFX/MOD_Trem.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MOD_Trem.png";
+          sha256 = "01y0jj962mfm92sjwvwl7hp95j939lj51m27vaccjbhaamlkv9iq";
+        }
+        {
+          path = ''S2GFX/VT_Filters.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/VT_Filters.jsfx-inc";
+          sha256 = "0m5zgr0fqpqpkymzyj1wdgbsm72w0h8pr8zfrswqa97fkyd73nkh";
+        }
+        {
+          path = ''S2GFX/Amp_Back.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Amp_Back.png";
+          sha256 = "02nc1j5rb1337hpv8368n8f4l4fi6750f8fp19fzn7z83ykngbzy";
+        }
+        {
+          path = ''S2GFX/Amp_Plates.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Amp_Plates.png";
+          sha256 = "1safn3rxxg4phz8pi03g8fh0h5fc1c8yxwaj3bgyy85451b0bmvh";
+        }
+        {
+          path = ''S2GFX/Ampbuttons.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Ampbuttons.png";
+          sha256 = "145x67vf03l1dqfs6rxjnlv99fy1n82iaygr05g0r912kdiziq98";
+        }
+        {
+          path = ''S2GFX/Ampframes.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Ampframes.png";
+          sha256 = "11vab3d50fb408hp5nasz2ya04s8ms9cm4xh3szq4f7r26rwrmg7";
+        }
+        {
+          path = ''S2GFX/footswitch.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/footswitch.png";
+          sha256 = "0ynr3k6s0ip2xj9r95qfc1dahsc19iz70bq2zp0xn73lhhiy93z6";
+        }
+        {
+          path = ''S2GFX/MyAmp1.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MyAmp1.png";
+          sha256 = "1q0mcd9jxp4ff2w7irjwfnh511hdda3c4pi5svbf8a631i46pf3v";
+        }
+        {
+          path = ''S2GFX/MyAmp2.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MyAmp2.png";
+          sha256 = "0kw91r15aab5fd0m58h60srln9k3jl01bbj2j8mzp96iv8rvk9x5";
+        }
+        {
+          path = ''S2GFX/MyAmp3.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MyAmp3.png";
+          sha256 = "0qwj9gwqi1797b68k002mwqv2iw6m4ramw5g1ykrz8rfish28cfn";
+        }
+        {
+          path = ''S2GFX/MyAmp4.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MyAmp4.png";
+          sha256 = "0l2ynwi5dk55c7w8lb657v3zqpbsa8jifirsn42ndfwm5ly4hgr1";
+        }
+        {
+          path = ''S2GFX/Pedalback.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Pedalback.png";
+          sha256 = "11g51dd1bmrlki529926mp7j88dlr32fr0gvi4j6xb5fh06a0lq3";
+        }
+        {
+          path = ''S2GFX/S2_logo_amp.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/S2_logo_amp.png";
+          sha256 = "1kg943qb3v8015pchnvd28xmc7mj3zlgnij3li7l2dqri6x918g5";
+        }
+        {
+          path = ''S2GFX/GitAmp/B20M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/B20M_dc.wav";
+          sha256 = "1wjy1h2yzw67lcnyxwnslq2ji2frhxw5z8apsj6zdyg12dq3j18m";
+        }
+        {
+          path = ''S2GFX/GitAmp/B20S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/B20S_dc.wav";
+          sha256 = "1skc6yrnsim38wzf94dsy3ddm5dk12jn89xk9k88dzzw1m9a89gz";
+        }
+        {
+          path = ''S2GFX/GitAmp/B57M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/B57M_dc.wav";
+          sha256 = "1m2mdfwas409hfhpp6b94djhx1lviqa69qa6zpfmw9zql34rwa3x";
+        }
+        {
+          path = ''S2GFX/GitAmp/B57S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/B57S_dc.wav";
+          sha256 = "0v5pjsh91bm91p7z3ff4c828b9jl9hm538cj4y5rhk88a6lx1gz4";
+        }
+        {
+          path = ''S2GFX/GitAmp/B87M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/B87M_dc.wav";
+          sha256 = "1hxk60nsfm3dra597nf4vq7ysr2hrzfgv05lngahafm0kzmq2dap";
+        }
+        {
+          path = ''S2GFX/GitAmp/B87S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/B87S_dc.wav";
+          sha256 = "0308hg70b4y5ydb4ccdvl5gpk1hgp1sh3isvlpph1wl2ai3jjpcg";
+        }
+        {
+          path = ''S2GFX/GitAmp/B421M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/B421M_dc.wav";
+          sha256 = "18m155nhlgnnhrnk7952pwmpzfn7m731bzf8r643jd5sz91il5p2";
+        }
+        {
+          path = ''S2GFX/GitAmp/B421S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/B421S_dc.wav";
+          sha256 = "1b61q2x114fhzslr92fp6ixgv09x8gz8whcflgg8q6jzjz6x15cn";
+        }
+        {
+          path = ''S2GFX/GitAmp/B648M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/B648M_dc.wav";
+          sha256 = "0xfh6kdfc1qcci9q8is05nz3g6m2dk9wq7xkz4f8zdmg72113xkb";
+        }
+        {
+          path = ''S2GFX/GitAmp/B648S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/B648S_dc.wav";
+          sha256 = "0c603p8jjb04n8jgsx33mkjg5h27wih7nrngf5akq7b5anjlhx03";
+        }
+        {
+          path = ''S2GFX/GitAmp/B906M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/B906M_dc.wav";
+          sha256 = "0qv9772mz1y9hx859j1bywzbbaxnqzmfhv3xppmqw3nl5pmfvivn";
+        }
+        {
+          path = ''S2GFX/GitAmp/B906S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/B906S_dc.wav";
+          sha256 = "0n16v4y89w8r12ajjg4da8qpsanqr6xk67gl47qi8vw19cmmclah";
+        }
+        {
+          path = ''S2GFX/GitAmp/BRibM_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/BRibM_dc.wav";
+          sha256 = "148yjs1d099z5yqsc1pk23v95b7a4m7g8n67qgp0k1pzgls2ar1j";
+        }
+        {
+          path = ''S2GFX/GitAmp/BRibS_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/BRibS_dc.wav";
+          sha256 = "13q4w2hjpi3d0a2hqvb2l08bmhp2h2c4z63cnjlc2if23c80w8g8";
+        }
+        {
+          path = ''S2GFX/GitAmp/E20M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/E20M_dc.wav";
+          sha256 = "03byjhchchagiqhz3rwrsd11m88iw825dxzbhg4686589xsjp55c";
+        }
+        {
+          path = ''S2GFX/GitAmp/E20S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/E20S_dc.wav";
+          sha256 = "0w54731lzbs4iassip7z7njk6sgizkpshd275djv8h7m9jcjd5v3";
+        }
+        {
+          path = ''S2GFX/GitAmp/E57M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/E57M_dc.wav";
+          sha256 = "0hf666kyrnycb6jm22bclfcpi1mmqzsakd98l7jwaa5mp6qavq79";
+        }
+        {
+          path = ''S2GFX/GitAmp/E57S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/E57S_dc.wav";
+          sha256 = "0l3a5fry43baxzbdpwk12l03byvj8hcskpc1c2pbxpryr9358mfh";
+        }
+        {
+          path = ''S2GFX/GitAmp/E87M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/E87M_dc.wav";
+          sha256 = "1748d2q18wcsjsvdxrl1c9hgcrfkmxn93qwddlhr0mkpqy8fdrs9";
+        }
+        {
+          path = ''S2GFX/GitAmp/E87S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/E87S_dc.wav";
+          sha256 = "0djfi36vnbds3ss3zas9y5yin4rbf4hw1z5s96slgr15cgydvkv4";
+        }
+        {
+          path = ''S2GFX/GitAmp/E421M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/E421M_dc.wav";
+          sha256 = "0bxbrrpkz15cyhwv44v23791g64l46wdynac40jwz6h69vfhxphy";
+        }
+        {
+          path = ''S2GFX/GitAmp/E421S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/E421S_dc.wav";
+          sha256 = "19hldxjpg2zvhazkfamwcglf7rwpv9v74y5pqsiz3p8wqyarvm6g";
+        }
+        {
+          path = ''S2GFX/GitAmp/E648M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/E648M_dc.wav";
+          sha256 = "1i9da0l69iplf6b01xv4wnqiaa6l8pxhm5dd04a55llli51ypcj3";
+        }
+        {
+          path = ''S2GFX/GitAmp/E648S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/E648S_dc.wav";
+          sha256 = "1dpf058gcfwyxwranq1qpfi7l27wqiflnqjgvaq89p1npfc962ya";
+        }
+        {
+          path = ''S2GFX/GitAmp/E906M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/E906M_dc.wav";
+          sha256 = "0wfpkf46qak9rrkq7j9mvbyycnifkvgi4d1a1lx5gl7snadgj1l8";
+        }
+        {
+          path = ''S2GFX/GitAmp/E906S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/E906S_dc.wav";
+          sha256 = "0md3by8ww6c4krag6kdk128z6px0d46qhwch5572rjyhj22b2s97";
+        }
+        {
+          path = ''S2GFX/GitAmp/ERibM_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/ERibM_dc.wav";
+          sha256 = "1w849078qlfcz3i4yivlbq7bw9p4bk03lwlddk5w923hlgjclik0";
+        }
+        {
+          path = ''S2GFX/GitAmp/ERibS_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/ERibS_dc.wav";
+          sha256 = "13zk0lkrgv2i90dvr6bpbccpffcyrdkvff23d6yvvkw288hyz2j0";
+        }
+        {
+          path = ''S2GFX/GitAmp/F20M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/F20M_dc.wav";
+          sha256 = "0177q1fanbhbhr8lng4r7ffwffp0qyirg04lij7xqy4bh1b55hqx";
+        }
+        {
+          path = ''S2GFX/GitAmp/F20S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/F20S_dc.wav";
+          sha256 = "0mx144vwnb9zng8902y5d729nnmyc6g9hcjndh7krzggg1nqrwc4";
+        }
+        {
+          path = ''S2GFX/GitAmp/F57M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/F57M_dc.wav";
+          sha256 = "0h281maapcabsqnnq6ac30ygp2glkmpv1m8wkvgh3p5w2v3y5abi";
+        }
+        {
+          path = ''S2GFX/GitAmp/F57S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/F57S_dc.wav";
+          sha256 = "16a8xfdg93z9y9ypsdaijccwzjbc5cjnv50ws1xw1kqk1iw14dz6";
+        }
+        {
+          path = ''S2GFX/GitAmp/F87M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/F87M_dc.wav";
+          sha256 = "1lb9z4054h4vl8g1mmv2sf9ciy4l7s0nmzaysky4426p8drxnxsd";
+        }
+        {
+          path = ''S2GFX/GitAmp/F87S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/F87S_dc.wav";
+          sha256 = "0nk3d442fyqwc3idm1gz6hibli509aag57hfz4fhhzhka49g0akq";
+        }
+        {
+          path = ''S2GFX/GitAmp/F421M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/F421M_dc.wav";
+          sha256 = "0z1k3fkkpqdpcvch0h4j8i25ryw18ib6z1pjlb1f1r0z17safqpl";
+        }
+        {
+          path = ''S2GFX/GitAmp/F421S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/F421S_dc.wav";
+          sha256 = "1khivcia5w1qaijpvc2lx7z2kxdsaih129diqviqrfba05xinz5d";
+        }
+        {
+          path = ''S2GFX/GitAmp/F648M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/F648M_dc.wav";
+          sha256 = "07y5k892a5rq0s6pd4bkrzqzpshsd1818n1hnk4025gc496gl2g0";
+        }
+        {
+          path = ''S2GFX/GitAmp/F648S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/F648S_dc.wav";
+          sha256 = "1mv5knzrvwh0mj7i2cr1ckz12a2jvvzc1w8a3frhmcls37zkcs2z";
+        }
+        {
+          path = ''S2GFX/GitAmp/F906M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/F906M_dc.wav";
+          sha256 = "0r5x71fai4pwidb9yn4pz97b2qc25kxdz1l9y3gadkv3i6n552rz";
+        }
+        {
+          path = ''S2GFX/GitAmp/F906S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/F906S_dc.wav";
+          sha256 = "0q7x936mr3v1g3qrsbz0c1gxql86lplwz0acflpg0jkk2015qdx1";
+        }
+        {
+          path = ''S2GFX/GitAmp/FRibM_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/FRibM_dc.wav";
+          sha256 = "0j20m4i2xwz3pi5sgjn28ph8pys9vs5a6z8izgc98971ipyl1kk4";
+        }
+        {
+          path = ''S2GFX/GitAmp/FRibS_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/FRibS_dc.wav";
+          sha256 = "0r6qckjmpy8jqmkkwxd23jv8cpfgmf0gjmjrn602msipb6jij34r";
+        }
+        {
+          path = ''S2GFX/GitAmp/M20M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/M20M_dc.wav";
+          sha256 = "1gcm8q3zz7w6ips0vfysfa3lcbfnj4p0rgmd61hzc843f3v8rg7n";
+        }
+        {
+          path = ''S2GFX/GitAmp/M20S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/M20S_dc.wav";
+          sha256 = "0y3fki3xxs0cz0q0p3ydwp87djjbgcjlwa9673s24d9ks90bmsnk";
+        }
+        {
+          path = ''S2GFX/GitAmp/M57M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/M57M_dc.wav";
+          sha256 = "0adx92kas477vvl82v50qdjgrchihyw2kr0yzblj7d3ym9dbdy5y";
+        }
+        {
+          path = ''S2GFX/GitAmp/M57S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/M57S_dc.wav";
+          sha256 = "1s004a77d6p73hzi71c2m414qng56hl82y2zxia8lmfaprqjgmim";
+        }
+        {
+          path = ''S2GFX/GitAmp/M87M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/M87M_dc.wav";
+          sha256 = "07vddi0d5z5ngfbsw3q8hgvg37xbm0i6mwk806cl7a5gihcwq0l4";
+        }
+        {
+          path = ''S2GFX/GitAmp/M87S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/M87S_dc.wav";
+          sha256 = "1569mcbs29kx613gki2yb0g28zf8qiahwa7sijz7ml95zz2hqxfk";
+        }
+        {
+          path = ''S2GFX/GitAmp/M421M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/M421M_dc.wav";
+          sha256 = "1ypcpg4095jbznlxqsgiy9bjw24dkrhbdz2xpscp1ga7af2hx5ra";
+        }
+        {
+          path = ''S2GFX/GitAmp/M421S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/M421S_dc.wav";
+          sha256 = "1zjaygpnziy7gm9z88bm813rqnwk3x6c3mdaj0fz5glcsw0amx3g";
+        }
+        {
+          path = ''S2GFX/GitAmp/M648M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/M648M_dc.wav";
+          sha256 = "10mz8gxmbz0d8589hkyfzkadxpqx5gdgf9j9ngnbiiyr36smhjk7";
+        }
+        {
+          path = ''S2GFX/GitAmp/M648S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/M648S_dc.wav";
+          sha256 = "1mls646rkj5g4n9yn04prcqllmz7pwv793p2w3xz7mf4pfpflmp0";
+        }
+        {
+          path = ''S2GFX/GitAmp/M906M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/M906M_dc.wav";
+          sha256 = "0r350srlgkcdzhgzbqw5vrhdbgn0c4c3xr5v9ab1a9c8a0v78whi";
+        }
+        {
+          path = ''S2GFX/GitAmp/M906S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/M906S_dc.wav";
+          sha256 = "09gv58glfh4n1q03y83771999y8xlvblsvx25rm3y821krkxjlyw";
+        }
+        {
+          path = ''S2GFX/GitAmp/MRibM_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/MRibM_dc.wav";
+          sha256 = "00rxw59lnz40rmfqgx8jjnls5kxdxpk1y1lj6hzxb2n02ibs5dzh";
+        }
+        {
+          path = ''S2GFX/GitAmp/MRibS_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/GitAmp/MRibS_dc.wav";
+          sha256 = "0si6s55lpgsr4y5wjf0am7sbw1zj0aw3pbqs3b9h6gxaqbl786xc";
+        }
+        {
+          path = ''S2GFX/SC_BlackNev.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_BlackNev.png";
+          sha256 = "1v6pap1s52xdd1n9a74m8ll7y1zjqwb7qrnfm0g41s94pa8k1jp7";
+        }
+        {
+          path = ''S2GFX/SC_BlackNev2.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_BlackNev2.png";
+          sha256 = "12zbkcw7w4hv0dm993va8pwfnpki5bc454xammz4976qcyhi1imx";
+        }
+        {
+          path = ''S2GFX/SC_BlueKnob.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_BlueKnob.png";
+          sha256 = "015yq5wyicgrrycsfbmkjwkm93zpbgxkyy75pk5j0z6y31mazrjq";
+        }
+        {
+          path = ''S2GFX/SC_Chick.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_Chick.png";
+          sha256 = "1a5jf4yg3ywk1yr052906ayg3h32b34f1l5j8qi35rdnkhf6sf8s";
+        }
+        {
+          path = ''S2GFX/SC_GreyNev.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_GreyNev.png";
+          sha256 = "08xgjgrkdpz7396b3i2y7arpi8701ifnpimicgyn2nxkjg0bizmb";
+        }
+        {
+          path = ''S2GFX/SC_GreyNev2.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_GreyNev2.png";
+          sha256 = "0pmk2yyx95hzic2z1a00292qd1bf8hvpn5i87mb3hl78r9n03kkx";
+        }
+        {
+          path = ''S2GFX/SC_RedKnob.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_RedKnob.png";
+          sha256 = "0w9pfckzwynmm3f3r16y310r2d2x70nk6l1wp0dxi9xqi1l9wvhg";
+        }
+        {
+          path = ''S2GFX/SC_RedNev.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_RedNev.png";
+          sha256 = "0g9i0yi41fh32clpis8z5q2vrw87ng8xanr535nwg2mybwar4syi";
+        }
+        {
+          path = ''S2GFX/SC_RedNev2.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_RedNev2.png";
+          sha256 = "1rsnfgq32ac1xggz7zfxljb2jamxjvc8w05m404q6cv25a2jdf87";
+        }
+        {
+          path = ''S2GFX/SC_SmallKnob.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_SmallKnob.png";
+          sha256 = "15nm1zssfiiwcf8328x57h989lfclw2y5s2j7sd2bmiwjri4przw";
+        }
+        {
+          path = ''S2GFX/SC_SSLB.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_SSLB.png";
+          sha256 = "1g6sb65ywg2ky5hpmm1vq7gh8360brnmlcx4yfvgakkymvs525m7";
+        }
+        {
+          path = ''S2GFX/SC_SSLG.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_SSLG.png";
+          sha256 = "0vpn95zkzadilbcc2cvqmqqd0ws19fw0jas8l36aa7cihq4dicxp";
+        }
+        {
+          path = ''S2GFX/SC_SSLR.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_SSLR.png";
+          sha256 = "05z9crad4w27vrk8p82q4kdkh3ivd58h65x16hs4vmzqi0y071jw";
+        }
+        {
+          path = ''S2GFX/SC_SSLS.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_SSLS.png";
+          sha256 = "1493r55dsm7wardgvwn51sakhzzbmvai8jzc2g1j9vd7xnkbqqwj";
+        }
+        {
+          path = ''S2GFX/SC_VU0.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_VU0.png";
+          sha256 = "1pz6dajmgv3553949xp00p9mcqmbpf10q2q5pxwx46pcw5dqv87j";
+        }
+        {
+          path = ''S2GFX/SC_VU1.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_VU1.png";
+          sha256 = "0psf2wrw5s7m7kiz3d3wafa0ax5qhyaqlv9gc2qskmqbc3pqh2zy";
+        }
+        {
+          path = ''S2GFX/SC_VU2.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_VU2.png";
+          sha256 = "1zvi5cxwalnnmhy6bhp31cj9nb44p21y85h8bs2g0m79b4favwcy";
+        }
+        {
+          path = ''S2GFX/SC_VU3.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SC_VU3.png";
+          sha256 = "10fd2zzlnhzmi3di10cc7409rqgb8978fk4iglwa9xy1qbbkkk04";
+        }
+        {
+          path = ''S2GFX/MBC_3S.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_3S.png";
+          sha256 = "1df2jv5n91w74aq3ps18xnmziszr4pfyibha0ngma56a6lrd679w";
+        }
+        {
+          path = ''S2GFX/MBC_CM.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_CM.png";
+          sha256 = "06nr1jr1caby49gmrb7jgkmjpbqb9xgng61jpiw6s90ccqnandjx";
+        }
+        {
+          path = ''S2GFX/MBC_CR.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_CR.png";
+          sha256 = "17cv1s68mqxrzv65yb9paxiq7bzix07371rjwp1i1dmnn3xjdrq7";
+        }
+        {
+          path = ''S2GFX/MBC_CV.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_CV.png";
+          sha256 = "1qq31366fn9xvlkr76vjln1w6v9yv7rc4j5k1jgvbsk2cnmxjmdq";
+        }
+        {
+          path = ''S2GFX/MBC_FLIP.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_FLIP.png";
+          sha256 = "0538qbigdbzj35v5lpcxcrylf7ghm56raj82pf070y8g4rjfqwyw";
+        }
+        {
+          path = ''S2GFX/MBC_GM.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_GM.png";
+          sha256 = "15p1hs01ds805a8jxhq60gjy216zx6kgpyllqxkjlx0jpw8y882s";
+        }
+        {
+          path = ''S2GFX/MBC_GR.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_GR.png";
+          sha256 = "0g0n5flxh6w6ddnzql7r4ldkwsai61rz8v7i4rvsszj2agab47l1";
+        }
+        {
+          path = ''S2GFX/MBC_GV.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_GV.png";
+          sha256 = "0llpzqahvczz7fcw6w8l24pkkjwzizximn05m1sbjjw0pggmnrak";
+        }
+        {
+          path = ''S2GFX/MBC_OM.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_OM.png";
+          sha256 = "0ixqdiiswwpism0pbj99gkpn8bjxavyvv4m1cm9k53548bqqqpwn";
+        }
+        {
+          path = ''S2GFX/MBC_OR.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_OR.png";
+          sha256 = "0gwl308fnmvyi0ivxk0wrkf4v10fxi873svbbdaps33n8kynh38m";
+        }
+        {
+          path = ''S2GFX/MBC_OV.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_OV.png";
+          sha256 = "0svbw99yn2x8gnvkiwrdi2fpxars8k6l8fbmdfahcrv0vwn7iak4";
+        }
+        {
+          path = ''S2GFX/MBC_PM.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_PM.png";
+          sha256 = "0izhksyiqbpmy2llcdfhkim54dxxcrx15gpy2jfj4rp2b3cnziyh";
+        }
+        {
+          path = ''S2GFX/MBC_POWER.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_POWER.png";
+          sha256 = "0jqfhj4rgmz9xj9cfgk7ygc3givhd83pfb7iw9y3clf1r3xfps2b";
+        }
+        {
+          path = ''S2GFX/MBC_PR.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_PR.png";
+          sha256 = "0wkqpyb5xp6jg28skq4c19xz23hrhsg60md64akjw8h0p4j4063z";
+        }
+        {
+          path = ''S2GFX/MBC_PV.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_PV.png";
+          sha256 = "1hm15900hn2hn3q1ci5cdn049fqcnvyxs0mff4k94xcjvqf5gn9l";
+        }
+        {
+          path = ''S2GFX/MBC_YM.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_YM.png";
+          sha256 = "16pv8gx10hl0n2fgikdyrc69kbgdfqhnc9f744y4km7gqcf89m9a";
+        }
+        {
+          path = ''S2GFX/MBC_YR.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_YR.png";
+          sha256 = "0hl72i83ff0ckkffq4ds3w6y1rhyv5y1451wfiv860swbysa5mvm";
+        }
+        {
+          path = ''S2GFX/MBC_YV.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/MBC_YV.png";
+          sha256 = "1is38j0bkpmcb35qvr57wynd6fn4lx4vsi08lrgkqv2g2fnxdy04";
+        }
+        {
+          path = ''S2GFX/Echotukan.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Echotukan.png";
+          sha256 = "0xn9if1sfmzn6f997afvini7vin07czfim5xlfvns5yds01164lf";
+        }
+        {
+          path = ''S2GFX/Echotukan_Stab.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Echotukan_Stab.png";
+          sha256 = "05cfx8ypddixmmbcdbjb92nh91q642nvw8pndg3cqa0dy6l2h0ay";
+        }
+        {
+          path = ''S2GFX/switch3.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Switch3.png";
+          sha256 = "02jhn1jvwdymw0ql24wqsp1ibkp3s4f5a565p2sy135zpizvddfk";
+        }
+        {
+          path = ''S2GFX/BassAmp_Plates.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp_Plates.png";
+          sha256 = "0z9d4x568wbfrpwyn8vzk66rby5vz0ym75jwjwlhiq4sv5ak18ji";
+        }
+        {
+          path = ''S2GFX/BassAmp_Back.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp_Back.png";
+          sha256 = "1nhwkzvqqh41li1a5mj2ipb6vn95mlbjfklgqsynddw7lz4kl0sf";
+        }
+        {
+          path = ''S2GFX/BassAmpbuttons.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmpbuttons.png";
+          sha256 = "1clmpfn7fbfc6rcn74a1h3qw0g9n386impqa7bx39jl22d5szg1q";
+        }
+        {
+          path = ''S2GFX/BassAmpframes.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmpframes.png";
+          sha256 = "07jb3xv2ajp3mxnnbz4pdqafy7667px9ibqkjnianagmbv3x0pp8";
+        }
+        {
+          path = ''S2GFX/BassMyAmp1.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassMyAmp1.png";
+          sha256 = "18ci0xvlbgiph93xdiy8lv0ghaq76dcm2qwhvxk1pl93b9kvm7qb";
+        }
+        {
+          path = ''S2GFX/BassMyAmp2.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassMyAmp2.png";
+          sha256 = "116x6nwp76d6bdjs5kffsf1z5rrdwpdk4wdsna0c05rwx7v19y00";
+        }
+        {
+          path = ''S2GFX/S2_logo_Bassamp.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/S2_logo_Bassamp.png";
+          sha256 = "0gwnj6w8f1mpj2apj4qf7z5p8cixglrhinqxcra7lf7r8j1bqh05";
+        }
+        {
+          path = ''S2GFX/BassAmp/15_52_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/15_52_M.wav";
+          sha256 = "0w2ikha8xsazx3p0apyqd8vcijcw9cvdh3kc6smnnc43bfav26y7";
+        }
+        {
+          path = ''S2GFX/BassAmp/15_421_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/15_421_M.wav";
+          sha256 = "1i31q10vbw1iqpx2qwh75ynqag6jin9qmyll156fzk43bwd132i7";
+        }
+        {
+          path = ''S2GFX/BassAmp/15_57_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/15_57_M.wav";
+          sha256 = "09v6dil262x7k5im8kcabsfybaq8c7vhkkqvy13fi78qhw1zl564";
+        }
+        {
+          path = ''S2GFX/BassAmp/15_MK4_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/15_MK4_M.wav";
+          sha256 = "1yfzjpr7li7vxc7yjy7fc7xvpg3nz0w3cw000sxzi12hbsgzzsrs";
+        }
+        {
+          path = ''S2GFX/BassAmp/15_87_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/15_87_M.wav";
+          sha256 = "17w3mn5g7di1lxqa7bad5c87knhj0b37n2259nhc33l3kc2z0b6d";
+        }
+        {
+          path = ''S2GFX/BassAmp/15_414_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/15_414_M.wav";
+          sha256 = "03lqmz82p60xgmwga64kclfxvxdalk2wj4fsr1ghlxfm7m1iqpmm";
+        }
+        {
+          path = ''S2GFX/BassAmp/15_Rib_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/15_Rib_M.wav";
+          sha256 = "0gzx09b7g2j9jg50hjrgm7akkigh0yhqm5f0b2jqqizyai3qdscl";
+        }
+        {
+          path = ''S2GFX/BassAmp/15_52_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/15_52_S.wav";
+          sha256 = "09iiq9qnv6v87ws4kn4radqnkknlv0d6xjkjq86zd10d01ri6r1x";
+        }
+        {
+          path = ''S2GFX/BassAmp/15_421_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/15_421_S.wav";
+          sha256 = "1c39j4mw9ngdx6c6gqg24az0mvfv168jfr8bdgas8kch52al0hm6";
+        }
+        {
+          path = ''S2GFX/BassAmp/15_57_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/15_57_S.wav";
+          sha256 = "04d1hwq3fahh2d7sp1vm1xw85g67q1w22vypxs6q7l8kdz456b5j";
+        }
+        {
+          path = ''S2GFX/BassAmp/15_MK4_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/15_MK4_S.wav";
+          sha256 = "0855l7s5mwjysx22l19lqs5mh7jg836cg5bm468zjy6ydbfxm458";
+        }
+        {
+          path = ''S2GFX/BassAmp/15_87_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/15_87_S.wav";
+          sha256 = "1jci7163590ipgkh7kijd5i03qmgjls58myv562ify33a58czb56";
+        }
+        {
+          path = ''S2GFX/BassAmp/15_414_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/15_414_S.wav";
+          sha256 = "0w6q3hvxqmwvylc024fmvrqngmrmrbn7v43bk6xavifdkkbcpvf1";
+        }
+        {
+          path = ''S2GFX/BassAmp/15_Rib_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/15_Rib_S.wav";
+          sha256 = "0jj7zc614r4qlrq5q9nswdchixm7kfk1r54fkbp72vx10kfbgicz";
+        }
+        {
+          path = ''S2GFX/BassAmp/12_52_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/12_52_M.wav";
+          sha256 = "1pazacnp7921xnwpf6hggli79r6caz8q1k07csl69dnh2gj1fkh4";
+        }
+        {
+          path = ''S2GFX/BassAmp/12_421_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/12_421_M.wav";
+          sha256 = "00ami15vs4bxfw6xpn0qppmk2ksbv1r5giwx81nflm20zysvh0c8";
+        }
+        {
+          path = ''S2GFX/BassAmp/12_57_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/12_57_M.wav";
+          sha256 = "08qh09rqxjqvikxz1h85p4i96lr6yshi405ml4hls6y81ang22zy";
+        }
+        {
+          path = ''S2GFX/BassAmp/12_MK4_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/12_MK4_M.wav";
+          sha256 = "1mzgdx8fc06pb01jqhh587li78nw3b4hkbk4hjgynxav6abslx8l";
+        }
+        {
+          path = ''S2GFX/BassAmp/12_87_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/12_87_M.wav";
+          sha256 = "1snf5w3r5mwcy9v2ab09dwzhh51qda46px1ddx9hpvffyfpr9n3w";
+        }
+        {
+          path = ''S2GFX/BassAmp/12_414_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/12_414_M.wav";
+          sha256 = "1zk1zf48f0fsipmimd9x5ypp1ana1z0x9hbbksnapd69488x0q0i";
+        }
+        {
+          path = ''S2GFX/BassAmp/12_Rib_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/12_Rib_M.wav";
+          sha256 = "124r11g5r6g0w2x3n2swa1crb0m3zg8j7mkx74gccc97fzfr4yd0";
+        }
+        {
+          path = ''S2GFX/BassAmp/12_52_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/12_52_S.wav";
+          sha256 = "1ivwld49008p1z7212ifkag0jm1vsmji3mhp8n54kpaw9vxqzd0i";
+        }
+        {
+          path = ''S2GFX/BassAmp/12_421_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/12_421_S.wav";
+          sha256 = "1b43hkmlllxi5p1v6czn7h1hrd67yz7cggh49rjxj5za4l0dg7x3";
+        }
+        {
+          path = ''S2GFX/BassAmp/12_57_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/12_57_S.wav";
+          sha256 = "1f6j47mq2qgyhiqlshz9hd0bvs96p8h7nqjscibvj6hp533503ar";
+        }
+        {
+          path = ''S2GFX/BassAmp/12_MK4_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/12_MK4_S.wav";
+          sha256 = "1rl8vjns0vjbgk8mv1a7in878i873bbl2qzy05j40xbc16hwpn5f";
+        }
+        {
+          path = ''S2GFX/BassAmp/12_87_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/12_87_S.wav";
+          sha256 = "0syv1fmd40a39ckw90f2m6jji91bhjssidf5z685h8j629yb2la6";
+        }
+        {
+          path = ''S2GFX/BassAmp/12_414_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/12_414_S.wav";
+          sha256 = "1la4i0jcnc8fxinaqvm885f7h3qsigi3qknxp32c08fnvhhbfxbf";
+        }
+        {
+          path = ''S2GFX/BassAmp/12_Rib_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/12_Rib_S.wav";
+          sha256 = "10jxbymch4ahsdg35kf5y2y0d11g3b320vzdf4vgzda1hsw345ys";
+        }
+        {
+          path = ''S2GFX/BassAmp/10_52_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/10_52_M.wav";
+          sha256 = "0fjj5dyc7jqvv1h9p3dhgr3rpq4z60vf016i7vfkzfrlcwwa65i6";
+        }
+        {
+          path = ''S2GFX/BassAmp/10_421_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/10_421_M.wav";
+          sha256 = "0mxk5igfpjgicibjqp2nik6bm7cv9qag62qb443q3zkc39m7vjjk";
+        }
+        {
+          path = ''S2GFX/BassAmp/10_57_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/10_57_M.wav";
+          sha256 = "1mxb28dswqas0ng2vnman3jcy3c1qrpl175ygr9r1ifdhclq4q5y";
+        }
+        {
+          path = ''S2GFX/BassAmp/10_MK4_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/10_MK4_M.wav";
+          sha256 = "0n4wzqcysh4z3mgrpbwc3487czv38l5ih8ra6bm44vzidm89lpax";
+        }
+        {
+          path = ''S2GFX/BassAmp/10_87_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/10_87_M.wav";
+          sha256 = "1i3wjic4ncq91vpx0dpdqai2jz03vdxagp0cfajf7ihj7r2i0kd0";
+        }
+        {
+          path = ''S2GFX/BassAmp/10_414_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/10_414_M.wav";
+          sha256 = "1bkjpsp3gfi4daarjf9q6y8hk7zhc12vdbl39909bd0q4zz7rgsb";
+        }
+        {
+          path = ''S2GFX/BassAmp/10_Rib_M.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/10_Rib_M.wav";
+          sha256 = "1r184cbmmbn1zrlczyx35rvd4i2cyvzvz6qi9hhdgx2js5psdbk8";
+        }
+        {
+          path = ''S2GFX/BassAmp/10_52_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/10_52_S.wav";
+          sha256 = "1zpkkvaxsyjijm2pkfrcrifk0ia1ghqm2ir616z378s3wkcn6zqk";
+        }
+        {
+          path = ''S2GFX/BassAmp/10_421_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/10_421_S.wav";
+          sha256 = "1v6a3h11ny03xw82x4v26s2wjbw739pgng39a927j44sxkb59pl1";
+        }
+        {
+          path = ''S2GFX/BassAmp/10_57_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/10_57_S.wav";
+          sha256 = "0z93dwrp2gbg15qqi9bc47m3kijlg27igml0wpf6lrbmqxxn4x6i";
+        }
+        {
+          path = ''S2GFX/BassAmp/10_MK4_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/10_MK4_S.wav";
+          sha256 = "0ymzv85zls55xfcw7yb2x530js0nralb7zqlr7lgv93lh6fq4bhi";
+        }
+        {
+          path = ''S2GFX/BassAmp/10_87_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/10_87_S.wav";
+          sha256 = "085v7r7hfy45zs6gh15s57jmiqz66d5qm8jd9r3zz06kir4wr13j";
+        }
+        {
+          path = ''S2GFX/BassAmp/10_414_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/10_414_S.wav";
+          sha256 = "17ckc0sw48ddg9iwkrx6ld9vy44kbri884vx0qqg77dm6a9f96n4";
+        }
+        {
+          path = ''S2GFX/BassAmp/10_Rib_S.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BassAmp/10_Rib_S.wav";
+          sha256 = "1apmgnk656vhv9g9wdfxs6gw5j13y9pfxg1ggf3qx3fs2akfjwrr";
+        }
+        {
+          path = ''S2GFX/Voc_knob_lake.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Voc_knob_lake.png";
+          sha256 = "1q0i96azpkg7j7smhqj3mqp303xmabmxd3d3n4606bxaa2f4spk5";
+        }
+        {
+          path = ''S2GFX/TEQGreen.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/TEQGreen.png";
+          sha256 = "17h5njf0flivy2sk2nbd1d6lyk1iypc3zwy0r17aawy0avm2ag49";
+        }
+        {
+          path = ''S2GFX/screw.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/screw.png";
+          sha256 = "1y9w3jpnd2qq5dyzih1ap187w2h4jhs4swcfv82mib06n94j5i2s";
+        }
+        {
+          path = ''S2GFX/FVerb.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/FVerb.jsfx-inc";
+          sha256 = "01i1w56ypf7wyj3xs7lwr65iazghi8ivbqq7flv5mwdqbg693z3n";
+        }
+        {
+          path = ''S2GFX/BlueLEXBackWhite.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/BlueLEXBackWhite.png";
+          sha256 = "01vgsdj2a7lwjszh33ms9qpmwn5s4ah6n2xglx507qrfvjzrwabr";
+        }
+        {
+          path = ''S2GFX/Blue480knob.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Blue480knob.png";
+          sha256 = "0vdbgl8khxyrjb1h9r5j7h4nnkpjkcpz0d4d70nq75yvi20az4wx";
+        }
+        {
+          path = ''S2GFX/Bluemy480button.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Bluemy480button.png";
+          sha256 = "18lhfi0gwzmlg8pm39hid21720wvfyp1cqgmq4zfdif1nrfw46h3";
+        }
+        {
+          path = ''S2GFX/tapel_HD2.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/tapel_HD2.png";
+          sha256 = "0l2xpzf9gmlv9316pkkxm1dgsz3gsj4jlz3b404qyzs1lkziwrfg";
+        }
+        {
+          path = ''S2GFX/VUMeterBIG_tape2.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/VUMeterBIG_tape2.png";
+          sha256 = "137cgly2nf3l8gn8wfqc6w38s2g1nh395ccdk8p94ig30ndrdi1p";
+        }
+        {
+          path = ''S2GFX/tapel_HD3.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/tapel_HD3.png";
+          sha256 = "0f116c5cp72wvysai7fhkmrw5mzw9xg3z8m8165bf8df7v24hd4q";
+        }
+      ];
+    };
     series-2-tukan-1-1-6-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "series-2-tukan-1-1-6-0";

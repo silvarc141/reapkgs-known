@@ -615,7 +615,7 @@
         {
           path = ''../../MIDI_Variant'';
           url = "https://github.com/IXix/JSFX/raw/038d74cef750a6bbcc5075b6d9bdd7408164a13a/Effects/MIDI/MIDI_Variant.jsfx";
-          sha256 = "0r7pgn0blai2r3z7m46k2c58m5505dypvmqcjisvnzmnpg8701dk";
+          sha256 = "0y2xgdjbwbi3b057jkd1a1rqf0xcmrvms161f687vlixi79w64x7";
         }
       ];
     };
@@ -643,7 +643,7 @@
         {
           path = ''../../MIDI_Velocifier II'';
           url = "https://github.com/IXix/JSFX/raw/96c37b3eef3041f63808dfc06db23853922eb57d/Effects/MIDI/MIDI_Velocifier%20II.jsfx";
-          sha256 = "0bnzim68dmrjhfg04pmp3aap4i50hp9z9g0pqh6bzvf5vl6rx94q";
+          sha256 = "1gdglwmshhrf214lfxd32m4702zj6brdkndkx9xwp6ndvw7l4vn5";
         }
       ];
     };
