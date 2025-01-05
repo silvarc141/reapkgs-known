@@ -11507,6 +11507,25 @@
         }
       ];
     };
+    cfillion-toggle-bypass-or-offline-of-selected-fx-in-the-focused-fx-chain-window-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "cfillion-toggle-bypass-or-offline-of-selected-fx-in-the-focused-fx-chain-window-lua-1-0";
+      indexName = "ReaTeam Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = ''cfillion_Toggle bypass of selected FX in the focused FX chain window.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/3cd512ee6a2c3c51f429011dc9843c3af7dd99d2/FX/cfillion_Toggle%20bypass%20or%20offline%20of%20selected%20FX%20in%20the%20focused%20FX%20chain%20window.lua";
+          sha256 = "1dp5qg6c3ssnjbgaac58r60hvx09a1as6fxb0b5r460sds6vf7i9";
+        }
+        {
+          path = ''cfillion_Toggle offline of selected FX in the focused FX chain window.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/3cd512ee6a2c3c51f429011dc9843c3af7dd99d2/FX/cfillion_Toggle%20bypass%20or%20offline%20of%20selected%20FX%20in%20the%20focused%20FX%20chain%20window.lua";
+          sha256 = "1dp5qg6c3ssnjbgaac58r60hvx09a1as6fxb0b5r460sds6vf7i9";
+        }
+      ];
+    };
     cfillion-toggle-input-fx-bypass-for-selected-tracks-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "cfillion-toggle-input-fx-bypass-for-selected-tracks-lua-1-0";

@@ -57,7 +57,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/4b20334a17ec9b7fcf00d20b998cf9a5a1510cc2/Development/acendan_Lua%20Utilities.lua";
-          sha256 = "1fw9pnahp36r0z9k4c1jxhzwp11ikdlxvygdy2q8jscr96pr85hh";
+          sha256 = "0bhyf4mszsrqhfws4j6i779cs2j9nfaahk96q24afmnx1ng44igc";
         }
       ];
     };
@@ -85,7 +85,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/f400d84190e8c632881695419263982abb8130f0/Development/acendan_Lua%20Utilities.lua";
-          sha256 = "0lcqv5vq9vn5vvdc2xgdhdraia5jyx1a5801jlkyvlkpnyiw8xiz";
+          sha256 = "15vbv0w12byn9z4f6lhdkqd20m0ipf23pxcbjdbzgxkbxb2cl7ff";
         }
       ];
     };
@@ -309,7 +309,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/8e16519cbf0793e4813e73f27d59d22e6442a563/Development/acendan_Lua%20Utilities.lua";
-          sha256 = "04q8c2ql6l8fxijkcq10avdk4c8csm02lr2ikxn6iif8i3fyw69j";
+          sha256 = "0xipk23swn3pg1v69x7pd7zah9yw9m7g1j699j17g2zfsqf48fz0";
         }
       ];
     };
@@ -984,7 +984,7 @@
         {
           path = ''Lib/yaml.lua'';
           url = "https://github.com/acendan/reascripts/raw/18311ae8384caef71dddb9a01fb23fb0e5da9e1a/Development/Lib/yaml.lua";
-          sha256 = "14qzlmq9szx1chzws9hgayrhg6ilv1qlwr43vc4ffrirdyk87nv9";
+          sha256 = "1c8lna4aysii5cj1g630mzqcj7xr3bi53w7qv5m2clphyqccfih5";
         }
       ];
     };
@@ -998,12 +998,12 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/b3f99e91041173e95994c80961104bf3bc2d4f09/Development/acendan_Lua%20Utilities.lua";
-          sha256 = "1nv6v04sp9panf3cxwg9f8hhaisr1f0a5954ng10405rks2m7cwc";
+          sha256 = "0awjwyr26fxvc7b1b6mpxman3yfn8imdf145kg31vahpicxy7scf";
         }
         {
           path = ''Lib/yaml.lua'';
           url = "https://github.com/acendan/reascripts/raw/b3f99e91041173e95994c80961104bf3bc2d4f09/Development/Lib/yaml.lua";
-          sha256 = "14qzlmq9szx1chzws9hgayrhg6ilv1qlwr43vc4ffrirdyk87nv9";
+          sha256 = "1c8lna4aysii5cj1g630mzqcj7xr3bi53w7qv5m2clphyqccfih5";
         }
       ];
     };
@@ -1151,7 +1151,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/dc2f6cabfa12ed6537ce56a167f48b6955d0d570/Envelopes/acendan_Insert%20automation%20items%20on%20all%20selected%20tracks%20envelopes%20in%20time%20selection.lua";
-          sha256 = "0xi0a4nbfsjfnhbh0vs1pzz5aknac1mgljcakkxdar56sixgzpy1";
+          sha256 = "19xfb4rppzgm7fkw37pqfrylbnjskraq70zxpm4rcmwrfdvz9136";
         }
       ];
     };
@@ -1515,7 +1515,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/03a6a0377051f69592b47bf0e52f5b9cf56021c6/Items%20Editing/acendan_Clear%20glitchy%20stutter%20generator%20stored%20values.lua";
-          sha256 = "000m1lpxqsgf8c1fs0fg7pipac09766q1fhnxh5v623p8r7lg9mk";
+          sha256 = "14cjcjwsvmx9ghknyng1mhsk9zssmk64wsclm40zh1l6p27hx5wv";
         }
       ];
     };
@@ -1627,7 +1627,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/ad05ef7dd16dc1ff449e8c8a62a6961593723262/Items%20Editing/acendan_Count%20number%20of%20selected%20items%20in%20media%20explorer.lua";
-          sha256 = "1v74mq96j6jb6z8mnk4y1vn4snjcfjs6gfadzw7b05vnb8mv4a85";
+          sha256 = "0l7rz95aynlysnyxaz7i0wq565sp79s6q9lwl7dva45dydw37cz3";
         }
       ];
     };
@@ -1641,7 +1641,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/be40c74e86126d27b695f26523f649fe419cd6d0/Items%20Editing/acendan_Count%20number%20of%20selected%20items%20in%20media%20explorer.lua";
-          sha256 = "0z9fhfpcjbzrx7789w58bsbvd0rhwz0blwjyzd7k44xpw8rrffgb";
+          sha256 = "01dsh7pipc7zlb2z7c5a2bynbpvf95f5x0a659nc0spj592j5jkd";
         }
       ];
     };
@@ -1711,7 +1711,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/cc4280421701f896e840de92b15a2deefdc02bce/Items%20Editing/acendan_Glue%20each%20item%20in%20selected%20track%20separately.lua";
-          sha256 = "007rlp18qc94c1wwldmiirbkplch4ihrd0q5j6gvgb557cs4gajf";
+          sha256 = "186h7mr4y1p8hlfs4c2f7jg18wyi0c9jggkmzsgmrqcbi9gg921g";
         }
       ];
     };
@@ -1739,7 +1739,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/5be3a6c5cb9961edbebb9966868ac8af6d6a415c/Items%20Editing/acendan_Horizontal%20reorder%20selected%20items%20by%20color.lua";
-          sha256 = "1jj1cbzxfqad6whl3w6id0s1cc84rkzcvy5ppjalbrih6qwkqw4l";
+          sha256 = "19w4wlby92s8kz2vk2mx1k7jgp3srp08z2hx9qsgaf83n601vhwr";
         }
       ];
     };
@@ -1753,7 +1753,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/948e4debb8472b762742fcf00aed219cfedef716/Items%20Editing/acendan_Horizontal%20reorder%20selected%20items%20by%20color.lua";
-          sha256 = "0wd9sl4vr53yqi0braqpxkrqmwpmlgjlq8c34jalphanx4dvg753";
+          sha256 = "0jbp870l8441bd1ig3xbm0csxhm3jf7j1v7g246dbgxi9c9qksfk";
         }
       ];
     };
@@ -1781,7 +1781,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/490988d7627b0d754cc1a9bcbd49be4928d3c76d/Items%20Editing/acendan_Horizontal%20reorder%20selected%20items%20by%20color.lua";
-          sha256 = "0cklvg7rrz5hcc9nc981qcjixhs61z8siz9c0d138axj7blwnap1";
+          sha256 = "1y9qm2a0247b6zx4dd3m9l327vx5bbbbx8vyfyrap3xm7iqwp9bi";
         }
       ];
     };
@@ -2005,7 +2005,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/1ed66fe98f4986cf8930c9163dcd2f4372e58da5/Items%20Editing/acendan_Mousewheel%20adjust%20pitch%20of%20item%20under%20cursor.lua";
-          sha256 = "06lkcw0x58krxhlwjxv84454lxqyldax462scw7fyv8cv8hijwwp";
+          sha256 = "1bazw1d3sjxqbzdvyyvp1hk3yn342lfy79bnjypk5h0jksfw581p";
         }
       ];
     };
@@ -2257,7 +2257,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/74ee965f42614dbfd6b171d11de3ae61897c6e78/Items%20Editing/acendan_Organize%20selected%20items%20by%20channel%20count%20on%20new%20tracks.lua";
-          sha256 = "0rlxzhl8fkqb8akx2dnp3n4ddia8sz2jhfg5lqywdw2myng92fg6";
+          sha256 = "1hm06im3qilhd24dnwxsq7vm92d2fw0q344x4m8848zffzkh7mv4";
         }
       ];
     };
@@ -2776,7 +2776,7 @@
         {
           path = ''acendan_Trim or extend left edge of selected items by amount...lua'';
           url = "https://github.com/acendan/reascripts/raw/57df96b0baadf491b47555b62f8bb168ec4fd55f/Items%20Editing/acendan_Trim%20left%20edge%20of%20selected%20items%20by%20amount....lua";
-          sha256 = "0pavxrsyp4y9i86ldi3fc872srfl1ydnzcz6hix0g9kbqh1dmhvr";
+          sha256 = "1nz5y91g11h97ably6884svjbrjrkph6g1a1snzb69iqx1fnpmfv";
         }
       ];
     };
@@ -3014,12 +3014,12 @@
         {
           path = ''acendan_Find and Replace in Region Names.lua'';
           url = "https://github.com/acendan/reascripts/raw/97b084bc18dda9a3ad6cbf7c3a04c19be0fc78a2/Markers/acendan_Find%20and%20Replace%20in%20Marker%20Region%20Names.lua";
-          sha256 = "1i7fwqajx658xwy4f4gaqngbr39943j5mkv7wplpirz7akf544l8";
+          sha256 = "1riql8wvfzihxdfmymqxhm5hd3xhbwznmib25hhg9kb3h8bp6md7";
         }
         {
           path = ''acendan_Find and Replace in Marker Names.lua'';
           url = "https://github.com/acendan/reascripts/raw/97b084bc18dda9a3ad6cbf7c3a04c19be0fc78a2/Markers/acendan_Find%20and%20Replace%20in%20Marker%20Region%20Names.lua";
-          sha256 = "1i7fwqajx658xwy4f4gaqngbr39943j5mkv7wplpirz7akf544l8";
+          sha256 = "1riql8wvfzihxdfmymqxhm5hd3xhbwznmib25hhg9kb3h8bp6md7";
         }
       ];
     };
@@ -3468,7 +3468,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Media%20Explorer/acendan_Add%20custom%20user%20columns%20for%20SoundMiner%20iXML%20Metadata.lua";
-          sha256 = "1vdq5xa0b1vb65a64bmnka9ziwdkl5flni85mh4qn57qxnkrzzln";
+          sha256 = "1ny89wvxf2ah83spifjwaab9d75y802fl2vgngckjspm0ypsm20m";
         }
       ];
     };
@@ -3636,7 +3636,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/b6d685e8b476b1b023b2af3d92ddae5e177f557f/Metadata/acendan_Export%20project%20render%20metadata%20settings%20to%20file.lua";
-          sha256 = "0mn1qxnbj30asd05pfxf71zv9pwwmpc68vdn5dwq81140xi978jj";
+          sha256 = "14bh6cwha7f8jvmi96kxl847qs13djn6d4wjfa1djnnh9sv97k4j";
         }
       ];
     };
@@ -3650,7 +3650,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/81d6ac9f937df2e70beb9ef290fdbbadcd3b7acc/Metadata/acendan_Export%20project%20render%20metadata%20settings%20to%20file.lua";
-          sha256 = "1mfpx9801s3mshdjckzapwing3p97d4b8c7kaks8jqdfwsaqxiqj";
+          sha256 = "00npj6d34xa21755pzzb5mi5iscr74iylpcfazbjswnzk7zrc1y6";
         }
       ];
     };
@@ -3816,7 +3816,7 @@
         {
           path = ''BWFMetaEdit/ReadMe.txt'';
           url = "https://github.com/acendan/reascripts/raw/8ea41acd9813fb499c81e8018ac2a675b8b07c10/Metadata/BWFMetaEdit/ReadMe.txt";
-          sha256 = "13w0hhcfapnnj8rj4f0p9x85gydan17i8r9vq03rdh0kbcc84ngn";
+          sha256 = "05jz5wwsbcazba75a9ifkb7yswkjq47v7657yc98xsn7cld2ck8r";
         }
         {
           path = ''BWFMetaEdit/bwfmetaedit.exe'';
@@ -3840,17 +3840,17 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/a2ff34b2d108b2b31bcbe2530fd6db1da9505203/Metadata/acendan_Multi%20Mic%20Manager.lua";
-          sha256 = "1yxfb83qn5hrma3sx0pgfh9g81irjc8g0n0i1mfscx9kvidvz8i6";
+          sha256 = "0inlaz9b7lf5hm2nhnjdvfwyfk5lp4wn2axwj5992ywndwxg89s5";
         }
         {
           path = ''acendan_Multi Mic Manager - Create Mic Lanes.lua'';
           url = "https://github.com/acendan/reascripts/raw/a2ff34b2d108b2b31bcbe2530fd6db1da9505203/Metadata/acendan_Multi%20Mic%20Manager.lua";
-          sha256 = "1yxfb83qn5hrma3sx0pgfh9g81irjc8g0n0i1mfscx9kvidvz8i6";
+          sha256 = "0inlaz9b7lf5hm2nhnjdvfwyfk5lp4wn2axwj5992ywndwxg89s5";
         }
         {
           path = ''acendan_Multi Mic Manager - Restore Multi Mic.lua'';
           url = "https://github.com/acendan/reascripts/raw/a2ff34b2d108b2b31bcbe2530fd6db1da9505203/Metadata/acendan_Multi%20Mic%20Manager.lua";
-          sha256 = "1yxfb83qn5hrma3sx0pgfh9g81irjc8g0n0i1mfscx9kvidvz8i6";
+          sha256 = "0inlaz9b7lf5hm2nhnjdvfwyfk5lp4wn2axwj5992ywndwxg89s5";
         }
         {
           path = ''BWFMetaEdit/History.txt'';
@@ -3963,7 +3963,7 @@
         {
           path = ''BWFMetaEdit/ReadMe.txt'';
           url = "https://github.com/acendan/reascripts/raw/dd8adb13fd1aa33d27c98471a7db6ec466b6acf3/Metadata/BWFMetaEdit/ReadMe.txt";
-          sha256 = "13w0hhcfapnnj8rj4f0p9x85gydan17i8r9vq03rdh0kbcc84ngn";
+          sha256 = "05jz5wwsbcazba75a9ifkb7yswkjq47v7657yc98xsn7cld2ck8r";
         }
         {
           path = ''BWFMetaEdit/bwfmetaedit.exe'';
@@ -4267,7 +4267,7 @@
         {
           path = ''BWFMetaEdit/conformance_point_document.xsd'';
           url = "https://github.com/acendan/reascripts/raw/9e9be3d9fffd1387cfc9d8c462b469711fe682d1/Metadata/BWFMetaEdit/conformance_point_document.xsd";
-          sha256 = "16pgb5cpv6fflapry0l892j4kxgv57p0fjlsw0f343n29crddmc6";
+          sha256 = "1z60ng01hsadvhhz5pqakr2ynsl8yha3axkk97r0sfjx3wvby0vs";
         }
       ];
     };
@@ -4638,7 +4638,7 @@
         {
           path = ''acendan_Create unique regions for overlapping items on selected tracks.lua'';
           url = "https://github.com/acendan/reascripts/raw/d00bdc1dcbd816e81519f3ff09b973223fbd81ce/Regions/acendan_Create%20unique%20regions%20for%20overlapping%20items%20on%20selected%20track.lua";
-          sha256 = "1piaq7zb116cpk0mwd96w6xddxz5rizc5jlb7q1wx43rcf7llr83";
+          sha256 = "1z3vpc4l400v4daf8cxsmnnfh9l5sx7j26yhkclgn76dfma6y1q4";
         }
       ];
     };
@@ -4820,7 +4820,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/291638678e222ae04beb781ac7a3c2b0d7aa49e1/Regions/acendan_Extend%20all%20regions%20by%20length.lua";
-          sha256 = "1sjawp4hxjz83dxmhind4d0yz2slavfi9dds4r5wy39n55cxrvl5";
+          sha256 = "1c8im7kpghxjkdyjdxhqlhh352afwbi0r3rfbwgsx55ax9qig2g8";
         }
       ];
     };
@@ -4904,7 +4904,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Regions/acendan_Import%20region%20names%20from%20text%20file.lua";
-          sha256 = "0255z8lhjkibbia4apr28fq9almccn35wmqjd2anhp0w72dq7pnv";
+          sha256 = "17i9cjynzhqnx4nkxblzd5wnsq17s370xvbnnvyyv3d2zpx42lf3";
         }
       ];
     };
@@ -5537,27 +5537,27 @@
         {
           path = ''acendan_Extend right edge of time selection by 1 second.lua'';
           url = "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua";
-          sha256 = "0kyjpsm5b5267jc46x2g99amabwa3lj6bra8bva8njfahi2xl982";
+          sha256 = "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2";
         }
         {
           path = ''acendan_Extend right edge of time selection by 2 seconds.lua'';
           url = "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua";
-          sha256 = "0kyjpsm5b5267jc46x2g99amabwa3lj6bra8bva8njfahi2xl982";
+          sha256 = "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2";
         }
         {
           path = ''acendan_Extend right edge of time selection by 3 seconds.lua'';
           url = "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua";
-          sha256 = "0kyjpsm5b5267jc46x2g99amabwa3lj6bra8bva8njfahi2xl982";
+          sha256 = "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2";
         }
         {
           path = ''acendan_Extend right edge of time selection by 4 seconds.lua'';
           url = "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua";
-          sha256 = "0kyjpsm5b5267jc46x2g99amabwa3lj6bra8bva8njfahi2xl982";
+          sha256 = "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2";
         }
         {
           path = ''acendan_Extend right edge of time selection by 5 seconds.lua'';
           url = "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua";
-          sha256 = "0kyjpsm5b5267jc46x2g99amabwa3lj6bra8bva8njfahi2xl982";
+          sha256 = "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2";
         }
       ];
     };
@@ -5865,7 +5865,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/184c5b1c8d0e69481b45ab168d4b3f5026175acc/Tracks%20Properties/acendan_View%20Saved%20URLs%20By%20Track%20Name.lua";
-          sha256 = "1qxaglm88x5i87ivl7l2v59s50mdgnfnflbl608fl03fx6033hrx";
+          sha256 = "12qcp1v4f4dr6rf9cf9iqmxs9yjzszzqywpwa79c3b0dc6sgvmdy";
         }
       ];
     };
@@ -6819,7 +6819,7 @@
         {
           path = ''Schemes/UCS.yaml'';
           url = "https://github.com/acendan/reascripts/raw/d7326337fcea3dd3f0cb7572a7a047b9a74dbd72/Various/Schemes/UCS.yaml";
-          sha256 = "1zyrb01s3d4xdy8zhdni3ncmi9v0aq0x874f8vmkbgm24sn7vx26";
+          sha256 = "12f7yqirf0lan9bb11zfz7h65sr4crq9na7bf2s7scrprbd007nw";
         }
       ];
     };
@@ -6838,7 +6838,7 @@
         {
           path = ''Schemes/Example.yaml'';
           url = "https://github.com/acendan/reascripts/raw/86e2ebfbd25b3ff1a88c3d2ac5f1d569b011d334/Various/Schemes/Example.yaml";
-          sha256 = "150y2rka97p1hz1jzx391k3ppr3am3hg5s4nnp1gn1qddyslb35n";
+          sha256 = "198zxhaspfb4r4g71p1m6pflp3d8cf9vjswrp9b88v9vf449d4gs";
         }
         {
           path = ''Schemes/Generic Game.yaml'';
@@ -6906,7 +6906,7 @@
         {
           path = ''Schemes/UCS.yaml'';
           url = "https://github.com/acendan/reascripts/raw/5a91a925a284cb48a415a435bf5a17e6560d7875/Various/Schemes/UCS.yaml";
-          sha256 = "1zyrb01s3d4xdy8zhdni3ncmi9v0aq0x874f8vmkbgm24sn7vx26";
+          sha256 = "12f7yqirf0lan9bb11zfz7h65sr4crq9na7bf2s7scrprbd007nw";
         }
       ];
     };
@@ -6954,7 +6954,7 @@
         {
           path = ''Schemes/Example.yaml'';
           url = "https://github.com/acendan/reascripts/raw/307646529cbaaeab96eb0aa95629aed95bfd39d5/Various/Schemes/Example.yaml";
-          sha256 = "16qb3bndwsa3dh6536kdadwv1pvwb83avia7znh13q3rrvwhx4pf";
+          sha256 = "1id37bn93wh7fa47npnxgvh7aa7n4xli8xc0xa3klq9axcmb70i5";
         }
         {
           path = ''Schemes/Generic Game.yaml'';
@@ -7036,7 +7036,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/c8138dc371ebc0ff505fbd79413087f1237a7a00/Various/acendan_The%20Last%20Renamer.lua";
-          sha256 = "14xvjdlpwg577gdrw50iqnay0didrv6ygf5n41fx2kmbsfaa5dm9";
+          sha256 = "02xjpmymyxgm1grdyjqj31r6dinqif6vpcyp784c9xwi7l2wl4fr";
         }
         {
           path = ''Schemes/Example.yaml'';
@@ -7376,7 +7376,7 @@
         {
           path = ''Meta/meta.yaml'';
           url = "https://github.com/acendan/reascripts/raw/1a614213299ee0d38fbff00295f62bf25dbbe92f/Various/Meta/meta.yaml";
-          sha256 = "1jkwnamic0i0j9sg0hr2v4in63p4l56ynadsj9d5h0s177saisql";
+          sha256 = "0ag3l1s1w57hshmajq5cfzxl1q5s633hg7jm9ss4g1l4kvsrwz9c";
         }
       ];
     };
@@ -7682,7 +7682,7 @@
         {
           path = ''Meta/meta.yaml'';
           url = "https://github.com/acendan/reascripts/raw/b3fdfda61c5770d96da958b542940e6c8cf6caf3/Various/Meta/meta.yaml";
-          sha256 = "1cspbcf38qc84xvy8dxcpwhydzrkv7558yzp5krvpd55cs9v138a";
+          sha256 = "0nss3rk7xx4b0nzffc0g6r5r27d8m5qhm0cl977qrdk15vbi855g";
         }
       ];
     };
@@ -7711,7 +7711,7 @@
         {
           path = ''Schemes/UCS.yaml'';
           url = "https://github.com/acendan/reascripts/raw/b6103f867c8bd466b74cbd88deee7e36b7d36e47/Various/Schemes/UCS.yaml";
-          sha256 = "0i5gmwv4ygp6bj4ziwh04cylshf4w77ikr27cp2spfks2gb617sk";
+          sha256 = "015l702wld5i4dd50sanf19mayrv466hnpkkqwvpikrw9xajmnd2";
         }
         {
           path = ''Meta/meta.yaml'';
@@ -7881,7 +7881,7 @@
         {
           path = ''Schemes/UCS.yaml'';
           url = "https://github.com/acendan/reascripts/raw/024266b8e1c4eada9d5e5cee917154f1617ca105/Various/Schemes/UCS.yaml";
-          sha256 = "0i5gmwv4ygp6bj4ziwh04cylshf4w77ikr27cp2spfks2gb617sk";
+          sha256 = "015l702wld5i4dd50sanf19mayrv466hnpkkqwvpikrw9xajmnd2";
         }
         {
           path = ''Meta/meta.yaml'';
@@ -7915,7 +7915,7 @@
         {
           path = ''Schemes/UCS.yaml'';
           url = "https://github.com/acendan/reascripts/raw/28f5dcc0d0da219a9ee5ff675f0df84cb2d15b04/Various/Schemes/UCS.yaml";
-          sha256 = "0i5gmwv4ygp6bj4ziwh04cylshf4w77ikr27cp2spfks2gb617sk";
+          sha256 = "015l702wld5i4dd50sanf19mayrv466hnpkkqwvpikrw9xajmnd2";
         }
         {
           path = ''Meta/meta.yaml'';
@@ -7934,7 +7934,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/b10f894d3fc3ee6840818e8ca2e793518c3d54b3/Various/acendan_The%20Last%20Renamer.lua";
-          sha256 = "0zyq0d0p1971rvqqx08jvanmv2yld94nwjz9y1l1k1i6fwym532j";
+          sha256 = "0kb1svpiv8szi0mfhsd0f3zidzmm44qxdwjlvm2yj64x1jyxwm1r";
         }
         {
           path = ''Schemes/Example.yaml'';
@@ -7973,7 +7973,7 @@
         {
           path = ''Schemes/Example.yaml'';
           url = "https://github.com/acendan/reascripts/raw/5310852e8252b182be93164254fb8e39f8039fbb/Various/Schemes/Example.yaml";
-          sha256 = "084wbg3jh7hkg3jnd9rcym8id6cqv92y961j80i6l5gpg156xr0l";
+          sha256 = "1gfbchkvyy805apjy70xk7xr1dc9mc581faim6jzkjypb1rx0dcz";
         }
         {
           path = ''Schemes/Generic Game.yaml'';
@@ -8012,7 +8012,7 @@
         {
           path = ''Schemes/Generic Game.yaml'';
           url = "https://github.com/acendan/reascripts/raw/daa07c3c6d6431c6ef92066d43dd8a26d05f6cbd/Various/Schemes/Generic%20Game.yaml";
-          sha256 = "1rxanbnk1zzpx55mkjxdb6x309bh1vadf7l36vl0gb293nhn2ifi";
+          sha256 = "11d6lda36ywdw0wi44hqj7afbd39mafgaj0z13k5zkgq53w4sbpc";
         }
         {
           path = ''Schemes/UCS.yaml'';
@@ -8022,7 +8022,7 @@
         {
           path = ''Meta/meta.yaml'';
           url = "https://github.com/acendan/reascripts/raw/daa07c3c6d6431c6ef92066d43dd8a26d05f6cbd/Various/Meta/meta.yaml";
-          sha256 = "1cspbcf38qc84xvy8dxcpwhydzrkv7558yzp5krvpd55cs9v138a";
+          sha256 = "0nss3rk7xx4b0nzffc0g6r5r27d8m5qhm0cl977qrdk15vbi855g";
         }
       ];
     };
@@ -8352,7 +8352,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/acb6b5d45c1b74fe7ae375270932a17effcef156/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
-          sha256 = "0z0wsvykpww74d6mivhpsamalnxbf4w3i8gzmn4vy4608s57yiam";
+          sha256 = "0y32bw49hvvvqlzizj7s3zqgxj2x7sfxqb82ks3y9pnpbda6zdm0";
         }
       ];
     };
@@ -8450,7 +8450,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/090f45bec4544809d8f92a8c90b0eb3756f4201d/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
-          sha256 = "1r9yl6r3fblngr7rvi10q6li7h5rjc268pmwn6vyk36b6iv4izks";
+          sha256 = "144lw9gd5kj362dysm21kpy28mj2ac75mxx4cxpm9nl4hl6q0h6v";
         }
       ];
     };
@@ -8688,7 +8688,7 @@
         {
           path = ''acendan_UCS Renaming Tool.lua'';
           url = "https://github.com/acendan/reascripts/raw/4cb0cb734a5a1eb6a9fdad3e5f90836e3c3fdfad/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
-          sha256 = "0cky6k16syv67sy69czf79ai2n1hsv6yl481yliz6i2izcdi3gr7";
+          sha256 = "0hp6d8asi1f7g4njfav246g9avpxd6alpzfavq2ik9wqsay4bd64";
         }
       ];
     };
@@ -8716,7 +8716,7 @@
         {
           path = ''acendan_UCS Renaming Tool.lua'';
           url = "https://github.com/acendan/reascripts/raw/0e93fd219464483fa62ca300a558e81b23c90979/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
-          sha256 = "1v3f4d3rl91di40xa49i3kma0c8xrhk6r9gb1fq33klf4fw5m5ap";
+          sha256 = "0097d02rcggncsandzl4sc56cs3z9cqk7j1d3y1f2iavs0xqny3j";
         }
       ];
     };
@@ -9150,7 +9150,7 @@
         {
           path = ''acendan_UCS Renaming Tool.lua'';
           url = "https://github.com/acendan/reascripts/raw/d4bde2d3fa769b368aed4a20dd208b51c4e165ea/Various/acendan_Universal%20Category%20Renaming%20Tool.lua";
-          sha256 = "1py026h60s21zfy7z7pdnh3bdqffqlnrq6qq1ff5hh6bv1mqv7wc";
+          sha256 = "00b0lmy2rgvzdwc0b15f5ircb9ljvbrr3r7aylfqpcfs67avrj3n";
         }
       ];
     };
@@ -9240,7 +9240,7 @@
         {
           path = ''acendan_Text Overlay Preset.txt'';
           url = "https://github.com/acendan/reascripts/raw/d6333f18395a8deaf02f273ed3385cc610a31076/Video/acendan_Text%20Overlay%20Preset.txt";
-          sha256 = "03hjpdy72pjxwp7pm2f944bks07m3f18cq1k0r1hpznmb0d1kyd6";
+          sha256 = "0jfzc036rwzzsz40mksayhgpdlgjcmmrgzsyr551rcn1570wsxb7";
         }
       ];
     };
@@ -9254,7 +9254,7 @@
         {
           path = '''';
           url = "https://github.com/acendan/reascripts/raw/be48deadef7b49fc572cd276d195c8af60ab5fdf/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua";
-          sha256 = "0m7l19c9minjp626jgyj331644fq0yx4n8rxafhk16y5c2yqzb86";
+          sha256 = "1qsjz7754dg5f2ff7vpkyj7ya5ak7i93bfr2dpzgdr4xcd49qmq3";
         }
         {
           path = ''acendan_Text Overlay Preset.txt'';
@@ -9597,12 +9597,12 @@
         {
           path = ''ucs_libraries/jquery-3.5.1.min.js'';
           url = "https://github.com/acendan/reascripts/raw/ed7c38ac1a8ee3e74d0073bf0184a1713bc464a0/Web%20Interfaces/ucs_libraries/jquery-3.5.1.min.js";
-          sha256 = "172mr8vdz226gfv6v6ylhhxrg0mbd35kwlar8i5vx3rykdim0sr7";
+          sha256 = "0gbfbfcbcpl8nq2shknsyz5pirf5wbnb54m3dynxs68x9y4sbxpp";
         }
         {
           path = ''ucs_libraries/jquery.dataTables.min.js'';
           url = "https://github.com/acendan/reascripts/raw/ed7c38ac1a8ee3e74d0073bf0184a1713bc464a0/Web%20Interfaces/ucs_libraries/jquery.dataTables.min.js";
-          sha256 = "14yljz4kcjgqfwkxk9s97rqwjd2l3nsv48b0ig7c20j7xjjav616";
+          sha256 = "0q5sxsqz72rhg5hh24ag25pbj96r4qpzn11bhi51bzp5nbdyig7z";
         }
         {
           path = ''ucs_libraries/share.svg'';
@@ -9661,7 +9661,7 @@
         {
           path = ''ucs_libraries/data-transfer-download.svg'';
           url = "https://github.com/acendan/reascripts/raw/7639ff65380dca73b8f9a6465cbc34e9da9d1964/Web%20Interfaces/ucs_libraries/data-transfer-download.svg";
-          sha256 = "1nrvb4cgwaidlpky27l3l4vcjp345bkr8llk4wq3kaj0m2bmh1qn";
+          sha256 = "0vspkddsn2chwj5pd9vpjivnl2d9jy33h2kabk98mx1x13xbvvgz";
         }
         {
           path = ''ucs_libraries/dataTables.bootstrap4.min.css'';
@@ -9750,7 +9750,7 @@
         {
           path = ''ucs_libraries/dataTables.bootstrap4.min.js'';
           url = "https://github.com/acendan/reascripts/raw/808d3acb045b8c7b0a2907fa5125fd4477975fc7/Web%20Interfaces/ucs_libraries/dataTables.bootstrap4.min.js";
-          sha256 = "0phzqh5877rrbh4bxzwbir8qyh5dk9rsh84waq5zvga77agg6rq0";
+          sha256 = "1g8rmxc8wgszmvv36hghpa203f7nd58iwp5cqn9nk4hm9vcypdnm";
         }
         {
           path = ''ucs_libraries/jquery-3.5.1.min.js'';
@@ -9869,7 +9869,7 @@
         {
           path = ''ucs_libraries/wifi.svg'';
           url = "https://github.com/acendan/reascripts/raw/187562ac630f775735609ece249869344c7f983e/Web%20Interfaces/ucs_libraries/wifi.svg";
-          sha256 = "0zkgmdyq0prgs7w3nqvgs4hggvd7dakggjhw2s220fzzg9rbsik7";
+          sha256 = "0h4myvv6yk20bvfjy2hrnqardxnqwq45gglrh0d8602c8jkvylia";
         }
       ];
     };
@@ -10002,7 +10002,7 @@
         {
           path = ''ucs_libraries/dataTables.bootstrap4.min.css'';
           url = "https://github.com/acendan/reascripts/raw/31bf8d53fdb6c545dbcca1285f3d6668efe11115/Web%20Interfaces/ucs_libraries/dataTables.bootstrap4.min.css";
-          sha256 = "01bvn6iwnaaqp907p65a4cbmci86ndfpi16a8r6rngfbsp5plf7c";
+          sha256 = "1gv8rwn5z0n342a5lch97c1zaa92mc234sf5vb9av12d9z76l2ms";
         }
         {
           path = ''ucs_libraries/dataTables.bootstrap4.min.js'';
@@ -10012,7 +10012,7 @@
         {
           path = ''ucs_libraries/jquery-3.5.1.min.js'';
           url = "https://github.com/acendan/reascripts/raw/31bf8d53fdb6c545dbcca1285f3d6668efe11115/Web%20Interfaces/ucs_libraries/jquery-3.5.1.min.js";
-          sha256 = "172mr8vdz226gfv6v6ylhhxrg0mbd35kwlar8i5vx3rykdim0sr7";
+          sha256 = "0gbfbfcbcpl8nq2shknsyz5pirf5wbnb54m3dynxs68x9y4sbxpp";
         }
         {
           path = ''ucs_libraries/jquery.dataTables.min.js'';
@@ -10076,7 +10076,7 @@
         {
           path = ''ucs_libraries/bloodhound.js'';
           url = "https://github.com/acendan/reascripts/raw/f0de9f2a04d7b775c80a6e5c90c648acc2204c8b/Web%20Interfaces/ucs_libraries/bloodhound.js";
-          sha256 = "1c60bnj0fhajhab77r6ldf1dcznl20943izr760a5kijxdn1lx1r";
+          sha256 = "038jmwyv3hk6lbldg2as19hzy0dgl7sf7y2p4zmp9gi5cmjlcknn";
         }
         {
           path = ''ucs_libraries/bootstrap.min.css'';
@@ -10106,7 +10106,7 @@
         {
           path = ''ucs_libraries/dataTables.bootstrap4.min.css'';
           url = "https://github.com/acendan/reascripts/raw/f0de9f2a04d7b775c80a6e5c90c648acc2204c8b/Web%20Interfaces/ucs_libraries/dataTables.bootstrap4.min.css";
-          sha256 = "01bvn6iwnaaqp907p65a4cbmci86ndfpi16a8r6rngfbsp5plf7c";
+          sha256 = "1gv8rwn5z0n342a5lch97c1zaa92mc234sf5vb9av12d9z76l2ms";
         }
         {
           path = ''ucs_libraries/dataTables.bootstrap4.min.js'';
@@ -10161,7 +10161,7 @@
         {
           path = ''ucs_libraries/wifi.svg'';
           url = "https://github.com/acendan/reascripts/raw/f0de9f2a04d7b775c80a6e5c90c648acc2204c8b/Web%20Interfaces/ucs_libraries/wifi.svg";
-          sha256 = "0zkgmdyq0prgs7w3nqvgs4hggvd7dakggjhw2s220fzzg9rbsik7";
+          sha256 = "0h4myvv6yk20bvfjy2hrnqardxnqwq45gglrh0d8602c8jkvylia";
         }
       ];
     };
@@ -10180,17 +10180,17 @@
         {
           path = ''acendan_UCS Renaming Tool_Dark.html'';
           url = "https://github.com/acendan/reascripts/raw/420df730606fba718da0cfd7a0c0116749f722f0/Web%20Interfaces/acendan_UCS%20Renaming%20Tool_Dark.html";
-          sha256 = "003ca2nd1jqkfhznh2fg3i70slvwiygb5s0310qa9lsrh8hv3i06";
+          sha256 = "1wlb1w935wcfdbyp7y1d34jvfvkhfvgyyrjyx2s5n27azqi4pbcj";
         }
         {
           path = ''ucs_libraries/bloodhound.js'';
           url = "https://github.com/acendan/reascripts/raw/420df730606fba718da0cfd7a0c0116749f722f0/Web%20Interfaces/ucs_libraries/bloodhound.js";
-          sha256 = "1c60bnj0fhajhab77r6ldf1dcznl20943izr760a5kijxdn1lx1r";
+          sha256 = "038jmwyv3hk6lbldg2as19hzy0dgl7sf7y2p4zmp9gi5cmjlcknn";
         }
         {
           path = ''ucs_libraries/bootstrap.min.css'';
           url = "https://github.com/acendan/reascripts/raw/420df730606fba718da0cfd7a0c0116749f722f0/Web%20Interfaces/ucs_libraries/bootstrap.min.css";
-          sha256 = "017a3y6ax0y4qbhik4mnzp4x68hvvsrpydb0f03pkl3vi39jz7z2";
+          sha256 = "0vc73w6ldgj4aiznjqkdb7qxzjnqis1spr0g5463hzixx77ks3rc";
         }
         {
           path = ''ucs_libraries/bootstrap.min.css.map'';
@@ -10205,7 +10205,7 @@
         {
           path = ''ucs_libraries/bootstrap.min.js.map'';
           url = "https://github.com/acendan/reascripts/raw/420df730606fba718da0cfd7a0c0116749f722f0/Web%20Interfaces/ucs_libraries/bootstrap.min.js.map";
-          sha256 = "18lmwdyi6csn12hqf60j6l7dpl6685x2vab4pvrchghs1bp52vry";
+          sha256 = "02g7zi6clnp9wmg81da7882nm9gx6knv1gjka3vpivjbh5v5ddj5";
         }
         {
           path = ''ucs_libraries/data-transfer-download.svg'';
@@ -10220,7 +10220,7 @@
         {
           path = ''ucs_libraries/dataTables.bootstrap4.min.js'';
           url = "https://github.com/acendan/reascripts/raw/420df730606fba718da0cfd7a0c0116749f722f0/Web%20Interfaces/ucs_libraries/dataTables.bootstrap4.min.js";
-          sha256 = "0phzqh5877rrbh4bxzwbir8qyh5dk9rsh84waq5zvga77agg6rq0";
+          sha256 = "1g8rmxc8wgszmvv36hghpa203f7nd58iwp5cqn9nk4hm9vcypdnm";
         }
         {
           path = ''ucs_libraries/jquery-3.5.1.min.js'';
@@ -10235,7 +10235,7 @@
         {
           path = ''ucs_libraries/popper.min.js'';
           url = "https://github.com/acendan/reascripts/raw/420df730606fba718da0cfd7a0c0116749f722f0/Web%20Interfaces/ucs_libraries/popper.min.js";
-          sha256 = "1s66bsaaza5z9zspmd288lj2cvka4a6n0gr7kqm4kd8l489dqnwd";
+          sha256 = "0rhdzwvsya9lmi68pvldw956kifzc810a2pfashazjkv9njplbx5";
         }
         {
           path = ''ucs_libraries/popper.min.js.map'';
@@ -10250,7 +10250,7 @@
         {
           path = ''ucs_libraries/typeahead.bundle.js'';
           url = "https://github.com/acendan/reascripts/raw/420df730606fba718da0cfd7a0c0116749f722f0/Web%20Interfaces/ucs_libraries/typeahead.bundle.js";
-          sha256 = "1shpdx2bwa3brlg2xvchpzxpnar80j7hz50iqpkaym5vdq5bfvi2";
+          sha256 = "1hhr12d02kkc3ziiw0vsi1hr3l6sj52v9lwqap7v4883lw1ib8ch";
         }
         {
           path = ''ucs_libraries/typeahead.jquery.js'';
@@ -10334,7 +10334,7 @@
         {
           path = ''ucs_libraries/jquery-3.5.1.min.js'';
           url = "https://github.com/acendan/reascripts/raw/908dd76bfc6f35375627d09ac37983f0d92d6c50/Web%20Interfaces/ucs_libraries/jquery-3.5.1.min.js";
-          sha256 = "172mr8vdz226gfv6v6ylhhxrg0mbd35kwlar8i5vx3rykdim0sr7";
+          sha256 = "0gbfbfcbcpl8nq2shknsyz5pirf5wbnb54m3dynxs68x9y4sbxpp";
         }
         {
           path = ''ucs_libraries/jquery.dataTables.min.js'';
@@ -10349,7 +10349,7 @@
         {
           path = ''ucs_libraries/popper.min.js.map'';
           url = "https://github.com/acendan/reascripts/raw/908dd76bfc6f35375627d09ac37983f0d92d6c50/Web%20Interfaces/ucs_libraries/popper.min.js.map";
-          sha256 = "0p5xr0m73kiapl2i2bi3zdmnkbf60k34imiz676y271as4h7szvy";
+          sha256 = "02d2f2iay8lwbhrppxwxax8jpayxym4ykzgqwn163si17kcr8fhj";
         }
         {
           path = ''ucs_libraries/share.svg'';
@@ -10379,7 +10379,7 @@
         {
           path = ''ucs_libraries/wifi.svg'';
           url = "https://github.com/acendan/reascripts/raw/908dd76bfc6f35375627d09ac37983f0d92d6c50/Web%20Interfaces/ucs_libraries/wifi.svg";
-          sha256 = "0zkgmdyq0prgs7w3nqvgs4hggvd7dakggjhw2s220fzzg9rbsik7";
+          sha256 = "0h4myvv6yk20bvfjy2hrnqardxnqwq45gglrh0d8602c8jkvylia";
         }
       ];
     };
@@ -10393,7 +10393,7 @@
         {
           path = ''acendan_UCS Renaming Tool.html'';
           url = "https://github.com/acendan/reascripts/raw/186fb765a6bc6c6da29857462f96cfdd124f3023/Web%20Interfaces/acendan_UCS%20Renaming%20Tool.html";
-          sha256 = "11vdzpzwdy5y2mrvkcj7b4cv63yhb24f8mylmdamqk7cb2sv4xl2";
+          sha256 = "172y1siq8jx0dw95hjqr2vxpw2725r54kylidb1q969ihzpn6lj1";
         }
         {
           path = ''acendan_UCS Renaming Tool_Dark.html'';
@@ -10403,7 +10403,7 @@
         {
           path = ''ucs_libraries/bloodhound.js'';
           url = "https://github.com/acendan/reascripts/raw/186fb765a6bc6c6da29857462f96cfdd124f3023/Web%20Interfaces/ucs_libraries/bloodhound.js";
-          sha256 = "1c60bnj0fhajhab77r6ldf1dcznl20943izr760a5kijxdn1lx1r";
+          sha256 = "038jmwyv3hk6lbldg2as19hzy0dgl7sf7y2p4zmp9gi5cmjlcknn";
         }
         {
           path = ''ucs_libraries/bootstrap.min.css'';
@@ -10428,7 +10428,7 @@
         {
           path = ''ucs_libraries/data-transfer-download.svg'';
           url = "https://github.com/acendan/reascripts/raw/186fb765a6bc6c6da29857462f96cfdd124f3023/Web%20Interfaces/ucs_libraries/data-transfer-download.svg";
-          sha256 = "1nrvb4cgwaidlpky27l3l4vcjp345bkr8llk4wq3kaj0m2bmh1qn";
+          sha256 = "0vspkddsn2chwj5pd9vpjivnl2d9jy33h2kabk98mx1x13xbvvgz";
         }
         {
           path = ''ucs_libraries/dataTables.bootstrap4.min.css'';
@@ -10438,7 +10438,7 @@
         {
           path = ''ucs_libraries/dataTables.bootstrap4.min.js'';
           url = "https://github.com/acendan/reascripts/raw/186fb765a6bc6c6da29857462f96cfdd124f3023/Web%20Interfaces/ucs_libraries/dataTables.bootstrap4.min.js";
-          sha256 = "0phzqh5877rrbh4bxzwbir8qyh5dk9rsh84waq5zvga77agg6rq0";
+          sha256 = "1g8rmxc8wgszmvv36hghpa203f7nd58iwp5cqn9nk4hm9vcypdnm";
         }
         {
           path = ''ucs_libraries/flags32.css'';
@@ -10468,17 +10468,17 @@
         {
           path = ''ucs_libraries/popper.min.js.map'';
           url = "https://github.com/acendan/reascripts/raw/186fb765a6bc6c6da29857462f96cfdd124f3023/Web%20Interfaces/ucs_libraries/popper.min.js.map";
-          sha256 = "0p5xr0m73kiapl2i2bi3zdmnkbf60k34imiz676y271as4h7szvy";
+          sha256 = "02d2f2iay8lwbhrppxwxax8jpayxym4ykzgqwn163si17kcr8fhj";
         }
         {
           path = ''ucs_libraries/share.svg'';
           url = "https://github.com/acendan/reascripts/raw/186fb765a6bc6c6da29857462f96cfdd124f3023/Web%20Interfaces/ucs_libraries/share.svg";
-          sha256 = "1p9d1adrnvr7cwx4hb8700j632y8xmwr4b47qk94cvxajrzfcglq";
+          sha256 = "0lxprgm3ahrn8gjx76whb2gwm42xpgkfqc06nd9zc08a6h2zcyqk";
         }
         {
           path = ''ucs_libraries/typeahead.bundle.js'';
           url = "https://github.com/acendan/reascripts/raw/186fb765a6bc6c6da29857462f96cfdd124f3023/Web%20Interfaces/ucs_libraries/typeahead.bundle.js";
-          sha256 = "1shpdx2bwa3brlg2xvchpzxpnar80j7hz50iqpkaym5vdq5bfvi2";
+          sha256 = "1hhr12d02kkc3ziiw0vsi1hr3l6sj52v9lwqap7v4883lw1ib8ch";
         }
         {
           path = ''ucs_libraries/typeahead.jquery.js'';
@@ -10498,7 +10498,7 @@
         {
           path = ''ucs_libraries/wifi.svg'';
           url = "https://github.com/acendan/reascripts/raw/186fb765a6bc6c6da29857462f96cfdd124f3023/Web%20Interfaces/ucs_libraries/wifi.svg";
-          sha256 = "0zkgmdyq0prgs7w3nqvgs4hggvd7dakggjhw2s220fzzg9rbsik7";
+          sha256 = "0h4myvv6yk20bvfjy2hrnqardxnqwq45gglrh0d8602c8jkvylia";
         }
       ];
     };
@@ -10517,12 +10517,12 @@
         {
           path = ''acendan_UCS Renaming Tool_Dark.html'';
           url = "https://github.com/acendan/reascripts/raw/98b2cecd0a2f12de81bdaddcb24b34c2615140d4/Web%20Interfaces/acendan_UCS%20Renaming%20Tool_Dark.html";
-          sha256 = "0pvm1mfh6n7npjf95azk2fa4kjy55a26axvkm2k7p9b9lkxqs07k";
+          sha256 = "0nzmnls0z8ny3l16df2dzcdr0ij728vljyb9i7h6iz3n3zfyx1nr";
         }
         {
           path = ''ucs_libraries/bloodhound.js'';
           url = "https://github.com/acendan/reascripts/raw/98b2cecd0a2f12de81bdaddcb24b34c2615140d4/Web%20Interfaces/ucs_libraries/bloodhound.js";
-          sha256 = "1c60bnj0fhajhab77r6ldf1dcznl20943izr760a5kijxdn1lx1r";
+          sha256 = "038jmwyv3hk6lbldg2as19hzy0dgl7sf7y2p4zmp9gi5cmjlcknn";
         }
         {
           path = ''ucs_libraries/bootstrap.min.css'';
@@ -10547,7 +10547,7 @@
         {
           path = ''ucs_libraries/data-transfer-download.svg'';
           url = "https://github.com/acendan/reascripts/raw/98b2cecd0a2f12de81bdaddcb24b34c2615140d4/Web%20Interfaces/ucs_libraries/data-transfer-download.svg";
-          sha256 = "1nrvb4cgwaidlpky27l3l4vcjp345bkr8llk4wq3kaj0m2bmh1qn";
+          sha256 = "0vspkddsn2chwj5pd9vpjivnl2d9jy33h2kabk98mx1x13xbvvgz";
         }
         {
           path = ''ucs_libraries/dataTables.bootstrap4.min.css'';
@@ -10582,7 +10582,7 @@
         {
           path = ''ucs_libraries/popper.min.js'';
           url = "https://github.com/acendan/reascripts/raw/98b2cecd0a2f12de81bdaddcb24b34c2615140d4/Web%20Interfaces/ucs_libraries/popper.min.js";
-          sha256 = "1s66bsaaza5z9zspmd288lj2cvka4a6n0gr7kqm4kd8l489dqnwd";
+          sha256 = "0rhdzwvsya9lmi68pvldw956kifzc810a2pfashazjkv9njplbx5";
         }
         {
           path = ''ucs_libraries/popper.min.js.map'';
@@ -10636,12 +10636,12 @@
         {
           path = ''acendan_UCS Renaming Tool_Dark.html'';
           url = "https://github.com/acendan/reascripts/raw/95c35c9c092a13aa3090ec27a7ed0aa614f4dfcf/Web%20Interfaces/acendan_UCS%20Renaming%20Tool_Dark.html";
-          sha256 = "16wil7x36wi0ix7j1c6id8g1pagdkbpbb00krpfcrdngzj99i6ns";
+          sha256 = "0kbiwm2n6slzxfa4q7jll65hb0gr1v7dld7wpk8n3m4kf21az1jv";
         }
         {
           path = ''ucs_libraries/bloodhound.js'';
           url = "https://github.com/acendan/reascripts/raw/95c35c9c092a13aa3090ec27a7ed0aa614f4dfcf/Web%20Interfaces/ucs_libraries/bloodhound.js";
-          sha256 = "1c60bnj0fhajhab77r6ldf1dcznl20943izr760a5kijxdn1lx1r";
+          sha256 = "038jmwyv3hk6lbldg2as19hzy0dgl7sf7y2p4zmp9gi5cmjlcknn";
         }
         {
           path = ''ucs_libraries/bootstrap.min.css'';
@@ -10656,7 +10656,7 @@
         {
           path = ''ucs_libraries/bootstrap.min.js'';
           url = "https://github.com/acendan/reascripts/raw/95c35c9c092a13aa3090ec27a7ed0aa614f4dfcf/Web%20Interfaces/ucs_libraries/bootstrap.min.js";
-          sha256 = "0fya4l8dgr89ks5bsc25krsr3aajfgyyq4i5pnlwvknqv2raviva";
+          sha256 = "06xhk5r1dvg03l09fxf5qy045yxxza51hddw7cjb8l2lxv73dvg7";
         }
         {
           path = ''ucs_libraries/bootstrap.min.js.map'';

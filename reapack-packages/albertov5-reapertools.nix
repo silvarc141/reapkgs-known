@@ -144,17 +144,17 @@
         {
           path = ''stoicOSC/stoic.reaperOSC'';
           url = "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.ReaperOSC";
-          sha256 = "1hsr6gv6fg8vvm9ywxwjvw8bz8m0kyhmhv1d66kryxz87pzvgfdw";
+          sha256 = "0rb9lfmkka559g0qbssil8z1f6k841jkzslzaj61cf06cz28y7b6";
         }
         {
           path = ''stoicOSC/stoic.tosc'';
           url = "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.tosc";
-          sha256 = "0ykyqwbi8zv2sl8idvvjrnmc6ka3y9wjgna32kzzk33933pjpbk1";
+          sha256 = "0slv4zdg444c8mbamhj38npvqdidacwakyv70sz0kdi1chcf3f6h";
         }
         {
           path = ''stoicOSC/stoic.xml'';
           url = "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.xml";
-          sha256 = "0f23pny0yzjdkd7k1s2vjc0l19xcxil26c09xr45jzagcz25ly75";
+          sha256 = "091kx1hpa07imv412m3iwdwxyr60nw74ad9sk3f0dnxzp4p6w083";
         }
       ];
     };

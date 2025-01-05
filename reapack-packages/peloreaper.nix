@@ -124,7 +124,7 @@
         {
           path = ''PeloReaper/Dancer/IMG Stage_01.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2019.03.21/PeloReaper/Dancer/IMG%20Stage_01.dat";
-          sha256 = "0agfyx2mddhp137656gdaic02abmwfcb0sagdzar82ls9y2v7hf4";
+          sha256 = "1fn2hkvx5i2gml49vpkgc5pz5lvc6ldhx7ayaswq06yn6l2sp0yh";
         }
         {
           path = ''PeloReaper/Dancer/IMG Stage_01.png'';
@@ -242,7 +242,7 @@
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan_Mini.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2019.05.01/PeloReaper/Dancer/DANCER%20REAPER-Chan_Mini.dat";
-          sha256 = "00azzrvm1sydxppmz3ayrlh97y41lhc9z6z8csg9nhl77i2bafga";
+          sha256 = "0mma4x5qi7yhz0hy0bxbsw43j6rr9aw7vr6iax3xz1dik1s4qa2p";
         }
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan_Mini.png'';
@@ -281,7 +281,7 @@
         {
           path = ''PeloReaper/Doc/EULA.pdf'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2019.06.23/PeloReaper/Doc/EULA.pdf";
-          sha256 = "";
+          sha256 = "00b5qgp6rq7vh9yxi2mnnmwylmwcwab1i7a3z5dyhpa9zhihimmx";
         }
         {
           path = ''PeloReaper/Doc/PeloReaperExtGuide_jp.pdf'';
@@ -370,7 +370,7 @@
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan_Mini.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2019.06.30/PeloReaper/Dancer/DANCER%20REAPER-Chan_Mini.dat";
-          sha256 = "00azzrvm1sydxppmz3ayrlh97y41lhc9z6z8csg9nhl77i2bafga";
+          sha256 = "0mma4x5qi7yhz0hy0bxbsw43j6rr9aw7vr6iax3xz1dik1s4qa2p";
         }
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan_Mini.png'';
@@ -380,7 +380,7 @@
         {
           path = ''PeloReaper/Dancer/IMG Stage_01.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2019.06.30/PeloReaper/Dancer/IMG%20Stage_01.dat";
-          sha256 = "0agfyx2mddhp137656gdaic02abmwfcb0sagdzar82ls9y2v7hf4";
+          sha256 = "1fn2hkvx5i2gml49vpkgc5pz5lvc6ldhx7ayaswq06yn6l2sp0yh";
         }
         {
           path = ''PeloReaper/Dancer/IMG Stage_01.png'';
@@ -463,7 +463,7 @@
         {
           path = ''reaper_xdna64.dll'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2020.11.07/reaper_xdna64.dll";
-          sha256 = "";
+          sha256 = "1fshvhym7j7jjwsvvk8nk0cjawil9rjxd6ngj53kahm9w7707rdx";
         }
         {
           path = ''rdna_PeloReaper.dll'';
@@ -498,7 +498,7 @@
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan_Mini.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2020.11.07/PeloReaper/Dancer/DANCER%20REAPER-Chan_Mini.dat";
-          sha256 = "00azzrvm1sydxppmz3ayrlh97y41lhc9z6z8csg9nhl77i2bafga";
+          sha256 = "0mma4x5qi7yhz0hy0bxbsw43j6rr9aw7vr6iax3xz1dik1s4qa2p";
         }
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan_Mini.png'';
@@ -744,7 +744,7 @@
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2021.02.21/PeloReaper/Dancer/DANCER%20REAPER-Chan.dat";
-          sha256 = "00azzrvm1sydxppmz3ayrlh97y41lhc9z6z8csg9nhl77i2bafga";
+          sha256 = "0mma4x5qi7yhz0hy0bxbsw43j6rr9aw7vr6iax3xz1dik1s4qa2p";
         }
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan.png'';
@@ -828,7 +828,7 @@
         {
           path = ''PeloReaper/Dancer/IMG Stage_01.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2021.03.19/PeloReaper/Dancer/IMG%20Stage_01.dat";
-          sha256 = "0agfyx2mddhp137656gdaic02abmwfcb0sagdzar82ls9y2v7hf4";
+          sha256 = "1fn2hkvx5i2gml49vpkgc5pz5lvc6ldhx7ayaswq06yn6l2sp0yh";
         }
         {
           path = ''PeloReaper/Dancer/IMG Stage_01.png'';
@@ -1020,7 +1020,7 @@
         {
           path = ''PeloReaper/Dancer/IMG Stage_01.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2022.04.29/PeloReaper/Dancer/IMG%20Stage_01.dat";
-          sha256 = "0agfyx2mddhp137656gdaic02abmwfcb0sagdzar82ls9y2v7hf4";
+          sha256 = "1fn2hkvx5i2gml49vpkgc5pz5lvc6ldhx7ayaswq06yn6l2sp0yh";
         }
         {
           path = ''PeloReaper/Dancer/IMG Stage_01.png'';
@@ -1394,7 +1394,7 @@
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan_Mini.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2022.11.07/PeloReaper/Dancer/DANCER%20REAPER-Chan_Mini.dat";
-          sha256 = "00azzrvm1sydxppmz3ayrlh97y41lhc9z6z8csg9nhl77i2bafga";
+          sha256 = "0mma4x5qi7yhz0hy0bxbsw43j6rr9aw7vr6iax3xz1dik1s4qa2p";
         }
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan_Mini.png'';
@@ -1640,7 +1640,7 @@
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2022.11.26/PeloReaper/Dancer/DANCER%20REAPER-Chan.dat";
-          sha256 = "00azzrvm1sydxppmz3ayrlh97y41lhc9z6z8csg9nhl77i2bafga";
+          sha256 = "0mma4x5qi7yhz0hy0bxbsw43j6rr9aw7vr6iax3xz1dik1s4qa2p";
         }
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan.png'';
@@ -1970,7 +1970,7 @@
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan_Mini.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2023.07.05/PeloReaper/Dancer/DANCER%20REAPER-Chan_Mini.dat";
-          sha256 = "00azzrvm1sydxppmz3ayrlh97y41lhc9z6z8csg9nhl77i2bafga";
+          sha256 = "0mma4x5qi7yhz0hy0bxbsw43j6rr9aw7vr6iax3xz1dik1s4qa2p";
         }
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan_Mini.png'';
@@ -1980,7 +1980,7 @@
         {
           path = ''PeloReaper/Dancer/IMG Stage_01.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2023.07.05/PeloReaper/Dancer/IMG%20Stage_01.dat";
-          sha256 = "0agfyx2mddhp137656gdaic02abmwfcb0sagdzar82ls9y2v7hf4";
+          sha256 = "1fn2hkvx5i2gml49vpkgc5pz5lvc6ldhx7ayaswq06yn6l2sp0yh";
         }
         {
           path = ''PeloReaper/Dancer/IMG Stage_01.png'';
@@ -2054,7 +2054,7 @@
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan_Mini.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2023.07.30/PeloReaper/Dancer/DANCER%20REAPER-Chan_Mini.dat";
-          sha256 = "00azzrvm1sydxppmz3ayrlh97y41lhc9z6z8csg9nhl77i2bafga";
+          sha256 = "0mma4x5qi7yhz0hy0bxbsw43j6rr9aw7vr6iax3xz1dik1s4qa2p";
         }
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan_Mini.png'';
@@ -2064,7 +2064,7 @@
         {
           path = ''PeloReaper/Dancer/IMG Stage_01.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2023.07.30/PeloReaper/Dancer/IMG%20Stage_01.dat";
-          sha256 = "0agfyx2mddhp137656gdaic02abmwfcb0sagdzar82ls9y2v7hf4";
+          sha256 = "1fn2hkvx5i2gml49vpkgc5pz5lvc6ldhx7ayaswq06yn6l2sp0yh";
         }
         {
           path = ''PeloReaper/Dancer/IMG Stage_01.png'';

@@ -71,7 +71,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/LangPacks/raw/41675bb007e9a87d6d56f7631fe7064deeb563d6/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack";
-          sha256 = "1lfmma6vwglid4313ys4bnzx7xvzlbs8zj51xlwnl3xd3bzg9ggb";
+          sha256 = "0szmg181qwixgp32pjrx1r0zz50vyafknix3q9hn3pvqiv8nannv";
         }
       ];
     };
@@ -197,7 +197,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/LangPacks/raw/06c1ac0340a225330b64789a3c5f41e5fbd41374/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack";
-          sha256 = "13hh943qh12cqnc0hg8sbc4amn1047r9ky9wds5skx823glm1vj5";
+          sha256 = "07ncryg61d004sqv8n2q48i1jdqldvjlqa19aqk5i2xnd57jlb1w";
         }
       ];
     };
@@ -239,7 +239,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/LangPacks/raw/873b8125eea737ea534514689c77dcaea36bc1ce/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack";
-          sha256 = "0r47yq2blvsk8fn06925q1vi25af7qpdcxhxqnyq4xq3vsdh04c0";
+          sha256 = "02zyg4x8i27knnfysz8mfr4wcppy0gkfmjnjcszmmvl1pgi8hmg5";
         }
       ];
     };
@@ -389,7 +389,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/LangPacks/raw/661c72b234368cbcaea2d82f27114a421e34a871/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack";
-          sha256 = "0w6xkqzdklrggv39az6vbf4j9bbi53naqk0gc8pwskwhc5dvajmx";
+          sha256 = "0zxdvasgfpim5s7byh7n1j9jc1c79azbh8lk8s8z8fy8f509r0lf";
         }
       ];
     };
@@ -543,7 +543,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/LangPacks/raw/a833101fafb3704ea0da3c7f1f837f3577c6faaf/Translations/Russian.Mig.ReaperLangPack";
-          sha256 = "0wjmib2r6sax0wvqfhrf6l4qhpfw4nggbifb4bwfx509m04pasrw";
+          sha256 = "17c41jvmcwd036khb32chqjy897wy4z5iq9ikhrmgiywf6l51gx0";
         }
       ];
     };
@@ -557,7 +557,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/LangPacks/raw/a6522239a8dc8f4ab36fb4aa7e1b7bf240b3bf64/Translations/Russian.Mig.ReaperLangPack";
-          sha256 = "1mrmyxxgw57pgqpzgp9djwn591d5qzw4nckwk8r25hw5przsvgc4";
+          sha256 = "0bnrf1x1cjr28sk4vv211hkcdlcya61z1df8ql667pdnfcssc954";
         }
       ];
     };
@@ -571,7 +571,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/LangPacks/raw/3cd9f05027b9114112d7b7448960ac0d7a37db08/Translations/Russian.Mig.ReaperLangPack";
-          sha256 = "1363bj21j6f9pdj4jz9gb539dldybig6qsbxf8qdr5nkapbk3ilb";
+          sha256 = "1jdadsxbagw561jzclhixvnr2nhga0080wga2z6djlc1h8jz1q48";
         }
       ];
     };
@@ -655,7 +655,21 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/LangPacks/raw/fe500f516ae96bbee71348b57301cc16d8bd73c3/Translations/Russian.Mig.ReaperLangPack";
-          sha256 = "0r6s4xy2l2znldmqghxjcbk477r0840skj7v2zdaqzk5p391h5ki";
+          sha256 = "04wblr0w2kgq66v80r4mb9mn94kjxyyslbbrbbicvm2dy93ih8yx";
+        }
+      ];
+    };
+    russian-mig-reaperlangpack-7-29 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "russian-mig-reaperlangpack-7-29";
+      indexName = "ReaTeam LangPacks";
+      categoryName = "Translations";
+      packageType = "langpack";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/LangPacks/raw/3ad8e3812efa1ef3c9257046755c4ba1ce946a04/Translations/Russian.Mig.ReaperLangPack";
+          sha256 = "07lqxlhgik3s6ancp892y16rhhgmkcn25954wbn5jj3z60624h9h";
         }
       ];
     };

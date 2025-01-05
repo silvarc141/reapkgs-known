@@ -145,17 +145,17 @@
         }
       ];
     };
-    tormyvancool-youtube-downloader-lua-3-1 = mkReapackPackage {
+    tormyvancool-youtube-downloader-lua-3-2 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "tormyvancool-youtube-downloader-lua-3-1";
+      name = "tormyvancool-youtube-downloader-lua-3-2";
       indexName = "Tormy Van Cool ReaPack Scripts";
       categoryName = "Video";
       packageType = "script";
       sources = [
         {
           path = ''TormyVanCool_YOUTUBE_Downloader.lua'';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/3618c138313c15ddb3de39971f27b14eed63665e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
-          sha256 = "1nhi6hidp9dh4843bwgx7bkgc91389361rz47zsp05wl4vf8vj8i";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/f3a4e70f78cc9184d36662f4357e9c4e9a4d7c3e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
+          sha256 = "04qic0b8a4qm5p2m2n90gbv92aj5kfydah2kr28nfbh9fjxnl86z";
         }
         {
           path = ''yt-dlp/yt-dlp.exe'';
@@ -179,23 +179,23 @@
         }
         {
           path = '''';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/3618c138313c15ddb3de39971f27b14eed63665e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
-          sha256 = "1nhi6hidp9dh4843bwgx7bkgc91389361rz47zsp05wl4vf8vj8i";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/f3a4e70f78cc9184d36662f4357e9c4e9a4d7c3e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
+          sha256 = "04qic0b8a4qm5p2m2n90gbv92aj5kfydah2kr28nfbh9fjxnl86z";
         }
         {
           path = '''';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/3618c138313c15ddb3de39971f27b14eed63665e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
-          sha256 = "1nhi6hidp9dh4843bwgx7bkgc91389361rz47zsp05wl4vf8vj8i";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/f3a4e70f78cc9184d36662f4357e9c4e9a4d7c3e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
+          sha256 = "04qic0b8a4qm5p2m2n90gbv92aj5kfydah2kr28nfbh9fjxnl86z";
         }
         {
           path = '''';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/3618c138313c15ddb3de39971f27b14eed63665e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
-          sha256 = "1nhi6hidp9dh4843bwgx7bkgc91389361rz47zsp05wl4vf8vj8i";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/f3a4e70f78cc9184d36662f4357e9c4e9a4d7c3e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
+          sha256 = "04qic0b8a4qm5p2m2n90gbv92aj5kfydah2kr28nfbh9fjxnl86z";
         }
         {
           path = '''';
-          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/3618c138313c15ddb3de39971f27b14eed63665e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
-          sha256 = "1nhi6hidp9dh4843bwgx7bkgc91389361rz47zsp05wl4vf8vj8i";
+          url = "https://github.com/tormyvancool/TormyVanCool_ReaPack_Scripts/raw/f3a4e70f78cc9184d36662f4357e9c4e9a4d7c3e/Video/TormyVanCool_YOUTUBE_Downloader.lua";
+          sha256 = "04qic0b8a4qm5p2m2n90gbv92aj5kfydah2kr28nfbh9fjxnl86z";
         }
       ];
     };

@@ -8715,6 +8715,20 @@
         }
       ];
     };
+    x-raym-midi-aftertouch-eater-jsfx-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-midi-aftertouch-eater-jsfx-1-0";
+      indexName = "X-Raym Scripts";
+      categoryName = "JSFX/MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/898a3f581458d4d804d4f24ba260cda3aa43f760/JSFX/MIDI/X-Raym_MIDI%20Aftertouch%20eater.jsfx";
+          sha256 = "12s7p55nscqssrrv561pijq9wnngbiz66lpk6v9s35v6wspb27aq";
+        }
+      ];
+    };
     x-raym-midi-cc-channel-router-jsfx-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-midi-cc-channel-router-jsfx-1-0";
@@ -8855,6 +8869,20 @@
         }
       ];
     };
+    x-raym-midi-notes-sequence-from-csv-file-jsfx-2-1-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-midi-notes-sequence-from-csv-file-jsfx-2-1-1";
+      indexName = "X-Raym Scripts";
+      categoryName = "JSFX/MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/569447e425b698d1952c981bb4be8071f5ca118a/JSFX/MIDI/X-Raym_MIDI%20notes%20sequence%20from%20CSV%20file.jsfx";
+          sha256 = "1mbk3qk9dx774bpwg540n29d9v2qfzs5r94kw656csdikvawb869";
+        }
+      ];
+    };
     x-raym-midi-single-note-map-jsfx-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-midi-single-note-map-jsfx-1-0";
@@ -8883,6 +8911,20 @@
         }
       ];
     };
+    x-raym-note-on-under-x-velocity-to-note-off-jsfx-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-note-on-under-x-velocity-to-note-off-jsfx-1-0-1";
+      indexName = "X-Raym Scripts";
+      categoryName = "JSFX/MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/4fef6b7f1965f780ec7b05edac2f5d827b950c75/JSFX/MIDI/X-Raym_Note%20On%20under%20X%20velocity%20to%20Note%20Off.jsfx";
+          sha256 = "0s9mx14v3iz49ky9dn44r1w3iny48jxwjic04100w7788ypcji4f";
+        }
+      ];
+    };
     x-raym-note-to-cc-jsfx-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-note-to-cc-jsfx-1-0";
@@ -8908,6 +8950,20 @@
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/JSFX/MIDI/X-Raym_Note%20to%20CC.jsfx";
           sha256 = "1vxidf4jdzfdzyf1qiz48y0qdsr5xjx8y3pmd7la22xrx3q6910d";
+        }
+      ];
+    };
+    x-raym-note-to-cc-jsfx-1-1-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-note-to-cc-jsfx-1-1-1";
+      indexName = "X-Raym Scripts";
+      categoryName = "JSFX/MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/4fef6b7f1965f780ec7b05edac2f5d827b950c75/JSFX/MIDI/X-Raym_Note%20to%20CC.jsfx";
+          sha256 = "0wd8842jx8x46353686qjrk66wj1iyb4w739cwchiac7h8i0dbj7";
         }
       ];
     };

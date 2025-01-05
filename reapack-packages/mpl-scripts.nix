@@ -16399,6 +16399,75 @@
         }
       ];
     };
+    mpl-rs5k-manager-background-lua-3-29 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-rs5k-manager-background-lua-3-29";
+      indexName = "MPL Scripts";
+      categoryName = "FX specific";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/69885b75e2ed5d5f628f34ce54897b696ad9ac6f/FX%20specific/mpl_RS5k%20manager%20(background).lua";
+          sha256 = "14d34j9w620n13fgvv1rjrmln85ic2b98q8n7w8pv3pk0lkvlb2d";
+        }
+        {
+          path = ''mpl_RS5k_manager_Database_NewSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/69885b75e2ed5d5f628f34ce54897b696ad9ac6f/FX%20specific/mpl_RS5k_manager_Database_NewSample.lua";
+          sha256 = "113yp87l6g72s9vi22a3p5w5ksd9zkg2y5hp19nln8131b6xd57x";
+        }
+        {
+          path = ''mpl_RS5k_manager_Database_NewKit.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/69885b75e2ed5d5f628f34ce54897b696ad9ac6f/FX%20specific/mpl_RS5k_manager_Database_NewKit.lua";
+          sha256 = "1bdvsq2x1h743a3y0nsdca8nx9p9ag89p5zcwf57rpzm9mkk8hnv";
+        }
+        {
+          path = ''mpl_RS5k_manager_Database_Lock.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/69885b75e2ed5d5f628f34ce54897b696ad9ac6f/FX%20specific/mpl_RS5k_manager_Database_Lock.lua";
+          sha256 = "1zvdvasczzcwssvympidm4flqpdcjrg31gky15c3xd5n4x4rnpg1";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_PreviousSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/69885b75e2ed5d5f628f34ce54897b696ad9ac6f/FX%20specific/mpl_RS5k_manager_Sampler_PreviousSample.lua";
+          sha256 = "1ijha4hpzim8h28cg9slnazg9knam7l9db0m8i067b7a0rxqjj8m";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_NextSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/69885b75e2ed5d5f628f34ce54897b696ad9ac6f/FX%20specific/mpl_RS5k_manager_Sampler_NextSample.lua";
+          sha256 = "110x1rbjvcn16ggi8jsqaz0xi7xzzln3dcg5w3j2n9za3glnnr0b";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_RandSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/69885b75e2ed5d5f628f34ce54897b696ad9ac6f/FX%20specific/mpl_RS5k_manager_Sampler_RandSample.lua";
+          sha256 = "109jgjzq49kl3k8y6q7ic913kqgjvg35sxbhmvlpr4wwh462rr86";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Solo.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/69885b75e2ed5d5f628f34ce54897b696ad9ac6f/FX%20specific/mpl_RS5k_manager_DrumRack_Solo.lua";
+          sha256 = "1bhpx6yw0jwmjma9p60whyvilps6rqifhnxlx1h5piq6cq2lkvr5";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Mute.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/69885b75e2ed5d5f628f34ce54897b696ad9ac6f/FX%20specific/mpl_RS5k_manager_DrumRack_Mute.lua";
+          sha256 = "1fipssbkw813hl5hdvql0ycngxchgjnaq5nx3s73inl5r77ns4pl";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Clear.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/69885b75e2ed5d5f628f34ce54897b696ad9ac6f/FX%20specific/mpl_RS5k_manager_DrumRack_Clear.lua";
+          sha256 = "109160l4jh616kffnj988w1drxw0wyvvi21si4ijgh6nndbkynmg";
+        }
+        {
+          path = ''mpl_RS5k_manager_MacroControls.jsfx'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/69885b75e2ed5d5f628f34ce54897b696ad9ac6f/FX%20specific/mpl_RS5k_manager_MacroControls.jsfx";
+          sha256 = "0qqjprfvqf4f2f32njb5iz37ilhlhin4i647gd0wzh2rm9di4qah";
+        }
+        {
+          path = ''mpl_RS5K_manager_MIDIBUS_choke.jsfx'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/69885b75e2ed5d5f628f34ce54897b696ad9ac6f/FX%20specific/mpl_RS5K_manager_MIDIBUS_choke.jsfx";
+          sha256 = "03m9f2m6mjmbaqgp8csr7hbj7qvd5jzz2n9pq8ba4yfisgv212cv";
+        }
+      ];
+    };
     mpl-rs5k-manager-macrocontrols-jsfx-1-02 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-macrocontrols-jsfx-1-02";
@@ -18371,6 +18440,63 @@
           path = ''mpl_Notification, set track volume changed.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/931f9921a94295eee26f5cfd6b7d7ad958f9967c/Meta/mpl_Notification,%20set%20track%20volume%20changed.lua";
           sha256 = "0papv9p5z0vivysc7jgv61p82j2np85rvn3ayyfdv84zynmbj65n";
+        }
+      ];
+    };
+    mpl-notification-lua-1-05 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-notification-lua-1-05";
+      indexName = "MPL Scripts";
+      categoryName = "Meta";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/17b68f0fd2f5403bf99c94ff38aa36554e674e89/Meta/mpl_Notification.lua";
+          sha256 = "1r1fvgbjzadz7f1ikwq5hhn6j68l721xisgxa0imwa8ras446bm5";
+        }
+        {
+          path = ''mpl_Notification, set track volume changed.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/17b68f0fd2f5403bf99c94ff38aa36554e674e89/Meta/mpl_Notification,%20set%20track%20volume%20changed.lua";
+          sha256 = "0m7svga80jwfa753kq9821jlpnv3cr0imw9bjgjnr6zxw1ig0xc2";
+        }
+      ];
+    };
+    mpl-notification-lua-1-06 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-notification-lua-1-06";
+      indexName = "MPL Scripts";
+      categoryName = "Meta";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1f26e9172d9494a57a71c5175ac8851876e959d3/Meta/mpl_Notification.lua";
+          sha256 = "1ap2blc3fd3430cykkpfj7p135y290fq5kia1zl9hzhk7944qlls";
+        }
+        {
+          path = ''mpl_Notification, set track volume changed.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1f26e9172d9494a57a71c5175ac8851876e959d3/Meta/mpl_Notification,%20set%20track%20volume%20changed.lua";
+          sha256 = "0m7svga80jwfa753kq9821jlpnv3cr0imw9bjgjnr6zxw1ig0xc2";
+        }
+      ];
+    };
+    mpl-notification-lua-1-07 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-notification-lua-1-07";
+      indexName = "MPL Scripts";
+      categoryName = "Meta";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7cad864b14dc208e823c3100056758bf2088ac5e/Meta/mpl_Notification.lua";
+          sha256 = "0krgh1f8jxd0m22av4j5wwnx9iyw3qwg9fcjw8bvscbgk9zksw9x";
+        }
+        {
+          path = ''mpl_Notification, set track volume changed.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7cad864b14dc208e823c3100056758bf2088ac5e/Meta/mpl_Notification,%20set%20track%20volume%20changed.lua";
+          sha256 = "0m7svga80jwfa753kq9821jlpnv3cr0imw9bjgjnr6zxw1ig0xc2";
         }
       ];
     };
@@ -25803,6 +25929,190 @@
           path = ''mpl_Send track under mouse cursor to selected tracks (channel 15-16 to 1-2).lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
           sha256 = "1hscrhcc7m7yzv7ryd8a8rc2jsf9741a9rqp5mb88gkrfk256gsi";
+        }
+      ];
+    };
+    mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-21 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-create-send-between-selected-tracks-and-track-under-mouse-cursor-lua-1-21";
+      indexName = "MPL Scripts";
+      categoryName = "Tracks Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (multichannel).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 1-2, post-fader).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 1-2, pre-fx).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 1-2, post-fx).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 3-4).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 5-6).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 7-8).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 9-10).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 11-12).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 13-14).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 1-2 to 15-16).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 3-4 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 5-6 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 7-8 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 9-10 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 11-12 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 13-14 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send selected tracks to track under mouse cursor (channel 15-16 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks  (multichannel).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 3-4).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 5-6).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 7-8).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 9-10).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 11-12).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 13-14).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks  (channel 1-2 to 15-16).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks  (channel 3-4 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks  (channel 5-6 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks (channel 7-8 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks (channel 9-10 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks (channel 11-12 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks (channel 13-14 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
+        }
+        {
+          path = ''mpl_Send track under mouse cursor to selected tracks (channel 15-16 to 1-2).lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c8a4e4b6f962955863beba61f6103cf6d0f41edd/Tracks%20Properties/mpl_Create%20send%20between%20selected%20tracks%20and%20track%20under%20mouse%20cursor.lua";
+          sha256 = "0q8znqd6jwvmnqs6kvh160w94nxdf901ljq6f6ck3skp8c2vvv5p";
         }
       ];
     };
