@@ -25,7 +25,7 @@
         {
           path = ''reascript_modules/DBM_popups.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/4b11437d21080f2fd3531c19dbc6854ada64be76/DBManager/reascript_modules/DBM_popups.lua";
-          sha256 = "1s7nacfwy2d9303v1agk12n9nm4vps5y4dbmkjp1plaqan57kipi";
+          sha256 = "";
         }
         {
           path = ''reascript_modules/DBM_helper.lua'';
@@ -45,12 +45,12 @@
         {
           path = ''Documentation/Help.html'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/4b11437d21080f2fd3531c19dbc6854ada64be76/DBManager/Documentation/Help.html";
-          sha256 = "1ncm58xi9pybyaykvvcdfrc061c64mcp91ng788sw247sipiy2yq";
+          sha256 = "";
         }
         {
           path = ''Documentation/configTemplate.json'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/4b11437d21080f2fd3531c19dbc6854ada64be76/DBManager/Documentation/configTemplate.json";
-          sha256 = "1wr08rzwv5l82crn875zcr9dwq6javdy8vmmk5adal174i3hymxa";
+          sha256 = "";
         }
         {
           path = ''changelog.md'';
@@ -90,7 +90,7 @@
         {
           path = ''osx_launchers/osx_version.sh'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/4b11437d21080f2fd3531c19dbc6854ada64be76/DBManager/osx_launchers/osx_version.sh";
-          sha256 = "1hi1x2hif1igar34dzkl1d1sfh88q5qqb7071cmjg0pkflf69zm7";
+          sha256 = "";
         }
       ];
     };
@@ -114,7 +114,7 @@
         {
           path = ''reascript_modules/DBM_popups.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/bf4b8cc6ddae73ceae682b44498d5a59faa28ddb/DBManager/reascript_modules/DBM_popups.lua";
-          sha256 = "1s7nacfwy2d9303v1agk12n9nm4vps5y4dbmkjp1plaqan57kipi";
+          sha256 = "1b269bf0960z0ns5syfdsg6qxv4gqghs60vnwyihi0m12ijyjy6s";
         }
         {
           path = ''reascript_modules/DBM_helper.lua'';
@@ -159,7 +159,7 @@
         {
           path = ''Documentation/images/folders.png'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/bf4b8cc6ddae73ceae682b44498d5a59faa28ddb/DBManager/Documentation/images/folders.png";
-          sha256 = "15z7r3p2bwz9f76h1pkds7d3j27jhg1ygdi89p5vzw7lksmchvpw";
+          sha256 = "";
         }
         {
           path = ''Documentation/images/redirectPath.png'';
@@ -174,7 +174,7 @@
         {
           path = ''Documentation/configTemplate.json'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/bf4b8cc6ddae73ceae682b44498d5a59faa28ddb/DBManager/Documentation/configTemplate.json";
-          sha256 = "1wr08rzwv5l82crn875zcr9dwq6javdy8vmmk5adal174i3hymxa";
+          sha256 = "";
         }
         {
           path = ''changelog.md'';
@@ -204,7 +204,7 @@
         {
           path = ''osx_launchers/osx_deduplicate.sh'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/bf4b8cc6ddae73ceae682b44498d5a59faa28ddb/DBManager/osx_launchers/osx_deduplicate.sh";
-          sha256 = "04gwmzk4c5wbashn53a4gng14wm4arn5gsdf9c03sdss64wqzwrn";
+          sha256 = "0s3vsdgc9db3r7q14vqwkxynli4hsacyh5bxndd66z9cdf43wvfx";
         }
         {
           path = ''osx_launchers/osx_export.sh'';
@@ -214,7 +214,7 @@
         {
           path = ''osx_launchers/osx_version.sh'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/bf4b8cc6ddae73ceae682b44498d5a59faa28ddb/DBManager/osx_launchers/osx_version.sh";
-          sha256 = "1hi1x2hif1igar34dzkl1d1sfh88q5qqb7071cmjg0pkflf69zm7";
+          sha256 = "1gfg96kndsnk2azv2l43grzyba9wbspwh1kxnqaabcqgcyq3cgb0";
         }
       ];
     };
@@ -284,7 +284,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20Channel%20Order%20Converter.jsfx";
-          sha256 = "0v13grvbb7s8jgx7jdvvlzfh1pb7fxjfxyinww088grk1fs5mxh8";
+          sha256 = "";
         }
       ];
     };
@@ -312,7 +312,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/101453266e5cb0516100fba848a87d1bad008eea/Lua/Automation/CS_ConvertVolumeAutomationFadesToItemFades.lua";
-          sha256 = "12jaaid0n4jm9msjvw9ab7dq6vrdbhm804dx77nsz67iv8jci3jz";
+          sha256 = "0m8y7l9kcsh159ywzgll0n7dibb070sm0zya8j0bddma6cdyz9lr";
         }
       ];
     };
@@ -326,7 +326,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/77afac05871a9f00cd1a8aa2087a0a1c77f5d527/Lua/Automation/CS_ConvertVolumeAutomationFadesToItemFades.lua";
-          sha256 = "080bawr5b2mkm9bkkjxi1hdgxg1ni8669wdknl8fvv9q3fd7v727";
+          sha256 = "";
         }
       ];
     };
@@ -396,7 +396,7 @@
         {
           path = ''CS_Copy selected item before all markers within time selection/CS_Copy selected item before all markers within time selection.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Copy%20selected%20item%20before%20all%20markers%20within%20time%20selection.lua";
-          sha256 = "1kk7yvkmq6xsvih8ynx6rsr6irx04q1rjxpr53s9h79d6xa98irn";
+          sha256 = "";
         }
       ];
     };
@@ -410,7 +410,7 @@
         {
           path = ''CS_Copy Take Volume Envelope to Track Volume Envelope/CS_Copy Take Volume Envelope to Track Volume Envelope.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Copy%20Take%20Volume%20Envelope%20to%20Track%20Volume%20Envelope.lua";
-          sha256 = "0prnp9ifnrcpgzixb7d1cpwbav1xyx9w0f11izv29gf66kh7dzz8";
+          sha256 = "";
         }
         {
           path = ''CS_Copy Take Volume Envelope to Track Volume Envelope/CS_Library.lua'';
@@ -471,7 +471,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/21c74d235930306354fa9e43f254801d04e749f6/Lua/Editing/CS_Extend%20Item%20to%20Full%20Length.lua";
-          sha256 = "13hfaz7df7zca0zd952p4zxq6nvyrkazgj80qsa3sagzrj681ssa";
+          sha256 = "";
         }
       ];
     };
@@ -485,7 +485,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/9db484f0d5d21f89fe6ffb5c0654e7df683baf2b/Lua/Editing/CS_Extend%20Item%20to%20Full%20Length.lua";
-          sha256 = "10ifq69114xkarmyifzijkpaj5hvqj6zy7ww2f31qfhbs3wj0462";
+          sha256 = "";
         }
       ];
     };
@@ -555,7 +555,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Editing/CS_Move%20Cursor%20To%20Middle%20of%20Time%20Selection.lua";
-          sha256 = "04n8vks32a4clhy8ivi1jknqm1254mzhwcfj8l9agasqqfahcq1c";
+          sha256 = "";
         }
       ];
     };
@@ -597,7 +597,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/84b0bc424d9cb197d30cb67156180bed58952bf1/Lua/Editing/CS_Pro%20Tools%20Tab%20to%20Next%20Transient.lua";
-          sha256 = "1naw4dxwrc0abc5m09byf9vpbakcz3md0y0njz8dczayc332vgwn";
+          sha256 = "";
         }
       ];
     };
@@ -611,7 +611,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/84b0bc424d9cb197d30cb67156180bed58952bf1/Lua/Editing/CS_Pro%20Tools%20Tab%20to%20Previous%20Transient.lua";
-          sha256 = "086jbndwccd4c6qh965q4f585f0bz8gy2sad853wfg5j9854z2hh";
+          sha256 = "";
         }
       ];
     };
@@ -653,7 +653,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Shrink%20edges%20in%20both%20directions%20fading%20from%20time%20selection.lua";
-          sha256 = "1kv894j8nsnzwg81yf7z61ykv29s43i4ihxq3qwvsp4a15plail3";
+          sha256 = "";
         }
       ];
     };
@@ -700,7 +700,7 @@
         {
           path = ''CS_Smart Mute/CS_Smart Mute.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Mute.lua";
-          sha256 = "17p47w7wmwf16670j67xi2v5p8mb3kw54dqk7bfrwpp5zv44n3cy";
+          sha256 = "14sqbflfvyxgvzwzigvrx84k7vrh4bww1pg5almd9yilwjckrh34";
         }
         {
           path = ''CS_Smart Mute/CS_Library.lua'';
@@ -719,7 +719,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Set%20Snap%20Offset.lua";
-          sha256 = "106ncmnyzk6mbi6sws6kbj3n7vk4xkjw4yp1k98x1zhsyif3a56v";
+          sha256 = "0fkm7cph7kwg1j0ba0n8g12qwn12kbg0i990h0ryqz5ydgizdfg5";
         }
       ];
     };
@@ -733,7 +733,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Split%20Following%20Snapping.lua";
-          sha256 = "0b3h84cg1cxrwna8ki5bx8f10x7a6vs0f7v3nfxqxzkv3qkr5amy";
+          sha256 = "";
         }
       ];
     };
@@ -799,7 +799,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Items/CS_Item%20Disable%20Invert%20Phase.lua";
-          sha256 = "0hrx9hq8ymim2y5jla20lmz2j2c3jz6426a5nq2xmsaavhs5i9bb";
+          sha256 = "";
         }
       ];
     };
@@ -879,7 +879,7 @@
         {
           path = ''CS_Item Enable Invert Phase/CS_Item Enable Invert Phase.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Enable%20Invert%20Phase.lua";
-          sha256 = "1jhzvhjci08ghvg2h9mb2bni1vnz6a25d1qxskbsfqvcvf9k93y9";
+          sha256 = "1nd0wyfc4qwjk07jc4lqvbp4zrfy7cwdmm7637qrwrslzd4ysyff";
         }
         {
           path = ''CS_Item Enable Invert Phase/CS_Library.lua'';
@@ -969,7 +969,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/ecec2559110cce576d5a23b6a19314176c0b21ef/Lua/Items/CS_Select%20all%20takes%20with%20volume%20below%20threshold.lua";
-          sha256 = "1iy6rr8zqacgqjp52c0jrh9085p6nbcv943j6yvy2kz3xqx6wswn";
+          sha256 = "";
         }
       ];
     };
@@ -983,7 +983,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/ce744f62047426bab1d0e58060e3fcdd2c268795/Lua/Items/CS_Select%20all%20takes%20with%20volume%20below%20threshold.lua";
-          sha256 = "1vjpzz4sh33icv4ksk1xyhpz3kcjj0pmg1a5d13h59k5shiyryvx";
+          sha256 = "0zs71hriiz2a04h0algyhyhd08k1lx1s3n4az38p6lynngipsg4s";
         }
       ];
     };
@@ -1025,7 +1025,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Markers/CS_Create%20Marker%200%20-%20Green.lua";
-          sha256 = "12c69jkykz4i1148hh5vzqkg3md6k959kzc6yn3vp0g567zpvbgn";
+          sha256 = "";
         }
       ];
     };
@@ -1109,7 +1109,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Markers/CS_Place%20Markers%20at%20Out%20of%20Phase%20points.lua";
-          sha256 = "02qca5hcvnzg7w13psqfm48048cgpy942awb6v234555c8km7h4b";
+          sha256 = "";
         }
       ];
     };
@@ -1193,12 +1193,12 @@
         {
           path = ''CS_Rename Currently Recording Take/CS_Rename Currently Recording Take.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Recording/CS_Rename%20Currently%20Recording%20Take.lua";
-          sha256 = "068xsy6mb4zh6prf2v7rzzgnhq1mhvx4ydrx5xa8qkszhc7bv782";
+          sha256 = "10ifpn4zlr13x5kkb1b3i2sj0rjrdh9hkh30ssmgvg2syc737yxc";
         }
         {
           path = ''CS_Rename Currently Recording Take/TextInput_Module.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/TextInput_Module.lua";
-          sha256 = "0xnzs5v0znvhw1vzaffl8mby7wwafnk7alki5s29412i81al74ks";
+          sha256 = "";
         }
       ];
     };
@@ -1212,7 +1212,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Selection/CS_Extend%20Track%20Selection%20to%20Track%20under%20Mouse.lua";
-          sha256 = "1vpa4np5vg7ixb5xy2cnjkr7a4rfvzsdzrxf4z21s98m7vhwahqp";
+          sha256 = "1jv8bjipgci9k7f1ly4pqsiknqi0g00vk3vcs0jk4b6xza8gcr4i";
         }
       ];
     };
@@ -1226,7 +1226,7 @@
         {
           path = ''CS_Export item name list to clipboard/CS_Export item name list to clipboard.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Tools/CS_Export%20item%20name%20list%20to%20clipboard.lua";
-          sha256 = "1xsizph923mcb4z5n8qg2bn381mqzrsa2d33x4w49vd0mhwnh0gm";
+          sha256 = "";
         }
         {
           path = ''CS_Export item name list to clipboard/CS_Library.lua'';
@@ -1264,7 +1264,7 @@
         {
           path = ''CS_Export item source list to clipboard/CS_Export item source list to clipboard.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Tools/CS_Export%20item%20source%20list%20to%20clipboard.lua";
-          sha256 = "09wjlbfp06p564nfqsn0bybnlj3k1m4nspypn7lad3k3aw5mr2y2";
+          sha256 = "";
         }
         {
           path = ''CS_Export item source list to clipboard/CS_Library.lua'';
@@ -1283,7 +1283,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/eca82c5cb60c61ce1e63f54414fbda34fbec3fe3/Lua/Tools/CS_GoToTime.lua";
-          sha256 = "12953vyn8rm2xyqb6zv9jq9iz0hbdhz5yz8q27sgphkpkzv1paga";
+          sha256 = "";
         }
       ];
     };
@@ -1297,7 +1297,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7f835cf5479535f6ce7fed5565011df3ce08bff1/Lua/Tools/CS_GoToTime.lua";
-          sha256 = "0anv9yj9449diiigik06i0j385s74ikdxy3gsk4ag6h37y99zd7a";
+          sha256 = "";
         }
         {
           path = ''../Libraries/Go To Time/TimecodeInput_Module.lua'';
@@ -1354,7 +1354,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/e5c72096fd8ca5d78a210ae84070d94dab5fe44c/Lua/Tools/CS_GoToTime.lua";
-          sha256 = "0rd7pwyhbvz3gs7s88qnw0q4l2y8fy49jv8jn1gaggdiyw8shky1";
+          sha256 = "0al8r5lfa8jbvbiyfq58yjivxdlbflszxyaw0rnxwpkxabnwwm3b";
         }
         {
           path = ''../Libraries/Go To Time/TimecodeInput_Module.lua'';
@@ -1397,7 +1397,7 @@
         {
           path = ''../Libraries/Go To Time/TimecodeInput_Module.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/b083dfe521d222fd6d3d5e212423ec784a620082/Lua/Libraries/TimecodeInput_Module.lua";
-          sha256 = "186rwgg70zv6n63rwsw86b1z2h9f9vaxz2w43c7sw58ycrhc9nar";
+          sha256 = "";
         }
         {
           path = ''../Libraries/Go To Time/CS_Library.lua'';
@@ -1421,7 +1421,7 @@
         {
           path = ''../Libraries/Go To Time/TimecodeInput_Module.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/095feae006a460ea581fe1d0860fa78b246acd7a/Lua/Libraries/TimecodeInput_Module.lua";
-          sha256 = "1ymb8z4ka5nv294ayam8arhmjlqxm7rsxkrchj153cqgidkdgs56";
+          sha256 = "";
         }
       ];
     };
@@ -1435,7 +1435,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/eff90deacc5845065ea200a225aad4a70b954b52/Lua/Tools/CS_GoToTime.lua";
-          sha256 = "0miq5j2cim7pw6d4l9gcimbqy0x6hlwcy2v198cibl8qzl15ggjs";
+          sha256 = "";
         }
         {
           path = ''../Libraries/Go To Time/TimecodeInput_Module.lua'';
@@ -1468,7 +1468,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0ce3eeefc0385febbfca8774693a25eb733079fd/Lua/Tools/CS_Set%20Minimum%20Grid%20Division%20Pixels%20to%200.lua";
-          sha256 = "0jjydyj3zzdjrf3dz5hgl64djiq8fiz52mg4j3gcnhwn3pjcpcbv";
+          sha256 = "12c487yxfnq3c1140zmnr0z54ypa0db3ss0nv5lg25qwlj9cysfr";
         }
       ];
     };
@@ -1510,7 +1510,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/2bbd6b7b0deee797c3c1db39906d305f489c1649/Lua/Tools/CS_Set%20Time%20Selection%20In.lua";
-          sha256 = "09d1d8cqpc4gjjsids3drk3q5l75wy48mb2psl8bj2ci0sar3s5l";
+          sha256 = "016jvjmcd1bn4z67pkxkvffpdy1m4agwh4pmq90xfp2j007s33bl";
         }
       ];
     };
@@ -1524,7 +1524,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7f835cf5479535f6ce7fed5565011df3ce08bff1/Lua/Tools/CS_Set%20Time%20Selection%20In.lua";
-          sha256 = "0njixrx3nrgm8ckggyy4l33kcls5j14g5k7h7hxx1aca4ivcr6y3";
+          sha256 = "1ynyblqgzdq2lihd2nhllsk399z36igfz1fy5cgl82d4kn4vh7v6";
         }
         {
           path = ''../Libraries/Set Time Selection In/TimecodeInput_Module.lua'';
@@ -1543,7 +1543,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7efef0448fa39318199a293fdd438d045c7a960e/Lua/Tools/CS_Set%20Time%20Selection%20In.lua";
-          sha256 = "130bvqa7v6kh83xgadysyk188n6vghpiyymwwv8ps6rf02z6qqdk";
+          sha256 = "1zlf0mr59iwj2y52w473fx6bfb0z5a3592qi8r91p9zd67iarhsd";
         }
         {
           path = ''../Libraries/Set Time Selection In/TimecodeInput_Module.lua'';

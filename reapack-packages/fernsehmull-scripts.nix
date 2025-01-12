@@ -15,7 +15,7 @@
         {
           path = '''';
           url = "https://github.com/fernsehmuell/reaper_scripts/raw/dd410ceba68df8223ef089477dee476c220c0453/Mediacomposer_like_functions/fernsehmuell_Add_Edit_(S).lua";
-          sha256 = "1khq7z0615kipgx0qp0hi9i2bqh5gsbxygiw2d4psr52lghdhr6i";
+          sha256 = "";
         }
       ];
     };
@@ -43,7 +43,7 @@
         {
           path = '''';
           url = "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Clear_IN_Marks_(D).lua";
-          sha256 = "07jarhi93jyp163i734gm7mvv0v18kwyszmr918d0spvng5xv99d";
+          sha256 = "";
         }
       ];
     };
@@ -71,7 +71,7 @@
         {
           path = '''';
           url = "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Extract_(X).lua";
-          sha256 = "1brql7c1z7cslk4cfqrlssldp7zhbyb6rhvql0r4hby1q4kz3kb0";
+          sha256 = "";
         }
       ];
     };
@@ -85,7 +85,7 @@
         {
           path = '''';
           url = "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Forward_Play_Shuttle_(L).lua";
-          sha256 = "0q83ash0lzgbh3gp4hmhg21pax5lf5yhaa4xpda1d46mimk1hrch";
+          sha256 = "";
         }
       ];
     };
@@ -141,7 +141,7 @@
         {
           path = '''';
           url = "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_GotoOUT_(W).lua";
-          sha256 = "1pclyl2hr3zj9716vwgyd7y9p5lph76yh3gm8zv8104i7d09nqal";
+          sha256 = "";
         }
       ];
     };
@@ -155,7 +155,7 @@
         {
           path = '''';
           url = "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Lift_(Y).lua";
-          sha256 = "1chbirppi4vhf7q4h5fxx0hmjzw4al5zknch0ja00viwdaf9kz5m";
+          sha256 = "";
         }
       ];
     };
@@ -197,7 +197,7 @@
         {
           path = '''';
           url = "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_(J).lua";
-          sha256 = "0mg2dhb67mpbh3ssgabprhrv4ngdqyrj1k0ccqnns78iwx9vzxnl";
+          sha256 = "";
         }
       ];
     };
@@ -225,7 +225,7 @@
         {
           path = '''';
           url = "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_Background.lua";
-          sha256 = "005b6fv4zsnlfv859s950ammh5k5k24paspf7b4mzphcnairdzxn";
+          sha256 = "";
         }
       ];
     };
@@ -239,7 +239,7 @@
         {
           path = '''';
           url = "https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_SetIN_(i).lua";
-          sha256 = "136c3yl2g14vzw3s1mvnchpvqsria95680sxxyvd2cp1rjad5rh0";
+          sha256 = "";
         }
       ];
     };
@@ -267,7 +267,7 @@
         {
           path = '''';
           url = "https://github.com/fernsehmuell/reaper_scripts/raw/0fa269cd67261ead972daa93e7b62ee0dd3fd345/Mediacomposer_like_functions/fernsehmuell_Step_backwards_400ms_(1).lua";
-          sha256 = "0x32cv39saxvziqb1y33cicvcmbj68ynbnscssw4ssdzc6s0w0m0";
+          sha256 = "";
         }
       ];
     };
@@ -295,7 +295,7 @@
         {
           path = '''';
           url = "https://github.com/fernsehmuell/reaper_scripts/raw/0fa269cd67261ead972daa93e7b62ee0dd3fd345/Mediacomposer_like_functions/fernsehmuell_Step_forwards_400ms_(2).lua";
-          sha256 = "1m652g17n85kzgg3mxjnnhs6zg677n8q0w47dwpz2gkksigzk0j9";
+          sha256 = "";
         }
       ];
     };

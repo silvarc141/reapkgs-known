@@ -7019,20 +7019,6 @@
         }
       ];
     };
-    mpl-item-spacer-lua-1-0 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "mpl-item-spacer-lua-1-0";
-      indexName = "MPL Scripts";
-      categoryName = "FX";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/282e9a9c00189c818eaffd20fc17b4b062500622/FX/mpl_Item%20spacer.lua";
-          sha256 = "05arrx93imya49ph0z0fhvjdlv35r7zdh9qyks752p19lp9a39x7";
-        }
-      ];
-    };
     mpl-learneditor-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-1-0";
@@ -7405,6 +7391,20 @@
         }
       ];
     };
+    mpl-learneditor-lua-3-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-learneditor-lua-3-0";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/709d49e1061f889ce6e84095c46ab3e149170160/FX/mpl_LearnEditor.lua";
+          sha256 = "1w53jh77saqrv8gsldl2dzf9xk6ack3k3grj2n3k0k3zll4scq9s";
+        }
+      ];
+    };
     mpl-modulationeditor-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-modulationeditor-lua-1-0";
@@ -7556,6 +7556,132 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5957249669f72fbd8ddf90d63869d7a09e16b2c8/FX/mpl_ModulationEditor.lua";
           sha256 = "03yybwixyyphz3b4lnx75x7m9mg6hfba3zan4v0hzajnqfx9dalq";
+        }
+      ];
+    };
+    mpl-modulationeditor-lua-2-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-modulationeditor-lua-2-0";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/50c8a1b65191e72ebc38794e36a06b582f816ebe/FX/mpl_ModulationEditor.lua";
+          sha256 = "0cnwwp9m2hpmrjv8yy76c8605d3hzcs2a78ymlrzbfwsryvq21zp";
+        }
+      ];
+    };
+    mpl-modulationeditor-lua-2-01 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-modulationeditor-lua-2-01";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/39c26878d4d625746d1084f973143dfb82435f57/FX/mpl_ModulationEditor.lua";
+          sha256 = "0srn765zzwfihgwj7kv7rx3g32gby6s6y7wgz9wrjvxsf3imlzsy";
+        }
+      ];
+    };
+    mpl-modulationeditor-lua-2-02 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-modulationeditor-lua-2-02";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/9d4756b3b2d818b43a7f3f1d23b58caa225b3f4e/FX/mpl_ModulationEditor.lua";
+          sha256 = "00s270yrnib2a9ngk9j308r4xy2bkpa3nakdg91k81w0b9d3c97j";
+        }
+      ];
+    };
+    mpl-modulationeditor-lua-2-03 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-modulationeditor-lua-2-03";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/fcae0f5bb5d88210bbb15e44160b2cc348e310e8/FX/mpl_ModulationEditor.lua";
+          sha256 = "0jxwg6mvc6kbpndggz6iyilrrgdb90gy1mbjwj84hqmccl5amvwc";
+        }
+      ];
+    };
+    mpl-modulationeditor-lua-2-04 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-modulationeditor-lua-2-04";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/649b5c2ef742158cb7752f3dfd5bf146c036e89f/FX/mpl_ModulationEditor.lua";
+          sha256 = "1w1icq083d61smsnm7pvgyb4d8g1n5cqzaa6kinfiwa6dvr21al7";
+        }
+      ];
+    };
+    mpl-modulationeditor-lua-2-05 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-modulationeditor-lua-2-05";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/edaad89299c00c830b2f3b0bfa7cb904fcfbf593/FX/mpl_ModulationEditor.lua";
+          sha256 = "0ml0854swh64p3nmj0xp5phpv771dcq35nh4q79b2z3n92mi3raf";
+        }
+      ];
+    };
+    mpl-modulationeditor-lua-2-06 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-modulationeditor-lua-2-06";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c4989db410939a628beced6231113ce3fd88f17c/FX/mpl_ModulationEditor.lua";
+          sha256 = "1g0j5v0f0gqzf87zdhv2bps4phd8v8hj2qbaa6lvf4hf4zkffn6v";
+        }
+      ];
+    };
+    mpl-modulationeditor-lua-2-07 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-modulationeditor-lua-2-07";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5bbe971252621f75a2c10b0bd7bbec825d9664c5/FX/mpl_ModulationEditor.lua";
+          sha256 = "0cpabc4p0fnjz7cxp8738mdn070jz1k9ms6b8c5dgkvy7n7bv2m6";
+        }
+      ];
+    };
+    mpl-modulationeditor-lua-2-08 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-modulationeditor-lua-2-08";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5bfa63e189411fdf7195e8c1bfd74cd2ce8d0cc1/FX/mpl_ModulationEditor.lua";
+          sha256 = "1mgq3szs0wchcjl16c1lnwc57c5nf8f2chxz9y98777hjjm0qw4y";
         }
       ];
     };
@@ -7864,6 +7990,34 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c1ae27f0322865766408b9f15dde011053c786cd/FX/mpl_Randomize%20Track%20FX%20parameters.lua";
           sha256 = "0zjjc50krqagsgrjcdkpqk3il1yis1y7a3lmgkf2qlck9cvb3nm3";
+        }
+      ];
+    };
+    mpl-randomize-track-fx-parameters-lua-3-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-randomize-track-fx-parameters-lua-3-0";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/4a7bc3043209e65d5dcd772070a13b0c52696af3/FX/mpl_Randomize%20Track%20FX%20parameters.lua";
+          sha256 = "0nqfgd6yn12a80p79zblkxhdcadafiysls2qvlnk7l3d9r7igj78";
+        }
+      ];
+    };
+    mpl-randomize-track-fx-parameters-lua-3-01 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-randomize-track-fx-parameters-lua-3-01";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/39b49c1d36b4023fa9a75ddbce7e12acea9a19a6/FX/mpl_Randomize%20Track%20FX%20parameters.lua";
+          sha256 = "1820n0nicbbj9vjbqj6kda5jl9g54m7rs8pk32fwmh5kiimj6rlk";
         }
       ];
     };
@@ -9940,6 +10094,20 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bb4ce031411af2cbaf2e8e0e431c4e8d8fb4dffb/FX/mpl_XYPad%20(background).lua";
           sha256 = "0g68whc7pp5i47a2adbh4cihzsvl23gwqx48zl9kggljfy42xp4j";
+        }
+      ];
+    };
+    mpl-xypad-background-lua-3-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-xypad-background-lua-3-0";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/80d3ad6724d024ba1a6ce8a5a712a5b155ea683c/FX/mpl_XYPad%20(background).lua";
+          sha256 = "09nas2bzbrh3zqlz79a9hisj7j6082kwrl9nr674bq3p2qi8bi53";
         }
       ];
     };
@@ -16468,6 +16636,75 @@
         }
       ];
     };
+    mpl-rs5k-manager-background-lua-3-30 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-rs5k-manager-background-lua-3-30";
+      indexName = "MPL Scripts";
+      categoryName = "FX specific";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/969e09cab68ffb3b44488fe0f565675e55bc114c/FX%20specific/mpl_RS5k%20manager%20(background).lua";
+          sha256 = "0jkc5wwylksvzxh0qvflwi6ay85rvjpr16fl09v7pzv9nbm1fxxl";
+        }
+        {
+          path = ''mpl_RS5k_manager_Database_NewSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/969e09cab68ffb3b44488fe0f565675e55bc114c/FX%20specific/mpl_RS5k_manager_Database_NewSample.lua";
+          sha256 = "113yp87l6g72s9vi22a3p5w5ksd9zkg2y5hp19nln8131b6xd57x";
+        }
+        {
+          path = ''mpl_RS5k_manager_Database_NewKit.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/969e09cab68ffb3b44488fe0f565675e55bc114c/FX%20specific/mpl_RS5k_manager_Database_NewKit.lua";
+          sha256 = "1bdvsq2x1h743a3y0nsdca8nx9p9ag89p5zcwf57rpzm9mkk8hnv";
+        }
+        {
+          path = ''mpl_RS5k_manager_Database_Lock.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/969e09cab68ffb3b44488fe0f565675e55bc114c/FX%20specific/mpl_RS5k_manager_Database_Lock.lua";
+          sha256 = "1zvdvasczzcwssvympidm4flqpdcjrg31gky15c3xd5n4x4rnpg1";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_PreviousSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/969e09cab68ffb3b44488fe0f565675e55bc114c/FX%20specific/mpl_RS5k_manager_Sampler_PreviousSample.lua";
+          sha256 = "1ijha4hpzim8h28cg9slnazg9knam7l9db0m8i067b7a0rxqjj8m";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_NextSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/969e09cab68ffb3b44488fe0f565675e55bc114c/FX%20specific/mpl_RS5k_manager_Sampler_NextSample.lua";
+          sha256 = "110x1rbjvcn16ggi8jsqaz0xi7xzzln3dcg5w3j2n9za3glnnr0b";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_RandSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/969e09cab68ffb3b44488fe0f565675e55bc114c/FX%20specific/mpl_RS5k_manager_Sampler_RandSample.lua";
+          sha256 = "109jgjzq49kl3k8y6q7ic913kqgjvg35sxbhmvlpr4wwh462rr86";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Solo.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/969e09cab68ffb3b44488fe0f565675e55bc114c/FX%20specific/mpl_RS5k_manager_DrumRack_Solo.lua";
+          sha256 = "1bhpx6yw0jwmjma9p60whyvilps6rqifhnxlx1h5piq6cq2lkvr5";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Mute.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/969e09cab68ffb3b44488fe0f565675e55bc114c/FX%20specific/mpl_RS5k_manager_DrumRack_Mute.lua";
+          sha256 = "1fipssbkw813hl5hdvql0ycngxchgjnaq5nx3s73inl5r77ns4pl";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Clear.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/969e09cab68ffb3b44488fe0f565675e55bc114c/FX%20specific/mpl_RS5k_manager_DrumRack_Clear.lua";
+          sha256 = "109160l4jh616kffnj988w1drxw0wyvvi21si4ijgh6nndbkynmg";
+        }
+        {
+          path = ''mpl_RS5k_manager_MacroControls.jsfx'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/969e09cab68ffb3b44488fe0f565675e55bc114c/FX%20specific/mpl_RS5k_manager_MacroControls.jsfx";
+          sha256 = "0qqjprfvqf4f2f32njb5iz37ilhlhin4i647gd0wzh2rm9di4qah";
+        }
+        {
+          path = ''mpl_RS5K_manager_MIDIBUS_choke.jsfx'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/969e09cab68ffb3b44488fe0f565675e55bc114c/FX%20specific/mpl_RS5K_manager_MIDIBUS_choke.jsfx";
+          sha256 = "0hgbnmh69pash4x4799b2fplxxg2shiy4255lz2gzazxk9afnx8g";
+        }
+      ];
+    };
     mpl-rs5k-manager-macrocontrols-jsfx-1-02 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-macrocontrols-jsfx-1-02";
@@ -16507,6 +16744,20 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/80fc01d7348a5fa1066643170119ad996245ba40/FX%20specific/mpl_RS5K_manager_MIDIBUS_choke.jsfx";
           sha256 = "05gi7a7qyhpgicp0v9p770bzv8lf6lkm5jq31p4apxyzjhgx1ifq";
+        }
+      ];
+    };
+    mpl-rs5k-manager-midibus-choke-jsfx-1-02 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-rs5k-manager-midibus-choke-jsfx-1-02";
+      indexName = "MPL Scripts";
+      categoryName = "FX specific";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/969e09cab68ffb3b44488fe0f565675e55bc114c/FX%20specific/mpl_RS5K_manager_MIDIBUS_choke.jsfx";
+          sha256 = "0hgbnmh69pash4x4799b2fplxxg2shiy4255lz2gzazxk9afnx8g";
         }
       ];
     };
@@ -30506,20 +30757,6 @@
         }
       ];
     };
-    mpl-input-audio-check-selected-track-lua-1-0 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "mpl-input-audio-check-selected-track-lua-1-0";
-      indexName = "MPL Scripts";
-      categoryName = "Various";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/a42fd3d084741cb606995fa18fb8a7964ec6bf52/Various/mpl_Input%20audio%20check%20selected%20track.lua";
-          sha256 = "0jbaa413zip276danc0d00wwc3s52s3d51bipj3828w85rld1mha";
-        }
-      ];
-    };
     mpl-interactivetoolbar-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-interactivetoolbar-lua-1-0";
@@ -36782,20 +37019,6 @@
         }
       ];
     };
-    mpl-item-spacer-lua-1-0_2 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "mpl-item-spacer-lua-1-0_2";
-      indexName = "MPL Scripts";
-      categoryName = "Various";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/fd8dc9e3b4a5a525d0261a0a65e5b161867ca988/Various/mpl_Item%20spacer.lua";
-          sha256 = "05arrx93imya49ph0z0fhvjdlv35r7zdh9qyks752p19lp9a39x7";
-        }
-      ];
-    };
     mpl-keyboard-shortcuts-visualizer-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-keyboard-shortcuts-visualizer-lua-1-0";
@@ -37552,6 +37775,48 @@
         }
       ];
     };
+    mpl-peak-follower-tools-lua-2-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-peak-follower-tools-lua-2-0";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/ed6c869edab2a507fd7e5c4f6a2b97b907f0460b/Various/mpl_Peak%20follower%20tools.lua";
+          sha256 = "11scnhmwr6qd0viia2z7vgsvx5c9qrlkgx35j5nppk0pjrzk0ab7";
+        }
+      ];
+    };
+    mpl-peak-follower-tools-lua-2-01 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-peak-follower-tools-lua-2-01";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8189976a2e2effe5ea3f55a7f82532698bb5b0a0/Various/mpl_Peak%20follower%20tools.lua";
+          sha256 = "1rd8wz1agyxls5svrs695zyjq4ym2a6wybq6qfyh4sy0ganr36dw";
+        }
+      ];
+    };
+    mpl-peak-follower-tools-lua-2-02 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-peak-follower-tools-lua-2-02";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1a1f1659d21f0a7825d41731c56a2c1502afce17/Various/mpl_Peak%20follower%20tools.lua";
+          sha256 = "1r80ihna4z19ryh0rdyyq6pmgxyvv7ifbylc1c4hjca1jl0k8ayc";
+        }
+      ];
+    };
     mpl-pitcheditor-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-pitcheditor-lua-1-0";
@@ -38284,6 +38549,20 @@
         }
       ];
     };
+    mpl-sampling-tool-lua-2-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-sampling-tool-lua-2-0";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/96779a6df6331b7bfaadb2484189bbf02d2a8858/Various/mpl_Sampling%20tool.lua";
+          sha256 = "0h715waf3df5f4iyig54b467ps0gzcasqq6d3bg3a6sihcv0p31z";
+        }
+      ];
+    };
     mpl-sendfader-background-lua-1-33 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-1-33";
@@ -38596,6 +38875,34 @@
         }
       ];
     };
+    mpl-sendfader-background-lua-3-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-sendfader-background-lua-3-0";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/d93bfb67272964a646d31adff6a0cc11c74b40ee/Various/mpl_SendFader%20(background).lua";
+          sha256 = "1bqgrw695n5c4z1m4da8gc9dkwf216ibzjqfxnw116qa8kzcrnr6";
+        }
+      ];
+    };
+    mpl-sendfader-background-lua-3-01 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-sendfader-background-lua-3-01";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/38409147caf9e47c839137f3b9b4680188ab5268/Various/mpl_SendFader%20(background).lua";
+          sha256 = "1qdhyvwmp6q1sn0llxwbfs92vhkjg3y4b8mibmlzzxmvq9zvhvan";
+        }
+      ];
+    };
     mpl-spectral-editing-tools-perform-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-spectral-editing-tools-perform-lua-1-0";
@@ -38663,20 +38970,6 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e5d18b5360aaf1283df9afef94060cce7a0c054b/Various/mpl_Spectral%20editing%20tools.lua";
           sha256 = "0bdhsccbn5g1rkk7lkhbw18jhs8amycbqhk2bkz7k3b3sdzb3bcz";
-        }
-      ];
-    };
-    mpl-spectral-search-lua-1-0 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "mpl-spectral-search-lua-1-0";
-      indexName = "MPL Scripts";
-      categoryName = "Various";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/dcfec8962b03d8256663217a27135b5f4dde477c/Various/mpl_Spectral%20search.lua";
-          sha256 = "1sxl9qy82zvpf447k4c10c9dngga3bgvwyp510d75kk08ls8h5j5";
         }
       ];
     };
@@ -38748,6 +39041,20 @@
         }
       ];
     };
+    mpl-taskscheduler-lua-2-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-taskscheduler-lua-2-0";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/904b573dc64795369e1afe3f3aa0a546f5a8bf6c/Various/mpl_TaskScheduler.lua";
+          sha256 = "0k08mbn0748wj63ld2avl54php0f2f806lixm2qzcyy68a47gyaa";
+        }
+      ];
+    };
     mpl-transient-shaper-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-transient-shaper-lua-1-0";
@@ -38759,6 +39066,20 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/60f134669c33e95856ccc8958e201d5989946801/Various/mpl_Transient%20shaper.lua";
           sha256 = "1pc74mh8glin5arc6lj6gyiliccjrfdkjxd26rn94nj6bh6d9xyh";
+        }
+      ];
+    };
+    mpl-transient-shaper-lua-2-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-transient-shaper-lua-2-0";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/8a7a198b88ecd306db8a903847b759ca10113d96/Various/mpl_Transient%20shaper.lua";
+          sha256 = "0xgi74rs814l1x3lvd5kcxc76x8nfnw4v6dapwn6f7qkydixzszp";
         }
       ];
     };

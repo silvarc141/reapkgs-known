@@ -28588,7 +28588,7 @@
         {
           path = ''Examples/Toggle_Mute_Tracks.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0e4b9c0b16e8c91e8eaaef63c27f743c7c9010ae/ReaSpaghetti/Examples/Toggle_Mute_Tracks.reanodes";
-          sha256 = "1lda1z5inwjjfc6v8cp4ljin1g8pv4fy3vvdg0lhajl10avdgr8s";
+          sha256 = "";
         }
         {
           path = ''Examples/Track_volume_defer.reanodes'';
@@ -28603,12 +28603,12 @@
         {
           path = ''Docs/ReaSpaghetti.pdf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0e4b9c0b16e8c91e8eaaef63c27f743c7c9010ae/ReaSpaghetti/Docs/ReaSpaghetti.pdf";
-          sha256 = "05nv8lhqzpnf38yl0hjafw9frcgszcdbnfv8gah8pgglh83msx84";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWA/BG.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0e4b9c0b16e8c91e8eaaef63c27f743c7c9010ae/ReaSpaghetti/Examples/SCHWA/BG.png";
-          sha256 = "1wk94vc573a4g7f466yw4wlpmgfnicb0gr4i4pz4zgjb6162z5yg";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWA/Explosion.png'';
@@ -28618,12 +28618,12 @@
         {
           path = ''Examples/SCHWA/MENU.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0e4b9c0b16e8c91e8eaaef63c27f743c7c9010ae/ReaSpaghetti/Examples/SCHWA/MENU.png";
-          sha256 = "1jal4g6asgvy0yzm0hfw4bp1p88bw40jx7c72z73686k9wwba2h1";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWA/Schwa_ATTACK.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0e4b9c0b16e8c91e8eaaef63c27f743c7c9010ae/ReaSpaghetti/Examples/SCHWA/Schwa_ATTACK.png";
-          sha256 = "089s8y71kkr76kz1ki1by1fxy1s79xpwgihm1c9hmn5gjd1irr80";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWA/Schwa_IDLE.png'';
@@ -28643,12 +28643,12 @@
         {
           path = ''Examples/SCHWA/squid.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0e4b9c0b16e8c91e8eaaef63c27f743c7c9010ae/ReaSpaghetti/Examples/SCHWA/squid.png";
-          sha256 = "0pl4rpiiv8pmcl3avrai215g9v9idgbgd1rvjqpc5y5d3ywz1wqr";
+          sha256 = "";
         }
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0e4b9c0b16e8c91e8eaaef63c27f743c7c9010ae/ReaSpaghetti/Sexan_ReaSpaghetti.lua";
-          sha256 = "1wmb333fiw4527yhjbisbg676zjb5waihdm47b0fwhvvkf0aq6w4";
+          sha256 = "";
         }
       ];
     };
@@ -28662,17 +28662,17 @@
         {
           path = ''Modules/APIParser.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/APIParser.lua";
-          sha256 = "042h6w3rchcq5zknk2mb5bf3xhid6bad22mrg7cvaq15bjisyxgh";
+          sha256 = "";
         }
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/Canvas.lua";
-          sha256 = "1d02fbkm88zrbfimjlnqk8c52m2jkmw0dlqqfdnpzg2c88is43n0";
+          sha256 = "";
         }
         {
           path = ''Modules/CustomFunctions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/CustomFunctions.lua";
-          sha256 = "14wh4mlfl5basy5glrvq4gz288i9qfn5a5q90hsm47brrpy1478n";
+          sha256 = "";
         }
         {
           path = ''Modules/Defaults.lua'';
@@ -28687,17 +28687,17 @@
         {
           path = ''Modules/FileManager.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/FileManager.lua";
-          sha256 = "08k3za6iglpxvrb886bz6c85gkxi80x6mam4lk7h1snni1g0ac45";
+          sha256 = "";
         }
         {
           path = ''Modules/Flow.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/Flow.lua";
-          sha256 = "1g1zjxlf13xxjgbhwff086zybx7yykpadhhsi197jr18yf9hbwhl";
+          sha256 = "";
         }
         {
           path = ''Modules/NodeDraw.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/NodeDraw.lua";
-          sha256 = "0k2niz203dzgxcf115djn75yzb9j4gagxq89038hm6lpv63xc7q7";
+          sha256 = "19pq6c6l8rsh18zy1bdrpxdixa481q1msx3s6000x7mr24kmc4qn";
         }
         {
           path = ''Modules/ProFi.lua'';
@@ -28712,42 +28712,42 @@
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/Utils.lua";
-          sha256 = "1382v3swvvg9yr544d23476ak1m6mb0kmf2ynq6r18p8z50viinm";
+          sha256 = "";
         }
         {
           path = ''Modules/flux.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/flux.lua";
-          sha256 = "1dsppa6570vasfg7gzdpkwg303d48fpfsyd8dhd3192sqwg51c83";
+          sha256 = "";
         }
         {
           path = ''Modules/glue.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/glue.lua";
-          sha256 = "1pxg2v8f3x359j448r1558cwp9741da1v3gjzc0yqc9j4x0rv62r";
+          sha256 = "";
         }
         {
           path = ''Modules/inspect.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/inspect.lua";
-          sha256 = "1rzi8wa8fcvfqa4235bl4v6d7h0la7fg48qh2gnnax415v7i7cf1";
+          sha256 = "";
         }
         {
           path = ''Modules/json.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/json.lua";
-          sha256 = "1agx6l0rw9jidjk40c38agjhag3c69drpc9xqi1l3i7gq0p1mk44";
+          sha256 = "0jd9362y4aa9wjqh0r7hrjsibgvfz61ibjmvdmq5zv1bq87ksmj6";
         }
         {
           path = ''Modules/path2d_bezier3.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/path2d_bezier3.lua";
-          sha256 = "11mrvi2vzhq9as3kq8c9hbsl25nimv5kh7194f5ni3aq4lcha1vm";
+          sha256 = "1v2zpnnbg2mxndgddw6yaxm1qd1mkjacb0zk290w3d6cdqc4x5v9";
         }
         {
           path = ''Modules/path2d_bezier3_hit.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/path2d_bezier3_hit.lua";
-          sha256 = "1w1nilzcl37zi7zq7g1jxabxfyhkfzj26zakmgkyflpdsrnqlrz6";
+          sha256 = "1sw0py7rnpm651g3iiamx7qwc4bjpmd3n22kms4dqmbmchsa1mzd";
         }
         {
           path = ''Modules/path2d_bezier_length.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/path2d_bezier_length.lua";
-          sha256 = "1dn8ks8ypx3l38mbka0pqhwdbv6jnh74yxm0fvm3wzjjiw4q4awc";
+          sha256 = "0k4wla4l5kjifpj6ddd74hf1nr81skp50aq2hvrc856bxz8a5g02";
         }
         {
           path = ''Modules/path2d_point.lua'';
@@ -28757,7 +28757,7 @@
         {
           path = ''Modules/profiler.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Modules/profiler.lua";
-          sha256 = "02plgc48yrpn9qi3i242jfqsiw71d60qssilka0nzbw55anhpwpl";
+          sha256 = "";
         }
         {
           path = ''Examples/Envelopes_Increase_Points_Bellow_Threshold.reanodes'';
@@ -28767,7 +28767,7 @@
         {
           path = ''Examples/Function_Advance.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/6565346b9e17c7edb1d5c9ab71d3959c27ef3b18/ReaSpaghetti/Examples/Function_Advance.reanodes";
-          sha256 = "16cw5dv3s403wkk9ppp67sqj46avcxadk9ib36jg73wi4rs9qfkd";
+          sha256 = "009p1knn2ml0krjla40pqbg747g1ijapbxh5pss1zms3hfkwa02x";
         }
         {
           path = ''Examples/Functions_Basic.reanodes'';
@@ -28856,7 +28856,7 @@
         {
           path = ''api_file.txt'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/f89d3dda3fd4dcda694e998dd500ffd45cafcbd0/ReaSpaghetti/api_file.txt";
-          sha256 = "0s9yhh6h4nzm4lcgm02ji6awv9bpl11dmsjpwlic2d8f4pg61sqn";
+          sha256 = "14jvnz5rzx0fai2i1xckq9mfx3zv5yczm6201n95rr48mb7b61aa";
         }
         {
           path = ''Modules/APIParser.lua'';
@@ -31936,7 +31936,7 @@
         {
           path = ''Modules/FileManager.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f1d359756de08064c407fac2d94a9e45198c827/ReaSpaghetti/Modules/FileManager.lua";
-          sha256 = "1zkjllnmkb1infirjrisnnqfnjs8ny3qqryq20168sq50k7zms4b";
+          sha256 = "";
         }
         {
           path = ''Modules/Flow.lua'';
@@ -31946,12 +31946,12 @@
         {
           path = ''Modules/Library.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f1d359756de08064c407fac2d94a9e45198c827/ReaSpaghetti/Modules/Library.lua";
-          sha256 = "0jh7gsv9f4kd3jdwbkb1h7xqaw8j3mdwqn374xdygl0xa35h0hpb";
+          sha256 = "";
         }
         {
           path = ''Modules/NodeDraw.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f1d359756de08064c407fac2d94a9e45198c827/ReaSpaghetti/Modules/NodeDraw.lua";
-          sha256 = "17wyrgipsp2k7cswz6pgwf352ypc08kkn7xirnci4n3hdk939gfg";
+          sha256 = "";
         }
         {
           path = ''Modules/ProFi.lua'';
@@ -32001,7 +32001,7 @@
         {
           path = ''Modules/path2d_bezier3_hit.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f1d359756de08064c407fac2d94a9e45198c827/ReaSpaghetti/Modules/path2d_bezier3_hit.lua";
-          sha256 = "1w1nilzcl37zi7zq7g1jxabxfyhkfzj26zakmgkyflpdsrnqlrz6";
+          sha256 = "";
         }
         {
           path = ''Modules/path2d_bezier_length.lua'';
@@ -32011,22 +32011,22 @@
         {
           path = ''Modules/path2d_point.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f1d359756de08064c407fac2d94a9e45198c827/ReaSpaghetti/Modules/path2d_point.lua";
-          sha256 = "1r4bmf0rmk9abw12yjkh4xhqh2dv5rywdq0iym6r0dqh31cw9wgd";
+          sha256 = "1cxx1jwfpkcgz1bqpwl79zahf89cdc3x70rfsbpa4lq7kqcxvf1k";
         }
         {
           path = ''Modules/profiler.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f1d359756de08064c407fac2d94a9e45198c827/ReaSpaghetti/Modules/profiler.lua";
-          sha256 = "02plgc48yrpn9qi3i242jfqsiw71d60qssilka0nzbw55anhpwpl";
+          sha256 = "0av9z6hs97v5yzmwl3ly8jhy6byfzspqnz8w1xrpxb33fizd8yfq";
         }
         {
           path = ''Examples/Envelopes_Increase_Points_Bellow_Threshold.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f1d359756de08064c407fac2d94a9e45198c827/ReaSpaghetti/Examples/Envelopes_Increase_Points_Bellow_Threshold.reanodes";
-          sha256 = "0sg4a4j7w26xsbisyz27bi6yx6ffcb8aaq5wmrx4sgn7my8cvysm";
+          sha256 = "1f9vrmjg09jdwy167h9xnx62vhnnbna0j8jlkg79svvszp39b5i0";
         }
         {
           path = ''Examples/Function_Advance.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f1d359756de08064c407fac2d94a9e45198c827/ReaSpaghetti/Examples/Function_Advance.reanodes";
-          sha256 = "16cw5dv3s403wkk9ppp67sqj46avcxadk9ib36jg73wi4rs9qfkd";
+          sha256 = "";
         }
         {
           path = ''Examples/Functions_Basic.reanodes'';
@@ -32046,17 +32046,17 @@
         {
           path = ''Examples/SCHWARMINATOR.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f1d359756de08064c407fac2d94a9e45198c827/ReaSpaghetti/Examples/SCHWARMINATOR.reanodes";
-          sha256 = "11061pa6xjhxpfhsbp7wacz3yzkadzrdyrgmcqcnyr0m4sbvwlvi";
+          sha256 = "";
         }
         {
           path = ''Examples/Toggle_Mute_Tracks.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f1d359756de08064c407fac2d94a9e45198c827/ReaSpaghetti/Examples/Toggle_Mute_Tracks.reanodes";
-          sha256 = "1lda1z5inwjjfc6v8cp4ljin1g8pv4fy3vvdg0lhajl10avdgr8s";
+          sha256 = "";
         }
         {
           path = ''Examples/Track_volume_defer.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f1d359756de08064c407fac2d94a9e45198c827/ReaSpaghetti/Examples/Track_volume_defer.reanodes";
-          sha256 = "0mks8d5m9iylrw7cx5l6x69zl9d68jxy64aaxkfpkz6r7zga2r6f";
+          sha256 = "";
         }
         {
           path = ''Library/GetAllSelectedTracksItems.reanlib'';
@@ -32066,7 +32066,7 @@
         {
           path = ''Library/GetSelectedTracks.reanlib'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f1d359756de08064c407fac2d94a9e45198c827/ReaSpaghetti/Library/GetSelectedTracks.reanlib";
-          sha256 = "0qwfi9j2g8i8zg29i3iqjcl53mnfa05bhd3jznvmmwlp9a28wld3";
+          sha256 = "";
         }
         {
           path = ''Library/MUTE_TRACK_ITEMS.reanlib'';
@@ -32126,7 +32126,7 @@
         {
           path = ''Examples/SCHWA/invader2.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/3f1d359756de08064c407fac2d94a9e45198c827/ReaSpaghetti/Examples/SCHWA/invader2.png";
-          sha256 = "1ca22zh11m7g1a4z5nc9x8ggs2rzp5wcypan111d6ni2g1dsbimi";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWA/squid.png'';
@@ -32170,7 +32170,7 @@
         {
           path = ''Modules/Defaults.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/17902941da5829746afbcfba5243be8bc184879c/ReaSpaghetti/Modules/Defaults.lua";
-          sha256 = "0mkgxvq2g32d6811chxlj3v3dv6xxw4rj5qz2b99bcqlh4vdv1yn";
+          sha256 = "0a2nv5ln2dyrz52dyzqkfnh3n2kzxpykkcmc205iq7d9sr1xpvid";
         }
         {
           path = ''Modules/ExportToAction.lua'';
@@ -32180,7 +32180,7 @@
         {
           path = ''Modules/FileManager.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/17902941da5829746afbcfba5243be8bc184879c/ReaSpaghetti/Modules/FileManager.lua";
-          sha256 = "1zkjllnmkb1infirjrisnnqfnjs8ny3qqryq20168sq50k7zms4b";
+          sha256 = "";
         }
         {
           path = ''Modules/Flow.lua'';
@@ -32190,7 +32190,7 @@
         {
           path = ''Modules/Library.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/17902941da5829746afbcfba5243be8bc184879c/ReaSpaghetti/Modules/Library.lua";
-          sha256 = "0jh7gsv9f4kd3jdwbkb1h7xqaw8j3mdwqn374xdygl0xa35h0hpb";
+          sha256 = "";
         }
         {
           path = ''Modules/NodeDraw.lua'';
@@ -32240,7 +32240,7 @@
         {
           path = ''Modules/path2d_bezier3.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/17902941da5829746afbcfba5243be8bc184879c/ReaSpaghetti/Modules/path2d_bezier3.lua";
-          sha256 = "11mrvi2vzhq9as3kq8c9hbsl25nimv5kh7194f5ni3aq4lcha1vm";
+          sha256 = "";
         }
         {
           path = ''Modules/path2d_bezier3_hit.lua'';
@@ -32265,12 +32265,12 @@
         {
           path = ''Examples/Envelopes_Increase_Points_Bellow_Threshold.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/17902941da5829746afbcfba5243be8bc184879c/ReaSpaghetti/Examples/Envelopes_Increase_Points_Bellow_Threshold.reanodes";
-          sha256 = "0sg4a4j7w26xsbisyz27bi6yx6ffcb8aaq5wmrx4sgn7my8cvysm";
+          sha256 = "";
         }
         {
           path = ''Examples/Function_Advance.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/17902941da5829746afbcfba5243be8bc184879c/ReaSpaghetti/Examples/Function_Advance.reanodes";
-          sha256 = "16cw5dv3s403wkk9ppp67sqj46avcxadk9ib36jg73wi4rs9qfkd";
+          sha256 = "009p1knn2ml0krjla40pqbg747g1ijapbxh5pss1zms3hfkwa02x";
         }
         {
           path = ''Examples/Functions_Basic.reanodes'';
@@ -32285,7 +32285,7 @@
         {
           path = ''Examples/Imgui.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/17902941da5829746afbcfba5243be8bc184879c/ReaSpaghetti/Examples/Imgui.reanodes";
-          sha256 = "1b3fanagwp80bl928gf95ccga677d5g50n2f7ph62l43lh8shk14";
+          sha256 = "0i6a4wb074ndm7rl0bkqpd34vklj66ca34wdxaw6jyg41xqjli9s";
         }
         {
           path = ''Examples/SCHWARMINATOR.reanodes'';
@@ -32295,12 +32295,12 @@
         {
           path = ''Examples/Toggle_Mute_Tracks.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/17902941da5829746afbcfba5243be8bc184879c/ReaSpaghetti/Examples/Toggle_Mute_Tracks.reanodes";
-          sha256 = "1lda1z5inwjjfc6v8cp4ljin1g8pv4fy3vvdg0lhajl10avdgr8s";
+          sha256 = "0zcsv86m45f0nnixyj4lsk7k770k7pnvi21sv509ksfb6ivl0pnm";
         }
         {
           path = ''Examples/Track_volume_defer.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/17902941da5829746afbcfba5243be8bc184879c/ReaSpaghetti/Examples/Track_volume_defer.reanodes";
-          sha256 = "0mks8d5m9iylrw7cx5l6x69zl9d68jxy64aaxkfpkz6r7zga2r6f";
+          sha256 = "";
         }
         {
           path = ''Library/GetAllSelectedTracksItems.reanlib'';
@@ -32310,17 +32310,17 @@
         {
           path = ''Library/GetSelectedTracks.reanlib'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/17902941da5829746afbcfba5243be8bc184879c/ReaSpaghetti/Library/GetSelectedTracks.reanlib";
-          sha256 = "0qwfi9j2g8i8zg29i3iqjcl53mnfa05bhd3jznvmmwlp9a28wld3";
+          sha256 = "";
         }
         {
           path = ''Library/MUTE_TRACK_ITEMS.reanlib'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/17902941da5829746afbcfba5243be8bc184879c/ReaSpaghetti/Library/MUTE_TRACK_ITEMS.reanlib";
-          sha256 = "1zd5wx7s3wk261paasy1z4pf0jlnhwjq93qpv62fghfx3nam0953";
+          sha256 = "";
         }
         {
           path = ''Library/SET_VOLUME_ALL_TRACKS.reanlib'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/17902941da5829746afbcfba5243be8bc184879c/ReaSpaghetti/Library/SET_VOLUME_ALL_TRACKS.reanlib";
-          sha256 = "0pzs22da86c45wcc0v32ijx2c78kmkd5p8s51m5a8czjipx7nzai";
+          sha256 = "";
         }
         {
           path = ''ExportedActions/dummy.lua'';
@@ -32335,7 +32335,7 @@
         {
           path = ''Examples/SCHWA/BG.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/17902941da5829746afbcfba5243be8bc184879c/ReaSpaghetti/Examples/SCHWA/BG.png";
-          sha256 = "1wk94vc573a4g7f466yw4wlpmgfnicb0gr4i4pz4zgjb6162z5yg";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWA/Explosion.png'';
@@ -32370,7 +32370,7 @@
         {
           path = ''Examples/SCHWA/squid.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/17902941da5829746afbcfba5243be8bc184879c/ReaSpaghetti/Examples/SCHWA/squid.png";
-          sha256 = "0pl4rpiiv8pmcl3avrai215g9v9idgbgd1rvjqpc5y5d3ywz1wqr";
+          sha256 = "";
         }
         {
           path = '''';
@@ -32389,17 +32389,17 @@
         {
           path = ''api_file.txt'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0599289b4f0c990cfcc7a8f44858984ead8bdbe2/ReaSpaghetti/api_file.txt";
-          sha256 = "05698705vfy89smi62ml0nlwms5sxah6j08bg84ivxi8i9zndyhd";
+          sha256 = "";
         }
         {
           path = ''Modules/APIParser.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0599289b4f0c990cfcc7a8f44858984ead8bdbe2/ReaSpaghetti/Modules/APIParser.lua";
-          sha256 = "1d1ddkydlx3h7bmr88h5qka72gf6c29wwl7bhy5fw609j22xdpsa";
+          sha256 = "11a375nrq0l6fkk694szk21zx60ydz7yqgsyvzlkbbmfwx0sck9y";
         }
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0599289b4f0c990cfcc7a8f44858984ead8bdbe2/ReaSpaghetti/Modules/Canvas.lua";
-          sha256 = "0g5w3b01z80d0h9961cj6aba50vixq3bhh50raqmcgznmgvahbh4";
+          sha256 = "";
         }
         {
           path = ''Modules/CustomFunctions.lua'';
@@ -32409,17 +32409,17 @@
         {
           path = ''Modules/Defaults.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0599289b4f0c990cfcc7a8f44858984ead8bdbe2/ReaSpaghetti/Modules/Defaults.lua";
-          sha256 = "0mkgxvq2g32d6811chxlj3v3dv6xxw4rj5qz2b99bcqlh4vdv1yn";
+          sha256 = "";
         }
         {
           path = ''Modules/ExportToAction.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0599289b4f0c990cfcc7a8f44858984ead8bdbe2/ReaSpaghetti/Modules/ExportToAction.lua";
-          sha256 = "1a9g0k28xgr8ghdpnbbxjqyiwasqgl4qrdr9d6428cnzgwyl497c";
+          sha256 = "";
         }
         {
           path = ''Modules/FileManager.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0599289b4f0c990cfcc7a8f44858984ead8bdbe2/ReaSpaghetti/Modules/FileManager.lua";
-          sha256 = "1zkjllnmkb1infirjrisnnqfnjs8ny3qqryq20168sq50k7zms4b";
+          sha256 = "";
         }
         {
           path = ''Modules/Flow.lua'';
@@ -32479,7 +32479,7 @@
         {
           path = ''Modules/path2d_bezier3.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0599289b4f0c990cfcc7a8f44858984ead8bdbe2/ReaSpaghetti/Modules/path2d_bezier3.lua";
-          sha256 = "11mrvi2vzhq9as3kq8c9hbsl25nimv5kh7194f5ni3aq4lcha1vm";
+          sha256 = "";
         }
         {
           path = ''Modules/path2d_bezier3_hit.lua'';
@@ -32494,12 +32494,12 @@
         {
           path = ''Modules/path2d_point.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0599289b4f0c990cfcc7a8f44858984ead8bdbe2/ReaSpaghetti/Modules/path2d_point.lua";
-          sha256 = "1r4bmf0rmk9abw12yjkh4xhqh2dv5rywdq0iym6r0dqh31cw9wgd";
+          sha256 = "";
         }
         {
           path = ''Modules/profiler.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0599289b4f0c990cfcc7a8f44858984ead8bdbe2/ReaSpaghetti/Modules/profiler.lua";
-          sha256 = "02plgc48yrpn9qi3i242jfqsiw71d60qssilka0nzbw55anhpwpl";
+          sha256 = "0av9z6hs97v5yzmwl3ly8jhy6byfzspqnz8w1xrpxb33fizd8yfq";
         }
         {
           path = ''Examples/Envelopes_Increase_Points_Bellow_Threshold.reanodes'';
@@ -32509,7 +32509,7 @@
         {
           path = ''Examples/Function_Advance.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0599289b4f0c990cfcc7a8f44858984ead8bdbe2/ReaSpaghetti/Examples/Function_Advance.reanodes";
-          sha256 = "16cw5dv3s403wkk9ppp67sqj46avcxadk9ib36jg73wi4rs9qfkd";
+          sha256 = "";
         }
         {
           path = ''Examples/Functions_Basic.reanodes'';
@@ -32524,12 +32524,12 @@
         {
           path = ''Examples/Imgui.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0599289b4f0c990cfcc7a8f44858984ead8bdbe2/ReaSpaghetti/Examples/Imgui.reanodes";
-          sha256 = "1b3fanagwp80bl928gf95ccga677d5g50n2f7ph62l43lh8shk14";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWARMINATOR.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0599289b4f0c990cfcc7a8f44858984ead8bdbe2/ReaSpaghetti/Examples/SCHWARMINATOR.reanodes";
-          sha256 = "11061pa6xjhxpfhsbp7wacz3yzkadzrdyrgmcqcnyr0m4sbvwlvi";
+          sha256 = "0hzjxkgkjbj0hr62jqai5150ddjsk6kdnk3ggl6q12nf3j3cr06r";
         }
         {
           path = ''Examples/Toggle_Mute_Tracks.reanodes'';
@@ -32579,7 +32579,7 @@
         {
           path = ''Examples/SCHWA/Explosion.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0599289b4f0c990cfcc7a8f44858984ead8bdbe2/ReaSpaghetti/Examples/SCHWA/Explosion.png";
-          sha256 = "1mhlzv3zrg1q1jjpmb27jbd4lm0hs1m1pvzlhkf41b7xhrnfpqqm";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWA/MENU.png'';
@@ -32628,17 +32628,17 @@
         {
           path = ''api_file.txt'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/api_file.txt";
-          sha256 = "05698705vfy89smi62ml0nlwms5sxah6j08bg84ivxi8i9zndyhd";
+          sha256 = "";
         }
         {
           path = ''Modules/APIParser.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Modules/APIParser.lua";
-          sha256 = "1d1ddkydlx3h7bmr88h5qka72gf6c29wwl7bhy5fw609j22xdpsa";
+          sha256 = "11a375nrq0l6fkk694szk21zx60ydz7yqgsyvzlkbbmfwx0sck9y";
         }
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Modules/Canvas.lua";
-          sha256 = "0g5w3b01z80d0h9961cj6aba50vixq3bhh50raqmcgznmgvahbh4";
+          sha256 = "03wwijn6z1w9yhbvfq5mwfqn82cqhkq3j2l2x8cx4h3h7l8hjb0h";
         }
         {
           path = ''Modules/CustomFunctions.lua'';
@@ -32648,7 +32648,7 @@
         {
           path = ''Modules/Defaults.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Modules/Defaults.lua";
-          sha256 = "0mkgxvq2g32d6811chxlj3v3dv6xxw4rj5qz2b99bcqlh4vdv1yn";
+          sha256 = "0a2nv5ln2dyrz52dyzqkfnh3n2kzxpykkcmc205iq7d9sr1xpvid";
         }
         {
           path = ''Modules/ExportToAction.lua'';
@@ -32658,7 +32658,7 @@
         {
           path = ''Modules/FileManager.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Modules/FileManager.lua";
-          sha256 = "1zkjllnmkb1infirjrisnnqfnjs8ny3qqryq20168sq50k7zms4b";
+          sha256 = "1sb4fgfpjiz7xcx44m1wvw41bcrbsjm8fszy61p574inhfbkiz6c";
         }
         {
           path = ''Modules/Flow.lua'';
@@ -32668,7 +32668,7 @@
         {
           path = ''Modules/Library.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Modules/Library.lua";
-          sha256 = "0jh7gsv9f4kd3jdwbkb1h7xqaw8j3mdwqn374xdygl0xa35h0hpb";
+          sha256 = "";
         }
         {
           path = ''Modules/NodeDraw.lua'';
@@ -32688,12 +32688,12 @@
         {
           path = ''Modules/Undo.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Modules/Undo.lua";
-          sha256 = "19fbglnymbfg5l6qf0p73jpllcb2x89db8p2lp26w4k7pr3za05j";
+          sha256 = "0n095pz130kcgfjsp4avdkp51yhrb6bpybmlrngxa0b047ic5pzl";
         }
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Modules/Utils.lua";
-          sha256 = "1y4q24fcrrqx4cr01my0in3spbrv5bwdr8v27xlvjj2lbbmfhrxj";
+          sha256 = "07hs08msrps4pi6vsrpj9kqpymrvfssl5cizdh22fpn0n0aa5q46";
         }
         {
           path = ''Modules/flux.lua'';
@@ -32718,7 +32718,7 @@
         {
           path = ''Modules/path2d_bezier3.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Modules/path2d_bezier3.lua";
-          sha256 = "11mrvi2vzhq9as3kq8c9hbsl25nimv5kh7194f5ni3aq4lcha1vm";
+          sha256 = "1v2zpnnbg2mxndgddw6yaxm1qd1mkjacb0zk290w3d6cdqc4x5v9";
         }
         {
           path = ''Modules/path2d_bezier3_hit.lua'';
@@ -32733,12 +32733,12 @@
         {
           path = ''Modules/path2d_point.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Modules/path2d_point.lua";
-          sha256 = "1r4bmf0rmk9abw12yjkh4xhqh2dv5rywdq0iym6r0dqh31cw9wgd";
+          sha256 = "";
         }
         {
           path = ''Modules/profiler.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Modules/profiler.lua";
-          sha256 = "02plgc48yrpn9qi3i242jfqsiw71d60qssilka0nzbw55anhpwpl";
+          sha256 = "0av9z6hs97v5yzmwl3ly8jhy6byfzspqnz8w1xrpxb33fizd8yfq";
         }
         {
           path = ''Examples/Envelopes_Increase_Points_Bellow_Threshold.reanodes'';
@@ -32748,7 +32748,7 @@
         {
           path = ''Examples/Function_Advance.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Examples/Function_Advance.reanodes";
-          sha256 = "16cw5dv3s403wkk9ppp67sqj46avcxadk9ib36jg73wi4rs9qfkd";
+          sha256 = "";
         }
         {
           path = ''Examples/Functions_Basic.reanodes'';
@@ -32763,7 +32763,7 @@
         {
           path = ''Examples/Imgui.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Examples/Imgui.reanodes";
-          sha256 = "1b3fanagwp80bl928gf95ccga677d5g50n2f7ph62l43lh8shk14";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWARMINATOR.reanodes'';
@@ -32773,7 +32773,7 @@
         {
           path = ''Examples/Toggle_Mute_Tracks.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Examples/Toggle_Mute_Tracks.reanodes";
-          sha256 = "1lda1z5inwjjfc6v8cp4ljin1g8pv4fy3vvdg0lhajl10avdgr8s";
+          sha256 = "";
         }
         {
           path = ''Examples/Track_volume_defer.reanodes'';
@@ -32808,7 +32808,7 @@
         {
           path = ''Docs/ReaSpaghetti.pdf'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Docs/ReaSpaghetti.pdf";
-          sha256 = "05nv8lhqzpnf38yl0hjafw9frcgszcdbnfv8gah8pgglh83msx84";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWA/BG.png'';
@@ -32838,7 +32838,7 @@
         {
           path = ''Examples/SCHWA/invader.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Examples/SCHWA/invader.png";
-          sha256 = "1ig3fla9ri8sczshd4cizjfbqcvvhw67ld110q45psi28ylkvyhg";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWA/invader2.png'';
@@ -32848,7 +32848,7 @@
         {
           path = ''Examples/SCHWA/squid.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/be6bed1cb9a645ca7085303246fdc1905564ed17/ReaSpaghetti/Examples/SCHWA/squid.png";
-          sha256 = "0pl4rpiiv8pmcl3avrai215g9v9idgbgd1rvjqpc5y5d3ywz1wqr";
+          sha256 = "";
         }
         {
           path = '''';
@@ -32867,7 +32867,7 @@
         {
           path = ''api_file.txt'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0299c7d27d08905cd06b97529e9e83f44398c612/ReaSpaghetti/api_file.txt";
-          sha256 = "05698705vfy89smi62ml0nlwms5sxah6j08bg84ivxi8i9zndyhd";
+          sha256 = "";
         }
         {
           path = ''Modules/APIParser.lua'';
@@ -32882,7 +32882,7 @@
         {
           path = ''Modules/CustomFunctions.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0299c7d27d08905cd06b97529e9e83f44398c612/ReaSpaghetti/Modules/CustomFunctions.lua";
-          sha256 = "146v9ay40301v17ywcv5nzqi8c1p36plz7pagdij47md6lzaydyx";
+          sha256 = "";
         }
         {
           path = ''Modules/Defaults.lua'';
@@ -32902,12 +32902,12 @@
         {
           path = ''Modules/Flow.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0299c7d27d08905cd06b97529e9e83f44398c612/ReaSpaghetti/Modules/Flow.lua";
-          sha256 = "0nhy5c6fr4fkhpmywamw6q6xc855qac8a322z9d6yx820fdpfgk2";
+          sha256 = "";
         }
         {
           path = ''Modules/Library.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0299c7d27d08905cd06b97529e9e83f44398c612/ReaSpaghetti/Modules/Library.lua";
-          sha256 = "0jh7gsv9f4kd3jdwbkb1h7xqaw8j3mdwqn374xdygl0xa35h0hpb";
+          sha256 = "1n9m0wp7xpn8nw67kd4bxk5v555cw07qwcw3df8p7jk2nhppmqld";
         }
         {
           path = ''Modules/NodeDraw.lua'';
@@ -32917,7 +32917,7 @@
         {
           path = ''Modules/ProFi.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0299c7d27d08905cd06b97529e9e83f44398c612/ReaSpaghetti/Modules/ProFi.lua";
-          sha256 = "018636fjslhwh313986665kcjpr4j3nzm25ic5pdrzrlr35fwsld";
+          sha256 = "";
         }
         {
           path = ''Modules/UI.lua'';
@@ -32932,7 +32932,7 @@
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0299c7d27d08905cd06b97529e9e83f44398c612/ReaSpaghetti/Modules/Utils.lua";
-          sha256 = "1y4q24fcrrqx4cr01my0in3spbrv5bwdr8v27xlvjj2lbbmfhrxj";
+          sha256 = "07hs08msrps4pi6vsrpj9kqpymrvfssl5cizdh22fpn0n0aa5q46";
         }
         {
           path = ''Modules/flux.lua'';
@@ -32952,7 +32952,7 @@
         {
           path = ''Modules/json.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0299c7d27d08905cd06b97529e9e83f44398c612/ReaSpaghetti/Modules/json.lua";
-          sha256 = "1agx6l0rw9jidjk40c38agjhag3c69drpc9xqi1l3i7gq0p1mk44";
+          sha256 = "0jd9362y4aa9wjqh0r7hrjsibgvfz61ibjmvdmq5zv1bq87ksmj6";
         }
         {
           path = ''Modules/path2d_bezier3.lua'';
@@ -33002,7 +33002,7 @@
         {
           path = ''Examples/Imgui.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0299c7d27d08905cd06b97529e9e83f44398c612/ReaSpaghetti/Examples/Imgui.reanodes";
-          sha256 = "1b3fanagwp80bl928gf95ccga677d5g50n2f7ph62l43lh8shk14";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWARMINATOR.reanodes'';
@@ -33012,12 +33012,12 @@
         {
           path = ''Examples/Toggle_Mute_Tracks.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0299c7d27d08905cd06b97529e9e83f44398c612/ReaSpaghetti/Examples/Toggle_Mute_Tracks.reanodes";
-          sha256 = "1lda1z5inwjjfc6v8cp4ljin1g8pv4fy3vvdg0lhajl10avdgr8s";
+          sha256 = "0zcsv86m45f0nnixyj4lsk7k770k7pnvi21sv509ksfb6ivl0pnm";
         }
         {
           path = ''Examples/Track_volume_defer.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0299c7d27d08905cd06b97529e9e83f44398c612/ReaSpaghetti/Examples/Track_volume_defer.reanodes";
-          sha256 = "0mks8d5m9iylrw7cx5l6x69zl9d68jxy64aaxkfpkz6r7zga2r6f";
+          sha256 = "";
         }
         {
           path = ''Library/GetAllSelectedTracksItems.reanlib'';
@@ -33027,12 +33027,12 @@
         {
           path = ''Library/GetSelectedTracks.reanlib'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0299c7d27d08905cd06b97529e9e83f44398c612/ReaSpaghetti/Library/GetSelectedTracks.reanlib";
-          sha256 = "0qwfi9j2g8i8zg29i3iqjcl53mnfa05bhd3jznvmmwlp9a28wld3";
+          sha256 = "1ih5y7i0k0m32ibqqinqq0msjnmmbl0qmx7pgvp5zdmwwyv459y8";
         }
         {
           path = ''Library/MUTE_TRACK_ITEMS.reanlib'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0299c7d27d08905cd06b97529e9e83f44398c612/ReaSpaghetti/Library/MUTE_TRACK_ITEMS.reanlib";
-          sha256 = "1zd5wx7s3wk261paasy1z4pf0jlnhwjq93qpv62fghfx3nam0953";
+          sha256 = "";
         }
         {
           path = ''Library/SET_VOLUME_ALL_TRACKS.reanlib'';
@@ -33116,7 +33116,7 @@
         {
           path = ''Modules/Canvas.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Modules/Canvas.lua";
-          sha256 = "0g5w3b01z80d0h9961cj6aba50vixq3bhh50raqmcgznmgvahbh4";
+          sha256 = "03wwijn6z1w9yhbvfq5mwfqn82cqhkq3j2l2x8cx4h3h7l8hjb0h";
         }
         {
           path = ''Modules/CustomFunctions.lua'';
@@ -33136,7 +33136,7 @@
         {
           path = ''Modules/FileManager.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Modules/FileManager.lua";
-          sha256 = "1zkjllnmkb1infirjrisnnqfnjs8ny3qqryq20168sq50k7zms4b";
+          sha256 = "";
         }
         {
           path = ''Modules/Flow.lua'';
@@ -33151,17 +33151,17 @@
         {
           path = ''Modules/NodeDraw.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Modules/NodeDraw.lua";
-          sha256 = "0c0bknir57rjhzqrwaaaqhbk8liqzi2bcx5q4wicaxfwhs8zpbns";
+          sha256 = "1d0xk22axyj28ryqf72hfvlmiiw666vlkh0rri87nv8ywrb03c0y";
         }
         {
           path = ''Modules/ProFi.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Modules/ProFi.lua";
-          sha256 = "018636fjslhwh313986665kcjpr4j3nzm25ic5pdrzrlr35fwsld";
+          sha256 = "";
         }
         {
           path = ''Modules/UI.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Modules/UI.lua";
-          sha256 = "070kxlyqzz6yqshvah0qcsknw06vsmnzsa7iym49i9h9w5i0jjcy";
+          sha256 = "";
         }
         {
           path = ''Modules/Undo.lua'';
@@ -33181,7 +33181,7 @@
         {
           path = ''Modules/glue.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Modules/glue.lua";
-          sha256 = "1pxg2v8f3x359j448r1558cwp9741da1v3gjzc0yqc9j4x0rv62r";
+          sha256 = "076lnqsxmc2kcy32v9nwqk9g8b5v0a0w2qsds0l6q0l2yd9b83iq";
         }
         {
           path = ''Modules/inspect.lua'';
@@ -33201,37 +33201,37 @@
         {
           path = ''Modules/path2d_bezier3_hit.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Modules/path2d_bezier3_hit.lua";
-          sha256 = "1w1nilzcl37zi7zq7g1jxabxfyhkfzj26zakmgkyflpdsrnqlrz6";
+          sha256 = "";
         }
         {
           path = ''Modules/path2d_bezier_length.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Modules/path2d_bezier_length.lua";
-          sha256 = "1dn8ks8ypx3l38mbka0pqhwdbv6jnh74yxm0fvm3wzjjiw4q4awc";
+          sha256 = "0k4wla4l5kjifpj6ddd74hf1nr81skp50aq2hvrc856bxz8a5g02";
         }
         {
           path = ''Modules/path2d_point.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Modules/path2d_point.lua";
-          sha256 = "1r4bmf0rmk9abw12yjkh4xhqh2dv5rywdq0iym6r0dqh31cw9wgd";
+          sha256 = "1cxx1jwfpkcgz1bqpwl79zahf89cdc3x70rfsbpa4lq7kqcxvf1k";
         }
         {
           path = ''Modules/profiler.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Modules/profiler.lua";
-          sha256 = "02plgc48yrpn9qi3i242jfqsiw71d60qssilka0nzbw55anhpwpl";
+          sha256 = "";
         }
         {
           path = ''Examples/Envelopes_Increase_Points_Bellow_Threshold.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Examples/Envelopes_Increase_Points_Bellow_Threshold.reanodes";
-          sha256 = "0sg4a4j7w26xsbisyz27bi6yx6ffcb8aaq5wmrx4sgn7my8cvysm";
+          sha256 = "1f9vrmjg09jdwy167h9xnx62vhnnbna0j8jlkg79svvszp39b5i0";
         }
         {
           path = ''Examples/Function_Advance.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Examples/Function_Advance.reanodes";
-          sha256 = "16cw5dv3s403wkk9ppp67sqj46avcxadk9ib36jg73wi4rs9qfkd";
+          sha256 = "";
         }
         {
           path = ''Examples/Functions_Basic.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Examples/Functions_Basic.reanodes";
-          sha256 = "16hbdw4fg1fm10bv9ajgx07gci62rbji5ym6ga8hflkxzakl4cqg";
+          sha256 = "17yn7km78hyf99i54lkdj6x9xkf6gjfvzfvhkgvj3m1dv0bwm3yj";
         }
         {
           path = ''Examples/IMGUI_ITEMS.reanodes'';
@@ -33241,7 +33241,7 @@
         {
           path = ''Examples/Imgui.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Examples/Imgui.reanodes";
-          sha256 = "1b3fanagwp80bl928gf95ccga677d5g50n2f7ph62l43lh8shk14";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWARMINATOR.reanodes'';
@@ -33251,37 +33251,37 @@
         {
           path = ''Examples/Toggle_Mute_Tracks.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Examples/Toggle_Mute_Tracks.reanodes";
-          sha256 = "1lda1z5inwjjfc6v8cp4ljin1g8pv4fy3vvdg0lhajl10avdgr8s";
+          sha256 = "0zcsv86m45f0nnixyj4lsk7k770k7pnvi21sv509ksfb6ivl0pnm";
         }
         {
           path = ''Examples/Track_volume_defer.reanodes'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Examples/Track_volume_defer.reanodes";
-          sha256 = "0mks8d5m9iylrw7cx5l6x69zl9d68jxy64aaxkfpkz6r7zga2r6f";
+          sha256 = "";
         }
         {
           path = ''Library/GetAllSelectedTracksItems.reanlib'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Library/GetAllSelectedTracksItems.reanlib";
-          sha256 = "1pww544mcb0far04mrk5q2f6ah16gsg9vksxp8j89jc90z854a4a";
+          sha256 = "";
         }
         {
           path = ''Library/GetSelectedTracks.reanlib'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Library/GetSelectedTracks.reanlib";
-          sha256 = "0qwfi9j2g8i8zg29i3iqjcl53mnfa05bhd3jznvmmwlp9a28wld3";
+          sha256 = "";
         }
         {
           path = ''Library/MUTE_TRACK_ITEMS.reanlib'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Library/MUTE_TRACK_ITEMS.reanlib";
-          sha256 = "1zd5wx7s3wk261paasy1z4pf0jlnhwjq93qpv62fghfx3nam0953";
+          sha256 = "1zpksn6a6gp5rdixbas278lj7ixdrfgpdhv2br1qy6jngrx94icm";
         }
         {
           path = ''Library/SET_VOLUME_ALL_TRACKS.reanlib'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Library/SET_VOLUME_ALL_TRACKS.reanlib";
-          sha256 = "0pzs22da86c45wcc0v32ijx2c78kmkd5p8s51m5a8czjipx7nzai";
+          sha256 = "1mf6a8fn5dq4np1g0azmh96ns26jr0rzsjzy1vgkqw5pb2cq1w4b";
         }
         {
           path = ''ExportedActions/dummy.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/ExportedActions/dummy.lua";
-          sha256 = "11r55v56xxwj4xjmiiaxxvxsclfgsr6xjmlbnpm2rz97iy0v5rl6";
+          sha256 = "1dgm68y8krx1mpm7ka5q99sj0d20f6r21gm31qkj9jfvwc05zvil";
         }
         {
           path = ''Docs/ReaSpaghetti.pdf'';
@@ -33291,7 +33291,7 @@
         {
           path = ''Examples/SCHWA/BG.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Examples/SCHWA/BG.png";
-          sha256 = "1wk94vc573a4g7f466yw4wlpmgfnicb0gr4i4pz4zgjb6162z5yg";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWA/Explosion.png'';
@@ -33301,7 +33301,7 @@
         {
           path = ''Examples/SCHWA/MENU.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Examples/SCHWA/MENU.png";
-          sha256 = "1jal4g6asgvy0yzm0hfw4bp1p88bw40jx7c72z73686k9wwba2h1";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWA/Schwa_ATTACK.png'';
@@ -33316,22 +33316,22 @@
         {
           path = ''Examples/SCHWA/invader.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Examples/SCHWA/invader.png";
-          sha256 = "1ig3fla9ri8sczshd4cizjfbqcvvhw67ld110q45psi28ylkvyhg";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWA/invader2.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Examples/SCHWA/invader2.png";
-          sha256 = "1ca22zh11m7g1a4z5nc9x8ggs2rzp5wcypan111d6ni2g1dsbimi";
+          sha256 = "";
         }
         {
           path = ''Examples/SCHWA/squid.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Examples/SCHWA/squid.png";
-          sha256 = "0pl4rpiiv8pmcl3avrai215g9v9idgbgd1rvjqpc5y5d3ywz1wqr";
+          sha256 = "";
         }
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/0c1a85fa558a25bd96c117a0b073baf06b153158/ReaSpaghetti/Sexan_ReaSpaghetti.lua";
-          sha256 = "12q8ghs3v3pj7aibihn3cmjpz3vw9dbgk364r5clmz52i8x4raqs";
+          sha256 = "";
         }
       ];
     };
@@ -33350,7 +33350,7 @@
         {
           path = ''Modules/APIParser.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/b7cbb100f698d054588967d991e711989553fa90/ReaSpaghetti/Modules/APIParser.lua";
-          sha256 = "1040h4qaig7zsch5xpsrclsszgvdqp0ia179z00pb8anf1z4d66h";
+          sha256 = "0y7iy157l82l3hv33wydl2cf3ji9nb7ind19jmf61aqhisr66agx";
         }
         {
           path = ''Modules/Canvas.lua'';
@@ -33365,27 +33365,27 @@
         {
           path = ''Modules/Defaults.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/b7cbb100f698d054588967d991e711989553fa90/ReaSpaghetti/Modules/Defaults.lua";
-          sha256 = "0mkgxvq2g32d6811chxlj3v3dv6xxw4rj5qz2b99bcqlh4vdv1yn";
+          sha256 = "0a2nv5ln2dyrz52dyzqkfnh3n2kzxpykkcmc205iq7d9sr1xpvid";
         }
         {
           path = ''Modules/ExportToAction.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/b7cbb100f698d054588967d991e711989553fa90/ReaSpaghetti/Modules/ExportToAction.lua";
-          sha256 = "1a9g0k28xgr8ghdpnbbxjqyiwasqgl4qrdr9d6428cnzgwyl497c";
+          sha256 = "068cnfn0npgspw4ayr0i9g32s2ijkwhdfpdfaan2m3bxgq3k1va3";
         }
         {
           path = ''Modules/FileManager.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/b7cbb100f698d054588967d991e711989553fa90/ReaSpaghetti/Modules/FileManager.lua";
-          sha256 = "1zkjllnmkb1infirjrisnnqfnjs8ny3qqryq20168sq50k7zms4b";
+          sha256 = "";
         }
         {
           path = ''Modules/Flow.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/b7cbb100f698d054588967d991e711989553fa90/ReaSpaghetti/Modules/Flow.lua";
-          sha256 = "0nhy5c6fr4fkhpmywamw6q6xc855qac8a322z9d6yx820fdpfgk2";
+          sha256 = "";
         }
         {
           path = ''Modules/Library.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/b7cbb100f698d054588967d991e711989553fa90/ReaSpaghetti/Modules/Library.lua";
-          sha256 = "0jh7gsv9f4kd3jdwbkb1h7xqaw8j3mdwqn374xdygl0xa35h0hpb";
+          sha256 = "1n9m0wp7xpn8nw67kd4bxk5v555cw07qwcw3df8p7jk2nhppmqld";
         }
         {
           path = ''Modules/NodeDraw.lua'';
@@ -33400,7 +33400,7 @@
         {
           path = ''Modules/UI.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/b7cbb100f698d054588967d991e711989553fa90/ReaSpaghetti/Modules/UI.lua";
-          sha256 = "070kxlyqzz6yqshvah0qcsknw06vsmnzsa7iym49i9h9w5i0jjcy";
+          sha256 = "0gsnhnc6b3c8y9xxphjc3cn14z4c32dn92kbx53g3gnm6ksnq37n";
         }
         {
           path = ''Modules/Undo.lua'';
@@ -33410,17 +33410,17 @@
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/b7cbb100f698d054588967d991e711989553fa90/ReaSpaghetti/Modules/Utils.lua";
-          sha256 = "0fv1ps4gkwm8rpcrzy9gzi1bw63in9lkxhn12ypjxk0wx0jpw9f0";
+          sha256 = "031g0cjbv1d3pg55mjz6iydd1iazdw4smqkn9wydmkdrgybh08jq";
         }
         {
           path = ''Modules/flux.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/b7cbb100f698d054588967d991e711989553fa90/ReaSpaghetti/Modules/flux.lua";
-          sha256 = "1dsppa6570vasfg7gzdpkwg303d48fpfsyd8dhd3192sqwg51c83";
+          sha256 = "1hbvky535ciamb4ah80dz9xhj4zv7idin1hxp8nx285w798xz3i1";
         }
         {
           path = ''Modules/glue.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/b7cbb100f698d054588967d991e711989553fa90/ReaSpaghetti/Modules/glue.lua";
-          sha256 = "1pxg2v8f3x359j448r1558cwp9741da1v3gjzc0yqc9j4x0rv62r";
+          sha256 = "076lnqsxmc2kcy32v9nwqk9g8b5v0a0w2qsds0l6q0l2yd9b83iq";
         }
         {
           path = ''Modules/inspect.lua'';
@@ -34936,12 +34936,12 @@
         {
           path = ''Shortcuts/VT_Activate_lane_under_mouse.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c91872db7eca339b1209e861e12dafd21013abe3/VirtualTrack/Shortcuts/VT_Activate_lane_under_mouse.lua";
-          sha256 = "1m8x0lkbcw1abgxj0ylv9pm6f68vvz6d83gpikws7clgqmv5n0sq";
+          sha256 = "";
         }
         {
           path = ''Shortcuts/VT_Copy_to_Comp.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c91872db7eca339b1209e861e12dafd21013abe3/VirtualTrack/Shortcuts/VT_Copy_to_Comp.lua";
-          sha256 = "1kzzrkyk5r1dfa57m8ns2ysv36gab3g1sp7wyjdpqym3v70s3jbc";
+          sha256 = "03lakylm7ycbbirxs21n5rgm6nqy4qqgazzcr13mnj37207vfrnb";
         }
         {
           path = ''Shortcuts/VT_CreateNew.lua'';
@@ -34956,12 +34956,12 @@
         {
           path = ''Shortcuts/VT_Duplicate.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c91872db7eca339b1209e861e12dafd21013abe3/VirtualTrack/Shortcuts/VT_Duplicate.lua";
-          sha256 = "1gaq6fcbii7briql44hlkjb4lcc9vmiiznsh5cfqzd6dryyvgyy3";
+          sha256 = "";
         }
         {
           path = ''Shortcuts/VT_New_COMP.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c91872db7eca339b1209e861e12dafd21013abe3/VirtualTrack/Shortcuts/VT_New_COMP.lua";
-          sha256 = "16y65shzn32mphj1x4a8ivv3f1401q288k7jlz26n6bd32w7a7rc";
+          sha256 = "177vlwwkgmp5k6kmw99lwv75zvs4vpyfwccmicbgqf4jjqipx69z";
         }
         {
           path = ''Shortcuts/VT_Rename.lua'';
@@ -34971,12 +34971,12 @@
         {
           path = ''Shortcuts/VT_ShowAll.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c91872db7eca339b1209e861e12dafd21013abe3/VirtualTrack/Shortcuts/VT_ShowAll.lua";
-          sha256 = "0v1q877cjy0xf5ngc4xa9xxln5hf2xnnq8jjx159zzazkg7zqb92";
+          sha256 = "";
         }
         {
           path = ''Shortcuts/VT_Switch_DOWN.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c91872db7eca339b1209e861e12dafd21013abe3/VirtualTrack/Shortcuts/VT_Switch_DOWN.lua";
-          sha256 = "0mbffv5fmhmn8p395kgwl4bca4xsp4y3c8y1chqm7849qgpr2mi8";
+          sha256 = "";
         }
         {
           path = ''Shortcuts/VT_Switch_UP.lua'';
@@ -34986,7 +34986,7 @@
         {
           path = ''Virtual_track_SelTrack.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c91872db7eca339b1209e861e12dafd21013abe3/VirtualTrack/Virtual_track_SelTrack.lua";
-          sha256 = "1vq2pr8v160bwi688kq6sq83ll65s3y1dcarlcfynlc5xdm5m6d3";
+          sha256 = "";
         }
         {
           path = ''Virtual_track_Options.lua'';
@@ -35010,7 +35010,7 @@
         {
           path = ''Images/VT_icon_empty.png'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e49eaf106fa9aeef1df2a7a8f258f43824509623/VirtualTrack/Images/VT_icon_empty.png";
-          sha256 = "165lg46d9qr4l16qynza7hc95ah76r804q1yfmhbbl029aaykk8w";
+          sha256 = "";
         }
         {
           path = ''Images/comp_test.png'';
@@ -35020,7 +35020,7 @@
         {
           path = ''Modules/Mouse.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e49eaf106fa9aeef1df2a7a8f258f43824509623/VirtualTrack/Modules/Mouse.lua";
-          sha256 = "0mrml0awff5xpa78q72xhjnxfm63c6nvk4nw6rh3594vxpbfl7hr";
+          sha256 = "";
         }
         {
           path = ''Modules/Utils.lua'';
@@ -35035,7 +35035,7 @@
         {
           path = ''Shortcuts/VT_Activate_lane_under_mouse.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e49eaf106fa9aeef1df2a7a8f258f43824509623/VirtualTrack/Shortcuts/VT_Activate_lane_under_mouse.lua";
-          sha256 = "1m8x0lkbcw1abgxj0ylv9pm6f68vvz6d83gpikws7clgqmv5n0sq";
+          sha256 = "";
         }
         {
           path = ''Shortcuts/VT_Copy_to_Comp.lua'';
@@ -35045,22 +35045,22 @@
         {
           path = ''Shortcuts/VT_CreateNew.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e49eaf106fa9aeef1df2a7a8f258f43824509623/VirtualTrack/Shortcuts/VT_CreateNew.lua";
-          sha256 = "1iwf4x9k86v5945vd90kj86a2a1s5ibj2pqx69082rnv431vx9kc";
+          sha256 = "02v7g5mdhcw2ad0dhyxfyc5x1sfpvskxnpkn568hmhdb28z9z9di";
         }
         {
           path = ''Shortcuts/VT_Delete.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e49eaf106fa9aeef1df2a7a8f258f43824509623/VirtualTrack/Shortcuts/VT_Delete.lua";
-          sha256 = "13jhdqfq7zka8z47vw9y1pxyx20xc2rs64mv0y0xylgqmzj9ihrq";
+          sha256 = "";
         }
         {
           path = ''Shortcuts/VT_Duplicate.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e49eaf106fa9aeef1df2a7a8f258f43824509623/VirtualTrack/Shortcuts/VT_Duplicate.lua";
-          sha256 = "1gaq6fcbii7briql44hlkjb4lcc9vmiiznsh5cfqzd6dryyvgyy3";
+          sha256 = "";
         }
         {
           path = ''Shortcuts/VT_New_COMP.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e49eaf106fa9aeef1df2a7a8f258f43824509623/VirtualTrack/Shortcuts/VT_New_COMP.lua";
-          sha256 = "16y65shzn32mphj1x4a8ivv3f1401q288k7jlz26n6bd32w7a7rc";
+          sha256 = "";
         }
         {
           path = ''Shortcuts/VT_Rename.lua'';
@@ -35070,22 +35070,22 @@
         {
           path = ''Shortcuts/VT_ShowAll.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e49eaf106fa9aeef1df2a7a8f258f43824509623/VirtualTrack/Shortcuts/VT_ShowAll.lua";
-          sha256 = "0v1q877cjy0xf5ngc4xa9xxln5hf2xnnq8jjx159zzazkg7zqb92";
+          sha256 = "1pz71wn69bkg5r83p5d7vgzqgsgrcl6s1z50pnmpnl6gsxpcnq60";
         }
         {
           path = ''Shortcuts/VT_Switch_DOWN.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e49eaf106fa9aeef1df2a7a8f258f43824509623/VirtualTrack/Shortcuts/VT_Switch_DOWN.lua";
-          sha256 = "0mbffv5fmhmn8p395kgwl4bca4xsp4y3c8y1chqm7849qgpr2mi8";
+          sha256 = "14av1cjrygdwinya79agdrj3zgw3prrkkn7ls2fdk4mnr7289jdp";
         }
         {
           path = ''Shortcuts/VT_Switch_UP.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e49eaf106fa9aeef1df2a7a8f258f43824509623/VirtualTrack/Shortcuts/VT_Switch_UP.lua";
-          sha256 = "0li3r3fs4gfc8zqgzqgn6xnx20pdg7g8fjjmx5zhgcpyi071zx7c";
+          sha256 = "19i4vw76mnr2yriqs007zck3kdcwmq7x6nmysryggnf636qnn269";
         }
         {
           path = ''Virtual_track_SelTrack.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e49eaf106fa9aeef1df2a7a8f258f43824509623/VirtualTrack/Virtual_track_SelTrack.lua";
-          sha256 = "1vq2pr8v160bwi688kq6sq83ll65s3y1dcarlcfynlc5xdm5m6d3";
+          sha256 = "0vy2jjpmssf2lynaxwl7b351wnl237wr1wqm00i6wf5sr1740f39";
         }
         {
           path = ''Virtual_track_Options.lua'';
@@ -35104,7 +35104,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4ecb2c7a4965866213c51a31e4fbb1940c6207b9/VirtualTrack/Virtual_track_Mouse.lua";
-          sha256 = "0agk91yvkiydbzcw1cbajhmvqx5anbhfd6dba56lp97ax2zjvcqg";
+          sha256 = "0r8c9395mg6f2p027xn08k07iqqdmkyyiaw38wn0w0y8np48f1xn";
         }
         {
           path = ''Images/VT_icon_empty.png'';
@@ -35124,42 +35124,42 @@
         {
           path = ''Modules/VTCommon.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4ecb2c7a4965866213c51a31e4fbb1940c6207b9/VirtualTrack/Modules/VTCommon.lua";
-          sha256 = "1skm2cn1a2mripw3albvbaxygjhml57cc69lbgdfihmxlkl939k2";
+          sha256 = "0ys0wxw99lm2zxzsgi8a8d0zwr1fl1y4mpj3nfr08iqh4apfy3zg";
         }
         {
           path = ''Shortcuts/VT_Activate_lane_under_mouse.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4ecb2c7a4965866213c51a31e4fbb1940c6207b9/VirtualTrack/Shortcuts/VT_Activate_lane_under_mouse.lua";
-          sha256 = "05483jfwsbh60apgana1knmngjmqwsdfh5rhn59s7nvyazh0ayvr";
+          sha256 = "07acadia9y137lb2hiwks436pivrbvm86cwj4l847gglgyp7d68g";
         }
         {
           path = ''Shortcuts/VT_Copy_to_Comp.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4ecb2c7a4965866213c51a31e4fbb1940c6207b9/VirtualTrack/Shortcuts/VT_Copy_to_Comp.lua";
-          sha256 = "0xapk5mgwaxqkss214z42a1qa43vj02lph12k705hbaq4b2sdi3g";
+          sha256 = "09vmdfvy9igwq3rr0vi38m8kvvbnmay51wa3hab1ir1yhlnwhvyh";
         }
         {
           path = ''Shortcuts/VT_CreateNew.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4ecb2c7a4965866213c51a31e4fbb1940c6207b9/VirtualTrack/Shortcuts/VT_CreateNew.lua";
-          sha256 = "1b8096rz4vmjxwfsj24q6p7d6n4734hjfv9qvf9ad0jfnrkaqd2x";
+          sha256 = "";
         }
         {
           path = ''Shortcuts/VT_Delete.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4ecb2c7a4965866213c51a31e4fbb1940c6207b9/VirtualTrack/Shortcuts/VT_Delete.lua";
-          sha256 = "0wx18xa20z1788g2lc6vw8afcd0hd4r4idc16d692fgzribc0wgc";
+          sha256 = "1iy3dm7hqwb1gajrzf0d95x10f91nnc4z9mynk9az3xwyasqv3li";
         }
         {
           path = ''Shortcuts/VT_Duplicate.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4ecb2c7a4965866213c51a31e4fbb1940c6207b9/VirtualTrack/Shortcuts/VT_Duplicate.lua";
-          sha256 = "0q5rhjdmm0g4gxwa5rhmxw4av2drllkq5wzrsla3m139m0d28nx3";
+          sha256 = "16g1i8sxm8yn7059fry9iw5cdgx507phxxlb9snspfas4hhg50vp";
         }
         {
           path = ''Shortcuts/VT_New_COMP.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4ecb2c7a4965866213c51a31e4fbb1940c6207b9/VirtualTrack/Shortcuts/VT_New_COMP.lua";
-          sha256 = "11rag9r04y98i1mdzfkp16yq4fs7fr0xgysz79kxmv57j5fh0l96";
+          sha256 = "18bid7przxypzl4m54xjn42dasy327szma04v8fasxhjlzp4363l";
         }
         {
           path = ''Shortcuts/VT_Rename.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4ecb2c7a4965866213c51a31e4fbb1940c6207b9/VirtualTrack/Shortcuts/VT_Rename.lua";
-          sha256 = "1302ia3852sfdlr6k1dql1zvll26zifm4bzsbs9qi26jxvyv5nxf";
+          sha256 = "";
         }
         {
           path = ''Shortcuts/VT_ShowAll.lua'';
@@ -35174,12 +35174,12 @@
         {
           path = ''Shortcuts/VT_Switch_UP.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4ecb2c7a4965866213c51a31e4fbb1940c6207b9/VirtualTrack/Shortcuts/VT_Switch_UP.lua";
-          sha256 = "106by4hisx3rv14d958jizhpzk9ig0kqw8gb9xb4r59qkcgasvjy";
+          sha256 = "1xzx8x488ylvww3hivbscr2aqprjg5gs8d6y0mh41q3s3lbcg6k5";
         }
         {
           path = ''Virtual_track_SelTrack.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/4ecb2c7a4965866213c51a31e4fbb1940c6207b9/VirtualTrack/Virtual_track_SelTrack.lua";
-          sha256 = "00km0n0126qqxgf66h4rw78iwx1b1p4c5g98rmbzspg8fynzx85w";
+          sha256 = "0ihdbqqgvvwgk9nd70f8jnca68y6b2hnhx47v0fghrbphpi84v6m";
         }
       ];
     };
@@ -35193,7 +35193,7 @@
         {
           path = '''';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e857559d0afad8fe97557b6c825d075f63516904/VirtualTrack/Virtual_track_Mouse.lua";
-          sha256 = "0k57zf52lgdqx3x8mx6q0sr7r67hlbcl8qaisd58k97bi41jpxiq";
+          sha256 = "";
         }
         {
           path = ''Images/VT_icon_empty.png'';
@@ -35208,12 +35208,12 @@
         {
           path = ''Modules/Utils.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e857559d0afad8fe97557b6c825d075f63516904/VirtualTrack/Modules/Utils.lua";
-          sha256 = "0jxiwhgqff6cxghxwkhd7zrw2mz237gs7gwazsqx4wwpgjiqf1b5";
+          sha256 = "0zj5rfdwydnz9pw3j7s1ainjcfv35qyrpj54jszcqh98j5zr6xi3";
         }
         {
           path = ''Modules/VTCommon.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e857559d0afad8fe97557b6c825d075f63516904/VirtualTrack/Modules/VTCommon.lua";
-          sha256 = "0j7qmaskh1l0g4z2syjpc26k6cr8w3z9ipn97nvbgyh9wgkxxlp9";
+          sha256 = "06zz4gsnwfx5kclhkwc6nl2bdb582b8yji117xxdr1wjn9jkwc5n";
         }
         {
           path = ''Shortcuts/VT_Activate_lane_under_mouse.lua'';
@@ -35223,17 +35223,17 @@
         {
           path = ''Shortcuts/VT_Copy_to_Comp.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e857559d0afad8fe97557b6c825d075f63516904/VirtualTrack/Shortcuts/VT_Copy_to_Comp.lua";
-          sha256 = "0xapk5mgwaxqkss214z42a1qa43vj02lph12k705hbaq4b2sdi3g";
+          sha256 = "09vmdfvy9igwq3rr0vi38m8kvvbnmay51wa3hab1ir1yhlnwhvyh";
         }
         {
           path = ''Shortcuts/VT_CreateNew.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e857559d0afad8fe97557b6c825d075f63516904/VirtualTrack/Shortcuts/VT_CreateNew.lua";
-          sha256 = "1b8096rz4vmjxwfsj24q6p7d6n4734hjfv9qvf9ad0jfnrkaqd2x";
+          sha256 = "06540winck5pbjnc7z1gsd4xk1nwp56rfs9xwnr5cxqj2vabf4dg";
         }
         {
           path = ''Shortcuts/VT_Delete.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e857559d0afad8fe97557b6c825d075f63516904/VirtualTrack/Shortcuts/VT_Delete.lua";
-          sha256 = "0wx18xa20z1788g2lc6vw8afcd0hd4r4idc16d692fgzribc0wgc";
+          sha256 = "";
         }
         {
           path = ''Shortcuts/VT_Duplicate.lua'';
@@ -35268,7 +35268,7 @@
         {
           path = ''Virtual_track_SelTrack.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/e857559d0afad8fe97557b6c825d075f63516904/VirtualTrack/Virtual_track_SelTrack.lua";
-          sha256 = "00km0n0126qqxgf66h4rw78iwx1b1p4c5g98rmbzspg8fynzx85w";
+          sha256 = "0ihdbqqgvvwgk9nd70f8jnca68y6b2hnhx47v0fghrbphpi84v6m";
         }
       ];
     };
@@ -35327,12 +35327,12 @@
         {
           path = ''Shortcuts/VT_Duplicate.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c5e4bcc2f5353df31097151507235c1c2d780c07/VirtualTrack/Shortcuts/VT_Duplicate.lua";
-          sha256 = "0q5rhjdmm0g4gxwa5rhmxw4av2drllkq5wzrsla3m139m0d28nx3";
+          sha256 = "16g1i8sxm8yn7059fry9iw5cdgx507phxxlb9snspfas4hhg50vp";
         }
         {
           path = ''Shortcuts/VT_New_COMP.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c5e4bcc2f5353df31097151507235c1c2d780c07/VirtualTrack/Shortcuts/VT_New_COMP.lua";
-          sha256 = "11rag9r04y98i1mdzfkp16yq4fs7fr0xgysz79kxmv57j5fh0l96";
+          sha256 = "18bid7przxypzl4m54xjn42dasy327szma04v8fasxhjlzp4363l";
         }
         {
           path = ''Shortcuts/VT_Rename.lua'';
@@ -35347,7 +35347,7 @@
         {
           path = ''Shortcuts/VT_Switch_DOWN.lua'';
           url = "https://github.com/GoranKovac/ReaScripts/raw/c5e4bcc2f5353df31097151507235c1c2d780c07/VirtualTrack/Shortcuts/VT_Switch_DOWN.lua";
-          sha256 = "1dca9h8gcfq83n3czc03maky12yrgcjb4343dbj421n7x1qba272";
+          sha256 = "1cfv7wxl37dv8ypz2nf8zsr4c1s6x8qjvjqnzd3z6m0lhgm8b273";
         }
         {
           path = ''Shortcuts/VT_Switch_UP.lua'';
