@@ -669,7 +669,7 @@
         {
           path = '''';
           url = "https://github.com/nofishonfriday/ReaScripts/raw/e4b4dd69919bb260e45b529349eaa7917517bc2a/misc/nofish_Print%20visible%20(within%20item%20start%20end)%20take%20markers%20on%20seleted%20tracks%20to%20console.lua";
-          sha256 = "";
+          sha256 = "12fd264xbkxw5yw5bg2lmip6y3nbxkrf1xl4w7lhg1hnsvd9km96";
         }
       ];
     };
@@ -683,7 +683,7 @@
         {
           path = '''';
           url = "https://github.com/nofishonfriday/ReaScripts/raw/84cca995394235d331555567b72a60b8c3ce0a85/misc/nofish_Print%20visible%20(within%20item%20start%20end)%20take%20markers%20on%20seleted%20tracks%20to%20console.lua";
-          sha256 = "";
+          sha256 = "0v39jsr9w0bnk7k0i52bns22dzrsxq0b49rq96qb94kkpp8src0w";
         }
       ];
     };
@@ -725,7 +725,7 @@
         {
           path = '''';
           url = "https://github.com/nofishonfriday/ReaScripts/raw/1ae1f57f8011834f1a892474135c68a518a18f2a/misc/nofish_Realtime%20clock.lua";
-          sha256 = "";
+          sha256 = "1g6w44n710b132jz6x6i2f51sqvwk44qymp2wszf5spa47iycb1a";
         }
       ];
     };
@@ -739,7 +739,7 @@
         {
           path = '''';
           url = "https://github.com/nofishonfriday/ReaScripts/raw/c8db8931787593b5679c718eba9e7199f4252208/misc/nofish_Reset%20Mix%20-%20all%20tracks%20(for%20stem%20export).lua";
-          sha256 = "1cl77gazwvs4mfgdfva0a6ivbbiynk4xbiczb7086fvra3jahklh";
+          sha256 = "0407w02pwzwxnsq78534ryilr2kdrnyzdqwvckddab7pqkv4nhi3";
         }
       ];
     };

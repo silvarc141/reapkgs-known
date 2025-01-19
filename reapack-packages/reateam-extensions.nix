@@ -1502,7 +1502,7 @@
         {
           path = ''reaper_js_ReaScriptAPI32.dylib'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.990/reaper_js_ReaScriptAPI32.dylib";
-          sha256 = "07pbb5jwiaf10c7kymdk1wgv8caa7l02wjgadq28d731p2715yam";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI64.dylib'';
@@ -1522,7 +1522,7 @@
         {
           path = ''reaper_js_ReaScriptAPI32.so'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.990/reaper_js_ReaScriptAPI32.so";
-          sha256 = "0z33mg2sbfpkxp4w3x5ff537bv8jmc2f6l7bq4i2bpancq7369l1";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI64.so'';
@@ -1556,17 +1556,17 @@
         {
           path = ''reaper_js_ReaScriptAPI64.dll'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.991/reaper_js_ReaScriptAPI64.dll";
-          sha256 = "1w2q720bj7sjxqwrn7xycc7ddixxg8lmgmzqm29izi66ws9jip88";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI32.so'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.991/reaper_js_ReaScriptAPI32.so";
-          sha256 = "0gzq8ph6lxys081z6xx99x7fnqgjs9vv0madfm4c4xjm5i1m1620";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI64.so'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.991/reaper_js_ReaScriptAPI64.so";
-          sha256 = "1z72zccvcns11b7nrfx5g72pzk1iky60hcl84mhzsf7mvlh86w02";
+          sha256 = "";
         }
       ];
     };
@@ -1590,22 +1590,22 @@
         {
           path = ''reaper_js_ReaScriptAPI32.dll'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.992/reaper_js_ReaScriptAPI32.dll";
-          sha256 = "0zsrni2gcjgvr3z3ma78j85a2wargspdbb3h2bvj8xa9qq19wik8";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI64.dll'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.992/reaper_js_ReaScriptAPI64.dll";
-          sha256 = "0hlzq3y6bzccng5fhnvmjb3lzv9qkqa03bpnnkrs7w9la9a1n3ps";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI32.so'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.992/reaper_js_ReaScriptAPI32.so";
-          sha256 = "1vba7qdsq4gkk6g3m7pk83xahl01wbdqcsfmxrqwq716ri04jl5k";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI64.so'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.992/reaper_js_ReaScriptAPI64.so";
-          sha256 = "11a03125fznyhfpfgcqd2d2i2scdmjlbz96wi65n65w66hlbvhjy";
+          sha256 = "";
         }
       ];
     };
@@ -1619,17 +1619,17 @@
         {
           path = ''reaper_js_ReaScriptAPI32.dylib'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.993/reaper_js_ReaScriptAPI32.dylib";
-          sha256 = "0asbpan2xfyx3w4cmy7vvm82i9r21k2c2yaaagabqky3sqm7ig6j";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI64.dylib'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.993/reaper_js_ReaScriptAPI64.dylib";
-          sha256 = "0paxb8k5ahwkrvvhz8xaziv68y4h5qr350pk2rbyk19x32kan4q6";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI32.dll'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.993/reaper_js_ReaScriptAPI32.dll";
-          sha256 = "0c5ckrb3hi36yminknhnsmb3w986z1mmrlqhl0i1lv2aw7fm1wh9";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI64.dll'';
@@ -1639,12 +1639,12 @@
         {
           path = ''reaper_js_ReaScriptAPI32.so'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.993/reaper_js_ReaScriptAPI32.so";
-          sha256 = "0nix2pjdb237m7wdp25i46cqswy258wbyrm3bc6kp610xmlmi278";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI64.so'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.993/reaper_js_ReaScriptAPI64.so";
-          sha256 = "1aa18ir4a43g3930svd6mpplspm01llvqils039rpfiyciyn05xp";
+          sha256 = "";
         }
       ];
     };
@@ -1697,7 +1697,7 @@
         {
           path = ''reaper_js_ReaScriptAPI32.dylib'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.995/reaper_js_ReaScriptAPI32.dylib";
-          sha256 = "1wzfwnmlqihgllzm0lfbip3368jldndwxxfkm92v22l6zpw6axaw";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI64.dylib'';
@@ -1712,17 +1712,17 @@
         {
           path = ''reaper_js_ReaScriptAPI64.dll'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.995/reaper_js_ReaScriptAPI64.dll";
-          sha256 = "0zpv3n87xjzll0xk97yrc87f495fnmk5n1sr100bih3fmwbgjqhk";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI32.so'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.995/reaper_js_ReaScriptAPI32.so";
-          sha256 = "0zbln6z2yyf1wm17r4a79qg4h7xbky724qjr61z4c5dzgp0ay1rp";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI64.so'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.995/reaper_js_ReaScriptAPI64.so";
-          sha256 = "0wjc8dixkzhn16jiysmmrjajbqnsziz5jjx9mz8qpqan6yn5jxk5";
+          sha256 = "";
         }
       ];
     };
@@ -1736,7 +1736,7 @@
         {
           path = ''reaper_js_ReaScriptAPI32.dylib'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.996/reaper_js_ReaScriptAPI32.dylib";
-          sha256 = "0wz6p5m4dp86rmixwa802887r1g14ndayhf8d7m8g4pyzqmmphzd";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI64.dylib'';
@@ -1756,12 +1756,12 @@
         {
           path = ''reaper_js_ReaScriptAPI32.so'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.996/reaper_js_ReaScriptAPI32.so";
-          sha256 = "0fb3ldwr7s7jg0xvmhddc5pw9bwl0pin4c4hj4lxifv4i3vndfj1";
+          sha256 = "";
         }
         {
           path = ''reaper_js_ReaScriptAPI64.so'';
           url = "https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.996/reaper_js_ReaScriptAPI64.so";
-          sha256 = "0qihj1grsq4h37wqbf5vi3f6cc62qn5cyk9sq2ml1lakx2a21dd3";
+          sha256 = "";
         }
       ];
     };

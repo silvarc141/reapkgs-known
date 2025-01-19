@@ -5187,7 +5187,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/61a198f97763e85b3144e1b00ad3a86fec79ba8c/MIDI%20Editor/zaibuyidao_Connect%20Two%20Nodes.lua";
-          sha256 = "";
+          sha256 = "0ba1m76i5772qcf65xp2v2bmz95wwks84ajjz52q6qadrmr1p9aw";
         }
       ];
     };
@@ -5243,7 +5243,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3cd3d7d786cae21ad492f921d986023ab0facab3/MIDI%20Editor/zaibuyidao_Copy%20Selected%20Arpeggio.lua";
-          sha256 = "";
+          sha256 = "1dmjjjkvmw0y4msj4ic1ca2azb5qyiwjkn80vxjx0dqc06qzflgy";
         }
       ];
     };
@@ -5341,7 +5341,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6563be5436121f78d8bc239e59cb1e723de342f6/MIDI%20Editor/zaibuyidao_Delete%20Channel%20Events%20(Keep%20Channel).lua";
-          sha256 = "";
+          sha256 = "09kgkff3ixhibgzn49a9pnkw2x7w2ydvrr86c63j4ai5pv62l3vp";
         }
       ];
     };
@@ -5355,7 +5355,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/653765ea4a1aac18f4e326685381134e60bdafe1/MIDI%20Editor/zaibuyidao_Delete%20Channel%20Events.lua";
-          sha256 = "";
+          sha256 = "02vv4xj89ay587zrx99sybqfzq823r00sdlk7q6gncz1inznf9s9";
         }
       ];
     };
@@ -5369,7 +5369,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/239ebd6a73cf5e7b124ef6f65b21e8eae63acd61/MIDI%20Editor/zaibuyidao_Duplicate%20CC%20(For%20Selected%20CC).lua";
-          sha256 = "";
+          sha256 = "0bkbcq750bi397hzd04244h6q2dnybib4njwr3v48w09ngjvxj95";
         }
       ];
     };
@@ -5383,7 +5383,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/39d21f6f5636881fb9b439d24e28bae3160e83aa/MIDI%20Editor/zaibuyidao_Duplicate%20CC%20(For%20Selected%20CC).lua";
-          sha256 = "08gi9wy9dzmy3zfkkymfg9vzvrk93vh151msjj2d01bzlxg9c61f";
+          sha256 = "1rh03ni91dpjyxbbnmpyp0z1mad99m81bmy5whzp22n9z1nhyw93";
         }
       ];
     };
@@ -5397,7 +5397,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/902d620614b7ea5774a0d243346b139f47cdac1f/MIDI%20Editor/zaibuyidao_Duplicate%20CC%20(For%20Selected%20CC).lua";
-          sha256 = "";
+          sha256 = "1qs75rp8vm8zyk86pidq56jzicrphkpam9cp1h1g2z72h54mh63m";
         }
       ];
     };
@@ -5411,7 +5411,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/239ebd6a73cf5e7b124ef6f65b21e8eae63acd61/MIDI%20Editor/zaibuyidao_Duplicate%20CC.lua";
-          sha256 = "";
+          sha256 = "06z91ghrk1m5gz8yi4ss4iinz35mk262wf1gkwa39xd2bkwgbchh";
         }
       ];
     };
@@ -5425,7 +5425,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/39d21f6f5636881fb9b439d24e28bae3160e83aa/MIDI%20Editor/zaibuyidao_Duplicate%20CC.lua";
-          sha256 = "";
+          sha256 = "17fg0sb3fv44kc12hx345b0s1v9hqwmh3mbnyq9zfksp81da5qyi";
         }
       ];
     };
@@ -5439,7 +5439,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/902d620614b7ea5774a0d243346b139f47cdac1f/MIDI%20Editor/zaibuyidao_Duplicate%20CC.lua";
-          sha256 = "";
+          sha256 = "1l0q687vga780kx7rc266q37by1z2z9f45l1y33074qvnn0d6kk1";
         }
       ];
     };
@@ -5453,7 +5453,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0f15cba693739c6e9befc8feb63473291440a4de/MIDI%20Editor/zaibuyidao_Duplicate%20Events%20(Fast).lua";
-          sha256 = "";
+          sha256 = "1lk13j8vy63agxrbqkb8aa85gzz00ykidk1lwxjmjg2zjjlms1z7";
         }
       ];
     };
@@ -5481,7 +5481,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f24376872d8a3bd22b76c6a6716ee8784cadf7f8/MIDI%20Editor/zaibuyidao_Duplicate%20Events%20(Fast).lua";
-          sha256 = "";
+          sha256 = "0sd5zfh3dpn1bhv7byjfps2h24l6nvmqila8fgh6cy1ym8naiw44";
         }
       ];
     };
@@ -5509,7 +5509,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8d69b1d0593742bbc15f7dbb85a01d5c4c2a75ad/MIDI%20Editor/zaibuyidao_Duplicate%20Events%20To%20Edit%20Cursor%20(Fast).lua";
-          sha256 = "1jrzy981xahdyny8midb9rx1b1yxr2zlxpa2616xmpfnjkljhq89";
+          sha256 = "0x6gfd7i5dpkq6912awyhyp0i32w4pnrciixs998n9p8pq443plj";
         }
       ];
     };
@@ -5523,7 +5523,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5cff5bae48eff5e3d4e256997fcc19f84edafa97/MIDI%20Editor/zaibuyidao_Duplicate%20Events%20To%20Edit%20Cursor%20(Fast).lua";
-          sha256 = "";
+          sha256 = "11axicss8anvdygpp72hi2xkpdh9c92kkdcm7xajvkbcdk4aqlwx";
         }
       ];
     };
@@ -5537,7 +5537,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0df9e595aaaf6c9800a2fff218dd4b59cecede37/MIDI%20Editor/zaibuyidao_Duplicate%20Events%20To%20Edit%20Cursor%20(Fast).lua";
-          sha256 = "";
+          sha256 = "0z9nfv9295f149xyxlss0jm8zbp4llpa9jlj282dh5ffbd0ss142";
         }
       ];
     };
@@ -5551,7 +5551,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f24376872d8a3bd22b76c6a6716ee8784cadf7f8/MIDI%20Editor/zaibuyidao_Duplicate%20Events%20To%20Edit%20Cursor%20(Fast).lua";
-          sha256 = "";
+          sha256 = "1mm0saqhaaxwzd6yawg5sk11n4lh6ifrv8gkhilkhl10y24hlgra";
         }
       ];
     };
@@ -5593,7 +5593,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0f852869f92fac97f42d7da8c86afca60821733/MIDI%20Editor/zaibuyidao_Duplicate%20Events%20To%20Edit%20Cursor%20(Multitrack).lua";
-          sha256 = "";
+          sha256 = "0sxz8iagyxgx9fm6ci6jl8axnqsq90mgn1s4qd67qyfmdv4l67rw";
         }
       ];
     };
@@ -5607,7 +5607,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9c9f3ce20eea90befec1b60f3c9f8932d56def00/MIDI%20Editor/zaibuyidao_Duplicate%20Events%20To%20Edit%20Cursor%20(Multitrack).lua";
-          sha256 = "";
+          sha256 = "0mhks32hy5hdggank76swfmq8lw8lp7a7pjxr0xmvp2pk8czsawj";
         }
       ];
     };
@@ -5621,7 +5621,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/90b0d6751d6e073acb4ba560516061859174a19d/MIDI%20Editor/zaibuyidao_Duplicate%20Events%20To%20Edit%20Cursor%20(Multitrack).lua";
-          sha256 = "";
+          sha256 = "1zn0pbz0klz3l04lnmk9rkp3ikfmpz5wkmvfrf5rd9ya8bkdsn43";
         }
       ];
     };
@@ -5635,7 +5635,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4ed021092fc567b9cb44269e38a18b2042a2a8e1/MIDI%20Editor/zaibuyidao_Duplicate%20Events%20To%20Edit%20Cursor%20(Multitrack).lua";
-          sha256 = "1cg8kcvda0p1mnmn254h3x5cv9xxnc9dkv6qz0454vhwyh86a2n9";
+          sha256 = "0yx84jhjfwsrnnxi5031w9ln48lq0xvivz1798bmf45xpswp7cmw";
         }
       ];
     };
@@ -5649,7 +5649,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3cd3d7d786cae21ad492f921d986023ab0facab3/MIDI%20Editor/zaibuyidao_Duplicate%20Events%20To%20Edit%20Cursor%20(Multitrack).lua";
-          sha256 = "";
+          sha256 = "0r3jzbzk1zgw2lllp2g2h84c25dg9jbpnxwj35v8q5px57g0axsy";
         }
       ];
     };
@@ -5691,7 +5691,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/90b0d6751d6e073acb4ba560516061859174a19d/MIDI%20Editor/zaibuyidao_Duplicate%20Events%20To%20Edit%20Cursor.lua";
-          sha256 = "";
+          sha256 = "1pnij25284mkzr483my8p35qnz7j4dlhdr4gaapmd2ig9a97f90d";
         }
       ];
     };
@@ -5705,7 +5705,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4ed021092fc567b9cb44269e38a18b2042a2a8e1/MIDI%20Editor/zaibuyidao_Duplicate%20Events%20To%20Edit%20Cursor.lua";
-          sha256 = "";
+          sha256 = "034p6x1hy74r60j4fa2lk59m9jxm61xzpp7d1zw0im7aajs3wlk5";
         }
       ];
     };
@@ -5719,7 +5719,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3cd3d7d786cae21ad492f921d986023ab0facab3/MIDI%20Editor/zaibuyidao_Duplicate%20Events%20To%20Edit%20Cursor.lua";
-          sha256 = "";
+          sha256 = "0i39fkldckw990zlgdgai9hydx1sy811m2prxh87116kqb28li1m";
         }
       ];
     };
@@ -5775,7 +5775,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9215afd16ad7dd0f979d47ab9ef258a759cf2719/MIDI%20Editor/zaibuyidao_Duplicate%20Events.lua";
-          sha256 = "0z4vb3qinw3gxh3s9bssjc97c7fhqgmj7zm479f3mgi4ak0ac3ci";
+          sha256 = "1ziwxzil0iq39mq7zli4wk1njmzra3w030qrzv0yccrwnb64zgw7";
         }
       ];
     };
@@ -5803,7 +5803,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/834fd1d38d7dd9af5e12acc38b15c24a0affb289/MIDI%20Editor/zaibuyidao_Duplicate%20Events.lua";
-          sha256 = "18yh11il54q7gi99q613cffwikfyc4p5cywvxxqiaf04y6xisra2";
+          sha256 = "1189m842v124cw57zfwhl707f802hgxd74kr7ircgsmfas103qyr";
         }
       ];
     };
@@ -5817,7 +5817,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26b7d26db10fe8d0b02211f20e6613461e04e243/MIDI%20Editor/zaibuyidao_Duplicate%20Events.lua";
-          sha256 = "0qh25c269wwgr2avkmrhfvgslh103i0kflnpf860a7yrns26r8zs";
+          sha256 = "1gcqld8lmb5cv2wc68c78wxjffwfxpw22mvdgqy13pcyy84kwgks";
         }
       ];
     };

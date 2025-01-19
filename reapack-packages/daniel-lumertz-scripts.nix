@@ -4471,6 +4471,240 @@
         }
       ];
     };
+    daniellumertz-clouds-lua-1-0-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "daniellumertz-clouds-lua-1-0-0";
+      indexName = "Daniel Lumertz Scripts";
+      categoryName = "Generative/Clouds";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/daniellumertz_Clouds.lua";
+          sha256 = "1xv3b5b5nbchv2vxq8iinqy25af3sn09fndqfwiaq4hvp3w2bj23";
+        }
+        {
+          path = ''daniellumertz_Clouds Generate for All Items.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/daniellumertz_Clouds%20Generate%20for%20All%20Items.lua";
+          sha256 = "1ssdaxl22yd716icwkryzy8bragr2ayqlqp22cbn9jzwn3s0r3q9";
+        }
+        {
+          path = ''daniellumertz_Clouds Generate for All Items Without Deleting.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/daniellumertz_Clouds%20Generate%20for%20All%20Items%20Without%20Deleting.lua";
+          sha256 = "1xcf99shl0hpr5xq1fww1b0c64llh6kxvihg2ndacj0rl02z01ky";
+        }
+        {
+          path = ''daniellumertz_Clouds Generate for Selected Items Without Deleting.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/daniellumertz_Clouds%20Generate%20for%20Selected%20Items%20Without%20Deleting.lua";
+          sha256 = "08ka4lb56x8bx84h9703hi2wh1dp0y9l2ifzbazp1ahm08cri68a";
+        }
+        {
+          path = ''daniellumertz_Clouds Generate for Selected Items.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/daniellumertz_Clouds%20Generate%20for%20Selected%20Items.lua";
+          sha256 = "1s65zadwzaw8i9hn209pqaqrn2yr52ypgc9jawzwkqrxs4zvyy9d";
+        }
+        {
+          path = ''DL Functions/General Debug.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/General%20Debug.lua";
+          sha256 = "1d5zqv62l94765nfch97wzcjyhb2dh657bpjrd59fgazwaa2zzjh";
+        }
+        {
+          path = ''DL Functions/General Files.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/General%20Files.lua";
+          sha256 = "1iay6cnzwaw1jdy7ywih350lis6kd1rhzis2q13iqxmcjp9pnk18";
+        }
+        {
+          path = ''DL Functions/General Number.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/General%20Number.lua";
+          sha256 = "18wam92xh18mwagk3rn0zwddrsfl9ycawdbkv2hggn7r21w1zqw6";
+        }
+        {
+          path = ''DL Functions/General String.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/General%20String.lua";
+          sha256 = "0d2h0m8k8sswgj0a2b0zz20r23yikimrpn3q7rka7sbj4lxs4vqc";
+        }
+        {
+          path = ''DL Functions/General Table.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/General%20Table.lua";
+          sha256 = "1h05y8ha38l4y7lkj461b3lisa2rdm6zwgra12r8wq3qc877vk27";
+        }
+        {
+          path = ''DL Functions/ImGui.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/ImGui.lua";
+          sha256 = "0jhwfryz2jlfp0v62wmvz35r29gaic18fp8h2wxm9d2v58xcvl4r";
+        }
+        {
+          path = ''DL Functions/MIDI IO.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/MIDI%20IO.lua";
+          sha256 = "1azgafap6vqx87p5bg1jna1nlvhf806v7p60zdkjllmyy3ai3hqk";
+        }
+        {
+          path = ''DL Functions/MIDI.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/MIDI.lua";
+          sha256 = "0c379flkk4pz3jvpghzv7m05z3mp3zg4agf51pv5iw6jjny7v7fp";
+        }
+        {
+          path = ''DL Functions/Music.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/Music.lua";
+          sha256 = "1yd13lqp497hgkp83fwkm1zz5axivf6590hcrgvwdl1gg4p1qlkb";
+        }
+        {
+          path = ''DL Functions/REAPER Automation Items.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/REAPER%20Automation%20Items.lua";
+          sha256 = "11qz478j31pl5qf218c4qzw5k3fblxd3kbfpxghqgjg172dqyvfi";
+        }
+        {
+          path = ''DL Functions/REAPER Checker.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/REAPER%20Checker.lua";
+          sha256 = "1idm7f3d6vrz4hfrwwy3ac59bbm6apxfjy3b9lyb506c76jawv4z";
+        }
+        {
+          path = ''DL Functions/REAPER Chunks.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/REAPER%20Chunks.lua";
+          sha256 = "1hs5w1kgvk4wmjh3l7hk0i290qzzaapi6v3gwmjk61maa1axgfpd";
+        }
+        {
+          path = ''DL Functions/REAPER Enumerate.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/REAPER%20Enumerate.lua";
+          sha256 = "10znr0a8mzcr53rpwvyjffrvjc3v8d01kqwzhvv6mhw9jpykq85n";
+        }
+        {
+          path = ''DL Functions/REAPER Envelopes.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/REAPER%20Envelopes.lua";
+          sha256 = "1dk2b4072skbvfsq8qxsassfgb0hja03b95m5yad106m4kgr61ff";
+        }
+        {
+          path = ''DL Functions/REAPER FX.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/REAPER%20FX.lua";
+          sha256 = "1jm2lg1z3w493npnx0h3n8j6prqisyjl2zykxwczi7g60cg2jcv7";
+        }
+        {
+          path = ''DL Functions/REAPER Items.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/REAPER%20Items.lua";
+          sha256 = "076mli2affxzb5li5fmjp746i0v0as5nz6xbz31xnqsx22l8b37h";
+        }
+        {
+          path = ''DL Functions/REAPER Markers.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/REAPER%20Markers.lua";
+          sha256 = "1fjfi1vsxr5lyc8hcknpyb26dy2ghfkirxm5glmlxay8zlx220rx";
+        }
+        {
+          path = ''DL Functions/REAPER Play.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/REAPER%20Play.lua";
+          sha256 = "0xqap57yli6hqyvb0xkifxdfqdpzdnkjmgl4ximln2h941n9wh0x";
+        }
+        {
+          path = ''DL Functions/REAPER Projects.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/REAPER%20Projects.lua";
+          sha256 = "0fs9vxss79gjfhgx46imrj9wdnjrmihb5aw2g0c22aydy6jlgnwc";
+        }
+        {
+          path = ''DL Functions/REAPER Take.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/REAPER%20Take.lua";
+          sha256 = "0ihn38mg8v9n0ibq4vkbivr43nzdyx4b9wd8jcc4dg9wym708ngp";
+        }
+        {
+          path = ''DL Functions/REAPER Time.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/REAPER%20Time.lua";
+          sha256 = "0zjph4xvjfq3djphhcv03ki22sga9i7b6m5n742p04s9bvab6hv8";
+        }
+        {
+          path = ''DL Functions/REAPER Tracks.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/REAPER%20Tracks.lua";
+          sha256 = "1kghzdrl9ggg38skzjiflfydsljp80f6473gzfif9miz7jj7s01a";
+        }
+        {
+          path = ''DL Functions/Serialize.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/Serialize.lua";
+          sha256 = "0wsk2201z2bf0i3x95r61l3ymg6ikrqzxc8zw49qv25cj812cm5j";
+        }
+        {
+          path = ''DL Functions/URL.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/URL.lua";
+          sha256 = "0x9py2h9xrbrmmglj55s2p5jkb71m8nnzx56spkd9yb6n30836bn";
+        }
+        {
+          path = ''DL Functions/json.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/json.lua";
+          sha256 = "0svyx4aqbmigkr858la6acm17xsma6zrhv39w21xrrw47di3ynsz";
+        }
+        {
+          path = ''DL Functions/rxi_json.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/DL%20Functions/rxi_json.lua";
+          sha256 = "02nbkj7n90frfd4p0145l4c5fz8dj8b9fqxfkkvviwcimg9y4lcv";
+        }
+        {
+          path = ''Clouds Functions/Clouds Apply.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/Clouds%20Functions/Clouds%20Apply.lua";
+          sha256 = "0lqh8r9lws2mfx8nbwnc8v68c34l2vfy5r69gmm9nipbca3slnmx";
+        }
+        {
+          path = ''Clouds Functions/Clouds Convert GUIDS.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/Clouds%20Functions/Clouds%20Convert%20GUIDS.lua";
+          sha256 = "05ylwmssqhd3dcc5mslvh2afx05zz3fvz7dvz3k77abf8cqq4313";
+        }
+        {
+          path = ''Clouds Functions/Clouds GUI.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/Clouds%20Functions/Clouds%20GUI.lua";
+          sha256 = "0pwcv00qd97mz7zgw64dy9ah8vv075rz58580d2fpj3dvp741hz3";
+        }
+        {
+          path = ''Clouds Functions/Clouds Items.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/Clouds%20Functions/Clouds%20Items.lua";
+          sha256 = "1gra6mmvfb9graxsbqngakck7a758qb1bb7sb2q78zf3fa4i0l53";
+        }
+        {
+          path = ''Clouds Functions/Clouds Presets.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/Clouds%20Functions/Clouds%20Presets.lua";
+          sha256 = "06ccv3yabhf3cppmv8zcrls7zp2w8gnldlq6q2g2iqnxggab9vd6";
+        }
+        {
+          path = ''Clouds Functions/Clouds Settings.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/Clouds%20Functions/Clouds%20Settings.lua";
+          sha256 = "011jhbly87l4lqsgrjj1in6n0cgjq05h4prfxb371p1ys1whss49";
+        }
+        {
+          path = ''Clouds Functions/Clouds Themes.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/Clouds%20Functions/Clouds%20Themes.lua";
+          sha256 = "0688a8wfdjzdlg9ciclgj69rlbwzl9ql85rwi9s60qcl4vidfra0";
+        }
+        {
+          path = ''Clouds Functions/Clouds Tooltips.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/Clouds%20Functions/Clouds%20Tooltips.lua";
+          sha256 = "0iia68yaqgbk33c9b6k7f1h1z57iwjrsrdia07s6z172v3r1d36l";
+        }
+        {
+          path = ''Clouds Functions/Clouds Tracks.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/Clouds%20Functions/Clouds%20Tracks.lua";
+          sha256 = "16g8kysbwhckhynm7hzf6j2088did6a8c3f7hvgjnn8l9p2bkqb0";
+        }
+        {
+          path = ''Image/Cloud.png'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/Image/Cloud.png";
+          sha256 = "09vxygwl52f29ayb3mx3hcp4yvcaskldpx14h749n2s2fsij9j54";
+        }
+        {
+          path = ''Info/Cloud Items Table.txt'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/Info/Cloud%20Items%20Table.txt";
+          sha256 = "1hjs6jsds9p1hnhlbgcjll10aqyjk7hz7dzbydmhi90bl7fh2n25";
+        }
+        {
+          path = ''User Presets/Default.json'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/User%20Presets/Default.json";
+          sha256 = "1l0m9hfiakn2qpbhm7fr42prnfn9ja47cj1gkf5l8vl253329qhq";
+        }
+        {
+          path = ''User Settings/.gitkeep'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/User%20Settings/.gitkeep";
+          sha256 = "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73";
+        }
+        {
+          path = ''FX/daniellumertz_Clouds.jsfx'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/121eecca290326feea2b77d0306bb78488a8cbbc/Generative/Clouds/FX/daniellumertz_Clouds.jsfx";
+          sha256 = "17wvgd4pnr808pwn57ybmcx2mihs1xszsq7wgvggknh8nf3xa2c9";
+        }
+      ];
+    };
     daniellumertz-its-gonna-phase-lua-0-0-1 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "daniellumertz-its-gonna-phase-lua-0-0-1";
