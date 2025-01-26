@@ -5312,6 +5312,20 @@
         }
       ];
     };
+    lil-chordbox-lua-2-3-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "lil-chordbox-lua-2-3-1";
+      indexName = "FTC Tools";
+      categoryName = "MIDI editor";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/ffbbbda89ac0a0d9e6133cbd612da423ab5dffe2/MIDI%20editor/Lil%20Chordbox.lua";
+          sha256 = "12g8fy2lg9d466pqpamfijx8gvmi1y2jbqvqg5hg3ib0279yqfn1";
+        }
+      ];
+    };
     ftc-memagic-bundle-lua-1-0-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "ftc-memagic-bundle-lua-1-0-0";

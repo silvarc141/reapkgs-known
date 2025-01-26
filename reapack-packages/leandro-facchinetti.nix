@@ -2550,7 +2550,7 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 10.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2010.lua";
-          sha256 = "070kfwqb3dwmzz4s6jb70mkyb25c26h443jlnvppfnc6ybf549pa";
+          sha256 = "1w4mp2vrdcqdd7wl7kwlci2bbs6vkjxr94xlwzgsii0d7saaf62w";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 11.lua'';
@@ -2600,7 +2600,7 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 20.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2020.lua";
-          sha256 = "070kfwqb3dwmzz4s6jb70mkyb25c26h443jlnvppfnc6ybf549pa";
+          sha256 = "1w4mp2vrdcqdd7wl7kwlci2bbs6vkjxr94xlwzgsii0d7saaf62w";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 1.lua'';
@@ -2719,7 +2719,7 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 2.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%202.lua";
-          sha256 = "0q7xzzx5r72mjb1m2i0ry32vk6blvb68yk5j60649699z0n7r1f1";
+          sha256 = "0pygn2j20nxvin68kxd2iig1qy2sgyy5rzca5pa9crzsms9cw507";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 3.lua'';

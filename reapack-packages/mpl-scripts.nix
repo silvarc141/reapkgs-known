@@ -23776,6 +23776,20 @@
         }
       ];
     };
+    mpl-check-if-multichannel-item-has-mono-source-convert-to-mono-item-if-need-lua-1-03 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-check-if-multichannel-item-has-mono-source-convert-to-mono-item-if-need-lua-1-03";
+      indexName = "MPL Scripts";
+      categoryName = "Takes Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/3df015318baba13232cd5f33af24bcfeef8d5740/Takes%20Properties/mpl_Check%20if%20multichannel%20item%20has%20mono%20source,%20convert%20to%20mono%20item%20if%20need%20.lua";
+          sha256 = "0b43wb5599ripsdgfqya6rxj5y9fyzanrh8q2km2df2k4k53mqa1";
+        }
+      ];
+    };
     mpl-color-drums-shots-by-spectral-content-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-color-drums-shots-by-spectral-content-lua-1-0";
@@ -27606,6 +27620,20 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Tracks%20Properties/mpl_Set%20track%20offset%20in%20seconds.lua";
           sha256 = "174mm33bpiy7qzjvgks4clf5x8lscdwxj19bfy0j231x91yglrkr";
+        }
+      ];
+    };
+    mpl-set-track-pan-from-take-pan-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-set-track-pan-from-take-pan-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Tracks Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/a3213115a44edd6dfdf1b427e957d186cce3a027/Tracks%20Properties/mpl_Set%20track%20pan%20from%20take%20pan.lua";
+          sha256 = "17n8asinxcfgyrg6jcb9ay6jzn9qs0igw62h6i6qkqy9r6abr9rl";
         }
       ];
     };
@@ -37925,6 +37953,34 @@
         }
       ];
     };
+    mpl-peak-follower-tools-lua-2-03 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-peak-follower-tools-lua-2-03";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e77c3c327290091c8a3d0ee2b5dc0c8b52bf7b36/Various/mpl_Peak%20follower%20tools.lua";
+          sha256 = "126qf9wm7dz5gkyxlswyjgksrgqhql7amq7hrhvhkw3d33sq2fk7";
+        }
+      ];
+    };
+    mpl-peak-follower-tools-lua-2-04 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-peak-follower-tools-lua-2-04";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c6de6d06eb96982760d7f83916fab7c76b70a870/Various/mpl_Peak%20follower%20tools.lua";
+          sha256 = "1hcnpxxhxif6lmmhsdlyj50pbh27bl43wp0zflfz4w2byh0my9j2";
+        }
+      ];
+    };
     mpl-pitcheditor-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-pitcheditor-lua-1-0";
@@ -38685,6 +38741,20 @@
         }
       ];
     };
+    mpl-sampling-tool-lua-2-02 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-sampling-tool-lua-2-02";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1d6726a3d60cdc64d62058ff9e038c3627ccd862/Various/mpl_Sampling%20tool.lua";
+          sha256 = "0yl886k3g3z4niznj15xgwxcq5mq3bszgh45vwgn1cdg51hasdwd";
+        }
+      ];
+    };
     mpl-sendfader-background-lua-1-33 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-sendfader-background-lua-1-33";
@@ -39022,6 +39092,34 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/38409147caf9e47c839137f3b9b4680188ab5268/Various/mpl_SendFader%20(background).lua";
           sha256 = "1qdhyvwmp6q1sn0llxwbfs92vhkjg3y4b8mibmlzzxmvq9zvhvan";
+        }
+      ];
+    };
+    mpl-sendfader-background-lua-3-02 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-sendfader-background-lua-3-02";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b0a99f76bba125edcf6ce5363f9f1f4137e2d40c/Various/mpl_SendFader%20(background).lua";
+          sha256 = "1cafwhs8s4skpg3n0nivkcy9zkq6f3r8am2b64cvndh2y5bzhqrc";
+        }
+      ];
+    };
+    mpl-sendfader-background-lua-3-03 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-sendfader-background-lua-3-03";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/07ae2567932a7a181bc4eb56db34010e27f134c7/Various/mpl_SendFader%20(background).lua";
+          sha256 = "13wv4102659aydg0sbg02pbg5l5hikyifcyz8502gkqvcfv6wdmc";
         }
       ];
     };

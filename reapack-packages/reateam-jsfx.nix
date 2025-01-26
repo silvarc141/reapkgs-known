@@ -5109,12 +5109,12 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s9_m.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/57f2c7dc2b063982d9f9c0daa2f579e0a9610c11/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sstep/s9_m.txt";
-          sha256 = "1hzmkiijd2gb8w868qa9hch7p6l0yfjvjf0r6gmb6b4vqxjx61cr";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/user_lib/USER_LIB_FILES_GO_HERE.md'';
           url = "https://github.com/ReaTeam/JSFX/raw/57f2c7dc2b063982d9f9c0daa2f579e0a9610c11/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/user_lib/USER_LIB_FILES_GO_HERE.md";
-          sha256 = "1rfzymy0vrr8g1f26l4q7wvfysyfl2cy7ifci6ypfm2q9605icdh";
+          sha256 = "";
         }
       ];
     };
@@ -5133,17 +5133,17 @@
         {
           path = ''talagan_MIDI CC Mapper X/MIDI CC Mapper X - Dump Current Function.lua'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/MIDI%20CC%20Mapper%20X%20-%20Dump%20Current%20Function.lua";
-          sha256 = "05q5hzbl79xmz9yfgajx4kwkzqggbcvyp44y56xa4c57jmvzh296";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/README.md'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/README.md";
-          sha256 = "00g3r82xk36sj5q7k2190hm2z6q44liwpdcir900b1fqicsa4y39";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/lib.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/lib.txt";
-          sha256 = "03xfx6zkvan2m1ppybjl0pj812ryvcfs732nf8nkd5ngk7n851gc";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/_tools/make_curves.rb'';
@@ -5153,12 +5153,12 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/LIB_FILES_GO_HERE.md'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/LIB_FILES_GO_HERE.md";
-          sha256 = "1qffz5ggjrvqaain9bmca39pd5c4940v1h0rc697ccyx3zsbyhim";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/circ/classic.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/circ/classic.txt";
-          sha256 = "0f0677p74yb1faz5rrmf8454va39zgmdk86pjkqrqv273bvhc2i2";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/circ/classic_m.txt'';
@@ -5173,7 +5173,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/circ/classic_r.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/circ/classic_r.txt";
-          sha256 = "0rkacsyk580lmf2v2ak6v7qfa7p2pvgw9wdqhx1kh3kqlf0d4n7b";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/circ/classic_rm.txt'';
@@ -5208,7 +5208,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/circ/step_r.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/circ/step_r.txt";
-          sha256 = "0nib6may70jcbf09clwc3qpsp7arp47jrxg8ac300b6lcck40k5b";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/circ/step_rm.txt'';
@@ -5218,7 +5218,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/kawaik4/exp2_classic.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/kawaik4/exp2_classic.txt";
-          sha256 = "1wg6c79kc8ky2gsdzm60bi28zr0rrzzw3xl6ga9p8ff6n3d2sm02";
+          sha256 = "1smnjmgb69srymmi8qi1whdq237irqrnk91pn804h7pwr7dbffhd";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/kawaik4/exp_classic.txt'';
@@ -5228,17 +5228,17 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/kawaik4/lin_clamp_hi.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/kawaik4/lin_clamp_hi.txt";
-          sha256 = "0v8bpn8nwc0wi7bqmc28sz2hnn48ayw0bbwg9cwp8ckzj35q4m15";
+          sha256 = "1xddqw92q2ziggdv2p3jxkzk9r1yzxk3q0yhp0748kh5b6jj7739";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/kawaik4/lin_clamp_lo.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/kawaik4/lin_clamp_lo.txt";
-          sha256 = "03jp61yl5lm0r7rpsq5whpk3qm1wlvgsids37730md8cxhg1qhmf";
+          sha256 = "043smyiz2dw9djglp1lv7imr05cnjdg8gz5xpzdwwdilidmn8fvz";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/kawaik4/lin_classic.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/kawaik4/lin_classic.txt";
-          sha256 = "10khwi9fm1bv9rfki81m2nay0spqbvm85y2dcxxqk4p0r5zy1wrk";
+          sha256 = "1z622sghah6gb4xzxw9pp7bvxik9831yzwsh6rk9h2r6fxym15fl";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/classic.txt'';
@@ -5253,17 +5253,17 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/classic_m_gate.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sin/classic_m_gate.txt";
-          sha256 = "0s9rhr8l6mjjl2g2l5l7x4198m97hsk89c0fd9nr2xgr6lfdpna9";
+          sha256 = "1m2rxncy8ncrygl0p9rl72s02wsnq74f49sjqqvylg1aq33cc8gc";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/classic_r.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sin/classic_r.txt";
-          sha256 = "1a1110x6c358jpjckj5gb7z2gfpqdwg4hv4y2g0yza0k9ysr9ngw";
+          sha256 = "0fbc52g4q765ya41nsm7nmcy8d6j2mxsjh46hzmnpx0dcz34bziw";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/classic_rm.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sin/classic_rm.txt";
-          sha256 = "0d4c65rz80hnhacsnm360g7amhv7fmib308g038ywvdyd7q94a7d";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/classic_rm_gate.txt'';
@@ -5293,7 +5293,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/inverse_step.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sin/inverse_step.txt";
-          sha256 = "1ns5bl99z1k4dy3qsvbq0bnivjry3yik1xpmfifck0hzgzs0fdfs";
+          sha256 = "1v3frl116ykxx0zwc8w3a9f7igk9dmscw5h1y93j81l341liwa39";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/inverse_step_m.txt'';
@@ -5323,7 +5323,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/step_m.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sin/step_m.txt";
-          sha256 = "0x794l9bsxgvsysib7hvj0yrg570sdgsr7hfy3jjrfqc5van7a5f";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/step_m_gate.txt'';
@@ -5338,7 +5338,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/step_rm.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sin/step_rm.txt";
-          sha256 = "0hb14ciwxclv5qlwkfqkwsqi90hs5v73lkfwvfkv669qyivx7c6d";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s0.txt'';
@@ -5368,7 +5368,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s11.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sstep/s11.txt";
-          sha256 = "1r9cr94j77vfzdf2xwbj7634m33ri68p1vckn8vdz6k18fb6dd5r";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s11_m.txt'';
@@ -5393,7 +5393,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s13_m.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sstep/s13_m.txt";
-          sha256 = "1ln42qvrm1p9i0s8hlj3jfkgijgiyfnmr0qqkbay0n46sjkxwgab";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s14.txt'';
@@ -5403,7 +5403,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s14_m.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sstep/s14_m.txt";
-          sha256 = "15h6ca63ljavp073wiqihfwrgbd6izg6m48yxnxsflf47xs38mb6";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s1_m.txt'';
@@ -5438,7 +5438,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s4_m.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sstep/s4_m.txt";
-          sha256 = "034xcgcqq2hq5wkdwfjd9nnmip10599ifjnw941xdfr2rck4zkbx";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s5.txt'';
@@ -5458,7 +5458,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s6_m.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sstep/s6_m.txt";
-          sha256 = "0r78cfkrapr9hnd6gbb8m5z3vnirynb24iajv2c47m0hqrvnznw0";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s7.txt'';
@@ -5468,7 +5468,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s7_m.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sstep/s7_m.txt";
-          sha256 = "07cjyaxw9brvp0sws3naf2ma1h8kqn289pvx72mdxkm7zj4kwhj5";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s8.txt'';
@@ -5478,7 +5478,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s8_m.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/3b6b28970e88c053cca6ed743c812b5aae3f7927/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sstep/s8_m.txt";
-          sha256 = "1ll422kzni1jalq8a73gbzvmw572zfs3i497v3gmg2bm325pxh1i";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s9.txt'';
@@ -5512,7 +5512,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/MIDI CC Mapper X - Dump Current Function.lua'';
           url = "https://github.com/ReaTeam/JSFX/raw/f9ebaf83a4dc55d44d9a1aaaf935bb3583523875/MIDI/talagan_MIDI%20CC%20Mapper%20X/MIDI%20CC%20Mapper%20X%20-%20Dump%20Current%20Function.lua";
-          sha256 = "05q5hzbl79xmz9yfgajx4kwkzqggbcvyp44y56xa4c57jmvzh296";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/README.md'';
@@ -5537,12 +5537,12 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/circ/classic.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/f9ebaf83a4dc55d44d9a1aaaf935bb3583523875/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/circ/classic.txt";
-          sha256 = "0f0677p74yb1faz5rrmf8454va39zgmdk86pjkqrqv273bvhc2i2";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/circ/classic_m.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/f9ebaf83a4dc55d44d9a1aaaf935bb3583523875/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/circ/classic_m.txt";
-          sha256 = "0zw5m1a7v34bl2c8x39p29v9y65nj67l2p2ws1zj3ik0y2kvvxkg";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/circ/classic_m_gate.txt'';
@@ -5577,7 +5577,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/circ/step_m.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/f9ebaf83a4dc55d44d9a1aaaf935bb3583523875/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/circ/step_m.txt";
-          sha256 = "0fdk80g119i603l11lginmxc6pl73c1ps3agimm1bbzl8xrwcr4d";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/circ/step_m_gate.txt'';
@@ -5602,7 +5602,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/kawaik4/exp_classic.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/f9ebaf83a4dc55d44d9a1aaaf935bb3583523875/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/kawaik4/exp_classic.txt";
-          sha256 = "12hkx7fhcx3c2wldcivj434d5a8x93k4yrv5ghdwvkbixj936aij";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/kawaik4/lin_clamp_hi.txt'';
@@ -5627,7 +5627,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/classic_m.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/f9ebaf83a4dc55d44d9a1aaaf935bb3583523875/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sin/classic_m.txt";
-          sha256 = "0zh5dbky93gbgamrqjf1jjpljp3iz5qr6268saqn1nrbvgq9dqal";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/classic_m_gate.txt'';
@@ -5687,12 +5687,12 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/inverse_step_rm.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/f9ebaf83a4dc55d44d9a1aaaf935bb3583523875/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sin/inverse_step_rm.txt";
-          sha256 = "11sj6p0spfrlgrd2zrkj9gghdqdk8qc6j3h1fl8cn7m6dihwk96i";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/step.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/f9ebaf83a4dc55d44d9a1aaaf935bb3583523875/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sin/step.txt";
-          sha256 = "1q4aqbmgd80a1sp35iw6hs4yl001pgzdql06rzw2nlbkh660w7sr";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/step_gate.txt'';
@@ -5712,12 +5712,12 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/step_r.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/f9ebaf83a4dc55d44d9a1aaaf935bb3583523875/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sin/step_r.txt";
-          sha256 = "1pw18vf110gn054y7s5mfywz9p645xnl1jc0yj23z6jjm7ahz7p9";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sin/step_rm.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/f9ebaf83a4dc55d44d9a1aaaf935bb3583523875/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sin/step_rm.txt";
-          sha256 = "0hb14ciwxclv5qlwkfqkwsqi90hs5v73lkfwvfkv669qyivx7c6d";
+          sha256 = "";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s0.txt'';
@@ -5732,7 +5732,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s1.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/f9ebaf83a4dc55d44d9a1aaaf935bb3583523875/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sstep/s1.txt";
-          sha256 = "095hpp7w1inmybwjkv7wv0dr2iw8kicigw01z9v1w3hgifppkmpx";
+          sha256 = "08f6gf0w1x3bgs58k7cxqsp09znndi52n3mds8325jwk3gan999z";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s10.txt'';
@@ -5742,7 +5742,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s10_m.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/f9ebaf83a4dc55d44d9a1aaaf935bb3583523875/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sstep/s10_m.txt";
-          sha256 = "03l6avfbkk06ihy09qi20ll903likg7r71cz0jjb6f69m658bxyp";
+          sha256 = "1w7wdz5v5prdvd8kfzaf7dhb5iwgm16956h33q93mngslhkn23ps";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s11.txt'';
@@ -5762,7 +5762,7 @@
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s12_m.txt'';
           url = "https://github.com/ReaTeam/JSFX/raw/f9ebaf83a4dc55d44d9a1aaaf935bb3583523875/MIDI/talagan_MIDI%20CC%20Mapper%20X/func/lib/sstep/s12_m.txt";
-          sha256 = "16cpz4vd81w2j1b9plg35fxl2fbzi7sj02vi9ys75pwjwizwj8hg";
+          sha256 = "12dkl49rig3jwrzzsz96nccklbmqqsxml8swc0hc4sr5qdj2m27v";
         }
         {
           path = ''talagan_MIDI CC Mapper X/func/lib/sstep/s13.txt'';
@@ -7080,7 +7080,7 @@
         {
           path = ''TiaR_Shepard Paradoxical Synth/TiaR_LPF_00.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Synth/TiaR_Shepard%20Paradoxical%20Synth/TiaR_LPF_00.jsfx-inc";
-          sha256 = "1x847m80kdr4fs7xlchz9b5n7amnd2ya9xg4bnyhiaxb9ay3jz37";
+          sha256 = "";
         }
         {
           path = ''TiaR_Shepard Paradoxical Synth/TiaR_SHP_02.jsfx-inc'';
@@ -7118,7 +7118,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/JSFX/raw/f51e3fcc00cf854983cf470e67c0bfd1c6a935ec/Synth/TiaR_Ze%20Cheesy%20Harmonic%20Synth.jsfx";
-          sha256 = "1sn090rfad60fhyp3bs6ag52mvi0i9mfqjv2qykn3jr8sbz7m4qk";
+          sha256 = "";
         }
       ];
     };
@@ -7160,7 +7160,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/JSFX/raw/86ab5336313da589bb54c8e2a42583fe827f1133/Synth/TiaR_Ze%20Musette%20Organ.jsfx";
-          sha256 = "1rib92qvzg8cvxxw6yr74ipcxvbwb44qbcdjf52fyp8dvzysi8hx";
+          sha256 = "";
         }
       ];
     };
@@ -7174,7 +7174,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/JSFX/raw/b9dc7ab99b783fe5366863def0a9ef6798e67c06/Synth/TiaR_Ze%20Musette%20Organ.jsfx";
-          sha256 = "054kdfxkgii5ccqybni6rsf0b04jnw6ql84n8lwph7y6nd96wd4k";
+          sha256 = "";
         }
       ];
     };
@@ -7198,7 +7198,7 @@
         {
           path = ''tilr_JS3Osc/3o.array.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/a0cc7b96493814a1fd71cfa37761a0cbf1f8b9c1/Synth/tilr_JS3Osc/3o.array.jsfx-inc";
-          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+          sha256 = "";
         }
         {
           path = ''tilr_JS3Osc/3o.gfxlib.jsfx-inc'';
@@ -7247,12 +7247,12 @@
         {
           path = ''tilr_JS3Osc/3o.mouselib.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/28be46cff29bec590151e78f14e91ba3a830e0a1/Synth/tilr_JS3Osc/3o.mouselib.jsfx-inc";
-          sha256 = "1wkgmm3zhpk5b1azw4zhsjjdm7x4b1xmji8zklg28y4c464sayw3";
+          sha256 = "";
         }
         {
           path = ''tilr_JS3Osc/3o.zdf_filter.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/28be46cff29bec590151e78f14e91ba3a830e0a1/Synth/tilr_JS3Osc/3o.zdf_filter.jsfx-inc";
-          sha256 = "1nndnqg1fm3dkgnvplh4537was3anhbjqw648lk314qnr54ciwm5";
+          sha256 = "";
         }
       ];
     };
@@ -7266,7 +7266,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/JSFX/raw/f8b5d347b8dc20e53040edc5c057df9d0d8fad83/Synth/tilr_JS3Osc.jsfx";
-          sha256 = "0jclcqn0r8ckdiy0y9qs22ifjy3bkx4kfgvifibkv1g78lpb4a0g";
+          sha256 = "";
         }
         {
           path = ''tilr_JS3Osc/3o.adsr.jsfx-inc'';
@@ -7291,7 +7291,7 @@
         {
           path = ''tilr_JS3Osc/3o.rbj_filter.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/f8b5d347b8dc20e53040edc5c057df9d0d8fad83/Synth/tilr_JS3Osc/3o.rbj_filter.jsfx-inc";
-          sha256 = "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd";
+          sha256 = "";
         }
       ];
     };
@@ -7310,17 +7310,17 @@
         {
           path = ''tilr_JSAdditiv/add.adsr.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/add.adsr.jsfx-inc";
-          sha256 = "0c1fq5s0927gyfx3qhq2h539ry61w9c4jyq23lcswvrbmpv67sv3";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.array.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/add.array.jsfx-inc";
-          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.fft_real_synth.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/add.fft_real_synth.jsfx-inc";
-          sha256 = "07lhbwnaxi9f7qqhsxk86a2wlswi7bbalp4gykz43jhp6q2p5prc";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.gfxlib.jsfx-inc'';
@@ -7330,7 +7330,7 @@
         {
           path = ''tilr_JSAdditiv/add.mouselib.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/add.mouselib.jsfx-inc";
-          sha256 = "04irfzf9n26vbbr2nzrlvixy5i297z3armdqk5mn5awxcvkp7wc0";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.wavetable.jsfx-inc'';
@@ -7340,7 +7340,7 @@
         {
           path = ''tilr_JSAdditiv/add.zdf_filter.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/add.zdf_filter.jsfx-inc";
-          sha256 = "1nndnqg1fm3dkgnvplh4537was3anhbjqw648lk314qnr54ciwm5";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Complex 1.wav'';
@@ -7375,7 +7375,7 @@
         {
           path = ''tilr_JSAdditiv/Organ 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/Organ%202.wav";
-          sha256 = "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 3.wav'';
@@ -7385,17 +7385,17 @@
         {
           path = ''tilr_JSAdditiv/Organ 4.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/Organ%204.wav";
-          sha256 = "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/Organ%205.wav";
-          sha256 = "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 6.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/Organ%206.wav";
-          sha256 = "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 7.wav'';
@@ -7405,27 +7405,27 @@
         {
           path = ''tilr_JSAdditiv/Saw 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/Saw%201.wav";
-          sha256 = "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Saw 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/Saw%202.wav";
-          sha256 = "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Saw 3.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/Saw%203.wav";
-          sha256 = "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Sine 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/Sine%201.wav";
-          sha256 = "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Sine 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/Sine%202.wav";
-          sha256 = "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Sine 3.wav'';
@@ -7440,7 +7440,7 @@
         {
           path = ''tilr_JSAdditiv/Sine 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/Sine%205.wav";
-          sha256 = "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Spectral.wav'';
@@ -7465,7 +7465,7 @@
         {
           path = ''tilr_JSAdditiv/Triangle.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/03c7b2aa3725c33908950fac3993cfb001aef44a/Synth/tilr_JSAdditiv/Triangle.wav";
-          sha256 = "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq";
+          sha256 = "";
         }
       ];
     };
@@ -7479,7 +7479,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/JSFX/raw/489ddfb0da8520cf0da86dcce3163d218c0631bb/Synth/tilr_JSAdditiv.jsfx";
-          sha256 = "0qypm4iqmkqjv2raxhplhpb068li7x32yfskbj8r700gjz138ck4";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.adsr.jsfx-inc'';
@@ -7499,12 +7499,12 @@
         {
           path = ''tilr_JSAdditiv/add.gfxlib.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/489ddfb0da8520cf0da86dcce3163d218c0631bb/Synth/tilr_JSAdditiv/add.gfxlib.jsfx-inc";
-          sha256 = "1hr5yr1rb6x4pvpdgv0vsyna5favyz2d5hz9890vy5px8qri7wsk";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.mouselib.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/489ddfb0da8520cf0da86dcce3163d218c0631bb/Synth/tilr_JSAdditiv/add.mouselib.jsfx-inc";
-          sha256 = "04irfzf9n26vbbr2nzrlvixy5i297z3armdqk5mn5awxcvkp7wc0";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.wavetable.jsfx-inc'';
@@ -7519,7 +7519,7 @@
         {
           path = ''tilr_JSAdditiv/Complex 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/489ddfb0da8520cf0da86dcce3163d218c0631bb/Synth/tilr_JSAdditiv/Complex%201.wav";
-          sha256 = "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Complex 2.wav'';
@@ -7539,12 +7539,12 @@
         {
           path = ''tilr_JSAdditiv/Complex 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/489ddfb0da8520cf0da86dcce3163d218c0631bb/Synth/tilr_JSAdditiv/Complex%205.wav";
-          sha256 = "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/489ddfb0da8520cf0da86dcce3163d218c0631bb/Synth/tilr_JSAdditiv/Organ%201.wav";
-          sha256 = "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 2.wav'';
@@ -7559,7 +7559,7 @@
         {
           path = ''tilr_JSAdditiv/Organ 4.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/489ddfb0da8520cf0da86dcce3163d218c0631bb/Synth/tilr_JSAdditiv/Organ%204.wav";
-          sha256 = "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 5.wav'';
@@ -7579,7 +7579,7 @@
         {
           path = ''tilr_JSAdditiv/Saw 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/489ddfb0da8520cf0da86dcce3163d218c0631bb/Synth/tilr_JSAdditiv/Saw%201.wav";
-          sha256 = "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Saw 2.wav'';
@@ -7594,12 +7594,12 @@
         {
           path = ''tilr_JSAdditiv/Sine 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/489ddfb0da8520cf0da86dcce3163d218c0631bb/Synth/tilr_JSAdditiv/Sine%201.wav";
-          sha256 = "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Sine 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/489ddfb0da8520cf0da86dcce3163d218c0631bb/Synth/tilr_JSAdditiv/Sine%202.wav";
-          sha256 = "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Sine 3.wav'';
@@ -7609,7 +7609,7 @@
         {
           path = ''tilr_JSAdditiv/Sine 4.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/489ddfb0da8520cf0da86dcce3163d218c0631bb/Synth/tilr_JSAdditiv/Sine%204.wav";
-          sha256 = "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Sine 5.wav'';
@@ -7639,7 +7639,7 @@
         {
           path = ''tilr_JSAdditiv/Triangle.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/489ddfb0da8520cf0da86dcce3163d218c0631bb/Synth/tilr_JSAdditiv/Triangle.wav";
-          sha256 = "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq";
+          sha256 = "";
         }
       ];
     };
@@ -7663,7 +7663,7 @@
         {
           path = ''tilr_JSAdditiv/add.array.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/add.array.jsfx-inc";
-          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.fft_real_synth.jsfx-inc'';
@@ -7683,7 +7683,7 @@
         {
           path = ''tilr_JSAdditiv/add.wavetable.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/add.wavetable.jsfx-inc";
-          sha256 = "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.zdf_filter.jsfx-inc'';
@@ -7693,27 +7693,27 @@
         {
           path = ''tilr_JSAdditiv/Complex 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Complex%201.wav";
-          sha256 = "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Complex 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Complex%202.wav";
-          sha256 = "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Complex 3.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Complex%203.wav";
-          sha256 = "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Complex 4.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Complex%204.wav";
-          sha256 = "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Complex 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Complex%205.wav";
-          sha256 = "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 1.wav'';
@@ -7723,12 +7723,12 @@
         {
           path = ''tilr_JSAdditiv/Organ 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Organ%202.wav";
-          sha256 = "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 3.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Organ%203.wav";
-          sha256 = "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 4.wav'';
@@ -7738,82 +7738,82 @@
         {
           path = ''tilr_JSAdditiv/Organ 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Organ%205.wav";
-          sha256 = "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 6.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Organ%206.wav";
-          sha256 = "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 7.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Organ%207.wav";
-          sha256 = "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Saw 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Saw%201.wav";
-          sha256 = "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Saw 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Saw%202.wav";
-          sha256 = "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Saw 3.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Saw%203.wav";
-          sha256 = "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Sine 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Sine%201.wav";
-          sha256 = "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Sine 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Sine%202.wav";
-          sha256 = "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Sine 3.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Sine%203.wav";
-          sha256 = "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Sine 4.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Sine%204.wav";
-          sha256 = "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Sine 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Sine%205.wav";
-          sha256 = "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Spectral.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Spectral.wav";
-          sha256 = "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Square 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Square%201.wav";
-          sha256 = "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Square 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Square%202.wav";
-          sha256 = "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Stairs.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Stairs.wav";
-          sha256 = "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Triangle.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/f170203b855fc86f6f071a70b3ec0ca682f03834/Synth/tilr_JSAdditiv/Triangle.wav";
-          sha256 = "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq";
+          sha256 = "";
         }
       ];
     };
@@ -7827,27 +7827,27 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv.jsfx";
-          sha256 = "1mgx60xcfaq97xyfnvpmnlk4xkm7f4fpgnzpv9sk78vryxdwj8q5";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.adsr.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/add.adsr.jsfx-inc";
-          sha256 = "0c1fq5s0927gyfx3qhq2h539ry61w9c4jyq23lcswvrbmpv67sv3";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.array.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/add.array.jsfx-inc";
-          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.fft_real_synth.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/add.fft_real_synth.jsfx-inc";
-          sha256 = "07lhbwnaxi9f7qqhsxk86a2wlswi7bbalp4gykz43jhp6q2p5prc";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.gfxlib.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/add.gfxlib.jsfx-inc";
-          sha256 = "016xw4x2lq0l6yl5llwfs733cl1g98g997vy5sy2s0amklzrpdbr";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.mouselib.jsfx-inc'';
@@ -7857,7 +7857,7 @@
         {
           path = ''tilr_JSAdditiv/add.wavetable.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/add.wavetable.jsfx-inc";
-          sha256 = "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Complex 1.wav'';
@@ -7872,27 +7872,27 @@
         {
           path = ''tilr_JSAdditiv/Complex 3.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Complex%203.wav";
-          sha256 = "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Complex 4.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Complex%204.wav";
-          sha256 = "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Complex 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Complex%205.wav";
-          sha256 = "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Organ%201.wav";
-          sha256 = "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Organ%202.wav";
-          sha256 = "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 3.wav'';
@@ -7907,17 +7907,17 @@
         {
           path = ''tilr_JSAdditiv/Organ 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Organ%205.wav";
-          sha256 = "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 6.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Organ%206.wav";
-          sha256 = "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Organ 7.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Organ%207.wav";
-          sha256 = "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Saw 1.wav'';
@@ -7927,17 +7927,17 @@
         {
           path = ''tilr_JSAdditiv/Saw 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Saw%202.wav";
-          sha256 = "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Saw 3.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Saw%203.wav";
-          sha256 = "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Sine 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Sine%201.wav";
-          sha256 = "0xglzcl8rxb93s92v16qdbcc3rlynps2x0vqnzh6w54whjqnj0hw";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Sine 2.wav'';
@@ -7947,7 +7947,7 @@
         {
           path = ''tilr_JSAdditiv/Sine 3.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Sine%203.wav";
-          sha256 = "0skzamx04wdw7zcb0jw0vla797scdp3rbvwwlcyp6rdxx11xc1il";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Sine 4.wav'';
@@ -7957,7 +7957,7 @@
         {
           path = ''tilr_JSAdditiv/Sine 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Sine%205.wav";
-          sha256 = "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Spectral.wav'';
@@ -7967,12 +7967,12 @@
         {
           path = ''tilr_JSAdditiv/Square 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Square%201.wav";
-          sha256 = "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Square 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Square%202.wav";
-          sha256 = "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/Stairs.wav'';
@@ -7982,12 +7982,12 @@
         {
           path = ''tilr_JSAdditiv/Triangle.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/Triangle.wav";
-          sha256 = "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq";
+          sha256 = "";
         }
         {
           path = ''tilr_JSAdditiv/add.rbj_filter.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/d6b9eb15578f1f4eb08d67fb3a9f9f8dbd5c85b4/Synth/tilr_JSAdditiv/add.rbj_filter.jsfx-inc";
-          sha256 = "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd";
+          sha256 = "";
         }
       ];
     };
@@ -8006,12 +8006,12 @@
         {
           path = ''tilr_JSDrumpad.jsfx.rpl'';
           url = "https://github.com/ReaTeam/JSFX/raw/e7f97d773b11ec6cd1dd4c667d4bae732d735556/Synth/tilr_JSDrumpad.jsfx.rpl";
-          sha256 = "0pxaswym37vr2ivcnr8vhivkbrkxj42hv46y17i4xjx9vpgx6nnm";
+          sha256 = "";
         }
         {
           path = ''tilr_JSDrumpad/dp.envlib.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/e7f97d773b11ec6cd1dd4c667d4bae732d735556/Synth/tilr_JSDrumpad/dp.envlib.jsfx-inc";
-          sha256 = "02hn1dya2vdyfqwamh3c5wkb3y6frfzgliy9rxynsq6rglppgq8m";
+          sha256 = "";
         }
         {
           path = ''tilr_JSDrumpad/dp.gfxlib.jsfx-inc'';
@@ -8040,7 +8040,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/JSFX/raw/16ddf154c512e73aaabacc937942c2c927c664d3/Synth/tilr_JSDrumpad.jsfx";
-          sha256 = "0xxk3w8zwnjz4nb90cwjis9aszziklfrdyl28v7k49w02c5zi9qi";
+          sha256 = "";
         }
         {
           path = ''tilr_JSDrumpad.jsfx.rpl'';
@@ -8055,12 +8055,12 @@
         {
           path = ''tilr_JSDrumpad/dp.gfxlib.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/16ddf154c512e73aaabacc937942c2c927c664d3/Synth/tilr_JSDrumpad/dp.gfxlib.jsfx-inc";
-          sha256 = "07pmiqbkmyi91y1h4ain43d95r5fv9finslj8bp3976ni11igb9a";
+          sha256 = "";
         }
         {
           path = ''tilr_JSDrumpad/dp.mouselib.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/16ddf154c512e73aaabacc937942c2c927c664d3/Synth/tilr_JSDrumpad/dp.mouselib.jsfx-inc";
-          sha256 = "146kqi0g6bynpb32q4pv7vfj9sxlx18clgr4w7l5i744pj19wc6g";
+          sha256 = "";
         }
         {
           path = ''tilr_JSDrumpad/dp.svf_filter.jsfx-inc'';
@@ -8084,7 +8084,7 @@
         {
           path = ''tilr_JSDrumsynth.jsfx.rpl'';
           url = "https://github.com/ReaTeam/JSFX/raw/f3170aff73b21e043eb0ea687f568a21fc0114c5/Synth/tilr_JSDrumsynth.jsfx.rpl";
-          sha256 = "1ab8cilfwrm9w7njc2kwdj83n8hgansnc7gmsiy1brl89npdxc8n";
+          sha256 = "06xv1ahvz6ah3cvfksckzlcyyzd6n6bdpi8jivdwqi18x3xq5nni";
         }
         {
           path = ''tilr_JSDrumsynth/ds.envlib.jsfx-inc'';
@@ -8094,7 +8094,7 @@
         {
           path = ''tilr_JSDrumsynth/ds.gfxlib.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/f3170aff73b21e043eb0ea687f568a21fc0114c5/Synth/tilr_JSDrumsynth/ds.gfxlib.jsfx-inc";
-          sha256 = "13hwp6zhvg2d418yz5drdvjash38is7afiai2v0d89yf2byr9v85";
+          sha256 = "1ddspl21fskxmwhmcppkvz0mlm1qzyn9gh9i9nqif8572myyn3dp";
         }
         {
           path = ''tilr_JSDrumsynth/ds.mouselib.jsfx-inc'';
@@ -8104,12 +8104,12 @@
         {
           path = ''tilr_JSDrumsynth/ds.pad.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/f3170aff73b21e043eb0ea687f568a21fc0114c5/Synth/tilr_JSDrumsynth/ds.pad.jsfx-inc";
-          sha256 = "1w4f700q44avfmi1dr63ad8cm02llx6mcrchvgxcq128nxawhjqn";
+          sha256 = "0japxdza6blm7vxmyc46rf7h4xvah4lmasqym944b48xis3gyh72";
         }
         {
           path = ''tilr_JSDrumsynth/ds.svf_filter.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/f3170aff73b21e043eb0ea687f568a21fc0114c5/Synth/tilr_JSDrumsynth/ds.svf_filter.jsfx-inc";
-          sha256 = "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb";
+          sha256 = "";
         }
       ];
     };
@@ -8138,7 +8138,7 @@
         {
           path = ''tilr_JSModulator/mod.fft_real_synth.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/df4c290f00f4d96972b5fc457996d5f03ddc3fc2/Synth/tilr_JSModulator/mod.fft_real_synth.jsfx-inc";
-          sha256 = "07lhbwnaxi9f7qqhsxk86a2wlswi7bbalp4gykz43jhp6q2p5prc";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/mod.gfxlib.jsfx-inc'';
@@ -8163,12 +8163,12 @@
         {
           path = ''tilr_JSModulator/mod.zdf_filter.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/df4c290f00f4d96972b5fc457996d5f03ddc3fc2/Synth/tilr_JSModulator/mod.zdf_filter.jsfx-inc";
-          sha256 = "1nndnqg1fm3dkgnvplh4537was3anhbjqw648lk314qnr54ciwm5";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Complex 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/df4c290f00f4d96972b5fc457996d5f03ddc3fc2/Synth/tilr_JSModulator/Complex%202.wav";
-          sha256 = "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Complex 3.wav'';
@@ -8178,12 +8178,12 @@
         {
           path = ''tilr_JSModulator/Complex 4.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/df4c290f00f4d96972b5fc457996d5f03ddc3fc2/Synth/tilr_JSModulator/Complex%204.wav";
-          sha256 = "1dsxhwn2cf3gndsg1hqqm64kffbjyjk9yv31clymsvwcgg38ikzh";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Complex 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/df4c290f00f4d96972b5fc457996d5f03ddc3fc2/Synth/tilr_JSModulator/Complex%205.wav";
-          sha256 = "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Complex.wav'';
@@ -8203,7 +8203,7 @@
         {
           path = ''tilr_JSModulator/Organ 4.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/df4c290f00f4d96972b5fc457996d5f03ddc3fc2/Synth/tilr_JSModulator/Organ%204.wav";
-          sha256 = "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Organ 5.wav'';
@@ -8223,7 +8223,7 @@
         {
           path = ''tilr_JSModulator/Organ.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/df4c290f00f4d96972b5fc457996d5f03ddc3fc2/Synth/tilr_JSModulator/Organ.wav";
-          sha256 = "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Saw 2.wav'';
@@ -8233,7 +8233,7 @@
         {
           path = ''tilr_JSModulator/Saw 3.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/df4c290f00f4d96972b5fc457996d5f03ddc3fc2/Synth/tilr_JSModulator/Saw%203.wav";
-          sha256 = "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Saw.wav'';
@@ -8243,7 +8243,7 @@
         {
           path = ''tilr_JSModulator/Sine 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/df4c290f00f4d96972b5fc457996d5f03ddc3fc2/Synth/tilr_JSModulator/Sine%202.wav";
-          sha256 = "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Sine 3.wav'';
@@ -8253,7 +8253,7 @@
         {
           path = ''tilr_JSModulator/Sine 4.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/df4c290f00f4d96972b5fc457996d5f03ddc3fc2/Synth/tilr_JSModulator/Sine%204.wav";
-          sha256 = "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Sine 5.wav'';
@@ -8273,12 +8273,12 @@
         {
           path = ''tilr_JSModulator/Square 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/df4c290f00f4d96972b5fc457996d5f03ddc3fc2/Synth/tilr_JSModulator/Square%202.wav";
-          sha256 = "0kp9mhi6r79ya8i5a2w21yj7jznvdnjysrdkgm6g3szyhl46qzgs";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Square.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/df4c290f00f4d96972b5fc457996d5f03ddc3fc2/Synth/tilr_JSModulator/Square.wav";
-          sha256 = "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Stairs.wav'';
@@ -8288,7 +8288,7 @@
         {
           path = ''tilr_JSModulator/Triangle.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/df4c290f00f4d96972b5fc457996d5f03ddc3fc2/Synth/tilr_JSModulator/Triangle.wav";
-          sha256 = "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq";
+          sha256 = "";
         }
       ];
     };
@@ -8342,17 +8342,17 @@
         {
           path = ''tilr_JSModulator/mod.zdf_filter.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/44b2a04b42ce457f79250c0b01cbef8b317496ff/Synth/tilr_JSModulator/mod.zdf_filter.jsfx-inc";
-          sha256 = "1nndnqg1fm3dkgnvplh4537was3anhbjqw648lk314qnr54ciwm5";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Complex 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/44b2a04b42ce457f79250c0b01cbef8b317496ff/Synth/tilr_JSModulator/Complex%202.wav";
-          sha256 = "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Complex 3.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/44b2a04b42ce457f79250c0b01cbef8b317496ff/Synth/tilr_JSModulator/Complex%203.wav";
-          sha256 = "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Complex 4.wav'';
@@ -8372,12 +8372,12 @@
         {
           path = ''tilr_JSModulator/Organ 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/44b2a04b42ce457f79250c0b01cbef8b317496ff/Synth/tilr_JSModulator/Organ%202.wav";
-          sha256 = "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Organ 3.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/44b2a04b42ce457f79250c0b01cbef8b317496ff/Synth/tilr_JSModulator/Organ%203.wav";
-          sha256 = "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Organ 4.wav'';
@@ -8387,17 +8387,17 @@
         {
           path = ''tilr_JSModulator/Organ 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/44b2a04b42ce457f79250c0b01cbef8b317496ff/Synth/tilr_JSModulator/Organ%205.wav";
-          sha256 = "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Organ 6.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/44b2a04b42ce457f79250c0b01cbef8b317496ff/Synth/tilr_JSModulator/Organ%206.wav";
-          sha256 = "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Organ 7.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/44b2a04b42ce457f79250c0b01cbef8b317496ff/Synth/tilr_JSModulator/Organ%207.wav";
-          sha256 = "0mb55gf8r05b33p402vrja8j2qjf4q2xpjbsbyhk6qzmdgdj9aij";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Organ.wav'';
@@ -8422,7 +8422,7 @@
         {
           path = ''tilr_JSModulator/Sine 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/44b2a04b42ce457f79250c0b01cbef8b317496ff/Synth/tilr_JSModulator/Sine%202.wav";
-          sha256 = "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Sine 3.wav'';
@@ -8447,7 +8447,7 @@
         {
           path = ''tilr_JSModulator/Spectral.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/44b2a04b42ce457f79250c0b01cbef8b317496ff/Synth/tilr_JSModulator/Spectral.wav";
-          sha256 = "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Square 2.wav'';
@@ -8462,7 +8462,7 @@
         {
           path = ''tilr_JSModulator/Stairs.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/44b2a04b42ce457f79250c0b01cbef8b317496ff/Synth/tilr_JSModulator/Stairs.wav";
-          sha256 = "1k0nc70yzb4vq8rq0dkf56ymsd6yraakx15i5xbf9gab7v8wwa50";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Triangle.wav'';
@@ -8486,7 +8486,7 @@
         {
           path = ''tilr_JSModulator/mod.array.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/4bb2a26d9e331b68a4bfe5866414188df20baf22/Synth/tilr_JSModulator/mod.array.jsfx-inc";
-          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/mod.envlib.jsfx-inc'';
@@ -8521,12 +8521,12 @@
         {
           path = ''tilr_JSModulator/Complex 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/4bb2a26d9e331b68a4bfe5866414188df20baf22/Synth/tilr_JSModulator/Complex%202.wav";
-          sha256 = "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Complex 3.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/4bb2a26d9e331b68a4bfe5866414188df20baf22/Synth/tilr_JSModulator/Complex%203.wav";
-          sha256 = "1w13jjb0sglbmp4l1sxjw7p8bd7iflmfxin84rc4n07j7zmnxgbx";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Complex 4.wav'';
@@ -8556,7 +8556,7 @@
         {
           path = ''tilr_JSModulator/Organ 4.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/4bb2a26d9e331b68a4bfe5866414188df20baf22/Synth/tilr_JSModulator/Organ%204.wav";
-          sha256 = "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Organ 5.wav'';
@@ -8566,7 +8566,7 @@
         {
           path = ''tilr_JSModulator/Organ 6.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/4bb2a26d9e331b68a4bfe5866414188df20baf22/Synth/tilr_JSModulator/Organ%206.wav";
-          sha256 = "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Organ 7.wav'';
@@ -8581,17 +8581,17 @@
         {
           path = ''tilr_JSModulator/Saw 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/4bb2a26d9e331b68a4bfe5866414188df20baf22/Synth/tilr_JSModulator/Saw%202.wav";
-          sha256 = "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Saw 3.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/4bb2a26d9e331b68a4bfe5866414188df20baf22/Synth/tilr_JSModulator/Saw%203.wav";
-          sha256 = "1jsazwv4q9wqb9rgcsl2jkdw37fbbxiy277ph7n8ihbzqix54gs6";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Saw.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/4bb2a26d9e331b68a4bfe5866414188df20baf22/Synth/tilr_JSModulator/Saw.wav";
-          sha256 = "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Sine 2.wav'';
@@ -8611,7 +8611,7 @@
         {
           path = ''tilr_JSModulator/Sine 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/4bb2a26d9e331b68a4bfe5866414188df20baf22/Synth/tilr_JSModulator/Sine%205.wav";
-          sha256 = "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Sine.wav'';
@@ -8621,7 +8621,7 @@
         {
           path = ''tilr_JSModulator/Spectral.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/4bb2a26d9e331b68a4bfe5866414188df20baf22/Synth/tilr_JSModulator/Spectral.wav";
-          sha256 = "0bfvgk9mrq0a780xczz6l04g1bsjgc0yzydkjgw138113zyaxwv4";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Square 2.wav'';
@@ -8631,7 +8631,7 @@
         {
           path = ''tilr_JSModulator/Square.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/4bb2a26d9e331b68a4bfe5866414188df20baf22/Synth/tilr_JSModulator/Square.wav";
-          sha256 = "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms";
+          sha256 = "";
         }
         {
           path = ''tilr_JSModulator/Stairs.wav'';
@@ -8646,7 +8646,7 @@
         {
           path = ''tilr_JSModulator/mod.rbj_filter.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/4bb2a26d9e331b68a4bfe5866414188df20baf22/Synth/tilr_JSModulator/mod.rbj_filter.jsfx-inc";
-          sha256 = "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd";
+          sha256 = "";
         }
       ];
     };
@@ -8670,7 +8670,7 @@
         {
           path = ''tilr_JSWavesynth/ws.array.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/c25f3fedaca756008ff6c60d491285622ff1744b/Synth/tilr_JSWavesynth/ws.array.jsfx-inc";
-          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/ws.gfxlib.jsfx-inc'';
@@ -8695,7 +8695,7 @@
         {
           path = ''tilr_JSWavesynth/Complex 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/c25f3fedaca756008ff6c60d491285622ff1744b/Synth/tilr_JSWavesynth/Complex%201.wav";
-          sha256 = "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Complex 2.wav'';
@@ -8725,17 +8725,17 @@
         {
           path = ''tilr_JSWavesynth/Organ 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/c25f3fedaca756008ff6c60d491285622ff1744b/Synth/tilr_JSWavesynth/Organ%202.wav";
-          sha256 = "1chwszz0kcv4wck00wyhm04a0khnqnkvdwx3zbm21p6wzinrkqra";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Organ 3.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/c25f3fedaca756008ff6c60d491285622ff1744b/Synth/tilr_JSWavesynth/Organ%203.wav";
-          sha256 = "0bcwfwlnraafbjmqks7nhcm9a7jaxvc43w5vlcrcfhcp954xg5pz";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Organ 4.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/c25f3fedaca756008ff6c60d491285622ff1744b/Synth/tilr_JSWavesynth/Organ%204.wav";
-          sha256 = "0fb94sizjzdkbzb9w9wrl1pg1bpz7zcgwxdx71sk91zbg0z0b1jp";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Organ 5.wav'';
@@ -8745,7 +8745,7 @@
         {
           path = ''tilr_JSWavesynth/Organ 6.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/c25f3fedaca756008ff6c60d491285622ff1744b/Synth/tilr_JSWavesynth/Organ%206.wav";
-          sha256 = "1315lccfb3xqpxfcrygppfky8appdiv71w0xlkn1fi316sb3xzbx";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Organ 7.wav'';
@@ -8755,12 +8755,12 @@
         {
           path = ''tilr_JSWavesynth/Saw 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/c25f3fedaca756008ff6c60d491285622ff1744b/Synth/tilr_JSWavesynth/Saw%201.wav";
-          sha256 = "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Saw 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/c25f3fedaca756008ff6c60d491285622ff1744b/Synth/tilr_JSWavesynth/Saw%202.wav";
-          sha256 = "0kips0g4b1ga24h8vkhyla2vg751k6d3sghwxn7lrbawsb8jc4la";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Saw 3.wav'';
@@ -8785,12 +8785,12 @@
         {
           path = ''tilr_JSWavesynth/Sine 4.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/c25f3fedaca756008ff6c60d491285622ff1744b/Synth/tilr_JSWavesynth/Sine%204.wav";
-          sha256 = "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Sine 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/c25f3fedaca756008ff6c60d491285622ff1744b/Synth/tilr_JSWavesynth/Sine%205.wav";
-          sha256 = "0hi1cbs0lxgilsvy9k47bjmxlwfnsimh9smd8f9bgrj6wy2974k3";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Spectral.wav'';
@@ -8800,7 +8800,7 @@
         {
           path = ''tilr_JSWavesynth/Square 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/c25f3fedaca756008ff6c60d491285622ff1744b/Synth/tilr_JSWavesynth/Square%201.wav";
-          sha256 = "01gfdnpf1jrwqp18z1gll1d6p2hnffqckwzvfsfwgzhdaad4cvms";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Square 2.wav'';
@@ -8829,7 +8829,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/JSFX/raw/ca65cb31f9a9e16649dedf2af01483e9c6ca3c71/Synth/tilr_JSWavesynth.jsfx";
-          sha256 = "1fmv4abpqqrk29c4jmbqqbi832nmdfp9i69rawjy9yg57kzlrpal";
+          sha256 = "0q7lykj929w3sxm4z7x7xnxjy1wiz42sq2dw401hl1af9gz9x6pa";
         }
         {
           path = ''tilr_JSWavesynth/ws.adsr.jsfx-inc'';
@@ -8844,7 +8844,7 @@
         {
           path = ''tilr_JSWavesynth/ws.gfxlib.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/ca65cb31f9a9e16649dedf2af01483e9c6ca3c71/Synth/tilr_JSWavesynth/ws.gfxlib.jsfx-inc";
-          sha256 = "13n9cgb61s4sq7z3n2jwnicgvxdgkcgkg5nzk5p869fcrsd51xdq";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/ws.mouselib.jsfx-inc'';
@@ -8854,7 +8854,7 @@
         {
           path = ''tilr_JSWavesynth/ws.wavetable.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/ca65cb31f9a9e16649dedf2af01483e9c6ca3c71/Synth/tilr_JSWavesynth/ws.wavetable.jsfx-inc";
-          sha256 = "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/ws.zdf_filter.jsfx-inc'';
@@ -8884,7 +8884,7 @@
         {
           path = ''tilr_JSWavesynth/Complex 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/ca65cb31f9a9e16649dedf2af01483e9c6ca3c71/Synth/tilr_JSWavesynth/Complex%205.wav";
-          sha256 = "1mhp8xvhh9fksb3m6makgpf01hnvphgklcgcdg8n6irlgasqdnmk";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Organ 1.wav'';
@@ -8909,7 +8909,7 @@
         {
           path = ''tilr_JSWavesynth/Organ 5.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/ca65cb31f9a9e16649dedf2af01483e9c6ca3c71/Synth/tilr_JSWavesynth/Organ%205.wav";
-          sha256 = "0rglbvz3qk4jh9yxdy45rbqb5kqi4dz36bkc7ff5wawvym27nk41";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Organ 6.wav'';
@@ -8924,7 +8924,7 @@
         {
           path = ''tilr_JSWavesynth/Saw 1.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/ca65cb31f9a9e16649dedf2af01483e9c6ca3c71/Synth/tilr_JSWavesynth/Saw%201.wav";
-          sha256 = "07i3xr4wagpyjx9794lfglwyl26a45akdq6x5hjbcmvqknwp78wv";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Saw 2.wav'';
@@ -8944,7 +8944,7 @@
         {
           path = ''tilr_JSWavesynth/Sine 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/ca65cb31f9a9e16649dedf2af01483e9c6ca3c71/Synth/tilr_JSWavesynth/Sine%202.wav";
-          sha256 = "0b0yccbig2f95nr8wa5a6yv2jh4x8c7bklmpcdrqsh1h500gg20w";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Sine 3.wav'';
@@ -8954,7 +8954,7 @@
         {
           path = ''tilr_JSWavesynth/Sine 4.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/ca65cb31f9a9e16649dedf2af01483e9c6ca3c71/Synth/tilr_JSWavesynth/Sine%204.wav";
-          sha256 = "0cr3ppzq8770vhjbfgh8vvilcfd1z5qdksnpn0p9kkqyca4j509b";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Sine 5.wav'';
@@ -8984,7 +8984,7 @@
         {
           path = ''tilr_JSWavesynth/Triangle.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/ca65cb31f9a9e16649dedf2af01483e9c6ca3c71/Synth/tilr_JSWavesynth/Triangle.wav";
-          sha256 = "0zzqmpqi0hlrsp4b30psw181yr1a2chq033a7i8msr77j851hjkq";
+          sha256 = "";
         }
       ];
     };
@@ -9003,12 +9003,12 @@
         {
           path = ''tilr_JSWavesynth/ws.adsr.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/1f96b83dbed775a32e1a98dac4a0b8fe1b221632/Synth/tilr_JSWavesynth/ws.adsr.jsfx-inc";
-          sha256 = "0s1r81kvrpswjrabfzi2rl671w6swh27wpgwfzip10zg03crmzlp";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/ws.array.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/1f96b83dbed775a32e1a98dac4a0b8fe1b221632/Synth/tilr_JSWavesynth/ws.array.jsfx-inc";
-          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/ws.gfxlib.jsfx-inc'';
@@ -9023,7 +9023,7 @@
         {
           path = ''tilr_JSWavesynth/ws.wavetable.jsfx-inc'';
           url = "https://github.com/ReaTeam/JSFX/raw/1f96b83dbed775a32e1a98dac4a0b8fe1b221632/Synth/tilr_JSWavesynth/ws.wavetable.jsfx-inc";
-          sha256 = "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Complex 1.wav'';
@@ -9033,7 +9033,7 @@
         {
           path = ''tilr_JSWavesynth/Complex 2.wav'';
           url = "https://github.com/ReaTeam/JSFX/raw/1f96b83dbed775a32e1a98dac4a0b8fe1b221632/Synth/tilr_JSWavesynth/Complex%202.wav";
-          sha256 = "0jgbj8yp3lvfyffwr33gjzky7gv18h2icy7l5klcg2jwryc0ggfd";
+          sha256 = "";
         }
         {
           path = ''tilr_JSWavesynth/Complex 3.wav'';
@@ -9503,7 +9503,7 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack EnvGen2Max.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/1474662fc8cfeecbe27847ef347eace2a2c98f4c/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack%20EnvGen2Max.jsfx";
-          sha256 = "11y60pvwbppq4d72k783y1gk43kvrarmpw2hhb90wcqxdmag4pw7";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack Filter.jsfx'';
@@ -9543,7 +9543,7 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack Oscillator-Noise.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/1474662fc8cfeecbe27847ef347eace2a2c98f4c/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack%20Oscillator-Noise.jsfx";
-          sha256 = "0pgy61wdlxqs176hlygh09418sga9pr05dcqmcy2wrvszckmgjvm";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack Oscillator-Trapezoidal.jsfx'';
@@ -9553,7 +9553,7 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack Oscillator-TwinSaw.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/1474662fc8cfeecbe27847ef347eace2a2c98f4c/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack%20Oscillator-TwinSaw.jsfx";
-          sha256 = "1lbs9x9rb6mqyafrq9vvgvlks73q7yrs0hhm7ndz521clmc11038";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack Oscillator.jsfx'';
@@ -9563,7 +9563,7 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack PolySplitter.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/1474662fc8cfeecbe27847ef347eace2a2c98f4c/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack%20PolySplitter.jsfx";
-          sha256 = "11sxabjqlbkmidzraw1vq6jm54lngbc2q9ar1ka9ama9mwnmw5w4";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack Trigger.jsfx'';
@@ -9587,12 +9587,12 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack Amplifier.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/63b9ae279e4a1eabdfd5104b25bced8a562bf79e/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack%20Amplifier.jsfx";
-          sha256 = "0q9g477124hr5b6p1mxmgs29r4awz4sqnlfb1vq5imgyhkdj1rja";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack CCmixer.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/63b9ae279e4a1eabdfd5104b25bced8a562bf79e/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack%20CCmixer.jsfx";
-          sha256 = "0sapkfyvgha2zz0s35gs1612pz80hy9amrxdm1lvammxssaxa4yy";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack EnvGen.jsfx'';
@@ -9607,7 +9607,7 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack EnvGen2Max.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/63b9ae279e4a1eabdfd5104b25bced8a562bf79e/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack%20EnvGen2Max.jsfx";
-          sha256 = "11y60pvwbppq4d72k783y1gk43kvrarmpw2hhb90wcqxdmag4pw7";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack Filter.jsfx'';
@@ -9632,12 +9632,12 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack LFO2.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/63b9ae279e4a1eabdfd5104b25bced8a562bf79e/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack%20LFO2.jsfx";
-          sha256 = "17wyi6sicb6l3vmqxsr0719x0fas6k7jyhjbvjg78h8v4yxywlxa";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack NoteFilter.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/63b9ae279e4a1eabdfd5104b25bced8a562bf79e/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack%20NoteFilter.jsfx";
-          sha256 = "13m1x3xjyg9pzj7z8jy9gv1m18mgzns3f0m7kz9s7sl4dan21d2p";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack Oscillator-Additive.jsfx'';
@@ -9652,12 +9652,12 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack Oscillator-Trapezoidal.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/63b9ae279e4a1eabdfd5104b25bced8a562bf79e/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack%20Oscillator-Trapezoidal.jsfx";
-          sha256 = "1c3mpb9npjjw09g86haga9ps5awpy7vhnl1i94fza4cjnn7vlz1v";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack Oscillator-TwinSaw.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/63b9ae279e4a1eabdfd5104b25bced8a562bf79e/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack%20Oscillator-TwinSaw.jsfx";
-          sha256 = "1lbs9x9rb6mqyafrq9vvgvlks73q7yrs0hhm7ndz521clmc11038";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack Oscillator.jsfx'';
@@ -9677,7 +9677,7 @@
         {
           path = ''ReaRack Modular Synth/Timewaster_ReaRack SampleAndHold.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/63b9ae279e4a1eabdfd5104b25bced8a562bf79e/Synth/ReaRack%20Modular%20Synth/Timewaster_ReaRack%20SampleAndHold.jsfx";
-          sha256 = "0a1y69nm12y8x2js76jsyhaza1mzwnminnbl6lq504k0pfrbl2r4";
+          sha256 = "";
         }
       ];
     };
@@ -9701,7 +9701,7 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack EnvGen.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/94ccb906ef7eb6392b8b7a7ece99de768eca7088/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack%20EnvGen.jsfx";
-          sha256 = "0sl8pkjq6i0l2i1a17bdi966n34r3v3ld07fz2kzm59zqq2r6l2h";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack EnvGen2.jsfx'';
@@ -9751,7 +9751,7 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack Oscillator-Noise.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/94ccb906ef7eb6392b8b7a7ece99de768eca7088/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack%20Oscillator-Noise.jsfx";
-          sha256 = "0pgy61wdlxqs176hlygh09418sga9pr05dcqmcy2wrvszckmgjvm";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack Oscillator-Trapezoidal.jsfx'';
@@ -9795,17 +9795,17 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack2 Amplifier.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/dce7e605f690d487da4bc983d07fd157098ff214/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack2%20Amplifier.jsfx";
-          sha256 = "0wpi0nagfmvfijspmamy1hidi2q9f4iqg1130ggv316nx23ph9si";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack2 Audio-MIDI.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/dce7e605f690d487da4bc983d07fd157098ff214/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack2%20Audio-MIDI.jsfx";
-          sha256 = "1d9pwi5d7i4dbf7hs5qqk0iphkmfmg418s73kanx1mv44n57cy3v";
+          sha256 = "1yl22k89kjarzpkdzcpmvqkff0aqjmykdkhh48gq8lvjwqmmmawr";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack2 CCmixer.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/dce7e605f690d487da4bc983d07fd157098ff214/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack2%20CCmixer.jsfx";
-          sha256 = "1zx1636g51hhmms7kpdrxnlivmcvc9xacimfl1yn3zhsnri3qmqw";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack2 EnvGen.jsfx'';
@@ -9825,7 +9825,7 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack2 KeyFollower.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/dce7e605f690d487da4bc983d07fd157098ff214/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack2%20KeyFollower.jsfx";
-          sha256 = "0dirf1b7c8cd251np91xbary4r8bflxgqi40389ps8y2pp46lrqw";
+          sha256 = "";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack2 LFO.jsfx'';
@@ -9845,7 +9845,7 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack2 Oscillator-Additive.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/dce7e605f690d487da4bc983d07fd157098ff214/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack2%20Oscillator-Additive.jsfx";
-          sha256 = "17n4mx453raw8g1f6jqafqf4n0pd8jqdd2xg4nx77vb83v3xphh6";
+          sha256 = "141n04c5p49jfr0bi7pxwd4chlk7ixsn5hjhxfqcw7x7lizqad9q";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack2 Oscillator-Noise.jsfx'';
@@ -9894,7 +9894,7 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack2 Audio-MIDI.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/6c57c2543bb3df5e1c83e807e6366e513e99d24a/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack2%20Audio-MIDI.jsfx";
-          sha256 = "1d9pwi5d7i4dbf7hs5qqk0iphkmfmg418s73kanx1mv44n57cy3v";
+          sha256 = "1yl22k89kjarzpkdzcpmvqkff0aqjmykdkhh48gq8lvjwqmmmawr";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack2 CCmixer.jsfx'';
@@ -9934,7 +9934,7 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack2 NoteFilter.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/6c57c2543bb3df5e1c83e807e6366e513e99d24a/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack2%20NoteFilter.jsfx";
-          sha256 = "052vrzj2nr5kj065s8kkwlzyb9qijnrvxybxgpkgx5rj9z9h0j26";
+          sha256 = "0jwvlcgbpsjc6pqw1nq1a8y20qa2gvvdj2vdz7liip2bbxpjarq0";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack2 NoteScope.jsfx'';
@@ -9949,7 +9949,7 @@
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack2 Oscillator-Noise.jsfx'';
           url = "https://github.com/ReaTeam/JSFX/raw/6c57c2543bb3df5e1c83e807e6366e513e99d24a/Synth/ReaRack%20Modular%20Synth/TimeWaster_ReaRack2%20Oscillator-Noise.jsfx";
-          sha256 = "17fzpgrm9yw81ghv5kyg1kbddvlijmgcmbqn8qjdf9lql03g5fjh";
+          sha256 = "1wp9lwvdnigmbg1k8xqcvgrpsq0yqhb8cplm5gacikh1sd358sly";
         }
         {
           path = ''ReaRack Modular Synth/TimeWaster_ReaRack2 Oscillator-Trapezoidal.jsfx'';

@@ -44,7 +44,7 @@
         {
           path = ''erriez_midi_velocity_viewer_drums/02-01 Addictive Drums Basic.txt'';
           url = "https://github.com/Erriez/reaper-midi-velocity-viewer/raw/d3a3ed0cd6d8958d79e3f87272286c882104e20a/MIDI/erriez_midi_velocity_viewer_drums/02-01%20Addictive%20Drums%20Basic.txt";
-          sha256 = "1c4vrgdx1l5g8w6qhwppbvww8l184405fhg0z6vjxbgvq4n6bh88";
+          sha256 = "0ngr4clhcbmlmjb94488m685wsgsh1xpvlmhin7fcip3mks9sjd5";
         }
         {
           path = ''erriez_midi_velocity_viewer_drums/02-02 Addictive Drums Extended.txt'';
@@ -59,7 +59,7 @@
         {
           path = ''erriez_midi_velocity_viewer_drums/03-02 Roland TD12 Basic.txt'';
           url = "https://github.com/Erriez/reaper-midi-velocity-viewer/raw/d3a3ed0cd6d8958d79e3f87272286c882104e20a/MIDI/erriez_midi_velocity_viewer_drums/03-02%20Roland%20TD12%20Basic.txt";
-          sha256 = "1sp8vgq69fpijzgn4bb5l607ic2gr381slshlqvwilifsgs0mbpl";
+          sha256 = "1xy8h1if4825a79qm7z8d3f8zgq6lhb1wwfisv3packv5xjm7rb9";
         }
         {
           path = ''erriez_midi_velocity_viewer_drums/03-03 Roland TD12 Extended.txt'';
@@ -89,7 +89,7 @@
         {
           path = ''erriez_midi_velocity_viewer_drums/05-02 TT EZDrummer2 Vintage Extended.txt'';
           url = "https://github.com/Erriez/reaper-midi-velocity-viewer/raw/d3a3ed0cd6d8958d79e3f87272286c882104e20a/MIDI/erriez_midi_velocity_viewer_drums/05-02%20TT%20EZDrummer2%20Vintage%20Extended.txt";
-          sha256 = "0jzmjjrl8q03chf23xbp3drak72ynxz8b1y8nlik4wy6b8ly6a2w";
+          sha256 = "0xn4axyggl4a3pdk09rlv0rm8ysylnhry9y4ld234m3q6jwg5gzn";
         }
         {
           path = ''erriez_midi_velocity_viewer_drums/06-01 TT Superior Drummer Avatar Basic.txt'';
@@ -193,7 +193,7 @@
         {
           path = ''erriez_common_gfx.jsfx-inc'';
           url = "https://github.com/Erriez/reaper-midi-velocity-viewer/raw/a116158d13beb473fde07cdfa680482d1e0fe825/MIDI/erriez_common_gfx.jsfx-inc";
-          sha256 = "1864727g351brk5mhi6nv3gpa1vbyar3lpqziwnj20bwfqmx2lp3";
+          sha256 = "1fhxbbh4z6wv5rz6rjnggj9qvh0vmc1ji86y7xjmg8y1wpd3l0jd";
         }
       ];
     };

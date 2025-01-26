@@ -1437,7 +1437,7 @@
         {
           path = ''ReaOpen - Init Setup.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/40fa7001763718a97c595839c14c6dc1c15ed52f/ReaOpen/ReaOpen%20-%20Init%20Setup.lua";
-          sha256 = "0j8xpynzf3dv1p5fzxjch0wvwj4pjykvnxwxdp9lxfljbi5p1rbq";
+          sha256 = "1z3s78pjs69gyh9fgrnfr9s4z44y72vwk7jbzpcdcy6l5w5na5s1";
         }
         {
           path = ''ReaOpen - Open script directory.lua'';
@@ -1726,7 +1726,7 @@
         {
           path = '''';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/53470d83622180b44214ce6711ea7c68cda59190/Variator/LKC%20-%20Variator%20-%20GUI.lua";
-          sha256 = "0hfsq1rhzrgdkg243x9p82baqb765alzvmdl3f5qf112w9rssmrb";
+          sha256 = "1bayv6srm38rglmalwhnmpg0x7i2gjc77zkgjgq84ysfsl1ynqbw";
         }
       ];
     };

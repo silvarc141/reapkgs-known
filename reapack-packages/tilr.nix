@@ -7199,6 +7199,1216 @@
         }
       ];
     };
+    rippler-jsfx-1-0-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "rippler-jsfx-1-0-0";
+      indexName = "Tilr";
+      categoryName = "Synth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/714d0ba9b6212293aa95ac12b63b75793b562528/Synth/rippler.jsfx";
+          sha256 = "1vcf3sxxmmdydlk23gh3ymq0yxn3z0d857jsa9b6x6fa3rk3vn3l";
+        }
+      ];
+    };
+    rippler-jsfx-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "rippler-jsfx-1-0-1";
+      indexName = "Tilr";
+      categoryName = "Synth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/rippler.jsfx";
+          sha256 = "1fgzy79plfkcvkc8az9gsk8bybs68473m8zh0jff6lmc734ca6qf";
+        }
+        {
+          path = ''rippler.jsfx.RPL'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/rippler.jsfx.RPL";
+          sha256 = "1kzb2xfm4fyr4a97by8fvdf2rn8y8zd77vh12b9wymcg6lb757r9";
+        }
+        {
+          path = ''rippler/logo.png'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/rippler/logo.png";
+          sha256 = "1nar2xc0k8chfnz6vsfkdmx2w3bkmx5a1miy6id5bm3hnw533qwd";
+        }
+        {
+          path = ''rippler/rippler.array.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/rippler/rippler.array.jsfx-inc";
+          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+        }
+        {
+          path = ''rippler/rippler.envlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/rippler/rippler.envlib.jsfx-inc";
+          sha256 = "1fvakggis4b8lw75l2dx0z4fixv3wjklm1m6xhc28l6995p1fzcm";
+        }
+        {
+          path = ''rippler/rippler.gfxlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/rippler/rippler.gfxlib.jsfx-inc";
+          sha256 = "115hkk62sbsi189m1ga34q3brbjz5jdld9cxmb8k2jjjk384mcvn";
+        }
+        {
+          path = ''rippler/rippler.modal.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/rippler/rippler.modal.jsfx-inc";
+          sha256 = "1imyk7k9dba8azx8h5c4lyx8kcfb3rsllh27y4d4v7mg2hgwn04n";
+        }
+        {
+          path = ''rippler/rippler.rbj_filter.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/rippler/rippler.rbj_filter.jsfx-inc";
+          sha256 = "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s";
+        }
+        {
+          path = ''tilr8_Rippler/mallet01.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet01.wav";
+          sha256 = "1gmb9xwwrmdfjqwyk7sbarl0vp97kpzafbnai0yq0mna8l8s6dj0";
+        }
+        {
+          path = ''tilr8_Rippler/mallet02.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet02.wav";
+          sha256 = "13qynpw4c3413b56jbcwkdj9qzw07s20cnc8p9037ldqz801sxmh";
+        }
+        {
+          path = ''tilr8_Rippler/mallet03.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet03.wav";
+          sha256 = "1varnh00vpq29s1ikiq509avdyz951bpwlpzg1aarx6ra6z5by6k";
+        }
+        {
+          path = ''tilr8_Rippler/mallet04.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet04.wav";
+          sha256 = "155vfphvqgfkbjlk2zkx1lkyjr9knfhf2kwmk7m8jhbydgj8mwvw";
+        }
+        {
+          path = ''tilr8_Rippler/mallet05.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet05.wav";
+          sha256 = "1478a8vf9cp68fm3l7310fk96mfkiq1v6ff0m4s9wfx1vj4bngs6";
+        }
+        {
+          path = ''tilr8_Rippler/mallet06.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet06.wav";
+          sha256 = "0jqb8sskrgdi2jxhj7bdqkw40ij0r9g7y1yzv6r2z4xllsvkg1ls";
+        }
+        {
+          path = ''tilr8_Rippler/mallet07.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet07.wav";
+          sha256 = "1dyjcppq6i3lh5li0shbb6dvp5ip1wb7q3n3ngl15i938jgkz07x";
+        }
+        {
+          path = ''tilr8_Rippler/mallet08.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet08.wav";
+          sha256 = "0m66jvm2hmz92sf52v4dfm3m68wda29ck7h5xp0f07vsndkpffx0";
+        }
+        {
+          path = ''tilr8_Rippler/mallet09.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet09.wav";
+          sha256 = "0rp7ymf5gmsywlfv50h5pq8i1v14lqfd93sd07mc6f9rbbdc77fy";
+        }
+        {
+          path = ''tilr8_Rippler/mallet10.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet10.wav";
+          sha256 = "08g8b6drh1hwnr679swhbr5p7hv3m5qwl0927bs00k2rmx1qvkrj";
+        }
+        {
+          path = ''tilr8_Rippler/mallet11.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet11.wav";
+          sha256 = "1nmz19841xs6akslqhhvnym579l9jlh5j8q082k8mzb2yv3aysmd";
+        }
+        {
+          path = ''tilr8_Rippler/mallet12.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet12.wav";
+          sha256 = "1mgdiy097b2799mnqc5gm5sla9cwn15ycizg23gg4nxm73qyn3h5";
+        }
+        {
+          path = ''tilr8_Rippler/mallet13.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet13.wav";
+          sha256 = "0z8x4gpsv5xwbzd93388jkrs5kwwzbyb4g6bvqfb67kbd04fjlbj";
+        }
+        {
+          path = ''tilr8_Rippler/mallet14.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet14.wav";
+          sha256 = "0g29sndss8p4fy56lv32scr2f5clk6zbyivg150pm3jy3rwr3dr0";
+        }
+        {
+          path = ''tilr8_Rippler/mallet15.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet15.wav";
+          sha256 = "0y56jq37pl512aygmi045mm2j9c8wwxvqlhqp1q04y9xslmxfbgs";
+        }
+        {
+          path = ''tilr8_Rippler/mallet16.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet16.wav";
+          sha256 = "1m589szymwvbvcaw80pksvv8kfkw9aaxrmj8ipsis93vdcy8dyvf";
+        }
+        {
+          path = ''tilr8_Rippler/mallet17.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet17.wav";
+          sha256 = "06xzypcz8vv96a94r8cc8g46vwpczzdxybdp624dvk285ll6fk71";
+        }
+        {
+          path = ''tilr8_Rippler/mallet18.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet18.wav";
+          sha256 = "1gmxvj13mh5sg1scq91wib7kd2pkqiy155cwj0ww83kd8j8y8kis";
+        }
+        {
+          path = ''tilr8_Rippler/mallet19.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet19.wav";
+          sha256 = "18c97za44a89bxqldqs4wm327kyxcy2qgkyfdim6sgyi9bi6n2qj";
+        }
+        {
+          path = ''tilr8_Rippler/mallet20.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet20.wav";
+          sha256 = "141xr6y4fjk609bnvk2swpnxd1d2mzxh958h7lw7kh6iyqmaixyi";
+        }
+        {
+          path = ''tilr8_Rippler/mallet21.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet21.wav";
+          sha256 = "177nrni8vlqdayxvjk76p99nj6xinmbl3d07gkj0jzn3mdaf58f7";
+        }
+        {
+          path = ''tilr8_Rippler/mallet22.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet22.wav";
+          sha256 = "1bgyj9jwna5r2jlymykc0i153cgqdbyf8jmmdvqv68gwxi3ksicy";
+        }
+        {
+          path = ''tilr8_Rippler/mallet23.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet23.wav";
+          sha256 = "0rrnsd8gxpfapmml6phj549fajn4gszsmqai4kssh7wqp6fwjmiy";
+        }
+        {
+          path = ''tilr8_Rippler/mallet24.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet24.wav";
+          sha256 = "0ch56n7q3zk8zdkpgjhl2vpxk0hpp77055n4mj8pyj4rym9zx7yp";
+        }
+        {
+          path = ''tilr8_Rippler/mallet25.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet25.wav";
+          sha256 = "0zr07aacn0v1agfmb9wyjzvdkkw1wwirl7z63pyjjrhbnbhnrxmc";
+        }
+        {
+          path = ''tilr8_Rippler/mallet26.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet26.wav";
+          sha256 = "0wahjjmczyinmf7805kqdlc57vjn68rzvf1qcv0x4wa095lgmrnl";
+        }
+        {
+          path = ''tilr8_Rippler/mallet27.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet27.wav";
+          sha256 = "08871c1rb71ppdl4d3z8l90y35n9zq3bcbhiz4szipwpsf4nm9sq";
+        }
+        {
+          path = ''tilr8_Rippler/mallet28.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet28.wav";
+          sha256 = "0h4f30qhnb71hjg36yr9dmywn66qv5xdrs267f8kdwc69y3jkjnh";
+        }
+        {
+          path = ''tilr8_Rippler/mallet29.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet29.wav";
+          sha256 = "08b3qb2j0gly9jsjv5q873z8j613cc7vwrzmnfqf4gvx8rz8y53h";
+        }
+        {
+          path = ''tilr8_Rippler/mallet30.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet30.wav";
+          sha256 = "1i2z27k6xng774y7y7yvfkzpcaky9rdfsq29b5g86ngnk17xi275";
+        }
+        {
+          path = ''tilr8_Rippler/mallet31.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet31.wav";
+          sha256 = "1j412a7a4fn2f4y5lhmihh2flj8hb16r0m8rxmxnp1bwxklvcnnm";
+        }
+        {
+          path = ''tilr8_Rippler/mallet32.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet32.wav";
+          sha256 = "12a2fyq76kbi0wjp98sk5clwmi1hciwg0f96k2k4hxf74mbn8mxv";
+        }
+        {
+          path = ''tilr8_Rippler/mallet33.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet33.wav";
+          sha256 = "1wnawir29qd78chzmn1wpy0rfwja0lkbb47xxa71m64zl0g9gns6";
+        }
+        {
+          path = ''tilr8_Rippler/mallet34.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet34.wav";
+          sha256 = "0ii76hvsnjjkk6aa81a5p8784b2kbkw6lfyl5jm6nidn6iq9zd4m";
+        }
+        {
+          path = ''tilr8_Rippler/mallet35.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet35.wav";
+          sha256 = "02vhb56rfvrgvf4kz8dkwhwz5qz6q01b8zbn9arwyhj9f5v7kc95";
+        }
+        {
+          path = ''tilr8_Rippler/mallet36.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet36.wav";
+          sha256 = "1iw11azx2w9xxsacikgwdwkgsgb9pp2c0m7jnw9kp1157d7hkgmq";
+        }
+        {
+          path = ''tilr8_Rippler/mallet37.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet37.wav";
+          sha256 = "09py0jgg14pilg0nc5p2fm7h0qadz9q04nswhcyg7023zlr1wzy2";
+        }
+        {
+          path = ''tilr8_Rippler/mallet38.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet38.wav";
+          sha256 = "06w26nk97h7acmv86q30a7nzv9l0jgf6q4kqqvn6dbf8ljg3630w";
+        }
+        {
+          path = ''tilr8_Rippler/mallet39.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet39.wav";
+          sha256 = "163h1nf2sgx6z60qvnrgfqa1j2vz23marjr8fqy8xp8vvk2fjaf2";
+        }
+        {
+          path = ''tilr8_Rippler/mallet40.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet40.wav";
+          sha256 = "1x58my96nw932fi7fkcpgyj3q6v2fm9gnpd5dpb2phbavqnhryjg";
+        }
+        {
+          path = ''tilr8_Rippler/mallet41.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet41.wav";
+          sha256 = "04zfccb9qbmwiqxqilf30cwic1lsmn774xk38k5pjd376d0v33s1";
+        }
+        {
+          path = ''tilr8_Rippler/mallet42.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet42.wav";
+          sha256 = "164y5dgiq913c709xfwpbhl52mxhvll4izg5dr1inkq0c64prb32";
+        }
+        {
+          path = ''tilr8_Rippler/mallet43.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet43.wav";
+          sha256 = "1vw9f2ws9dq8hs4m4d9ibj4cadhgjhgyfbjg5z1shqg56a1acqs1";
+        }
+        {
+          path = ''tilr8_Rippler/mallet44.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet44.wav";
+          sha256 = "0axlfn1gsl3i5gwji2ni5slpilgkvw13dmjqcnid4nis2gwfd2zg";
+        }
+        {
+          path = ''tilr8_Rippler/mallet45.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet45.wav";
+          sha256 = "1kkfvd4mf9a6m99y1d3h9pdgdfgkxwgsqndrdq9q2bsvf6x8827h";
+        }
+        {
+          path = ''tilr8_Rippler/mallet46.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet46.wav";
+          sha256 = "0yd5fim28a2qya8ifib09qhj0y3bl8i1zxvm1i3i8fbvl8779l6n";
+        }
+        {
+          path = ''tilr8_Rippler/mallet47.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet47.wav";
+          sha256 = "0gl7714cikbwfy85hgw9xv3viff5sj6n7rqzgf8ll2dm0g5ss969";
+        }
+        {
+          path = ''tilr8_Rippler/mallet48.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet48.wav";
+          sha256 = "13v8rq9w4m3am9b8ggfip9srdsfipfw7sb0nd90iq1c2i90zlcsz";
+        }
+        {
+          path = ''tilr8_Rippler/mallet49.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet49.wav";
+          sha256 = "00brnqixjab3r0rcwb5k48yvfsschk3892w0lawzs7jqhn273sda";
+        }
+        {
+          path = ''tilr8_Rippler/mallet50.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/e57f5df0742c7ece26ee8d54b8481594364618b5/Synth/tilr8_Rippler/mallet50.wav";
+          sha256 = "1l7kan1cdwi4g1i31bn2j3ndqpc36qmc49rbcj2v1y25p5rky1aa";
+        }
+      ];
+    };
+    rippler-jsfx-1-0-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "rippler-jsfx-1-0-2";
+      indexName = "Tilr";
+      categoryName = "Synth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/rippler.jsfx";
+          sha256 = "0z2afbrc9xgj45ha6hrfh8lls2dl8jps41sczl46gzwcl371lgwl";
+        }
+        {
+          path = ''rippler.jsfx.RPL'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/rippler.jsfx.RPL";
+          sha256 = "1kzb2xfm4fyr4a97by8fvdf2rn8y8zd77vh12b9wymcg6lb757r9";
+        }
+        {
+          path = ''rippler/logo.png'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/rippler/logo.png";
+          sha256 = "1nar2xc0k8chfnz6vsfkdmx2w3bkmx5a1miy6id5bm3hnw533qwd";
+        }
+        {
+          path = ''rippler/rippler.array.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/rippler/rippler.array.jsfx-inc";
+          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+        }
+        {
+          path = ''rippler/rippler.envlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/rippler/rippler.envlib.jsfx-inc";
+          sha256 = "1fvakggis4b8lw75l2dx0z4fixv3wjklm1m6xhc28l6995p1fzcm";
+        }
+        {
+          path = ''rippler/rippler.gfxlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/rippler/rippler.gfxlib.jsfx-inc";
+          sha256 = "115hkk62sbsi189m1ga34q3brbjz5jdld9cxmb8k2jjjk384mcvn";
+        }
+        {
+          path = ''rippler/rippler.modal.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/rippler/rippler.modal.jsfx-inc";
+          sha256 = "0m8qw33c22pxx1dcwbnbpp6ld9v6vr88v3p4i1v63i4wpllhah43";
+        }
+        {
+          path = ''rippler/rippler.rbj_filter.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/rippler/rippler.rbj_filter.jsfx-inc";
+          sha256 = "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s";
+        }
+        {
+          path = ''tilr8_Rippler/mallet01.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet01.wav";
+          sha256 = "1gmb9xwwrmdfjqwyk7sbarl0vp97kpzafbnai0yq0mna8l8s6dj0";
+        }
+        {
+          path = ''tilr8_Rippler/mallet02.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet02.wav";
+          sha256 = "13qynpw4c3413b56jbcwkdj9qzw07s20cnc8p9037ldqz801sxmh";
+        }
+        {
+          path = ''tilr8_Rippler/mallet03.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet03.wav";
+          sha256 = "1varnh00vpq29s1ikiq509avdyz951bpwlpzg1aarx6ra6z5by6k";
+        }
+        {
+          path = ''tilr8_Rippler/mallet04.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet04.wav";
+          sha256 = "155vfphvqgfkbjlk2zkx1lkyjr9knfhf2kwmk7m8jhbydgj8mwvw";
+        }
+        {
+          path = ''tilr8_Rippler/mallet05.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet05.wav";
+          sha256 = "1478a8vf9cp68fm3l7310fk96mfkiq1v6ff0m4s9wfx1vj4bngs6";
+        }
+        {
+          path = ''tilr8_Rippler/mallet06.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet06.wav";
+          sha256 = "0jqb8sskrgdi2jxhj7bdqkw40ij0r9g7y1yzv6r2z4xllsvkg1ls";
+        }
+        {
+          path = ''tilr8_Rippler/mallet07.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet07.wav";
+          sha256 = "1dyjcppq6i3lh5li0shbb6dvp5ip1wb7q3n3ngl15i938jgkz07x";
+        }
+        {
+          path = ''tilr8_Rippler/mallet08.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet08.wav";
+          sha256 = "0m66jvm2hmz92sf52v4dfm3m68wda29ck7h5xp0f07vsndkpffx0";
+        }
+        {
+          path = ''tilr8_Rippler/mallet09.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet09.wav";
+          sha256 = "0rp7ymf5gmsywlfv50h5pq8i1v14lqfd93sd07mc6f9rbbdc77fy";
+        }
+        {
+          path = ''tilr8_Rippler/mallet10.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet10.wav";
+          sha256 = "08g8b6drh1hwnr679swhbr5p7hv3m5qwl0927bs00k2rmx1qvkrj";
+        }
+        {
+          path = ''tilr8_Rippler/mallet11.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet11.wav";
+          sha256 = "1nmz19841xs6akslqhhvnym579l9jlh5j8q082k8mzb2yv3aysmd";
+        }
+        {
+          path = ''tilr8_Rippler/mallet12.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet12.wav";
+          sha256 = "1mgdiy097b2799mnqc5gm5sla9cwn15ycizg23gg4nxm73qyn3h5";
+        }
+        {
+          path = ''tilr8_Rippler/mallet13.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet13.wav";
+          sha256 = "0z8x4gpsv5xwbzd93388jkrs5kwwzbyb4g6bvqfb67kbd04fjlbj";
+        }
+        {
+          path = ''tilr8_Rippler/mallet14.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet14.wav";
+          sha256 = "0g29sndss8p4fy56lv32scr2f5clk6zbyivg150pm3jy3rwr3dr0";
+        }
+        {
+          path = ''tilr8_Rippler/mallet15.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet15.wav";
+          sha256 = "0y56jq37pl512aygmi045mm2j9c8wwxvqlhqp1q04y9xslmxfbgs";
+        }
+        {
+          path = ''tilr8_Rippler/mallet16.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet16.wav";
+          sha256 = "1m589szymwvbvcaw80pksvv8kfkw9aaxrmj8ipsis93vdcy8dyvf";
+        }
+        {
+          path = ''tilr8_Rippler/mallet17.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet17.wav";
+          sha256 = "06xzypcz8vv96a94r8cc8g46vwpczzdxybdp624dvk285ll6fk71";
+        }
+        {
+          path = ''tilr8_Rippler/mallet18.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet18.wav";
+          sha256 = "1gmxvj13mh5sg1scq91wib7kd2pkqiy155cwj0ww83kd8j8y8kis";
+        }
+        {
+          path = ''tilr8_Rippler/mallet19.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet19.wav";
+          sha256 = "18c97za44a89bxqldqs4wm327kyxcy2qgkyfdim6sgyi9bi6n2qj";
+        }
+        {
+          path = ''tilr8_Rippler/mallet20.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet20.wav";
+          sha256 = "141xr6y4fjk609bnvk2swpnxd1d2mzxh958h7lw7kh6iyqmaixyi";
+        }
+        {
+          path = ''tilr8_Rippler/mallet21.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet21.wav";
+          sha256 = "177nrni8vlqdayxvjk76p99nj6xinmbl3d07gkj0jzn3mdaf58f7";
+        }
+        {
+          path = ''tilr8_Rippler/mallet22.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet22.wav";
+          sha256 = "1bgyj9jwna5r2jlymykc0i153cgqdbyf8jmmdvqv68gwxi3ksicy";
+        }
+        {
+          path = ''tilr8_Rippler/mallet23.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet23.wav";
+          sha256 = "0rrnsd8gxpfapmml6phj549fajn4gszsmqai4kssh7wqp6fwjmiy";
+        }
+        {
+          path = ''tilr8_Rippler/mallet24.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet24.wav";
+          sha256 = "0ch56n7q3zk8zdkpgjhl2vpxk0hpp77055n4mj8pyj4rym9zx7yp";
+        }
+        {
+          path = ''tilr8_Rippler/mallet25.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet25.wav";
+          sha256 = "0zr07aacn0v1agfmb9wyjzvdkkw1wwirl7z63pyjjrhbnbhnrxmc";
+        }
+        {
+          path = ''tilr8_Rippler/mallet26.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet26.wav";
+          sha256 = "0wahjjmczyinmf7805kqdlc57vjn68rzvf1qcv0x4wa095lgmrnl";
+        }
+        {
+          path = ''tilr8_Rippler/mallet27.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet27.wav";
+          sha256 = "08871c1rb71ppdl4d3z8l90y35n9zq3bcbhiz4szipwpsf4nm9sq";
+        }
+        {
+          path = ''tilr8_Rippler/mallet28.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet28.wav";
+          sha256 = "0h4f30qhnb71hjg36yr9dmywn66qv5xdrs267f8kdwc69y3jkjnh";
+        }
+        {
+          path = ''tilr8_Rippler/mallet29.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet29.wav";
+          sha256 = "08b3qb2j0gly9jsjv5q873z8j613cc7vwrzmnfqf4gvx8rz8y53h";
+        }
+        {
+          path = ''tilr8_Rippler/mallet30.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet30.wav";
+          sha256 = "1i2z27k6xng774y7y7yvfkzpcaky9rdfsq29b5g86ngnk17xi275";
+        }
+        {
+          path = ''tilr8_Rippler/mallet31.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet31.wav";
+          sha256 = "1j412a7a4fn2f4y5lhmihh2flj8hb16r0m8rxmxnp1bwxklvcnnm";
+        }
+        {
+          path = ''tilr8_Rippler/mallet32.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet32.wav";
+          sha256 = "12a2fyq76kbi0wjp98sk5clwmi1hciwg0f96k2k4hxf74mbn8mxv";
+        }
+        {
+          path = ''tilr8_Rippler/mallet33.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet33.wav";
+          sha256 = "1wnawir29qd78chzmn1wpy0rfwja0lkbb47xxa71m64zl0g9gns6";
+        }
+        {
+          path = ''tilr8_Rippler/mallet34.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet34.wav";
+          sha256 = "0ii76hvsnjjkk6aa81a5p8784b2kbkw6lfyl5jm6nidn6iq9zd4m";
+        }
+        {
+          path = ''tilr8_Rippler/mallet35.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet35.wav";
+          sha256 = "02vhb56rfvrgvf4kz8dkwhwz5qz6q01b8zbn9arwyhj9f5v7kc95";
+        }
+        {
+          path = ''tilr8_Rippler/mallet36.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet36.wav";
+          sha256 = "1iw11azx2w9xxsacikgwdwkgsgb9pp2c0m7jnw9kp1157d7hkgmq";
+        }
+        {
+          path = ''tilr8_Rippler/mallet37.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet37.wav";
+          sha256 = "09py0jgg14pilg0nc5p2fm7h0qadz9q04nswhcyg7023zlr1wzy2";
+        }
+        {
+          path = ''tilr8_Rippler/mallet38.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet38.wav";
+          sha256 = "06w26nk97h7acmv86q30a7nzv9l0jgf6q4kqqvn6dbf8ljg3630w";
+        }
+        {
+          path = ''tilr8_Rippler/mallet39.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet39.wav";
+          sha256 = "163h1nf2sgx6z60qvnrgfqa1j2vz23marjr8fqy8xp8vvk2fjaf2";
+        }
+        {
+          path = ''tilr8_Rippler/mallet40.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet40.wav";
+          sha256 = "1x58my96nw932fi7fkcpgyj3q6v2fm9gnpd5dpb2phbavqnhryjg";
+        }
+        {
+          path = ''tilr8_Rippler/mallet41.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet41.wav";
+          sha256 = "04zfccb9qbmwiqxqilf30cwic1lsmn774xk38k5pjd376d0v33s1";
+        }
+        {
+          path = ''tilr8_Rippler/mallet42.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet42.wav";
+          sha256 = "164y5dgiq913c709xfwpbhl52mxhvll4izg5dr1inkq0c64prb32";
+        }
+        {
+          path = ''tilr8_Rippler/mallet43.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet43.wav";
+          sha256 = "1vw9f2ws9dq8hs4m4d9ibj4cadhgjhgyfbjg5z1shqg56a1acqs1";
+        }
+        {
+          path = ''tilr8_Rippler/mallet44.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet44.wav";
+          sha256 = "0axlfn1gsl3i5gwji2ni5slpilgkvw13dmjqcnid4nis2gwfd2zg";
+        }
+        {
+          path = ''tilr8_Rippler/mallet45.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet45.wav";
+          sha256 = "1kkfvd4mf9a6m99y1d3h9pdgdfgkxwgsqndrdq9q2bsvf6x8827h";
+        }
+        {
+          path = ''tilr8_Rippler/mallet46.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet46.wav";
+          sha256 = "0yd5fim28a2qya8ifib09qhj0y3bl8i1zxvm1i3i8fbvl8779l6n";
+        }
+        {
+          path = ''tilr8_Rippler/mallet47.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet47.wav";
+          sha256 = "0gl7714cikbwfy85hgw9xv3viff5sj6n7rqzgf8ll2dm0g5ss969";
+        }
+        {
+          path = ''tilr8_Rippler/mallet48.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet48.wav";
+          sha256 = "13v8rq9w4m3am9b8ggfip9srdsfipfw7sb0nd90iq1c2i90zlcsz";
+        }
+        {
+          path = ''tilr8_Rippler/mallet49.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet49.wav";
+          sha256 = "00brnqixjab3r0rcwb5k48yvfsschk3892w0lawzs7jqhn273sda";
+        }
+        {
+          path = ''tilr8_Rippler/mallet50.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/b3392b5e2d96ab2940e874818cef6c9732777325/Synth/tilr8_Rippler/mallet50.wav";
+          sha256 = "1l7kan1cdwi4g1i31bn2j3ndqpc36qmc49rbcj2v1y25p5rky1aa";
+        }
+      ];
+    };
+    rippler-jsfx-1-0-3 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "rippler-jsfx-1-0-3";
+      indexName = "Tilr";
+      categoryName = "Synth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/rippler.jsfx";
+          sha256 = "0g7ylzggkcgg86jmm3xg6vwfyg9xgmx3ls2yg6xh624avzg7cik6";
+        }
+        {
+          path = ''rippler.jsfx.RPL'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/rippler.jsfx.RPL";
+          sha256 = "1kzb2xfm4fyr4a97by8fvdf2rn8y8zd77vh12b9wymcg6lb757r9";
+        }
+        {
+          path = ''rippler/logo.png'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/rippler/logo.png";
+          sha256 = "1nar2xc0k8chfnz6vsfkdmx2w3bkmx5a1miy6id5bm3hnw533qwd";
+        }
+        {
+          path = ''rippler/rippler.array.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/rippler/rippler.array.jsfx-inc";
+          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+        }
+        {
+          path = ''rippler/rippler.envlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/rippler/rippler.envlib.jsfx-inc";
+          sha256 = "1fvakggis4b8lw75l2dx0z4fixv3wjklm1m6xhc28l6995p1fzcm";
+        }
+        {
+          path = ''rippler/rippler.gfxlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/rippler/rippler.gfxlib.jsfx-inc";
+          sha256 = "115hkk62sbsi189m1ga34q3brbjz5jdld9cxmb8k2jjjk384mcvn";
+        }
+        {
+          path = ''rippler/rippler.modal.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/rippler/rippler.modal.jsfx-inc";
+          sha256 = "0m8qw33c22pxx1dcwbnbpp6ld9v6vr88v3p4i1v63i4wpllhah43";
+        }
+        {
+          path = ''rippler/rippler.rbj_filter.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/rippler/rippler.rbj_filter.jsfx-inc";
+          sha256 = "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s";
+        }
+        {
+          path = ''tilr8_Rippler/mallet01.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet01.wav";
+          sha256 = "1gmb9xwwrmdfjqwyk7sbarl0vp97kpzafbnai0yq0mna8l8s6dj0";
+        }
+        {
+          path = ''tilr8_Rippler/mallet02.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet02.wav";
+          sha256 = "13qynpw4c3413b56jbcwkdj9qzw07s20cnc8p9037ldqz801sxmh";
+        }
+        {
+          path = ''tilr8_Rippler/mallet03.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet03.wav";
+          sha256 = "1varnh00vpq29s1ikiq509avdyz951bpwlpzg1aarx6ra6z5by6k";
+        }
+        {
+          path = ''tilr8_Rippler/mallet04.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet04.wav";
+          sha256 = "155vfphvqgfkbjlk2zkx1lkyjr9knfhf2kwmk7m8jhbydgj8mwvw";
+        }
+        {
+          path = ''tilr8_Rippler/mallet05.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet05.wav";
+          sha256 = "1478a8vf9cp68fm3l7310fk96mfkiq1v6ff0m4s9wfx1vj4bngs6";
+        }
+        {
+          path = ''tilr8_Rippler/mallet06.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet06.wav";
+          sha256 = "0jqb8sskrgdi2jxhj7bdqkw40ij0r9g7y1yzv6r2z4xllsvkg1ls";
+        }
+        {
+          path = ''tilr8_Rippler/mallet07.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet07.wav";
+          sha256 = "1dyjcppq6i3lh5li0shbb6dvp5ip1wb7q3n3ngl15i938jgkz07x";
+        }
+        {
+          path = ''tilr8_Rippler/mallet08.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet08.wav";
+          sha256 = "0m66jvm2hmz92sf52v4dfm3m68wda29ck7h5xp0f07vsndkpffx0";
+        }
+        {
+          path = ''tilr8_Rippler/mallet09.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet09.wav";
+          sha256 = "0rp7ymf5gmsywlfv50h5pq8i1v14lqfd93sd07mc6f9rbbdc77fy";
+        }
+        {
+          path = ''tilr8_Rippler/mallet10.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet10.wav";
+          sha256 = "08g8b6drh1hwnr679swhbr5p7hv3m5qwl0927bs00k2rmx1qvkrj";
+        }
+        {
+          path = ''tilr8_Rippler/mallet11.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet11.wav";
+          sha256 = "1nmz19841xs6akslqhhvnym579l9jlh5j8q082k8mzb2yv3aysmd";
+        }
+        {
+          path = ''tilr8_Rippler/mallet12.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet12.wav";
+          sha256 = "1mgdiy097b2799mnqc5gm5sla9cwn15ycizg23gg4nxm73qyn3h5";
+        }
+        {
+          path = ''tilr8_Rippler/mallet13.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet13.wav";
+          sha256 = "0z8x4gpsv5xwbzd93388jkrs5kwwzbyb4g6bvqfb67kbd04fjlbj";
+        }
+        {
+          path = ''tilr8_Rippler/mallet14.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet14.wav";
+          sha256 = "0g29sndss8p4fy56lv32scr2f5clk6zbyivg150pm3jy3rwr3dr0";
+        }
+        {
+          path = ''tilr8_Rippler/mallet15.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet15.wav";
+          sha256 = "0y56jq37pl512aygmi045mm2j9c8wwxvqlhqp1q04y9xslmxfbgs";
+        }
+        {
+          path = ''tilr8_Rippler/mallet16.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet16.wav";
+          sha256 = "1m589szymwvbvcaw80pksvv8kfkw9aaxrmj8ipsis93vdcy8dyvf";
+        }
+        {
+          path = ''tilr8_Rippler/mallet17.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet17.wav";
+          sha256 = "06xzypcz8vv96a94r8cc8g46vwpczzdxybdp624dvk285ll6fk71";
+        }
+        {
+          path = ''tilr8_Rippler/mallet18.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet18.wav";
+          sha256 = "1gmxvj13mh5sg1scq91wib7kd2pkqiy155cwj0ww83kd8j8y8kis";
+        }
+        {
+          path = ''tilr8_Rippler/mallet19.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet19.wav";
+          sha256 = "18c97za44a89bxqldqs4wm327kyxcy2qgkyfdim6sgyi9bi6n2qj";
+        }
+        {
+          path = ''tilr8_Rippler/mallet20.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet20.wav";
+          sha256 = "141xr6y4fjk609bnvk2swpnxd1d2mzxh958h7lw7kh6iyqmaixyi";
+        }
+        {
+          path = ''tilr8_Rippler/mallet21.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet21.wav";
+          sha256 = "177nrni8vlqdayxvjk76p99nj6xinmbl3d07gkj0jzn3mdaf58f7";
+        }
+        {
+          path = ''tilr8_Rippler/mallet22.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet22.wav";
+          sha256 = "1bgyj9jwna5r2jlymykc0i153cgqdbyf8jmmdvqv68gwxi3ksicy";
+        }
+        {
+          path = ''tilr8_Rippler/mallet23.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet23.wav";
+          sha256 = "0rrnsd8gxpfapmml6phj549fajn4gszsmqai4kssh7wqp6fwjmiy";
+        }
+        {
+          path = ''tilr8_Rippler/mallet24.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet24.wav";
+          sha256 = "0ch56n7q3zk8zdkpgjhl2vpxk0hpp77055n4mj8pyj4rym9zx7yp";
+        }
+        {
+          path = ''tilr8_Rippler/mallet25.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet25.wav";
+          sha256 = "0zr07aacn0v1agfmb9wyjzvdkkw1wwirl7z63pyjjrhbnbhnrxmc";
+        }
+        {
+          path = ''tilr8_Rippler/mallet26.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet26.wav";
+          sha256 = "0wahjjmczyinmf7805kqdlc57vjn68rzvf1qcv0x4wa095lgmrnl";
+        }
+        {
+          path = ''tilr8_Rippler/mallet27.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet27.wav";
+          sha256 = "08871c1rb71ppdl4d3z8l90y35n9zq3bcbhiz4szipwpsf4nm9sq";
+        }
+        {
+          path = ''tilr8_Rippler/mallet28.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet28.wav";
+          sha256 = "0h4f30qhnb71hjg36yr9dmywn66qv5xdrs267f8kdwc69y3jkjnh";
+        }
+        {
+          path = ''tilr8_Rippler/mallet29.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet29.wav";
+          sha256 = "08b3qb2j0gly9jsjv5q873z8j613cc7vwrzmnfqf4gvx8rz8y53h";
+        }
+        {
+          path = ''tilr8_Rippler/mallet30.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet30.wav";
+          sha256 = "1i2z27k6xng774y7y7yvfkzpcaky9rdfsq29b5g86ngnk17xi275";
+        }
+        {
+          path = ''tilr8_Rippler/mallet31.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet31.wav";
+          sha256 = "1j412a7a4fn2f4y5lhmihh2flj8hb16r0m8rxmxnp1bwxklvcnnm";
+        }
+        {
+          path = ''tilr8_Rippler/mallet32.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet32.wav";
+          sha256 = "12a2fyq76kbi0wjp98sk5clwmi1hciwg0f96k2k4hxf74mbn8mxv";
+        }
+        {
+          path = ''tilr8_Rippler/mallet33.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet33.wav";
+          sha256 = "1wnawir29qd78chzmn1wpy0rfwja0lkbb47xxa71m64zl0g9gns6";
+        }
+        {
+          path = ''tilr8_Rippler/mallet34.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet34.wav";
+          sha256 = "0ii76hvsnjjkk6aa81a5p8784b2kbkw6lfyl5jm6nidn6iq9zd4m";
+        }
+        {
+          path = ''tilr8_Rippler/mallet35.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet35.wav";
+          sha256 = "02vhb56rfvrgvf4kz8dkwhwz5qz6q01b8zbn9arwyhj9f5v7kc95";
+        }
+        {
+          path = ''tilr8_Rippler/mallet36.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet36.wav";
+          sha256 = "1iw11azx2w9xxsacikgwdwkgsgb9pp2c0m7jnw9kp1157d7hkgmq";
+        }
+        {
+          path = ''tilr8_Rippler/mallet37.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet37.wav";
+          sha256 = "09py0jgg14pilg0nc5p2fm7h0qadz9q04nswhcyg7023zlr1wzy2";
+        }
+        {
+          path = ''tilr8_Rippler/mallet38.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet38.wav";
+          sha256 = "06w26nk97h7acmv86q30a7nzv9l0jgf6q4kqqvn6dbf8ljg3630w";
+        }
+        {
+          path = ''tilr8_Rippler/mallet39.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet39.wav";
+          sha256 = "163h1nf2sgx6z60qvnrgfqa1j2vz23marjr8fqy8xp8vvk2fjaf2";
+        }
+        {
+          path = ''tilr8_Rippler/mallet40.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet40.wav";
+          sha256 = "1x58my96nw932fi7fkcpgyj3q6v2fm9gnpd5dpb2phbavqnhryjg";
+        }
+        {
+          path = ''tilr8_Rippler/mallet41.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet41.wav";
+          sha256 = "04zfccb9qbmwiqxqilf30cwic1lsmn774xk38k5pjd376d0v33s1";
+        }
+        {
+          path = ''tilr8_Rippler/mallet42.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet42.wav";
+          sha256 = "164y5dgiq913c709xfwpbhl52mxhvll4izg5dr1inkq0c64prb32";
+        }
+        {
+          path = ''tilr8_Rippler/mallet43.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet43.wav";
+          sha256 = "1vw9f2ws9dq8hs4m4d9ibj4cadhgjhgyfbjg5z1shqg56a1acqs1";
+        }
+        {
+          path = ''tilr8_Rippler/mallet44.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet44.wav";
+          sha256 = "0axlfn1gsl3i5gwji2ni5slpilgkvw13dmjqcnid4nis2gwfd2zg";
+        }
+        {
+          path = ''tilr8_Rippler/mallet45.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet45.wav";
+          sha256 = "1kkfvd4mf9a6m99y1d3h9pdgdfgkxwgsqndrdq9q2bsvf6x8827h";
+        }
+        {
+          path = ''tilr8_Rippler/mallet46.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet46.wav";
+          sha256 = "0yd5fim28a2qya8ifib09qhj0y3bl8i1zxvm1i3i8fbvl8779l6n";
+        }
+        {
+          path = ''tilr8_Rippler/mallet47.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet47.wav";
+          sha256 = "0gl7714cikbwfy85hgw9xv3viff5sj6n7rqzgf8ll2dm0g5ss969";
+        }
+        {
+          path = ''tilr8_Rippler/mallet48.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet48.wav";
+          sha256 = "13v8rq9w4m3am9b8ggfip9srdsfipfw7sb0nd90iq1c2i90zlcsz";
+        }
+        {
+          path = ''tilr8_Rippler/mallet49.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet49.wav";
+          sha256 = "00brnqixjab3r0rcwb5k48yvfsschk3892w0lawzs7jqhn273sda";
+        }
+        {
+          path = ''tilr8_Rippler/mallet50.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/dee65d7df4469303bf5f3b5ead973800962624e1/Synth/tilr8_Rippler/mallet50.wav";
+          sha256 = "1l7kan1cdwi4g1i31bn2j3ndqpc36qmc49rbcj2v1y25p5rky1aa";
+        }
+      ];
+    };
+    rippler-jsfx-1-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "rippler-jsfx-1-1-0";
+      indexName = "Tilr";
+      categoryName = "Synth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/rippler.jsfx";
+          sha256 = "1al7i235rs6qznx31dypnvyv2y4k0h4507sg400ghziwl03lzg81";
+        }
+        {
+          path = ''rippler.jsfx.RPL'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/rippler.jsfx.RPL";
+          sha256 = "1kzb2xfm4fyr4a97by8fvdf2rn8y8zd77vh12b9wymcg6lb757r9";
+        }
+        {
+          path = ''rippler/logo.png'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/rippler/logo.png";
+          sha256 = "1nar2xc0k8chfnz6vsfkdmx2w3bkmx5a1miy6id5bm3hnw533qwd";
+        }
+        {
+          path = ''rippler/rippler.array.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/rippler/rippler.array.jsfx-inc";
+          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+        }
+        {
+          path = ''rippler/rippler.envlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/rippler/rippler.envlib.jsfx-inc";
+          sha256 = "1fvakggis4b8lw75l2dx0z4fixv3wjklm1m6xhc28l6995p1fzcm";
+        }
+        {
+          path = ''rippler/rippler.gfxlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/rippler/rippler.gfxlib.jsfx-inc";
+          sha256 = "115hkk62sbsi189m1ga34q3brbjz5jdld9cxmb8k2jjjk384mcvn";
+        }
+        {
+          path = ''rippler/rippler.modal.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/rippler/rippler.modal.jsfx-inc";
+          sha256 = "0ylsjap9h22jvg5hrkq7z4zjsz346cgw0g4qzzljl1wi016289da";
+        }
+        {
+          path = ''rippler/rippler.rbj_filter.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/rippler/rippler.rbj_filter.jsfx-inc";
+          sha256 = "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s";
+        }
+        {
+          path = ''tilr8_Rippler/mallet01.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet01.wav";
+          sha256 = "1gmb9xwwrmdfjqwyk7sbarl0vp97kpzafbnai0yq0mna8l8s6dj0";
+        }
+        {
+          path = ''tilr8_Rippler/mallet02.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet02.wav";
+          sha256 = "13qynpw4c3413b56jbcwkdj9qzw07s20cnc8p9037ldqz801sxmh";
+        }
+        {
+          path = ''tilr8_Rippler/mallet03.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet03.wav";
+          sha256 = "1varnh00vpq29s1ikiq509avdyz951bpwlpzg1aarx6ra6z5by6k";
+        }
+        {
+          path = ''tilr8_Rippler/mallet04.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet04.wav";
+          sha256 = "155vfphvqgfkbjlk2zkx1lkyjr9knfhf2kwmk7m8jhbydgj8mwvw";
+        }
+        {
+          path = ''tilr8_Rippler/mallet05.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet05.wav";
+          sha256 = "1478a8vf9cp68fm3l7310fk96mfkiq1v6ff0m4s9wfx1vj4bngs6";
+        }
+        {
+          path = ''tilr8_Rippler/mallet06.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet06.wav";
+          sha256 = "0jqb8sskrgdi2jxhj7bdqkw40ij0r9g7y1yzv6r2z4xllsvkg1ls";
+        }
+        {
+          path = ''tilr8_Rippler/mallet07.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet07.wav";
+          sha256 = "1dyjcppq6i3lh5li0shbb6dvp5ip1wb7q3n3ngl15i938jgkz07x";
+        }
+        {
+          path = ''tilr8_Rippler/mallet08.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet08.wav";
+          sha256 = "0m66jvm2hmz92sf52v4dfm3m68wda29ck7h5xp0f07vsndkpffx0";
+        }
+        {
+          path = ''tilr8_Rippler/mallet09.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet09.wav";
+          sha256 = "0rp7ymf5gmsywlfv50h5pq8i1v14lqfd93sd07mc6f9rbbdc77fy";
+        }
+        {
+          path = ''tilr8_Rippler/mallet10.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet10.wav";
+          sha256 = "08g8b6drh1hwnr679swhbr5p7hv3m5qwl0927bs00k2rmx1qvkrj";
+        }
+        {
+          path = ''tilr8_Rippler/mallet11.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet11.wav";
+          sha256 = "1nmz19841xs6akslqhhvnym579l9jlh5j8q082k8mzb2yv3aysmd";
+        }
+        {
+          path = ''tilr8_Rippler/mallet12.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet12.wav";
+          sha256 = "1mgdiy097b2799mnqc5gm5sla9cwn15ycizg23gg4nxm73qyn3h5";
+        }
+        {
+          path = ''tilr8_Rippler/mallet13.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet13.wav";
+          sha256 = "0z8x4gpsv5xwbzd93388jkrs5kwwzbyb4g6bvqfb67kbd04fjlbj";
+        }
+        {
+          path = ''tilr8_Rippler/mallet14.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet14.wav";
+          sha256 = "0g29sndss8p4fy56lv32scr2f5clk6zbyivg150pm3jy3rwr3dr0";
+        }
+        {
+          path = ''tilr8_Rippler/mallet15.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet15.wav";
+          sha256 = "0y56jq37pl512aygmi045mm2j9c8wwxvqlhqp1q04y9xslmxfbgs";
+        }
+        {
+          path = ''tilr8_Rippler/mallet16.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet16.wav";
+          sha256 = "1m589szymwvbvcaw80pksvv8kfkw9aaxrmj8ipsis93vdcy8dyvf";
+        }
+        {
+          path = ''tilr8_Rippler/mallet17.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet17.wav";
+          sha256 = "06xzypcz8vv96a94r8cc8g46vwpczzdxybdp624dvk285ll6fk71";
+        }
+        {
+          path = ''tilr8_Rippler/mallet18.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet18.wav";
+          sha256 = "1gmxvj13mh5sg1scq91wib7kd2pkqiy155cwj0ww83kd8j8y8kis";
+        }
+        {
+          path = ''tilr8_Rippler/mallet19.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet19.wav";
+          sha256 = "18c97za44a89bxqldqs4wm327kyxcy2qgkyfdim6sgyi9bi6n2qj";
+        }
+        {
+          path = ''tilr8_Rippler/mallet20.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet20.wav";
+          sha256 = "141xr6y4fjk609bnvk2swpnxd1d2mzxh958h7lw7kh6iyqmaixyi";
+        }
+        {
+          path = ''tilr8_Rippler/mallet21.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet21.wav";
+          sha256 = "177nrni8vlqdayxvjk76p99nj6xinmbl3d07gkj0jzn3mdaf58f7";
+        }
+        {
+          path = ''tilr8_Rippler/mallet22.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet22.wav";
+          sha256 = "1bgyj9jwna5r2jlymykc0i153cgqdbyf8jmmdvqv68gwxi3ksicy";
+        }
+        {
+          path = ''tilr8_Rippler/mallet23.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet23.wav";
+          sha256 = "0rrnsd8gxpfapmml6phj549fajn4gszsmqai4kssh7wqp6fwjmiy";
+        }
+        {
+          path = ''tilr8_Rippler/mallet24.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet24.wav";
+          sha256 = "0ch56n7q3zk8zdkpgjhl2vpxk0hpp77055n4mj8pyj4rym9zx7yp";
+        }
+        {
+          path = ''tilr8_Rippler/mallet25.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet25.wav";
+          sha256 = "0zr07aacn0v1agfmb9wyjzvdkkw1wwirl7z63pyjjrhbnbhnrxmc";
+        }
+        {
+          path = ''tilr8_Rippler/mallet26.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet26.wav";
+          sha256 = "0wahjjmczyinmf7805kqdlc57vjn68rzvf1qcv0x4wa095lgmrnl";
+        }
+        {
+          path = ''tilr8_Rippler/mallet27.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet27.wav";
+          sha256 = "08871c1rb71ppdl4d3z8l90y35n9zq3bcbhiz4szipwpsf4nm9sq";
+        }
+        {
+          path = ''tilr8_Rippler/mallet28.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet28.wav";
+          sha256 = "0h4f30qhnb71hjg36yr9dmywn66qv5xdrs267f8kdwc69y3jkjnh";
+        }
+        {
+          path = ''tilr8_Rippler/mallet29.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet29.wav";
+          sha256 = "08b3qb2j0gly9jsjv5q873z8j613cc7vwrzmnfqf4gvx8rz8y53h";
+        }
+        {
+          path = ''tilr8_Rippler/mallet30.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet30.wav";
+          sha256 = "1i2z27k6xng774y7y7yvfkzpcaky9rdfsq29b5g86ngnk17xi275";
+        }
+        {
+          path = ''tilr8_Rippler/mallet31.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet31.wav";
+          sha256 = "1j412a7a4fn2f4y5lhmihh2flj8hb16r0m8rxmxnp1bwxklvcnnm";
+        }
+        {
+          path = ''tilr8_Rippler/mallet32.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet32.wav";
+          sha256 = "12a2fyq76kbi0wjp98sk5clwmi1hciwg0f96k2k4hxf74mbn8mxv";
+        }
+        {
+          path = ''tilr8_Rippler/mallet33.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet33.wav";
+          sha256 = "1wnawir29qd78chzmn1wpy0rfwja0lkbb47xxa71m64zl0g9gns6";
+        }
+        {
+          path = ''tilr8_Rippler/mallet34.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet34.wav";
+          sha256 = "0ii76hvsnjjkk6aa81a5p8784b2kbkw6lfyl5jm6nidn6iq9zd4m";
+        }
+        {
+          path = ''tilr8_Rippler/mallet35.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet35.wav";
+          sha256 = "02vhb56rfvrgvf4kz8dkwhwz5qz6q01b8zbn9arwyhj9f5v7kc95";
+        }
+        {
+          path = ''tilr8_Rippler/mallet36.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet36.wav";
+          sha256 = "1iw11azx2w9xxsacikgwdwkgsgb9pp2c0m7jnw9kp1157d7hkgmq";
+        }
+        {
+          path = ''tilr8_Rippler/mallet37.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet37.wav";
+          sha256 = "09py0jgg14pilg0nc5p2fm7h0qadz9q04nswhcyg7023zlr1wzy2";
+        }
+        {
+          path = ''tilr8_Rippler/mallet38.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet38.wav";
+          sha256 = "06w26nk97h7acmv86q30a7nzv9l0jgf6q4kqqvn6dbf8ljg3630w";
+        }
+        {
+          path = ''tilr8_Rippler/mallet39.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet39.wav";
+          sha256 = "163h1nf2sgx6z60qvnrgfqa1j2vz23marjr8fqy8xp8vvk2fjaf2";
+        }
+        {
+          path = ''tilr8_Rippler/mallet40.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet40.wav";
+          sha256 = "1x58my96nw932fi7fkcpgyj3q6v2fm9gnpd5dpb2phbavqnhryjg";
+        }
+        {
+          path = ''tilr8_Rippler/mallet41.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet41.wav";
+          sha256 = "04zfccb9qbmwiqxqilf30cwic1lsmn774xk38k5pjd376d0v33s1";
+        }
+        {
+          path = ''tilr8_Rippler/mallet42.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet42.wav";
+          sha256 = "164y5dgiq913c709xfwpbhl52mxhvll4izg5dr1inkq0c64prb32";
+        }
+        {
+          path = ''tilr8_Rippler/mallet43.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet43.wav";
+          sha256 = "1vw9f2ws9dq8hs4m4d9ibj4cadhgjhgyfbjg5z1shqg56a1acqs1";
+        }
+        {
+          path = ''tilr8_Rippler/mallet44.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet44.wav";
+          sha256 = "0axlfn1gsl3i5gwji2ni5slpilgkvw13dmjqcnid4nis2gwfd2zg";
+        }
+        {
+          path = ''tilr8_Rippler/mallet45.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet45.wav";
+          sha256 = "1kkfvd4mf9a6m99y1d3h9pdgdfgkxwgsqndrdq9q2bsvf6x8827h";
+        }
+        {
+          path = ''tilr8_Rippler/mallet46.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet46.wav";
+          sha256 = "0yd5fim28a2qya8ifib09qhj0y3bl8i1zxvm1i3i8fbvl8779l6n";
+        }
+        {
+          path = ''tilr8_Rippler/mallet47.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet47.wav";
+          sha256 = "0gl7714cikbwfy85hgw9xv3viff5sj6n7rqzgf8ll2dm0g5ss969";
+        }
+        {
+          path = ''tilr8_Rippler/mallet48.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet48.wav";
+          sha256 = "13v8rq9w4m3am9b8ggfip9srdsfipfw7sb0nd90iq1c2i90zlcsz";
+        }
+        {
+          path = ''tilr8_Rippler/mallet49.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet49.wav";
+          sha256 = "00brnqixjab3r0rcwb5k48yvfsschk3892w0lawzs7jqhn273sda";
+        }
+        {
+          path = ''tilr8_Rippler/mallet50.wav'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/tilr8_Rippler/mallet50.wav";
+          sha256 = "1l7kan1cdwi4g1i31bn2j3ndqpc36qmc49rbcj2v1y25p5rky1aa";
+        }
+      ];
+    };
     tinyrec-jsfx-1-0-1 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "tinyrec-jsfx-1-0-1";
