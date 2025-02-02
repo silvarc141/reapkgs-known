@@ -29105,6 +29105,35 @@
         }
       ];
     };
+    saike-midi-arp-jsfx-0-42 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saike-midi-arp-jsfx-0-42";
+      indexName = "Saike Tools";
+      categoryName = "saike_midi_arp";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/79b9c9e9b25db95920d5c10c73d4e6801414441a/saike_midi_arp/saike_midi_arp.jsfx";
+          sha256 = "1v4s46x152awimx1mjxacgbkilxp1y9h5jsgp7106za4h3ijyfr9";
+        }
+        {
+          path = ''midi_arp_dependencies/saike_arp_midi_handling.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/79b9c9e9b25db95920d5c10c73d4e6801414441a/saike_midi_arp/midi_arp_dependencies/saike_arp_midi_handling.jsfx-inc";
+          sha256 = "185nv88wiwyn8b1zh59077b8aagav31p22a288hppqfw7abcsr6h";
+        }
+        {
+          path = ''midi_arp_dependencies/saike_midi_arp_gfx_funcs.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/79b9c9e9b25db95920d5c10c73d4e6801414441a/saike_midi_arp/midi_arp_dependencies/saike_midi_arp_gfx_funcs.jsfx-inc";
+          sha256 = "0ilp0xjixsqj1g59g4vpcwh6n1xs7rc48w6s4094k35f86wjfwwl";
+        }
+        {
+          path = ''midi_arp_dependencies/saike_midi_arp_pattern_handling.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/79b9c9e9b25db95920d5c10c73d4e6801414441a/saike_midi_arp/midi_arp_dependencies/saike_midi_arp_pattern_handling.jsfx-inc";
+          sha256 = "1jswzidp4vwfsyjbavlk1bla7zwwkbk41bm2q9j4ajdwggx3k8zh";
+        }
+      ];
+    };
     saikedrums-jsfx-0-01 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "saikedrums-jsfx-0-01";
@@ -35216,6 +35245,60 @@
         }
       ];
     };
+    sequencedfx-jsfx-0-126 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "sequencedfx-jsfx-0-126";
+      indexName = "Saike Tools";
+      categoryName = "SequencedFX";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/79b9c9e9b25db95920d5c10c73d4e6801414441a/SequencedFX/SequencedFX.jsfx";
+          sha256 = "0bcax4s5w7pid3g6zd0xy48sgy5l3d79qq21p9hj44qsjj46p5dd";
+        }
+        {
+          path = ''seqs_dependencies/saike_seqs_delays.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/79b9c9e9b25db95920d5c10c73d4e6801414441a/SequencedFX/seqs_dependencies/saike_seqs_delays.jsfx-inc";
+          sha256 = "0wli60z1b4cdqn3g537aajcm8s6j84yqlhvv9ypjz2p629bjcfjl";
+        }
+        {
+          path = ''seqs_dependencies/saike_seqs_envelope.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/79b9c9e9b25db95920d5c10c73d4e6801414441a/SequencedFX/seqs_dependencies/saike_seqs_envelope.jsfx-inc";
+          sha256 = "0yvnxmbm0dlf73k1mx7yz1jvcs2ac4cws3j5as1l8i64vwfdvly0";
+        }
+        {
+          path = ''seqs_dependencies/saike_seqs_filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/79b9c9e9b25db95920d5c10c73d4e6801414441a/SequencedFX/seqs_dependencies/saike_seqs_filters.jsfx-inc";
+          sha256 = "0b55nwclxp3bbp41v4mdwbyp42dkf7clr4d22l6zxhkn8h9x1x80";
+        }
+        {
+          path = ''seqs_dependencies/saike_seqs_interpolators.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/79b9c9e9b25db95920d5c10c73d4e6801414441a/SequencedFX/seqs_dependencies/saike_seqs_interpolators.jsfx-inc";
+          sha256 = "028r7a194pqpvla02r3xz84ik0rx0s1rfy5nrfkrm4950fhm48di";
+        }
+        {
+          path = ''seqs_dependencies/saike_seqs_midilib.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/79b9c9e9b25db95920d5c10c73d4e6801414441a/SequencedFX/seqs_dependencies/saike_seqs_midilib.jsfx-inc";
+          sha256 = "1x76kbsyd121m7gjjshmzsf61nyca1c4237ym2yrnr31vmb0r1j0";
+        }
+        {
+          path = ''seqs_dependencies/saike_seqs_pitchlib.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/79b9c9e9b25db95920d5c10c73d4e6801414441a/SequencedFX/seqs_dependencies/saike_seqs_pitchlib.jsfx-inc";
+          sha256 = "0nnla6mlli3vhx5kq4xzbfn3wsdss0r6f1mp5f5jslnh6miq9q7r";
+        }
+        {
+          path = ''seqs_dependencies/saike_seqs_widgetdata.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/79b9c9e9b25db95920d5c10c73d4e6801414441a/SequencedFX/seqs_dependencies/saike_seqs_widgetdata.jsfx-inc";
+          sha256 = "1gc0fgi7dh7rdsj6i1zjx5n2xav40g2986wn48pz1cfxxc87sw1l";
+        }
+        {
+          path = ''seqs_dependencies/saike_seqs_widgets.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/79b9c9e9b25db95920d5c10c73d4e6801414441a/SequencedFX/seqs_dependencies/saike_seqs_widgets.jsfx-inc";
+          sha256 = "1adc8d03s69yfjd1p89zkk90a339gcslz6kfvi1g5y68ap7434nl";
+        }
+      ];
+    };
     loadspectrum-lua-0-1 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "loadspectrum-lua-0-1";
@@ -36482,6 +36565,25 @@
         {
           path = ''colormaps.jsfx-inc'';
           url = "https://github.com/JoepVanlier/JSFX/raw/e96a3f887cf31d8ad85662cb950d6a4dcdcfa676/SpectrumAnalyzer/colormaps.jsfx-inc";
+          sha256 = "04blg31f16jwx9yzq6nr6lvvnpvbr9gw4xqr2asgr2i8ap27lfvz";
+        }
+      ];
+    };
+    saikemultispectralanalyzer-jsfx-5-0-40 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saikemultispectralanalyzer-jsfx-5-0-40";
+      indexName = "Saike Tools";
+      categoryName = "SpectrumAnalyzer";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/5e2ee6c42068b9086ab865c7fa4f482c2049f215/SpectrumAnalyzer/SaikeMultiSpectralAnalyzer.jsfx";
+          sha256 = "0s5dlr1insc7a7hbkv3bpzrvsm7jni1yz9f2jfypw427z453ssyz";
+        }
+        {
+          path = ''colormaps.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/5e2ee6c42068b9086ab865c7fa4f482c2049f215/SpectrumAnalyzer/colormaps.jsfx-inc";
           sha256 = "04blg31f16jwx9yzq6nr6lvvnpvbr9gw4xqr2asgr2i8ap27lfvz";
         }
       ];
@@ -46726,6 +46828,100 @@
         {
           path = ''Saike_Yutani.jsfx.rpl'';
           url = "https://github.com/JoepVanlier/JSFX/raw/1e972149df86bd69cc3fab52af855f29aaf16021/Yutani/Saike_Yutani.jsfx.rpl";
+          sha256 = "0lcwqm0idjlp327h0zp3c6kj68wxhp0vp8j06qzij9g5azx6b00m";
+        }
+      ];
+    };
+    saike-yutani-jsfx-0-102 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saike-yutani-jsfx-0-102";
+      indexName = "Saike Tools";
+      categoryName = "Yutani";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Saike_Yutani.jsfx";
+          sha256 = "0khwskn3l09w88n0ckz3qi644pvgd9jf72jsskw11s4bzq3bbzdr";
+        }
+        {
+          path = ''Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc";
+          sha256 = "1s92d6sbadblprn581nsp2s3dbzxn85kxmlnpnifvjwcqqp4c4qi";
+        }
+        {
+          path = ''Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc";
+          sha256 = "0bs6swr2zi78shp31iyyjgsxh7ij3kp72mfc536l200ipw1gd8l3";
+        }
+        {
+          path = ''Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc";
+          sha256 = "0akl9qwwk2gc09qlc92pkc6j2l4k6kjb66n203y33pxn6lq3ndmq";
+        }
+        {
+          path = ''Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc";
+          sha256 = "0kf6awcdilip14n8hajk2m6chix8wkpdfygz24pjwncj1h18qza2";
+        }
+        {
+          path = ''Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc";
+          sha256 = "1rsmdc64bxm7q9yhwsrn5pcg741ws9bijvg8c2va31rn6w7s4i74";
+        }
+        {
+          path = ''Yutani_Dependencies/Saike_Yutani_WT.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Yutani_Dependencies/Saike_Yutani_WT.jsfx-inc";
+          sha256 = "13y5ivxi4n8vj5znmszpncgdvhq0956plxgbn3r883py8ravrxqw";
+        }
+        {
+          path = ''Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc";
+          sha256 = "0s74hzakjcm2mpxc3kihsn8m5cwfii452bs6qnk95wdssaqiic03";
+        }
+        {
+          path = ''Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc";
+          sha256 = "0fg9pprn2zfgix3k57r27fr0l4y8742dq5crkk7014xhd1xjdfsx";
+        }
+        {
+          path = ''Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc";
+          sha256 = "0fwsjmx0390fl0njn1ggf30bqsbvcgfqzdjf5jm7cfvyyn20w8pd";
+        }
+        {
+          path = ''Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc";
+          sha256 = "0rq4ch49p9fjng3758frw1kfplb334k4w9ixaf6g10a4qlyrk180";
+        }
+        {
+          path = ''Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc";
+          sha256 = "06sajdhy9lf3ifz79w1kw13a1w2iqa5iv2slpc8hvrgc3fqxxgsg";
+        }
+        {
+          path = ''Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc";
+          sha256 = "0rhsh4kv8aq275hsfz1baalsn3hggy82djihc880ki0vww3v6m62";
+        }
+        {
+          path = ''Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc";
+          sha256 = "1gc0fgi7dh7rdsj6i1zjx5n2xav40g2986wn48pz1cfxxc87sw1l";
+        }
+        {
+          path = ''Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc";
+          sha256 = "0iz8paym03wpp58hkky2rkpwfcwdrd2vnil56hglypjbxq9031hr";
+        }
+        {
+          path = ''bass_presets.rpl'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/bass_presets.rpl";
+          sha256 = "1q5q19dj6w07yb4d2kcf50riwxm58jji9bsbmwjxj8m7vkp9ih8c";
+        }
+        {
+          path = ''Saike_Yutani.jsfx.rpl'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/9513c5bba4c65ff969e0a5b3ae5b25938c87ea62/Yutani/Saike_Yutani.jsfx.rpl";
           sha256 = "0lcwqm0idjlp327h0zp3c6kj68wxhp0vp8j06qzij9g5azx6b00m";
         }
       ];

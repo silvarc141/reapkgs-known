@@ -2343,6 +2343,20 @@
         }
       ];
     };
+    x-raym-list-installed-fx-according-to-their-installation-order-reaimgui-lua-0-2-4 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-list-installed-fx-according-to-their-installation-order-reaimgui-lua-0-2-4";
+      indexName = "X-Raym Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/daf57ad206831930911ad4e616e947af394ea100/FX/X-Raym_List%20installed%20FX%20according%20to%20their%20installation%20order_ReaImGui.lua";
+          sha256 = "0w4q1949dygjfi2n6n0qrcclwn591s848vg1x2flmb0jmnnxzgyy";
+        }
+      ];
+    };
     x-raym-propagate-last-focused-fx-parameters-values-but-bypass-to-similarly-named-fx-on-child-tracks-real-time-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-propagate-last-focused-fx-parameters-values-but-bypass-to-similarly-named-fx-on-child-tracks-real-time-lua-1-0";
@@ -4849,6 +4863,20 @@
         }
       ];
     };
+    x-raym-delete-take-markers-outside-of-selected-items-boundaries-lua-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-delete-take-markers-outside-of-selected-items-boundaries-lua-1-0-1";
+      indexName = "X-Raym Scripts";
+      categoryName = "Items Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bf712bdbf90ecef5fa8a11976fed9250f5909050/Items%20Properties/X-Raym_Delete%20take%20markers%20outside%20of%20selected%20items%20boundaries.lua";
+          sha256 = "05wc28lxra41wsv74kp849x48imnd5fzhkaphiql19ja7vaxqyc2";
+        }
+      ];
+    };
     x-raym-display-list-of-selected-media-items-active-take-names-in-the-console-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-display-list-of-selected-media-items-active-take-names-in-the-console-lua-1-0";
@@ -5210,6 +5238,20 @@
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/19ef53aa4bf1c11f4076b9eef1e5cec9f1fe3ad3/Items%20Properties/X-Raym_Move%20selected%20items%20to%20named%20tracks_ReaImGui.lua";
           sha256 = "04hfrip52g8nhqyw1k0m02pgjy97bx42byn6vdxq7693qjs0qm82";
+        }
+      ];
+    };
+    x-raym-move-selected-items-to-named-tracks-reaimgui-lua-1-1-6 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-move-selected-items-to-named-tracks-reaimgui-lua-1-1-6";
+      indexName = "X-Raym Scripts";
+      categoryName = "Items Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/daf57ad206831930911ad4e616e947af394ea100/Items%20Properties/X-Raym_Move%20selected%20items%20to%20named%20tracks_ReaImGui.lua";
+          sha256 = "1kg4m2v5vfvk77aw5jbahamb266x1xf8r0ajx7ch40a61lbi015d";
         }
       ];
     };
@@ -6932,6 +6974,20 @@
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/19ef53aa4bf1c11f4076b9eef1e5cec9f1fe3ad3/Items%20Properties/X-Raym_Take%20FX%20list_ReaImGui.lua";
           sha256 = "07gg201m5qwq8rcqc1nr9x5bkkh7jrminn2jlmm52cwnxng45xph";
+        }
+      ];
+    };
+    x-raym-take-fx-list-reaimgui-lua-1-1-6 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-take-fx-list-reaimgui-lua-1-1-6";
+      indexName = "X-Raym Scripts";
+      categoryName = "Items Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/daf57ad206831930911ad4e616e947af394ea100/Items%20Properties/X-Raym_Take%20FX%20list_ReaImGui.lua";
+          sha256 = "1n72pc12k8p0y4jxxza44x8qq6q8psns6w8avw8fanpaa5lh0qnm";
         }
       ];
     };
@@ -12823,6 +12879,20 @@
         }
       ];
     };
+    x-raym-theme-color-tweaker-reaimgui-lua-0-7-5 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-theme-color-tweaker-reaimgui-lua-0-7-5";
+      indexName = "X-Raym Scripts";
+      categoryName = "Theme";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/daf57ad206831930911ad4e616e947af394ea100/Theme/X-Raym_Theme%20color%20tweaker_ReaImGui.lua";
+          sha256 = "1mrq7z1rzl5m5l52aibfhimwn4pyhharkdgmqivf78r1zac0iaxi";
+        }
+      ];
+    };
     x-raym-change-last-touched-track-layout-background-lua-2-1-2 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-change-last-touched-track-layout-background-lua-2-1-2";
@@ -16045,6 +16115,20 @@
         }
       ];
     };
+    x-raym-lua-pattern-viewer-reaimgui-lua-1-1-6 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-lua-pattern-viewer-reaimgui-lua-1-1-6";
+      indexName = "X-Raym Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/daf57ad206831930911ad4e616e947af394ea100/Various/X-Raym_Lua%20pattern%20viewer_ReaImGui.lua";
+          sha256 = "09g5d7g5kpy9l3yvq9wg5rmrv6h311bbgwl3xw73snzqk9y4xw3k";
+        }
+      ];
+    };
     x-raym-move-edit-cursor-to-time-0-or-to-project-start-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-move-edit-cursor-to-time-0-or-to-project-start-lua-1-0";
@@ -16711,6 +16795,20 @@
         }
       ];
     };
+    x-raym-state-chunk-editor-reaimgui-lua-1-0-7 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-state-chunk-editor-reaimgui-lua-1-0-7";
+      indexName = "X-Raym Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/daf57ad206831930911ad4e616e947af394ea100/Various/X-Raym_State%20chunk%20editor_ReaImGui.lua";
+          sha256 = "1j9rhvzfq7whagp9qc905kgpipwx297zh123qykwzi4pid2xq544";
+        }
+      ];
+    };
     x-raym-toggle-sonarworks-soundid-monitor-fx-instance-calibration-state-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-toggle-sonarworks-soundid-monitor-fx-instance-calibration-state-lua-1-0";
@@ -16820,6 +16918,20 @@
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/19ef53aa4bf1c11f4076b9eef1e5cec9f1fe3ad3/Various/X-Raym_XR%20ReaImGui%20Themer_ReaImGui.lua";
           sha256 = "1p6ljj2wnfgz04kv7jrpd06cya9kzjd3gngnxr0mcjc4v4hf4z3w";
+        }
+      ];
+    };
+    x-raym-xr-reaimgui-themer-reaimgui-lua-0-1-5 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-xr-reaimgui-themer-reaimgui-lua-0-1-5";
+      indexName = "X-Raym Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/daf57ad206831930911ad4e616e947af394ea100/Various/X-Raym_XR%20ReaImGui%20Themer_ReaImGui.lua";
+          sha256 = "0ldnyg0hlmprzkdggi5d2ghkpbp79xw4wi7i4wkmgzy66dp14m0y";
         }
       ];
     };

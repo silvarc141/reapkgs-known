@@ -7019,6 +7019,20 @@
         }
       ];
     };
+    mpl-instrumentrack-lua-2-08 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-instrumentrack-lua-2-08";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b3d9bc5324cbad7a74fc0dbf204f1ec1cd9a61fb/FX/mpl_InstrumentRack.lua";
+          sha256 = "1qdrlbrna7fniq9lk7j0wr65mc9ym6rk7s7w72n1bfbch8mr7kcq";
+        }
+      ];
+    };
     mpl-learneditor-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-learneditor-lua-1-0";
@@ -17080,45 +17094,17 @@
         }
       ];
     };
-    mpl-duplicate-items-bar-relative-lua-1-0 = mkReapackPackage {
+    mpl-duplicate-items-bar-relative-lua-2-01 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "mpl-duplicate-items-bar-relative-lua-1-0";
+      name = "mpl-duplicate-items-bar-relative-lua-2-01";
       indexName = "MPL Scripts";
       categoryName = "Items Editing";
       packageType = "script";
       sources = [
         {
           path = '''';
-          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5421bf17b1a5e149d05c96cfd7fb3d9227cbd521/Items%20Editing/mpl_Duplicate%20items%20bar%20relative.lua";
-          sha256 = "1ss6d54ipsfmfrycad5i2jlsd9g1a45d6mrzn8fspx39fff3i8aw";
-        }
-      ];
-    };
-    mpl-duplicate-items-bar-relative-lua-1-01 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "mpl-duplicate-items-bar-relative-lua-1-01";
-      indexName = "MPL Scripts";
-      categoryName = "Items Editing";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/3a2158fb623c3c6be3aa95aaa02cfdd9ff4ad854/Items%20Editing/mpl_Duplicate%20items%20bar%20relative.lua";
-          sha256 = "1ldlzfwp96h710npvrvjybz09rrg6p8iqjyqnkdc36x8vbhhy3a3";
-        }
-      ];
-    };
-    mpl-duplicate-items-bar-relative-lua-2-0 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "mpl-duplicate-items-bar-relative-lua-2-0";
-      indexName = "MPL Scripts";
-      categoryName = "Items Editing";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/ba956ac967db6d528a77a51c6c72b7d022307c46/Items%20Editing/mpl_Duplicate%20items%20bar%20relative.lua";
-          sha256 = "0si3ajky57dyjhhy779nm54vw3sjcdvj093nqidi761s8p5aw1b1";
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/4117446d35fbf7596b5bd483f370b5742a189e57/Items%20Editing/mpl_Duplicate%20items%20bar%20relative.lua";
+          sha256 = "0vshilp3i3vdjp9vw1bf4n4kggrz3nas6hvcrnv0bv2bdb6f88cl";
         }
       ];
     };
@@ -18785,6 +18771,25 @@
         {
           path = ''mpl_Notification, set track volume changed.lua'';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/43547016e55d1c01fc92874cc2036d0409b9e5f0/Meta/mpl_Notification,%20set%20track%20volume%20changed.lua";
+          sha256 = "0m7svga80jwfa753kq9821jlpnv3cr0imw9bjgjnr6zxw1ig0xc2";
+        }
+      ];
+    };
+    mpl-notification-lua-1-10 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-notification-lua-1-10";
+      indexName = "MPL Scripts";
+      categoryName = "Meta";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c98391d233e5a393fe755bde4ea2c90d8420d80f/Meta/mpl_Notification.lua";
+          sha256 = "13pd2p0b5wl5v62q1jvvv6f35ix8vpw772smw6klld7gi6x73ra7";
+        }
+        {
+          path = ''mpl_Notification, set track volume changed.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c98391d233e5a393fe755bde4ea2c90d8420d80f/Meta/mpl_Notification,%20set%20track%20volume%20changed.lua";
           sha256 = "0m7svga80jwfa753kq9821jlpnv3cr0imw9bjgjnr6zxw1ig0xc2";
         }
       ];
@@ -27802,6 +27807,34 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Tracks%20Properties/mpl_Toggle%20MIDI%20hardware%20output%20by%20name%20(UMC).lua";
           sha256 = "0r412dpb4lf6nzbvf3aycfa5qg6izg9cyxzqc3lm2dpp92hcilhz";
+        }
+      ];
+    };
+    mpl-toggle-mute-drums-group-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-toggle-mute-drums-group-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Tracks Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/236ccb42c589e8a999e30a5315bca0391efcfae0/Tracks%20Properties/mpl_Toggle%20mute%20Drums%20group.lua";
+          sha256 = "1wwpg8hipbcracv7rhaszp6if31xsyl2abhv9zfdbd6r53wd6r5y";
+        }
+      ];
+    };
+    mpl-toggle-mute-vocal-group-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-toggle-mute-vocal-group-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Tracks Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/236ccb42c589e8a999e30a5315bca0391efcfae0/Tracks%20Properties/mpl_Toggle%20mute%20Vocal%20group.lua";
+          sha256 = "1izdfhdgapiny9n2mfb2g554bxcp1h35ai8rkckb3xk3885r6y94";
         }
       ];
     };
@@ -38612,6 +38645,20 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/f246fee125fd8813a29662494e3b39c519f114a1/Various/mpl_Quantize%20Tool.lua";
           sha256 = "1nsgi4nxvf04bq4jdkj2islhirvd13r3f249nfsxc9yp4njpl769";
+        }
+      ];
+    };
+    mpl-quantize-tool-lua-4-05 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-quantize-tool-lua-4-05";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/3a485899df4b2691990cd48524be340a8381cd10/Various/mpl_Quantize%20Tool.lua";
+          sha256 = "0msqj5c5qdwh0ag03df2lm7jwxy4z3188kp1pkxcmmqrvad6zbzr";
         }
       ];
     };

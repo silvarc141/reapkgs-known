@@ -29,7 +29,7 @@
         {
           path = '''';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/3a64b41837b2b92c0ea4982a40321d046882e453/Markers/Locate%20to%20marker.lua";
-          sha256 = "";
+          sha256 = "0j9c78kzrp8jilws28aa1wj80q70dskz9mjn8y0l6si8a4810hi0";
         }
       ];
     };
@@ -104,7 +104,7 @@
         {
           path = '''';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/00cef1e4b944f1562e5e07c146825bad77d18e2e/Miscellaneous/VCA%20Assign%20Template.lua";
-          sha256 = "";
+          sha256 = "06nl68mn77pj0s409fmm1bp3a4hz21gi94v7qh9b1sqf7zss60wh";
         }
       ];
     };
@@ -132,7 +132,7 @@
         {
           path = '''';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/00cef1e4b944f1562e5e07c146825bad77d18e2e/Recording/Arm%20All%20Tracks%20Within%20Folders.lua";
-          sha256 = "";
+          sha256 = "1bxjv9ivbsylizg6niqqj69cqsl94ac6jkqf867nk34ccys5sq1x";
         }
       ];
     };
@@ -184,17 +184,17 @@
         {
           path = ''Rec arm all tracks within folders.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Recording/Arm%20All%20Tracks%20Within%20Folders.lua";
-          sha256 = "";
+          sha256 = "06rd594l8jngvgb41a0rcly8vhl4ia24i7sdbdd58v6bl4wrmwdg";
         }
         {
           path = ''Rec disarm tracks within folders.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Recording/Arm%20All%20Tracks%20Within%20Folders.lua";
-          sha256 = "";
+          sha256 = "06rd594l8jngvgb41a0rcly8vhl4ia24i7sdbdd58v6bl4wrmwdg";
         }
         {
           path = ''Rec toggle tracks within folders.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Recording/Arm%20All%20Tracks%20Within%20Folders.lua";
-          sha256 = "";
+          sha256 = "06rd594l8jngvgb41a0rcly8vhl4ia24i7sdbdd58v6bl4wrmwdg";
         }
       ];
     };
@@ -280,7 +280,7 @@
         {
           path = '''';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/00cef1e4b944f1562e5e07c146825bad77d18e2e/Recording/Arm%20Tracks%20For%20Recording.lua";
-          sha256 = "";
+          sha256 = "1yaivsygs5mmc66b39v1hxlav2k89n3xjxz50cikma9jj2zm82k1";
         }
       ];
     };
@@ -322,17 +322,17 @@
         {
           path = ''bsmith96_Rec arm tracks within selected folder.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/41660f6cfeb372f81a00e1eb98c7dd3bb9277030/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua";
-          sha256 = "";
+          sha256 = "084zd420g5g66dai1n1l8p66207mza8cd7r89sbfcga0x8q6lham";
         }
         {
           path = ''bsmith96_Rec disarm tracks within selected folder.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/41660f6cfeb372f81a00e1eb98c7dd3bb9277030/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua";
-          sha256 = "";
+          sha256 = "084zd420g5g66dai1n1l8p66207mza8cd7r89sbfcga0x8q6lham";
         }
         {
           path = ''bsmith96_Rec toggle tracks within selected folder.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/41660f6cfeb372f81a00e1eb98c7dd3bb9277030/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua";
-          sha256 = "";
+          sha256 = "084zd420g5g66dai1n1l8p66207mza8cd7r89sbfcga0x8q6lham";
         }
       ];
     };
@@ -370,17 +370,17 @@
         {
           path = ''bsmith96_Rec arm tracks within selected folder.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/37e554954f109b916a3e41bdaa5588e59f687208/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua";
-          sha256 = "";
+          sha256 = "0cnsd0y01x5dc4xm76hc5j0r1kwrm29kwpm9fsqj44b9bibcny0r";
         }
         {
           path = ''bsmith96_Rec disarm tracks within selected folder.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/37e554954f109b916a3e41bdaa5588e59f687208/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua";
-          sha256 = "";
+          sha256 = "0cnsd0y01x5dc4xm76hc5j0r1kwrm29kwpm9fsqj44b9bibcny0r";
         }
         {
           path = ''bsmith96_Rec toggle tracks within selected folder.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/37e554954f109b916a3e41bdaa5588e59f687208/Recording/Arm%20Tracks%20Within%20Selected%20Folder.lua";
-          sha256 = "";
+          sha256 = "0cnsd0y01x5dc4xm76hc5j0r1kwrm29kwpm9fsqj44b9bibcny0r";
         }
       ];
     };
@@ -490,17 +490,17 @@
         {
           path = ''bsmith96_Set track inputs 1-to-1.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Routing/Set%20track%20inputs%201-to-1.lua";
-          sha256 = "";
+          sha256 = "1i5pmhg9wwiyy7a4j2f76ip9da25hwzhp8qi67qp7svdwymvrkhk";
         }
         {
           path = ''bsmith96_Set track inputs 1-to-1 for selected tracks.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Routing/Set%20track%20inputs%201-to-1.lua";
-          sha256 = "";
+          sha256 = "1i5pmhg9wwiyy7a4j2f76ip9da25hwzhp8qi67qp7svdwymvrkhk";
         }
         {
           path = ''bsmith96_Set track inputs 1-to-1 ignoring folders.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Routing/Set%20track%20inputs%201-to-1.lua";
-          sha256 = "";
+          sha256 = "1i5pmhg9wwiyy7a4j2f76ip9da25hwzhp8qi67qp7svdwymvrkhk";
         }
       ];
     };
@@ -538,17 +538,17 @@
         {
           path = ''bsmith96_Set track inputs 1-to-1.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/f9b88968ebc2028ab2d54d1ea53defb72a65318f/Routing/Set%20track%20inputs%201-to-1.lua";
-          sha256 = "";
+          sha256 = "02ii9p19q5kwn09xsnpas5qhbvklzsnlbrkx9lz563h7w1r39zfg";
         }
         {
           path = ''bsmith96_Set track inputs 1-to-1 for selected tracks.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/f9b88968ebc2028ab2d54d1ea53defb72a65318f/Routing/Set%20track%20inputs%201-to-1.lua";
-          sha256 = "";
+          sha256 = "02ii9p19q5kwn09xsnpas5qhbvklzsnlbrkx9lz563h7w1r39zfg";
         }
         {
           path = ''bsmith96_Set track inputs 1-to-1 ignoring folders.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/f9b88968ebc2028ab2d54d1ea53defb72a65318f/Routing/Set%20track%20inputs%201-to-1.lua";
-          sha256 = "";
+          sha256 = "02ii9p19q5kwn09xsnpas5qhbvklzsnlbrkx9lz563h7w1r39zfg";
         }
       ];
     };
@@ -586,17 +586,17 @@
         {
           path = '''';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Routing/Set%20track%20outputs%201-to-1.lua";
-          sha256 = "";
+          sha256 = "0lic4ig3cjx4bh7rp1vh4kphf9ys377fsb2lnvi1r55y3iyvxy2s";
         }
         {
           path = ''Set track outputs 1-to-1 for selected tracks.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Routing/Set%20track%20outputs%201-to-1.lua";
-          sha256 = "";
+          sha256 = "0lic4ig3cjx4bh7rp1vh4kphf9ys377fsb2lnvi1r55y3iyvxy2s";
         }
         {
           path = ''Set track outputs 1-to-1 ignoring folders.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Routing/Set%20track%20outputs%201-to-1.lua";
-          sha256 = "";
+          sha256 = "0lic4ig3cjx4bh7rp1vh4kphf9ys377fsb2lnvi1r55y3iyvxy2s";
         }
       ];
     };
@@ -634,17 +634,17 @@
         {
           path = ''bsmith96_Set track outputs 1-to-1.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua";
-          sha256 = "";
+          sha256 = "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640";
         }
         {
           path = ''bsmith96_Set track outputs 1-to-1 for selected tracks.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua";
-          sha256 = "";
+          sha256 = "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640";
         }
         {
           path = ''bsmith96_Set track outputs 1-to-1 ignoring folders.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/698f61299fd52112f082a316c98fe974b25f252e/Routing/Set%20track%20outputs%201-to-1.lua";
-          sha256 = "";
+          sha256 = "0avjbgdxnclp12rimgrzd94xsfj9xki8nvkni7nvkp3wh9gzz640";
         }
       ];
     };
@@ -672,7 +672,7 @@
         {
           path = '''';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/3a64b41837b2b92c0ea4982a40321d046882e453/Routing/Toggle%20routing%20and%20solo%20to%20master.lua";
-          sha256 = "";
+          sha256 = "03zsdn3iclk43cdxcrp7inp1sq11yixz65wmkgzfzk3whm8329ax";
         }
       ];
     };
@@ -700,7 +700,7 @@
         {
           path = ''bsmith96_Toggle routing and solo to master.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Routing/Toggle%20routing%20and%20solo%20to%20master.lua";
-          sha256 = "";
+          sha256 = "0w5fjr5d2f57xy1hf256s60w45lmdsdxrqrchyy13mhsdv8c3rm2";
         }
       ];
     };
@@ -714,7 +714,7 @@
         {
           path = ''bsmith96_Toggle routing and solo to master.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/2c986f5b1b8bb94675c90a61a76be1b3c84ae14e/Routing/Toggle%20routing%20and%20solo%20to%20master.lua";
-          sha256 = "";
+          sha256 = "1187vvbhifm5j4dnxcnpw1zn190plva2a1x44a912g0a9z8whpnd";
         }
       ];
     };
@@ -728,12 +728,12 @@
         {
           path = ''Explode multichannel audio files into folder.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/4d9ef71f5310434c551a90d2e387507e9b82582e/Tracks/Explode%20multichannel%20audio%20files.lua";
-          sha256 = "";
+          sha256 = "1krb5sbfbvrk6kmf3wgry8qphcms2jc7hyz0c6yvcxr3qlc5dr3j";
         }
         {
           path = '''';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/4d9ef71f5310434c551a90d2e387507e9b82582e/Tracks/Explode%20multichannel%20audio%20files.lua";
-          sha256 = "";
+          sha256 = "1krb5sbfbvrk6kmf3wgry8qphcms2jc7hyz0c6yvcxr3qlc5dr3j";
         }
       ];
     };
@@ -771,17 +771,17 @@
         {
           path = ''Explode multichannel audio files into folder.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/1f0808c76185a1b61d47b9f89be97e9630844a56/Tracks/Explode%20multichannel%20audio%20files.lua";
-          sha256 = "";
+          sha256 = "0qnbwxf8n82qlc683y00nrgh1sgcijg0aqvq97i35zwbb0q0nk9r";
         }
         {
           path = ''Explode multichannel audio files into new tracks.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/1f0808c76185a1b61d47b9f89be97e9630844a56/Tracks/Explode%20multichannel%20audio%20files.lua";
-          sha256 = "";
+          sha256 = "0qnbwxf8n82qlc683y00nrgh1sgcijg0aqvq97i35zwbb0q0nk9r";
         }
         {
           path = ''Explode multichannel audio files into existing tracks.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/1f0808c76185a1b61d47b9f89be97e9630844a56/Tracks/Explode%20multichannel%20audio%20files.lua";
-          sha256 = "";
+          sha256 = "0qnbwxf8n82qlc683y00nrgh1sgcijg0aqvq97i35zwbb0q0nk9r";
         }
       ];
     };
@@ -843,17 +843,17 @@
         {
           path = ''Explode multichannel audio files into folder.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Tracks/Explode%20multichannel%20audio%20files.lua";
-          sha256 = "";
+          sha256 = "11cxf8z16wrzg2f45q4zqzczc65kx44lrz7dcm9ch2c24y27gmzs";
         }
         {
           path = ''Explode multichannel audio files into new tracks.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Tracks/Explode%20multichannel%20audio%20files.lua";
-          sha256 = "";
+          sha256 = "11cxf8z16wrzg2f45q4zqzczc65kx44lrz7dcm9ch2c24y27gmzs";
         }
         {
           path = ''Explode multichannel audio files into existing tracks.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/79898638a491825e90c7a8bda79021fd2345d3a1/Tracks/Explode%20multichannel%20audio%20files.lua";
-          sha256 = "";
+          sha256 = "11cxf8z16wrzg2f45q4zqzczc65kx44lrz7dcm9ch2c24y27gmzs";
         }
       ];
     };
@@ -867,17 +867,17 @@
         {
           path = ''bsmith96_Explode multichannel audio files into folder.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Tracks/Explode%20multichannel%20audio%20files.lua";
-          sha256 = "1kyn6555xciwciz3bccyc69qhnrad42z5pzx7mbra06c0m04byxg";
+          sha256 = "1crxxrqa7b38wwxfpriidhsfqlfln0wr4a79zwk94h3jshqsn1q4";
         }
         {
           path = ''bsmith96_Explode multichannel audio files into new tracks.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Tracks/Explode%20multichannel%20audio%20files.lua";
-          sha256 = "1kyn6555xciwciz3bccyc69qhnrad42z5pzx7mbra06c0m04byxg";
+          sha256 = "1crxxrqa7b38wwxfpriidhsfqlfln0wr4a79zwk94h3jshqsn1q4";
         }
         {
           path = ''bsmith96_Explode multichannel audio files into existing tracks.lua'';
           url = "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Tracks/Explode%20multichannel%20audio%20files.lua";
-          sha256 = "1kyn6555xciwciz3bccyc69qhnrad42z5pzx7mbra06c0m04byxg";
+          sha256 = "1crxxrqa7b38wwxfpriidhsfqlfln0wr4a79zwk94h3jshqsn1q4";
         }
       ];
     };

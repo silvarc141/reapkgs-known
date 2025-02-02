@@ -43,7 +43,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/ab0a6d1a13f518f21855a20e8d7d9b21f34ba442/Envelopes/Suzuki_Toggle%20show%20hide%20visible%20envelope%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua";
-          sha256 = "19qi8w0v122nss3dg4l0rsyfwa8ahk9bhf7dv44fnibis6afi23d";
+          sha256 = "107kcac9s6v41i4i6rpd644zlgpz1pk64bg96w6gq6kycna58r85";
         }
       ];
     };
@@ -2752,7 +2752,7 @@
         {
           path = ''Modules/General Functions.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/acb002955d37ee73c89553ce63a24575fa4a553a/ReaDrum%20Machine/Modules/General%20Functions.lua";
-          sha256 = "0xsxnzha1ad1763mn47rylv4zvm0581f232d9lj2prd56axkb30n";
+          sha256 = "1vy7aa81rvl9xljsihc6fybkgqj12664f19b0lcnyhdv2y9h1hsq";
         }
         {
           path = ''Modules/Pad Actions.lua'';
@@ -2984,7 +2984,7 @@
         {
           path = ''Modules/FX List.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/585ba4596ad975c7d5af4684a7af3c04238c7e90/ReaDrum%20Machine/Modules/FX%20List.lua";
-          sha256 = "1kyr5n98xxy9v1pjhvvvcn1wbhkz6j8vvsnv3zdncawgql9asgnl";
+          sha256 = "03y5w8674na3xzwvf9qyc3amg5pmilyssfarzj19g0aszll9bl93";
         }
         {
           path = ''Modules/General Functions.lua'';
@@ -5417,7 +5417,7 @@
         {
           path = ''Suzuki_ReaDrum_Machine_Instruments_Rack_(Scrollable Layout).lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/3392ca9b8806ee9f6ddc0b1d87edc7bb0c0fbd04/ReaDrum%20Machine/Suzuki_ReaDrum_Machine_Instruments_Rack_(Scrollable%20Layout).lua";
-          sha256 = "06l6331ql1lydkwfvr4jbkr82c0ay48qm8kwvvhb6hid542n8qsi";
+          sha256 = "0xsn8z6yhr1br30lk8rgvg1fij4c9p57g4llpqbf7png0fc7c7wi";
         }
         {
           path = ''Scripts/Suzuki_Replace old RDM midi note filter with new RDM midi utility.lua'';
@@ -5713,7 +5713,7 @@
         {
           path = ''Modules/DragNDrop.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/75f5d70d8ac53a8da8e67f1daf58b768902b1436/ReaDrum%20Machine/Modules/DragNDrop.lua";
-          sha256 = "00l0n47zvwl9pxlqg75x24c80vz5yifvx3crp3532nryh1f10ly2";
+          sha256 = "0jkpldmss7szvxs5q1zdrdjf4j82l9nxrjri5wj7nzc1fbfj98a8";
         }
         {
           path = ''Modules/Drawing.lua'';
@@ -5812,12 +5812,12 @@
         {
           path = ''Modules/General Functions.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/f2263e9af46b22fc0b0f2f1f7cea732e4feec904/ReaDrum%20Machine/Modules/General%20Functions.lua";
-          sha256 = "1xlyyakf4swhy53rb55s0fhl0f9c5vhkdy33m81iq7dydz3gmjnc";
+          sha256 = "1ambdszfri0288865vfirb2hp6dsi1nc3440yw8fyplnwn9zikl2";
         }
         {
           path = ''Modules/Pad Actions.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/f2263e9af46b22fc0b0f2f1f7cea732e4feec904/ReaDrum%20Machine/Modules/Pad%20Actions.lua";
-          sha256 = "0b83rlphispsimrnbnm90v2fqphndj54kknnpmgf5b4dfrwlbl40";
+          sha256 = "19mm53hkyzr6zz0jdh6gb33rkravsdy6wchb48zalfvqlhgncsfw";
         }
         {
           path = ''JSFX/RDM_midi_utility.jsfx'';
@@ -5886,7 +5886,7 @@
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e822585ad7520e5deeb08cd39796fd742240a603/ReaDrum%20Machine/Modules/Drawing.lua";
-          sha256 = "1hbx1wcy43vsjvxg3866aggkf74gb9wb45ybyqg2rx38adsh9frr";
+          sha256 = "1h1q099frmz1kx4w9h9j4z986lys6rc96qah05v6ckf7fwqradnh";
         }
         {
           path = ''Modules/FX List.lua'';
@@ -6059,7 +6059,7 @@
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9cd0eac2bbff18fedfb5e01810889249aefc0d31/ReaDrum%20Machine/Modules/Drawing.lua";
-          sha256 = "1akkv4b4jabc1kja1jcz1x3x4vy45apwrm0yrx3pklm1d13zna4z";
+          sha256 = "0li0f48rcmbphlx6nldc8q40nzg204dk5v3pziv1m6n45199zvlr";
         }
         {
           path = ''Modules/FX List.lua'';
@@ -6133,7 +6133,7 @@
         {
           path = ''FXChains/MIDI Triggered Low Pass Filter.RfxChain'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/46605af7c4881ddf49fbf05a818aa566ce490e0d/ReaDrum%20Machine/FXChains/MIDI%20Triggered%20Low%20Pass%20Filter.RfxChain";
-          sha256 = "15i8w3ghvdz6j6x3cg1g8msfrlhq825qg251i210jpdc4rcbs43i";
+          sha256 = "1r2k1f2a9scxxxyr6zz2mjrvzcz061qrf3wqsrgj6hi4523bi33g";
         }
         {
           path = ''Images/FancyBlueKnob.png'';

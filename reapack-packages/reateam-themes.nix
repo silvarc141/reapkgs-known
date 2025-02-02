@@ -43,7 +43,7 @@
         {
           path = ''Default 5.0 Nitpicky Edition.ReaperThemeZip'';
           url = "https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1";
-          sha256 = "0qjq8azdagx5ykrmzm25grr5k0jx8khd68yyrmmfnvj0lv681mz4";
+          sha256 = "03mkcfvh6inr1yji1z9v7add1p864qkaqnrvinzdqmi7q80iwi9h";
         }
       ];
     };

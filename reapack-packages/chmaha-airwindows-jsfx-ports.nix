@@ -1393,6 +1393,48 @@
         }
       ];
     };
+    edgefilter-jsfx-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "edgefilter-jsfx-1-0";
+      indexName = "chmaha airwindows JSFX Ports";
+      categoryName = "Various";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/94b1734edb0760ef670feec1eacedb365ed9b080/Various/EdgeFilter.jsfx";
+          sha256 = "0g0w004n9swas5d8psdqbgp7p1094fp5c347p6jqz3jlrz894g0a";
+        }
+      ];
+    };
+    elemental-jsfx-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "elemental-jsfx-1-0";
+      indexName = "chmaha airwindows JSFX Ports";
+      categoryName = "Various";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/b1ff3e2cf7ffc9b15b153b1e54eeb735e9803251/Various/Elemental.jsfx";
+          sha256 = "0mx6krhb9rrlgfkan4dmalcsj6w7ladjxjkxynch5lam1x979czi";
+        }
+      ];
+    };
+    elemental-jsfx-1-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "elemental-jsfx-1-1";
+      indexName = "chmaha airwindows JSFX Ports";
+      categoryName = "Various";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/dafeada6727c70f841d3118aaff64e86a27e46b8/Various/Elemental.jsfx";
+          sha256 = "0b7j15s7dkpllp7z0wfs0zp2w765a9h3bylc1vq5sbkcjz6zxccm";
+        }
+      ];
+    };
     enyo-jsfx-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "enyo-jsfx-1-0";
@@ -1530,6 +1572,20 @@
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Various/Hippity%20Hoppity.jsfx";
           sha256 = "1p7nwsvcf0v7inracbmz6x964ikd9ybs9q2rwr3m7s1pkfpc4cli";
+        }
+      ];
+    };
+    lonelycurve-jsfx-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "lonelycurve-jsfx-1-0";
+      indexName = "chmaha airwindows JSFX Ports";
+      categoryName = "Various";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/92648d0e56e0a14fec34bfdde92b99e72feb534b/Various/LonelyCurve.jsfx";
+          sha256 = "00r561rwhsankhx2v8wqwylcw2r3yyv81l5qbcg61sif71gdrigb";
         }
       ];
     };
@@ -1855,6 +1911,34 @@
         }
       ];
     };
+    reeldeel-jsfx-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "reeldeel-jsfx-1-0";
+      indexName = "chmaha airwindows JSFX Ports";
+      categoryName = "Various";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/b273832b6f963026469e1de18358029d70b2c368/Various/ReelDeel.jsfx";
+          sha256 = "1nrfdr3f8cn4c2rb07p1yc1yb5h9g1bm7jg89082c170zmkv5a6q";
+        }
+      ];
+    };
+    reeldeel-jsfx-1-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "reeldeel-jsfx-1-1";
+      indexName = "chmaha airwindows JSFX Ports";
+      categoryName = "Various";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/65150403f2e9f0e8cfcb7ba22fc297418d1efe29/Various/ReelDeel.jsfx";
+          sha256 = "0c87b6qf8yw0hx4z6l9f0q2369bsdzgimcglrvdawkz77l3a8h3i";
+        }
+      ];
+    };
     reelty-jsfx-1-2 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "reelty-jsfx-1-2";
@@ -2009,6 +2093,34 @@
         }
       ];
     };
+    stratos-jsfx-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "stratos-jsfx-1-0";
+      indexName = "chmaha airwindows JSFX Ports";
+      categoryName = "Various";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/85f1129983ef8ba8353ad6408bd2a77334241def/Various/Stratos.jsfx";
+          sha256 = "19w53461cp29a32yhk8bncsdvvs5zw4s6ywsysani2qfscr7061m";
+        }
+      ];
+    };
+    studiosphere-jsfx-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "studiosphere-jsfx-1-0";
+      indexName = "chmaha airwindows JSFX Ports";
+      categoryName = "Various";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/ac931c5f815c559dc4a04235813564b4ca6a0707/Various/StudioSphere.jsfx";
+          sha256 = "1ili6girhcw4cys0xaj4j1lm9chslml3f5368lj73sbrc81k4qih";
+        }
+      ];
+    };
     titan-jsfx-1-2 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "titan-jsfx-1-2";
@@ -2048,6 +2160,20 @@
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/bc2a0d756858f03479dfefa4e5248075f1471521/Various/TOED.jsfx";
           sha256 = "0z4qiqz64f0qg0d3nqzibhl4vz0jlp7wnwc8fykfj2pxxc2d79yk";
+        }
+      ];
+    };
+    triplecurve-jsfx-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "triplecurve-jsfx-1-0";
+      indexName = "chmaha airwindows JSFX Ports";
+      categoryName = "Various";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/5ead5267bc639893264f061004f6d3260af6e8f1/Various/TripleCurve.jsfx";
+          sha256 = "0z6yqdnzf6rw6k30ganhiy55lrns6afrab5x6w66q7lyxxssbf8h";
         }
       ];
     };
