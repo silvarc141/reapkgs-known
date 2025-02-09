@@ -2733,6 +2733,104 @@
         }
       ];
     };
+    sexan-fx-browser-parserv7-lua-1-34 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "sexan-fx-browser-parserv7-lua-1-34";
+      indexName = "Sexan_Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/cc80a3563db3b1b139645834127e453f912762e9/FX/Sexan_FX_Browser_ParserV7.lua";
+          sha256 = "023bjn1zipj1kx93kswyhp61rj8n6q8h7vlrfbdfzp2wkrm7my5m";
+        }
+      ];
+    };
+    sexan-fx-browser-parserv7-lua-1-35 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "sexan-fx-browser-parserv7-lua-1-35";
+      indexName = "Sexan_Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/c0806e3af23f18c910331adb3a921063e0006268/FX/Sexan_FX_Browser_ParserV7.lua";
+          sha256 = "07gs07awpxzrx43by3578vw2c28hb232jm84ram3mxi5jj0q3kyh";
+        }
+      ];
+    };
+    sexan-fx-browser-parserv7-lua-1-36 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "sexan-fx-browser-parserv7-lua-1-36";
+      indexName = "Sexan_Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/ad42735b64e8f9306dd71150f7187d6353855671/FX/Sexan_FX_Browser_ParserV7.lua";
+          sha256 = "1hq6r7d961ddqy115ka5mbkq3iv1ypllw5kmkjppmn7zdp4m0v1i";
+        }
+      ];
+    };
+    sexan-fx-browser-parserv7-lua-1-37 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "sexan-fx-browser-parserv7-lua-1-37";
+      indexName = "Sexan_Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/d209f3d8d30809f05273b8a70d50d709dd3beaa0/FX/Sexan_FX_Browser_ParserV7.lua";
+          sha256 = "1n4pvc0l9vhpyg8zvix4n0vn45pgy91zhcf3my8y4dh9jv7mavil";
+        }
+      ];
+    };
+    sexan-fx-browser-parserv7-lua-1-38 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "sexan-fx-browser-parserv7-lua-1-38";
+      indexName = "Sexan_Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/7067b70890adc3977cb61add1d3aaccf003eeb26/FX/Sexan_FX_Browser_ParserV7.lua";
+          sha256 = "18mjs1x5l9aiakwyczqdpbd6cn6sgsdr5w1bxh8042cvhvbqvzma";
+        }
+      ];
+    };
+    sexan-fx-browser-parserv7-lua-1-39 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "sexan-fx-browser-parserv7-lua-1-39";
+      indexName = "Sexan_Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/89bb701b1fd5ade766af42da108b57680c2ed2b9/FX/Sexan_FX_Browser_ParserV7.lua";
+          sha256 = "1dk277adijia70psafac3xz8qdy7qx1gkjdq1zmfh36vnjvgsjqk";
+        }
+      ];
+    };
+    sexan-fx-browser-parserv7-lua-1-41 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "sexan-fx-browser-parserv7-lua-1-41";
+      indexName = "Sexan_Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/76cc9d7a561f3adaf4e7916d3973ab76259e3dbe/FX/Sexan_FX_Browser_ParserV7.lua";
+          sha256 = "1c34qjy36zv0i3p6ai0d55yy5vaipqb4vyi0in5y0sbrcafxvavw";
+        }
+      ];
+    };
     filemanager-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "filemanager-lua-1-0";

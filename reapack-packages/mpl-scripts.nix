@@ -23403,6 +23403,216 @@
         }
       ];
     };
+    mpl-clear-spectral-edits-from-selected-items-active-take-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-clear-spectral-edits-from-selected-items-active-take-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/570d8d361ac9486c764264ba9c5c1ca83b55da4e/Spectral%20edits/mpl_Clear%20spectral%20edits%20from%20selected%20items%20active%20take.lua";
+          sha256 = "0jh7qcsh96xwxhd75dwqfgfk6iyz8hrh8lrrk1naxyf7nkyzlbq4";
+        }
+      ];
+    };
+    mpl-copy-selected-item-active-take-spectral-edits-lua-1-01 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-copy-selected-item-active-take-spectral-edits-lua-1-01";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/f21a0d22ab287b7182cac1e27f4fc2c4c4f47e28/Spectral%20edits/mpl_Copy%20selected%20item%20active%20take%20spectral%20edits.lua";
+          sha256 = "03l4jp3j0smx7gq73ar0d7c5r47wkag7az1s86m1sziwbqwagy5i";
+        }
+      ];
+    };
+    mpl-decrease-selected-spectral-edits-gain-by-0-5-db-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-decrease-selected-spectral-edits-gain-by-0-5-db-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bfd3919611f6a72f02e7bf2466e7a91fc25ab6f3/Spectral%20edits/mpl_Decrease%20selected%20spectral%20edits%20gain%20by%200.5%20db.lua";
+          sha256 = "1a74hb5cmvswbngvhyqfg2lsmmyqh5c50yfpnb0348z2ssfhhhh7";
+        }
+      ];
+    };
+    mpl-decrease-selected-spectral-edits-gain-by-1-db-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-decrease-selected-spectral-edits-gain-by-1-db-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bfd3919611f6a72f02e7bf2466e7a91fc25ab6f3/Spectral%20edits/mpl_Decrease%20selected%20spectral%20edits%20gain%20by%201%20db.lua";
+          sha256 = "0wki4p1hr052503wbvy59vi882kndfr6n0n6ymsf4rd6kmnv84sg";
+        }
+      ];
+    };
+    mpl-disable-bypass-for-selected-items-all-takes-spectral-edits-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-disable-bypass-for-selected-items-all-takes-spectral-edits-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/570d8d361ac9486c764264ba9c5c1ca83b55da4e/Spectral%20edits/mpl_Disable%20bypass%20for%20selected%20items%20all%20takes%20spectral%20edits.lua";
+          sha256 = "031ama1srdv78a3zdsvd3qlmhblic6qz8a13f5dr10vmvyrykzml";
+        }
+      ];
+    };
+    mpl-disable-solo-for-selected-items-active-take-selected-spectral-edits-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-disable-solo-for-selected-items-active-take-selected-spectral-edits-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bfd3919611f6a72f02e7bf2466e7a91fc25ab6f3/Spectral%20edits/mpl_Disable%20solo%20for%20selected%20items%20active%20take%20selected%20spectral%20edits.lua";
+          sha256 = "0b7aw6ab84c8ggzxjpma8g0dh5xa5n8n9h0kqmh1ymjf7b53ijqf";
+        }
+      ];
+    };
+    mpl-enable-bypass-for-selected-items-all-takes-spectral-edits-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-enable-bypass-for-selected-items-all-takes-spectral-edits-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/570d8d361ac9486c764264ba9c5c1ca83b55da4e/Spectral%20edits/mpl_Enable%20bypass%20for%20selected%20items%20all%20takes%20spectral%20edits.lua";
+          sha256 = "0mp5bzdh97xs3r0cfcm4d991hgdgiycgkdb6r75b0fjljrsj0zwl";
+        }
+      ];
+    };
+    mpl-enable-solo-for-selected-items-active-take-selected-spectral-edits-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-enable-solo-for-selected-items-active-take-selected-spectral-edits-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bfd3919611f6a72f02e7bf2466e7a91fc25ab6f3/Spectral%20edits/mpl_Enable%20solo%20for%20selected%20items%20active%20take%20selected%20spectral%20edits.lua";
+          sha256 = "0rl2h50ndrm65kq1fsj9jyhpk4cb74asyhhfgcmf428dr66xcyny";
+        }
+      ];
+    };
+    mpl-increase-selected-spectral-edits-gain-by-0-5-db-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-increase-selected-spectral-edits-gain-by-0-5-db-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bfd3919611f6a72f02e7bf2466e7a91fc25ab6f3/Spectral%20edits/mpl_Increase%20selected%20spectral%20edits%20gain%20by%200.5%20db.lua";
+          sha256 = "117p3k5gs7vc30lvrc1z7fa9r2jypgkk4bi7dvk7cnjgsnxwm9vx";
+        }
+      ];
+    };
+    mpl-increase-selected-spectral-edits-gain-by-1-db-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-increase-selected-spectral-edits-gain-by-1-db-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bfd3919611f6a72f02e7bf2466e7a91fc25ab6f3/Spectral%20edits/mpl_Increase%20selected%20spectral%20edits%20gain%20by%201%20db.lua";
+          sha256 = "0pz7l0j3shfsnf1mxx9wrw5f1iirpnw9g5gy80rf763nbshhyyz4";
+        }
+      ];
+    };
+    mpl-paste-spectral-edits-to-selected-items-active-take-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-paste-spectral-edits-to-selected-items-active-take-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/570d8d361ac9486c764264ba9c5c1ca83b55da4e/Spectral%20edits/mpl_Paste%20spectral%20edits%20to%20selected%20items%20active%20take.lua";
+          sha256 = "0rd6n2050gbg9pvzihhr8v0sw1qqkhs6xnrmiyl44jvhdxq39ia0";
+        }
+      ];
+    };
+    mpl-port-focused-reaeq-bands-to-spectral-edits-on-selected-items-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-port-focused-reaeq-bands-to-spectral-edits-on-selected-items-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/570d8d361ac9486c764264ba9c5c1ca83b55da4e/Spectral%20edits/mpl_Port%20focused%20ReaEQ%20bands%20to%20spectral%20edits%20on%20selected%20items.lua";
+          sha256 = "0d5sp33128j86hxbpj9y1li5prrkhc3xgzkkwk45my856gmbqjwd";
+        }
+      ];
+    };
+    mpl-propagate-active-take-spectral-edits-to-other-takes-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-propagate-active-take-spectral-edits-to-other-takes-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/570d8d361ac9486c764264ba9c5c1ca83b55da4e/Spectral%20edits/mpl_Propagate%20active%20take%20spectral%20edits%20to%20other%20takes.lua";
+          sha256 = "16dd1njjzk2gilkaqb44ynld4wbl1x81gxx9m4lkym67km2695xa";
+        }
+      ];
+    };
+    mpl-toggle-bypass-for-selected-items-all-takes-spectral-edits-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-toggle-bypass-for-selected-items-all-takes-spectral-edits-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/570d8d361ac9486c764264ba9c5c1ca83b55da4e/Spectral%20edits/mpl_Toggle%20bypass%20for%20selected%20items%20all%20takes%20spectral%20edits.lua";
+          sha256 = "18ag83hynvdzfpsg6vblydkrznnhrb0zrgq1gjz1kka3il5jkkcm";
+        }
+      ];
+    };
+    mpl-toggle-solo-for-selected-items-active-take-selected-spectral-edits-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-toggle-solo-for-selected-items-active-take-selected-spectral-edits-lua-1-0";
+      indexName = "MPL Scripts";
+      categoryName = "Spectral edits";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bfd3919611f6a72f02e7bf2466e7a91fc25ab6f3/Spectral%20edits/mpl_Toggle%20solo%20for%20selected%20items%20active%20take%20selected%20spectral%20edits.lua";
+          sha256 = "0v5y2spiwnz9h8m9n6wx2j097h9rikz4ymh5g5lgai9fkzk08dw0";
+        }
+      ];
+    };
     mpl-copy-selected-item-stretch-markers-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-copy-selected-item-stretch-markers-lua-1-0";
@@ -37328,6 +37538,20 @@
         }
       ];
     };
+    mpl-keyboard-shortcuts-visualizer-lua-1-12 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-keyboard-shortcuts-visualizer-lua-1-12";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/f2baa52ceb3dfd504aa5bdf41d30061af2923ca8/Various/mpl_Keyboard%20Shortcuts%20Visualizer.lua";
+          sha256 = "0rkb8d49k7mqqk68x1390gf1jglr58d532wa5fvn16aqyh5wlgqp";
+        }
+      ];
+    };
     mpl-mapping-panel-background-lua-1-34 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-mapping-panel-background-lua-1-34";
@@ -39170,73 +39394,17 @@
         }
       ];
     };
-    mpl-spectral-editing-tools-perform-lua-1-0 = mkReapackPackage {
+    mpl-sendfader-background-lua-3-04 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "mpl-spectral-editing-tools-perform-lua-1-0";
+      name = "mpl-sendfader-background-lua-3-04";
       indexName = "MPL Scripts";
       categoryName = "Various";
       packageType = "script";
       sources = [
         {
           path = '''';
-          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/6647ffad9ddb2419d5b954b1025554df3d7dc35f/Various/mpl_Spectral%20editing%20tools%20-%20perform.lua";
-          sha256 = "0gc8s1ky7yi2ya502b76vacr4pdl5mklyhxvp7b44m96i0xks0jc";
-        }
-      ];
-    };
-    mpl-spectral-editing-tools-lua-1-0 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "mpl-spectral-editing-tools-lua-1-0";
-      indexName = "MPL Scripts";
-      categoryName = "Various";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7ac2619685f78f8cac05476c4765b57cbae51949/Various/mpl_Spectral%20editing%20tools.lua";
-          sha256 = "052hd9vx2a2pqpidxjbb0nm2lbqn8572xk7n3aklgb1f4a6bkyb4";
-        }
-      ];
-    };
-    mpl-spectral-editing-tools-lua-1-01 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "mpl-spectral-editing-tools-lua-1-01";
-      indexName = "MPL Scripts";
-      categoryName = "Various";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/9c7c81c447c2113ba1fd08a948b14d85d7fe94f8/Various/mpl_Spectral%20editing%20tools.lua";
-          sha256 = "143d8ngkdr0175amw4qya8inggh4d0irg9n0igrl9lskshf8s87f";
-        }
-      ];
-    };
-    mpl-spectral-editing-tools-lua-1-02 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "mpl-spectral-editing-tools-lua-1-02";
-      indexName = "MPL Scripts";
-      categoryName = "Various";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/6647ffad9ddb2419d5b954b1025554df3d7dc35f/Various/mpl_Spectral%20editing%20tools.lua";
-          sha256 = "0xx7p7ndprr7j1yrvjg6nxw4i6a35zlbrjrwl58iki8a6p5nygx5";
-        }
-      ];
-    };
-    mpl-spectral-editing-tools-lua-1-04 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "mpl-spectral-editing-tools-lua-1-04";
-      indexName = "MPL Scripts";
-      categoryName = "Various";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e5d18b5360aaf1283df9afef94060cce7a0c054b/Various/mpl_Spectral%20editing%20tools.lua";
-          sha256 = "0bdhsccbn5g1rkk7lkhbw18jhs8amycbqhk2bkz7k3b3sdzb3bcz";
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b27b5b4572b817622b4402935a8fa11c29bef833/Various/mpl_SendFader%20(background).lua";
+          sha256 = "1p7m8nq1gawhp9azq8xpmdczvxvjw91b2cpy2yypr6qyykb1zrmh";
         }
       ];
     };

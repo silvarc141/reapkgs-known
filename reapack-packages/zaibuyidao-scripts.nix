@@ -15369,6 +15369,20 @@
         }
       ];
     };
+    chinese-simplified-reaperlangpack-1-1-6-733 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "chinese-simplified-reaperlangpack-1-1-6-733";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Translations";
+      packageType = "langpack";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/3bf402f626d4e059ffd3f2279085cdd7050fdf24/Translations/Chinese%20(Simplified).ReaperLangPack";
+          sha256 = "0hwfsa0jwzjcrwqls89cb4hpq3wfd2jmf7padivlplp5v11487sv";
+        }
+      ];
+    };
     chinese-traditional-reaperlangpack-1-0-724 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "chinese-traditional-reaperlangpack-1-0-724";
@@ -15478,6 +15492,20 @@
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9a93bd919cc19e4bccb30e774b5929ab77b966f8/Translations/Chinese%20(Traditional).ReaperLangPack";
           sha256 = "0xjd7ndf9h2qfvsvbifqj4niyb3lp82xff6kji9xpr42mwabk15a";
+        }
+      ];
+    };
+    chinese-traditional-reaperlangpack-1-1-6-733 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "chinese-traditional-reaperlangpack-1-1-6-733";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Translations";
+      packageType = "langpack";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/3bf402f626d4e059ffd3f2279085cdd7050fdf24/Translations/Chinese%20(Traditional).ReaperLangPack";
+          sha256 = "1k29vj0qilxnz28pjsdspafcxq4wrasv0kh8nn6k21bapkml01ib";
         }
       ];
     };
