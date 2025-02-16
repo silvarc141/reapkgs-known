@@ -15551,6 +15551,20 @@
         }
       ];
     };
+    zaibuyidao-batch-folder-media-importer-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-batch-folder-media-importer-lua-1-0";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/9fef4c76fe4e1eb12b786d3a3d7261d791cdba96/Utility/zaibuyidao_Batch%20Folder%20Media%20Importer.lua";
+          sha256 = "09306a38nqk3hl7iqh2hr572kw17x1nmc5ac2adv4z5ni0gdhza6";
+        }
+      ];
+    };
     zaibuyidao-build-midi-routing-channels-to-selected-tracks-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "zaibuyidao-build-midi-routing-channels-to-selected-tracks-lua-1-0";

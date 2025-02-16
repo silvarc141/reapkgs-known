@@ -49709,7 +49709,7 @@
         {
           path = ''buyone_Convert custom actions to Lua ReaScript/BuyOne_Convert filtered custom actions to Lua ReaScripts or dump as Lua code.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/464d7cb5a6bfb517c7b9e12a23e176283ba0d688/Various/buyone_Convert%20custom%20actions%20to%20Lua%20ReaScript/BuyOne_Convert%20filtered%20custom%20actions%20to%20Lua%20ReaScripts%20or%20dump%20as%20Lua%20code.lua";
-          sha256 = "11cxi22isfw9vk5l4mibxjy2lqjzwwbjpisad5pfdpdj707z5c0k";
+          sha256 = "0i7k1ymrwp1av00ndpn565qmx3hzkyznh0cn45h39rvgd21h6lpm";
         }
       ];
     };
@@ -49785,7 +49785,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/a290a22bc001d8f3e7ac368d9e319357dd8af124/Various/BuyOne_Exclusive%20dummy%20toggles.lua";
-          sha256 = "1f4v0gmb08pdbx5bc5j1igj52iswj5qhg27fz7c8sk51s5wzv64p";
+          sha256 = "0z6gq7vkbczm40k3iyfrpj8n2i0ldm2l1hp86g40kai26w6rsyvb";
         }
       ];
     };
@@ -49804,7 +49804,7 @@
         {
           path = ''BuyOne_REAPER Profile terminal/BuyOne_REAPER Profile terminal (autosave all) (guide inside).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/9ab937813fe72642f20799a16ba1fcea16f1d778/Various/BuyOne_REAPER%20Profile%20terminal/BuyOne_REAPER%20Profile%20terminal%20(autosave%20all)%20(guide%20inside).lua";
-          sha256 = "0ivg7zj04h10ylprl6zpm2ci36as8w0y00b67fxvnpwlvx2pp40x";
+          sha256 = "1v0cc6qqdqxgdykh3svlhqpng0asxgn01g807izv76lkxri41x1w";
         }
       ];
     };
@@ -49818,7 +49818,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/b6ab69307926f89df0b12a3b2dbe2a0b64cc6696/Various/BuyOne_Scroll%20horizontally%20and;or%20move%20loop%20and;or%20time%20selection%20by%20user%20defined%20interval.lua";
-          sha256 = "14ckh4iqi7yz5sypq7bh3kbc00kxm3ax86x3s417925iysnxci6g";
+          sha256 = "0p5mz72r5s37bvqg7qlsghwr2swsj3cldgrlhaxlm40qrafl5w3j";
         }
       ];
     };
@@ -49860,7 +49860,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/387d662cf27ed1bdacbf3e64adfa0d746b3e5771/Various/BuyOne_Skip%20marker(s)%20or%20region(s)%20with%20the%20keyword%20in%20the%20name.lua";
-          sha256 = "127rbkm8y62mpgl6f7k1brbc1agmf49wxc1dmbs96prrxra6ggkj";
+          sha256 = "0qlfp77z1mqz26fk8pc8grl9r91dqf2y0brwjs6fhii0cz2xzri8";
         }
       ];
     };
@@ -49963,7 +49963,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/2710dadab9c426fc5b5adb09f6c35ba094d4c0a1/Various/cfillion_Find%20shortcut%20in%20the%20Action%20List.lua";
-          sha256 = "0srda3npqhjq8n3fllcz3xwnkswrq99j4kkhwycpj19738h60wab";
+          sha256 = "0fk4a8li85m5k6ann2j4m74wvab09x9x6xwpgax8wjv5nzdpixqm";
         }
       ];
     };
@@ -49977,7 +49977,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/4b68451766e7a06b601a4b646b4c077cdf7e8736/Various/cfillion_Find%20shortcut%20in%20the%20Action%20List.lua";
-          sha256 = "";
+          sha256 = "0dkd31n319d6s8i1dpanc1xi1cazp7xj12crxphqnrnfgyzzmj7m";
         }
       ];
     };
@@ -50811,7 +50811,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/df24169a2943824f7605653ad3c987e104edc20c/Various/cfillion_Project%20underrun%20monitor%20(xrun).lua";
-          sha256 = "1qx7lv9x5lmh5kf9h6snnf5bkamhafj5016c4fmc2j5rjd1cjccx";
+          sha256 = "1hiw53xgag3fswfs7n9g5dcj9ck225a4d5xxpshh8vrjfh54smn9";
         }
       ];
     };
@@ -50825,7 +50825,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/30814a927a1b28c7baf14c8bea8a5e3f9d2871ae/Various/cfillion_Project%20underrun%20monitor%20(xrun).lua";
-          sha256 = "0x7wympvhp5ckkky46m1967v0yfcadb4m71qfczv9s5jyppsj42x";
+          sha256 = "0kxxc15mi05aizi5xc2vxpixq353pkqbq5vxs5csyahv7irk4rzy";
         }
       ];
     };
@@ -50839,7 +50839,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/78b68691fdbda2e963b5a24364aae873bb9f4fd5/Various/cfillion_Project%20underrun%20monitor%20(xrun).lua";
-          sha256 = "02f7nci3pvv5zrcarkjh2pv0w5j7z7c6ywddg5y1c98n847z40yi";
+          sha256 = "1gf4zn0rk4lhkc5c8vfxlj8kd5sjnrgbvwwg0pfgashcdd6278zy";
         }
       ];
     };
@@ -50900,7 +50900,7 @@
         {
           path = ''cfillion_Song Switcher (next).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/9e61b24746de1ea829c1751f0d3c44cd7fddf0fb/Various/cfillion_Song%20Switcher%20(next).lua";
-          sha256 = "";
+          sha256 = "187hz7vr6h0w4nivhk990hgkli2shwzwqygixin6jp1gpvvf1ajv";
         }
         {
           path = ''cfillion_Song Switcher (previous).lua'';
@@ -50910,7 +50910,7 @@
         {
           path = ''cfillion_Song Switcher (reset).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/9e61b24746de1ea829c1751f0d3c44cd7fddf0fb/Various/cfillion_Song%20Switcher%20(reset).lua";
-          sha256 = "";
+          sha256 = "0r4r386270syq8ranrgkb50hk8dcclrb8gk9cdwdcqzcf1ki5s8j";
         }
       ];
     };
@@ -50929,7 +50929,7 @@
         {
           path = ''cfillion_Song Switcher (next).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/d1c69feea5681a0b40f0395fdab6095fda794ff5/Various/cfillion_Song%20Switcher%20(next).lua";
-          sha256 = "";
+          sha256 = "187hz7vr6h0w4nivhk990hgkli2shwzwqygixin6jp1gpvvf1ajv";
         }
         {
           path = ''cfillion_Song Switcher (previous).lua'';
@@ -50953,12 +50953,12 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/30166753b3c20ac101df61a0d7b19c20232192cb/Various/cfillion_Song%20Switcher.lua";
-          sha256 = "0cjkr73vy702fvi84qfzzmqw26n9xsxvmx1nvaaq53cd8i73x9qh";
+          sha256 = "049krj7a4ij98jxjij9yi72khr9maahxnz2vrx8hch9wr537p4qv";
         }
         {
           path = ''cfillion_Song Switcher/cfillion_Song Switcher (next).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/30166753b3c20ac101df61a0d7b19c20232192cb/Various/cfillion_Song%20Switcher/cfillion_Song%20Switcher%20(next).lua";
-          sha256 = "0lhm7fjd9ggp0qlyl7q6p60w01ab1wg5jmv7kbgvbmvxpvmd6b62";
+          sha256 = "187hz7vr6h0w4nivhk990hgkli2shwzwqygixin6jp1gpvvf1ajv";
         }
         {
           path = ''cfillion_Song Switcher/cfillion_Song Switcher (previous).lua'';
@@ -50973,7 +50973,7 @@
         {
           path = ''song_switcher.html'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/30166753b3c20ac101df61a0d7b19c20232192cb/Various/cfillion_Song%20Switcher/song_switcher.html";
-          sha256 = "046fmf7qrjyz87fcgzz2jhkyjazhkm9wcxxybsx548c87ppv1fyj";
+          sha256 = "1jq0hzji3794kvb53pwd81ngygl5jz5adgg2arrcq0crj40l89x0";
         }
       ];
     };
@@ -50997,12 +50997,12 @@
         {
           path = ''cfillion_Song Switcher/cfillion_Song Switcher (previous).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e166d2765ef022ef1e6821164a18996aa7dc4b2b/Various/cfillion_Song%20Switcher/cfillion_Song%20Switcher%20(previous).lua";
-          sha256 = "";
+          sha256 = "015xxni9clk9ldzjz2354r771ajaq69l4z27ivkxlfdc4xkw3fq6";
         }
         {
           path = ''cfillion_Song Switcher/cfillion_Song Switcher (reset).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e166d2765ef022ef1e6821164a18996aa7dc4b2b/Various/cfillion_Song%20Switcher/cfillion_Song%20Switcher%20(reset).lua";
-          sha256 = "09cs3hd50h8j8sicdys520smvi79g9wqnav4zhgjg8gvnb408rf3";
+          sha256 = "0r4r386270syq8ranrgkb50hk8dcclrb8gk9cdwdcqzcf1ki5s8j";
         }
         {
           path = ''song_switcher.html'';
@@ -51021,27 +51021,27 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e81e1fa2c23b79095256e1687eed0bcad04d7f34/Various/cfillion_Song%20Switcher.lua";
-          sha256 = "";
+          sha256 = "1d5vvq493acyq9flzg6hc14s0q624a0jjzpcq09xidc7hrjh99wh";
         }
         {
           path = ''cfillion_Song Switcher/cfillion_Song Switcher (next).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e81e1fa2c23b79095256e1687eed0bcad04d7f34/Various/cfillion_Song%20Switcher/cfillion_Song%20Switcher%20(next).lua";
-          sha256 = "";
+          sha256 = "187hz7vr6h0w4nivhk990hgkli2shwzwqygixin6jp1gpvvf1ajv";
         }
         {
           path = ''cfillion_Song Switcher/cfillion_Song Switcher (previous).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e81e1fa2c23b79095256e1687eed0bcad04d7f34/Various/cfillion_Song%20Switcher/cfillion_Song%20Switcher%20(previous).lua";
-          sha256 = "02x898n6mz1whqw8hkdif2k6m17gc8va8rkm1yf5ak49qj0z6rr9";
+          sha256 = "015xxni9clk9ldzjz2354r771ajaq69l4z27ivkxlfdc4xkw3fq6";
         }
         {
           path = ''cfillion_Song Switcher/cfillion_Song Switcher (reset).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e81e1fa2c23b79095256e1687eed0bcad04d7f34/Various/cfillion_Song%20Switcher/cfillion_Song%20Switcher%20(reset).lua";
-          sha256 = "";
+          sha256 = "0r4r386270syq8ranrgkb50hk8dcclrb8gk9cdwdcqzcf1ki5s8j";
         }
         {
           path = ''song_switcher.html'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e81e1fa2c23b79095256e1687eed0bcad04d7f34/Various/cfillion_Song%20Switcher/song_switcher.html";
-          sha256 = "";
+          sha256 = "0rfnk9pyjcl3x7m771va7jwrm7svmx2gfnm19ajp5hqyykjn3qf9";
         }
       ];
     };
@@ -51055,27 +51055,27 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c0d1eadcdbc3bac3f244e6c2479fae337060bc56/Various/cfillion_Song%20Switcher.lua";
-          sha256 = "";
+          sha256 = "1dwl0615gikja2v510pjnb8r2n3q41jbhd8rdmb4wr1dw5gx61xv";
         }
         {
           path = ''cfillion_Song Switcher/cfillion_Song Switcher (next).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c0d1eadcdbc3bac3f244e6c2479fae337060bc56/Various/cfillion_Song%20Switcher/cfillion_Song%20Switcher%20(next).lua";
-          sha256 = "";
+          sha256 = "187hz7vr6h0w4nivhk990hgkli2shwzwqygixin6jp1gpvvf1ajv";
         }
         {
           path = ''cfillion_Song Switcher/cfillion_Song Switcher (previous).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c0d1eadcdbc3bac3f244e6c2479fae337060bc56/Various/cfillion_Song%20Switcher/cfillion_Song%20Switcher%20(previous).lua";
-          sha256 = "";
+          sha256 = "015xxni9clk9ldzjz2354r771ajaq69l4z27ivkxlfdc4xkw3fq6";
         }
         {
           path = ''cfillion_Song Switcher/cfillion_Song Switcher (reset).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c0d1eadcdbc3bac3f244e6c2479fae337060bc56/Various/cfillion_Song%20Switcher/cfillion_Song%20Switcher%20(reset).lua";
-          sha256 = "";
+          sha256 = "0r4r386270syq8ranrgkb50hk8dcclrb8gk9cdwdcqzcf1ki5s8j";
         }
         {
           path = ''song_switcher.html'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c0d1eadcdbc3bac3f244e6c2479fae337060bc56/Various/cfillion_Song%20Switcher/song_switcher.html";
-          sha256 = "";
+          sha256 = "0rfnk9pyjcl3x7m771va7jwrm7svmx2gfnm19ajp5hqyykjn3qf9";
         }
       ];
     };
@@ -51089,27 +51089,27 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/dcb8f6153ff5415cd1cb6a471fb80ab8e0ea5e16/Various/cfillion_Song%20switcher.lua";
-          sha256 = "";
+          sha256 = "0ciyqlrvyqp4zpvh6jqgjk6az6iqfmip99ycbfc42z1nbavbhwz8";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher (next).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/dcb8f6153ff5415cd1cb6a471fb80ab8e0ea5e16/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20(next).lua";
-          sha256 = "";
+          sha256 = "187hz7vr6h0w4nivhk990hgkli2shwzwqygixin6jp1gpvvf1ajv";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher (previous).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/dcb8f6153ff5415cd1cb6a471fb80ab8e0ea5e16/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20(previous).lua";
-          sha256 = "";
+          sha256 = "015xxni9clk9ldzjz2354r771ajaq69l4z27ivkxlfdc4xkw3fq6";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher (reset).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/dcb8f6153ff5415cd1cb6a471fb80ab8e0ea5e16/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20(reset).lua";
-          sha256 = "";
+          sha256 = "0r4r386270syq8ranrgkb50hk8dcclrb8gk9cdwdcqzcf1ki5s8j";
         }
         {
           path = ''song_switcher.html'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/dcb8f6153ff5415cd1cb6a471fb80ab8e0ea5e16/Various/cfillion_Song%20switcher/song_switcher.html";
-          sha256 = "";
+          sha256 = "0jwkylf86xhfbadlxi2hykir8g695rdg6llqh600fzbz29iwwn2b";
         }
       ];
     };
@@ -51123,27 +51123,27 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/ebabe9e26f9b8b6c7beaab0e210932ed0a97f746/Various/cfillion_Song%20switcher.lua";
-          sha256 = "";
+          sha256 = "0xwcz5jhkn3b4rzdry93815p7asx316qqrn7k0j80k0f8b8ibxim";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher (next).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/ebabe9e26f9b8b6c7beaab0e210932ed0a97f746/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20(next).lua";
-          sha256 = "";
+          sha256 = "1kk1y51dr64nhsc9037frvp45cq2m9p5v7pdgdrm1f03z544djqw";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher (previous).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/ebabe9e26f9b8b6c7beaab0e210932ed0a97f746/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20(previous).lua";
-          sha256 = "";
+          sha256 = "1bncn31phhjmvyfshxrvzrs03crfc8pvbzl24c4k5ky2d2by5mz0";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher (reset).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/ebabe9e26f9b8b6c7beaab0e210932ed0a97f746/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20(reset).lua";
-          sha256 = "";
+          sha256 = "0vvi5p9261xlbzy36c499aqlb29sns2zdsvyix2gj1lq9hb6pnw0";
         }
         {
           path = ''song_switcher.html'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/ebabe9e26f9b8b6c7beaab0e210932ed0a97f746/Various/cfillion_Song%20switcher/song_switcher.html";
-          sha256 = "";
+          sha256 = "0jwkylf86xhfbadlxi2hykir8g695rdg6llqh600fzbz29iwwn2b";
         }
       ];
     };
@@ -51157,27 +51157,27 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/2ad9aeb7731b2f97889a616adc3ac03d55b95149/Various/cfillion_Song%20switcher.lua";
-          sha256 = "";
+          sha256 = "13q8nj0n3g5kfb13x1yk387ypnnkncv635fzrlk193a46ix69pna";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher (next).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/2ad9aeb7731b2f97889a616adc3ac03d55b95149/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20(next).lua";
-          sha256 = "";
+          sha256 = "0sx32r5f188c8qa98z3gvly0f2frs4w9glw9ghk24ndn9sqsl01w";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher (previous).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/2ad9aeb7731b2f97889a616adc3ac03d55b95149/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20(previous).lua";
-          sha256 = "";
+          sha256 = "00d3d771jmm6frmwq9wks7jlclcgcjkjj5j7qf199mrs6b4hqxad";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher (reset).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/2ad9aeb7731b2f97889a616adc3ac03d55b95149/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20(reset).lua";
-          sha256 = "";
+          sha256 = "0lbdswl2mj7fypd4ipm7lngnjsv3yjsm2xw48g5m18jg5n5kw7bx";
         }
         {
           path = ''song_switcher.html'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/2ad9aeb7731b2f97889a616adc3ac03d55b95149/Various/cfillion_Song%20switcher/song_switcher.html";
-          sha256 = "";
+          sha256 = "16jlw5chhwbqv6imv2r0zgjjkws4h5wdawypf34lksapw7c2sd89";
         }
       ];
     };
@@ -51191,27 +51191,27 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c535ffc3cafec14e52d6d16a4cbfd9be7debdab7/Various/cfillion_Song%20switcher.lua";
-          sha256 = "";
+          sha256 = "0l6hrc1v750a1fps5gm4znfsgwbh8b5jnzmncyvfj9jgs7rcns41";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher (next).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c535ffc3cafec14e52d6d16a4cbfd9be7debdab7/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20(next).lua";
-          sha256 = "";
+          sha256 = "0sx32r5f188c8qa98z3gvly0f2frs4w9glw9ghk24ndn9sqsl01w";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher (previous).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c535ffc3cafec14e52d6d16a4cbfd9be7debdab7/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20(previous).lua";
-          sha256 = "";
+          sha256 = "00d3d771jmm6frmwq9wks7jlclcgcjkjj5j7qf199mrs6b4hqxad";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher (reset).lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c535ffc3cafec14e52d6d16a4cbfd9be7debdab7/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20(reset).lua";
-          sha256 = "";
+          sha256 = "0lbdswl2mj7fypd4ipm7lngnjsv3yjsm2xw48g5m18jg5n5kw7bx";
         }
         {
           path = ''song_switcher.html'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c535ffc3cafec14e52d6d16a4cbfd9be7debdab7/Various/cfillion_Song%20switcher/song_switcher.html";
-          sha256 = "";
+          sha256 = "00yvn8cr7nbklczhv45kamgjg008fwqvk94gz5npdhg3jr47606n";
         }
       ];
     };
@@ -51225,37 +51225,37 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/7c852f9c73cf5537e2c8e3a12011db7e1c53fce0/Various/cfillion_Song%20switcher.lua";
-          sha256 = "";
+          sha256 = "00j11z18cgg6x4b0jayzs1f2bsbp2xqpwabqklrdbhx4l9m2cgr8";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to next song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/7c852f9c73cf5537e2c8e3a12011db7e1c53fce0/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Switch%20to%20next%20song.lua";
-          sha256 = "";
+          sha256 = "097av0wjvzijn3rmwvlzb879wcffglm4119c8fqncwn6lfdljxd9";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to previous song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/7c852f9c73cf5537e2c8e3a12011db7e1c53fce0/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Switch%20to%20previous%20song.lua";
-          sha256 = "";
+          sha256 = "0mi5hdrpvsrx8w7n71s0qbgyc37gmwrx8mrm3iq96kgz9pzzy8dl";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Reset data.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/7c852f9c73cf5537e2c8e3a12011db7e1c53fce0/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Reset%20data.lua";
-          sha256 = "";
+          sha256 = "1m8r1f45rmfks47wpjzjk3szl0ln3mmw2mrgqc0c03bl2z8s0yp4";
         }
         {
           path = ''song_switcher.html'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/7c852f9c73cf5537e2c8e3a12011db7e1c53fce0/Various/cfillion_Song%20switcher/song_switcher.html";
-          sha256 = "";
+          sha256 = "1496g09ijypnnk7nh3sjah75gp476kc2j1m1bqixnk05189p4b6r";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to queued song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/7c852f9c73cf5537e2c8e3a12011db7e1c53fce0/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Switch%20to%20queued%20song.lua";
-          sha256 = "";
+          sha256 = "0ddq2pbk10p34za2mmyk13p4776izdhzjrnym2jp0i3gi3mw27vy";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch song by MIDI CC.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/7c852f9c73cf5537e2c8e3a12011db7e1c53fce0/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Switch%20song%20by%20MIDI%20CC.lua";
-          sha256 = "";
+          sha256 = "1d3kh4s1jd4sahwls5i8p8zzjc1pfbqqry2xs46fgc7v4i127ifh";
         }
       ];
     };
@@ -51269,52 +51269,52 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e937ea958a958b4b13226bc7192cab2e22f81002/Various/cfillion_Song%20switcher.lua";
-          sha256 = "";
+          sha256 = "1wif8rzyzxawlqbnsm9jrw5by52q988xvi1fp7639jwvcmvy65dy";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to next song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e937ea958a958b4b13226bc7192cab2e22f81002/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to previous song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e937ea958a958b4b13226bc7192cab2e22f81002/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Reset data.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e937ea958a958b4b13226bc7192cab2e22f81002/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to queued song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e937ea958a958b4b13226bc7192cab2e22f81002/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch song by MIDI CC.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e937ea958a958b4b13226bc7192cab2e22f81002/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Queue next song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e937ea958a958b4b13226bc7192cab2e22f81002/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Queue previous song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e937ea958a958b4b13226bc7192cab2e22f81002/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Queue song by MIDI CC.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e937ea958a958b4b13226bc7192cab2e22f81002/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''song_switcher.html'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e937ea958a958b4b13226bc7192cab2e22f81002/Various/cfillion_Song%20switcher/song_switcher.html";
-          sha256 = "";
+          sha256 = "1496g09ijypnnk7nh3sjah75gp476kc2j1m1bqixnk05189p4b6r";
         }
       ];
     };
@@ -51328,52 +51328,52 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1e9da9dee3720938fd68b552c1f215a1ea41848f/Various/cfillion_Song%20switcher.lua";
-          sha256 = "";
+          sha256 = "0rkax0yar5572l051jqs02mffzr9341slwkw63qmjfp8sfwbd1q3";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to next song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1e9da9dee3720938fd68b552c1f215a1ea41848f/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to previous song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1e9da9dee3720938fd68b552c1f215a1ea41848f/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Reset data.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1e9da9dee3720938fd68b552c1f215a1ea41848f/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to queued song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1e9da9dee3720938fd68b552c1f215a1ea41848f/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch song by MIDI CC.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1e9da9dee3720938fd68b552c1f215a1ea41848f/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Queue next song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1e9da9dee3720938fd68b552c1f215a1ea41848f/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Queue previous song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1e9da9dee3720938fd68b552c1f215a1ea41848f/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Queue song by MIDI CC.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1e9da9dee3720938fd68b552c1f215a1ea41848f/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''song_switcher.html'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1e9da9dee3720938fd68b552c1f215a1ea41848f/Various/cfillion_Song%20switcher/song_switcher.html";
-          sha256 = "";
+          sha256 = "1496g09ijypnnk7nh3sjah75gp476kc2j1m1bqixnk05189p4b6r";
         }
       ];
     };
@@ -51387,52 +51387,52 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher.lua";
-          sha256 = "";
+          sha256 = "1pj6rzf6nig9ad3cb5mn77xpv4hlmczmbsvk6k01v73zr677jd5g";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to next song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to previous song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Reset data.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to queued song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch song by MIDI CC.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Queue next song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Queue previous song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Queue song by MIDI CC.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''song_switcher.html'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/599dd8d4ede7446a597b087d72843f8b3c57b20d/Various/cfillion_Song%20switcher/song_switcher.html";
-          sha256 = "";
+          sha256 = "1496g09ijypnnk7nh3sjah75gp476kc2j1m1bqixnk05189p4b6r";
         }
       ];
     };
@@ -51446,52 +51446,52 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/29b9e5fee0876ec9d865938cff74386c09f9fc50/Various/cfillion_Song%20switcher.lua";
-          sha256 = "";
+          sha256 = "0nbiy0i846xfr7x6jvgd75q5rvb9p71vw1nql3h29dvi9d504g3a";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to next song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/29b9e5fee0876ec9d865938cff74386c09f9fc50/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to previous song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/29b9e5fee0876ec9d865938cff74386c09f9fc50/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Reset data.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/29b9e5fee0876ec9d865938cff74386c09f9fc50/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch to queued song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/29b9e5fee0876ec9d865938cff74386c09f9fc50/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Switch song by MIDI CC.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/29b9e5fee0876ec9d865938cff74386c09f9fc50/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Queue next song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/29b9e5fee0876ec9d865938cff74386c09f9fc50/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Queue previous song.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/29b9e5fee0876ec9d865938cff74386c09f9fc50/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''cfillion_Song switcher/cfillion_Song switcher - Queue song by MIDI CC.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/29b9e5fee0876ec9d865938cff74386c09f9fc50/Various/cfillion_Song%20switcher/cfillion_Song%20switcher%20-%20Send%20signal.lua";
-          sha256 = "";
+          sha256 = "1hq5l29lra1niq3pprjx20zr0265li3jcipwpjra2y76mxwwnqcc";
         }
         {
           path = ''song_switcher.html'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/29b9e5fee0876ec9d865938cff74386c09f9fc50/Various/cfillion_Song%20switcher/song_switcher.html";
-          sha256 = "";
+          sha256 = "1496g09ijypnnk7nh3sjah75gp476kc2j1m1bqixnk05189p4b6r";
         }
       ];
     };
@@ -51505,7 +51505,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/43405e72a835eceb5f23ea526a542e8be8f08fde/Various/cool_MK%20ReSampler.lua";
-          sha256 = "";
+          sha256 = "0cy8b9h5zxmn15qh7aal10d63fnakrvbnjlh9c2s6rf713lnjb4a";
         }
       ];
     };
@@ -51519,7 +51519,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/ae3e5004528686a8b5efdd17d4907f78347b2d2c/Various/cool_MK%20ReSampler.lua";
-          sha256 = "";
+          sha256 = "0bnnlvaz12c89kgzqish8n115ff07kjz0pxvzvfcmqy10r29lhr7";
         }
       ];
     };
@@ -51533,7 +51533,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/3d30ad771c946028ef81eb9191e1c7c0258076ef/Various/Dfk_Project%20map%20navigator.lua";
-          sha256 = "";
+          sha256 = "0lf4ysghrk869pfpkb23b8rv3mls14r1d1w9mp5m2j7jsq8pwhjr";
         }
       ];
     };
@@ -51547,7 +51547,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/086f7ffe016f6daa5ee2772bfe08bb0c3b36866d/Various/ED_Smart%20toggle%20mute%20(items,%20automation%20items,%20tracks).lua";
-          sha256 = "";
+          sha256 = "1w2ql2qxhjmndkmh6nzj2ym45pd64jiwsnv5v4sjk0lj902cwh01";
         }
       ];
     };
@@ -51561,7 +51561,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/85cf36c56837a0d1f20b950d0ed335e63e76bd55/Various/edgemeal_Maximize%20foreground%20window.lua";
-          sha256 = "";
+          sha256 = "0inms39q3lhsdwjv1483h56ikcm8wx5lvxa4g357725kfrrzg8kk";
         }
       ];
     };
@@ -51575,7 +51575,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/4b68451766e7a06b601a4b646b4c077cdf7e8736/Various/edgemeal_Reset%20VU%20Meters.lua";
-          sha256 = "";
+          sha256 = "0smgk7cwj01jnqcpc6mmzaafdaymchpg9j2bq0h3gs7kcihaqwk3";
         }
       ];
     };
@@ -51589,7 +51589,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/85cf36c56837a0d1f20b950d0ed335e63e76bd55/Various/edgemeal_Restore%20foreground%20window.lua";
-          sha256 = "";
+          sha256 = "0lzrrmfx56fnz7yhqj7snl29842s91mh4jhsi4b8hd2dlgbk1yp9";
         }
       ];
     };
@@ -51603,7 +51603,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/da96050cf1f6c714a2fafdb98b0923779ea4c7ed/Various/edgemeal_Toggle%20snap%20grid%20settings.lua";
-          sha256 = "";
+          sha256 = "14h25s0926xd4jfpbidkh1w6jgbglk8vnq8bfcplsilvp36689nk";
         }
       ];
     };
@@ -51617,7 +51617,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f2433e400d20af87200279a38f92b4dec68be9a4/Various/FnA_Ensure%20toggle%20OFF%20(item%20grouping).lua";
-          sha256 = "";
+          sha256 = "1msmbs4jy7jg6777vqfcz0grhg1c1z13fk70cqw55k55d7p192xi";
         }
       ];
     };
@@ -51631,7 +51631,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/5250de6f2674921094bf2175309d75406fad818a/Various/FnA_Ensure%20toggle%20OFF%20(item%20grouping).lua";
-          sha256 = "";
+          sha256 = "14isybbmxzc59gxbm6pczd1yasgx7mj3lx1sxdv1vf92ryf5ccb7";
         }
       ];
     };
@@ -51645,7 +51645,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f2433e400d20af87200279a38f92b4dec68be9a4/Various/FnA_Ensure%20toggle%20ON%20(item%20grouping).lua";
-          sha256 = "";
+          sha256 = "02vhyv9a0bxlmgk865fqs4may4qr9d3jci15mdnq20b566qwnavq";
         }
       ];
     };
@@ -51659,7 +51659,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/655ab632514f97c1963b64a0b5aa82855e7d9567/Various/FnA_Ensure%20toggle%20ON%20(item%20grouping).lua";
-          sha256 = "";
+          sha256 = "1klm9118jcr3x45415vrc2b3kbkal7krfi8f9780kickkpl05a2m";
         }
       ];
     };
@@ -51673,7 +51673,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f2433e400d20af87200279a38f92b4dec68be9a4/Various/FnA_Solo%20in%20front%20dimming%20louder.eel";
-          sha256 = "";
+          sha256 = "09zwvizs28nligjqnq8bhs8wjv2854zbi008n1fkcln96v23dkms";
         }
       ];
     };
@@ -51687,7 +51687,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f2433e400d20af87200279a38f92b4dec68be9a4/Various/FnA_Solo%20in%20front%20dimming%20quieter.eel";
-          sha256 = "";
+          sha256 = "0ih9w9jq5lfsk4f0nrm5j8d3svb4n0ndmf0sxga0czxz76zkaqw6";
         }
       ];
     };
@@ -51701,7 +51701,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f2433e400d20af87200279a38f92b4dec68be9a4/Various/FnA_Solo%20in%20front%20dimming%20with%20mousewheel.eel";
-          sha256 = "";
+          sha256 = "1hg6y5354n0005fjxh5wpxzdsvyh4ify25i5j02885k48m9wa0hs";
         }
       ];
     };
@@ -51715,7 +51715,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/eb82a12298ffb3dc923ab3addbd906cc841d0ff7/Various/FnA_Solo%20in%20front%20dimming%20with%20mousewheel.eel";
-          sha256 = "";
+          sha256 = "18nzil00v1n8jjbajb315ydizbsdxana6xlvlxravj7ln0sgv78s";
         }
       ];
     };
@@ -51729,7 +51729,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/aa1de9c015d0e716584ee0c8425bf579b339dd54/Various/HeDa_AutoSend.lua";
-          sha256 = "";
+          sha256 = "1ncy1vzs3kygl62gil6sv6dzac4bvm2vm27w9s2flzgl1hiym0bi";
         }
       ];
     };
@@ -51743,7 +51743,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/98b6621ede7203532243d9b7045881c4a6b7383b/Various/HeDa_AutoSend.lua";
-          sha256 = "";
+          sha256 = "05sjhfv95f109921zs83s4jravy1r9ffqgfzw7qpp7xs69p405fb";
         }
       ];
     };
@@ -51757,7 +51757,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/b82c5cfd7faf04ea89544460dc8105b3ff01c675/Various/HeDa_Crop%20Region%20to%20selected%20item.lua";
-          sha256 = "";
+          sha256 = "0ycr7jw45pxpz51ggp2hkyzanv3nv7imhdjm7fsknhmgpy78hk1x";
         }
       ];
     };
@@ -51771,7 +51771,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/15dd689ceaa7a88f03e1047a365c4c2c032d4f10/Various/HeDa_Crop%20Region%20to%20selected%20item.lua";
-          sha256 = "";
+          sha256 = "1zd8g0nrr2qi1xapr9h9lc81abywm83xmbi4glhgmd3z75xg8zy1";
         }
       ];
     };
@@ -51785,7 +51785,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/81a59a4533645fdd94a690542788d18af741ca04/Various/HeDa_View%20Scroll%20Bottom.lua";
-          sha256 = "";
+          sha256 = "0jqj2a06943rbjpf0x0437m0rnil79zq79rija3mnvrqq7vglqfm";
         }
       ];
     };
@@ -51799,7 +51799,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/7e9c4ed73ed3e9b0a3b15d363bc3db28a19db265/Various/HeDa_View%20Scroll%20Top.lua";
-          sha256 = "";
+          sha256 = "17pgca628sk4vp89l9xvhjljk9xgg3pq4ydqgw6kwqswj1my7haf";
         }
       ];
     };
@@ -51813,7 +51813,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f2bbd6b61af9a8fb08592127a84ee93681531233/Various/ilovemedia_Arranged%20Live%20Looping.lua";
-          sha256 = "";
+          sha256 = "0wl8ayn0ikv99r777qqy3224rfnn8bwkbf1sj09ypx87d33naixv";
         }
       ];
     };
@@ -51827,7 +51827,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/211f866e3b830415933012e3c95dbbdd64caa473/Various/JamesHE_Audition%20Takes%20of%20Selected%20items.eel";
-          sha256 = "";
+          sha256 = "1zf255qxpzzxkkmba4l6vfg36r16cr8wqkif2hpn202j80w5ia0a";
         }
       ];
     };
@@ -51841,7 +51841,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/a3ebb21eddc7aa1b73f7c3e5dd07a30b194cf80c/Various/JamesHE_Comps%20Display.eel";
-          sha256 = "";
+          sha256 = "0b1rfkj86kvjscrbsm3f1v4azja9xhb9csvrvg5lfbb2j3c7rnyb";
         }
       ];
     };
@@ -51855,7 +51855,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/a3ebb21eddc7aa1b73f7c3e5dd07a30b194cf80c/Various/JamesHE_gfx%20and%20string%20functions.eel";
-          sha256 = "";
+          sha256 = "1rk2r43qkf6anwmfsjcxar7fiia025id2bf4mg8rmjrjizw0s7ci";
         }
       ];
     };
@@ -51869,7 +51869,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1e4aea125577acae5e1caa61e26c28dcd1d254f8/Various/jrtaylormusic_Toggle%20snap%20globally%20(Main%20and%20MIDI%20Editor).lua";
-          sha256 = "";
+          sha256 = "105q709wk0yl6npi6pg82ln3cfwb80d9fkw09kdh57impap1myr0";
         }
       ];
     };
@@ -51883,7 +51883,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/bb041d5a94e0d81fd74463b2c7f26bd24e3c1c4c/Various/js_Hotstrings.lua";
-          sha256 = "";
+          sha256 = "17wv5c9i0f0m3qgqqnr1qk8xxsnw4fdf1hkg5swshj200m9r22ph";
         }
       ];
     };
@@ -51897,7 +51897,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/4735302e0e42b8709248bf53ac84a65677831a48/Various/Lokasenna_Add%20real-life%20timestamps.lua";
-          sha256 = "";
+          sha256 = "0rw33sx2n1lw7v82nsbd00zndy8jjwyrnrcph3pw53gfhzj6ywl6";
         }
       ];
     };
@@ -51911,7 +51911,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/22fcf18af0adaa11696badf2c03940da99f6e64d/Various/Lokasenna_Add%20real-life%20timestamps.lua";
-          sha256 = "";
+          sha256 = "0scy4x8rgxyifyc076vf046h3ikw5wrzc60bjap18kb4jr8c8lj5";
         }
       ];
     };
@@ -51925,7 +51925,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/912fb89496fac15580256bdaa3e11833995e203d/Various/Lokasenna_Add%20real-life%20timestamps.lua";
-          sha256 = "";
+          sha256 = "12p3zy1fwasgsbzhssj4hq3zpfgf1956xzpja733xz7mngiqfxdc";
         }
       ];
     };
@@ -51939,7 +51939,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/54c12ff83030b320ecb80e281e432d3050cd05d8/Various/Lokasenna_Add%20real-life%20timestamps.lua";
-          sha256 = "";
+          sha256 = "1yywr5jmh2gr7appfjpywj1v67adl5vwh8d2ldrqwvbg3208xf03";
         }
       ];
     };
@@ -51953,7 +51953,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/4f93a8a4f1a0b8e057496213b6543d941bb252e2/Various/Lokasenna_Add%20real-life%20timestamps.lua";
-          sha256 = "";
+          sha256 = "03ik7hgis93y8bsnk1n3czkz8kb863z9knbpvbdgav8bk7v0q7dg";
         }
       ];
     };
@@ -51967,7 +51967,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/69ddf3c10c9c0312835e3aea295259fafd1f5ad4/Various/Lokasenna_Create%20action%20to%20open%20a%20file...%20.lua";
-          sha256 = "";
+          sha256 = "1gx4yxp1vxcjrh88g42hvw3fmsgj8j8mx8wd3b0v8cn5gkxqfggh";
         }
       ];
     };
@@ -51981,7 +51981,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/be4e7efd2312fde794126b6ead1d9217f1468a80/Various/Lokasenna_Create%20action%20to%20open%20a%20file...%20.lua";
-          sha256 = "";
+          sha256 = "1ng67cbmy4dmrf04f6kafrlsigi3dh67i307mvwrg26zm4vyl46d";
         }
       ];
     };
@@ -51995,7 +51995,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/6679a9224e67d218c03883e4d9f2653824dd3f50/Various/Lokasenna_Create%20action%20to%20open%20a%20file...%20.lua";
-          sha256 = "";
+          sha256 = "0drfljj5365k0wrhpbby79cbh3j1zdgy8kdlz9hv72g580nzrmqq";
         }
       ];
     };
@@ -52009,7 +52009,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/72680a930d8ba322385cd23baed99ff3fd526b5b/Various/Lokasenna_Create%20action%20to%20open%20a%20file...%20.lua";
-          sha256 = "";
+          sha256 = "1ss7m0nkkqwqxx5i0mxxjqc0ima1l0qcgfj1y6zln933jjaw26p3";
         }
       ];
     };
@@ -52023,7 +52023,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e126c7c46837d260072538e071003c7e6c776b63/Various/Lokasenna_Create%20action%20to%20open%20a%20file...%20.lua";
-          sha256 = "";
+          sha256 = "15aw61gqli1qfm46ybf38i769pwfvp1a9zp5g3ccxgb0ayw2xfd4";
         }
       ];
     };
@@ -52037,7 +52037,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/91524a7727f8172f4384a3dadc2000eab4e19531/Various/Lokasenna_Create%20action%20to%20open%20a%20file...%20.lua";
-          sha256 = "";
+          sha256 = "1b8k0ng48l5gr3yc8dj60g04dlxh7kj645dg76pnfhsapbgfs309";
         }
       ];
     };
@@ -52051,7 +52051,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/6f27c1d3526362d51484922526cc276a08b30577/Various/Lokasenna_Create%20mix%20bus%20and%20reroute%20all%20selected%20tracks%20to%20it.lua";
-          sha256 = "";
+          sha256 = "11jj08gla3xk8f4i55msqhnl42kw9206wch5d0yij0rbbj1bjxsq";
         }
       ];
     };
@@ -52065,7 +52065,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/3f2e04ee2168f90f9539ce492f019fcb2032b749/Various/Lokasenna_Create%20mix%20bus%20and%20reroute%20all%20selected%20tracks%20to%20it.lua";
-          sha256 = "";
+          sha256 = "12z1s2nrk1f0qg68pvw0ph72v2ldqmzrgifjrvqkawzqvn3nw6hj";
         }
       ];
     };
@@ -52079,7 +52079,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/39d0d16d8eb78250675ad0fb6a60d4e9bb2ead4d/Various/Lokasenna_Create%20mix%20bus%20and%20reroute%20all%20top-level%20tracks%20to%20it.lua";
-          sha256 = "";
+          sha256 = "1jh39kcm111gh02lx2dnnarnn8914n123ydxz1dz6jhzyakbbpfi";
         }
       ];
     };
@@ -52093,7 +52093,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/3f2e04ee2168f90f9539ce492f019fcb2032b749/Various/Lokasenna_Create%20mix%20bus%20and%20reroute%20all%20top-level%20tracks%20to%20it.lua";
-          sha256 = "";
+          sha256 = "0g14d7zpmqfkww5d19whv5kxbyghpzzmral6cq398i88jmjgx20w";
         }
       ];
     };
@@ -52107,7 +52107,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/8a3e0980dee005274a87b92d7fcfbcc046dee70f/Various/Lokasenna_Enable%20metronome%20until%20playback%20reaches%20edit%20cursor.lua";
-          sha256 = "";
+          sha256 = "0xnbibvclxl2ycpg48kx2sn1wbybqvid6ql2nmm47mjg98r65qii";
         }
       ];
     };
@@ -52121,7 +52121,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/b12a3a514858e0e69eaa0d1d2db3fb3273c8092c/Various/Lokasenna_Generate%20script%20from%20custom%20action.lua";
-          sha256 = "";
+          sha256 = "1dpmc8kyqhgiid447445n414j2627dbngbjks8rbg6wssc7i7c5h";
         }
       ];
     };
@@ -52135,7 +52135,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/23f4c9534872b4eef066bfd5a5b76b3ce8662e03/Various/Lokasenna_Generate%20script%20from%20custom%20action.lua";
-          sha256 = "";
+          sha256 = "0yxwk6ylxb3jmg7iml73yzjvdwn0nc8mdqylhpy3a4ffi5843hbn";
         }
       ];
     };
@@ -52149,7 +52149,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/7e083e37277dfde6dc22b05de718accf191304d4/Various/Lokasenna_Generate%20script%20from%20custom%20action.lua";
-          sha256 = "";
+          sha256 = "0f5gvnhcmvn776qjsv7zjzyxa2fiwl36c91fk4x4s3myb90cpk8r";
         }
       ];
     };
@@ -52163,7 +52163,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/582439d6739281dbae44a8dcb846c1a3f707fef3/Various/Lokasenna_Generate%20script%20from%20custom%20action.lua";
-          sha256 = "";
+          sha256 = "061fjvih9kj65f6653bl2x2ph50v9fmyzx9g0wv03qizfk9va2mv";
         }
       ];
     };
@@ -52177,7 +52177,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/87ff7b9aa023dd325359e40961af90c15c2d80be/Various/Lokasenna_Insert%20most%20recent%20exported%20file....lua";
-          sha256 = "";
+          sha256 = "1ff0v5dm69dr0zgman04dh3qc2mq4cb0sc94klsxqqfzlwf7zqk1";
         }
       ];
     };
@@ -52191,7 +52191,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/bbaa88e6ae080b0ba3342e0f7bf877ede608d83f/Various/Lokasenna_Insert%20most%20recent%20exported%20file....lua";
-          sha256 = "";
+          sha256 = "10ln98b1cd3s26izcs2661rcki3mgj64lgl4w8vb6n0ajbwmywwd";
         }
       ];
     };
@@ -52205,7 +52205,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/4f93a8a4f1a0b8e057496213b6543d941bb252e2/Various/Lokasenna_Insert%20most%20recent%20exported%20file....lua";
-          sha256 = "";
+          sha256 = "0wpkjw2jf6lz9c2zgrc43qrkb15z5vv19j3lfgkcdc4bn0sw0kwb";
         }
       ];
     };
@@ -52219,7 +52219,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/4de4d5f75bc8766df3c4ee0ee5f3dad96375c820/Various/Lokasenna_Open%20Reaper%20folder.lua";
-          sha256 = "";
+          sha256 = "0h8bp9b0qg006p98kc168jsg07ym9ym2fz4yg3psvl75z8nbisny";
         }
       ];
     };
@@ -52233,7 +52233,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/4de4d5f75bc8766df3c4ee0ee5f3dad96375c820/Various/Lokasenna_Open%20Resource%20folder.lua";
-          sha256 = "";
+          sha256 = "1a2l52brqn9mk9an00vnj7vpfsrnn8lw1skww0nnxncpg9696yyc";
         }
       ];
     };
@@ -52247,7 +52247,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/9d87150f0f2b1f5798272d8ce45a055b8d994c08/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1fagg8n20mfzvblpgx1027l2jzdhb69wxsapkkqy7alwmc8nvrs7";
         }
       ];
     };
@@ -52261,7 +52261,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/8914397d30204fb6b5d952e0caf6c5c7d2a226c5/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "09dvyswkj39w517c6m4n4v1p8anm2qa0rr1b0fwvcw0w5863pbjc";
         }
       ];
     };
@@ -52275,7 +52275,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/2b0b5dc32dd742036010841d706d7552d8065cb0/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0n97nfjm06cwx00qw9wfgzq27bz1l53gabc37zs24kv1jayw2b89";
         }
       ];
     };
@@ -52289,7 +52289,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/bd9c805ee0226caf62a844aec38444a16da5a6f9/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1bwr1vqp7gfgv6zy5dvj7ag90vicfbjzkpjz5l8zi5ls9z6lffiw";
         }
       ];
     };
@@ -52303,7 +52303,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/fb80f535ca25232b283899983a577a3a198a872a/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "06qzxpvgydibs76qpq3n1zazjmpxry88yz5dfyn8586s413npgj5";
         }
       ];
     };
@@ -52317,7 +52317,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1d43938093ad93b04d6fdc5fc533632bc2a75762/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "03m5slcbjh9dvhl87rhlj59w43z2yq7k8xzymjzwxfqnl6jnrngk";
         }
       ];
     };
@@ -52331,7 +52331,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/3c03fbeb10940f76386d6e6d570f6f5251ba7b77/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "055q8vyqqf4ylys72xh1hhxr72lryx1qvxk6j4pcarzyjsnncjqg";
         }
       ];
     };
@@ -52345,7 +52345,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/3ce2f2b9bb6ebbb34a91e9d399cb126f81b36d97/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1wnhhx2nzg5gzlf94d187k7n4gjklpb79gs4as6b06gxy5097s2q";
         }
       ];
     };
@@ -52359,7 +52359,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/9f1097375b9f82611bc9297c329b1130389de98a/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "13ndv6c21vfhjfw1zy2mx986gblcmyyhx7g43whgkcvxv90h9c78";
         }
       ];
     };
@@ -52373,7 +52373,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/978e639a240165e74b4dd9f444726ff99623f0ab/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1rn8rg2g72nswwl4jkjszqz8bpcrzdhv0fkwzskiffvgmffh9zm5";
         }
       ];
     };
@@ -52387,7 +52387,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/381e4133f5888d2aa9c9e3f8be32a6aa43a3550f/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1pplzzllf9b2yabqbgqgsfy00gsvq1xqjdgsmlwkl3fah2d7qmal";
         }
       ];
     };
@@ -52401,7 +52401,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/fcfe9fe7b25fc3244740ba6ea3668efcb0435b34/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0lblhqjfzjcw4jhv23587b7fqi10pnd0mszhmw29pq8pi0jbz3y1";
         }
       ];
     };
@@ -52415,7 +52415,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/df6f010f88df27782472a39d3395fd721b3bbc50/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0fnvy08pijp3c3p6i451gwgbnigzrkds1bx94qzv29xicv3q8gq4";
         }
       ];
     };
@@ -52429,7 +52429,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/ebddf942e64a1e4dbd7d7d9c3fc62847a1b6517d/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1qn6vbsv2js6v92qv2v2hd5svrybfarmxp9p17p5py3a6lqxcwfi";
         }
       ];
     };
@@ -52443,7 +52443,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/ca769e4c12cd0b2b0c3b79a9509552fbf3036384/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1spybfxwkd3k5nzqg5hrkx0hqgfqsn2c6hbyn4yarckcy7npn6m6";
         }
       ];
     };
@@ -52457,7 +52457,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/e3fe846927ec0601e5097696a7ffc946ae0f23a7/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1nnfsaz0i2asnx3spijkzn3djsrjzgcawk5q0bvghbj4wf0l7wpm";
         }
       ];
     };
@@ -52471,7 +52471,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f20e96ea73371fc551a3af1b7db31bb8474d4d2f/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0jbxjzrn2mb1gdqsqrcxa8a3m2wm4q44qd5gqlvqp6qf3f345gjz";
         }
       ];
     };
@@ -52485,7 +52485,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/2723911cfd76970e99bc62ab1b1edcf92d2cef74/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1i3lcvdw3i7a5jnxq674hcyr5k0y0lhl03p95g03xx4q1hws2jhm";
         }
       ];
     };
@@ -52499,7 +52499,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/7a681ef7e72783f8a71239a23ccc67e9adefbc65/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "183g6zy3z1v0fb0d8l4c5b3ivhxnxr1pxlwd42q13dmbjgyxgphs";
         }
       ];
     };
@@ -52513,7 +52513,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/96d5a03d1f91fd3eaaec07c653bd53bc127d3f3c/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0rvqk4lwwzxlnz93dlah4zsvmh5i6dryl9y0b043im6sjb6j1pfb";
         }
       ];
     };
@@ -52527,7 +52527,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/077c340d6863d82968951cdaab73c622230107e0/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "07zycwp6z7bxjqarif62r2w0nj95gdrcbngxiwflvw55qk2p6p5k";
         }
       ];
     };
@@ -52541,7 +52541,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/404d6e23d8ea10a16eb38fd6cd78092667a290c0/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1s381wvs8bxy7lnb7h95pnmdgrx2iv511kvnh8p4935qckv6py4z";
         }
       ];
     };
@@ -52555,7 +52555,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/33ddd3a0fe5e111d42d72748665c1489bb7e6a32/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0wam18am6whkcdlndx9n64zd2863azdc8nxk2q9l03x5if1g98gx";
         }
       ];
     };
@@ -52569,7 +52569,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/bb347d2c76807630c0c940fee0a28429826a65ad/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0mv6c17r7h98xwswi4k8dizslm78i7qca52p7hany932y4nz213y";
         }
       ];
     };
@@ -52583,17 +52583,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/18d783b50a0a9cd30910e0c07d29eb59ec93b5cd/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1iwcrxhhxnfgvmc6lh3gnrxkiwly0xr6wrrbkyms5shpisdaz95z";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/18d783b50a0a9cd30910e0c07d29eb59ec93b5cd/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example menus.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/18d783b50a0a9cd30910e0c07d29eb59ec93b5cd/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20menus.txt";
-          sha256 = "";
+          sha256 = "1c2kcbsxqnbk0prlfx4d02krhrciq2fh8b52salp6qi6wmasmy9r";
         }
       ];
     };
@@ -52607,17 +52607,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/9b88508ee3277e367ca6a66b2edd024e1d555b9d/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0qzczfwb2ckk3jkqgiydd151s3vb06lfzcyh2z77vfayxd9z0mii";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/9b88508ee3277e367ca6a66b2edd024e1d555b9d/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example menus.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/9b88508ee3277e367ca6a66b2edd024e1d555b9d/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20menus.txt";
-          sha256 = "";
+          sha256 = "1c2kcbsxqnbk0prlfx4d02krhrciq2fh8b52salp6qi6wmasmy9r";
         }
       ];
     };
@@ -52631,17 +52631,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c2d20f92f05699fecfb0e089b1903214e7feb37d/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "05zh6ffqadf91m49zaaxwmwc6w2ghwznmmg8bicab8cjf8vr8z61";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c2d20f92f05699fecfb0e089b1903214e7feb37d/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example menus.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c2d20f92f05699fecfb0e089b1903214e7feb37d/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20menus.txt";
-          sha256 = "";
+          sha256 = "1c2kcbsxqnbk0prlfx4d02krhrciq2fh8b52salp6qi6wmasmy9r";
         }
       ];
     };
@@ -52655,17 +52655,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/ba8f88e7b880242a897b129fa84e4fa9b004fe4c/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1qr0hmrs831i8yjviv50l40gqdys03l1bl3p5zpkrrfji58zw8c3";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/ba8f88e7b880242a897b129fa84e4fa9b004fe4c/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example menus.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/ba8f88e7b880242a897b129fa84e4fa9b004fe4c/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20menus.txt";
-          sha256 = "";
+          sha256 = "1c2kcbsxqnbk0prlfx4d02krhrciq2fh8b52salp6qi6wmasmy9r";
         }
       ];
     };
@@ -52679,7 +52679,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/79ff4964f5e4c304ca8757da3d5a463f259aa7e7/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0s5qmj5ahs299is0kczw92zfw1b9nzkc991pnh9n33kj8gy74658";
         }
       ];
     };
@@ -52693,17 +52693,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/858d52eca074f3d493bfb707ce7de71c81d0724e/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0j7qamy5kzcclqna2wx1f17cm1m7bf7yhq4iivgg6fcxb4fpzv9g";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/858d52eca074f3d493bfb707ce7de71c81d0724e/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example menus.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/858d52eca074f3d493bfb707ce7de71c81d0724e/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20menus.txt";
-          sha256 = "";
+          sha256 = "1c2kcbsxqnbk0prlfx4d02krhrciq2fh8b52salp6qi6wmasmy9r";
         }
       ];
     };
@@ -52717,7 +52717,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/89e690ff0348ae825bf1c4288c78bb19a4d8680d/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0hizlxg5ayhl02hcdshjdhflv31ipmczpnm8hy8855rx7n2wbqdv";
         }
       ];
     };
@@ -52731,17 +52731,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/51de2dc864fb4387c6c3c23270023c53ec12ec7f/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0sclvsscmga7ya9b9345y1x7vpjx0ypyrf5z39j0nb25629xrj8x";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/51de2dc864fb4387c6c3c23270023c53ec12ec7f/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example menus.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/51de2dc864fb4387c6c3c23270023c53ec12ec7f/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20menus.txt";
-          sha256 = "";
+          sha256 = "120p4r7ffkgvmv544y6gqi1j3ybkv411mjd0a6rjw49axjs3zf94";
         }
       ];
     };
@@ -52755,17 +52755,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/6051a022fa2329795087363e5f58a7fc07dd7f3b/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "00id980mfagy62ahkykdl5jv8mmzffz92scr191mh63yhxzdkpw9";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/6051a022fa2329795087363e5f58a7fc07dd7f3b/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example menus.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/6051a022fa2329795087363e5f58a7fc07dd7f3b/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20menus.txt";
-          sha256 = "";
+          sha256 = "120p4r7ffkgvmv544y6gqi1j3ybkv411mjd0a6rjw49axjs3zf94";
         }
       ];
     };
@@ -52779,17 +52779,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/2db38677e8fbf1eaf3312a92d8e03c723d714b44/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1ry4ry5rv5jrpch8whwsrm8lxc3pfnp1aizff10lz16nrbr68f48";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/2db38677e8fbf1eaf3312a92d8e03c723d714b44/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example menus.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/2db38677e8fbf1eaf3312a92d8e03c723d714b44/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20menus.txt";
-          sha256 = "";
+          sha256 = "120p4r7ffkgvmv544y6gqi1j3ybkv411mjd0a6rjw49axjs3zf94";
         }
       ];
     };
@@ -52803,17 +52803,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/09a21f79c1b75b460e9b8e1d78a932b513fcac59/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0pa7hhr72v5wlkw2mvq29ljbmv3yb649a4sajfphcckysp0qyn38";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/09a21f79c1b75b460e9b8e1d78a932b513fcac59/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example menus.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/09a21f79c1b75b460e9b8e1d78a932b513fcac59/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20menus.txt";
-          sha256 = "";
+          sha256 = "120p4r7ffkgvmv544y6gqi1j3ybkv411mjd0a6rjw49axjs3zf94";
         }
       ];
     };
@@ -52827,17 +52827,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f184fb29c5ffc26612fe2243f424c606aaab95ad/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0bm7jmk1kdrbqkq1zhnd256d65jprk34fbdanlq1v1apk1qv92xv";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f184fb29c5ffc26612fe2243f424c606aaab95ad/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example menus.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f184fb29c5ffc26612fe2243f424c606aaab95ad/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20menus.txt";
-          sha256 = "";
+          sha256 = "120p4r7ffkgvmv544y6gqi1j3ybkv411mjd0a6rjw49axjs3zf94";
         }
       ];
     };
@@ -52851,17 +52851,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/605ccce8d4f0e6d25594185b7f98cd23a1dec9a3/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "01khm8f28bcq0jj35g3adx39i600n9483488gzz57f5rkv2xn994";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/605ccce8d4f0e6d25594185b7f98cd23a1dec9a3/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example menus.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/605ccce8d4f0e6d25594185b7f98cd23a1dec9a3/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20menus.txt";
-          sha256 = "";
+          sha256 = "120p4r7ffkgvmv544y6gqi1j3ybkv411mjd0a6rjw49axjs3zf94";
         }
       ];
     };
@@ -52875,17 +52875,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/4e46bee640757d14511777a062ab5d1a40d681e6/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1j98c416ph6qkky93inv6fdy7b9jcbhfzd8bqza0zzq98xf26nc0";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/4e46bee640757d14511777a062ab5d1a40d681e6/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/4e46bee640757d14511777a062ab5d1a40d681e6/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20settings.txt";
-          sha256 = "";
+          sha256 = "0i8i31z0qbyqwi9sxrg5gbclb3vsaxg5w7ynr758lnra64rryy36";
         }
       ];
     };
@@ -52899,17 +52899,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/42c6c48dbcf7be349d40228faff53ccd88d60e87/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0xfpakavkxyvx64iwwmvsjfbpf5rwrzk2gf3gfw68kfr090vzasd";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/42c6c48dbcf7be349d40228faff53ccd88d60e87/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/42c6c48dbcf7be349d40228faff53ccd88d60e87/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20settings.txt";
-          sha256 = "";
+          sha256 = "056g3gapgfvasbrv6caclybrkx8qnkjdx0wgd27pxpwb4d92qmhk";
         }
       ];
     };
@@ -52923,17 +52923,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f3095528424ef4ee8cd880201001c8cb331e91b2/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0fvgrxak3mix1l0xcr4010n643hd38g4jyxw3nzklbvwpij4qf4v";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f3095528424ef4ee8cd880201001c8cb331e91b2/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f3095528424ef4ee8cd880201001c8cb331e91b2/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20settings.txt";
-          sha256 = "";
+          sha256 = "056g3gapgfvasbrv6caclybrkx8qnkjdx0wgd27pxpwb4d92qmhk";
         }
       ];
     };
@@ -52947,17 +52947,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/17b50115eac281dd3ee6cf84fb488ad8a95e9722/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "01gfl26pnq8k8g2zri1q3x219r2vh4vigwwagrlcvyhrgyhikn6j";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/17b50115eac281dd3ee6cf84fb488ad8a95e9722/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/17b50115eac281dd3ee6cf84fb488ad8a95e9722/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20settings.txt";
-          sha256 = "";
+          sha256 = "056g3gapgfvasbrv6caclybrkx8qnkjdx0wgd27pxpwb4d92qmhk";
         }
       ];
     };
@@ -52971,17 +52971,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/351789851b45e531ba2d48566546a326708d86c0/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1d4wamdp4xvn318rfdd0mmbmlhwsm97ybxp75cy76cf6cdgpzky5";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/351789851b45e531ba2d48566546a326708d86c0/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/351789851b45e531ba2d48566546a326708d86c0/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20settings.txt";
-          sha256 = "";
+          sha256 = "056g3gapgfvasbrv6caclybrkx8qnkjdx0wgd27pxpwb4d92qmhk";
         }
       ];
     };
@@ -52995,17 +52995,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/6e64a58b1a68fa07add306a379788f1bcd868e6f/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0awfsgsxqzvkgng0a249r7bfnn9hghln0w5ly5ha6r1g69nvmxd5";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/6e64a58b1a68fa07add306a379788f1bcd868e6f/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/6e64a58b1a68fa07add306a379788f1bcd868e6f/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20settings.txt";
-          sha256 = "";
+          sha256 = "056g3gapgfvasbrv6caclybrkx8qnkjdx0wgd27pxpwb4d92qmhk";
         }
       ];
     };
@@ -53019,17 +53019,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/bbc2533ecc5cc771f924b521c74b9ad5fd70b706/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "0i79cbhw8h9syj86zadpvq5m2nh027kwggjzh586zgpy9x5gnh50";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/bbc2533ecc5cc771f924b521c74b9ad5fd70b706/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/bbc2533ecc5cc771f924b521c74b9ad5fd70b706/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20settings.txt";
-          sha256 = "";
+          sha256 = "056g3gapgfvasbrv6caclybrkx8qnkjdx0wgd27pxpwb4d92qmhk";
         }
       ];
     };
@@ -53043,17 +53043,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/95730ffb66731539b39fd3f8563517b137449aa1/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "1qwqry4axdp2czswag292c2471pbwdmdc7z47xq4a20qbl47zj6p";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/95730ffb66731539b39fd3f8563517b137449aa1/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/95730ffb66731539b39fd3f8563517b137449aa1/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20settings.txt";
-          sha256 = "";
+          sha256 = "056g3gapgfvasbrv6caclybrkx8qnkjdx0wgd27pxpwb4d92qmhk";
         }
       ];
     };
@@ -53067,17 +53067,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/56b83d550f33697703722608bdb7024451aa30f9/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "169h69p1a3vgfzl8w56l28k00xdfyrs011bgybk9b00gpc4f5zcl";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/56b83d550f33697703722608bdb7024451aa30f9/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/56b83d550f33697703722608bdb7024451aa30f9/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20settings.txt";
-          sha256 = "";
+          sha256 = "056g3gapgfvasbrv6caclybrkx8qnkjdx0wgd27pxpwb4d92qmhk";
         }
       ];
     };
@@ -53091,17 +53091,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/5d55220894cdaf203027c2b24d2190c01a5f7e28/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "183kbd1v1mj0zi021541i1mhbcpi0f47lj8fw3llq8jg0y82xfhl";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/5d55220894cdaf203027c2b24d2190c01a5f7e28/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/5d55220894cdaf203027c2b24d2190c01a5f7e28/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20settings.txt";
-          sha256 = "";
+          sha256 = "056g3gapgfvasbrv6caclybrkx8qnkjdx0wgd27pxpwb4d92qmhk";
         }
       ];
     };
@@ -53115,17 +53115,17 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f779915af52e3ec4ab6feb521848c73cbd9be331/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "";
+          sha256 = "08fbzk3jzg31jky4cwsqs6bj1kmaii4r3pqvnvqpw60q36jax83a";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f779915af52e3ec4ab6feb521848c73cbd9be331/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f779915af52e3ec4ab6feb521848c73cbd9be331/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20settings.txt";
-          sha256 = "";
+          sha256 = "056g3gapgfvasbrv6caclybrkx8qnkjdx0wgd27pxpwb4d92qmhk";
         }
       ];
     };
@@ -53139,12 +53139,12 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/fed21d6bd28165898b073d1c98c84edc561607b3/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "16fgj4bwhalyk0jbyb5g0qw2n4hly0a6gfpwng65i8qjk8gl20d5";
+          sha256 = "19r8gz07cwdrzp4cxw6ixsw3hhc3wzplfnyw2x35sqsn4lz4rg6q";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/fed21d6bd28165898b073d1c98c84edc561607b3/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "0yal7dl7nx29mzpai5kn10lh5wzkwfcvvy35h57ss8cd0llib5y8";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
@@ -53163,12 +53163,12 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/b6e79aca7a00d5dfaa6769ae6156521ccf7ca1cc/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "1vy68jw4fzhc36zhak2g6c7ybaadzvm37mba0nd8yc4pnic9lj4m";
+          sha256 = "167fnlk2s3jiy35h8a78qm2gq1gsi13qjmrxbkp3nzq4k4cycla3";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/b6e79aca7a00d5dfaa6769ae6156521ccf7ca1cc/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "0yal7dl7nx29mzpai5kn10lh5wzkwfcvvy35h57ss8cd0llib5y8";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
@@ -53197,7 +53197,7 @@
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1f1fffb49fb6f3849367b57949a04e349c67b733/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20settings.txt";
-          sha256 = "1a2zpddsiwxrvnf16qvd3p6s5svxpv6xhdk9h4lwl4hjibz4c3cc";
+          sha256 = "056g3gapgfvasbrv6caclybrkx8qnkjdx0wgd27pxpwb4d92qmhk";
         }
       ];
     };
@@ -53216,7 +53216,7 @@
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/b3af9677442a80a7fdfd0039deeb2b3563e313fa/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "0yal7dl7nx29mzpai5kn10lh5wzkwfcvvy35h57ss8cd0llib5y8";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
@@ -53240,12 +53240,12 @@
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/6b1ce15f6a213974b2982248b76a4aad3e2f1036/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20Setup.lua";
-          sha256 = "0yal7dl7nx29mzpai5kn10lh5wzkwfcvvy35h57ss8cd0llib5y8";
+          sha256 = "0n2l7779csm0ajp4p6a10mzvdmz0bs92w2aqx4nkc55l1x9wfyim";
         }
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/6b1ce15f6a213974b2982248b76a4aad3e2f1036/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20settings.txt";
-          sha256 = "1a2zpddsiwxrvnf16qvd3p6s5svxpv6xhdk9h4lwl4hjibz4c3cc";
+          sha256 = "056g3gapgfvasbrv6caclybrkx8qnkjdx0wgd27pxpwb4d92qmhk";
         }
       ];
     };
@@ -53259,7 +53259,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/1f7d930bd4e2442c91f7be4027f21a28b13d3256/Various/Lokasenna_Radial%20Menu.lua";
-          sha256 = "1xx23c6wdphh8j7mb2yj1kaif1dw8fxrsas5ks64j2xv5wqkwk5z";
+          sha256 = "0dc1m7nclf7c1xwxdir8cm2mm17q5h49f0gai2kbaybdhhy2h1vz";
         }
         {
           path = ''Lokasenna_Radial Menu Setup.lua'';
@@ -53341,7 +53341,7 @@
         {
           path = ''Lokasenna_Radial Menu - example settings.txt'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/4b68451766e7a06b601a4b646b4c077cdf7e8736/Various/Lokasenna_Radial%20Menu/Lokasenna_Radial%20Menu%20-%20example%20settings.txt";
-          sha256 = "1s3iiyf658d11s6jg75aq778rnxh9r7h6lk5iwvq3hldl4zpnblp";
+          sha256 = "1by1n8q7j65lrzsd87hhsrg1qb8mwpbnwwn90a1j882j2b3wrdsx";
         }
       ];
     };
@@ -53355,7 +53355,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/fe4eae9526f63fee343519e96be858cddce3a5e3/Various/Lokasenna_Refresh%20current%20theme.lua";
-          sha256 = "1388p292bpic3sxvcb1lkja4y36zzagzd5qg0pgbkhn05vzpaj84";
+          sha256 = "1rym2228ln991wdwrb5bj5xq9lzcb59vb1yj4wqjsyxiikc5wkn8";
         }
       ];
     };
@@ -53369,7 +53369,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/88e85cde8bf3c5e1af8c244f2a8a1f616d773cbb/Various/Lokasenna_Repeat%20Action.lua";
-          sha256 = "0sz47jw0rg7bwfpg81hf1p2mrk4xp55dns3h8fxmfv1pdjxmi136";
+          sha256 = "0p0gxiw9d4lcg5agicfb5lw12ng9ms94z8rx6ljvldilwpfzp0lc";
         }
         {
           path = ''Lokasenna_Repeat Action - Add new action.lua'';
@@ -53388,7 +53388,7 @@
         {
           path = ''Lokasenna_Repeat Action/.'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/2c2bb64c38085eab0ea0d6baf4c753d2d4f271ff/Various/Lokasenna_Repeat%20Action.lua";
-          sha256 = "1iyvjh660q7b3vwb6bwfmycdmx3i9fjgn13pvnirm81n9775p4hi";
+          sha256 = "1h4341fjf080qp5iclinvxgw1h2780djdbpjss9j762ldk4s99pw";
         }
         {
           path = ''Lokasenna_Repeat Action/Lokasenna_Repeat Action - Add new action.lua'';
@@ -53426,7 +53426,7 @@
         {
           path = ''Lokasenna_Repeat Action/Lokasenna_Repeat Action.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/d91ea8c5bcc2f7c6b423676447c2b57ed82eb131/Various/Lokasenna_Repeat%20Action.lua";
-          sha256 = "0xb2kpy1iynd00q6cwiyp29arflpdnv17n2yqacq15jsix1hcg7c";
+          sha256 = "0jhqfmygb8n9jv006vzrrrdh7pw6ya4cr8brz44pcjr9kmsfdkw5";
         }
         {
           path = ''Lokasenna_Repeat Action/Lokasenna_Repeat Action - Add new action.lua'';
@@ -53445,7 +53445,7 @@
         {
           path = ''Lokasenna_Repeat Action/Lokasenna_Repeat Action.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/f1c424560b57bae90c8f7b8ec0e1c657cbbc81b0/Various/Lokasenna_Repeat%20Action.lua";
-          sha256 = "0vcq5r550ck28aczsqfmlzrf829aypvhlpss8r6bs2dlkl2pj3h2";
+          sha256 = "1yj7gzal9bpl5hbahfbmbj61vp6rw8sjblx8zwndh4yg3hmlhzra";
         }
         {
           path = ''Lokasenna_Repeat Action/Lokasenna_Repeat Action - Add new action.lua'';
@@ -53469,7 +53469,7 @@
         {
           path = ''Lokasenna_Repeat Action/Lokasenna_Repeat Action - Add new action.lua'';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c91603cdcd92f01cabd12185d284965ea2a0ede4/Various/Lokasenna_Repeat%20Action%20-%20Add%20new%20action.lua";
-          sha256 = "1rzfgbnb1d5kyi2dxnp51kcwwrmn74h8vbmdmcbv50011cgj09nj";
+          sha256 = "05fc3bzln9wy0a5r0y0i5h5b95sz0kqa2l37npg77h574xb8702r";
         }
       ];
     };
@@ -53511,7 +53511,7 @@
         {
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/c14d111d4191bc9a3ae066bf918c1166f5be400e/Various/Lokasenna_Scroll%20mixer%20to%20first%20selected%20track.lua";
-          sha256 = "0csjgchz82n8bxl9by4531lj6hamy98jsa34x7nyfhf2dr3sqi82";
+          sha256 = "16zmyf9vqrxdrjr3a2wc1nq1w4fgqcwn94m9vspqi65yhgwhpj8x";
         }
       ];
     };

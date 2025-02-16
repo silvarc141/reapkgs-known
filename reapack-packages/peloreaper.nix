@@ -818,7 +818,7 @@
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan_Mini.dat'';
           url = "https://github.com/pelori/PeloReaper/raw/master/ReleaseFiles/Extension/2021.03.19/PeloReaper/Dancer/DANCER%20REAPER-Chan_Mini.dat";
-          sha256 = "0mma4x5qi7yhz0hy0bxbsw43j6rr9aw7vr6iax3xz1dik1s4qa2p";
+          sha256 = "00azzrvm1sydxppmz3ayrlh97y41lhc9z6z8csg9nhl77i2bafga";
         }
         {
           path = ''PeloReaper/Dancer/DANCER REAPER-Chan_Mini.png'';

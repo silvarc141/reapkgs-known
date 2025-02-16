@@ -5995,7 +5995,7 @@
         {
           path = ''S2GFX/mixer_vol.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/mixer_vol.png";
-          sha256 = "15zjl7l92imrafmd92sn2hq5qm6rl8mqlzjwgg2km5kfmxs5w5dh";
+          sha256 = "";
         }
         {
           path = ''Blue Lexikan S2 (Tukan)'';
@@ -42058,7 +42058,7 @@
         {
           path = ''NC76 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V0-0/NC76%20(Tukan).png";
-          sha256 = "07an673lshrzpy224cnv7s29zahfswlcwxi6r2693i4pbrk0nijl";
+          sha256 = "147hn36fcvxdzx25313jcmla1q6yjy89da5abqr22v7s8cb7grk3";
         }
         {
           path = ''76gui/1176button.png'';
@@ -42543,7 +42543,7 @@
         {
           path = ''Delaymachine (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Delaymachine%20(Tukan).png";
-          sha256 = "0zqmichgf6zxal2dhs53l56iljcypnwcaha90i7q60g5sgc0zzmz";
+          sha256 = "0pmvppq0nfhzd34fjjkiszmmqxb79gqg1j389s2w6rnvanjgzz50";
         }
         {
           path = ''Delaymachine (Tukan).rpl'';

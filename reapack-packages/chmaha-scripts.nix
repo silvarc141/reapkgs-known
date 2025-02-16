@@ -173,841 +173,1109 @@
         }
       ];
     };
-    reaclassical-lua-25-2-7 = mkReapackPackage {
+    reaclassical-lua-25-2-13 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "reaclassical-lua-25-2-7";
+      name = "reaclassical-lua-25-2-13";
       indexName = "chmaha Scripts";
       categoryName = "ReaClassical";
       packageType = "script";
       sources = [
         {
           path = ''ReaClassical_Add Destination IN marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Add%20Destination%20IN%20marker.lua";
-          sha256 = "131wcsix9z2nm6vh654gfz6rl0kymamg8f1z1lg6999d0qvgi5lr";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Add%20Destination%20IN%20marker.lua";
+          sha256 = "1z9y9bzjsmy52j9jswbsfvfpn2v8n9lzza5hcpdb2f8ic7k9x0z4";
         }
         {
           path = ''ReaClassical_Add Destination OUT Marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Add%20Destination%20OUT%20Marker.lua";
-          sha256 = "19swkidb3w6ss5n0v1vj02li611rv5szaazw6zwc89n4hnc9i090";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Add%20Destination%20OUT%20Marker.lua";
+          sha256 = "0csgrpb96pp9cmzzsgsz8ig7gpg0nzqdkpw7x5pgjjlvhgr28ymq";
         }
         {
           path = ''ReaClassical_Add Source IN marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Add%20Source%20IN%20marker.lua";
-          sha256 = "166kky7jrg2g6a7wmdwihn366sjyj9lq36fk3783m5gd6sajr9iq";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Add%20Source%20IN%20marker.lua";
+          sha256 = "0iy3wypl1f8cwnjw7cbz9vybbp0rcf2hh901x9452vqaxv8az1d7";
         }
         {
           path = ''ReaClassical_Add Source OUT marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Add%20Source%20OUT%20marker.lua";
-          sha256 = "01m2xpydbb9blv2gyf44npdcvvryjyamgfcybv66qmdrg2l5n5g6";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Add%20Source%20OUT%20marker.lua";
+          sha256 = "0jzsq8r2xm65xi6zkrw1z53q2bnccnasjpfglfla68basm5x4k8q";
         }
         {
           path = ''ReaClassical_Classical Crossfade Editor.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Classical%20Crossfade%20Editor.lua";
-          sha256 = "1201fdn25lnw8aalzbnxdyyshl6gcx8k5vhxrbcvckp5zld98j50";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Classical%20Crossfade%20Editor.lua";
+          sha256 = "1bxi3896schwhs7jzxc0xagg8g16lkwajcidva8d8bi0zaqqrkqq";
         }
         {
           path = ''ReaClassical_Classical Crossfade.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Classical%20Crossfade.lua";
-          sha256 = "15mczky8ar6zhws2pj6nydy6ws4pjsn0v887rr0xmpsh7wbqb3gp";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Classical%20Crossfade.lua";
+          sha256 = "1y71f0k6iqjvyyn9wyynn6dyz0rh0m4za70yc4b1jxxrg1wz51z3";
         }
         {
           path = ''ReaClassical_Classical Take Record.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Classical%20Take%20Record.lua";
-          sha256 = "1a9j4l5sy2h297fjx0v9vd50y97gxxv9i37w922vk5ybyhw1hb51";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Classical%20Take%20Record.lua";
+          sha256 = "0vdascxph26ik9dzch8ayq43ngmjb8q4wbf9qz9kijn9jkhpdhv2";
         }
         {
           path = ''ReaClassical_Delete All S-D markers.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Delete%20All%20S-D%20markers.lua";
-          sha256 = "0fa0l180pbwy5vs5s36pas6m0x43h7bkh1kh2zph0yksnmszlmsl";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Delete%20All%20S-D%20markers.lua";
+          sha256 = "17mwpz5pk2xgc55dmrsp4i0hx4zp0jc2gkraf5cxh4h5aijq3413";
         }
         {
           path = ''ReaClassical_Duplicate folder (No items).lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Duplicate%20folder%20(No%20items).lua";
-          sha256 = "1z1g97js1kflncxx7zbm95hh9mzl7qzyj9am9npypqd5hrwkzwv0";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Duplicate%20folder%20(No%20items).lua";
+          sha256 = "0v2dbdzazqs4s5mlk684ydhjbm6gw7r5aqs9m1yj9wdyx91xggqa";
         }
         {
           path = ''ReaClassical_Edit Classical Crossfade.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Edit%20Classical%20Crossfade.lua";
-          sha256 = "0yrmbn7y7wbhsnsxv4l72p7zlz84wbkczb6plgi4s4iiwrnza86l";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Edit%20Classical%20Crossfade.lua";
+          sha256 = "16b2ap5pmpj2i9xs1fzr7f8pm18ra6pl5qscjs5qirl7myqip551";
         }
         {
           path = ''ReaClassical_Prepare Takes.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Prepare%20Takes.lua";
-          sha256 = "1fnasc4a37prpmii4ssr00ks153szj8ngfs5alv2l01y0y5qb04w";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Prepare%20Takes.lua";
+          sha256 = "1vshw8ldajqf6v11x8y5yrdazq2y0bq2r7xsmfjpfb4rbhfjbgkx";
         }
         {
           path = ''ReaClassical_S-D Edit.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_S-D%20Edit.lua";
-          sha256 = "0mb9n7d557ib2cd6zrvz4imxkvf2x0zjaf2n3qnw2yvlv0df5j1k";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_S-D%20Edit.lua";
+          sha256 = "12llk63y0sjsqzwgx4vjij1b8qr9gp424ckrxxlk71xk0k4rpp28";
         }
         {
           path = ''ReaClassical_Whole Project View Horizontal.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Whole%20Project%20View%20Horizontal.lua";
-          sha256 = "0sn9q7yxvabha2vfar3gd0xyvbbgqdq1campxnm7a0rl4jhqzhwx";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Whole%20Project%20View%20Horizontal.lua";
+          sha256 = "04cjcw4ckmq7warvkfl2kbcn1ws9nrpmr14v3xw0fwhxx8kxy44j";
         }
         {
           path = ''ReaClassical_Whole Project View Vertical.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Whole%20Project%20View%20Vertical.lua";
-          sha256 = "0b2190gc40p74ayj3w7dskz4gjjvbbrwnr0j66nf8z3fjqs3gc89";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Whole%20Project%20View%20Vertical.lua";
+          sha256 = "0icwsk71wms2c8jngsm17wm723dm6vnc64ha5kdwf1ab8dwpw3zh";
         }
         {
           path = ''ReaClassical_Vertical Workflow.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Vertical%20Workflow.lua";
-          sha256 = "0rrhl0ql3g6ym71rc095vx9gz5c94yrw3lmb3ipmx9cfawjq9s5p";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Vertical%20Workflow.lua";
+          sha256 = "15phvd1gdqhp9rkgydvs4lzsfia3a0mgjypd8kr514hq9n3qqfbq";
         }
         {
           path = ''ReaClassical_Audition.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Audition.lua";
-          sha256 = "1y5hildmc7yfl244bl4s38jg9wyzcc1pikv2w4fxh0g6fy5vvki5";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Audition.lua";
+          sha256 = "1az6kqdnpqg6ybbgr1y7pyfwxqhq5hl361i2fh977jq4y92ipvfx";
         }
         {
           path = ''ReaClassical_Delete Leaving Silence.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Delete%20Leaving%20Silence.lua";
-          sha256 = "12xpkazsv41y7dwywm2hz5vdyvgfagk5vqhhqsrjvsrff6f9xagf";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Delete%20Leaving%20Silence.lua";
+          sha256 = "1f8hqjczhk5ccjgn1fa50y18wm5vi3d3k6ahy9z7acx47mz36mbp";
         }
         {
           path = ''ReaClassical_Delete With Ripple.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Delete%20With%20Ripple.lua";
-          sha256 = "1pdpswy6j0k3v843g8gkzifyv3il3pm6v1cbkshgqlxiag2xa4by";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Delete%20With%20Ripple.lua";
+          sha256 = "1y3f3g5r7s2vq6jakjb0wccigp86wzcmajaxxkbnq5y427gc0b8r";
         }
         {
           path = ''ReaClassical_Insert with timestretching.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Insert%20with%20timestretching.lua";
-          sha256 = "0d0aassc4cffcwscw35pshi6pxffs6l4ly89svxfwqzaybc4nzr2";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Insert%20with%20timestretching.lua";
+          sha256 = "0045iz4x1vwppzlp8dwc88fxx7ng6hkcc0lin8d04k2mgnhc51b7";
         }
         {
           path = ''ReaClassical_Horizontal Workflow.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Horizontal%20Workflow.lua";
-          sha256 = "1w6fnshhz7m2jhnkxljxxrnrl8i6nbwhk3a3h57svq33q02s47z4";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Horizontal%20Workflow.lua";
+          sha256 = "1rcn79fhv21crmkjjk2z96ncp9c0n987mn3ml0klfbk7q6djbsb1";
         }
         {
           path = ''ReaClassical_Lock_toggle.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Lock_toggle.lua";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Lock_toggle.lua";
           sha256 = "0vci5lx0sk0pcnpjpkws584cxci5k1514zxd6ni5i88bv3xzhhcn";
         }
         {
           path = ''ReaClassical_Create CD Markers.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Create%20CD%20Markers.lua";
-          sha256 = "0qngc0zz27zc7khv14vw4li5hy67984jkp70nrwx5z4k6lf23nj1";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Create%20CD%20Markers.lua";
+          sha256 = "1is1x577l92yxlgzp4n9c032qhhsc178bsk1lilhx51ppih6j4r1";
         }
         {
           path = ''ReaClassical_Help.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Help.lua";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Help.lua";
           sha256 = "08hgsmvdjc83ixmdhy3sv6qhy2q63gsg7h2k53i6xwpd8c8c26nz";
         }
         {
           path = ''ReaClassical_Next Item or Fade.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Next%20Item%20or%20Fade.lua";
-          sha256 = "0s1wy49w2xpqfhbmgxhfjdiqjs6aw7vrin06z5l1blz863wx52qm";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Next%20Item%20or%20Fade.lua";
+          sha256 = "0373fhsflk71f9h06bx58dmf7d8v6v3wgljgzxhfwznlfb9aa812";
         }
         {
           path = ''ReaClassical_Previous Item or Fade.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Previous%20Item%20or%20Fade.lua";
-          sha256 = "0lclnx7rzrpfr2j2n6xs5y8nn7lz075v68gznz4bdr2h2bji8fk5";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Previous%20Item%20or%20Fade.lua";
+          sha256 = "1zbin3c28kbsixpnxrjvnxc8bdzlbqp3qqnigq75v1cdxlvx94li";
         }
         {
           path = ''ReaClassical_Add Aux.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Add%20Aux.lua";
-          sha256 = "0kn25m1wkq2xdzsf26bp3qj2fs39hyccx6g5hmchfv9p0jyzb325";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Add%20Aux.lua";
+          sha256 = "1gwyb2kjrdl4xyds0l67ykcwvi2qlk372hpabqnxc4s2gphamlq8";
         }
         {
           path = ''ReaClassical_Add Submix.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Add%20Submix.lua";
-          sha256 = "1yqajjn9i6q4d1ma9w670a5fj6qndpf66xharwlmi954n7aag78i";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Add%20Submix.lua";
+          sha256 = "0w74qrpr16cz835b7sqdjzmhak0km90sgcazk5788dc4rbq4pjgm";
         }
         {
           path = ''ReaClassical_Reposition_Album_Tracks.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Reposition_Album_Tracks.lua";
-          sha256 = "0zavgzrhlqkqbizanp6inwdry5xn2878i0lpxh4q7wm2in6zbrhv";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Reposition_Album_Tracks.lua";
+          sha256 = "0jjrhkjyk92lfbcww6ycc3kd8lz4yr9acc132y840800r3srj8cm";
         }
         {
           path = ''ReaClassical_mpl_Markers to CUE.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_mpl_Markers%20to%20CUE.lua";
-          sha256 = "0f5245zabf0jzwwsp13dzkb9yakvdnsck6b17p1453w2xg1nfgh1";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_mpl_Markers%20to%20CUE.lua";
+          sha256 = "11j8yx59i36jkvgrgj93bpbga4bl9v7gr0z8b2p6l6z97750wn00";
         }
         {
           path = ''ReaClassical_Preferences.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Preferences.lua";
-          sha256 = "15n0fbrb0x10lj62rq4j9czkrs3zm3yywnzrcydgvm1vbkzwkskh";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Preferences.lua";
+          sha256 = "1frinrlvfk6vn05nrpvgxz0wk6jaa1iqiiim4jyaxg9gnrzfzllv";
         }
         {
           path = ''ReaClassical_TrackLeft.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_TrackLeft.lua";
-          sha256 = "0kccqplri5yqgvaw49in6x19839y9lh61kdpdz7skqqbcaq79hk5";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_TrackLeft.lua";
+          sha256 = "009g40y39aq3j7lxhbdnng7jlngpndxllsbj9m5f10chjgi93gbw";
         }
         {
           path = ''ReaClassical_TrackRight.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_TrackRight.lua";
-          sha256 = "0y61p0dbpn8436j58aassqcqbm78sng2dxd09q8s90hd086mawvb";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_TrackRight.lua";
+          sha256 = "1dxaln62n68ynpk9nsm0lkwi94sdvrynb5j88kpsv6in2a16lg20";
         }
         {
           path = ''ReaClassical_ExplodeMultiChannel.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_ExplodeMultiChannel.lua";
-          sha256 = "0s09i597jaxnwa96f6ayg4ng6j2jg01d4x1lcziycxfmfz3vry9f";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_ExplodeMultiChannel.lua";
+          sha256 = "0rhg0cn92cc7m1hhay0ci71xw6b80y8zqczdpldksx87iwxzs0h3";
         }
         {
           path = ''ReaClassical_Colorize.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Colorize.lua";
-          sha256 = "0ybh2ybj84afx1krysq58s4vgvgc529017k2vwjd3rn74bih1x8c";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Colorize.lua";
+          sha256 = "08cdmxly9h8c7ycpsag51nn2kwvrbavy6727jr8vj4151bpbwzc1";
         }
         {
           path = ''ReaClassical_Add RoomTone Track.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Add%20RoomTone%20Track.lua";
-          sha256 = "0f0srbng02izp22z7nw7g63bng1dwkpng05fs51x30xpqgf8jahf";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Add%20RoomTone%20Track.lua";
+          sha256 = "08zmd2f3h481b4gdpdcl7m10i9vkbnc9wnikscv2ywcqaa7kb6ma";
         }
         {
           path = ''ReaClassical_Move to Destination IN marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Move%20to%20Destination%20IN%20marker.lua";
-          sha256 = "0c5gzjk9jjjln0qpk1g3lwkryafi8n9gf1cjnmcq96jr12fffm46";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Move%20to%20Destination%20IN%20marker.lua";
+          sha256 = "05g0h1npma78299c01j070r14vk3y43cvhfyhp82bssdjxas5xki";
         }
         {
           path = ''ReaClassical_Move to Destination OUT marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Move%20to%20Destination%20OUT%20marker.lua";
-          sha256 = "1pkygi0hdnwvgajyjvqh080liwhvmkcjwpcnl8fzs591g9l91mv8";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Move%20to%20Destination%20OUT%20marker.lua";
+          sha256 = "1b3bjv3qy2frv7av29fgv1b6p93x4g8ss5zkp7213vkci602yxac";
         }
         {
           path = ''ReaClassical_Move to Source IN marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Move%20to%20Source%20IN%20marker.lua";
-          sha256 = "0hbdk6zj6pzj03w1pfy5vbr0xpx5z467mmnx0hdjyhpzxxgsksbz";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Move%20to%20Source%20IN%20marker.lua";
+          sha256 = "07i0dphfq71ccxlg40hxix5bgyk32gw3lby62nanji7idw6y2nlf";
         }
         {
           path = ''ReaClassical_Move to Source OUT marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Move%20to%20Source%20OUT%20marker.lua";
-          sha256 = "12xyix950c1j1fxpadbsqmjpxynlfnklkl6fdxanxpsxhj3486q6";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Move%20to%20Source%20OUT%20marker.lua";
+          sha256 = "0cijk7n0gmn12q510np4kj9inrkp53gs9pavjlzqsm1yj2b473mj";
         }
         {
           path = ''ReaClassical_Zoom to Destination IN marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Zoom%20to%20Destination%20IN%20marker.lua";
-          sha256 = "1z2ci0f5dmlfdgh1mp11k4ai9x4x4hfyy604z0249k0av1xkkbyd";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Zoom%20to%20Destination%20IN%20marker.lua";
+          sha256 = "04h6a9px9s0zgyj8xhg47mns46hxr6726l5skwrr9blw4m8zb3za";
         }
         {
           path = ''ReaClassical_Zoom to Destination OUT marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Zoom%20to%20Destination%20OUT%20marker.lua";
-          sha256 = "07l8k4m6srcj2dzj50hva44hyxkn2jjmpq2bcsxbckg8xfqn4mk4";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Zoom%20to%20Destination%20OUT%20marker.lua";
+          sha256 = "1znbipa72482npyidvdq75h7gvdbch4fz45qvqmidrwm5hx3da9s";
         }
         {
           path = ''ReaClassical_Zoom to Source IN marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Zoom%20to%20Source%20IN%20marker.lua";
-          sha256 = "0pabhx3283gzqmyka21ix169nvbrmxqy5q7vnyl99yfi4yr4xspm";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Zoom%20to%20Source%20IN%20marker.lua";
+          sha256 = "0qwz71n1df12frr7ld23pnskmyk4rv05pazdkrs9rgpj89zqydvx";
         }
         {
           path = ''ReaClassical_Zoom to Source OUT marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Zoom%20to%20Source%20OUT%20marker.lua";
-          sha256 = "1jzglcwgqr6j7vcb1h7sdl5d4ix331sqcl1x7hn9q0h0yhc8iv4k";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Zoom%20to%20Source%20OUT%20marker.lua";
+          sha256 = "06z8xkx12mswrl6ix5ivzqwgi8kz05b8dhdma7l0079qy74jxsnd";
         }
         {
           path = ''ReaClassical_3-point Insert Edit.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_3-point%20Insert%20Edit.lua";
-          sha256 = "1a7w0d6kc9ir4k50ncyb8pyc0mm3lazqg91ijiji8a5fz5bjm1nf";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_3-point%20Insert%20Edit.lua";
+          sha256 = "0gjjv74jspp4l19jr23iiq5cdwbxfz7219sh70by8w3ls8q7lwvb";
         }
         {
           path = ''ReaClassical_Updater.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Updater.lua";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Updater.lua";
           sha256 = "1n1vrvalzxhn3lmdlnxmji4v5rvawr8yzv0ydyb8hfdx3iyxwbl5";
         }
         {
           path = ''ReaClassical_Find Take.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Find%20Take.lua";
-          sha256 = "12mp7313sfbz2z752zc8l9yjfjwrrw8haqxh07x87vyg5g4abb6g";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Find%20Take.lua";
+          sha256 = "1z5vr72k24s99l63shxia67iks9jf69541ik8mf1irmz81y9clx4";
         }
         {
           path = ''ReaClassical_Take Counter.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Take%20Counter.lua";
-          sha256 = "0fq9jbzp67ki0x8qr7vx3x5gngzfsqinn9daq899l1msc0yfckcs";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Take%20Counter.lua";
+          sha256 = "16hacscg2501qbamc52srifpxn57b23cd0gv8bvlahw2xfnzhci0";
         }
         {
           path = ''ReaClassical_Add Track To All Groups.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Add%20Track%20To%20All%20Groups.lua";
-          sha256 = "0s75ajdwxfnyic72z6i4m0yxkp6c86j813plarzmfhdh9r6ryks0";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Add%20Track%20To%20All%20Groups.lua";
+          sha256 = "1fh43v2jgz2mmy0n1n31q6b71fyx3xz5r4skcysaryvmxygk1n4v";
         }
         {
           path = ''ReaClassical_Hide Children.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Hide%20Children.lua";
-          sha256 = "08g7ylpn20mjk8gs8j13sdzh3xavgzcksbss7x0wbp295yy4y5b3";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Hide%20Children.lua";
+          sha256 = "0jq6m0rk1yc58jmvx39jdwj0r4nfsrkfqbjx7yms4qb5yakzfn2f";
         }
         {
           path = ''ReaClassical_Show Children.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Show%20Children.lua";
-          sha256 = "0iw4wv0cgahvx9kf87ac04gbsgd78jjnaih0m8wbxl70852ymq06";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Show%20Children.lua";
+          sha256 = "1bm1c7jfj0p5j3z8xshfslxm65zlk7x7a41j3g9i8nxslhda92nl";
         }
         {
           path = ''ReaClassical_Automation Mode.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Automation%20Mode.lua";
-          sha256 = "071p8dw22q6bxym5dxm0b7fidvs6n1zj92361g9j9rvda2l91cl6";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Automation%20Mode.lua";
+          sha256 = "0hwlsvv118k6g34kabw9769iwrlglnz91cvikiyiz1l2vgzibdg9";
         }
         {
           path = ''ReaClassical_Insert Automation.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Insert%20Automation.lua";
-          sha256 = "1y5hdj48xg4mcc0jsb6jyrypzp5xp5l9gr08p68qgv07an9nnfmr";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Insert%20Automation.lua";
+          sha256 = "1i25p7ya33qg62pg0df1cjgl2lkrlhn5asddmdgzfvp0fxmdkq3v";
         }
         {
           path = ''ReaClassical_Set Dest Project Marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Set%20Dest%20Project%20Marker.lua";
-          sha256 = "0avs1jakbgqdjzx5sflxmljlzij852yl57vd764ql53lj9sz607j";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Set%20Dest%20Project%20Marker.lua";
+          sha256 = "1wsn59yglma3j7rpc09cwvknwrs1aa2d08xnlkl2l25jsh9fsax3";
         }
         {
           path = ''ReaClassical_Set Source Project Marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Set%20Source%20Project%20Marker.lua";
-          sha256 = "0kl8rjcmr74fq9vkzzjr1s77m17srnbfx8jf6ib1dvaida91lzsr";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Set%20Source%20Project%20Marker.lua";
+          sha256 = "0rfcacdnbaqckxw3iw4fyk68pnqgg2qh89sfkkq2z78nx3aj66ri";
         }
         {
           path = ''ReaClassical_Delete Track From All Groups.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Delete%20Track%20From%20All%20Groups.lua";
-          sha256 = "0zzkkqh24wdv0hg2b28izqvbsky7vzyfdd4rhqa2z0h1xqcgnp2l";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Delete%20Track%20From%20All%20Groups.lua";
+          sha256 = "0vbj2fj2gmw4ha1b2ply3jn0k0sfkk6g73kfkd1iiszdf10qi2sl";
         }
         {
           path = ''ReaClassical_Add Ref Track.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Add%20Ref%20Track.lua";
-          sha256 = "1mflvfqaqb9dbyr81a52iinv8myl5lbh2p2dgmi5y4mcnqa4i82p";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Add%20Ref%20Track.lua";
+          sha256 = "0qq63lv58s3h40v12622msj2jsawvg7srcnnq75a8xvxr903sdx1";
         }
         {
           path = ''ReaClassical_Source Markers to Item Edge.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Source%20Markers%20to%20Item%20Edge.lua";
-          sha256 = "1xcgzypgj29a84bcasgkb80n7qxpcdy780qh8bq5dcc7rib5369n";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Source%20Markers%20to%20Item%20Edge.lua";
+          sha256 = "0apbp2kpnlj6g675bkzsjz96brqrvfnsr2lzzw6m3xf2fk408wa5";
         }
         {
           path = ''ReaClassical_Destination Markers to Item Edge.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Destination%20Markers%20to%20Item%20Edge.lua";
-          sha256 = "1ldsna69dihqdv45l9ajmqz9qkc8w65si2q7qxkq9nfk8lnsa3py";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Destination%20Markers%20to%20Item%20Edge.lua";
+          sha256 = "1vqf9mb8czy8ajfridwsrz6kd2n4c249mdgdf79wikprwrsym4hi";
         }
         {
           path = ''ReaClassical_Remove Take Names.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Remove%20Take%20Names.lua";
-          sha256 = "1vn7lp5j9x4ypw5jy94jfl3dxa98wm3pmfhdw1vpvas2w00z90jb";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Remove%20Take%20Names.lua";
+          sha256 = "1599q73v5rl7mwyqmpanq2sz5jwynpv5g6rshlj43m16bap16dsg";
         }
         {
           path = ''ReaClassical_Jump To Time.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Jump%20To%20Time.lua";
-          sha256 = "0m69j1v1hzwffq578cq31hz3knlp18k3xippzpqvm7pzf8nygcg3";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Jump%20To%20Time.lua";
+          sha256 = "0n07ijn61023i3xclzhp27dj4973hd1bx3fkw5cgism7sqls167q";
         }
         {
           path = ''ReaClassical_Audio Calculator.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Audio%20Calculator.lua";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Audio%20Calculator.lua";
           sha256 = "0nka1dz05fyx3f4ls4zjpi7snza69n4d4239x7kbd8b4pz1rala4";
         }
         {
           path = ''ReaClassical_Auto Set Recording Inputs.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Auto%20Set%20Recording%20Inputs.lua";
-          sha256 = "0ahkrrlbv7s8ccdygfvdxp2r3w0wkqf9h9wg7vf306rbkx47m6kz";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Auto%20Set%20Recording%20Inputs.lua";
+          sha256 = "1j99xhjf9dial3qj0m0gb8zbxfn0kv5izp8781d0flh9ixbqn20k";
         }
         {
           path = ''ReaClassical_Mastering Mode.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Mastering%20Mode.lua";
-          sha256 = "1z1069yjjvpy0xdzg36whn86yy2658r1ba2l50njav9cs2438g7m";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Mastering%20Mode.lua";
+          sha256 = "0arg4476hqbs5cq1ykq2b1viy7r4ya07z9b2nzfizak6p183iz80";
         }
         {
           path = ''ReaClassical_Audition_with_playrate.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Audition_with_playrate.lua";
-          sha256 = "0zj74a904d337wwp9gfilmayc1p2n5ja27yl6rliq4jdkhajw8lm";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Audition_with_playrate.lua";
+          sha256 = "1rk46f71xkyndfd0xqn4cpi89qrw3m60nbm5l7pa8dzdqpksb2yd";
         }
         {
           path = ''ReaClassical_Increment Take Number While Recording.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Increment%20Take%20Number%20While%20Recording.lua";
-          sha256 = "0348qy7h0h15gd4p7p77m693aayll40kyvq0hn8g7pd45a9aylxz";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Increment%20Take%20Number%20While%20Recording.lua";
+          sha256 = "0k690pwdmj0ln75r5nh6nhkkmdywivrclxdc4m60ayvxc777j5x3";
         }
         {
           path = ''ReaClassical_Rank Higher.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Rank%20Higher.lua";
-          sha256 = "0hr7n4xn72sxnibhkl84467kvkf60hycm0kw74yqb1fz610qddmc";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Rank%20Higher.lua";
+          sha256 = "0w9vrsa4gx6j9aq7yqknx5qyx7k3xa2lgg6h45sn4h7432qil50w";
         }
         {
           path = ''ReaClassical_Rank Lower.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Rank%20Lower.lua";
-          sha256 = "1bphcwjdbayrb96i8lha5d3yqmwkihcghrpzycpg7yqi6i6fhhz6";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Rank%20Lower.lua";
+          sha256 = "16nyhgj6l5r6vjsh54a9nfxsskgi1zq0d2mvss1vfc7qs0m935n3";
         }
         {
           path = ''ReaClassical_Remove Ranking.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Remove%20Ranking.lua";
-          sha256 = "1znqj528kc96vhm297vq8y2cywscmvnn6j2m725dxwc0h6kh532p";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Remove%20Ranking.lua";
+          sha256 = "109rdwyihd2bcj1zps53513v2rg7yfql819l3jb2ixip2n1kf0fl";
         }
         {
           path = ''ReaClassical_Add Special Tracks.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Add%20Special%20Tracks.lua";
-          sha256 = "1xccpnk2zdkaxp7s8r63ln167w31i11hbrmphvy15rsmjvsla6qa";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Add%20Special%20Tracks.lua";
+          sha256 = "0zplns0q1a66xi8066jm6ryr74iywlg6k6gyxj4davmrvvrzihxr";
         }
         {
           path = ''ReaClassical_Delete S-D Project Markers.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Delete%20S-D%20Project%20Markers.lua";
-          sha256 = "0qzcbvfqvqavmwyajhbm53zxwq0h04lrxf2in76lchnsm9rcx1qp";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Delete%20S-D%20Project%20Markers.lua";
+          sha256 = "1lbnvhsf614p44nbq5xpxg8x886lfw1il1sbfl17z8jkn3a2v1dw";
         }
         {
           path = ''ReaClassical.RPP'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical.RPP";
-          sha256 = "0z38siny4cac8wzr0jcadyagm6shi6rk9ry9inmx6miyni4xm5fk";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical.RPP";
+          sha256 = "0s6wi3sh7v42jfvsfd4xjkfaj03c4xazc2kz6sy1rcqx63pyqpi9";
         }
         {
           path = ''ReaClassical.ReaperThemeZip'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical.ReaperThemeZip";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical.ReaperThemeZip";
           sha256 = "0g9c0ydsj143rqh0fkwawsss12grdjws4ckw5pgflp71dp33jah4";
         }
         {
           path = ''ReaClassical Light.ReaperThemeZip'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical%20Light.ReaperThemeZip";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical%20Light.ReaperThemeZip";
           sha256 = "1bafx2llk8mbnxkcx6a9b5jg9wr0zaxx5piacy6qj0xs6fq2njfg";
         }
         {
           path = ''ReaClassical WaveColors Dark.ReaperThemeZip'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical%20WaveColors%20Dark.ReaperThemeZip";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical%20WaveColors%20Dark.ReaperThemeZip";
           sha256 = "02avgkf9h7i2if8amqg759rq7sfkjvb48li7cq5w95arfvxx503a";
         }
         {
           path = ''ReaClassical WaveColors Light.ReaperThemeZip'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical%20WaveColors%20Light.ReaperThemeZip";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical%20WaveColors%20Light.ReaperThemeZip";
           sha256 = "0rbfyhic6hnw0gld42p8kbj817fsmr3rpzjj4pvnwkqpimxy5dgw";
         }
         {
           path = ''ReaClassical_Colors_Table.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical_Colors_Table.lua";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical_Colors_Table.lua";
           sha256 = "0lz7pqq9qmpxb9pvl5x4d9dw7amd5nvxdpyxpmmbzs5xczcxsc8j";
         }
         {
           path = ''ReaClassical-Manual.pdf'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/PDF-Manual/ReaClassical-Manual.pdf";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/PDF-Manual/ReaClassical-Manual.pdf";
           sha256 = "07nns7kmkx0knq6rqaa98skvxh542hiw4i855xn6rlv9h1r08wnf";
         }
         {
           path = ''reaclassical-splash.png'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/reaclassical-splash.png";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/reaclassical-splash.png";
           sha256 = "1djanrrwndn69wl7h36pld62xam7yvrja41pzhp8zam267g814sc";
         }
         {
           path = ''ReaClassical-menu.ini'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical-menu.ini";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical-menu.ini";
           sha256 = "0rh5c2wmmx7n3z6d4xsb9qlhncaqs1qvjw8dhxdn5dx5a8acv0xn";
         }
         {
           path = ''ReaClassical-kb.ini'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/ReaClassical/ReaClassical-kb.ini";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/ReaClassical/ReaClassical-kb.ini";
           sha256 = "0syq93a1pmdxf4xylqff939izxci0nfqqv633i1653rmi0h9j681";
         }
         {
           path = ''audio_calculator.html'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/audio_calculator.html";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/audio_calculator.html";
           sha256 = "0kqav83bjh3fd8170gw81mh6pra56m2sr8nljl8qk54drrxj4kl6";
         }
         {
           path = ''reaclassical_logo.png'';
-          url = "https://github.com/chmaha/ReaClassical/raw/673ad1ec58e8d563ba406c347dd5475483b85225/docs/images/reaclassical_os.png";
+          url = "https://github.com/chmaha/ReaClassical/raw/17d7e42d2f609a48b2d3da165c2b298bbe25a289/docs/images/reaclassical_os.png";
           sha256 = "1c6vzaf5l343y9kzpcb11rfqpfjpsh723rm5603si0gcmrcw4cja";
         }
       ];
     };
-    reaclassical-lua-25-2-8 = mkReapackPackage {
+    reaclassical-lua-25-2-14 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "reaclassical-lua-25-2-8";
+      name = "reaclassical-lua-25-2-14";
       indexName = "chmaha Scripts";
       categoryName = "ReaClassical";
       packageType = "script";
       sources = [
         {
           path = ''ReaClassical_Add Destination IN marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Add%20Destination%20IN%20marker.lua";
-          sha256 = "131wcsix9z2nm6vh654gfz6rl0kymamg8f1z1lg6999d0qvgi5lr";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Add%20Destination%20IN%20marker.lua";
+          sha256 = "1z9y9bzjsmy52j9jswbsfvfpn2v8n9lzza5hcpdb2f8ic7k9x0z4";
         }
         {
           path = ''ReaClassical_Add Destination OUT Marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Add%20Destination%20OUT%20Marker.lua";
-          sha256 = "19swkidb3w6ss5n0v1vj02li611rv5szaazw6zwc89n4hnc9i090";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Add%20Destination%20OUT%20Marker.lua";
+          sha256 = "0csgrpb96pp9cmzzsgsz8ig7gpg0nzqdkpw7x5pgjjlvhgr28ymq";
         }
         {
           path = ''ReaClassical_Add Source IN marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Add%20Source%20IN%20marker.lua";
-          sha256 = "166kky7jrg2g6a7wmdwihn366sjyj9lq36fk3783m5gd6sajr9iq";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Add%20Source%20IN%20marker.lua";
+          sha256 = "0iy3wypl1f8cwnjw7cbz9vybbp0rcf2hh901x9452vqaxv8az1d7";
         }
         {
           path = ''ReaClassical_Add Source OUT marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Add%20Source%20OUT%20marker.lua";
-          sha256 = "01m2xpydbb9blv2gyf44npdcvvryjyamgfcybv66qmdrg2l5n5g6";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Add%20Source%20OUT%20marker.lua";
+          sha256 = "0jzsq8r2xm65xi6zkrw1z53q2bnccnasjpfglfla68basm5x4k8q";
         }
         {
           path = ''ReaClassical_Classical Crossfade Editor.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Classical%20Crossfade%20Editor.lua";
-          sha256 = "1201fdn25lnw8aalzbnxdyyshl6gcx8k5vhxrbcvckp5zld98j50";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Classical%20Crossfade%20Editor.lua";
+          sha256 = "1bxi3896schwhs7jzxc0xagg8g16lkwajcidva8d8bi0zaqqrkqq";
         }
         {
           path = ''ReaClassical_Classical Crossfade.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Classical%20Crossfade.lua";
-          sha256 = "15mczky8ar6zhws2pj6nydy6ws4pjsn0v887rr0xmpsh7wbqb3gp";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Classical%20Crossfade.lua";
+          sha256 = "1y71f0k6iqjvyyn9wyynn6dyz0rh0m4za70yc4b1jxxrg1wz51z3";
         }
         {
           path = ''ReaClassical_Classical Take Record.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Classical%20Take%20Record.lua";
-          sha256 = "1a9j4l5sy2h297fjx0v9vd50y97gxxv9i37w922vk5ybyhw1hb51";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Classical%20Take%20Record.lua";
+          sha256 = "1hz1z49yia1bwawqvxv0a3w08169i3jp1cidykqwiqw8875p3a93";
         }
         {
           path = ''ReaClassical_Delete All S-D markers.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Delete%20All%20S-D%20markers.lua";
-          sha256 = "0fa0l180pbwy5vs5s36pas6m0x43h7bkh1kh2zph0yksnmszlmsl";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Delete%20All%20S-D%20markers.lua";
+          sha256 = "17mwpz5pk2xgc55dmrsp4i0hx4zp0jc2gkraf5cxh4h5aijq3413";
         }
         {
           path = ''ReaClassical_Duplicate folder (No items).lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Duplicate%20folder%20(No%20items).lua";
-          sha256 = "1z1g97js1kflncxx7zbm95hh9mzl7qzyj9am9npypqd5hrwkzwv0";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Duplicate%20folder%20(No%20items).lua";
+          sha256 = "0v2dbdzazqs4s5mlk684ydhjbm6gw7r5aqs9m1yj9wdyx91xggqa";
         }
         {
           path = ''ReaClassical_Edit Classical Crossfade.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Edit%20Classical%20Crossfade.lua";
-          sha256 = "0yrmbn7y7wbhsnsxv4l72p7zlz84wbkczb6plgi4s4iiwrnza86l";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Edit%20Classical%20Crossfade.lua";
+          sha256 = "16b2ap5pmpj2i9xs1fzr7f8pm18ra6pl5qscjs5qirl7myqip551";
         }
         {
           path = ''ReaClassical_Prepare Takes.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Prepare%20Takes.lua";
-          sha256 = "1fnasc4a37prpmii4ssr00ks153szj8ngfs5alv2l01y0y5qb04w";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Prepare%20Takes.lua";
+          sha256 = "1vshw8ldajqf6v11x8y5yrdazq2y0bq2r7xsmfjpfb4rbhfjbgkx";
         }
         {
           path = ''ReaClassical_S-D Edit.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_S-D%20Edit.lua";
-          sha256 = "1fkkrhqiflh2wrck8swkypqya3l2bj65p543icf9hk3rhra33w5d";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_S-D%20Edit.lua";
+          sha256 = "12llk63y0sjsqzwgx4vjij1b8qr9gp424ckrxxlk71xk0k4rpp28";
         }
         {
           path = ''ReaClassical_Whole Project View Horizontal.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Whole%20Project%20View%20Horizontal.lua";
-          sha256 = "0sn9q7yxvabha2vfar3gd0xyvbbgqdq1campxnm7a0rl4jhqzhwx";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Whole%20Project%20View%20Horizontal.lua";
+          sha256 = "04cjcw4ckmq7warvkfl2kbcn1ws9nrpmr14v3xw0fwhxx8kxy44j";
         }
         {
           path = ''ReaClassical_Whole Project View Vertical.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Whole%20Project%20View%20Vertical.lua";
-          sha256 = "0b2190gc40p74ayj3w7dskz4gjjvbbrwnr0j66nf8z3fjqs3gc89";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Whole%20Project%20View%20Vertical.lua";
+          sha256 = "0icwsk71wms2c8jngsm17wm723dm6vnc64ha5kdwf1ab8dwpw3zh";
         }
         {
           path = ''ReaClassical_Vertical Workflow.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Vertical%20Workflow.lua";
-          sha256 = "0rrhl0ql3g6ym71rc095vx9gz5c94yrw3lmb3ipmx9cfawjq9s5p";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Vertical%20Workflow.lua";
+          sha256 = "0rd17vg967nv5mnjc7p2mlsbfn3nji5ki2jnspzj324sm2klwqzs";
         }
         {
           path = ''ReaClassical_Audition.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Audition.lua";
-          sha256 = "1y5hildmc7yfl244bl4s38jg9wyzcc1pikv2w4fxh0g6fy5vvki5";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Audition.lua";
+          sha256 = "1az6kqdnpqg6ybbgr1y7pyfwxqhq5hl361i2fh977jq4y92ipvfx";
         }
         {
           path = ''ReaClassical_Delete Leaving Silence.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Delete%20Leaving%20Silence.lua";
-          sha256 = "12xpkazsv41y7dwywm2hz5vdyvgfagk5vqhhqsrjvsrff6f9xagf";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Delete%20Leaving%20Silence.lua";
+          sha256 = "1f8hqjczhk5ccjgn1fa50y18wm5vi3d3k6ahy9z7acx47mz36mbp";
         }
         {
           path = ''ReaClassical_Delete With Ripple.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Delete%20With%20Ripple.lua";
-          sha256 = "1pdpswy6j0k3v843g8gkzifyv3il3pm6v1cbkshgqlxiag2xa4by";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Delete%20With%20Ripple.lua";
+          sha256 = "1y3f3g5r7s2vq6jakjb0wccigp86wzcmajaxxkbnq5y427gc0b8r";
         }
         {
           path = ''ReaClassical_Insert with timestretching.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Insert%20with%20timestretching.lua";
-          sha256 = "1xyp5lpaj4rmf7h63cck6irkriqjsxw3qx3f8dc5n1y5x1bhz0px";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Insert%20with%20timestretching.lua";
+          sha256 = "0045iz4x1vwppzlp8dwc88fxx7ng6hkcc0lin8d04k2mgnhc51b7";
         }
         {
           path = ''ReaClassical_Horizontal Workflow.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Horizontal%20Workflow.lua";
-          sha256 = "1w6fnshhz7m2jhnkxljxxrnrl8i6nbwhk3a3h57svq33q02s47z4";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Horizontal%20Workflow.lua";
+          sha256 = "16x7iriz6gj45rl17gnsnd6qkxrwhnw0c87hpv15flx59d0qciik";
         }
         {
           path = ''ReaClassical_Lock_toggle.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Lock_toggle.lua";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Lock_toggle.lua";
           sha256 = "0vci5lx0sk0pcnpjpkws584cxci5k1514zxd6ni5i88bv3xzhhcn";
         }
         {
           path = ''ReaClassical_Create CD Markers.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Create%20CD%20Markers.lua";
-          sha256 = "0qngc0zz27zc7khv14vw4li5hy67984jkp70nrwx5z4k6lf23nj1";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Create%20CD%20Markers.lua";
+          sha256 = "1is1x577l92yxlgzp4n9c032qhhsc178bsk1lilhx51ppih6j4r1";
         }
         {
           path = ''ReaClassical_Help.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Help.lua";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Help.lua";
           sha256 = "08hgsmvdjc83ixmdhy3sv6qhy2q63gsg7h2k53i6xwpd8c8c26nz";
         }
         {
           path = ''ReaClassical_Next Item or Fade.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Next%20Item%20or%20Fade.lua";
-          sha256 = "0s1wy49w2xpqfhbmgxhfjdiqjs6aw7vrin06z5l1blz863wx52qm";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Next%20Item%20or%20Fade.lua";
+          sha256 = "0373fhsflk71f9h06bx58dmf7d8v6v3wgljgzxhfwznlfb9aa812";
         }
         {
           path = ''ReaClassical_Previous Item or Fade.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Previous%20Item%20or%20Fade.lua";
-          sha256 = "0lclnx7rzrpfr2j2n6xs5y8nn7lz075v68gznz4bdr2h2bji8fk5";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Previous%20Item%20or%20Fade.lua";
+          sha256 = "1zbin3c28kbsixpnxrjvnxc8bdzlbqp3qqnigq75v1cdxlvx94li";
         }
         {
           path = ''ReaClassical_Add Aux.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Add%20Aux.lua";
-          sha256 = "0kn25m1wkq2xdzsf26bp3qj2fs39hyccx6g5hmchfv9p0jyzb325";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Add%20Aux.lua";
+          sha256 = "1gwyb2kjrdl4xyds0l67ykcwvi2qlk372hpabqnxc4s2gphamlq8";
         }
         {
           path = ''ReaClassical_Add Submix.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Add%20Submix.lua";
-          sha256 = "1yqajjn9i6q4d1ma9w670a5fj6qndpf66xharwlmi954n7aag78i";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Add%20Submix.lua";
+          sha256 = "0w74qrpr16cz835b7sqdjzmhak0km90sgcazk5788dc4rbq4pjgm";
         }
         {
           path = ''ReaClassical_Reposition_Album_Tracks.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Reposition_Album_Tracks.lua";
-          sha256 = "0zavgzrhlqkqbizanp6inwdry5xn2878i0lpxh4q7wm2in6zbrhv";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Reposition_Album_Tracks.lua";
+          sha256 = "0jjrhkjyk92lfbcww6ycc3kd8lz4yr9acc132y840800r3srj8cm";
         }
         {
           path = ''ReaClassical_mpl_Markers to CUE.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_mpl_Markers%20to%20CUE.lua";
-          sha256 = "0f5245zabf0jzwwsp13dzkb9yakvdnsck6b17p1453w2xg1nfgh1";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_mpl_Markers%20to%20CUE.lua";
+          sha256 = "11j8yx59i36jkvgrgj93bpbga4bl9v7gr0z8b2p6l6z97750wn00";
         }
         {
           path = ''ReaClassical_Preferences.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Preferences.lua";
-          sha256 = "15n0fbrb0x10lj62rq4j9czkrs3zm3yywnzrcydgvm1vbkzwkskh";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Preferences.lua";
+          sha256 = "1frinrlvfk6vn05nrpvgxz0wk6jaa1iqiiim4jyaxg9gnrzfzllv";
         }
         {
           path = ''ReaClassical_TrackLeft.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_TrackLeft.lua";
-          sha256 = "0kccqplri5yqgvaw49in6x19839y9lh61kdpdz7skqqbcaq79hk5";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_TrackLeft.lua";
+          sha256 = "009g40y39aq3j7lxhbdnng7jlngpndxllsbj9m5f10chjgi93gbw";
         }
         {
           path = ''ReaClassical_TrackRight.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_TrackRight.lua";
-          sha256 = "0y61p0dbpn8436j58aassqcqbm78sng2dxd09q8s90hd086mawvb";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_TrackRight.lua";
+          sha256 = "1dxaln62n68ynpk9nsm0lkwi94sdvrynb5j88kpsv6in2a16lg20";
         }
         {
           path = ''ReaClassical_ExplodeMultiChannel.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_ExplodeMultiChannel.lua";
-          sha256 = "0s09i597jaxnwa96f6ayg4ng6j2jg01d4x1lcziycxfmfz3vry9f";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_ExplodeMultiChannel.lua";
+          sha256 = "0rhg0cn92cc7m1hhay0ci71xw6b80y8zqczdpldksx87iwxzs0h3";
         }
         {
           path = ''ReaClassical_Colorize.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Colorize.lua";
-          sha256 = "0ybh2ybj84afx1krysq58s4vgvgc529017k2vwjd3rn74bih1x8c";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Colorize.lua";
+          sha256 = "08cdmxly9h8c7ycpsag51nn2kwvrbavy6727jr8vj4151bpbwzc1";
         }
         {
           path = ''ReaClassical_Add RoomTone Track.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Add%20RoomTone%20Track.lua";
-          sha256 = "0f0srbng02izp22z7nw7g63bng1dwkpng05fs51x30xpqgf8jahf";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Add%20RoomTone%20Track.lua";
+          sha256 = "08zmd2f3h481b4gdpdcl7m10i9vkbnc9wnikscv2ywcqaa7kb6ma";
         }
         {
           path = ''ReaClassical_Move to Destination IN marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Move%20to%20Destination%20IN%20marker.lua";
-          sha256 = "0c5gzjk9jjjln0qpk1g3lwkryafi8n9gf1cjnmcq96jr12fffm46";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Move%20to%20Destination%20IN%20marker.lua";
+          sha256 = "05g0h1npma78299c01j070r14vk3y43cvhfyhp82bssdjxas5xki";
         }
         {
           path = ''ReaClassical_Move to Destination OUT marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Move%20to%20Destination%20OUT%20marker.lua";
-          sha256 = "1pkygi0hdnwvgajyjvqh080liwhvmkcjwpcnl8fzs591g9l91mv8";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Move%20to%20Destination%20OUT%20marker.lua";
+          sha256 = "1b3bjv3qy2frv7av29fgv1b6p93x4g8ss5zkp7213vkci602yxac";
         }
         {
           path = ''ReaClassical_Move to Source IN marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Move%20to%20Source%20IN%20marker.lua";
-          sha256 = "0hbdk6zj6pzj03w1pfy5vbr0xpx5z467mmnx0hdjyhpzxxgsksbz";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Move%20to%20Source%20IN%20marker.lua";
+          sha256 = "07i0dphfq71ccxlg40hxix5bgyk32gw3lby62nanji7idw6y2nlf";
         }
         {
           path = ''ReaClassical_Move to Source OUT marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Move%20to%20Source%20OUT%20marker.lua";
-          sha256 = "12xyix950c1j1fxpadbsqmjpxynlfnklkl6fdxanxpsxhj3486q6";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Move%20to%20Source%20OUT%20marker.lua";
+          sha256 = "0cijk7n0gmn12q510np4kj9inrkp53gs9pavjlzqsm1yj2b473mj";
         }
         {
           path = ''ReaClassical_Zoom to Destination IN marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Zoom%20to%20Destination%20IN%20marker.lua";
-          sha256 = "1z2ci0f5dmlfdgh1mp11k4ai9x4x4hfyy604z0249k0av1xkkbyd";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Zoom%20to%20Destination%20IN%20marker.lua";
+          sha256 = "04h6a9px9s0zgyj8xhg47mns46hxr6726l5skwrr9blw4m8zb3za";
         }
         {
           path = ''ReaClassical_Zoom to Destination OUT marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Zoom%20to%20Destination%20OUT%20marker.lua";
-          sha256 = "07l8k4m6srcj2dzj50hva44hyxkn2jjmpq2bcsxbckg8xfqn4mk4";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Zoom%20to%20Destination%20OUT%20marker.lua";
+          sha256 = "1znbipa72482npyidvdq75h7gvdbch4fz45qvqmidrwm5hx3da9s";
         }
         {
           path = ''ReaClassical_Zoom to Source IN marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Zoom%20to%20Source%20IN%20marker.lua";
-          sha256 = "0pabhx3283gzqmyka21ix169nvbrmxqy5q7vnyl99yfi4yr4xspm";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Zoom%20to%20Source%20IN%20marker.lua";
+          sha256 = "0qwz71n1df12frr7ld23pnskmyk4rv05pazdkrs9rgpj89zqydvx";
         }
         {
           path = ''ReaClassical_Zoom to Source OUT marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Zoom%20to%20Source%20OUT%20marker.lua";
-          sha256 = "1jzglcwgqr6j7vcb1h7sdl5d4ix331sqcl1x7hn9q0h0yhc8iv4k";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Zoom%20to%20Source%20OUT%20marker.lua";
+          sha256 = "06z8xkx12mswrl6ix5ivzqwgi8kz05b8dhdma7l0079qy74jxsnd";
         }
         {
           path = ''ReaClassical_3-point Insert Edit.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_3-point%20Insert%20Edit.lua";
-          sha256 = "01hkjxaghshhiccw2d1rgc0q8ag7yccqcbmrq8187mgfzqn9h9g7";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_3-point%20Insert%20Edit.lua";
+          sha256 = "0gjjv74jspp4l19jr23iiq5cdwbxfz7219sh70by8w3ls8q7lwvb";
         }
         {
           path = ''ReaClassical_Updater.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Updater.lua";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Updater.lua";
           sha256 = "1n1vrvalzxhn3lmdlnxmji4v5rvawr8yzv0ydyb8hfdx3iyxwbl5";
         }
         {
           path = ''ReaClassical_Find Take.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Find%20Take.lua";
-          sha256 = "12mp7313sfbz2z752zc8l9yjfjwrrw8haqxh07x87vyg5g4abb6g";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Find%20Take.lua";
+          sha256 = "1z5vr72k24s99l63shxia67iks9jf69541ik8mf1irmz81y9clx4";
         }
         {
           path = ''ReaClassical_Take Counter.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Take%20Counter.lua";
-          sha256 = "0fq9jbzp67ki0x8qr7vx3x5gngzfsqinn9daq899l1msc0yfckcs";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Take%20Counter.lua";
+          sha256 = "16hacscg2501qbamc52srifpxn57b23cd0gv8bvlahw2xfnzhci0";
         }
         {
           path = ''ReaClassical_Add Track To All Groups.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Add%20Track%20To%20All%20Groups.lua";
-          sha256 = "0s75ajdwxfnyic72z6i4m0yxkp6c86j813plarzmfhdh9r6ryks0";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Add%20Track%20To%20All%20Groups.lua";
+          sha256 = "1fh43v2jgz2mmy0n1n31q6b71fyx3xz5r4skcysaryvmxygk1n4v";
         }
         {
           path = ''ReaClassical_Hide Children.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Hide%20Children.lua";
-          sha256 = "08g7ylpn20mjk8gs8j13sdzh3xavgzcksbss7x0wbp295yy4y5b3";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Hide%20Children.lua";
+          sha256 = "0jq6m0rk1yc58jmvx39jdwj0r4nfsrkfqbjx7yms4qb5yakzfn2f";
         }
         {
           path = ''ReaClassical_Show Children.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Show%20Children.lua";
-          sha256 = "0iw4wv0cgahvx9kf87ac04gbsgd78jjnaih0m8wbxl70852ymq06";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Show%20Children.lua";
+          sha256 = "1bm1c7jfj0p5j3z8xshfslxm65zlk7x7a41j3g9i8nxslhda92nl";
         }
         {
           path = ''ReaClassical_Automation Mode.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Automation%20Mode.lua";
-          sha256 = "071p8dw22q6bxym5dxm0b7fidvs6n1zj92361g9j9rvda2l91cl6";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Automation%20Mode.lua";
+          sha256 = "0hwlsvv118k6g34kabw9769iwrlglnz91cvikiyiz1l2vgzibdg9";
         }
         {
           path = ''ReaClassical_Insert Automation.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Insert%20Automation.lua";
-          sha256 = "1y5hdj48xg4mcc0jsb6jyrypzp5xp5l9gr08p68qgv07an9nnfmr";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Insert%20Automation.lua";
+          sha256 = "1i25p7ya33qg62pg0df1cjgl2lkrlhn5asddmdgzfvp0fxmdkq3v";
         }
         {
           path = ''ReaClassical_Set Dest Project Marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Set%20Dest%20Project%20Marker.lua";
-          sha256 = "0avs1jakbgqdjzx5sflxmljlzij852yl57vd764ql53lj9sz607j";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Set%20Dest%20Project%20Marker.lua";
+          sha256 = "1wsn59yglma3j7rpc09cwvknwrs1aa2d08xnlkl2l25jsh9fsax3";
         }
         {
           path = ''ReaClassical_Set Source Project Marker.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Set%20Source%20Project%20Marker.lua";
-          sha256 = "0kl8rjcmr74fq9vkzzjr1s77m17srnbfx8jf6ib1dvaida91lzsr";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Set%20Source%20Project%20Marker.lua";
+          sha256 = "0rfcacdnbaqckxw3iw4fyk68pnqgg2qh89sfkkq2z78nx3aj66ri";
         }
         {
           path = ''ReaClassical_Delete Track From All Groups.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Delete%20Track%20From%20All%20Groups.lua";
-          sha256 = "0zzkkqh24wdv0hg2b28izqvbsky7vzyfdd4rhqa2z0h1xqcgnp2l";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Delete%20Track%20From%20All%20Groups.lua";
+          sha256 = "0vbj2fj2gmw4ha1b2ply3jn0k0sfkk6g73kfkd1iiszdf10qi2sl";
         }
         {
           path = ''ReaClassical_Add Ref Track.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Add%20Ref%20Track.lua";
-          sha256 = "1mflvfqaqb9dbyr81a52iinv8myl5lbh2p2dgmi5y4mcnqa4i82p";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Add%20Ref%20Track.lua";
+          sha256 = "0qq63lv58s3h40v12622msj2jsawvg7srcnnq75a8xvxr903sdx1";
         }
         {
           path = ''ReaClassical_Source Markers to Item Edge.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Source%20Markers%20to%20Item%20Edge.lua";
-          sha256 = "1xcgzypgj29a84bcasgkb80n7qxpcdy780qh8bq5dcc7rib5369n";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Source%20Markers%20to%20Item%20Edge.lua";
+          sha256 = "0apbp2kpnlj6g675bkzsjz96brqrvfnsr2lzzw6m3xf2fk408wa5";
         }
         {
           path = ''ReaClassical_Destination Markers to Item Edge.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Destination%20Markers%20to%20Item%20Edge.lua";
-          sha256 = "1ldsna69dihqdv45l9ajmqz9qkc8w65si2q7qxkq9nfk8lnsa3py";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Destination%20Markers%20to%20Item%20Edge.lua";
+          sha256 = "1vqf9mb8czy8ajfridwsrz6kd2n4c249mdgdf79wikprwrsym4hi";
         }
         {
           path = ''ReaClassical_Remove Take Names.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Remove%20Take%20Names.lua";
-          sha256 = "1vn7lp5j9x4ypw5jy94jfl3dxa98wm3pmfhdw1vpvas2w00z90jb";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Remove%20Take%20Names.lua";
+          sha256 = "1599q73v5rl7mwyqmpanq2sz5jwynpv5g6rshlj43m16bap16dsg";
         }
         {
           path = ''ReaClassical_Jump To Time.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Jump%20To%20Time.lua";
-          sha256 = "0m69j1v1hzwffq578cq31hz3knlp18k3xippzpqvm7pzf8nygcg3";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Jump%20To%20Time.lua";
+          sha256 = "0n07ijn61023i3xclzhp27dj4973hd1bx3fkw5cgism7sqls167q";
         }
         {
           path = ''ReaClassical_Audio Calculator.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Audio%20Calculator.lua";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Audio%20Calculator.lua";
           sha256 = "0nka1dz05fyx3f4ls4zjpi7snza69n4d4239x7kbd8b4pz1rala4";
         }
         {
           path = ''ReaClassical_Auto Set Recording Inputs.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Auto%20Set%20Recording%20Inputs.lua";
-          sha256 = "0ahkrrlbv7s8ccdygfvdxp2r3w0wkqf9h9wg7vf306rbkx47m6kz";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Auto%20Set%20Recording%20Inputs.lua";
+          sha256 = "1j99xhjf9dial3qj0m0gb8zbxfn0kv5izp8781d0flh9ixbqn20k";
         }
         {
           path = ''ReaClassical_Mastering Mode.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Mastering%20Mode.lua";
-          sha256 = "1z1069yjjvpy0xdzg36whn86yy2658r1ba2l50njav9cs2438g7m";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Mastering%20Mode.lua";
+          sha256 = "0arg4476hqbs5cq1ykq2b1viy7r4ya07z9b2nzfizak6p183iz80";
         }
         {
           path = ''ReaClassical_Audition_with_playrate.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Audition_with_playrate.lua";
-          sha256 = "0zj74a904d337wwp9gfilmayc1p2n5ja27yl6rliq4jdkhajw8lm";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Audition_with_playrate.lua";
+          sha256 = "1rk46f71xkyndfd0xqn4cpi89qrw3m60nbm5l7pa8dzdqpksb2yd";
         }
         {
           path = ''ReaClassical_Increment Take Number While Recording.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Increment%20Take%20Number%20While%20Recording.lua";
-          sha256 = "0348qy7h0h15gd4p7p77m693aayll40kyvq0hn8g7pd45a9aylxz";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Increment%20Take%20Number%20While%20Recording.lua";
+          sha256 = "0k690pwdmj0ln75r5nh6nhkkmdywivrclxdc4m60ayvxc777j5x3";
         }
         {
           path = ''ReaClassical_Rank Higher.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Rank%20Higher.lua";
-          sha256 = "0hr7n4xn72sxnibhkl84467kvkf60hycm0kw74yqb1fz610qddmc";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Rank%20Higher.lua";
+          sha256 = "0w9vrsa4gx6j9aq7yqknx5qyx7k3xa2lgg6h45sn4h7432qil50w";
         }
         {
           path = ''ReaClassical_Rank Lower.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Rank%20Lower.lua";
-          sha256 = "1bphcwjdbayrb96i8lha5d3yqmwkihcghrpzycpg7yqi6i6fhhz6";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Rank%20Lower.lua";
+          sha256 = "16nyhgj6l5r6vjsh54a9nfxsskgi1zq0d2mvss1vfc7qs0m935n3";
         }
         {
           path = ''ReaClassical_Remove Ranking.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Remove%20Ranking.lua";
-          sha256 = "1znqj528kc96vhm297vq8y2cywscmvnn6j2m725dxwc0h6kh532p";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Remove%20Ranking.lua";
+          sha256 = "109rdwyihd2bcj1zps53513v2rg7yfql819l3jb2ixip2n1kf0fl";
         }
         {
           path = ''ReaClassical_Add Special Tracks.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Add%20Special%20Tracks.lua";
-          sha256 = "1xccpnk2zdkaxp7s8r63ln167w31i11hbrmphvy15rsmjvsla6qa";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Add%20Special%20Tracks.lua";
+          sha256 = "0zplns0q1a66xi8066jm6ryr74iywlg6k6gyxj4davmrvvrzihxr";
         }
         {
           path = ''ReaClassical_Delete S-D Project Markers.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Delete%20S-D%20Project%20Markers.lua";
-          sha256 = "0qzcbvfqvqavmwyajhbm53zxwq0h04lrxf2in76lchnsm9rcx1qp";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Delete%20S-D%20Project%20Markers.lua";
+          sha256 = "1lbnvhsf614p44nbq5xpxg8x886lfw1il1sbfl17z8jkn3a2v1dw";
         }
         {
           path = ''ReaClassical.RPP'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical.RPP";
-          sha256 = "0z38siny4cac8wzr0jcadyagm6shi6rk9ry9inmx6miyni4xm5fk";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical.RPP";
+          sha256 = "0s6wi3sh7v42jfvsfd4xjkfaj03c4xazc2kz6sy1rcqx63pyqpi9";
         }
         {
           path = ''ReaClassical.ReaperThemeZip'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical.ReaperThemeZip";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical.ReaperThemeZip";
           sha256 = "0g9c0ydsj143rqh0fkwawsss12grdjws4ckw5pgflp71dp33jah4";
         }
         {
           path = ''ReaClassical Light.ReaperThemeZip'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical%20Light.ReaperThemeZip";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical%20Light.ReaperThemeZip";
           sha256 = "1bafx2llk8mbnxkcx6a9b5jg9wr0zaxx5piacy6qj0xs6fq2njfg";
         }
         {
           path = ''ReaClassical WaveColors Dark.ReaperThemeZip'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical%20WaveColors%20Dark.ReaperThemeZip";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical%20WaveColors%20Dark.ReaperThemeZip";
           sha256 = "02avgkf9h7i2if8amqg759rq7sfkjvb48li7cq5w95arfvxx503a";
         }
         {
           path = ''ReaClassical WaveColors Light.ReaperThemeZip'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical%20WaveColors%20Light.ReaperThemeZip";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical%20WaveColors%20Light.ReaperThemeZip";
           sha256 = "0rbfyhic6hnw0gld42p8kbj817fsmr3rpzjj4pvnwkqpimxy5dgw";
         }
         {
           path = ''ReaClassical_Colors_Table.lua'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical_Colors_Table.lua";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical_Colors_Table.lua";
           sha256 = "0lz7pqq9qmpxb9pvl5x4d9dw7amd5nvxdpyxpmmbzs5xczcxsc8j";
         }
         {
           path = ''ReaClassical-Manual.pdf'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/PDF-Manual/ReaClassical-Manual.pdf";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/PDF-Manual/ReaClassical-Manual.pdf";
           sha256 = "07nns7kmkx0knq6rqaa98skvxh542hiw4i855xn6rlv9h1r08wnf";
         }
         {
           path = ''reaclassical-splash.png'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/reaclassical-splash.png";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/reaclassical-splash.png";
           sha256 = "1djanrrwndn69wl7h36pld62xam7yvrja41pzhp8zam267g814sc";
         }
         {
           path = ''ReaClassical-menu.ini'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical-menu.ini";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical-menu.ini";
           sha256 = "0rh5c2wmmx7n3z6d4xsb9qlhncaqs1qvjw8dhxdn5dx5a8acv0xn";
         }
         {
           path = ''ReaClassical-kb.ini'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/ReaClassical/ReaClassical-kb.ini";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/ReaClassical/ReaClassical-kb.ini";
           sha256 = "0syq93a1pmdxf4xylqff939izxci0nfqqv633i1653rmi0h9j681";
         }
         {
           path = ''audio_calculator.html'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/audio_calculator.html";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/audio_calculator.html";
           sha256 = "0kqav83bjh3fd8170gw81mh6pra56m2sr8nljl8qk54drrxj4kl6";
         }
         {
           path = ''reaclassical_logo.png'';
-          url = "https://github.com/chmaha/ReaClassical/raw/aaf9c14f88d542b0eef4e12a1da86b06819345d5/docs/images/reaclassical_os.png";
+          url = "https://github.com/chmaha/ReaClassical/raw/abc23ff0141641aca9f846d408393bd1fdd1d4d9/docs/images/reaclassical_os.png";
           sha256 = "1c6vzaf5l343y9kzpcb11rfqpfjpsh723rm5603si0gcmrcw4cja";
+        }
+      ];
+    };
+    reasplice-lua-1-0pre1002 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "reasplice-lua-1-0pre1002";
+      indexName = "chmaha Scripts";
+      categoryName = "ReaSplice";
+      packageType = "script";
+      sources = [
+        {
+          path = ''ReaSplice_Add Destination IN marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Add%20Destination%20IN%20marker.lua";
+          sha256 = "1ndix6f960zblcid05fsjbzwxpwdx7yawdv6gqgl179d6hr05w1g";
+        }
+        {
+          path = ''ReaSplice_Add Destination OUT Marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Add%20Destination%20OUT%20Marker.lua";
+          sha256 = "0yfgxij3zr8ln8wa5ww21ir9kpawrhmixsz202ln0ciz71b48yjk";
+        }
+        {
+          path = ''ReaSplice_Add Source IN marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Add%20Source%20IN%20marker.lua";
+          sha256 = "0jb8hsjhv38fdmykikhxh2v113dfy0v6bfhy58jfiasm3zavfvaw";
+        }
+        {
+          path = ''ReaSplice_Add Source OUT marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Add%20Source%20OUT%20marker.lua";
+          sha256 = "0d5g7vmkf88mlr8axcgypjl3c9xw52jgqsk5dil9cf8x2h25bj2g";
+        }
+        {
+          path = ''ReaSplice_Delete All S-D markers.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Delete%20All%20S-D%20markers.lua";
+          sha256 = "1aachhz6n9d3db2i6qykyl9q5g2cx0kzsi2k1zq1ksl47qv5w7vg";
+        }
+        {
+          path = ''ReaSplice_Prepare Takes.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Prepare%20Takes.lua";
+          sha256 = "0iq4vw50qxhqsa33yb1ahllmdcjinc3fs0f0d9nvv9jcifs0zf3a";
+        }
+        {
+          path = ''ReaSplice_S-D Edit.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_S-D%20Edit.lua";
+          sha256 = "0x9b4av5s33ykh549nbyhzx12h7vd6gl533bpd1s7y8c195xkg7g";
+        }
+        {
+          path = ''ReaSplice_Delete Leaving Silence.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Delete%20Leaving%20Silence.lua";
+          sha256 = "1rjffh8bq9yjdiiq19a1xk1zxgnymfkynzrlpylp3ha5qvc1g7nl";
+        }
+        {
+          path = ''ReaSplice_Delete With Ripple.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Delete%20With%20Ripple.lua";
+          sha256 = "03aip6mk7ynfs3fb12v6zjkqdlzwbdajcsj519drwkczwvyky8h5";
+        }
+        {
+          path = ''ReaSplice_Insert with timestretching.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Insert%20with%20timestretching.lua";
+          sha256 = "1gpidqfzxzk2c7pwprwlzrmdxqy61x61706ji6vmivfg58inb1ar";
+        }
+        {
+          path = ''ReaSplice_Preferences.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Preferences.lua";
+          sha256 = "1q3i82xcf5zkbb18apma4vrpqx57jp7lz6mp1lp1c04xdnll25j6";
+        }
+        {
+          path = ''ReaSplice_Move to Destination IN marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Move%20to%20Destination%20IN%20marker.lua";
+          sha256 = "041zsy9jiirdkkrqayihf4ik4dx0was7b54mz8dxckprnqi6ahhm";
+        }
+        {
+          path = ''ReaSplice_Move to Destination OUT marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Move%20to%20Destination%20OUT%20marker.lua";
+          sha256 = "11cynarfwkp7b1j42jiy8i7aysnxwp4389465gjg9zy5w3m451hd";
+        }
+        {
+          path = ''ReaSplice_Move to Source IN marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Move%20to%20Source%20IN%20marker.lua";
+          sha256 = "0sjjkhrr4fc6brz3cravrg415lp4x932lx3bgy5jxl0rqw5ifcxk";
+        }
+        {
+          path = ''ReaSplice_Move to Source OUT marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Move%20to%20Source%20OUT%20marker.lua";
+          sha256 = "196bjp2v4b7gb5dc62xp6yj85rrlrf6bny3rdgighpw9cfrzl2l8";
+        }
+        {
+          path = ''ReaSplice_Zoom to Destination IN marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Zoom%20to%20Destination%20IN%20marker.lua";
+          sha256 = "1096vlvmcxapnlbx65g89kc94gq5cri5lpd8r0y9jwkp3s323yz7";
+        }
+        {
+          path = ''ReaSplice_Zoom to Destination OUT marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Zoom%20to%20Destination%20OUT%20marker.lua";
+          sha256 = "17xrwa0jhlx760sxwbzhp99a24j5hhsvvnjdsdrlvfzsy2nwy8im";
+        }
+        {
+          path = ''ReaSplice_Zoom to Source IN marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Zoom%20to%20Source%20IN%20marker.lua";
+          sha256 = "08maxl04qxyfdmfx0j5wxlfylcwgwjkdx8f55c8g0bxchsynl06i";
+        }
+        {
+          path = ''ReaSplice_Zoom to Source OUT marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Zoom%20to%20Source%20OUT%20marker.lua";
+          sha256 = "0lyvxfx61qp819mlqc64x80vrnw13pa0bkqn779fv7fk90n01h0r";
+        }
+        {
+          path = ''ReaSplice_3-point Insert Edit.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_3-point%20Insert%20Edit.lua";
+          sha256 = "1m0rkp9vyhjhynzqfr3fpch24ar1gfkg2yfw43i71frcnjjv5j32";
+        }
+        {
+          path = ''ReaSplice_Set Dest Project Marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Set%20Dest%20Project%20Marker.lua";
+          sha256 = "15k24lhqznhi7nyqmiglxprlgl029v6azhc5dymbcl9df1pfg5l8";
+        }
+        {
+          path = ''ReaSplice_Set Source Project Marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Set%20Source%20Project%20Marker.lua";
+          sha256 = "0z3x1qgc5k0kcfj3rpnb1aw156dp1z9bd1vfxqk3gnashilz7p93";
+        }
+        {
+          path = ''ReaSplice_Source Markers to Item Edge.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Source%20Markers%20to%20Item%20Edge.lua";
+          sha256 = "1nxw2hmbmlhv7dvc5qyk2krrih6dn0mqs80mc80iiqsymz82v03a";
+        }
+        {
+          path = ''ReaSplice_Destination Markers to Item Edge.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Destination%20Markers%20to%20Item%20Edge.lua";
+          sha256 = "1hgz586rcibz18l3w2wdy4q2jn0r9b1xnv7h9cs013mpf7bh8b5i";
+        }
+        {
+          path = ''ReaSplice_Delete S-D Project Markers.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/0a7e19cf728550c6a444481c9a76e8c2faf5a9ee/ReaSplice/ReaSplice_Delete%20S-D%20Project%20Markers.lua";
+          sha256 = "1b5x784grq8wsl017qpmy5qww92qal07q507mb4rq3i3dlfclw66";
+        }
+      ];
+    };
+    reasplice-lua-1-0pre1502 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "reasplice-lua-1-0pre1502";
+      indexName = "chmaha Scripts";
+      categoryName = "ReaSplice";
+      packageType = "script";
+      sources = [
+        {
+          path = ''ReaSplice_Add Destination IN marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Add%20Destination%20IN%20marker.lua";
+          sha256 = "1ndix6f960zblcid05fsjbzwxpwdx7yawdv6gqgl179d6hr05w1g";
+        }
+        {
+          path = ''ReaSplice_Add Destination OUT Marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Add%20Destination%20OUT%20Marker.lua";
+          sha256 = "0yfgxij3zr8ln8wa5ww21ir9kpawrhmixsz202ln0ciz71b48yjk";
+        }
+        {
+          path = ''ReaSplice_Add Source IN marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Add%20Source%20IN%20marker.lua";
+          sha256 = "0jb8hsjhv38fdmykikhxh2v113dfy0v6bfhy58jfiasm3zavfvaw";
+        }
+        {
+          path = ''ReaSplice_Add Source OUT marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Add%20Source%20OUT%20marker.lua";
+          sha256 = "0d5g7vmkf88mlr8axcgypjl3c9xw52jgqsk5dil9cf8x2h25bj2g";
+        }
+        {
+          path = ''ReaSplice_Delete All S-D markers.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Delete%20All%20S-D%20markers.lua";
+          sha256 = "1aachhz6n9d3db2i6qykyl9q5g2cx0kzsi2k1zq1ksl47qv5w7vg";
+        }
+        {
+          path = ''ReaSplice_Prepare Takes.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Prepare%20Takes.lua";
+          sha256 = "0bydglwz7padqh41qz48ihqijbglihy06ga14dm2bi32i6s92hl7";
+        }
+        {
+          path = ''ReaSplice_S-D Edit.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_S-D%20Edit.lua";
+          sha256 = "0x9b4av5s33ykh549nbyhzx12h7vd6gl533bpd1s7y8c195xkg7g";
+        }
+        {
+          path = ''ReaSplice_Delete Leaving Silence.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Delete%20Leaving%20Silence.lua";
+          sha256 = "1rjffh8bq9yjdiiq19a1xk1zxgnymfkynzrlpylp3ha5qvc1g7nl";
+        }
+        {
+          path = ''ReaSplice_Delete With Ripple.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Delete%20With%20Ripple.lua";
+          sha256 = "03aip6mk7ynfs3fb12v6zjkqdlzwbdajcsj519drwkczwvyky8h5";
+        }
+        {
+          path = ''ReaSplice_Insert with timestretching.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Insert%20with%20timestretching.lua";
+          sha256 = "1gpidqfzxzk2c7pwprwlzrmdxqy61x61706ji6vmivfg58inb1ar";
+        }
+        {
+          path = ''ReaSplice_Preferences.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Preferences.lua";
+          sha256 = "1q3i82xcf5zkbb18apma4vrpqx57jp7lz6mp1lp1c04xdnll25j6";
+        }
+        {
+          path = ''ReaSplice_Move to Destination IN marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Move%20to%20Destination%20IN%20marker.lua";
+          sha256 = "041zsy9jiirdkkrqayihf4ik4dx0was7b54mz8dxckprnqi6ahhm";
+        }
+        {
+          path = ''ReaSplice_Move to Destination OUT marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Move%20to%20Destination%20OUT%20marker.lua";
+          sha256 = "11cynarfwkp7b1j42jiy8i7aysnxwp4389465gjg9zy5w3m451hd";
+        }
+        {
+          path = ''ReaSplice_Move to Source IN marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Move%20to%20Source%20IN%20marker.lua";
+          sha256 = "0sjjkhrr4fc6brz3cravrg415lp4x932lx3bgy5jxl0rqw5ifcxk";
+        }
+        {
+          path = ''ReaSplice_Move to Source OUT marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Move%20to%20Source%20OUT%20marker.lua";
+          sha256 = "196bjp2v4b7gb5dc62xp6yj85rrlrf6bny3rdgighpw9cfrzl2l8";
+        }
+        {
+          path = ''ReaSplice_Zoom to Destination IN marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Zoom%20to%20Destination%20IN%20marker.lua";
+          sha256 = "1096vlvmcxapnlbx65g89kc94gq5cri5lpd8r0y9jwkp3s323yz7";
+        }
+        {
+          path = ''ReaSplice_Zoom to Destination OUT marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Zoom%20to%20Destination%20OUT%20marker.lua";
+          sha256 = "17xrwa0jhlx760sxwbzhp99a24j5hhsvvnjdsdrlvfzsy2nwy8im";
+        }
+        {
+          path = ''ReaSplice_Zoom to Source IN marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Zoom%20to%20Source%20IN%20marker.lua";
+          sha256 = "08maxl04qxyfdmfx0j5wxlfylcwgwjkdx8f55c8g0bxchsynl06i";
+        }
+        {
+          path = ''ReaSplice_Zoom to Source OUT marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Zoom%20to%20Source%20OUT%20marker.lua";
+          sha256 = "0lyvxfx61qp819mlqc64x80vrnw13pa0bkqn779fv7fk90n01h0r";
+        }
+        {
+          path = ''ReaSplice_3-point Insert Edit.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_3-point%20Insert%20Edit.lua";
+          sha256 = "1m0rkp9vyhjhynzqfr3fpch24ar1gfkg2yfw43i71frcnjjv5j32";
+        }
+        {
+          path = ''ReaSplice_Set Dest Project Marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Set%20Dest%20Project%20Marker.lua";
+          sha256 = "15k24lhqznhi7nyqmiglxprlgl029v6azhc5dymbcl9df1pfg5l8";
+        }
+        {
+          path = ''ReaSplice_Set Source Project Marker.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Set%20Source%20Project%20Marker.lua";
+          sha256 = "0z3x1qgc5k0kcfj3rpnb1aw156dp1z9bd1vfxqk3gnashilz7p93";
+        }
+        {
+          path = ''ReaSplice_Source Markers to Item Edge.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Source%20Markers%20to%20Item%20Edge.lua";
+          sha256 = "1nxw2hmbmlhv7dvc5qyk2krrih6dn0mqs80mc80iiqsymz82v03a";
+        }
+        {
+          path = ''ReaSplice_Destination Markers to Item Edge.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Destination%20Markers%20to%20Item%20Edge.lua";
+          sha256 = "1hgz586rcibz18l3w2wdy4q2jn0r9b1xnv7h9cs013mpf7bh8b5i";
+        }
+        {
+          path = ''ReaSplice_Delete S-D Project Markers.lua'';
+          url = "https://github.com/chmaha/ReaClassical/raw/949884ae375454418e870f02e44da208c245ce4d/ReaSplice/ReaSplice_Delete%20S-D%20Project%20Markers.lua";
+          sha256 = "1b5x784grq8wsl017qpmy5qww92qal07q507mb4rq3i3dlfclw66";
         }
       ];
     };

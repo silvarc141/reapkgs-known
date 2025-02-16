@@ -693,6 +693,35 @@
         }
       ];
     };
+    adsr1-jsfx-1-3-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "adsr1-jsfx-1-3-2";
+      indexName = "Tilr";
+      categoryName = "Modulation";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/4206a7233593487fe4db6d6a561d1c51e9afd148/Modulation/adsr1.jsfx";
+          sha256 = "17v8fzspg2lsw4sfrg369wzgvmg09182vfvaxk4dj8q5qxi5j46j";
+        }
+        {
+          path = ''adsr1/adsr.array.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/4206a7233593487fe4db6d6a561d1c51e9afd148/Modulation/adsr1/adsr.array.jsfx-inc";
+          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+        }
+        {
+          path = ''adsr1/adsr.curvelib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/4206a7233593487fe4db6d6a561d1c51e9afd148/Modulation/adsr1/adsr.curvelib.jsfx-inc";
+          sha256 = "1bdgcl9dy7j1kaawynxsyhwzhh63xlphdvx6205j0cw7vhgrw9h6";
+        }
+        {
+          path = ''adsr1/adsr.mouselib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/4206a7233593487fe4db6d6a561d1c51e9afd148/Modulation/adsr1/adsr.mouselib.jsfx-inc";
+          sha256 = "1a3qrvb07z45mwxxvbl84nbqmxksljciwsishyq7fapy663n9bfi";
+        }
+      ];
+    };
     distr-jsfx-1-0-1 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "distr-jsfx-1-0-1";
@@ -2156,6 +2185,45 @@
         {
           path = ''time1/time.mouselib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/time1/time.mouselib.jsfx-inc";
+          sha256 = "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s";
+        }
+      ];
+    };
+    time1-jsfx-1-1-5 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "time1-jsfx-1-1-5";
+      indexName = "Tilr";
+      categoryName = "Modulation";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/3ad1f16c0c974483e1a7e29d507d6a8c43accd0f/Modulation/time1.jsfx";
+          sha256 = "0j5lyb6xj4zkbvmxx9mahlqcc9mdq9478s8xbqhfa9z8vpb3vj5n";
+        }
+        {
+          path = ''time1.jsfx.RPL'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/3ad1f16c0c974483e1a7e29d507d6a8c43accd0f/Modulation/time1.jsfx.RPL";
+          sha256 = "1vmsgxpjs9b7sgqn2259x2jnsr0ppnv6g6mqk0pz1hrlm2g3mapr";
+        }
+        {
+          path = ''time1/time.array.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/3ad1f16c0c974483e1a7e29d507d6a8c43accd0f/Modulation/time1/time.array.jsfx-inc";
+          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+        }
+        {
+          path = ''time1/time.curvelib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/3ad1f16c0c974483e1a7e29d507d6a8c43accd0f/Modulation/time1/time.curvelib.jsfx-inc";
+          sha256 = "1fbhc47189ch7jv43a26ymzv4gf043ihv1778822sssn9dds2mj8";
+        }
+        {
+          path = ''time1/time.delay.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/3ad1f16c0c974483e1a7e29d507d6a8c43accd0f/Modulation/time1/time.delay.jsfx-inc";
+          sha256 = "133pish5jnv6c8dyvq3h2chfb620x5lsmkmk4ag14znl2sz7hasd";
+        }
+        {
+          path = ''time1/time.mouselib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/3ad1f16c0c974483e1a7e29d507d6a8c43accd0f/Modulation/time1/time.mouselib.jsfx-inc";
           sha256 = "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s";
         }
       ];
@@ -8817,6 +8885,124 @@
         {
           path = ''rippler2/rippler2.rbj_filter.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/67079441f5b1906f9d99906d996d424892b49835/Synth/rippler2/rippler2.rbj_filter.jsfx-inc";
+          sha256 = "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s";
+        }
+      ];
+    };
+    rippler2-jsfx-2-0-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "rippler2-jsfx-2-0-2";
+      indexName = "Tilr";
+      categoryName = "Synth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/c2fe538c98bb6dc5bc759acb7a2da4c8776c039c/Synth/rippler2.jsfx";
+          sha256 = "1lgqqh3f5ak8w1ms1215xp40a4n53789mm5ajvg6hxm0c2wa72gc";
+        }
+        {
+          path = ''rippler2.jsfx.RPL'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/c2fe538c98bb6dc5bc759acb7a2da4c8776c039c/Synth/rippler2.jsfx.RPL";
+          sha256 = "02dq1gy60d8pmi8pg890942m94jkiigaydzlp82hpywcbr0rr5w2";
+        }
+        {
+          path = ''rippler2/logo.png'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/c2fe538c98bb6dc5bc759acb7a2da4c8776c039c/Synth/rippler2/logo.png";
+          sha256 = "0cs8pmzxzx8674xcxc8xx2n28fn15d4nd83m1vlqv2y4smr3dkdl";
+        }
+        {
+          path = ''rippler2/on.png'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/c2fe538c98bb6dc5bc759acb7a2da4c8776c039c/Synth/rippler2/on.png";
+          sha256 = "1ykr0gf207vy7zbczznyfwzkb9r802nl6vwzq9aps10hjap7q2m1";
+        }
+        {
+          path = ''rippler2/off.png'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/c2fe538c98bb6dc5bc759acb7a2da4c8776c039c/Synth/rippler2/off.png";
+          sha256 = "0z1v4nchk620nkj189jly7h22b7j02vanjiznxlsa30r4wnh6wvc";
+        }
+        {
+          path = ''rippler2/rippler2.array.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/c2fe538c98bb6dc5bc759acb7a2da4c8776c039c/Synth/rippler2/rippler2.array.jsfx-inc";
+          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+        }
+        {
+          path = ''rippler2/rippler2.envlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/c2fe538c98bb6dc5bc759acb7a2da4c8776c039c/Synth/rippler2/rippler2.envlib.jsfx-inc";
+          sha256 = "1fvakggis4b8lw75l2dx0z4fixv3wjklm1m6xhc28l6995p1fzcm";
+        }
+        {
+          path = ''rippler2/rippler2.gfxlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/c2fe538c98bb6dc5bc759acb7a2da4c8776c039c/Synth/rippler2/rippler2.gfxlib.jsfx-inc";
+          sha256 = "1dp4gdz9pnih05q930syv5qdc4y0kjpj7an8vs8bsmfqd8wawdkv";
+        }
+        {
+          path = ''rippler2/rippler2.modal.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/c2fe538c98bb6dc5bc759acb7a2da4c8776c039c/Synth/rippler2/rippler2.modal.jsfx-inc";
+          sha256 = "193n7k77rz1i6lcfjihpy6n67cqdqb397r8f9444ql5qz2yl4d8g";
+        }
+        {
+          path = ''rippler2/rippler2.rbj_filter.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/c2fe538c98bb6dc5bc759acb7a2da4c8776c039c/Synth/rippler2/rippler2.rbj_filter.jsfx-inc";
+          sha256 = "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s";
+        }
+      ];
+    };
+    rippler2-jsfx-2-0-3 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "rippler2-jsfx-2-0-3";
+      indexName = "Tilr";
+      categoryName = "Synth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/beaf6136e74ea799789fdad4abcc56e624d7c2a7/Synth/rippler2.jsfx";
+          sha256 = "1f1b86vbfjp94ql4ivl25b3hjhspn8fma28x64vxq60kd09vcg1j";
+        }
+        {
+          path = ''rippler2.jsfx.RPL'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/beaf6136e74ea799789fdad4abcc56e624d7c2a7/Synth/rippler2.jsfx.RPL";
+          sha256 = "02dq1gy60d8pmi8pg890942m94jkiigaydzlp82hpywcbr0rr5w2";
+        }
+        {
+          path = ''rippler2/logo.png'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/beaf6136e74ea799789fdad4abcc56e624d7c2a7/Synth/rippler2/logo.png";
+          sha256 = "0cs8pmzxzx8674xcxc8xx2n28fn15d4nd83m1vlqv2y4smr3dkdl";
+        }
+        {
+          path = ''rippler2/on.png'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/beaf6136e74ea799789fdad4abcc56e624d7c2a7/Synth/rippler2/on.png";
+          sha256 = "1ykr0gf207vy7zbczznyfwzkb9r802nl6vwzq9aps10hjap7q2m1";
+        }
+        {
+          path = ''rippler2/off.png'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/beaf6136e74ea799789fdad4abcc56e624d7c2a7/Synth/rippler2/off.png";
+          sha256 = "0z1v4nchk620nkj189jly7h22b7j02vanjiznxlsa30r4wnh6wvc";
+        }
+        {
+          path = ''rippler2/rippler2.array.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/beaf6136e74ea799789fdad4abcc56e624d7c2a7/Synth/rippler2/rippler2.array.jsfx-inc";
+          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+        }
+        {
+          path = ''rippler2/rippler2.envlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/beaf6136e74ea799789fdad4abcc56e624d7c2a7/Synth/rippler2/rippler2.envlib.jsfx-inc";
+          sha256 = "1fvakggis4b8lw75l2dx0z4fixv3wjklm1m6xhc28l6995p1fzcm";
+        }
+        {
+          path = ''rippler2/rippler2.gfxlib.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/beaf6136e74ea799789fdad4abcc56e624d7c2a7/Synth/rippler2/rippler2.gfxlib.jsfx-inc";
+          sha256 = "1dp4gdz9pnih05q930syv5qdc4y0kjpj7an8vs8bsmfqd8wawdkv";
+        }
+        {
+          path = ''rippler2/rippler2.modal.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/beaf6136e74ea799789fdad4abcc56e624d7c2a7/Synth/rippler2/rippler2.modal.jsfx-inc";
+          sha256 = "10m66lssfq90j572a7ykyayppkpfl3r097kjvak0p7pw2yzla641";
+        }
+        {
+          path = ''rippler2/rippler2.rbj_filter.jsfx-inc'';
+          url = "https://github.com/tiagolr/tilr_jsfx/raw/beaf6136e74ea799789fdad4abcc56e624d7c2a7/Synth/rippler2/rippler2.rbj_filter.jsfx-inc";
           sha256 = "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s";
         }
       ];

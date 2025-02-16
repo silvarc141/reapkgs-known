@@ -15,7 +15,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/midi-fighter-twister.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/303c3861f2e65b498612a5fd332a86141f6e9306/resources/controllers/midi-fighter-twister.json";
-          sha256 = "03qncskivi4nn79zz91pgkm2q0s38lz60n3a4s9q5jpm1k2zf4w0";
+          sha256 = "";
         }
       ];
     };
@@ -29,7 +29,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/midi-fighter-twister.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/74ae3e116c184f9edc01bf8c3fe78d5add1fb69d/resources/controllers/midi-fighter-twister.json";
-          sha256 = "1q5w6a817vaamnpbmhzhlzszxqjp27igivvica1lc0x3zapjgpfy";
+          sha256 = "";
         }
       ];
     };
@@ -43,7 +43,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/midi-fighter-twister.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/05cee8ba80cd76988e4ada61f3dfb5ef1b479381/resources/controllers/midi-fighter-twister.json";
-          sha256 = "1c7jyaykf9xl3w5441liyvj8vw6zh25wl1y74181wdqin7k17sm7";
+          sha256 = "";
         }
       ];
     };
@@ -57,7 +57,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/midi-fighter-twister.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/8e10620217c9a008f14857c2f3a7ebb2884fcf0b/resources/controllers/midi-fighter-twister.json";
-          sha256 = "183i0rcqm694s5qvvgwdfqafnzkilzwp4s0jlc7nmnhr1490h66m";
+          sha256 = "";
         }
       ];
     };
@@ -71,7 +71,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/midi-fighter-twister.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/d6be9c98a7bc9ace696e5e63423079ed5f6f34bf/resources/controllers/midi-fighter-twister.json";
-          sha256 = "1p645797bxdk4zajhby3j56g86sf75jp59x0c5cwqhpvgm41rgmk";
+          sha256 = "";
         }
       ];
     };
@@ -85,7 +85,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/midi-fighter-twister-bank-2.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/303c3861f2e65b498612a5fd332a86141f6e9306/resources/controllers/midi-fighter-twister-bank-2.json";
-          sha256 = "1lfla5ibakbhxag6vakiwy42xrgndk9rwbrwdf1cm4dw8fik686f";
+          sha256 = "";
         }
       ];
     };
@@ -141,7 +141,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/apc-key-25.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/e733564b368ee077a56bbb40301baae3641884d8/resources/controllers/apc-key-25.json";
-          sha256 = "0rjhw0wq4y395xw665d73zaixqrzr89bqqrg1s4cb3aicp1gl2fj";
+          sha256 = "";
         }
       ];
     };
@@ -169,7 +169,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/icon-platform-m.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/24b9ad6a563276c450f30b9901b3e17d2d55fe96/resources/controllers/icon-platform-m.json";
-          sha256 = "1y7wqyw7sdzw0qb7gqk9q7kh18kqq0nqzwd6ldifs0d9ymwr7mmb";
+          sha256 = "";
         }
       ];
     };
@@ -183,7 +183,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/icon-platform-m.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/930e6b4af97976486fe0ae6245e810b99782a3b8/resources/controllers/icon-platform-m.json";
-          sha256 = "0h57wylhfdb4h6bgg5s3dkm0bqnfncx5l8rgf0psikp1z71prxax";
+          sha256 = "";
         }
       ];
     };
@@ -211,7 +211,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/launchpad-pro.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/74ae3e116c184f9edc01bf8c3fe78d5add1fb69d/resources/controllers/launchpad-pro.json";
-          sha256 = "15mgj58wr93kapgxkicfzckhz9n5l7gf3jiaik2dzhzkk6xryxb1";
+          sha256 = "";
         }
       ];
     };
@@ -225,7 +225,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/launchpad-pro.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/c853ae48c9ec4493a52ab7fdb7a4bc1044ac5412/resources/controllers/launchpad-pro.json";
-          sha256 = "1a9yj9c8d3s3hi8qnpyj18lpggj5lkpc9r5awpzl7vl6hg5s875n";
+          sha256 = "";
         }
       ];
     };
@@ -239,7 +239,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/x-touch-compact.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/74ae3e116c184f9edc01bf8c3fe78d5add1fb69d/resources/controllers/x-touch-compact.json";
-          sha256 = "06h90g37cablb1xv0x3xxk7kq3a656iyfj7bxkmr0zs6j7mhm71y";
+          sha256 = "138akgaplchmylqajf3p4g9w9pdawk5kh10abx213zmlwiimfqwf";
         }
       ];
     };
@@ -253,7 +253,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/x-touch-compact.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/223d7e63d4773234902fe065dd42bba1a76938bf/resources/controllers/x-touch-compact.json";
-          sha256 = "05hvixms4cb3li8nhv3nxn5iyw2hr3gawsc0gxwa18amhqb1nrmq";
+          sha256 = "";
         }
       ];
     };
@@ -267,7 +267,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/x-touch-compact-layer-b.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/74ae3e116c184f9edc01bf8c3fe78d5add1fb69d/resources/controllers/x-touch-compact-layer-b.json";
-          sha256 = "1ldc3lgh64hll4d0rlcxr2ylaxaqxcg7wx4r5kr681wl99lqpdrw";
+          sha256 = "";
         }
       ];
     };
@@ -309,7 +309,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/mackie-control.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/24b9ad6a563276c450f30b9901b3e17d2d55fe96/resources/controllers/mackie-control.json";
-          sha256 = "0p2z2g2shjgyl7zslsvxwwrf1ls1rz4dk444zia9pcb78m6w8yq4";
+          sha256 = "0522wpfwvnfif3dwiqh1czskar355vlzvnk00n21159bczwsydsx";
         }
       ];
     };
@@ -323,7 +323,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/mackie-control.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/930e6b4af97976486fe0ae6245e810b99782a3b8/resources/controllers/mackie-control.json";
-          sha256 = "1inawsl5h0fmrgp6rc1xp5iivfkkgsvp7s69pw9b1qz9dfbbr5v4";
+          sha256 = "0szfa14pr8lz59p8x6k0cq44b2vr5mmq6q59rlcw3as8dm63s3n1";
         }
       ];
     };
@@ -337,7 +337,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/mackie-control.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/bd7f5e1bf4e8ee5552243d89829de1085dfb70e8/resources/controllers/mackie-control.json";
-          sha256 = "0hd18w7nzmlnx9a49xzp0f7g4fb269hlqv1d87mws5d5df2bcqc0";
+          sha256 = "08khwkz2ncksmad95y099mzv6gi5017jzaa8y42rp6dsl2vqmn81";
         }
       ];
     };
@@ -365,7 +365,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/faderport-8.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/225add1a7cb324327bb8350c4d7b5a30fe7c75dd/resources/controllers/faderport-8.json";
-          sha256 = "1scdl54hf5vpn82bq4da4jbmkhnmgz91xj041np3p0gnwdrmcqpb";
+          sha256 = "1hilvbqwx0bb1fz21zisvl80j0rvwvfjwkk12jbl2ykwrpq5nk4g";
         }
       ];
     };
@@ -379,7 +379,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/faderport-classic.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/74ae3e116c184f9edc01bf8c3fe78d5add1fb69d/resources/controllers/faderport-classic.json";
-          sha256 = "1qskgxw1y41jhnh2f42vcb5kbazks9jggd1h2fi8hmyh12798rw9";
+          sha256 = "";
         }
       ];
     };
@@ -393,7 +393,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/faderport-classic.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/225add1a7cb324327bb8350c4d7b5a30fe7c75dd/resources/controllers/faderport-classic.json";
-          sha256 = "07f8r6hd68a16a8j0441kkmq4db661li03vmqv625l94fv82055x";
+          sha256 = "034dizlg0asbhf26c42yxpp8f3cdhygsgcfxqnsfw5cgzh3lbsy4";
         }
       ];
     };
@@ -407,7 +407,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/keylab-mkii.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/fbbf4005569fff7e53e1a916ff2baacff9799529/resources/controllers/keylab-mkii.json";
-          sha256 = "12wb2bl7cn6pmfx4m113vdb74szv01dsllhqfdadnqn4zbiazvhf";
+          sha256 = "";
         }
       ];
     };
@@ -435,7 +435,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/minilab-mkii.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/74ae3e116c184f9edc01bf8c3fe78d5add1fb69d/resources/controllers/minilab-mkii.json";
-          sha256 = "0h4k8vqayghfk7z9xa60fqy33q8j72ss2nll7w4ldggzid38cns8";
+          sha256 = "19f901vsa67isykcxs5936mzrsnw841qgrdgra1a8ymq6d3l011w";
         }
       ];
     };
@@ -449,7 +449,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/minilab-mkii.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/09fe2dc9f075cf84186123d7d27c2f0860b89022/resources/controllers/minilab-mkii.json";
-          sha256 = "0jlbl21ix0qpxcdgymn9m5fr3bb1hni70c4s87mvd4jhi7r5c3n4";
+          sha256 = "";
         }
       ];
     };
@@ -463,7 +463,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/nord-stage-3.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/74ae3e116c184f9edc01bf8c3fe78d5add1fb69d/resources/controllers/nord-stage-3.json";
-          sha256 = "09dn4pb0gkxifc69safns91x7v6cwa1qwd4ampbsl90pr6ph51n0";
+          sha256 = "";
         }
       ];
     };
@@ -491,7 +491,7 @@
         {
           path = ''helgoboss/realearn/presets/controller/uc-33.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/74ae3e116c184f9edc01bf8c3fe78d5add1fb69d/resources/controllers/uc-33.json";
-          sha256 = "1z6gn5s8pifhngydq4p3w8i1cdr9hhkbrkxhjn5w9k8dpwnh1lj4";
+          sha256 = "";
         }
       ];
     };
@@ -505,7 +505,7 @@
         {
           path = ''helgoboss/realearn/presets/main/daw-control.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/57866b1384adcc64f12a904a97b8be6b8463eacc/resources/main-presets/daw-control.json";
-          sha256 = "0wygq1lz8b7fnalmxk4q222f33l5nqdg8vd1pvin72phw7ahn7w8";
+          sha256 = "";
         }
       ];
     };
@@ -519,7 +519,7 @@
         {
           path = ''helgoboss/realearn/presets/main/daw-control.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/ff9fc4f6ef03a82d30cd8af86e15558ea96e5956/resources/main-presets/daw-control.json";
-          sha256 = "00f48fgpbwfjgi3ihjidsh1d872rfqhjpjxksdq5cbd4hh5ic8cf";
+          sha256 = "";
         }
       ];
     };
@@ -533,7 +533,7 @@
         {
           path = ''helgoboss/realearn/presets/main/daw-control.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/24b9ad6a563276c450f30b9901b3e17d2d55fe96/resources/main-presets/daw-control.json";
-          sha256 = "161llp5wfjz3pvdaccyrx6zz7hnb7rpw8bn3jmabpjrsalmm2jmf";
+          sha256 = "";
         }
       ];
     };
@@ -547,7 +547,7 @@
         {
           path = ''helgoboss/realearn/presets/main/daw-control.json'';
           url = "https://raw.githubusercontent.com/helgoboss/realearn/930e6b4af97976486fe0ae6245e810b99782a3b8/resources/main-presets/daw-control.json";
-          sha256 = "09h97if8wngymzjs0g02zwcjdfw84c944sfgna52m4q32gfr89py";
+          sha256 = "";
         }
       ];
     };

@@ -5821,6 +5821,48 @@
         }
       ];
     };
+    mpl-copypaste-plugin-data-lua-1-04 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-copypaste-plugin-data-lua-1-04";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/a2f756fd5470a275b35e7c42102e730fbb32f171/FX/mpl_CopyPaste%20plugin%20data.lua";
+          sha256 = "1ay27k8np9sssvd53n0jhpgfby6lchyjr5mfpr8vlwh4acqsz5ig";
+        }
+      ];
+    };
+    mpl-copypaste-plugin-data-lua-1-05 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-copypaste-plugin-data-lua-1-05";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/eed645ee12e7d57d361d38574fb3593ae7ab2373/FX/mpl_CopyPaste%20plugin%20data.lua";
+          sha256 = "1wf3m6q1p89dg3m1vk7lqh55s3ws280i807w4mj24v1ng4ncbx2w";
+        }
+      ];
+    };
+    mpl-copypaste-plugin-data-lua-1-06 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-copypaste-plugin-data-lua-1-06";
+      indexName = "MPL Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/50636e52df49a6e65b80c5009a9b50706707ae3b/FX/mpl_CopyPaste%20plugin%20data.lua";
+          sha256 = "0xxwhjwv1ffz6va4k16r17lybp4zw8h7d9w1cf338cgfr4dr6c62";
+        }
+      ];
+    };
     mpl-create-send-from-focused-fx-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-create-send-from-focused-fx-lua-1-0";
@@ -16719,6 +16761,262 @@
         }
       ];
     };
+    mpl-rs5k-manager-background-lua-4-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-rs5k-manager-background-lua-4-0";
+      indexName = "MPL Scripts";
+      categoryName = "FX specific";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/446deb96f734a4fe08f2d24e3d98c82b788838bd/FX%20specific/mpl_RS5k%20manager%20(background).lua";
+          sha256 = "1n1bzhg3prcj9fz10ym1c5b8wrskqq59qi6mdpc77cyqld5ag2sb";
+        }
+        {
+          path = ''mpl_RS5k_manager_Database_NewKit.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/446deb96f734a4fe08f2d24e3d98c82b788838bd/FX%20specific/mpl_RS5k_manager_Database_NewKit.lua";
+          sha256 = "1bdvsq2x1h743a3y0nsdca8nx9p9ag89p5zcwf57rpzm9mkk8hnv";
+        }
+        {
+          path = ''mpl_RS5k_manager_Database_Lock.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/446deb96f734a4fe08f2d24e3d98c82b788838bd/FX%20specific/mpl_RS5k_manager_Database_Lock.lua";
+          sha256 = "1zvdvasczzcwssvympidm4flqpdcjrg31gky15c3xd5n4x4rnpg1";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_PreviousSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/446deb96f734a4fe08f2d24e3d98c82b788838bd/FX%20specific/mpl_RS5k_manager_Sampler_PreviousSample.lua";
+          sha256 = "1ijha4hpzim8h28cg9slnazg9knam7l9db0m8i067b7a0rxqjj8m";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_NextSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/446deb96f734a4fe08f2d24e3d98c82b788838bd/FX%20specific/mpl_RS5k_manager_Sampler_NextSample.lua";
+          sha256 = "110x1rbjvcn16ggi8jsqaz0xi7xzzln3dcg5w3j2n9za3glnnr0b";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_RandSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/446deb96f734a4fe08f2d24e3d98c82b788838bd/FX%20specific/mpl_RS5k_manager_Sampler_RandSample.lua";
+          sha256 = "109jgjzq49kl3k8y6q7ic913kqgjvg35sxbhmvlpr4wwh462rr86";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Solo.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/446deb96f734a4fe08f2d24e3d98c82b788838bd/FX%20specific/mpl_RS5k_manager_DrumRack_Solo.lua";
+          sha256 = "1bhpx6yw0jwmjma9p60whyvilps6rqifhnxlx1h5piq6cq2lkvr5";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Mute.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/446deb96f734a4fe08f2d24e3d98c82b788838bd/FX%20specific/mpl_RS5k_manager_DrumRack_Mute.lua";
+          sha256 = "1fipssbkw813hl5hdvql0ycngxchgjnaq5nx3s73inl5r77ns4pl";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Clear.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/446deb96f734a4fe08f2d24e3d98c82b788838bd/FX%20specific/mpl_RS5k_manager_DrumRack_Clear.lua";
+          sha256 = "109160l4jh616kffnj988w1drxw0wyvvi21si4ijgh6nndbkynmg";
+        }
+        {
+          path = ''mpl_RS5k_manager_MacroControls.jsfx'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/446deb96f734a4fe08f2d24e3d98c82b788838bd/FX%20specific/mpl_RS5k_manager_MacroControls.jsfx";
+          sha256 = "0qqjprfvqf4f2f32njb5iz37ilhlhin4i647gd0wzh2rm9di4qah";
+        }
+        {
+          path = ''mpl_RS5K_manager_MIDIBUS_choke.jsfx'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/446deb96f734a4fe08f2d24e3d98c82b788838bd/FX%20specific/mpl_RS5K_manager_MIDIBUS_choke.jsfx";
+          sha256 = "08p1cw0vw1w0b3i4yqd765azcfyysrhl2jks58r6frgjwy13hgja";
+        }
+      ];
+    };
+    mpl-rs5k-manager-background-lua-4-01 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-rs5k-manager-background-lua-4-01";
+      indexName = "MPL Scripts";
+      categoryName = "FX specific";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/cade1206d3a17aa3a13fb185983775b1758dcd60/FX%20specific/mpl_RS5k%20manager%20(background).lua";
+          sha256 = "0acz84mg1v951jmjiwl1jwjkc8nwgm9hbc4gh13zjzlkd5dvyf58";
+        }
+        {
+          path = ''mpl_RS5k_manager_Database_NewKit.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/cade1206d3a17aa3a13fb185983775b1758dcd60/FX%20specific/mpl_RS5k_manager_Database_NewKit.lua";
+          sha256 = "1bdvsq2x1h743a3y0nsdca8nx9p9ag89p5zcwf57rpzm9mkk8hnv";
+        }
+        {
+          path = ''mpl_RS5k_manager_Database_Lock.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/cade1206d3a17aa3a13fb185983775b1758dcd60/FX%20specific/mpl_RS5k_manager_Database_Lock.lua";
+          sha256 = "1zvdvasczzcwssvympidm4flqpdcjrg31gky15c3xd5n4x4rnpg1";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_PreviousSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/cade1206d3a17aa3a13fb185983775b1758dcd60/FX%20specific/mpl_RS5k_manager_Sampler_PreviousSample.lua";
+          sha256 = "1ijha4hpzim8h28cg9slnazg9knam7l9db0m8i067b7a0rxqjj8m";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_NextSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/cade1206d3a17aa3a13fb185983775b1758dcd60/FX%20specific/mpl_RS5k_manager_Sampler_NextSample.lua";
+          sha256 = "110x1rbjvcn16ggi8jsqaz0xi7xzzln3dcg5w3j2n9za3glnnr0b";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_RandSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/cade1206d3a17aa3a13fb185983775b1758dcd60/FX%20specific/mpl_RS5k_manager_Sampler_RandSample.lua";
+          sha256 = "109jgjzq49kl3k8y6q7ic913kqgjvg35sxbhmvlpr4wwh462rr86";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Solo.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/cade1206d3a17aa3a13fb185983775b1758dcd60/FX%20specific/mpl_RS5k_manager_DrumRack_Solo.lua";
+          sha256 = "1bhpx6yw0jwmjma9p60whyvilps6rqifhnxlx1h5piq6cq2lkvr5";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Mute.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/cade1206d3a17aa3a13fb185983775b1758dcd60/FX%20specific/mpl_RS5k_manager_DrumRack_Mute.lua";
+          sha256 = "1fipssbkw813hl5hdvql0ycngxchgjnaq5nx3s73inl5r77ns4pl";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Clear.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/cade1206d3a17aa3a13fb185983775b1758dcd60/FX%20specific/mpl_RS5k_manager_DrumRack_Clear.lua";
+          sha256 = "109160l4jh616kffnj988w1drxw0wyvvi21si4ijgh6nndbkynmg";
+        }
+        {
+          path = ''mpl_RS5k_manager_MacroControls.jsfx'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/cade1206d3a17aa3a13fb185983775b1758dcd60/FX%20specific/mpl_RS5k_manager_MacroControls.jsfx";
+          sha256 = "0qqjprfvqf4f2f32njb5iz37ilhlhin4i647gd0wzh2rm9di4qah";
+        }
+        {
+          path = ''mpl_RS5K_manager_MIDIBUS_choke.jsfx'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/cade1206d3a17aa3a13fb185983775b1758dcd60/FX%20specific/mpl_RS5K_manager_MIDIBUS_choke.jsfx";
+          sha256 = "08p1cw0vw1w0b3i4yqd765azcfyysrhl2jks58r6frgjwy13hgja";
+        }
+      ];
+    };
+    mpl-rs5k-manager-background-lua-4-02 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-rs5k-manager-background-lua-4-02";
+      indexName = "MPL Scripts";
+      categoryName = "FX specific";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2f977eca9f6938985f3029d21c4874cc3320e4fa/FX%20specific/mpl_RS5k%20manager%20(background).lua";
+          sha256 = "1i7cm3pymg1sqb4khkbr00bwp43dcn6cdkg896041jzgch49m283";
+        }
+        {
+          path = ''mpl_RS5k_manager_Database_NewKit.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2f977eca9f6938985f3029d21c4874cc3320e4fa/FX%20specific/mpl_RS5k_manager_Database_NewKit.lua";
+          sha256 = "1bdvsq2x1h743a3y0nsdca8nx9p9ag89p5zcwf57rpzm9mkk8hnv";
+        }
+        {
+          path = ''mpl_RS5k_manager_Database_Lock.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2f977eca9f6938985f3029d21c4874cc3320e4fa/FX%20specific/mpl_RS5k_manager_Database_Lock.lua";
+          sha256 = "1zvdvasczzcwssvympidm4flqpdcjrg31gky15c3xd5n4x4rnpg1";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_PreviousSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2f977eca9f6938985f3029d21c4874cc3320e4fa/FX%20specific/mpl_RS5k_manager_Sampler_PreviousSample.lua";
+          sha256 = "1ijha4hpzim8h28cg9slnazg9knam7l9db0m8i067b7a0rxqjj8m";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_NextSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2f977eca9f6938985f3029d21c4874cc3320e4fa/FX%20specific/mpl_RS5k_manager_Sampler_NextSample.lua";
+          sha256 = "110x1rbjvcn16ggi8jsqaz0xi7xzzln3dcg5w3j2n9za3glnnr0b";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_RandSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2f977eca9f6938985f3029d21c4874cc3320e4fa/FX%20specific/mpl_RS5k_manager_Sampler_RandSample.lua";
+          sha256 = "109jgjzq49kl3k8y6q7ic913kqgjvg35sxbhmvlpr4wwh462rr86";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Solo.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2f977eca9f6938985f3029d21c4874cc3320e4fa/FX%20specific/mpl_RS5k_manager_DrumRack_Solo.lua";
+          sha256 = "1bhpx6yw0jwmjma9p60whyvilps6rqifhnxlx1h5piq6cq2lkvr5";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Mute.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2f977eca9f6938985f3029d21c4874cc3320e4fa/FX%20specific/mpl_RS5k_manager_DrumRack_Mute.lua";
+          sha256 = "1fipssbkw813hl5hdvql0ycngxchgjnaq5nx3s73inl5r77ns4pl";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Clear.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2f977eca9f6938985f3029d21c4874cc3320e4fa/FX%20specific/mpl_RS5k_manager_DrumRack_Clear.lua";
+          sha256 = "109160l4jh616kffnj988w1drxw0wyvvi21si4ijgh6nndbkynmg";
+        }
+        {
+          path = ''mpl_RS5k_manager_MacroControls.jsfx'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2f977eca9f6938985f3029d21c4874cc3320e4fa/FX%20specific/mpl_RS5k_manager_MacroControls.jsfx";
+          sha256 = "0qqjprfvqf4f2f32njb5iz37ilhlhin4i647gd0wzh2rm9di4qah";
+        }
+        {
+          path = ''mpl_RS5K_manager_MIDIBUS_choke.jsfx'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2f977eca9f6938985f3029d21c4874cc3320e4fa/FX%20specific/mpl_RS5K_manager_MIDIBUS_choke.jsfx";
+          sha256 = "08p1cw0vw1w0b3i4yqd765azcfyysrhl2jks58r6frgjwy13hgja";
+        }
+      ];
+    };
+    mpl-rs5k-manager-background-lua-4-03 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-rs5k-manager-background-lua-4-03";
+      indexName = "MPL Scripts";
+      categoryName = "FX specific";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bef55c23ce5cff2c11344bab739144bd20fb639d/FX%20specific/mpl_RS5k%20manager%20(background).lua";
+          sha256 = "0qhyx6ghhf5mrds8r135dljmrmji57grck4dkjjas7cda4f0y3x2";
+        }
+        {
+          path = ''mpl_RS5k_manager_Database_NewKit.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bef55c23ce5cff2c11344bab739144bd20fb639d/FX%20specific/mpl_RS5k_manager_Database_NewKit.lua";
+          sha256 = "1bdvsq2x1h743a3y0nsdca8nx9p9ag89p5zcwf57rpzm9mkk8hnv";
+        }
+        {
+          path = ''mpl_RS5k_manager_Database_Lock.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bef55c23ce5cff2c11344bab739144bd20fb639d/FX%20specific/mpl_RS5k_manager_Database_Lock.lua";
+          sha256 = "1zvdvasczzcwssvympidm4flqpdcjrg31gky15c3xd5n4x4rnpg1";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_PreviousSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bef55c23ce5cff2c11344bab739144bd20fb639d/FX%20specific/mpl_RS5k_manager_Sampler_PreviousSample.lua";
+          sha256 = "1ijha4hpzim8h28cg9slnazg9knam7l9db0m8i067b7a0rxqjj8m";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_NextSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bef55c23ce5cff2c11344bab739144bd20fb639d/FX%20specific/mpl_RS5k_manager_Sampler_NextSample.lua";
+          sha256 = "110x1rbjvcn16ggi8jsqaz0xi7xzzln3dcg5w3j2n9za3glnnr0b";
+        }
+        {
+          path = ''mpl_RS5k_manager_Sampler_RandSample.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bef55c23ce5cff2c11344bab739144bd20fb639d/FX%20specific/mpl_RS5k_manager_Sampler_RandSample.lua";
+          sha256 = "109jgjzq49kl3k8y6q7ic913kqgjvg35sxbhmvlpr4wwh462rr86";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Solo.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bef55c23ce5cff2c11344bab739144bd20fb639d/FX%20specific/mpl_RS5k_manager_DrumRack_Solo.lua";
+          sha256 = "1bhpx6yw0jwmjma9p60whyvilps6rqifhnxlx1h5piq6cq2lkvr5";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Mute.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bef55c23ce5cff2c11344bab739144bd20fb639d/FX%20specific/mpl_RS5k_manager_DrumRack_Mute.lua";
+          sha256 = "1fipssbkw813hl5hdvql0ycngxchgjnaq5nx3s73inl5r77ns4pl";
+        }
+        {
+          path = ''mpl_RS5k_manager_DrumRack_Clear.lua'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bef55c23ce5cff2c11344bab739144bd20fb639d/FX%20specific/mpl_RS5k_manager_DrumRack_Clear.lua";
+          sha256 = "109160l4jh616kffnj988w1drxw0wyvvi21si4ijgh6nndbkynmg";
+        }
+        {
+          path = ''mpl_RS5k_manager_MacroControls.jsfx'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bef55c23ce5cff2c11344bab739144bd20fb639d/FX%20specific/mpl_RS5k_manager_MacroControls.jsfx";
+          sha256 = "0qqjprfvqf4f2f32njb5iz37ilhlhin4i647gd0wzh2rm9di4qah";
+        }
+        {
+          path = ''mpl_RS5K_manager_MIDIBUS_choke.jsfx'';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bef55c23ce5cff2c11344bab739144bd20fb639d/FX%20specific/mpl_RS5K_manager_MIDIBUS_choke.jsfx";
+          sha256 = "08p1cw0vw1w0b3i4yqd765azcfyysrhl2jks58r6frgjwy13hgja";
+        }
+      ];
+    };
     mpl-rs5k-manager-macrocontrols-jsfx-1-02 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mpl-rs5k-manager-macrocontrols-jsfx-1-02";
@@ -16772,6 +17070,20 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/969e09cab68ffb3b44488fe0f565675e55bc114c/FX%20specific/mpl_RS5K_manager_MIDIBUS_choke.jsfx";
           sha256 = "0hgbnmh69pash4x4799b2fplxxg2shiy4255lz2gzazxk9afnx8g";
+        }
+      ];
+    };
+    mpl-rs5k-manager-midibus-choke-jsfx-1-03 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-rs5k-manager-midibus-choke-jsfx-1-03";
+      indexName = "MPL Scripts";
+      categoryName = "FX specific";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/446deb96f734a4fe08f2d24e3d98c82b788838bd/FX%20specific/mpl_RS5K_manager_MIDIBUS_choke.jsfx";
+          sha256 = "08p1cw0vw1w0b3i4yqd765azcfyysrhl2jks58r6frgjwy13hgja";
         }
       ];
     };
@@ -39405,6 +39717,20 @@
           path = '''';
           url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b27b5b4572b817622b4402935a8fa11c29bef833/Various/mpl_SendFader%20(background).lua";
           sha256 = "1p7m8nq1gawhp9azq8xpmdczvxvjw91b2cpy2yypr6qyykb1zrmh";
+        }
+      ];
+    };
+    mpl-sendfader-background-lua-3-05 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mpl-sendfader-background-lua-3-05";
+      indexName = "MPL Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e46e8b0995de84fa3f89d3734ffc05a78e18a5e8/Various/mpl_SendFader%20(background).lua";
+          sha256 = "1nw0jmhzg09ymjjnpj42wvzpx797nlbpbniixr306q50nsps3a35";
         }
       ];
     };
