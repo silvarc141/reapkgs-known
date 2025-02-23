@@ -1151,6 +1151,20 @@
         }
       ];
     };
+    mschnell-note-on-delay-tool-jsfx-1-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mschnell-note-on-delay-tool-jsfx-1-2";
+      indexName = "ReaTeam JSFX";
+      categoryName = "MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/JSFX/raw/df47a7c25fc828729d18980212c27c021e1fa521/MIDI/mschnell_Note%20On%20Delay%20Tool.jsfx";
+          sha256 = "0kqcffim56f7aqhi857h3k3imkwqbjrjrv1i7vwb1f6knyk5qh76";
+        }
+      ];
+    };
     mschnell-note-on-under-x-velocity-to-note-off-and-send-all-notes-off-jsfx-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "mschnell-note-on-under-x-velocity-to-note-off-and-send-all-notes-off-jsfx-1-0";
@@ -1190,6 +1204,20 @@
           path = '''';
           url = "https://github.com/ReaTeam/JSFX/raw/295b72b8f05c2c617a62d78baab88e53074df611/MIDI/mschnell_Note%20On%20Velocity%20Tool.jsfx";
           sha256 = "070ai4cn6mqyh98aap5qdpfafmx1fqzzi74ypii6k5lr624f17ac";
+        }
+      ];
+    };
+    mschnell-note-on-velocity-tool-jsfx-1-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "mschnell-note-on-velocity-tool-jsfx-1-2";
+      indexName = "ReaTeam JSFX";
+      categoryName = "MIDI";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/JSFX/raw/9c50d42c143474a039015fe36c9a669f4ea9089e/MIDI/mschnell_Note%20On%20Velocity%20Tool.jsfx";
+          sha256 = "1wmkqcxdgkwq25xba4p6m2llwbhdk2wkfckhn02rjnmn11bns6kn";
         }
       ];
     };

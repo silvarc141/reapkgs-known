@@ -14270,6 +14270,20 @@
         }
       ];
     };
+    amagalma-show-menu-for-all-normalize-items-actions-lua-1-00 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amagalma-show-menu-for-all-normalize-items-actions-lua-1-00";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Items Editing";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/0ca368bff0764680ebcd4d3b48c0534dad3cafa3/Items%20Editing/amagalma_Show%20menu%20for%20all%20Normalize%20Items%20actions.lua";
+          sha256 = "1kxmm31xzfif5hhfdc272ilqcpg1a6jn9r3nkp8h21x2vlvzfv0m";
+        }
+      ];
+    };
     amagalma-smart-crossfade-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "amagalma-smart-crossfade-lua-1-0";
@@ -61191,6 +61205,240 @@
         }
       ];
     };
+    talagan-spectracular-lua-0-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "talagan-spectracular-lua-0-2";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = ''talagan_Spectracular/ext/dependencies.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/ext/dependencies.lua";
+          sha256 = "0qlizyymxqz7qm1kfq5knvvmazrkq13x85fglpckgwwijx0cicfj";
+        }
+        {
+          path = ''talagan_Spectracular/ext/imgui.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/ext/imgui.lua";
+          sha256 = "1cgsnx6r4ffsczx3hgs9z16yynfwgry6qrmspdvfs55j8b259vfw";
+        }
+        {
+          path = ''talagan_Spectracular/classes/sample_accessor.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/classes/sample_accessor.lua";
+          sha256 = "1l9cshwy4hry7k6qbjb7d64m9m1w7dn7z0ciwhvs8j3imyhls2w3";
+        }
+        {
+          path = ''talagan_Spectracular/classes/spectrogram.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/classes/spectrogram.lua";
+          sha256 = "1kld80p78f4zan3p809idax3s3b0iis63n9m5is8hcd7k8jfxgyn";
+        }
+        {
+          path = ''talagan_Spectracular/classes/spectrogram_chunk.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/classes/spectrogram_chunk.lua";
+          sha256 = "14djn99vvkrkc6i9vgfbav9gbfx3grrayljajlrsbwbhz9s0yxpg";
+        }
+        {
+          path = ''talagan_Spectracular/classes/spectrum_analysis_context.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/classes/spectrum_analysis_context.lua";
+          sha256 = "10l2n5nzf2v16yspb8jwsi4y867vzpy3migm2x3xvhi2sg0k24wz";
+        }
+        {
+          path = ''talagan_Spectracular/images/spectracular.png'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/images/spectracular.png";
+          sha256 = "1ar4j0mzdjpganpwgb07bncxrwddg20b3pa8i5xvd144v1hwkm98";
+        }
+        {
+          path = ''talagan_Spectracular/modules/csv.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/csv.lua";
+          sha256 = "0j57k1yk2q8bzwllpfrcpw1a76ymh45jv6hs2bjhr8vmj22jrymz";
+        }
+        {
+          path = ''talagan_Spectracular/modules/debug.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/debug.lua";
+          sha256 = "0mfnsvy5hn7vj6ql0igbhs492nc0hwhjx0ihcsrh4avw3vk4297c";
+        }
+        {
+          path = ''talagan_Spectracular/modules/dsp.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/dsp.lua";
+          sha256 = "116z875r1gi1sinn4abgvvnwh38f98shccjkmpw6fnjmmlnia4v1";
+        }
+        {
+          path = ''talagan_Spectracular/modules/dsp/analysis_data_extractor.eel'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/dsp/analysis_data_extractor.eel";
+          sha256 = "0d7vmdbd35jpfl0iarppmca3v9kryywn28p10pmdna2g3nip7zwd";
+        }
+        {
+          path = ''talagan_Spectracular/modules/dsp/analysis_data_to_rgb_array.eel'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/dsp/analysis_data_to_rgb_array.eel";
+          sha256 = "09v0ng9y17njd4qchnr8xamnc3h0m7j895dlyvjgqq0hxr3q0ih0";
+        }
+        {
+          path = ''talagan_Spectracular/modules/dsp/array_fill.eel'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/dsp/array_fill.eel";
+          sha256 = "0prgq22wx38gs8p13lv6wyr5x5cmr5cmmipl2d591azpq90qyyx9";
+        }
+        {
+          path = ''talagan_Spectracular/modules/dsp/array_interleave.eel'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/dsp/array_interleave.eel";
+          sha256 = "0z5vyfiygn0dinx595rdv5x8fw30zbhs1wg8dy0ch4kn6nc7d2a1";
+        }
+        {
+          path = ''talagan_Spectracular/modules/dsp/array_op.eel'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/dsp/array_op.eel";
+          sha256 = "14bnc7hz9ipfz2cmm00kxs1qq06fq71bp01ccv7g751mw5412z1d";
+        }
+        {
+          path = ''talagan_Spectracular/modules/dsp/fft_bins_to_db.eel'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/dsp/fft_bins_to_db.eel";
+          sha256 = "1x6a9dr5c33hw3bnc1s61ii9ia1lza5s6bk4hil0s9j7sfqxgj5l";
+        }
+        {
+          path = ''talagan_Spectracular/modules/dsp/fft_to_fft_bins.eel'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/dsp/fft_to_fft_bins.eel";
+          sha256 = "06xxyxfsw9hwa0zirfz9pplm2sl8l8iq28fgblzilzk3v020z367";
+        }
+        {
+          path = ''talagan_Spectracular/modules/dsp/fft_window.eel'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/dsp/fft_window.eel";
+          sha256 = "0byyrpn9z26xc8z7p7qjbn7bkzmcn3wvlgfrndm33nfx48r3xx2i";
+        }
+        {
+          path = ''talagan_Spectracular/modules/dsp/resampler_akima.eel'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/dsp/resampler_akima.eel";
+          sha256 = "1v4ik91r0x2l29r0h28yyza3igi4k4q4h4bs755zhp5bwfhmmij5";
+        }
+        {
+          path = ''talagan_Spectracular/modules/dsp/resampler_cubic.eel'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/dsp/resampler_cubic.eel";
+          sha256 = "1s6gn9xxpmj6q6jhmfh3z2qyd0bc41kihi7990crjiycw0k3sn0r";
+        }
+        {
+          path = ''talagan_Spectracular/modules/dsp/resampler_linear.eel'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/dsp/resampler_linear.eel";
+          sha256 = "1n8hckzm18wlvs1009q93mqlgm360s7s1n5jb4kxsj1bpi58czza";
+        }
+        {
+          path = ''talagan_Spectracular/modules/dsp/rmse.eel'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/dsp/rmse.eel";
+          sha256 = "0qa3h0aa4a1pi1iasxi903p9qqp6fl0mjpm6k5va36brqb5icdb2";
+        }
+        {
+          path = ''talagan_Spectracular/modules/log.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/log.lua";
+          sha256 = "0dawwk33hmpv1kqccsyghinpqnh5wdsrb6vqzshq0f6vch5lyz1g";
+        }
+        {
+          path = ''talagan_Spectracular/modules/midi.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/midi.lua";
+          sha256 = "0f2adc9aipjqsvyg4d9rk5209wixq5vgsrq04dj82a7i1zr1zbl3";
+        }
+        {
+          path = ''talagan_Spectracular/modules/render.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/render.lua";
+          sha256 = "1aiy7g0hxyr6i0vj1xir15p8wb129x80pmdn6rxq56frfg3538pl";
+        }
+        {
+          path = ''talagan_Spectracular/modules/settings.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/settings.lua";
+          sha256 = "1x4fj33bcgfiq80a8c6403ghgbi8s6yvdah1wb84zyccrlv2harg";
+        }
+        {
+          path = ''talagan_Spectracular/modules/tracks.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/tracks.lua";
+          sha256 = "09kwm2fyjyzk3ysbi8g5npnk9dgkqcdhfzd7k74gpdsp7zjr4f7y";
+        }
+        {
+          path = ''talagan_Spectracular/modules/unit_test.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/unit_test.lua";
+          sha256 = "14mcnlxg81ya48590dkwn8rljv1ypp0nhyqrfmkpn1hy64zp3kdw";
+        }
+        {
+          path = ''talagan_Spectracular/modules/utils.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/modules/utils.lua";
+          sha256 = "00jz05p0s5bv40w2pa8zzg3b650z1z8bgp0sy6f3097xx1m1j7jg";
+        }
+        {
+          path = ''talagan_Spectracular/unit_tests/dsp.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/unit_tests/dsp.lua";
+          sha256 = "08j58h08rwgxg5kyqbm2wbir8np3d6chjh71sa55fcirm6jhzjbd";
+        }
+        {
+          path = ''talagan_Spectracular/widgets/help_window.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/widgets/help_window.lua";
+          sha256 = "19423wp1ca13jb3jvhhj95mh8lkvjds456144hykchn7ikkksylv";
+        }
+        {
+          path = ''talagan_Spectracular/widgets/lr_mix.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/widgets/lr_mix.lua";
+          sha256 = "125nf3pyh9whmq4pk5wyvs3x2pa0p1ic6xszwg73b42bvcvmaxgr";
+        }
+        {
+          path = ''talagan_Spectracular/widgets/lr_switch.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/widgets/lr_switch.lua";
+          sha256 = "1fa1q8pas5wizpirxjvfd8hmhrda3011px6n578fmgjaqmhvldrr";
+        }
+        {
+          path = ''talagan_Spectracular/widgets/main.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/widgets/main.lua";
+          sha256 = "1w72q412giwxfn59rhvfrl83xbnkhhybxr3743ir5ibllygcwcr7";
+        }
+        {
+          path = ''talagan_Spectracular/widgets/profiles/frequency_slice_profile.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/widgets/profiles/frequency_slice_profile.lua";
+          sha256 = "0x9y7vfkfvyam579xikdns4wnsrbzmxn4bg1kkzvsg23vzmb7zna";
+        }
+        {
+          path = ''talagan_Spectracular/widgets/profiles/spectrograph_time_profile.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/widgets/profiles/spectrograph_time_profile.lua";
+          sha256 = "1m6gqd9j4qxbgg7fn6a1a13pyflkidl2m3izgfhpniyddyg8q5kz";
+        }
+        {
+          path = ''talagan_Spectracular/widgets/rmse.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/widgets/rmse.lua";
+          sha256 = "139dkjicl5w4gq23vpg2bfp4h2nwchph39zpl79mh6s0jrlnwsxs";
+        }
+        {
+          path = ''talagan_Spectracular/widgets/ruler.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/widgets/ruler.lua";
+          sha256 = "171psq18rcws7685angw9hxfccrcdzmvs2nihcjbg9czwgpqw6av";
+        }
+        {
+          path = ''talagan_Spectracular/widgets/scale_label.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/widgets/scale_label.lua";
+          sha256 = "1lc3rp3620lsgbcz4n1cm2lyidg7vwxxl0plhg1k6w0v903j29qy";
+        }
+        {
+          path = ''talagan_Spectracular/widgets/spectrograph.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/widgets/spectrograph.lua";
+          sha256 = "05pbivzi9rhv8zb7kjadi6w2fc9k1vdlmird3nby0rm661yx6ir8";
+        }
+        {
+          path = ''talagan_Spectracular/widgets/theme.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/widgets/theme.lua";
+          sha256 = "0vvf1w53mhmiabmj03fazjqgw252i4n41pkjc52nc7qgp3gz1m7s";
+        }
+        {
+          path = ''talagan_Spectracular/widgets/ticks_overlay.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/widgets/ticks_overlay.lua";
+          sha256 = "0gxyrz3qbd01nfr4ljmnf8xbiz47d72brjclx66myfyzypr0yfb2";
+        }
+        {
+          path = ''talagan_Spectracular/app.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/app.lua";
+          sha256 = "1rr6g0r4qp60lvaz5c4jar4ijfni79cb226125w11v9apzhsqsvs";
+        }
+        {
+          path = ''talagan_Spectracular mono.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/actions/talagan_Spectracular%20generic%20action.lua";
+          sha256 = "0cwml288jgkjngdjwdi0b7b858mmjn31ydcay4jhnmnj8kksxyxi";
+        }
+        {
+          path = ''talagan_Spectracular stereo.lua'';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/7567448d09b1ff9f1359df7805a9631368b313ad/Various/talagan_Spectracular/actions/talagan_Spectracular%20generic%20action.lua";
+          sha256 = "0cwml288jgkjngdjwdi0b7b858mmjn31ydcay4jhnmnj8kksxyxi";
+        }
+      ];
+    };
     timtam-intellifreeze-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "timtam-intellifreeze-lua-1-0";
@@ -61264,6 +61512,20 @@
           path = '''';
           url = "https://github.com/ReaTeam/ReaScripts/raw/da3cd1a53733982e73c0995b10c99df7cd1fb270/Various/tompad_MusicMath.lua";
           sha256 = "0y4fqjy7lsilz13r9q1k8b3gicwm3vhb2bhhisd8h5hpwqhd9f9y";
+        }
+      ];
+    };
+    tompad-musicmath-lua-1-3 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "tompad-musicmath-lua-1-3";
+      indexName = "ReaTeam Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/ReaScripts/raw/4be2d415567ae0e734e1e0d9b82cab7dffac707d/Various/tompad_MusicMath.lua";
+          sha256 = "1ca7njwxxnrxjh21f1rz829xznds04n41bgwknnmp6hcbj82kbqf";
         }
       ];
     };

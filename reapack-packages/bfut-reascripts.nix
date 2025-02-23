@@ -29,7 +29,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/df8533ca75987f5b94120cf77eb1d9f7c833421c/Items%20Editing/bfut_Copy%20item%20to%20clipboard.lua";
-          sha256 = "";
+          sha256 = "15bwbm70jv86ladm96hhw1hfysd0hav7fd9mjcvw5vfvfx45x6s8";
         }
       ];
     };
@@ -71,7 +71,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/94ec804d13e2b9073d8ad3d4b3ea68e221a24456/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua";
-          sha256 = "1b8i132wbfkm614gjlrjmw5yrxkv1ykg28zzpny7smrpgiqpap0q";
+          sha256 = "01fxnqawldqj7xxin9aczpli88rsmlqjkscfqjzq4w5bg1vyg2fz";
         }
       ];
     };
@@ -127,7 +127,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/566f070bc827cf0bc53ec362ad81389bc7d34e5c/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua";
-          sha256 = "";
+          sha256 = "0ia9yrpqnx7x1yaxccdfjpbwig74w45p0hllplhwlqkc2jfby3hl";
         }
       ];
     };
@@ -141,7 +141,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/74892c97352335da38592901180543f7b5cfc196/Items%20Editing/bfut_Copy%20items%20to%20regions.lua";
-          sha256 = "0fwpwrqa4swalbxzf1ffdy44hrhklkgbi0z6k8q72xry1gi03cvv";
+          sha256 = "0f9b6gfl6v7pz4klvjbp1b2hi99hqhj34ps30n1s99m7bj5l2lw0";
         }
       ];
     };
@@ -197,7 +197,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/0b3dc44e7b06992ecdefd59f1f4ae46b2c757eb5/Items%20Editing/bfut_Extract%20loop%20section%20under%20mouse%20cursor%20to%20new%20item.lua";
-          sha256 = "";
+          sha256 = "07n9a5prfzyw4cq2gjlhyf62f0d48khg99mxn0vdnshms77nrpzg";
         }
       ];
     };
@@ -211,7 +211,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/6b2a01ad987cc1103383bcaf6e0098fbfe0b0d11/Items%20Editing/bfut_Extract%20loop%20section%20under%20mouse%20cursor%20to%20new%20item.lua";
-          sha256 = "";
+          sha256 = "1dfq1xdfb2yprhbxlq9dxk6dprf3vdcqq0s45bc31ksnikfv70d6";
         }
       ];
     };
@@ -267,7 +267,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/5aa1ee58b1f25439231280c12512981ef739dd2c/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua";
-          sha256 = "14jb5nhlwxc82zdix59yzrcpy1xfj1ssk1zaykxvqdzsxmgy0fqx";
+          sha256 = "1cp15fha3m92r9c0zfmcfk02x86mlldhlmym6adgwypsz8lfjh21";
         }
       ];
     };
@@ -295,7 +295,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/102784d7b1b9774066c4ba7df15ab83bb35f3642/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua";
-          sha256 = "1580h4g9b7njgwgsipn2shfc0v2v77qcbizc6ks1c3wh788j275w";
+          sha256 = "03jgjgn8zhrwvgy90cc6hq8pykhrygn1gw7hhdqy8labxwz2i8fg";
         }
       ];
     };
@@ -323,7 +323,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/d9771b3f7f3eb6ca0da19c44551a5eda58c2103b/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua";
-          sha256 = "03n3x9p7g56ffd13833zr86rrx32gxwnkvs12n9js1i11lkgxwyg";
+          sha256 = "1shc8qxh99502aamm3mfmcjj6w05w2cimyf6l4yfflyq9w78spya";
         }
       ];
     };
@@ -393,7 +393,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/102784d7b1b9774066c4ba7df15ab83bb35f3642/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua";
-          sha256 = "1ijjvvmm8qhvvz9nwy83ba60hwrv24snmgcl39695ya9bgs5npaz";
+          sha256 = "1rf50zkvz110r378bkkqsda14pjc147jx3kkmcj5qr91k99030dd";
         }
       ];
     };
@@ -407,7 +407,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/64973d25f103978c26b92c2259751ed8f4a0172f/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua";
-          sha256 = "";
+          sha256 = "13dbrsmfq14h99gid81n77c18fnadkbg971xwf0nj26yjcw0pnyi";
         }
       ];
     };
@@ -463,7 +463,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/5aa1ee58b1f25439231280c12512981ef739dd2c/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20rate).lua";
-          sha256 = "0yf73czijl13n7yb79ijpx2am9nl06r3vnkc2bcl32wl2x8qj2yf";
+          sha256 = "1rrkwdjv0fy7gwf3ayf9lxxslhww9mpypav601xkz62s5kajl03q";
         }
       ];
     };
@@ -477,7 +477,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/8c3ba71df4f3b5af60dc8b802038b0ff4f43c5f3/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20rate).lua";
-          sha256 = "";
+          sha256 = "0lx01sv9ipqiqwinzfsmxh21vhlxb7rc1qd3aqzdghjidikjy9w7";
         }
       ];
     };
@@ -519,7 +519,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/94ec804d13e2b9073d8ad3d4b3ea68e221a24456/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua";
-          sha256 = "";
+          sha256 = "0hrsisc8v4vzwgslbig70yf11b46kms0chjwqfnj66q2dj876wkx";
         }
       ];
     };
@@ -533,7 +533,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/eb3dc8a43d7dc9824ad5cbf71141bdb9e5ae6e30/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua";
-          sha256 = "0cjxjda0m124vafhcx3vlrqm4q0ji81jlf45bdy5lzcaya5m8mlv";
+          sha256 = "0dcx0p8wjwazkg3bg6wc8zmd9m0p27v0jsy4bd6563zynlwx7hsk";
         }
       ];
     };
@@ -589,7 +589,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/5aa1ee58b1f25439231280c12512981ef739dd2c/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua";
-          sha256 = "";
+          sha256 = "17708dpqsf4vj3sqpxnc45v9kf0k980ziaxliapiav068j5gv702";
         }
       ];
     };
@@ -617,7 +617,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/102784d7b1b9774066c4ba7df15ab83bb35f3642/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(explode%20note%20rows%20to%20subtracks).lua";
-          sha256 = "";
+          sha256 = "0x9xx3423fx68xyj6i5l80qbyy9nq4zi3rgkmdkhlwhhih8cyalh";
         }
       ];
     };
@@ -659,7 +659,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/16b61d48d4fdfa794c9c3c07be2e451d1c1bd502/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua";
-          sha256 = "";
+          sha256 = "1cly18zrngxvlhjvywfc5fd5npmdm1slx201fxz6663g8izz6p9h";
         }
       ];
     };
@@ -673,7 +673,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/689233e38060b387d9dae6f1667286804523e483/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua";
-          sha256 = "";
+          sha256 = "1k2y0mmhr7csl0yrng39bgmxv205clv2bis532yg2p6927r244qq";
         }
       ];
     };
@@ -687,7 +687,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/78f4a3ff92917413bd812dec9597237ecd566340/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua";
-          sha256 = "";
+          sha256 = "0jnrsfadmbvm3rr75k9x5w29k9j5pm52mbdznl4kmph4d3fs7j9m";
         }
       ];
     };
@@ -701,7 +701,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/edc32a41d2b44aca5f9c354a7f320a6e6e557181/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua";
-          sha256 = "09iygjc6fpbnxh3852nzfzykwc420ycgzmy915jinpdl9650h2l3";
+          sha256 = "1f18c8dxh56qn94gyhpvdablvf3nhq6ilgwmcaqqs94m6cm28ybc";
         }
       ];
     };
@@ -729,7 +729,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/8c3ba71df4f3b5af60dc8b802038b0ff4f43c5f3/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20pitch).lua";
-          sha256 = "0sdf9w6k87ylf43vc42zwynahz0vp85jrz4dza3k2mhlbrl5jr12";
+          sha256 = "0ddg9h97a9w7lws9wp4adsw6xfgxcnz93ha18nfg93y3j1103m62";
         }
       ];
     };
@@ -799,7 +799,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/f337425e8965d3642a66a633b6643af8fbd77434/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20rate).lua";
-          sha256 = "";
+          sha256 = "0ikgihi13gg1yic5bnrq7d5b0dm7aprp3dmfinyjcyawmrl0sx4v";
         }
       ];
     };
@@ -827,7 +827,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/edc32a41d2b44aca5f9c354a7f320a6e6e557181/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20rate).lua";
-          sha256 = "069jpzk84ylzvhpq7ar8699dfyx44ijs85716zyxm4pd8jzfrm8x";
+          sha256 = "1rdpix5yvzpc2vlbahysnqcd5qqfaglbfnykbqpfdnrgf03jhw19";
         }
       ];
     };
@@ -883,7 +883,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/64973d25f103978c26b92c2259751ed8f4a0172f/Items%20Editing/bfut_MIDI%20notes%20to%20items%20(notes%20to%20subtrack,%20note%20pitch%20as%20item%20rate).lua";
-          sha256 = "";
+          sha256 = "1xz3xshk3anr0sqg2blwhr524mkkl20cfrx0m2rkz9yxk9xzfcym";
         }
       ];
     };
@@ -897,7 +897,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/7ba682890db29889d7704bd8685bde4319246a11/Items%20Editing/bfut_Paste%20item%20from%20clipboard%20to%20selected%20items%20(replace).lua";
-          sha256 = "";
+          sha256 = "0c852nk73hcp1wp9gb22053h111m5p29clf5zybxf3nw3jlf2p4s";
         }
       ];
     };
@@ -911,7 +911,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/706b5b41b0f5fa32f7f4ff2b0b8c8b1d9851bb7c/Items%20Editing/bfut_Paste%20item%20from%20clipboard%20to%20selected%20items%20(replace).lua";
-          sha256 = "";
+          sha256 = "12fsm66lm33d184j4cnrqkd7bw5yfp74fy776w6zh2ppm97k4mk2";
         }
       ];
     };
@@ -967,7 +967,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/e141498931f8625bb925cddc2fa8336c93b5806c/Items%20Editing/bfut_Remove%20item%20under%20mouse%20cursor%20(delete).lua";
-          sha256 = "";
+          sha256 = "0zjsjzhq5p22sd7hx4cc4f0mz4qlb5k9sldj8vkg2z8fnqxdsjzg";
         }
       ];
     };
@@ -981,7 +981,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/ab5c2fae47fa2800331fd74dd1269900311008ef/Items%20Editing/bfut_Remove%20item%20under%20mouse%20cursor%20(delete).lua";
-          sha256 = "";
+          sha256 = "1vk76ppm0s1cmhrixpy0i5cj1nlhcc6q2ypiaz1hdqwmg4ns75w9";
         }
       ];
     };
@@ -995,7 +995,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/7ba682890db29889d7704bd8685bde4319246a11/Items%20Editing/bfut_Replace%20item%20under%20mouse%20cursor%20with%20selected%20item.lua";
-          sha256 = "";
+          sha256 = "0xikapz5gmp2h56avp3nglkpw6ddjd7hfmqg8yic1qakrzk5w8bv";
         }
       ];
     };
@@ -1051,7 +1051,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/cf43cdf8bb76f489fc993d218c85df7c9a8b0539/Items%20Editing/bfut_Select%20items%20of%20less%20than%201%20sample%20in%20length.lua";
-          sha256 = "";
+          sha256 = "0mrscab0wywd8l4s187am7645w8np5aljf286rgly0rhgs3y97dz";
         }
       ];
     };
@@ -1065,7 +1065,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/94ec804d13e2b9073d8ad3d4b3ea68e221a24456/Items%20Editing/bfut_Split%20looped%20item%20into%20separate%20items.lua";
-          sha256 = "1357li2klzmsb0w3z7136l9ylmnrrkwykcqpa9nl4f9ilfg3cy75";
+          sha256 = "1znazj8kfl5z27bwmxvlxshcdsx43pc7d1wgaz411dfrm0dg8f1f";
         }
       ];
     };
@@ -1079,7 +1079,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/7c0aa9392415db6f8a12e8b1aa7990da61af697e/Items%20Editing/bfut_Split%20looped%20item%20into%20separate%20items.lua";
-          sha256 = "0h2x67bwfq75k560vh1cyafk1alg7h16dkg2b74wih1zc3igym6x";
+          sha256 = "1hw2ghv5blps0wjb3c2jv78jk4xdbpd965chsj734mhfhzv3yn8i";
         }
       ];
     };
@@ -1093,7 +1093,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/1c980e76fe68fe6d31ed67b2e96d5fa64a865053/Items%20Editing/bfut_Split%20looped%20item%20into%20separate%20items.lua";
-          sha256 = "";
+          sha256 = "0lj15k1qld9qx1cwhdmafhv64x879qgbp58jkalwfrwnxi99jrym";
         }
       ];
     };
@@ -1107,7 +1107,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/ffdd41dbba9425101592b9f14a6dc72daef23d75/Items%20Editing/bfut_Split%20looped%20item%20into%20separate%20items.lua";
-          sha256 = "";
+          sha256 = "1id56k573m114l92ia75p9rvaslxkdy73ydxxw8j5hd072blq4yn";
         }
       ];
     };
@@ -1135,7 +1135,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/c09c54773c19890e2c7985c822cf0be7b3b9e1e3/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20and%20fill%20grid%20bar%20under%20mouse).lua";
-          sha256 = "";
+          sha256 = "1py4igq76q9bd5pqfbj192wqyx11d63bqqx1f3z2lsp66q360yyv";
         }
       ];
     };
@@ -1191,7 +1191,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/b7cd6cf55138fdb79d0daee6c707d8e8df78b493/Items%20Editing/bfut_Step%20sequencer%20(copy%20first%20item%20on%20track%20to%20grid%20bar%20under%20mouse).lua";
-          sha256 = "";
+          sha256 = "1548qhxf8f9cnmqjybfyqiw79prrgjaqrj5ii2wa9d4s5p0yb7rq";
         }
       ];
     };
@@ -1247,7 +1247,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/77aaff49a1221540b009af6503145e9a6d2fb2a3/Items%20Editing/bfut_Unselect%20items%20outside%20time%20selection.lua";
-          sha256 = "13l1ck1gvlndgh5jsqzl8jmj9ihfxn0ar83lwyxcwanp6ghgha1k";
+          sha256 = "1bmrq1gf2lcm5vph5kvi7q9mgssf90hvhm67nh3q12170viidxyh";
         }
       ];
     };
@@ -1289,7 +1289,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/25610b39fc6f4d3c21498571f9c17280c53b9d73/Items%20Editing/bfut_Unselect%20ungrouped%20items.lua";
-          sha256 = "1xwbf9l59k645k1zn9mcm1mg7wfx97fa8cqh3l2fb1lvpiczl9dr";
+          sha256 = "0vs8sgvfvz72rmpw9m67rz71cqcjhqz13g0f4r7nly45vc2gb68f";
         }
       ];
     };
@@ -1303,7 +1303,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/5e3a4c6495142c79bdc54e0e5d7baaf6f5108968/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua";
-          sha256 = "1j414fj7nm12a2m6ara1pjc5mrs6m5sgzfgq1szxrsskdyky5w53";
+          sha256 = "14wgxnd0q5y3j5hk16i6wbw1magi1d7szn9dkrjnyyv026b6ly3z";
         }
       ];
     };
@@ -1317,7 +1317,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/d25caeb2385aaafa40d73402f481d2a62e88f450/Items%20Properties/bfut_Copy%20item%20properties%20to%20clipboard.lua";
-          sha256 = "1h6f5z1lklgczqd53zc44y6x4mzky1qp97y0sp2pxg12bp4jxbkl";
+          sha256 = "1x5l090klxllisakr5ia91937d79k10344gi2rsl3girifh7ih04";
         }
       ];
     };

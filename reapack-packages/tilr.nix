@@ -962,7 +962,7 @@
         {
           path = ''fltr1/fltr.mouselib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/d4b72a5534c0d6cc4e0be46b1cfd70eb1e9edb91/Modulation/fltr1/fltr.mouselib.jsfx-inc";
-          sha256 = "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s";
+          sha256 = "04z069rb2ji2qsaf41rr0aqh5ric8bwk8wiclinpcfx3rvh9wpzk";
         }
       ];
     };
@@ -1030,7 +1030,7 @@
         {
           path = ''fltr1/fltr.Saike_Yutani_oversampling.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/41a04406b683c2229add9156a4b3809c5e0f8aa0/Modulation/fltr1/fltr.Saike_Yutani_oversampling.jsfx-inc";
-          sha256 = "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h";
+          sha256 = "1zin4ih6x3xgqpllg30h6wix1dhmvmxfppvz8n9qmkj87a35jydq";
         }
         {
           path = ''fltr1/fltr.Saike_Yutani_upsamplers.jsfx-inc'';
@@ -1079,7 +1079,7 @@
         {
           path = ''fltr1/fltr.Saike_Yutani_upsamplers.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/7d4f4a68e4c9041414127b2c058e4e6229b9346a/Modulation/fltr1/fltr.Saike_Yutani_upsamplers.jsfx-inc";
-          sha256 = "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf";
+          sha256 = "187g10jb005c482lpbab5b7wc6h3cgsbmlbrw9ll2skyk3llzg1s";
         }
         {
           path = ''fltr1/fltr.array.jsfx-inc'';
@@ -1182,7 +1182,7 @@
         {
           path = ''fltr1/fltr.mouselib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/ae96311a256e4b08e2e638975157419ba84813c2/Modulation/fltr1/fltr.mouselib.jsfx-inc";
-          sha256 = "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s";
+          sha256 = "04z069rb2ji2qsaf41rr0aqh5ric8bwk8wiclinpcfx3rvh9wpzk";
         }
       ];
     };
@@ -1216,7 +1216,7 @@
         {
           path = ''fltr1/fltr.array.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/fltr1/fltr.array.jsfx-inc";
-          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+          sha256 = "0mpq1dhs3aysfi33njk8d7djhbgcb7j0m1878zjbvqc0qjrrpf73";
         }
         {
           path = ''fltr1/fltr.curvelib.jsfx-inc'';
@@ -1313,7 +1313,7 @@
         {
           path = ''gate1/gate.mouselib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/f0b6c293393e6e8bac6c741f0495e9bbb0df28b6/Modulation/gate1/gate.mouselib.jsfx-inc";
-          sha256 = "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s";
+          sha256 = "04z069rb2ji2qsaf41rr0aqh5ric8bwk8wiclinpcfx3rvh9wpzk";
         }
       ];
     };
@@ -1366,7 +1366,7 @@
         {
           path = ''gate1/gate.curvelib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/a154c29d13f106dc71ff9612f006f33e6a199d83/Modulation/gate1/gate.curvelib.jsfx-inc";
-          sha256 = "0a3m4ryphqrmz7kymk2hblaqby7rp61xxwl97slzdimj3hs2y6lq";
+          sha256 = "1ncd10i2mjc0809anxs4q789mr8j4jqfw7ivm19rrzl59dcv4gp8";
         }
         {
           path = ''gate1/gate.mouselib.jsfx-inc'';
@@ -1414,7 +1414,7 @@
         {
           path = '''';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/ae96311a256e4b08e2e638975157419ba84813c2/Modulation/gate1.jsfx";
-          sha256 = "0q9dchiag71wzffqsnx17gn1l80yabvmxwy7zs4plrdy107fj4hr";
+          sha256 = "01s2mi8sgf03x16d4f688qzq8xwbf6nprxfcyz5bg6jbgcs7qa85";
         }
         {
           path = ''gate1/gate.array.jsfx-inc'';
@@ -1458,7 +1458,7 @@
         {
           path = ''gate1/gate.curvelib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Modulation/gate1/gate.curvelib.jsfx-inc";
-          sha256 = "0a3m4ryphqrmz7kymk2hblaqby7rp61xxwl97slzdimj3hs2y6lq";
+          sha256 = "1ncd10i2mjc0809anxs4q789mr8j4jqfw7ivm19rrzl59dcv4gp8";
         }
         {
           path = ''gate1/gate.mouselib.jsfx-inc'';
@@ -1540,7 +1540,7 @@
         {
           path = '''';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/0f54845e29f85d7e13c89867ba3b10410aed93fe/Modulation/mseg1.jsfx";
-          sha256 = "000ybc29n2l5nic1n9j24l5j02kr9xiarrx5c0v0kfh5v066jvgd";
+          sha256 = "0yb20d3ll5gwxszdhqam63xdprnrai4qv6i07qj5gnfg6s9nj95g";
         }
         {
           path = ''mseg1/mseg.array.jsfx-inc'';
@@ -1661,7 +1661,7 @@
         {
           path = ''mseg1/mseg.array.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/b6850b9f526fff6271994fd8b5ffd14b42fb8331/Modulation/mseg1/mseg.array.jsfx-inc";
-          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+          sha256 = "0mpq1dhs3aysfi33njk8d7djhbgcb7j0m1878zjbvqc0qjrrpf73";
         }
         {
           path = ''mseg1/mseg.curvelib.jsfx-inc'';
@@ -1695,7 +1695,7 @@
         {
           path = ''mseg1/mseg.curvelib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/d134ca5ed389a1d5fcbaa48a7dafdfdce47b23ac/Modulation/mseg1/mseg.curvelib.jsfx-inc";
-          sha256 = "1nj015clxcfj48iynhbqrld1371mkbdbdp06lf01wgwvh3vf5jy8";
+          sha256 = "";
         }
         {
           path = ''mseg1/mseg.mouselib.jsfx-inc'';
@@ -1777,7 +1777,7 @@
         {
           path = ''mseg1/mseg.array.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/ae96311a256e4b08e2e638975157419ba84813c2/Modulation/mseg1/mseg.array.jsfx-inc";
-          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+          sha256 = "0mpq1dhs3aysfi33njk8d7djhbgcb7j0m1878zjbvqc0qjrrpf73";
         }
         {
           path = ''mseg1/mseg.curvelib.jsfx-inc'';
@@ -1811,7 +1811,7 @@
         {
           path = ''mseg1/mseg.curvelib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/7d0803600aeb49c97d2710160394b3141fc24efb/Modulation/mseg1/mseg.curvelib.jsfx-inc";
-          sha256 = "1nj015clxcfj48iynhbqrld1371mkbdbdp06lf01wgwvh3vf5jy8";
+          sha256 = "1p6ic7f6lwlw4yfzaf69lzl2612ll4pbmqq1gr4j5bfq1sbf5xai";
         }
         {
           path = ''mseg1/mseg.mouselib.jsfx-inc'';
@@ -1971,7 +1971,7 @@
         {
           path = ''time1/time.mouselib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/0f54845e29f85d7e13c89867ba3b10410aed93fe/Modulation/time1/time.mouselib.jsfx-inc";
-          sha256 = "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s";
+          sha256 = "04z069rb2ji2qsaf41rr0aqh5ric8bwk8wiclinpcfx3rvh9wpzk";
         }
       ];
     };
@@ -1995,7 +1995,7 @@
         {
           path = ''time1/time.curvelib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/f0b6c293393e6e8bac6c741f0495e9bbb0df28b6/Modulation/time1/time.curvelib.jsfx-inc";
-          sha256 = "1fbhc47189ch7jv43a26ymzv4gf043ihv1778822sssn9dds2mj8";
+          sha256 = "1h2bc4z71zpgql7ag103g12zfp04d5f0wikag5np0m39z3qvbk8d";
         }
         {
           path = ''time1/time.delay.jsfx-inc'';
@@ -2126,7 +2126,7 @@
         {
           path = ''time1.jsfx.RPL'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Modulation/time1.jsfx.RPL";
-          sha256 = "1vmsgxpjs9b7sgqn2259x2jnsr0ppnv6g6mqk0pz1hrlm2g3mapr";
+          sha256 = "0mlvp0kg0bdvd5dhz2vr8x2c817gd4byl4gb8l2x61nm4411hclz";
         }
         {
           path = ''time1/time.array.jsfx-inc'';
@@ -2219,7 +2219,7 @@
         {
           path = ''time1/time.delay.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/3ad1f16c0c974483e1a7e29d507d6a8c43accd0f/Modulation/time1/time.delay.jsfx-inc";
-          sha256 = "133pish5jnv6c8dyvq3h2chfb620x5lsmkmk4ag14znl2sz7hasd";
+          sha256 = "1vdbnqqvdksf63lxdlk78yxxfpi1h7nkphh7dcd0i3wl0cxskqrq";
         }
         {
           path = ''time1/time.mouselib.jsfx-inc'';
@@ -2258,7 +2258,7 @@
         {
           path = ''js3osc/3o.mouselib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/js3osc/3o.mouselib.jsfx-inc";
-          sha256 = "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n";
+          sha256 = "0gpqzak6an51qmldnkagbvwysgwq8dsbbsd0vlq5lgmzl7924sa2";
         }
         {
           path = ''js3osc/3o.rbj_filter.jsfx-inc'';
@@ -2282,7 +2282,7 @@
         {
           path = ''js3osc/3o.adsr.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/90b69493918c1c8d58e2a36973a7daa73082108f/Synth/js3osc/3o.adsr.jsfx-inc";
-          sha256 = "0s1r81kvrpswjrabfzi2rl671w6swh27wpgwfzip10zg03crmzlp";
+          sha256 = "1gsah0aiw8mq10ndv69083nf48cv40r5hbzs57h528yky1jl5i69";
         }
         {
           path = ''js3osc/3o.array.jsfx-inc'';
@@ -2360,7 +2360,7 @@
         {
           path = ''js3osc/3o.adsr.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/js3osc/3o.adsr.jsfx-inc";
-          sha256 = "0s1r81kvrpswjrabfzi2rl671w6swh27wpgwfzip10zg03crmzlp";
+          sha256 = "1gsah0aiw8mq10ndv69083nf48cv40r5hbzs57h528yky1jl5i69";
         }
         {
           path = ''js3osc/3o.array.jsfx-inc'';
@@ -2375,7 +2375,7 @@
         {
           path = ''js3osc/3o.mouselib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/js3osc/3o.mouselib.jsfx-inc";
-          sha256 = "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n";
+          sha256 = "0gpqzak6an51qmldnkagbvwysgwq8dsbbsd0vlq5lgmzl7924sa2";
         }
         {
           path = ''js3osc/3o.rbj_filter.jsfx-inc'';
@@ -2399,7 +2399,7 @@
         {
           path = ''js3osc/3o.adsr.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/47e415610e1f2e3892f3684a9d71d480811488ff/Synth/js3osc/3o.adsr.jsfx-inc";
-          sha256 = "0s1r81kvrpswjrabfzi2rl671w6swh27wpgwfzip10zg03crmzlp";
+          sha256 = "1gsah0aiw8mq10ndv69083nf48cv40r5hbzs57h528yky1jl5i69";
         }
         {
           path = ''js3osc/3o.array.jsfx-inc'';
@@ -2482,12 +2482,12 @@
         {
           path = ''jsadditiv/add.adsr.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsadditiv/add.adsr.jsfx-inc";
-          sha256 = "0c1fq5s0927gyfx3qhq2h539ry61w9c4jyq23lcswvrbmpv67sv3";
+          sha256 = "01w49x74yfdmpy4791xnjlmp2l8hgayipf1q82vybv546bvs5f3n";
         }
         {
           path = ''jsadditiv/add.array.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsadditiv/add.array.jsfx-inc";
-          sha256 = "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja";
+          sha256 = "0mpq1dhs3aysfi33njk8d7djhbgcb7j0m1878zjbvqc0qjrrpf73";
         }
         {
           path = ''jsadditiv/add.fft_real_synth.jsfx-inc'';
@@ -2502,7 +2502,7 @@
         {
           path = ''jsadditiv/add.mouselib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jsadditiv/add.mouselib.jsfx-inc";
-          sha256 = "012n47zjbr13xsj1sj89ai28lsr9shn72ma5p50b4ra0s3z2sgq0";
+          sha256 = "1wyn8h66kg6q7yv19hg9jbz15vk2pxjirf583nly4iil1zszwsqx";
         }
         {
           path = ''jsadditiv/add.wavetable.jsfx-inc'';
@@ -2666,7 +2666,7 @@
         {
           path = ''jsadditiv/add.fft_real_synth.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/fb076447090dbd53263387a518d4ee71e6705399/Synth/jsadditiv/add.fft_real_synth.jsfx-inc";
-          sha256 = "07lhbwnaxi9f7qqhsxk86a2wlswi7bbalp4gykz43jhp6q2p5prc";
+          sha256 = "1m6axf56v4dm33f9h658n3760sfll6bcybw9p9wsyxjw3kn5ra2p";
         }
         {
           path = ''jsadditiv/add.gfxlib.jsfx-inc'';
@@ -3198,7 +3198,7 @@
         {
           path = ''jsadditiv/add.mouselib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/85612298ffd4ea408baeb3b74a68319adb4b1c71/Synth/jsadditiv/add.mouselib.jsfx-inc";
-          sha256 = "012n47zjbr13xsj1sj89ai28lsr9shn72ma5p50b4ra0s3z2sgq0";
+          sha256 = "1wyn8h66kg6q7yv19hg9jbz15vk2pxjirf583nly4iil1zszwsqx";
         }
         {
           path = ''jsadditiv/add.wavetable.jsfx-inc'';
@@ -5045,7 +5045,7 @@
         {
           path = ''jsmodulator/mod.rbj_filter.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jsmodulator/mod.rbj_filter.jsfx-inc";
-          sha256 = "0xl9fwklcdxrs3wdk0g0kwjpqrjahc9qim1ahzbizsk4myyyw6gd";
+          sha256 = "131gqjfdmmry9bzkfyib1s051g2qrgizx4bpgag9x05n0qgx6f8l";
         }
         {
           path = ''tilr8_JSModulator/Complex 2.wav'';
@@ -5925,7 +5925,7 @@
         {
           path = ''jswavesynth/ws.mouselib.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Synth/jswavesynth/ws.mouselib.jsfx-inc";
-          sha256 = "0dvp9k31q0qa4bk7zg1vkjdd74mk9cbkbm2nc286z9v9aqn2ps4n";
+          sha256 = "0gpqzak6an51qmldnkagbvwysgwq8dsbbsd0vlq5lgmzl7924sa2";
         }
         {
           path = ''jswavesynth/ws.wavetable.jsfx-inc'';
@@ -6268,7 +6268,7 @@
         {
           path = ''jswavesynth/ws.wavetable.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/818a86cde6609e515a9e294899e732c69edb03c2/Synth/jswavesynth/ws.wavetable.jsfx-inc";
-          sha256 = "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1";
+          sha256 = "1c16qk578mf52lizqbb180w04pzpi36a07fc173lnxi6xzxqxflw";
         }
         {
           path = ''jswavesynth/ws.rbj_filter.jsfx-inc'';
@@ -6412,7 +6412,7 @@
         {
           path = '''';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/e2a3e7010f75eb63cd9fe873eb63300f36333c66/Synth/jswavesynth.jsfx";
-          sha256 = "193jnw8a165nhnnjgz3ihjpp29ip6cm4vlyib3il2ksl0f0wx0k7";
+          sha256 = "0nrp2b8xbv8dwz3m7ydc06f0wfsisnmcslz2j4siqig6qs757psb";
         }
         {
           path = ''jswavesynth/ws.adsr.jsfx-inc'';
@@ -6581,7 +6581,7 @@
         {
           path = '''';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/81886916ad99b0fb622716b527ccd75d41876bb7/Synth/jswavesynth.jsfx";
-          sha256 = "1hl3irl5v6g3b7fkc4q5kikva9bb2j3lmqj0162dcdfslf80w4vr";
+          sha256 = "1azgr7958vcxgb79hn86nzw0azp9kqm68c7pxf934xvmsm51nvmq";
         }
         {
           path = ''jswavesynth.jsfx.RPL'';
@@ -6959,7 +6959,7 @@
         {
           path = ''jswavesynth/ws.wavetable.jsfx-inc'';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/8c03ade064e568571171555da567c8778331f317/Synth/jswavesynth/ws.wavetable.jsfx-inc";
-          sha256 = "1pdd9pplzbj4srm1fw1cn2i1xmj07nvf3wdzysmi7k8i4d1cxgy1";
+          sha256 = "1c16qk578mf52lizqbb180w04pzpi36a07fc173lnxi6xzxqxflw";
         }
         {
           path = ''jswavesynth/ws.rbj_filter.jsfx-inc'';
@@ -8188,7 +8188,7 @@
         {
           path = '''';
           url = "https://github.com/tiagolr/tilr_jsfx/raw/a083e097848bead1f8f1fc79f57984189f546cfe/Synth/rippler.jsfx";
-          sha256 = "1al7i235rs6qznx31dypnvyv2y4k0h4507sg400ghziwl03lzg81";
+          sha256 = "1dq9iz8izm2sgkrlqrvb19k0qaynzjdklxpd5gr8issk0hncif9w";
         }
         {
           path = ''rippler.jsfx.RPL'';

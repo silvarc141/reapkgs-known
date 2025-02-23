@@ -5995,7 +5995,7 @@
         {
           path = ''S2GFX/mixer_vol.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/mixer_vol.png";
-          sha256 = "";
+          sha256 = "15zjl7l92imrafmd92sn2hq5qm6rl8mqlzjwgg2km5kfmxs5w5dh";
         }
         {
           path = ''Blue Lexikan S2 (Tukan)'';
@@ -13705,7 +13705,7 @@
         {
           path = ''SumChannel S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SumChannel%20S2%20(Tukan)11.png";
-          sha256 = "1hg3k5wzk6ki64cwmh54l1z5yry0ld8dz71al9mkblnwrj9dhixs";
+          sha256 = "";
         }
         {
           path = ''S2GFX/tk-Comp_Lib.jsfx-inc'';
@@ -30056,7 +30056,7 @@
         {
           path = ''Blacklight Modulation S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Blacklight%20Modulation%20S2%20(Tukan)091.png";
-          sha256 = "1dzmd228f0mc0zjyibwqk0ylr29q2dgxmlcqrhxsrlsdzzgmv09g";
+          sha256 = "";
         }
         {
           path = ''Green Circles Meter S2 (Tukan)'';
@@ -30685,7 +30685,7 @@
         {
           path = ''Blacklight Modulation S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Blacklight%20Modulation%20S2%20(Tukan)091.png";
-          sha256 = "1dzmd228f0mc0zjyibwqk0ylr29q2dgxmlcqrhxsrlsdzzgmv09g";
+          sha256 = "";
         }
         {
           path = ''Green Circles Meter S2 (Tukan)'';
@@ -31883,7 +31883,7 @@
         {
           path = ''Tape Recorder S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Tape%20Recorder%20S2%20(Tukan)085.png";
-          sha256 = "04w0nbdn71zi5x3rsq0m4gmxf8m4znbpg1zw5xn0k7w0rvjjgdkw";
+          sha256 = "";
         }
         {
           path = ''VariBus Comp S2 (Tukan)'';
@@ -32407,7 +32407,7 @@
         {
           path = ''Tape Recorder S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Tape%20Recorder%20S2%20(Tukan)085.png";
-          sha256 = "04w0nbdn71zi5x3rsq0m4gmxf8m4znbpg1zw5xn0k7w0rvjjgdkw";
+          sha256 = "";
         }
         {
           path = ''VariBus Comp S2 (Tukan)'';
@@ -32417,7 +32417,7 @@
         {
           path = ''LA-2KAN S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/LA-2KAN%20S2%20(Tukan)8.png";
-          sha256 = "1bzknnsixbqwnvpxmxzkbkfywa65cmdmwdfvbj19xs7gr7cmrxfh";
+          sha256 = "";
         }
         {
           path = ''NC76 S2 (Tukan)'';
@@ -32886,7 +32886,7 @@
         {
           path = ''LA-2KAN S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/LA-2KAN%20S2%20(Tukan)8.png";
-          sha256 = "1bzknnsixbqwnvpxmxzkbkfywa65cmdmwdfvbj19xs7gr7cmrxfh";
+          sha256 = "";
         }
         {
           path = ''NC76 S2 (Tukan)'';
@@ -33275,7 +33275,7 @@
         {
           path = ''Red Lexikan S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Red%20Lexikan%20S2%20(Tukan)071.png";
-          sha256 = "07i38agqa8ssfmmmkhqmix8z03ipy932xsp2s6w68h4iz4gi622c";
+          sha256 = "";
         }
         {
           path = ''Khaki Delay S2 (Tukan)'';
@@ -34157,7 +34157,7 @@
         {
           path = ''Lime Deesser S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Lime%20Deesser%20S2%20(Tukan).png";
-          sha256 = "0abl2al3ky6snx9as3lcri6xmrsq8hza736m12d42pk1mjmj4lpc";
+          sha256 = "";
         }
         {
           path = ''Orange EQ S2 (Tukan)'';
@@ -34400,7 +34400,7 @@
         {
           path = ''Bus Comp (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Bus%20Comp%20(Tukan)15.png";
-          sha256 = "0a77q4jn7lprhkjmzl58mm7w0p6rz0yvmkw0xbm2kbza85k4wkzc";
+          sha256 = "";
         }
         {
           path = ''Multiband Processor (Tukan)'';
@@ -34580,7 +34580,7 @@
         {
           path = ''BusTools/APIN60.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/APIN60.png";
-          sha256 = "0cjpsk2n2bqmhxw2da3iw2xayzsgpswcx7ih0xhapaq43g5nxcbi";
+          sha256 = "";
         }
         {
           path = ''BusTools/APIRED.png'';
@@ -34600,7 +34600,7 @@
         {
           path = ''BusTools/L3Back.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/L3Back.png";
-          sha256 = "09z0l903kmlpciq0jml525wib47lgpnc86fhx04202zbncmxldiq";
+          sha256 = "";
         }
         {
           path = ''BusTools/screw2.png'';
@@ -34625,12 +34625,12 @@
         {
           path = ''BusTools/FairThresh.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/FairThresh.png";
-          sha256 = "13vxml5c4kw4hqdkdl0jv3s2i2lapbnhq6w3lmvgf4vq9jz29s40";
+          sha256 = "";
         }
         {
           path = ''BusTools/chick100114.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/chick100114.png";
-          sha256 = "0xmbn9wa94j7zv62h9mchn9fvmxvhrxqq6wmmi8vss6fxizsjimz";
+          sha256 = "";
         }
         {
           path = ''BusTools/VUMeter1.png'';
@@ -34645,7 +34645,7 @@
         {
           path = ''BusTools/switch.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/switch.png";
-          sha256 = "1npvv022g3ax1mp3fbg9664dxs568875kkxfhd6iyfmd3q834kqn";
+          sha256 = "";
         }
         {
           path = ''BusTools/VBBack.png'';
@@ -34655,7 +34655,7 @@
         {
           path = ''BusTools/VBBack2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/VBBack2.png";
-          sha256 = "0ymlylh40sxxni12npzab72pb0kfpm1qxqzmh1rki2ghsw6g9xkh";
+          sha256 = "";
         }
         {
           path = ''BusTools/VUMeter1_1.png'';
@@ -34680,7 +34680,7 @@
         {
           path = ''BusTools/oled.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/oled.png";
-          sha256 = "0d51vgy54jqmbg4a0figmfrq7ykszmsa4b46xg7g3167jrwf13pc";
+          sha256 = "";
         }
       ];
     };
@@ -34889,7 +34889,7 @@
         {
           path = ''BusTools/APIN60.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/APIN60.png";
-          sha256 = "0cjpsk2n2bqmhxw2da3iw2xayzsgpswcx7ih0xhapaq43g5nxcbi";
+          sha256 = "";
         }
         {
           path = ''BusTools/APIRED.png'';
@@ -34909,7 +34909,7 @@
         {
           path = ''BusTools/L3Back.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/L3Back.png";
-          sha256 = "09z0l903kmlpciq0jml525wib47lgpnc86fhx04202zbncmxldiq";
+          sha256 = "";
         }
         {
           path = ''BusTools/screw2.png'';
@@ -34934,12 +34934,12 @@
         {
           path = ''BusTools/FairThresh.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/FairThresh.png";
-          sha256 = "13vxml5c4kw4hqdkdl0jv3s2i2lapbnhq6w3lmvgf4vq9jz29s40";
+          sha256 = "";
         }
         {
           path = ''BusTools/chick100114.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/chick100114.png";
-          sha256 = "0xmbn9wa94j7zv62h9mchn9fvmxvhrxqq6wmmi8vss6fxizsjimz";
+          sha256 = "";
         }
         {
           path = ''BusTools/VUMeter1.png'';
@@ -34954,7 +34954,7 @@
         {
           path = ''BusTools/switch.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/switch.png";
-          sha256 = "1npvv022g3ax1mp3fbg9664dxs568875kkxfhd6iyfmd3q834kqn";
+          sha256 = "";
         }
         {
           path = ''BusTools/VBBack.png'';
@@ -35163,7 +35163,7 @@
         {
           path = ''BusTools/APIN60.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/APIN60.png";
-          sha256 = "0cjpsk2n2bqmhxw2da3iw2xayzsgpswcx7ih0xhapaq43g5nxcbi";
+          sha256 = "";
         }
         {
           path = ''BusTools/APIRED.png'';
@@ -35183,7 +35183,7 @@
         {
           path = ''BusTools/L3Back.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/L3Back.png";
-          sha256 = "09z0l903kmlpciq0jml525wib47lgpnc86fhx04202zbncmxldiq";
+          sha256 = "";
         }
         {
           path = ''BusTools/screw2.png'';
@@ -35392,7 +35392,7 @@
         {
           path = ''BusTools/APIN60.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/BusTools/APIN60.png";
-          sha256 = "0cjpsk2n2bqmhxw2da3iw2xayzsgpswcx7ih0xhapaq43g5nxcbi";
+          sha256 = "";
         }
         {
           path = ''BusTools/APIRED.png'';
@@ -35743,17 +35743,17 @@
         {
           path = ''Tool (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Tool%20(Tukan)11.png";
-          sha256 = "1gbqrbj7sl24px1252awvs4a0gyjyszzi6s638s40di0ihlg80yh";
+          sha256 = "";
         }
         {
           path = ''TOOL/TOOLBack.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/TOOL/TOOLBack.png";
-          sha256 = "0s43lz30ddx56s9daysnxb77kwjyqnja53x39d0vq8mcf3a4jllk";
+          sha256 = "";
         }
         {
           path = ''TOOL/whiteknob_35.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/TOOL/whiteknob_35.png";
-          sha256 = "1jnk26q4zdjy4rq7npqrfdj336f5wr4y3a0hsi7w6y1858jl3jvs";
+          sha256 = "";
         }
         {
           path = ''TOOL/APIBig.png'';
@@ -35768,17 +35768,17 @@
         {
           path = ''TOOL/APISmall.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/TOOL/APISmall.png";
-          sha256 = "03aplglf1m5gmiw761jkgkdig5xziykhmah5yh5v96dbb3ijhmav";
+          sha256 = "";
         }
         {
           path = ''TOOL/LED.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/TOOL/LED.png";
-          sha256 = "0mjikc2n8l9cy1iw1iglfghnl2f0zn7y8n29cgvlwmjg20xsrzha";
+          sha256 = "";
         }
         {
           path = ''TOOL/menu.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/TOOL/menu.png";
-          sha256 = "099siz8wlifavns4jig1kddbipsr7pkp9jpm8k8w9rf9gxj7c0qp";
+          sha256 = "";
         }
       ];
     };
@@ -35792,17 +35792,17 @@
         {
           path = ''Tool (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Tool%20(Tukan).png";
-          sha256 = "1jxjjlny94svfr8xzhjrnl6cr8bazl8q46qapm5bfvcb34vprmn4";
+          sha256 = "";
         }
         {
           path = ''TOOL/TOOLBack.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/TOOL/TOOLBack.png";
-          sha256 = "0s43lz30ddx56s9daysnxb77kwjyqnja53x39d0vq8mcf3a4jllk";
+          sha256 = "";
         }
         {
           path = ''TOOL/whiteknob_35.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/TOOL/whiteknob_35.png";
-          sha256 = "1jnk26q4zdjy4rq7npqrfdj336f5wr4y3a0hsi7w6y1858jl3jvs";
+          sha256 = "";
         }
         {
           path = ''TOOL/APIBig.png'';
@@ -35817,17 +35817,17 @@
         {
           path = ''TOOL/APISmall.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/TOOL/APISmall.png";
-          sha256 = "03aplglf1m5gmiw761jkgkdig5xziykhmah5yh5v96dbb3ijhmav";
+          sha256 = "";
         }
         {
           path = ''TOOL/LED.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/TOOL/LED.png";
-          sha256 = "0mjikc2n8l9cy1iw1iglfghnl2f0zn7y8n29cgvlwmjg20xsrzha";
+          sha256 = "";
         }
         {
           path = ''TOOL/menu.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/TOOL/menu.png";
-          sha256 = "099siz8wlifavns4jig1kddbipsr7pkp9jpm8k8w9rf9gxj7c0qp";
+          sha256 = "";
         }
       ];
     };
@@ -35880,7 +35880,7 @@
         {
           path = ''Sphinx (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Sphinx%20(Tukan)101.png";
-          sha256 = "1dhvd1ccdr44izlj17fah79h07q95bxhxj1b54dnzx8szg68y87x";
+          sha256 = "";
         }
         {
           path = ''Sphinx/sphinxback.png'';
@@ -35919,7 +35919,7 @@
         {
           path = ''Sphinx (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Sphinx%20(Tukan).png";
-          sha256 = "09b0r9mjzwmagc507p25alyj7ysbaqjx31a4yp18mncilcm46szb";
+          sha256 = "";
         }
         {
           path = ''Sphinx/sphinxback.png'';
@@ -35958,12 +35958,12 @@
         {
           path = ''ConsoleMeter (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/ConsoleMeter%20(Tukan)101.png";
-          sha256 = "15nhx9pz0i46j64v0dnng3xsn2hd570fg23i3rn8rkzr2xqc1mvw";
+          sha256 = "";
         }
         {
           path = ''CMeter Send (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/CMeter%20Send%20(Tukan)101.png";
-          sha256 = "023fsqfd3xziy9sblff2yibzvlrzck7a54a55nxfyn6rdicl5d0y";
+          sha256 = "";
         }
         {
           path = ''CMeter/CCVU2.png'';
@@ -35973,17 +35973,17 @@
         {
           path = ''CMeter/CCVU3.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/CMeter/CCVU3.png";
-          sha256 = "15r4p84118gf4rs8qm0l1njq2xkpvycvabw23yfhf3ccpr5564c3";
+          sha256 = "";
         }
         {
           path = ''CMeter/CMSendback.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/CMeter/CMSendback.png";
-          sha256 = "0pa1i4rw4i5kq21q78kr3l0bwn0mwac9pfki0m7zi8jnh1y9xiym";
+          sha256 = "";
         }
         {
           path = ''CMeter/led.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/CMeter/led.png";
-          sha256 = "03icqa2nn8zpb6lcpi8wydfk99xx25xhzhq4n3nn396dyrdplnxm";
+          sha256 = "";
         }
         {
           path = ''CMeter/menu.png'';
@@ -36007,7 +36007,7 @@
         {
           path = ''ConsoleMeter (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/ConsoleMeter%20(Tukan).png";
-          sha256 = "0ra59vmym8x75bvscik7qhqciafhw6562m0jhz3s2my4hqypnmyn";
+          sha256 = "";
         }
         {
           path = ''CMeter Send (Tukan)'';
@@ -36022,17 +36022,17 @@
         {
           path = ''CMeter/CCVU3.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/CMeter/CCVU3.png";
-          sha256 = "15r4p84118gf4rs8qm0l1njq2xkpvycvabw23yfhf3ccpr5564c3";
+          sha256 = "";
         }
         {
           path = ''CMeter/CMSendback.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/CMeter/CMSendback.png";
-          sha256 = "0pa1i4rw4i5kq21q78kr3l0bwn0mwac9pfki0m7zi8jnh1y9xiym";
+          sha256 = "";
         }
         {
           path = ''CMeter/led.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/CMeter/led.png";
-          sha256 = "03icqa2nn8zpb6lcpi8wydfk99xx25xhzhq4n3nn396dyrdplnxm";
+          sha256 = "";
         }
         {
           path = ''CMeter/menu.png'';
@@ -36056,7 +36056,7 @@
         {
           path = ''Guitar Amp (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Guitar%20Amp%20(Tukan)103.png";
-          sha256 = "1nm0j0q0n4zvkw176lrcgkzjbla3kkdxhbaggq2vpv452zs79byh";
+          sha256 = "";
         }
         {
           path = ''GitAmp/Knob1.png'';
@@ -38820,7 +38820,7 @@
         {
           path = ''SumChannel (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/SumChannel%20(Tukan)fix1.png";
-          sha256 = "1afnhhcpcfnbn3a80j6sqcdjclkbm54wfl8gvpm2bmqzk44jsbwk";
+          sha256 = "";
         }
         {
           path = ''sumchan/C1B.png'';
@@ -39208,7 +39208,7 @@
         {
           path = ''somegui/VUMeter2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/VUMeter2.png";
-          sha256 = "0vcri18x459wfg6wxwqrrmmc6yxc7yq2c5xn57zbnng9sn0xwcnp";
+          sha256 = "";
         }
         {
           path = ''somegui/VUMeter3.png'';
@@ -39228,7 +39228,7 @@
         {
           path = ''somegui/back2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/back2.png";
-          sha256 = "01psxpg0759l5qisgj1k4l8xvdxx7iwyv47br2x1vgn6i0iyw58x";
+          sha256 = "";
         }
         {
           path = ''somegui/back23.png'';
@@ -39238,7 +39238,7 @@
         {
           path = ''somegui/bigchick.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/bigchick.png";
-          sha256 = "1dny7dqs8c0r7jwicsghwly6v0z26h303pihask3cqbxk64jwjrg";
+          sha256 = "";
         }
         {
           path = ''somegui/bigneve.png'';
@@ -39328,7 +39328,7 @@
         {
           path = ''somegui/CCVU3.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/CCVU3.png";
-          sha256 = "0c3r09wllz9bag84csgmnlh7ijndzq6d4nwqvcwypb3xfj6bs8xz";
+          sha256 = "";
         }
       ];
     };
@@ -39367,7 +39367,7 @@
         {
           path = ''somegui/VUMeter2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/VUMeter2.png";
-          sha256 = "0vcri18x459wfg6wxwqrrmmc6yxc7yq2c5xn57zbnng9sn0xwcnp";
+          sha256 = "";
         }
         {
           path = ''somegui/VUMeter3.png'';
@@ -39387,7 +39387,7 @@
         {
           path = ''somegui/back2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/back2.png";
-          sha256 = "01psxpg0759l5qisgj1k4l8xvdxx7iwyv47br2x1vgn6i0iyw58x";
+          sha256 = "";
         }
         {
           path = ''somegui/back23.png'';
@@ -39397,7 +39397,7 @@
         {
           path = ''somegui/bigchick.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/bigchick.png";
-          sha256 = "1dny7dqs8c0r7jwicsghwly6v0z26h303pihask3cqbxk64jwjrg";
+          sha256 = "";
         }
         {
           path = ''somegui/bigneve.png'';
@@ -39487,7 +39487,7 @@
         {
           path = ''somegui/CCVU3.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/CCVU3.png";
-          sha256 = "0c3r09wllz9bag84csgmnlh7ijndzq6d4nwqvcwypb3xfj6bs8xz";
+          sha256 = "";
         }
       ];
     };
@@ -39501,7 +39501,7 @@
         {
           path = ''SumThing (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/SumThing%20(Tukan)082.png";
-          sha256 = "0hpbk1i8609lr19ykbirdvjm3xj7kgl5qjvz1lic3rpwf6v1i0np";
+          sha256 = "";
         }
         {
           path = ''SumThing SI (Tukan)'';
@@ -39526,7 +39526,7 @@
         {
           path = ''somegui/VUMeter2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/VUMeter2.png";
-          sha256 = "0vcri18x459wfg6wxwqrrmmc6yxc7yq2c5xn57zbnng9sn0xwcnp";
+          sha256 = "";
         }
         {
           path = ''somegui/VUMeter3.png'';
@@ -39546,7 +39546,7 @@
         {
           path = ''somegui/back2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/back2.png";
-          sha256 = "01psxpg0759l5qisgj1k4l8xvdxx7iwyv47br2x1vgn6i0iyw58x";
+          sha256 = "";
         }
         {
           path = ''somegui/back23.png'';
@@ -39556,7 +39556,7 @@
         {
           path = ''somegui/bigchick.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/bigchick.png";
-          sha256 = "1dny7dqs8c0r7jwicsghwly6v0z26h303pihask3cqbxk64jwjrg";
+          sha256 = "";
         }
         {
           path = ''somegui/bigneve.png'';
@@ -39646,7 +39646,7 @@
         {
           path = ''somegui/CCVU3.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/CCVU3.png";
-          sha256 = "0c3r09wllz9bag84csgmnlh7ijndzq6d4nwqvcwypb3xfj6bs8xz";
+          sha256 = "";
         }
       ];
     };
@@ -39660,7 +39660,7 @@
         {
           path = ''SumThing (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/SumThing%20(Tukan)081.png";
-          sha256 = "136a6sh4wrn9fq1qfxrg0xlgighhlbnsfz1na2b8v91nyp5zwgwg";
+          sha256 = "";
         }
         {
           path = ''SumThing SI (Tukan)'';
@@ -39685,7 +39685,7 @@
         {
           path = ''somegui/VUMeter2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/VUMeter2.png";
-          sha256 = "0vcri18x459wfg6wxwqrrmmc6yxc7yq2c5xn57zbnng9sn0xwcnp";
+          sha256 = "";
         }
         {
           path = ''somegui/VUMeter3.png'';
@@ -39705,7 +39705,7 @@
         {
           path = ''somegui/back2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/back2.png";
-          sha256 = "01psxpg0759l5qisgj1k4l8xvdxx7iwyv47br2x1vgn6i0iyw58x";
+          sha256 = "";
         }
         {
           path = ''somegui/back23.png'';
@@ -39715,7 +39715,7 @@
         {
           path = ''somegui/bigchick.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/bigchick.png";
-          sha256 = "1dny7dqs8c0r7jwicsghwly6v0z26h303pihask3cqbxk64jwjrg";
+          sha256 = "";
         }
         {
           path = ''somegui/bigneve.png'';
@@ -39805,7 +39805,7 @@
         {
           path = ''somegui/CCVU3.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/CCVU3.png";
-          sha256 = "0c3r09wllz9bag84csgmnlh7ijndzq6d4nwqvcwypb3xfj6bs8xz";
+          sha256 = "";
         }
       ];
     };
@@ -39824,7 +39824,7 @@
         {
           path = ''SumThing SI (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/SumThing%20SI%20(Tukan)080.png";
-          sha256 = "01p5449zv9bc1j30zmfw98xwwv4b7ac23dz272ybnah2bx479f4y";
+          sha256 = "";
         }
         {
           path = ''somegui/LED.png'';
@@ -39839,7 +39839,7 @@
         {
           path = ''somegui/VUMeter2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/VUMeter2.png";
-          sha256 = "0vcri18x459wfg6wxwqrrmmc6yxc7yq2c5xn57zbnng9sn0xwcnp";
+          sha256 = "";
         }
         {
           path = ''somegui/VUMeter3.png'';
@@ -39859,7 +39859,7 @@
         {
           path = ''somegui/back2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/back2.png";
-          sha256 = "01psxpg0759l5qisgj1k4l8xvdxx7iwyv47br2x1vgn6i0iyw58x";
+          sha256 = "";
         }
         {
           path = ''somegui/back23.png'';
@@ -39869,7 +39869,7 @@
         {
           path = ''somegui/bigchick.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/bigchick.png";
-          sha256 = "1dny7dqs8c0r7jwicsghwly6v0z26h303pihask3cqbxk64jwjrg";
+          sha256 = "";
         }
         {
           path = ''somegui/bigneve.png'';
@@ -39959,7 +39959,7 @@
         {
           path = ''somegui/CCVU3.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/CCVU3.png";
-          sha256 = "0c3r09wllz9bag84csgmnlh7ijndzq6d4nwqvcwypb3xfj6bs8xz";
+          sha256 = "";
         }
       ];
     };
@@ -39973,12 +39973,12 @@
         {
           path = ''SumThing (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/SumThing%20(Tukan)071.png";
-          sha256 = "0jhz1sh9cvqh74dsz2ppdyq89bjm7vbnlrd6gx0winb8ljadnfqb";
+          sha256 = "";
         }
         {
           path = ''SumThing SI (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/SumThing%20SI%20(Tukan)071.png";
-          sha256 = "0g1dmr4di235qf2w4j1w35hw2q50nrkvb5s5ym5kcm92swb0wy4p";
+          sha256 = "";
         }
         {
           path = ''somegui/LED.png'';
@@ -39993,7 +39993,7 @@
         {
           path = ''somegui/VUMeter2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/VUMeter2.png";
-          sha256 = "0vcri18x459wfg6wxwqrrmmc6yxc7yq2c5xn57zbnng9sn0xwcnp";
+          sha256 = "";
         }
         {
           path = ''somegui/VUMeter3.png'';
@@ -40013,7 +40013,7 @@
         {
           path = ''somegui/back2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/back2.png";
-          sha256 = "01psxpg0759l5qisgj1k4l8xvdxx7iwyv47br2x1vgn6i0iyw58x";
+          sha256 = "";
         }
         {
           path = ''somegui/back23.png'';
@@ -40023,7 +40023,7 @@
         {
           path = ''somegui/bigchick.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/bigchick.png";
-          sha256 = "1dny7dqs8c0r7jwicsghwly6v0z26h303pihask3cqbxk64jwjrg";
+          sha256 = "";
         }
         {
           path = ''somegui/bigneve.png'';
@@ -40113,7 +40113,7 @@
         {
           path = ''somegui/CCVU3.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/CCVU3.png";
-          sha256 = "0c3r09wllz9bag84csgmnlh7ijndzq6d4nwqvcwypb3xfj6bs8xz";
+          sha256 = "";
         }
       ];
     };
@@ -40147,7 +40147,7 @@
         {
           path = ''somegui/VUMeter2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/VUMeter2.png";
-          sha256 = "0vcri18x459wfg6wxwqrrmmc6yxc7yq2c5xn57zbnng9sn0xwcnp";
+          sha256 = "";
         }
         {
           path = ''somegui/VUMeter3.png'';
@@ -40167,7 +40167,7 @@
         {
           path = ''somegui/back2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/back2.png";
-          sha256 = "01psxpg0759l5qisgj1k4l8xvdxx7iwyv47br2x1vgn6i0iyw58x";
+          sha256 = "";
         }
         {
           path = ''somegui/back23.png'';
@@ -40177,7 +40177,7 @@
         {
           path = ''somegui/bigchick.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/bigchick.png";
-          sha256 = "1dny7dqs8c0r7jwicsghwly6v0z26h303pihask3cqbxk64jwjrg";
+          sha256 = "";
         }
         {
           path = ''somegui/bigneve.png'';
@@ -40271,7 +40271,7 @@
         {
           path = ''SumThing (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/SumThing%20(Tukan)05.png";
-          sha256 = "0hd2c3pbllx3b6xcxkyrv6jp04qx6lr7jcibz3xbprnc6mzklimz";
+          sha256 = "";
         }
         {
           path = ''somegui/LED.png'';
@@ -40286,7 +40286,7 @@
         {
           path = ''somegui/VUMeter2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/VUMeter2.png";
-          sha256 = "0vcri18x459wfg6wxwqrrmmc6yxc7yq2c5xn57zbnng9sn0xwcnp";
+          sha256 = "";
         }
         {
           path = ''somegui/VUMeter3.png'';
@@ -40306,7 +40306,7 @@
         {
           path = ''somegui/back2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/back2.png";
-          sha256 = "01psxpg0759l5qisgj1k4l8xvdxx7iwyv47br2x1vgn6i0iyw58x";
+          sha256 = "";
         }
         {
           path = ''somegui/back23.png'';
@@ -40316,7 +40316,7 @@
         {
           path = ''somegui/bigchick.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/somegui/bigchick.png";
-          sha256 = "1dny7dqs8c0r7jwicsghwly6v0z26h303pihask3cqbxk64jwjrg";
+          sha256 = "";
         }
         {
           path = ''somegui/bigneve.png'';
@@ -40385,7 +40385,7 @@
         {
           path = ''Dis-Treasure Compact (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Dis-Treasure%20Compact%20(Tukan)106.png";
-          sha256 = "0haj8j2zvdln7v9lg2f5afk0nqyb3fcni1akbgkwrzhnh8a2jl10";
+          sha256 = "";
         }
         {
           path = ''treasuregui/bled.png'';
@@ -40479,7 +40479,7 @@
         {
           path = ''Dis-Treasure Compact (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Dis-Treasure%20Compact%20(Tukan)105.png";
-          sha256 = "04c8s9c9pnyybvy9r2i1llvpaiqy28wsqkrxdln278hqrfxl01kl";
+          sha256 = "07cprgci07gw2w8xw75lsy2k5fxpxr3af8ymw4hkzrl7q72h6qmr";
         }
         {
           path = ''treasuregui/bled.png'';
@@ -42058,7 +42058,7 @@
         {
           path = ''NC76 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V0-0/NC76%20(Tukan).png";
-          sha256 = "147hn36fcvxdzx25313jcmla1q6yjy89da5abqr22v7s8cb7grk3";
+          sha256 = "07an673lshrzpy224cnv7s29zahfswlcwxi6r2693i4pbrk0nijl";
         }
         {
           path = ''76gui/1176button.png'';
@@ -42543,7 +42543,7 @@
         {
           path = ''Delaymachine (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Delaymachine%20(Tukan).png";
-          sha256 = "0pmvppq0nfhzd34fjjkiszmmqxb79gqg1j389s2w6rnvanjgzz50";
+          sha256 = "0zqmichgf6zxal2dhs53l56iljcypnwcaha90i7q60g5sgc0zzmz";
         }
         {
           path = ''Delaymachine (Tukan).rpl'';
@@ -44440,7 +44440,7 @@
         {
           path = ''Lexikan (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Lexikan%20(Tukan)113.png";
-          sha256 = "01lvbqd5vz1b3rn3rai1h2vw8zkx3ryw5hg9niy1mfapi3s3wmyb";
+          sha256 = "";
         }
         {
           path = ''Lexikan (Tukan).rpl'';
@@ -44972,7 +44972,7 @@
         {
           path = ''Lexikan (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V0-0/Lexikan%20(Tukan).png";
-          sha256 = "1klryj6dhx2qz2x2js2jw0xvm10sjvvc7irpkvns7axbarkps5m5";
+          sha256 = "";
         }
         {
           path = ''Lexikan (Tukan).rpl'';
@@ -45096,7 +45096,7 @@
         {
           path = ''Modulation 2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Modulation%202%20(Tukan)11.png";
-          sha256 = "0x2bikpv5vjk6qx245cjycjczdhzmvi1wwnqrz0zambgdr4blc5l";
+          sha256 = "";
         }
         {
           path = ''LFO/menu.png'';
@@ -45206,12 +45206,12 @@
         {
           path = ''MODgui/APIRED.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/MODgui/APIRED.png";
-          sha256 = "1xn101k32kd046skqh2ksq4llkknpyz9xlixnlmpa21mwr8q9wn3";
+          sha256 = "";
         }
         {
           path = ''MODgui/APISmall.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/MODgui/APISmall.png";
-          sha256 = "03aplglf1m5gmiw761jkgkdig5xziykhmah5yh5v96dbb3ijhmav";
+          sha256 = "";
         }
         {
           path = ''MODgui/greyknob_35.png'';
@@ -45365,12 +45365,12 @@
         {
           path = ''MODgui/APIRED.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/MODgui/APIRED.png";
-          sha256 = "1xn101k32kd046skqh2ksq4llkknpyz9xlixnlmpa21mwr8q9wn3";
+          sha256 = "";
         }
         {
           path = ''MODgui/APISmall.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/MODgui/APISmall.png";
-          sha256 = "03aplglf1m5gmiw761jkgkdig5xziykhmah5yh5v96dbb3ijhmav";
+          sha256 = "";
         }
         {
           path = ''MODgui/greyknob_35.png'';
@@ -45524,12 +45524,12 @@
         {
           path = ''MODgui/APIRED.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/MODgui/APIRED.png";
-          sha256 = "1xn101k32kd046skqh2ksq4llkknpyz9xlixnlmpa21mwr8q9wn3";
+          sha256 = "";
         }
         {
           path = ''MODgui/APISmall.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/MODgui/APISmall.png";
-          sha256 = "03aplglf1m5gmiw761jkgkdig5xziykhmah5yh5v96dbb3ijhmav";
+          sha256 = "";
         }
         {
           path = ''MODgui/greyknob_35.png'';
@@ -45573,7 +45573,7 @@
         {
           path = ''Modulation (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Modulation%20(Tukan)12.png";
-          sha256 = "16xnlbmyazla98pvpp97cpwdyi5w3fj7lqaypwcd4r18fb81qb3q";
+          sha256 = "";
         }
         {
           path = ''Modulation (Tukan).rpl'';
@@ -45588,12 +45588,12 @@
         {
           path = ''MODgui/APIRED.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/MODgui/APIRED.png";
-          sha256 = "1xn101k32kd046skqh2ksq4llkknpyz9xlixnlmpa21mwr8q9wn3";
+          sha256 = "";
         }
         {
           path = ''MODgui/APISmall.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/MODgui/APISmall.png";
-          sha256 = "03aplglf1m5gmiw761jkgkdig5xziykhmah5yh5v96dbb3ijhmav";
+          sha256 = "";
         }
         {
           path = ''MODgui/greyknob_35.png'';
@@ -45652,12 +45652,12 @@
         {
           path = ''MODgui/APIRED.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/MODgui/APIRED.png";
-          sha256 = "1xn101k32kd046skqh2ksq4llkknpyz9xlixnlmpa21mwr8q9wn3";
+          sha256 = "";
         }
         {
           path = ''MODgui/APISmall.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/MODgui/APISmall.png";
-          sha256 = "03aplglf1m5gmiw761jkgkdig5xziykhmah5yh5v96dbb3ijhmav";
+          sha256 = "";
         }
         {
           path = ''MODgui/greyknob_35.png'';
@@ -45711,12 +45711,12 @@
         {
           path = ''MODgui/APIRED.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/MODgui/APIRED.png";
-          sha256 = "1xn101k32kd046skqh2ksq4llkknpyz9xlixnlmpa21mwr8q9wn3";
+          sha256 = "";
         }
         {
           path = ''MODgui/APISmall.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/MODgui/APISmall.png";
-          sha256 = "03aplglf1m5gmiw761jkgkdig5xziykhmah5yh5v96dbb3ijhmav";
+          sha256 = "";
         }
         {
           path = ''MODgui/greyknob_35.png'';
@@ -45755,7 +45755,7 @@
         {
           path = ''PreAmp (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/PreAmp%20(Tukan)12.png";
-          sha256 = "18sjvphc56a4lsfwixq3qc3ww67qhiqi16qp9pz6wgd9ihq0ds3y";
+          sha256 = "";
         }
         {
           path = ''PreAmp (Tukan).rpl'';
@@ -45765,7 +45765,7 @@
         {
           path = ''PREgui/overLED.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/PREgui/overLED.png";
-          sha256 = "1sa22z2lpwdwxs065xp0nm3d40assffjdd9ykjx4irccxzm9m8kr";
+          sha256 = "";
         }
         {
           path = ''PREgui/Preamp.png'';
@@ -45775,7 +45775,7 @@
         {
           path = ''PREgui/PreampOut.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/PREgui/PreampOut.png";
-          sha256 = "1cx26h8vrpjdja3gd79r5dcb6pi6x5yf9c5xv0dj485csf6pq62h";
+          sha256 = "";
         }
         {
           path = ''PREgui/PreampShelv.png'';
@@ -45795,7 +45795,7 @@
         {
           path = ''PREgui/menu.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/PREgui/menu.png";
-          sha256 = "099siz8wlifavns4jig1kddbipsr7pkp9jpm8k8w9rf9gxj7c0qp";
+          sha256 = "";
         }
       ];
     };
@@ -45809,7 +45809,7 @@
         {
           path = ''PreAmp (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/PreAmp%20(Tukan).png";
-          sha256 = "185hldfl0drxsbyni2iv92qnwxb1gbijm6jh6ykg4pkvqcksvhcn";
+          sha256 = "";
         }
         {
           path = ''PreAmp (Tukan).rpl'';
@@ -45819,7 +45819,7 @@
         {
           path = ''PREgui/overLED.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/PREgui/overLED.png";
-          sha256 = "1sa22z2lpwdwxs065xp0nm3d40assffjdd9ykjx4irccxzm9m8kr";
+          sha256 = "";
         }
         {
           path = ''PREgui/Preamp.png'';
@@ -45829,7 +45829,7 @@
         {
           path = ''PREgui/PreampOut.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/PREgui/PreampOut.png";
-          sha256 = "1cx26h8vrpjdja3gd79r5dcb6pi6x5yf9c5xv0dj485csf6pq62h";
+          sha256 = "";
         }
         {
           path = ''PREgui/PreampShelv.png'';
@@ -45868,7 +45868,7 @@
         {
           path = ''PREgui/overLED.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/PREgui/overLED.png";
-          sha256 = "1sa22z2lpwdwxs065xp0nm3d40assffjdd9ykjx4irccxzm9m8kr";
+          sha256 = "";
         }
         {
           path = ''PREgui/Preamp.png'';
@@ -45878,7 +45878,7 @@
         {
           path = ''PREgui/PreampOut.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/PREgui/PreampOut.png";
-          sha256 = "1cx26h8vrpjdja3gd79r5dcb6pi6x5yf9c5xv0dj485csf6pq62h";
+          sha256 = "";
         }
         {
           path = ''PREgui/PreampShelv.png'';
@@ -45922,7 +45922,7 @@
         {
           path = ''Scopegui/scopeback.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/Scopegui/scopeback.png";
-          sha256 = "1zx8y017kd7qn5ddr9cr9nrk18d7v85m5pzc4gxbdw8xzi7gvz11";
+          sha256 = "";
         }
       ];
     };
@@ -45951,7 +45951,7 @@
         {
           path = ''Scopegui/scopeback.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/Scopegui/scopeback.png";
-          sha256 = "1zx8y017kd7qn5ddr9cr9nrk18d7v85m5pzc4gxbdw8xzi7gvz11";
+          sha256 = "";
         }
       ];
     };
@@ -45980,7 +45980,7 @@
         {
           path = ''Scopegui/scopeback.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/Scopegui/scopeback.png";
-          sha256 = "1zx8y017kd7qn5ddr9cr9nrk18d7v85m5pzc4gxbdw8xzi7gvz11";
+          sha256 = "";
         }
       ];
     };
@@ -45994,7 +45994,7 @@
         {
           path = ''Tape (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Tape%20(Tukan)14.png";
-          sha256 = "1y3pj2mi7q7dgh2p0jsrsj6h0x2kjfnaqcpfw65mhh97pk3g7m2m";
+          sha256 = "";
         }
         {
           path = ''Tape (Tukan).rpl'';
@@ -46079,7 +46079,7 @@
         {
           path = ''TAPE/TAPE_N.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/TAPE/TAPE_N.png";
-          sha256 = "10qldnp3h66chwd8j2sraadi5zg6v3nffq3xlb47nbvn5g8b21gv";
+          sha256 = "";
         }
         {
           path = ''TAPE/APIBig_N.png'';
@@ -46113,7 +46113,7 @@
         {
           path = ''Tape (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Tape%20(Tukan)14.png";
-          sha256 = "1y3pj2mi7q7dgh2p0jsrsj6h0x2kjfnaqcpfw65mhh97pk3g7m2m";
+          sha256 = "";
         }
         {
           path = ''Tape (Tukan).rpl'';
@@ -46198,7 +46198,7 @@
         {
           path = ''TAPE/TAPE_N.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/TAPE/TAPE_N.png";
-          sha256 = "10qldnp3h66chwd8j2sraadi5zg6v3nffq3xlb47nbvn5g8b21gv";
+          sha256 = "";
         }
         {
           path = ''TAPE/APIBig_N.png'';
@@ -46312,7 +46312,7 @@
         {
           path = ''TAPE/TAPE_N.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/TAPE/TAPE_N.png";
-          sha256 = "10qldnp3h66chwd8j2sraadi5zg6v3nffq3xlb47nbvn5g8b21gv";
+          sha256 = "";
         }
         {
           path = ''TAPE/APIBig_N.png'';
@@ -46524,7 +46524,7 @@
         {
           path = ''Tape (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Tape%20(Tukan).png";
-          sha256 = "0wli8kz516lwmkgxpb7pn4ydnrgachyb94jxp2zdck0fyap56pi6";
+          sha256 = "";
         }
         {
           path = ''Tape (Tukan).rpl'';
@@ -47533,7 +47533,7 @@
         {
           path = ''Compressor 2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V0-0/Compressor%202%20(Tukan).png";
-          sha256 = "179p4zwnrin309ac18nx1ikcbmp3iwby0z36nqc4xvfvw5228pf0";
+          sha256 = "10nrqgk2w9iq9lb4k394qp6i96025hq7h63b0wh0g3lnlnlr6aip";
         }
         {
           path = ''TKCC2gui/APIBig.png'';
@@ -47892,7 +47892,7 @@
         {
           path = ''Limiter 2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/V1-1/Limiter%202%20(Tukan).png";
-          sha256 = "0j4kbkivnmrrqvyw79dvk05ijgv7d8cffnwxkd1sf08bc6dhs74m";
+          sha256 = "";
         }
         {
           path = ''TKLimgui/APIBig.png'';

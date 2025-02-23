@@ -1356,6 +1356,20 @@
         }
       ];
     };
+    convolvulus-jsfx-1-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "convolvulus-jsfx-1-1";
+      indexName = "chmaha airwindows JSFX Ports";
+      categoryName = "Various";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/8dcf1cf1c5334dff7ab1c9195dba281582bcfd9b/Various/Convolvulus.jsfx";
+          sha256 = "03f3b947sz76xr2ncy9xh0mvawraynij2z9chmhjydc0ipha2qs4";
+        }
+      ];
+    };
     coralbones-jsfx-1-2 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "coralbones-jsfx-1-2";
@@ -2389,6 +2403,20 @@
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/da0670699f400f836e8f33716dc866f466a7cb59/Various/WideAlchemy.jsfx";
           sha256 = "1qdrljidbz8igkx2qrv4ckdhd9akdr86z64bmgn7xacxzy6a9y8j";
+        }
+      ];
+    };
+    widealchemy-jsfx-1-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "widealchemy-jsfx-1-1";
+      indexName = "chmaha airwindows JSFX Ports";
+      categoryName = "Various";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/c8aa8a1ad65527ddf9b51884bc9e38e3bdb2717c/Various/WideAlchemy.jsfx";
+          sha256 = "1jzymkar7b1734hm0mnjrp3wkv489hafsmn2j5zphffsks3myfwk";
         }
       ];
     };

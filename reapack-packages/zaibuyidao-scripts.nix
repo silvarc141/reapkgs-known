@@ -15565,6 +15565,90 @@
         }
       ];
     };
+    zaibuyidao-batch-folder-media-importer-lua-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-batch-folder-media-importer-lua-1-0-1";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/af4aa8f24b328e7e7cac0675051fa5942beb197f/Utility/zaibuyidao_Batch%20Folder%20Media%20Importer.lua";
+          sha256 = "0qr6ks7gaw4f6vzd3rh1w6izj6xyfcs12rlzgxvrhbz3lhdkyf26";
+        }
+      ];
+    };
+    zaibuyidao-batch-folder-media-importer-lua-1-0-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-batch-folder-media-importer-lua-1-0-2";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/db966c3cb1b0ac323d82d1567d2d7c9c0719e06a/Utility/zaibuyidao_Batch%20Folder%20Media%20Importer.lua";
+          sha256 = "01cirnqjdnil31lj1nqi0s01hr076m6fvbxy6y4zngzh1jrvpdd6";
+        }
+      ];
+    };
+    zaibuyidao-batch-folder-media-importer-lua-1-0-3 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-batch-folder-media-importer-lua-1-0-3";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/c310b8b942899f1c815e9ddfba3d43b42bc276ca/Utility/zaibuyidao_Batch%20Folder%20Media%20Importer.lua";
+          sha256 = "0m2gzir7lkx7lw1gvg7z9zx0byqcaliqv8z9f2k546f4z17l8lls";
+        }
+      ];
+    };
+    zaibuyidao-batch-folder-media-importer-lua-1-0-4 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-batch-folder-media-importer-lua-1-0-4";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/491ae036d8ccf1fc4ea0169923b67bb2ead69df7/Utility/zaibuyidao_Batch%20Folder%20Media%20Importer.lua";
+          sha256 = "0pvi1rw3ndqynq3r9hzc5l8xrn2g79bjhrplq5hmnb47ip3dviai";
+        }
+      ];
+    };
+    zaibuyidao-batch-folder-media-importer-lua-1-0-5 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-batch-folder-media-importer-lua-1-0-5";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/22334ccb2f091e6830d4c302e08575c02fa79e47/Utility/zaibuyidao_Batch%20Folder%20Media%20Importer.lua";
+          sha256 = "1lccm9a8flxpccygvc4m17sfx16fck0710qa5pxs4pbgh1n1z28s";
+        }
+      ];
+    };
+    zaibuyidao-batch-folder-media-importer-lua-1-0-6 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-batch-folder-media-importer-lua-1-0-6";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/0766590a662b3a800bc4c5f66f9e87f02c31ed2a/Utility/zaibuyidao_Batch%20Folder%20Media%20Importer.lua";
+          sha256 = "1hi3xf9p65m4n8mfqyba0ir9fqak5iv32xdq9nwvfxgbsrifj9ky";
+        }
+      ];
+    };
     zaibuyidao-build-midi-routing-channels-to-selected-tracks-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "zaibuyidao-build-midi-routing-channels-to-selected-tracks-lua-1-0";
@@ -16444,6 +16528,34 @@
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4e06c45b98b415f8cbdd4aa37fea710e4c3a3cd0/Utility/zaibuyidao_MIDI%20File%20Track%20Name%20Fix.lua";
           sha256 = "1qsy6x82zrd2k3dks1sy93svw9qkviad8hzbr72pxla2r0g8sk00";
+        }
+      ];
+    };
+    zaibuyidao-mouse-modifiers-toggle-default-settings-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-mouse-modifiers-toggle-default-settings-lua-1-0";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/2281a5c1d7514e02fb71fe2954d63f840aa6c437/Utility/zaibuyidao_Mouse%20Modifiers%20-%20Toggle%20Default%20Settings.lua";
+          sha256 = "169ryvxqngjhmzlcfy7bcs9pxxmf9gk4ijyyywcs2p3x83ylbadf";
+        }
+      ];
+    };
+    zaibuyidao-mouse-modifiers-toggle-default-settings-lua-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-mouse-modifiers-toggle-default-settings-lua-1-0-1";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Utility";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/a961b70d8afe6580a044e26d2660da5c9a2c4705/Utility/zaibuyidao_Mouse%20Modifiers%20-%20Toggle%20Default%20Settings.lua";
+          sha256 = "03am5l6aalxq9d730139dfflzqxx20vaahvza18mcnjjrhvx2c88";
         }
       ];
     };
