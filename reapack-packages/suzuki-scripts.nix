@@ -267,7 +267,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/85cab3ce205527ef17eb748aee3a308fbe979e29/FX/Suzuki_Close%20all%20floating%20track%20FX%20(inside%20Container)%20windows%20for%20selected%20tracks%20(incl.%20master%20track).lua";
-          sha256 = "0dck6r55l0cabmdxg2s7cyakwyriyzz8hb6v4ddgqvjdkx305dap";
+          sha256 = "";
         }
       ];
     };
@@ -295,7 +295,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9ddb6c4e2f4e6d87fabd5e0e161f8ea64b35d580/FX/Suzuki_Close%20all%20track%20and%20take%20(incl.%20input%20and%20monitoring)%20FX%20chain%20windows%20(incl.%20master%20track).lua";
-          sha256 = "1l4axy1k13f4b389nqc5y8z2wb9qn7cx2v3iwldlzsdb6yh0hhfg";
+          sha256 = "";
         }
       ];
     };
@@ -323,7 +323,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/b014dc612d102580f9e5f52d49c1c0d62b866a37/FX/Suzuki_Copy%20stereo%20input%20and%20output%20channel%20pin%20mappings%20from%20last%20touched%20track%20or%20take%20FX%20(inside%20Container).lua";
-          sha256 = "0ibrznii2kqs3lbxliybla5zg3km1rnx7hppxkfxmq7if06y5njv";
+          sha256 = "";
         }
       ];
     };
@@ -337,7 +337,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/33dbdfc7aee91a4427ffc91ab6c0b0c9203417c7/FX/Suzuki_Copy%20stereo%20input%20channel%20pin%20mappings%20from%20last%20touched%20track%20or%20take%20FX%20(inside%20Container).lua";
-          sha256 = "1i9yh00s3ssc8374dlisi9a4xj0cykllmf0p7ds012j15kiz1mci";
+          sha256 = "";
         }
       ];
     };
@@ -393,7 +393,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c582a250ddceb07df4d4adccbf18cea3044a18bb/FX/Suzuki_Paste%20channel%20pin%20mappings%20into%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20stereo%20output%20channel%20pin%20mappings.lua";
-          sha256 = "00m4j3yrrzpv8fqix4yhsqgkv5n231d4yp61q0cg242ahb16b32h";
+          sha256 = "";
         }
       ];
     };
@@ -421,7 +421,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/6a379b6c58db8af58fd6b1cd207f77aa39bbe962/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20and%20output%20channel%20pin%20mappings%20to%20stereo%20channels%20(User%20Input).lua";
-          sha256 = "186c7pds5279zg4r982msr1cs5ss1fysgyh9s82gk28x4xybzi45";
+          sha256 = "";
         }
       ];
     };
@@ -435,7 +435,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/20815068f7aab9217e0eda094c260108c64c60e1/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20channel%20pin%20mappings%20to%20stereo%20channels%20(User%20Input).lua";
-          sha256 = "0ricfrrhpiy5d2m8a98c5d6ni4mvhdh99zrlw4g67fb33q2049l4";
+          sha256 = "";
         }
       ];
     };
@@ -477,7 +477,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e2a0273584f10e98ee8df739f8114ca080c195a7/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20input%20stereo%20channels%20to%2063-64.lua";
-          sha256 = "18s4dpqkzl50w6psm70vq79gy1iy455skdjqjaz03w9zn1bqk6bl";
+          sha256 = "";
         }
       ];
     };
@@ -505,7 +505,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8114401a0a5cf26e1965584571c94898a3652c99/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20channel%20pin%20mappings%20to%20stereo%20channels%20(User%20Input).lua";
-          sha256 = "00v5ng42cdj60czqsjisaxd7c3adnqin7z4cs7knzddxn7pwdxxg";
+          sha256 = "";
         }
       ];
     };
@@ -519,7 +519,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/1eec70932165ced84128e22c1ca12a8f81c60748/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20channel%20pin%20mappings%20to%20stereo%20channels%20and%20send%20it%20to%20a%20new%20track%20in%20bus%20(User%20Input).lua";
-          sha256 = "1caws1356nr7gj0lbfgmrhiv6l6y273kk3wprdyd80b9kpnhm87j";
+          sha256 = "";
         }
       ];
     };
@@ -533,7 +533,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8d5ddcf712f38df7578625710e0654bfb0a2118f/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20stereo%20channels%20to%20125-126.lua";
-          sha256 = "0gb63x6vrw5ghgjnlmqy4kk0qql5my8ipd98yg7z7j1809397ygs";
+          sha256 = "";
         }
       ];
     };
@@ -561,7 +561,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/309425b12f4c4fb3e2964a0cb9eb8d90e40b9390/FX/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20output%20stereo%20channels%20to%2095-96.lua";
-          sha256 = "1lryyfzd53di2wljcc96crgkwz0pvj6nvikd9m6nxn4g1jr3fy2n";
+          sha256 = "";
         }
       ];
     };
@@ -575,7 +575,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/7e33f8234a5b378c1917e2a4cdd9abf18790deda/FX/Suzuki_Toggle%20map%20to%20the%20root%20container%20parameter%20for%20last%20touched%20track%20or%20take%20FX%20parameter.lua";
-          sha256 = "1qw945yw37ywnvksz2xdm8ipa8qwapfp6zfpbx44bnnvpgalahdr";
+          sha256 = "";
         }
       ];
     };
@@ -589,7 +589,7 @@
         {
           path = ''SoundDesign_Dependencies/more_graphics.jsfx-inc'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_graphics.jsfx-inc";
-          sha256 = "1hg131hyp0r1mbasax6qxq5wzsyxrmldh0z3zqrpdy66kdz2zmbx";
+          sha256 = "";
         }
         {
           path = ''SoundDesign_Dependencies/more_math_functions.jsfx-inc'';
@@ -604,17 +604,17 @@
         {
           path = ''lewloiwc_open_delay.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_open_delay.jsfx";
-          sha256 = "1pr7j30yia40pr8plq4j6521sad8lsml4l3fh3idmcc2ikq96wws";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_sample_warp_texture_mode.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sample_warp_texture_mode.jsfx";
-          sha256 = "0xfqjvkl34vmdgsym5n9l3fnkv6a3qi4nqrq8zfil4jgd15af5iv";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_sidechain_erosion.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sidechain_erosion.jsfx";
-          sha256 = "0wfjmdjq89sg950q6gdy00xq9s5qzjgvjci406ibqbwlc7cwc431";
+          sha256 = "";
         }
       ];
     };
@@ -628,22 +628,22 @@
         {
           path = ''Open_Delay_Examples_in_Container.RPL'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/Open_Delay_Examples_in_Container.RPL";
-          sha256 = "1gra46af66qk30v696xbph4yzgizbzlh1gy4mlh2nnakz4281l8h";
+          sha256 = "";
         }
         {
           path = ''SoundDesign_Dependencies/more_graphics.jsfx-inc'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_graphics.jsfx-inc";
-          sha256 = "1hg131hyp0r1mbasax6qxq5wzsyxrmldh0z3zqrpdy66kdz2zmbx";
+          sha256 = "";
         }
         {
           path = ''SoundDesign_Dependencies/more_math_functions.jsfx-inc'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_math_functions.jsfx-inc";
-          sha256 = "1lvw8g9gb3zrfwibjsfkr50lskdzrkvbzgshfj5i06bzm6jhx350";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_midi_trigger_envelope.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_midi_trigger_envelope.jsfx";
-          sha256 = "16qy36a7ccind7jp14x98cb5pamzkv0cb3fr4jkq49x2f2j6lx9c";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_open_delay.jsfx'';
@@ -653,12 +653,12 @@
         {
           path = ''lewloiwc_sample_warp_texture_mode.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sample_warp_texture_mode.jsfx";
-          sha256 = "0xfqjvkl34vmdgsym5n9l3fnkv6a3qi4nqrq8zfil4jgd15af5iv";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_sidechain_erosion.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sidechain_erosion.jsfx";
-          sha256 = "0wfjmdjq89sg950q6gdy00xq9s5qzjgvjci406ibqbwlc7cwc431";
+          sha256 = "";
         }
       ];
     };
@@ -687,12 +687,12 @@
         {
           path = ''lewloiwc_amplitude_splitter_gate.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/3768ce7349644d4c3c4647ebd1bd1d13046c2071/lewloiwc's%20Splitter%20Suite/lewloiwc_amplitude_splitter_gate.jsfx";
-          sha256 = "0vcmfnxkwbhx8950ffdixn6fdy9sf5p6igfcnn5ql547skp7g1yr";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_amplitude_splitter_transient.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/3768ce7349644d4c3c4647ebd1bd1d13046c2071/lewloiwc's%20Splitter%20Suite/lewloiwc_amplitude_splitter_transient.jsfx";
-          sha256 = "1qvwb72s6nd37v8myfsw7vrvj6lrf57q7xm2j8gp4f9fc3lnjcaa";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_frequency_splitter.jsfx'';
@@ -702,12 +702,12 @@
         {
           path = ''lewloiwc_frequency_splitter_band_and_notch(minimum_phase).jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/3768ce7349644d4c3c4647ebd1bd1d13046c2071/lewloiwc's%20Splitter%20Suite/lewloiwc_frequency_splitter_band_and_notch(minimum_phase).jsfx";
-          sha256 = "1xmqhr514ay4v8xmz74i3kvlqdqjz28gbqca8zj3xh34gd57l826";
+          sha256 = "0yw42s89s11jihx52i54d9vg6hvkr8yq7yvgkxk762i06pr1r85a";
         }
         {
           path = ''lewloiwc_frequency_splitter_butterworth(minimum_phase).jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/3768ce7349644d4c3c4647ebd1bd1d13046c2071/lewloiwc's%20Splitter%20Suite/lewloiwc_frequency_splitter_butterworth(minimum_phase).jsfx";
-          sha256 = "1vfg3v9mvay2241hd2mh5mi2v420zarv5rqncc6lnhaqjn6gih5p";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_frequency_splitter_comb_and_phaser.jsfx'';
@@ -717,12 +717,12 @@
         {
           path = ''lewloiwc_frequency_splitter_linkwitz-riley(minimum_phase).jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/3768ce7349644d4c3c4647ebd1bd1d13046c2071/lewloiwc's%20Splitter%20Suite/lewloiwc_frequency_splitter_linkwitz-riley(minimum_phase).jsfx";
-          sha256 = "0slpipw3bx7yckhsrcwxan3fj79yzcqpp7j5xs81vvmx9fp20v0p";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_inflator_splitter.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/3768ce7349644d4c3c4647ebd1bd1d13046c2071/lewloiwc's%20Splitter%20Suite/lewloiwc_inflator_splitter.jsfx";
-          sha256 = "0a37iik1d7s7c7qv3qm23hnpxn037r29y0sr7pqc49sif4r291sl";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_sinc_frequency_splitter.jsfx'';
@@ -746,12 +746,12 @@
         {
           path = ''Splitter_Dependencies/more_math_functions.jsfx-inc'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c9a2fd5d6ae08e094dad80d5e311963b7b2f931b/lewloiwc's%20Splitter%20Suite/Splitter_Dependencies/more_math_functions.jsfx-inc";
-          sha256 = "1lvw8g9gb3zrfwibjsfkr50lskdzrkvbzgshfj5i06bzm6jhx350";
+          sha256 = "";
         }
         {
           path = ''Splitter Template.RPL'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c9a2fd5d6ae08e094dad80d5e311963b7b2f931b/lewloiwc's%20Splitter%20Suite/Splitter%20Template.RPL";
-          sha256 = "0rflzsg5x99lwjdblbmhymq5dd410msjcbb16xh12fzmgxyl7xbi";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_amplitude_splitter_envelope_follower.jsfx'';
@@ -761,12 +761,12 @@
         {
           path = ''lewloiwc_amplitude_splitter_gate.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c9a2fd5d6ae08e094dad80d5e311963b7b2f931b/lewloiwc's%20Splitter%20Suite/lewloiwc_amplitude_splitter_gate.jsfx";
-          sha256 = "0vcmfnxkwbhx8950ffdixn6fdy9sf5p6igfcnn5ql547skp7g1yr";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_amplitude_splitter_transient.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c9a2fd5d6ae08e094dad80d5e311963b7b2f931b/lewloiwc's%20Splitter%20Suite/lewloiwc_amplitude_splitter_transient.jsfx";
-          sha256 = "051yi6d79ws4cfjqpwpjji3g59kiq9spgwhdph79midks1f5lfjz";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_frequency_splitter.jsfx'';
@@ -776,7 +776,7 @@
         {
           path = ''lewloiwc_frequency_splitter_band_and_notch(minimum_phase).jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c9a2fd5d6ae08e094dad80d5e311963b7b2f931b/lewloiwc's%20Splitter%20Suite/lewloiwc_frequency_splitter_band_and_notch(minimum_phase).jsfx";
-          sha256 = "1xmqhr514ay4v8xmz74i3kvlqdqjz28gbqca8zj3xh34gd57l826";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_frequency_splitter_butterworth(minimum_phase).jsfx'';
@@ -786,7 +786,7 @@
         {
           path = ''lewloiwc_frequency_splitter_comb_and_phaser.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c9a2fd5d6ae08e094dad80d5e311963b7b2f931b/lewloiwc's%20Splitter%20Suite/lewloiwc_frequency_splitter_comb_and_phaser.jsfx";
-          sha256 = "07jwcb96xf86rzhiryvaq3mxi6s3a6yh3q5vki9lf00z3p66zqly";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_frequency_splitter_linkwitz-riley(minimum_phase).jsfx'';
@@ -820,7 +820,7 @@
         {
           path = ''Splitter_Dependencies/more_math_functions.jsfx-inc'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9021252e790debd90135dd02ba670724c1264ce7/lewloiwc's%20Splitter%20Suite/Splitter_Dependencies/more_math_functions.jsfx-inc";
-          sha256 = "1lvw8g9gb3zrfwibjsfkr50lskdzrkvbzgshfj5i06bzm6jhx350";
+          sha256 = "";
         }
         {
           path = ''Splitter Template.RPL'';
@@ -850,7 +850,7 @@
         {
           path = ''lewloiwc_frequency_splitter_band_and_notch(minimum_phase).jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9021252e790debd90135dd02ba670724c1264ce7/lewloiwc's%20Splitter%20Suite/lewloiwc_frequency_splitter_band_and_notch(minimum_phase).jsfx";
-          sha256 = "1xmqhr514ay4v8xmz74i3kvlqdqjz28gbqca8zj3xh34gd57l826";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_frequency_splitter_butterworth(minimum_phase).jsfx'';
@@ -865,17 +865,17 @@
         {
           path = ''lewloiwc_frequency_splitter_linkwitz-riley(minimum_phase).jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9021252e790debd90135dd02ba670724c1264ce7/lewloiwc's%20Splitter%20Suite/lewloiwc_frequency_splitter_linkwitz-riley(minimum_phase).jsfx";
-          sha256 = "1j22c4shh73yck6kwxh8m3whi1lnjj5r7x1n9gjzvv6g6g2d04vq";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_frequency_splitter_sinc.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9021252e790debd90135dd02ba670724c1264ce7/lewloiwc's%20Splitter%20Suite/lewloiwc_frequency_splitter_sinc.jsfx";
-          sha256 = "09qpvv5nq8xif7zhs17gy2c7im7djsah09g7v4d22c13sra8cw4x";
+          sha256 = "";
         }
         {
           path = ''lewloiwc_inflator_splitter.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9021252e790debd90135dd02ba670724c1264ce7/lewloiwc's%20Splitter%20Suite/lewloiwc_inflator_splitter.jsfx";
-          sha256 = "0a37iik1d7s7c7qv3qm23hnpxn037r29y0sr7pqc49sif4r291sl";
+          sha256 = "";
         }
       ];
     };
@@ -889,7 +889,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e96035ac7869a7f3754db30d149dd05f025076ac/Modulation/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20as%20a%20lead%20parameter%20for%20parameter%20link.lua";
-          sha256 = "1qh61jp0ggk7rg5bgzy2avhkcg650xphbjnaby3yx7p2ddgzb4l9";
+          sha256 = "";
         }
       ];
     };
@@ -903,7 +903,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c2ec5e58bf5e8f63b23a6386bed9d217343f06d9/Modulation/Suzuki_Toggle%20enable%20disable%20audio%20control%20signal%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua";
-          sha256 = "0d1l7zvsridkly6xamkbp9wpjvvxhq0y8kygijqz6q8l2z6hf5p9";
+          sha256 = "";
         }
       ];
     };
@@ -917,7 +917,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20enable%20disable%20audio%20control%20signal%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua";
-          sha256 = "13bcysf2sbxgb70wqps7zya7dl00y1idfyarxbdld1yydq619pqg";
+          sha256 = "";
         }
       ];
     };
@@ -1029,7 +1029,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c91b44efdc568a35d489c2977f39e39936880ea7/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20(user%20input).lua";
-          sha256 = "0dg04byccig93zbn50jwvb25aw2y1ig6sn68spchcqr6yqy3n4cy";
+          sha256 = "";
         }
       ];
     };
@@ -1114,7 +1114,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/002c3459b4fb6648a47725de518968971c2d4667/ReaDrum%20Machine/Suzuki_ReaDrum_Machine_Instruments_Rack.lua";
-          sha256 = "1g2qjmlvidcblagq9kzhjfdacq5jlc8xnjbi8hrrhlz6sdyndzjy";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
@@ -1133,7 +1133,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/afc744130cda24fd989877aeac0aab454eb6e36f/ReaDrum%20Machine/Suzuki_ReaDrum_Machine_Instruments_Rack.lua";
-          sha256 = "0r3s91w0906szlxgypm8s916g90vlig2rl13d68p9gh1wixa7z6q";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
@@ -1171,7 +1171,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/09daac1fd3ff196db248755fbdc3879bd44fad34/ReaDrum%20Machine/Suzuki_ReaDrum_Machine_Instruments_Rack.lua";
-          sha256 = "19f2kqmr12gvvp1i9c3yjzwqsxd48yax2hq4a24jg6s16kq3k9f6";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
@@ -1214,7 +1214,7 @@
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/61030d2aac84ccd9e25c14940c1fc5060ba4d9ae/ReaDrum%20Machine/Fonts/Icons.ttf";
-          sha256 = "0rk9lzicc2a0wnplprkizkv8arbsws8pfiavy94b4rbxjlrckfc4";
+          sha256 = "";
         }
       ];
     };
@@ -1247,7 +1247,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/f1d84f1398a32ada92ed7ac02609abf4ed4f854f/ReaDrum%20Machine/Suzuki_ReaDrum_Machine_Instruments_Rack.lua";
-          sha256 = "0q0lkfr46768jj153b3xxmha7vg4amrg0ss4x60ijfvrg6njh8ms";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
@@ -1276,12 +1276,12 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/cfb7895f26714db91359a9de68ee549b0a88e308/ReaDrum%20Machine/Suzuki_ReaDrum_Machine_Instruments_Rack.lua";
-          sha256 = "0jrcxl6l0fzsbaii4yxf0hxwixw1y0m79nd67g3lna90f51gwcrc";
+          sha256 = "10s8cm5jizpqhz7q3fkyp72ci0akbgp9m8zb867rksfjwbh0byh9";
         }
         {
           path = ''Fonts/Icons.ttf'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/cfb7895f26714db91359a9de68ee549b0a88e308/ReaDrum%20Machine/Fonts/Icons.ttf";
-          sha256 = "0rk9lzicc2a0wnplprkizkv8arbsws8pfiavy94b4rbxjlrckfc4";
+          sha256 = "";
         }
         {
           path = ''JSFX/RDM_midi_note_filter.jsfx'';
@@ -1305,7 +1305,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/2c11a7e9fbf1b97a1e3b13ec2ba7a4d8b40ad7a6/ReaDrum%20Machine/Suzuki_ReaDrum_Machine_Instruments_Rack.lua";
-          sha256 = "1a770zzig4fsjx613griyg67fzzczivas3p6am9jlhwf8477hqmp";
+          sha256 = "";
         }
         {
           path = ''Fonts/Icons.ttf'';
@@ -1315,12 +1315,12 @@
         {
           path = ''JSFX/RDM_midi_note_filter.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/2c11a7e9fbf1b97a1e3b13ec2ba7a4d8b40ad7a6/ReaDrum%20Machine/JSFX/RDM_midi_note_filter.jsfx";
-          sha256 = "152hmn60cwssjsm471idjw9k8099cvb8wn6xy0lnawxisn43m7jk";
+          sha256 = "";
         }
         {
           path = ''JSFX/RDM_midi_note_filter.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/2c11a7e9fbf1b97a1e3b13ec2ba7a4d8b40ad7a6/ReaDrum%20Machine/JSFX/RDM_midi_note_filter.jsfx";
-          sha256 = "152hmn60cwssjsm471idjw9k8099cvb8wn6xy0lnawxisn43m7jk";
+          sha256 = "";
         }
       ];
     };
@@ -1344,7 +1344,7 @@
         {
           path = ''JSFX/RDM_midi_note_filter.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9d9030d2fd4b7034524a864836de655520bf60ff/ReaDrum%20Machine/JSFX/RDM_midi_note_filter.jsfx";
-          sha256 = "152hmn60cwssjsm471idjw9k8099cvb8wn6xy0lnawxisn43m7jk";
+          sha256 = "06dha1yavry74vlkjn0lmghc61m811qkyz4hwkj4ii2cnj32cpi3";
         }
         {
           path = ''Modules/DragNDrop.lua'';
@@ -1354,27 +1354,27 @@
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9d9030d2fd4b7034524a864836de655520bf60ff/ReaDrum%20Machine/Modules/Drawing.lua";
-          sha256 = "1ybvqqgwj3zz5vnlpv2ymmnx31hdgf89qj54nb68f95mhglsslnm";
+          sha256 = "";
         }
         {
           path = ''Modules/FX List.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9d9030d2fd4b7034524a864836de655520bf60ff/ReaDrum%20Machine/Modules/FX%20List.lua";
-          sha256 = "04qysgdjahw1m6a4fx10jbs2dhhdpn1ybaxjhcn9f24vyx618xiv";
+          sha256 = "";
         }
         {
           path = ''Modules/General Functions.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9d9030d2fd4b7034524a864836de655520bf60ff/ReaDrum%20Machine/Modules/General%20Functions.lua";
-          sha256 = "1ivf9mn6vspvhdi5dvpsgf2z2mdacyw9a5hw3aa70ihfw1hi0pva";
+          sha256 = "";
         }
         {
           path = ''Modules/Pad Actions.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9d9030d2fd4b7034524a864836de655520bf60ff/ReaDrum%20Machine/Modules/Pad%20Actions.lua";
-          sha256 = "02xxrw2wnkx7l26i40qf4747n3d7givwgh2acfspslcwlxjqpfdb";
+          sha256 = "1jsdqg9vxslsa06m405c6phk4jp402pard7s1j6vrzkf7mrbdgjf";
         }
         {
           path = ''JSFX/RDM_midi_note_filter.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9d9030d2fd4b7034524a864836de655520bf60ff/ReaDrum%20Machine/JSFX/RDM_midi_note_filter.jsfx";
-          sha256 = "152hmn60cwssjsm471idjw9k8099cvb8wn6xy0lnawxisn43m7jk";
+          sha256 = "06dha1yavry74vlkjn0lmghc61m811qkyz4hwkj4ii2cnj32cpi3";
         }
       ];
     };
@@ -1398,7 +1398,7 @@
         {
           path = ''JSFX/RDM_midi_note_filter.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e90092d650a2a24d687107c12da4ac4b116c2266/ReaDrum%20Machine/JSFX/RDM_midi_note_filter.jsfx";
-          sha256 = "152hmn60cwssjsm471idjw9k8099cvb8wn6xy0lnawxisn43m7jk";
+          sha256 = "06dha1yavry74vlkjn0lmghc61m811qkyz4hwkj4ii2cnj32cpi3";
         }
         {
           path = ''Modules/DragNDrop.lua'';
@@ -1408,7 +1408,7 @@
         {
           path = ''Modules/Drawing.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e90092d650a2a24d687107c12da4ac4b116c2266/ReaDrum%20Machine/Modules/Drawing.lua";
-          sha256 = "1ybvqqgwj3zz5vnlpv2ymmnx31hdgf89qj54nb68f95mhglsslnm";
+          sha256 = "1c0ycnidsdh8iilzy1hr6a1q628lz72hmq0szh9y1rk2s9fmzf1l";
         }
         {
           path = ''Modules/FX List.lua'';
@@ -1428,7 +1428,7 @@
         {
           path = ''JSFX/RDM_midi_note_filter.jsfx'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e90092d650a2a24d687107c12da4ac4b116c2266/ReaDrum%20Machine/JSFX/RDM_midi_note_filter.jsfx";
-          sha256 = "152hmn60cwssjsm471idjw9k8099cvb8wn6xy0lnawxisn43m7jk";
+          sha256 = "06dha1yavry74vlkjn0lmghc61m811qkyz4hwkj4ii2cnj32cpi3";
         }
         {
           path = ''Suzuki_ReaDrum_Machine_Instruments_Rack_(Scrollable Layout).lua'';
@@ -1472,12 +1472,12 @@
         {
           path = ''Modules/FX List.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/55a98e7ce118c675c8616e32fb78224b33159a79/ReaDrum%20Machine/Modules/FX%20List.lua";
-          sha256 = "04qysgdjahw1m6a4fx10jbs2dhhdpn1ybaxjhcn9f24vyx618xiv";
+          sha256 = "0n25gvxhbc0rfy03p6b79sm78qyi9mpgvdcj4z60bcmx4cb30vqj";
         }
         {
           path = ''Modules/General Functions.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/55a98e7ce118c675c8616e32fb78224b33159a79/ReaDrum%20Machine/Modules/General%20Functions.lua";
-          sha256 = "1ivf9mn6vspvhdi5dvpsgf2z2mdacyw9a5hw3aa70ihfw1hi0pva";
+          sha256 = "1hzha46nmznnbqhk3dww9r5l8g860cvmik831y1sx1hba55a8a8g";
         }
         {
           path = ''Modules/Pad Actions.lua'';
@@ -1492,7 +1492,7 @@
         {
           path = ''Suzuki_ReaDrum_Machine_Instruments_Rack_(Scrollable Layout).lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/55a98e7ce118c675c8616e32fb78224b33159a79/ReaDrum%20Machine/Suzuki_ReaDrum_Machine_Instruments_Rack_(Scrollable%20Layout).lua";
-          sha256 = "0c8k4wcdf1qphirxl9zg7caribkiiv38mdjgmglip0k10xk3d0wb";
+          sha256 = "0pm3wa0ddcs1i1s76g7xfwicf5aii88f43mkkq245b4zwryy4rxb";
         }
       ];
     };
@@ -1506,7 +1506,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/f2d1260c81c8668e91f54f4690dd98ce9c2a74c4/ReaDrum%20Machine/Suzuki_ReaDrum_Machine_Instruments_Rack.lua";
-          sha256 = "0s2mv21jj7cd5bjwqn7wg3935pldrcqri7lly2abmdda14jbzm15";
+          sha256 = "1k8xblhc9prmshm6sgxwm8gvq304mdrgm9inq747ks3g17nkkdkc";
         }
         {
           path = ''Fonts/Icons.ttf'';
@@ -1531,12 +1531,12 @@
         {
           path = ''Modules/FX List.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/f2d1260c81c8668e91f54f4690dd98ce9c2a74c4/ReaDrum%20Machine/Modules/FX%20List.lua";
-          sha256 = "04qysgdjahw1m6a4fx10jbs2dhhdpn1ybaxjhcn9f24vyx618xiv";
+          sha256 = "0n25gvxhbc0rfy03p6b79sm78qyi9mpgvdcj4z60bcmx4cb30vqj";
         }
         {
           path = ''Modules/General Functions.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/f2d1260c81c8668e91f54f4690dd98ce9c2a74c4/ReaDrum%20Machine/Modules/General%20Functions.lua";
-          sha256 = "1ivf9mn6vspvhdi5dvpsgf2z2mdacyw9a5hw3aa70ihfw1hi0pva";
+          sha256 = "1hzha46nmznnbqhk3dww9r5l8g860cvmik831y1sx1hba55a8a8g";
         }
         {
           path = ''Modules/Pad Actions.lua'';
@@ -1590,7 +1590,7 @@
         {
           path = ''Modules/FX List.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/02527ceef5ec060624e424690771832ab78a0ade/ReaDrum%20Machine/Modules/FX%20List.lua";
-          sha256 = "04qysgdjahw1m6a4fx10jbs2dhhdpn1ybaxjhcn9f24vyx618xiv";
+          sha256 = "0n25gvxhbc0rfy03p6b79sm78qyi9mpgvdcj4z60bcmx4cb30vqj";
         }
         {
           path = ''Modules/General Functions.lua'';
@@ -1679,7 +1679,7 @@
         {
           path = ''Suzuki_ReaDrum_Machine_Instruments_Rack_(Scrollable Layout).lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/9d26c7288a0883f4515755eab5d600fec7dfba55/ReaDrum%20Machine/Suzuki_ReaDrum_Machine_Instruments_Rack_(Scrollable%20Layout).lua";
-          sha256 = "0c8k4wcdf1qphirxl9zg7caribkiiv38mdjgmglip0k10xk3d0wb";
+          sha256 = "0pm3wa0ddcs1i1s76g7xfwicf5aii88f43mkkq245b4zwryy4rxb";
         }
       ];
     };
@@ -1939,7 +1939,7 @@
         {
           path = '''';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/0e325fd9d29284fc9b57539ff8f8c9cf53333e1a/ReaDrum%20Machine/Suzuki_ReaDrum_Machine_Instruments_Rack.lua";
-          sha256 = "1g7hp3k2h2wq95wix8qd8wiy532pndjh1ci0l9xg3crcd44fkn1p";
+          sha256 = "1an6pxscqgiv3iva0vx0qir24irfiqps148k4hf2g2z4dz92qhcw";
         }
         {
           path = ''Fonts/Icons.ttf'';
@@ -2264,7 +2264,7 @@
         {
           path = ''Modules/General Functions.lua'';
           url = "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/4efdd8d0fcc510cb8c461575f2f8d330467528cf/ReaDrum%20Machine/Modules/General%20Functions.lua";
-          sha256 = "179cxks1zpw64qncjbrqrxfk1cmxynzgxlhhz703z5i5g3ns3ifr";
+          sha256 = "1y4xpk5kay33l0as1c4f3vmrmc90zvs74qjm3kpa3rspy4kn15zs";
         }
         {
           path = ''Modules/Pad Actions.lua'';

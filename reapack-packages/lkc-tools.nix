@@ -1578,6 +1578,80 @@
         }
       ];
     };
+    reaopen-lua-1-84beta = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "reaopen-lua-1-84beta";
+      indexName = "LKC Tools";
+      categoryName = "ReaOpen";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/ReaOpen.lua";
+          sha256 = "0b521vm3y556iaj8za06l8naymzl1jdibkk87l4v1qb1h4vf4gxk";
+        }
+        {
+          path = ''ReaOpen.exe'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/ReaOpen.exe";
+          sha256 = "17wr4n9wifj6vwhlwc13bgp0m9s16rihrbld1wvawln8rzlx03qj";
+        }
+        {
+          path = ''ReaOpen MAC.zip'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/ReaOpen%20MAC.zip";
+          sha256 = "0p6h1lyfka7kzlgcqh7galkmfv2dffz3wlr3v0ahrsy0xaha01mz";
+        }
+        {
+          path = ''ReaOpen.rpp'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/ReaOpen.rpp";
+          sha256 = "0zq9nlbhv53pr3q7mdpcyh4s950ca0cjlr2pf553binp3ydsyb0n";
+        }
+        {
+          path = ''install_wwise_command_for_pc.bat'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/install_wwise_command_for_pc.bat";
+          sha256 = "0gx2hja7j16pn85dvjn6k0qx4w38nfj035mwi3yl0xc0k23qy5pr";
+        }
+        {
+          path = ''ReaOpen - Init Setup.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/ReaOpen%20-%20Init%20Setup.lua";
+          sha256 = "0i89ng5m96jw5pzdd37lgqs6gbv9mpxc7a3b0pmpg5zckwnm8qjc";
+        }
+        {
+          path = ''ReaOpen - Open script directory.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/ReaOpen%20-%20Open%20script%20directory.lua";
+          sha256 = "1rc5lz1l36jyi0mf6vrhqlbylch7laqfr5zbjnzpjp7pk5kg70hx";
+        }
+        {
+          path = ''ReaOpen - Relative paths setup.lua'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/ReaOpen%20-%20Relative%20paths%20setup.lua";
+          sha256 = "10lx6bhr3n0qw6xn8d4hx283y4g0i0fplrlh3sawb32ymxby4wml";
+        }
+        {
+          path = ''Lokasenna_GUI/Class - Button.dat'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/Lokasenna_GUI/Class%20-%20Button.dat";
+          sha256 = "01axwraf8sbvgr7602h67r0w79cs4z7a17sqdbgpvd6xpf3xx8pj";
+        }
+        {
+          path = ''Lokasenna_GUI/Class - Label.dat'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/Lokasenna_GUI/Class%20-%20Label.dat";
+          sha256 = "1vbrbwjx9hlgp5b23zanyl0cfbf83ll3nzh3j95z1nj55z2bc17d";
+        }
+        {
+          path = ''Lokasenna_GUI/Class - Options.dat'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/Lokasenna_GUI/Class%20-%20Options.dat";
+          sha256 = "1n5d6xwscbpwf5ac352dvy8dgh7ypsl0frc4hdpgd3dsn8dsbj8b";
+        }
+        {
+          path = ''Lokasenna_GUI/Class - Window.dat'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/Lokasenna_GUI/Class%20-%20Window.dat";
+          sha256 = "166f7qynsin5nx4fj23w12hszpy6zsyw2b21gq4951ngb6paw9z2";
+        }
+        {
+          path = ''Lokasenna_GUI/Core.dat'';
+          url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/Lokasenna_GUI/Core.dat";
+          sha256 = "0q9k9sr8hb6kf728w4xckxgi0p67663849x8lyvm3byqhr17skz9";
+        }
+      ];
+    };
     lkc-timejump-undo-lua-1-30 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "lkc-timejump-undo-lua-1-30";

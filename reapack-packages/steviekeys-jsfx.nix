@@ -197,7 +197,7 @@
         {
           path = ''bigbaddelay/cookdsp/granulator.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/201c638cc899b5d014be4c1d8f85f3d06a907918/Delay/bigbaddelay/cookdsp/granulator.jsfx-inc";
-          sha256 = "";
+          sha256 = "199xmawqjd71vyr892cwhja6sbw0j11an373302nlv9r4kwm0j22";
         }
         {
           path = ''bigbaddelay/cookdsp/list.jsfx-inc'';
@@ -232,7 +232,7 @@
         {
           path = ''bigbaddelay/cookdsp/pv-mono-template'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/201c638cc899b5d014be4c1d8f85f3d06a907918/Delay/bigbaddelay/cookdsp/pv-mono-template";
-          sha256 = "1715sx8z4snqicfry1jgsxbi4b3lsgdw6nw9pdp5jgnnkmn2rsdq";
+          sha256 = "1mk2yx5fwld9n649ql4s86ld9n06fpn72qrrza68gm9csk51ib20";
         }
         {
           path = ''bigbaddelay/cookdsp/pv-stereo-template'';
@@ -257,7 +257,7 @@
         {
           path = ''bigbaddelay/cookdsp/scaling.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/201c638cc899b5d014be4c1d8f85f3d06a907918/Delay/bigbaddelay/cookdsp/scaling.jsfx-inc";
-          sha256 = "1icsgn3ycx8i6vaq7yvgpqvi5ssibc44n3asw7p7z2b7h41vcvfj";
+          sha256 = "08nij8gplq4r33r3g7x8dy4wsvj6wncasnv9q7wd13sgvdv8mxj4";
         }
       ];
     };
@@ -271,7 +271,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2587a697ecdb10af774ab6661ed57effb4b2498c/Delay/Echo%20Live%20Vocal%20In%20Stereo.jsfx";
-          sha256 = "";
+          sha256 = "03qfkwn5as8ghfcs8b98383xgssyb5ywa3f266pc13rrvzyr5h9v";
         }
       ];
     };
@@ -327,7 +327,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/ba976fe170d8aa18a8ea5f4417e1ff7c387b0c11/Delay/Wow%20Tape%20Delay.jsfx";
-          sha256 = "";
+          sha256 = "1aj4l9dfshbmh5227j7i76l84i5xpj53319paisz42lqf3p49g69";
         }
       ];
     };
@@ -388,7 +388,7 @@
         {
           path = ''wowtapedelay/cookdsp.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/bb22109193c12f139e86c853818ffe3904305e87/Delay/wowtapedelay/cookdsp.jsfx-inc";
-          sha256 = "1jkws14m60h3i2lyr7c6q1kd1dpsy8wnsay0f1wknbpgncray3wb";
+          sha256 = "0bgaw4hkzkfr9jyvkc8nd7j7byxdvh0ibvqjqq4l4vvic5yhwdsz";
         }
         {
           path = ''wowtapedelay/cookdsp/analysis.jsfx-inc'';
@@ -398,12 +398,12 @@
         {
           path = ''wowtapedelay/cookdsp/buffer.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/bb22109193c12f139e86c853818ffe3904305e87/Delay/wowtapedelay/cookdsp/buffer.jsfx-inc";
-          sha256 = "";
+          sha256 = "0x22fzgidjl2hdiyn035842kfpq8cvyxj1mz3lcb4ml364i5lb86";
         }
         {
           path = ''wowtapedelay/cookdsp/delay.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/bb22109193c12f139e86c853818ffe3904305e87/Delay/wowtapedelay/cookdsp/delay.jsfx-inc";
-          sha256 = "";
+          sha256 = "1hjf4hfs8mhd6ablw4g1ffc9dajv087f1nr9763m377rx4klx1xp";
         }
         {
           path = ''wowtapedelay/cookdsp/dynamics.jsfx-inc'';
@@ -418,7 +418,7 @@
         {
           path = ''wowtapedelay/cookdsp/fft-mono-template'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/bb22109193c12f139e86c853818ffe3904305e87/Delay/wowtapedelay/cookdsp/fft-mono-template";
-          sha256 = "044xq1agvjzc4wkw315lb9adzmslm9j9h0ip7wv9jzfszpwkbmd7";
+          sha256 = "08g1n5jmppnd3g8pd2gnlq9j9bgcwiq902wcakid7x5an2y0m5cq";
         }
         {
           path = ''wowtapedelay/cookdsp/fft-stereo-template'';
@@ -453,7 +453,7 @@
         {
           path = ''wowtapedelay/cookdsp/midi.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/bb22109193c12f139e86c853818ffe3904305e87/Delay/wowtapedelay/cookdsp/midi.jsfx-inc";
-          sha256 = "";
+          sha256 = "193v98nwsqv1acgb7c3yr36b9k8ylhgjs8xslxkphz26124vs25w";
         }
         {
           path = ''wowtapedelay/cookdsp/mmath.jsfx-inc'';
@@ -468,17 +468,17 @@
         {
           path = ''wowtapedelay/cookdsp/pobjects.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/bb22109193c12f139e86c853818ffe3904305e87/Delay/wowtapedelay/cookdsp/pobjects.jsfx-inc";
-          sha256 = "";
+          sha256 = "11y95ac05zsk952h8wji8dxqhaz31z22nwypsrfx3kxzq069qigz";
         }
         {
           path = ''wowtapedelay/cookdsp/pv-mono-template'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/bb22109193c12f139e86c853818ffe3904305e87/Delay/wowtapedelay/cookdsp/pv-mono-template";
-          sha256 = "";
+          sha256 = "1mk2yx5fwld9n649ql4s86ld9n06fpn72qrrza68gm9csk51ib20";
         }
         {
           path = ''wowtapedelay/cookdsp/pv-stereo-template'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/bb22109193c12f139e86c853818ffe3904305e87/Delay/wowtapedelay/cookdsp/pv-stereo-template";
-          sha256 = "";
+          sha256 = "0dh6cmf148pfw95pjca2g13qjb34m757r0j62p0bdl0mzwybxlrc";
         }
         {
           path = ''wowtapedelay/cookdsp/pvocobjects.jsfx-inc'';
@@ -522,17 +522,17 @@
         {
           path = ''wowtapedelay/cookdsp/analysis.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/68bfaeb913cd84d8d69bf3b7e59e2f0e72ad40e2/Delay/wowtapedelay/cookdsp/analysis.jsfx-inc";
-          sha256 = "";
+          sha256 = "08hzvj4c3rnkbghm5sw3g15ma5b809a2nbixfsiwdasbzq36b0wq";
         }
         {
           path = ''wowtapedelay/cookdsp/buffer.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/68bfaeb913cd84d8d69bf3b7e59e2f0e72ad40e2/Delay/wowtapedelay/cookdsp/buffer.jsfx-inc";
-          sha256 = "0r7d3f6bhwsv9c55m22j5xxjl9wvdr1k3xz2c4fq1day6i7qb5dg";
+          sha256 = "0x22fzgidjl2hdiyn035842kfpq8cvyxj1mz3lcb4ml364i5lb86";
         }
         {
           path = ''wowtapedelay/cookdsp/delay.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/68bfaeb913cd84d8d69bf3b7e59e2f0e72ad40e2/Delay/wowtapedelay/cookdsp/delay.jsfx-inc";
-          sha256 = "";
+          sha256 = "1hjf4hfs8mhd6ablw4g1ffc9dajv087f1nr9763m377rx4klx1xp";
         }
         {
           path = ''wowtapedelay/cookdsp/dynamics.jsfx-inc'';
@@ -557,7 +557,7 @@
         {
           path = ''wowtapedelay/cookdsp/fftobjects.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/68bfaeb913cd84d8d69bf3b7e59e2f0e72ad40e2/Delay/wowtapedelay/cookdsp/fftobjects.jsfx-inc";
-          sha256 = "1hc3ajr4m5wdx94gxmddr1llkdsq5wpp26436vpnmnbn0431cj0a";
+          sha256 = "0v09xrcyjsjfgq36bl55i16hj3i1yq5x1gdq9gicfblhgfxni2pp";
         }
         {
           path = ''wowtapedelay/cookdsp/filters.jsfx-inc'';
@@ -567,7 +567,7 @@
         {
           path = ''wowtapedelay/cookdsp/granulator.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/68bfaeb913cd84d8d69bf3b7e59e2f0e72ad40e2/Delay/wowtapedelay/cookdsp/granulator.jsfx-inc";
-          sha256 = "";
+          sha256 = "199xmawqjd71vyr892cwhja6sbw0j11an373302nlv9r4kwm0j22";
         }
         {
           path = ''wowtapedelay/cookdsp/list.jsfx-inc'';
@@ -582,7 +582,7 @@
         {
           path = ''wowtapedelay/cookdsp/midi.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/68bfaeb913cd84d8d69bf3b7e59e2f0e72ad40e2/Delay/wowtapedelay/cookdsp/midi.jsfx-inc";
-          sha256 = "";
+          sha256 = "193v98nwsqv1acgb7c3yr36b9k8ylhgjs8xslxkphz26124vs25w";
         }
         {
           path = ''wowtapedelay/cookdsp/mmath.jsfx-inc'';
@@ -592,7 +592,7 @@
         {
           path = ''wowtapedelay/cookdsp/oscil.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/68bfaeb913cd84d8d69bf3b7e59e2f0e72ad40e2/Delay/wowtapedelay/cookdsp/oscil.jsfx-inc";
-          sha256 = "";
+          sha256 = "1s3x8dv3c4aks48bb7s7dikx49yjm3vw4h6nr7bdkd2drckaj4y7";
         }
         {
           path = ''wowtapedelay/cookdsp/pobjects.jsfx-inc'';
@@ -607,12 +607,12 @@
         {
           path = ''wowtapedelay/cookdsp/pv-stereo-template'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/68bfaeb913cd84d8d69bf3b7e59e2f0e72ad40e2/Delay/wowtapedelay/cookdsp/pv-stereo-template";
-          sha256 = "";
+          sha256 = "0dh6cmf148pfw95pjca2g13qjb34m757r0j62p0bdl0mzwybxlrc";
         }
         {
           path = ''wowtapedelay/cookdsp/pvocobjects.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/68bfaeb913cd84d8d69bf3b7e59e2f0e72ad40e2/Delay/wowtapedelay/cookdsp/pvocobjects.jsfx-inc";
-          sha256 = "";
+          sha256 = "0brqm4miqd0vd5jfpxpvzy24dpqknxfdwxybpmfii2mfakk6nb2s";
         }
         {
           path = ''wowtapedelay/cookdsp/pvtrans-example'';
@@ -641,7 +641,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/7e38eadb2fece81f132aab1605973b08afe410b0/Distortion/Hard%20AntiDerivative%20AntiAliasing%20Clipper.jsfx";
-          sha256 = "";
+          sha256 = "1wr0gqz7lkq4vyi0k3fzrifrj2nv1b6m698xni6ajw554w9w38vw";
         }
       ];
     };
@@ -683,7 +683,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/65cb0a24e52909accb1416475a2b9200a1337954/Distortion/Hard%20AntiDerivative%20AntiAliasing%20Clipper.jsfx";
-          sha256 = "0xwx68h2abrwnjhdykc19a5m6b3s4b2qrivwa1a3593g46lsp4zi";
+          sha256 = "1ybb5i2slr8c0vd15f9r2sxahdxwzrm3s8cib49lgac42k928750";
         }
       ];
     };
@@ -739,7 +739,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/a18cf880423e12e175f086e3327cbfa332d8d42e/Distortion/Hard%20AntiDerivative%20AntiAliasing%20Clipper.jsfx";
-          sha256 = "1zri7l76za8fv2phrkm4fg1la6qmrwr83hxk54k4x3xj3wrl31aq";
+          sha256 = "10m78ja2pvy2qksxxinzcgjhvyvw7m9kik4nvkv80zmx33dsbscv";
         }
       ];
     };
@@ -852,7 +852,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/14940c65e90a4b8fd14b546c7aef55eb71290072/Distortion/Retro%20Distortion.jsfx";
-          sha256 = "0fnqg7hqkn4gh6pi94b9996354aps5ay92lx4ks389hdhd0z8xj8";
+          sha256 = "0icqhva78vwdajq0rd4hd7zfkd8m1kdzmrxq3yw1kxa37q6mr16q";
         }
       ];
     };
@@ -951,7 +951,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/add7d8e3489ef23e544b261205672ad9a6eacb92/Distortion/Retro%20Distortion.jsfx";
-          sha256 = "1nb5a92qsjmii8zi3qnb7hlw9v18hlyblsyy9nqppnica0v1k7ia";
+          sha256 = "04i6hzr594y1sjksnmxm26mp4nn37zgar01safgwkb3ns78q8w3d";
         }
         {
           path = ''Retro_Distortion/DistortionBackground.png'';
@@ -1162,7 +1162,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b1407b502f2fe6f04e3f77970529a278a37b8903/Dynamics/Blue%20Vocal%20Compressor.jsfx";
-          sha256 = "09lb4p653m4gqgfvgcnjzzlydb8m5x28m4l09amhm16d61zajfid";
+          sha256 = "1d7hxzxf4kj9hk43n78klw4929k94vn5cy68carp4m740khkis7s";
         }
         {
           path = ''Blue_Vocal_Compressor/ChiControl.png'';
@@ -1177,7 +1177,7 @@
         {
           path = ''Blue_Vocal_Compressor/Vintage_PPM_meter.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b1407b502f2fe6f04e3f77970529a278a37b8903/Dynamics/Blue_Vocal_Compressor/Vintage_PPM_meter.png";
-          sha256 = "";
+          sha256 = "10qi36a4gwbacfvkzn1fhfpnsr5r7s42yrbx28dn23252xspc4lp";
         }
         {
           path = ''Blue_Vocal_Compressor/st-oversampler.jsfx-inc'';
@@ -1201,7 +1201,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/9d09d833074cbfcac0c8a55091332246bb9fae02/Dynamics/Blue%20Vocal%20Compressor.jsfx";
-          sha256 = "";
+          sha256 = "1mx4lv2ysrav6w14g01shmfhf5n0hzvyd6fdpwilh51zhz5c1bj2";
         }
         {
           path = ''Blue_Vocal_Compressor/ChiControl.png'';
@@ -1211,12 +1211,12 @@
         {
           path = ''Blue_Vocal_Compressor/GUI_version_1.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/9d09d833074cbfcac0c8a55091332246bb9fae02/Dynamics/Blue_Vocal_Compressor/GUI_version_1.jsfx-inc";
-          sha256 = "";
+          sha256 = "17xnp7g62rqah5mvc8m9c45rqqivlxx6rphibnn9md9wn4l77ryg";
         }
         {
           path = ''Blue_Vocal_Compressor/Vintage_PPM_meter.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/9d09d833074cbfcac0c8a55091332246bb9fae02/Dynamics/Blue_Vocal_Compressor/Vintage_PPM_meter.png";
-          sha256 = "";
+          sha256 = "10qi36a4gwbacfvkzn1fhfpnsr5r7s42yrbx28dn23252xspc4lp";
         }
         {
           path = ''Blue_Vocal_Compressor/st-oversampler.jsfx-inc'';
@@ -1240,12 +1240,12 @@
         {
           path = ''Blue_Vocal_Compressor/ChiControl.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/a00c1ed95cf12198d2cf1125da113acedc658fc9/Dynamics/Blue_Vocal_Compressor/ChiControl.png";
-          sha256 = "";
+          sha256 = "1qkpakah6i28gmq6mcykadbicd6fiiznw213kndwx530i9h5prbh";
         }
         {
           path = ''Blue_Vocal_Compressor/GUI_version_1.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/a00c1ed95cf12198d2cf1125da113acedc658fc9/Dynamics/Blue_Vocal_Compressor/GUI_version_1.jsfx-inc";
-          sha256 = "";
+          sha256 = "17xnp7g62rqah5mvc8m9c45rqqivlxx6rphibnn9md9wn4l77ryg";
         }
         {
           path = ''Blue_Vocal_Compressor/Vintage_PPM_meter.png'';
@@ -1289,7 +1289,7 @@
         {
           path = ''Blue_Vocal_Compressor/st-oversampler.jsfx-inc'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/02c9b4505127119c21c8cf3cf76a0e618041412d/Dynamics/Blue_Vocal_Compressor/st-oversampler.jsfx-inc";
-          sha256 = "";
+          sha256 = "03yzdg4v9a2gd25w3j719phv7mlazbgzhjkgh1vp1ibflf2sxsfc";
         }
       ];
     };
@@ -1303,7 +1303,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/073fb691480976882c6f25c9772eb068ad14e898/Dynamics/HQ%20Track%20Compressor.jsfx";
-          sha256 = "";
+          sha256 = "0v0gh2pl1v4gngl265f41c8j9831g65cajyvq5xm4qysn73nysd6";
         }
       ];
     };
@@ -1317,7 +1317,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/80ee7628e3d3cf58383726add7f9d5ee08f622aa/Dynamics/HQ%20Track%20Compressor.jsfx";
-          sha256 = "";
+          sha256 = "1gg24rsdbs666mkb0p9vhmzla3y1l53w0bfxpdl7z49dbc8hh221";
         }
       ];
     };
@@ -1345,7 +1345,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/dccc926d11c95a342bcff6f6bd52f09dc4e7eb0a/Dynamics/HQ%20Track%20Compressor.jsfx";
-          sha256 = "";
+          sha256 = "0zjsdy5593nzv8y49g7j0z6n5nz12pzb73xby7c1pagq5y0f5vd1";
         }
       ];
     };
@@ -1373,7 +1373,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2f3a76b64adc82a91a966e6c2729e90b7f228f64/Dynamics/HQ%20Track%20Compressor.jsfx";
-          sha256 = "";
+          sha256 = "0nk0bdnxwm62iiq8fpg5ci38m8ylivg7zpzs02drjfx7rwwx6szw";
         }
       ];
     };
@@ -1457,7 +1457,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/ca1df7c34467d75b2be1b2cf02c570b07786fdca/Dynamics/HQ%20Track%20Compressor.jsfx";
-          sha256 = "";
+          sha256 = "1pcw9a0j6i7zad6zrn7h2im4bc34plj4l9pcdy449nccav1dlg1w";
         }
       ];
     };
@@ -1510,7 +1510,7 @@
         {
           path = ''HQ_Track_Compressor/Vintage_PPM_meter.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/a6fab5739809b4a20aa5debd445e7315837ac367/Dynamics/HQ_Track_Compressor/Vintage_PPM_meter.png";
-          sha256 = "";
+          sha256 = "10qi36a4gwbacfvkzn1fhfpnsr5r7s42yrbx28dn23252xspc4lp";
         }
       ];
     };
@@ -1529,7 +1529,7 @@
         {
           path = ''HQ_Track_Compressor/HQcomp_back.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/667c2f8cc9a2e8afec25204d10934516fa299831/Dynamics/HQ_Track_Compressor/HQcomp_back.png";
-          sha256 = "";
+          sha256 = "1c6nx2mrgz70a52v55w24w5zkhm082j495i25a0ixcx5dhgviv6q";
         }
         {
           path = ''HQ_Track_Compressor/Simple_blue.png'';
@@ -1583,7 +1583,7 @@
         {
           path = ''HQ_Track_Compressor/Simple_silver.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/23823b22e51afc3708b552d784203398561ff371/Dynamics/HQ_Track_Compressor/Simple_silver.png";
-          sha256 = "";
+          sha256 = "03qhyingj7kn7n8r1f4b91khralvhm9dbgh92d0lk976w6n16bri";
         }
         {
           path = ''HQ_Track_Compressor/Vintage_PPM_meter.png'';
@@ -1612,12 +1612,12 @@
         {
           path = ''HQ_Track_Compressor/Simple_blue.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2ba8af53bb894436d94413e5fd4b35800928cc01/Dynamics/HQ_Track_Compressor/Simple_blue.png";
-          sha256 = "";
+          sha256 = "1mkwbl1w3z32dyxkzfvixck1n29xxasbx2qdv8gv64bxzw50y071";
         }
         {
           path = ''HQ_Track_Compressor/Simple_red.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2ba8af53bb894436d94413e5fd4b35800928cc01/Dynamics/HQ_Track_Compressor/Simple_red.png";
-          sha256 = "";
+          sha256 = "0s6na63g2kljryfcnfkjm86b2ypva8ag6wc634k8h9z3b4fkif1l";
         }
         {
           path = ''HQ_Track_Compressor/Simple_silver.png'';
@@ -1641,7 +1641,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/1af74f2e3e5a45cbd2b1192e9672fc3913b099e4/Dynamics/HQ%20Track%20Compressor.jsfx";
-          sha256 = "";
+          sha256 = "1lbhnlnkcq3myzp0m4zxkhx7basfd5685xa91a7c6lsmv10252lg";
         }
         {
           path = ''HQ_Track_Compressor/HQcomp_back.png'';
@@ -1656,7 +1656,7 @@
         {
           path = ''HQ_Track_Compressor/Simple_red.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/1af74f2e3e5a45cbd2b1192e9672fc3913b099e4/Dynamics/HQ_Track_Compressor/Simple_red.png";
-          sha256 = "";
+          sha256 = "0s6na63g2kljryfcnfkjm86b2ypva8ag6wc634k8h9z3b4fkif1l";
         }
         {
           path = ''HQ_Track_Compressor/Simple_silver.png'';
@@ -1680,7 +1680,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/bdf5e21196834f9ec4ea8a3155d390c1802b83ee/Dynamics/HQ%20Track%20Compressor.jsfx";
-          sha256 = "1jlsl9x0di54s7y2s33qn2zyjykb222khlxmq023c2jjbya8hpzr";
+          sha256 = "027vxd4an234f6zrsm6n8w8f2lh5pa6f9zamc1s7hys5bdr3pr0c";
         }
         {
           path = ''HQ_Track_Compressor/HQcomp_back.png'';
@@ -1729,7 +1729,7 @@
         {
           path = ''HQ_Track_Compressor/Simple_blue.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2719496887f47ba35f9511098318eb3139517cc9/Dynamics/HQ_Track_Compressor/Simple_blue.png";
-          sha256 = "";
+          sha256 = "1mkwbl1w3z32dyxkzfvixck1n29xxasbx2qdv8gv64bxzw50y071";
         }
         {
           path = ''HQ_Track_Compressor/Simple_red.png'';
@@ -1739,7 +1739,7 @@
         {
           path = ''HQ_Track_Compressor/Simple_silver.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2719496887f47ba35f9511098318eb3139517cc9/Dynamics/HQ_Track_Compressor/Simple_silver.png";
-          sha256 = "";
+          sha256 = "03qhyingj7kn7n8r1f4b91khralvhm9dbgh92d0lk976w6n16bri";
         }
         {
           path = ''HQ_Track_Compressor/Vintage_PPM_meter.png'';
@@ -1758,7 +1758,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/5a532f37985192eaa5eaa34708798cd8f068d153/Dynamics/HQ%20Track%20Compressor.jsfx";
-          sha256 = "";
+          sha256 = "0rkvqvb25za42jggs5dvcaz5jkm06pk6cnrcpxkqc03bqm60wg69";
         }
         {
           path = ''HQ_Track_Compressor/HQcomp_back.png'';
@@ -1768,7 +1768,7 @@
         {
           path = ''HQ_Track_Compressor/Simple_blue.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/5a532f37985192eaa5eaa34708798cd8f068d153/Dynamics/HQ_Track_Compressor/Simple_blue.png";
-          sha256 = "";
+          sha256 = "1mkwbl1w3z32dyxkzfvixck1n29xxasbx2qdv8gv64bxzw50y071";
         }
         {
           path = ''HQ_Track_Compressor/Simple_red.png'';
@@ -1778,12 +1778,12 @@
         {
           path = ''HQ_Track_Compressor/Simple_silver.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/5a532f37985192eaa5eaa34708798cd8f068d153/Dynamics/HQ_Track_Compressor/Simple_silver.png";
-          sha256 = "";
+          sha256 = "03qhyingj7kn7n8r1f4b91khralvhm9dbgh92d0lk976w6n16bri";
         }
         {
           path = ''HQ_Track_Compressor/Vintage_PPM_meter.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/5a532f37985192eaa5eaa34708798cd8f068d153/Dynamics/HQ_Track_Compressor/Vintage_PPM_meter.png";
-          sha256 = "";
+          sha256 = "10qi36a4gwbacfvkzn1fhfpnsr5r7s42yrbx28dn23252xspc4lp";
         }
       ];
     };
@@ -1797,7 +1797,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/03de19adce7472209a3a3a2374af8bd6b7fa0e56/Dynamics/HQ%20Track%20Compressor.jsfx";
-          sha256 = "";
+          sha256 = "1fkfrbw0minhrvds5p7q2f8qy98jyanjf6vz76mlls94b76sj3jg";
         }
         {
           path = ''HQ_Track_Compressor/HQcomp_back.png'';
@@ -1807,12 +1807,12 @@
         {
           path = ''HQ_Track_Compressor/Simple_blue.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/03de19adce7472209a3a3a2374af8bd6b7fa0e56/Dynamics/HQ_Track_Compressor/Simple_blue.png";
-          sha256 = "";
+          sha256 = "1mkwbl1w3z32dyxkzfvixck1n29xxasbx2qdv8gv64bxzw50y071";
         }
         {
           path = ''HQ_Track_Compressor/Simple_red.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/03de19adce7472209a3a3a2374af8bd6b7fa0e56/Dynamics/HQ_Track_Compressor/Simple_red.png";
-          sha256 = "";
+          sha256 = "0s6na63g2kljryfcnfkjm86b2ypva8ag6wc634k8h9z3b4fkif1l";
         }
         {
           path = ''HQ_Track_Compressor/Simple_silver.png'';
@@ -1822,7 +1822,7 @@
         {
           path = ''HQ_Track_Compressor/Vintage_PPM_meter.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/03de19adce7472209a3a3a2374af8bd6b7fa0e56/Dynamics/HQ_Track_Compressor/Vintage_PPM_meter.png";
-          sha256 = "";
+          sha256 = "10qi36a4gwbacfvkzn1fhfpnsr5r7s42yrbx28dn23252xspc4lp";
         }
       ];
     };
@@ -1841,7 +1841,7 @@
         {
           path = ''HQ_Track_Compressor/HQcomp_back.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/a1ab851f7f99d5709dd905105d418c149c3c6558/Dynamics/HQ_Track_Compressor/HQcomp_back.png";
-          sha256 = "";
+          sha256 = "1c6nx2mrgz70a52v55w24w5zkhm082j495i25a0ixcx5dhgviv6q";
         }
         {
           path = ''HQ_Track_Compressor/HQcomp_text.png'';
@@ -1851,7 +1851,7 @@
         {
           path = ''HQ_Track_Compressor/Simple_blue.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/a1ab851f7f99d5709dd905105d418c149c3c6558/Dynamics/HQ_Track_Compressor/Simple_blue.png";
-          sha256 = "";
+          sha256 = "1mkwbl1w3z32dyxkzfvixck1n29xxasbx2qdv8gv64bxzw50y071";
         }
         {
           path = ''HQ_Track_Compressor/Simple_red.png'';
@@ -1880,7 +1880,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2f83438e907ee931cba5399aabbe72bb554ed969/Dynamics/HQ%20Track%20Compressor.jsfx";
-          sha256 = "";
+          sha256 = "09blnjd4wvhwqr3zgriv4fhh3p4x5s04bgpaxkg8ag1wiqi2b3c3";
         }
         {
           path = ''HQ_Track_Compressor/HQcomp_back.png'';
@@ -1910,7 +1910,7 @@
         {
           path = ''HQ_Track_Compressor/Vintage_PPM_meter.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2f83438e907ee931cba5399aabbe72bb554ed969/Dynamics/HQ_Track_Compressor/Vintage_PPM_meter.png";
-          sha256 = "";
+          sha256 = "10qi36a4gwbacfvkzn1fhfpnsr5r7s42yrbx28dn23252xspc4lp";
         }
       ];
     };
@@ -1929,12 +1929,12 @@
         {
           path = ''HQ_Track_Compressor/HQcomp_back.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/055ac900920c7c7dd7a86289f977f61587fb48bc/Dynamics/HQ_Track_Compressor/HQcomp_back.png";
-          sha256 = "";
+          sha256 = "1c6nx2mrgz70a52v55w24w5zkhm082j495i25a0ixcx5dhgviv6q";
         }
         {
           path = ''HQ_Track_Compressor/HQcomp_text.png'';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/055ac900920c7c7dd7a86289f977f61587fb48bc/Dynamics/HQ_Track_Compressor/HQcomp_text.png";
-          sha256 = "";
+          sha256 = "1j1bgk7ygkk0br241nh6rbn24ls8jipwk09qq7w34l7h78ch9xpr";
         }
         {
           path = ''HQ_Track_Compressor/Simple_blue.png'';
@@ -1968,7 +1968,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/9607780d21f8cd6a68c4efa9031714a8762e80f9/Dynamics/Limit%20Smash.jsfx";
-          sha256 = "";
+          sha256 = "0izza21gj4y8bkvlc60150wl05pbifmg3cbxzamdk7r7x9wfr1wp";
         }
       ];
     };
@@ -2024,7 +2024,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/720e7c46d454f69d0bdf1bc1b2dfa9ea516c0557/Dynamics/Limit%20Smash.jsfx";
-          sha256 = "00qha25nqhxqw8m3sragig6valnv4qnb6mhn1wscjj526srrkrsm";
+          sha256 = "033nvhj175xnrv6w68k4id1ylndxjzivsx6d1cvp8lgcbc318szj";
         }
       ];
     };
@@ -2094,7 +2094,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/6ce77a7df2d51558524c5e81940b5df106d6e179/Dynamics/Live%20Limit.jsfx";
-          sha256 = "1za82x01fg39if6kfpwnknb97w8g9bq6svr3q249hr7mkygyhcjf";
+          sha256 = "0zhw4n63440a9n6j4y7742jlha31zy5dqkknbvcpl0rzahlbwpdh";
         }
       ];
     };
@@ -2108,7 +2108,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/0543cfc16ddc4b18663008146101f99460f68cca/Dynamics/Live%20Limit.jsfx";
-          sha256 = "";
+          sha256 = "04xgw69acgc22s1g1jxb4r0avbw5dpr3w56zz0bhxsa0yi7dal7h";
         }
       ];
     };
@@ -2234,7 +2234,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/7e71e16c396b5897b8def9c18b89a5d347d061ee/Dynamics/Retro%20Punch%20Comp.jsfx";
-          sha256 = "0i6p21xz61jw32qdny6h7fxp6ry2gy487s7lg6b66mpywpxhy48s";
+          sha256 = "0jfhhbf4zcbsb0jm2gbswimb12ra96gbwmxlh0r8cpisxmc6g4vm";
         }
       ];
     };
@@ -2262,7 +2262,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/52445f0e494c6201998c45868564dc1bba14c8ec/Dynamics/Retro%20Punch%20Comp.jsfx";
-          sha256 = "0wc34lss3jy7749j55lvvcjjy80x2bfsrbn6vw9i9qsycl0f1lbz";
+          sha256 = "18c1v2kw9jxpy6yb6xjy3zmsnx743gb340jil923vscgn7wn6qb6";
         }
       ];
     };
@@ -2290,7 +2290,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/3af0d529ad5d7e89820bed152afc6d04fef44fa0/EQ/Dirt%20EQ.jsfx";
-          sha256 = "1c60sjjf27rzb1crb1jdksc64dfag1kca3l5y92li3h6r3szaw9j";
+          sha256 = "1xnw7wzrrk6fziawzaialqfjq9w43gqbii1h4vw33h6zs55s7a9v";
         }
       ];
     };
@@ -2346,7 +2346,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b07d96ee5538eb6ea55272629cc4a12616cb482a/EQ/Retro%20Mod%20A%20Exciter.jsfx";
-          sha256 = "00k30jg3j3126n1m5ai3qlfwib7nb8lcvdwhlhrqxqc3bl7jng0r";
+          sha256 = "1vza16g61xwyw59mfz60yby5s8ay6z324psxkxa44ba51ff1iah1";
         }
       ];
     };
@@ -2580,7 +2580,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2f57d08b1b573d2d93a55883b40500fc595e0e7c/Saturation/J%20Clip.jsfx";
-          sha256 = "";
+          sha256 = "00s34lb8j5ghzmiqlan5ymmd8z7sj9q9pq3iys08xskxw68zjffm";
         }
       ];
     };
@@ -2678,7 +2678,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/e66e1f912955aef186129b9ee2490135979ce252/Saturation/Odd%20saturation.jsfx";
-          sha256 = "";
+          sha256 = "02917ydwncww2dhc2qic2s5niaszmdyw409p3i9r0ij7pxfj614r";
         }
       ];
     };
@@ -2706,7 +2706,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/7c9da868113f17fc27654c9676c0900e3ffbe066/Saturation/Smooth%20Clipper.jsfx";
-          sha256 = "";
+          sha256 = "19xzcwarqvdz5lxrla5h6rx26zrh5iq5qx12p9g4z1wssgizgx8n";
         }
       ];
     };
@@ -2776,7 +2776,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/4be047465c93a065ed22b725975f5cc55aa17070/Stereo%20Enhancers/Haas%20Delay%20and%20Filtering.jsfx";
-          sha256 = "";
+          sha256 = "12lnsibwxqwwvdr3za01kpnr0pkbnf4mjsl7n3d436qw905n8w77";
         }
       ];
     };
@@ -2790,7 +2790,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/3fd708bc387ec60e64618c4f8f96789369523fe5/Stereo%20Enhancers/Wide%20Crosstalk.jsfx";
-          sha256 = "";
+          sha256 = "0cxbh9z67v7f04q87iwfsh2im74swfswwblqnq6dyp413q9ikyqz";
         }
       ];
     };
@@ -2818,7 +2818,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/216008f527b9f9c7c77cd541961931dee181036a/Stereo%20Enhancers/Wide%20Crosstalk.jsfx";
-          sha256 = "";
+          sha256 = "1l1vmi8wcww8910dg9kg3rvn036npmqd5qbxihk9sajqyj4cvf3v";
         }
       ];
     };
@@ -2832,7 +2832,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/6bd6185338920c37fd88df1d0d0ee1b834f2b500/utility/Auto%20DeEsser.jsfx";
-          sha256 = "";
+          sha256 = "160dnrlgk6qz52278zz45b0wyzfw408wm0cfym7nb447z6v32wa2";
         }
       ];
     };
@@ -2860,7 +2860,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2dd0e91f739485b6396f60de3f3f22a217508b0f/utility/Auto%20DeEsser.jsfx";
-          sha256 = "";
+          sha256 = "1n066bb1i2jxnyfk9d7dcjll7jq35nfgbv64ir2clb3h9kx234h9";
         }
       ];
     };
@@ -2902,7 +2902,7 @@
         {
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/305947d2d19417ccd2f8546b82f42584a63d2dcc/utility/Dual%20360%20Pan.jsfx";
-          sha256 = "";
+          sha256 = "0a6jhy8hv7yrdwmpc4pd2d4grryzbvhnzzagd50njrv900a3mh9v";
         }
       ];
     };

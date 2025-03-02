@@ -50,12 +50,12 @@
         {
           path = ''/Mespotine-Scripts/Mespotine_Razor_Edit_Scripts/Mespotine_RazorEdit_Nudge_RazorArea_Under_Mouse_1_second_left.lua'';
           url = "https://raw.githubusercontent.com/mespotine/Mespotine-Scripts/main/Mespotine_Razor_Edit_Scripts/Mespotine_RazorEdit_Nudge_RazorArea_Under_Mouse_1_second_left.lua";
-          sha256 = "1vyaswjixbhja7w5zzsxg2nsfx3njmlvpanky2p2bjyx3q2c52gq";
+          sha256 = "171jbliqjzcvxcq2q5xbivsibszh8ydgb6pj44svbnha32m3gjz3";
         }
         {
           path = ''/Mespotine-Scripts/Mespotine_Razor_Edit_Scripts/Mespotine_RazorEdit_Nudge_RazorArea_Under_Mouse_1_second_right.lua'';
           url = "https://raw.githubusercontent.com/mespotine/Mespotine-Scripts/main/Mespotine_Razor_Edit_Scripts/Mespotine_RazorEdit_Nudge_RazorArea_Under_Mouse_1_second_right.lua";
-          sha256 = "0nwzlr68cl318gvrl4fyrfa9d5idks6n4mvlpfxbrg8x7ar01xfn";
+          sha256 = "1agkdf2w0b5zrvsjk0h3p99pwlrhb81m6rrplynmwq9qndhnyljc";
         }
         {
           path = ''/Mespotine-Scripts/Mespotine_Razor_Edit_Scripts/Mespotine_RazorEdit_Nudge_RazorArea_Under_Mouse_10_seconds_left.lua'';
@@ -85,7 +85,7 @@
         {
           path = ''/Mespotine-Scripts/Mespotine_Razor_Edit_Scripts/Mespotine_RazorEdit_Snap_RazorAreaEnd_To_ItemEnd_Under_the_Mouse.lua'';
           url = "https://raw.githubusercontent.com/mespotine/Mespotine-Scripts/main/Mespotine_Razor_Edit_Scripts/Mespotine_RazorEdit_Snap_RazorAreaEnd_To_ItemEnd_Under_the_Mouse.lua";
-          sha256 = "0w0ahr5sagbk6vw40q85lhzb6dckdf67br3sa55jwcmqqbybn3i7";
+          sha256 = "12jj2v2057yc9cr01hvrqcs6qr472drdcqa646skxv79g8gikkvs";
         }
         {
           path = ''/Mespotine-Scripts/Mespotine_Razor_Edit_Scripts/Mespotine_RazorEdit_Snap_RazorArea_To_Item_Under_the_Mouse.lua'';
@@ -100,7 +100,7 @@
         {
           path = ''/Mespotine-Scripts/Mespotine_Razor_Edit_Scripts/Mespotine_RazorEdit_Enhance_Razor_Area_To_Next_Transient_In_Item_Under_Mouse.lua'';
           url = "https://raw.githubusercontent.com/mespotine/Mespotine-Scripts/main/Mespotine_Razor_Edit_Scripts/Mespotine_RazorEdit_Enhance_Razor_Area_To_Next_Transient_In_Item_Under_Mouse.lua";
-          sha256 = "";
+          sha256 = "0kcik5dbzv00qwppx3qg2gx91y629w7ra3v6197iflyk561ih4jb";
         }
         {
           path = ''/Mespotine-Scripts/Mespotine_Razor_Edit_Scripts/Mespotine_RazorEdit_Enhance_Razor_Area_To_Previous_Transient_In_Item_Under_Mouse.lua'';
@@ -195,22 +195,22 @@
         {
           path = ''/Mespotine-Scripts/Mespotine_Render_Scripts/Mespotine_Render_Set_Source_To_Selected_tracks_via_master.lua'';
           url = "https://raw.githubusercontent.com/mespotine/Mespotine-Scripts/main/Mespotine_Render_Scripts/Mespotine_Render_Set_Source_To_Selected_tracks_via_master.lua";
-          sha256 = "";
+          sha256 = "1dk5g4181ycwyhdbr4928bn9qa41b2hrrmawcvdi2nbcqwac3jxa";
         }
         {
           path = ''/Mespotine-Scripts/Mespotine_Render_Scripts/Mespotine_Render_Set_Source_To_Selected_Tracks(stems).lua'';
           url = "https://raw.githubusercontent.com/mespotine/Mespotine-Scripts/main/Mespotine_Render_Scripts/Mespotine_Render_Set_Source_To_Selected_Tracks(stems).lua";
-          sha256 = "1jbxfxlxywyczwx8hf10nxbvnwri4vhcic3zs0wmyfrks45q4vpa";
+          sha256 = "1l0la5hgxcx1vf1x577apl9cqm8w47plzwpp2qcm9jhapfh4nx7p";
         }
         {
           path = ''/Mespotine-Scripts/Mespotine_Render_Scripts/Mespotine_Render_Set_Source_To_Selected_media_items_via_master.lua'';
           url = "https://raw.githubusercontent.com/mespotine/Mespotine-Scripts/main/Mespotine_Render_Scripts/Mespotine_Render_Set_Source_To_Selected_media_items_via_master.lua";
-          sha256 = "0pb9ylxzzk5jasp20sm79381n135m4rif0pgqakkhizmdv0hw3ww";
+          sha256 = "1b2p58dbgmf5qqzcwh2jfvd8m04hq4lrz4zcfpch0h65gigfa4yn";
         }
         {
           path = ''/Mespotine-Scripts/Mespotine_Render_Scripts/Mespotine_Render_Set_Source_To_Selected_media_items.lua'';
           url = "https://raw.githubusercontent.com/mespotine/Mespotine-Scripts/main/Mespotine_Render_Scripts/Mespotine_Render_Set_Source_To_Selected_media_items.lua";
-          sha256 = "11c1pxxp9qwp6194z5fgjzp7pxjk3m3bvsyrvhnjcwkznn6pqw81";
+          sha256 = "1rnwflkdbiscqxp55x4skkhq62z1gl7hcjiljg2vsb11xfzmjpmi";
         }
         {
           path = ''/Mespotine-Scripts/Mespotine_Render_Scripts/Mespotine_Render_Set_Source_To_Region_render_matrix_via_master.lua'';
@@ -220,7 +220,7 @@
         {
           path = ''/Mespotine-Scripts/Mespotine_Render_Scripts/Mespotine_Render_Set_Source_To_Region_render_matrix.lua'';
           url = "https://raw.githubusercontent.com/mespotine/Mespotine-Scripts/main/Mespotine_Render_Scripts/Mespotine_Render_Set_Source_To_Region_render_matrix.lua";
-          sha256 = "0kz5gy7q52yvjmvk8ydrl5a5md1yxfsqq47hmx5nk0gk9kimc9s6";
+          sha256 = "0dacvc5bz21vyp0m61dcjrzl03csqgnky6rx4b86xc6bp812ynb7";
         }
         {
           path = ''/Mespotine-Scripts/Mespotine_Render_Scripts/Mespotine_Render_Set_Source_To_Razor_edit_areas_via_master.lua'';
@@ -255,7 +255,7 @@
         {
           path = ''/Mespotine-Scripts/Mespotine_Render_Scripts/Mespotine_Render_Set_Bounds_To_Custom_Time_Range.lua'';
           url = "https://raw.githubusercontent.com/mespotine/Mespotine-Scripts/main/Mespotine_Render_Scripts/Mespotine_Render_Set_Bounds_To_Custom_Time_Range.lua";
-          sha256 = "0adc2jrlpq53bj8jy399rx6vv223h65fs9hakk9i5fny4lwmbfg0";
+          sha256 = "045mx7pqy4z8x5y5i0d9xpfw28lapmcamixmpkbzx1vzjpgfqhkw";
         }
         {
           path = ''/Mespotine-Scripts/Mespotine_Render_Scripts/Mespotine_Render_Set_Bounds_To_Entire_Project.lua'';

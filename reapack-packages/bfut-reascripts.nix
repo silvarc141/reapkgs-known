@@ -71,7 +71,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/94ec804d13e2b9073d8ad3d4b3ea68e221a24456/Items%20Editing/bfut_Copy%20items%20to%20project%20markers,%20remove%20overlaps.lua";
-          sha256 = "01fxnqawldqj7xxin9aczpli88rsmlqjkscfqjzq4w5bg1vyg2fz";
+          sha256 = "1b8i132wbfkm614gjlrjmw5yrxkv1ykg28zzpny7smrpgiqpap0q";
         }
       ];
     };
@@ -141,7 +141,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/74892c97352335da38592901180543f7b5cfc196/Items%20Editing/bfut_Copy%20items%20to%20regions.lua";
-          sha256 = "0f9b6gfl6v7pz4klvjbp1b2hi99hqhj34ps30n1s99m7bj5l2lw0";
+          sha256 = "0fwpwrqa4swalbxzf1ffdy44hrhklkgbi0z6k8q72xry1gi03cvv";
         }
       ];
     };
@@ -295,7 +295,7 @@
         {
           path = '''';
           url = "https://github.com/bfut/ReaScripts/raw/102784d7b1b9774066c4ba7df15ab83bb35f3642/Items%20Editing/bfut_MIDI%20notes%20to%20empty%20items%20(explode%20note%20rows%20to%20subtracks).lua";
-          sha256 = "03jgjgn8zhrwvgy90cc6hq8pykhrygn1gw7hhdqy8labxwz2i8fg";
+          sha256 = "1580h4g9b7njgwgsipn2shfc0v2v77qcbizc6ks1c3wh788j275w";
         }
       ];
     };

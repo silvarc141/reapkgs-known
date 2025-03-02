@@ -113,7 +113,7 @@
         {
           path = '''';
           url = "https://github.com/juanriccio/Reaperism/raw/b46d4b2d1692ba41c678fe8ae4466d998a9ef3a5/MIDI/MIDI-round-robin-midi_channelize.jsfx";
-          sha256 = "02c0xk9g8m3cjyq7amf9wv5xnkcxk4zdbgsr6k64z35m5r7zkknl";
+          sha256 = "1f3phy51yjb2ns823yqrsn69xf35fkr7z8qbqfskfn48kaqph6q1";
         }
       ];
     };
@@ -197,7 +197,7 @@
         {
           path = '''';
           url = "https://github.com/juanriccio/Reaperism/raw/40b5ca23d0de03fee904b59deafbf274fd8f9c91/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua";
-          sha256 = "109z4k3acwjl6qwl3982xmawsxxifa8klqcvn5bjxdm5gx88q24a";
+          sha256 = "00y4lg1ibzm6n9w56q1xlciraq63xxf71fld7al5myrdb4k7hkcl";
         }
       ];
     };
