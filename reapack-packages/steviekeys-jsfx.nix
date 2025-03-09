@@ -1054,6 +1054,40 @@
         }
       ];
     };
+    retro-fuzz-jsfx-2-1-3 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "retro-fuzz-jsfx-2-1-3";
+      indexName = "StevieKeys JSFX";
+      categoryName = "Distortion";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/6e177f0ebfa718152caefc16780176eaa1206a83/Distortion/Retro%20Fuzz.jsfx";
+          sha256 = "0xwd68ak0pfqkrpzrqmap544zmbyakz3d1m2jllps2sd94bs05jv";
+        }
+        {
+          path = ''retro fuzz/fuzz.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/6e177f0ebfa718152caefc16780176eaa1206a83/Distortion/retro%20fuzz/fuzz.png";
+          sha256 = "193syj9603yhpp0qf84byiq4p85s5adkypav4q25jd2bi51k2gnw";
+        }
+        {
+          path = ''retro fuzz/guitar_strat_fuzz.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/6e177f0ebfa718152caefc16780176eaa1206a83/Distortion/retro%20fuzz/guitar_strat_fuzz.png";
+          sha256 = "1wy510cl8cgad42yzqpz5fi1kdlaimfx48jk3226idwzp3dp236j";
+        }
+        {
+          path = ''retro fuzz/guitar_strat_volume.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/6e177f0ebfa718152caefc16780176eaa1206a83/Distortion/retro%20fuzz/guitar_strat_volume.png";
+          sha256 = "0mqwq9i5q4d4jvc9p23bfw4hznicb7c9af077snnv0sp8s29qabh";
+        }
+        {
+          path = ''retro fuzz/test.test'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/6e177f0ebfa718152caefc16780176eaa1206a83/Distortion/retro%20fuzz/test.test";
+          sha256 = "1lkgqb6fclns49861dwk9rzb6xnfkxbpws74mxnx01z9qyv1pjpj";
+        }
+      ];
+    };
     retro-overdrive-jsfx-1-2-0pre = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "retro-overdrive-jsfx-1-2-0pre";

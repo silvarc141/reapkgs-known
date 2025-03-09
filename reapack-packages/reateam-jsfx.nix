@@ -5,6 +5,40 @@
   fetchurl,
 }: {
   reateam-jsfx = {
+    philranger-gui-and-audio-library-jsfx-0-alpha2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "philranger-gui-and-audio-library-jsfx-0-alpha2";
+      indexName = "ReaTeam JSFX";
+      categoryName = "Development";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library.jsfx";
+          sha256 = "0gwmmszckrlbxr4scmpz09yqa249mw1yqg0gj6r7x9gd9wjfq5hw";
+        }
+        {
+          path = ''philranger_GUI and Audio Library/PhilRangerAudioLibraryAlpha2.jsfx-inc'';
+          url = "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/PhilRangerAudioLibraryAlpha2.jsfx-inc";
+          sha256 = "0sqc7xddyq8ay2khd49229yj80lh1xbl1nmfpq60snjki5wwyh39";
+        }
+        {
+          path = ''philranger_GUI and Audio Library/Knob.png'';
+          url = "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Knob.png";
+          sha256 = "09mwpfsj1rwvrx1hjky6x69mn40kdl7j2jyq9vgdl5hrbp9w34hc";
+        }
+        {
+          path = ''philranger_GUI and Audio Library/Highlight.png'';
+          url = "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Highlight.png";
+          sha256 = "1xbj2y6xhfrwkp18rjj0mliarwwzh3lq7w86chgj5z89m860b6z1";
+        }
+        {
+          path = ''philranger_GUI and Audio Library/Switch.png'';
+          url = "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Switch.png";
+          sha256 = "1hmscc35xgh5xlx5ac1wwaxxl3p4in063lv7z6svx69ixswaa6v9";
+        }
+      ];
+    };
     loudener-jsfx-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "loudener-jsfx-1-0";

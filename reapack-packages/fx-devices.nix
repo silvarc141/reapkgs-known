@@ -3774,7 +3774,7 @@
         {
           path = ''src/Images/pinned.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d3f3aad8f8d24ba6a922fb579f88ba24d0918973/BryanChi_FX_Devices/src/Images/pinned.png";
-          sha256 = "1aq3gqzykr8adrfs23w4vp37ngmlvhcddi8740fs2g7176j40swi";
+          sha256 = "";
         }
         {
           path = ''src/Images/pin.png'';
@@ -3814,7 +3814,7 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d3f3aad8f8d24ba6a922fb579f88ba24d0918973/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Square.ini'';
@@ -3824,7 +3824,7 @@
         {
           path = ''src/LFO Shapes/Sine.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d3f3aad8f8d24ba6a922fb579f88ba24d0918973/BryanChi_FX_Devices/src/LFO%20Shapes/Sine.ini";
-          sha256 = "01192siavn0hhv1am25gpzvgcqg4mldfdg9pnqhr82diij7ndf8z";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Saw.ini'';
@@ -3854,7 +3854,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Container.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d3f3aad8f8d24ba6a922fb579f88ba24d0918973/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Container.lua";
-          sha256 = "12ql5nlk19i2hysmz11v6xm43x4yij3qxclm159v556n7gj06frc";
+          sha256 = "";
         }
         {
           path = ''src/IconFont1.ttf'';
@@ -3864,7 +3864,7 @@
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d3f3aad8f8d24ba6a922fb579f88ba24d0918973/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+          sha256 = "04aj6zv7r35fi5xnjjsy9wl7vx03iv9yz2ql3cpq5idzf95ypzab";
         }
         {
           path = ''src/Functions/EQ functions.lua'';
@@ -3874,7 +3874,7 @@
         {
           path = ''src/Functions/General Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d3f3aad8f8d24ba6a922fb579f88ba24d0918973/BryanChi_FX_Devices/src/Functions/General%20Functions.lua";
-          sha256 = "0vadi0wzsji5xxc94bv711g3rm8kpncyhy9kni0kvwf4cwlzx43j";
+          sha256 = "0ms244im9irqvbaqz31855lyrz61waam121bwpa8570klkl4gfjb";
         }
         {
           path = ''src/Functions/FX Layering.lua'';
@@ -3958,7 +3958,7 @@
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5d64a4127c5ce64d1120c83b79b5e28b50eb04e4/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20To%204%20Channels.jsfx";
-          sha256 = "1xp0b1wsh7pb18ff8db5kc20pn2pzpg4pmnpamidf03i1bzh0yra";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp.jsfx-inc'';
@@ -3968,7 +3968,7 @@
         {
           path = ''FXD JSFXs/cookdsp/analysis.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5d64a4127c5ce64d1120c83b79b5e28b50eb04e4/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/analysis.jsfx-inc";
-          sha256 = "08hzvj4c3rnkbghm5sw3g15ma5b809a2nbixfsiwdasbzq36b0wq";
+          sha256 = "0vzwld8a939z3h68nb9x3kmpifk5wrjy9r9fka1vjgxqgr83sd93";
         }
         {
           path = ''FXD JSFXs/cookdsp/buffer.jsfx-inc'';
@@ -4003,7 +4003,7 @@
         {
           path = ''FXD JSFXs/cookdsp/granulator.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5d64a4127c5ce64d1120c83b79b5e28b50eb04e4/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/granulator.jsfx-inc";
-          sha256 = "15wfgmhnjznqh907wg10l9j5bqxkzms4zqcjfgfn05i8jv7b9ly6";
+          sha256 = "062lv83vhqncqr1l4738vcgcjjdjhysy61m3m8nvvx2h8j8467xy";
         }
         {
           path = ''FXD JSFXs/cookdsp/list.jsfx-inc'';
@@ -4033,7 +4033,7 @@
         {
           path = ''FXD JSFXs/cookdsp/pobjects.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5d64a4127c5ce64d1120c83b79b5e28b50eb04e4/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/pobjects.jsfx-inc";
-          sha256 = "11y95ac05zsk952h8wji8dxqhaz31z22nwypsrfx3kxzq069qigz";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/pvocobjects.jsfx-inc'';
@@ -4058,7 +4058,7 @@
         {
           path = ''FXD JSFXs/spectrum.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5d64a4127c5ce64d1120c83b79b5e28b50eb04e4/BryanChi_FX_Devices/FXD%20JSFXs/spectrum.jsfx-inc";
-          sha256 = "1l1yi77wz3wh5979rlbb8jn4abmqzvvyadbiwifyp81cw6zbf5w3";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/svf_filter.jsfx-inc'';
@@ -4158,7 +4158,7 @@
         {
           path = ''src/Images/Knobs/FancyGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5d64a4127c5ce64d1120c83b79b5e28b50eb04e4/BryanChi_FX_Devices/src/Images/Knobs/FancyGreenKnob.png";
-          sha256 = "0x4s659fbd9ff3vw763nlgz39csz6lscvzyjxizdr861d49bbd95";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob_Inverted.png'';
@@ -4173,12 +4173,12 @@
         {
           path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5d64a4127c5ce64d1120c83b79b5e28b50eb04e4/BryanChi_FX_Devices/src/Images/Knobs/FancyLightGreenKnob.png";
-          sha256 = "06a4b6c1pwppgkrijmm2xfvz3d57a2mhh02dcxkqppgd2adg7p1w";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5d64a4127c5ce64d1120c83b79b5e28b50eb04e4/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Square.ini'';
@@ -4198,12 +4198,12 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5d64a4127c5ce64d1120c83b79b5e28b50eb04e4/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%203.lua";
-          sha256 = "1l248wbv163qmc5g72bmr03sb6w7grs8w2r1f0g8d66jbazi2m93";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5d64a4127c5ce64d1120c83b79b5e28b50eb04e4/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20C%202.lua";
-          sha256 = "0y3ps0fp3qsa9k8lb20fa76mqw6lsyr0k7blhj05a3q6rlh1clcz";
+          sha256 = "083iyyj1h7018qiscym94s1h5svnr9lr4w5w8pr969mq1bx0rys6";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
@@ -4263,7 +4263,7 @@
         {
           path = ''src/Functions/Filesystem_utils.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5d64a4127c5ce64d1120c83b79b5e28b50eb04e4/BryanChi_FX_Devices/src/Functions/Filesystem_utils.lua";
-          sha256 = "1zgpg83pzl0h6jvp3jpk3rp1cc04gvn4ibc80w2simlhqpywaf6p";
+          sha256 = "";
         }
         {
           path = ''src/Constants.lua'';
@@ -4292,7 +4292,7 @@
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Band%20Joiner.jsfx";
-          sha256 = "17vyx8c36776wf4hs1lr2qglckmsj460zglja0k99kg1l0igjj2c";
+          sha256 = "0fx1vl627jw647qr24nq7a774jm97a11ka27j9hv8zrhcprkcg1d";
         }
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
@@ -4307,7 +4307,7 @@
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
-          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+          sha256 = "1zf8m2psbgx1phg2arzgamcsysdf9qyq2rxj7xh4isiga349bx42";
         }
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
@@ -4317,7 +4317,7 @@
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20to%2032%20Channels.jsfx";
-          sha256 = "0c12dzr35k4jdfhvn3cq3v3c2dm1yd57jz6v989rqsq1i9j3zbqd";
+          sha256 = "12y6kjfqg8pac02yd6z9wkvarvmr4lh3ninhxzzlkrzp9779zq6n";
         }
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
@@ -4372,7 +4372,7 @@
         {
           path = ''FXD JSFXs/cookdsp/list.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/list.jsfx-inc";
-          sha256 = "0kb430lpi6nkvw6k29pzx5xwycl9phkzzmirqbk7waf9la86aa1y";
+          sha256 = "08yqva5nw382lq1wlrbgbqi4lpfzxax38wi0q2046jzfx0s3jg2a";
         }
         {
           path = ''FXD JSFXs/cookdsp/memalloc.jsfx-inc'';
@@ -4392,22 +4392,22 @@
         {
           path = ''FXD JSFXs/cookdsp/oscil.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/oscil.jsfx-inc";
-          sha256 = "1l5vw7yylwq2ivhn6wbxxxajr2zj1528d9v7bvp4ylbnqib4xzwa";
+          sha256 = "1mf8y90w8x8y3agm1zpbl4dxpmhrwq6mzd40c8m1jhl1ly7pma7i";
         }
         {
           path = ''FXD JSFXs/cookdsp/pobjects.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/pobjects.jsfx-inc";
-          sha256 = "11y95ac05zsk952h8wji8dxqhaz31z22nwypsrfx3kxzq069qigz";
+          sha256 = "1vfbcs326ivp7y6x17syi1lap143fj02bvwbza31b0lzb8f6h9q3";
         }
         {
           path = ''FXD JSFXs/cookdsp/pvocobjects.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/pvocobjects.jsfx-inc";
-          sha256 = "0brqm4miqd0vd5jfpxpvzy24dpqknxfdwxybpmfii2mfakk6nb2s";
+          sha256 = "0a6dn20nlifijxl3kkdk6224k5m7ghlsvlr4pg12i4l2qf07cmwg";
         }
         {
           path = ''FXD JSFXs/cookdsp/random.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/random.jsfx-inc";
-          sha256 = "0fvwr728vhgmw5gkib8m4a7lpqgmqwdnyq372z2459aa61fpys9w";
+          sha256 = "19w3zyp775lki14a0prwgs266cxlfina4ay2k8r6ymx65v7kmnwi";
         }
         {
           path = ''FXD JSFXs/cookdsp/scaling.jsfx-inc'';
@@ -4422,7 +4422,7 @@
         {
           path = ''FXD JSFXs/spectrum.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/FXD%20JSFXs/spectrum.jsfx-inc";
-          sha256 = "1l1yi77wz3wh5979rlbb8jn4abmqzvvyadbiwifyp81cw6zbf5w3";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/svf_filter.jsfx-inc'';
@@ -4452,7 +4452,7 @@
         {
           path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSupermassive%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "10a9h1ypfp0lhbwllj1dmdycrx09d18h889nqm26hm94d0gfpfpg";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
@@ -4472,7 +4472,7 @@
         {
           path = ''src/Images/Knobs/Bitwig.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/src/Images/Knobs/Bitwig.png";
-          sha256 = "0bmik4ch0yh1chl60db1wngf155bvhaa9w02ka8srcqd7whnb2sz";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyRedKnob.png'';
@@ -4487,7 +4487,7 @@
         {
           path = ''src/Images/trash.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/src/Images/trash.png";
-          sha256 = "1ryjrxn4x7i9h0pilc3zx1zksxf69mkgyj4kw6023q0n7pclr6vh";
+          sha256 = "";
         }
         {
           path = ''src/Images/sinewave.png'';
@@ -4557,7 +4557,7 @@
         {
           path = ''src/LFO Shapes/Saw.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/src/LFO%20Shapes/Saw.ini";
-          sha256 = "1pb7lmfw4g44jisa7kyh0mg42jf948naw79gi02nhlzc161nmiz6";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
@@ -4567,7 +4567,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20C%202.lua";
-          sha256 = "0y3ps0fp3qsa9k8lb20fa76mqw6lsyr0k7blhj05a3q6rlh1clcz";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
@@ -4592,7 +4592,7 @@
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+          sha256 = "04aj6zv7r35fi5xnjjsy9wl7vx03iv9yz2ql3cpq5idzf95ypzab";
         }
         {
           path = ''src/Functions/EQ functions.lua'';
@@ -4607,7 +4607,7 @@
         {
           path = ''src/Functions/FX Layering.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
-          sha256 = "1r1l7ghly25gf98pps26kw19a4bps7f5gigbxw9v2lpy1fggb1gq";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Layout Editor functions.lua'';
@@ -4627,7 +4627,7 @@
         {
           path = ''src/Functions/Filesystem_utils.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dd0886996526b099f7b46420483311b57dea2f4/BryanChi_FX_Devices/src/Functions/Filesystem_utils.lua";
-          sha256 = "1zgpg83pzl0h6jvp3jpk3rp1cc04gvn4ibc80w2simlhqpywaf6p";
+          sha256 = "";
         }
         {
           path = ''src/Constants.lua'';
@@ -4651,7 +4651,7 @@
         {
           path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20(Mix)RackMixer.jsfx";
-          sha256 = "06a4xara6x5aa1saqqqii57ycdmxg68g83gcs35zmn70axxzgm1c";
+          sha256 = "0adb73iybphfzv00hs39xx6dh8vvbsz6myqq10r79clnzi1pqs7j";
         }
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
@@ -4691,7 +4691,7 @@
         {
           path = ''FXD JSFXs/cookdsp.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp.jsfx-inc";
-          sha256 = "0bgaw4hkzkfr9jyvkc8nd7j7byxdvh0ibvqjqq4l4vvic5yhwdsz";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/analysis.jsfx-inc'';
@@ -4701,7 +4701,7 @@
         {
           path = ''FXD JSFXs/cookdsp/buffer.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/buffer.jsfx-inc";
-          sha256 = "1hhjmbkl87dgz8f89cdb2cp2h11c99dllvn6m98zjhxr6i6ynak1";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/delay.jsfx-inc'';
@@ -4721,7 +4721,7 @@
         {
           path = ''FXD JSFXs/cookdsp/fftobjects.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/fftobjects.jsfx-inc";
-          sha256 = "0lb0ijqm2dc43gilifh6p9ig3y762959i71abflxqn5789f9wbcy";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/filters.jsfx-inc'';
@@ -4731,17 +4731,17 @@
         {
           path = ''FXD JSFXs/cookdsp/granulator.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/granulator.jsfx-inc";
-          sha256 = "15wfgmhnjznqh907wg10l9j5bqxkzms4zqcjfgfn05i8jv7b9ly6";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/list.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/list.jsfx-inc";
-          sha256 = "0kb430lpi6nkvw6k29pzx5xwycl9phkzzmirqbk7waf9la86aa1y";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/memalloc.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/memalloc.jsfx-inc";
-          sha256 = "1d4lpal7r7jibhp8hqw0zyxcim13135k5v4n4885r9cyzjs6rhl1";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/midi.jsfx-inc'';
@@ -4751,12 +4751,12 @@
         {
           path = ''FXD JSFXs/cookdsp/mmath.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/mmath.jsfx-inc";
-          sha256 = "1181ngna25avmywkwz5fgnhhgdagygn6xzzmba5jvz6xzd7zrfwq";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/oscil.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/oscil.jsfx-inc";
-          sha256 = "1l5vw7yylwq2ivhn6wbxxxajr2zj1528d9v7bvp4ylbnqib4xzwa";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/pobjects.jsfx-inc'';
@@ -4816,7 +4816,7 @@
         {
           path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSupermassive%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "10a9h1ypfp0lhbwllj1dmdycrx09d18h889nqm26hm94d0gfpfpg";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
@@ -4836,7 +4836,7 @@
         {
           path = ''src/Images/Knobs/Bitwig.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/Images/Knobs/Bitwig.png";
-          sha256 = "0bmik4ch0yh1chl60db1wngf155bvhaa9w02ka8srcqd7whnb2sz";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyRedKnob.png'';
@@ -4856,7 +4856,7 @@
         {
           path = ''src/Images/sinewave.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/Images/sinewave.png";
-          sha256 = "1c3yxzr0m9y57ra1jqsihq9vpmi495955lz1zm3ry42zy9zwf5r5";
+          sha256 = "";
         }
         {
           path = ''src/Images/save.png'';
@@ -4876,7 +4876,7 @@
         {
           path = ''src/Images/paste.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/Images/paste.png";
-          sha256 = "1irpwndfhdcy3x5xwgd8dflw8zhs3nw9ld5sjhacfg48aln9lhih";
+          sha256 = "";
         }
         {
           path = ''src/Images/copy.png'';
@@ -4901,17 +4901,17 @@
         {
           path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/Images/Knobs/FancyLightGreenKnob.png";
-          sha256 = "06a4b6c1pwppgkrijmm2xfvz3d57a2mhh02dcxkqppgd2adg7p1w";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Square.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/LFO%20Shapes/Square.ini";
-          sha256 = "1f2ld5imrwzsm4yxixxf7s3syqa96m5j8c5bnqbidcxqham207a9";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Sine.ini'';
@@ -4931,72 +4931,72 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20C%202.lua";
-          sha256 = "0y3ps0fp3qsa9k8lb20fa76mqw6lsyr0k7blhj05a3q6rlh1clcz";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Volume%20Pan%20Smoother.lua";
-          sha256 = "1c9787a6p8b4964fw67fqyc3npnnfvd9npqd8f48g06icr2240di";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaComp.lua";
-          sha256 = "0w3ra2rn20kbv948ayiygdj6x6ds5qm8zfzd563922d4n2xk4psf";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Container.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Container.lua";
-          sha256 = "12ql5nlk19i2hysmz11v6xm43x4yij3qxclm159v556n7gj06frc";
+          sha256 = "";
         }
         {
           path = ''src/IconFont1.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/IconFont1.ttf";
-          sha256 = "09rflw66kpjv9g69azb9abanp3gildbhchymmma8n0qj9q5r0qak";
+          sha256 = "";
         }
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+          sha256 = "";
         }
         {
           path = ''src/Functions/EQ functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/Functions/EQ%20functions.lua";
-          sha256 = "0vcvfnq1wa3zkxj5w05i3qgla93z8l4h3k2l12wkkq208h5v2nx2";
+          sha256 = "";
         }
         {
           path = ''src/Functions/General Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/Functions/General%20Functions.lua";
-          sha256 = "009wip70fm3x09nmbms9jyy6b5a0cmyylj87pbzqh5vld57xhc1q";
+          sha256 = "";
         }
         {
           path = ''src/Functions/FX Layering.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
-          sha256 = "1r1l7ghly25gf98pps26kw19a4bps7f5gigbxw9v2lpy1fggb1gq";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Layout Editor functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/Functions/Layout%20Editor%20functions.lua";
-          sha256 = "0snbl9sa9hmyn7jasg6wlg21kzgbv8gnqxvbcs46i8xlmy0fqmp4";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Modulation.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/Functions/Modulation.lua";
-          sha256 = "0b89v5d2x5c9q6b6wgr6iil0r2k4368kr5fnphavvbzp41yy3wvn";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/Functions/Theme%20Editor%20Functions.lua";
-          sha256 = "01p6a9mkwjsh0k8pzxy228gnbzxxw9g59sp2z141gpgkk0axbkic";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Filesystem_utils.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/Functions/Filesystem_utils.lua";
-          sha256 = "1zgpg83pzl0h6jvp3jpk3rp1cc04gvn4ibc80w2simlhqpywaf6p";
+          sha256 = "";
         }
         {
           path = ''src/Constants.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a8ffb40fb670c981aa5e852cf46f5e7f25f9d575/BryanChi_FX_Devices/src/Constants.lua";
-          sha256 = "0zdzdy55c7jqbpl54100wnicmrydw08gkxap8dq7fhnm3y5k0f6b";
+          sha256 = "";
         }
       ];
     };
@@ -5010,52 +5010,52 @@
         {
           path = '''';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/BryanChi_FX%20Devices.lua";
-          sha256 = "0sqy0b0i1ikhp3mm0m7x8h9crk9i5nzdpwzp3whhj6b1rwgz0z6l";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20(Mix)RackMixer.jsfx";
-          sha256 = "06a4xara6x5aa1saqqqii57ycdmxg68g83gcs35zmn70axxzgm1c";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Band%20Joiner.jsfx";
-          sha256 = "17vyx8c36776wf4hs1lr2qglckmsj460zglja0k99kg1l0igjj2c";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Gain%20Reduction%20Scope.jsfx";
-          sha256 = "0nn6mwjjf39q1619mcrh1bl0v41m81rf1yj2wb8gaahll3n4xj6h";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Macros.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros.jsfx";
-          sha256 = "1719v2kfws69kvwwzyhrvpwy6szzx9347gy6khfc2xz6cj084wpb";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
-          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Saike%20BandSplitter.jsfx";
-          sha256 = "0pg482x7zhh7fqin3m4z9bl0d10svvz61pqrj49r4lxj3f3kmzpi";
+          sha256 = "1917rcxp6kw0aa2a3xmwhjvvmws39xjqpimxayfzxc0fs5qjxk6f";
         }
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20to%2032%20Channels.jsfx";
-          sha256 = "0c12dzr35k4jdfhvn3cq3v3c2dm1yd57jz6v989rqsq1i9j3zbqd";
+          sha256 = "12y6kjfqg8pac02yd6z9wkvarvmr4lh3ninhxzzlkrzp9779zq6n";
         }
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20To%204%20Channels.jsfx";
-          sha256 = "1xp0b1wsh7pb18ff8db5kc20pn2pzpg4pmnpamidf03i1bzh0yra";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp.jsfx-inc";
-          sha256 = "0bgaw4hkzkfr9jyvkc8nd7j7byxdvh0ibvqjqq4l4vvic5yhwdsz";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/analysis.jsfx-inc'';
@@ -5065,32 +5065,32 @@
         {
           path = ''FXD JSFXs/cookdsp/buffer.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/buffer.jsfx-inc";
-          sha256 = "1hhjmbkl87dgz8f89cdb2cp2h11c99dllvn6m98zjhxr6i6ynak1";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/delay.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/delay.jsfx-inc";
-          sha256 = "07s48wrmq2il4jwn2kh0g0iljv2zi9mj9n9g80bqcshhbgq0xk4b";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/dynamics.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/dynamics.jsfx-inc";
-          sha256 = "16h3ihzmh2024s6isil6z8x23imjvfr71rn2klnvqs2zwk14sy50";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/effects.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/effects.jsfx-inc";
-          sha256 = "1ksq4fkic8065s2ligzwj74lav7zj6hq57gnly4sgryn8kcfxas8";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/fftobjects.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/fftobjects.jsfx-inc";
-          sha256 = "0lb0ijqm2dc43gilifh6p9ig3y762959i71abflxqn5789f9wbcy";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/filters.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/filters.jsfx-inc";
-          sha256 = "0z8p9qcdh2i65qq09kgi60850mv0hn36f384x6ar9j3gdj6amdhx";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/granulator.jsfx-inc'';
@@ -5105,12 +5105,12 @@
         {
           path = ''FXD JSFXs/cookdsp/memalloc.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/memalloc.jsfx-inc";
-          sha256 = "1d4lpal7r7jibhp8hqw0zyxcim13135k5v4n4885r9cyzjs6rhl1";
+          sha256 = "1vnj8aflq7qjcjdf7xr43ya1zmf6bn7snihga6hzkpjjbq8zkrpy";
         }
         {
           path = ''FXD JSFXs/cookdsp/midi.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/midi.jsfx-inc";
-          sha256 = "193v98nwsqv1acgb7c3yr36b9k8ylhgjs8xslxkphz26124vs25w";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/mmath.jsfx-inc'';
@@ -5130,7 +5130,7 @@
         {
           path = ''FXD JSFXs/cookdsp/pvocobjects.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/pvocobjects.jsfx-inc";
-          sha256 = "0brqm4miqd0vd5jfpxpvzy24dpqknxfdwxybpmfii2mfakk6nb2s";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/random.jsfx-inc'';
@@ -5145,7 +5145,7 @@
         {
           path = ''FXD JSFXs/firhalfband.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/firhalfband.jsfx-inc";
-          sha256 = "1brd6z9dgdp56yggbb6ag4vir4l31f9frgx88p687hb0v9205h90";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/spectrum.jsfx-inc'';
@@ -5155,7 +5155,7 @@
         {
           path = ''FXD JSFXs/svf_filter.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/FXD%20JSFXs/svf_filter.jsfx-inc";
-          sha256 = "19v43q1igqq8rfvawxyvizy0vfc6x7bc31nbvcxawdjhs661q8m5";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaDelay (Valhalla DSP, LLC).ini'';
@@ -5165,7 +5165,7 @@
         {
           path = ''src/FX Layouts/ValhallaFreqEcho (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaFreqEcho%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1zn56wya3k7d4rm6gl90rk9ql1a08b0qhg1086crfp33dz0535rp";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaShimmer (Valhalla DSP, LLC).ini'';
@@ -5190,7 +5190,7 @@
         {
           path = ''src/FX Layouts/ReaComp (Cockos).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/src/FX%20Layouts/ReaComp%20(Cockos).ini";
-          sha256 = "07d930lx9ais233rh2kavrjj5i6c1ddyncdb9y1kklwzrlxl8axk";
+          sha256 = "";
         }
         {
           path = ''src/Images/Attached Drawings/LED light.png'';
@@ -5205,7 +5205,7 @@
         {
           path = ''src/Images/Knobs/FancyRedKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/src/Images/Knobs/FancyRedKnob.png";
-          sha256 = "0nm76r5gh8ihzhilhs4h6rmq3d120cwlsq0gcmhvq5qahfjsmxgs";
+          sha256 = "";
         }
         {
           path = ''src/Images/Analog Knob 1.png'';
@@ -5225,7 +5225,7 @@
         {
           path = ''src/Images/save.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/src/Images/save.png";
-          sha256 = "0birbbfpmpdg20hgw4926730af3kwmpiiv8a1r3j8v3i1q4qi9mc";
+          sha256 = "";
         }
         {
           path = ''src/Images/pinned.png'';
@@ -5285,7 +5285,7 @@
         {
           path = ''src/LFO Shapes/Saw.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/src/LFO%20Shapes/Saw.ini";
-          sha256 = "1pb7lmfw4g44jisa7kyh0mg42jf948naw79gi02nhlzc161nmiz6";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
@@ -5295,7 +5295,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20C%202.lua";
-          sha256 = "0y3ps0fp3qsa9k8lb20fa76mqw6lsyr0k7blhj05a3q6rlh1clcz";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
@@ -5315,12 +5315,12 @@
         {
           path = ''src/IconFont1.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/src/IconFont1.ttf";
-          sha256 = "09rflw66kpjv9g69azb9abanp3gildbhchymmma8n0qj9q5r0qak";
+          sha256 = "";
         }
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+          sha256 = "";
         }
         {
           path = ''src/Functions/EQ functions.lua'';
@@ -5350,7 +5350,7 @@
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4b6812e045d277bf7450eea2e913e1a14ca64299/BryanChi_FX_Devices/src/Functions/Theme%20Editor%20Functions.lua";
-          sha256 = "01p6a9mkwjsh0k8pzxy228gnbzxxw9g59sp2z141gpgkk0axbkic";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Filesystem_utils.lua'';
@@ -5384,7 +5384,7 @@
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/e34b611d1c2540bdf65d3be3aeab7455306c426e/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Band%20Joiner.jsfx";
-          sha256 = "17vyx8c36776wf4hs1lr2qglckmsj460zglja0k99kg1l0igjj2c";
+          sha256 = "0fx1vl627jw647qr24nq7a774jm97a11ka27j9hv8zrhcprkcg1d";
         }
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
@@ -5404,7 +5404,7 @@
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/e34b611d1c2540bdf65d3be3aeab7455306c426e/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Saike%20BandSplitter.jsfx";
-          sha256 = "0pg482x7zhh7fqin3m4z9bl0d10svvz61pqrj49r4lxj3f3kmzpi";
+          sha256 = "1917rcxp6kw0aa2a3xmwhjvvmws39xjqpimxayfzxc0fs5qjxk6f";
         }
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
@@ -5434,7 +5434,7 @@
         {
           path = ''FXD JSFXs/cookdsp/delay.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/e34b611d1c2540bdf65d3be3aeab7455306c426e/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/delay.jsfx-inc";
-          sha256 = "07s48wrmq2il4jwn2kh0g0iljv2zi9mj9n9g80bqcshhbgq0xk4b";
+          sha256 = "1n765mckwrlpha0rfsc56lamfl2pn36nrf3rs87hvpnmxh84kh1c";
         }
         {
           path = ''FXD JSFXs/cookdsp/dynamics.jsfx-inc'';
@@ -7489,7 +7489,7 @@
         {
           path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7696c4a5c806ae83b53a2e610aa74d50b375be6e/BryanChi_FX_Devices/src/Images/Knobs/FancyLightGreenKnob.png";
-          sha256 = "06a4b6c1pwppgkrijmm2xfvz3d57a2mhh02dcxkqppgd2adg7p1w";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
@@ -7504,7 +7504,7 @@
         {
           path = ''src/LFO Shapes/Sine.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7696c4a5c806ae83b53a2e610aa74d50b375be6e/BryanChi_FX_Devices/src/LFO%20Shapes/Sine.ini";
-          sha256 = "01192siavn0hhv1am25gpzvgcqg4mldfdg9pnqhr82diij7ndf8z";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Saw L.ini'';
@@ -7529,12 +7529,12 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7696c4a5c806ae83b53a2e610aa74d50b375be6e/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%203.lua";
-          sha256 = "1l248wbv163qmc5g72bmr03sb6w7grs8w2r1f0g8d66jbazi2m93";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7696c4a5c806ae83b53a2e610aa74d50b375be6e/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20C%202.lua";
-          sha256 = "0y3ps0fp3qsa9k8lb20fa76mqw6lsyr0k7blhj05a3q6rlh1clcz";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
@@ -7559,7 +7559,7 @@
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7696c4a5c806ae83b53a2e610aa74d50b375be6e/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+          sha256 = "";
         }
         {
           path = ''src/Functions/EQ functions.lua'';
@@ -7574,7 +7574,7 @@
         {
           path = ''src/Functions/FX Layering.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7696c4a5c806ae83b53a2e610aa74d50b375be6e/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
-          sha256 = "0460n7q9yy1y3xlb3995jjva5wry2z55wa1cjknnpbl4dacbx99z";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Layout Editor functions.lua'';
@@ -7647,12 +7647,12 @@
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Gain%20Reduction%20Scope.jsfx";
-          sha256 = "0nn6mwjjf39q1619mcrh1bl0v41m81rf1yj2wb8gaahll3n4xj6h";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Macros.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros.jsfx";
-          sha256 = "1719v2kfws69kvwwzyhrvpwy6szzx9347gy6khfc2xz6cj084wpb";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
@@ -7687,7 +7687,7 @@
         {
           path = ''FXD JSFXs/spectrum.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/FXD%20JSFXs/spectrum.jsfx-inc";
-          sha256 = "1l1yi77wz3wh5979rlbb8jn4abmqzvvyadbiwifyp81cw6zbf5w3";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/svf_filter.jsfx-inc'';
@@ -7722,7 +7722,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-5.ttf";
-          sha256 = "0n35pc1kqd2mc8pmjzqsainp4s1isg5cv03vkswpk0kyihckdqiz";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-6.ttf'';
@@ -7737,7 +7737,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-8.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-8.ttf";
-          sha256 = "0fkz0i58f4rz6k8zvzq2kcxwwhzanhckg16vvsavclk7i10bn0ad";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900.ttf'';
@@ -7757,7 +7757,7 @@
         {
           path = ''src/Functions/FX Layering.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
-          sha256 = "0b46lwa9q14vzffik33pnmn7k4mqbp7jg65g7rykiw5q2iasgj6r";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Filesystem_utils.lua'';
@@ -7782,7 +7782,7 @@
         {
           path = ''src/Functions/Modulator_LFO.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/src/Functions/Modulator_LFO.lua";
-          sha256 = "182fkcfj8ndfwfqahxv7a50gy25m839ada95i52nzf8n59xv1874";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
@@ -7817,7 +7817,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Volume%20Pan%20Smoother.lua";
-          sha256 = "1xqri6lrq69sv6qj70j0rgzbq4x6q4wgj8mljm23l8vnw3vzdazp";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ReaComp (Cockos).ini'';
@@ -7852,17 +7852,17 @@
         {
           path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaVintageVerb%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1awh4ndh33x47s0bciq8yzhqkd5jv6gwy7l2ch1099zlsc6fhm7l";
+          sha256 = "0vnn91mjvs4542626wix477lwrwl1rwc1r248dhbpcha5ldls7lh";
         }
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/src/FXChains/ReaDrum%20Machine.RfxChain";
-          sha256 = "0r20q4pbmvn0nyi0dbq3xkm4gm0fsvfnzdbg9gjd5bfsgx6ajhll";
+          sha256 = "";
         }
         {
           path = ''src/Images/Analog Knob 1.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/src/Images/Analog%20Knob%201.png";
-          sha256 = "05kzfclsbymn6mnac0mi4b3rr3bpkxq2w0svd3rylvlx786jv99v";
+          sha256 = "";
         }
         {
           path = ''src/Images/copy.png'';
@@ -7877,7 +7877,7 @@
         {
           path = ''src/Images/pin.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/src/Images/pin.png";
-          sha256 = "1jknayv0zqxjv48kgsjk51q9p8azgj1fyz6v12wdg6mdjh65dq21";
+          sha256 = "";
         }
         {
           path = ''src/Images/pinned.png'';
@@ -7892,7 +7892,7 @@
         {
           path = ''src/Images/save.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/src/Images/save.png";
-          sha256 = "0birbbfpmpdg20hgw4926730af3kwmpiiv8a1r3j8v3i1q4qi9mc";
+          sha256 = "";
         }
         {
           path = ''src/Images/trash.png'';
@@ -7902,7 +7902,7 @@
         {
           path = ''src/Images/Attached Drawings/LED light.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/src/Images/Attached%20Drawings/LED%20light.png";
-          sha256 = "1816449bvzg7nl7zaq44qpz0bdl1lh6r1mhq01km41bcz3wjnkm0";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Bitwig.png'';
@@ -7917,7 +7917,7 @@
         {
           path = ''src/Images/Knobs/FancyBlueKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ede045a51a36e87b755e7259dd84b929e8794375/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob.png";
-          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyGreenKnob.png'';
@@ -7996,12 +7996,12 @@
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a59befa109c02751ccde3d0e952379391b92111f/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Band%20Joiner.jsfx";
-          sha256 = "17vyx8c36776wf4hs1lr2qglckmsj460zglja0k99kg1l0igjj2c";
+          sha256 = "0fx1vl627jw647qr24nq7a774jm97a11ka27j9hv8zrhcprkcg1d";
         }
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a59befa109c02751ccde3d0e952379391b92111f/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Gain%20Reduction%20Scope.jsfx";
-          sha256 = "0nn6mwjjf39q1619mcrh1bl0v41m81rf1yj2wb8gaahll3n4xj6h";
+          sha256 = "1p5p3fs6zynl3wba3pjlmd5gj3gfq2b1sk27yb1ir8rccdb713j7";
         }
         {
           path = ''FXD JSFXs/FXD Macros.jsfx'';
@@ -8011,7 +8011,7 @@
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a59befa109c02751ccde3d0e952379391b92111f/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
-          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+          sha256 = "1zf8m2psbgx1phg2arzgamcsysdf9qyq2rxj7xh4isiga349bx42";
         }
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
@@ -8021,7 +8021,7 @@
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a59befa109c02751ccde3d0e952379391b92111f/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20To%204%20Channels.jsfx";
-          sha256 = "1xp0b1wsh7pb18ff8db5kc20pn2pzpg4pmnpamidf03i1bzh0yra";
+          sha256 = "0x178p2y0cc12w0ar4cc3drjzv33myrsvaply45kmcj8dfyl0f8h";
         }
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
@@ -9986,7 +9986,7 @@
         {
           path = ''src/FX Layouts/ValhallaSpaceModulator (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/71cbb147eb50bd2a5e9dce182ef4454a07c9f106/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSpaceModulator%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "0y0lsyd2y0bda0gr3aqkn0s6hmdbfy4c0crsgx2grj05xf44r3m5";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
@@ -10001,12 +10001,12 @@
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/71cbb147eb50bd2a5e9dce182ef4454a07c9f106/BryanChi_FX_Devices/src/FXChains/ReaDrum%20Machine.RfxChain";
-          sha256 = "0r20q4pbmvn0nyi0dbq3xkm4gm0fsvfnzdbg9gjd5bfsgx6ajhll";
+          sha256 = "";
         }
         {
           path = ''src/Images/Analog Knob 1.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/71cbb147eb50bd2a5e9dce182ef4454a07c9f106/BryanChi_FX_Devices/src/Images/Analog%20Knob%201.png";
-          sha256 = "05kzfclsbymn6mnac0mi4b3rr3bpkxq2w0svd3rylvlx786jv99v";
+          sha256 = "";
         }
         {
           path = ''src/Images/copy.png'';
@@ -10071,7 +10071,7 @@
         {
           path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/71cbb147eb50bd2a5e9dce182ef4454a07c9f106/BryanChi_FX_Devices/src/Images/Knobs/FancyLightGreenKnob.png";
-          sha256 = "06a4b6c1pwppgkrijmm2xfvz3d57a2mhh02dcxkqppgd2adg7p1w";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyRedKnob.png'';
@@ -10081,7 +10081,7 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/71cbb147eb50bd2a5e9dce182ef4454a07c9f106/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Pulse.ini'';
@@ -10091,7 +10091,7 @@
         {
           path = ''src/LFO Shapes/Saw L.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/71cbb147eb50bd2a5e9dce182ef4454a07c9f106/BryanChi_FX_Devices/src/LFO%20Shapes/Saw%20L.ini";
-          sha256 = "1p369li61z5ifvbmpcvm39z0g8kf6na8bgyrb82ndaadnmapc2rc";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Saw R.ini'';
@@ -10101,7 +10101,7 @@
         {
           path = ''src/LFO Shapes/Sine.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/71cbb147eb50bd2a5e9dce182ef4454a07c9f106/BryanChi_FX_Devices/src/LFO%20Shapes/Sine.ini";
-          sha256 = "01192siavn0hhv1am25gpzvgcqg4mldfdg9pnqhr82diij7ndf8z";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Square.ini'';
@@ -10140,7 +10140,7 @@
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Band%20Joiner.jsfx";
-          sha256 = "17vyx8c36776wf4hs1lr2qglckmsj460zglja0k99kg1l0igjj2c";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Container Macros.jsfx'';
@@ -10160,7 +10160,7 @@
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
-          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
@@ -10185,7 +10185,7 @@
         {
           path = ''FXD JSFXs/firhalfband.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/FXD%20JSFXs/firhalfband.jsfx-inc";
-          sha256 = "1brd6z9dgdp56yggbb6ag4vir4l31f9frgx88p687hb0v9205h90";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/spectrum.jsfx-inc'';
@@ -10205,12 +10205,12 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Regular.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Regular.ttf";
-          sha256 = "09dyd8h2a9pn424npw2ff5b90jr0ii66kik1fm53cs0wq7aqlwhk";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-2.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-2.ttf";
-          sha256 = "0bw66hqzgx77w7dx1pbbynag0cg9agh7qipjdl2kk3h9cd8ksd1p";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-3.ttf'';
@@ -10220,7 +10220,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-4.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-4.ttf";
-          sha256 = "1i2r89rv6iszri08djk258i7jphl7dwklvw79nspvywjavmzrzxx";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
@@ -10230,7 +10230,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-6.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-6.ttf";
-          sha256 = "12dh62i8df57bmdm7x1fn606c8nq2v96ksijs91nwlgri9rpxrip";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-7.ttf'';
@@ -10240,27 +10240,27 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-8.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-8.ttf";
-          sha256 = "0fkz0i58f4rz6k8zvzq2kcxwwhzanhckg16vvsavclk7i10bn0ad";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900.ttf";
-          sha256 = "0wm6zm06zagzzs55ypv2i03ybk80z2k3g2zbgim4i9ddd73xpg0l";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/IconFont1.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Fonts/IconFont1.ttf";
-          sha256 = "187nc8qjpwg7w99x40kwf5hd2icfl708i3x767ssggsldnjj7v9a";
+          sha256 = "";
         }
         {
           path = ''src/Functions/EQ functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Functions/EQ%20functions.lua";
-          sha256 = "1vq93gfssz847ck8jxs1rb25j97zwvwqndmscncwzw0c77p1zzqx";
+          sha256 = "";
         }
         {
           path = ''src/Functions/FX Layering.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
-          sha256 = "0b46lwa9q14vzffik33pnmn7k4mqbp7jg65g7rykiw5q2iasgj6r";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Filesystem_utils.lua'';
@@ -10270,7 +10270,7 @@
         {
           path = ''src/Functions/GUI.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Functions/GUI.lua";
-          sha256 = "0wic145xxpbdal5s6l4qkabl36i0d4mgp1afr7n89gqy3nrzg2a6";
+          sha256 = "";
         }
         {
           path = ''src/Functions/General Functions.lua'';
@@ -10305,17 +10305,17 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20C%202.lua";
-          sha256 = "1911l16fh65qw6wkxgbii5q1qqjrlwahiw6gjd5p4s3dnq2bzd6v";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%203.lua";
-          sha256 = "0wl1yla0dknpp24758n8pjv4fy6cmd2i0w3hvkm5jm0bvijziqvg";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaComp.lua";
-          sha256 = "07q03xx4bilhhlwyac37ark7vmjz5blkrgsi6sxr7xwmrdkvgfaq";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaDrum Machine.lua'';
@@ -10325,7 +10325,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Volume%20Pan%20Smoother.lua";
-          sha256 = "058b33p6acqdrfk77vydzfjdfv9f2lzpgn7fzfhd3fbdx4ab60zh";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ReaComp (Cockos).ini'';
@@ -10335,7 +10335,7 @@
         {
           path = ''src/FX Layouts/ValhallaDelay (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaDelay%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1ylka7jvqimjn0wkkmjbfidrgwy7yn44dh71hfhr27rxyv6f80wn";
+          sha256 = "1k4f0zac01fp3f7sdvryxjssys7vs68vxq86q3v9fh0raj1qzsxb";
         }
         {
           path = ''src/FX Layouts/ValhallaFreqEcho (Valhalla DSP, LLC).ini'';
@@ -10345,7 +10345,7 @@
         {
           path = ''src/FX Layouts/ValhallaShimmer (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaShimmer%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1v1kcfslzmdsm87xa571j2fgff7qvfx5ira47s9cnd0ha1y4r5xq";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaSpaceModulator (Valhalla DSP, LLC).ini'';
@@ -10355,7 +10355,7 @@
         {
           path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSupermassive%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "10a9h1ypfp0lhbwllj1dmdycrx09d18h889nqm26hm94d0gfpfpg";
+          sha256 = "11qz6grvvxdnkjs3vplr89v9jnwld2x8fmp2ic0rd1hpaw6z97g0";
         }
         {
           path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
@@ -10375,7 +10375,7 @@
         {
           path = ''src/Images/copy.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Images/copy.png";
-          sha256 = "15fhdmf8wjv72phq9skf804nfka45m2ldi750wnr6xbca51r7sy0";
+          sha256 = "";
         }
         {
           path = ''src/Images/paste.png'';
@@ -10385,7 +10385,7 @@
         {
           path = ''src/Images/pin.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Images/pin.png";
-          sha256 = "1jknayv0zqxjv48kgsjk51q9p8azgj1fyz6v12wdg6mdjh65dq21";
+          sha256 = "";
         }
         {
           path = ''src/Images/pinned.png'';
@@ -10395,7 +10395,7 @@
         {
           path = ''src/Images/sinewave.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Images/sinewave.png";
-          sha256 = "1c3yxzr0m9y57ra1jqsihq9vpmi495955lz1zm3ry42zy9zwf5r5";
+          sha256 = "";
         }
         {
           path = ''src/Images/save.png'';
@@ -10410,12 +10410,12 @@
         {
           path = ''src/Images/Attached Drawings/LED light.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Images/Attached%20Drawings/LED%20light.png";
-          sha256 = "1816449bvzg7nl7zaq44qpz0bdl1lh6r1mhq01km41bcz3wjnkm0";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Bitwig.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Images/Knobs/Bitwig.png";
-          sha256 = "0bmik4ch0yh1chl60db1wngf155bvhaa9w02ka8srcqd7whnb2sz";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob_Inverted.png'';
@@ -10425,7 +10425,7 @@
         {
           path = ''src/Images/Knobs/FancyBlueKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob.png";
-          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyGreenKnob.png'';
@@ -10440,7 +10440,7 @@
         {
           path = ''src/Images/Knobs/FancyRedKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/Images/Knobs/FancyRedKnob.png";
-          sha256 = "0nm76r5gh8ihzhilhs4h6rmq3d120cwlsq0gcmhvq5qahfjsmxgs";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
@@ -10450,17 +10450,17 @@
         {
           path = ''src/LFO Shapes/Pulse.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/LFO%20Shapes/Pulse.ini";
-          sha256 = "19yixgpzmiy8cjkfxwhhz7i30msakmqk6f6apx71nv514kachaam";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Saw L.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/LFO%20Shapes/Saw%20L.ini";
-          sha256 = "1p369li61z5ifvbmpcvm39z0g8kf6na8bgyrb82ndaadnmapc2rc";
+          sha256 = "1k7mlmcccdvrd6gkw0kix5vbqv5lhyqhmgvw3fi9y52s2n4bvx5p";
         }
         {
           path = ''src/LFO Shapes/Saw R.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/LFO%20Shapes/Saw%20R.ini";
-          sha256 = "1c7q4ykqq826khzb7jbcmfdx78grh8ijww80n3vlp2zy2rxcd79i";
+          sha256 = "0bv97ny22wplran56l3zlb5h88nhnqan36amg9hbzbzsrw62yfsb";
         }
         {
           path = ''src/LFO Shapes/Sine.ini'';
@@ -10470,7 +10470,7 @@
         {
           path = ''src/LFO Shapes/Square.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/LFO%20Shapes/Square.ini";
-          sha256 = "1f2ld5imrwzsm4yxixxf7s3syqa96m5j8c5bnqbidcxqham207a9";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Triangle.ini'';
@@ -10480,7 +10480,7 @@
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/259bae05f78b9e3ac848dcb4b4e5cfee61242938/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+          sha256 = "";
         }
       ];
     };
@@ -10494,12 +10494,12 @@
         {
           path = '''';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/BryanChi_FX%20Devices.lua";
-          sha256 = "13jicjf76s5dpd8mlkrdgzibfz8lz41x2a6gvwv1whzh03bd9kkr";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20(Mix)RackMixer.jsfx";
-          sha256 = "06a4xara6x5aa1saqqqii57ycdmxg68g83gcs35zmn70axxzgm1c";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
@@ -10519,12 +10519,12 @@
         {
           path = ''FXD JSFXs/FXD Macros.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros.jsfx";
-          sha256 = "1719v2kfws69kvwwzyhrvpwy6szzx9347gy6khfc2xz6cj084wpb";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
-          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
@@ -10539,7 +10539,7 @@
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20to%2032%20Channels.jsfx";
-          sha256 = "0c12dzr35k4jdfhvn3cq3v3c2dm1yd57jz6v989rqsq1i9j3zbqd";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp.jsfx-inc'';
@@ -10549,7 +10549,7 @@
         {
           path = ''FXD JSFXs/firhalfband.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/FXD%20JSFXs/firhalfband.jsfx-inc";
-          sha256 = "1brd6z9dgdp56yggbb6ag4vir4l31f9frgx88p687hb0v9205h90";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/spectrum.jsfx-inc'';
@@ -10564,12 +10564,12 @@
         {
           path = ''src/Constants.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/src/Constants.lua";
-          sha256 = "0f3r8qbmvrs8dg8zg3bpfq3j4cv1d9x3y3rsas4ydvgdcixli6mc";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Regular.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Regular.ttf";
-          sha256 = "09dyd8h2a9pn424npw2ff5b90jr0ii66kik1fm53cs0wq7aqlwhk";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-2.ttf'';
@@ -10579,12 +10579,12 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-3.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-3.ttf";
-          sha256 = "1grr7ir8sji4yhqq1kcc15agg39rlxgyx0pa5z7710vjp7ifz6mk";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-4.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-4.ttf";
-          sha256 = "1i2r89rv6iszri08djk258i7jphl7dwklvw79nspvywjavmzrzxx";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
@@ -10604,7 +10604,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-8.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-8.ttf";
-          sha256 = "0fkz0i58f4rz6k8zvzq2kcxwwhzanhckg16vvsavclk7i10bn0ad";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900.ttf'';
@@ -10624,7 +10624,7 @@
         {
           path = ''src/Functions/FX Layering.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
-          sha256 = "0b46lwa9q14vzffik33pnmn7k4mqbp7jg65g7rykiw5q2iasgj6r";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Filesystem_utils.lua'';
@@ -10639,7 +10639,7 @@
         {
           path = ''src/Functions/General Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/src/Functions/General%20Functions.lua";
-          sha256 = "1nhrsfhpvzc5scqkriscc1pzgij3wzdiyhq0n3mkmjqg1rcypwf6";
+          sha256 = "19f1g8q1n2yxqq2m7fjk46n1cniikpydmcdrcwxjnnj7c3q6cjqs";
         }
         {
           path = ''src/Functions/Layout Editor functions.lua'';
@@ -10654,7 +10654,7 @@
         {
           path = ''src/Functions/Modulator_LFO.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/src/Functions/Modulator_LFO.lua";
-          sha256 = "182fkcfj8ndfwfqahxv7a50gy25m839ada95i52nzf8n59xv1874";
+          sha256 = "12w6h5zy26mbkj3fhcwh91szfxd4rkv4k63ichhiysmx3yx4hnq4";
         }
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
@@ -10664,7 +10664,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Container.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f543b33f0a9804f1e424bb69a2802d7ad60ad072/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Container.lua";
-          sha256 = "0bzhnaviljg4gswfd1x8bc1agi6szb5xav64azklimlc50s7zb4g";
+          sha256 = "0z09mfdgrs5rryzbamp7jhbvlqxq0gpfrw0h9drklf9wlnnmpz9a";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
@@ -11262,7 +11262,7 @@
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
-          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
@@ -11272,7 +11272,7 @@
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20To%204%20Channels.jsfx";
-          sha256 = "1xp0b1wsh7pb18ff8db5kc20pn2pzpg4pmnpamidf03i1bzh0yra";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
@@ -11307,7 +11307,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Regular.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Regular.ttf";
-          sha256 = "09dyd8h2a9pn424npw2ff5b90jr0ii66kik1fm53cs0wq7aqlwhk";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-2.ttf'';
@@ -11317,7 +11317,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-3.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-3.ttf";
-          sha256 = "1grr7ir8sji4yhqq1kcc15agg39rlxgyx0pa5z7710vjp7ifz6mk";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-4.ttf'';
@@ -11327,17 +11327,17 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-5.ttf";
-          sha256 = "0n35pc1kqd2mc8pmjzqsainp4s1isg5cv03vkswpk0kyihckdqiz";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-6.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-6.ttf";
-          sha256 = "12dh62i8df57bmdm7x1fn606c8nq2v96ksijs91nwlgri9rpxrip";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-7.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-7.ttf";
-          sha256 = "0gisspv42nkyjnmhgzcnvzfk1sprzbfyfjy9mmphlwy1rymwn27s";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-8.ttf'';
@@ -11357,12 +11357,12 @@
         {
           path = ''src/Functions/EQ functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/Functions/EQ%20functions.lua";
-          sha256 = "1vq93gfssz847ck8jxs1rb25j97zwvwqndmscncwzw0c77p1zzqx";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Execute Before Loop.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/Functions/Execute%20Before%20Loop.lua";
-          sha256 = "1dq851jzdrl9smmrc0a1ava6ixl2hkpv3phdj4imfdh4k4s82wp2";
+          sha256 = "";
         }
         {
           path = ''src/Functions/FX Layering.lua'';
@@ -11372,7 +11372,7 @@
         {
           path = ''src/Functions/Filesystem_utils.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/Functions/Filesystem_utils.lua";
-          sha256 = "1cbdygychsnjzpf7jib81v3f4nlymbq6wqjv14bhxz9r61d183la";
+          sha256 = "01w43i5f1gd7fbv3k7pvj8qxfkgjk60fx2g336k04mwr0h2wvcza";
         }
         {
           path = ''src/Functions/GUI.lua'';
@@ -11402,12 +11402,12 @@
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/Functions/Theme%20Editor%20Functions.lua";
-          sha256 = "1li5l38h48rsfhbwxqklcmhnajfq5rg094gdgnxl0g6407mw9gmg";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Container.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Container.lua";
-          sha256 = "18ssbd4fzljgmgycfzkdwsyczqd0iw6xaxhxpi75b5bciiyycxnk";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
@@ -11432,7 +11432,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Volume%20Pan%20Smoother.lua";
-          sha256 = "058b33p6acqdrfk77vydzfjdfv9f2lzpgn7fzfhd3fbdx4ab60zh";
+          sha256 = "0v8z9pdj8lp8b13k21ylp8g0b0f8by6py7z2kijzldghfzla3d3j";
         }
         {
           path = ''src/FX Layouts/ReaComp (Cockos).ini'';
@@ -11442,7 +11442,7 @@
         {
           path = ''src/FX Layouts/ValhallaDelay (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaDelay%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1ylka7jvqimjn0wkkmjbfidrgwy7yn44dh71hfhr27rxyv6f80wn";
+          sha256 = "1k4f0zac01fp3f7sdvryxjssys7vs68vxq86q3v9fh0raj1qzsxb";
         }
         {
           path = ''src/FX Layouts/ValhallaFreqEcho (Valhalla DSP, LLC).ini'';
@@ -11502,7 +11502,7 @@
         {
           path = ''src/Images/pin.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/Images/pin.png";
-          sha256 = "1jknayv0zqxjv48kgsjk51q9p8azgj1fyz6v12wdg6mdjh65dq21";
+          sha256 = "";
         }
         {
           path = ''src/Images/pinned.png'';
@@ -11517,7 +11517,7 @@
         {
           path = ''src/Images/sinewave.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/Images/sinewave.png";
-          sha256 = "1c3yxzr0m9y57ra1jqsihq9vpmi495955lz1zm3ry42zy9zwf5r5";
+          sha256 = "";
         }
         {
           path = ''src/Images/trash.png'';
@@ -11562,7 +11562,7 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Pulse.ini'';
@@ -11597,7 +11597,7 @@
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/abd8295a4a9469a4a72ddfc04d4c9a55e673bbdc/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+          sha256 = "";
         }
       ];
     };
@@ -11641,12 +11641,12 @@
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
-          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Saike%20BandSplitter.jsfx";
-          sha256 = "0pg482x7zhh7fqin3m4z9bl0d10svvz61pqrj49r4lxj3f3kmzpi";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
@@ -11656,7 +11656,7 @@
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20to%2032%20Channels.jsfx";
-          sha256 = "0c12dzr35k4jdfhvn3cq3v3c2dm1yd57jz6v989rqsq1i9j3zbqd";
+          sha256 = "12y6kjfqg8pac02yd6z9wkvarvmr4lh3ninhxzzlkrzp9779zq6n";
         }
         {
           path = ''FXD JSFXs/cookdsp.jsfx-inc'';
@@ -11666,7 +11666,7 @@
         {
           path = ''FXD JSFXs/firhalfband.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/FXD%20JSFXs/firhalfband.jsfx-inc";
-          sha256 = "1brd6z9dgdp56yggbb6ag4vir4l31f9frgx88p687hb0v9205h90";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/spectrum.jsfx-inc'';
@@ -11676,7 +11676,7 @@
         {
           path = ''FXD JSFXs/svf_filter.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/FXD%20JSFXs/svf_filter.jsfx-inc";
-          sha256 = "19v43q1igqq8rfvawxyvizy0vfc6x7bc31nbvcxawdjhs661q8m5";
+          sha256 = "";
         }
         {
           path = ''src/Constants.lua'';
@@ -11746,7 +11746,7 @@
         {
           path = ''src/Functions/FX Layering.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
-          sha256 = "0b46lwa9q14vzffik33pnmn7k4mqbp7jg65g7rykiw5q2iasgj6r";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Filesystem_utils.lua'';
@@ -11771,7 +11771,7 @@
         {
           path = ''src/Functions/Modulation.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/Functions/Modulation.lua";
-          sha256 = "0i41mw0q5abfv6ga8askdm8nhid2sny4j5x9fgq59pynjrp44fxx";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Modulator_LFO.lua'';
@@ -11791,17 +11791,17 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20C%202.lua";
-          sha256 = "1911l16fh65qw6wkxgbii5q1qqjrlwahiw6gjd5p4s3dnq2bzd6v";
+          sha256 = "0d6rzcnlvkrlbkf4jvxxj9h17iq20p6k8nchpizpvky1523ixykp";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%203.lua";
-          sha256 = "0zcjnrzd7c0nzshnk2hymr776z5c552jsg6wla3gadpm0854jpb2";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaComp.lua";
-          sha256 = "07q03xx4bilhhlwyac37ark7vmjz5blkrgsi6sxr7xwmrdkvgfaq";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaDrum Machine.lua'';
@@ -11811,7 +11811,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Volume%20Pan%20Smoother.lua";
-          sha256 = "058b33p6acqdrfk77vydzfjdfv9f2lzpgn7fzfhd3fbdx4ab60zh";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ReaComp (Cockos).ini'';
@@ -11821,7 +11821,7 @@
         {
           path = ''src/FX Layouts/ValhallaDelay (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaDelay%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1ylka7jvqimjn0wkkmjbfidrgwy7yn44dh71hfhr27rxyv6f80wn";
+          sha256 = "1k4f0zac01fp3f7sdvryxjssys7vs68vxq86q3v9fh0raj1qzsxb";
         }
         {
           path = ''src/FX Layouts/ValhallaFreqEcho (Valhalla DSP, LLC).ini'';
@@ -11846,12 +11846,12 @@
         {
           path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaVintageVerb%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1awh4ndh33x47s0bciq8yzhqkd5jv6gwy7l2ch1099zlsc6fhm7l";
+          sha256 = "";
         }
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/FXChains/ReaDrum%20Machine.RfxChain";
-          sha256 = "0r20q4pbmvn0nyi0dbq3xkm4gm0fsvfnzdbg9gjd5bfsgx6ajhll";
+          sha256 = "0rqnjl2zb3k8kamznhh0gy2yg3m8ifmqm20bh0mcq85rp1pqzi7p";
         }
         {
           path = ''src/Images/Analog Knob 1.png'';
@@ -11866,7 +11866,7 @@
         {
           path = ''src/Images/Modulation Icon.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/Images/Modulation%20Icon.png";
-          sha256 = "0ld7d4zvzf48n42gxd0rlcdhph6bpbkzp04dbi8wyhaw38h9hkmz";
+          sha256 = "";
         }
         {
           path = ''src/Images/copy.png'';
@@ -11876,7 +11876,7 @@
         {
           path = ''src/Images/paste.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/Images/paste.png";
-          sha256 = "1irpwndfhdcy3x5xwgd8dflw8zhs3nw9ld5sjhacfg48aln9lhih";
+          sha256 = "";
         }
         {
           path = ''src/Images/pin.png'';
@@ -11911,7 +11911,7 @@
         {
           path = ''src/Images/Knobs/Bitwig.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/Images/Knobs/Bitwig.png";
-          sha256 = "0bmik4ch0yh1chl60db1wngf155bvhaa9w02ka8srcqd7whnb2sz";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob_Inverted.png'';
@@ -11926,7 +11926,7 @@
         {
           path = ''src/Images/Knobs/FancyGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/Images/Knobs/FancyGreenKnob.png";
-          sha256 = "0x4s659fbd9ff3vw763nlgz39csz6lscvzyjxizdr861d49bbd95";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
@@ -11941,7 +11941,7 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Pulse.ini'';
@@ -11976,7 +11976,7 @@
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/8e035544bbe1de2ad5fe0710111b657b28028a9f/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+          sha256 = "";
         }
       ];
     };
@@ -12020,7 +12020,7 @@
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d6f4f55553c3e643f3dd9565d25052364e7d1e2a/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
-          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+          sha256 = "1zf8m2psbgx1phg2arzgamcsysdf9qyq2rxj7xh4isiga349bx42";
         }
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
@@ -12030,7 +12030,7 @@
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d6f4f55553c3e643f3dd9565d25052364e7d1e2a/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20To%204%20Channels.jsfx";
-          sha256 = "1xp0b1wsh7pb18ff8db5kc20pn2pzpg4pmnpamidf03i1bzh0yra";
+          sha256 = "0x178p2y0cc12w0ar4cc3drjzv33myrsvaply45kmcj8dfyl0f8h";
         }
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
@@ -12125,7 +12125,7 @@
         {
           path = ''src/Functions/FX Layering.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d6f4f55553c3e643f3dd9565d25052364e7d1e2a/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
-          sha256 = "0b46lwa9q14vzffik33pnmn7k4mqbp7jg65g7rykiw5q2iasgj6r";
+          sha256 = "1ymag35bvdawpfv995wvfn7pyj3x1p6l5i6jf5ww3dfyqf60hkpz";
         }
         {
           path = ''src/Functions/Filesystem_utils.lua'';
@@ -14305,7 +14305,7 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/299bcb020e3bcac772e265c2b09462947443f1f0/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Pulse.ini'';
@@ -14325,7 +14325,7 @@
         {
           path = ''src/LFO Shapes/Sine.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/299bcb020e3bcac772e265c2b09462947443f1f0/BryanChi_FX_Devices/src/LFO%20Shapes/Sine.ini";
-          sha256 = "1s0d89b0a13bl0ppd3ffbx8zkfwx4y1j1fq9ghjczchbixj2h0s6";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Square.ini'';
@@ -14340,7 +14340,7 @@
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/299bcb020e3bcac772e265c2b09462947443f1f0/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+          sha256 = "";
         }
       ];
     };
@@ -14354,12 +14354,12 @@
         {
           path = '''';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/BryanChi_FX%20Devices.lua";
-          sha256 = "0a8g1llvyvxjiyb0ihp9j8jq328dl4fhgm1yvmgvi2wmmni6hzqc";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20(Mix)RackMixer.jsfx";
-          sha256 = "06a4xara6x5aa1saqqqii57ycdmxg68g83gcs35zmn70axxzgm1c";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
@@ -14409,12 +14409,12 @@
         {
           path = ''FXD JSFXs/firhalfband.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/FXD%20JSFXs/firhalfband.jsfx-inc";
-          sha256 = "1brd6z9dgdp56yggbb6ag4vir4l31f9frgx88p687hb0v9205h90";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/spectrum.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/FXD%20JSFXs/spectrum.jsfx-inc";
-          sha256 = "1l1yi77wz3wh5979rlbb8jn4abmqzvvyadbiwifyp81cw6zbf5w3";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/svf_filter.jsfx-inc'';
@@ -14429,17 +14429,17 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Regular.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Regular.ttf";
-          sha256 = "09dyd8h2a9pn424npw2ff5b90jr0ii66kik1fm53cs0wq7aqlwhk";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-2.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-2.ttf";
-          sha256 = "0bw66hqzgx77w7dx1pbbynag0cg9agh7qipjdl2kk3h9cd8ksd1p";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-3.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-3.ttf";
-          sha256 = "1grr7ir8sji4yhqq1kcc15agg39rlxgyx0pa5z7710vjp7ifz6mk";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-4.ttf'';
@@ -14449,7 +14449,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-5.ttf";
-          sha256 = "0n35pc1kqd2mc8pmjzqsainp4s1isg5cv03vkswpk0kyihckdqiz";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-6.ttf'';
@@ -14504,12 +14504,12 @@
         {
           path = ''src/Functions/General Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/src/Functions/General%20Functions.lua";
-          sha256 = "1hz63y7fr02imhzs8479dlrd3clvpypzmlbdrc3qs4736qzirjas";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Layout Editor functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/src/Functions/Layout%20Editor%20functions.lua";
-          sha256 = "1dpb6qp1anksdh2m4s4crdg7b1jlzfwv2nhp3mwhb70vzgfc1bpb";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Menu Bar.lua'';
@@ -14529,12 +14529,12 @@
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/src/Functions/Theme%20Editor%20Functions.lua";
-          sha256 = "1lhpi914x5j7q5bh2mr6zgrp7qg2gw9ssxjg3357gkkz7vc70fxl";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Container.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Container.lua";
-          sha256 = "0mz3zbzl6hnh01h3ib6rcpx1zz4sq2ci59dcv2n56dv2fmjm40q2";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
@@ -14554,12 +14554,12 @@
         {
           path = ''src/FX Layout Plugin Scripts/ReaDrum Machine.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaDrum%20Machine.lua";
-          sha256 = "0di1cq6cfcgwpfinn535p2a1j2njibghn5mkmayabqxb6br9ipsv";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Volume%20Pan%20Smoother.lua";
-          sha256 = "058b33p6acqdrfk77vydzfjdfv9f2lzpgn7fzfhd3fbdx4ab60zh";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ReaComp (Cockos).ini'';
@@ -14574,7 +14574,7 @@
         {
           path = ''src/FX Layouts/ValhallaFreqEcho (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaFreqEcho%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1zn56wya3k7d4rm6gl90rk9ql1a08b0qhg1086crfp33dz0535rp";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaShimmer (Valhalla DSP, LLC).ini'';
@@ -14589,7 +14589,7 @@
         {
           path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSupermassive%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "10a9h1ypfp0lhbwllj1dmdycrx09d18h889nqm26hm94d0gfpfpg";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
@@ -14604,12 +14604,12 @@
         {
           path = ''src/Images/Analog Knob 1.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/src/Images/Analog%20Knob%201.png";
-          sha256 = "05kzfclsbymn6mnac0mi4b3rr3bpkxq2w0svd3rylvlx786jv99v";
+          sha256 = "";
         }
         {
           path = ''src/Images/Modulation Icon hollow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f1d0e548bb81f39e8ad21a800e444e6b88d745bb/BryanChi_FX_Devices/src/Images/Modulation%20Icon%20hollow.png";
-          sha256 = "0h0h3wm4vdrk9h4326h69cm3nysqlcsxlpzgayl07mhjb43nlnn9";
+          sha256 = "";
         }
         {
           path = ''src/Images/Modulation Icon.png'';
@@ -17162,7 +17162,7 @@
         {
           path = ''FXD JSFXs/cookdsp.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp.jsfx-inc";
-          sha256 = "0bgaw4hkzkfr9jyvkc8nd7j7byxdvh0ibvqjqq4l4vvic5yhwdsz";
+          sha256 = "1jkws14m60h3i2lyr7c6q1kd1dpsy8wnsay0f1wknbpgncray3wb";
         }
         {
           path = ''FXD JSFXs/firhalfband.jsfx-inc'';
@@ -17207,7 +17207,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-5.ttf";
-          sha256 = "0n35pc1kqd2mc8pmjzqsainp4s1isg5cv03vkswpk0kyihckdqiz";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-6.ttf'';
@@ -17242,17 +17242,17 @@
         {
           path = ''src/Functions/Execute Before Loop.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/Functions/Execute%20Before%20Loop.lua";
-          sha256 = "1zap1kvxpv2wz2fkn7ynlliy5bmyrd6gy24dgk70rm1b2p45348j";
+          sha256 = "";
         }
         {
           path = ''src/Functions/FX Layering.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
-          sha256 = "1fmxc5359vnd33pfrqvlzckd9aygk24y207r10lilz8i54a7v5dy";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Filesystem_utils.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/Functions/Filesystem_utils.lua";
-          sha256 = "1cbdygychsnjzpf7jib81v3f4nlymbq6wqjv14bhxz9r61d183la";
+          sha256 = "01w43i5f1gd7fbv3k7pvj8qxfkgjk60fx2g336k04mwr0h2wvcza";
         }
         {
           path = ''src/Functions/GUI.lua'';
@@ -17267,7 +17267,7 @@
         {
           path = ''src/Functions/Layout Editor functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/Functions/Layout%20Editor%20functions.lua";
-          sha256 = "0rsxsffcgw1k8prkiypla7bh0hdggcn87mimjd8g21xczzp2dgzk";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Menu Bar.lua'';
@@ -17282,7 +17282,7 @@
         {
           path = ''src/Functions/Modulator_LFO.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/Functions/Modulator_LFO.lua";
-          sha256 = "195ba7gxlvdbsf30v8wszlamvwkdim662rvvzmvv8vjjcz0yfaqw";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
@@ -17302,7 +17302,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%203.lua";
-          sha256 = "0rp4s4z04d8j5szl1bg93cxxcxl47f72lk8vdx22qfwvrrl5k7ad";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
@@ -17367,7 +17367,7 @@
         {
           path = ''src/Images/Modulation Icon hollow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/Images/Modulation%20Icon%20hollow.png";
-          sha256 = "0h0h3wm4vdrk9h4326h69cm3nysqlcsxlpzgayl07mhjb43nlnn9";
+          sha256 = "";
         }
         {
           path = ''src/Images/Modulation Icon.png'';
@@ -17377,7 +17377,7 @@
         {
           path = ''src/Images/ModulationArrow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/Images/ModulationArrow.png";
-          sha256 = "0x08dbz2xsw5brgsj9ws0pincq0g500ksb41r5g51zg001awxnms";
+          sha256 = "";
         }
         {
           path = ''src/Images/MouseL.png'';
@@ -17392,7 +17392,7 @@
         {
           path = ''src/Images/copy.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/Images/copy.png";
-          sha256 = "15fhdmf8wjv72phq9skf804nfka45m2ldi750wnr6xbca51r7sy0";
+          sha256 = "";
         }
         {
           path = ''src/Images/paste.png'';
@@ -17402,7 +17402,7 @@
         {
           path = ''src/Images/pin.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/Images/pin.png";
-          sha256 = "1jknayv0zqxjv48kgsjk51q9p8azgj1fyz6v12wdg6mdjh65dq21";
+          sha256 = "";
         }
         {
           path = ''src/Images/pinned.png'';
@@ -17417,7 +17417,7 @@
         {
           path = ''src/Images/sinewave.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/Images/sinewave.png";
-          sha256 = "1c3yxzr0m9y57ra1jqsihq9vpmi495955lz1zm3ry42zy9zwf5r5";
+          sha256 = "";
         }
         {
           path = ''src/Images/trash.png'';
@@ -17442,7 +17442,7 @@
         {
           path = ''src/Images/Knobs/FancyBlueKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob.png";
-          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyGreenKnob.png'';
@@ -17452,7 +17452,7 @@
         {
           path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/Images/Knobs/FancyLightGreenKnob.png";
-          sha256 = "06a4b6c1pwppgkrijmm2xfvz3d57a2mhh02dcxkqppgd2adg7p1w";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyRedKnob.png'';
@@ -17462,7 +17462,7 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Pulse.ini'';
@@ -17472,12 +17472,12 @@
         {
           path = ''src/LFO Shapes/Saw L.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/LFO%20Shapes/Saw%20L.ini";
-          sha256 = "1p369li61z5ifvbmpcvm39z0g8kf6na8bgyrb82ndaadnmapc2rc";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Saw R.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/LFO%20Shapes/Saw%20R.ini";
-          sha256 = "1c7q4ykqq826khzb7jbcmfdx78grh8ijww80n3vlp2zy2rxcd79i";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Sine.ini'';
@@ -17492,12 +17492,12 @@
         {
           path = ''src/LFO Shapes/Triangle.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/LFO%20Shapes/Triangle.ini";
-          sha256 = "11fxmh0bwi1x7gini236sfa1485p2kac495zzr0ng027hkc00xfb";
+          sha256 = "";
         }
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/07c954ebfe0c28c2e3d8c02dd15872b712a20fef/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+          sha256 = "";
         }
       ];
     };
@@ -17511,12 +17511,12 @@
         {
           path = '''';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/BryanChi_FX%20Devices.lua";
-          sha256 = "1agkfwpfm8h4dvyhk3crvg7m3h0b6swnd5gp0m3a0c841j8b88j7";
+          sha256 = "16z9yspn8ahja0n7ci9gly43a7w6qid5g90d9yqyxc0rzs2bc4vc";
         }
         {
           path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20(Mix)RackMixer.jsfx";
-          sha256 = "06a4xara6x5aa1saqqqii57ycdmxg68g83gcs35zmn70axxzgm1c";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
@@ -17531,7 +17531,7 @@
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Gain%20Reduction%20Scope.jsfx";
-          sha256 = "0nn6mwjjf39q1619mcrh1bl0v41m81rf1yj2wb8gaahll3n4xj6h";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Macros.jsfx'';
@@ -17546,12 +17546,12 @@
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Saike%20BandSplitter.jsfx";
-          sha256 = "0pg482x7zhh7fqin3m4z9bl0d10svvz61pqrj49r4lxj3f3kmzpi";
+          sha256 = "1917rcxp6kw0aa2a3xmwhjvvmws39xjqpimxayfzxc0fs5qjxk6f";
         }
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20To%204%20Channels.jsfx";
-          sha256 = "1xp0b1wsh7pb18ff8db5kc20pn2pzpg4pmnpamidf03i1bzh0yra";
+          sha256 = "0x178p2y0cc12w0ar4cc3drjzv33myrsvaply45kmcj8dfyl0f8h";
         }
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
@@ -17561,7 +17561,7 @@
         {
           path = ''FXD JSFXs/cookdsp.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp.jsfx-inc";
-          sha256 = "0bgaw4hkzkfr9jyvkc8nd7j7byxdvh0ibvqjqq4l4vvic5yhwdsz";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/firhalfband.jsfx-inc'';
@@ -17571,17 +17571,17 @@
         {
           path = ''FXD JSFXs/spectrum.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/FXD%20JSFXs/spectrum.jsfx-inc";
-          sha256 = "1l1yi77wz3wh5979rlbb8jn4abmqzvvyadbiwifyp81cw6zbf5w3";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/svf_filter.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/FXD%20JSFXs/svf_filter.jsfx-inc";
-          sha256 = "19v43q1igqq8rfvawxyvizy0vfc6x7bc31nbvcxawdjhs661q8m5";
+          sha256 = "";
         }
         {
           path = ''src/Constants.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Constants.lua";
-          sha256 = "0kj38k80zjxdav9v2ldkfaqq1yyln0qvkhgxqnw7bvipp0z4kkxr";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Regular.ttf'';
@@ -17596,12 +17596,12 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-3.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-3.ttf";
-          sha256 = "1grr7ir8sji4yhqq1kcc15agg39rlxgyx0pa5z7710vjp7ifz6mk";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-4.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-4.ttf";
-          sha256 = "1i2r89rv6iszri08djk258i7jphl7dwklvw79nspvywjavmzrzxx";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
@@ -17626,12 +17626,12 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900.ttf";
-          sha256 = "0wm6zm06zagzzs55ypv2i03ybk80z2k3g2zbgim4i9ddd73xpg0l";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/IconFont1.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Fonts/IconFont1.ttf";
-          sha256 = "187nc8qjpwg7w99x40kwf5hd2icfl708i3x767ssggsldnjj7v9a";
+          sha256 = "";
         }
         {
           path = ''src/Functions/EQ functions.lua'';
@@ -17641,12 +17641,12 @@
         {
           path = ''src/Functions/Execute Before Loop.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Functions/Execute%20Before%20Loop.lua";
-          sha256 = "1zap1kvxpv2wz2fkn7ynlliy5bmyrd6gy24dgk70rm1b2p45348j";
+          sha256 = "";
         }
         {
           path = ''src/Functions/FX Layering.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
-          sha256 = "1fmxc5359vnd33pfrqvlzckd9aygk24y207r10lilz8i54a7v5dy";
+          sha256 = "0s4y6sgh33lczfxpsl0fp88bs4x6szssawd097hbfcyqdp7javm4";
         }
         {
           path = ''src/Functions/Filesystem_utils.lua'';
@@ -17661,7 +17661,7 @@
         {
           path = ''src/Functions/General Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Functions/General%20Functions.lua";
-          sha256 = "0wrkrz7l9m2z3vm6g6jf57ms8a7wvcldn6ff9hwrgkl30ydp8xwb";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Layout Editor functions.lua'';
@@ -17671,7 +17671,7 @@
         {
           path = ''src/Functions/Menu Bar.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Functions/Menu%20Bar.lua";
-          sha256 = "13yx34zg89j887lc7dbn3jc80srz66x7bj2bd1bggskmdx8aha0v";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Modulation.lua'';
@@ -17681,17 +17681,17 @@
         {
           path = ''src/Functions/Modulator_LFO.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Functions/Modulator_LFO.lua";
-          sha256 = "195ba7gxlvdbsf30v8wszlamvwkdim662rvvzmvv8vjjcz0yfaqw";
+          sha256 = "0zbv14jz4h9kdwly9rpnwx9awjjk44c22mbgfdgrmhp651823nhf";
         }
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Functions/Theme%20Editor%20Functions.lua";
-          sha256 = "0w4z2sadlx8yvmy4cj85bpjcx5ijq4ys9dx9v278cpabbsn70i7d";
+          sha256 = "18h8pc8flww1glfhp3r8mrwz7i1dnd53455zf1nzzppz5p81x9qy";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Container.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Container.lua";
-          sha256 = "01qbxbj128widsdnpir0nninsfisk5vm8r9sgjidf581nqliixl6";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
@@ -17706,7 +17706,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaComp.lua";
-          sha256 = "07q03xx4bilhhlwyac37ark7vmjz5blkrgsi6sxr7xwmrdkvgfaq";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaDrum Machine.lua'';
@@ -17731,7 +17731,7 @@
         {
           path = ''src/FX Layouts/ValhallaFreqEcho (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaFreqEcho%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1zn56wya3k7d4rm6gl90rk9ql1a08b0qhg1086crfp33dz0535rp";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaShimmer (Valhalla DSP, LLC).ini'';
@@ -17751,7 +17751,7 @@
         {
           path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaVintageVerb%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1awh4ndh33x47s0bciq8yzhqkd5jv6gwy7l2ch1099zlsc6fhm7l";
+          sha256 = "";
         }
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
@@ -17766,22 +17766,22 @@
         {
           path = ''src/Images/Modulation Icon hollow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Images/Modulation%20Icon%20hollow.png";
-          sha256 = "0h0h3wm4vdrk9h4326h69cm3nysqlcsxlpzgayl07mhjb43nlnn9";
+          sha256 = "";
         }
         {
           path = ''src/Images/Modulation Icon.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Images/Modulation%20Icon.png";
-          sha256 = "0ld7d4zvzf48n42gxd0rlcdhph6bpbkzp04dbi8wyhaw38h9hkmz";
+          sha256 = "";
         }
         {
           path = ''src/Images/ModulationArrow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Images/ModulationArrow.png";
-          sha256 = "0x08dbz2xsw5brgsj9ws0pincq0g500ksb41r5g51zg001awxnms";
+          sha256 = "";
         }
         {
           path = ''src/Images/MouseL.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Images/MouseL.png";
-          sha256 = "143ypg7phnnkn4c5dmaphyysww7cky0sy71ybvhyri0jrrlqh79j";
+          sha256 = "";
         }
         {
           path = ''src/Images/MouseR.png'';
@@ -17791,7 +17791,7 @@
         {
           path = ''src/Images/copy.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Images/copy.png";
-          sha256 = "15fhdmf8wjv72phq9skf804nfka45m2ldi750wnr6xbca51r7sy0";
+          sha256 = "";
         }
         {
           path = ''src/Images/paste.png'';
@@ -17831,7 +17831,7 @@
         {
           path = ''src/Images/Knobs/Bitwig.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Images/Knobs/Bitwig.png";
-          sha256 = "0bmik4ch0yh1chl60db1wngf155bvhaa9w02ka8srcqd7whnb2sz";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob_Inverted.png'';
@@ -17851,7 +17851,7 @@
         {
           path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/Images/Knobs/FancyLightGreenKnob.png";
-          sha256 = "06a4b6c1pwppgkrijmm2xfvz3d57a2mhh02dcxkqppgd2adg7p1w";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyRedKnob.png'';
@@ -17891,12 +17891,12 @@
         {
           path = ''src/LFO Shapes/Triangle.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/LFO%20Shapes/Triangle.ini";
-          sha256 = "11fxmh0bwi1x7gini236sfa1485p2kac495zzr0ng027hkc00xfb";
+          sha256 = "";
         }
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ff5bc2ed4b5dcc4b6b9cb4b43303e3e29d595e3e/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+          sha256 = "";
         }
       ];
     };
@@ -17910,7 +17910,7 @@
         {
           path = '''';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/BryanChi_FX%20Devices.lua";
-          sha256 = "07zrwkq8sqcqlaw02jy4sl08nm5qj2ax8nqxq9h0lmca2jnj77m3";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
@@ -17920,7 +17920,7 @@
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Band%20Joiner.jsfx";
-          sha256 = "17vyx8c36776wf4hs1lr2qglckmsj460zglja0k99kg1l0igjj2c";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Container Macros.jsfx'';
@@ -17930,7 +17930,7 @@
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Gain%20Reduction%20Scope.jsfx";
-          sha256 = "0nn6mwjjf39q1619mcrh1bl0v41m81rf1yj2wb8gaahll3n4xj6h";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Macros.jsfx'';
@@ -17940,22 +17940,22 @@
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
-          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Saike%20BandSplitter.jsfx";
-          sha256 = "0pg482x7zhh7fqin3m4z9bl0d10svvz61pqrj49r4lxj3f3kmzpi";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20To%204%20Channels.jsfx";
-          sha256 = "1xp0b1wsh7pb18ff8db5kc20pn2pzpg4pmnpamidf03i1bzh0yra";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20to%2032%20Channels.jsfx";
-          sha256 = "0c12dzr35k4jdfhvn3cq3v3c2dm1yd57jz6v989rqsq1i9j3zbqd";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp.jsfx-inc'';
@@ -17970,12 +17970,12 @@
         {
           path = ''FXD JSFXs/spectrum.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/FXD%20JSFXs/spectrum.jsfx-inc";
-          sha256 = "1l1yi77wz3wh5979rlbb8jn4abmqzvvyadbiwifyp81cw6zbf5w3";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/svf_filter.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/FXD%20JSFXs/svf_filter.jsfx-inc";
-          sha256 = "19v43q1igqq8rfvawxyvizy0vfc6x7bc31nbvcxawdjhs661q8m5";
+          sha256 = "";
         }
         {
           path = ''src/Constants.lua'';
@@ -17990,12 +17990,12 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-2.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-2.ttf";
-          sha256 = "0bw66hqzgx77w7dx1pbbynag0cg9agh7qipjdl2kk3h9cd8ksd1p";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-3.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-3.ttf";
-          sha256 = "1grr7ir8sji4yhqq1kcc15agg39rlxgyx0pa5z7710vjp7ifz6mk";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-4.ttf'';
@@ -18005,52 +18005,52 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-5.ttf";
-          sha256 = "0n35pc1kqd2mc8pmjzqsainp4s1isg5cv03vkswpk0kyihckdqiz";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-6.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-6.ttf";
-          sha256 = "12dh62i8df57bmdm7x1fn606c8nq2v96ksijs91nwlgri9rpxrip";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-7.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-7.ttf";
-          sha256 = "0gisspv42nkyjnmhgzcnvzfk1sprzbfyfjy9mmphlwy1rymwn27s";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-8.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-8.ttf";
-          sha256 = "0fkz0i58f4rz6k8zvzq2kcxwwhzanhckg16vvsavclk7i10bn0ad";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900.ttf";
-          sha256 = "0wm6zm06zagzzs55ypv2i03ybk80z2k3g2zbgim4i9ddd73xpg0l";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/IconFont1.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Fonts/IconFont1.ttf";
-          sha256 = "187nc8qjpwg7w99x40kwf5hd2icfl708i3x767ssggsldnjj7v9a";
+          sha256 = "";
         }
         {
           path = ''src/Functions/EQ functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Functions/EQ%20functions.lua";
-          sha256 = "1vq93gfssz847ck8jxs1rb25j97zwvwqndmscncwzw0c77p1zzqx";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Execute Before Loop.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Functions/Execute%20Before%20Loop.lua";
-          sha256 = "0rl0lr7smi9qzxg9vby8v7fs611mlv2m6b6kkjiiyjhi6v8k5n52";
+          sha256 = "";
         }
         {
           path = ''src/Functions/FX Layering.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
-          sha256 = "1fmxc5359vnd33pfrqvlzckd9aygk24y207r10lilz8i54a7v5dy";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Filesystem_utils.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Functions/Filesystem_utils.lua";
-          sha256 = "1cbdygychsnjzpf7jib81v3f4nlymbq6wqjv14bhxz9r61d183la";
+          sha256 = "";
         }
         {
           path = ''src/Functions/GUI.lua'';
@@ -18060,52 +18060,52 @@
         {
           path = ''src/Functions/General Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Functions/General%20Functions.lua";
-          sha256 = "08phin7qwlrfd9zq7d6yf7dkw87jjf0crbknhsf0rzjr4km5cyhw";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Layout Editor functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Functions/Layout%20Editor%20functions.lua";
-          sha256 = "1bb3s9x3k4g4k2xjagfh5ib6x5m0hakq0g029jgwhrvbgk7wm5ji";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Menu Bar.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Functions/Menu%20Bar.lua";
-          sha256 = "1in4sp62p7s1p9r01ylxan8mifwpmxhlz5mdf1p6zamzdhrqpxxa";
+          sha256 = "07cs2k4x7fdl2xpx093848zxbw5ip1sv0jazazb6i9wyl12vfaah";
         }
         {
           path = ''src/Functions/Modulation.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Functions/Modulation.lua";
-          sha256 = "1l6pwzj81gawq6zwrldrnb63p7vmnnsw67wdfdrmi3rwn3dgrpyp";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Modulator_LFO.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Functions/Modulator_LFO.lua";
-          sha256 = "195ba7gxlvdbsf30v8wszlamvwkdim662rvvzmvv8vjjcz0yfaqw";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Functions/Theme%20Editor%20Functions.lua";
-          sha256 = "0w4z2sadlx8yvmy4cj85bpjcx5ijq4ys9dx9v278cpabbsn70i7d";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Container.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Container.lua";
-          sha256 = "01qbxbj128widsdnpir0nninsfisk5vm8r9sgjidf581nqliixl6";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20C%202.lua";
-          sha256 = "1911l16fh65qw6wkxgbii5q1qqjrlwahiw6gjd5p4s3dnq2bzd6v";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%203.lua";
-          sha256 = "0rp4s4z04d8j5szl1bg93cxxcxl47f72lk8vdx22qfwvrrl5k7ad";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaComp.lua";
-          sha256 = "07q03xx4bilhhlwyac37ark7vmjz5blkrgsi6sxr7xwmrdkvgfaq";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaDrum Machine.lua'';
@@ -18120,12 +18120,12 @@
         {
           path = ''src/FX Layouts/ReaComp (Cockos).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/FX%20Layouts/ReaComp%20(Cockos).ini";
-          sha256 = "0vpghrj7hsfqz7vqff4grqfflzm1pgci0k8j6d8i1af8jcgamd7l";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaDelay (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaDelay%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1ylka7jvqimjn0wkkmjbfidrgwy7yn44dh71hfhr27rxyv6f80wn";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaFreqEcho (Valhalla DSP, LLC).ini'';
@@ -18140,7 +18140,7 @@
         {
           path = ''src/FX Layouts/ValhallaSpaceModulator (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSpaceModulator%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "0y0lsyd2y0bda0gr3aqkn0s6hmdbfy4c0crsgx2grj05xf44r3m5";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
@@ -18150,7 +18150,7 @@
         {
           path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaVintageVerb%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1awh4ndh33x47s0bciq8yzhqkd5jv6gwy7l2ch1099zlsc6fhm7l";
+          sha256 = "";
         }
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
@@ -18170,12 +18170,12 @@
         {
           path = ''src/Images/Modulation Icon.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Images/Modulation%20Icon.png";
-          sha256 = "0ld7d4zvzf48n42gxd0rlcdhph6bpbkzp04dbi8wyhaw38h9hkmz";
+          sha256 = "";
         }
         {
           path = ''src/Images/ModulationArrow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Images/ModulationArrow.png";
-          sha256 = "0x08dbz2xsw5brgsj9ws0pincq0g500ksb41r5g51zg001awxnms";
+          sha256 = "";
         }
         {
           path = ''src/Images/MouseL.png'';
@@ -18185,7 +18185,7 @@
         {
           path = ''src/Images/MouseR.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Images/MouseR.png";
-          sha256 = "0ncqj32gpk7b030zab56229bcmpvcp5rmch8873frdl303wagvgc";
+          sha256 = "";
         }
         {
           path = ''src/Images/copy.png'';
@@ -18240,7 +18240,7 @@
         {
           path = ''src/Images/Knobs/FancyBlueKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob.png";
-          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyGreenKnob.png'';
@@ -18250,7 +18250,7 @@
         {
           path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Images/Knobs/FancyLightGreenKnob.png";
-          sha256 = "06a4b6c1pwppgkrijmm2xfvz3d57a2mhh02dcxkqppgd2adg7p1w";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyRedKnob.png'';
@@ -18260,12 +18260,12 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Pulse.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/dd4c8f8fa622ffb4b9164b2015f4e9febb5c2366/BryanChi_FX_Devices/src/LFO%20Shapes/Pulse.ini";
-          sha256 = "19yixgpzmiy8cjkfxwhhz7i30msakmqk6f6apx71nv514kachaam";
+          sha256 = "1ik8qrgxf7g38s1vhiqvlwdf9p11r2vqvck8w742awkbsh1ddmph";
         }
         {
           path = ''src/LFO Shapes/Saw L.ini'';
@@ -20518,17 +20518,17 @@
         {
           path = ''src/Functions/Menu Bar.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/01d3c3bfaf2c737b65b7ce05f89ce7dfa609b9d2/BryanChi_FX_Devices/src/Functions/Menu%20Bar.lua";
-          sha256 = "1in4sp62p7s1p9r01ylxan8mifwpmxhlz5mdf1p6zamzdhrqpxxa";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Modulation.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/01d3c3bfaf2c737b65b7ce05f89ce7dfa609b9d2/BryanChi_FX_Devices/src/Functions/Modulation.lua";
-          sha256 = "10jd5i6a4krpq8x7z1f3mka0y4145xj1z65ybgcrrpm99vriq9nc";
+          sha256 = "1ah3bf9i5dvp100hx051jz0vas25vzjmrs8544dpdrw9yfxrib53";
         }
         {
           path = ''src/Functions/Modulator_LFO.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/01d3c3bfaf2c737b65b7ce05f89ce7dfa609b9d2/BryanChi_FX_Devices/src/Functions/Modulator_LFO.lua";
-          sha256 = "195ba7gxlvdbsf30v8wszlamvwkdim662rvvzmvv8vjjcz0yfaqw";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
@@ -20553,12 +20553,12 @@
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/01d3c3bfaf2c737b65b7ce05f89ce7dfa609b9d2/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaComp.lua";
-          sha256 = "07q03xx4bilhhlwyac37ark7vmjz5blkrgsi6sxr7xwmrdkvgfaq";
+          sha256 = "1ji1faddyxzg0hsvqbbj3x99jkawlyhbj8n3vwns4jv9cj20dvzd";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaDrum Machine.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/01d3c3bfaf2c737b65b7ce05f89ce7dfa609b9d2/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaDrum%20Machine.lua";
-          sha256 = "0bk86ndfggfv4s0b0awbdcifn16zb5j2a86dvy7pf6hsndbmypxa";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
@@ -20578,7 +20578,7 @@
         {
           path = ''src/FX Layouts/ValhallaFreqEcho (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/01d3c3bfaf2c737b65b7ce05f89ce7dfa609b9d2/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaFreqEcho%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1zn56wya3k7d4rm6gl90rk9ql1a08b0qhg1086crfp33dz0535rp";
+          sha256 = "1fjdca6xc8a7lzkgj44fbdqvwqli0a7n9yp7mqhxbf9bdx3q83al";
         }
         {
           path = ''src/FX Layouts/ValhallaShimmer (Valhalla DSP, LLC).ini'';
@@ -20588,12 +20588,12 @@
         {
           path = ''src/FX Layouts/ValhallaSpaceModulator (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/01d3c3bfaf2c737b65b7ce05f89ce7dfa609b9d2/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSpaceModulator%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "0y0lsyd2y0bda0gr3aqkn0s6hmdbfy4c0crsgx2grj05xf44r3m5";
+          sha256 = "0njj63cswjynvi8avdrmfjvx63rkd6x20infjgpzla6gx8h1fzmk";
         }
         {
           path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/01d3c3bfaf2c737b65b7ce05f89ce7dfa609b9d2/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSupermassive%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "10a9h1ypfp0lhbwllj1dmdycrx09d18h889nqm26hm94d0gfpfpg";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
@@ -20633,7 +20633,7 @@
         {
           path = ''src/Images/MouseR.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/01d3c3bfaf2c737b65b7ce05f89ce7dfa609b9d2/BryanChi_FX_Devices/src/Images/MouseR.png";
-          sha256 = "0ncqj32gpk7b030zab56229bcmpvcp5rmch8873frdl303wagvgc";
+          sha256 = "";
         }
         {
           path = ''src/Images/Screenshot 2024-10-06 at 9.34.38 PM.png'';
@@ -20673,7 +20673,7 @@
         {
           path = ''src/Images/sinewave.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/01d3c3bfaf2c737b65b7ce05f89ce7dfa609b9d2/BryanChi_FX_Devices/src/Images/sinewave.png";
-          sha256 = "1c3yxzr0m9y57ra1jqsihq9vpmi495955lz1zm3ry42zy9zwf5r5";
+          sha256 = "";
         }
         {
           path = ''src/Images/trash.png'';
@@ -20718,7 +20718,7 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/01d3c3bfaf2c737b65b7ce05f89ce7dfa609b9d2/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Pulse.ini'';
@@ -20753,12 +20753,12 @@
         {
           path = ''src/Layout Editor Item Styles/Knob/kilohearts.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/01d3c3bfaf2c737b65b7ce05f89ce7dfa609b9d2/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/kilohearts.ini";
-          sha256 = "06mq1jda0i1bdircp48bg2bqijr9ra269lrxj84pbzd66mzyvnah";
+          sha256 = "";
         }
         {
           path = ''src/Layout Editor Item Styles/Switch/Kilohearts.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/01d3c3bfaf2c737b65b7ce05f89ce7dfa609b9d2/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Switch/Kilohearts.ini";
-          sha256 = "1pqq8zp8920898z5bjgmckknyl035bfjww1wbhqkls45img4ri87";
+          sha256 = "";
         }
         {
           path = ''src/FXD - Record Last Touch.lua'';
@@ -20792,27 +20792,27 @@
         {
           path = ''FXD JSFXs/FXD Container Macros.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Container%20Macros.jsfx";
-          sha256 = "1ykrpidm4cba2ffqazi6x0wakiwfq8dzkazqvwv7r4gmar2vvl5l";
+          sha256 = "0sg1kssj32i1dnpp55lwvla772i20zfncqw8dmn9098018bwlnyg";
         }
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Gain%20Reduction%20Scope.jsfx";
-          sha256 = "0nn6mwjjf39q1619mcrh1bl0v41m81rf1yj2wb8gaahll3n4xj6h";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Macros.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros.jsfx";
-          sha256 = "10627f3xlfzzsajnnlz8vds12gh1fgc4zak1divly8av4inbi91q";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
-          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Saike%20BandSplitter.jsfx";
-          sha256 = "0pg482x7zhh7fqin3m4z9bl0d10svvz61pqrj49r4lxj3f3kmzpi";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
@@ -20852,7 +20852,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Regular.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Regular.ttf";
-          sha256 = "09dyd8h2a9pn424npw2ff5b90jr0ii66kik1fm53cs0wq7aqlwhk";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-2.ttf'';
@@ -20867,12 +20867,12 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-4.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-4.ttf";
-          sha256 = "1i2r89rv6iszri08djk258i7jphl7dwklvw79nspvywjavmzrzxx";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-5.ttf";
-          sha256 = "0n35pc1kqd2mc8pmjzqsainp4s1isg5cv03vkswpk0kyihckdqiz";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-6.ttf'';
@@ -20892,7 +20892,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900.ttf";
-          sha256 = "0wm6zm06zagzzs55ypv2i03ybk80z2k3g2zbgim4i9ddd73xpg0l";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/IconFont1.ttf'';
@@ -20917,7 +20917,7 @@
         {
           path = ''src/Functions/Filesystem_utils.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/src/Functions/Filesystem_utils.lua";
-          sha256 = "11n786zkxkxsja0wn5g9xw7g5y4fkpzg0rf8acw0pcd28hk4k30i";
+          sha256 = "0nzl3rv343znda5cn2la41c4zxrgxfyrca6nr8h57z3fx6ibnzcc";
         }
         {
           path = ''src/Functions/GUI.lua'';
@@ -20932,17 +20932,17 @@
         {
           path = ''src/Functions/Layout Editor functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/src/Functions/Layout%20Editor%20functions.lua";
-          sha256 = "05jazv9y8mra9arclfigkfsf6qsjfcg1vk80vvrgxssyd9hpnlak";
+          sha256 = "149h54cfd9m88fhzqy1prvpy4f45fgp2hfg96ad24vyz2agf257a";
         }
         {
           path = ''src/Functions/Menu Bar.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/src/Functions/Menu%20Bar.lua";
-          sha256 = "1in4sp62p7s1p9r01ylxan8mifwpmxhlz5mdf1p6zamzdhrqpxxa";
+          sha256 = "07cs2k4x7fdl2xpx093848zxbw5ip1sv0jazazb6i9wyl12vfaah";
         }
         {
           path = ''src/Functions/Modulation.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/src/Functions/Modulation.lua";
-          sha256 = "10jd5i6a4krpq8x7z1f3mka0y4145xj1z65ybgcrrpm99vriq9nc";
+          sha256 = "1ah3bf9i5dvp100hx051jz0vas25vzjmrs8544dpdrw9yfxrib53";
         }
         {
           path = ''src/Functions/Modulator_LFO.lua'';
@@ -20957,7 +20957,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Container.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Container.lua";
-          sha256 = "01qbxbj128widsdnpir0nninsfisk5vm8r9sgjidf581nqliixl6";
+          sha256 = "1lxgwb74gpqrx3r0h5zcwi6yc4ids2l9sj95wfkfimap0pl1n2fv";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
@@ -20967,7 +20967,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1ea8ff4cf191bfee65c621cc9f8c10ca57c235f9/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%203.lua";
-          sha256 = "11d7raq9z03h4dl4fid0bhdks3zcyhl7fvxh3schgmnayqzny6vy";
+          sha256 = "18pwqqzxswbr8kq7p37mbfxzw0i9r0h6z3jqlpl724c08db1h54c";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
@@ -22888,7 +22888,7 @@
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c30d66b17325ad7676b9f6fe49eb6f2afd99ac36/BryanChi_FX_Devices/src/FXChains/ReaDrum%20Machine.RfxChain";
-          sha256 = "0r20q4pbmvn0nyi0dbq3xkm4gm0fsvfnzdbg9gjd5bfsgx6ajhll";
+          sha256 = "";
         }
         {
           path = ''src/Images/Analog Knob 1.png'';
@@ -22938,7 +22938,7 @@
         {
           path = ''src/Images/paste.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c30d66b17325ad7676b9f6fe49eb6f2afd99ac36/BryanChi_FX_Devices/src/Images/paste.png";
-          sha256 = "1irpwndfhdcy3x5xwgd8dflw8zhs3nw9ld5sjhacfg48aln9lhih";
+          sha256 = "";
         }
         {
           path = ''src/Images/pin.png'';
@@ -22958,7 +22958,7 @@
         {
           path = ''src/Images/sinewave.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c30d66b17325ad7676b9f6fe49eb6f2afd99ac36/BryanChi_FX_Devices/src/Images/sinewave.png";
-          sha256 = "1c3yxzr0m9y57ra1jqsihq9vpmi495955lz1zm3ry42zy9zwf5r5";
+          sha256 = "";
         }
         {
           path = ''src/Images/small_scale_white.png'';
@@ -23003,12 +23003,12 @@
         {
           path = ''src/Images/Knobs/FancyRedKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c30d66b17325ad7676b9f6fe49eb6f2afd99ac36/BryanChi_FX_Devices/src/Images/Knobs/FancyRedKnob.png";
-          sha256 = "0nm76r5gh8ihzhilhs4h6rmq3d120cwlsq0gcmhvq5qahfjsmxgs";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/hise_knob_big.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c30d66b17325ad7676b9f6fe49eb6f2afd99ac36/BryanChi_FX_Devices/src/Images/Knobs/hise_knob_big.png";
-          sha256 = "11zmbhvb0pqljwp98zpn8kbpf81rqdp27lw42ly51f27028plrjm";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/hise_knob_small.png'';
@@ -23018,7 +23018,7 @@
         {
           path = ''src/Images/Knobs/Ideogram analog knob 2 No Pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c30d66b17325ad7676b9f6fe49eb6f2afd99ac36/BryanChi_FX_Devices/src/Images/Knobs/Ideogram%20analog%20knob%202%20No%20Pointer.png";
-          sha256 = "1wpirblxqaygvfcfm4rpq7kv6wm7kbdk134c5fmbgb8rhia5cb9c";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/ideogram analog knob 1 No Pointer.png'';
@@ -23028,7 +23028,7 @@
         {
           path = ''src/Images/Knobs/Analog Knob with pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c30d66b17325ad7676b9f6fe49eb6f2afd99ac36/BryanChi_FX_Devices/src/Images/Knobs/Analog%20Knob%20with%20pointer.png";
-          sha256 = "11q2zbbrpmlv8884ikj6zc5l6l5q0rciqbd6ch81lxcdj4cs029c";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Flex Chorus with pointer.png'';
@@ -23053,7 +23053,7 @@
         {
           path = ''src/LFO Shapes/Saw R.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c30d66b17325ad7676b9f6fe49eb6f2afd99ac36/BryanChi_FX_Devices/src/LFO%20Shapes/Saw%20R.ini";
-          sha256 = "1c7q4ykqq826khzb7jbcmfdx78grh8ijww80n3vlp2zy2rxcd79i";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Sine.ini'';
@@ -23068,7 +23068,7 @@
         {
           path = ''src/LFO Shapes/Triangle.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c30d66b17325ad7676b9f6fe49eb6f2afd99ac36/BryanChi_FX_Devices/src/LFO%20Shapes/Triangle.ini";
-          sha256 = "11fxmh0bwi1x7gini236sfa1485p2kac495zzr0ng027hkc00xfb";
+          sha256 = "1slq4f2nlnfhsklgrd10rqgbn9h1n0s5swvmj1k9cq6pzg9nb1qw";
         }
         {
           path = ''src/Layout Editor Item Styles/Knob/kilohearts.ini'';
@@ -23078,7 +23078,7 @@
         {
           path = ''src/Layout Editor Item Styles/Switch/Kilohearts.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c30d66b17325ad7676b9f6fe49eb6f2afd99ac36/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Switch/Kilohearts.ini";
-          sha256 = "1pqq8zp8920898z5bjgmckknyl035bfjww1wbhqkls45img4ri87";
+          sha256 = "";
         }
         {
           path = ''src/FXD - Record Last Touch.lua'';
@@ -23107,7 +23107,7 @@
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Band%20Joiner.jsfx";
-          sha256 = "17vyx8c36776wf4hs1lr2qglckmsj460zglja0k99kg1l0igjj2c";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Container Macros.jsfx'';
@@ -23117,22 +23117,22 @@
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Gain%20Reduction%20Scope.jsfx";
-          sha256 = "0nn6mwjjf39q1619mcrh1bl0v41m81rf1yj2wb8gaahll3n4xj6h";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Macros.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros.jsfx";
-          sha256 = "10627f3xlfzzsajnnlz8vds12gh1fgc4zak1divly8av4inbi91q";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
-          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Saike%20BandSplitter.jsfx";
-          sha256 = "0pg482x7zhh7fqin3m4z9bl0d10svvz61pqrj49r4lxj3f3kmzpi";
+          sha256 = "1917rcxp6kw0aa2a3xmwhjvvmws39xjqpimxayfzxc0fs5qjxk6f";
         }
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
@@ -23152,17 +23152,17 @@
         {
           path = ''FXD JSFXs/firhalfband.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/FXD%20JSFXs/firhalfband.jsfx-inc";
-          sha256 = "1brd6z9dgdp56yggbb6ag4vir4l31f9frgx88p687hb0v9205h90";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/spectrum.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/FXD%20JSFXs/spectrum.jsfx-inc";
-          sha256 = "1l1yi77wz3wh5979rlbb8jn4abmqzvvyadbiwifyp81cw6zbf5w3";
+          sha256 = "0lsxnn4dzjap9jqv6w9xyrjf2jvq84pwka1rdz2q4cnwyk87rl2f";
         }
         {
           path = ''FXD JSFXs/svf_filter.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/FXD%20JSFXs/svf_filter.jsfx-inc";
-          sha256 = "19v43q1igqq8rfvawxyvizy0vfc6x7bc31nbvcxawdjhs661q8m5";
+          sha256 = "";
         }
         {
           path = ''src/Constants.lua'';
@@ -23177,7 +23177,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-2.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-2.ttf";
-          sha256 = "0bw66hqzgx77w7dx1pbbynag0cg9agh7qipjdl2kk3h9cd8ksd1p";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-3.ttf'';
@@ -23187,12 +23187,12 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-4.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-4.ttf";
-          sha256 = "1i2r89rv6iszri08djk258i7jphl7dwklvw79nspvywjavmzrzxx";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-5.ttf";
-          sha256 = "0n35pc1kqd2mc8pmjzqsainp4s1isg5cv03vkswpk0kyihckdqiz";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-6.ttf'';
@@ -23202,7 +23202,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-7.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-7.ttf";
-          sha256 = "0gisspv42nkyjnmhgzcnvzfk1sprzbfyfjy9mmphlwy1rymwn27s";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-8.ttf'';
@@ -23222,7 +23222,7 @@
         {
           path = ''src/Functions/EQ functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Functions/EQ%20functions.lua";
-          sha256 = "1vq93gfssz847ck8jxs1rb25j97zwvwqndmscncwzw0c77p1zzqx";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Execute Before Loop.lua'';
@@ -23252,12 +23252,12 @@
         {
           path = ''src/Functions/Layout Editor functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Functions/Layout%20Editor%20functions.lua";
-          sha256 = "1bnv8n9clbz5hfagkwh19yfm1j4ak0fda7j4y734g2pcf6m87j0n";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Menu Bar.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Functions/Menu%20Bar.lua";
-          sha256 = "1i9bsndqfychsly27kz035fqvmzdyz66wj8k1mh5miybnnmxrdw1";
+          sha256 = "0bmc9920h3la1qw5hwcb0as8sdlp5z7v2zj0caw3pivf49jgrdkx";
         }
         {
           path = ''src/Functions/Modulation.lua'';
@@ -23267,17 +23267,17 @@
         {
           path = ''src/Functions/Modulator_LFO.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Functions/Modulator_LFO.lua";
-          sha256 = "195ba7gxlvdbsf30v8wszlamvwkdim662rvvzmvv8vjjcz0yfaqw";
+          sha256 = "0zbv14jz4h9kdwly9rpnwx9awjjk44c22mbgfdgrmhp651823nhf";
         }
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Functions/Theme%20Editor%20Functions.lua";
-          sha256 = "0w4z2sadlx8yvmy4cj85bpjcx5ijq4ys9dx9v278cpabbsn70i7d";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Container.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Container.lua";
-          sha256 = "01qbxbj128widsdnpir0nninsfisk5vm8r9sgjidf581nqliixl6";
+          sha256 = "1lxgwb74gpqrx3r0h5zcwi6yc4ids2l9sj95wfkfimap0pl1n2fv";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
@@ -23287,7 +23287,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%203.lua";
-          sha256 = "11d7raq9z03h4dl4fid0bhdks3zcyhl7fvxh3schgmnayqzny6vy";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
@@ -23307,7 +23307,7 @@
         {
           path = ''src/FX Layouts/ReaComp (Cockos).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/FX%20Layouts/ReaComp%20(Cockos).ini";
-          sha256 = "01yd4i2f81kcj228gwp7md5b1n53jbf8zrjl9993v6n4f49h377x";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaDelay (Valhalla DSP, LLC).ini'';
@@ -23317,7 +23317,7 @@
         {
           path = ''src/FX Layouts/ValhallaFreqEcho (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaFreqEcho%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1zn56wya3k7d4rm6gl90rk9ql1a08b0qhg1086crfp33dz0535rp";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaShimmer (Valhalla DSP, LLC).ini'';
@@ -23352,7 +23352,7 @@
         {
           path = ''src/FX Layouts/kHs Phase Distortion (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Phase%20Distortion%20(Kilohearts).ini";
-          sha256 = "18jbv8pd31cj4aywklj5kwywc4wldksls2ip1sw7nhs2q4cjlaa2";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176LN Rev E (Universal Audio, Inc.).ini'';
@@ -23362,12 +23362,12 @@
         {
           path = ''src/FX Layouts/UAD UA 1176AE (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176AE%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "01x3r4mg5kfsydk448ax914dff5r5abbx7q4h1srnjfx5cj171l2";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176 Rev A (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176%20Rev%20A%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "055v4553jmr80qdwf7a9aqxfnrzbk9969zpdac864h7hin3v6y5z";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176LN Legacy (Universal Audio, Inc.).ini'';
@@ -23402,12 +23402,12 @@
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/FXChains/ReaDrum%20Machine.RfxChain";
-          sha256 = "0r20q4pbmvn0nyi0dbq3xkm4gm0fsvfnzdbg9gjd5bfsgx6ajhll";
+          sha256 = "";
         }
         {
           path = ''src/Images/Analog Knob 1.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Images/Analog%20Knob%201.png";
-          sha256 = "05kzfclsbymn6mnac0mi4b3rr3bpkxq2w0svd3rylvlx786jv99v";
+          sha256 = "";
         }
         {
           path = ''src/Images/Flex Chorus.png'';
@@ -23457,22 +23457,22 @@
         {
           path = ''src/Images/pin.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Images/pin.png";
-          sha256 = "1jknayv0zqxjv48kgsjk51q9p8azgj1fyz6v12wdg6mdjh65dq21";
+          sha256 = "";
         }
         {
           path = ''src/Images/pinned.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Images/pinned.png";
-          sha256 = "1aq3gqzykr8adrfs23w4vp37ngmlvhcddi8740fs2g7176j40swi";
+          sha256 = "";
         }
         {
           path = ''src/Images/save.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Images/save.png";
-          sha256 = "0birbbfpmpdg20hgw4926730af3kwmpiiv8a1r3j8v3i1q4qi9mc";
+          sha256 = "";
         }
         {
           path = ''src/Images/sinewave.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Images/sinewave.png";
-          sha256 = "1c3yxzr0m9y57ra1jqsihq9vpmi495955lz1zm3ry42zy9zwf5r5";
+          sha256 = "";
         }
         {
           path = ''src/Images/small_scale_white.png'';
@@ -23492,7 +23492,7 @@
         {
           path = ''src/Images/Backgrounds/Amek S.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Images/Backgrounds/Amek%20S.png";
-          sha256 = "0pkiw9pscjj4p5cwvxxkk8qay9v448y16591595krz73j9zfp2nv";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/FC icon.png'';
@@ -23502,7 +23502,7 @@
         {
           path = ''src/Images/Backgrounds/FC.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Images/Backgrounds/FC.png";
-          sha256 = "00db3sm0d9g5i6a558dds354p653kb10436a8piaz2mdajq8krly";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/Neve_33609_logo 2.png'';
@@ -23522,17 +23522,17 @@
         {
           path = ''src/Images/Backgrounds/UAD Century strip.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Images/Backgrounds/UAD%20Century%20strip.png";
-          sha256 = "0qy99vi0bhx10ybpgb0v8z4l1160mj94laddd1z98dx8f6zmrwns";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/bx_2980EQ.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Images/Backgrounds/bx_2980EQ.png";
-          sha256 = "1lipk7mr3769wsq2wsknnbic05w89mpb9q7i9biidxvdhb35l871";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/la2a.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Images/Backgrounds/la2a.png";
-          sha256 = "0s3i1zplanh2h26vnyzs4yhvsif9sbgjwbz72mdm5r69rzspmpf0";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/Console 1.png'';
@@ -23542,12 +23542,12 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2 2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2%202.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/FancyGreenCheck_2_white.png'';
@@ -23562,7 +23562,7 @@
         {
           path = ''src/Images/Switches/Red Green.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3e57a5d75bcd94f2d7d3b15860ae6b8bf90fbb21/BryanChi_FX_Devices/src/Images/Switches/Red%20Green.png";
-          sha256 = "0m41m1p5rlix43jk8b4lyy08yf0vjj1bspbb5rl795pj5h2q99b2";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/SCR-20240903-unss.png'';
@@ -25240,12 +25240,12 @@
         {
           path = ''src/Images/Flex Chorus.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/Images/Flex%20Chorus.png";
-          sha256 = "";
+          sha256 = "1xcn8wb9j02g51sqhc6rvmj5x3q08m069i8zg9wda274rx7y3klb";
         }
         {
           path = ''src/Images/Modulation Icon hollow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/Images/Modulation%20Icon%20hollow.png";
-          sha256 = "";
+          sha256 = "0h0h3wm4vdrk9h4326h69cm3nysqlcsxlpzgayl07mhjb43nlnn9";
         }
         {
           path = ''src/Images/Modulation Icon.png'';
@@ -25270,7 +25270,7 @@
         {
           path = ''src/Images/add-list.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/Images/add-list.png";
-          sha256 = "";
+          sha256 = "12czrwa9l7wiw99s8dix5ig72zh6nq6bnaypp4xbr59512phz2pd";
         }
         {
           path = ''src/Images/copy.png'';
@@ -25330,7 +25330,7 @@
         {
           path = ''src/Images/Backgrounds/FC.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/Images/Backgrounds/FC.png";
-          sha256 = "";
+          sha256 = "00db3sm0d9g5i6a558dds354p653kb10436a8piaz2mdajq8krly";
         }
         {
           path = ''src/Images/Backgrounds/Gullfoss.png'';
@@ -25360,12 +25360,12 @@
         {
           path = ''src/Images/Backgrounds/Screenshot 2024-10-24 at 10.56.07 PM.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/Images/Backgrounds/Screenshot%202024-10-24%20at%2010.56.07%E2%80%AFPM.png";
-          sha256 = "";
+          sha256 = "0f0ykl40r8mfw81l43ghs427l2ar5v330fr2bzjn4k8si5mgd4c8";
         }
         {
           path = ''src/Images/Backgrounds/UA Logo.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/Images/Backgrounds/UA%20Logo.png";
-          sha256 = "";
+          sha256 = "0mrcngvbpwfz90j6n2fncmlfaq0jx9pgxzrxl5sjfyw861134cdx";
         }
         {
           path = ''src/Images/Backgrounds/UAD Century strip.png'';
@@ -25380,7 +25380,7 @@
         {
           path = ''src/Images/Backgrounds/la2a.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/Images/Backgrounds/la2a.png";
-          sha256 = "";
+          sha256 = "0s3i1zplanh2h26vnyzs4yhvsif9sbgjwbz72mdm5r69rzspmpf0";
         }
         {
           path = ''src/Images/Switches/BYPASS.png'';
@@ -25400,12 +25400,12 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
-          sha256 = "";
+          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
         }
         {
           path = ''src/Images/Switches/FancyGreenCheck_2_white.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2_white.png";
-          sha256 = "";
+          sha256 = "1yawmpx5ydw7cz2dlllx7wd0aa711vlws3h92705fbkzckbf80qg";
         }
         {
           path = ''src/Images/Switches/Phase toggle.png'';
@@ -25565,7 +25565,7 @@
         {
           path = ''src/Images/Knobs/FancyBlueKnob copy 2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob%20copy%202.png";
-          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob copy.png'';
@@ -25620,12 +25620,12 @@
         {
           path = ''src/Images/Knobs/KNB_LPG_10.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/Images/Knobs/KNB_LPG_10.png";
-          sha256 = "0c4a1plja9fd0wb8swxd6n5kyni0km3gjkvlsxsf51xf3za49bq1";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/KNB_LPG_120.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/Images/Knobs/KNB_LPG_120.png";
-          sha256 = "000mrk7cq64a25d5nj5bbnb2aa3wyyrg1lv8vcxgyc5ddv3jlkw3";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/KNB_LPG_6.png'';
@@ -25680,12 +25680,12 @@
         {
           path = ''src/Images/Knobs/grey knob green pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/Images/Knobs/grey%20knob%20green%20pointer.png";
-          sha256 = "0i4b20m8asl94fz3bs36r8rdryw86ax9viwkhrkjc51mxpa8g1nw";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/grey knob red pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/Images/Knobs/grey%20knob%20red%20pointer.png";
-          sha256 = "1mirdic76q4fhf73x4n7vmp09xw4lg1gqihhfnp074j76zki36y1";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/grey knob white pointer.png'';
@@ -25735,12 +25735,12 @@
         {
           path = ''src/LFO Shapes/Sine.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/LFO%20Shapes/Sine.ini";
-          sha256 = "1s0d89b0a13bl0ppd3ffbx8zkfwx4y1j1fq9ghjczchbixj2h0s6";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Square.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/9c5c8126c0685945ac89cd0605b0b93749b6ea4c/BryanChi_FX_Devices/src/LFO%20Shapes/Square.ini";
-          sha256 = "1f2ld5imrwzsm4yxixxf7s3syqa96m5j8c5bnqbidcxqham207a9";
+          sha256 = "0273fsxbih7aqz1kapp8xq9r920n2y8ljg01iznbwqx1gb27y7ir";
         }
         {
           path = ''src/LFO Shapes/Triangle.ini'';
@@ -25774,7 +25774,7 @@
         {
           path = '''';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/BryanChi_FX%20Devices.lua";
-          sha256 = "1ax5m8dgjbz7zqihxnzcc25m7ypbpzpqnkm7q0cqpw2x1z0mfnab";
+          sha256 = "0qlrmlp31as3mrvlv500qrmj23lgf7cdr3cmnmw4sb903crrazvw";
         }
         {
           path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
@@ -25789,7 +25789,7 @@
         {
           path = ''FXD JSFXs/FXD Container Macros.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Container%20Macros.jsfx";
-          sha256 = "1ykrpidm4cba2ffqazi6x0wakiwfq8dzkazqvwv7r4gmar2vvl5l";
+          sha256 = "0sg1kssj32i1dnpp55lwvla772i20zfncqw8dmn9098018bwlnyg";
         }
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
@@ -25829,7 +25829,7 @@
         {
           path = ''FXD JSFXs/firhalfband.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/FXD%20JSFXs/firhalfband.jsfx-inc";
-          sha256 = "1brd6z9dgdp56yggbb6ag4vir4l31f9frgx88p687hb0v9205h90";
+          sha256 = "1pasfn923h0v0vvxl8qkbw25q05c0kjbv78x8dhjcvc8r7fydfza";
         }
         {
           path = ''FXD JSFXs/spectrum.jsfx-inc'';
@@ -25839,7 +25839,7 @@
         {
           path = ''FXD JSFXs/svf_filter.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/FXD%20JSFXs/svf_filter.jsfx-inc";
-          sha256 = "19v43q1igqq8rfvawxyvizy0vfc6x7bc31nbvcxawdjhs661q8m5";
+          sha256 = "";
         }
         {
           path = ''src/Constants.lua'';
@@ -25914,7 +25914,7 @@
         {
           path = ''src/Functions/Filesystem_utils.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/Functions/Filesystem_utils.lua";
-          sha256 = "11n786zkxkxsja0wn5g9xw7g5y4fkpzg0rf8acw0pcd28hk4k30i";
+          sha256 = "0nzl3rv343znda5cn2la41c4zxrgxfyrca6nr8h57z3fx6ibnzcc";
         }
         {
           path = ''src/Functions/GUI.lua'';
@@ -25924,7 +25924,7 @@
         {
           path = ''src/Functions/General Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/Functions/General%20Functions.lua";
-          sha256 = "0yr8pxqhmy8hq0lkg0vfl69z14xai6vwba5b7fjr9k9b0xy3ar0x";
+          sha256 = "11sb7m1c5nqs91gjv80jbqlwknzci3k88pqcpffh88jddqnbwlp5";
         }
         {
           path = ''src/Functions/Layout Editor functions.lua'';
@@ -25944,7 +25944,7 @@
         {
           path = ''src/Functions/Modulator_LFO.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/Functions/Modulator_LFO.lua";
-          sha256 = "195ba7gxlvdbsf30v8wszlamvwkdim662rvvzmvv8vjjcz0yfaqw";
+          sha256 = "0zbv14jz4h9kdwly9rpnwx9awjjk44c22mbgfdgrmhp651823nhf";
         }
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
@@ -25969,7 +25969,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaComp.lua";
-          sha256 = "07q03xx4bilhhlwyac37ark7vmjz5blkrgsi6sxr7xwmrdkvgfaq";
+          sha256 = "1ji1faddyxzg0hsvqbbj3x99jkawlyhbj8n3vwns4jv9cj20dvzd";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaDrum Machine.lua'';
@@ -25989,7 +25989,7 @@
         {
           path = ''src/FX Layouts/AA EQP1.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/FX%20Layouts/AA%20EQP1.ini";
-          sha256 = "12164j84pqrbmia1aq446n9x8z830f92bisrmkzbil7dw0k3w9fc";
+          sha256 = "1xf53hiw1kclpgsd3w5c2sf7bx1f9iykf1d597j067gxz73xdkyv";
         }
         {
           path = ''src/FX Layouts/Basslane Pro (Tone Projects).ini'';
@@ -25999,7 +25999,7 @@
         {
           path = ''src/FX Layouts/Comp 1176 (Arturia).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/FX%20Layouts/Comp%201176%20(Arturia).ini";
-          sha256 = "16kvc8q005vgg62jf64znl3gbabwc0kq0a2g2dp350yn4pl6zzn7";
+          sha256 = "1mw2gb2xiar121gsxi7f42jm4kqsv64ssr4134lpwy69ks2x7n7f";
         }
         {
           path = ''src/FX Layouts/Console 1 (Softube).ini'';
@@ -26039,7 +26039,7 @@
         {
           path = ''src/FX Layouts/Heatwave (Slate Digital).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/FX%20Layouts/Heatwave%20(Slate%20Digital).ini";
-          sha256 = "1cv2i7jv9q7j2dz7vfd1k8pd7cqa6z5qa75s9rz8zpgawhzqgnxm";
+          sha256 = "0vrskyifr3kbqwwbic04f6d1939zhqnvlb1002gxynyir4nh9lfg";
         }
         {
           path = ''src/FX Layouts/MVibrato (MeldaProduction).ini'';
@@ -26099,7 +26099,7 @@
         {
           path = ''src/FX Layouts/UA 33609 C.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/FX%20Layouts/UA%2033609%20C.ini";
-          sha256 = "1w27n8pcbp97v1jnpmjmm4p12qxzch07n0plr3vdcrzxycsgm04a";
+          sha256 = "1is5lfbccr2rysgw7mnn6s9kxy2gk4azzc4wmhyz4s64qb54qdrf";
         }
         {
           path = ''src/FX Layouts/UA F.Child.ini'';
@@ -26189,7 +26189,7 @@
         {
           path = ''src/FX Layouts/Volume Adjustment.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/FX%20Layouts/Volume%20Adjustment.ini";
-          sha256 = "0skvmvs07kvnw97mfzqm092brb4pwc4cbqrrxgljyjb73nsh63fv";
+          sha256 = "1cisxqlvnkvq7gw7hqfywnavw9jwm0ka371kcgaswwxpw3a5h3nb";
         }
         {
           path = ''src/FX Layouts/bx_2098 EQ (Plugin Alliance).ini'';
@@ -26214,7 +26214,7 @@
         {
           path = ''src/FX Layouts/kHs Phase Distortion (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Phase%20Distortion%20(Kilohearts).ini";
-          sha256 = "18jbv8pd31cj4aywklj5kwywc4wldksls2ip1sw7nhs2q4cjlaa2";
+          sha256 = "1bvww315grba8pgz0xbjisih140rdikcj1qgv449gwbmwgf18hnq";
         }
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
@@ -26274,7 +26274,7 @@
         {
           path = ''src/Images/pin.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/Images/pin.png";
-          sha256 = "1jknayv0zqxjv48kgsjk51q9p8azgj1fyz6v12wdg6mdjh65dq21";
+          sha256 = "";
         }
         {
           path = ''src/Images/pinned.png'';
@@ -26324,7 +26324,7 @@
         {
           path = ''src/Images/Backgrounds/Gullfoss.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/Images/Backgrounds/Gullfoss.png";
-          sha256 = "159azbyhdb6agjbl4qqpakbqgnkn77cx5nsg7wppiidvm4ydkp3w";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/Heatwave.png'';
@@ -26534,7 +26534,7 @@
         {
           path = ''src/Images/Knobs/CS1_Red knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/Images/Knobs/CS1_Red%20knob.png";
-          sha256 = "1ik77m2iwwijphp5cw3q64h4ph5l013n1zgklfnwrf2phfjw2bq7";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_pink knob.png'';
@@ -26564,7 +26564,7 @@
         {
           path = ''src/Images/Knobs/FancyBlueKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob.png";
-          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob_Inverted.png'';
@@ -26619,7 +26619,7 @@
         {
           path = ''src/Images/Knobs/KNB_LPG_6.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4a7dcc3ef5d3ebccb409a8dc7fdd083cd95ce4b1/BryanChi_FX_Devices/src/Images/Knobs/KNB_LPG_6.png";
-          sha256 = "13r44gsg546v8l1mc4fk304ji9gx0w4ak17nl3l04a47avpfxg3h";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SCR-20240903-unss.png'';
@@ -26783,7 +26783,7 @@
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Gain%20Reduction%20Scope.jsfx";
-          sha256 = "0nn6mwjjf39q1619mcrh1bl0v41m81rf1yj2wb8gaahll3n4xj6h";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Macros.jsfx'';
@@ -26793,7 +26793,7 @@
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
-          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
@@ -26808,7 +26808,7 @@
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20to%2032%20Channels.jsfx";
-          sha256 = "0c12dzr35k4jdfhvn3cq3v3c2dm1yd57jz6v989rqsq1i9j3zbqd";
+          sha256 = "12y6kjfqg8pac02yd6z9wkvarvmr4lh3ninhxzzlkrzp9779zq6n";
         }
         {
           path = ''FXD JSFXs/cookdsp.jsfx-inc'';
@@ -26863,7 +26863,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-6.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-6.ttf";
-          sha256 = "12dh62i8df57bmdm7x1fn606c8nq2v96ksijs91nwlgri9rpxrip";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-7.ttf'';
@@ -26918,12 +26918,12 @@
         {
           path = ''src/Functions/Layout Editor functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/Functions/Layout%20Editor%20functions.lua";
-          sha256 = "1zg2z4rbxig81vhb0xyp6ry5xfgvh5qb9x0gjqlq88bjfnlpbfqy";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Menu Bar.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/Functions/Menu%20Bar.lua";
-          sha256 = "1i9bsndqfychsly27kz035fqvmzdyz66wj8k1mh5miybnnmxrdw1";
+          sha256 = "0bmc9920h3la1qw5hwcb0as8sdlp5z7v2zj0caw3pivf49jgrdkx";
         }
         {
           path = ''src/Functions/Modulation.lua'';
@@ -26943,12 +26943,12 @@
         {
           path = ''src/FX Layout Plugin Scripts/Container.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Container.lua";
-          sha256 = "01qbxbj128widsdnpir0nninsfisk5vm8r9sgjidf581nqliixl6";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20C%202.lua";
-          sha256 = "1mjn00gdn0iy8z9k7id50bmrm5dyr1yl974zvyzljsj00h2f29rw";
+          sha256 = "1r481qhzfh51k7xkjs094c6h2gyy3ik2cf6x71983z3dcibdz83m";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
@@ -26978,7 +26978,7 @@
         {
           path = ''src/FX Layouts/AA EQP1.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/AA%20EQP1.ini";
-          sha256 = "12164j84pqrbmia1aq446n9x8z830f92bisrmkzbil7dw0k3w9fc";
+          sha256 = "1xf53hiw1kclpgsd3w5c2sf7bx1f9iykf1d597j067gxz73xdkyv";
         }
         {
           path = ''src/FX Layouts/Basslane Pro (Tone Projects).ini'';
@@ -27023,7 +27023,7 @@
         {
           path = ''src/FX Layouts/Eternal v2 (Sinevibes).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/Eternal%20v2%20(Sinevibes).ini";
-          sha256 = "13hqsacimwnf7d7ic55bp1ibfg24q09cj0nzxwjraxvwyllgjsrl";
+          sha256 = "0cz42ah4y06pzs3hwjk92bk8zg5xr4x1jxvs2fwxv005w1fpqgch";
         }
         {
           path = ''src/FX Layouts/Flex Chorus (Minimal).ini'';
@@ -27043,12 +27043,12 @@
         {
           path = ''src/FX Layouts/Heatwave (Slate Digital).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/Heatwave%20(Slate%20Digital).ini";
-          sha256 = "1cv2i7jv9q7j2dz7vfd1k8pd7cqa6z5qa75s9rz8zpgawhzqgnxm";
+          sha256 = "0vrskyifr3kbqwwbic04f6d1939zhqnvlb1002gxynyir4nh9lfg";
         }
         {
           path = ''src/FX Layouts/MVibrato (MeldaProduction).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/MVibrato%20(MeldaProduction).ini";
-          sha256 = "1aqhj3ay8j55dssjvp27cjkrvbc19xdfjsn0ddjjxl5r3031y2xb";
+          sha256 = "1mfnk92lich6kkhzk4kfhvaqs13iqdqnsy25yl97hf04334cjibp";
         }
         {
           path = ''src/FX Layouts/Pro-DS (FabFilter).ini'';
@@ -27103,12 +27103,12 @@
         {
           path = ''src/FX Layouts/Tone Generator.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/Tone%20Generator.ini";
-          sha256 = "15j7r65hlyyjgh0cf836q6sbdmhzg5666xq571gnyvmvn8q92c61";
+          sha256 = "007dn6ak90bfmdzrw0nh8i3jm614khqliv8mccbbzza66hvkp8q4";
         }
         {
           path = ''src/FX Layouts/Transmutator (JMGSound).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/Transmutator%20(JMGSound).ini";
-          sha256 = "09sl30j2xd4lbfw0y33ws9sxb03z7v426wq53k4s21wv4iygh6xs";
+          sha256 = "0ga6i79rzjvayj7la1n89n5hz27254413spn5pc77840ry9hfhsc";
         }
         {
           path = ''src/FX Layouts/UA 33609 C.ini'';
@@ -27118,12 +27118,12 @@
         {
           path = ''src/FX Layouts/UA F.Child.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/UA%20F.Child.ini";
-          sha256 = "0zrh6bkpqf023s1pvcxicz6njdl2p6mxz9p2qr4micsq8n0hdfas";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD 1176 Blue (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/UAD%201176%20Blue%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "1qwv0qbzz06pjg37ian1bhmcgk88kf58i11sm2ifd73fn66hjpib";
+          sha256 = "1a399kvvxjdygqdg8m5z85zzkyadg0alpwprdcsfx73y1fwyzhmq";
         }
         {
           path = ''src/FX Layouts/UAD Fairchild 670 (Universal Audio, Inc.).ini'';
@@ -27148,12 +27148,12 @@
         {
           path = ''src/FX Layouts/UAD UA 1176 Rev A (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176%20Rev%20A%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "1rcn13s2y15kl1clmbxx32y360y9ys58fgwhchfnfax7s259znf0";
+          sha256 = "0lz0rn11n1gjmlmdy5c00svjmmw3mhvri0b5lvh3hlncj4g7567i";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176AE (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176AE%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "0dfk7m737b6v5gicr8sfhpnkq40sgfs28c9xh6xb470k3w9sk031";
+          sha256 = "0gh5rw5ji144npjzxxjs3bqg7hz5y7m9v00m5sjbhh2rh677yx60";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176LN Legacy (Universal Audio, Inc.).ini'';
@@ -27168,12 +27168,12 @@
         {
           path = ''src/FX Layouts/UADx Hemisphere Mic Collection (Universal Audio (UADx)).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/UADx%20Hemisphere%20Mic%20Collection%20(Universal%20Audio%20(UADx)).ini";
-          sha256 = "1qq00bk8ksj9ibd0mi04ml5bcakg6wp93qjr2gfi153hzia3fcrr";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Unfiltered Audio Bass Mint (Plugin Alliance).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/Unfiltered%20Audio%20Bass%20Mint%20(Plugin%20Alliance).ini";
-          sha256 = "0h36zmdapq8p1kvmzv1hvsf4whz15d96363snpc0wsc7wbvhd283";
+          sha256 = "14cyzh79bv96fbxdjrkirxlsay22fmvhnaqbfn3m567ld32cw4n3";
         }
         {
           path = ''src/FX Layouts/Unfiltered Audio lo-fi-af (Plugin Alliance).ini'';
@@ -27183,7 +27183,7 @@
         {
           path = ''src/FX Layouts/ValhallaDelay (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaDelay%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1ylka7jvqimjn0wkkmjbfidrgwy7yn44dh71hfhr27rxyv6f80wn";
+          sha256 = "1k4f0zac01fp3f7sdvryxjssys7vs68vxq86q3v9fh0raj1qzsxb";
         }
         {
           path = ''src/FX Layouts/ValhallaFreqEcho (Valhalla DSP, LLC).ini'';
@@ -27203,12 +27203,12 @@
         {
           path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSupermassive%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "10a9h1ypfp0lhbwllj1dmdycrx09d18h889nqm26hm94d0gfpfpg";
+          sha256 = "11qz6grvvxdnkjs3vplr89v9jnwld2x8fmp2ic0rd1hpaw6z97g0";
         }
         {
           path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaVintageVerb%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1awh4ndh33x47s0bciq8yzhqkd5jv6gwy7l2ch1099zlsc6fhm7l";
+          sha256 = "0vnn91mjvs4542626wix477lwrwl1rwc1r248dhbpcha5ldls7lh";
         }
         {
           path = ''src/FX Layouts/Volume Adjustment.ini'';
@@ -27218,7 +27218,7 @@
         {
           path = ''src/FX Layouts/Wasted Space (Softube).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/Wasted%20Space%20(Softube).ini";
-          sha256 = "0swvgzpaqiff54jq11g4a3ym17zyfdkqid784jqkb0kmwsb9zgzp";
+          sha256 = "0ndgh32f5yarnfyyp93r59xik28icdmmykvhqjggk9x5wdaifk3w";
         }
         {
           path = ''src/FX Layouts/Wider (stereo width).ini'';
@@ -27243,7 +27243,7 @@
         {
           path = ''src/FX Layouts/kHs Nonlinear Filter (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Nonlinear%20Filter%20(Kilohearts).ini";
-          sha256 = "0p86y3yvllwap8m3qik2szpd7nz0y4bvw7yl92p35whwllihhh5i";
+          sha256 = "0rzxrm3v69bmyrbskzr570xqnfcb2jsd1swzj7b05rmydz1512aw";
         }
         {
           path = ''src/FX Layouts/kHs Phase Distortion (Kilohearts).ini'';
@@ -27333,7 +27333,7 @@
         {
           path = ''src/Images/trash.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/Images/trash.png";
-          sha256 = "1ryjrxn4x7i9h0pilc3zx1zksxf69mkgyj4kw6023q0n7pclr6vh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/Amek M.png'';
@@ -27538,7 +27538,7 @@
         {
           path = ''src/Images/Switches/switch_toggle_left_right.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/Images/Switches/switch_toggle_left_right.png";
-          sha256 = "1wygg9c24dxzqabvd3ap4m039s7ag8j2qmqp8gw5krlkwi2fp5kh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Attached Drawings/LED light.png'';
@@ -27593,7 +27593,7 @@
         {
           path = ''src/Images/Knobs/CS1_Orange knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/08d74415af7e2aa6f4307afe69cf3877115ed9f5/BryanChi_FX_Devices/src/Images/Knobs/CS1_Orange%20knob.png";
-          sha256 = "0jv06v92jds7z55mrajdv48572xkfxiplphm7pxcl0hnmcvlfpz2";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_Purple knob.png'';
@@ -27997,12 +27997,12 @@
         {
           path = ''src/Functions/General Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/Functions/General%20Functions.lua";
-          sha256 = "0yr8pxqhmy8hq0lkg0vfl69z14xai6vwba5b7fjr9k9b0xy3ar0x";
+          sha256 = "11sb7m1c5nqs91gjv80jbqlwknzci3k88pqcpffh88jddqnbwlp5";
         }
         {
           path = ''src/Functions/Layout Editor functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/Functions/Layout%20Editor%20functions.lua";
-          sha256 = "0qsgvwlzpb8kiamy5y0sxapzgawp7sgd9gfawgv5rc06fjfpiwwc";
+          sha256 = "1l1ic2g0sx141wgmw6xibbbhfiki5lm8svkh8fr0rlcl489wp885";
         }
         {
           path = ''src/Functions/Menu Bar.lua'';
@@ -28047,7 +28047,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/ReaDrum Machine.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaDrum%20Machine.lua";
-          sha256 = "0bk86ndfggfv4s0b0awbdcifn16zb5j2a86dvy7pf6hsndbmypxa";
+          sha256 = "13byk86lqh77f7h5gn6kk9dyjq4pcp4kg60a1vh4531k10sc211z";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
@@ -28102,7 +28102,7 @@
         {
           path = ''src/FX Layouts/EchoBoy (Soundtoys).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/FX%20Layouts/EchoBoy%20(Soundtoys).ini";
-          sha256 = "0sgizhh39q67aym1hjlw3vfmmhy79pk0r7ygfsg9mb5v3g8siqp6";
+          sha256 = "0h6494abw8x1adzc3lz5v6c13b2n5p3xpblj8i0js6xmjkvp6wjj";
         }
         {
           path = ''src/FX Layouts/Eternal v2 (Sinevibes).ini'';
@@ -28122,7 +28122,7 @@
         {
           path = ''src/FX Layouts/Gullfoss (Soundtheory).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/FX%20Layouts/Gullfoss%20(Soundtheory).ini";
-          sha256 = "1ljgh5kqnmxn2fqzwnmkym7r9mpljrp2qhxp0jvsshwbd1rzm86k";
+          sha256 = "1qdz983gjqdqdvl2kfz6q1m71ja9qib6ns97mibd0a2am6lv23i5";
         }
         {
           path = ''src/FX Layouts/Heatwave (Slate Digital).ini'';
@@ -28182,7 +28182,7 @@
         {
           path = ''src/FX Layouts/TBTECH Cenozoix Compressor (Plugin Alliance).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/FX%20Layouts/TBTECH%20Cenozoix%20Compressor%20(Plugin%20Alliance).ini";
-          sha256 = "0mra3hhpm8hjwf30rmlip4m5113rgcqjjadq8h5aqa2mb65m8s9j";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Tone Generator.ini'';
@@ -28242,7 +28242,7 @@
         {
           path = ''src/FX Layouts/UAD UA 1176LN Legacy (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176LN%20Legacy%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "007rpysvm51af4cx1rzqdma65g57gmqrz0w08lc4dfx3s0vzigpb";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176LN Rev E (Universal Audio, Inc.).ini'';
@@ -28282,7 +28282,7 @@
         {
           path = ''src/FX Layouts/ValhallaSpaceModulator (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSpaceModulator%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "0y0lsyd2y0bda0gr3aqkn0s6hmdbfy4c0crsgx2grj05xf44r3m5";
+          sha256 = "0njj63cswjynvi8avdrmfjvx63rkd6x20infjgpzla6gx8h1fzmk";
         }
         {
           path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
@@ -28312,7 +28312,7 @@
         {
           path = ''src/FX Layouts/bx_2098 EQ (Plugin Alliance).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/FX%20Layouts/bx_2098%20EQ%20(Plugin%20Alliance).ini";
-          sha256 = "09c4dzwnya63axgdvbzjyv74frnm1s0ld21jd1l7mxjscvblgk2s";
+          sha256 = "11spjx0i5srb5a1n4bagmm7dkxi0pr5p4krbhxj886kqdhl8rmd3";
         }
         {
           path = ''src/FX Layouts/kHs Filter (Kilohearts).ini'';
@@ -28337,7 +28337,7 @@
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/FXChains/ReaDrum%20Machine.RfxChain";
-          sha256 = "0r20q4pbmvn0nyi0dbq3xkm4gm0fsvfnzdbg9gjd5bfsgx6ajhll";
+          sha256 = "";
         }
         {
           path = ''src/Images/Analog Knob 1.png'';
@@ -28467,7 +28467,7 @@
         {
           path = ''src/Images/Backgrounds/SHMC og icon.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/Images/Backgrounds/SHMC%20og%20icon.png";
-          sha256 = "1xvbscs11w8h2wagfkl1iaa54mb7n7fh820fshswgl5shz2j6y0l";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/SHMC.png'';
@@ -28482,7 +28482,7 @@
         {
           path = ''src/Images/Backgrounds/UA Logo.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/Images/Backgrounds/UA%20Logo.png";
-          sha256 = "0mrcngvbpwfz90j6n2fncmlfaq0jx9pgxzrxl5sjfyw861134cdx";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/UAD Century strip.png'';
@@ -28507,7 +28507,7 @@
         {
           path = ''src/Images/Backgrounds/bx_2980EQ.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/Images/Backgrounds/bx_2980EQ.png";
-          sha256 = "1lipk7mr3769wsq2wsknnbic05w89mpb9q7i9biidxvdhb35l871";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/la2a.png'';
@@ -28572,12 +28572,12 @@
         {
           path = ''src/Images/Switches/metronome Black.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/Images/Switches/metronome%20Black.png";
-          sha256 = "199xdcb388smza57blfdcjainv711554r0vbv0s51bw1pjk22j7a";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/metronome White.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/Images/Switches/metronome%20White.png";
-          sha256 = "1w2sb3v8hq4qvbpbg21pq1qaklynm57crihrpr7d1w570rczqigb";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/metronome.png'';
@@ -28587,7 +28587,7 @@
         {
           path = ''src/Images/Switches/pow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/Images/Switches/pow.png";
-          sha256 = "0sr93idwi8s11amd8r9yqh61b6gwgpg2gwsx18kak3178hilafqw";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/power red.png'';
@@ -28682,7 +28682,7 @@
         {
           path = ''src/Images/Knobs/CS1_Purple knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/Images/Knobs/CS1_Purple%20knob.png";
-          sha256 = "14lfhiw4aqjlw09qsra6aqlfzl9y3057r1ggnksr3s7wcqh2mj2j";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_Red knob.png'';
@@ -28792,7 +28792,7 @@
         {
           path = ''src/Images/Knobs/SSL Black.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Black.png";
-          sha256 = "1gi0njamcsxkq2r811y93giymibj134w85kkxal46jfph5ca0b03";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Blue.png'';
@@ -28822,7 +28822,7 @@
         {
           path = ''src/Images/Knobs/blue_knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/Images/Knobs/blue_knob.png";
-          sha256 = "1w2kmcspm3g7kn73pbzfyv7va2lkyphrkqzhhldl98wgyrvabx7x";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/grey knob blue pointer.png'';
@@ -28862,7 +28862,7 @@
         {
           path = ''src/Images/Knobs/ideogram analog knob 1 No Pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/Images/Knobs/ideogram%20analog%20knob%201%20No%20Pointer.png";
-          sha256 = "1y0c6nxg5mrmfpx811cnxh29gqs5w57q38xs7a73jjn6vcx9ybr9";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/knob-small.png'';
@@ -28892,7 +28892,7 @@
         {
           path = ''src/LFO Shapes/Sine.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/ea50ad87179429c60f68244f9db00192046ffafc/BryanChi_FX_Devices/src/LFO%20Shapes/Sine.ini";
-          sha256 = "1s0d89b0a13bl0ppd3ffbx8zkfwx4y1j1fq9ghjczchbixj2h0s6";
+          sha256 = "1sq4fvg5wjjw9ghkyw3z2dg5x3xphcs8jmnq54918782mbyh9skv";
         }
         {
           path = ''src/LFO Shapes/Square.ini'';
@@ -28936,7 +28936,7 @@
         {
           path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20(Mix)RackMixer.jsfx";
-          sha256 = "06a4xara6x5aa1saqqqii57ycdmxg68g83gcs35zmn70axxzgm1c";
+          sha256 = "0adb73iybphfzv00hs39xx6dh8vvbsz6myqq10r79clnzi1pqs7j";
         }
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
@@ -28951,7 +28951,7 @@
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Gain%20Reduction%20Scope.jsfx";
-          sha256 = "0nn6mwjjf39q1619mcrh1bl0v41m81rf1yj2wb8gaahll3n4xj6h";
+          sha256 = "1p5p3fs6zynl3wba3pjlmd5gj3gfq2b1sk27yb1ir8rccdb713j7";
         }
         {
           path = ''FXD JSFXs/FXD Macros.jsfx'';
@@ -28971,7 +28971,7 @@
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20To%204%20Channels.jsfx";
-          sha256 = "1xp0b1wsh7pb18ff8db5kc20pn2pzpg4pmnpamidf03i1bzh0yra";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
@@ -28981,7 +28981,7 @@
         {
           path = ''FXD JSFXs/cookdsp.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp.jsfx-inc";
-          sha256 = "0bgaw4hkzkfr9jyvkc8nd7j7byxdvh0ibvqjqq4l4vvic5yhwdsz";
+          sha256 = "1jkws14m60h3i2lyr7c6q1kd1dpsy8wnsay0f1wknbpgncray3wb";
         }
         {
           path = ''FXD JSFXs/firhalfband.jsfx-inc'';
@@ -29056,7 +29056,7 @@
         {
           path = ''src/Functions/EQ functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Functions/EQ%20functions.lua";
-          sha256 = "1vq93gfssz847ck8jxs1rb25j97zwvwqndmscncwzw0c77p1zzqx";
+          sha256 = "1b8mdfank0rdzvrcq55z6mjj2i7brrplf18akjv09jkx4xv6i1ga";
         }
         {
           path = ''src/Functions/Execute Before Loop.lua'';
@@ -29076,7 +29076,7 @@
         {
           path = ''src/Functions/GUI.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Functions/GUI.lua";
-          sha256 = "1acii1a5zicyffgr0ifmc1wgasryw2jcqipkml1pi1ynl0aqjnyx";
+          sha256 = "";
         }
         {
           path = ''src/Functions/General Functions.lua'';
@@ -29111,7 +29111,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Container.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Container.lua";
-          sha256 = "01qbxbj128widsdnpir0nninsfisk5vm8r9sgjidf581nqliixl6";
+          sha256 = "1lxgwb74gpqrx3r0h5zcwi6yc4ids2l9sj95wfkfimap0pl1n2fv";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
@@ -29121,7 +29121,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%203.lua";
-          sha256 = "11d7raq9z03h4dl4fid0bhdks3zcyhl7fvxh3schgmnayqzny6vy";
+          sha256 = "18pwqqzxswbr8kq7p37mbfxzw0i9r0h6z3jqlpl724c08db1h54c";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
@@ -29131,7 +29131,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/ReaDrum Machine.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaDrum%20Machine.lua";
-          sha256 = "0bk86ndfggfv4s0b0awbdcifn16zb5j2a86dvy7pf6hsndbmypxa";
+          sha256 = "13byk86lqh77f7h5gn6kk9dyjq4pcp4kg60a1vh4531k10sc211z";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
@@ -29151,7 +29151,7 @@
         {
           path = ''src/FX Layouts/Basslane Pro (Tone Projects).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/Basslane%20Pro%20(Tone%20Projects).ini";
-          sha256 = "0j4pcp13fpkf2dkacdb8cl7190djivd3b8r6yrvr4jr34288cq4d";
+          sha256 = "0l3fqh130iq5pszvrqpq5nplkzjmv6ysmbwl8cwhaglsq2abpayr";
         }
         {
           path = ''src/FX Layouts/CLA Epic Stereo (Waves).ini'';
@@ -29161,7 +29161,7 @@
         {
           path = ''src/FX Layouts/Comp 1176 (Arturia).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/Comp%201176%20(Arturia).ini";
-          sha256 = "16kvc8q005vgg62jf64znl3gbabwc0kq0a2g2dp350yn4pl6zzn7";
+          sha256 = "1mw2gb2xiar121gsxi7f42jm4kqsv64ssr4134lpwy69ks2x7n7f";
         }
         {
           path = ''src/FX Layouts/Console 1 (Softube).ini'';
@@ -29231,7 +29231,7 @@
         {
           path = ''src/FX Layouts/ReaCast (Cockos).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/ReaCast%20(Cockos).ini";
-          sha256 = "0q9wq1xgp6lrkwm87cr4ajdpbixq8cjgixf8a9glfszkl0shf6rd";
+          sha256 = "1srab7c92z8kaaaa2qppxip2xl1w01chn956vqikssxv2wgiff9k";
         }
         {
           path = ''src/FX Layouts/ReaComp (Cockos) Suzuki.ini'';
@@ -29241,7 +29241,7 @@
         {
           path = ''src/FX Layouts/ReaComp (Cockos).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/ReaComp%20(Cockos).ini";
-          sha256 = "0aik1j878mcj4a8dyv7l0nsvyhn3znqr13ld2a2bfpkxw2lzy6an";
+          sha256 = "0zgxcxn3vr0rg1isa0hzxh5xc63vcsqxhbmbvlzarn8x1mwcz67z";
         }
         {
           path = ''src/FX Layouts/ReaGate (Cockos).ini'';
@@ -29251,7 +29251,7 @@
         {
           path = ''src/FX Layouts/ReaRack2 - Trigger.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/ReaRack2%20-%20Trigger.ini";
-          sha256 = "0473d1x4pwz5yl3lwbyv9lvghan64s6mdapwwyvx80zgzl6b4mg7";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Seventh Heaven (LiquidSonics).ini'';
@@ -29261,7 +29261,7 @@
         {
           path = ''src/FX Layouts/StandardCLIP (SIR Audio Tools).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/StandardCLIP%20(SIR%20Audio%20Tools).ini";
-          sha256 = "1mg3sy5ycjssil316ivr1ss44i8m83isbl3wg86wbf38ssx0dbh7";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/TBTECH Cenozoix Compressor (Plugin Alliance).ini'';
@@ -29276,7 +29276,7 @@
         {
           path = ''src/FX Layouts/Transmutator (JMGSound).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/Transmutator%20(JMGSound).ini";
-          sha256 = "09sl30j2xd4lbfw0y33ws9sxb03z7v426wq53k4s21wv4iygh6xs";
+          sha256 = "0ga6i79rzjvayj7la1n89n5hz27254413spn5pc77840ry9hfhsc";
         }
         {
           path = ''src/FX Layouts/UA 33609 C.ini'';
@@ -29286,12 +29286,12 @@
         {
           path = ''src/FX Layouts/UA F.Child.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/UA%20F.Child.ini";
-          sha256 = "0zrh6bkpqf023s1pvcxicz6njdl2p6mxz9p2qr4micsq8n0hdfas";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD 1176 Blue (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/UAD%201176%20Blue%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "1qwv0qbzz06pjg37ian1bhmcgk88kf58i11sm2ifd73fn66hjpib";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD Fairchild 670 (Universal Audio, Inc.).ini'';
@@ -29301,7 +29301,7 @@
         {
           path = ''src/FX Layouts/UAD Neve 33609 C (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20Neve%2033609%20C%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "01cb027k4pk7y1z0y4hq5qfbrriazg9x0k1vr3i2hnnzrb83cd4j";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD Shadow Hills Mastering Compr (Universal Audio, Inc.).ini'';
@@ -29311,7 +29311,7 @@
         {
           path = ''src/FX Layouts/UAD Teletronix LA-2A Legacy (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20Teletronix%20LA-2A%20Legacy%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "1pqmm768jrikpxhyi13s6yqbipkvnyzcxnd5ckp7azfhvdm7zyah";
+          sha256 = "1fk8pmpm3xaiq3nbsaxkafsrg3mrciyb86zhlg6w0p8l8d16hhnc";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176 Rev A (Universal Audio, Inc.).ini'';
@@ -29321,7 +29321,7 @@
         {
           path = ''src/FX Layouts/UAD UA 1176AE (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176AE%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "0dfk7m737b6v5gicr8sfhpnkq40sgfs28c9xh6xb470k3w9sk031";
+          sha256 = "0gh5rw5ji144npjzxxjs3bqg7hz5y7m9v00m5sjbhh2rh677yx60";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176LN Legacy (Universal Audio, Inc.).ini'';
@@ -29331,12 +29331,12 @@
         {
           path = ''src/FX Layouts/UAD UA 1176LN Rev E (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176LN%20Rev%20E%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "1b1p1c4a25lgsaajgqvzni7szx0rbi4virysn27hprggmzv05y8f";
+          sha256 = "16flm3l1qy9hfc34qbryamxr23c13bpsksanrz8f4a2rwnn30kdr";
         }
         {
           path = ''src/FX Layouts/UADx Hemisphere Mic Collection (Universal Audio (UADx)).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/UADx%20Hemisphere%20Mic%20Collection%20(Universal%20Audio%20(UADx)).ini";
-          sha256 = "1qq00bk8ksj9ibd0mi04ml5bcakg6wp93qjr2gfi153hzia3fcrr";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Unfiltered Audio Bass Mint (Plugin Alliance).ini'';
@@ -29366,12 +29366,12 @@
         {
           path = ''src/FX Layouts/ValhallaSpaceModulator (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSpaceModulator%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "0y0lsyd2y0bda0gr3aqkn0s6hmdbfy4c0crsgx2grj05xf44r3m5";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSupermassive%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "10a9h1ypfp0lhbwllj1dmdycrx09d18h889nqm26hm94d0gfpfpg";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
@@ -29381,7 +29381,7 @@
         {
           path = ''src/FX Layouts/Volume Adjustment.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/Volume%20Adjustment.ini";
-          sha256 = "0skvmvs07kvnw97mfzqm092brb4pwc4cbqrrxgljyjb73nsh63fv";
+          sha256 = "1cisxqlvnkvq7gw7hqfywnavw9jwm0ka371kcgaswwxpw3a5h3nb";
         }
         {
           path = ''src/FX Layouts/Wasted Space (Softube).ini'';
@@ -29396,7 +29396,7 @@
         {
           path = ''src/FX Layouts/bx_2098 EQ (Plugin Alliance).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/bx_2098%20EQ%20(Plugin%20Alliance).ini";
-          sha256 = "09c4dzwnya63axgdvbzjyv74frnm1s0ld21jd1l7mxjscvblgk2s";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/kHs Filter (Kilohearts).ini'';
@@ -29406,7 +29406,7 @@
         {
           path = ''src/FX Layouts/kHs Flanger (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Flanger%20(Kilohearts).ini";
-          sha256 = "1bmq6jjinrjsjk48wc90m11rri47197rk4vhbd6a29r9cgghlc48";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/kHs Nonlinear Filter (Kilohearts).ini'';
@@ -29416,7 +29416,7 @@
         {
           path = ''src/FX Layouts/kHs Phase Distortion (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Phase%20Distortion%20(Kilohearts).ini";
-          sha256 = "18jbv8pd31cj4aywklj5kwywc4wldksls2ip1sw7nhs2q4cjlaa2";
+          sha256 = "";
         }
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
@@ -29486,12 +29486,12 @@
         {
           path = ''src/Images/save.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/save.png";
-          sha256 = "0birbbfpmpdg20hgw4926730af3kwmpiiv8a1r3j8v3i1q4qi9mc";
+          sha256 = "";
         }
         {
           path = ''src/Images/sinewave.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/sinewave.png";
-          sha256 = "1c3yxzr0m9y57ra1jqsihq9vpmi495955lz1zm3ry42zy9zwf5r5";
+          sha256 = "";
         }
         {
           path = ''src/Images/small_scale_white.png'';
@@ -29501,7 +29501,7 @@
         {
           path = ''src/Images/trash.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/trash.png";
-          sha256 = "1ryjrxn4x7i9h0pilc3zx1zksxf69mkgyj4kw6023q0n7pclr6vh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/Amek M.png'';
@@ -29531,7 +29531,7 @@
         {
           path = ''src/Images/Backgrounds/Heatwave.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Backgrounds/Heatwave.png";
-          sha256 = "0f0ykl40r8mfw81l43ghs427l2ar5v330fr2bzjn4k8si5mgd4c8";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/Neve_33609_logo 2.png'';
@@ -29541,7 +29541,7 @@
         {
           path = ''src/Images/Backgrounds/Neve_33609_logo.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Backgrounds/Neve_33609_logo.png";
-          sha256 = "1bzifkkivkr1mcj4l3bvz07znarjsvw83k93mfpv827r1dg7ysqa";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/SHMC icon.png'';
@@ -29551,7 +29551,7 @@
         {
           path = ''src/Images/Backgrounds/SHMC og icon.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Backgrounds/SHMC%20og%20icon.png";
-          sha256 = "1xvbscs11w8h2wagfkl1iaa54mb7n7fh820fshswgl5shz2j6y0l";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/SHMC.png'';
@@ -29566,12 +29566,12 @@
         {
           path = ''src/Images/Backgrounds/UA Logo.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Backgrounds/UA%20Logo.png";
-          sha256 = "0mrcngvbpwfz90j6n2fncmlfaq0jx9pgxzrxl5sjfyw861134cdx";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/UAD Century strip.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Backgrounds/UAD%20Century%20strip.png";
-          sha256 = "0qy99vi0bhx10ybpgb0v8z4l1160mj94laddd1z98dx8f6zmrwns";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/UAD Hemi 2.png'';
@@ -29581,17 +29581,17 @@
         {
           path = ''src/Images/Backgrounds/UAD Hemi1.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Backgrounds/UAD%20Hemi1.png";
-          sha256 = "11g1i3dmn6vdrkj7clk371s0jlc0a00rwq7zd7x13mk21d36x065";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/Wasted space.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Backgrounds/Wasted%20space.png";
-          sha256 = "1nnfb7ywad7f5r21ffkwsgac25fzp6dxkjq84mj64p3qs7219jm7";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/bx_2980EQ.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Backgrounds/bx_2980EQ.png";
-          sha256 = "1lipk7mr3769wsq2wsknnbic05w89mpb9q7i9biidxvdhb35l871";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/la2a.png'';
@@ -29621,7 +29621,7 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/FancyGreenCheck_2_white.png'';
@@ -29636,12 +29636,12 @@
         {
           path = ''src/Images/Switches/Power bypass.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Switches/Power%20bypass.png";
-          sha256 = "19snwsgm7fxip3676synba9dzri2yxh04nrwr73a4xnlxzv5pymv";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/Red Green.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Switches/Red%20Green.png";
-          sha256 = "0m41m1p5rlix43jk8b4lyy08yf0vjj1bspbb5rl795pj5h2q99b2";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/SC.png'';
@@ -29661,7 +29661,7 @@
         {
           path = ''src/Images/Switches/metronome White.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Switches/metronome%20White.png";
-          sha256 = "1w2sb3v8hq4qvbpbg21pq1qaklynm57crihrpr7d1w570rczqigb";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/metronome.png'';
@@ -29671,12 +29671,12 @@
         {
           path = ''src/Images/Switches/pow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Switches/pow.png";
-          sha256 = "0sr93idwi8s11amd8r9yqh61b6gwgpg2gwsx18kak3178hilafqw";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/power red.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Switches/power%20red.png";
-          sha256 = "0mf5swarniafb54rxrsmrfgcgkmb2kpp8dhfc864rmw9qgxyypdm";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/power yellow.png'';
@@ -29691,7 +29691,7 @@
         {
           path = ''src/Images/Switches/switch_metal.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Switches/switch_metal.png";
-          sha256 = "14vyj99xw4fx148i0qlmbi10na29x6z4zzdnlmdmpxzi9df5392l";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/switch_square.png'';
@@ -29706,7 +29706,7 @@
         {
           path = ''src/Images/Switches/switch_toggle_left_right.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Switches/switch_toggle_left_right.png";
-          sha256 = "1wygg9c24dxzqabvd3ap4m039s7ag8j2qmqp8gw5krlkwi2fp5kh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Attached Drawings/LED light.png'';
@@ -29736,7 +29736,7 @@
         {
           path = ''src/Images/Knobs/BOS_Massive_Control_Knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Knobs/BOS_Massive_Control_Knob.png";
-          sha256 = "0prc0cbh2s4lh8kgim6y94vr7d1hpzc2iqs64sljzrp1rl2xwllg";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Bitwig.png'';
@@ -29746,7 +29746,7 @@
         {
           path = ''src/Images/Knobs/CS1_Blue knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Knobs/CS1_Blue%20knob.png";
-          sha256 = "09rak586bcgdfqfwix7xic7dia32ma8x9x501v8s81byn7rw94pb";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_Green knob.png'';
@@ -29756,7 +29756,7 @@
         {
           path = ''src/Images/Knobs/CS1_Grey knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Knobs/CS1_Grey%20knob.png";
-          sha256 = "02gkq125cskg58sslxfpgkg2942lfahv5mj1nsyfjc4gag5v62is";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_Orange knob.png'';
@@ -29766,7 +29766,7 @@
         {
           path = ''src/Images/Knobs/CS1_Purple knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Knobs/CS1_Purple%20knob.png";
-          sha256 = "14lfhiw4aqjlw09qsra6aqlfzl9y3057r1ggnksr3s7wcqh2mj2j";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_Red knob.png'';
@@ -29796,12 +29796,12 @@
         {
           path = ''src/Images/Knobs/FancyBlueKnob copy.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob%20copy.png";
-          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob.png";
-          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob_Inverted.png'';
@@ -29811,12 +29811,12 @@
         {
           path = ''src/Images/Knobs/FancyGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Knobs/FancyGreenKnob.png";
-          sha256 = "0x4s659fbd9ff3vw763nlgz39csz6lscvzyjxizdr861d49bbd95";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Knobs/FancyLightGreenKnob.png";
-          sha256 = "06a4b6c1pwppgkrijmm2xfvz3d57a2mhh02dcxkqppgd2adg7p1w";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyRedKnob.png'';
@@ -29826,7 +29826,7 @@
         {
           path = ''src/Images/Knobs/Flex Chorus with pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Knobs/Flex%20Chorus%20with%20pointer.png";
-          sha256 = "1xmxj693w1mw1zi8yzr5c16sba6713vly0rfx8v6a1140hvpa8h8";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Flex Chorus.png'';
@@ -29856,7 +29856,7 @@
         {
           path = ''src/Images/Knobs/KNB_LPG_6.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Knobs/KNB_LPG_6.png";
-          sha256 = "13r44gsg546v8l1mc4fk304ji9gx0w4ak17nl3l04a47avpfxg3h";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/PlainKnob no pointer.png'';
@@ -29871,7 +29871,7 @@
         {
           path = ''src/Images/Knobs/SHMC knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Knobs/SHMC%20knob.png";
-          sha256 = "1qh6rk2aajz6kk8vks4ps9wc0vc7fsxvf1hj12k70gbq7prhw243";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Black.png'';
@@ -29886,7 +29886,7 @@
         {
           path = ''src/Images/Knobs/SSL Green.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Green.png";
-          sha256 = "19z9q3qcgz6gacvfrqbn4bd9xqsxcv5cb5km0a13gxn15fl737sl";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Grey.png'';
@@ -29906,7 +29906,7 @@
         {
           path = ''src/Images/Knobs/blue_knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Knobs/blue_knob.png";
-          sha256 = "1w2kmcspm3g7kn73pbzfyv7va2lkyphrkqzhhldl98wgyrvabx7x";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/grey knob blue pointer.png'';
@@ -29951,7 +29951,7 @@
         {
           path = ''src/Images/Knobs/knob-small.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/Images/Knobs/knob-small.png";
-          sha256 = "1vhhlq97l8a7zn49m862i0ch7cwpvj42a4lxfylibv7a26rbq3ni";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/metal knob.png'';
@@ -29981,7 +29981,7 @@
         {
           path = ''src/LFO Shapes/Square.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/7436ae30c5594112ba93501437d6b3cf278d21b2/BryanChi_FX_Devices/src/LFO%20Shapes/Square.ini";
-          sha256 = "1f2ld5imrwzsm4yxixxf7s3syqa96m5j8c5bnqbidcxqham207a9";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Triangle.ini'';
@@ -30020,7 +30020,7 @@
         {
           path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20(Mix)RackMixer.jsfx";
-          sha256 = "06a4xara6x5aa1saqqqii57ycdmxg68g83gcs35zmn70axxzgm1c";
+          sha256 = "0adb73iybphfzv00hs39xx6dh8vvbsz6myqq10r79clnzi1pqs7j";
         }
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
@@ -30040,7 +30040,7 @@
         {
           path = ''FXD JSFXs/FXD Macros.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros.jsfx";
-          sha256 = "10627f3xlfzzsajnnlz8vds12gh1fgc4zak1divly8av4inbi91q";
+          sha256 = "1img0knckz50gp0a5qpa39l5mqwsdfgdj0wbdirz0j2b9s8wycks";
         }
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
@@ -30050,12 +30050,12 @@
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Saike%20BandSplitter.jsfx";
-          sha256 = "0pg482x7zhh7fqin3m4z9bl0d10svvz61pqrj49r4lxj3f3kmzpi";
+          sha256 = "1917rcxp6kw0aa2a3xmwhjvvmws39xjqpimxayfzxc0fs5qjxk6f";
         }
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20To%204%20Channels.jsfx";
-          sha256 = "1xp0b1wsh7pb18ff8db5kc20pn2pzpg4pmnpamidf03i1bzh0yra";
+          sha256 = "0x178p2y0cc12w0ar4cc3drjzv33myrsvaply45kmcj8dfyl0f8h";
         }
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
@@ -30085,7 +30085,7 @@
         {
           path = ''src/Constants.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/Constants.lua";
-          sha256 = "0bk9w8z3pd3w8y8pdmwwk85vj6bimww58gb1qy0qsmqfzw9ggy0z";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Regular.ttf'';
@@ -30145,12 +30145,12 @@
         {
           path = ''src/Functions/Execute Before Loop.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/Functions/Execute%20Before%20Loop.lua";
-          sha256 = "0j4zdf2k9xnaqj4jyzbd2bplap7f3hxbcqbspk5bzzxll83q3ibz";
+          sha256 = "";
         }
         {
           path = ''src/Functions/FX Layering.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
-          sha256 = "1fmxc5359vnd33pfrqvlzckd9aygk24y207r10lilz8i54a7v5dy";
+          sha256 = "0s4y6sgh33lczfxpsl0fp88bs4x6szssawd097hbfcyqdp7javm4";
         }
         {
           path = ''src/Functions/Filesystem_utils.lua'';
@@ -30175,12 +30175,12 @@
         {
           path = ''src/Functions/Menu Bar.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/Functions/Menu%20Bar.lua";
-          sha256 = "10gg20qngbjgs9w3nrrlbbl1vpjc8aijyflwndz43xs3lynn3i05";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Modulation.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/Functions/Modulation.lua";
-          sha256 = "0s2lrka5l7cqcpkk18w2ylqhpsr78qr310g9mdbylarqagndvxry";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Modulator_LFO.lua'';
@@ -30190,7 +30190,7 @@
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/Functions/Theme%20Editor%20Functions.lua";
-          sha256 = "19ww18dv2bfszjs4faf0iwl40551r9y5qdvdfq45936mf48n62wi";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Container.lua'';
@@ -30225,12 +30225,12 @@
         {
           path = ''src/FX Layouts/1175 Compressor.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/1175%20Compressor.ini";
-          sha256 = "1j09s3mj15cwap1k6cmdyvfdfm85z9rjjvjk16y5p1nqgv4igqid";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/AA EQP1.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/AA%20EQP1.ini";
-          sha256 = "12164j84pqrbmia1aq446n9x8z830f92bisrmkzbil7dw0k3w9fc";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Basslane Pro (Tone Projects).ini'';
@@ -30240,7 +30240,7 @@
         {
           path = ''src/FX Layouts/CLA Epic Stereo (Waves).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/CLA%20Epic%20Stereo%20(Waves).ini";
-          sha256 = "0vd6cql4rbw110j7hflv5611mw3lajr4bvw6icrzswnbxxbbw1ya";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Comp 1176 (Arturia).ini'';
@@ -30280,7 +30280,7 @@
         {
           path = ''src/FX Layouts/Flex Chorus (Minimal).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/Flex%20Chorus%20(Minimal).ini";
-          sha256 = "0iyriqa3361sfcznhnx8calccbsqc2a9bzfmxcadc349i1hzvl9c";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Fresh Air (Slate Digital).ini'';
@@ -30310,7 +30310,7 @@
         {
           path = ''src/FX Layouts/REmatrix (Overloud - MoReVoX).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/REmatrix%20(Overloud%20-%20MoReVoX).ini";
-          sha256 = "100w766wgkwhmmwmi2f1bjl2pwmnyp22w7rxsxdvqaplm76piwq7";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ReaCast (Cockos).ini'';
@@ -30320,7 +30320,7 @@
         {
           path = ''src/FX Layouts/ReaComp (Cockos) Suzuki.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/ReaComp%20(Cockos)%20Suzuki.ini";
-          sha256 = "1a9sqx6sdwfr0rl57b01yikvb0s90gahvnsvp537k3hmrnz9crmm";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ReaComp (Cockos).ini'';
@@ -30370,7 +30370,7 @@
         {
           path = ''src/FX Layouts/UA F.Child.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/UA%20F.Child.ini";
-          sha256 = "0zrh6bkpqf023s1pvcxicz6njdl2p6mxz9p2qr4micsq8n0hdfas";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD 1176 Blue (Universal Audio, Inc.).ini'';
@@ -30380,7 +30380,7 @@
         {
           path = ''src/FX Layouts/UAD Fairchild 670 (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20Fairchild%20670%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "06wi5n3xq3lpwbqciz5q211qzmrk15rcjmc49hyn93pgb7fvz2f8";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD Neve 33609 C (Universal Audio, Inc.).ini'';
@@ -30390,12 +30390,12 @@
         {
           path = ''src/FX Layouts/UAD Shadow Hills Mastering Compr (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20Shadow%20Hills%20Mastering%20Compr%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "00bsmwxa309rl474j11ps82pcvfpwf86z80xhrl60n9gk5jw3yzk";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD Teletronix LA-2A Legacy (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20Teletronix%20LA-2A%20Legacy%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "1pqmm768jrikpxhyi13s6yqbipkvnyzcxnd5ckp7azfhvdm7zyah";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176 Rev A (Universal Audio, Inc.).ini'';
@@ -30405,7 +30405,7 @@
         {
           path = ''src/FX Layouts/UAD UA 1176AE (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176AE%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "0dfk7m737b6v5gicr8sfhpnkq40sgfs28c9xh6xb470k3w9sk031";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176LN Legacy (Universal Audio, Inc.).ini'';
@@ -30420,7 +30420,7 @@
         {
           path = ''src/FX Layouts/UADx Hemisphere Mic Collection (Universal Audio (UADx)).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/UADx%20Hemisphere%20Mic%20Collection%20(Universal%20Audio%20(UADx)).ini";
-          sha256 = "1qq00bk8ksj9ibd0mi04ml5bcakg6wp93qjr2gfi153hzia3fcrr";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Unfiltered Audio Bass Mint (Plugin Alliance).ini'';
@@ -30430,12 +30430,12 @@
         {
           path = ''src/FX Layouts/Unfiltered Audio lo-fi-af (Plugin Alliance).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/Unfiltered%20Audio%20lo-fi-af%20(Plugin%20Alliance).ini";
-          sha256 = "0641yyfazrbcfamjgbiivf4jrw9lpgxxvlxsxx8mvi6mb80ign95";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaDelay (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaDelay%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1ylka7jvqimjn0wkkmjbfidrgwy7yn44dh71hfhr27rxyv6f80wn";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaFreqEcho (Valhalla DSP, LLC).ini'';
@@ -30450,12 +30450,12 @@
         {
           path = ''src/FX Layouts/ValhallaSpaceModulator (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSpaceModulator%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "0y0lsyd2y0bda0gr3aqkn0s6hmdbfy4c0crsgx2grj05xf44r3m5";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSupermassive%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "10a9h1ypfp0lhbwllj1dmdycrx09d18h889nqm26hm94d0gfpfpg";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
@@ -30480,7 +30480,7 @@
         {
           path = ''src/FX Layouts/bx_2098 EQ (Plugin Alliance).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/bx_2098%20EQ%20(Plugin%20Alliance).ini";
-          sha256 = "09c4dzwnya63axgdvbzjyv74frnm1s0ld21jd1l7mxjscvblgk2s";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/kHs Filter (Kilohearts).ini'';
@@ -30490,17 +30490,17 @@
         {
           path = ''src/FX Layouts/kHs Flanger (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Flanger%20(Kilohearts).ini";
-          sha256 = "1bmq6jjinrjsjk48wc90m11rri47197rk4vhbd6a29r9cgghlc48";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/kHs Nonlinear Filter (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Nonlinear%20Filter%20(Kilohearts).ini";
-          sha256 = "0p86y3yvllwap8m3qik2szpd7nz0y4bvw7yl92p35whwllihhh5i";
+          sha256 = "0rzxrm3v69bmyrbskzr570xqnfcb2jsd1swzj7b05rmydz1512aw";
         }
         {
           path = ''src/FX Layouts/kHs Phase Distortion (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Phase%20Distortion%20(Kilohearts).ini";
-          sha256 = "18jbv8pd31cj4aywklj5kwywc4wldksls2ip1sw7nhs2q4cjlaa2";
+          sha256 = "";
         }
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
@@ -30515,7 +30515,7 @@
         {
           path = ''src/Images/Flex Chorus.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/Images/Flex%20Chorus.png";
-          sha256 = "1xcn8wb9j02g51sqhc6rvmj5x3q08m069i8zg9wda274rx7y3klb";
+          sha256 = "";
         }
         {
           path = ''src/Images/Modulation Icon hollow.png'';
@@ -30530,7 +30530,7 @@
         {
           path = ''src/Images/ModulationArrow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/Images/ModulationArrow.png";
-          sha256 = "0x08dbz2xsw5brgsj9ws0pincq0g500ksb41r5g51zg001awxnms";
+          sha256 = "";
         }
         {
           path = ''src/Images/MouseL.png'';
@@ -30550,7 +30550,7 @@
         {
           path = ''src/Images/copy.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/Images/copy.png";
-          sha256 = "15fhdmf8wjv72phq9skf804nfka45m2ldi750wnr6xbca51r7sy0";
+          sha256 = "";
         }
         {
           path = ''src/Images/paste.png'';
@@ -30580,7 +30580,7 @@
         {
           path = ''src/Images/small_scale_white.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/Images/small_scale_white.png";
-          sha256 = "0nix06x4hrw9q1xj37pn8xfy15ilr94jpjq0fhrpjz9fz77mg680";
+          sha256 = "";
         }
         {
           path = ''src/Images/trash.png'';
@@ -30615,7 +30615,7 @@
         {
           path = ''src/Images/Backgrounds/Heatwave.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/Images/Backgrounds/Heatwave.png";
-          sha256 = "0f0ykl40r8mfw81l43ghs427l2ar5v330fr2bzjn4k8si5mgd4c8";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/Neve_33609_logo 2.png'';
@@ -30625,7 +30625,7 @@
         {
           path = ''src/Images/Backgrounds/Neve_33609_logo.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/Images/Backgrounds/Neve_33609_logo.png";
-          sha256 = "1bzifkkivkr1mcj4l3bvz07znarjsvw83k93mfpv827r1dg7ysqa";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/SHMC icon.png'';
@@ -30640,7 +30640,7 @@
         {
           path = ''src/Images/Backgrounds/SHMC.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5138eddeb04ab85d6e455d5acbbb301a954f3fa7/BryanChi_FX_Devices/src/Images/Backgrounds/SHMC.png";
-          sha256 = "0xg0zzdqbra9jiq6kg1x7cgzicvr193h7bxbqlx4fyr40d9lj58q";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/SoundToys.png'';
@@ -31219,7 +31219,7 @@
         {
           path = ''src/Fonts/IconFont1.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Fonts/IconFont1.ttf";
-          sha256 = "";
+          sha256 = "187nc8qjpwg7w99x40kwf5hd2icfl708i3x767ssggsldnjj7v9a";
         }
         {
           path = ''src/Functions/EQ functions.lua'';
@@ -31259,7 +31259,7 @@
         {
           path = ''src/Functions/Menu Bar.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Functions/Menu%20Bar.lua";
-          sha256 = "109kb053n2c6wd55dkxz8l7wd57325avqims1ym60wzwz0qaf9ch";
+          sha256 = "10gg20qngbjgs9w3nrrlbbl1vpjc8aijyflwndz43xs3lynn3i05";
         }
         {
           path = ''src/Functions/Modulation.lua'';
@@ -31289,7 +31289,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%203.lua";
-          sha256 = "";
+          sha256 = "11d7raq9z03h4dl4fid0bhdks3zcyhl7fvxh3schgmnayqzny6vy";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
@@ -31349,7 +31349,7 @@
         {
           path = ''src/FX Layouts/Cymatics Memory (Cymatics).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/Cymatics%20Memory%20(Cymatics).ini";
-          sha256 = "";
+          sha256 = "1xdpwg96mqma0cdw8qm4pa8hsscffcim0rgfm5gach9c3baibmc0";
         }
         {
           path = ''src/FX Layouts/DeEsser Stereo (Waves).ini'';
@@ -31369,7 +31369,7 @@
         {
           path = ''src/FX Layouts/Eternal v2 (Sinevibes).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/Eternal%20v2%20(Sinevibes).ini";
-          sha256 = "0cz42ah4y06pzs3hwjk92bk8zg5xr4x1jxvs2fwxv005w1fpqgch";
+          sha256 = "13hqsacimwnf7d7ic55bp1ibfg24q09cj0nzxwjraxvwyllgjsrl";
         }
         {
           path = ''src/FX Layouts/Flex Chorus (Minimal).ini'';
@@ -31379,17 +31379,17 @@
         {
           path = ''src/FX Layouts/Fresh Air (Slate Digital).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/Fresh%20Air%20(Slate%20Digital).ini";
-          sha256 = "";
+          sha256 = "1f8r6an44kw4lx86h69q5isq92d3zrwxphqppl3bk56jzvjip63k";
         }
         {
           path = ''src/FX Layouts/Gullfoss (Soundtheory).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/Gullfoss%20(Soundtheory).ini";
-          sha256 = "";
+          sha256 = "1ljgh5kqnmxn2fqzwnmkym7r9mpljrp2qhxp0jvsshwbd1rzm86k";
         }
         {
           path = ''src/FX Layouts/Heatwave (Slate Digital).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/Heatwave%20(Slate%20Digital).ini";
-          sha256 = "";
+          sha256 = "1cv2i7jv9q7j2dz7vfd1k8pd7cqa6z5qa75s9rz8zpgawhzqgnxm";
         }
         {
           path = ''src/FX Layouts/MVibrato (MeldaProduction).ini'';
@@ -31404,12 +31404,12 @@
         {
           path = ''src/FX Layouts/REmatrix (Overloud - MoReVoX).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/REmatrix%20(Overloud%20-%20MoReVoX).ini";
-          sha256 = "";
+          sha256 = "100w766wgkwhmmwmi2f1bjl2pwmnyp22w7rxsxdvqaplm76piwq7";
         }
         {
           path = ''src/FX Layouts/ReaCast (Cockos).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/ReaCast%20(Cockos).ini";
-          sha256 = "";
+          sha256 = "0q9wq1xgp6lrkwm87cr4ajdpbixq8cjgixf8a9glfszkl0shf6rd";
         }
         {
           path = ''src/FX Layouts/ReaComp (Cockos) Suzuki.ini'';
@@ -31419,7 +31419,7 @@
         {
           path = ''src/FX Layouts/ReaComp (Cockos).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/ReaComp%20(Cockos).ini";
-          sha256 = "";
+          sha256 = "0aik1j878mcj4a8dyv7l0nsvyhn3znqr13ld2a2bfpkxw2lzy6an";
         }
         {
           path = ''src/FX Layouts/ReaGate (Cockos).ini'';
@@ -31429,7 +31429,7 @@
         {
           path = ''src/FX Layouts/ReaRack2 - Trigger.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/ReaRack2%20-%20Trigger.ini";
-          sha256 = "1mva5i8791lbxlad805kq8hivr0bvjwg383amgd7ql8ngh6mihqs";
+          sha256 = "0473d1x4pwz5yl3lwbyv9lvghan64s6mdapwwyvx80zgzl6b4mg7";
         }
         {
           path = ''src/FX Layouts/Seventh Heaven (LiquidSonics).ini'';
@@ -31439,7 +31439,7 @@
         {
           path = ''src/FX Layouts/StandardCLIP (SIR Audio Tools).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/StandardCLIP%20(SIR%20Audio%20Tools).ini";
-          sha256 = "07kbgff3bsprbssnl3x9wfwkj3mmd5wcmdps5add0b9fmvs1c3ca";
+          sha256 = "1mg3sy5ycjssil316ivr1ss44i8m83isbl3wg86wbf38ssx0dbh7";
         }
         {
           path = ''src/FX Layouts/TBTECH Cenozoix Compressor (Plugin Alliance).ini'';
@@ -31454,27 +31454,27 @@
         {
           path = ''src/FX Layouts/Transmutator (JMGSound).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/Transmutator%20(JMGSound).ini";
-          sha256 = "";
+          sha256 = "09sl30j2xd4lbfw0y33ws9sxb03z7v426wq53k4s21wv4iygh6xs";
         }
         {
           path = ''src/FX Layouts/UA 33609 C.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/UA%2033609%20C.ini";
-          sha256 = "";
+          sha256 = "1w27n8pcbp97v1jnpmjmm4p12qxzch07n0plr3vdcrzxycsgm04a";
         }
         {
           path = ''src/FX Layouts/UA F.Child.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/UA%20F.Child.ini";
-          sha256 = "0g5ljzbvfkn07yv9dj45nhd5imklrpw1xcardsl98pr67wg0kjs7";
+          sha256 = "0zrh6bkpqf023s1pvcxicz6njdl2p6mxz9p2qr4micsq8n0hdfas";
         }
         {
           path = ''src/FX Layouts/UAD 1176 Blue (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/UAD%201176%20Blue%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "";
+          sha256 = "1qwv0qbzz06pjg37ian1bhmcgk88kf58i11sm2ifd73fn66hjpib";
         }
         {
           path = ''src/FX Layouts/UAD Fairchild 670 (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20Fairchild%20670%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "";
+          sha256 = "06wi5n3xq3lpwbqciz5q211qzmrk15rcjmc49hyn93pgb7fvz2f8";
         }
         {
           path = ''src/FX Layouts/UAD Neve 33609 C (Universal Audio, Inc.).ini'';
@@ -31484,7 +31484,7 @@
         {
           path = ''src/FX Layouts/UAD Shadow Hills Mastering Compr (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20Shadow%20Hills%20Mastering%20Compr%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "";
+          sha256 = "00bsmwxa309rl474j11ps82pcvfpwf86z80xhrl60n9gk5jw3yzk";
         }
         {
           path = ''src/FX Layouts/UAD Teletronix LA-2A Legacy (Universal Audio, Inc.).ini'';
@@ -31499,22 +31499,22 @@
         {
           path = ''src/FX Layouts/UAD UA 1176AE (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176AE%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "";
+          sha256 = "0dfk7m737b6v5gicr8sfhpnkq40sgfs28c9xh6xb470k3w9sk031";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176LN Legacy (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176LN%20Legacy%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "";
+          sha256 = "007rpysvm51af4cx1rzqdma65g57gmqrz0w08lc4dfx3s0vzigpb";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176LN Rev E (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176LN%20Rev%20E%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "";
+          sha256 = "1b1p1c4a25lgsaajgqvzni7szx0rbi4virysn27hprggmzv05y8f";
         }
         {
           path = ''src/FX Layouts/UADx Hemisphere Mic Collection (Universal Audio (UADx)).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/UADx%20Hemisphere%20Mic%20Collection%20(Universal%20Audio%20(UADx)).ini";
-          sha256 = "";
+          sha256 = "1qq00bk8ksj9ibd0mi04ml5bcakg6wp93qjr2gfi153hzia3fcrr";
         }
         {
           path = ''src/FX Layouts/Unfiltered Audio Bass Mint (Plugin Alliance).ini'';
@@ -31524,7 +31524,7 @@
         {
           path = ''src/FX Layouts/Unfiltered Audio lo-fi-af (Plugin Alliance).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/Unfiltered%20Audio%20lo-fi-af%20(Plugin%20Alliance).ini";
-          sha256 = "1scs8y12bg50gcdlg8rv2kprxmk1x5gmk24qpqcbvg28idv99kkc";
+          sha256 = "0641yyfazrbcfamjgbiivf4jrw9lpgxxvlxsxx8mvi6mb80ign95";
         }
         {
           path = ''src/FX Layouts/ValhallaDelay (Valhalla DSP, LLC).ini'';
@@ -31539,12 +31539,12 @@
         {
           path = ''src/FX Layouts/ValhallaShimmer (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaShimmer%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "";
+          sha256 = "1v1kcfslzmdsm87xa571j2fgff7qvfx5ira47s9cnd0ha1y4r5xq";
         }
         {
           path = ''src/FX Layouts/ValhallaSpaceModulator (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSpaceModulator%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "";
+          sha256 = "0y0lsyd2y0bda0gr3aqkn0s6hmdbfy4c0crsgx2grj05xf44r3m5";
         }
         {
           path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
@@ -31554,12 +31554,12 @@
         {
           path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaVintageVerb%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "0vnn91mjvs4542626wix477lwrwl1rwc1r248dhbpcha5ldls7lh";
+          sha256 = "1awh4ndh33x47s0bciq8yzhqkd5jv6gwy7l2ch1099zlsc6fhm7l";
         }
         {
           path = ''src/FX Layouts/Volume Adjustment.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/Volume%20Adjustment.ini";
-          sha256 = "1cisxqlvnkvq7gw7hqfywnavw9jwm0ka371kcgaswwxpw3a5h3nb";
+          sha256 = "0skvmvs07kvnw97mfzqm092brb4pwc4cbqrrxgljyjb73nsh63fv";
         }
         {
           path = ''src/FX Layouts/Wasted Space (Softube).ini'';
@@ -31584,7 +31584,7 @@
         {
           path = ''src/FX Layouts/kHs Flanger (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Flanger%20(Kilohearts).ini";
-          sha256 = "10lcbh6dkln21yq2xwh98aw0l0svbdx49xjrkgv6gj8waz5h6msj";
+          sha256 = "1bmq6jjinrjsjk48wc90m11rri47197rk4vhbd6a29r9cgghlc48";
         }
         {
           path = ''src/FX Layouts/kHs Nonlinear Filter (Kilohearts).ini'';
@@ -31599,7 +31599,7 @@
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FXChains/ReaDrum%20Machine.RfxChain";
-          sha256 = "0rqnjl2zb3k8kamznhh0gy2yg3m8ifmqm20bh0mcq85rp1pqzi7p";
+          sha256 = "0r20q4pbmvn0nyi0dbq3xkm4gm0fsvfnzdbg9gjd5bfsgx6ajhll";
         }
         {
           path = ''src/Images/Analog Knob 1.png'';
@@ -31739,12 +31739,12 @@
         {
           path = ''src/Images/Backgrounds/SoundToys.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Images/Backgrounds/SoundToys.png";
-          sha256 = "";
+          sha256 = "0gp2yz50xhh1b3v73bp19wgl5rgidi0ji7wdgrp3aj13rx5s0chn";
         }
         {
           path = ''src/Images/Backgrounds/UA Logo.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Images/Backgrounds/UA%20Logo.png";
-          sha256 = "";
+          sha256 = "0mrcngvbpwfz90j6n2fncmlfaq0jx9pgxzrxl5sjfyw861134cdx";
         }
         {
           path = ''src/Images/Backgrounds/UAD Century strip.png'';
@@ -31764,7 +31764,7 @@
         {
           path = ''src/Images/Backgrounds/Wasted space.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Images/Backgrounds/Wasted%20space.png";
-          sha256 = "";
+          sha256 = "1nnfb7ywad7f5r21ffkwsgac25fzp6dxkjq84mj64p3qs7219jm7";
         }
         {
           path = ''src/Images/Backgrounds/bx_2980EQ.png'';
@@ -31804,7 +31804,7 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2_white.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2_white.png";
-          sha256 = "";
+          sha256 = "1yawmpx5ydw7cz2dlllx7wd0aa711vlws3h92705fbkzckbf80qg";
         }
         {
           path = ''src/Images/Switches/Phase toggle.png'';
@@ -31819,7 +31819,7 @@
         {
           path = ''src/Images/Switches/Red Green.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Images/Switches/Red%20Green.png";
-          sha256 = "";
+          sha256 = "0m41m1p5rlix43jk8b4lyy08yf0vjj1bspbb5rl795pj5h2q99b2";
         }
         {
           path = ''src/Images/Switches/SC.png'';
@@ -31894,7 +31894,7 @@
         {
           path = ''src/Images/Knobs/Analog Knob 1.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Images/Knobs/Analog%20Knob%201.png";
-          sha256 = "";
+          sha256 = "05kzfclsbymn6mnac0mi4b3rr3bpkxq2w0svd3rylvlx786jv99v";
         }
         {
           path = ''src/Images/Knobs/Analog Knob with pointer.png'';
@@ -31904,7 +31904,7 @@
         {
           path = ''src/Images/Knobs/Analog knob no pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Images/Knobs/Analog%20knob%20no%20pointer.png";
-          sha256 = "";
+          sha256 = "11xcqvnmflbp69cf7aa86sznv11pq4wjg70zq859s5n5qdc9yxfs";
         }
         {
           path = ''src/Images/Knobs/Arthen Knob.png'';
@@ -31934,7 +31934,7 @@
         {
           path = ''src/Images/Knobs/CS1_Grey knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Images/Knobs/CS1_Grey%20knob.png";
-          sha256 = "";
+          sha256 = "02gkq125cskg58sslxfpgkg2942lfahv5mj1nsyfjc4gag5v62is";
         }
         {
           path = ''src/Images/Knobs/CS1_Orange knob.png'';
@@ -31954,7 +31954,7 @@
         {
           path = ''src/Images/Knobs/CS1_pink knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Images/Knobs/CS1_pink%20knob.png";
-          sha256 = "";
+          sha256 = "19038cngvn48036k7w6nrl0lgphrjf4qwhcfhpxsmkqd38f5ksc1";
         }
         {
           path = ''src/Images/Knobs/CS1_white knob.png'';
@@ -31984,12 +31984,12 @@
         {
           path = ''src/Images/Knobs/FancyBlueKnob_Inverted.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob_Inverted.png";
-          sha256 = "";
+          sha256 = "0rr7jhv599awm2i5107m563dx485gwg3ph8h15aslkiimxx0nvfs";
         }
         {
           path = ''src/Images/Knobs/FancyGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Images/Knobs/FancyGreenKnob.png";
-          sha256 = "";
+          sha256 = "0x4s659fbd9ff3vw763nlgz39csz6lscvzyjxizdr861d49bbd95";
         }
         {
           path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
@@ -32044,7 +32044,7 @@
         {
           path = ''src/Images/Knobs/SCR-20240903-unss.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Images/Knobs/SCR-20240903-unss.png";
-          sha256 = "";
+          sha256 = "0hz28787m4biqzj3dclssfk7dwd03xpyzfckzg8ka0jrfzjlf1gn";
         }
         {
           path = ''src/Images/Knobs/SHMC knob.png'';
@@ -32069,7 +32069,7 @@
         {
           path = ''src/Images/Knobs/SSL Grey.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Grey.png";
-          sha256 = "";
+          sha256 = "1z2l4f3w65pcsjkcdcjh2vlfw53v2pglwxgxx27qsgg24yaxnswd";
         }
         {
           path = ''src/Images/Knobs/SSL Red.png'';
@@ -32129,7 +32129,7 @@
         {
           path = ''src/Images/Knobs/knob-small.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/Images/Knobs/knob-small.png";
-          sha256 = "";
+          sha256 = "1vhhlq97l8a7zn49m862i0ch7cwpvj42a4lxfylibv7a26rbq3ni";
         }
         {
           path = ''src/Images/Knobs/metal knob.png'';
@@ -32164,7 +32164,7 @@
         {
           path = ''src/LFO Shapes/Triangle.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/LFO%20Shapes/Triangle.ini";
-          sha256 = "";
+          sha256 = "11fxmh0bwi1x7gini236sfa1485p2kac495zzr0ng027hkc00xfb";
         }
         {
           path = ''src/Layout Editor Item Styles/Knob/kilohearts.ini'';
@@ -32179,7 +32179,7 @@
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/028bc307b22e7569a2ed2fe15fba95e05655533a/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "";
+          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
         }
       ];
     };
@@ -32193,22 +32193,22 @@
         {
           path = '''';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c3d6891360a1c69f6f82cf75bff55a190cc48b33/BryanChi_FX_Devices/BryanChi_FX%20Devices.lua";
-          sha256 = "";
+          sha256 = "0gyx5ad0py74jh2y85hx6kyslwkx3f05wqd7bwg6k9l74n22lsin";
         }
         {
           path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c3d6891360a1c69f6f82cf75bff55a190cc48b33/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20(Mix)RackMixer.jsfx";
-          sha256 = "";
+          sha256 = "06a4xara6x5aa1saqqqii57ycdmxg68g83gcs35zmn70axxzgm1c";
         }
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c3d6891360a1c69f6f82cf75bff55a190cc48b33/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Band%20Joiner.jsfx";
-          sha256 = "";
+          sha256 = "17vyx8c36776wf4hs1lr2qglckmsj460zglja0k99kg1l0igjj2c";
         }
         {
           path = ''FXD JSFXs/FXD Container Macros.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c3d6891360a1c69f6f82cf75bff55a190cc48b33/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Container%20Macros.jsfx";
-          sha256 = "0sg1kssj32i1dnpp55lwvla772i20zfncqw8dmn9098018bwlnyg";
+          sha256 = "1ykrpidm4cba2ffqazi6x0wakiwfq8dzkazqvwv7r4gmar2vvl5l";
         }
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
@@ -32218,7 +32218,7 @@
         {
           path = ''FXD JSFXs/FXD Macros.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/c3d6891360a1c69f6f82cf75bff55a190cc48b33/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros.jsfx";
-          sha256 = "1img0knckz50gp0a5qpa39l5mqwsdfgdj0wbdirz0j2b9s8wycks";
+          sha256 = "10627f3xlfzzsajnnlz8vds12gh1fgc4zak1divly8av4inbi91q";
         }
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
@@ -34851,7 +34851,7 @@
         {
           path = ''src/FX Layouts/Volume Adjustment.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/FX%20Layouts/Volume%20Adjustment.ini";
-          sha256 = "0skvmvs07kvnw97mfzqm092brb4pwc4cbqrrxgljyjb73nsh63fv";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Wasted Space (Softube).ini'';
@@ -34876,17 +34876,17 @@
         {
           path = ''src/FX Layouts/kHs Flanger (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Flanger%20(Kilohearts).ini";
-          sha256 = "1bmq6jjinrjsjk48wc90m11rri47197rk4vhbd6a29r9cgghlc48";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/kHs Nonlinear Filter (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Nonlinear%20Filter%20(Kilohearts).ini";
-          sha256 = "0p86y3yvllwap8m3qik2szpd7nz0y4bvw7yl92p35whwllihhh5i";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/kHs Phase Distortion (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Phase%20Distortion%20(Kilohearts).ini";
-          sha256 = "18jbv8pd31cj4aywklj5kwywc4wldksls2ip1sw7nhs2q4cjlaa2";
+          sha256 = "";
         }
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
@@ -34896,7 +34896,7 @@
         {
           path = ''src/Images/Analog Knob 1.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/Analog%20Knob%201.png";
-          sha256 = "05kzfclsbymn6mnac0mi4b3rr3bpkxq2w0svd3rylvlx786jv99v";
+          sha256 = "";
         }
         {
           path = ''src/Images/Flex Chorus.png'';
@@ -34926,12 +34926,12 @@
         {
           path = ''src/Images/MouseR.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/MouseR.png";
-          sha256 = "0ncqj32gpk7b030zab56229bcmpvcp5rmch8873frdl303wagvgc";
+          sha256 = "";
         }
         {
           path = ''src/Images/add-list.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/add-list.png";
-          sha256 = "12czrwa9l7wiw99s8dix5ig72zh6nq6bnaypp4xbr59512phz2pd";
+          sha256 = "";
         }
         {
           path = ''src/Images/copy.png'';
@@ -34941,12 +34941,12 @@
         {
           path = ''src/Images/paste.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/paste.png";
-          sha256 = "1irpwndfhdcy3x5xwgd8dflw8zhs3nw9ld5sjhacfg48aln9lhih";
+          sha256 = "";
         }
         {
           path = ''src/Images/pin.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/pin.png";
-          sha256 = "1jknayv0zqxjv48kgsjk51q9p8azgj1fyz6v12wdg6mdjh65dq21";
+          sha256 = "";
         }
         {
           path = ''src/Images/pinned.png'';
@@ -34956,12 +34956,12 @@
         {
           path = ''src/Images/save.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/save.png";
-          sha256 = "0birbbfpmpdg20hgw4926730af3kwmpiiv8a1r3j8v3i1q4qi9mc";
+          sha256 = "";
         }
         {
           path = ''src/Images/sinewave.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/sinewave.png";
-          sha256 = "1c3yxzr0m9y57ra1jqsihq9vpmi495955lz1zm3ry42zy9zwf5r5";
+          sha256 = "";
         }
         {
           path = ''src/Images/small_scale_white.png'';
@@ -34971,7 +34971,7 @@
         {
           path = ''src/Images/trash.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/trash.png";
-          sha256 = "1ryjrxn4x7i9h0pilc3zx1zksxf69mkgyj4kw6023q0n7pclr6vh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/Amek M.png'';
@@ -34986,7 +34986,7 @@
         {
           path = ''src/Images/Backgrounds/FC icon.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/Backgrounds/FC%20icon.png";
-          sha256 = "1ca7gpg14y27wrxg437glfz45nb9scl4npmphkw8hy9qfskp31cw";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/FC.png'';
@@ -34996,7 +34996,7 @@
         {
           path = ''src/Images/Backgrounds/Gullfoss.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/Backgrounds/Gullfoss.png";
-          sha256 = "159azbyhdb6agjbl4qqpakbqgnkn77cx5nsg7wppiidvm4ydkp3w";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/Heatwave.png'';
@@ -35006,7 +35006,7 @@
         {
           path = ''src/Images/Backgrounds/Neve_33609_logo 2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/Backgrounds/Neve_33609_logo%202.png";
-          sha256 = "1bzifkkivkr1mcj4l3bvz07znarjsvw83k93mfpv827r1dg7ysqa";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/Neve_33609_logo.png'';
@@ -35021,7 +35021,7 @@
         {
           path = ''src/Images/Backgrounds/SHMC og icon.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/Backgrounds/SHMC%20og%20icon.png";
-          sha256 = "1xvbscs11w8h2wagfkl1iaa54mb7n7fh820fshswgl5shz2j6y0l";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/SHMC.png'';
@@ -35041,7 +35041,7 @@
         {
           path = ''src/Images/Backgrounds/UAD Century strip.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/Backgrounds/UAD%20Century%20strip.png";
-          sha256 = "0qy99vi0bhx10ybpgb0v8z4l1160mj94laddd1z98dx8f6zmrwns";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/UAD Hemi 2.png'';
@@ -35076,7 +35076,7 @@
         {
           path = ''src/Images/Switches/BYPASS.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/Switches/BYPASS.png";
-          sha256 = "0wdp91cy2cbwsifjzb14flnfpc2jbnq5f25b4ailapisq71r1ks2";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/Console 1.png'';
@@ -35086,7 +35086,7 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2 2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2%202.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
@@ -35096,7 +35096,7 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2_white.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/3b16c07e07a19d64088f20f3bb0b05722d8d116d/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2_white.png";
-          sha256 = "1yawmpx5ydw7cz2dlllx7wd0aa711vlws3h92705fbkzckbf80qg";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/Phase toggle.png'';
@@ -38613,7 +38613,7 @@
         {
           path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/44a2d47a8880827763b3960e5285a53bbcc7be0e/BryanChi_FX_Devices/src/Images/Knobs/FancyLightGreenKnob.png";
-          sha256 = "06a4b6c1pwppgkrijmm2xfvz3d57a2mhh02dcxkqppgd2adg7p1w";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyRedKnob.png'';
@@ -38643,7 +38643,7 @@
         {
           path = ''src/Images/Knobs/KNB_LPG_10.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/44a2d47a8880827763b3960e5285a53bbcc7be0e/BryanChi_FX_Devices/src/Images/Knobs/KNB_LPG_10.png";
-          sha256 = "0c4a1plja9fd0wb8swxd6n5kyni0km3gjkvlsxsf51xf3za49bq1";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/KNB_LPG_120.png'';
@@ -38688,7 +38688,7 @@
         {
           path = ''src/Images/Knobs/SSL Grey.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/44a2d47a8880827763b3960e5285a53bbcc7be0e/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Grey.png";
-          sha256 = "1z2l4f3w65pcsjkcdcjh2vlfw53v2pglwxgxx27qsgg24yaxnswd";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Red.png'';
@@ -38703,12 +38703,12 @@
         {
           path = ''src/Images/Knobs/blue_knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/44a2d47a8880827763b3960e5285a53bbcc7be0e/BryanChi_FX_Devices/src/Images/Knobs/blue_knob.png";
-          sha256 = "1w2kmcspm3g7kn73pbzfyv7va2lkyphrkqzhhldl98wgyrvabx7x";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/grey knob blue pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/44a2d47a8880827763b3960e5285a53bbcc7be0e/BryanChi_FX_Devices/src/Images/Knobs/grey%20knob%20blue%20pointer.png";
-          sha256 = "17mykm2fk73k1h6g4r0jdkhh4b1fzj577fflim4mkyij1649n8rg";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/grey knob green pointer.png'';
@@ -38763,22 +38763,22 @@
         {
           path = ''src/LFO Shapes/Saw L.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/44a2d47a8880827763b3960e5285a53bbcc7be0e/BryanChi_FX_Devices/src/LFO%20Shapes/Saw%20L.ini";
-          sha256 = "1p369li61z5ifvbmpcvm39z0g8kf6na8bgyrb82ndaadnmapc2rc";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Saw R.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/44a2d47a8880827763b3960e5285a53bbcc7be0e/BryanChi_FX_Devices/src/LFO%20Shapes/Saw%20R.ini";
-          sha256 = "1c7q4ykqq826khzb7jbcmfdx78grh8ijww80n3vlp2zy2rxcd79i";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Sine.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/44a2d47a8880827763b3960e5285a53bbcc7be0e/BryanChi_FX_Devices/src/LFO%20Shapes/Sine.ini";
-          sha256 = "1s0d89b0a13bl0ppd3ffbx8zkfwx4y1j1fq9ghjczchbixj2h0s6";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Square.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/44a2d47a8880827763b3960e5285a53bbcc7be0e/BryanChi_FX_Devices/src/LFO%20Shapes/Square.ini";
-          sha256 = "1f2ld5imrwzsm4yxixxf7s3syqa96m5j8c5bnqbidcxqham207a9";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Triangle.ini'';
@@ -38788,7 +38788,7 @@
         {
           path = ''src/Layout Editor Item Styles/Knob/kilohearts.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/44a2d47a8880827763b3960e5285a53bbcc7be0e/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/kilohearts.ini";
-          sha256 = "1f40v9ng5d0ygpc1jq4dm139dwcizfccf8lrxsx0sdvqfjpscd65";
+          sha256 = "";
         }
         {
           path = ''src/Layout Editor Item Styles/Switch/Kilohearts.ini'';
@@ -38798,7 +38798,7 @@
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/44a2d47a8880827763b3960e5285a53bbcc7be0e/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+          sha256 = "";
         }
       ];
     };
@@ -38812,17 +38812,17 @@
         {
           path = '''';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/BryanChi_FX%20Devices.lua";
-          sha256 = "02z6jacwpxjpy7s0pcq9vnw90qwyr0w25bwfw1zm6a2pbmyxsyxz";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20(Mix)RackMixer.jsfx";
-          sha256 = "06a4xara6x5aa1saqqqii57ycdmxg68g83gcs35zmn70axxzgm1c";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Band%20Joiner.jsfx";
-          sha256 = "17vyx8c36776wf4hs1lr2qglckmsj460zglja0k99kg1l0igjj2c";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Container Macros.jsfx'';
@@ -38842,7 +38842,7 @@
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
-          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
@@ -38852,7 +38852,7 @@
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20To%204%20Channels.jsfx";
-          sha256 = "1xp0b1wsh7pb18ff8db5kc20pn2pzpg4pmnpamidf03i1bzh0yra";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
@@ -38887,12 +38887,12 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Regular.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Regular.ttf";
-          sha256 = "09dyd8h2a9pn424npw2ff5b90jr0ii66kik1fm53cs0wq7aqlwhk";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-2.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-2.ttf";
-          sha256 = "0bw66hqzgx77w7dx1pbbynag0cg9agh7qipjdl2kk3h9cd8ksd1p";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-3.ttf'';
@@ -38907,7 +38907,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-5.ttf";
-          sha256 = "0n35pc1kqd2mc8pmjzqsainp4s1isg5cv03vkswpk0kyihckdqiz";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-6.ttf'';
@@ -38947,7 +38947,7 @@
         {
           path = ''src/Functions/FX Layering.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
-          sha256 = "1fmxc5359vnd33pfrqvlzckd9aygk24y207r10lilz8i54a7v5dy";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Filesystem_utils.lua'';
@@ -38962,12 +38962,12 @@
         {
           path = ''src/Functions/General Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/src/Functions/General%20Functions.lua";
-          sha256 = "1blx5rkha9w9ql0b7fssriywbfxs5wkksch3mdpiz9hqmbyghaz4";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Layout Editor functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/src/Functions/Layout%20Editor%20functions.lua";
-          sha256 = "0wn3azfd1xxjhh8w402z8k4f79ffpnlyy3pkzwzqnjwjjzlafalc";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Menu Bar.lua'';
@@ -38977,7 +38977,7 @@
         {
           path = ''src/Functions/Modulation.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/src/Functions/Modulation.lua";
-          sha256 = "0xrxy7y5la8z8yf8ji7mqfvda3z41c2j43rq3dnv32qwaddi4saw";
+          sha256 = "0nly83dhjq4j7nj9h2b0sq0vd94m030xv8m9sxqz0y8mzfvznbrk";
         }
         {
           path = ''src/Functions/Modulator_LFO.lua'';
@@ -38987,7 +38987,7 @@
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/src/Functions/Theme%20Editor%20Functions.lua";
-          sha256 = "19ww18dv2bfszjs4faf0iwl40551r9y5qdvdfq45936mf48n62wi";
+          sha256 = "09q928z593jpalhhzqhfma4hhy25cz0s9qzjv71zvq3s3vdrshar";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Container.lua'';
@@ -39007,7 +39007,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 4.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%204.lua";
-          sha256 = "0lcqy605dq9vg12dkb3yq242mfsrh0pr9nvjj0392fvlqs2q45yi";
+          sha256 = "1x3ajmgljc4a8j9qw2i02jvna07xhgksbam42wxkgh8xvsyn25a8";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
@@ -39017,7 +39017,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/ReaDrum Machine.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/4615b4c2151e5f520324258e3a91786b8314630e/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaDrum%20Machine.lua";
-          sha256 = "0bk86ndfggfv4s0b0awbdcifn16zb5j2a86dvy7pf6hsndbmypxa";
+          sha256 = "13byk86lqh77f7h5gn6kk9dyjq4pcp4kg60a1vh4531k10sc211z";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
@@ -41105,7 +41105,7 @@
         {
           path = ''FXD JSFXs/cookdsp.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp.jsfx-inc";
-          sha256 = "0bgaw4hkzkfr9jyvkc8nd7j7byxdvh0ibvqjqq4l4vvic5yhwdsz";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/firhalfband.jsfx-inc'';
@@ -41135,12 +41135,12 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-2.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-2.ttf";
-          sha256 = "0bw66hqzgx77w7dx1pbbynag0cg9agh7qipjdl2kk3h9cd8ksd1p";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-3.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-3.ttf";
-          sha256 = "1grr7ir8sji4yhqq1kcc15agg39rlxgyx0pa5z7710vjp7ifz6mk";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-4.ttf'';
@@ -41150,17 +41150,17 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-5.ttf";
-          sha256 = "0n35pc1kqd2mc8pmjzqsainp4s1isg5cv03vkswpk0kyihckdqiz";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-6.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-6.ttf";
-          sha256 = "12dh62i8df57bmdm7x1fn606c8nq2v96ksijs91nwlgri9rpxrip";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-7.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-7.ttf";
-          sha256 = "0gisspv42nkyjnmhgzcnvzfk1sprzbfyfjy9mmphlwy1rymwn27s";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-8.ttf'';
@@ -41185,7 +41185,7 @@
         {
           path = ''src/Functions/Execute Before Loop.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Functions/Execute%20Before%20Loop.lua";
-          sha256 = "02qvr9j6p3iyrgn6c6zllwz43ai0m9z8qkw1zlvn2v8aflhivpic";
+          sha256 = "";
         }
         {
           path = ''src/Functions/FX Layering.lua'';
@@ -41195,12 +41195,12 @@
         {
           path = ''src/Functions/Filesystem_utils.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Functions/Filesystem_utils.lua";
-          sha256 = "11n786zkxkxsja0wn5g9xw7g5y4fkpzg0rf8acw0pcd28hk4k30i";
+          sha256 = "";
         }
         {
           path = ''src/Functions/GUI.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Functions/GUI.lua";
-          sha256 = "1k6621gf90g827ray93gi34qrpg9lhjdyyidkfnz3kj4g1cv2hnh";
+          sha256 = "";
         }
         {
           path = ''src/Functions/General Functions.lua'';
@@ -41225,7 +41225,7 @@
         {
           path = ''src/Functions/Modulator_LFO.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Functions/Modulator_LFO.lua";
-          sha256 = "07pmm3ki3wb6qn3p944r6q7dbm5mm5dr00w5qjmwxr8qjqm535sw";
+          sha256 = "0j9zkql66qwybnnlmbmb98r319zbgv485l2i3n9cznrmwy0a8j83";
         }
         {
           path = ''src/Functions/Theme Editor Functions.lua'';
@@ -41235,7 +41235,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Container.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Container.lua";
-          sha256 = "15pj7jdf1idkmx3f6cz942wjmns8cclv5vsqy4fzbkj2iq7fil5d";
+          sha256 = "0vknhp9s89rj5iynagcxiqi45wjcdz79r1lixx02p27dxiiwwq72";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
@@ -41250,17 +41250,17 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 4.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%204.lua";
-          sha256 = "0lcqy605dq9vg12dkb3yq242mfsrh0pr9nvjj0392fvlqs2q45yi";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaComp.lua";
-          sha256 = "07q03xx4bilhhlwyac37ark7vmjz5blkrgsi6sxr7xwmrdkvgfaq";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/ReaDrum Machine.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaDrum%20Machine.lua";
-          sha256 = "0bk86ndfggfv4s0b0awbdcifn16zb5j2a86dvy7pf6hsndbmypxa";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
@@ -41290,17 +41290,17 @@
         {
           path = ''src/FX Layouts/Albedo (Sinevibes).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/Albedo%20(Sinevibes).ini";
-          sha256 = "0wrif5lsqdn5zkq05hvzvd5k9vbhy0r98d79zgkgs1nndvpzr3lm";
+          sha256 = "0xpkljm9cq2v1mrw5h1xbyrnp67qhs7v1kla4vsi5vhvz9ifj2pf";
         }
         {
           path = ''src/FX Layouts/Basslane Pro (Tone Projects).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/Basslane%20Pro%20(Tone%20Projects).ini";
-          sha256 = "0j4pcp13fpkf2dkacdb8cl7190djivd3b8r6yrvr4jr34288cq4d";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/CLA Epic Stereo (Waves).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/CLA%20Epic%20Stereo%20(Waves).ini";
-          sha256 = "0vd6cql4rbw110j7hflv5611mw3lajr4bvw6icrzswnbxxbbw1ya";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Comp 1176 (Arturia).ini'';
@@ -41315,7 +41315,7 @@
         {
           path = ''src/FX Layouts/Cymatics Memory (Cymatics).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/Cymatics%20Memory%20(Cymatics).ini";
-          sha256 = "1xdpwg96mqma0cdw8qm4pa8hsscffcim0rgfm5gach9c3baibmc0";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/DeEsser Stereo (Waves).ini'';
@@ -41330,7 +41330,7 @@
         {
           path = ''src/FX Layouts/EchoBoy (Soundtoys).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/EchoBoy%20(Soundtoys).ini";
-          sha256 = "0sgizhh39q67aym1hjlw3vfmmhy79pk0r7ygfsg9mb5v3g8siqp6";
+          sha256 = "0h6494abw8x1adzc3lz5v6c13b2n5p3xpblj8i0js6xmjkvp6wjj";
         }
         {
           path = ''src/FX Layouts/Eternal v2 (Sinevibes).ini'';
@@ -41355,7 +41355,7 @@
         {
           path = ''src/FX Layouts/Heatwave (Slate Digital).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/Heatwave%20(Slate%20Digital).ini";
-          sha256 = "1cv2i7jv9q7j2dz7vfd1k8pd7cqa6z5qa75s9rz8zpgawhzqgnxm";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/MVibrato (MeldaProduction).ini'';
@@ -41365,17 +41365,17 @@
         {
           path = ''src/FX Layouts/Pro-DS (FabFilter).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/Pro-DS%20(FabFilter).ini";
-          sha256 = "1l3zh5jmr0a5v3g31lc11ha066yb9p9g2sc6lxfgp794y96xycr7";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/REmatrix (Overloud - MoReVoX).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/REmatrix%20(Overloud%20-%20MoReVoX).ini";
-          sha256 = "100w766wgkwhmmwmi2f1bjl2pwmnyp22w7rxsxdvqaplm76piwq7";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ReaCast (Cockos).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/ReaCast%20(Cockos).ini";
-          sha256 = "0q9wq1xgp6lrkwm87cr4ajdpbixq8cjgixf8a9glfszkl0shf6rd";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ReaComp (Cockos) Suzuki.ini'';
@@ -41385,7 +41385,7 @@
         {
           path = ''src/FX Layouts/ReaComp (Cockos).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/ReaComp%20(Cockos).ini";
-          sha256 = "0aik1j878mcj4a8dyv7l0nsvyhn3znqr13ld2a2bfpkxw2lzy6an";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ReaGate (Cockos).ini'';
@@ -41400,7 +41400,7 @@
         {
           path = ''src/FX Layouts/ReaRack2 - Trigger.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/ReaRack2%20-%20Trigger.ini";
-          sha256 = "0473d1x4pwz5yl3lwbyv9lvghan64s6mdapwwyvx80zgzl6b4mg7";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Seventh Heaven (LiquidSonics).ini'';
@@ -41410,7 +41410,7 @@
         {
           path = ''src/FX Layouts/Snap Heap (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/Snap%20Heap%20(Kilohearts).ini";
-          sha256 = "1n8l2s3ays05lk7pdrpjlpvg5dqq1l8m1lp06fhm4bxx0khf84wb";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/StandardCLIP (SIR Audio Tools).ini'';
@@ -41420,12 +41420,12 @@
         {
           path = ''src/FX Layouts/TBTECH Cenozoix Compressor (Plugin Alliance).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/TBTECH%20Cenozoix%20Compressor%20(Plugin%20Alliance).ini";
-          sha256 = "0mra3hhpm8hjwf30rmlip4m5113rgcqjjadq8h5aqa2mb65m8s9j";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Tone Generator.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/Tone%20Generator.ini";
-          sha256 = "15j7r65hlyyjgh0cf836q6sbdmhzg5666xq571gnyvmvn8q92c61";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Transmutator (JMGSound).ini'';
@@ -41440,7 +41440,7 @@
         {
           path = ''src/FX Layouts/UA F.Child.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/UA%20F.Child.ini";
-          sha256 = "0zrh6bkpqf023s1pvcxicz6njdl2p6mxz9p2qr4micsq8n0hdfas";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD 1176 Blue (Universal Audio, Inc.).ini'';
@@ -41450,7 +41450,7 @@
         {
           path = ''src/FX Layouts/UAD Fairchild 670 (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20Fairchild%20670%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "06wi5n3xq3lpwbqciz5q211qzmrk15rcjmc49hyn93pgb7fvz2f8";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD Neve 33609 C (Universal Audio, Inc.).ini'';
@@ -41470,7 +41470,7 @@
         {
           path = ''src/FX Layouts/UAD UA 1176 Rev A (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176%20Rev%20A%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "1rcn13s2y15kl1clmbxx32y360y9ys58fgwhchfnfax7s259znf0";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176AE (Universal Audio, Inc.).ini'';
@@ -41480,7 +41480,7 @@
         {
           path = ''src/FX Layouts/UAD UA 1176LN Legacy (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176LN%20Legacy%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "007rpysvm51af4cx1rzqdma65g57gmqrz0w08lc4dfx3s0vzigpb";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176LN Rev E (Universal Audio, Inc.).ini'';
@@ -41495,7 +41495,7 @@
         {
           path = ''src/FX Layouts/Unfiltered Audio Bass Mint (Plugin Alliance).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/Unfiltered%20Audio%20Bass%20Mint%20(Plugin%20Alliance).ini";
-          sha256 = "0h36zmdapq8p1kvmzv1hvsf4whz15d96363snpc0wsc7wbvhd283";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Unfiltered Audio lo-fi-af (Plugin Alliance).ini'';
@@ -41520,7 +41520,7 @@
         {
           path = ''src/FX Layouts/ValhallaSpaceModulator (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSpaceModulator%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "0y0lsyd2y0bda0gr3aqkn0s6hmdbfy4c0crsgx2grj05xf44r3m5";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
@@ -41535,7 +41535,7 @@
         {
           path = ''src/FX Layouts/Volume Adjustment.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/Volume%20Adjustment.ini";
-          sha256 = "0skvmvs07kvnw97mfzqm092brb4pwc4cbqrrxgljyjb73nsh63fv";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Wasted Space (Softube).ini'';
@@ -41555,17 +41555,17 @@
         {
           path = ''src/FX Layouts/kHs Filter (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Filter%20(Kilohearts).ini";
-          sha256 = "03jyhmyphhvy4bi3i9izl53rzsiyzv6bqpkr83jjizcpz9j02pdm";
+          sha256 = "12xfm21vq5qdw884kklkzhzzdaggv7gj4yq8zlgs2nf5319bp63i";
         }
         {
           path = ''src/FX Layouts/kHs Flanger (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Flanger%20(Kilohearts).ini";
-          sha256 = "1bmq6jjinrjsjk48wc90m11rri47197rk4vhbd6a29r9cgghlc48";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/kHs Nonlinear Filter (Kilohearts).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Nonlinear%20Filter%20(Kilohearts).ini";
-          sha256 = "0p86y3yvllwap8m3qik2szpd7nz0y4bvw7yl92p35whwllihhh5i";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/kHs Phase Distortion (Kilohearts).ini'';
@@ -41575,7 +41575,7 @@
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/FXChains/ReaDrum%20Machine.RfxChain";
-          sha256 = "0r20q4pbmvn0nyi0dbq3xkm4gm0fsvfnzdbg9gjd5bfsgx6ajhll";
+          sha256 = "";
         }
         {
           path = ''src/Images/Analog Knob 1.png'';
@@ -41590,12 +41590,12 @@
         {
           path = ''src/Images/Modulation Icon hollow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Modulation%20Icon%20hollow.png";
-          sha256 = "0h0h3wm4vdrk9h4326h69cm3nysqlcsxlpzgayl07mhjb43nlnn9";
+          sha256 = "";
         }
         {
           path = ''src/Images/Modulation Icon.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Modulation%20Icon.png";
-          sha256 = "0ld7d4zvzf48n42gxd0rlcdhph6bpbkzp04dbi8wyhaw38h9hkmz";
+          sha256 = "";
         }
         {
           path = ''src/Images/ModulationArrow.png'';
@@ -41660,7 +41660,7 @@
         {
           path = ''src/Images/Backgrounds/Amek M.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Backgrounds/Amek%20M.png";
-          sha256 = "103a3i1gwm81vrlkx8s78xwk6bldqdi9lf8kh91hizlxq8yk28n3";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/Amek S.png'';
@@ -41670,7 +41670,7 @@
         {
           path = ''src/Images/Backgrounds/FC icon.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Backgrounds/FC%20icon.png";
-          sha256 = "1ca7gpg14y27wrxg437glfz45nb9scl4npmphkw8hy9qfskp31cw";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/FC.png'';
@@ -41695,7 +41695,7 @@
         {
           path = ''src/Images/Backgrounds/Neve_33609_logo.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Backgrounds/Neve_33609_logo.png";
-          sha256 = "1bzifkkivkr1mcj4l3bvz07znarjsvw83k93mfpv827r1dg7ysqa";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/SHMC icon.png'';
@@ -41760,12 +41760,12 @@
         {
           path = ''src/Images/Switches/BYPASS.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Switches/BYPASS.png";
-          sha256 = "0wdp91cy2cbwsifjzb14flnfpc2jbnq5f25b4ailapisq71r1ks2";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/Console 1.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Switches/Console%201.png";
-          sha256 = "1mcwxv8zya9cggjamlyjv125ws6cina3sn6n6b4y7j2m8npxlbk0";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/FancyGreenCheck_2 2.png'';
@@ -41790,7 +41790,7 @@
         {
           path = ''src/Images/Switches/Power bypass.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Switches/Power%20bypass.png";
-          sha256 = "19snwsgm7fxip3676synba9dzri2yxh04nrwr73a4xnlxzv5pymv";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/Red Green.png'';
@@ -41820,7 +41820,7 @@
         {
           path = ''src/Images/Switches/metronome.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Switches/metronome.png";
-          sha256 = "0bi076v0vhf450z01frl6vx2vl2m852v1pykwihzb9sxd4s93zhy";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/pow.png'';
@@ -41830,7 +41830,7 @@
         {
           path = ''src/Images/Switches/power red.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Switches/power%20red.png";
-          sha256 = "0mf5swarniafb54rxrsmrfgcgkmb2kpp8dhfc864rmw9qgxyypdm";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/power yellow.png'';
@@ -41850,7 +41850,7 @@
         {
           path = ''src/Images/Switches/switch_square.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Switches/switch_square.png";
-          sha256 = "0vv4jbdz837s8rhvhdibn7likwsn45jzzvbm42bwdygm6ja46q09";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/switch_toggle up_down.png'';
@@ -41935,7 +41935,7 @@
         {
           path = ''src/Images/Knobs/CS1_white knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Knobs/CS1_white%20knob.png";
-          sha256 = "0hf4idw71p9ikgl5dsv2dyv4kfa2k0yxsmyq82dbww72nwd3yijb";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_yellow knob.png'';
@@ -42070,7 +42070,7 @@
         {
           path = ''src/Images/Knobs/grey knob green pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Knobs/grey%20knob%20green%20pointer.png";
-          sha256 = "0i4b20m8asl94fz3bs36r8rdryw86ax9viwkhrkjc51mxpa8g1nw";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/grey knob red pointer.png'';
@@ -42095,12 +42095,12 @@
         {
           path = ''src/Images/Knobs/hise_knob_small.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Knobs/hise_knob_small.png";
-          sha256 = "1n06nky50339dm6r0i1l634v07hxx778rm79gvql71dz6rszpqci";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/ideogram analog knob 1 No Pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Images/Knobs/ideogram%20analog%20knob%201%20No%20Pointer.png";
-          sha256 = "1y0c6nxg5mrmfpx811cnxh29gqs5w57q38xs7a73jjn6vcx9ybr9";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/knob-small.png'';
@@ -42115,7 +42115,7 @@
         {
           path = ''src/LFO Shapes/Pulse.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/LFO%20Shapes/Pulse.ini";
-          sha256 = "0b2dla398dr1a2xmw014873chsh4gpkfzbz7r53a09mi4i331gh9";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Saw.ini'';
@@ -42135,12 +42135,12 @@
         {
           path = ''src/LFO Shapes/Square New.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/LFO%20Shapes/Square%20New.ini";
-          sha256 = "1w6hqlbpw06va4a72jn3x947crcn44vffv1rzmrzk74pr4ks47nl";
+          sha256 = "";
         }
         {
           path = ''src/Layout Editor Item Styles/Knob/kilohearts.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/a48c5e0fbd11a269443610eaf656e5ec94727be4/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/kilohearts.ini";
-          sha256 = "1f40v9ng5d0ygpc1jq4dm139dwcizfccf8lrxsx0sdvqfjpscd65";
+          sha256 = "";
         }
         {
           path = ''src/Layout Editor Item Styles/Switch/Kilohearts.ini'';
@@ -42164,17 +42164,17 @@
         {
           path = '''';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/BryanChi_FX%20Devices.lua";
-          sha256 = "02vrib3kr4m31k01jcxv50db32wz23d9nwl0hwmlqfdrwryg7fa6";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20(Mix)RackMixer.jsfx";
-          sha256 = "06a4xara6x5aa1saqqqii57ycdmxg68g83gcs35zmn70axxzgm1c";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Band%20Joiner.jsfx";
-          sha256 = "17vyx8c36776wf4hs1lr2qglckmsj460zglja0k99kg1l0igjj2c";
+          sha256 = "0fx1vl627jw647qr24nq7a774jm97a11ka27j9hv8zrhcprkcg1d";
         }
         {
           path = ''FXD JSFXs/FXD Container Macros.jsfx'';
@@ -42184,7 +42184,7 @@
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Gain%20Reduction%20Scope.jsfx";
-          sha256 = "0nn6mwjjf39q1619mcrh1bl0v41m81rf1yj2wb8gaahll3n4xj6h";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Macros.jsfx'';
@@ -42209,12 +42209,12 @@
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20to%2032%20Channels.jsfx";
-          sha256 = "0c12dzr35k4jdfhvn3cq3v3c2dm1yd57jz6v989rqsq1i9j3zbqd";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Macros - Default Values.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros%20-%20Default%20Values.jsfx-inc";
-          sha256 = "0d0gqzyncr0hw394ld8s4myfb68agdbm6x0r1a6h84cwgpjb9gvm";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Macros Functions.jsfx-inc'';
@@ -42239,7 +42239,7 @@
         {
           path = ''FXD JSFXs/svf_filter.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/FXD%20JSFXs/svf_filter.jsfx-inc";
-          sha256 = "19v43q1igqq8rfvawxyvizy0vfc6x7bc31nbvcxawdjhs661q8m5";
+          sha256 = "";
         }
         {
           path = ''src/Constants.lua'';
@@ -42254,7 +42254,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-2.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-2.ttf";
-          sha256 = "0bw66hqzgx77w7dx1pbbynag0cg9agh7qipjdl2kk3h9cd8ksd1p";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-3.ttf'';
@@ -42264,17 +42264,17 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-4.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-4.ttf";
-          sha256 = "1i2r89rv6iszri08djk258i7jphl7dwklvw79nspvywjavmzrzxx";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-5.ttf";
-          sha256 = "0n35pc1kqd2mc8pmjzqsainp4s1isg5cv03vkswpk0kyihckdqiz";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-6.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-6.ttf";
-          sha256 = "12dh62i8df57bmdm7x1fn606c8nq2v96ksijs91nwlgri9rpxrip";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-7.ttf'';
@@ -42314,7 +42314,7 @@
         {
           path = ''src/Functions/Filesystem_utils.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Functions/Filesystem_utils.lua";
-          sha256 = "11n786zkxkxsja0wn5g9xw7g5y4fkpzg0rf8acw0pcd28hk4k30i";
+          sha256 = "0nzl3rv343znda5cn2la41c4zxrgxfyrca6nr8h57z3fx6ibnzcc";
         }
         {
           path = ''src/Functions/GUI.lua'';
@@ -42334,12 +42334,12 @@
         {
           path = ''src/Functions/Menu Bar.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Functions/Menu%20Bar.lua";
-          sha256 = "117x514fp3hys2644nyvh6hs98jmx8gmcnc49sfgk56mf2g404pl";
+          sha256 = "1cjh6d8rlyknbg3gxmwxsycaam7mp12dfailck7j5alnhpxqjyqc";
         }
         {
           path = ''src/Functions/Modulation.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Functions/Modulation.lua";
-          sha256 = "021djj5vasghm5fgd74xv2via2immn9l0sy45j340wpddx0vc61b";
+          sha256 = "1gc89bbb5p9clk6mcqwz9h8lb1z1bkk3w282hrdf7wrh5k2hb04p";
         }
         {
           path = ''src/Functions/Modulator_LFO.lua'';
@@ -42669,7 +42669,7 @@
         {
           path = ''src/FX Layouts/bx_2098 EQ (Plugin Alliance).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/FX%20Layouts/bx_2098%20EQ%20(Plugin%20Alliance).ini";
-          sha256 = "11spjx0i5srb5a1n4bagmm7dkxi0pr5p4krbhxj886kqdhl8rmd3";
+          sha256 = "09c4dzwnya63axgdvbzjyv74frnm1s0ld21jd1l7mxjscvblgk2s";
         }
         {
           path = ''src/FX Layouts/kHs Filter (Kilohearts).ini'';
@@ -42694,7 +42694,7 @@
         {
           path = ''src/FXChains/ReaDrum Machine.RfxChain'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/FXChains/ReaDrum%20Machine.RfxChain";
-          sha256 = "0r20q4pbmvn0nyi0dbq3xkm4gm0fsvfnzdbg9gjd5bfsgx6ajhll";
+          sha256 = "";
         }
         {
           path = ''src/Images/Analog Knob 1.png'';
@@ -42719,7 +42719,7 @@
         {
           path = ''src/Images/ModulationArrow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/ModulationArrow.png";
-          sha256 = "0x08dbz2xsw5brgsj9ws0pincq0g500ksb41r5g51zg001awxnms";
+          sha256 = "";
         }
         {
           path = ''src/Images/MouseL.png'';
@@ -42734,12 +42734,12 @@
         {
           path = ''src/Images/add-list.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/add-list.png";
-          sha256 = "12czrwa9l7wiw99s8dix5ig72zh6nq6bnaypp4xbr59512phz2pd";
+          sha256 = "";
         }
         {
           path = ''src/Images/copy.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/copy.png";
-          sha256 = "15fhdmf8wjv72phq9skf804nfka45m2ldi750wnr6xbca51r7sy0";
+          sha256 = "";
         }
         {
           path = ''src/Images/paste.png'';
@@ -42759,7 +42759,7 @@
         {
           path = ''src/Images/save.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/save.png";
-          sha256 = "0birbbfpmpdg20hgw4926730af3kwmpiiv8a1r3j8v3i1q4qi9mc";
+          sha256 = "";
         }
         {
           path = ''src/Images/sinewave.png'';
@@ -42769,7 +42769,7 @@
         {
           path = ''src/Images/small_scale_white.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/small_scale_white.png";
-          sha256 = "0nix06x4hrw9q1xj37pn8xfy15ilr94jpjq0fhrpjz9fz77mg680";
+          sha256 = "";
         }
         {
           path = ''src/Images/trash.png'';
@@ -42779,7 +42779,7 @@
         {
           path = ''src/Images/Backgrounds/Amek M.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Backgrounds/Amek%20M.png";
-          sha256 = "103a3i1gwm81vrlkx8s78xwk6bldqdi9lf8kh91hizlxq8yk28n3";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/Amek S.png'';
@@ -42799,7 +42799,7 @@
         {
           path = ''src/Images/Backgrounds/Gullfoss.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Backgrounds/Gullfoss.png";
-          sha256 = "159azbyhdb6agjbl4qqpakbqgnkn77cx5nsg7wppiidvm4ydkp3w";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/Heatwave.png'';
@@ -42814,7 +42814,7 @@
         {
           path = ''src/Images/Backgrounds/Neve_33609_logo.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Backgrounds/Neve_33609_logo.png";
-          sha256 = "1bzifkkivkr1mcj4l3bvz07znarjsvw83k93mfpv827r1dg7ysqa";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/SHMC icon.png'';
@@ -42844,7 +42844,7 @@
         {
           path = ''src/Images/Backgrounds/UAD Century strip.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Backgrounds/UAD%20Century%20strip.png";
-          sha256 = "0qy99vi0bhx10ybpgb0v8z4l1160mj94laddd1z98dx8f6zmrwns";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/UAD Hemi 2.png'';
@@ -42859,7 +42859,7 @@
         {
           path = ''src/Images/Backgrounds/Wasted space.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Backgrounds/Wasted%20space.png";
-          sha256 = "1nnfb7ywad7f5r21ffkwsgac25fzp6dxkjq84mj64p3qs7219jm7";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/bx_2980EQ.png'';
@@ -42889,7 +42889,7 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2 2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2%202.png";
-          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/FancyGreenCheck_2.png'';
@@ -42909,7 +42909,7 @@
         {
           path = ''src/Images/Switches/Power bypass.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Switches/Power%20bypass.png";
-          sha256 = "19snwsgm7fxip3676synba9dzri2yxh04nrwr73a4xnlxzv5pymv";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/Red Green.png'';
@@ -42919,17 +42919,17 @@
         {
           path = ''src/Images/Switches/SC.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Switches/SC.png";
-          sha256 = "0j5b4kl1l7inzabam4nxzaqp2y4w1jnr9jc958wyx685gv5jjcn4";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/SCR-20240903-unss.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Switches/SCR-20240903-unss.png";
-          sha256 = "0hz28787m4biqzj3dclssfk7dwd03xpyzfckzg8ka0jrfzjlf1gn";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/metronome Black.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Switches/metronome%20Black.png";
-          sha256 = "199xdcb388smza57blfdcjainv711554r0vbv0s51bw1pjk22j7a";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/metronome White.png'';
@@ -42974,7 +42974,7 @@
         {
           path = ''src/Images/Switches/switch_toggle up_down.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Switches/switch_toggle%20up_down.png";
-          sha256 = "1a8bf3xgn5r5prgadd642bnjjz8981zks5rcgy98dnc9xsvgcbg5";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/switch_toggle_left_right.png'';
@@ -42989,7 +42989,7 @@
         {
           path = ''src/Images/Knobs/Analog Knob 1.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/Analog%20Knob%201.png";
-          sha256 = "05kzfclsbymn6mnac0mi4b3rr3bpkxq2w0svd3rylvlx786jv99v";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Analog Knob with pointer.png'';
@@ -42999,12 +42999,12 @@
         {
           path = ''src/Images/Knobs/Analog knob no pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/Analog%20knob%20no%20pointer.png";
-          sha256 = "11xcqvnmflbp69cf7aa86sznv11pq4wjg70zq859s5n5qdc9yxfs";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Arthen Knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/Arthen%20Knob.png";
-          sha256 = "1hjsnxwany41ggcmddjw4bv7sbxym3znzfv0hky86wsh6n97cxir";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/BOS_Massive_Control_Knob.png'';
@@ -43019,12 +43019,12 @@
         {
           path = ''src/Images/Knobs/CS1_Blue knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/CS1_Blue%20knob.png";
-          sha256 = "09rak586bcgdfqfwix7xic7dia32ma8x9x501v8s81byn7rw94pb";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_Green knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/CS1_Green%20knob.png";
-          sha256 = "1ladx8f3xr398as0q3h52kpvj94bdhyr7hyp4dyxzgfz132qs5pm";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_Grey knob.png'';
@@ -43034,7 +43034,7 @@
         {
           path = ''src/Images/Knobs/CS1_Orange knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/CS1_Orange%20knob.png";
-          sha256 = "0jv06v92jds7z55mrajdv48572xkfxiplphm7pxcl0hnmcvlfpz2";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_Purple knob.png'';
@@ -43069,22 +43069,22 @@
         {
           path = ''src/Images/Knobs/FancyBlueKnob copy.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob%20copy.png";
-          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob.png";
-          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob_Inverted.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob_Inverted.png";
-          sha256 = "0rr7jhv599awm2i5107m563dx485gwg3ph8h15aslkiimxx0nvfs";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/FancyGreenKnob.png";
-          sha256 = "0x4s659fbd9ff3vw763nlgz39csz6lscvzyjxizdr861d49bbd95";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
@@ -43109,17 +43109,17 @@
         {
           path = ''src/Images/Knobs/Grey knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/Grey%20knob.png";
-          sha256 = "1j30as8s9apr2zd4gvdyk4ffj7909p8nlarksyhpnyihqxp92d1k";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Ideogram analog knob 2 No Pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/Ideogram%20analog%20knob%202%20No%20Pointer.png";
-          sha256 = "1wpirblxqaygvfcfm4rpq7kv6wm7kbdk134c5fmbgb8rhia5cb9c";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/KNB_LPG_10.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/KNB_LPG_10.png";
-          sha256 = "0c4a1plja9fd0wb8swxd6n5kyni0km3gjkvlsxsf51xf3za49bq1";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/KNB_LPG_120.png'';
@@ -43134,7 +43134,7 @@
         {
           path = ''src/Images/Knobs/PlainKnob no pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/PlainKnob%20no%20pointer.png";
-          sha256 = "1bzl0prski5ima7m62a7g93qhas9wwsd8920wcwdja3p3dwqiy8d";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SCR-20240903-unss.png'';
@@ -43154,7 +43154,7 @@
         {
           path = ''src/Images/Knobs/SSL Blue.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Blue.png";
-          sha256 = "1566grzdzwrv0n19v42mg0h1vig9154m8kw36lyskhn042jasdvp";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Green.png'';
@@ -43164,7 +43164,7 @@
         {
           path = ''src/Images/Knobs/SSL Grey.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Grey.png";
-          sha256 = "1z2l4f3w65pcsjkcdcjh2vlfw53v2pglwxgxx27qsgg24yaxnswd";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Red.png'';
@@ -43174,17 +43174,17 @@
         {
           path = ''src/Images/Knobs/Small_simple_puck_Knob_128x128.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/Small_simple_puck_Knob_128x128.png";
-          sha256 = "0wjsynzlrhyp858zay6mvgf77ik6p6mvj9cx03n142bn5dsbq1ph";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/blue_knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/blue_knob.png";
-          sha256 = "1w2kmcspm3g7kn73pbzfyv7va2lkyphrkqzhhldl98wgyrvabx7x";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/grey knob blue pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/grey%20knob%20blue%20pointer.png";
-          sha256 = "17mykm2fk73k1h6g4r0jdkhh4b1fzj577fflim4mkyij1649n8rg";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/grey knob green pointer.png'';
@@ -43209,7 +43209,7 @@
         {
           path = ''src/Images/Knobs/hise_knob_big.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Images/Knobs/hise_knob_big.png";
-          sha256 = "11zmbhvb0pqljwp98zpn8kbpf81rqdp27lw42ly51f27028plrjm";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/hise_knob_small.png'';
@@ -43234,12 +43234,12 @@
         {
           path = ''src/LFO Shapes/Pulse.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/LFO%20Shapes/Pulse.ini";
-          sha256 = "0b2dla398dr1a2xmw014873chsh4gpkfzbz7r53a09mi4i331gh9";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Saw.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/LFO%20Shapes/Saw.ini";
-          sha256 = "180p6iw7f88wnyzhlvhmf525qyl0l3diq8n5lij883q4jyzh68y1";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Sine Better.ini'';
@@ -43249,12 +43249,12 @@
         {
           path = ''src/LFO Shapes/Sine.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/LFO%20Shapes/Sine.ini";
-          sha256 = "1lcgzjfn2ic37dg1qvzbfd74vk35qj11yg1dz89dhq4ra3nnhvkk";
+          sha256 = "0pzdzmapzq972m1gdkrpwcflvfjamqw207p0pg7b3yml84kx43d5";
         }
         {
           path = ''src/LFO Shapes/Square New.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/LFO%20Shapes/Square%20New.ini";
-          sha256 = "1w6hqlbpw06va4a72jn3x947crcn44vffv1rzmrzk74pr4ks47nl";
+          sha256 = "1q7irk12q3arkyi2xi12zxgwqm5nxlnvz6fmwli2xqphzz3xdxfy";
         }
         {
           path = ''src/Layout Editor Item Styles/Knob/kilohearts.ini'';
@@ -43264,12 +43264,12 @@
         {
           path = ''src/Layout Editor Item Styles/Switch/Kilohearts.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Switch/Kilohearts.ini";
-          sha256 = "1pqq8zp8920898z5bjgmckknyl035bfjww1wbhqkls45img4ri87";
+          sha256 = "1q9d41m8qwkhiy7iq2m0i004bg6wl3a5hi2flg6g3l35qmk07adn";
         }
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/1fba196c81dbce9d83ef052d743ed7ff83b761b2/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+          sha256 = "04aj6zv7r35fi5xnjjsy9wl7vx03iv9yz2ql3cpq5idzf95ypzab";
         }
       ];
     };
@@ -43288,7 +43288,7 @@
         {
           path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/fac58f301a99f4c682ee628ba273d5622b3e7c95/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20(Mix)RackMixer.jsfx";
-          sha256 = "06a4xara6x5aa1saqqqii57ycdmxg68g83gcs35zmn70axxzgm1c";
+          sha256 = "0adb73iybphfzv00hs39xx6dh8vvbsz6myqq10r79clnzi1pqs7j";
         }
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
@@ -43298,7 +43298,7 @@
         {
           path = ''FXD JSFXs/FXD Container Macros.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/fac58f301a99f4c682ee628ba273d5622b3e7c95/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Container%20Macros.jsfx";
-          sha256 = "108bj2ns653vww1qs2zizzpl5xiw2zw92rb4x3fcyiyn0hk2pprh";
+          sha256 = "06cl9pvcp6bggnd1wnxydzd8q1ynzvixmgmrz3q06ikd8p2cz8ih";
         }
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
@@ -43318,7 +43318,7 @@
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/fac58f301a99f4c682ee628ba273d5622b3e7c95/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Saike%20BandSplitter.jsfx";
-          sha256 = "1917rcxp6kw0aa2a3xmwhjvvmws39xjqpimxayfzxc0fs5qjxk6f";
+          sha256 = "0pg482x7zhh7fqin3m4z9bl0d10svvz61pqrj49r4lxj3f3kmzpi";
         }
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
@@ -43448,12 +43448,12 @@
         {
           path = ''src/Functions/General Functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/fac58f301a99f4c682ee628ba273d5622b3e7c95/BryanChi_FX_Devices/src/Functions/General%20Functions.lua";
-          sha256 = "1vz695fzc46qq9k0y9n09p9cxv964k2xxjqp6wjg7cdm4h0cp72j";
+          sha256 = "1amzka6lybbxpqf0qb1a6fvhyfr9nskr6hqx92qp21c921kvy2a3";
         }
         {
           path = ''src/Functions/Layout Editor functions.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/fac58f301a99f4c682ee628ba273d5622b3e7c95/BryanChi_FX_Devices/src/Functions/Layout%20Editor%20functions.lua";
-          sha256 = "072pvjfdaww6lrygbf67186fdff0nlh1rz3va48qam0zyifi71li";
+          sha256 = "12pnp955k401mwib7lbarr6znayfrph907lc01c9x9z9pkjrk369";
         }
         {
           path = ''src/Functions/Menu Bar.lua'';
@@ -45357,12 +45357,12 @@
         {
           path = ''src/Images/Knobs/CS1_Green knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/CS1_Green%20knob.png";
-          sha256 = "1ladx8f3xr398as0q3h52kpvj94bdhyr7hyp4dyxzgfz132qs5pm";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_Grey knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/CS1_Grey%20knob.png";
-          sha256 = "02gkq125cskg58sslxfpgkg2942lfahv5mj1nsyfjc4gag5v62is";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_Orange knob.png'';
@@ -45377,7 +45377,7 @@
         {
           path = ''src/Images/Knobs/CS1_Red knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/CS1_Red%20knob.png";
-          sha256 = "1ik77m2iwwijphp5cw3q64h4ph5l013n1zgklfnwrf2phfjw2bq7";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_pink knob.png'';
@@ -45387,12 +45387,12 @@
         {
           path = ''src/Images/Knobs/CS1_white knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/CS1_white%20knob.png";
-          sha256 = "0hf4idw71p9ikgl5dsv2dyv4kfa2k0yxsmyq82dbww72nwd3yijb";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_yellow knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/CS1_yellow%20knob.png";
-          sha256 = "013dbglk21978k61xbci4gabs8kd79i3xm77jmkyfi8adg51qj9i";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob copy 2.png'';
@@ -45402,7 +45402,7 @@
         {
           path = ''src/Images/Knobs/FancyBlueKnob copy.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob%20copy.png";
-          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob.png'';
@@ -45412,12 +45412,12 @@
         {
           path = ''src/Images/Knobs/FancyBlueKnob_Inverted.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob_Inverted.png";
-          sha256 = "0rr7jhv599awm2i5107m563dx485gwg3ph8h15aslkiimxx0nvfs";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/FancyGreenKnob.png";
-          sha256 = "0x4s659fbd9ff3vw763nlgz39csz6lscvzyjxizdr861d49bbd95";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
@@ -45437,7 +45437,7 @@
         {
           path = ''src/Images/Knobs/Flex Chorus.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/Flex%20Chorus.png";
-          sha256 = "1xcn8wb9j02g51sqhc6rvmj5x3q08m069i8zg9wda274rx7y3klb";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Grey knob.png'';
@@ -45447,7 +45447,7 @@
         {
           path = ''src/Images/Knobs/Ideogram analog knob 2 No Pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/Ideogram%20analog%20knob%202%20No%20Pointer.png";
-          sha256 = "1wpirblxqaygvfcfm4rpq7kv6wm7kbdk134c5fmbgb8rhia5cb9c";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/KNB_LPG_10.png'';
@@ -45457,7 +45457,7 @@
         {
           path = ''src/Images/Knobs/KNB_LPG_120.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/KNB_LPG_120.png";
-          sha256 = "000mrk7cq64a25d5nj5bbnb2aa3wyyrg1lv8vcxgyc5ddv3jlkw3";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/KNB_LPG_6.png'';
@@ -45477,37 +45477,37 @@
         {
           path = ''src/Images/Knobs/SHMC knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/SHMC%20knob.png";
-          sha256 = "1qh6rk2aajz6kk8vks4ps9wc0vc7fsxvf1hj12k70gbq7prhw243";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Black.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Black.png";
-          sha256 = "1gi0njamcsxkq2r811y93giymibj134w85kkxal46jfph5ca0b03";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Blue.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Blue.png";
-          sha256 = "1566grzdzwrv0n19v42mg0h1vig9154m8kw36lyskhn042jasdvp";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Green.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Green.png";
-          sha256 = "19z9q3qcgz6gacvfrqbn4bd9xqsxcv5cb5km0a13gxn15fl737sl";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Grey.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Grey.png";
-          sha256 = "1z2l4f3w65pcsjkcdcjh2vlfw53v2pglwxgxx27qsgg24yaxnswd";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Red.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Red.png";
-          sha256 = "05q0nrdk3slharsi1y0zgj6z935282b77ivfw9llrqg4jy8cb49y";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Small_simple_puck_Knob_128x128.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/Small_simple_puck_Knob_128x128.png";
-          sha256 = "0wjsynzlrhyp858zay6mvgf77ik6p6mvj9cx03n142bn5dsbq1ph";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/blue_knob.png'';
@@ -45517,17 +45517,17 @@
         {
           path = ''src/Images/Knobs/grey knob blue pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/grey%20knob%20blue%20pointer.png";
-          sha256 = "17mykm2fk73k1h6g4r0jdkhh4b1fzj577fflim4mkyij1649n8rg";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/grey knob green pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/grey%20knob%20green%20pointer.png";
-          sha256 = "0i4b20m8asl94fz3bs36r8rdryw86ax9viwkhrkjc51mxpa8g1nw";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/grey knob red pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/grey%20knob%20red%20pointer.png";
-          sha256 = "1mirdic76q4fhf73x4n7vmp09xw4lg1gqihhfnp074j76zki36y1";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/grey knob white pointer.png'';
@@ -45542,7 +45542,7 @@
         {
           path = ''src/Images/Knobs/hise_knob_big.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/hise_knob_big.png";
-          sha256 = "11zmbhvb0pqljwp98zpn8kbpf81rqdp27lw42ly51f27028plrjm";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/hise_knob_small.png'';
@@ -45552,12 +45552,12 @@
         {
           path = ''src/Images/Knobs/ideogram analog knob 1 No Pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/ideogram%20analog%20knob%201%20No%20Pointer.png";
-          sha256 = "1y0c6nxg5mrmfpx811cnxh29gqs5w57q38xs7a73jjn6vcx9ybr9";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/knob-small.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Images/Knobs/knob-small.png";
-          sha256 = "1vhhlq97l8a7zn49m862i0ch7cwpvj42a4lxfylibv7a26rbq3ni";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/metal knob.png'';
@@ -45567,17 +45567,17 @@
         {
           path = ''src/LFO Shapes/Pulse.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/LFO%20Shapes/Pulse.ini";
-          sha256 = "0b2dla398dr1a2xmw014873chsh4gpkfzbz7r53a09mi4i331gh9";
+          sha256 = "19vil31wfs4civwyp1rkvijyk0d74qz54p30b9b98raw4r1kgk2r";
         }
         {
           path = ''src/LFO Shapes/Saw.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/LFO%20Shapes/Saw.ini";
-          sha256 = "180p6iw7f88wnyzhlvhmf525qyl0l3diq8n5lij883q4jyzh68y1";
+          sha256 = "0vv1za7q9b7di0mkqy5mp8b6r4ikhpbrbcd9mvwpv1qzby90w4v2";
         }
         {
           path = ''src/LFO Shapes/Sine Better.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/LFO%20Shapes/Sine%20Better.ini";
-          sha256 = "067zplgdgjhpfxxz88pwhpcmh508y6aclg6zcwpmcwa1mz7gmd7i";
+          sha256 = "0vm6hmacgvzl0w7s4y6sp999lxn5bcjmqxdraqyi2ams76wc34vq";
         }
         {
           path = ''src/LFO Shapes/Sine.ini'';
@@ -45592,7 +45592,7 @@
         {
           path = ''src/Layout Editor Item Styles/Knob/kilohearts.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/d69cef52de32fa6ba79a98e9655a550998dce4cb/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/kilohearts.ini";
-          sha256 = "1f40v9ng5d0ygpc1jq4dm139dwcizfccf8lrxsx0sdvqfjpscd65";
+          sha256 = "08p8h8rpb72k0b3kf7k37s0yxgj783imvpsxasmp7gz6xfwd8vd4";
         }
         {
           path = ''src/Layout Editor Item Styles/Switch/Kilohearts.ini'';
@@ -47610,7 +47610,7 @@
         {
           path = ''src/Images/Backgrounds/Wasted space.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Backgrounds/Wasted%20space.png";
-          sha256 = "1nnfb7ywad7f5r21ffkwsgac25fzp6dxkjq84mj64p3qs7219jm7";
+          sha256 = "";
         }
         {
           path = ''src/Images/Backgrounds/bx_2980EQ.png'';
@@ -47650,7 +47650,7 @@
         {
           path = ''src/Images/Switches/FancyGreenCheck_2_white.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2_white.png";
-          sha256 = "1yawmpx5ydw7cz2dlllx7wd0aa711vlws3h92705fbkzckbf80qg";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/Phase toggle.png'';
@@ -47675,7 +47675,7 @@
         {
           path = ''src/Images/Switches/SCR-20240903-unss.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Switches/SCR-20240903-unss.png";
-          sha256 = "0hz28787m4biqzj3dclssfk7dwd03xpyzfckzg8ka0jrfzjlf1gn";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/metronome Black.png'';
@@ -47685,7 +47685,7 @@
         {
           path = ''src/Images/Switches/metronome White.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Switches/metronome%20White.png";
-          sha256 = "1w2sb3v8hq4qvbpbg21pq1qaklynm57crihrpr7d1w570rczqigb";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/metronome.png'';
@@ -47695,7 +47695,7 @@
         {
           path = ''src/Images/Switches/pow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Switches/pow.png";
-          sha256 = "0sr93idwi8s11amd8r9yqh61b6gwgpg2gwsx18kak3178hilafqw";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/power red.png'';
@@ -47710,7 +47710,7 @@
         {
           path = ''src/Images/Switches/red square toggle.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Switches/red%20square%20toggle.png";
-          sha256 = "1n90l32n141ndazc2xyiaa0wz564fls142ir5p6b92052lfixb09";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/switch_metal.png'';
@@ -47725,7 +47725,7 @@
         {
           path = ''src/Images/Switches/switch_toggle up_down.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Switches/switch_toggle%20up_down.png";
-          sha256 = "1a8bf3xgn5r5prgadd642bnjjz8981zks5rcgy98dnc9xsvgcbg5";
+          sha256 = "";
         }
         {
           path = ''src/Images/Switches/switch_toggle_left_right.png'';
@@ -47745,7 +47745,7 @@
         {
           path = ''src/Images/Knobs/Analog Knob with pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/Analog%20Knob%20with%20pointer.png";
-          sha256 = "11q2zbbrpmlv8884ikj6zc5l6l5q0rciqbd6ch81lxcdj4cs029c";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Analog knob no pointer.png'';
@@ -47760,7 +47760,7 @@
         {
           path = ''src/Images/Knobs/BOS_Massive_Control_Knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/BOS_Massive_Control_Knob.png";
-          sha256 = "0prc0cbh2s4lh8kgim6y94vr7d1hpzc2iqs64sljzrp1rl2xwllg";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Bitwig.png'';
@@ -47780,7 +47780,7 @@
         {
           path = ''src/Images/Knobs/CS1_Grey knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/CS1_Grey%20knob.png";
-          sha256 = "02gkq125cskg58sslxfpgkg2942lfahv5mj1nsyfjc4gag5v62is";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_Orange knob.png'';
@@ -47810,7 +47810,7 @@
         {
           path = ''src/Images/Knobs/CS1_yellow knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/CS1_yellow%20knob.png";
-          sha256 = "013dbglk21978k61xbci4gabs8kd79i3xm77jmkyfi8adg51qj9i";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob copy 2.png'';
@@ -47820,17 +47820,17 @@
         {
           path = ''src/Images/Knobs/FancyBlueKnob copy.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob%20copy.png";
-          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob.png";
-          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob_Inverted.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob_Inverted.png";
-          sha256 = "0rr7jhv599awm2i5107m563dx485gwg3ph8h15aslkiimxx0nvfs";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyGreenKnob.png'';
@@ -47845,12 +47845,12 @@
         {
           path = ''src/Images/Knobs/FancyRedKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/FancyRedKnob.png";
-          sha256 = "0nm76r5gh8ihzhilhs4h6rmq3d120cwlsq0gcmhvq5qahfjsmxgs";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Flex Chorus with pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/Flex%20Chorus%20with%20pointer.png";
-          sha256 = "1xmxj693w1mw1zi8yzr5c16sba6713vly0rfx8v6a1140hvpa8h8";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Flex Chorus.png'';
@@ -47870,7 +47870,7 @@
         {
           path = ''src/Images/Knobs/KNB_LPG_10.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/KNB_LPG_10.png";
-          sha256 = "0c4a1plja9fd0wb8swxd6n5kyni0km3gjkvlsxsf51xf3za49bq1";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/KNB_LPG_120.png'';
@@ -47880,7 +47880,7 @@
         {
           path = ''src/Images/Knobs/KNB_LPG_6.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/KNB_LPG_6.png";
-          sha256 = "13r44gsg546v8l1mc4fk304ji9gx0w4ak17nl3l04a47avpfxg3h";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/PlainKnob no pointer.png'';
@@ -47905,7 +47905,7 @@
         {
           path = ''src/Images/Knobs/SSL Blue.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Blue.png";
-          sha256 = "1566grzdzwrv0n19v42mg0h1vig9154m8kw36lyskhn042jasdvp";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Green.png'';
@@ -47915,12 +47915,12 @@
         {
           path = ''src/Images/Knobs/SSL Grey.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Grey.png";
-          sha256 = "1z2l4f3w65pcsjkcdcjh2vlfw53v2pglwxgxx27qsgg24yaxnswd";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Red.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Red.png";
-          sha256 = "05q0nrdk3slharsi1y0zgj6z935282b77ivfw9llrqg4jy8cb49y";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Small_simple_puck_Knob_128x128.png'';
@@ -47945,7 +47945,7 @@
         {
           path = ''src/Images/Knobs/grey knob red pointer.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/grey%20knob%20red%20pointer.png";
-          sha256 = "1mirdic76q4fhf73x4n7vmp09xw4lg1gqihhfnp074j76zki36y1";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/grey knob white pointer.png'';
@@ -47955,7 +47955,7 @@
         {
           path = ''src/Images/Knobs/hise_Knob_medium.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/hise_Knob_medium.png";
-          sha256 = "0g9mxy3pfsnq4lmap9ni8qnq9h9gqc62zmkyiccgsyjl3v8qhysy";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/hise_knob_big.png'';
@@ -47980,12 +47980,12 @@
         {
           path = ''src/Images/Knobs/metal knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Images/Knobs/metal%20knob.png";
-          sha256 = "1v02qsfbv52szfrgi5i6xsk6izfs7rn16cmhqm2r738di64jdcxj";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Pulse.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/LFO%20Shapes/Pulse.ini";
-          sha256 = "0b2dla398dr1a2xmw014873chsh4gpkfzbz7r53a09mi4i331gh9";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Saw.ini'';
@@ -47995,7 +47995,7 @@
         {
           path = ''src/LFO Shapes/Sine Better.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/LFO%20Shapes/Sine%20Better.ini";
-          sha256 = "067zplgdgjhpfxxz88pwhpcmh508y6aclg6zcwpmcwa1mz7gmd7i";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Sine.ini'';
@@ -48010,17 +48010,17 @@
         {
           path = ''src/Layout Editor Item Styles/Knob/kilohearts.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/kilohearts.ini";
-          sha256 = "1f40v9ng5d0ygpc1jq4dm139dwcizfccf8lrxsx0sdvqfjpscd65";
+          sha256 = "";
         }
         {
           path = ''src/Layout Editor Item Styles/Switch/Kilohearts.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Switch/Kilohearts.ini";
-          sha256 = "1pqq8zp8920898z5bjgmckknyl035bfjww1wbhqkls45img4ri87";
+          sha256 = "";
         }
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/f6a94e2529eb724a4a21e278eb62282377217007/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
-          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+          sha256 = "";
         }
       ];
     };
@@ -48034,47 +48034,47 @@
         {
           path = '''';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/BryanChi_FX%20Devices.lua";
-          sha256 = "02jxpinhfv0qwzgg9wjq4hqagphx92vbv6svkfbwzr9dsxdn2r4p";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20(Mix)RackMixer.jsfx";
-          sha256 = "06a4xara6x5aa1saqqqii57ycdmxg68g83gcs35zmn70axxzgm1c";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Band%20Joiner.jsfx";
-          sha256 = "17vyx8c36776wf4hs1lr2qglckmsj460zglja0k99kg1l0igjj2c";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Container Macros.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Container%20Macros.jsfx";
-          sha256 = "0479x4isv95vjby575fzgv2lnn8py7b62m732kk9m1fw3msafc7b";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Gain%20Reduction%20Scope.jsfx";
-          sha256 = "0nn6mwjjf39q1619mcrh1bl0v41m81rf1yj2wb8gaahll3n4xj6h";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Macros.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros.jsfx";
-          sha256 = "1n4hj4ry8b6r3v5mh81xs61sbkxrlali9hvdlai7rl02vzk0xnc5";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
-          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Saike%20BandSplitter.jsfx";
-          sha256 = "0pg482x7zhh7fqin3m4z9bl0d10svvz61pqrj49r4lxj3f3kmzpi";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20To%204%20Channels.jsfx";
-          sha256 = "1xp0b1wsh7pb18ff8db5kc20pn2pzpg4pmnpamidf03i1bzh0yra";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
@@ -48084,7 +48084,7 @@
         {
           path = ''FXD JSFXs/FXD Macros - Default Values.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros%20-%20Default%20Values.jsfx-inc";
-          sha256 = "0ghnmd8d8kpcb0bz31qa1fa05ncxv8fyq6ik9ax00wkmpn8xvk13";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/FXD Macros - Functions.jsfx-inc'';
@@ -48094,7 +48094,7 @@
         {
           path = ''FXD JSFXs/FXD Macros Functions.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros%20Functions.jsfx-inc";
-          sha256 = "02fc41v00nsw8vplw0hc1kxlgfvaw8p6gp93js4khs1nlbbxw7br";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp.jsfx-inc'';
@@ -48109,12 +48109,12 @@
         {
           path = ''FXD JSFXs/spectrum.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/spectrum.jsfx-inc";
-          sha256 = "1l1yi77wz3wh5979rlbb8jn4abmqzvvyadbiwifyp81cw6zbf5w3";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/svf_filter.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/svf_filter.jsfx-inc";
-          sha256 = "19v43q1igqq8rfvawxyvizy0vfc6x7bc31nbvcxawdjhs661q8m5";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/analysis.jsfx-inc'';
@@ -48139,22 +48139,22 @@
         {
           path = ''FXD JSFXs/cookdsp/effects.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/effects.jsfx-inc";
-          sha256 = "1ksq4fkic8065s2ligzwj74lav7zj6hq57gnly4sgryn8kcfxas8";
+          sha256 = "0afasnzxiq7x2c8cj271x4p1ha7f5r5717rh8sq7flfsyz8cbsgb";
         }
         {
           path = ''FXD JSFXs/cookdsp/fftobjects.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/fftobjects.jsfx-inc";
-          sha256 = "0lb0ijqm2dc43gilifh6p9ig3y762959i71abflxqn5789f9wbcy";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/filters.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/filters.jsfx-inc";
-          sha256 = "0z8p9qcdh2i65qq09kgi60850mv0hn36f384x6ar9j3gdj6amdhx";
+          sha256 = "1y90szmvjl9dyx1vc3z0p4l7bxlxqd5z6dfyys0d0mpdkpsznpyb";
         }
         {
           path = ''FXD JSFXs/cookdsp/granulator.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/granulator.jsfx-inc";
-          sha256 = "15wfgmhnjznqh907wg10l9j5bqxkzms4zqcjfgfn05i8jv7b9ly6";
+          sha256 = "062lv83vhqncqr1l4738vcgcjjdjhysy61m3m8nvvx2h8j8467xy";
         }
         {
           path = ''FXD JSFXs/cookdsp/list.jsfx-inc'';
@@ -48169,7 +48169,7 @@
         {
           path = ''FXD JSFXs/cookdsp/midi.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/midi.jsfx-inc";
-          sha256 = "193v98nwsqv1acgb7c3yr36b9k8ylhgjs8xslxkphz26124vs25w";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/mmath.jsfx-inc'';
@@ -48194,7 +48194,7 @@
         {
           path = ''FXD JSFXs/cookdsp/random.jsfx-inc'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/random.jsfx-inc";
-          sha256 = "0fvwr728vhgmw5gkib8m4a7lpqgmqwdnyq372z2459aa61fpys9w";
+          sha256 = "";
         }
         {
           path = ''FXD JSFXs/cookdsp/scaling.jsfx-inc'';
@@ -48204,7 +48204,7 @@
         {
           path = ''src/Constants.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/Constants.lua";
-          sha256 = "0hgmvpmq8vaccrmkmj5mzwd44di76gxb5cyhvwhxvyl9gq70r2mn";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Regular.ttf'';
@@ -48214,7 +48214,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-2.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-2.ttf";
-          sha256 = "0bw66hqzgx77w7dx1pbbynag0cg9agh7qipjdl2kk3h9cd8ksd1p";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-3.ttf'';
@@ -48244,7 +48244,7 @@
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900-8.ttf'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-8.ttf";
-          sha256 = "0fkz0i58f4rz6k8zvzq2kcxwwhzanhckg16vvsavclk7i10bn0ad";
+          sha256 = "";
         }
         {
           path = ''src/Fonts/FontAwesome6Free-Solid-900.ttf'';
@@ -48299,7 +48299,7 @@
         {
           path = ''src/Functions/Modulation.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/Functions/Modulation.lua";
-          sha256 = "0zj0q52rsxbrlddsa1lh3ib81qf9vn7rdvhpv3n4f4qr7b8f9hha";
+          sha256 = "";
         }
         {
           path = ''src/Functions/Modulator_LFO.lua'';
@@ -48324,7 +48324,7 @@
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%203.lua";
-          sha256 = "0kjn91rcpn9qpvd3ykk9z1c5kg0wr40yf7lmqhgidlg5gyrf3i1g";
+          sha256 = "";
         }
         {
           path = ''src/FX Layout Plugin Scripts/Pro Q 4.lua'';
@@ -48389,7 +48389,7 @@
         {
           path = ''src/FX Layouts/Console 1 (Softube).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/Console%201%20(Softube).ini";
-          sha256 = "1car3fqf59cvjq8q761xxyyj0zx19a2m5wxy046mgps4hhn53nrd";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Cymatics Memory (Cymatics).ini'';
@@ -48414,17 +48414,17 @@
         {
           path = ''src/FX Layouts/Eternal v2 (Sinevibes).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/Eternal%20v2%20(Sinevibes).ini";
-          sha256 = "13hqsacimwnf7d7ic55bp1ibfg24q09cj0nzxwjraxvwyllgjsrl";
+          sha256 = "0cz42ah4y06pzs3hwjk92bk8zg5xr4x1jxvs2fwxv005w1fpqgch";
         }
         {
           path = ''src/FX Layouts/Flex Chorus (Minimal).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/Flex%20Chorus%20(Minimal).ini";
-          sha256 = "0iyriqa3361sfcznhnx8calccbsqc2a9bzfmxcadc349i1hzvl9c";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Fresh Air (Slate Digital).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/Fresh%20Air%20(Slate%20Digital).ini";
-          sha256 = "1f8r6an44kw4lx86h69q5isq92d3zrwxphqppl3bk56jzvjip63k";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Gullfoss (Soundtheory).ini'';
@@ -48459,27 +48459,27 @@
         {
           path = ''src/FX Layouts/ReaComp (Cockos) Suzuki.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/ReaComp%20(Cockos)%20Suzuki.ini";
-          sha256 = "1a9sqx6sdwfr0rl57b01yikvb0s90gahvnsvp537k3hmrnz9crmm";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ReaComp (Cockos).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/ReaComp%20(Cockos).ini";
-          sha256 = "0aik1j878mcj4a8dyv7l0nsvyhn3znqr13ld2a2bfpkxw2lzy6an";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ReaGate (Cockos).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/ReaGate%20(Cockos).ini";
-          sha256 = "1ahynfxckicifbnib0cm5vyg48firzk9i684ip8l2qsymdpi45qb";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ReaPitch (Cockos).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/ReaPitch%20(Cockos).ini";
-          sha256 = "1ybwqs9vcy8i3shh05jzw6b4rcy28ax00j90ij0xajhdmvvfzsw5";
+          sha256 = "1n8j56addi9hd4jnvwviqj2xkxrb7nn3m2hc780n5679q2y3fjh6";
         }
         {
           path = ''src/FX Layouts/ReaRack2 - Trigger.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/ReaRack2%20-%20Trigger.ini";
-          sha256 = "0473d1x4pwz5yl3lwbyv9lvghan64s6mdapwwyvx80zgzl6b4mg7";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Seventh Heaven (LiquidSonics).ini'';
@@ -48494,7 +48494,7 @@
         {
           path = ''src/FX Layouts/StandardCLIP (SIR Audio Tools).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/StandardCLIP%20(SIR%20Audio%20Tools).ini";
-          sha256 = "1mg3sy5ycjssil316ivr1ss44i8m83isbl3wg86wbf38ssx0dbh7";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/TBTECH Cenozoix Compressor (Plugin Alliance).ini'';
@@ -48504,12 +48504,12 @@
         {
           path = ''src/FX Layouts/Tone Generator.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/Tone%20Generator.ini";
-          sha256 = "15j7r65hlyyjgh0cf836q6sbdmhzg5666xq571gnyvmvn8q92c61";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Transmutator (JMGSound).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/Transmutator%20(JMGSound).ini";
-          sha256 = "09sl30j2xd4lbfw0y33ws9sxb03z7v426wq53k4s21wv4iygh6xs";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UA 33609 C.ini'';
@@ -48519,7 +48519,7 @@
         {
           path = ''src/FX Layouts/UA F.Child.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/UA%20F.Child.ini";
-          sha256 = "0zrh6bkpqf023s1pvcxicz6njdl2p6mxz9p2qr4micsq8n0hdfas";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD 1176 Blue (Universal Audio, Inc.).ini'';
@@ -48529,7 +48529,7 @@
         {
           path = ''src/FX Layouts/UAD Fairchild 670 (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20Fairchild%20670%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "06wi5n3xq3lpwbqciz5q211qzmrk15rcjmc49hyn93pgb7fvz2f8";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD Neve 33609 C (Universal Audio, Inc.).ini'';
@@ -48539,7 +48539,7 @@
         {
           path = ''src/FX Layouts/UAD Shadow Hills Mastering Compr (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20Shadow%20Hills%20Mastering%20Compr%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "00bsmwxa309rl474j11ps82pcvfpwf86z80xhrl60n9gk5jw3yzk";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD Teletronix LA-2A Legacy (Universal Audio, Inc.).ini'';
@@ -48554,22 +48554,22 @@
         {
           path = ''src/FX Layouts/UAD UA 1176AE (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176AE%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "0dfk7m737b6v5gicr8sfhpnkq40sgfs28c9xh6xb470k3w9sk031";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176LN Legacy (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176LN%20Legacy%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "007rpysvm51af4cx1rzqdma65g57gmqrz0w08lc4dfx3s0vzigpb";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UAD UA 1176LN Rev E (Universal Audio, Inc.).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176LN%20Rev%20E%20(Universal%20Audio,%20Inc.).ini";
-          sha256 = "1b1p1c4a25lgsaajgqvzni7szx0rbi4virysn27hprggmzv05y8f";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/UADx Hemisphere Mic Collection (Universal Audio (UADx)).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/UADx%20Hemisphere%20Mic%20Collection%20(Universal%20Audio%20(UADx)).ini";
-          sha256 = "1qq00bk8ksj9ibd0mi04ml5bcakg6wp93qjr2gfi153hzia3fcrr";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/Unfiltered Audio Bass Mint (Plugin Alliance).ini'';
@@ -48589,7 +48589,7 @@
         {
           path = ''src/FX Layouts/ValhallaFreqEcho (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaFreqEcho%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "1zn56wya3k7d4rm6gl90rk9ql1a08b0qhg1086crfp33dz0535rp";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaShimmer (Valhalla DSP, LLC).ini'';
@@ -48599,12 +48599,12 @@
         {
           path = ''src/FX Layouts/ValhallaSpaceModulator (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSpaceModulator%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "0y0lsyd2y0bda0gr3aqkn0s6hmdbfy4c0crsgx2grj05xf44r3m5";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSupermassive%20(Valhalla%20DSP,%20LLC).ini";
-          sha256 = "10a9h1ypfp0lhbwllj1dmdycrx09d18h889nqm26hm94d0gfpfpg";
+          sha256 = "";
         }
         {
           path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
@@ -48614,7 +48614,7 @@
         {
           path = ''src/FX Layouts/Volume Adjustment.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/FX%20Layouts/Volume%20Adjustment.ini";
-          sha256 = "0skvmvs07kvnw97mfzqm092brb4pwc4cbqrrxgljyjb73nsh63fv";
+          sha256 = "1cisxqlvnkvq7gw7hqfywnavw9jwm0ka371kcgaswwxpw3a5h3nb";
         }
         {
           path = ''src/FX Layouts/Wasted Space (Softube).ini'';
@@ -48669,7 +48669,7 @@
         {
           path = ''src/Images/Modulation Icon hollow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/Images/Modulation%20Icon%20hollow.png";
-          sha256 = "0h0h3wm4vdrk9h4326h69cm3nysqlcsxlpzgayl07mhjb43nlnn9";
+          sha256 = "";
         }
         {
           path = ''src/Images/Modulation Icon.png'';
@@ -48679,7 +48679,7 @@
         {
           path = ''src/Images/ModulationArrow.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/Images/ModulationArrow.png";
-          sha256 = "0x08dbz2xsw5brgsj9ws0pincq0g500ksb41r5g51zg001awxnms";
+          sha256 = "";
         }
         {
           path = ''src/Images/MouseL.png'';
@@ -48699,7 +48699,7 @@
         {
           path = ''src/Images/copy.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/5dcd10f4b6ffc38b46db99be4612db1816474078/BryanChi_FX_Devices/src/Images/copy.png";
-          sha256 = "15fhdmf8wjv72phq9skf804nfka45m2ldi750wnr6xbca51r7sy0";
+          sha256 = "";
         }
         {
           path = ''src/Images/paste.png'';
@@ -50198,12 +50198,12 @@
         {
           path = ''src/Images/Knobs/CS1_Green knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/Images/Knobs/CS1_Green%20knob.png";
-          sha256 = "1ladx8f3xr398as0q3h52kpvj94bdhyr7hyp4dyxzgfz132qs5pm";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_Grey knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/Images/Knobs/CS1_Grey%20knob.png";
-          sha256 = "02gkq125cskg58sslxfpgkg2942lfahv5mj1nsyfjc4gag5v62is";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/CS1_Orange knob.png'';
@@ -50233,12 +50233,12 @@
         {
           path = ''src/Images/Knobs/CS1_yellow knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/Images/Knobs/CS1_yellow%20knob.png";
-          sha256 = "013dbglk21978k61xbci4gabs8kd79i3xm77jmkyfi8adg51qj9i";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob copy 2.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob%20copy%202.png";
-          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyBlueKnob copy.png'';
@@ -50258,7 +50258,7 @@
         {
           path = ''src/Images/Knobs/FancyGreenKnob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/Images/Knobs/FancyGreenKnob.png";
-          sha256 = "0x4s659fbd9ff3vw763nlgz39csz6lscvzyjxizdr861d49bbd95";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
@@ -50283,7 +50283,7 @@
         {
           path = ''src/Images/Knobs/Grey knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/Images/Knobs/Grey%20knob.png";
-          sha256 = "1j30as8s9apr2zd4gvdyk4ffj7909p8nlarksyhpnyihqxp92d1k";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/Ideogram analog knob 2 No Pointer.png'';
@@ -50298,7 +50298,7 @@
         {
           path = ''src/Images/Knobs/KNB_LPG_120.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/Images/Knobs/KNB_LPG_120.png";
-          sha256 = "000mrk7cq64a25d5nj5bbnb2aa3wyyrg1lv8vcxgyc5ddv3jlkw3";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/KNB_LPG_6.png'';
@@ -50318,7 +50318,7 @@
         {
           path = ''src/Images/Knobs/SHMC knob.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/Images/Knobs/SHMC%20knob.png";
-          sha256 = "1qh6rk2aajz6kk8vks4ps9wc0vc7fsxvf1hj12k70gbq7prhw243";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Black.png'';
@@ -50328,12 +50328,12 @@
         {
           path = ''src/Images/Knobs/SSL Blue.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Blue.png";
-          sha256 = "1566grzdzwrv0n19v42mg0h1vig9154m8kw36lyskhn042jasdvp";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Green.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Green.png";
-          sha256 = "19z9q3qcgz6gacvfrqbn4bd9xqsxcv5cb5km0a13gxn15fl737sl";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/SSL Grey.png'';
@@ -50398,7 +50398,7 @@
         {
           path = ''src/Images/Knobs/knob-small.png'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/Images/Knobs/knob-small.png";
-          sha256 = "1vhhlq97l8a7zn49m862i0ch7cwpvj42a4lxfylibv7a26rbq3ni";
+          sha256 = "";
         }
         {
           path = ''src/Images/Knobs/metal knob.png'';
@@ -50413,7 +50413,7 @@
         {
           path = ''src/LFO Shapes/Saw.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/LFO%20Shapes/Saw.ini";
-          sha256 = "180p6iw7f88wnyzhlvhmf525qyl0l3diq8n5lij883q4jyzh68y1";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Sine Better.ini'';
@@ -50423,7 +50423,7 @@
         {
           path = ''src/LFO Shapes/Sine.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/LFO%20Shapes/Sine.ini";
-          sha256 = "0pzdzmapzq972m1gdkrpwcflvfjamqw207p0pg7b3yml84kx43d5";
+          sha256 = "";
         }
         {
           path = ''src/LFO Shapes/Square New.ini'';
@@ -50438,11 +50438,1360 @@
         {
           path = ''src/Layout Editor Item Styles/Switch/Kilohearts.ini'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Switch/Kilohearts.ini";
-          sha256 = "1pqq8zp8920898z5bjgmckknyl035bfjww1wbhqkls45img4ri87";
+          sha256 = "";
         }
         {
           path = ''src/FXD - Record Last Touch.lua'';
           url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/b84970b5c9c606b7b45b6a5e3e8f1c3c7719994a/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
+          sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
+        }
+      ];
+    };
+    bryanchi-fx-devices-lua-1-0beta17-3-6 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "bryanchi-fx-devices-lua-1-0beta17-3-6";
+      indexName = "FX Devices";
+      categoryName = "BryanChi_FX_Devices";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/BryanChi_FX%20Devices.lua";
+          sha256 = "1hw50f91i7zydz7asjm9hjib547fa4kk3n41aaq07p14b0vvykg7";
+        }
+        {
+          path = ''FXD JSFXs/FXD (Mix)RackMixer.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20(Mix)RackMixer.jsfx";
+          sha256 = "06a4xara6x5aa1saqqqii57ycdmxg68g83gcs35zmn70axxzgm1c";
+        }
+        {
+          path = ''FXD JSFXs/FXD Band Joiner.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Band%20Joiner.jsfx";
+          sha256 = "0fx1vl627jw647qr24nq7a774jm97a11ka27j9hv8zrhcprkcg1d";
+        }
+        {
+          path = ''FXD JSFXs/FXD Container Macros.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Container%20Macros.jsfx";
+          sha256 = "0479x4isv95vjby575fzgv2lnn8py7b62m732kk9m1fw3msafc7b";
+        }
+        {
+          path = ''FXD JSFXs/FXD Gain Reduction Scope.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Gain%20Reduction%20Scope.jsfx";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/FXD Macros.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros.jsfx";
+          sha256 = "1n4hj4ry8b6r3v5mh81xs61sbkxrlali9hvdlai7rl02vzk0xnc5";
+        }
+        {
+          path = ''FXD JSFXs/FXD ReSpectrum.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20ReSpectrum.jsfx";
+          sha256 = "1jyi2ymcwvrdgrd3dwbamn4zz0jysalin9dn6fhmpnyi1g646z8b";
+        }
+        {
+          path = ''FXD JSFXs/FXD Saike BandSplitter.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Saike%20BandSplitter.jsfx";
+          sha256 = "0pg482x7zhh7fqin3m4z9bl0d10svvz61pqrj49r4lxj3f3kmzpi";
+        }
+        {
+          path = ''FXD JSFXs/FXD Split To 4 Channels.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20To%204%20Channels.jsfx";
+          sha256 = "1xp0b1wsh7pb18ff8db5kc20pn2pzpg4pmnpamidf03i1bzh0yra";
+        }
+        {
+          path = ''FXD JSFXs/FXD Split to 32 Channels.jsfx'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Split%20to%2032%20Channels.jsfx";
+          sha256 = "0c12dzr35k4jdfhvn3cq3v3c2dm1yd57jz6v989rqsq1i9j3zbqd";
+        }
+        {
+          path = ''FXD JSFXs/FXD Macros - Default Values.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros%20-%20Default%20Values.jsfx-inc";
+          sha256 = "0ghnmd8d8kpcb0bz31qa1fa05ncxv8fyq6ik9ax00wkmpn8xvk13";
+        }
+        {
+          path = ''FXD JSFXs/FXD Macros - Functions.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros%20-%20Functions.jsfx-inc";
+          sha256 = "101fwi93wc1a3gnc87h4nv5rlc7k8ha8l71sz9xlhlrb23fm1fjf";
+        }
+        {
+          path = ''FXD JSFXs/FXD Macros Functions.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/FXD%20Macros%20Functions.jsfx-inc";
+          sha256 = "02fc41v00nsw8vplw0hc1kxlgfvaw8p6gp93js4khs1nlbbxw7br";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp.jsfx-inc";
+          sha256 = "0bgaw4hkzkfr9jyvkc8nd7j7byxdvh0ibvqjqq4l4vvic5yhwdsz";
+        }
+        {
+          path = ''FXD JSFXs/firhalfband.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/firhalfband.jsfx-inc";
+          sha256 = "1brd6z9dgdp56yggbb6ag4vir4l31f9frgx88p687hb0v9205h90";
+        }
+        {
+          path = ''FXD JSFXs/spectrum.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/spectrum.jsfx-inc";
+          sha256 = "1l1yi77wz3wh5979rlbb8jn4abmqzvvyadbiwifyp81cw6zbf5w3";
+        }
+        {
+          path = ''FXD JSFXs/svf_filter.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/svf_filter.jsfx-inc";
+          sha256 = "19v43q1igqq8rfvawxyvizy0vfc6x7bc31nbvcxawdjhs661q8m5";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/analysis.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/analysis.jsfx-inc";
+          sha256 = "08hzvj4c3rnkbghm5sw3g15ma5b809a2nbixfsiwdasbzq36b0wq";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/buffer.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/buffer.jsfx-inc";
+          sha256 = "1hhjmbkl87dgz8f89cdb2cp2h11c99dllvn6m98zjhxr6i6ynak1";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/delay.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/delay.jsfx-inc";
+          sha256 = "07s48wrmq2il4jwn2kh0g0iljv2zi9mj9n9g80bqcshhbgq0xk4b";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/dynamics.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/dynamics.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/effects.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/effects.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/fftobjects.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/fftobjects.jsfx-inc";
+          sha256 = "0lb0ijqm2dc43gilifh6p9ig3y762959i71abflxqn5789f9wbcy";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/filters.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/filters.jsfx-inc";
+          sha256 = "0z8p9qcdh2i65qq09kgi60850mv0hn36f384x6ar9j3gdj6amdhx";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/granulator.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/granulator.jsfx-inc";
+          sha256 = "15wfgmhnjznqh907wg10l9j5bqxkzms4zqcjfgfn05i8jv7b9ly6";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/list.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/list.jsfx-inc";
+          sha256 = "0kb430lpi6nkvw6k29pzx5xwycl9phkzzmirqbk7waf9la86aa1y";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/memalloc.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/memalloc.jsfx-inc";
+          sha256 = "";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/midi.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/midi.jsfx-inc";
+          sha256 = "193v98nwsqv1acgb7c3yr36b9k8ylhgjs8xslxkphz26124vs25w";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/mmath.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/mmath.jsfx-inc";
+          sha256 = "1181ngna25avmywkwz5fgnhhgdagygn6xzzmba5jvz6xzd7zrfwq";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/oscil.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/oscil.jsfx-inc";
+          sha256 = "1l5vw7yylwq2ivhn6wbxxxajr2zj1528d9v7bvp4ylbnqib4xzwa";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/pobjects.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/pobjects.jsfx-inc";
+          sha256 = "11y95ac05zsk952h8wji8dxqhaz31z22nwypsrfx3kxzq069qigz";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/pvocobjects.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/pvocobjects.jsfx-inc";
+          sha256 = "0brqm4miqd0vd5jfpxpvzy24dpqknxfdwxybpmfii2mfakk6nb2s";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/random.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/random.jsfx-inc";
+          sha256 = "0fvwr728vhgmw5gkib8m4a7lpqgmqwdnyq372z2459aa61fpys9w";
+        }
+        {
+          path = ''FXD JSFXs/cookdsp/scaling.jsfx-inc'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/FXD%20JSFXs/cookdsp/scaling.jsfx-inc";
+          sha256 = "0slg7mw7hbs3sq2vdhff5lqdmh7yj8b534bl1g318sylh04na3xf";
+        }
+        {
+          path = ''src/Constants.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Constants.lua";
+          sha256 = "0hgmvpmq8vaccrmkmj5mzwd44di76gxb5cyhvwhxvyl9gq70r2mn";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Regular.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Regular.ttf";
+          sha256 = "09dyd8h2a9pn424npw2ff5b90jr0ii66kik1fm53cs0wq7aqlwhk";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900-2.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-2.ttf";
+          sha256 = "0bw66hqzgx77w7dx1pbbynag0cg9agh7qipjdl2kk3h9cd8ksd1p";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900-3.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-3.ttf";
+          sha256 = "1grr7ir8sji4yhqq1kcc15agg39rlxgyx0pa5z7710vjp7ifz6mk";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900-4.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-4.ttf";
+          sha256 = "1i2r89rv6iszri08djk258i7jphl7dwklvw79nspvywjavmzrzxx";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900-5.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-5.ttf";
+          sha256 = "0n35pc1kqd2mc8pmjzqsainp4s1isg5cv03vkswpk0kyihckdqiz";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900-6.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-6.ttf";
+          sha256 = "12dh62i8df57bmdm7x1fn606c8nq2v96ksijs91nwlgri9rpxrip";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900-7.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-7.ttf";
+          sha256 = "0gisspv42nkyjnmhgzcnvzfk1sprzbfyfjy9mmphlwy1rymwn27s";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900-8.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900-8.ttf";
+          sha256 = "0fkz0i58f4rz6k8zvzq2kcxwwhzanhckg16vvsavclk7i10bn0ad";
+        }
+        {
+          path = ''src/Fonts/FontAwesome6Free-Solid-900.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Fonts/FontAwesome6Free-Solid-900.ttf";
+          sha256 = "0wm6zm06zagzzs55ypv2i03ybk80z2k3g2zbgim4i9ddd73xpg0l";
+        }
+        {
+          path = ''src/Fonts/IconFont1.ttf'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Fonts/IconFont1.ttf";
+          sha256 = "187nc8qjpwg7w99x40kwf5hd2icfl708i3x767ssggsldnjj7v9a";
+        }
+        {
+          path = ''src/Functions/EQ functions.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Functions/EQ%20functions.lua";
+          sha256 = "1b8mdfank0rdzvrcq55z6mjj2i7brrplf18akjv09jkx4xv6i1ga";
+        }
+        {
+          path = ''src/Functions/Execute Before Loop.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Functions/Execute%20Before%20Loop.lua";
+          sha256 = "145waw6hc0nmycwai5ml4hqigx669c6yy5fjh226gsan5xp1khbi";
+        }
+        {
+          path = ''src/Functions/FX Layering.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Functions/FX%20Layering.lua";
+          sha256 = "1fmxc5359vnd33pfrqvlzckd9aygk24y207r10lilz8i54a7v5dy";
+        }
+        {
+          path = ''src/Functions/Filesystem_utils.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Functions/Filesystem_utils.lua";
+          sha256 = "11n786zkxkxsja0wn5g9xw7g5y4fkpzg0rf8acw0pcd28hk4k30i";
+        }
+        {
+          path = ''src/Functions/GUI.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Functions/GUI.lua";
+          sha256 = "0wzrrzpgsijyizdi5zwcp8s4nkh72zvssri1gjvv9i8gp45lqvc3";
+        }
+        {
+          path = ''src/Functions/General Functions.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Functions/General%20Functions.lua";
+          sha256 = "1r6x277f6vsn0fgax1x17cqbbwwcga25dk8k0mndnbfxav02fwq0";
+        }
+        {
+          path = ''src/Functions/Layout Editor functions.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Functions/Layout%20Editor%20functions.lua";
+          sha256 = "1kg4prn5sdl8rwjh9bq0fmnbvapifg7iqmvg8bi04xgvp71ibwbx";
+        }
+        {
+          path = ''src/Functions/Menu Bar.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Functions/Menu%20Bar.lua";
+          sha256 = "117x514fp3hys2644nyvh6hs98jmx8gmcnc49sfgk56mf2g404pl";
+        }
+        {
+          path = ''src/Functions/Modulation.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Functions/Modulation.lua";
+          sha256 = "0v4kqp0zrlxinxhs7fz9rnin32sihy9sr87dkfhw07afxc2l0b2w";
+        }
+        {
+          path = ''src/Functions/Modulator_LFO.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Functions/Modulator_LFO.lua";
+          sha256 = "0j9zkql66qwybnnlmbmb98r319zbgv485l2i3n9cznrmwy0a8j83";
+        }
+        {
+          path = ''src/Functions/Theme Editor Functions.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Functions/Theme%20Editor%20Functions.lua";
+          sha256 = "19ww18dv2bfszjs4faf0iwl40551r9y5qdvdfq45936mf48n62wi";
+        }
+        {
+          path = ''src/FX Layout Plugin Scripts/Container.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Container.lua";
+          sha256 = "1syal052iwb5acfh372kq195216g6slkwb3zw1rac8wnm2rfd276";
+        }
+        {
+          path = ''src/FX Layout Plugin Scripts/Pro C 2.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20C%202.lua";
+          sha256 = "1mjn00gdn0iy8z9k7id50bmrm5dyr1yl974zvyzljsj00h2f29rw";
+        }
+        {
+          path = ''src/FX Layout Plugin Scripts/Pro Q 3.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%203.lua";
+          sha256 = "0kjn91rcpn9qpvd3ykk9z1c5kg0wr40yf7lmqhgidlg5gyrf3i1g";
+        }
+        {
+          path = ''src/FX Layout Plugin Scripts/Pro Q 4.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Pro%20Q%204.lua";
+          sha256 = "0lcqy605dq9vg12dkb3yq242mfsrh0pr9nvjj0392fvlqs2q45yi";
+        }
+        {
+          path = ''src/FX Layout Plugin Scripts/ReaComp.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaComp.lua";
+          sha256 = "07q03xx4bilhhlwyac37ark7vmjz5blkrgsi6sxr7xwmrdkvgfaq";
+        }
+        {
+          path = ''src/FX Layout Plugin Scripts/ReaDrum Machine.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/ReaDrum%20Machine.lua";
+          sha256 = "0bk86ndfggfv4s0b0awbdcifn16zb5j2a86dvy7pf6hsndbmypxa";
+        }
+        {
+          path = ''src/FX Layout Plugin Scripts/Volume Pan Smoother.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layout%20Plugin%20Scripts/Volume%20Pan%20Smoother.lua";
+          sha256 = "058b33p6acqdrfk77vydzfjdfv9f2lzpgn7fzfhd3fbdx4ab60zh";
+        }
+        {
+          path = ''src/FX Layouts/1175 Compressor.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/1175%20Compressor.ini";
+          sha256 = "1j09s3mj15cwap1k6cmdyvfdfm85z9rjjvjk16y5p1nqgv4igqid";
+        }
+        {
+          path = ''src/FX Layouts/AA EQP1.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/AA%20EQP1.ini";
+          sha256 = "12164j84pqrbmia1aq446n9x8z830f92bisrmkzbil7dw0k3w9fc";
+        }
+        {
+          path = ''src/FX Layouts/AUBandpass (Apple).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/AUBandpass%20(Apple).ini";
+          sha256 = "0fd89w5gbh115s5byafninni7npdxgfznil25lvcj8w31g5fcdps";
+        }
+        {
+          path = ''src/FX Layouts/AUDelay (Apple).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/AUDelay%20(Apple).ini";
+          sha256 = "19f7jivkkqbl6gqra5r7yv7zqg4xq2pz5bjyc8k8kdhlywa49j2s";
+        }
+        {
+          path = ''src/FX Layouts/Acon Digital Multiply (Acon Digital).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Acon%20Digital%20Multiply%20(Acon%20Digital).ini";
+          sha256 = "1y60w5fjirhd50hrndg0wyaz5kvnxf9ci28grngdf8d9zknc5nxp";
+        }
+        {
+          path = ''src/FX Layouts/Albedo (Sinevibes).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Albedo%20(Sinevibes).ini";
+          sha256 = "137gk46pimbvms2hhy39l8gip4z6a33844zmv65w91n3kwgcfzwd";
+        }
+        {
+          path = ''src/FX Layouts/Basslane Pro (Tone Projects).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Basslane%20Pro%20(Tone%20Projects).ini";
+          sha256 = "0j4pcp13fpkf2dkacdb8cl7190djivd3b8r6yrvr4jr34288cq4d";
+        }
+        {
+          path = ''src/FX Layouts/CLA Epic Stereo (Waves).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/CLA%20Epic%20Stereo%20(Waves).ini";
+          sha256 = "0vd6cql4rbw110j7hflv5611mw3lajr4bvw6icrzswnbxxbbw1ya";
+        }
+        {
+          path = ''src/FX Layouts/Comp 1176 (Arturia).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Comp%201176%20(Arturia).ini";
+          sha256 = "16kvc8q005vgg62jf64znl3gbabwc0kq0a2g2dp350yn4pl6zzn7";
+        }
+        {
+          path = ''src/FX Layouts/Console 1 (Softube).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Console%201%20(Softube).ini";
+          sha256 = "1car3fqf59cvjq8q761xxyyj0zx19a2m5wxy046mgps4hhn53nrd";
+        }
+        {
+          path = ''src/FX Layouts/Cymatics Memory (Cymatics).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Cymatics%20Memory%20(Cymatics).ini";
+          sha256 = "1xdpwg96mqma0cdw8qm4pa8hsscffcim0rgfm5gach9c3baibmc0";
+        }
+        {
+          path = ''src/FX Layouts/Cymatics Origin (Cymatics).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Cymatics%20Origin%20(Cymatics).ini";
+          sha256 = "0bz9a1ixgmsrsl46p01923bh05jy857h4ci84z7gfan5myn7j13z";
+        }
+        {
+          path = ''src/FX Layouts/DeEsser Stereo (Waves).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/DeEsser%20Stereo%20(Waves).ini";
+          sha256 = "1jqrwm4b3ay4n6qy7avfdsf9q0fr9vlf5l0jhw8abxhnfykq7izm";
+        }
+        {
+          path = ''src/FX Layouts/Disperser (Kilohearts).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Disperser%20(Kilohearts).ini";
+          sha256 = "0n60zwl6cajvffg84avy1mpddvrykwaiw70prvz1frpmighabf4x";
+        }
+        {
+          path = ''src/FX Layouts/EchoBoy (Soundtoys).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/EchoBoy%20(Soundtoys).ini";
+          sha256 = "0sgizhh39q67aym1hjlw3vfmmhy79pk0r7ygfsg9mb5v3g8siqp6";
+        }
+        {
+          path = ''src/FX Layouts/Eternal v2 (Sinevibes).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Eternal%20v2%20(Sinevibes).ini";
+          sha256 = "13hqsacimwnf7d7ic55bp1ibfg24q09cj0nzxwjraxvwyllgjsrl";
+        }
+        {
+          path = ''src/FX Layouts/Flex Chorus (Minimal).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Flex%20Chorus%20(Minimal).ini";
+          sha256 = "0iyriqa3361sfcznhnx8calccbsqc2a9bzfmxcadc349i1hzvl9c";
+        }
+        {
+          path = ''src/FX Layouts/Fresh Air (Slate Digital).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Fresh%20Air%20(Slate%20Digital).ini";
+          sha256 = "1f8r6an44kw4lx86h69q5isq92d3zrwxphqppl3bk56jzvjip63k";
+        }
+        {
+          path = ''src/FX Layouts/Gullfoss (Soundtheory).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Gullfoss%20(Soundtheory).ini";
+          sha256 = "1ljgh5kqnmxn2fqzwnmkym7r9mpljrp2qhxp0jvsshwbd1rzm86k";
+        }
+        {
+          path = ''src/FX Layouts/Heatwave (Slate Digital).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Heatwave%20(Slate%20Digital).ini";
+          sha256 = "1cv2i7jv9q7j2dz7vfd1k8pd7cqa6z5qa75s9rz8zpgawhzqgnxm";
+        }
+        {
+          path = ''src/FX Layouts/MVibrato (MeldaProduction).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/MVibrato%20(MeldaProduction).ini";
+          sha256 = "1aqhj3ay8j55dssjvp27cjkrvbc19xdfjsn0ddjjxl5r3031y2xb";
+        }
+        {
+          path = ''src/FX Layouts/Manipulator (Polyverse Music).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Manipulator%20(Polyverse%20Music).ini";
+          sha256 = "1m2i657qwyswp7cz4qjn2pnx3v88ghgna8d9vzbarkn3gy6wg7x9";
+        }
+        {
+          path = ''src/FX Layouts/Pro-DS (FabFilter).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Pro-DS%20(FabFilter).ini";
+          sha256 = "1l3zh5jmr0a5v3g31lc11ha066yb9p9g2sc6lxfgp794y96xycr7";
+        }
+        {
+          path = ''src/FX Layouts/REmatrix (Overloud - MoReVoX).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/REmatrix%20(Overloud%20-%20MoReVoX).ini";
+          sha256 = "100w766wgkwhmmwmi2f1bjl2pwmnyp22w7rxsxdvqaplm76piwq7";
+        }
+        {
+          path = ''src/FX Layouts/ReaCast (Cockos).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/ReaCast%20(Cockos).ini";
+          sha256 = "0q9wq1xgp6lrkwm87cr4ajdpbixq8cjgixf8a9glfszkl0shf6rd";
+        }
+        {
+          path = ''src/FX Layouts/ReaComp (Cockos) Suzuki.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/ReaComp%20(Cockos)%20Suzuki.ini";
+          sha256 = "1a9sqx6sdwfr0rl57b01yikvb0s90gahvnsvp537k3hmrnz9crmm";
+        }
+        {
+          path = ''src/FX Layouts/ReaComp (Cockos).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/ReaComp%20(Cockos).ini";
+          sha256 = "0aik1j878mcj4a8dyv7l0nsvyhn3znqr13ld2a2bfpkxw2lzy6an";
+        }
+        {
+          path = ''src/FX Layouts/ReaGate (Cockos).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/ReaGate%20(Cockos).ini";
+          sha256 = "1ahynfxckicifbnib0cm5vyg48firzk9i684ip8l2qsymdpi45qb";
+        }
+        {
+          path = ''src/FX Layouts/ReaPitch (Cockos).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/ReaPitch%20(Cockos).ini";
+          sha256 = "1ybwqs9vcy8i3shh05jzw6b4rcy28ax00j90ij0xajhdmvvfzsw5";
+        }
+        {
+          path = ''src/FX Layouts/ReaRack2 - Trigger.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/ReaRack2%20-%20Trigger.ini";
+          sha256 = "0473d1x4pwz5yl3lwbyv9lvghan64s6mdapwwyvx80zgzl6b4mg7";
+        }
+        {
+          path = ''src/FX Layouts/Seventh Heaven (LiquidSonics).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Seventh%20Heaven%20(LiquidSonics).ini";
+          sha256 = "10cisl3v9g376vfqh50iq26308gsz0s3zcvn1aj74f3w55mmxxrh";
+        }
+        {
+          path = ''src/FX Layouts/Snap Heap (Kilohearts).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Snap%20Heap%20(Kilohearts).ini";
+          sha256 = "1n8l2s3ays05lk7pdrpjlpvg5dqq1l8m1lp06fhm4bxx0khf84wb";
+        }
+        {
+          path = ''src/FX Layouts/StandardCLIP (SIR Audio Tools).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/StandardCLIP%20(SIR%20Audio%20Tools).ini";
+          sha256 = "1mg3sy5ycjssil316ivr1ss44i8m83isbl3wg86wbf38ssx0dbh7";
+        }
+        {
+          path = ''src/FX Layouts/TBTECH Cenozoix Compressor (Plugin Alliance).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/TBTECH%20Cenozoix%20Compressor%20(Plugin%20Alliance).ini";
+          sha256 = "0mra3hhpm8hjwf30rmlip4m5113rgcqjjadq8h5aqa2mb65m8s9j";
+        }
+        {
+          path = ''src/FX Layouts/Tone Generator.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Tone%20Generator.ini";
+          sha256 = "15j7r65hlyyjgh0cf836q6sbdmhzg5666xq571gnyvmvn8q92c61";
+        }
+        {
+          path = ''src/FX Layouts/Transit 2 (BABY Audio).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Transit%202%20(BABY%20Audio).ini";
+          sha256 = "1z6401ikva2198ixsj8ma0lksr8vzdy2z3n2vvax2ji2wk72wlip";
+        }
+        {
+          path = ''src/FX Layouts/Transmutator (JMGSound).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Transmutator%20(JMGSound).ini";
+          sha256 = "09sl30j2xd4lbfw0y33ws9sxb03z7v426wq53k4s21wv4iygh6xs";
+        }
+        {
+          path = ''src/FX Layouts/UA 33609 C.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/UA%2033609%20C.ini";
+          sha256 = "1w27n8pcbp97v1jnpmjmm4p12qxzch07n0plr3vdcrzxycsgm04a";
+        }
+        {
+          path = ''src/FX Layouts/UA F.Child.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/UA%20F.Child.ini";
+          sha256 = "0zrh6bkpqf023s1pvcxicz6njdl2p6mxz9p2qr4micsq8n0hdfas";
+        }
+        {
+          path = ''src/FX Layouts/UAD 1176 Blue (Universal Audio, Inc.).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/UAD%201176%20Blue%20(Universal%20Audio,%20Inc.).ini";
+          sha256 = "1qwv0qbzz06pjg37ian1bhmcgk88kf58i11sm2ifd73fn66hjpib";
+        }
+        {
+          path = ''src/FX Layouts/UAD Fairchild 670 (Universal Audio, Inc.).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20Fairchild%20670%20(Universal%20Audio,%20Inc.).ini";
+          sha256 = "06wi5n3xq3lpwbqciz5q211qzmrk15rcjmc49hyn93pgb7fvz2f8";
+        }
+        {
+          path = ''src/FX Layouts/UAD Neve 33609 C (Universal Audio, Inc.).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20Neve%2033609%20C%20(Universal%20Audio,%20Inc.).ini";
+          sha256 = "01cb027k4pk7y1z0y4hq5qfbrriazg9x0k1vr3i2hnnzrb83cd4j";
+        }
+        {
+          path = ''src/FX Layouts/UAD Shadow Hills Mastering Compr (Universal Audio, Inc.).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20Shadow%20Hills%20Mastering%20Compr%20(Universal%20Audio,%20Inc.).ini";
+          sha256 = "00bsmwxa309rl474j11ps82pcvfpwf86z80xhrl60n9gk5jw3yzk";
+        }
+        {
+          path = ''src/FX Layouts/UAD Teletronix LA-2A Legacy (Universal Audio, Inc.).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20Teletronix%20LA-2A%20Legacy%20(Universal%20Audio,%20Inc.).ini";
+          sha256 = "1pqmm768jrikpxhyi13s6yqbipkvnyzcxnd5ckp7azfhvdm7zyah";
+        }
+        {
+          path = ''src/FX Layouts/UAD UA 1176 Rev A (Universal Audio, Inc.).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176%20Rev%20A%20(Universal%20Audio,%20Inc.).ini";
+          sha256 = "1rcn13s2y15kl1clmbxx32y360y9ys58fgwhchfnfax7s259znf0";
+        }
+        {
+          path = ''src/FX Layouts/UAD UA 1176AE (Universal Audio, Inc.).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176AE%20(Universal%20Audio,%20Inc.).ini";
+          sha256 = "0dfk7m737b6v5gicr8sfhpnkq40sgfs28c9xh6xb470k3w9sk031";
+        }
+        {
+          path = ''src/FX Layouts/UAD UA 1176LN Legacy (Universal Audio, Inc.).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176LN%20Legacy%20(Universal%20Audio,%20Inc.).ini";
+          sha256 = "007rpysvm51af4cx1rzqdma65g57gmqrz0w08lc4dfx3s0vzigpb";
+        }
+        {
+          path = ''src/FX Layouts/UAD UA 1176LN Rev E (Universal Audio, Inc.).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/UAD%20UA%201176LN%20Rev%20E%20(Universal%20Audio,%20Inc.).ini";
+          sha256 = "1b1p1c4a25lgsaajgqvzni7szx0rbi4virysn27hprggmzv05y8f";
+        }
+        {
+          path = ''src/FX Layouts/UADx Hemisphere Mic Collection (Universal Audio (UADx)).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/UADx%20Hemisphere%20Mic%20Collection%20(Universal%20Audio%20(UADx)).ini";
+          sha256 = "1qq00bk8ksj9ibd0mi04ml5bcakg6wp93qjr2gfi153hzia3fcrr";
+        }
+        {
+          path = ''src/FX Layouts/Unfiltered Audio Bass Mint (Plugin Alliance).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Unfiltered%20Audio%20Bass%20Mint%20(Plugin%20Alliance).ini";
+          sha256 = "0h36zmdapq8p1kvmzv1hvsf4whz15d96363snpc0wsc7wbvhd283";
+        }
+        {
+          path = ''src/FX Layouts/Unfiltered Audio lo-fi-af (Plugin Alliance).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Unfiltered%20Audio%20lo-fi-af%20(Plugin%20Alliance).ini";
+          sha256 = "0641yyfazrbcfamjgbiivf4jrw9lpgxxvlxsxx8mvi6mb80ign95";
+        }
+        {
+          path = ''src/FX Layouts/ValhallaDelay (Valhalla DSP, LLC).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaDelay%20(Valhalla%20DSP,%20LLC).ini";
+          sha256 = "1ylka7jvqimjn0wkkmjbfidrgwy7yn44dh71hfhr27rxyv6f80wn";
+        }
+        {
+          path = ''src/FX Layouts/ValhallaFreqEcho (Valhalla DSP, LLC).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaFreqEcho%20(Valhalla%20DSP,%20LLC).ini";
+          sha256 = "1zn56wya3k7d4rm6gl90rk9ql1a08b0qhg1086crfp33dz0535rp";
+        }
+        {
+          path = ''src/FX Layouts/ValhallaShimmer (Valhalla DSP, LLC).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaShimmer%20(Valhalla%20DSP,%20LLC).ini";
+          sha256 = "1v1kcfslzmdsm87xa571j2fgff7qvfx5ira47s9cnd0ha1y4r5xq";
+        }
+        {
+          path = ''src/FX Layouts/ValhallaSpaceModulator (Valhalla DSP, LLC).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSpaceModulator%20(Valhalla%20DSP,%20LLC).ini";
+          sha256 = "0y0lsyd2y0bda0gr3aqkn0s6hmdbfy4c0crsgx2grj05xf44r3m5";
+        }
+        {
+          path = ''src/FX Layouts/ValhallaSupermassive (Valhalla DSP, LLC).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaSupermassive%20(Valhalla%20DSP,%20LLC).ini";
+          sha256 = "10a9h1ypfp0lhbwllj1dmdycrx09d18h889nqm26hm94d0gfpfpg";
+        }
+        {
+          path = ''src/FX Layouts/ValhallaVintageVerb (Valhalla DSP, LLC).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/ValhallaVintageVerb%20(Valhalla%20DSP,%20LLC).ini";
+          sha256 = "1awh4ndh33x47s0bciq8yzhqkd5jv6gwy7l2ch1099zlsc6fhm7l";
+        }
+        {
+          path = ''src/FX Layouts/Volume Adjustment.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Volume%20Adjustment.ini";
+          sha256 = "0skvmvs07kvnw97mfzqm092brb4pwc4cbqrrxgljyjb73nsh63fv";
+        }
+        {
+          path = ''src/FX Layouts/Wasted Space (Softube).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Wasted%20Space%20(Softube).ini";
+          sha256 = "0swvgzpaqiff54jq11g4a3ym17zyfdkqid784jqkb0kmwsb9zgzp";
+        }
+        {
+          path = ''src/FX Layouts/Wider (stereo width).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/Wider%20(stereo%20width).ini";
+          sha256 = "17rkc1xcrdism0pwvdzh7f415d7sqlms2m06yrbs0byh99l6asv0";
+        }
+        {
+          path = ''src/FX Layouts/bx_2098 EQ (Plugin Alliance).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/bx_2098%20EQ%20(Plugin%20Alliance).ini";
+          sha256 = "09c4dzwnya63axgdvbzjyv74frnm1s0ld21jd1l7mxjscvblgk2s";
+        }
+        {
+          path = ''src/FX Layouts/kHs Filter (Kilohearts).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Filter%20(Kilohearts).ini";
+          sha256 = "03jyhmyphhvy4bi3i9izl53rzsiyzv6bqpkr83jjizcpz9j02pdm";
+        }
+        {
+          path = ''src/FX Layouts/kHs Flanger (Kilohearts).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Flanger%20(Kilohearts).ini";
+          sha256 = "1bmq6jjinrjsjk48wc90m11rri47197rk4vhbd6a29r9cgghlc48";
+        }
+        {
+          path = ''src/FX Layouts/kHs Nonlinear Filter (Kilohearts).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Nonlinear%20Filter%20(Kilohearts).ini";
+          sha256 = "0p86y3yvllwap8m3qik2szpd7nz0y4bvw7yl92p35whwllihhh5i";
+        }
+        {
+          path = ''src/FX Layouts/kHs Phase Distortion (Kilohearts).ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FX%20Layouts/kHs%20Phase%20Distortion%20(Kilohearts).ini";
+          sha256 = "18jbv8pd31cj4aywklj5kwywc4wldksls2ip1sw7nhs2q4cjlaa2";
+        }
+        {
+          path = ''src/FXChains/ReaDrum Machine.RfxChain'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FXChains/ReaDrum%20Machine.RfxChain";
+          sha256 = "0r20q4pbmvn0nyi0dbq3xkm4gm0fsvfnzdbg9gjd5bfsgx6ajhll";
+        }
+        {
+          path = ''src/Images/Analog Knob 1.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Analog%20Knob%201.png";
+          sha256 = "05kzfclsbymn6mnac0mi4b3rr3bpkxq2w0svd3rylvlx786jv99v";
+        }
+        {
+          path = ''src/Images/Flex Chorus.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Flex%20Chorus.png";
+          sha256 = "1xcn8wb9j02g51sqhc6rvmj5x3q08m069i8zg9wda274rx7y3klb";
+        }
+        {
+          path = ''src/Images/Modulation Icon hollow.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Modulation%20Icon%20hollow.png";
+          sha256 = "0h0h3wm4vdrk9h4326h69cm3nysqlcsxlpzgayl07mhjb43nlnn9";
+        }
+        {
+          path = ''src/Images/Modulation Icon.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Modulation%20Icon.png";
+          sha256 = "0ld7d4zvzf48n42gxd0rlcdhph6bpbkzp04dbi8wyhaw38h9hkmz";
+        }
+        {
+          path = ''src/Images/ModulationArrow.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/ModulationArrow.png";
+          sha256 = "0x08dbz2xsw5brgsj9ws0pincq0g500ksb41r5g51zg001awxnms";
+        }
+        {
+          path = ''src/Images/MouseL.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/MouseL.png";
+          sha256 = "143ypg7phnnkn4c5dmaphyysww7cky0sy71ybvhyri0jrrlqh79j";
+        }
+        {
+          path = ''src/Images/MouseR.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/MouseR.png";
+          sha256 = "0ncqj32gpk7b030zab56229bcmpvcp5rmch8873frdl303wagvgc";
+        }
+        {
+          path = ''src/Images/add-list.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/add-list.png";
+          sha256 = "12czrwa9l7wiw99s8dix5ig72zh6nq6bnaypp4xbr59512phz2pd";
+        }
+        {
+          path = ''src/Images/copy.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/copy.png";
+          sha256 = "15fhdmf8wjv72phq9skf804nfka45m2ldi750wnr6xbca51r7sy0";
+        }
+        {
+          path = ''src/Images/paste.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/paste.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/pin.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/pin.png";
+          sha256 = "1jknayv0zqxjv48kgsjk51q9p8azgj1fyz6v12wdg6mdjh65dq21";
+        }
+        {
+          path = ''src/Images/pinned.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/pinned.png";
+          sha256 = "1aq3gqzykr8adrfs23w4vp37ngmlvhcddi8740fs2g7176j40swi";
+        }
+        {
+          path = ''src/Images/save.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/save.png";
+          sha256 = "0birbbfpmpdg20hgw4926730af3kwmpiiv8a1r3j8v3i1q4qi9mc";
+        }
+        {
+          path = ''src/Images/sinewave.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/sinewave.png";
+          sha256 = "1c3yxzr0m9y57ra1jqsihq9vpmi495955lz1zm3ry42zy9zwf5r5";
+        }
+        {
+          path = ''src/Images/small_scale_white.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/small_scale_white.png";
+          sha256 = "0nix06x4hrw9q1xj37pn8xfy15ilr94jpjq0fhrpjz9fz77mg680";
+        }
+        {
+          path = ''src/Images/trash.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/trash.png";
+          sha256 = "1ryjrxn4x7i9h0pilc3zx1zksxf69mkgyj4kw6023q0n7pclr6vh";
+        }
+        {
+          path = ''src/Images/Backgrounds/Amek M.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/Amek%20M.png";
+          sha256 = "103a3i1gwm81vrlkx8s78xwk6bldqdi9lf8kh91hizlxq8yk28n3";
+        }
+        {
+          path = ''src/Images/Backgrounds/Amek S.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/Amek%20S.png";
+          sha256 = "0pkiw9pscjj4p5cwvxxkk8qay9v448y16591595krz73j9zfp2nv";
+        }
+        {
+          path = ''src/Images/Backgrounds/FC icon.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/FC%20icon.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Backgrounds/FC.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/FC.png";
+          sha256 = "00db3sm0d9g5i6a558dds354p653kb10436a8piaz2mdajq8krly";
+        }
+        {
+          path = ''src/Images/Backgrounds/Gullfoss.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/Gullfoss.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Backgrounds/Heatwave.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/Heatwave.png";
+          sha256 = "0f0ykl40r8mfw81l43ghs427l2ar5v330fr2bzjn4k8si5mgd4c8";
+        }
+        {
+          path = ''src/Images/Backgrounds/Neve_33609_logo 2.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/Neve_33609_logo%202.png";
+          sha256 = "1bzifkkivkr1mcj4l3bvz07znarjsvw83k93mfpv827r1dg7ysqa";
+        }
+        {
+          path = ''src/Images/Backgrounds/Neve_33609_logo.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/Neve_33609_logo.png";
+          sha256 = "1bzifkkivkr1mcj4l3bvz07znarjsvw83k93mfpv827r1dg7ysqa";
+        }
+        {
+          path = ''src/Images/Backgrounds/Origin BG.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/Origin%20BG.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Backgrounds/SHMC icon.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/SHMC%20icon.png";
+          sha256 = "1xvxxf4ssggcp12hvvpa4sywpxrg75vc0pwdkijmxk1qkr4a79xg";
+        }
+        {
+          path = ''src/Images/Backgrounds/SHMC og icon.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/SHMC%20og%20icon.png";
+          sha256 = "1xvbscs11w8h2wagfkl1iaa54mb7n7fh820fshswgl5shz2j6y0l";
+        }
+        {
+          path = ''src/Images/Backgrounds/SHMC.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/SHMC.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Backgrounds/Screenshot 2025-03-02 at 10.37.53 PM.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/Screenshot%202025-03-02%20at%2010.37.53%E2%80%AFPM.png";
+          sha256 = "0k9bgd7gm7fskg5sap5d5lb56agg7ai4q1pzygaqrlzj0km5qans";
+        }
+        {
+          path = ''src/Images/Backgrounds/Screenshot 2025-03-03 at 6.14.30 PM.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/Screenshot%202025-03-03%20at%206.14.30%E2%80%AFPM.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Backgrounds/SoundToys.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/SoundToys.png";
+          sha256 = "0gp2yz50xhh1b3v73bp19wgl5rgidi0ji7wdgrp3aj13rx5s0chn";
+        }
+        {
+          path = ''src/Images/Backgrounds/UA Logo.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/UA%20Logo.png";
+          sha256 = "0mrcngvbpwfz90j6n2fncmlfaq0jx9pgxzrxl5sjfyw861134cdx";
+        }
+        {
+          path = ''src/Images/Backgrounds/UAD Century strip.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/UAD%20Century%20strip.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Backgrounds/UAD Hemi 2.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/UAD%20Hemi%202.png";
+          sha256 = "0yhknd8y04d42qfsylqkyhiss0l6h6py42apdgc9r3rp6nrl4hls";
+        }
+        {
+          path = ''src/Images/Backgrounds/UAD Hemi1.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/UAD%20Hemi1.png";
+          sha256 = "11g1i3dmn6vdrkj7clk371s0jlc0a00rwq7zd7x13mk21d36x065";
+        }
+        {
+          path = ''src/Images/Backgrounds/Wasted space.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/Wasted%20space.png";
+          sha256 = "1nnfb7ywad7f5r21ffkwsgac25fzp6dxkjq84mj64p3qs7219jm7";
+        }
+        {
+          path = ''src/Images/Backgrounds/bx_2980EQ.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/bx_2980EQ.png";
+          sha256 = "1lipk7mr3769wsq2wsknnbic05w89mpb9q7i9biidxvdhb35l871";
+        }
+        {
+          path = ''src/Images/Backgrounds/la2a.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/la2a.png";
+          sha256 = "0s3i1zplanh2h26vnyzs4yhvsif9sbgjwbz72mdm5r69rzspmpf0";
+        }
+        {
+          path = ''src/Images/Backgrounds/截屏2024-10-30 17.57.07.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Backgrounds/%E6%88%AA%E5%B1%8F2024-10-30%2017.57.07.png";
+          sha256 = "1q31qn22lx2w4pdrmwnh80cs0m32w2ayrz9lw1ds3qmjzs7vgv1l";
+        }
+        {
+          path = ''src/Images/Switches/BYPASS.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/BYPASS.png";
+          sha256 = "0wdp91cy2cbwsifjzb14flnfpc2jbnq5f25b4ailapisq71r1ks2";
+        }
+        {
+          path = ''src/Images/Switches/Console 1.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/Console%201.png";
+          sha256 = "1mcwxv8zya9cggjamlyjv125ws6cina3sn6n6b4y7j2m8npxlbk0";
+        }
+        {
+          path = ''src/Images/Switches/FancyGreenCheck_2 2.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2%202.png";
+          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+        }
+        {
+          path = ''src/Images/Switches/FancyGreenCheck_2.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2.png";
+          sha256 = "02m71km6fsr67gaia2phlsqmfjqgjzwfycc2b93ar5kmvi5vavpw";
+        }
+        {
+          path = ''src/Images/Switches/FancyGreenCheck_2_white.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/FancyGreenCheck_2_white.png";
+          sha256 = "1yawmpx5ydw7cz2dlllx7wd0aa711vlws3h92705fbkzckbf80qg";
+        }
+        {
+          path = ''src/Images/Switches/Phase toggle.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/Phase%20toggle.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Switches/Power bypass.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/Power%20bypass.png";
+          sha256 = "19snwsgm7fxip3676synba9dzri2yxh04nrwr73a4xnlxzv5pymv";
+        }
+        {
+          path = ''src/Images/Switches/Red Green.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/Red%20Green.png";
+          sha256 = "0m41m1p5rlix43jk8b4lyy08yf0vjj1bspbb5rl795pj5h2q99b2";
+        }
+        {
+          path = ''src/Images/Switches/SC.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/SC.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Switches/SCR-20240903-unss.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/SCR-20240903-unss.png";
+          sha256 = "0hz28787m4biqzj3dclssfk7dwd03xpyzfckzg8ka0jrfzjlf1gn";
+        }
+        {
+          path = ''src/Images/Switches/metronome Black.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/metronome%20Black.png";
+          sha256 = "199xdcb388smza57blfdcjainv711554r0vbv0s51bw1pjk22j7a";
+        }
+        {
+          path = ''src/Images/Switches/metronome White.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/metronome%20White.png";
+          sha256 = "1w2sb3v8hq4qvbpbg21pq1qaklynm57crihrpr7d1w570rczqigb";
+        }
+        {
+          path = ''src/Images/Switches/metronome.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/metronome.png";
+          sha256 = "0bi076v0vhf450z01frl6vx2vl2m852v1pykwihzb9sxd4s93zhy";
+        }
+        {
+          path = ''src/Images/Switches/pow.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/pow.png";
+          sha256 = "0sr93idwi8s11amd8r9yqh61b6gwgpg2gwsx18kak3178hilafqw";
+        }
+        {
+          path = ''src/Images/Switches/power red.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/power%20red.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Switches/power yellow.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/power%20yellow.png";
+          sha256 = "14c9rncvavcnllghnqdcv5mxzl36498il4ijh52b3qs87pjaa54s";
+        }
+        {
+          path = ''src/Images/Switches/red square toggle.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/red%20square%20toggle.png";
+          sha256 = "1n90l32n141ndazc2xyiaa0wz564fls142ir5p6b92052lfixb09";
+        }
+        {
+          path = ''src/Images/Switches/switch_metal.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/switch_metal.png";
+          sha256 = "14vyj99xw4fx148i0qlmbi10na29x6z4zzdnlmdmpxzi9df5392l";
+        }
+        {
+          path = ''src/Images/Switches/switch_square.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/switch_square.png";
+          sha256 = "0vv4jbdz837s8rhvhdibn7likwsn45jzzvbm42bwdygm6ja46q09";
+        }
+        {
+          path = ''src/Images/Switches/switch_toggle up_down.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/switch_toggle%20up_down.png";
+          sha256 = "1a8bf3xgn5r5prgadd642bnjjz8981zks5rcgy98dnc9xsvgcbg5";
+        }
+        {
+          path = ''src/Images/Switches/switch_toggle_left_right.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Switches/switch_toggle_left_right.png";
+          sha256 = "1wygg9c24dxzqabvd3ap4m039s7ag8j2qmqp8gw5krlkwi2fp5kh";
+        }
+        {
+          path = ''src/Images/Attached Drawings/LED light.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Attached%20Drawings/LED%20light.png";
+          sha256 = "1816449bvzg7nl7zaq44qpz0bdl1lh6r1mhq01km41bcz3wjnkm0";
+        }
+        {
+          path = ''src/Images/Knobs/Analog Knob 1.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/Analog%20Knob%201.png";
+          sha256 = "05kzfclsbymn6mnac0mi4b3rr3bpkxq2w0svd3rylvlx786jv99v";
+        }
+        {
+          path = ''src/Images/Knobs/Analog Knob with pointer.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/Analog%20Knob%20with%20pointer.png";
+          sha256 = "11q2zbbrpmlv8884ikj6zc5l6l5q0rciqbd6ch81lxcdj4cs029c";
+        }
+        {
+          path = ''src/Images/Knobs/Analog knob no pointer.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/Analog%20knob%20no%20pointer.png";
+          sha256 = "11xcqvnmflbp69cf7aa86sznv11pq4wjg70zq859s5n5qdc9yxfs";
+        }
+        {
+          path = ''src/Images/Knobs/Arthen Knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/Arthen%20Knob.png";
+          sha256 = "1hjsnxwany41ggcmddjw4bv7sbxym3znzfv0hky86wsh6n97cxir";
+        }
+        {
+          path = ''src/Images/Knobs/BOS_Massive_Control_Knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/BOS_Massive_Control_Knob.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/Bitwig.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/Bitwig.png";
+          sha256 = "0bmik4ch0yh1chl60db1wngf155bvhaa9w02ka8srcqd7whnb2sz";
+        }
+        {
+          path = ''src/Images/Knobs/CS1_Blue knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/CS1_Blue%20knob.png";
+          sha256 = "09rak586bcgdfqfwix7xic7dia32ma8x9x501v8s81byn7rw94pb";
+        }
+        {
+          path = ''src/Images/Knobs/CS1_Green knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/CS1_Green%20knob.png";
+          sha256 = "1ladx8f3xr398as0q3h52kpvj94bdhyr7hyp4dyxzgfz132qs5pm";
+        }
+        {
+          path = ''src/Images/Knobs/CS1_Grey knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/CS1_Grey%20knob.png";
+          sha256 = "02gkq125cskg58sslxfpgkg2942lfahv5mj1nsyfjc4gag5v62is";
+        }
+        {
+          path = ''src/Images/Knobs/CS1_Orange knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/CS1_Orange%20knob.png";
+          sha256 = "0jv06v92jds7z55mrajdv48572xkfxiplphm7pxcl0hnmcvlfpz2";
+        }
+        {
+          path = ''src/Images/Knobs/CS1_Purple knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/CS1_Purple%20knob.png";
+          sha256 = "14lfhiw4aqjlw09qsra6aqlfzl9y3057r1ggnksr3s7wcqh2mj2j";
+        }
+        {
+          path = ''src/Images/Knobs/CS1_Red knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/CS1_Red%20knob.png";
+          sha256 = "1ik77m2iwwijphp5cw3q64h4ph5l013n1zgklfnwrf2phfjw2bq7";
+        }
+        {
+          path = ''src/Images/Knobs/CS1_pink knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/CS1_pink%20knob.png";
+          sha256 = "19038cngvn48036k7w6nrl0lgphrjf4qwhcfhpxsmkqd38f5ksc1";
+        }
+        {
+          path = ''src/Images/Knobs/CS1_white knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/CS1_white%20knob.png";
+          sha256 = "0hf4idw71p9ikgl5dsv2dyv4kfa2k0yxsmyq82dbww72nwd3yijb";
+        }
+        {
+          path = ''src/Images/Knobs/CS1_yellow knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/CS1_yellow%20knob.png";
+          sha256 = "013dbglk21978k61xbci4gabs8kd79i3xm77jmkyfi8adg51qj9i";
+        }
+        {
+          path = ''src/Images/Knobs/FancyBlueKnob copy 2.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob%20copy%202.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/FancyBlueKnob copy.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob%20copy.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/FancyBlueKnob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob.png";
+          sha256 = "097rsnyxmg8p5vkss6zvablbbvl7di2jnb8g3jimv1ppwq6ravsh";
+        }
+        {
+          path = ''src/Images/Knobs/FancyBlueKnob_Inverted.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/FancyBlueKnob_Inverted.png";
+          sha256 = "0rr7jhv599awm2i5107m563dx485gwg3ph8h15aslkiimxx0nvfs";
+        }
+        {
+          path = ''src/Images/Knobs/FancyGreenKnob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/FancyGreenKnob.png";
+          sha256 = "0x4s659fbd9ff3vw763nlgz39csz6lscvzyjxizdr861d49bbd95";
+        }
+        {
+          path = ''src/Images/Knobs/FancyLightGreenKnob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/FancyLightGreenKnob.png";
+          sha256 = "06a4b6c1pwppgkrijmm2xfvz3d57a2mhh02dcxkqppgd2adg7p1w";
+        }
+        {
+          path = ''src/Images/Knobs/FancyRedKnob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/FancyRedKnob.png";
+          sha256 = "0nm76r5gh8ihzhilhs4h6rmq3d120cwlsq0gcmhvq5qahfjsmxgs";
+        }
+        {
+          path = ''src/Images/Knobs/Flex Chorus with pointer.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/Flex%20Chorus%20with%20pointer.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/Flex Chorus.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/Flex%20Chorus.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/Grey knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/Grey%20knob.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/Ideogram analog knob 2 No Pointer.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/Ideogram%20analog%20knob%202%20No%20Pointer.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/KNB_LPG_10.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/KNB_LPG_10.png";
+          sha256 = "0c4a1plja9fd0wb8swxd6n5kyni0km3gjkvlsxsf51xf3za49bq1";
+        }
+        {
+          path = ''src/Images/Knobs/KNB_LPG_120.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/KNB_LPG_120.png";
+          sha256 = "000mrk7cq64a25d5nj5bbnb2aa3wyyrg1lv8vcxgyc5ddv3jlkw3";
+        }
+        {
+          path = ''src/Images/Knobs/KNB_LPG_6.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/KNB_LPG_6.png";
+          sha256 = "13r44gsg546v8l1mc4fk304ji9gx0w4ak17nl3l04a47avpfxg3h";
+        }
+        {
+          path = ''src/Images/Knobs/PlainKnob no pointer.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/PlainKnob%20no%20pointer.png";
+          sha256 = "1bzl0prski5ima7m62a7g93qhas9wwsd8920wcwdja3p3dwqiy8d";
+        }
+        {
+          path = ''src/Images/Knobs/SCR-20240903-unss.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/SCR-20240903-unss.png";
+          sha256 = "0hz28787m4biqzj3dclssfk7dwd03xpyzfckzg8ka0jrfzjlf1gn";
+        }
+        {
+          path = ''src/Images/Knobs/SHMC knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/SHMC%20knob.png";
+          sha256 = "1qh6rk2aajz6kk8vks4ps9wc0vc7fsxvf1hj12k70gbq7prhw243";
+        }
+        {
+          path = ''src/Images/Knobs/SSL Black.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Black.png";
+          sha256 = "1gi0njamcsxkq2r811y93giymibj134w85kkxal46jfph5ca0b03";
+        }
+        {
+          path = ''src/Images/Knobs/SSL Blue.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Blue.png";
+          sha256 = "1566grzdzwrv0n19v42mg0h1vig9154m8kw36lyskhn042jasdvp";
+        }
+        {
+          path = ''src/Images/Knobs/SSL Green.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Green.png";
+          sha256 = "19z9q3qcgz6gacvfrqbn4bd9xqsxcv5cb5km0a13gxn15fl737sl";
+        }
+        {
+          path = ''src/Images/Knobs/SSL Grey.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Grey.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/SSL Red.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/SSL%20Red.png";
+          sha256 = "05q0nrdk3slharsi1y0zgj6z935282b77ivfw9llrqg4jy8cb49y";
+        }
+        {
+          path = ''src/Images/Knobs/Small_simple_puck_Knob_128x128.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/Small_simple_puck_Knob_128x128.png";
+          sha256 = "0wjsynzlrhyp858zay6mvgf77ik6p6mvj9cx03n142bn5dsbq1ph";
+        }
+        {
+          path = ''src/Images/Knobs/blue_knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/blue_knob.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/grey knob blue pointer.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/grey%20knob%20blue%20pointer.png";
+          sha256 = "17mykm2fk73k1h6g4r0jdkhh4b1fzj577fflim4mkyij1649n8rg";
+        }
+        {
+          path = ''src/Images/Knobs/grey knob green pointer.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/grey%20knob%20green%20pointer.png";
+          sha256 = "";
+        }
+        {
+          path = ''src/Images/Knobs/grey knob red pointer.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/grey%20knob%20red%20pointer.png";
+          sha256 = "1mirdic76q4fhf73x4n7vmp09xw4lg1gqihhfnp074j76zki36y1";
+        }
+        {
+          path = ''src/Images/Knobs/grey knob white pointer.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/grey%20knob%20white%20pointer.png";
+          sha256 = "0qiky6lqrdks6f4vcq2d5s7c7irr61gs1nky3bgv13my40kpwmfn";
+        }
+        {
+          path = ''src/Images/Knobs/hise_Knob_medium.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/hise_Knob_medium.png";
+          sha256 = "0g9mxy3pfsnq4lmap9ni8qnq9h9gqc62zmkyiccgsyjl3v8qhysy";
+        }
+        {
+          path = ''src/Images/Knobs/hise_knob_big.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/hise_knob_big.png";
+          sha256 = "11zmbhvb0pqljwp98zpn8kbpf81rqdp27lw42ly51f27028plrjm";
+        }
+        {
+          path = ''src/Images/Knobs/hise_knob_small.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/hise_knob_small.png";
+          sha256 = "1n06nky50339dm6r0i1l634v07hxx778rm79gvql71dz6rszpqci";
+        }
+        {
+          path = ''src/Images/Knobs/ideogram analog knob 1 No Pointer.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/ideogram%20analog%20knob%201%20No%20Pointer.png";
+          sha256 = "1y0c6nxg5mrmfpx811cnxh29gqs5w57q38xs7a73jjn6vcx9ybr9";
+        }
+        {
+          path = ''src/Images/Knobs/knob-small.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/knob-small.png";
+          sha256 = "1vhhlq97l8a7zn49m862i0ch7cwpvj42a4lxfylibv7a26rbq3ni";
+        }
+        {
+          path = ''src/Images/Knobs/metal knob.png'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Images/Knobs/metal%20knob.png";
+          sha256 = "1v02qsfbv52szfrgi5i6xsk6izfs7rn16cmhqm2r738di64jdcxj";
+        }
+        {
+          path = ''src/LFO Shapes/Pulse.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/LFO%20Shapes/Pulse.ini";
+          sha256 = "0b2dla398dr1a2xmw014873chsh4gpkfzbz7r53a09mi4i331gh9";
+        }
+        {
+          path = ''src/LFO Shapes/Saw.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/LFO%20Shapes/Saw.ini";
+          sha256 = "180p6iw7f88wnyzhlvhmf525qyl0l3diq8n5lij883q4jyzh68y1";
+        }
+        {
+          path = ''src/LFO Shapes/Sine Better.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/LFO%20Shapes/Sine%20Better.ini";
+          sha256 = "067zplgdgjhpfxxz88pwhpcmh508y6aclg6zcwpmcwa1mz7gmd7i";
+        }
+        {
+          path = ''src/LFO Shapes/Sine.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/LFO%20Shapes/Sine.ini";
+          sha256 = "0pzdzmapzq972m1gdkrpwcflvfjamqw207p0pg7b3yml84kx43d5";
+        }
+        {
+          path = ''src/LFO Shapes/Square New.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/LFO%20Shapes/Square%20New.ini";
+          sha256 = "1w6hqlbpw06va4a72jn3x947crcn44vffv1rzmrzk74pr4ks47nl";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/V-Slider/Acon.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/V-Slider/Acon.ini";
+          sha256 = "0l9v79fkx03252sw6xixk213zx81k91f4iq9m8ziqq8i0i388kib";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/V-Slider/ReaPlug 2.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/V-Slider/ReaPlug%202.ini";
+          sha256 = "1iv6yaaz5f1ph56sm31iy4g5rk6046b0aa6bvj4gwki1qczwy3vm";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/V-Slider/ReaPlug.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/V-Slider/ReaPlug.ini";
+          sha256 = "04hnwr9c7mb824413h303vrpwlx4hngzx32hl72hl4ac1mw3a1jp";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/V-Slider/Reaper Default - only handle.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/V-Slider/Reaper%20Default%20-%20only%20handle.ini";
+          sha256 = "038g652kvfvwf3j2gk7705nzyqrhz20qc8agwr2ln7xfc79c33y8";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/V-Slider/size sync.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/V-Slider/size%20sync.ini";
+          sha256 = "02mw16g1s9rnhk9h3dsgzhcrxrqs5j02rqpxycyq9snkk1gfcgq9";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Switch/KiloHearts Flip.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Switch/KiloHearts%20Flip.ini";
+          sha256 = "1a43w8jakjl41awhk51qnw6syylr9mgwfpwx19iqmlq7j7z7crsc";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Switch/KiloHearts Static.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Switch/KiloHearts%20Static.ini";
+          sha256 = "05ik4166hjfczpymfsl8kiyiqvjdad8pcw1m9ak35p4hpzdq4yf3";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Slider/test.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Slider/test.ini";
+          sha256 = "013pxdgdh59ws62i3ahislbq6b9hd7iwlhqy3z76kjni4ix8anqm";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Drag/New Drag Style.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Drag/New%20Drag%20Style.ini";
+          sha256 = "1jizrsbhm9sn962s5y6nna37pjjsd9x0d25d06y3fj12p68r7wr0";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Drag/Stereo.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Drag/Stereo.ini";
+          sha256 = "1ngyha6lvb2vkc9xmilix9v3dlf5i129bcrirfcxsajx5a1wai12";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Drag/TEetsests.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Drag/TEetsests.ini";
+          sha256 = "1cjy5b1a35hlp3hfa5g1zrrq605ki755pd4w9k36j0ldin5h74n2";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Drag/mem2.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Drag/mem2.ini";
+          sha256 = "05jxngfzl2g3lzia671mixjwimnq5krz1cjzk771hilj99i4r18f";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Knob/Kilohearts 2.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/Kilohearts%202.ini";
+          sha256 = "0qn9gl48b6kwfsqx1insf5bhpqb87frfqa96y438fp9m4p39s56q";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Knob/Native Fancy.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/Native%20Fancy.ini";
+          sha256 = "1z4rlk995g6ir5g7zrjxsac5wkqnx73cq1nkw623mi0ls7nvk0qp";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Knob/Scale.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/Scale.ini";
+          sha256 = "0nifldpxh736xq9ivd6k02c0s94dag62y2y2pig8i7wfp3py35bq";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Knob/Seventh Heaven Knob.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/Seventh%20Heaven%20Knob.ini";
+          sha256 = "1pgqkdphz1hx5yv79pc83gb1hi6s0xs6csl0jjkc4cc98x1y0alc";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Knob/Simple Analog.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/Simple%20Analog.ini";
+          sha256 = "1lawayk54nc4dlznr11zmmj33lyf3kkyk2bzfrw6sp1kzlq92m5s";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Knob/Simple Metallic.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/Simple%20Metallic.ini";
+          sha256 = "0lmp6q9prg1fjvqy677mxhigp6af0yqvmh3fydjfymb0bs3sk0p4";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Knob/Transmutator 1.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/Transmutator%201.ini";
+          sha256 = "1r2zmk31hd8zl0llp08k3sjsrqqdjkxmka1mrva7bsgw13ry7wbv";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Knob/Transmutator.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/Transmutator.ini";
+          sha256 = "0hkff181y7x2c6bdfy2fqama5n50mil488563f3ygyma4408c1nj";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Knob/kilohearts.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Knob/kilohearts.ini";
+          sha256 = "1f40v9ng5d0ygpc1jq4dm139dwcizfccf8lrxsx0sdvqfjpscd65";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Selection/abc.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Selection/abc.ini";
+          sha256 = "0lyszcqlakllycs89fvnbr2swqn30pn6hynyqmkndsnwsm1bxhk5";
+        }
+        {
+          path = ''src/Layout Editor Item Styles/Selection/bcd.ini'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/Layout%20Editor%20Item%20Styles/Selection/bcd.ini";
+          sha256 = "05y858zfdd5df0kccg1xajv7za8jrpdq7p3xk095hjsds98kwjw1";
+        }
+        {
+          path = ''src/FXD - Record Last Touch.lua'';
+          url = "https://github.com/BryanChi/BryanChi-FX-Devices/raw/816e1bcfed8435dd2558c0ef50768838f980afff/BryanChi_FX_Devices/src/FXD%20-%20Record%20Last%20Touch.lua";
           sha256 = "1i0i9kl35l85hm0f1rkm7wgvyvg8v1b8h7ravlszp9a2djzj70cr";
         }
       ];
