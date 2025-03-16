@@ -323,7 +323,7 @@
         {
           path = '''';
           url = "https://github.com/Outboarder/ReaScripts/raw/0c95565bacf9785a7052644db6b2b264565dfc68/Track/Outboarder%20-%20Create%20Stereo%20Send%20from%20selected%20tracks%20to%20track%20under%20mouse%20(via%20channel%203-4).lua";
-          sha256 = "";
+          sha256 = "0fcscw2iv0d8jm74vy66qnm0vp4gb968f5gbvm24i3728pknkzsp";
         }
       ];
     };
@@ -449,7 +449,7 @@
         {
           path = '''';
           url = "https://github.com/Outboarder/ReaScripts/raw/8916a78ffafda7182210f5a5a07a8738b3b0f76d/Track/Outboarder%20-%20Cycle%20Backward%20Monitor%20state%20thru%20selected%20tracks.lua";
-          sha256 = "";
+          sha256 = "02gfdw4w56iwl81i8d3wqcrs6v2dgl9yfya29x73divgapz2k50i";
         }
       ];
     };
@@ -505,7 +505,7 @@
         {
           path = '''';
           url = "https://github.com/Outboarder/ReaScripts/raw/8916a78ffafda7182210f5a5a07a8738b3b0f76d/Track/Outboarder%20-%20Cycle%20Backward%20Solo%20state%20thru%20selected%20tracks.lua";
-          sha256 = "";
+          sha256 = "1bw35wcbhah5jsjh6nns8r2hjx4s2qhslrrl66vbmhxcgy5mrmdp";
         }
       ];
     };
@@ -519,7 +519,7 @@
         {
           path = '''';
           url = "https://github.com/Outboarder/ReaScripts/raw/8916a78ffafda7182210f5a5a07a8738b3b0f76d/Track/Outboarder%20-%20Cycle%20Backward%20Volume%20value%20thru%20selected%20tracks.lua";
-          sha256 = "";
+          sha256 = "0s11066jb3vdcqh2xsjwfrcrlj5jjygqbzf6fiyn15zpz7sra5kj";
         }
       ];
     };
@@ -589,7 +589,7 @@
         {
           path = '''';
           url = "https://github.com/Outboarder/ReaScripts/raw/8916a78ffafda7182210f5a5a07a8738b3b0f76d/Track/Outboarder%20-%20Cycle%20Forward%20Mute%20state%20thru%20selected%20tracks.lua";
-          sha256 = "";
+          sha256 = "04j66ss09mjmpp6yjppvvy90ckd2agsc3kyrgnmkiic9jlya7fsd";
         }
       ];
     };
@@ -631,7 +631,7 @@
         {
           path = '''';
           url = "https://github.com/Outboarder/ReaScripts/raw/8916a78ffafda7182210f5a5a07a8738b3b0f76d/Track/Outboarder%20-%20Cycle%20Forward%20Solo%20state%20thru%20selected%20tracks.lua";
-          sha256 = "";
+          sha256 = "1v3cbsvc3lafbmdfwjbjh8c2sqmx85skj5lppagp88p7c6s1pk5f";
         }
       ];
     };
@@ -659,7 +659,7 @@
         {
           path = '''';
           url = "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Track/Outboarder%20-%20Freeze%20Tracks%20Custom%20Item%20color%20TCP-MCP%20layout.lua";
-          sha256 = "";
+          sha256 = "1ya66cpp96zlddv3qpvy9zvslnkyfp7d2wwqp2g7sj46wljc0pp0";
         }
       ];
     };

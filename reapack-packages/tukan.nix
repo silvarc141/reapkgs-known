@@ -4929,6 +4929,1164 @@
         }
       ];
     };
+    synthesizers-tukan-0-9-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "synthesizers-tukan-0-9-1";
+      indexName = "Tukan";
+      categoryName = "..";
+      packageType = "effect";
+      sources = [
+        {
+          path = ''WTFM Synth (Tukan).RPL'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/WTFM%20Synth%20(Tukan).RPL";
+          sha256 = "13qxp6dn7z50872sk6xmrsx4qj6phc9830bg0f9qmhyibs234rdv";
+        }
+        {
+          path = ''WTFM Synth (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/WTFM%20Synth%20(Tukan)51.png";
+          sha256 = "00yjmmq3q574wqlrjbxfxn6vn5y6q0b8m6i139rxcc5v74zsdfvr";
+        }
+        {
+          path = ''SynthAdd/skf.Saike_Yutani_Filters.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/skf.Saike_Yutani_Filters.jsfx-inc";
+          sha256 = "1afwcmgw1hw0wnd273h8lfp5w5j0qrph6rg1f356r8lg1xb98513";
+        }
+        {
+          path = ''SynthAdd/DXAlgos.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/DXAlgos.png";
+          sha256 = "13qpra7hsqjcdmxllj9c10aygil0m26gpan4nj0jpdr5rr7x082m";
+        }
+        {
+          path = ''SynthAdd/MBC_POWER.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/MBC_POWER.png";
+          sha256 = "01hm2gi2lfmqzr0vg7b5wwsn5wz96a9mnvhw7wsngxqxm0fzjf05";
+        }
+        {
+          path = ''SynthAdd/WTSynthADSR.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/WTSynthADSR.png";
+          sha256 = "06caswsyrh21ahr22rgqrbwq4r30rkq92bq1xjw568h9d5bizd07";
+        }
+        {
+          path = ''SynthAdd/WTSynthmini.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/WTSynthmini.png";
+          sha256 = "1l3d9b7phi6yfz4xmgnick50ck70141dvayd17z041dnzva062lz";
+        }
+        {
+          path = ''SynthAdd/WTSynth2mini.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/WTSynth2mini.png";
+          sha256 = "1x2nnynfg9z8z19bi253dxag62yvmfmaq163p4026p76ai6is3r7";
+        }
+        {
+          path = ''SynthAdd/WTSynth2.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/WTSynth2.png";
+          sha256 = "0r6bmj958wzawsh28ngffl05h2nj5g3vahkwkqigy7pyy27lgjrz";
+        }
+        {
+          path = ''SynthAdd/WTSynth.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/WTSynth.png";
+          sha256 = "0givsgmyl0q13sc6sbgcr1yd65pm1kl2ql7fbgaz77vxj3wg732l";
+        }
+        {
+          path = ''SynthAdd/rled.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/rled.png";
+          sha256 = "03g9lpqsj0ai6cylmw3qpzr5g1nba62i6agrifp158jb9r3mcqs7";
+        }
+        {
+          path = ''SynthAdd/Cycles/01.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/01.wav";
+          sha256 = "1nb7l81ag9rdrz9pfz31glw9sz55x8jp9fk7zppif42vslarbqsj";
+        }
+        {
+          path = ''SynthAdd/Cycles/02.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/02.wav";
+          sha256 = "1paywg4q0k33cwby60s4cl2p7vgzy4l22gsj46mlhp51zab43xk6";
+        }
+        {
+          path = ''SynthAdd/Cycles/03.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/03.wav";
+          sha256 = "1sk738fiqfq2hj0zqxl99j1az9k04vqdr5djvr3sb1jqcs76ndfr";
+        }
+        {
+          path = ''SynthAdd/Cycles/04.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/04.wav";
+          sha256 = "1si7hlc7vlvj9ibx3xardmlwpxzl13my77zjrw57qqshk4b95cz1";
+        }
+        {
+          path = ''SynthAdd/Cycles/05.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/05.wav";
+          sha256 = "0a2n0lkr6z76bnlcii4ak5khfl490l5smr3glffj93hm9cg8x9ix";
+        }
+        {
+          path = ''SynthAdd/Cycles/06.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/06.wav";
+          sha256 = "0jkrrnlhn6mrsms5bzqkg98xij0nl5kgqc4b0gzczk3492hmjglp";
+        }
+        {
+          path = ''SynthAdd/Cycles/07.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/07.wav";
+          sha256 = "0sh8vk35h3y3lg65kn70pa5ynr6hdcp606lgznz36sb3021vssx6";
+        }
+        {
+          path = ''SynthAdd/Cycles/08.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/08.wav";
+          sha256 = "0y0aiaq506z585czkyaqa2yc48cnf58z8ih273j8fmw2s4kxgks8";
+        }
+        {
+          path = ''SynthAdd/Cycles/09.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/09.wav";
+          sha256 = "1p498xd2isbm19agp6rib1l5b1gxm60ymxxxm2x2knlfjr4mgn4k";
+        }
+        {
+          path = ''SynthAdd/Cycles/10.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/10.wav";
+          sha256 = "03cbsic6y8i1svfd2fwv626xmx1lq2irzcb0vhq4i9yh5p1kxbg7";
+        }
+        {
+          path = ''SynthAdd/Cycles/11.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/11.wav";
+          sha256 = "0yvh2lkspcz2p7f0wr16qhcyvacnm3g4i4savpd65hmqjwxnafxs";
+        }
+        {
+          path = ''SynthAdd/Cycles/12.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/12.wav";
+          sha256 = "0srniclzyiavwz1qcayzj5x2jamkbmkf7bb19mx5q2qz2q3kiw37";
+        }
+        {
+          path = ''SynthAdd/Cycles/13.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/13.wav";
+          sha256 = "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl";
+        }
+        {
+          path = ''SynthAdd/Cycles/14.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/14.wav";
+          sha256 = "0ppi0v5sb8jfx2dfy391acnig95bf5dc7ji65ivlkvyn6k1aqr5a";
+        }
+        {
+          path = ''SynthAdd/Cycles/15.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/15.wav";
+          sha256 = "1ayhsaw600fqmryln9f38n3p4pw1hpb28yx6cg3bhiwscbwyjz3g";
+        }
+        {
+          path = ''SynthAdd/Cycles/16.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/16.wav";
+          sha256 = "1nm0p3qyiz2m3rxy1wfala9wc92lmy966i35rq74vlsq9ncwz892";
+        }
+        {
+          path = ''SynthAdd/Cycles/17.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/17.wav";
+          sha256 = "0fc3h3zmmahjgdmddkpsndm6qpkswgs705qbl2w5295y2l4ff1iv";
+        }
+        {
+          path = ''SynthAdd/Cycles/18.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/18.wav";
+          sha256 = "13n80lnv5jira9ixbzq055gmwl448995j6zriil06pwsf4q5ygvn";
+        }
+        {
+          path = ''SynthAdd/Cycles/19.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/19.wav";
+          sha256 = "0j8scj4x5nfrnf0kw2wx5wk1rrh8kwczfayqgaln3daw7bqwh6h8";
+        }
+        {
+          path = ''SynthAdd/Cycles/20.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/20.wav";
+          sha256 = "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn";
+        }
+        {
+          path = ''SynthAdd/Cycles/21.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/21.wav";
+          sha256 = "1sqbk64qzbf8971qgywszcksrn7jlkdwl30rxc22zx00sphpkcf6";
+        }
+        {
+          path = ''SynthAdd/Cycles/22.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/22.wav";
+          sha256 = "19cgk8a2qikd280j6bwdk4v794vvpp5r7452dy7wc98jbkcr2rb6";
+        }
+        {
+          path = ''SynthAdd/Cycles/23.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/23.wav";
+          sha256 = "191slikckal0qxlwhyhbjcdqavrs7fp4nfzcwhjiwypzr4c5f8f5";
+        }
+        {
+          path = ''SynthAdd/Cycles/24.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/24.wav";
+          sha256 = "197189pagcdvdf3d1hcbmx8g3brvci0v8ysc04ik4pmy6la20wnz";
+        }
+        {
+          path = ''SynthAdd/Cycles/25.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/25.wav";
+          sha256 = "03lwyk9v30k92dfmnipgsfd0z3na93rvj9j4s5ln2ag1865g0kc4";
+        }
+        {
+          path = ''SynthAdd/Cycles/26.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/26.wav";
+          sha256 = "0viq95dfb35jgvjgsn1c2qw350069v0yjiq6jqsykrhi78a7ixdj";
+        }
+        {
+          path = ''SynthAdd/Cycles/27.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/27.wav";
+          sha256 = "0vys488qj623acpamiks711zzsjd614jdjbgqpybxniqpqincx5b";
+        }
+        {
+          path = ''SynthAdd/Cycles/28.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/28.wav";
+          sha256 = "0jlkahinxmwpvn057ah6gri157ra6wdznxjrxhgb59wv20yxywx4";
+        }
+        {
+          path = ''SynthAdd/Cycles/29.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/29.wav";
+          sha256 = "0j1rylqbhhcvf4628bia7vf727bravqf2p0jgbsql01dzsfqk0ya";
+        }
+        {
+          path = ''SynthAdd/Cycles/30.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/30.wav";
+          sha256 = "1f0frpj1ijkm2rlx37czcb4zwi8my0yba1xqqvaq383zdx8w2wia";
+        }
+        {
+          path = ''SynthAdd/Cycles/31.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/31.wav";
+          sha256 = "1hp6llcw9i7ip0vhniafj77kp9v23xhr9nd11xmcv1daajy459fx";
+        }
+        {
+          path = ''SynthAdd/Cycles/32.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/32.wav";
+          sha256 = "0r79wyvd1ksj6cvljvzyarj7hxcqcwqvczqv1l7qf974mnz3p880";
+        }
+        {
+          path = ''SynthAdd/Cycles/33.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/33.wav";
+          sha256 = "1x1xa2gs9nmdlmhmv95jzkqs01aisgfzg635v7s7m1bzhkajkh2q";
+        }
+        {
+          path = ''SynthAdd/Cycles/34.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/34.wav";
+          sha256 = "1l3hqdjq2gac9wmx39ddhdczh26qjwlznidg7z0b69qz32wakcwx";
+        }
+        {
+          path = ''SynthAdd/Cycles/35.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/35.wav";
+          sha256 = "0pc7pvhkv1f49mkzvin45w6flvs91c18zasmlcq61fz97p834bav";
+        }
+        {
+          path = ''SynthAdd/Cycles/36.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/36.wav";
+          sha256 = "0q8npakgqd6blhsfg37gqcm90d3gf4ifghn9bz9xshm6ahcd374b";
+        }
+        {
+          path = ''SynthAdd/Cycles/37.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/37.wav";
+          sha256 = "0175n70hzdcr973rl6mvlfi2i9vdv4a2bhr5yd883kn1kak64zyz";
+        }
+        {
+          path = ''SynthAdd/Cycles/38.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/38.wav";
+          sha256 = "1zaz1dfbmy13xrlrm38pgmpm43nrcb24scscsyapmyzf8dnli7js";
+        }
+        {
+          path = ''SynthAdd/Cycles/39.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/39.wav";
+          sha256 = "0pqqnla1vq0pf12m2rl5266wz853mb44mkv9n3q0jqw5ph4rhyih";
+        }
+        {
+          path = ''Rotary (Tukan).RPL'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Rotary%20(Tukan).RPL";
+          sha256 = "1lw04c7kp9lk1a1wbzzg1bdz5b5m4fj1dhhzkban0dj5pa1vr2ad";
+        }
+        {
+          path = ''Rotary (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Rotary%20(Tukan)06.png";
+          sha256 = "0n2zhvvmdnnz2zmkr5mlqzh61kgb5gl1ppdi96mfbdb03nam013s";
+        }
+        {
+          path = ''SynthAdd/F20M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F20M_dc.wav";
+          sha256 = "0177q1fanbhbhr8lng4r7ffwffp0qyirg04lij7xqy4bh1b55hqx";
+        }
+        {
+          path = ''SynthAdd/F57M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F57M_dc.wav";
+          sha256 = "0h281maapcabsqnnq6ac30ygp2glkmpv1m8wkvgh3p5w2v3y5abi";
+        }
+        {
+          path = ''SynthAdd/F648M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F648M_dc.wav";
+          sha256 = "07y5k892a5rq0s6pd4bkrzqzpshsd1818n1hnk4025gc496gl2g0";
+        }
+        {
+          path = ''SynthAdd/F87M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F87M_dc.wav";
+          sha256 = "1lb9z4054h4vl8g1mmv2sf9ciy4l7s0nmzaysky4426p8drxnxsd";
+        }
+        {
+          path = ''SynthAdd/FRibM_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/FRibM_dc.wav";
+          sha256 = "0j20m4i2xwz3pi5sgjn28ph8pys9vs5a6z8izgc98971ipyl1kk4";
+        }
+        {
+          path = ''SynthAdd/F20S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F20S_dc.wav";
+          sha256 = "0mx144vwnb9zng8902y5d729nnmyc6g9hcjndh7krzggg1nqrwc4";
+        }
+        {
+          path = ''SynthAdd/F57S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F57S_dc.wav";
+          sha256 = "16a8xfdg93z9y9ypsdaijccwzjbc5cjnv50ws1xw1kqk1iw14dz6";
+        }
+        {
+          path = ''SynthAdd/F648S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F648S_dc.wav";
+          sha256 = "1mv5knzrvwh0mj7i2cr1ckz12a2jvvzc1w8a3frhmcls37zkcs2z";
+        }
+        {
+          path = ''SynthAdd/F87S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F87S_dc.wav";
+          sha256 = "0nk3d442fyqwc3idm1gz6hibli509aag57hfz4fhhzhka49g0akq";
+        }
+        {
+          path = ''SynthAdd/FRibS_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/FRibS_dc.wav";
+          sha256 = "0r6qckjmpy8jqmkkwxd23jv8cpfgmf0gjmjrn602msipb6jij34r";
+        }
+        {
+          path = ''SynthAdd/Drawbar_b.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Drawbar_b.png";
+          sha256 = "0la4vgrjqllli3c5iy56xnrn0r285pzn55566qkq7zzvr6z054ws";
+        }
+        {
+          path = ''SynthAdd/Drawbar_w.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Drawbar_w.png";
+          sha256 = "1klhwvvdyfr7gl28iikhqf5yg16wvjrshgm2j6bxij87x32df37b";
+        }
+        {
+          path = ''SynthAdd/Drawbar_bl.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Drawbar_bl.png";
+          sha256 = "070b1wyvmprbp99mdqdm8sdg7dd2jg09y794xx4z03jlis9mb3ha";
+        }
+        {
+          path = ''SynthAdd/organ_switch.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/organ_switch.png";
+          sha256 = "0ym21v7xk9m5ld61fja3qpnk8kg1s8zhd5mq8ziydip0wkzza89h";
+        }
+        {
+          path = ''SynthAdd/wood.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/wood.png";
+          sha256 = "1nws2rzsglfpkxbf3x91m8yf3vza5r6i185gnh5qc62alcb5224j";
+        }
+        {
+          path = ''SynthAdd/chicken.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/chicken.png";
+          sha256 = "1dafbpa9s0h289ndca6zjf330kq2l4xlwcwcs9f94asvjhhrnngp";
+        }
+        {
+          path = ''SynthAdd/Micbuttons.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Micbuttons.png";
+          sha256 = "0yc46aappcd216wczpby4v7bqihwsql3wpp5kx72g5137zmqlkwg";
+        }
+        {
+          path = ''SynthAdd/Ampframes.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Ampframes.png";
+          sha256 = "1xkw2402kaymqqhza3hzsbmrmcvyyqxk5vx7a9spb0gaw6lv56qy";
+        }
+        {
+          path = ''SynthAdd/Tolex.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Tolex.png";
+          sha256 = "0fdbi0l6c8qq6sq0yp1ka96av2knidj9n3dypbdf8dd2kx6v8z3l";
+        }
+        {
+          path = ''SynthAdd/org_button.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/org_button.png";
+          sha256 = "0bvav87ckyjfzfnprf5n9ajgwawl113rifkfj7q8aw24mdspqb1g";
+        }
+        {
+          path = ''SynthAdd/overlay.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/overlay.png";
+          sha256 = "1vhq0ccs9zks3n9zfl2aaq5y8cbzrp4zh7nidvaxsvvqd77i6vkd";
+        }
+        {
+          path = ''SynthAdd/gled.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/gled.png";
+          sha256 = "1p9bcr5pjq35yn9d6xp7hhj7va19wrj8mkz14hrw5anh3m7gw7k7";
+        }
+        {
+          path = ''SynthAdd/organ_switch3.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/organ_switch3.png";
+          sha256 = "0j4zl9s564bcjsxfmx1ls41hi38hjrpkh5iq06v3whqszdkk7q3v";
+        }
+        {
+          path = ''SynthAdd/S2_logo_dark.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/S2_logo_dark.png";
+          sha256 = "0dmdkvq9yvjq7lxhaqif7c6carv5gldd98yyl3l2bzg6mbmyfayl";
+        }
+        {
+          path = ''POLY 24 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/POLY%2024%20(Tukan).png";
+          sha256 = "1v5cvp77bjy1m2ca5h9s26f9mb1nl5gxyplrqddv1w4y511c8h8s";
+        }
+        {
+          path = ''POLY 24 (Tukan).RPL'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/POLY%2024%20(Tukan).RPL";
+          sha256 = "1sbv4cq1r0wiigbi9vffsyp3d472s05s716g7qn4s26cwj01c68b";
+        }
+        {
+          path = ''tookan POLY-G (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/tookan%20POLY-G%20(Tukan).png";
+          sha256 = "16svhd5qzz96zy8vqnc2yh94pq1qasgmb5irljmfybkf0g1v3jcf";
+        }
+        {
+          path = ''SynthAdd/poly-g.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/poly-g.png";
+          sha256 = "1kyyqvmg4q67lgykhz2diffbp4iycx2g6ap1k94dai9mifllpkka";
+        }
+        {
+          path = ''SynthAdd/fft_real_synth.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/fft_real_synth.jsfx-inc";
+          sha256 = "0csgmlbmi5mv5c03211ibkrz6190rahf0wwi76i1vlmzimr6rz27";
+        }
+        {
+          path = ''SynthAdd/wavetable.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/wavetable.jsfx-inc";
+          sha256 = "1la86yr5pj1x61nplazcxrnlc4dz5vqax4iygsgmy2jk148dkw3n";
+        }
+        {
+          path = ''SynthAdd/svf_filter.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/svf_filter.jsfx-inc";
+          sha256 = "0drsig47f09gi444dmbnifsmljxwqjp5ssvi2kdpkx5n24j0wlr1";
+        }
+        {
+          path = ''SynthAdd/cookdsp/analysis.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/analysis.jsfx-inc";
+          sha256 = "08hzvj4c3rnkbghm5sw3g15ma5b809a2nbixfsiwdasbzq36b0wq";
+        }
+        {
+          path = ''SynthAdd/cookdsp/buffer.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/buffer.jsfx-inc";
+          sha256 = "0x22fzgidjl2hdiyn035842kfpq8cvyxj1mz3lcb4ml364i5lb86";
+        }
+        {
+          path = ''SynthAdd/cookdsp/delay.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/delay.jsfx-inc";
+          sha256 = "1hjf4hfs8mhd6ablw4g1ffc9dajv087f1nr9763m377rx4klx1xp";
+        }
+        {
+          path = ''SynthAdd/cookdsp/dynamics.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/dynamics.jsfx-inc";
+          sha256 = "16h3ihzmh2024s6isil6z8x23imjvfr71rn2klnvqs2zwk14sy50";
+        }
+        {
+          path = ''SynthAdd/cookdsp/effects.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/effects.jsfx-inc";
+          sha256 = "1pij4ijliy5rakkwkpa5h25g131fci2pnrgj18d35c0545ljgk1b";
+        }
+        {
+          path = ''SynthAdd/cookdsp/fft-mono-template'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/fft-mono-template";
+          sha256 = "08g1n5jmppnd3g8pd2gnlq9j9bgcwiq902wcakid7x5an2y0m5cq";
+        }
+        {
+          path = ''SynthAdd/cookdsp/fft-stereo-template'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/fft-stereo-template";
+          sha256 = "0i8mlzwrr0mcasr9bgj0syn4pwi33q7qacnqfc5d2q3s3mv9qgr1";
+        }
+        {
+          path = ''SynthAdd/cookdsp/fftobjects.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/fftobjects.jsfx-inc";
+          sha256 = "0v09xrcyjsjfgq36bl55i16hj3i1yq5x1gdq9gicfblhgfxni2pp";
+        }
+        {
+          path = ''SynthAdd/cookdsp/filters.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/filters.jsfx-inc";
+          sha256 = "1n6llr1xpw5pala5mbj8520lc7x9d4pnlslh7l73v7ahsrcay1lb";
+        }
+        {
+          path = ''SynthAdd/cookdsp/granulator.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/granulator.jsfx-inc";
+          sha256 = "199xmawqjd71vyr892cwhja6sbw0j11an373302nlv9r4kwm0j22";
+        }
+        {
+          path = ''SynthAdd/cookdsp/list.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/list.jsfx-inc";
+          sha256 = "0kb430lpi6nkvw6k29pzx5xwycl9phkzzmirqbk7waf9la86aa1y";
+        }
+        {
+          path = ''SynthAdd/cookdsp/memalloc.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/memalloc.jsfx-inc";
+          sha256 = "1x0aca57h7d03bci37rcldp91278jkg63fc9p2g8ykk6vdhvw106";
+        }
+        {
+          path = ''SynthAdd/cookdsp/midi.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/midi.jsfx-inc";
+          sha256 = "193v98nwsqv1acgb7c3yr36b9k8ylhgjs8xslxkphz26124vs25w";
+        }
+        {
+          path = ''SynthAdd/cookdsp/mmath.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/mmath.jsfx-inc";
+          sha256 = "1181ngna25avmywkwz5fgnhhgdagygn6xzzmba5jvz6xzd7zrfwq";
+        }
+        {
+          path = ''SynthAdd/cookdsp/oscil.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/oscil.jsfx-inc";
+          sha256 = "1s3x8dv3c4aks48bb7s7dikx49yjm3vw4h6nr7bdkd2drckaj4y7";
+        }
+        {
+          path = ''SynthAdd/cookdsp/pobjects.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/pobjects.jsfx-inc";
+          sha256 = "11y95ac05zsk952h8wji8dxqhaz31z22nwypsrfx3kxzq069qigz";
+        }
+        {
+          path = ''SynthAdd/cookdsp/pv-mono-template'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/pv-mono-template";
+          sha256 = "1mk2yx5fwld9n649ql4s86ld9n06fpn72qrrza68gm9csk51ib20";
+        }
+        {
+          path = ''SynthAdd/cookdsp/pv-stereo-template'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/pv-stereo-template";
+          sha256 = "0dh6cmf148pfw95pjca2g13qjb34m757r0j62p0bdl0mzwybxlrc";
+        }
+        {
+          path = ''SynthAdd/cookdsp/pvocobjects.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/pvocobjects.jsfx-inc";
+          sha256 = "0brqm4miqd0vd5jfpxpvzy24dpqknxfdwxybpmfii2mfakk6nb2s";
+        }
+        {
+          path = ''SynthAdd/cookdsp/pvtrans-example'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/pvtrans-example";
+          sha256 = "16snn5yjjwg901kyjc1pj2kf8vq8iv28nq8aai61byw921dk1kin";
+        }
+        {
+          path = ''SynthAdd/cookdsp/random.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/random.jsfx-inc";
+          sha256 = "0rqxhram9hlnkazgkzpv3r2jd0zwvzsz6zp50caj01m8ak3ya3kn";
+        }
+        {
+          path = ''SynthAdd/cookdsp/scaling.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/scaling.jsfx-inc";
+          sha256 = "08nij8gplq4r33r3g7x8dy4wsvj6wncasnv9q7wd13sgvdv8mxj4";
+        }
+        {
+          path = ''SynthAdd/cookdsp.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp.jsfx-inc";
+          sha256 = "0ra21138spcgi34qn157h83wi5w8xhsxxhfg9ksgs5096019lbc8";
+        }
+        {
+          path = ''SynthAdd/LFO_moog.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/LFO_moog.png";
+          sha256 = "04r8zp6f2wxcnqr67rdxnqhrys0sgp2zlfkf40hb76q356x5f8vp";
+        }
+        {
+          path = ''SynthAdd/switch3.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Switch3.png";
+          sha256 = "02jhn1jvwdymw0ql24wqsp1ibkp3s4f5a565p2sy135zpizvddfk";
+        }
+        {
+          path = ''SynthAdd/switch.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Switch.png";
+          sha256 = "0r1p7rrn7aaw41aicgd0pdargklkj7h095wg15j9ja5b639q4qxp";
+        }
+        {
+          path = ''SynthAdd/tk_lib.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/tk_lib.jsfx-inc";
+          sha256 = "0m4qqm63h4srnsihc5c1yn55gs2103ym64nvvzdnm7mwy2np2g81";
+        }
+        {
+          path = ''SynthAdd/S2_logo.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/S2_logo.png";
+          sha256 = "0jgwjq13rn932yz2l0lcrphx0ms149w9l8mm10a6z62q1hb8nia9";
+        }
+        {
+          path = ''SynthAdd/button.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/button.png";
+          sha256 = "1fj525z26sbsm8zad6sfqspn2lwgww9d5zx810c9jznaffi4q6zz";
+        }
+        {
+          path = ''SynthAdd/gled.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/gled.png";
+          sha256 = "1p9bcr5pjq35yn9d6xp7hhj7va19wrj8mkz14hrw5anh3m7gw7k7";
+        }
+        {
+          path = ''SynthAdd/Poly24.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Poly24.png";
+          sha256 = "1br9k8ly24drmma631c4mrzw427fbb65hxz3yq7qf4j0a5mdfzg0";
+        }
+      ];
+    };
+    synthesizers-tukan-0-9-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "synthesizers-tukan-0-9-0";
+      indexName = "Tukan";
+      categoryName = "..";
+      packageType = "effect";
+      sources = [
+        {
+          path = ''WTFM Synth (Tukan).RPL'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/WTFM%20Synth%20(Tukan).RPL";
+          sha256 = "13qxp6dn7z50872sk6xmrsx4qj6phc9830bg0f9qmhyibs234rdv";
+        }
+        {
+          path = ''WTFM Synth (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/WTFM%20Synth%20(Tukan).png";
+          sha256 = "18kh8bknglqr009c66xjmzdb2njz3i10l4w4crizmvjdmp8r2ymk";
+        }
+        {
+          path = ''SynthAdd/skf.Saike_Yutani_Filters.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/skf.Saike_Yutani_Filters.jsfx-inc";
+          sha256 = "1afwcmgw1hw0wnd273h8lfp5w5j0qrph6rg1f356r8lg1xb98513";
+        }
+        {
+          path = ''SynthAdd/DXAlgos.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/DXAlgos.png";
+          sha256 = "13qpra7hsqjcdmxllj9c10aygil0m26gpan4nj0jpdr5rr7x082m";
+        }
+        {
+          path = ''SynthAdd/MBC_POWER.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/MBC_POWER.png";
+          sha256 = "01hm2gi2lfmqzr0vg7b5wwsn5wz96a9mnvhw7wsngxqxm0fzjf05";
+        }
+        {
+          path = ''SynthAdd/WTSynthADSR.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/WTSynthADSR.png";
+          sha256 = "06caswsyrh21ahr22rgqrbwq4r30rkq92bq1xjw568h9d5bizd07";
+        }
+        {
+          path = ''SynthAdd/WTSynthmini.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/WTSynthmini.png";
+          sha256 = "1l3d9b7phi6yfz4xmgnick50ck70141dvayd17z041dnzva062lz";
+        }
+        {
+          path = ''SynthAdd/WTSynth2mini.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/WTSynth2mini.png";
+          sha256 = "1x2nnynfg9z8z19bi253dxag62yvmfmaq163p4026p76ai6is3r7";
+        }
+        {
+          path = ''SynthAdd/WTSynth2.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/WTSynth2.png";
+          sha256 = "0r6bmj958wzawsh28ngffl05h2nj5g3vahkwkqigy7pyy27lgjrz";
+        }
+        {
+          path = ''SynthAdd/WTSynth.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/WTSynth.png";
+          sha256 = "0givsgmyl0q13sc6sbgcr1yd65pm1kl2ql7fbgaz77vxj3wg732l";
+        }
+        {
+          path = ''SynthAdd/rled.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/rled.png";
+          sha256 = "03g9lpqsj0ai6cylmw3qpzr5g1nba62i6agrifp158jb9r3mcqs7";
+        }
+        {
+          path = ''SynthAdd/Cycles/01.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/01.wav";
+          sha256 = "1nb7l81ag9rdrz9pfz31glw9sz55x8jp9fk7zppif42vslarbqsj";
+        }
+        {
+          path = ''SynthAdd/Cycles/02.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/02.wav";
+          sha256 = "1paywg4q0k33cwby60s4cl2p7vgzy4l22gsj46mlhp51zab43xk6";
+        }
+        {
+          path = ''SynthAdd/Cycles/03.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/03.wav";
+          sha256 = "1sk738fiqfq2hj0zqxl99j1az9k04vqdr5djvr3sb1jqcs76ndfr";
+        }
+        {
+          path = ''SynthAdd/Cycles/04.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/04.wav";
+          sha256 = "1si7hlc7vlvj9ibx3xardmlwpxzl13my77zjrw57qqshk4b95cz1";
+        }
+        {
+          path = ''SynthAdd/Cycles/05.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/05.wav";
+          sha256 = "0a2n0lkr6z76bnlcii4ak5khfl490l5smr3glffj93hm9cg8x9ix";
+        }
+        {
+          path = ''SynthAdd/Cycles/06.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/06.wav";
+          sha256 = "0jkrrnlhn6mrsms5bzqkg98xij0nl5kgqc4b0gzczk3492hmjglp";
+        }
+        {
+          path = ''SynthAdd/Cycles/07.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/07.wav";
+          sha256 = "0sh8vk35h3y3lg65kn70pa5ynr6hdcp606lgznz36sb3021vssx6";
+        }
+        {
+          path = ''SynthAdd/Cycles/08.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/08.wav";
+          sha256 = "0y0aiaq506z585czkyaqa2yc48cnf58z8ih273j8fmw2s4kxgks8";
+        }
+        {
+          path = ''SynthAdd/Cycles/09.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/09.wav";
+          sha256 = "1p498xd2isbm19agp6rib1l5b1gxm60ymxxxm2x2knlfjr4mgn4k";
+        }
+        {
+          path = ''SynthAdd/Cycles/10.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/10.wav";
+          sha256 = "03cbsic6y8i1svfd2fwv626xmx1lq2irzcb0vhq4i9yh5p1kxbg7";
+        }
+        {
+          path = ''SynthAdd/Cycles/11.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/11.wav";
+          sha256 = "0yvh2lkspcz2p7f0wr16qhcyvacnm3g4i4savpd65hmqjwxnafxs";
+        }
+        {
+          path = ''SynthAdd/Cycles/12.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/12.wav";
+          sha256 = "0srniclzyiavwz1qcayzj5x2jamkbmkf7bb19mx5q2qz2q3kiw37";
+        }
+        {
+          path = ''SynthAdd/Cycles/13.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/13.wav";
+          sha256 = "1pskrz32inxzqn0182admg90hvb7xsg94azijs4hrksbcgjanmfl";
+        }
+        {
+          path = ''SynthAdd/Cycles/14.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/14.wav";
+          sha256 = "0ppi0v5sb8jfx2dfy391acnig95bf5dc7ji65ivlkvyn6k1aqr5a";
+        }
+        {
+          path = ''SynthAdd/Cycles/15.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/15.wav";
+          sha256 = "1ayhsaw600fqmryln9f38n3p4pw1hpb28yx6cg3bhiwscbwyjz3g";
+        }
+        {
+          path = ''SynthAdd/Cycles/16.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/16.wav";
+          sha256 = "1nm0p3qyiz2m3rxy1wfala9wc92lmy966i35rq74vlsq9ncwz892";
+        }
+        {
+          path = ''SynthAdd/Cycles/17.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/17.wav";
+          sha256 = "0fc3h3zmmahjgdmddkpsndm6qpkswgs705qbl2w5295y2l4ff1iv";
+        }
+        {
+          path = ''SynthAdd/Cycles/18.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/18.wav";
+          sha256 = "13n80lnv5jira9ixbzq055gmwl448995j6zriil06pwsf4q5ygvn";
+        }
+        {
+          path = ''SynthAdd/Cycles/19.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/19.wav";
+          sha256 = "0j8scj4x5nfrnf0kw2wx5wk1rrh8kwczfayqgaln3daw7bqwh6h8";
+        }
+        {
+          path = ''SynthAdd/Cycles/20.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/20.wav";
+          sha256 = "0g3p2wdla7hf64c45n127r3zvrn6swxrqx9wa7knz0zigx6wfxqn";
+        }
+        {
+          path = ''SynthAdd/Cycles/21.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/21.wav";
+          sha256 = "1sqbk64qzbf8971qgywszcksrn7jlkdwl30rxc22zx00sphpkcf6";
+        }
+        {
+          path = ''SynthAdd/Cycles/22.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/22.wav";
+          sha256 = "19cgk8a2qikd280j6bwdk4v794vvpp5r7452dy7wc98jbkcr2rb6";
+        }
+        {
+          path = ''SynthAdd/Cycles/23.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/23.wav";
+          sha256 = "191slikckal0qxlwhyhbjcdqavrs7fp4nfzcwhjiwypzr4c5f8f5";
+        }
+        {
+          path = ''SynthAdd/Cycles/24.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/24.wav";
+          sha256 = "197189pagcdvdf3d1hcbmx8g3brvci0v8ysc04ik4pmy6la20wnz";
+        }
+        {
+          path = ''SynthAdd/Cycles/25.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/25.wav";
+          sha256 = "03lwyk9v30k92dfmnipgsfd0z3na93rvj9j4s5ln2ag1865g0kc4";
+        }
+        {
+          path = ''SynthAdd/Cycles/26.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/26.wav";
+          sha256 = "0viq95dfb35jgvjgsn1c2qw350069v0yjiq6jqsykrhi78a7ixdj";
+        }
+        {
+          path = ''SynthAdd/Cycles/27.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/27.wav";
+          sha256 = "0vys488qj623acpamiks711zzsjd614jdjbgqpybxniqpqincx5b";
+        }
+        {
+          path = ''SynthAdd/Cycles/28.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/28.wav";
+          sha256 = "0jlkahinxmwpvn057ah6gri157ra6wdznxjrxhgb59wv20yxywx4";
+        }
+        {
+          path = ''SynthAdd/Cycles/29.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/29.wav";
+          sha256 = "0j1rylqbhhcvf4628bia7vf727bravqf2p0jgbsql01dzsfqk0ya";
+        }
+        {
+          path = ''SynthAdd/Cycles/30.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/30.wav";
+          sha256 = "1f0frpj1ijkm2rlx37czcb4zwi8my0yba1xqqvaq383zdx8w2wia";
+        }
+        {
+          path = ''SynthAdd/Cycles/31.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/31.wav";
+          sha256 = "1hp6llcw9i7ip0vhniafj77kp9v23xhr9nd11xmcv1daajy459fx";
+        }
+        {
+          path = ''SynthAdd/Cycles/32.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/32.wav";
+          sha256 = "0r79wyvd1ksj6cvljvzyarj7hxcqcwqvczqv1l7qf974mnz3p880";
+        }
+        {
+          path = ''SynthAdd/Cycles/33.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/33.wav";
+          sha256 = "1x1xa2gs9nmdlmhmv95jzkqs01aisgfzg635v7s7m1bzhkajkh2q";
+        }
+        {
+          path = ''SynthAdd/Cycles/34.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/34.wav";
+          sha256 = "1l3hqdjq2gac9wmx39ddhdczh26qjwlznidg7z0b69qz32wakcwx";
+        }
+        {
+          path = ''SynthAdd/Cycles/35.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/35.wav";
+          sha256 = "0pc7pvhkv1f49mkzvin45w6flvs91c18zasmlcq61fz97p834bav";
+        }
+        {
+          path = ''SynthAdd/Cycles/36.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/36.wav";
+          sha256 = "0q8npakgqd6blhsfg37gqcm90d3gf4ifghn9bz9xshm6ahcd374b";
+        }
+        {
+          path = ''SynthAdd/Cycles/37.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/37.wav";
+          sha256 = "0175n70hzdcr973rl6mvlfi2i9vdv4a2bhr5yd883kn1kak64zyz";
+        }
+        {
+          path = ''SynthAdd/Cycles/38.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/38.wav";
+          sha256 = "1zaz1dfbmy13xrlrm38pgmpm43nrcb24scscsyapmyzf8dnli7js";
+        }
+        {
+          path = ''SynthAdd/Cycles/39.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Cycles/39.wav";
+          sha256 = "0pqqnla1vq0pf12m2rl5266wz853mb44mkv9n3q0jqw5ph4rhyih";
+        }
+        {
+          path = ''Rotary (Tukan).RPL'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Rotary%20(Tukan).RPL";
+          sha256 = "1lw04c7kp9lk1a1wbzzg1bdz5b5m4fj1dhhzkban0dj5pa1vr2ad";
+        }
+        {
+          path = ''Rotary (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Rotary%20(Tukan)06.png";
+          sha256 = "0n2zhvvmdnnz2zmkr5mlqzh61kgb5gl1ppdi96mfbdb03nam013s";
+        }
+        {
+          path = ''SynthAdd/F20M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F20M_dc.wav";
+          sha256 = "0177q1fanbhbhr8lng4r7ffwffp0qyirg04lij7xqy4bh1b55hqx";
+        }
+        {
+          path = ''SynthAdd/F57M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F57M_dc.wav";
+          sha256 = "0h281maapcabsqnnq6ac30ygp2glkmpv1m8wkvgh3p5w2v3y5abi";
+        }
+        {
+          path = ''SynthAdd/F648M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F648M_dc.wav";
+          sha256 = "07y5k892a5rq0s6pd4bkrzqzpshsd1818n1hnk4025gc496gl2g0";
+        }
+        {
+          path = ''SynthAdd/F87M_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F87M_dc.wav";
+          sha256 = "1lb9z4054h4vl8g1mmv2sf9ciy4l7s0nmzaysky4426p8drxnxsd";
+        }
+        {
+          path = ''SynthAdd/FRibM_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/FRibM_dc.wav";
+          sha256 = "0j20m4i2xwz3pi5sgjn28ph8pys9vs5a6z8izgc98971ipyl1kk4";
+        }
+        {
+          path = ''SynthAdd/F20S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F20S_dc.wav";
+          sha256 = "0mx144vwnb9zng8902y5d729nnmyc6g9hcjndh7krzggg1nqrwc4";
+        }
+        {
+          path = ''SynthAdd/F57S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F57S_dc.wav";
+          sha256 = "16a8xfdg93z9y9ypsdaijccwzjbc5cjnv50ws1xw1kqk1iw14dz6";
+        }
+        {
+          path = ''SynthAdd/F648S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F648S_dc.wav";
+          sha256 = "1mv5knzrvwh0mj7i2cr1ckz12a2jvvzc1w8a3frhmcls37zkcs2z";
+        }
+        {
+          path = ''SynthAdd/F87S_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/F87S_dc.wav";
+          sha256 = "0nk3d442fyqwc3idm1gz6hibli509aag57hfz4fhhzhka49g0akq";
+        }
+        {
+          path = ''SynthAdd/FRibS_dc.wav'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/FRibS_dc.wav";
+          sha256 = "0r6qckjmpy8jqmkkwxd23jv8cpfgmf0gjmjrn602msipb6jij34r";
+        }
+        {
+          path = ''SynthAdd/Drawbar_b.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Drawbar_b.png";
+          sha256 = "0la4vgrjqllli3c5iy56xnrn0r285pzn55566qkq7zzvr6z054ws";
+        }
+        {
+          path = ''SynthAdd/Drawbar_w.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Drawbar_w.png";
+          sha256 = "1klhwvvdyfr7gl28iikhqf5yg16wvjrshgm2j6bxij87x32df37b";
+        }
+        {
+          path = ''SynthAdd/Drawbar_bl.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Drawbar_bl.png";
+          sha256 = "070b1wyvmprbp99mdqdm8sdg7dd2jg09y794xx4z03jlis9mb3ha";
+        }
+        {
+          path = ''SynthAdd/organ_switch.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/organ_switch.png";
+          sha256 = "0ym21v7xk9m5ld61fja3qpnk8kg1s8zhd5mq8ziydip0wkzza89h";
+        }
+        {
+          path = ''SynthAdd/wood.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/wood.png";
+          sha256 = "1nws2rzsglfpkxbf3x91m8yf3vza5r6i185gnh5qc62alcb5224j";
+        }
+        {
+          path = ''SynthAdd/chicken.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/chicken.png";
+          sha256 = "1dafbpa9s0h289ndca6zjf330kq2l4xlwcwcs9f94asvjhhrnngp";
+        }
+        {
+          path = ''SynthAdd/Micbuttons.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Micbuttons.png";
+          sha256 = "0yc46aappcd216wczpby4v7bqihwsql3wpp5kx72g5137zmqlkwg";
+        }
+        {
+          path = ''SynthAdd/Ampframes.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Ampframes.png";
+          sha256 = "1xkw2402kaymqqhza3hzsbmrmcvyyqxk5vx7a9spb0gaw6lv56qy";
+        }
+        {
+          path = ''SynthAdd/Tolex.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Tolex.png";
+          sha256 = "0fdbi0l6c8qq6sq0yp1ka96av2knidj9n3dypbdf8dd2kx6v8z3l";
+        }
+        {
+          path = ''SynthAdd/org_button.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/org_button.png";
+          sha256 = "0bvav87ckyjfzfnprf5n9ajgwawl113rifkfj7q8aw24mdspqb1g";
+        }
+        {
+          path = ''SynthAdd/overlay.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/overlay.png";
+          sha256 = "1vhq0ccs9zks3n9zfl2aaq5y8cbzrp4zh7nidvaxsvvqd77i6vkd";
+        }
+        {
+          path = ''SynthAdd/gled.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/gled.png";
+          sha256 = "1p9bcr5pjq35yn9d6xp7hhj7va19wrj8mkz14hrw5anh3m7gw7k7";
+        }
+        {
+          path = ''SynthAdd/organ_switch3.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/organ_switch3.png";
+          sha256 = "0j4zl9s564bcjsxfmx1ls41hi38hjrpkh5iq06v3whqszdkk7q3v";
+        }
+        {
+          path = ''SynthAdd/S2_logo_dark.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/S2_logo_dark.png";
+          sha256 = "0dmdkvq9yvjq7lxhaqif7c6carv5gldd98yyl3l2bzg6mbmyfayl";
+        }
+        {
+          path = ''POLY 24 (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/POLY%2024%20(Tukan).png";
+          sha256 = "1v5cvp77bjy1m2ca5h9s26f9mb1nl5gxyplrqddv1w4y511c8h8s";
+        }
+        {
+          path = ''POLY 24 (Tukan).RPL'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/POLY%2024%20(Tukan).RPL";
+          sha256 = "1sbv4cq1r0wiigbi9vffsyp3d472s05s716g7qn4s26cwj01c68b";
+        }
+        {
+          path = ''tookan POLY-G (Tukan)'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/tookan%20POLY-G%20(Tukan).png";
+          sha256 = "16svhd5qzz96zy8vqnc2yh94pq1qasgmb5irljmfybkf0g1v3jcf";
+        }
+        {
+          path = ''SynthAdd/poly-g.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/poly-g.png";
+          sha256 = "1kyyqvmg4q67lgykhz2diffbp4iycx2g6ap1k94dai9mifllpkka";
+        }
+        {
+          path = ''SynthAdd/fft_real_synth.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/fft_real_synth.jsfx-inc";
+          sha256 = "0csgmlbmi5mv5c03211ibkrz6190rahf0wwi76i1vlmzimr6rz27";
+        }
+        {
+          path = ''SynthAdd/wavetable.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/wavetable.jsfx-inc";
+          sha256 = "1la86yr5pj1x61nplazcxrnlc4dz5vqax4iygsgmy2jk148dkw3n";
+        }
+        {
+          path = ''SynthAdd/svf_filter.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/svf_filter.jsfx-inc";
+          sha256 = "0drsig47f09gi444dmbnifsmljxwqjp5ssvi2kdpkx5n24j0wlr1";
+        }
+        {
+          path = ''SynthAdd/cookdsp/analysis.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/analysis.jsfx-inc";
+          sha256 = "08hzvj4c3rnkbghm5sw3g15ma5b809a2nbixfsiwdasbzq36b0wq";
+        }
+        {
+          path = ''SynthAdd/cookdsp/buffer.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/buffer.jsfx-inc";
+          sha256 = "0x22fzgidjl2hdiyn035842kfpq8cvyxj1mz3lcb4ml364i5lb86";
+        }
+        {
+          path = ''SynthAdd/cookdsp/delay.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/delay.jsfx-inc";
+          sha256 = "1hjf4hfs8mhd6ablw4g1ffc9dajv087f1nr9763m377rx4klx1xp";
+        }
+        {
+          path = ''SynthAdd/cookdsp/dynamics.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/dynamics.jsfx-inc";
+          sha256 = "16h3ihzmh2024s6isil6z8x23imjvfr71rn2klnvqs2zwk14sy50";
+        }
+        {
+          path = ''SynthAdd/cookdsp/effects.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/effects.jsfx-inc";
+          sha256 = "1pij4ijliy5rakkwkpa5h25g131fci2pnrgj18d35c0545ljgk1b";
+        }
+        {
+          path = ''SynthAdd/cookdsp/fft-mono-template'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/fft-mono-template";
+          sha256 = "08g1n5jmppnd3g8pd2gnlq9j9bgcwiq902wcakid7x5an2y0m5cq";
+        }
+        {
+          path = ''SynthAdd/cookdsp/fft-stereo-template'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/fft-stereo-template";
+          sha256 = "0i8mlzwrr0mcasr9bgj0syn4pwi33q7qacnqfc5d2q3s3mv9qgr1";
+        }
+        {
+          path = ''SynthAdd/cookdsp/fftobjects.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/fftobjects.jsfx-inc";
+          sha256 = "0v09xrcyjsjfgq36bl55i16hj3i1yq5x1gdq9gicfblhgfxni2pp";
+        }
+        {
+          path = ''SynthAdd/cookdsp/filters.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/filters.jsfx-inc";
+          sha256 = "1n6llr1xpw5pala5mbj8520lc7x9d4pnlslh7l73v7ahsrcay1lb";
+        }
+        {
+          path = ''SynthAdd/cookdsp/granulator.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/granulator.jsfx-inc";
+          sha256 = "199xmawqjd71vyr892cwhja6sbw0j11an373302nlv9r4kwm0j22";
+        }
+        {
+          path = ''SynthAdd/cookdsp/list.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/list.jsfx-inc";
+          sha256 = "0kb430lpi6nkvw6k29pzx5xwycl9phkzzmirqbk7waf9la86aa1y";
+        }
+        {
+          path = ''SynthAdd/cookdsp/memalloc.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/memalloc.jsfx-inc";
+          sha256 = "1x0aca57h7d03bci37rcldp91278jkg63fc9p2g8ykk6vdhvw106";
+        }
+        {
+          path = ''SynthAdd/cookdsp/midi.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/midi.jsfx-inc";
+          sha256 = "193v98nwsqv1acgb7c3yr36b9k8ylhgjs8xslxkphz26124vs25w";
+        }
+        {
+          path = ''SynthAdd/cookdsp/mmath.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/mmath.jsfx-inc";
+          sha256 = "1181ngna25avmywkwz5fgnhhgdagygn6xzzmba5jvz6xzd7zrfwq";
+        }
+        {
+          path = ''SynthAdd/cookdsp/oscil.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/oscil.jsfx-inc";
+          sha256 = "1s3x8dv3c4aks48bb7s7dikx49yjm3vw4h6nr7bdkd2drckaj4y7";
+        }
+        {
+          path = ''SynthAdd/cookdsp/pobjects.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/pobjects.jsfx-inc";
+          sha256 = "11y95ac05zsk952h8wji8dxqhaz31z22nwypsrfx3kxzq069qigz";
+        }
+        {
+          path = ''SynthAdd/cookdsp/pv-mono-template'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/pv-mono-template";
+          sha256 = "1mk2yx5fwld9n649ql4s86ld9n06fpn72qrrza68gm9csk51ib20";
+        }
+        {
+          path = ''SynthAdd/cookdsp/pv-stereo-template'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/pv-stereo-template";
+          sha256 = "0dh6cmf148pfw95pjca2g13qjb34m757r0j62p0bdl0mzwybxlrc";
+        }
+        {
+          path = ''SynthAdd/cookdsp/pvocobjects.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/pvocobjects.jsfx-inc";
+          sha256 = "0brqm4miqd0vd5jfpxpvzy24dpqknxfdwxybpmfii2mfakk6nb2s";
+        }
+        {
+          path = ''SynthAdd/cookdsp/pvtrans-example'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/pvtrans-example";
+          sha256 = "16snn5yjjwg901kyjc1pj2kf8vq8iv28nq8aai61byw921dk1kin";
+        }
+        {
+          path = ''SynthAdd/cookdsp/random.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/random.jsfx-inc";
+          sha256 = "0rqxhram9hlnkazgkzpv3r2jd0zwvzsz6zp50caj01m8ak3ya3kn";
+        }
+        {
+          path = ''SynthAdd/cookdsp/scaling.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp/scaling.jsfx-inc";
+          sha256 = "08nij8gplq4r33r3g7x8dy4wsvj6wncasnv9q7wd13sgvdv8mxj4";
+        }
+        {
+          path = ''SynthAdd/cookdsp.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/cookdsp.jsfx-inc";
+          sha256 = "0ra21138spcgi34qn157h83wi5w8xhsxxhfg9ksgs5096019lbc8";
+        }
+        {
+          path = ''SynthAdd/LFO_moog.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/LFO_moog.png";
+          sha256 = "04r8zp6f2wxcnqr67rdxnqhrys0sgp2zlfkf40hb76q356x5f8vp";
+        }
+        {
+          path = ''SynthAdd/switch3.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Switch3.png";
+          sha256 = "02jhn1jvwdymw0ql24wqsp1ibkp3s4f5a565p2sy135zpizvddfk";
+        }
+        {
+          path = ''SynthAdd/switch.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Switch.png";
+          sha256 = "0r1p7rrn7aaw41aicgd0pdargklkj7h095wg15j9ja5b639q4qxp";
+        }
+        {
+          path = ''SynthAdd/tk_lib.jsfx-inc'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/tk_lib.jsfx-inc";
+          sha256 = "0m4qqm63h4srnsihc5c1yn55gs2103ym64nvvzdnm7mwy2np2g81";
+        }
+        {
+          path = ''SynthAdd/S2_logo.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/S2_logo.png";
+          sha256 = "0jgwjq13rn932yz2l0lcrphx0ms149w9l8mm10a6z62q1hb8nia9";
+        }
+        {
+          path = ''SynthAdd/button.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/button.png";
+          sha256 = "1fj525z26sbsm8zad6sfqspn2lwgww9d5zx810c9jznaffi4q6zz";
+        }
+        {
+          path = ''SynthAdd/gled.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/gled.png";
+          sha256 = "1p9bcr5pjq35yn9d6xp7hhj7va19wrj8mkz14hrw5anh3m7gw7k7";
+        }
+        {
+          path = ''SynthAdd/Poly24.png'';
+          url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/SynthAdd/Poly24.png";
+          sha256 = "1br9k8ly24drmma631c4mrzw427fbb65hxz3yq7qf4j0a5mdfzg0";
+        }
+      ];
+    };
     synthesizers-tukan-0-8-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "synthesizers-tukan-0-8-0";

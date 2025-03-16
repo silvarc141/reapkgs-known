@@ -15,12 +15,12 @@
         {
           path = ''DBManager.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/4b11437d21080f2fd3531c19dbc6854ada64be76/DBManager/DBManager.lua";
-          sha256 = "";
+          sha256 = "1g4irfi6zkyzdzl8bdp3q4rka77gm0ypd43pr77rss02cl64ra7x";
         }
         {
           path = ''lua_modules/json.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/4b11437d21080f2fd3531c19dbc6854ada64be76/DBManager/lua_modules/json.lua";
-          sha256 = "";
+          sha256 = "0rm9j44vhm0cqmkmg2ghl83bgcb80f3sfr7bmj0vkdv5xpr1jz17";
         }
         {
           path = ''reascript_modules/DBM_popups.lua'';
@@ -30,12 +30,12 @@
         {
           path = ''reascript_modules/DBM_helper.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/4b11437d21080f2fd3531c19dbc6854ada64be76/DBManager/reascript_modules/DBM_helper.lua";
-          sha256 = "";
+          sha256 = "1hvpfl36864hajz468zy4zqlxrdic06i00s2is9fcq3m5zi4qlkp";
         }
         {
           path = ''reascript_modules/DBM_GUI.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/4b11437d21080f2fd3531c19dbc6854ada64be76/DBManager/reascript_modules/DBM_GUI.lua";
-          sha256 = "0b4f0hdzbrb7y1ghdvixyz3n4p0rgcpwq56jlm6in9fsx6qjimm4";
+          sha256 = "0asbbcja2r8w3195zn8n4ka3gm2hh2w3l24hv42q47kl376sc86b";
         }
         {
           path = ''reascript_modules/DBM_actions.lua'';
@@ -55,7 +55,7 @@
         {
           path = ''changelog.md'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/4b11437d21080f2fd3531c19dbc6854ada64be76/DBManager/changelog.md";
-          sha256 = "";
+          sha256 = "0m3wsymda3217lwy0f0kjq5xkcvjj43wllm1i83i6ypf5zimwda3";
         }
         {
           path = ''dbassistant.exe'';
@@ -75,12 +75,12 @@
         {
           path = ''osx_launchers/osx_add.sh'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/4b11437d21080f2fd3531c19dbc6854ada64be76/DBManager/osx_launchers/osx_add.sh";
-          sha256 = "";
+          sha256 = "0har9ah6k6kprjvmmkvlk7m9pcmnx4zmxm8xm7wn8m29v12f1qcc";
         }
         {
           path = ''osx_launchers/osx_deduplicate.sh'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/4b11437d21080f2fd3531c19dbc6854ada64be76/DBManager/osx_launchers/osx_deduplicate.sh";
-          sha256 = "";
+          sha256 = "04gwmzk4c5wbashn53a4gng14wm4arn5gsdf9c03sdss64wqzwrn";
         }
         {
           path = ''osx_launchers/osx_export.sh'';
@@ -90,7 +90,7 @@
         {
           path = ''osx_launchers/osx_version.sh'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/4b11437d21080f2fd3531c19dbc6854ada64be76/DBManager/osx_launchers/osx_version.sh";
-          sha256 = "";
+          sha256 = "1hi1x2hif1igar34dzkl1d1sfh88q5qqb7071cmjg0pkflf69zm7";
         }
       ];
     };
@@ -114,7 +114,7 @@
         {
           path = ''reascript_modules/DBM_popups.lua'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/bf4b8cc6ddae73ceae682b44498d5a59faa28ddb/DBManager/reascript_modules/DBM_popups.lua";
-          sha256 = "";
+          sha256 = "1s7nacfwy2d9303v1agk12n9nm4vps5y4dbmkjp1plaqan57kipi";
         }
         {
           path = ''reascript_modules/DBM_helper.lua'';
@@ -149,12 +149,12 @@
         {
           path = ''Documentation/images/Interface.png'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/bf4b8cc6ddae73ceae682b44498d5a59faa28ddb/DBManager/Documentation/images/Interface.png";
-          sha256 = "";
+          sha256 = "1mmxnxnxc7qsafvv1397x19w2kdyyrbg94k2a444z4xc2y6xrl3i";
         }
         {
           path = ''Documentation/images/addDialog.png'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/bf4b8cc6ddae73ceae682b44498d5a59faa28ddb/DBManager/Documentation/images/addDialog.png";
-          sha256 = "";
+          sha256 = "1ldkjw4qc4cyakyadx8z26lgix2ndj7m52dq5yhify4v56728pl8";
         }
         {
           path = ''Documentation/images/folders.png'';
@@ -204,12 +204,12 @@
         {
           path = ''osx_launchers/osx_deduplicate.sh'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/bf4b8cc6ddae73ceae682b44498d5a59faa28ddb/DBManager/osx_launchers/osx_deduplicate.sh";
-          sha256 = "";
+          sha256 = "04gwmzk4c5wbashn53a4gng14wm4arn5gsdf9c03sdss64wqzwrn";
         }
         {
           path = ''osx_launchers/osx_export.sh'';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/bf4b8cc6ddae73ceae682b44498d5a59faa28ddb/DBManager/osx_launchers/osx_export.sh";
-          sha256 = "";
+          sha256 = "1qwd0c18qd5k1vzk2f7hrib3pw1ixvf4dl4xjk50m53z72aw5vic";
         }
         {
           path = ''osx_launchers/osx_version.sh'';
@@ -242,7 +242,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Channel%20Router.jsfx";
-          sha256 = "";
+          sha256 = "1r1zdv917q5mlp4gc6y8imbd09nqvzr9dda5zbasxdiaqsc948kw";
         }
       ];
     };
@@ -256,7 +256,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20LR%20to%20Center%20Channel%20Send%20(Ch%203%20Mixer).jsfx";
-          sha256 = "";
+          sha256 = "1cnq4j0jzzb4h6kw7y74w9w63jvd7y8ih0h05ac01222s30a1bw4";
         }
       ];
     };
@@ -284,7 +284,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20Channel%20Order%20Converter.jsfx";
-          sha256 = "";
+          sha256 = "0v13grvbb7s8jgx7jdvvlzfh1pb7fxjfxyinww088grk1fs5mxh8";
         }
       ];
     };
@@ -298,7 +298,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20LFE%20Send.jsfx";
-          sha256 = "";
+          sha256 = "1vv7vcfvq0qp7ds4xa68inbn0iq22a2zsmzlmkj9iqx3hhriws12";
         }
       ];
     };
@@ -312,7 +312,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/101453266e5cb0516100fba848a87d1bad008eea/Lua/Automation/CS_ConvertVolumeAutomationFadesToItemFades.lua";
-          sha256 = "";
+          sha256 = "12jaaid0n4jm9msjvw9ab7dq6vrdbhm804dx77nsz67iv8jci3jz";
         }
       ];
     };
@@ -354,7 +354,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/005a13b5735a07b4a69301a5769563c54f9c9ab2/Lua/Automation/CS_ConvertVolumeAutomationFadesToItemFades.lua";
-          sha256 = "";
+          sha256 = "0bp3h8absbb687rhz47b1gp3nffysqqkra7gv9fmgwni2630xhwc";
         }
       ];
     };
@@ -429,7 +429,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Copy%20Track%20Volume%20Envelope%20to%20Selected%20Takes%20and%20reset%20track%20envelope.lua";
-          sha256 = "";
+          sha256 = "1yzp9pff87a7ra47xggivqq1q7b2gq7kpgqr58cwsh6bw439ip2y";
         }
       ];
     };
@@ -443,7 +443,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/21c74d235930306354fa9e43f254801d04e749f6/Lua/Editing/CS_Edit%20Bottom%20Item%20to%20Match%20Edits%20in%20selected%20items%20on%20top%20track.lua";
-          sha256 = "";
+          sha256 = "0hbn7q551ykz8j70lgmvialddw86swb15fr7mr6v1wdz10yx6j91";
         }
       ];
     };
@@ -457,7 +457,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/c4316dcae28321d801d45912c6c1caf38b3e81c1/Lua/Editing/CS_Extend%20edges%20in%20both%20directions%20fading%20from%20time%20selection.lua";
-          sha256 = "";
+          sha256 = "19n2q1q6v5j7kfbyr54rk0ijxhy5npnrih9ybszp23qv3qd79big";
         }
       ];
     };
@@ -485,7 +485,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/9db484f0d5d21f89fe6ffb5c0654e7df683baf2b/Lua/Editing/CS_Extend%20Item%20to%20Full%20Length.lua";
-          sha256 = "109v6c85bq6wskcir5r1ak7fyhknjarqkxx736n6bnn6csih3pw9";
+          sha256 = "10ifq69114xkarmyifzijkpaj5hvqj6zy7ww2f31qfhbs3wj0462";
         }
       ];
     };
@@ -499,7 +499,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/81bb4b11c63798a4eb2e40e1abf2086ad47eb14b/Lua/Editing/CS_Extend%20selected%20item%20to%20fill%20time%20Selection.lua";
-          sha256 = "1qqkhvcmccyxqdc00hynmfxif065wjin8sbc6m6nb1b4wvjfbggd";
+          sha256 = "1gwnswn34za3ai9706m288n1izsqg9dkl85pnq98d6ypbb680wm1";
         }
       ];
     };
@@ -597,7 +597,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/84b0bc424d9cb197d30cb67156180bed58952bf1/Lua/Editing/CS_Pro%20Tools%20Tab%20to%20Next%20Transient.lua";
-          sha256 = "0iwvfy50asspy3mgl1rshv25hpjnrzxvainjdr3pwbs2wsy1cs16";
+          sha256 = "1naw4dxwrc0abc5m09byf9vpbakcz3md0y0njz8dczayc332vgwn";
         }
       ];
     };
@@ -611,7 +611,7 @@
         {
           path = '''';
           url = "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/84b0bc424d9cb197d30cb67156180bed58952bf1/Lua/Editing/CS_Pro%20Tools%20Tab%20to%20Previous%20Transient.lua";
-          sha256 = "0b60pkbyl7frk3ai03xacbvclq5h00zbaa7hc9p4klhf8jgdckg0";
+          sha256 = "086jbndwccd4c6qh965q4f585f0bz8gy2sad853wfg5j9854z2hh";
         }
       ];
     };

@@ -71,7 +71,7 @@
         {
           path = '''';
           url = "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx";
-          sha256 = "";
+          sha256 = "1b4wszls5ashhhsryf3s4wwhavy17qfcr436hs9a5c0q7j68jhjx";
         }
       ];
     };
@@ -99,7 +99,7 @@
         {
           path = '''';
           url = "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-round-robin-midi_channelize.jsfx";
-          sha256 = "";
+          sha256 = "00lirp64p9hhyk4synjk2rcw8fwx8qbxx5qjf152c68y6n8b73iv";
         }
       ];
     };
@@ -113,7 +113,7 @@
         {
           path = '''';
           url = "https://github.com/juanriccio/Reaperism/raw/b46d4b2d1692ba41c678fe8ae4466d998a9ef3a5/MIDI/MIDI-round-robin-midi_channelize.jsfx";
-          sha256 = "";
+          sha256 = "1f3phy51yjb2ns823yqrsn69xf35fkr7z8qbqfskfn48kaqph6q1";
         }
       ];
     };
@@ -169,7 +169,7 @@
         {
           path = '''';
           url = "https://github.com/juanriccio/Reaperism/raw/b128fcd57c046ff90f10a3f2aea6a782e9e2cb67/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua";
-          sha256 = "";
+          sha256 = "068zd7h6zl4ii2a70b649r1h407fim6cd4c2njc48nvmz4dvd1ky";
         }
       ];
     };
@@ -197,7 +197,7 @@
         {
           path = '''';
           url = "https://github.com/juanriccio/Reaperism/raw/40b5ca23d0de03fee904b59deafbf274fd8f9c91/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua";
-          sha256 = "";
+          sha256 = "00y4lg1ibzm6n9w56q1xlciraq63xxf71fld7al5myrdb4k7hkcl";
         }
       ];
     };
@@ -211,7 +211,7 @@
         {
           path = '''';
           url = "https://github.com/juanriccio/Reaperism/raw/b72f546c2ab963934718a59ff14a29d8fa5daf43/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua";
-          sha256 = "";
+          sha256 = "13wyjndk7zawqi4zb695l29hks5kgz6ap2cfa2bpvcw7r1hy864i";
         }
       ];
     };
@@ -225,7 +225,7 @@
         {
           path = '''';
           url = "https://github.com/juanriccio/Reaperism/raw/2f7d261af306439437de482b3f590290215765d6/ReaScripts/juan_r%20-%20Set%20region%20at%20PLAY%20cursor%20to%20time%20selection.lua";
-          sha256 = "";
+          sha256 = "0g0iwy29ryrjagsjdmk7h8j7inigzvw5pvl7b1h5fgl05hhizdp1";
         }
       ];
     };
@@ -253,7 +253,7 @@
         {
           path = '''';
           url = "https://github.com/juanriccio/Reaperism/raw/3b2637a46e8000bd20bf10a4b338f37798152e62/ReaScripts/juan_r%20-%20Set%20region%20at%20PLAY%20cursor%20to%20time%20selection.lua";
-          sha256 = "";
+          sha256 = "0hbhckyjf1zmimrigw79bkdfk4wkzmvdz1vjc0b4v8hp689fyx5s";
         }
       ];
     };

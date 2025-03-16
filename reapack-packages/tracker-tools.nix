@@ -5554,7 +5554,7 @@
         {
           path = ''Hackey_Sample_Playback.jsfx'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/0bdbaf5a6734fb5e4f92075754a498e87ac619a3/Tracker/Hackey_Sample_Playback.jsfx";
-          sha256 = "";
+          sha256 = "0gj87irjjqrqq6p2bg8yabkpn1y66adsrq3n0835hn2wqd17i3ds";
         }
         {
           path = ''htp_midi.jsfx-inc'';
@@ -5564,12 +5564,12 @@
         {
           path = ''htp_sample_editor.jsfx-inc'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/0bdbaf5a6734fb5e4f92075754a498e87ac619a3/Tracker/htp_sample_editor.jsfx-inc";
-          sha256 = "";
+          sha256 = "1ywalah3lnlvlmsl91pmi68y7wac71vdkj2k4m0wylsacjrr28b7";
         }
         {
           path = ''Hackey Trackey Channel Cycler.jsfx'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/0bdbaf5a6734fb5e4f92075754a498e87ac619a3/Tracker/Hackey%20Trackey%20Channel%20Cycler.jsfx";
-          sha256 = "";
+          sha256 = "0rkfh4mfv0win05fpp99sigfjsj2c8vh71yr77jyqilzfw6rawrr";
         }
       ];
     };
@@ -5588,17 +5588,17 @@
         {
           path = '''';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/cf6db3ee8f6ea35bb060db94e6610860ef7e0c71/Tracker/tracker.lua";
-          sha256 = "";
+          sha256 = "1fai5a777wmw8b2gqyw12858bh82rlkcn1zd14b674h24zra0qgp";
         }
         {
           path = ''hackey_trackey_tracker.lua'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/cf6db3ee8f6ea35bb060db94e6610860ef7e0c71/Tracker/hackey_trackey_tracker.lua";
-          sha256 = "";
+          sha256 = "1zgszrn5nhpsj7lh8687jv5rnx47ilmhx9jbrzk8cfy2aad6f2nz";
         }
         {
           path = ''hackey_trackey_load_sample.lua'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/cf6db3ee8f6ea35bb060db94e6610860ef7e0c71/Tracker/hackey_trackey_load_sample.lua";
-          sha256 = "";
+          sha256 = "02v3xlji3bipms540zn1xmb0mp7cgwcv5ldrr6w5klz6yc1811sb";
         }
         {
           path = ''Hackey_MIDI_Detector.jsfx'';
@@ -5613,12 +5613,12 @@
         {
           path = ''htp_midi.jsfx-inc'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/cf6db3ee8f6ea35bb060db94e6610860ef7e0c71/Tracker/htp_midi.jsfx-inc";
-          sha256 = "";
+          sha256 = "1m63jg69p22hh1a1gkcs3dc8i4dg1zzwrwxn0v8fsr069naqaxvy";
         }
         {
           path = ''htp_sample_editor.jsfx-inc'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/cf6db3ee8f6ea35bb060db94e6610860ef7e0c71/Tracker/htp_sample_editor.jsfx-inc";
-          sha256 = "";
+          sha256 = "1ywalah3lnlvlmsl91pmi68y7wac71vdkj2k4m0wylsacjrr28b7";
         }
         {
           path = ''Hackey Trackey Channel Cycler.jsfx'';
@@ -5637,22 +5637,22 @@
         {
           path = ''scales.lua'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/3f120a9fba8307a6b4335cb89030c56f09db08f2/Tracker/scales.lua";
-          sha256 = "0f4nvj62jxr3i4miqakxnlf0wwdgf0j6y4km12ywfklibf2fx14z";
+          sha256 = "1lz4fayajiwrylsslsw375wgbyrljihwx22vpqw1ca6k8iz49lbl";
         }
         {
           path = '''';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/3f120a9fba8307a6b4335cb89030c56f09db08f2/Tracker/tracker.lua";
-          sha256 = "0qpzqqwgcrws2l967iabbj844c45w6qxxblgrb944y4pifn752rq";
+          sha256 = "0qrjy5gqvlwxvvl0iw7xrl8cixhiy2km326yfw63w9dcsg1ykva0";
         }
         {
           path = ''hackey_trackey_tracker.lua'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/3f120a9fba8307a6b4335cb89030c56f09db08f2/Tracker/hackey_trackey_tracker.lua";
-          sha256 = "0qczjmsg1y5cv0rbv5n2r64932vlw8qsw5nz991as0dpgyfw9wan";
+          sha256 = "1zgszrn5nhpsj7lh8687jv5rnx47ilmhx9jbrzk8cfy2aad6f2nz";
         }
         {
           path = ''hackey_trackey_load_sample.lua'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/3f120a9fba8307a6b4335cb89030c56f09db08f2/Tracker/hackey_trackey_load_sample.lua";
-          sha256 = "13nix9sbxg762w67an2y81crns6ipcmizkvycqwry29javwcw8xr";
+          sha256 = "02v3xlji3bipms540zn1xmb0mp7cgwcv5ldrr6w5klz6yc1811sb";
         }
         {
           path = ''Hackey_MIDI_Detector.jsfx'';
@@ -5672,12 +5672,12 @@
         {
           path = ''htp_sample_editor.jsfx-inc'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/3f120a9fba8307a6b4335cb89030c56f09db08f2/Tracker/htp_sample_editor.jsfx-inc";
-          sha256 = "03a9bf7rsh4cbcldd2caim544y2jz3idmfhs19kidiw6pkrinbhr";
+          sha256 = "1ywalah3lnlvlmsl91pmi68y7wac71vdkj2k4m0wylsacjrr28b7";
         }
         {
           path = ''Hackey Trackey Channel Cycler.jsfx'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/3f120a9fba8307a6b4335cb89030c56f09db08f2/Tracker/Hackey%20Trackey%20Channel%20Cycler.jsfx";
-          sha256 = "0spsdnxgarw4xhjf8ds8rg2fbzvrl1yb743mj4r8dfa7q3qjy35g";
+          sha256 = "0rkfh4mfv0win05fpp99sigfjsj2c8vh71yr77jyqilzfw6rawrr";
         }
       ];
     };
@@ -5696,12 +5696,12 @@
         {
           path = '''';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/26f8eaac41554facf49ba164603a0d5497a5a45b/Tracker/tracker.lua";
-          sha256 = "";
+          sha256 = "03l7ddjs0g3r0yribv5lfsm291gpcd1sv556vq1rki4nypy5m0ll";
         }
         {
           path = ''hackey_trackey_tracker.lua'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/26f8eaac41554facf49ba164603a0d5497a5a45b/Tracker/hackey_trackey_tracker.lua";
-          sha256 = "0qczjmsg1y5cv0rbv5n2r64932vlw8qsw5nz991as0dpgyfw9wan";
+          sha256 = "1zgszrn5nhpsj7lh8687jv5rnx47ilmhx9jbrzk8cfy2aad6f2nz";
         }
         {
           path = ''hackey_trackey_load_sample.lua'';
@@ -5711,17 +5711,17 @@
         {
           path = ''Hackey_MIDI_Detector.jsfx'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/26f8eaac41554facf49ba164603a0d5497a5a45b/Tracker/Hackey_MIDI_Detector.jsfx";
-          sha256 = "13i182xh817g0sai43kl6cch4qwbi05yi8z6iapx501wi02b5fxs";
+          sha256 = "1k5a5pa2cn3h62zyp3ryqx3gw03yrk2acxv5s8r9zcw77sy7f5bc";
         }
         {
           path = ''Hackey_Sample_Playback.jsfx'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/26f8eaac41554facf49ba164603a0d5497a5a45b/Tracker/Hackey_Sample_Playback.jsfx";
-          sha256 = "";
+          sha256 = "0gj87irjjqrqq6p2bg8yabkpn1y66adsrq3n0835hn2wqd17i3ds";
         }
         {
           path = ''htp_midi.jsfx-inc'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/26f8eaac41554facf49ba164603a0d5497a5a45b/Tracker/htp_midi.jsfx-inc";
-          sha256 = "0cf5x53lz5crbnrs87b6d19vcby03b7mdzr6z3fqmvi9wl6kq773";
+          sha256 = "1m63jg69p22hh1a1gkcs3dc8i4dg1zzwrwxn0v8fsr069naqaxvy";
         }
         {
           path = ''htp_sample_editor.jsfx-inc'';
@@ -5814,7 +5814,7 @@
         {
           path = ''hackey_trackey_load_sample.lua'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/fbcdc51ce47c3819e90cf637ecdeb9c55fc386a9/Tracker/hackey_trackey_load_sample.lua";
-          sha256 = "";
+          sha256 = "02v3xlji3bipms540zn1xmb0mp7cgwcv5ldrr6w5klz6yc1811sb";
         }
         {
           path = ''Hackey_MIDI_Detector.jsfx'';
@@ -5839,7 +5839,7 @@
         {
           path = ''Hackey Trackey Channel Cycler.jsfx'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/fbcdc51ce47c3819e90cf637ecdeb9c55fc386a9/Tracker/Hackey%20Trackey%20Channel%20Cycler.jsfx";
-          sha256 = "";
+          sha256 = "0rkfh4mfv0win05fpp99sigfjsj2c8vh71yr77jyqilzfw6rawrr";
         }
       ];
     };
@@ -5853,7 +5853,7 @@
         {
           path = ''scales.lua'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/e16559ceb1858725481503c69d7cec940b219a3b/Tracker/scales.lua";
-          sha256 = "";
+          sha256 = "1lz4fayajiwrylsslsw375wgbyrljihwx22vpqw1ca6k8iz49lbl";
         }
         {
           path = '''';
@@ -5863,12 +5863,12 @@
         {
           path = ''hackey_trackey_tracker.lua'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/e16559ceb1858725481503c69d7cec940b219a3b/Tracker/hackey_trackey_tracker.lua";
-          sha256 = "";
+          sha256 = "1zgszrn5nhpsj7lh8687jv5rnx47ilmhx9jbrzk8cfy2aad6f2nz";
         }
         {
           path = ''hackey_trackey_load_sample.lua'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/e16559ceb1858725481503c69d7cec940b219a3b/Tracker/hackey_trackey_load_sample.lua";
-          sha256 = "13nix9sbxg762w67an2y81crns6ipcmizkvycqwry29javwcw8xr";
+          sha256 = "02v3xlji3bipms540zn1xmb0mp7cgwcv5ldrr6w5klz6yc1811sb";
         }
         {
           path = ''Hackey_MIDI_Detector.jsfx'';
@@ -5878,7 +5878,7 @@
         {
           path = ''Hackey_Sample_Playback.jsfx'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/e16559ceb1858725481503c69d7cec940b219a3b/Tracker/Hackey_Sample_Playback.jsfx";
-          sha256 = "0j9s6qw3s7xjrqxmdmc016ssjj5nnjc4mylks91h4f05hcb2xdfc";
+          sha256 = "07yx0afb04vz2p7spba31cx9m8wlv4y5a36qh3c02zjz9ixw9b5k";
         }
         {
           path = ''htp_midi.jsfx-inc'';
@@ -5888,7 +5888,7 @@
         {
           path = ''htp_sample_editor.jsfx-inc'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/e16559ceb1858725481503c69d7cec940b219a3b/Tracker/htp_sample_editor.jsfx-inc";
-          sha256 = "";
+          sha256 = "0b8hr5s006i0ah9ih9hnv9217k12fbfmfkvpsvgi52qz6rl4v72x";
         }
         {
           path = ''Hackey Trackey Channel Cycler.jsfx'';
@@ -5917,7 +5917,7 @@
         {
           path = ''hackey_trackey_tracker.lua'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/17dd50c6a2596293648d9c3de254561d6ef63856/Tracker/hackey_trackey_tracker.lua";
-          sha256 = "";
+          sha256 = "1zgszrn5nhpsj7lh8687jv5rnx47ilmhx9jbrzk8cfy2aad6f2nz";
         }
         {
           path = ''hackey_trackey_load_sample.lua'';
@@ -5942,7 +5942,7 @@
         {
           path = ''htp_sample_editor.jsfx-inc'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/17dd50c6a2596293648d9c3de254561d6ef63856/Tracker/htp_sample_editor.jsfx-inc";
-          sha256 = "";
+          sha256 = "03nbkfpz6rk9c5fz8i6xd050aq1j0gby13ivbxadqziix6v9ffjf";
         }
         {
           path = ''Hackey Trackey Channel Cycler.jsfx'';
@@ -5966,7 +5966,7 @@
         {
           path = '''';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/9313f2ce01dd03f146b5440587163744a0871604/Tracker/tracker.lua";
-          sha256 = "";
+          sha256 = "16dhjxxj5ya93jwggxmhx4h2pi5pi1qrf06x7l7llnj371lipamz";
         }
         {
           path = ''hackey_trackey_tracker.lua'';
@@ -5986,12 +5986,12 @@
         {
           path = ''Hackey_Sample_Playback.jsfx'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/9313f2ce01dd03f146b5440587163744a0871604/Tracker/Hackey_Sample_Playback.jsfx";
-          sha256 = "";
+          sha256 = "1wgrn3flwgvpii3l812bddx5didhg3q15fcivm1c18w19l6m3qq0";
         }
         {
           path = ''htp_midi.jsfx-inc'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/9313f2ce01dd03f146b5440587163744a0871604/Tracker/htp_midi.jsfx-inc";
-          sha256 = "";
+          sha256 = "1m63jg69p22hh1a1gkcs3dc8i4dg1zzwrwxn0v8fsr069naqaxvy";
         }
         {
           path = ''htp_sample_editor.jsfx-inc'';
@@ -6015,7 +6015,7 @@
         {
           path = ''scales.lua'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/ead2daeb3fe29bc6bfe30ed2bb0f583c62e61fe1/Tracker/scales.lua";
-          sha256 = "0f4nvj62jxr3i4miqakxnlf0wwdgf0j6y4km12ywfklibf2fx14z";
+          sha256 = "1lz4fayajiwrylsslsw375wgbyrljihwx22vpqw1ca6k8iz49lbl";
         }
         {
           path = '''';
@@ -6030,12 +6030,12 @@
         {
           path = ''hackey_trackey_load_sample.lua'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/ead2daeb3fe29bc6bfe30ed2bb0f583c62e61fe1/Tracker/hackey_trackey_load_sample.lua";
-          sha256 = "13nix9sbxg762w67an2y81crns6ipcmizkvycqwry29javwcw8xr";
+          sha256 = "02v3xlji3bipms540zn1xmb0mp7cgwcv5ldrr6w5klz6yc1811sb";
         }
         {
           path = ''Hackey_MIDI_Detector.jsfx'';
           url = "https://github.com/JoepVanlier/Hackey-Trackey/raw/ead2daeb3fe29bc6bfe30ed2bb0f583c62e61fe1/Tracker/Hackey_MIDI_Detector.jsfx";
-          sha256 = "13i182xh817g0sai43kl6cch4qwbi05yi8z6iapx501wi02b5fxs";
+          sha256 = "1k5a5pa2cn3h62zyp3ryqx3gw03yrk2acxv5s8r9zcw77sy7f5bc";
         }
         {
           path = ''Hackey_Sample_Playback.jsfx'';

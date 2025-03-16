@@ -24127,6 +24127,90 @@
         }
       ];
     };
+    saike-protosynth-jsfx-0-55 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saike-protosynth-jsfx-0-55";
+      indexName = "Saike Tools";
+      categoryName = "protosynth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/saike_protosynth.jsfx";
+          sha256 = "0lvm24zlvi4mrj0drxzf9vcfv0i8d6b3s85z6xrchb5qbfkai1nf";
+        }
+        {
+          path = ''protosynth_dependencies/bigfont_caps.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/protosynth_dependencies/bigfont_caps.png";
+          sha256 = "164aim0iy0v6z2rjj7arrcrm5ivr920jsqsb3jkqd1pmkk6663fy";
+        }
+        {
+          path = ''protosynth_dependencies/bigfont_caps3.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/protosynth_dependencies/bigfont_caps3.png";
+          sha256 = "0n39q8mscmi1n06yak863xl2crns6kz98pq9fqmvrpl723c5g1iv";
+        }
+        {
+          path = ''protosynth_dependencies/font.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/protosynth_dependencies/font.png";
+          sha256 = "0ga95pg57y20lrwxlmbsf7sd8vvd5xbkxh2b7fvxb9ylhdihcal7";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_diffusion.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/protosynth_dependencies/saike_proto_diffusion.jsfx-inc";
+          sha256 = "18a4d64xr3kkvzcczfkdwqyvjv39cr1ff2vb93j47ahp9f2lh15x";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_stft_fx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/protosynth_dependencies/saike_proto_stft_fx.jsfx-inc";
+          sha256 = "0fk8fmnsicjsfds3d4yxiximpz2y7p575z8r3gdq64c92j8k1fx3";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/protosynth_dependencies/saike_proto_synth_filters.jsfx-inc";
+          sha256 = "0cqflw3skwxqvavk0h3zj2nzj7pi11lk9ry2vrfgkhahflvzqfx2";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_fx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/protosynth_dependencies/saike_proto_synth_fx.jsfx-inc";
+          sha256 = "1z47d049c3d4vf3gz4mfcp1vszfdh3ckgv110l93cc15fx9mlh2m";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_kp_midi.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/protosynth_dependencies/saike_proto_synth_kp_midi.jsfx-inc";
+          sha256 = "0qk1r8pxhqn1wr9hkfigvr3wpsrakkd2l3n479xkplj9z4k1x2ar";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_os_nl_filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/protosynth_dependencies/saike_proto_synth_os_nl_filters.jsfx-inc";
+          sha256 = "0llg71rpqcl9c0jf12qcbj89nig36af82fiigj45sd68xmwlrbqm";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_oscillators.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/protosynth_dependencies/saike_proto_synth_oscillators.jsfx-inc";
+          sha256 = "01zh7dmwnajmrbv9xq73ngyzrj7aigkppy9hblc21xm8971yghgc";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_pixel_gfx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/protosynth_dependencies/saike_proto_synth_pixel_gfx.jsfx-inc";
+          sha256 = "1p4pwwjdqcyjfaqj41xgn7gnp5aivchsfan1416141rqncfqz7ri";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_spreader.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/protosynth_dependencies/saike_proto_synth_spreader.jsfx-inc";
+          sha256 = "09cjw5mzrwcscml2qz2d9f2n49viydn9nxnsbsc61nbxsh6a8n1h";
+        }
+        {
+          path = ''protosynth_dependencies/saike_proto_synth_wt.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/protosynth_dependencies/saike_proto_synth_wt.jsfx-inc";
+          sha256 = "0srmgkjz9jzisr999bw83p7hz6s9pa4r84rz32nknx58lsrzp6ag";
+        }
+        {
+          path = ''saike_protosynth.jsfx.rpl'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/345e5a8b2a5bcbda3f9da26cae8ac765df72bb6f/protosynth/saike_protosynth.jsfx.rpl";
+          sha256 = "0ivwjpjjnpq3pd9s3pwp7ykp5y7zhf3qkw9qgm8rm0d8sabq32nm";
+        }
+      ];
+    };
     ravager-mb-jsfx-0-01 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "ravager-mb-jsfx-0-01";

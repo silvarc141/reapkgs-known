@@ -14263,6 +14263,20 @@
         }
       ];
     };
+    x-raym-sort-selected-tracks-order-according-to-their-first-item-positions-lua-1-0-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-sort-selected-tracks-order-according-to-their-first-item-positions-lua-1-0-2";
+      indexName = "X-Raym Scripts";
+      categoryName = "Track Properties";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/f82deeb5cd5fa4fe3a096fce7561560aaa8cb7bc/Track%20Properties/X-Raym_Sort%20selected%20tracks%20order%20according%20to%20their%20first%20item%20positions.lua";
+          sha256 = "1ny4wrfkgkkpsnibrjp9d16dnf48q9fh6vh9icpjch1x5gza38qq";
+        }
+      ];
+    };
     x-raym-toggle-selected-tracks-solo-no-undo-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "x-raym-toggle-selected-tracks-solo-no-undo-lua-1-0";
