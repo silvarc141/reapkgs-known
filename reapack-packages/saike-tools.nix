@@ -30071,6 +30071,109 @@
         }
       ];
     };
+    saikedrums-jsfx-0-16 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saikedrums-jsfx-0-16";
+      indexName = "Saike Tools";
+      categoryName = "saikedrums";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/24afad2663087ec362b1d6e4de6607ed03d46b82/saikedrums/saikedrums.jsfx";
+          sha256 = "0krlzhvng69grjr47ya4vw15va38di2j8qqbn97ahvv4cfd93qi6";
+        }
+        {
+          path = ''saikedrums_dependencies/font.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/24afad2663087ec362b1d6e4de6607ed03d46b82/saikedrums/saikedrums_dependencies/font.png";
+          sha256 = "0ga95pg57y20lrwxlmbsf7sd8vvd5xbkxh2b7fvxb9ylhdihcal7";
+        }
+        {
+          path = ''saikedrums_dependencies/saikedrums_basic_filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/24afad2663087ec362b1d6e4de6607ed03d46b82/saikedrums/saikedrums_dependencies/saikedrums_basic_filters.jsfx-inc";
+          sha256 = "0qqp6crh11mjnic81pm084hzz7v2g2i0gmjy75a6sznwmq104v78";
+        }
+        {
+          path = ''saikedrums_dependencies/saikedrums_drum_elements.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/24afad2663087ec362b1d6e4de6607ed03d46b82/saikedrums/saikedrums_dependencies/saikedrums_drum_elements.jsfx-inc";
+          sha256 = "0n92r5y4a9k0zgggiicpmwdgqwxg53q4qq6wcg6l69d2mip3v0p1";
+        }
+        {
+          path = ''saikedrums_dependencies/saikedrums_freq_shift.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/24afad2663087ec362b1d6e4de6607ed03d46b82/saikedrums/saikedrums_dependencies/saikedrums_freq_shift.jsfx-inc";
+          sha256 = "1gcr58cycfbzzzgv1rn0x63w34hkwwxsnk3fyb16sfcnx2qymyvf";
+        }
+        {
+          path = ''saikedrums_dependencies/saikedrums_pixel_gfx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/24afad2663087ec362b1d6e4de6607ed03d46b82/saikedrums/saikedrums_dependencies/saikedrums_pixel_gfx.jsfx-inc";
+          sha256 = "0fbqgd8yjdawb1sjdb7jjm6d33wwk5y34way5wm7kcq7v2f05a18";
+        }
+        {
+          path = ''saikedrums_dependencies/saikedrums_triggered_midi.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/24afad2663087ec362b1d6e4de6607ed03d46b82/saikedrums/saikedrums_dependencies/saikedrums_triggered_midi.jsfx-inc";
+          sha256 = "09byw3sr00axd8daiywzfbazf031frnpgkfmfmkhikr18l3sv4sc";
+        }
+        {
+          path = ''saikedrums.jsfx.rpl'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/24afad2663087ec362b1d6e4de6607ed03d46b82/saikedrums/saikedrums.jsfx.rpl";
+          sha256 = "0ryvdxdwb5hhx9j9bcmn6pggaamaas5djizqa27jyblhgwy6vkqx";
+        }
+      ];
+    };
+    saikedrums-jsfx-0-18 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saikedrums-jsfx-0-18";
+      indexName = "Saike Tools";
+      categoryName = "saikedrums";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c1393ad62a7d1390f82afa75a5783b32bab2d37c/saikedrums/saikedrums.jsfx";
+          sha256 = "0l2yyp8cp04x9m6m705npq5rzni7d0dc1495w25i8abhc3dsrpvq";
+        }
+        {
+          path = ''saikedrums_dependencies/font.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c1393ad62a7d1390f82afa75a5783b32bab2d37c/saikedrums/saikedrums_dependencies/font.png";
+          sha256 = "0ga95pg57y20lrwxlmbsf7sd8vvd5xbkxh2b7fvxb9ylhdihcal7";
+        }
+        {
+          path = ''saikedrums_dependencies/saikedrums_basic_filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c1393ad62a7d1390f82afa75a5783b32bab2d37c/saikedrums/saikedrums_dependencies/saikedrums_basic_filters.jsfx-inc";
+          sha256 = "0qqp6crh11mjnic81pm084hzz7v2g2i0gmjy75a6sznwmq104v78";
+        }
+        {
+          path = ''saikedrums_dependencies/saikedrums_drum_elements.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c1393ad62a7d1390f82afa75a5783b32bab2d37c/saikedrums/saikedrums_dependencies/saikedrums_drum_elements.jsfx-inc";
+          sha256 = "0d7hin1m4hbh813zrw70kmxq134cncw63lz1ai88j1j378gz2w5a";
+        }
+        {
+          path = ''saikedrums_dependencies/saikedrums_freq_shift.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c1393ad62a7d1390f82afa75a5783b32bab2d37c/saikedrums/saikedrums_dependencies/saikedrums_freq_shift.jsfx-inc";
+          sha256 = "1gcr58cycfbzzzgv1rn0x63w34hkwwxsnk3fyb16sfcnx2qymyvf";
+        }
+        {
+          path = ''saikedrums_dependencies/saikedrums_pixel_gfx.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c1393ad62a7d1390f82afa75a5783b32bab2d37c/saikedrums/saikedrums_dependencies/saikedrums_pixel_gfx.jsfx-inc";
+          sha256 = "1klqmc7gikbi6dhhbg0mvil82cvpdv6r244s41f0bisd3f6psfvy";
+        }
+        {
+          path = ''saikedrums_dependencies/saikedrums_sample_playback.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c1393ad62a7d1390f82afa75a5783b32bab2d37c/saikedrums/saikedrums_dependencies/saikedrums_sample_playback.jsfx-inc";
+          sha256 = "0zyk80za1xfxzg00vj8ky76mc3j64b0ssmk6avh067dynl4x97kc";
+        }
+        {
+          path = ''saikedrums_dependencies/saikedrums_triggered_midi.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c1393ad62a7d1390f82afa75a5783b32bab2d37c/saikedrums/saikedrums_dependencies/saikedrums_triggered_midi.jsfx-inc";
+          sha256 = "09byw3sr00axd8daiywzfbazf031frnpgkfmfmkhikr18l3sv4sc";
+        }
+        {
+          path = ''saikedrums.jsfx.rpl'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/c1393ad62a7d1390f82afa75a5783b32bab2d37c/saikedrums/saikedrums.jsfx.rpl";
+          sha256 = "0ryvdxdwb5hhx9j9bcmn6pggaamaas5djizqa27jyblhgwy6vkqx";
+        }
+      ];
+    };
     satanverb-jsfx-0-01 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "satanverb-jsfx-0-01";

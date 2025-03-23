@@ -4183,7 +4183,7 @@
         {
           path = ''December Synth (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/DecemberSynthAdd/December%20Synth%20(Tukan)%204.png";
-          sha256 = "1051adyrgvvybab9yrq263s04nbani6g9biqaqparvfw90scybqv";
+          sha256 = "0qjnfrf4f269s2f133f3lgja1mdm0m9a6lpzlaw8i27cwgi8x7g4";
         }
         {
           path = ''DecemberSynthAdd/fft_real_synth.jsfx-inc'';
@@ -7128,7 +7128,7 @@
         {
           path = ''Matrix Delay S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/Matrix%20Delay%20S2%20(Tukan).png";
-          sha256 = "1ybq3dv25lsh1bvb90c9d2pi0d5hpc0r7xxsck4s8jkbmygf0qq4";
+          sha256 = "";
         }
         {
           path = ''Aux Mixer S2 (Tukan)'';
@@ -7138,22 +7138,22 @@
         {
           path = ''S2GFX/tk_lib 256.jsfx-inc'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/tk_lib%20256.jsfx-inc";
-          sha256 = "0pkd9ckzmg5idjh2iqrzq4knsj3vxhswhyrvldhwgmd6z8nn9c8c";
+          sha256 = "";
         }
         {
           path = ''S2GFX/mixer_but.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/mixer_but.png";
-          sha256 = "1z29jyigr6l3220kxxpaxgzakwhmdksi0i11s58ghag2f4k70zm2";
+          sha256 = "";
         }
         {
           path = ''S2GFX/mixer_but2.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/mixer_but2.png";
-          sha256 = "09n8wviy3lpqmf85kldxxam04gajvj9c8x3gsxdmsfsq49i3q2gg";
+          sha256 = "";
         }
         {
           path = ''S2GFX/mixer_vol.png'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/mixer_vol.png";
-          sha256 = "15zjl7l92imrafmd92sn2hq5qm6rl8mqlzjwgg2km5kfmxs5w5dh";
+          sha256 = "";
         }
         {
           path = ''Blue Lexikan S2 (Tukan)'';
@@ -10306,7 +10306,7 @@
         {
           path = ''New Treasure S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/New%20Treasure%20S2%20(Tukan).png";
-          sha256 = "1lf0q12v0r9y0ym1n1fzflr4av51c503bcby7k9mzb76m09jp1xy";
+          sha256 = "";
         }
         {
           path = ''ABXNULL S2 (Tukan)'';
@@ -13379,7 +13379,7 @@
         {
           path = ''SumChannel S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SumChannel%20S2%20(Tukan)113.png";
-          sha256 = "0w4w4yc4nalr93haa4g0zdh6g5x3ib54n24m0bwzqzp0xa7yhar6";
+          sha256 = "";
         }
         {
           path = ''S2GFX/tk-Comp_Lib.jsfx-inc'';
@@ -16342,7 +16342,7 @@
         {
           path = ''SumChannel S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SumChannel%20S2%20(Tukan)1.png";
-          sha256 = "1lf593x83xngabcyrc3ij3b8c79fkgpfl3gy2s9y341prhp07hbi";
+          sha256 = "1ijlvbkg209m3djbrigb78pnlgarz6zdmq577a4d3cqgxjh1cv8l";
         }
         {
           path = ''Guitar Station S2 (Tukan)'';
@@ -17806,7 +17806,7 @@
         {
           path = ''SumChannel S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SumChannel%20S2%20(Tukan)1.png";
-          sha256 = "1lf593x83xngabcyrc3ij3b8c79fkgpfl3gy2s9y341prhp07hbi";
+          sha256 = "1ijlvbkg209m3djbrigb78pnlgarz6zdmq577a4d3cqgxjh1cv8l";
         }
         {
           path = ''Guitar Station S2 (Tukan)'';
@@ -19260,7 +19260,7 @@
         {
           path = ''SumChannel S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/SumChannel%20S2%20(Tukan)1.png";
-          sha256 = "1lf593x83xngabcyrc3ij3b8c79fkgpfl3gy2s9y341prhp07hbi";
+          sha256 = "1ijlvbkg209m3djbrigb78pnlgarz6zdmq577a4d3cqgxjh1cv8l";
         }
         {
           path = ''Guitar Station S2 (Tukan)'';

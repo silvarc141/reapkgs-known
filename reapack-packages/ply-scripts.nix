@@ -246,6 +246,20 @@
         }
       ];
     };
+    ply-playhead-vs-selected-track-items-and-markers-window-lua-1-2-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "ply-playhead-vs-selected-track-items-and-markers-window-lua-1-2-0";
+      indexName = "ply Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/ply/ReaScripts/raw/c6272281b98d970362e8ec526d78075b343c1e14/Various/ply_Playhead%20vs%20selected%20track%20items%20and%20markers%20window.lua";
+          sha256 = "0hcsdmq9kfp4nghb8xar4mi2zqvac58prkz2bj8xif7kjhrmfxys";
+        }
+      ];
+    };
     ply-transport-startstop-recording-safe-eel-1-2-1 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "ply-transport-startstop-recording-safe-eel-1-2-1";

@@ -16232,6 +16232,110 @@
         }
       ];
     };
+    midi-transfer-lua-1-39 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "midi-transfer-lua-1-39";
+      indexName = "Daniel Lumertz Scripts";
+      categoryName = "MIDI Transfer";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/MIDI%20Transfer.lua";
+          sha256 = "1hcy04x8y0wd2bxv5hfzk04xkrmr6x3zijlb0kz1aimnysbcaxa3";
+        }
+        {
+          path = ''Clear MIDI Transfer Settings at Current Project.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/Clear%20MIDI%20Transfer%20Settings%20at%20Current%20Project.lua";
+          sha256 = "09xlh7pp75ilw0sv5swmj86l5df73k468lggsiqh1y4w7487dkx5";
+        }
+        {
+          path = ''Table to string.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/Table%20to%20string.lua";
+          sha256 = "04x7babnjklb3pgh1f6l56gp625aq523k30hijkg5wc2rml76cvp";
+        }
+        {
+          path = ''Core.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/Core.lua";
+          sha256 = "0g2s888hqard1725jbh2ysrqpa7xhq8raws1kf20zh4wa6hj2lbk";
+        }
+        {
+          path = ''General Functions.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/General%20Functions.lua";
+          sha256 = "0f662zp597wh9qxm9ww039qi485vqka17951g64ng93h52fh7vkj";
+        }
+        {
+          path = ''GUI.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/GUI.lua";
+          sha256 = "161h4j9fa23pyrjqn79yfzwr0k47mcvnxidcs5y94bmvpfykwff1";
+        }
+        {
+          path = ''main.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/main.lua";
+          sha256 = "181pgaws9rx6dmyzzpl0260qlm7nidgn8sj53y8na4yqqx04n1l9";
+        }
+        {
+          path = ''midi_lua.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/midi_lua.lua";
+          sha256 = "1783ymwxp3ifyqdvqj8f88fsinpbh68p4g66vlj8bshw7g70ki8d";
+        }
+        {
+          path = ''Reaper Functions.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/Reaper%20Functions.lua";
+          sha256 = "08y299zc71sr61wpfgr322c6cyps14j6wc4rbzbcdc14i71y40f6";
+        }
+        {
+          path = ''map_func.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/map_func.lua";
+          sha256 = "1labzwpn6p7lalxf9x5m34m442x3iqc27bg2wpyrq8w5flgaylmn";
+        }
+        {
+          path = ''Modules/Window - GetUserInputs.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/Modules/Window%20-%20GetUserInputs.lua";
+          sha256 = "1p4k9m95acmmzn9whic4ysrl3w6w8gxciicvdb1lyjkgn9glgbkn";
+        }
+        {
+          path = ''Classes/Class - Button.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/Classes/Class%20-%20Button.lua";
+          sha256 = "0isiw1wllbqrmbj5b8ysg30wacc45gs1yd88z2cij4ypczd2dzrd";
+        }
+        {
+          path = ''Classes/Class - Label.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/Classes/Class%20-%20Label.lua";
+          sha256 = "16shywmzkl3smjq7iwx5g6xwm5q13k5p92dwnzzbjx7vrjbx1cjb";
+        }
+        {
+          path = ''Classes/Class - Menubar.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/Classes/Class%20-%20Menubar.lua";
+          sha256 = "02z8qbcc8r759djxgaln2fi00nx70mq078mchp4f50p7fk2cx38f";
+        }
+        {
+          path = ''Classes/Class - Menubox.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/Classes/Class%20-%20Menubox.lua";
+          sha256 = "17jdps3bjn3in44km4x7032mmw21p2zxhn9g13bvgvjslbwgga0k";
+        }
+        {
+          path = ''Classes/Class - Options.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/Classes/Class%20-%20Options.lua";
+          sha256 = "0651grac1l39ris5cqdsdbdl3p7hx840rxaknbf0pbgvvxil7zzx";
+        }
+        {
+          path = ''Classes/Class - Tabs.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/Classes/Class%20-%20Tabs.lua";
+          sha256 = "134d1jaxh315nzwdqzv62imbw5lknv7fv603ibxwwhjnsh6zvkpr";
+        }
+        {
+          path = ''Classes/Class - TextEditor.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/Classes/Class%20-%20TextEditor.lua";
+          sha256 = "0a6j18lfjfklgchik3vkygi4a8s4mnpj1v9avrh9i9jd4846w925";
+        }
+        {
+          path = ''Classes/Class - Textbox.lua'';
+          url = "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/64b77820e6e8ec436514b3d5451b70adfcf57cec/MIDI%20Transfer/Classes/Class%20-%20Textbox.lua";
+          sha256 = "06xlarn9f21i0fidrc1m7n3hsb6j4yh4bh1v65sf47la8cw0h6iy";
+        }
+      ];
+    };
     copy-paste-midi-lua-0-1 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "copy-paste-midi-lua-0-1";

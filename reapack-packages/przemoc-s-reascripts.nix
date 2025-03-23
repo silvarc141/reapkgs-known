@@ -29,7 +29,7 @@
         {
           path = '''';
           url = "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Cursor/PPP%20-%20Move%20edit%20cursor%20right%20by%20time%20selection%20length.eel";
-          sha256 = "1zqp0xmp7zdbjflknp0kff8bzpdz2y6a13rzx6i6khjlwpl2nbwf";
+          sha256 = "";
         }
       ];
     };
@@ -57,7 +57,7 @@
         {
           path = '''';
           url = "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Add%20all%20items%20on%20the%20right%20of%20edit%20cursor%20to%20selection.eel";
-          sha256 = "0yhilr8wik2xdlrd5nk0b1v8sbyywdq86q5y60ikih3lknjf9mbv";
+          sha256 = "";
         }
       ];
     };
@@ -85,7 +85,7 @@
         {
           path = '''';
           url = "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Add%20whole%20items%20on%20the%20left%20of%20edit%20cursor%20to%20selection.eel";
-          sha256 = "1raa2y47kq5qgv8yia8wv9krzr3d7x74af6n02wji2igdq3qs0p4";
+          sha256 = "";
         }
       ];
     };
@@ -99,7 +99,7 @@
         {
           path = '''';
           url = "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Add%20whole%20items%20on%20the%20right%20of%20edit%20cursor%20to%20selection.eel";
-          sha256 = "0dyr0qhs8f10b6xwgkbs3z5izz7ri3k9gxdqqzg2kqaa8ada4wbw";
+          sha256 = "";
         }
       ];
     };
@@ -127,7 +127,7 @@
         {
           path = '''';
           url = "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20left%20edge%20of%20selected%20items%20left%20by%20time%20selection%20length.eel";
-          sha256 = "0r7x4s2wnfv19vrrmpzqf92fahvggqs5m6c3f05q39nbx8905n20";
+          sha256 = "1v723xzd8x68vmy254b8g9n598pxrn5pz2wn2j8369s9lvaix3dz";
         }
       ];
     };
@@ -169,7 +169,7 @@
         {
           path = '''';
           url = "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20right%20edge%20of%20selected%20items%20left%20by%20time%20selection%20length.eel";
-          sha256 = "05077av2iqhr536sj2f9j12xnc3mmsck9n7xjh4s65ppfx0wc04y";
+          sha256 = "0y1d6ph7addl2hj63jlml54lx92c1d3jfla2ay3s0ahwm688701y";
         }
       ];
     };
@@ -225,7 +225,7 @@
         {
           path = '''';
           url = "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Unselect%20all%20items%20on%20the%20left%20of%20edit%20cursor.eel";
-          sha256 = "16461xnxizr5bb5dbw713v371sdz5z7yvibgl8ihdi2qvfij67im";
+          sha256 = "1dkmjylf39acp5vfa0pgjg8phd49idd2z2763h88bizrz979vbh3";
         }
       ];
     };

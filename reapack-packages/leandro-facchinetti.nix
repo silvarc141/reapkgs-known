@@ -15,7 +15,7 @@
         {
           path = ''leafac_Volume (Gain) (Trim) (Mixer Control Panel - MCP) (Track Control Panel - TCP)/leafac_Volume (Gain) (Trim) (Mixer Control Panel - MCP) (Track Control Panel - TCP).jsfx'';
           url = "https://github.com/leafac/reaper/raw/f8e9c576273eaf997c534487aff8d6cbc5f9c559/Effects/leafac_Volume%20(Gain)%20(Trim)%20(Mixer%20Control%20Panel%20-%20MCP)%20(Track%20Control%20Panel%20-%20TCP).jsfx";
-          sha256 = "0ny64w00cpsh33kv9i3bpximwfl6km8hasiclzv5c8ankvqn0n6y";
+          sha256 = "";
         }
         {
           path = ''leafac_Volume (Gain) (Trim) (Mixer Control Panel - MCP) (Track Control Panel - TCP)/leafac.jsfx-inc'';
@@ -39,7 +39,7 @@
         {
           path = ''leafac_Volume (Gain) (Trim) (Mixer Control Panel - MCP) (Track Control Panel - TCP)/leafac.jsfx-inc'';
           url = "https://github.com/leafac/reaper/raw/70dbcab08a5183cbc458c9ba2aa3cdd19569e7e3/Effects/leafac.jsfx-inc";
-          sha256 = "0a7ckyin22m4yhx6pspx44v6p2ni0k9zvvpya0r5pvff89l2rlii";
+          sha256 = "";
         }
       ];
     };
@@ -58,7 +58,7 @@
         {
           path = ''leafac_Waveform/leafac.jsfx-inc'';
           url = "https://github.com/leafac/reaper/raw/67af35d6f1120740a20a8cbb851944aaf9819da9/Effects/leafac.jsfx-inc";
-          sha256 = "10yy0vy9ia6j5wxq77fjxkb4kx4mdapd1897kzr1iz5q7gf0p7k7";
+          sha256 = "";
         }
       ];
     };
@@ -77,7 +77,7 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/7e9a83b52be2bb82aa4f02ee8e3768fff241faa7/Effects/leafac.jsfx-inc";
-          sha256 = "0kr1rllpmf6wdcn1ar0vli1wnr8f4ych6ciyhk3vxk8qjyi3k8pb";
+          sha256 = "1x8bminlvlia1xwd0ybqgj7rzayb0i9j9l8sr0ajjd45f5fwahzc";
         }
       ];
     };
@@ -91,7 +91,7 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/f508c2e3fd213f03b5c628b20bed4bdc048602d1/Scripts/leafac_Duplicate%20tracks%20without%20items.lua";
-          sha256 = "1agx1mpz5hwlj3ggy16xbyg92csb8r9nx1kkn8zqz9k0wpalp0hp";
+          sha256 = "0lmxz2mrwv7h2swm3qcs9m21ay54v9mgf05i7iyfi1shi93x8lkb";
         }
       ];
     };
@@ -105,7 +105,7 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/6ba33ef0ddb9ad3205049ff89eea872cca62f911/Scripts/leafac_Play%20from%20___%20to%20___%20in%20loop%20for%20___%20times%20and%20then%20unloop.lua";
-          sha256 = "1q4gk6y0aw8ga1m886svpi5pqysjvadvl7v39qxb8hycjvy75s61";
+          sha256 = "11185qscsyzw12p8vm7dsmnw2x0azpd5szia4ccn076ygpz16d7m";
         }
       ];
     };
@@ -119,7 +119,7 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/b5c56056889061e7d093db8e8a6abe108c5e1c1b/Scripts/leafac_Copy%20track%20___,%20item%20___%20and%20paste%20on%20new%20track,%20measure%20___.lua";
-          sha256 = "1gydviqfsq7pa030p53qp3ry5lmqk86awirih8qlli0c0zmjdan0";
+          sha256 = "0byj0d07id0a1xqqxd21fh4absahv4j9bm1kg7cap6qjg5hgpayy";
         }
       ];
     };
@@ -826,12 +826,12 @@
         {
           path = ''leafac_Prepare project for audio editing....lua'';
           url = "https://github.com/leafac/reaper/raw/f04d46268d3f6c7832bf69485fadc108b7d48f88/Scripts/leafac_Prepare%20project%20for%20editing....lua";
-          sha256 = "04yr5hkn4bfzm60fxdjwirxa5czkhzp5jlyipavb2mmcq03mxlki";
+          sha256 = "";
         }
         {
           path = ''leafac_Prepare project for video editing....lua'';
           url = "https://github.com/leafac/reaper/raw/f04d46268d3f6c7832bf69485fadc108b7d48f88/Scripts/leafac_Prepare%20project%20for%20editing....lua";
-          sha256 = "04yr5hkn4bfzm60fxdjwirxa5czkhzp5jlyipavb2mmcq03mxlki";
+          sha256 = "";
         }
       ];
     };
@@ -883,12 +883,12 @@
         {
           path = ''leafac_Set grid lines on.lua'';
           url = "https://github.com/leafac/reaper/raw/396820ee36386e1b9d8fdc7f8ee22a7d685cf2d8/Scripts/leafac_Set%20grid%20lines.lua";
-          sha256 = "0lvpjay1sam1iz817zhl6ybp4fjqpirplxpih0zd3p0nsp0d5kwv";
+          sha256 = "";
         }
         {
           path = ''leafac_Set grid lines off.lua'';
           url = "https://github.com/leafac/reaper/raw/396820ee36386e1b9d8fdc7f8ee22a7d685cf2d8/Scripts/leafac_Set%20grid%20lines.lua";
-          sha256 = "0lvpjay1sam1iz817zhl6ybp4fjqpirplxpih0zd3p0nsp0d5kwv";
+          sha256 = "";
         }
       ];
     };
@@ -902,12 +902,12 @@
         {
           path = ''leafac_Set preserve pitch in audio items when changing master playrate on.lua'';
           url = "https://github.com/leafac/reaper/raw/396820ee36386e1b9d8fdc7f8ee22a7d685cf2d8/Scripts/leafac_Set%20preserve%20pitch%20in%20audio%20items%20when%20changing%20master%20playrate.lua";
-          sha256 = "180m750w5q8qskw6r7c1awwgikwnbnxhwqqwr7ks3qv73m73vshw";
+          sha256 = "";
         }
         {
           path = ''leafac_Set preserve pitch in audio items when changing master playrate off.lua'';
           url = "https://github.com/leafac/reaper/raw/396820ee36386e1b9d8fdc7f8ee22a7d685cf2d8/Scripts/leafac_Set%20preserve%20pitch%20in%20audio%20items%20when%20changing%20master%20playrate.lua";
-          sha256 = "180m750w5q8qskw6r7c1awwgikwnbnxhwqqwr7ks3qv73m73vshw";
+          sha256 = "";
         }
       ];
     };
@@ -921,7 +921,7 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/38fe6a4c98495ca0758b9645d0be37ee1b9c552b/Scripts/leafac_Play%20or%20stop%20(Move%20edit%20cursor%20to%20play%20cursor).lua";
-          sha256 = "1g1rbr55xa2yncrhazmi3cz9xjlizwf825x8valf94adiiklcxgz";
+          sha256 = "";
         }
       ];
     };
@@ -935,7 +935,7 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/492513d73936be4c0f4b29b6dfc830679f5d0e69/Scripts/leafac_Play%20or%20stop%20(Move%20edit%20cursor%20to%20play%20cursor).lua";
-          sha256 = "0375ijj5v01ncd7hx7h1bd1ijxvvns76lzlqcbdffw297gc2bdvj";
+          sha256 = "";
         }
       ];
     };
@@ -949,7 +949,7 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/38fe6a4c98495ca0758b9645d0be37ee1b9c552b/Scripts/leafac_Play%20from%20start%20of%20time%20selection%20or%20edit%20cursor.lua";
-          sha256 = "0i8gq1i5jfrgx4yd4a6d016677pnchd531wplq7757640j9xywah";
+          sha256 = "";
         }
       ];
     };
@@ -963,7 +963,7 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/492513d73936be4c0f4b29b6dfc830679f5d0e69/Scripts/leafac_Play%20from%20start%20of%20time%20selection%20or%20edit%20cursor.lua";
-          sha256 = "0xdsn480m884x47b8yrsdkqcys8nqdc3cmf7rfjmjw0pllm0ff3q";
+          sha256 = "";
         }
       ];
     };
@@ -982,7 +982,7 @@
         {
           path = ''leafac_Ungroup tracks from within folders.lua'';
           url = "https://github.com/leafac/reaper/raw/112eb8866609b2b00ff87c44accae6de62908d1d/Scripts/leafac_Ungroup%20tracks%20from%20within%20folders.lua";
-          sha256 = "00pr5dx5in8ag9w545c2pqqw8340l2dwj5n7a62gfsw4ck7jdwj8";
+          sha256 = "";
         }
       ];
     };
@@ -996,42 +996,42 @@
         {
           path = ''leafac_Prepare selected items for editing....lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
         {
           path = ''leafac_Prepare selected items for editing (options)....lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
         {
           path = ''leafac_Truncate silence in selected items....lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
         {
           path = ''leafac_Truncate silence in selected items (options)....lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
         {
           path = ''leafac_Truncate silence in selected items and trim....lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
         {
           path = ''leafac_Truncate silence in selected items and trim (options)....lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
         {
           path = ''leafac_Remove gaps between selected items (Reposition selected items across tracks).lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
         {
           path = ''leafac_Remove gaps between selected items (Reposition selected items across tracks) (options)....lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
       ];
     };

@@ -193,7 +193,7 @@
         {
           path = ''Lokasenna_GUI Library/Set Lokasenna_GUI library.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/885790ed61bbfa558909fea6d7d647edda094f51/Development/Lokasenna_GUI%20Library/Set%20Lokasenna_GUI%20library.lua";
-          sha256 = "0qdm30l5iszilr4akbqy08x7c4fkp40ryz1mgzbaz09km42ywca4";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Button.lua'';
@@ -203,27 +203,27 @@
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Frame.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/885790ed61bbfa558909fea6d7d647edda094f51/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Frame.lua";
-          sha256 = "1rv1kq3vzsxr336zjdnxcrn8ks702jrp4ndg3paknais5wk31lkp";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Knob.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/885790ed61bbfa558909fea6d7d647edda094f51/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Knob.lua";
-          sha256 = "1hyb4938bif68l9wkymjvx3vgisfiwcc8j7vygdlzi8xpxbsam7z";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Label.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/885790ed61bbfa558909fea6d7d647edda094f51/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Label.lua";
-          sha256 = "16shywmzkl3smjq7iwx5g6xwm5q13k5p92dwnzzbjx7vrjbx1cjb";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Listbox.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/885790ed61bbfa558909fea6d7d647edda094f51/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Listbox.lua";
-          sha256 = "01v94515zfcfmcy061q2j4ac87sr0b0fb4zm4c3vfl8hy3mcja3y";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Menubar.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/885790ed61bbfa558909fea6d7d647edda094f51/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Menubar.lua";
-          sha256 = "02z8qbcc8r759djxgaln2fi00nx70mq078mchp4f50p7fk2cx38f";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Menubox.lua'';
@@ -238,7 +238,7 @@
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Slider.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/885790ed61bbfa558909fea6d7d647edda094f51/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Slider.lua";
-          sha256 = "0m1yhr5rpk3rb1r3ww4acnpky1aj2fkxrmjiljjc60rzayh8d6h6";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Tabs.lua'';
@@ -253,22 +253,22 @@
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Textbox.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/885790ed61bbfa558909fea6d7d647edda094f51/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Textbox.lua";
-          sha256 = "042m20p1jm7p5wpgwbgrq3hzg78q5axk1fp07pxcf6wvb84pfp2p";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Window.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/885790ed61bbfa558909fea6d7d647edda094f51/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Window.lua";
-          sha256 = "166f7qynsin5nx4fj23w12hszpy6zsyw2b21gq4951ngb6paw9z2";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/885790ed61bbfa558909fea6d7d647edda094f51/Development/Lokasenna_GUI%20Library/Core.lua";
-          sha256 = "0ybix1kgcbi6vv59ybvq5idk6jjz1fnb73sq7400ir74yg38j9wj";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Modules/Window - GetUserInputs.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/885790ed61bbfa558909fea6d7d647edda094f51/Development/Lokasenna_GUI%20Library/Modules/Window%20-%20GetUserInputs.lua";
-          sha256 = "1p4k9m95acmmzn9whic4ysrl3w6w8gxciicvdb1lyjkgn9glgbkn";
+          sha256 = "";
         }
       ];
     };
@@ -282,82 +282,82 @@
         {
           path = ''Lokasenna_GUI Library/Set Lokasenna_GUI library.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Set%20Lokasenna_GUI%20library.lua";
-          sha256 = "0qdm30l5iszilr4akbqy08x7c4fkp40ryz1mgzbaz09km42ywca4";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Button.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Button.lua";
-          sha256 = "0isiw1wllbqrmbj5b8ysg30wacc45gs1yd88z2cij4ypczd2dzrd";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Frame.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Frame.lua";
-          sha256 = "1rv1kq3vzsxr336zjdnxcrn8ks702jrp4ndg3paknais5wk31lkp";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Knob.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Knob.lua";
-          sha256 = "1hyb4938bif68l9wkymjvx3vgisfiwcc8j7vygdlzi8xpxbsam7z";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Label.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Label.lua";
-          sha256 = "16shywmzkl3smjq7iwx5g6xwm5q13k5p92dwnzzbjx7vrjbx1cjb";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Listbox.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Listbox.lua";
-          sha256 = "01v94515zfcfmcy061q2j4ac87sr0b0fb4zm4c3vfl8hy3mcja3y";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Menubar.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Menubar.lua";
-          sha256 = "02z8qbcc8r759djxgaln2fi00nx70mq078mchp4f50p7fk2cx38f";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Menubox.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Menubox.lua";
-          sha256 = "17jdps3bjn3in44km4x7032mmw21p2zxhn9g13bvgvjslbwgga0k";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Options.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Options.lua";
-          sha256 = "1m09sis990y34s00wx93nvjkjyh7vdbpj2q48yr1hisi2ncfdgxd";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Slider.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Slider.lua";
-          sha256 = "0m1yhr5rpk3rb1r3ww4acnpky1aj2fkxrmjiljjc60rzayh8d6h6";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Tabs.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Tabs.lua";
-          sha256 = "134d1jaxh315nzwdqzv62imbw5lknv7fv603ibxwwhjnsh6zvkpr";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - TextEditor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20TextEditor.lua";
-          sha256 = "11k735amjkw841vk0hivdk8pw2kx7pnc5qw57lnpqax4xll827cn";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Textbox.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Textbox.lua";
-          sha256 = "042m20p1jm7p5wpgwbgrq3hzg78q5axk1fp07pxcf6wvb84pfp2p";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Window.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Window.lua";
-          sha256 = "166f7qynsin5nx4fj23w12hszpy6zsyw2b21gq4951ngb6paw9z2";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Core.lua";
-          sha256 = "1f23khd9wgifdcryix052my9lzs4r4pwgky72fbgl1f4rcpggyg0";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Modules/Window - GetUserInputs.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5d71cf88709608e07bc71799f94b4b6b67cd0e5b/Development/Lokasenna_GUI%20Library/Modules/Window%20-%20GetUserInputs.lua";
-          sha256 = "1p4k9m95acmmzn9whic4ysrl3w6w8gxciicvdb1lyjkgn9glgbkn";
+          sha256 = "0jkjhvy7pg4m1fwjwbxfy4r27qxnhjwz0f26q4y0rqlq73d4zzsp";
         }
       ];
     };
@@ -376,7 +376,7 @@
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Button.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5b2b9cf58d1ab32caa0fcba4da729d9039036e0c/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Button.lua";
-          sha256 = "0isiw1wllbqrmbj5b8ysg30wacc45gs1yd88z2cij4ypczd2dzrd";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Frame.lua'';
@@ -391,17 +391,17 @@
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Label.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5b2b9cf58d1ab32caa0fcba4da729d9039036e0c/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Label.lua";
-          sha256 = "16shywmzkl3smjq7iwx5g6xwm5q13k5p92dwnzzbjx7vrjbx1cjb";
+          sha256 = "";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Listbox.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5b2b9cf58d1ab32caa0fcba4da729d9039036e0c/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Listbox.lua";
-          sha256 = "0sanw00nk4jb2kqhl2n58k2a9s4snn46dlx38gaqnapbiw2vxx2m";
+          sha256 = "1rxnd5p44dq3sa4n3wggxwgf6a5c5sh46q2f2yvzkm17ffb32zgf";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Menubar.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5b2b9cf58d1ab32caa0fcba4da729d9039036e0c/Development/Lokasenna_GUI%20Library/Classes/Class%20-%20Menubar.lua";
-          sha256 = "02z8qbcc8r759djxgaln2fi00nx70mq078mchp4f50p7fk2cx38f";
+          sha256 = "1bz1d5mjwik83iyvm8w4vg35i2w0c0ix2kxbs23z7r8l3haazjbk";
         }
         {
           path = ''Lokasenna_GUI Library/Classes/Class - Menubox.lua'';
@@ -1727,6 +1727,20 @@
         }
       ];
     };
+    zaibuyidao-find-duplicate-items-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-find-duplicate-items-lua-1-0";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Items Editing";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/33988506c1bb8c2897779180b7f1bb21e501e4e9/Items%20Editing/zaibuyidao_Find%20Duplicate%20Items.lua";
+          sha256 = "16q1yqi18jpmmkp1jy96xar8afg0k00grsqbgpsqgn101aav2s23";
+        }
+      ];
+    };
     zaibuyidao-humanize-item-volume-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "zaibuyidao-humanize-item-volume-lua-1-0";
@@ -2357,6 +2371,20 @@
         }
       ];
     };
+    zaibuyidao-locate-items-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-locate-items-lua-1-0";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Items Editing";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/33988506c1bb8c2897779180b7f1bb21e501e4e9/Items%20Editing/zaibuyidao_Locate%20Items.lua";
+          sha256 = "0j3m1rxlzd46im028yd300s0si55r0kcps0sf7b4w5nc9ms2v9jd";
+        }
+      ];
+    };
     zaibuyidao-move-items-to-track-in-track-row-order-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "zaibuyidao-move-items-to-track-in-track-row-order-lua-1-0";
@@ -2479,7 +2507,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/41afbc7635b9ef2a882b4be2168bc52525e3d1d9/Items%20Editing/zaibuyidao_Move%20Selected%20Items.lua";
-          sha256 = "13gz5i94jj7z2vcxrm6pdm232w6xncv69hh6n4i78chsb4hr77fi";
+          sha256 = "";
         }
       ];
     };
@@ -2493,7 +2521,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3cd3d7d786cae21ad492f921d986023ab0facab3/Items%20Editing/zaibuyidao_Move%20Selected%20Items.lua";
-          sha256 = "09ym8rffdq6f2mvi5kkmv38zwmw8l0y4hpi1gcqwiqy2ysrpr6vg";
+          sha256 = "";
         }
       ];
     };
@@ -2535,7 +2563,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/21ccd6c12f21533cd8e91196d83ff1724632370d/Items%20Editing/zaibuyidao_Paste%20Align%20Item%20Position%20(Duplicate%20Selected%20Items).lua";
-          sha256 = "0swzrpcig0ma5v3hpw4qvsznkwrxkdr9r7j6pflwqva0m3lba23r";
+          sha256 = "";
         }
       ];
     };
@@ -2563,7 +2591,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/21ccd6c12f21533cd8e91196d83ff1724632370d/Items%20Editing/zaibuyidao_Paste%20Align%20Item%20Position%20(Select%20One%20Item%20And%20Duplicate).lua";
-          sha256 = "0f7l3ny4hhgcagf8qrw1mgyiairdkin4qmyiwfplc3by1y6dlhvz";
+          sha256 = "";
         }
       ];
     };
@@ -2577,7 +2605,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/1b77d7aa9b6233a16473b997132617e9d0080003/Items%20Editing/zaibuyidao_Paste%20Align%20Item%20Position%20(Select%20One%20Item%20And%20Duplicate).lua";
-          sha256 = "1aa1filc0c1zp1h6i815dkvy5v475rdn9613pmkq4fqfzdp0574w";
+          sha256 = "";
         }
       ];
     };
@@ -2591,7 +2619,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/14853256152a014c6c2c37bab61429a9a217e9d1/Items%20Editing/zaibuyidao_Paste%20Item%20Length.lua";
-          sha256 = "13hqi8b52y883izgrd9409kxpyz5pjbyqmiq8jq36mqc9p4klpbl";
+          sha256 = "";
         }
       ];
     };
@@ -2605,7 +2633,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbd1779cf860cdc48a0b171144634f95cef81b3a/Items%20Editing/zaibuyidao_Paste%20Item%20Length.lua";
-          sha256 = "1fzv7hzdv9vhxv9hx9azhh0i07kyr07xsx7bagr6vps58qdls7yn";
+          sha256 = "";
         }
       ];
     };
@@ -2647,7 +2675,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f2e020ed1c3705361c2c8ced0026b9397da9be13/Items%20Editing/zaibuyidao_Paste%20Items%20And%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua";
-          sha256 = "1xh89ij7sl57yk1lxaydzics63hnyg4zfy9nilvnq8q5i3rm4ad5";
+          sha256 = "";
         }
       ];
     };
@@ -2661,7 +2689,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eda6cfb6c82a51170be9b50bf7d85e67f34a62ca/Items%20Editing/zaibuyidao_Paste%20Items%20And%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua";
-          sha256 = "019mj5ijlixwdlg1pv0bpaw1hmkcq6h6zwx7nyvxsk332a8snlqm";
+          sha256 = "";
         }
       ];
     };
@@ -2675,7 +2703,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f9411295723e57d41601c79fb01de9af91ecf11d/Items%20Editing/zaibuyidao_Paste%20Items%20And%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua";
-          sha256 = "0rhyqrr429i81nzawg1f0q04d67ajph5p74zz26v9yf0gi3ify5m";
+          sha256 = "";
         }
       ];
     };
@@ -2689,7 +2717,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/1e0359153bc57f3892499f1c187ab7a5be6c5065/Items%20Editing/zaibuyidao_Paste%20Items%20And%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua";
-          sha256 = "1rs5icxca43a19paa8cka2yg0v3vidbczglyl71w2iwjfarlxpam";
+          sha256 = "";
         }
       ];
     };
@@ -2773,7 +2801,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6da326dbb2a8c04861c3935a5a1459f64e7c81d3/Items%20Editing/zaibuyidao_Paste%20Items%20And%20Region%20Marker%20Tempo%20In%20Time%20Selection%20(Relative%20Position).lua";
-          sha256 = "0vbbyazq8lr46d4383lr1lgjiwvjnp2phdww4nslih6nrh709jl1";
+          sha256 = "";
         }
       ];
     };
@@ -2801,7 +2829,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eda6cfb6c82a51170be9b50bf7d85e67f34a62ca/Items%20Editing/zaibuyidao_Paste%20Items%20In%20Time%20Selection%20(Relative%20Position).lua";
-          sha256 = "187rw4ydhw0xvajbr38vj0dslfnywysnfdfs6486vbvvkkbvrzlf";
+          sha256 = "";
         }
       ];
     };
@@ -2829,7 +2857,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b4dd7c8e307edd6f1900a47dd414fb43c79202a9/Items%20Editing/zaibuyidao_Paste%20Items%20In%20Time%20Selection%20(Relative%20Position).lua";
-          sha256 = "1f0k7xh5f3yrq8pyrrcvajsi6lqx1j00hqhgx9rdlyxxrbz9lfii";
+          sha256 = "";
         }
       ];
     };
@@ -2843,7 +2871,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cb9dc4ff532d52adcab42ca17c1204d9fbb92dfd/Items%20Editing/zaibuyidao_Paste%20Items%20In%20Time%20Selection%20(Relative%20Position).lua";
-          sha256 = "0kd0njmch5ir0mnn8yfs8dsh69sci9x38jgzqgc8v4nacr3bvnbv";
+          sha256 = "";
         }
       ];
     };
@@ -2899,7 +2927,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/01df275ef728fa89df9bcde94f2af1ff1d51ddc5/Items%20Editing/zaibuyidao_Random%20Item%20Volume.lua";
-          sha256 = "033llfvyypqhyr08xxz6aqyfyx8l9j015chrnxq2ywknx6b7i0qw";
+          sha256 = "";
         }
       ];
     };
@@ -2927,7 +2955,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/201cd3b960bcb9ff1d35bafa9e7a270a02563d85/Items%20Editing/zaibuyidao_Random%20Take%20Pan.lua";
-          sha256 = "0qq480xpxm6xvf2xhr29v4mpmqlmqg5sfm0hl821203knhvk8mi4";
+          sha256 = "";
         }
       ];
     };
@@ -2941,7 +2969,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/01df275ef728fa89df9bcde94f2af1ff1d51ddc5/Items%20Editing/zaibuyidao_Random%20Take%20Pitch.lua";
-          sha256 = "062qw4a2jgrjh2gs6skzlv5qsx6j01zxbjrvd0qsnxjb3j7kkwl2";
+          sha256 = "";
         }
       ];
     };
@@ -2956,6 +2984,20 @@
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/01df275ef728fa89df9bcde94f2af1ff1d51ddc5/Items%20Editing/zaibuyidao_Random%20Take%20Volume.lua";
           sha256 = "01wj1952v3qhxwygg3w54s2s1pwa57z2cmlkc6gyj5j2r2s8049d";
+        }
+      ];
+    };
+    zaibuyidao-remove-items-by-name-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-remove-items-by-name-lua-1-0";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "Items Editing";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/601bfe20c7a4f21caa54bc5b6ebb51567ac9dc73/Items%20Editing/zaibuyidao_Remove%20Items%20by%20Name.lua";
+          sha256 = "";
         }
       ];
     };
@@ -2997,7 +3039,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/fd105a34fd914e4c772ce34b1a50430e9b44be57/Items%20Editing/zaibuyidao_Reposition%20Items.lua";
-          sha256 = "1434f91xls4kc08pkxfni7hxbsip1qz9wv49rbj6p21gg16c73vb";
+          sha256 = "";
         }
       ];
     };
@@ -3011,7 +3053,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/620621d328d6f1b3dd9da4c341e18994938b95de/Items%20Editing/zaibuyidao_Reposition%20Items.lua";
-          sha256 = "18sl808iw6xkrn4g3alxc5388560k2yi544fc6a6vsdsvs14cf91";
+          sha256 = "";
         }
       ];
     };
@@ -3025,7 +3067,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/1bc8538613af1566c336c947fdd3da843e401f2e/Items%20Editing/zaibuyidao_Reposition%20Items.lua";
-          sha256 = "1aygzyixx5v7ldwzm57jws1rcfkazfhs9pnqbmc1whkqrz0ilkcx";
+          sha256 = "";
         }
       ];
     };
@@ -3039,7 +3081,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5441cc76856aa4bf0978d9b43ef810eed2aa4ec7/Items%20Editing/zaibuyidao_Reposition%20Items.lua";
-          sha256 = "139q8s7yz5q6k6wiyhd0g6jaqd56cahspz9ix5r5l2lkfypdyb7v";
+          sha256 = "";
         }
       ];
     };
@@ -3067,7 +3109,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8acbfa87ac5ad5ed02be4d5fde64fd026102edfd/Items%20Editing/zaibuyidao_Reposition%20Items.lua";
-          sha256 = "0xbvv0n2g0yih7x494c6zwx5d2ri83nzc53d6p7iqkz7d2c3p70k";
+          sha256 = "";
         }
       ];
     };
@@ -3095,7 +3137,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/e0cbf327dbed5ecbf82867b259250a356ecd4d7a/Items%20Editing/zaibuyidao_Reposition%20Items.lua";
-          sha256 = "0as4m6p7kr8dsnyxnrkby7qxnfzb8rzj3cnb7ln3k0s8w0saif2j";
+          sha256 = "";
         }
       ];
     };
@@ -3123,7 +3165,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/01df275ef728fa89df9bcde94f2af1ff1d51ddc5/Items%20Editing/zaibuyidao_Set%20Item%20Volume.lua";
-          sha256 = "05c9xspvdhr9nsjdjqdy7bvbw49vmhmgdpx81x52fni33y5k5hkg";
+          sha256 = "";
         }
       ];
     };
@@ -3137,7 +3179,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/01df275ef728fa89df9bcde94f2af1ff1d51ddc5/Items%20Editing/zaibuyidao_Set%20Take%20Pan.lua";
-          sha256 = "14v4f55p8ir6s9da9zg1wv9nq7ngqj68jkp0hksmjly2j2c70nwg";
+          sha256 = "";
         }
       ];
     };
@@ -3193,7 +3235,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/32c9100ff61a865b93eed3a4466fb361f199ef49/Items%20Editing/zaibuyidao_Show%20FX%20Chain%20For%20Selected%20Item.lua";
-          sha256 = "161k60kk5v492zd34lryj4r1z47n36vb5kfz3lg9s1phqs5g53gk";
+          sha256 = "";
         }
       ];
     };
@@ -3221,7 +3263,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f77222235296bc4ab45e2475ff7754ca9a9c69c7/Items%20Editing/zaibuyidao_Show%20FX%20Chain%20For%20Selected%20Track-Item.lua";
-          sha256 = "0ffjim3348s2w465zaiqrs31yspda7jvrizlm5diw6gxqr55mw10";
+          sha256 = "";
         }
       ];
     };
@@ -3235,7 +3277,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/83d20fe9869772ae9c9a4368b3c791b1646d5816/Items%20Editing/zaibuyidao_Show%20FX%20Chain%20For%20Selected%20Track-Item.lua";
-          sha256 = "0wdvml1iyq20k7a3jhm4qx92x6cl5dn3sfnwwi6zm2bdpcqgjw0q";
+          sha256 = "";
         }
       ];
     };
@@ -3277,7 +3319,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eef140ba21e17105c106df886864e71871e31c12/Items%20Editing/zaibuyidao_Show%20FX%20Chain%20For%20Selected%20Track-Item.lua";
-          sha256 = "012i4rs48rsciq37ipiz183rb11npwl17ip971fdkjs2d7lldgin";
+          sha256 = "";
         }
       ];
     };
@@ -3291,7 +3333,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/55c751fc257b71cc1e309c04046c84e23e8ac1aa/Items%20Editing/zaibuyidao_Swap%20Items%20Of%20Two%20Tracks.lua";
-          sha256 = "1kml7cpc0v55kzzp9wns4d8jrrziyp0b7ag3f1d4mzxljzrd7mbw";
+          sha256 = "";
         }
       ];
     };
@@ -3305,7 +3347,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5c875a1d1321cc04f48f50288109d2640346d9fe/Items%20Editing/zaibuyidao_Swap%20Items%20Of%20Two%20Tracks.lua";
-          sha256 = "0xrqygsv7737ndmylpgqkghh7riknqg100j61fhgwnmq6wf5dzic";
+          sha256 = "";
         }
       ];
     };
@@ -3319,7 +3361,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7aab26fcce01b5330b1180e182c087f7c1a1009b/Items%20Editing/zaibuyidao_Trim%20Item%20Edges%20Settings.lua";
-          sha256 = "1w36ynh6gdx2ynlcz7xv3xwks0msg3mpj15ag3jm8qqaci781l15";
+          sha256 = "";
         }
       ];
     };
@@ -3361,7 +3403,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f3ab24c0f15d12cfd959e8556923284ae3549b3d/Items%20Editing/zaibuyidao_Trim%20Item%20Edges.lua";
-          sha256 = "03g85a0vy9drvmp4rm9k4pdsb07y10xzrpggx13xqs9h3v2lm6lj";
+          sha256 = "";
         }
       ];
     };
@@ -3403,7 +3445,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/96e3f758246c35b9ca34420f1dd7ba99e65c984e/Items%20Editing/zaibuyidao_Trim%20Item%20Edges.lua";
-          sha256 = "1g32qjgz40qscgfnmdm5h49slw7dzmai1kb6nfw1xvynl7y6wr8l";
+          sha256 = "";
         }
       ];
     };
@@ -3431,7 +3473,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/d65a62dcea473c8f931606797168d401c74d8bb1/Items%20Editing/zaibuyidao_Trim%20Item%20Edges.lua";
-          sha256 = "05f3f8f58vpywhxd2nqc0gx02f16h0bdfklg8nxsfh4bsigdgjs1";
+          sha256 = "";
         }
       ];
     };
@@ -3445,7 +3487,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/41507c1f83a53f36c82a54c40538e1c0fe95b4c3/Items%20Editing/zaibuyidao_Trim%20Item%20Edges.lua";
-          sha256 = "0wzlxrf5x7sx68bxc0m2r1vm377n0bnygqfj636nqjc26fmpr94s";
+          sha256 = "";
         }
       ];
     };
@@ -3543,7 +3585,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/25a205be5cb4273ee66770d8029b25b35a75eb11/Items%20Editing/zaibuyidao_Trim%20Split%20Items%20Settings.lua";
-          sha256 = "1p4izmxg4bmbiwq637dsgz96ap007lnknfkyxi8l5z8wm8x2cfyx";
+          sha256 = "";
         }
       ];
     };
@@ -3599,7 +3641,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a4970ef3348b5e92a2e4e4f6f0edd9b471a497c6/Items%20Editing/zaibuyidao_Trim%20Split%20Items%20Settings.lua";
-          sha256 = "131k0fng46kj7dv4bcvfapbs14acz5d8bpbqli4b8ilphlqsn83m";
+          sha256 = "";
         }
       ];
     };
@@ -3655,7 +3697,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/288d27c23c78ffad683b4c4e058fecccc288fc2f/Items%20Editing/zaibuyidao_Trim%20Split%20Items%20Settings.lua";
-          sha256 = "0a4lazzafgl5khx7zw4c19kb3dnhbvnrmjccbzckhn1jq83ayyzx";
+          sha256 = "";
         }
       ];
     };
@@ -3669,7 +3711,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c3166c1124b4ebad4726bf7d7b0a81837997a910/Items%20Editing/zaibuyidao_Trim%20Split%20Items.lua";
-          sha256 = "0lxisbihkrpcp6bmvdshghy8gq7f49p7b3hrcrvsfidbxdbkynl7";
+          sha256 = "";
         }
       ];
     };
@@ -3683,7 +3725,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/58f0ff8de4b7f89752f03c53704533ba4be5f37b/Items%20Editing/zaibuyidao_Trim%20Split%20Items.lua";
-          sha256 = "1adlc3fn7l3f470fbcvzrkp6jy0finasy4xa5dli8c5ghj2fgx8f";
+          sha256 = "";
         }
       ];
     };
@@ -3697,7 +3739,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a39f8bfd70c9bd83850cf5e04e648371b64871d9/Items%20Editing/zaibuyidao_Trim%20Split%20Items.lua";
-          sha256 = "1apx1d40msbl3vzb2fiy88gcgjhmxh51wsjamxzpis6id4p5bk77";
+          sha256 = "";
         }
       ];
     };
@@ -3725,7 +3767,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b050038535c88da5eca3ee53e5f36c2a248fc591/Items%20Editing/zaibuyidao_Trim%20Split%20Items.lua";
-          sha256 = "1hrzxv42k8inm5d24ixscpr411ycyh8b2d5xny0yarf35x2ac3yv";
+          sha256 = "";
         }
       ];
     };
@@ -3739,7 +3781,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/092cb0cbf82776a7596333088649974d9b9d797b/Items%20Editing/zaibuyidao_Trim%20Split%20Items.lua";
-          sha256 = "0cjqhv9ab7cajfcyz1m46f397jl4ks436yijs4938kffyjihjc4c";
+          sha256 = "";
         }
       ];
     };
@@ -3753,7 +3795,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/fc31223ace7925af12093752fdd92f8bfd83d4cd/Items%20Editing/zaibuyidao_Trim%20Split%20Items.lua";
-          sha256 = "1lgdm24q2qmdhcmkrf68v5w1sczihdiik9p9p1lr3xnxbaz89iz1";
+          sha256 = "1lpj2xx47a062ixpc46arl7k8mqgnbsznvwnxvgmz4d3s1v9zx4c";
         }
       ];
     };
@@ -3781,7 +3823,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/25a205be5cb4273ee66770d8029b25b35a75eb11/Items%20Editing/zaibuyidao_Trim%20Split%20Items.lua";
-          sha256 = "17hvpw3mb1maz3sj5yi04h5znyxacx32xzn4m390yfsda1ljj30w";
+          sha256 = "1q9wjh617h9m78id06awqlc7b7x98l3pjl0ayjslv7m6a3fzr7l9";
         }
       ];
     };
@@ -7207,6 +7249,34 @@
         }
       ];
     };
+    zaibuyidao-insert-alternating-l-r-cc-events-for-selected-notes-lua-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-insert-alternating-l-r-cc-events-for-selected-notes-lua-1-0";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "MIDI Editor";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/2987aff203574cfc5892a6197d0bfb2fe5eea4c7/MIDI%20Editor/zaibuyidao_Insert%20Alternating%20L-R%20CC%20Events%20for%20Selected%20Notes.lua";
+          sha256 = "0cvknf67b4vlmg1qsal4bgkr99fl2mgdfwhnmgmszdc0h64j5s4v";
+        }
+      ];
+    };
+    zaibuyidao-insert-alternating-l-r-cc-events-for-selected-notes-lua-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-insert-alternating-l-r-cc-events-for-selected-notes-lua-1-0-1";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "MIDI Editor";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/ab4777bb684081383c9c0359aa213bdce27c96a2/MIDI%20Editor/zaibuyidao_Insert%20Alternating%20L-R%20CC%20Events%20for%20Selected%20Notes.lua";
+          sha256 = "1qqlf18jyw2pvxq6zsbryxly6rb97x0knwdnfciwkrmp54sfkaj3";
+        }
+      ];
+    };
     zaibuyidao-insert-cc-curve-sawtooth-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "zaibuyidao-insert-cc-curve-sawtooth-lua-1-0";
@@ -7277,185 +7347,59 @@
         }
       ];
     };
-    zaibuyidao-insert-cc-events-1-lua-1-1 = mkReapackPackage {
+    zaibuyidao-insert-cc-events-at-note-edges-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "zaibuyidao-insert-cc-events-1-lua-1-1";
+      name = "zaibuyidao-insert-cc-events-at-note-edges-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
       packageType = "script";
       sources = [
         {
           path = '''';
-          url = "https://github.com/zaibuyidao/ReaScripts/raw/617bcdb057d00ad895680c6639bb8ac50352aae8/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%201.lua";
-          sha256 = "133mai3h0vrwsamwgkkvyng4wilixrm4763xd3y57lxz1237jzv2";
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/d770a204611dde163960fe96496b914dd4f819ec/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%20at%20Note%20Edges.lua";
+          sha256 = "0jwp66cv775h5daq3nbvbglp6hh3b3cj65dvgkghr4dlrpy8qcdp";
         }
       ];
     };
-    zaibuyidao-insert-cc-events-1-lua-1-2 = mkReapackPackage {
+    zaibuyidao-insert-cc-events-at-time-selection-bounds-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "zaibuyidao-insert-cc-events-1-lua-1-2";
+      name = "zaibuyidao-insert-cc-events-at-time-selection-bounds-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
       packageType = "script";
       sources = [
         {
           path = '''';
-          url = "https://github.com/zaibuyidao/ReaScripts/raw/5f6fa4a564996413f4e83d9406f71ade825d68dd/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%201.lua";
-          sha256 = "0zvnwr64kqfcgma89r89dq4b0kkpc01kisr3pr5mr97qb4bxgmkk";
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/7383249757942085773538e76792b796cb9536d0/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%20at%20Time%20Selection%20Bounds.lua";
+          sha256 = "0jsqs3qyx8ki9hmgzpcxqxpxmm60zkncijasx085200jp7x3lpk4";
         }
       ];
     };
-    zaibuyidao-insert-cc-events-1-lua-1-3 = mkReapackPackage {
+    zaibuyidao-insert-cc-events-at-time-selection-bounds-lua-1-0-1 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "zaibuyidao-insert-cc-events-1-lua-1-3";
+      name = "zaibuyidao-insert-cc-events-at-time-selection-bounds-lua-1-0-1";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
       packageType = "script";
       sources = [
         {
           path = '''';
-          url = "https://github.com/zaibuyidao/ReaScripts/raw/15ef6644c9177cb40170f37ebc05e2122d7f9f49/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%201.lua";
-          sha256 = "15brvjf1sd587aq0r7cy04g2jxyfv9885gmjhyxijb9lwazdz8am";
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/ab4777bb684081383c9c0359aa213bdce27c96a2/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%20at%20Time%20Selection%20Bounds.lua";
+          sha256 = "0myslgzzd21xf42hhv0v2a1wpn5f37walm4754xxkkr5skpxhbr3";
         }
       ];
     };
-    zaibuyidao-insert-cc-events-1-lua-1-4 = mkReapackPackage {
+    zaibuyidao-insert-cc-events-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "zaibuyidao-insert-cc-events-1-lua-1-4";
+      name = "zaibuyidao-insert-cc-events-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
       packageType = "script";
       sources = [
         {
           path = '''';
-          url = "https://github.com/zaibuyidao/ReaScripts/raw/61a198f97763e85b3144e1b00ad3a86fec79ba8c/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%201.lua";
-          sha256 = "14y9hmg2kavd194jb0jpw2svy1lvn5ymxgnj4jap982nrzja83rn";
-        }
-      ];
-    };
-    zaibuyidao-insert-cc-events-2-within-time-selection-lua-1-0 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "zaibuyidao-insert-cc-events-2-within-time-selection-lua-1-0";
-      indexName = "zaibuyidao Scripts";
-      categoryName = "MIDI Editor";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/zaibuyidao/ReaScripts/raw/d48239e619c3f6a4643c7bd2204335ee94233da9/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%202%20(Within%20Time%20Selection).lua";
-          sha256 = "12z8kw0z395bqbs820kg2xmklz67s8wvpyba20dl2sv18xblwj09";
-        }
-      ];
-    };
-    zaibuyidao-insert-cc-events-2-within-time-selection-lua-1-1 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "zaibuyidao-insert-cc-events-2-within-time-selection-lua-1-1";
-      indexName = "zaibuyidao Scripts";
-      categoryName = "MIDI Editor";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/zaibuyidao/ReaScripts/raw/80fa4a17562d650a137a5d110ef3c0e8050a6be4/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%202%20(Within%20Time%20Selection).lua";
-          sha256 = "0mvmdbqr1h381x0jz0as49z8839cmzga6lx2xd5m95a5qbb72a5l";
-        }
-      ];
-    };
-    zaibuyidao-insert-cc-events-2-within-time-selection-lua-1-2 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "zaibuyidao-insert-cc-events-2-within-time-selection-lua-1-2";
-      indexName = "zaibuyidao Scripts";
-      categoryName = "MIDI Editor";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/zaibuyidao/ReaScripts/raw/61a198f97763e85b3144e1b00ad3a86fec79ba8c/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%202%20(Within%20Time%20Selection).lua";
-          sha256 = "1r7lfc3d30xmqv9c6qrrsfywcldlq0mk0fh6zl8pi6z1l2pp4c0x";
-        }
-      ];
-    };
-    zaibuyidao-insert-cc-events-2-lua-1-0 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "zaibuyidao-insert-cc-events-2-lua-1-0";
-      indexName = "zaibuyidao Scripts";
-      categoryName = "MIDI Editor";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/zaibuyidao/ReaScripts/raw/617bcdb057d00ad895680c6639bb8ac50352aae8/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%202.lua";
-          sha256 = "12j5ral2iasccn1013j73q2aaxn3hrjsrkv64mx3m3z4dn5nmqz3";
-        }
-      ];
-    };
-    zaibuyidao-insert-cc-events-2-lua-1-1 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "zaibuyidao-insert-cc-events-2-lua-1-1";
-      indexName = "zaibuyidao Scripts";
-      categoryName = "MIDI Editor";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/zaibuyidao/ReaScripts/raw/15ef6644c9177cb40170f37ebc05e2122d7f9f49/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%202.lua";
-          sha256 = "1qb64fa2982a9kfk7x0pbfzwr0l0smzm4855bhvg3jhpih58abbf";
-        }
-      ];
-    };
-    zaibuyidao-insert-cc-events-2-lua-1-2 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "zaibuyidao-insert-cc-events-2-lua-1-2";
-      indexName = "zaibuyidao Scripts";
-      categoryName = "MIDI Editor";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/zaibuyidao/ReaScripts/raw/61a198f97763e85b3144e1b00ad3a86fec79ba8c/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%202.lua";
-          sha256 = "15451fg3v1qpsff7gbw4760yha5fw0jyvri1amfc9jmhslafr0vq";
-        }
-      ];
-    };
-    zaibuyidao-insert-cc-events-2-lua-1-3 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "zaibuyidao-insert-cc-events-2-lua-1-3";
-      indexName = "zaibuyidao Scripts";
-      categoryName = "MIDI Editor";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/zaibuyidao/ReaScripts/raw/be789d5cbe4d4559a8e7f7498c1473744418dc7d/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%202.lua";
-          sha256 = "0g1ykaffsq460pv6zqsqjd2i2c9klfgdrj51y16hiy4lg6mv22ld";
-        }
-      ];
-    };
-    zaibuyidao-insert-cc-events-lr-lua-1-0 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "zaibuyidao-insert-cc-events-lr-lua-1-0";
-      indexName = "zaibuyidao Scripts";
-      categoryName = "MIDI Editor";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/zaibuyidao/ReaScripts/raw/ce78b9da98e5022718c00a9fc43492fa1103d9bf/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%20LR.lua";
-          sha256 = "03png3ssp8a53ixgdrawrkgl79lgr1w3byf286kls7shx82la5wm";
-        }
-      ];
-    };
-    zaibuyidao-insert-cc-events-lr-lua-1-0-1 = mkReapackPackage {
-      inherit lib stdenv fetchurl;
-      name = "zaibuyidao-insert-cc-events-lr-lua-1-0-1";
-      indexName = "zaibuyidao Scripts";
-      categoryName = "MIDI Editor";
-      packageType = "script";
-      sources = [
-        {
-          path = '''';
-          url = "https://github.com/zaibuyidao/ReaScripts/raw/35de512167165000e7e14c28dccefeb9af1cbbc3/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events%20LR.lua";
-          sha256 = "1wb0d8l89ygjgkwik048hwfz9ng73d8cszsx21a7xxpfs0ddn1a4";
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/f37b18ddc17bf6feee28830327c5244796188a0a/MIDI%20Editor/zaibuyidao_Insert%20CC%20Events.lua";
+          sha256 = "0mzd03l7rxn8k3ba465w79z4kk42raf9sqcw0v1ppbaa3dhw7y8n";
         }
       ];
     };
@@ -9135,7 +9079,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2c1ba30a6c3daecff005f5244d9bf31e9e1aaa62/MIDI%20Editor/zaibuyidao_Move%20Events%20To%20Edit%20Cursor%20(Fast).lua";
-          sha256 = "06slbmb3z568kw8i8a7qxvrwdyrmhffvqnga9i7065wqn9rjmngv";
+          sha256 = "";
         }
       ];
     };
@@ -9191,7 +9135,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6213c04016af0b673563a7c54fc518e739a34102/MIDI%20Editor/zaibuyidao_Move%20Notes%20+01%20Semitone%20(Fast).lua";
-          sha256 = "1lpr0l8bvnv212n7frbanqdf353mzbxiwyqcdlifnic76ynd8afq";
+          sha256 = "";
         }
       ];
     };
@@ -9247,7 +9191,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/79c794f4b96d3892e66c41c1117fb8d9aeb02836/MIDI%20Editor/zaibuyidao_Move%20Pitch%20Bend%20Down%20One%20Semitone%20(Pitchwheel%20Range%2002).lua";
-          sha256 = "0y3v5x9wky05ffs1gr1mh3dwc3afs633lra60vpflwx8h8w8cq6l";
+          sha256 = "";
         }
       ];
     };
@@ -9261,7 +9205,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/79c794f4b96d3892e66c41c1117fb8d9aeb02836/MIDI%20Editor/zaibuyidao_Move%20Pitch%20Bend%20Down%20One%20Semitone%20(Pitchwheel%20Range%2012).lua";
-          sha256 = "029clnlrrgjq2h2k897cnp1qiq14hll5jrb8sxnk4w55gl6vxxw0";
+          sha256 = "";
         }
       ];
     };
@@ -9275,7 +9219,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/79c794f4b96d3892e66c41c1117fb8d9aeb02836/MIDI%20Editor/zaibuyidao_Move%20Pitch%20Bend%20Up%20One%20Semitone%20(Pitchwheel%20Range%2002).lua";
-          sha256 = "0p1h5ad5i07z9xcz00cjqqvh2b3bl4299ywm79nc2gdbv2pm4mpr";
+          sha256 = "";
         }
       ];
     };
@@ -9289,7 +9233,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/79c794f4b96d3892e66c41c1117fb8d9aeb02836/MIDI%20Editor/zaibuyidao_Move%20Pitch%20Bend%20Up%20One%20Semitone%20(Pitchwheel%20Range%2012).lua";
-          sha256 = "08lwapf1bc9yc7nafi01h91bi9s7czk1qj2cs9q6yysd4v6xj34w";
+          sha256 = "";
         }
       ];
     };
@@ -9303,7 +9247,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/79c794f4b96d3892e66c41c1117fb8d9aeb02836/MIDI%20Editor/zaibuyidao_Move%20Pitch%20Bend%20Up-Down%20by%20Semitones.lua";
-          sha256 = "10gjsbisfqzmsmz1qarf6y08a3w31v2dq64g5k6cvakj5y9r6svp";
+          sha256 = "";
         }
       ];
     };
@@ -9345,7 +9289,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8742662b503bd3b10516717d087319df4f4b6080/MIDI%20Editor/zaibuyidao_Note%20Off%20Velocity%20+10.lua";
-          sha256 = "1kha12j7qkjx6bbq7w90qqanph17pn1la77vk2dwcvfvqic40w2j";
+          sha256 = "";
         }
       ];
     };
@@ -9359,7 +9303,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8742662b503bd3b10516717d087319df4f4b6080/MIDI%20Editor/zaibuyidao_Note%20Off%20Velocity%20-01.lua";
-          sha256 = "0cmiahdh37ipya3b5py28kbrpj7zxx7jik661csgzvgd5d9ac5bg";
+          sha256 = "";
         }
       ];
     };
@@ -9387,7 +9331,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/d9535d9344341c7158840a16b8218bfd83e9bb0d/MIDI%20Editor/zaibuyidao_Notes%20to%20Pitch%20Bend.lua";
-          sha256 = "00q1aisf6xnhkzvb0565jqhkm2r36cgzdxh68d8ibaa3hb293ych";
+          sha256 = "";
         }
       ];
     };
@@ -9401,7 +9345,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f8a6b35b03e59b4cddacb8373ef02d6f32e87448/MIDI%20Editor/zaibuyidao_Notes%20to%20Pitch%20Bend.lua";
-          sha256 = "186l2qx32f3mpmy8insai4rdlbx8y6y9jcg2l042dwbq815c671w";
+          sha256 = "";
         }
       ];
     };
@@ -9429,7 +9373,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b75fee417d4d9850feebc96adb75a198393083a5/MIDI%20Editor/zaibuyidao_Paste%20Selected%20Arpeggio.lua";
-          sha256 = "1gd972vzm2zc2cracs13i3papkwx5dpl8nb0d4jwk9fi97z3arvh";
+          sha256 = "";
         }
       ];
     };
@@ -9443,7 +9387,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a4b687f8c30216d45a4024f8793a814ea0626d3/MIDI%20Editor/zaibuyidao_Paste%20Selected%20Arpeggio.lua";
-          sha256 = "00i125n3ibp74avrd8j89x252fgvn4nqsmaawlh3v3jdv3did2w2";
+          sha256 = "";
         }
       ];
     };
@@ -9499,7 +9443,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/10357c6e9e331a285a53705d0fdf4d719c5c4c59/MIDI%20Editor/zaibuyidao_Paste%20Selected%20Rhythm.lua";
-          sha256 = "180b0f9m66cwbrkq70gagigslrjjbav9sgym7jhjxdjllx3d26x1";
+          sha256 = "";
         }
       ];
     };
@@ -9541,7 +9485,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a886236dc2ce9e1b2f6cc5845ca798f55afa529c/MIDI%20Editor/zaibuyidao_Paste%20Selected%20Rhythm.lua";
-          sha256 = "1lq84n40grdxsiyss0wnxpamjdzi6mcqy4gxw6xa6mhg58s3c0pp";
+          sha256 = "";
         }
       ];
     };
@@ -9639,7 +9583,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/fd93b38d2c0c03329f775d43474941944f6018c5/MIDI%20Editor/zaibuyidao_Quantize%20(Fast).lua";
-          sha256 = "14iwacspjvj76iyvkdaqvjxbbi3zvmhm67l8q1k6lq7cgjx7nbxw";
+          sha256 = "";
         }
       ];
     };
@@ -9667,7 +9611,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a26729ae09e1becaeda9f9ef201b9a077c60979d/MIDI%20Editor/zaibuyidao_Quantize%20(Fast).lua";
-          sha256 = "1c4z3vsgj9p9ih4hk5n1arglv5dqavnpzm6hir305i0jrn2bx03n";
+          sha256 = "";
         }
       ];
     };
@@ -9681,7 +9625,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8d69b1d0593742bbc15f7dbb85a01d5c4c2a75ad/MIDI%20Editor/zaibuyidao_Quantize%20(Fast).lua";
-          sha256 = "0lmz4nvg78zqk1x2sknwx6p5y7y6vqpshlsh659djgwydjplnamf";
+          sha256 = "";
         }
       ];
     };
@@ -9695,7 +9639,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a0a027d0eada55460e4fcd4d245467bb4b69b3c5/MIDI%20Editor/zaibuyidao_Quantize%20(Fast).lua";
-          sha256 = "0fcqv4c68x311hcidpw0ndnr0a1wzfhb8qil7y1yjhqd9ba7bjcc";
+          sha256 = "";
         }
       ];
     };
@@ -9709,7 +9653,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/466a7d7cbc3e03d03613231895d9748db0fe0f2f/MIDI%20Editor/zaibuyidao_Quantize%20(Fast).lua";
-          sha256 = "0ss01s140xw1z6mg043891q09vdlxj1lc12fsx29qk8763qjsgdh";
+          sha256 = "";
         }
       ];
     };
@@ -9737,7 +9681,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/dd455f4924a2371b2f560b0e7cbd1546def39cdd/MIDI%20Editor/zaibuyidao_Quantize.lua";
-          sha256 = "099c48rzk4ph8bybik55ca7kzwml9sclhk3i27626zs3xsqi067f";
+          sha256 = "";
         }
       ];
     };
@@ -9779,7 +9723,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/74079a80fdad1cf4fc3819f38daf435e36995fb0/MIDI%20Editor/zaibuyidao_Quantize.lua";
-          sha256 = "0sk6mivdxpr9cjyk6pgrpci9mcldhdw4qm1gd806grggh49mw0fx";
+          sha256 = "1v93zizq9bjilrvllkk8g37j19mgal3y3h50x7qh64kp1s0dywfj";
         }
       ];
     };
@@ -9821,7 +9765,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb791bb4decc988c515c6fc92f4f92e597004a1d/MIDI%20Editor/zaibuyidao_Quantize.lua";
-          sha256 = "0mqccf8pi5dk9anwidfldpglrih8s7h1mgb9ch7v4brzsdcb4spi";
+          sha256 = "07swyb4qrkip6d49masilpqkv621h6zfkbk4618q5z7h0ifsniz0";
         }
       ];
     };
@@ -9905,7 +9849,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0d5277e17757568ac9be9e5fffc4cc4392b9fbcd/MIDI%20Editor/zaibuyidao_Random%20CC%20Position%20(Within%20Time%20Selection).lua";
-          sha256 = "18dw956gal9mdz92njvzglbq0kjyzxhm5053hj03p4dzic86r53q";
+          sha256 = "17f5z8bqxracsd8rkgbhgm53sd8v15iixax0fz8hxq3w0bvmwbc0";
         }
       ];
     };
@@ -9933,7 +9877,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2094ef94020e6358fa52c3f54946f34b35d2fdc6/MIDI%20Editor/zaibuyidao_Random%20CC%20Position%20(Within%20Time%20Selection).lua";
-          sha256 = "0r59rmpyq228kdp7l3skxpa29p20mc2inf7ads0q94cb4yfr164z";
+          sha256 = "08mav8pfkqvd07ln5sgvdpiynjchlsvdq1bppv85vfki7lvw4q53";
         }
       ];
     };
@@ -13167,7 +13111,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8d267f6b121a0568a20d63d976c0f38aa1c8b570/MIDI%20Editor/zaibuyidao_Strum%20It.lua";
-          sha256 = "0hnyii16bggq3fghxyjwsq423xwfbm1l5ck3jrc608kska339jin";
+          sha256 = "";
         }
       ];
     };
@@ -13209,7 +13153,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5c62c6d57fb18f3e5973553b3ba740fe1ae17052/MIDI%20Editor/zaibuyidao_Strum%20Velocity%20Decrement.lua";
-          sha256 = "1y17y2pws3lnmhjxrsgg5kbwmpj8hkf34ybdwxjraa5bj98vi34s";
+          sha256 = "";
         }
       ];
     };
@@ -13223,7 +13167,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a50c2a873eb7552737aac05d96ff80a0265318fc/MIDI%20Editor/zaibuyidao_Time%20(PPQ).lua";
-          sha256 = "0rprwrgksanlhzzvwz51fgkyf34nbv6pdy6c7df90n9r0rr1a72s";
+          sha256 = "";
         }
       ];
     };
@@ -13237,7 +13181,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b16d6cbaa45418b40d7e9e9408999db36f977a4c/MIDI%20Editor/zaibuyidao_Time%20(PPQ).lua";
-          sha256 = "0aiqxanh86lw0kxwxmamlnirx2np9qkdgy6cnw252ilhhb8dqk4b";
+          sha256 = "";
         }
       ];
     };
@@ -13251,7 +13195,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/15ef6644c9177cb40170f37ebc05e2122d7f9f49/MIDI%20Editor/zaibuyidao_Time%20(PPQ).lua";
-          sha256 = "0h8zldfbw83ck6l0bgm2klkazdp99slw3f7nfb4jxca5r16b9b85";
+          sha256 = "";
         }
       ];
     };
@@ -13265,7 +13209,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/54ca6c2be54ff571279565656bacd4d5f4757594/MIDI%20Editor/zaibuyidao_Time%20(QN).lua";
-          sha256 = "1y1pcbcyzabsdmvwvvnzxm769sb1iy4x1xnx4xzsf42f75y83a9b";
+          sha256 = "";
         }
       ];
     };
@@ -13279,7 +13223,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b16d6cbaa45418b40d7e9e9408999db36f977a4c/MIDI%20Editor/zaibuyidao_Time%20(QN).lua";
-          sha256 = "1jyhxhdn1g9jbzh51v4qm74av2m8yq1l72x3bh6v7w2sqr6r397x";
+          sha256 = "";
         }
       ];
     };
@@ -13293,7 +13237,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/15ef6644c9177cb40170f37ebc05e2122d7f9f49/MIDI%20Editor/zaibuyidao_Time%20(QN).lua";
-          sha256 = "0ikv98dgn11bm7q8qp7xsp6lc6qyklmaiibjlzaqj1yplp9db55c";
+          sha256 = "";
         }
       ];
     };
@@ -13307,7 +13251,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/1a4b9c59da9d54933d362ae58011ce1e73dfb5de/MIDI%20Editor/zaibuyidao_Toggle%20Select%20Notes%20in%20Measure%20Groups%20(After).lua";
-          sha256 = "0qwc3inxw4l0i4039hrw1s4k1bm22sbyfqi3rv547ylmxmjq2m21";
+          sha256 = "";
         }
       ];
     };
@@ -13321,7 +13265,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/22fcd3848ac0a39451f361989af960cab62f5aeb/MIDI%20Editor/zaibuyidao_Toggle%20Select%20Notes%20in%20Measure%20Groups%20(After).lua";
-          sha256 = "05nn0i35syv8qyz2kdj1z1h13if1vi8z4jszl8wl604hgl0lpkp1";
+          sha256 = "";
         }
       ];
     };
@@ -13335,7 +13279,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cf753afab753a55f934bf0aec735977790ab4256/MIDI%20Editor/zaibuyidao_Toggle%20Select%20Notes%20in%20Measure%20Groups%20(After).lua";
-          sha256 = "10g9grk4hr87m8y1v7hswnc8fbvnnir5qdwwhmcagzg34kb1d7sn";
+          sha256 = "";
         }
       ];
     };
@@ -13349,7 +13293,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/1a4b9c59da9d54933d362ae58011ce1e73dfb5de/MIDI%20Editor/zaibuyidao_Toggle%20Select%20Notes%20in%20Measure%20Groups%20(Before).lua";
-          sha256 = "0hmwgk31ss6jamk9yr8c164kxsd3vxz772hx1l700w25sg23p3gm";
+          sha256 = "";
         }
       ];
     };
@@ -13363,7 +13307,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/22fcd3848ac0a39451f361989af960cab62f5aeb/MIDI%20Editor/zaibuyidao_Toggle%20Select%20Notes%20in%20Measure%20Groups%20(Before).lua";
-          sha256 = "0zprwqh8jb1dahbd7kaw151b6qcl6qqvxgam63hwmn5xi8zs3wnd";
+          sha256 = "";
         }
       ];
     };
@@ -13377,7 +13321,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cf753afab753a55f934bf0aec735977790ab4256/MIDI%20Editor/zaibuyidao_Toggle%20Select%20Notes%20in%20Measure%20Groups%20(Before).lua";
-          sha256 = "0lvwh3if0pw3882j01pr2gnw1a7i82zr0mif2x1avl66cmp04c1m";
+          sha256 = "";
         }
       ];
     };
@@ -13391,7 +13335,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/1a4b9c59da9d54933d362ae58011ce1e73dfb5de/MIDI%20Editor/zaibuyidao_Toggle%20Select%20Notes%20in%20Measure%20Groups.lua";
-          sha256 = "0gsdps4zi0ja7ncxsv4j3sznl69k9v4hb9lfw5n68c8r8k4y39s9";
+          sha256 = "";
         }
       ];
     };
@@ -13405,7 +13349,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/22fcd3848ac0a39451f361989af960cab62f5aeb/MIDI%20Editor/zaibuyidao_Toggle%20Select%20Notes%20in%20Measure%20Groups.lua";
-          sha256 = "1623mb8alnks53w5b8sz526fl03ff5dx4jn2br2cmwyzmiq0gfcz";
+          sha256 = "";
         }
       ];
     };
@@ -13419,7 +13363,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/ffc9c435326149037e650c07508c3a589c98fb8d/MIDI%20Editor/zaibuyidao_Toggle%20Select%20Notes%20in%20Measure%20Groups.lua";
-          sha256 = "0ddb2fp568vdcicysaqjy0648m5d33zcl1fqzvc7281dhxxnyzz8";
+          sha256 = "";
         }
       ];
     };
@@ -13433,7 +13377,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/56780b7669cb23577c1ca84c07b981f0cfab3164/MIDI%20Editor/zaibuyidao_Transform%20CC%20(For%20Selected%20CC).lua";
-          sha256 = "14xl24y1qfvp1lyqp2b1nfg6jmmi6nl60bf3w1ldj99qc5qghxa2";
+          sha256 = "080fa60h42vhvsic8ygkiplzrahcjakammz2cyj946gjw3klmaiq";
         }
       ];
     };
@@ -13447,7 +13391,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/fc51c93a89b6feab693d0deb265e6910ceef5cc7/MIDI%20Editor/zaibuyidao_Transform%20CC%20(For%20Selected%20CC).lua";
-          sha256 = "1a5lxq7yv2fja057j2d92qwwmwbq40c3pw596n1xw566j2fvnxdg";
+          sha256 = "";
         }
       ];
     };
@@ -13461,7 +13405,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/1674d118eb9365dbe16129cd46355b081f64f8b4/MIDI%20Editor/zaibuyidao_Transform%20CC%20(For%20Selected%20CC).lua";
-          sha256 = "06r50df3vv0jjnh7pp1z2m3hhpfg0v3qzjj38vz0hhl03klmjih5";
+          sha256 = "";
         }
       ];
     };
@@ -13475,7 +13419,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/56780b7669cb23577c1ca84c07b981f0cfab3164/MIDI%20Editor/zaibuyidao_Transform%20CC.lua";
-          sha256 = "1bw6a14sprkh7j8jx3qa8m9xh839fmcgkxp1dyi5khx3pqhcj89m";
+          sha256 = "";
         }
       ];
     };
@@ -13489,7 +13433,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/fc51c93a89b6feab693d0deb265e6910ceef5cc7/MIDI%20Editor/zaibuyidao_Transform%20CC.lua";
-          sha256 = "1584vp0v3zdh16bzbl83znl4pynk18zb7bxlrqicg0yw7sb5k9n5";
+          sha256 = "";
         }
       ];
     };
@@ -13503,7 +13447,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/e240f1d0f853c4a83a82bc552ebb7d96fd356064/MIDI%20Editor/zaibuyidao_Transform%20CC.lua";
-          sha256 = "1m2hmf0yx8yzihr68k327hzdqxs7p6djv110gh5fh6037xjgh030";
+          sha256 = "1w4qk0g9brphjzwbvv25z2y6nf8zzcpgy26lqq3f2i3khpvxz49r";
         }
       ];
     };
@@ -13517,7 +13461,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/1674d118eb9365dbe16129cd46355b081f64f8b4/MIDI%20Editor/zaibuyidao_Transform%20CC.lua";
-          sha256 = "0gbgfsq7hdj027f3fm8vms5mjsxknkhz2lf8ki1xqm4iy8jw720f";
+          sha256 = "0vfhaqmkakyi9pcg3kv3jgcw6p02388v5z9jrn7hdvngyl0y88j8";
         }
       ];
     };
@@ -13531,7 +13475,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/89bfa5394c949b6136521424b1e46d2b882ce291/MIDI%20Editor/zaibuyidao_Transpose.lua";
-          sha256 = "1h0zdqxl495cmiqvddycqf5zwpj3k14kl2p1ycrc3z3wn7j4y9jj";
+          sha256 = "";
         }
       ];
     };
@@ -13545,7 +13489,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/58f6e10a33307e789724b3c455901e701c3e00ff/MIDI%20Editor/zaibuyidao_Transpose.lua";
-          sha256 = "17gkvlp4dm7j9rfqznmzgly5fi25r5j283wwcy7maysmwzwk3l66";
+          sha256 = "1mg3crfkalq29j6yvr12n8p199papwpikwzisk72kr4bf9b4hd6a";
         }
       ];
     };
@@ -13559,7 +13503,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7ffbae7c0176dba465dc2d6987763cfa6978fe4/MIDI%20Editor/zaibuyidao_Transpose.lua";
-          sha256 = "14b67fv6sc9j14y9drn999a4ilmwczzjhqj9wjngv6cx2c4db6xl";
+          sha256 = "";
         }
       ];
     };
@@ -13573,7 +13517,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2bcf063eea1cb6511e2f18dc4399c91608729378/MIDI%20Editor/zaibuyidao_Transpose.lua";
-          sha256 = "0mwhn2c1p8b6z89pvd8a9v9650brkv6kmdc1xrdpjdh192na8bxw";
+          sha256 = "";
         }
       ];
     };
@@ -13643,7 +13587,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/61388d27acf0c0ca403fb6a23a3d69999a995422/MIDI%20Editor/zaibuyidao_Trim%20Note%20Left%20Edge%20(Fast).lua";
-          sha256 = "16aiw6v3n1xgbm2mj23nn7gwf01c00ys8wvn4mxi85y3lqnrqq5c";
+          sha256 = "116wc2d3724lp5fnrb9sk5i307miw97wqypcsscn8i5lnxs9r09x";
         }
       ];
     };
@@ -13671,7 +13615,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eff7a5f86ff8eae235ce3ef4825f0c8b91b83ac8/MIDI%20Editor/zaibuyidao_Trim%20Note%20Left%20Edge%20(Fast).lua";
-          sha256 = "1bbzpbphrgii1c4blfngn3wixzvj8vwzx3dr5dxmmqbsv1csxs9g";
+          sha256 = "09jmwy0qj75c6xn64wamragqhacdn7xw777k57rb7lz2500ccpmw";
         }
       ];
     };
@@ -13713,7 +13657,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7ffbae7c0176dba465dc2d6987763cfa6978fe4/MIDI%20Editor/zaibuyidao_Trim%20Note%20Left%20Edge%20+10.lua";
-          sha256 = "0k1r9bd4gmnv1n01phj02ci2a09nkia2r04sazv2xbz994kc84xy";
+          sha256 = "1y7vgdzq47xgg6yih1l8lja51vcl4b4r332r008sbq77dm1v2a8w";
         }
       ];
     };
@@ -13741,7 +13685,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6213c04016af0b673563a7c54fc518e739a34102/MIDI%20Editor/zaibuyidao_Trim%20Note%20Left%20Edge%20-10%20Ticks%20(Fast).lua";
-          sha256 = "18vydz6wx9q3dzb93qqms65q2h16nfjc4mf25mx377sja4k75sxs";
+          sha256 = "024jf3qs42mhjm0xr4d70462xnprrxp6f0xljy7mziixn758jkb7";
         }
       ];
     };
@@ -13755,7 +13699,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7ffbae7c0176dba465dc2d6987763cfa6978fe4/MIDI%20Editor/zaibuyidao_Trim%20Note%20Left%20Edge%20-10.lua";
-          sha256 = "05nx23p1k3alsbnz3ll930kypk9x0k9dvajlcvls09cypn9skw8b";
+          sha256 = "06ws192n970zsr8j3255rrd8azbyy87dvqmfpqgmzj4iqvm9340r";
         }
       ];
     };
@@ -13811,7 +13755,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c23eaa11c96b2c3015d0ad79141ef7350e996751/MIDI%20Editor/zaibuyidao_Trim%20Note%20Left%20Grid%20+1%20(Fast).lua";
-          sha256 = "18c72lb74z9xkm9gszb45bh2pcsv7cizw3vks6946mk51dfba805";
+          sha256 = "0z7x8z3l8x3ms1m2si9xjl361m140kszvr167wcz2z4wp46kyzqy";
         }
       ];
     };
@@ -16933,7 +16877,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/58f6e10a33307e789724b3c455901e701c3e00ff/Utility/zaibuyidao_Set%20Project%20Grid.lua";
-          sha256 = "1kfp6jm2n2h05csjxz8lh7cahzslqp6gjxhdbkpffqi8x3h7xxhz";
+          sha256 = "";
         }
       ];
     };
@@ -16947,7 +16891,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/ce78b9da98e5022718c00a9fc43492fa1103d9bf/Utility/zaibuyidao_Set%20Project%20Grid.lua";
-          sha256 = "0l1vh3ckq7526yyynzc0rac1262r732bnapjpa48v4mvwvlbwi1s";
+          sha256 = "";
         }
       ];
     };
@@ -17073,12 +17017,12 @@
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Item from Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b93d5f96a5bbbddcdd4cf71cb0137602dcc50e5c/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Item%20from%20Edit%20Cursor.lua";
-          sha256 = "1xkj6cm1gwp01wnqqqcl6dh2632z1xnj9hk6297bay1jvx8bggvp";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Item from First Selected Item.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b93d5f96a5bbbddcdd4cf71cb0137602dcc50e5c/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Item%20from%20First%20Selected%20Item.lua";
-          sha256 = "06vd5w9vdnngc8jah6jzjf292akgc7iigr7ip0amyb8kwj4g4632";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Item from Mouse Position.lua'';
@@ -17088,17 +17032,17 @@
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Item Without Moving Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b93d5f96a5bbbddcdd4cf71cb0137602dcc50e5c/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Item%20Without%20Moving%20Edit%20Cursor.lua";
-          sha256 = "06zyxgy8fr53kcaq8098vr77pscby4228wkl38ghh1fckyfj1b26";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo MIDI Item from Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b93d5f96a5bbbddcdd4cf71cb0137602dcc50e5c/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20MIDI%20Item%20from%20Edit%20Cursor.lua";
-          sha256 = "1419b1fvdqx62fk9y7fwwd2h18d8mad6s9nynfby60v6axmkndwb";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo MIDI Item from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b93d5f96a5bbbddcdd4cf71cb0137602dcc50e5c/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20MIDI%20Item%20from%20Mouse%20Position.lua";
-          sha256 = "0s5k68b4sxmmiyvz051jrlzl61z7qah6vljq8gh8bg3pi62bp827";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Note from Edit Cursor.lua'';
@@ -17108,7 +17052,7 @@
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Note from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b93d5f96a5bbbddcdd4cf71cb0137602dcc50e5c/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Note%20from%20Mouse%20Position.lua";
-          sha256 = "14qdm39ffgfm0a5advyrr809f7dp9a8zacm5sngwkmckvvimn8q0";
+          sha256 = "0cwbiiynmykx20s58w553h3vyq6jfzgl2w8k9qr7j71c3gk6z4sq";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track from Edit Cursor (Exclude Item Selection).lua'';
@@ -17118,12 +17062,12 @@
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track from Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b93d5f96a5bbbddcdd4cf71cb0137602dcc50e5c/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Track%20from%20Edit%20Cursor.lua";
-          sha256 = "052bypcvjkf6x58hsbkgksjx72rqx5vwvq56yc26zj062xvjbmig";
+          sha256 = "060h7rlrpc5f1phhwhgj807r0anxpw7axg643f53bqbyqxcsa8xb";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track from Mouse Position (Exclude Item Selection).lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b93d5f96a5bbbddcdd4cf71cb0137602dcc50e5c/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Track%20from%20Mouse%20Position%20(Exclude%20Item%20Selection).lua";
-          sha256 = "1ys69d20h36h093pxp2nx7cv4c40mkyg89vlw0z690gg1qgvrs82";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track from Mouse Position.lua'';
@@ -17158,7 +17102,7 @@
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo Note from Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b93d5f96a5bbbddcdd4cf71cb0137602dcc50e5c/Various/Advanced%20Solo/zaibuyidao_Instant%20Solo%20Note%20from%20Edit%20Cursor.lua";
-          sha256 = "0sgp5gkasx2q4nnflz27xb2fc1r4zn3pjw767xbm39czqilqh7qj";
+          sha256 = "006p5j12vy01jcczs28aldspl6gy324pn81bn5lh0qjxpx27vm6p";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo Note from Mouse Position.lua'';
@@ -17173,12 +17117,12 @@
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo Track from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b93d5f96a5bbbddcdd4cf71cb0137602dcc50e5c/Various/Advanced%20Solo/zaibuyidao_Instant%20Solo%20Track%20from%20Mouse%20Position.lua";
-          sha256 = "1b4yqirwjbkwvjp69wggqzbcqhqlsh12dr7hq9ab70kwa4zhz40v";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Toggle Solo Automatically for Selected Tracks.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b93d5f96a5bbbddcdd4cf71cb0137602dcc50e5c/Various/Advanced%20Solo/zaibuyidao_Toggle%20Solo%20Automatically%20for%20Selected%20Tracks.lua";
-          sha256 = "18f6s7m12q7gnx3pwwphqxsqvg96cf8ksb3hfwgz99gwajybh0pw";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Toggle Solo for Selected Tracks or Track Under Mouse.lua'';
@@ -17188,7 +17132,7 @@
         {
           path = ''Advanced Solo/zaibuyidao_Toggle Solo for Selected Tracks.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b93d5f96a5bbbddcdd4cf71cb0137602dcc50e5c/Various/Advanced%20Solo/zaibuyidao_Toggle%20Solo%20for%20Selected%20Tracks.lua";
-          sha256 = "1698y7lj7gjjldil0044kq0b55178x4jzvax3hijhdyqf6xxg85w";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Toggle Solo for Specific Track (Settings).lua'';
@@ -17227,12 +17171,12 @@
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Item from First Selected Item.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Item%20from%20First%20Selected%20Item.lua";
-          sha256 = "06vd5w9vdnngc8jah6jzjf292akgc7iigr7ip0amyb8kwj4g4632";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Item from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Item%20from%20Mouse%20Position.lua";
-          sha256 = "0s1lsjc37zy3z95kn5ri76ifyxvrlwyxxlhyr65dxw7r40rp5m94";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Item Without Moving Edit Cursor.lua'';
@@ -17247,17 +17191,17 @@
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo MIDI Item from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20MIDI%20Item%20from%20Mouse%20Position.lua";
-          sha256 = "0s5k68b4sxmmiyvz051jrlzl61z7qah6vljq8gh8bg3pi62bp827";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Note from Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Note%20from%20Edit%20Cursor.lua";
-          sha256 = "10n25543ri2pnniz4gps7zz92091b8kc7k5v618r53c8vdmsiqmp";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Note from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Note%20from%20Mouse%20Position.lua";
-          sha256 = "14qdm39ffgfm0a5advyrr809f7dp9a8zacm5sngwkmckvvimn8q0";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track from Edit Cursor (Exclude Item Selection).lua'';
@@ -17267,27 +17211,27 @@
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track from Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Track%20from%20Edit%20Cursor.lua";
-          sha256 = "052bypcvjkf6x58hsbkgksjx72rqx5vwvq56yc26zj062xvjbmig";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track from Mouse Position (Exclude Item Selection).lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Track%20from%20Mouse%20Position%20(Exclude%20Item%20Selection).lua";
-          sha256 = "1ys69d20h36h093pxp2nx7cv4c40mkyg89vlw0z690gg1qgvrs82";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Track%20from%20Mouse%20Position.lua";
-          sha256 = "1yl945byshskwv7ai0h05m6320iq29bn5zqs83cdar4g4s1ij90g";
+          sha256 = "";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track Without Moving Edit Cursor (Exclude Item Selection).lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Track%20Without%20Moving%20Edit%20Cursor%20(Exclude%20Item%20Selection).lua";
-          sha256 = "0d0pa70945d0lm2j1r2jp7kdyj39jn12knbf3371sxql08rvqhcs";
+          sha256 = "005cj0p5g06ikw0h1pzrj7m6z1b53sg91w8djjlcaz01xc4539wx";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track Without Moving Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Track%20Without%20Moving%20Edit%20Cursor.lua";
-          sha256 = "1as3vraa8j8q997fwjjjzvfwq2r6ag9avpckpp0q8am7fahra1gp";
+          sha256 = "15g32h8aqiaxb42mdzm0zmbpyis5rhifymlh0lb1n77w0jm0qb25";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo Item from Edit Cursor.lua'';
@@ -17297,12 +17241,12 @@
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo Item from First Selected Item.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Instant%20Solo%20Item%20from%20First%20Selected%20Item.lua";
-          sha256 = "076f2kkqh5ipvqf8hs4ih7611b64hx3zppjnd5ylv7dr7v7s9wf5";
+          sha256 = "09078va66i7sbdgbv7fmm2ys0j5mjj8b9ssjv32kmq8zs64vr8hl";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo Item from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Instant%20Solo%20Item%20from%20Mouse%20Position.lua";
-          sha256 = "1yqmw7r76jafn6qshkbph7ixxcg0v8qwlq87sjqxa5laz0lsfdv9";
+          sha256 = "0yx37kddcz151yaq2wh7psmli674l20cw7agjspz6rmpbxm3al3z";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo MIDI Item from Edit Cursor.lua'';
@@ -17717,12 +17661,12 @@
         {
           path = ''Articulation Map/jsfx/Articulation Map.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/e7e29dfd1c20b166286b83fcfe21db1df4083860/Various/Articulation%20Map/jsfx/Articulation%20Map.jsfx";
-          sha256 = "";
+          sha256 = "17ih6dvi2naa3p2lflmsqh13apyfzzxhl0vw28fayw5ibmqyy5fm";
         }
         {
           path = ''Articulation Map/jsfx/Pre-trigger CC Event.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/e7e29dfd1c20b166286b83fcfe21db1df4083860/Various/Articulation%20Map/jsfx/Pre-trigger%20CC%20Event.jsfx";
-          sha256 = "";
+          sha256 = "1h12p52ybagr3hbrgy8gx429zzlxsxnb6f9sbbc9idc6synx5fav";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - No GUI.lua'';
@@ -17732,7 +17676,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Note To PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/e7e29dfd1c20b166286b83fcfe21db1df4083860/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Note%20To%20PC.lua";
-          sha256 = "";
+          sha256 = "0mc0fa6jjwk6b7ij4m1785k92ihyrsvsx78yz2vljdkc16z2bc4g";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC To Note.lua'';
@@ -17757,12 +17701,12 @@
         {
           path = ''Articulation Map/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/e7e29dfd1c20b166286b83fcfe21db1df4083860/Various/Articulation%20Map/lib/core.lua";
-          sha256 = "1py53j91ip07909c7diil47fng5q4s25s2ls60yla76k5njilixd";
+          sha256 = "18saaigzi7yg8l8jw1k3fn62gxbw2lq387dwgh1v9j7lnvgknma5";
         }
         {
           path = ''Articulation Map/lib/gui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/e7e29dfd1c20b166286b83fcfe21db1df4083860/Various/Articulation%20Map/lib/gui.lua";
-          sha256 = "";
+          sha256 = "0rp0gnwv1jpgd2alnfrr2qdl2jn2nhfw8niy3a05bpza32sm5riv";
         }
         {
           path = ''Articulation Map/lib/utils.lua'';
@@ -17791,7 +17735,7 @@
         {
           path = ''Articulation Map/jsfx/pre_trigger_cc_event.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eeb41d218a370fcf711e375bbf3eeb8e5d50f30a/Various/Articulation%20Map/jsfx/pre_trigger_cc_event.jsfx";
-          sha256 = "0ajnbmfi2c4q4k34nyp85h3gy6gh9bvj69i1229ak5ljxl5xpxj7";
+          sha256 = "0ap6pk11kdaqhwbprjjvhlb7zyszj05rhgcd4qx36wx4lqhxfnnz";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - No GUI.lua'';
@@ -17821,7 +17765,7 @@
         {
           path = ''Articulation Map/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eeb41d218a370fcf711e375bbf3eeb8e5d50f30a/Various/Articulation%20Map/lib/config.lua";
-          sha256 = "1lf8lp3bfnjl1wxssa2mfgds8gnq5whhd5d85v7ffyz296qn9w5z";
+          sha256 = "0j2g335vy8bmg5s9l1m7dacja4adjizlix4x9yrvg0ygqjzvkmgq";
         }
         {
           path = ''Articulation Map/lib/core.lua'';
@@ -17831,7 +17775,7 @@
         {
           path = ''Articulation Map/lib/gui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eeb41d218a370fcf711e375bbf3eeb8e5d50f30a/Various/Articulation%20Map/lib/gui.lua";
-          sha256 = "1kh1kwqd4y1hgv23czfn7sqjvgbyid52lqmcak262j3jxqfrpa9l";
+          sha256 = "0rp0gnwv1jpgd2alnfrr2qdl2jn2nhfw8niy3a05bpza32sm5riv";
         }
         {
           path = ''Articulation Map/lib/utils.lua'';
@@ -17895,7 +17839,7 @@
         {
           path = ''Articulation Map/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f08a71efe50535aaf980450931deb24000040759/Various/Articulation%20Map/lib/core.lua";
-          sha256 = "1py53j91ip07909c7diil47fng5q4s25s2ls60yla76k5njilixd";
+          sha256 = "18saaigzi7yg8l8jw1k3fn62gxbw2lq387dwgh1v9j7lnvgknma5";
         }
         {
           path = ''Articulation Map/lib/gui.lua'';
@@ -17910,7 +17854,7 @@
         {
           path = ''Articulation Map/articulation_map_factory.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f08a71efe50535aaf980450931deb24000040759/Various/Articulation%20Map/articulation_map_factory.reabank";
-          sha256 = "16mfbzaz5hkszr1znlwx9llp8791h684yprd4sfwy6nvhps20kfr";
+          sha256 = "17hl5wk87dvf4z498vnrwg1q5bgnrmncxcxpfw1g36p6azd3xr4z";
         }
       ];
     };
@@ -21324,7 +21268,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Note to PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/07524ba6ceec601cbd08d503919ed528fe8a487e/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Note%20to%20PC.lua";
-          sha256 = "";
+          sha256 = "0z10hxvyfdyjmw99xw9a62fhpl3lf1njp3his33r7402740qa9vy";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to Note.lua'';
@@ -21379,12 +21323,12 @@
         {
           path = ''Articulation Map/banks/Cinematic Studio Strings (UACC-58).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/07524ba6ceec601cbd08d503919ed528fe8a487e/Various/Articulation%20Map/banks/Cinematic%20Studio%20Strings%20(UACC-58).reabank";
-          sha256 = "";
+          sha256 = "0hsiyq1qfvzlyv8xvysry5j417fz2s4dhzpj0csgabkh7by779ky";
         }
         {
           path = ''Articulation Map/banks/Cinematic Studio Strings.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/07524ba6ceec601cbd08d503919ed528fe8a487e/Various/Articulation%20Map/banks/Cinematic%20Studio%20Strings.reabank";
-          sha256 = "";
+          sha256 = "0hzavvwj3q546s3bznmc1qixdvvaf3hqihmxm5l1m8vvds1r0kdy";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion 1 (UACC-32).reabank'';
@@ -21399,7 +21343,7 @@
         {
           path = ''Articulation Map/banks/Spitfire Albion 3 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/07524ba6ceec601cbd08d503919ed528fe8a487e/Various/Articulation%20Map/banks/Spitfire%20Albion%203%20(UACC-32).reabank";
-          sha256 = "1sw4kb9bgnl23860s9bzf195q15cdnykymm3khy5r045bc2zxa4l";
+          sha256 = "17zb0a4mbnca1pgwi96scp5h34i105c71490n7jprdb8c149m1nk";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion ONE (UACC-32).reabank'';
@@ -21409,7 +21353,7 @@
         {
           path = ''Articulation Map/banks/Spitfire Albion V (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/07524ba6ceec601cbd08d503919ed528fe8a487e/Various/Articulation%20Map/banks/Spitfire%20Albion%20V%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "1y3v5vszd30pzw8r87cb9v8gw8v0v3v6g0akl9c7j9s8fm95hjbc";
         }
         {
           path = ''Articulation Map/banks/Spitfire Chamber Strings (UACC-32).reabank'';
@@ -21478,7 +21422,7 @@
         {
           path = ''Articulation Map/pre_trigger_events.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/jsfx/pre_trigger_events.jsfx";
-          sha256 = "";
+          sha256 = "18sg4vsfh40hpccgqrpl1r7vnar5zmjvhhpf2a2pkjl518qa64hj";
         }
         {
           path = ''zaibuyidao_articulation_map/simul-arts.txt'';
@@ -21488,7 +21432,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - No GUI.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20No%20GUI.lua";
-          sha256 = "1xn8mlsshqwj5vz3nsys76zrpxylqszhz5mg12d374nij4kcg2f9";
+          sha256 = "0l6g8pshmavvnfajfp9vq57h2nfwb1kjxb6gynb1pkd7nmpy4yrk";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - CC to PC.lua'';
@@ -21498,7 +21442,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20CC.lua";
-          sha256 = "0skfz6w8spkvx87npcydiv9wgfcjnpb52ikb3c4v4hhs722jyfmq";
+          sha256 = "1vqa1dx47f162pbwz3cwjc98f3klxjpflzvvz7j31d472k4br0wj";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to CC.lua'';
@@ -21518,12 +21462,12 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to Note.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20Note.lua";
-          sha256 = "";
+          sha256 = "0yxpf4mhlpybkn5y0n8iq4jzrkds0f4bnql5a141qmjad4dlm75z";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/zaibuyidao_Articulation%20Map.lua";
-          sha256 = "1gkyldfkybvksxs5gd3imy2h0c9zv4fzpj1wm0i5wwjnmalkhp12";
+          sha256 = "0yxq8nhm17c37rxmp4ip3g93g8q5255wb2frkrkypkb0s8vsb9gd";
         }
         {
           path = ''Articulation Map/lib/config.lua'';
@@ -21533,7 +21477,7 @@
         {
           path = ''Articulation Map/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/lib/core.lua";
-          sha256 = "";
+          sha256 = "0nwj2xdggsbr5y11n67h6pm4jds4y1d7pva1smwhaq0zdq0l8nzk";
         }
         {
           path = ''Articulation Map/lib/gui.lua'';
@@ -21548,7 +21492,7 @@
         {
           path = ''Articulation Map/banks/Ample Metal Eclipse (金属吉他).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Ample%20Metal%20Eclipse%20(%E9%87%91%E5%B1%9E%E5%90%89%E4%BB%96).reabank";
-          sha256 = "0kji3ihb20hy0x7f06cm3rs0i02w9ki61lvs996sy36fw675cwm6";
+          sha256 = "1w91dwzwr00zgkkpjf5j18i2rc6xhv3clb9xyjb9g53mn6h42n45";
         }
         {
           path = ''Articulation Map/banks/Ample Metal Hellrazer (九弦吉他).reabank'';
@@ -21563,7 +21507,7 @@
         {
           path = ''Articulation Map/banks/Ample Sound Qudi (曲笛風逸).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Ample%20Sound%20Qudi%20(%E6%9B%B2%E7%AC%9B%E9%A2%A8%E9%80%B8).reabank";
-          sha256 = "";
+          sha256 = "0l9sj2a7ck7s7z1bkxq003a5skpgj6ibkijm65jmipwladw4idyb";
         }
         {
           path = ''Articulation Map/banks/Bank-100-0 LASS 3 Full (CC Stack).reabank'';
@@ -21573,62 +21517,62 @@
         {
           path = ''Articulation Map/banks/Cinematic Studio Strings (UACC-58).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Cinematic%20Studio%20Strings%20(UACC-58).reabank";
-          sha256 = "";
+          sha256 = "0hsiyq1qfvzlyv8xvysry5j417fz2s4dhzpj0csgabkh7by779ky";
         }
         {
           path = ''Articulation Map/banks/Cinematic Studio Strings.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Cinematic%20Studio%20Strings.reabank";
-          sha256 = "";
+          sha256 = "0hzavvwj3q546s3bznmc1qixdvvaf3hqihmxm5l1m8vvds1r0kdy";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion 1 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Spitfire%20Albion%201%20(UACC-32).reabank";
-          sha256 = "0600mlvbdrpgf0km753d5j61w7f7kk7qmcby85k1y48g1fgyxlr1";
+          sha256 = "1i4xmrzi10qqssx5kbyzzvksiwsgnsr0izy5ixgnq8lvgkr9rcf9";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion 2 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Spitfire%20Albion%202%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "12vhjsm11yd578naf74vbp5j4zya8qr109fxx30hnx5nsxd4l88g";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion 3 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Spitfire%20Albion%203%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "17zb0a4mbnca1pgwi96scp5h34i105c71490n7jprdb8c149m1nk";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion ONE (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Spitfire%20Albion%20ONE%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "1llgg739fg1ywhc3nl1dgmbqlkxdaj3k9agpiy2f2d1y3xvp9i07";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion V (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Spitfire%20Albion%20V%20(UACC-32).reabank";
-          sha256 = "15iz54qi4n2rmj11h0sx1cvka0nyql89316yhxr4rgygbmgqyy2k";
+          sha256 = "1y3v5vszd30pzw8r87cb9v8gw8v0v3v6g0akl9c7j9s8fm95hjbc";
         }
         {
           path = ''Articulation Map/banks/Spitfire Chamber Strings (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Spitfire%20Chamber%20Strings%20(UACC-32).reabank";
-          sha256 = "1gpcjllqzzd0b43a66rdyyb8pkxc1pdmayc7qvm03v9k2ipxdy13";
+          sha256 = "16bshwm26s3rcfai2hv47fdprwnr2yr81ymsh84dgfxjab2gmysi";
         }
         {
           path = ''Articulation Map/banks/Spitfire Masse (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Spitfire%20Masse%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "10xv506f7ylzd1yswmmkg3r5k285xn4a656lhahpn2yw5ww98rfx";
         }
         {
           path = ''Articulation Map/banks/Spitfire Symphonic Brass (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Spitfire%20Symphonic%20Brass%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "12rx0vhpysg2a49wpln9cpjdmv181jqdpixni1l3gp802w6r3xmz";
         }
         {
           path = ''Articulation Map/banks/Spitfire Symphonic Strings (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Spitfire%20Symphonic%20Strings%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "1x795sn8g7zz6hfn0q3sfbj64ism46piawb31dp9zs4kqb27byix";
         }
         {
           path = ''Articulation Map/banks/Spitfire Symphonic Woodwinds (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Spitfire%20Symphonic%20Woodwinds%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "0xkq7qbh7137bg0hdkc921jnd993zglmzl4c4n27i602z1r2x8gr";
         }
         {
           path = ''Articulation Map/banks/Three-Body Raindrop &amp; Blade (扬琴落英).reabank'';
@@ -21643,17 +21587,17 @@
         {
           path = ''Articulation Map/banks/Three-Body Whisper of Loong (曲笛新雨).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Three-Body%20Whisper%20of%20Loong%20(%E6%9B%B2%E7%AC%9B%E6%96%B0%E9%9B%A8).reabank";
-          sha256 = "";
+          sha256 = "1x2wgz8wsf9g9n0s053lg7mn8grrf2vb6hhmah5zzlsndpw59f5f";
         }
         {
           path = ''Articulation Map/banks/Three-Body Whisper of Loong.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Three-Body%20Whisper%20of%20Loong.reabank";
-          sha256 = "";
+          sha256 = "0jvbjqagg2gd5iw3cr1p53558vnvlflbwxnh6q5d6srkbkqhhmm8";
         }
         {
           path = ''Articulation Map/articulation_map_factory.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/articulation_map_factory.reabank";
-          sha256 = "";
+          sha256 = "07hagh75mhv5dzhwzclril9is1pk8dvz6xvk6kksrb307v2l657g";
         }
       ];
     };
@@ -21667,12 +21611,12 @@
         {
           path = ''Articulation Map/articulation_map.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/jsfx/articulation_map.jsfx";
-          sha256 = "11gc0iyqrmsvbb7lff0n4b37g3j1mlwr9l3hdrkx9vs81faxp9mf";
+          sha256 = "0j9gxzhd7hy1dn9bsd0bnjx23ssn0fj96i0nyhdv0asdjnxgaga4";
         }
         {
           path = ''Articulation Map/pre_trigger_events.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/jsfx/pre_trigger_events.jsfx";
-          sha256 = "";
+          sha256 = "18sg4vsfh40hpccgqrpl1r7vnar5zmjvhhpf2a2pkjl518qa64hj";
         }
         {
           path = ''zaibuyidao_articulation_map/simul-arts.txt'';
@@ -21682,72 +21626,72 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - No GUI.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20No%20GUI.lua";
-          sha256 = "";
+          sha256 = "0l6g8pshmavvnfajfp9vq57h2nfwb1kjxb6gynb1pkd7nmpy4yrk";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - CC to PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20CC%20to%20PC.lua";
-          sha256 = "";
+          sha256 = "10w9z06mp753j8xyjq8ag8yb9mgszds3rmhwqv611pf5wm4r69qq";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20CC.lua";
-          sha256 = "";
+          sha256 = "1vqa1dx47f162pbwz3cwjc98f3klxjpflzvvz7j31d472k4br0wj";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Toggle%20PC%20to%20CC.lua";
-          sha256 = "1fglib8xmkp6yqyr3qgfk8nx1y6q9a315dkqmjy0p1vjpyk96j0x";
+          sha256 = "1qib7bhg0fid89cdfa3w8y2w6zrrrabz2z1rr3dzdjzkwp1v7pnk";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to Note.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Toggle%20PC%20to%20Note.lua";
-          sha256 = "";
+          sha256 = "00jv64hwdj3gswjvbwxwpcgr10bdr3fm4g134l5dslb9xygnz0n4";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Note to PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Note%20to%20PC.lua";
-          sha256 = "";
+          sha256 = "0z10hxvyfdyjmw99xw9a62fhpl3lf1njp3his33r7402740qa9vy";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to Note.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20Note.lua";
-          sha256 = "";
+          sha256 = "0yxpf4mhlpybkn5y0n8iq4jzrkds0f4bnql5a141qmjad4dlm75z";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/zaibuyidao_Articulation%20Map.lua";
-          sha256 = "";
+          sha256 = "1gfvw24dzhl2v41jnqbybx5mjbryyqidaajbvrik0nmij23ck0bn";
         }
         {
           path = ''Articulation Map/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/lib/config.lua";
-          sha256 = "0ix5wlf81bx6qnvm32wzky9nai52n9rqkczy8jiay53mkgmbv9pc";
+          sha256 = "0r7g1apbdq6cr9w90nf2fa0rz8brwhv14nlijh1gn03s9m2nb4b7";
         }
         {
           path = ''Articulation Map/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/lib/core.lua";
-          sha256 = "";
+          sha256 = "0nwj2xdggsbr5y11n67h6pm4jds4y1d7pva1smwhaq0zdq0l8nzk";
         }
         {
           path = ''Articulation Map/lib/gui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/lib/gui.lua";
-          sha256 = "";
+          sha256 = "16fj1zqm34m3sq4hz1yzzdc5z0wsxvzcyxv3gkwj3wrx4rj4yq9k";
         }
         {
           path = ''Articulation Map/lib/utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/lib/utils.lua";
-          sha256 = "";
+          sha256 = "0qgg3mld4218msv5m3lkmn2dqclknk35xwdbi7224793fdk6fsq2";
         }
         {
           path = ''Articulation Map/banks/Ample Metal Eclipse (金属吉他).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Ample%20Metal%20Eclipse%20(%E9%87%91%E5%B1%9E%E5%90%89%E4%BB%96).reabank";
-          sha256 = "";
+          sha256 = "1w91dwzwr00zgkkpjf5j18i2rc6xhv3clb9xyjb9g53mn6h42n45";
         }
         {
           path = ''Articulation Map/banks/Ample Metal Hellrazer (九弦吉他).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Ample%20Metal%20Hellrazer%20(%E4%B9%9D%E5%BC%A6%E5%90%89%E4%BB%96).reabank";
-          sha256 = "";
+          sha256 = "0a77krfmnqxns7azc80bzrm7wjb9n95ns70pc7w688mnxfl387rv";
         }
         {
           path = ''Articulation Map/banks/Ample Sound Erhu (二胡凝月).reabank'';
@@ -21757,12 +21701,12 @@
         {
           path = ''Articulation Map/banks/Ample Sound Qudi (曲笛風逸).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Ample%20Sound%20Qudi%20(%E6%9B%B2%E7%AC%9B%E9%A2%A8%E9%80%B8).reabank";
-          sha256 = "";
+          sha256 = "0l9sj2a7ck7s7z1bkxq003a5skpgj6ibkijm65jmipwladw4idyb";
         }
         {
           path = ''Articulation Map/banks/Bank-100-0 LASS 3 Full (CC Stack).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Bank-100-0%20LASS%203%20Full%20(CC%20Stack).reabank";
-          sha256 = "";
+          sha256 = "1998dr7cmg0gcsjsck6b3aybrnfqskhb4h5qirb4hx8pzhzl4prs";
         }
         {
           path = ''Articulation Map/banks/Cinematic Studio Strings (UACC-58).reabank'';
@@ -21782,12 +21726,12 @@
         {
           path = ''Articulation Map/banks/Spitfire Albion 2 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Spitfire%20Albion%202%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "12vhjsm11yd578naf74vbp5j4zya8qr109fxx30hnx5nsxd4l88g";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion 3 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Spitfire%20Albion%203%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "17zb0a4mbnca1pgwi96scp5h34i105c71490n7jprdb8c149m1nk";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion ONE (UACC-32).reabank'';
@@ -21797,7 +21741,7 @@
         {
           path = ''Articulation Map/banks/Spitfire Albion V (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Spitfire%20Albion%20V%20(UACC-32).reabank";
-          sha256 = "15iz54qi4n2rmj11h0sx1cvka0nyql89316yhxr4rgygbmgqyy2k";
+          sha256 = "1y3v5vszd30pzw8r87cb9v8gw8v0v3v6g0akl9c7j9s8fm95hjbc";
         }
         {
           path = ''Articulation Map/banks/Spitfire Chamber Strings (UACC-32).reabank'';
@@ -21842,7 +21786,7 @@
         {
           path = ''Articulation Map/banks/Three-Body Whisper of Loong.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Three-Body%20Whisper%20of%20Loong.reabank";
-          sha256 = "1vckz15il9g6n3wjvi10if4d6mznknzr4lrxx798w7w4gqqv7835";
+          sha256 = "0jvbjqagg2gd5iw3cr1p53558vnvlflbwxnh6q5d6srkbkqhhmm8";
         }
         {
           path = ''Articulation Map/articulation_map_factory.reabank'';
@@ -22747,7 +22691,7 @@
         {
           path = ''Articulation Map/banks/66-1 Spitfire Albion 1 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/66-1%20Spitfire%20Albion%201%20(UACC-32).reabank";
-          sha256 = "03w5xpwfk2wrjhbwbhc241riw7l5ii1ybj5q2b3jbph8ldylxkmy";
+          sha256 = "082gdx9gz6g4q6zb5gi14b2j5jd5c0nlp045dd3369xv7jcqwvfc";
         }
         {
           path = ''Articulation Map/banks/66-15 Spitfire Albion ONE (UACC-32).reabank'';
@@ -22757,7 +22701,7 @@
         {
           path = ''Articulation Map/banks/66-30 Spitfire Albion V (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/66-30%20Spitfire%20Albion%20V%20(UACC-32).reabank";
-          sha256 = "0xqmrplkygffyp4rj0dw6n3vwl1kmmrd8xnbynp588l9hrj989g9";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/66-50 Spitfire Masse (UACC-32).reabank'';
@@ -22767,7 +22711,7 @@
         {
           path = ''Articulation Map/banks/66-60 Spitfire Albion 2 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/66-60%20Spitfire%20Albion%202%20(UACC-32).reabank";
-          sha256 = "07d3n8yxwfqmhdgl791z5qbckpdd8idab97sr19c3wzza60zcyxh";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/66-70 Spitfire Albion 3 (UACC-32).reabank'';
@@ -22777,17 +22721,17 @@
         {
           path = ''Articulation Map/banks/67-1 Cinematic Studio Strings.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/67-1%20Cinematic%20Studio%20Strings.reabank";
-          sha256 = "0xcmyhrq42jq2hc89ai1xc2g7pga1xd2gjhlk6i5w5cmpbqrizw9";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/67-2 Cinematic Studio Strings (UACC-58).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/67-2%20Cinematic%20Studio%20Strings%20(UACC-58).reabank";
-          sha256 = "0kc32l3r6v88q1j2av8vk3pnrc8wg4mcaqafsl95rqvipalxd4qv";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/70-96 Ample Metal Eclipse (金属吉他).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/70-96%20Ample%20Metal%20Eclipse%20(%E9%87%91%E5%B1%9E%E5%90%89%E4%BB%96).reabank";
-          sha256 = "0ghsqwgflsrpgg23py7h8br2rig4v5vm8w29nczm7awzsrdx7kp6";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/71-96 Ample Metal Hellrazer (九弦吉他).reabank'';
@@ -22802,7 +22746,7 @@
         {
           path = ''Articulation Map/banks/73-96 Ample Sound Qudi (曲笛風逸).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/73-96%20Ample%20Sound%20Qudi%20(%E6%9B%B2%E7%AC%9B%E9%A2%A8%E9%80%B8).reabank";
-          sha256 = "0dyd2ghsz567s3phc3fq71hjd2d3x64649a2hzzdwz656asj8zbn";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/74-96 Three-Body Whisper of Loong (曲笛新雨).reabank'';
@@ -22812,7 +22756,7 @@
         {
           path = ''Articulation Map/banks/74-96 Three-Body Whisper of Loong.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/74-96%20Three-Body%20Whisper%20of%20Loong.reabank";
-          sha256 = "1lj62jcydspfr570q2wi5glp0zicxi457rn9d7imaw0ydsy5shhs";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/75-96 Three-Body Raindrop &amp; Blade (扬琴落英).reabank'';
@@ -22841,27 +22785,27 @@
         {
           path = ''Articulation Map/articulation_map.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/jsfx/articulation_map.jsfx";
-          sha256 = "1d15755qjiw2ir1q5q30hcf6jj91zgdx8vcg8mqm9izkgz5hdw5s";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/pre_trigger_events.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/jsfx/pre_trigger_events.jsfx";
-          sha256 = "18sg4vsfh40hpccgqrpl1r7vnar5zmjvhhpf2a2pkjl518qa64hj";
+          sha256 = "";
         }
         {
           path = ''zaibuyidao_articulation_map/simul-arts.txt'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/jsfx/zaibuyidao_articulation_map/simul-arts.txt";
-          sha256 = "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - No GUI.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20No%20GUI.lua";
-          sha256 = "0l6g8pshmavvnfajfp9vq57h2nfwb1kjxb6gynb1pkd7nmpy4yrk";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - CC to PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20CC%20to%20PC.lua";
-          sha256 = "10w9z06mp753j8xyjq8ag8yb9mgszds3rmhwqv611pf5wm4r69qq";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to CC.lua'';
@@ -22886,22 +22830,22 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to Note.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20Note.lua";
-          sha256 = "0yxpf4mhlpybkn5y0n8iq4jzrkds0f4bnql5a141qmjad4dlm75z";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/zaibuyidao_Articulation%20Map.lua";
-          sha256 = "02by3n8zj57kdxy7ggy13q9ygsq1b9qjpwl1csh04iqfh2q4g594";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/lib/config.lua";
-          sha256 = "0r7g1apbdq6cr9w90nf2fa0rz8brwhv14nlijh1gn03s9m2nb4b7";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/lib/core.lua";
-          sha256 = "1djxj30mygqfxvv6p6jbgbywr8w58v818sywx09s2g8zlbjzj0d9";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/lib/gui.lua'';
@@ -22916,12 +22860,12 @@
         {
           path = ''Articulation Map/banks/100-0 LASS 3 Full (CC Stack-0).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/banks/100-0%20LASS%203%20Full%20(CC%20Stack-0).reabank";
-          sha256 = "0kk4gcbkr1pkmg8zgyrb4hq4raa55lx5ki3jxizswnw6k5cyrjyl";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/120-0 Hypersonic 2.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/banks/120-0%20Hypersonic%202.reabank";
-          sha256 = "16jvn87dr437f58wwzylxq7y2qxj4l830q80yvwf6594mwrq0laq";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/64-1 Spitfire Chamber Strings (UACC-32).reabank'';
@@ -22931,7 +22875,7 @@
         {
           path = ''Articulation Map/banks/64-30 Spitfire Symphonic Strings (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/banks/64-30%20Spitfire%20Symphonic%20Strings%20(UACC-32).reabank";
-          sha256 = "0dzj9zm42nifhp08pialcvgmpx8n9lhmjmarcqlh2hj74afp0nzp";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/64-60 Spitfire Symphonic Woodwinds (UACC-32).reabank'';
@@ -22946,22 +22890,22 @@
         {
           path = ''Articulation Map/banks/66-1 Spitfire Albion 1 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/banks/66-1%20Spitfire%20Albion%201%20(UACC-32).reabank";
-          sha256 = "04iwa016zpb5scj5gda422icksc25a88g96h2lhgfp99l0wh6afx";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/66-15 Spitfire Albion ONE (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/banks/66-15%20Spitfire%20Albion%20ONE%20(UACC-32).reabank";
-          sha256 = "1w4dp7zqfnh5xj3qjy0jkzqgwdzyc7z6jjm2fm360plbnzli2ib2";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/66-30 Spitfire Albion V (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/banks/66-30%20Spitfire%20Albion%20V%20(UACC-32).reabank";
-          sha256 = "08j2n6ka70ni7h1d7nsgw4cb0sg4s4pnvyb2h5kq7j2dh6hrkgp7";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/66-50 Spitfire Masse (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/banks/66-50%20Spitfire%20Masse%20(UACC-32).reabank";
-          sha256 = "0swlyn7hzhv6kwfqwylhycczx9m7k87b03xw9zcm6jmyrnjk3sqm";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/66-60 Spitfire Albion 2 (UACC-32).reabank'';
@@ -22976,12 +22920,12 @@
         {
           path = ''Articulation Map/banks/67-1 Cinematic Studio Strings.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/banks/67-1%20Cinematic%20Studio%20Strings.reabank";
-          sha256 = "0sbfh8nvlnprl9cygfy5fcl7a4r3z9fvm75wls62fdwnixmc6r6c";
+          sha256 = "1spg31xm2m0xpkd53f4bvq805m6krv66ayc7cq7rw07kplh6h0xx";
         }
         {
           path = ''Articulation Map/banks/67-2 Cinematic Studio Strings (UACC-58).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/banks/67-2%20Cinematic%20Studio%20Strings%20(UACC-58).reabank";
-          sha256 = "1sw1i3fkqbg5slqf854aciw5vvjywjrnwzvgy5m0srq5jdyhl6xw";
+          sha256 = "05c4ag4gil2ndlgh4q34j3qdbakv080nr4ssd009smncv89iv9sz";
         }
         {
           path = ''Articulation Map/banks/70-96 Ample Metal Eclipse (金属吉他).reabank'';
@@ -23483,7 +23427,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Note to PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Note%20to%20PC.lua";
-          sha256 = "0z10hxvyfdyjmw99xw9a62fhpl3lf1njp3his33r7402740qa9vy";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to Note.lua'';
@@ -23508,17 +23452,17 @@
         {
           path = ''Articulation Map/lib/gui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/lib/gui.lua";
-          sha256 = "16fj1zqm34m3sq4hz1yzzdc5z0wsxvzcyxv3gkwj3wrx4rj4yq9k";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/lib/utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/lib/utils.lua";
-          sha256 = "0ihpr5bg9ha8bqk67yfgs53s58bppl3w7qrdnrrgkxvn9hd6mvjn";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/100-0 LASS 3 Full (CC Stack-0).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/banks/100-0%20LASS%203%20Full%20(CC%20Stack-0).reabank";
-          sha256 = "1998dr7cmg0gcsjsck6b3aybrnfqskhb4h5qirb4hx8pzhzl4prs";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/120-0 Hypersonic 2.reabank'';
@@ -23528,7 +23472,7 @@
         {
           path = ''Articulation Map/banks/61-1 Spitfire Albion 1 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/banks/61-1%20Spitfire%20Albion%201%20(UACC-32).reabank";
-          sha256 = "1qpmz3q3l8ddwr9hrcsazlynq3m07ywpmizf1v6df48ydc03g7a8";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/64-1 Spitfire Chamber Strings (UACC-32).reabank'';
@@ -23538,12 +23482,12 @@
         {
           path = ''Articulation Map/banks/64-30 Spitfire Symphonic Strings (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/banks/64-30%20Spitfire%20Symphonic%20Strings%20(UACC-32).reabank";
-          sha256 = "1x795sn8g7zz6hfn0q3sfbj64ism46piawb31dp9zs4kqb27byix";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/64-60 Spitfire Symphonic Woodwinds (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/banks/64-60%20Spitfire%20Symphonic%20Woodwinds%20(UACC-32).reabank";
-          sha256 = "0xkq7qbh7137bg0hdkc921jnd993zglmzl4c4n27i602z1r2x8gr";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/65-1 Spitfire Symphonic Brass (UACC-32).reabank'';
@@ -23553,12 +23497,12 @@
         {
           path = ''Articulation Map/banks/66-15 Spitfire Albion ONE (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/banks/66-15%20Spitfire%20Albion%20ONE%20(UACC-32).reabank";
-          sha256 = "1llgg739fg1ywhc3nl1dgmbqlkxdaj3k9agpiy2f2d1y3xvp9i07";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/66-30 Spitfire Albion V (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/banks/66-30%20Spitfire%20Albion%20V%20(UACC-32).reabank";
-          sha256 = "1y3v5vszd30pzw8r87cb9v8gw8v0v3v6g0akl9c7j9s8fm95hjbc";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/66-50 Spitfire Masse (UACC-32).reabank'';
@@ -23568,7 +23512,7 @@
         {
           path = ''Articulation Map/banks/66-60 Spitfire Albion 2 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/banks/66-60%20Spitfire%20Albion%202%20(UACC-32).reabank";
-          sha256 = "12vhjsm11yd578naf74vbp5j4zya8qr109fxx30hnx5nsxd4l88g";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/66-70 Spitfire Albion 3 (UACC-32).reabank'';
@@ -23578,7 +23522,7 @@
         {
           path = ''Articulation Map/banks/67-64 Cinematic Studio Strings.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/banks/67-64%20Cinematic%20Studio%20Strings.reabank";
-          sha256 = "1avmr9hfmkwnwfmqvgs92w98gafdp8m4iqg46am0gvbb0qyqm4z3";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/68-58 Cinematic Studio Strings (UACC-58).reabank'';
@@ -23593,7 +23537,7 @@
         {
           path = ''Articulation Map/banks/71-96 Ample Metal Hellrazer (九弦吉他).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/banks/71-96%20Ample%20Metal%20Hellrazer%20(%E4%B9%9D%E5%BC%A6%E5%90%89%E4%BB%96).reabank";
-          sha256 = "1fys15yp89d1cl82m7535lawdcx1mnvc6gkx3k9mc7bk3gb8b97f";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/72-96 Ample Sound Erhu (二胡凝月).reabank'';
@@ -23603,17 +23547,17 @@
         {
           path = ''Articulation Map/banks/73-96 Ample Sound Qudi (曲笛風逸).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/banks/73-96%20Ample%20Sound%20Qudi%20(%E6%9B%B2%E7%AC%9B%E9%A2%A8%E9%80%B8).reabank";
-          sha256 = "0w7k3yfj8h14p41gln0ahxypc6w8mqhnfv2i7zvvx942rk7xykil";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/74-96 Three-Body Whisper of Loong (曲笛新雨).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/banks/74-96%20Three-Body%20Whisper%20of%20Loong%20(%E6%9B%B2%E7%AC%9B%E6%96%B0%E9%9B%A8).reabank";
-          sha256 = "1m866a4czzgnnzqzpmwx5h9ab212lhl33w0m3pxgjdcpnm157dlm";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/74-96 Three-Body Whisper of Loong.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/banks/74-96%20Three-Body%20Whisper%20of%20Loong.reabank";
-          sha256 = "1z8ik74aypaf3nn5p25kqmw4jgf6357jwhbrjg2d1ni64j127vml";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/75-96 Three-Body Raindrop &amp; Blade (扬琴落英).reabank'';
@@ -23628,7 +23572,7 @@
         {
           path = ''Articulation Map/articulation_map_factory.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0c928e5ff9dcd46dbc5c557841db59c4cd32d0ca/Various/Articulation%20Map/articulation_map_factory.reabank";
-          sha256 = "1wpxks92cmryrhab7b4iya1q9xrmgs9s6ywfxj37k0ghm21sv5vb";
+          sha256 = "";
         }
       ];
     };
@@ -23647,7 +23591,7 @@
         {
           path = ''Articulation Map/pre_trigger_events.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/jsfx/pre_trigger_events.jsfx";
-          sha256 = "0997b1pswh0iksca8ng94l6bb51km1yjc51l8kvp94lrfdrk7im8";
+          sha256 = "";
         }
         {
           path = ''zaibuyidao_articulation_map/simul-arts.txt'';
@@ -23657,52 +23601,52 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - No GUI.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20No%20GUI.lua";
-          sha256 = "0l6g8pshmavvnfajfp9vq57h2nfwb1kjxb6gynb1pkd7nmpy4yrk";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - CC to PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20CC%20to%20PC.lua";
-          sha256 = "10w9z06mp753j8xyjq8ag8yb9mgszds3rmhwqv611pf5wm4r69qq";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20CC.lua";
-          sha256 = "1vqa1dx47f162pbwz3cwjc98f3klxjpflzvvz7j31d472k4br0wj";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Toggle%20PC%20to%20CC.lua";
-          sha256 = "1qib7bhg0fid89cdfa3w8y2w6zrrrabz2z1rr3dzdjzkwp1v7pnk";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to Note.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Toggle%20PC%20to%20Note.lua";
-          sha256 = "00jv64hwdj3gswjvbwxwpcgr10bdr3fm4g134l5dslb9xygnz0n4";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Note to PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Note%20to%20PC.lua";
-          sha256 = "0z10hxvyfdyjmw99xw9a62fhpl3lf1njp3his33r7402740qa9vy";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to Note.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20Note.lua";
-          sha256 = "0yxpf4mhlpybkn5y0n8iq4jzrkds0f4bnql5a141qmjad4dlm75z";
+          sha256 = "0fj1rgx44zqll56wkhg0zrhg4iyi365yk8brgxhdwjzcyih09m59";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/zaibuyidao_Articulation%20Map.lua";
-          sha256 = "1vjkwzwrbkn36lmfl67kyv0g30j3qrfir7v335dyci5hfp8xv9y0";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/lib/config.lua";
-          sha256 = "0r7g1apbdq6cr9w90nf2fa0rz8brwhv14nlijh1gn03s9m2nb4b7";
+          sha256 = "0ix5wlf81bx6qnvm32wzky9nai52n9rqkczy8jiay53mkgmbv9pc";
         }
         {
           path = ''Articulation Map/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/lib/core.lua";
-          sha256 = "0nwj2xdggsbr5y11n67h6pm4jds4y1d7pva1smwhaq0zdq0l8nzk";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/lib/gui.lua'';
@@ -23727,12 +23671,12 @@
         {
           path = ''Articulation Map/banks/61-1 Spitfire Albion 1 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/banks/61-1%20Spitfire%20Albion%201%20(UACC-32).reabank";
-          sha256 = "1qpmz3q3l8ddwr9hrcsazlynq3m07ywpmizf1v6df48ydc03g7a8";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/64-1 Spitfire Chamber Strings (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/banks/64-1%20Spitfire%20Chamber%20Strings%20(UACC-32).reabank";
-          sha256 = "16bshwm26s3rcfai2hv47fdprwnr2yr81ymsh84dgfxjab2gmysi";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/64-30 Spitfire Symphonic Strings (UACC-32).reabank'';
@@ -23752,7 +23696,7 @@
         {
           path = ''Articulation Map/banks/66-15 Spitfire Albion ONE (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/banks/66-15%20Spitfire%20Albion%20ONE%20(UACC-32).reabank";
-          sha256 = "1llgg739fg1ywhc3nl1dgmbqlkxdaj3k9agpiy2f2d1y3xvp9i07";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/66-30 Spitfire Albion V (UACC-32).reabank'';
@@ -23767,7 +23711,7 @@
         {
           path = ''Articulation Map/banks/66-60 Spitfire Albion 2 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/banks/66-60%20Spitfire%20Albion%202%20(UACC-32).reabank";
-          sha256 = "12vhjsm11yd578naf74vbp5j4zya8qr109fxx30hnx5nsxd4l88g";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/66-70 Spitfire Albion 3 (UACC-32).reabank'';
@@ -23777,27 +23721,27 @@
         {
           path = ''Articulation Map/banks/67-64 Cinematic Studio Strings.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/banks/67-64%20Cinematic%20Studio%20Strings.reabank";
-          sha256 = "1avmr9hfmkwnwfmqvgs92w98gafdp8m4iqg46am0gvbb0qyqm4z3";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/68-58 Cinematic Studio Strings (UACC-58).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/banks/68-58%20Cinematic%20Studio%20Strings%20(UACC-58).reabank";
-          sha256 = "1mxfmk9aq28fvn1v7d9j7bfz6p8cnxpskwq3paj99xfaj958swii";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/70-96 Ample Metal Eclipse (金属吉他).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/banks/70-96%20Ample%20Metal%20Eclipse%20(%E9%87%91%E5%B1%9E%E5%90%89%E4%BB%96).reabank";
-          sha256 = "0xzq2wcz8q2b0g4l2nxrd9y33w78vhnb5f76y6blfqp7b0dgxab3";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/71-96 Ample Metal Hellrazer (九弦吉他).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/banks/71-96%20Ample%20Metal%20Hellrazer%20(%E4%B9%9D%E5%BC%A6%E5%90%89%E4%BB%96).reabank";
-          sha256 = "1fys15yp89d1cl82m7535lawdcx1mnvc6gkx3k9mc7bk3gb8b97f";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/72-96 Ample Sound Erhu (二胡凝月).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/banks/72-96%20Ample%20Sound%20Erhu%20(%E4%BA%8C%E8%83%A1%E5%87%9D%E6%9C%88).reabank";
-          sha256 = "0iy7gj5jj5kxp7j6j8r4i54q39zf4010671j9vvy4wkashy84qw6";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/73-96 Ample Sound Qudi (曲笛風逸).reabank'';
@@ -23807,12 +23751,12 @@
         {
           path = ''Articulation Map/banks/74-96 Three-Body Whisper of Loong (曲笛新雨).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/banks/74-96%20Three-Body%20Whisper%20of%20Loong%20(%E6%9B%B2%E7%AC%9B%E6%96%B0%E9%9B%A8).reabank";
-          sha256 = "1m866a4czzgnnzqzpmwx5h9ab212lhl33w0m3pxgjdcpnm157dlm";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/74-96 Three-Body Whisper of Loong.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/banks/74-96%20Three-Body%20Whisper%20of%20Loong.reabank";
-          sha256 = "1z8ik74aypaf3nn5p25kqmw4jgf6357jwhbrjg2d1ni64j127vml";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/75-96 Three-Body Raindrop &amp; Blade (扬琴落英).reabank'';
@@ -23827,7 +23771,7 @@
         {
           path = ''Articulation Map/articulation_map_factory.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b0ca8653118aa2b4b8dd9f9cfd8abfa76e636e92/Various/Articulation%20Map/articulation_map_factory.reabank";
-          sha256 = "1ks28g5r4pakci5b85pnwqzpcr9j392q1m29b5cql1d21zpszrhp";
+          sha256 = "";
         }
       ];
     };
@@ -23851,7 +23795,7 @@
         {
           path = ''zaibuyidao_articulation_map/simul-arts.txt'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/jsfx/zaibuyidao_articulation_map/simul-arts.txt";
-          sha256 = "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - No GUI.lua'';
@@ -23871,7 +23815,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Toggle%20PC%20to%20CC.lua";
-          sha256 = "1qib7bhg0fid89cdfa3w8y2w6zrrrabz2z1rr3dzdjzkwp1v7pnk";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to Note.lua'';
@@ -23881,12 +23825,12 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Note to PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Note%20to%20PC.lua";
-          sha256 = "0z10hxvyfdyjmw99xw9a62fhpl3lf1njp3his33r7402740qa9vy";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to Note.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20Note.lua";
-          sha256 = "0yxpf4mhlpybkn5y0n8iq4jzrkds0f4bnql5a141qmjad4dlm75z";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map.lua'';
@@ -23901,12 +23845,12 @@
         {
           path = ''Articulation Map/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/lib/core.lua";
-          sha256 = "0nwj2xdggsbr5y11n67h6pm4jds4y1d7pva1smwhaq0zdq0l8nzk";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/lib/gui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/lib/gui.lua";
-          sha256 = "16fj1zqm34m3sq4hz1yzzdc5z0wsxvzcyxv3gkwj3wrx4rj4yq9k";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/lib/utils.lua'';
@@ -23916,12 +23860,12 @@
         {
           path = ''Articulation Map/banks/100-0 LASS 3 Full (CC Stack-0).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/banks/100-0%20LASS%203%20Full%20(CC%20Stack-0).reabank";
-          sha256 = "1998dr7cmg0gcsjsck6b3aybrnfqskhb4h5qirb4hx8pzhzl4prs";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/120-0 Hypersonic 2.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/banks/120-0%20Hypersonic%202.reabank";
-          sha256 = "16jvn87dr437f58wwzylxq7y2qxj4l830q80yvwf6594mwrq0laq";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/64-1 Spitfire Chamber Strings (UACC-32).reabank'';
@@ -23931,7 +23875,7 @@
         {
           path = ''Articulation Map/banks/64-30 Spitfire Symphonic Strings (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/banks/64-30%20Spitfire%20Symphonic%20Strings%20(UACC-32).reabank";
-          sha256 = "16bbkxvk46b9b604bc0iwrgx0x7l70d7hvs1prb9g4jpk63i7jr8";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/64-60 Spitfire Symphonic Woodwinds (UACC-32).reabank'';
@@ -23941,7 +23885,7 @@
         {
           path = ''Articulation Map/banks/65-1 Spitfire Symphonic Brass (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/banks/65-1%20Spitfire%20Symphonic%20Brass%20(UACC-32).reabank";
-          sha256 = "19nmvxcjnvp5d5id09clg01j6pvr9g2dwic92isf8pig7fwjjj2g";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/66-1 Spitfire Albion 1 (UACC-32).reabank'';
@@ -23956,7 +23900,7 @@
         {
           path = ''Articulation Map/banks/66-30 Spitfire Albion V (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/banks/66-30%20Spitfire%20Albion%20V%20(UACC-32).reabank";
-          sha256 = "0jvksxwpfaf65bpkw6li5k6g3qkh23xa07mhkijjlxrn04ddjgqw";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/66-50 Spitfire Masse (UACC-32).reabank'';
@@ -23971,27 +23915,27 @@
         {
           path = ''Articulation Map/banks/66-70 Spitfire Albion 3 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/banks/66-70%20Spitfire%20Albion%203%20(UACC-32).reabank";
-          sha256 = "06nkzrrhajlybzvaj6wyy07j1gxy11na60rky92zibg671l99cp8";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/67-1 Cinematic Studio Strings.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/banks/67-1%20Cinematic%20Studio%20Strings.reabank";
-          sha256 = "0cia3ilv095xp4vlqafn36m3yvhdcg24s5dzk8sb2nzb5blvfm6r";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/68-2 Cinematic Studio Strings (UACC-58).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/banks/68-2%20Cinematic%20Studio%20Strings%20(UACC-58).reabank";
-          sha256 = "1hvl95pp5lx90pnav7c4b05364w78r0hkmn69zfmpnbacac4zny5";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/70-96 Ample Metal Eclipse (金属吉他).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/banks/70-96%20Ample%20Metal%20Eclipse%20(%E9%87%91%E5%B1%9E%E5%90%89%E4%BB%96).reabank";
-          sha256 = "0xzq2wcz8q2b0g4l2nxrd9y33w78vhnb5f76y6blfqp7b0dgxab3";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/71-96 Ample Metal Hellrazer (九弦吉他).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/banks/71-96%20Ample%20Metal%20Hellrazer%20(%E4%B9%9D%E5%BC%A6%E5%90%89%E4%BB%96).reabank";
-          sha256 = "1fys15yp89d1cl82m7535lawdcx1mnvc6gkx3k9mc7bk3gb8b97f";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/72-96 Ample Sound Erhu (二胡凝月).reabank'';
@@ -24006,12 +23950,12 @@
         {
           path = ''Articulation Map/banks/74-96 Three-Body Whisper of Loong (曲笛新雨).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/banks/74-96%20Three-Body%20Whisper%20of%20Loong%20(%E6%9B%B2%E7%AC%9B%E6%96%B0%E9%9B%A8).reabank";
-          sha256 = "1m866a4czzgnnzqzpmwx5h9ab212lhl33w0m3pxgjdcpnm157dlm";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/74-96 Three-Body Whisper of Loong.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2e38320cf0aaf334140e9d51181283fcdbf3ca3a/Various/Articulation%20Map/banks/74-96%20Three-Body%20Whisper%20of%20Loong.reabank";
-          sha256 = "1z8ik74aypaf3nn5p25kqmw4jgf6357jwhbrjg2d1ni64j127vml";
+          sha256 = "";
         }
         {
           path = ''Articulation Map/banks/75-96 Three-Body Raindrop &amp; Blade (扬琴落英).reabank'';
@@ -24050,7 +23994,7 @@
         {
           path = ''SFX/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/ec04fc1d3c423f227412a8322a0ff5e1001c25e3/Various/SFX/core.lua";
-          sha256 = "0gbxlsa96cf9as990ml3svyw9lcqs611klj2rwjkfyjckvcp1dpd";
+          sha256 = "";
         }
         {
           path = ''SFX/LIP.lua'';
@@ -24060,7 +24004,7 @@
         {
           path = ''SFX/ListView.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/ec04fc1d3c423f227412a8322a0ff5e1001c25e3/Various/SFX/ListView.lua";
-          sha256 = "1ziyigd9xxy1ivv2jmkxbz6yrih4d48bgryi3nafj2z8pkmkf5rw";
+          sha256 = "";
         }
         {
           path = ''SFX/reaper-utils.lua'';
@@ -24070,17 +24014,17 @@
         {
           path = ''SFX/REQ/JGui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/ec04fc1d3c423f227412a8322a0ff5e1001c25e3/Various/SFX/REQ/JGui.lua";
-          sha256 = "1461hvfg70jvq4pxzs3xh8dva8vk7pxjxygbiqca4wxv6zrgxys3";
+          sha256 = "";
         }
         {
           path = ''SFX/REQ/JGuiColors.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/ec04fc1d3c423f227412a8322a0ff5e1001c25e3/Various/SFX/REQ/JGuiColors.lua";
-          sha256 = "06229kwfw1ciz5mj2k3fqh1077414m3nf8zkndky3nmz6rkdlsvf";
+          sha256 = "";
         }
         {
           path = ''SFX/REQ/JGuiControls.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/ec04fc1d3c423f227412a8322a0ff5e1001c25e3/Various/SFX/REQ/JGuiControls.lua";
-          sha256 = "18igbig3qw9zl5x0cxqg15qzk8y06wq76gfvqi123s4yjrm237z3";
+          sha256 = "";
         }
         {
           path = ''SFX/REQ/JGuiFunctions.lua'';
@@ -24090,7 +24034,7 @@
         {
           path = ''SFX/REQ/JProjectClass.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/ec04fc1d3c423f227412a8322a0ff5e1001c25e3/Various/SFX/REQ/JProjectClass.lua";
-          sha256 = "09wqnsdn6dps0ds662w4prhfl02m0hgz6jc29jx5d3686sa86i7y";
+          sha256 = "0yghn45r2zfqjbsmygbvg8s0s8qb9bhm5f63apq0nvnmi8f3fpwg";
         }
         {
           path = ''SFX/REQ/JProjectClassReq.lua'';
@@ -24105,17 +24049,17 @@
         {
           path = ''SFX/REQ/j_file_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/ec04fc1d3c423f227412a8322a0ff5e1001c25e3/Various/SFX/REQ/j_file_functions.lua";
-          sha256 = "10v70h0ayjijv21kbhhyp9xr5ba31jcli0z0b2jgkmpfv3n8j7sb";
+          sha256 = "1yl0yz81r4xw6mmdq5z7ybz8c2ksbhy1h7yjr6rfg81z4i3zrf25";
         }
         {
           path = ''SFX/REQ/j_settings_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/ec04fc1d3c423f227412a8322a0ff5e1001c25e3/Various/SFX/REQ/j_settings_functions.lua";
-          sha256 = "0kjz15q9ck2nvn830bpir82g7abgg49ba4ddj0sxc700mkklnbjx";
+          sha256 = "0iw073h4mz2gfcnl5ibys55kvqbhq4vcmqf4rrw4a33p3crp50a0";
         }
         {
           path = ''SFX/REQ/j_string_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/ec04fc1d3c423f227412a8322a0ff5e1001c25e3/Various/SFX/REQ/j_string_functions.lua";
-          sha256 = "1mxxqqrnpdhsxsg9ki6wq893plsj0xq1qjx80fz4v14dy3h6q3hd";
+          sha256 = "1jd0l7zj02l2jd0gazibpha2vpfk9gwrpm4lvgv1iafiyc5pdjz3";
         }
         {
           path = ''SFX/REQ/j_tables.lua'';
@@ -24561,12 +24505,12 @@
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7d495aa6c0a9c3dd081d56993953cabb74dc9b79/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7d495aa6c0a9c3dd081d56993953cabb74dc9b79/Various/SFX/lib/REQ/mouse.lua";
-          sha256 = "1aqvcxb7jqqifwhswa2b42gbm83lxbwa469rkjj4l1dzi8kj1hbd";
+          sha256 = "";
         }
         {
           path = ''SFX/rating.csv'';
@@ -24585,7 +24529,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Search.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/15f5867686dc51a719997d438ea8563c8ce2ad4e/Various/SFX/zaibuyidao_SFX%20Tag%20Search.lua";
-          sha256 = "03j9ylpmnvy73p93mg8g2153m25idlwxmqxgk7801p4ghz0k56zy";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/config.lua'';
@@ -24620,7 +24564,7 @@
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/15f5867686dc51a719997d438ea8563c8ce2ad4e/Various/SFX/lib/REQ/JGuiColors.lua";
-          sha256 = "06229kwfw1ciz5mj2k3fqh1077414m3nf8zkndky3nmz6rkdlsvf";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
@@ -24665,7 +24609,7 @@
         {
           path = ''SFX/lib/REQ/j_tables.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/15f5867686dc51a719997d438ea8563c8ce2ad4e/Various/SFX/lib/REQ/j_tables.lua";
-          sha256 = "0cg5nd8yq16q7liijaxv6nw715dgrbr6b1mhvp0nc9aawghmwhdq";
+          sha256 = "0ikq2nnwl58pmcaznq4qgr4iyasd6dzawzcbcnvph1by0h570r0w";
         }
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
@@ -24675,12 +24619,12 @@
         {
           path = ''SFX/lib/REQ/mouse.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/15f5867686dc51a719997d438ea8563c8ce2ad4e/Various/SFX/lib/REQ/mouse.lua";
-          sha256 = "1aqvcxb7jqqifwhswa2b42gbm83lxbwa469rkjj4l1dzi8kj1hbd";
+          sha256 = "";
         }
         {
           path = ''SFX/rating.csv'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/15f5867686dc51a719997d438ea8563c8ce2ad4e/Various/SFX/rating.csv";
-          sha256 = "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73";
+          sha256 = "";
         }
       ];
     };
@@ -24699,7 +24643,7 @@
         {
           path = ''SFX/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/d567b5751ea617c72232f64ab69feabe7a5cc5f5/Various/SFX/lib/config.lua";
-          sha256 = "01gwxdhzaxmmlc8jrrzhhmhrrjpyv1q0cv8c4rxhjk373gkqac36";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/core.lua'';
@@ -24709,12 +24653,12 @@
         {
           path = ''SFX/lib/LIP.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/d567b5751ea617c72232f64ab69feabe7a5cc5f5/Various/SFX/lib/LIP.lua";
-          sha256 = "0pg4rv129jrfqqsxla26y1s8pn8qkkvvj7f4qrbnfgsfm00s1hi1";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/ListView.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/d567b5751ea617c72232f64ab69feabe7a5cc5f5/Various/SFX/lib/ListView.lua";
-          sha256 = "1ziyigd9xxy1ivv2jmkxbz6yrih4d48bgryi3nafj2z8pkmkf5rw";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/reaper-utils.lua'';
@@ -24724,17 +24668,17 @@
         {
           path = ''SFX/lib/REQ/JGui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/d567b5751ea617c72232f64ab69feabe7a5cc5f5/Various/SFX/lib/REQ/JGui.lua";
-          sha256 = "1461hvfg70jvq4pxzs3xh8dva8vk7pxjxygbiqca4wxv6zrgxys3";
+          sha256 = "07nxldrcfgljwzxyr8afw5d3dgipgdxyicivskf40mn4vril0ml2";
         }
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/d567b5751ea617c72232f64ab69feabe7a5cc5f5/Various/SFX/lib/REQ/JGuiColors.lua";
-          sha256 = "06229kwfw1ciz5mj2k3fqh1077414m3nf8zkndky3nmz6rkdlsvf";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/d567b5751ea617c72232f64ab69feabe7a5cc5f5/Various/SFX/lib/REQ/JGuiControls.lua";
-          sha256 = "18igbig3qw9zl5x0cxqg15qzk8y06wq76gfvqi123s4yjrm237z3";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/REQ/JGuiFunctions.lua'';
@@ -24744,12 +24688,12 @@
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/d567b5751ea617c72232f64ab69feabe7a5cc5f5/Various/SFX/lib/REQ/JProjectClass.lua";
-          sha256 = "09wqnsdn6dps0ds662w4prhfl02m0hgz6jc29jx5d3686sa86i7y";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/REQ/JProjectClassReq.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/d567b5751ea617c72232f64ab69feabe7a5cc5f5/Various/SFX/lib/REQ/JProjectClassReq.lua";
-          sha256 = "1czgh7pzch4q1laalqhga00nj05acbi2jk1mwrp1mzvzfrdi49rb";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/REQ/jKeyboard.lua'';
@@ -24764,7 +24708,7 @@
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/d567b5751ea617c72232f64ab69feabe7a5cc5f5/Various/SFX/lib/REQ/j_settings_functions.lua";
-          sha256 = "0kjz15q9ck2nvn830bpir82g7abgg49ba4ddj0sxc700mkklnbjx";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/REQ/j_string_functions.lua'';
@@ -24789,7 +24733,7 @@
         {
           path = ''SFX/rating.csv'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/d567b5751ea617c72232f64ab69feabe7a5cc5f5/Various/SFX/rating.csv";
-          sha256 = "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73";
+          sha256 = "";
         }
       ];
     };
@@ -24803,7 +24747,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Search.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2392ea7ca3d9a0c96b7c753fa0162f1267de771e/Various/SFX/zaibuyidao_SFX%20Tag%20Search.lua";
-          sha256 = "0jxhlg25lijsqbfa4lxhzdf9dpgi54kmqiv83w44wkajviy334wq";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/config.lua'';
@@ -24818,17 +24762,17 @@
         {
           path = ''SFX/lib/LIP.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2392ea7ca3d9a0c96b7c753fa0162f1267de771e/Various/SFX/lib/LIP.lua";
-          sha256 = "0pg4rv129jrfqqsxla26y1s8pn8qkkvvj7f4qrbnfgsfm00s1hi1";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/ListView.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2392ea7ca3d9a0c96b7c753fa0162f1267de771e/Various/SFX/lib/ListView.lua";
-          sha256 = "1ziyigd9xxy1ivv2jmkxbz6yrih4d48bgryi3nafj2z8pkmkf5rw";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/reaper-utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2392ea7ca3d9a0c96b7c753fa0162f1267de771e/Various/SFX/lib/reaper-utils.lua";
-          sha256 = "09qz2iqj9083yj1pdc7hmnanbldxa5iclmx68rgklphzxr7fp7nb";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/REQ/JGui.lua'';
@@ -24838,7 +24782,7 @@
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2392ea7ca3d9a0c96b7c753fa0162f1267de771e/Various/SFX/lib/REQ/JGuiColors.lua";
-          sha256 = "06229kwfw1ciz5mj2k3fqh1077414m3nf8zkndky3nmz6rkdlsvf";
+          sha256 = "";
         }
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
@@ -24848,7 +24792,7 @@
         {
           path = ''SFX/lib/REQ/JGuiFunctions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2392ea7ca3d9a0c96b7c753fa0162f1267de771e/Various/SFX/lib/REQ/JGuiFunctions.lua";
-          sha256 = "1q2ir1q8k7bk0qwikkxczv141ydllndsffwz3n8fq1s7b7vqqvx6";
+          sha256 = "0gxb8svqycn22i7aszmn0mqp7816lqvps8jbl35w2wa7lwmrlj4a";
         }
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
@@ -24858,7 +24802,7 @@
         {
           path = ''SFX/lib/REQ/JProjectClassReq.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2392ea7ca3d9a0c96b7c753fa0162f1267de771e/Various/SFX/lib/REQ/JProjectClassReq.lua";
-          sha256 = "1czgh7pzch4q1laalqhga00nj05acbi2jk1mwrp1mzvzfrdi49rb";
+          sha256 = "18qqhfjijm6dximnj2zf8sl3f6ddwz6dmiliqvjcslvnvj7wran3";
         }
         {
           path = ''SFX/lib/REQ/jKeyboard.lua'';
@@ -24868,7 +24812,7 @@
         {
           path = ''SFX/lib/REQ/j_file_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2392ea7ca3d9a0c96b7c753fa0162f1267de771e/Various/SFX/lib/REQ/j_file_functions.lua";
-          sha256 = "10v70h0ayjijv21kbhhyp9xr5ba31jcli0z0b2jgkmpfv3n8j7sb";
+          sha256 = "1yl0yz81r4xw6mmdq5z7ybz8c2ksbhy1h7yjr6rfg81z4i3zrf25";
         }
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
@@ -24888,12 +24832,12 @@
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2392ea7ca3d9a0c96b7c753fa0162f1267de771e/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
+          sha256 = "17rls7sy6iz14vipp6cbn4lhiw237bmpmcznv492hkfxd1bh8ihi";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2392ea7ca3d9a0c96b7c753fa0162f1267de771e/Various/SFX/lib/REQ/mouse.lua";
-          sha256 = "1aqvcxb7jqqifwhswa2b42gbm83lxbwa469rkjj4l1dzi8kj1hbd";
+          sha256 = "17kbhqm6s2n5c8a1mf118nklnrig3ffz3caqg8cfibrmgmcwrcmr";
         }
         {
           path = ''SFX/rating.csv'';
@@ -25998,12 +25942,12 @@
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/815c9ffaca4073471fd86ad75ca97c177540e255/Various/SFX/lib/REQ/JGuiColors.lua";
-          sha256 = "";
+          sha256 = "06229kwfw1ciz5mj2k3fqh1077414m3nf8zkndky3nmz6rkdlsvf";
         }
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/815c9ffaca4073471fd86ad75ca97c177540e255/Various/SFX/lib/REQ/JGuiControls.lua";
-          sha256 = "";
+          sha256 = "18igbig3qw9zl5x0cxqg15qzk8y06wq76gfvqi123s4yjrm237z3";
         }
         {
           path = ''SFX/lib/REQ/JGuiFunctions.lua'';
@@ -26033,7 +25977,7 @@
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/815c9ffaca4073471fd86ad75ca97c177540e255/Various/SFX/lib/REQ/j_settings_functions.lua";
-          sha256 = "";
+          sha256 = "0kjz15q9ck2nvn830bpir82g7abgg49ba4ddj0sxc700mkklnbjx";
         }
         {
           path = ''SFX/lib/REQ/j_string_functions.lua'';
@@ -26048,7 +25992,7 @@
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/815c9ffaca4073471fd86ad75ca97c177540e255/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "";
+          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
@@ -26058,7 +26002,7 @@
         {
           path = ''SFX/rating.csv'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/815c9ffaca4073471fd86ad75ca97c177540e255/Various/SFX/rating.csv";
-          sha256 = "";
+          sha256 = "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73";
         }
       ];
     };
@@ -26072,7 +26016,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Search.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/aa33f3f571e84f0c37b6b25f9e123e5a0967737b/Various/SFX/zaibuyidao_SFX%20Tag%20Search.lua";
-          sha256 = "";
+          sha256 = "1hsznrclq4842i097nf280d7aw65m79h0clzxc29zdqvhf3xyc5r";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Album.lua'';
@@ -26097,17 +26041,17 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Category.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/aa33f3f571e84f0c37b6b25f9e123e5a0967737b/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Category.lua";
-          sha256 = "";
+          sha256 = "1qhp097wpcwsy9r39ipck2cgr2ka0dwajic2z9n0d7kr212slmsg";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/aa33f3f571e84f0c37b6b25f9e123e5a0967737b/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20SubCategory.lua";
-          sha256 = "";
+          sha256 = "09pg8kfa83z8qxv533yp68yzz8xk52l5q5j450brfjpjn38y7z7f";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CatID.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/aa33f3f571e84f0c37b6b25f9e123e5a0967737b/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CatID.lua";
-          sha256 = "";
+          sha256 = "1yaqpqk241l1jh2760hm4sj8y7c1qa4i31q6njk7a1icxzndgw70";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Keywords.lua'';
@@ -26122,12 +26066,12 @@
         {
           path = ''SFX/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/aa33f3f571e84f0c37b6b25f9e123e5a0967737b/Various/SFX/lib/config.lua";
-          sha256 = "";
+          sha256 = "0vpnkp1kvh40wqsb2riqf0gz999im70s34y4mb4w3k20wp7nsdyi";
         }
         {
           path = ''SFX/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/aa33f3f571e84f0c37b6b25f9e123e5a0967737b/Various/SFX/lib/core.lua";
-          sha256 = "";
+          sha256 = "0iwh41vabavidakpkrr5jjqhfdm50hl2hc1yffkx0pi45ygw04kq";
         }
         {
           path = ''SFX/lib/LIP.lua'';
@@ -26147,7 +26091,7 @@
         {
           path = ''SFX/lib/REQ/JGui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/aa33f3f571e84f0c37b6b25f9e123e5a0967737b/Various/SFX/lib/REQ/JGui.lua";
-          sha256 = "";
+          sha256 = "19naw5c9qjwhx8mcvfw881s2lib5p6nmq3dqk2xn6q3wyhwr4hil";
         }
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
@@ -26157,22 +26101,22 @@
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/aa33f3f571e84f0c37b6b25f9e123e5a0967737b/Various/SFX/lib/REQ/JGuiControls.lua";
-          sha256 = "";
+          sha256 = "18igbig3qw9zl5x0cxqg15qzk8y06wq76gfvqi123s4yjrm237z3";
         }
         {
           path = ''SFX/lib/REQ/JGuiFunctions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/aa33f3f571e84f0c37b6b25f9e123e5a0967737b/Various/SFX/lib/REQ/JGuiFunctions.lua";
-          sha256 = "";
+          sha256 = "1q2ir1q8k7bk0qwikkxczv141ydllndsffwz3n8fq1s7b7vqqvx6";
         }
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/aa33f3f571e84f0c37b6b25f9e123e5a0967737b/Various/SFX/lib/REQ/JProjectClass.lua";
-          sha256 = "0yghn45r2zfqjbsmygbvg8s0s8qb9bhm5f63apq0nvnmi8f3fpwg";
+          sha256 = "09wqnsdn6dps0ds662w4prhfl02m0hgz6jc29jx5d3686sa86i7y";
         }
         {
           path = ''SFX/lib/REQ/JProjectClassReq.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/aa33f3f571e84f0c37b6b25f9e123e5a0967737b/Various/SFX/lib/REQ/JProjectClassReq.lua";
-          sha256 = "";
+          sha256 = "1czgh7pzch4q1laalqhga00nj05acbi2jk1mwrp1mzvzfrdi49rb";
         }
         {
           path = ''SFX/lib/REQ/jKeyboard.lua'';
@@ -26207,7 +26151,7 @@
         {
           path = ''SFX/lib/REQ/mouse.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/aa33f3f571e84f0c37b6b25f9e123e5a0967737b/Various/SFX/lib/REQ/mouse.lua";
-          sha256 = "17kbhqm6s2n5c8a1mf118nklnrig3ffz3caqg8cfibrmgmcwrcmr";
+          sha256 = "1aqvcxb7jqqifwhswa2b42gbm83lxbwa469rkjj4l1dzi8kj1hbd";
         }
         {
           path = ''SFX/rating.csv'';
@@ -26236,12 +26180,12 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Comment.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92550ee8dd71480520ce9d0cd357d342fc2fb069/Various/SFX/zaibuyidao_SFX%20Tag%20Comment.lua";
-          sha256 = "0v1caq0g3kmsm403g98m0h16g0v1p97q1wffcg91vw5gp31xhz2c";
+          sha256 = "1zc58pfk6017z6z0j89qgr0h4vqlzymw9i3xr0f7g35rj5xb8bm2";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Description.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92550ee8dd71480520ce9d0cd357d342fc2fb069/Various/SFX/zaibuyidao_SFX%20Tag%20Description.lua";
-          sha256 = "03d4c2g07m90nm4wbzijhvqmczgb93vr63d64h2n1ws18c5qkf2a";
+          sha256 = "1qi56zwd0ihk3f73lp4icfa8465xrq2zwgnab57ph6kvg2bkh3h3";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag File.lua'';
@@ -26281,17 +26225,17 @@
         {
           path = ''SFX/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92550ee8dd71480520ce9d0cd357d342fc2fb069/Various/SFX/lib/config.lua";
-          sha256 = "";
+          sha256 = "0vpnkp1kvh40wqsb2riqf0gz999im70s34y4mb4w3k20wp7nsdyi";
         }
         {
           path = ''SFX/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92550ee8dd71480520ce9d0cd357d342fc2fb069/Various/SFX/lib/core.lua";
-          sha256 = "0q2b3378j5y6j4hmyh7mxw5g2hjw9j6gqx2dca7vfyg62a5c5j27";
+          sha256 = "0iwh41vabavidakpkrr5jjqhfdm50hl2hc1yffkx0pi45ygw04kq";
         }
         {
           path = ''SFX/lib/LIP.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92550ee8dd71480520ce9d0cd357d342fc2fb069/Various/SFX/lib/LIP.lua";
-          sha256 = "";
+          sha256 = "0pg4rv129jrfqqsxla26y1s8pn8qkkvvj7f4qrbnfgsfm00s1hi1";
         }
         {
           path = ''SFX/lib/ListView.lua'';
@@ -26301,12 +26245,12 @@
         {
           path = ''SFX/lib/reaper-utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92550ee8dd71480520ce9d0cd357d342fc2fb069/Various/SFX/lib/reaper-utils.lua";
-          sha256 = "";
+          sha256 = "0jhcmz4fkcdc3ni6hirha45sfjz0sh3rqcrn911vxnx7hw98dh6a";
         }
         {
           path = ''SFX/lib/REQ/JGui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92550ee8dd71480520ce9d0cd357d342fc2fb069/Various/SFX/lib/REQ/JGui.lua";
-          sha256 = "0zfdqzbxzq8g8lrqq2wpz02z6j01xzi9d9zyv9piy85z6g6j8vij";
+          sha256 = "19naw5c9qjwhx8mcvfw881s2lib5p6nmq3dqk2xn6q3wyhwr4hil";
         }
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
@@ -26321,7 +26265,7 @@
         {
           path = ''SFX/lib/REQ/JGuiFunctions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92550ee8dd71480520ce9d0cd357d342fc2fb069/Various/SFX/lib/REQ/JGuiFunctions.lua";
-          sha256 = "";
+          sha256 = "1q2ir1q8k7bk0qwikkxczv141ydllndsffwz3n8fq1s7b7vqqvx6";
         }
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
@@ -26331,17 +26275,17 @@
         {
           path = ''SFX/lib/REQ/JProjectClassReq.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92550ee8dd71480520ce9d0cd357d342fc2fb069/Various/SFX/lib/REQ/JProjectClassReq.lua";
-          sha256 = "";
+          sha256 = "1czgh7pzch4q1laalqhga00nj05acbi2jk1mwrp1mzvzfrdi49rb";
         }
         {
           path = ''SFX/lib/REQ/jKeyboard.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92550ee8dd71480520ce9d0cd357d342fc2fb069/Various/SFX/lib/REQ/jKeyboard.lua";
-          sha256 = "";
+          sha256 = "1n6shy125q01lxiif5fq7smiarz14ir667yzhr7byx9scf1wxhmd";
         }
         {
           path = ''SFX/lib/REQ/j_file_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92550ee8dd71480520ce9d0cd357d342fc2fb069/Various/SFX/lib/REQ/j_file_functions.lua";
-          sha256 = "1yl0yz81r4xw6mmdq5z7ybz8c2ksbhy1h7yjr6rfg81z4i3zrf25";
+          sha256 = "10v70h0ayjijv21kbhhyp9xr5ba31jcli0z0b2jgkmpfv3n8j7sb";
         }
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
@@ -26361,7 +26305,7 @@
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92550ee8dd71480520ce9d0cd357d342fc2fb069/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "";
+          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
@@ -26395,7 +26339,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Album.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/zaibuyidao_SFX%20Tag%20Album.lua";
-          sha256 = "";
+          sha256 = "0zza87y2wxqir043ir636slxqibzyx31km74c0rhg5fqch14fs4g";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Comment.lua'';
@@ -26405,22 +26349,22 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Description.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/zaibuyidao_SFX%20Tag%20Description.lua";
-          sha256 = "03d4c2g07m90nm4wbzijhvqmczgb93vr63d64h2n1ws18c5qkf2a";
+          sha256 = "1qi56zwd0ihk3f73lp4icfa8465xrq2zwgnab57ph6kvg2bkh3h3";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag File.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/zaibuyidao_SFX%20Tag%20File.lua";
-          sha256 = "119w4x4lanjhr126k3yh5hhjhq42pfk0kjyl7947l9bhzcvi2nqq";
+          sha256 = "1ccwnblri5vl3z6vd9s973lwv9xn704vsjly0dydlcx0svl6m97b";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Genre.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/zaibuyidao_SFX%20Tag%20Genre.lua";
-          sha256 = "";
+          sha256 = "18x0vydqfsbzy0nxd46mnbskg95p39k0qp5lp4njhysfl6pfwil8";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CategoryFull.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CategoryFull.lua";
-          sha256 = "";
+          sha256 = "0zckai4zzilcwmm2vysc210p3czkmz8p8km1c8wa98mv3da2rdc5";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Category.lua'';
@@ -26430,12 +26374,12 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20SubCategory.lua";
-          sha256 = "0fif2ybk0521sdljj03bag7000kwl32xqiharc61i9iizsdljf30";
+          sha256 = "09pg8kfa83z8qxv533yp68yzz8xk52l5q5j450brfjpjn38y7z7f";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CatID.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CatID.lua";
-          sha256 = "";
+          sha256 = "1yaqpqk241l1jh2760hm4sj8y7c1qa4i31q6njk7a1icxzndgw70";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Keywords.lua'';
@@ -26450,12 +26394,12 @@
         {
           path = ''SFX/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/lib/config.lua";
-          sha256 = "";
+          sha256 = "0vpnkp1kvh40wqsb2riqf0gz999im70s34y4mb4w3k20wp7nsdyi";
         }
         {
           path = ''SFX/lib/config-custom.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/lib/config-custom.lua";
-          sha256 = "";
+          sha256 = "01lq90w6vc3d67vgzbwsha67cscpkmkj0j8d6l1my15khwxjxc7p";
         }
         {
           path = ''SFX/lib/core.lua'';
@@ -26470,7 +26414,7 @@
         {
           path = ''SFX/lib/ListView.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/lib/ListView.lua";
-          sha256 = "07gjzcn875ar5kiyhcn7z20fwxzy1iijp2xzpi9l8psjfdicz8vw";
+          sha256 = "1ziyigd9xxy1ivv2jmkxbz6yrih4d48bgryi3nafj2z8pkmkf5rw";
         }
         {
           path = ''SFX/lib/reaper-utils.lua'';
@@ -26485,12 +26429,12 @@
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/lib/REQ/JGuiColors.lua";
-          sha256 = "";
+          sha256 = "06229kwfw1ciz5mj2k3fqh1077414m3nf8zkndky3nmz6rkdlsvf";
         }
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/lib/REQ/JGuiControls.lua";
-          sha256 = "";
+          sha256 = "18igbig3qw9zl5x0cxqg15qzk8y06wq76gfvqi123s4yjrm237z3";
         }
         {
           path = ''SFX/lib/REQ/JGuiFunctions.lua'';
@@ -26500,42 +26444,42 @@
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/lib/REQ/JProjectClass.lua";
-          sha256 = "0yghn45r2zfqjbsmygbvg8s0s8qb9bhm5f63apq0nvnmi8f3fpwg";
+          sha256 = "09wqnsdn6dps0ds662w4prhfl02m0hgz6jc29jx5d3686sa86i7y";
         }
         {
           path = ''SFX/lib/REQ/JProjectClassReq.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/lib/REQ/JProjectClassReq.lua";
-          sha256 = "";
+          sha256 = "1czgh7pzch4q1laalqhga00nj05acbi2jk1mwrp1mzvzfrdi49rb";
         }
         {
           path = ''SFX/lib/REQ/jKeyboard.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/lib/REQ/jKeyboard.lua";
-          sha256 = "";
+          sha256 = "1n6shy125q01lxiif5fq7smiarz14ir667yzhr7byx9scf1wxhmd";
         }
         {
           path = ''SFX/lib/REQ/j_file_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/lib/REQ/j_file_functions.lua";
-          sha256 = "";
+          sha256 = "10v70h0ayjijv21kbhhyp9xr5ba31jcli0z0b2jgkmpfv3n8j7sb";
         }
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/lib/REQ/j_settings_functions.lua";
-          sha256 = "";
+          sha256 = "0kjz15q9ck2nvn830bpir82g7abgg49ba4ddj0sxc700mkklnbjx";
         }
         {
           path = ''SFX/lib/REQ/j_string_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/lib/REQ/j_string_functions.lua";
-          sha256 = "";
+          sha256 = "1mxxqqrnpdhsxsg9ki6wq893plsj0xq1qjx80fz4v14dy3h6q3hd";
         }
         {
           path = ''SFX/lib/REQ/j_tables.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/lib/REQ/j_tables.lua";
-          sha256 = "";
+          sha256 = "0cg5nd8yq16q7liijaxv6nw715dgrbr6b1mhvp0nc9aawghmwhdq";
         }
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "";
+          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
@@ -26545,7 +26489,7 @@
         {
           path = ''SFX/rating.csv'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6d3f459facb91b20f472a327c7a96dbffeb3ae25/Various/SFX/rating.csv";
-          sha256 = "";
+          sha256 = "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73";
         }
       ];
     };
@@ -26559,17 +26503,17 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Search.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/zaibuyidao_SFX%20Tag%20Search.lua";
-          sha256 = "";
+          sha256 = "19jn7xfbs75vfz3fkcfb8v640dhbc1182qs6g20c3f0jk5g42vnn";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Search Custom.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/zaibuyidao_SFX%20Tag%20Search%20Custom.lua";
-          sha256 = "";
+          sha256 = "1m4zrpxi4r5vx9m4vrynlv47g7ggijqsl08knns9qmvwxmdzyg9y";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Album.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/zaibuyidao_SFX%20Tag%20Album.lua";
-          sha256 = "";
+          sha256 = "0akmpvbwps4zy8i54k6pjy7h9iq4fvmwc3f4qnrlszbsvm8gh6v7";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Comment.lua'';
@@ -26579,22 +26523,22 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Description.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/zaibuyidao_SFX%20Tag%20Description.lua";
-          sha256 = "";
+          sha256 = "1wzmjg1sn9xd8h3z5dc3x3f7rwvzlnjw3h2hyfbqaf6mykskanmp";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag File.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/zaibuyidao_SFX%20Tag%20File.lua";
-          sha256 = "";
+          sha256 = "1sip35b5cfpglippfhdv3fb8sf0dnrjw4lhsbn10w1v0xy287i94";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Genre.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/zaibuyidao_SFX%20Tag%20Genre.lua";
-          sha256 = "";
+          sha256 = "0x1y61gv6wdbggnhn4qlzz42s8adkhsz3800rwzdfs997cg7r2ak";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CategoryFull.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CategoryFull.lua";
-          sha256 = "";
+          sha256 = "04kbakqnng4ji549smyx2n3hq47czrpbnwlyw94m0fflgb3i86pn";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Category.lua'';
@@ -26604,22 +26548,22 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20SubCategory.lua";
-          sha256 = "";
+          sha256 = "1gfg6dxn1b78fn350cjx09p3v3dcvynri0fh9vb8i6r3wwwf31n3";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CatID.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CatID.lua";
-          sha256 = "";
+          sha256 = "1k3cm5whsb6j0wj8g33207hkdlqgmqq8nf6givs0cksa960cwnh1";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Keywords.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Keywords.lua";
-          sha256 = "";
+          sha256 = "0391y0sr04zzcggc7naf1ymflcivkwv57g8zdb38qm2q0y6876pf";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Library.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Library.lua";
-          sha256 = "";
+          sha256 = "0gr7b17p6643xx15jg7ll9wf35nx27rzzv8l324z913rghr2n8xr";
         }
         {
           path = ''SFX/lib/config.lua'';
@@ -26629,27 +26573,27 @@
         {
           path = ''SFX/lib/config-custom.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/lib/config-custom.lua";
-          sha256 = "";
+          sha256 = "01lq90w6vc3d67vgzbwsha67cscpkmkj0j8d6l1my15khwxjxc7p";
         }
         {
           path = ''SFX/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/lib/core.lua";
-          sha256 = "";
+          sha256 = "0iwh41vabavidakpkrr5jjqhfdm50hl2hc1yffkx0pi45ygw04kq";
         }
         {
           path = ''SFX/lib/LIP.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/lib/LIP.lua";
-          sha256 = "1jw3kygrcnl5rffzzhr9nr87gnl5fsamy7zy60nhwj72sj95nh7c";
+          sha256 = "0pg4rv129jrfqqsxla26y1s8pn8qkkvvj7f4qrbnfgsfm00s1hi1";
         }
         {
           path = ''SFX/lib/ListView.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/lib/ListView.lua";
-          sha256 = "07gjzcn875ar5kiyhcn7z20fwxzy1iijp2xzpi9l8psjfdicz8vw";
+          sha256 = "1ziyigd9xxy1ivv2jmkxbz6yrih4d48bgryi3nafj2z8pkmkf5rw";
         }
         {
           path = ''SFX/lib/reaper-utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/lib/reaper-utils.lua";
-          sha256 = "";
+          sha256 = "0jhcmz4fkcdc3ni6hirha45sfjz0sh3rqcrn911vxnx7hw98dh6a";
         }
         {
           path = ''SFX/lib/REQ/JGui.lua'';
@@ -26664,12 +26608,12 @@
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/lib/REQ/JGuiControls.lua";
-          sha256 = "";
+          sha256 = "18igbig3qw9zl5x0cxqg15qzk8y06wq76gfvqi123s4yjrm237z3";
         }
         {
           path = ''SFX/lib/REQ/JGuiFunctions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/lib/REQ/JGuiFunctions.lua";
-          sha256 = "0gxb8svqycn22i7aszmn0mqp7816lqvps8jbl35w2wa7lwmrlj4a";
+          sha256 = "1q2ir1q8k7bk0qwikkxczv141ydllndsffwz3n8fq1s7b7vqqvx6";
         }
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
@@ -26714,7 +26658,7 @@
         {
           path = ''SFX/lib/REQ/mouse.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eb9387744095e4037abb8a7ac219c899da27a161/Various/SFX/lib/REQ/mouse.lua";
-          sha256 = "";
+          sha256 = "1aqvcxb7jqqifwhswa2b42gbm83lxbwa469rkjj4l1dzi8kj1hbd";
         }
         {
           path = ''SFX/rating.csv'';
@@ -26738,7 +26682,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Search Custom.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6fa958018b2c903c593fe3922555b0435e40fca4/Various/SFX/zaibuyidao_SFX%20Tag%20Search%20Custom.lua";
-          sha256 = "";
+          sha256 = "1m4zrpxi4r5vx9m4vrynlv47g7ggijqsl08knns9qmvwxmdzyg9y";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Album.lua'';
@@ -26753,7 +26697,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Description.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6fa958018b2c903c593fe3922555b0435e40fca4/Various/SFX/zaibuyidao_SFX%20Tag%20Description.lua";
-          sha256 = "";
+          sha256 = "1wzmjg1sn9xd8h3z5dc3x3f7rwvzlnjw3h2hyfbqaf6mykskanmp";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag File.lua'';
@@ -26763,7 +26707,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Genre.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6fa958018b2c903c593fe3922555b0435e40fca4/Various/SFX/zaibuyidao_SFX%20Tag%20Genre.lua";
-          sha256 = "";
+          sha256 = "0x1y61gv6wdbggnhn4qlzz42s8adkhsz3800rwzdfs997cg7r2ak";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CategoryFull.lua'';
@@ -26783,17 +26727,17 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CatID.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6fa958018b2c903c593fe3922555b0435e40fca4/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CatID.lua";
-          sha256 = "0bga2cdbbvxy5i6jnaxrnmfwzjyi9wck4z4kjwldlfxdmd3m1rr6";
+          sha256 = "1k3cm5whsb6j0wj8g33207hkdlqgmqq8nf6givs0cksa960cwnh1";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Keywords.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6fa958018b2c903c593fe3922555b0435e40fca4/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Keywords.lua";
-          sha256 = "05hkms9qlrrd6d8mgifk3122bvfs5iz6yrmyjmpibg6lvdq8k7r8";
+          sha256 = "0391y0sr04zzcggc7naf1ymflcivkwv57g8zdb38qm2q0y6876pf";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Library.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6fa958018b2c903c593fe3922555b0435e40fca4/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Library.lua";
-          sha256 = "0s1lbi9f8w12d2wca1fbllwcagafi7q1lssacpz0cx4qy1frs326";
+          sha256 = "0gr7b17p6643xx15jg7ll9wf35nx27rzzv8l324z913rghr2n8xr";
         }
         {
           path = ''SFX/lib/config.lua'';
@@ -26803,7 +26747,7 @@
         {
           path = ''SFX/lib/config-custom.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6fa958018b2c903c593fe3922555b0435e40fca4/Various/SFX/lib/config-custom.lua";
-          sha256 = "19nwfklwasw9315xldgfz3aqpx23wk70xsc5i9xcpd9rfqrfqaz5";
+          sha256 = "01lq90w6vc3d67vgzbwsha67cscpkmkj0j8d6l1my15khwxjxc7p";
         }
         {
           path = ''SFX/lib/core.lua'';
@@ -28066,7 +28010,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Category.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0f0857e1628c5b21651f2a80eeb5ef478c356914/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Category.lua";
-          sha256 = "";
+          sha256 = "1dvia20h90hbn22ld649xzdhyr17wmdg5m8b9k25s2r4bfc1sb0i";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
@@ -28076,7 +28020,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CategoryFull.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0f0857e1628c5b21651f2a80eeb5ef478c356914/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CategoryFull.lua";
-          sha256 = "";
+          sha256 = "04kbakqnng4ji549smyx2n3hq47czrpbnwlyw94m0fflgb3i86pn";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Keywords.lua'';
@@ -28096,12 +28040,12 @@
         {
           path = ''SFX/lib/config-custom.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0f0857e1628c5b21651f2a80eeb5ef478c356914/Various/SFX/lib/config-custom.lua";
-          sha256 = "1r502c43nny0lhfnai91slzrixpcy2f0zgpng6xpxhhbx9bnjv83";
+          sha256 = "15lsqlxdszc1wnhqv00vggri7izspzw174jkbjd6y5j40zv7yhsh";
         }
         {
           path = ''SFX/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0f0857e1628c5b21651f2a80eeb5ef478c356914/Various/SFX/lib/core.lua";
-          sha256 = "";
+          sha256 = "0iwh41vabavidakpkrr5jjqhfdm50hl2hc1yffkx0pi45ygw04kq";
         }
         {
           path = ''SFX/lib/LIP.lua'';
@@ -28116,7 +28060,7 @@
         {
           path = ''SFX/lib/reaper-utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0f0857e1628c5b21651f2a80eeb5ef478c356914/Various/SFX/lib/reaper-utils.lua";
-          sha256 = "";
+          sha256 = "0jhcmz4fkcdc3ni6hirha45sfjz0sh3rqcrn911vxnx7hw98dh6a";
         }
         {
           path = ''SFX/lib/pinyin.lua'';
@@ -28126,7 +28070,7 @@
         {
           path = ''SFX/lib/REQ/JGui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0f0857e1628c5b21651f2a80eeb5ef478c356914/Various/SFX/lib/REQ/JGui.lua";
-          sha256 = "";
+          sha256 = "19naw5c9qjwhx8mcvfw881s2lib5p6nmq3dqk2xn6q3wyhwr4hil";
         }
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
@@ -28146,7 +28090,7 @@
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0f0857e1628c5b21651f2a80eeb5ef478c356914/Various/SFX/lib/REQ/JProjectClass.lua";
-          sha256 = "0yghn45r2zfqjbsmygbvg8s0s8qb9bhm5f63apq0nvnmi8f3fpwg";
+          sha256 = "09wqnsdn6dps0ds662w4prhfl02m0hgz6jc29jx5d3686sa86i7y";
         }
         {
           path = ''SFX/lib/REQ/JProjectClassReq.lua'';
@@ -28181,12 +28125,12 @@
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0f0857e1628c5b21651f2a80eeb5ef478c356914/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "";
+          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0f0857e1628c5b21651f2a80eeb5ef478c356914/Various/SFX/lib/REQ/mouse.lua";
-          sha256 = "";
+          sha256 = "1aqvcxb7jqqifwhswa2b42gbm83lxbwa469rkjj4l1dzi8kj1hbd";
         }
         {
           path = ''SFX/rating.csv'';
@@ -28210,7 +28154,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Search Custom.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/zaibuyidao_SFX%20Tag%20Search%20Custom.lua";
-          sha256 = "";
+          sha256 = "0wxlq2v72f2jqvggvg49m1phjvmlmxihxlq2lgyn0djgl9qi1xa8";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Album.lua'';
@@ -28220,17 +28164,17 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Comment.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/zaibuyidao_SFX%20Tag%20Comment.lua";
-          sha256 = "0y7p211nvs4h5lxvd81gbbyclj20g2wmy1rz8z4k1kghppbcxgjd";
+          sha256 = "1a4mafq3h7nb53isp4wgxzi9apwlyf6sj9gck2zx0x14frj3v0x9";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Description.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/zaibuyidao_SFX%20Tag%20Description.lua";
-          sha256 = "";
+          sha256 = "1wzmjg1sn9xd8h3z5dc3x3f7rwvzlnjw3h2hyfbqaf6mykskanmp";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag File Name.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/zaibuyidao_SFX%20Tag%20File%20Name.lua";
-          sha256 = "";
+          sha256 = "0w2r41s8l5p59z4sy2g9qgbgcs9lxmxx10hdjhs1nv9ihrkbwzvk";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Genre.lua'';
@@ -28260,7 +28204,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20SubCategory.lua";
-          sha256 = "05kzp2x9xaj2w8mpbrcwg6qlm4w309a2g1xbjw7pbz1ck1068mny";
+          sha256 = "1gfg6dxn1b78fn350cjx09p3v3dcvynri0fh9vb8i6r3wwwf31n3";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CategoryFull.lua'';
@@ -28270,117 +28214,117 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Keywords.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Keywords.lua";
-          sha256 = "";
+          sha256 = "0391y0sr04zzcggc7naf1ymflcivkwv57g8zdb38qm2q0y6876pf";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Library.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Library.lua";
-          sha256 = "";
+          sha256 = "0gr7b17p6643xx15jg7ll9wf35nx27rzzv8l324z913rghr2n8xr";
         }
         {
           path = ''SFX/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/config.lua";
-          sha256 = "119xi1srrh3lzbpm4sypia95ny5372vbqzw3z0cb3796q4biaask";
+          sha256 = "0x17xasc696j94d8rpnm247k1hym1xf98w9zyqim1669nmnk26xy";
         }
         {
           path = ''SFX/lib/config-custom.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/config-custom.lua";
-          sha256 = "";
+          sha256 = "0wg286qyairplrsl0c0r87r0mwng3y6m7yh3qvzf74g85yj42vnw";
         }
         {
           path = ''SFX/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/core.lua";
-          sha256 = "";
+          sha256 = "0iwh41vabavidakpkrr5jjqhfdm50hl2hc1yffkx0pi45ygw04kq";
         }
         {
           path = ''SFX/lib/LIP.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/LIP.lua";
-          sha256 = "";
+          sha256 = "0pg4rv129jrfqqsxla26y1s8pn8qkkvvj7f4qrbnfgsfm00s1hi1";
         }
         {
           path = ''SFX/lib/ListView.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/ListView.lua";
-          sha256 = "";
+          sha256 = "1ziyigd9xxy1ivv2jmkxbz6yrih4d48bgryi3nafj2z8pkmkf5rw";
         }
         {
           path = ''SFX/lib/reaper-utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/reaper-utils.lua";
-          sha256 = "";
+          sha256 = "0jhcmz4fkcdc3ni6hirha45sfjz0sh3rqcrn911vxnx7hw98dh6a";
         }
         {
           path = ''SFX/lib/pinyin.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/pinyin.lua";
-          sha256 = "";
+          sha256 = "18m2gxqnfi6p4f9m4wrw6xz6kdbagr1g669yk5hcm2wjcsx8rp6c";
         }
         {
           path = ''SFX/lib/REQ/JGui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/REQ/JGui.lua";
-          sha256 = "";
+          sha256 = "19naw5c9qjwhx8mcvfw881s2lib5p6nmq3dqk2xn6q3wyhwr4hil";
         }
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/REQ/JGuiColors.lua";
-          sha256 = "";
+          sha256 = "06229kwfw1ciz5mj2k3fqh1077414m3nf8zkndky3nmz6rkdlsvf";
         }
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/REQ/JGuiControls.lua";
-          sha256 = "";
+          sha256 = "18igbig3qw9zl5x0cxqg15qzk8y06wq76gfvqi123s4yjrm237z3";
         }
         {
           path = ''SFX/lib/REQ/JGuiFunctions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/REQ/JGuiFunctions.lua";
-          sha256 = "";
+          sha256 = "1q2ir1q8k7bk0qwikkxczv141ydllndsffwz3n8fq1s7b7vqqvx6";
         }
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/REQ/JProjectClass.lua";
-          sha256 = "";
+          sha256 = "09wqnsdn6dps0ds662w4prhfl02m0hgz6jc29jx5d3686sa86i7y";
         }
         {
           path = ''SFX/lib/REQ/JProjectClassReq.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/REQ/JProjectClassReq.lua";
-          sha256 = "";
+          sha256 = "1czgh7pzch4q1laalqhga00nj05acbi2jk1mwrp1mzvzfrdi49rb";
         }
         {
           path = ''SFX/lib/REQ/jKeyboard.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/REQ/jKeyboard.lua";
-          sha256 = "";
+          sha256 = "1n6shy125q01lxiif5fq7smiarz14ir667yzhr7byx9scf1wxhmd";
         }
         {
           path = ''SFX/lib/REQ/j_file_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/REQ/j_file_functions.lua";
-          sha256 = "";
+          sha256 = "10v70h0ayjijv21kbhhyp9xr5ba31jcli0z0b2jgkmpfv3n8j7sb";
         }
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/REQ/j_settings_functions.lua";
-          sha256 = "";
+          sha256 = "0kjz15q9ck2nvn830bpir82g7abgg49ba4ddj0sxc700mkklnbjx";
         }
         {
           path = ''SFX/lib/REQ/j_string_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/REQ/j_string_functions.lua";
-          sha256 = "";
+          sha256 = "1mxxqqrnpdhsxsg9ki6wq893plsj0xq1qjx80fz4v14dy3h6q3hd";
         }
         {
           path = ''SFX/lib/REQ/j_tables.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/REQ/j_tables.lua";
-          sha256 = "";
+          sha256 = "0cg5nd8yq16q7liijaxv6nw715dgrbr6b1mhvp0nc9aawghmwhdq";
         }
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "";
+          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/lib/REQ/mouse.lua";
-          sha256 = "";
+          sha256 = "1aqvcxb7jqqifwhswa2b42gbm83lxbwa469rkjj4l1dzi8kj1hbd";
         }
         {
           path = ''SFX/rating.csv'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/089de8530f3ea5ae5fa942ef459dfe99014c81e0/Various/SFX/rating.csv";
-          sha256 = "";
+          sha256 = "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73";
         }
       ];
     };
@@ -28394,12 +28338,12 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Search.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/zaibuyidao_SFX%20Tag%20Search.lua";
-          sha256 = "1mhv0jzacfl5vnk5nx9lsc2adg8i4a948xr7js1vs1jlzxixq6x3";
+          sha256 = "19jn7xfbs75vfz3fkcfb8v640dhbc1182qs6g20c3f0jk5g42vnn";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Search Custom.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/zaibuyidao_SFX%20Tag%20Search%20Custom.lua";
-          sha256 = "0lhzffscwp10qr17n8laclk6nmmy9s7q2nz2gfi1p4x5f54zfsr4";
+          sha256 = "1x5h74r865k1zw2q5j4d4djif5pf5xpbnakvc9k08fjc5m246vli";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Album.lua'';
@@ -28414,12 +28358,12 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Description.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/zaibuyidao_SFX%20Tag%20Description.lua";
-          sha256 = "0c7nkwnv3qm2l15as6kwms62xiylz1vad68mfw1x32ax08sdgjr7";
+          sha256 = "1wzmjg1sn9xd8h3z5dc3x3f7rwvzlnjw3h2hyfbqaf6mykskanmp";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag File Name.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/zaibuyidao_SFX%20Tag%20File%20Name.lua";
-          sha256 = "";
+          sha256 = "0w2r41s8l5p59z4sy2g9qgbgcs9lxmxx10hdjhs1nv9ihrkbwzvk";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Genre.lua'';
@@ -28429,12 +28373,12 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Title.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/zaibuyidao_SFX%20Tag%20Title.lua";
-          sha256 = "";
+          sha256 = "1mxij37rpq9nvi2w3w8ffwbx688flxw08pqzmwrjg51a2s8w8sid";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CatID.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CatID.lua";
-          sha256 = "";
+          sha256 = "1k3cm5whsb6j0wj8g33207hkdlqgmqq8nf6givs0cksa960cwnh1";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML FXName.lua'';
@@ -28449,7 +28393,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20SubCategory.lua";
-          sha256 = "";
+          sha256 = "1gfg6dxn1b78fn350cjx09p3v3dcvynri0fh9vb8i6r3wwwf31n3";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CategoryFull.lua'';
@@ -28459,7 +28403,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Keywords.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Keywords.lua";
-          sha256 = "";
+          sha256 = "0391y0sr04zzcggc7naf1ymflcivkwv57g8zdb38qm2q0y6876pf";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Library.lua'';
@@ -28479,22 +28423,22 @@
         {
           path = ''SFX/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/lib/core.lua";
-          sha256 = "";
+          sha256 = "0iwh41vabavidakpkrr5jjqhfdm50hl2hc1yffkx0pi45ygw04kq";
         }
         {
           path = ''SFX/lib/LIP.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/lib/LIP.lua";
-          sha256 = "";
+          sha256 = "0pg4rv129jrfqqsxla26y1s8pn8qkkvvj7f4qrbnfgsfm00s1hi1";
         }
         {
           path = ''SFX/lib/ListView.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/lib/ListView.lua";
-          sha256 = "";
+          sha256 = "1ziyigd9xxy1ivv2jmkxbz6yrih4d48bgryi3nafj2z8pkmkf5rw";
         }
         {
           path = ''SFX/lib/reaper-utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/lib/reaper-utils.lua";
-          sha256 = "03l9q3nfkwb32bsjjn50xqbxip25y4g8kay0acbzzq7rzv8ki7nk";
+          sha256 = "0jhcmz4fkcdc3ni6hirha45sfjz0sh3rqcrn911vxnx7hw98dh6a";
         }
         {
           path = ''SFX/lib/pinyin.lua'';
@@ -28509,17 +28453,17 @@
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/lib/REQ/JGuiColors.lua";
-          sha256 = "1n9xhd5xj7l5ga6fq9k0jznz9c38s76529mh7g48szzwi40f092d";
+          sha256 = "06229kwfw1ciz5mj2k3fqh1077414m3nf8zkndky3nmz6rkdlsvf";
         }
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/lib/REQ/JGuiControls.lua";
-          sha256 = "0q29a6g4nqfdg5p3b40hgin84zmp9shrk2ifpmb2hj8bhpcjn55w";
+          sha256 = "18igbig3qw9zl5x0cxqg15qzk8y06wq76gfvqi123s4yjrm237z3";
         }
         {
           path = ''SFX/lib/REQ/JGuiFunctions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9cfa02784ae33d9bf0bdc69ee88ed0be7828266b/Various/SFX/lib/REQ/JGuiFunctions.lua";
-          sha256 = "0gxb8svqycn22i7aszmn0mqp7816lqvps8jbl35w2wa7lwmrlj4a";
+          sha256 = "1q2ir1q8k7bk0qwikkxczv141ydllndsffwz3n8fq1s7b7vqqvx6";
         }
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
@@ -29792,17 +29736,17 @@
         {
           path = ''SFX/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/config.lua";
-          sha256 = "";
+          sha256 = "0qvn10x9ym5x8cs8i250k8vb3ad7fj88w611pqb245850g09lkcm";
         }
         {
           path = ''SFX/lib/config-custom.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/config-custom.lua";
-          sha256 = "";
+          sha256 = "0wg286qyairplrsl0c0r87r0mwng3y6m7yh3qvzf74g85yj42vnw";
         }
         {
           path = ''SFX/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/core.lua";
-          sha256 = "";
+          sha256 = "0iwh41vabavidakpkrr5jjqhfdm50hl2hc1yffkx0pi45ygw04kq";
         }
         {
           path = ''SFX/lib/LIP.lua'';
@@ -29827,72 +29771,72 @@
         {
           path = ''SFX/lib/REQ/JGui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/REQ/JGui.lua";
-          sha256 = "";
+          sha256 = "19naw5c9qjwhx8mcvfw881s2lib5p6nmq3dqk2xn6q3wyhwr4hil";
         }
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/REQ/JGuiColors.lua";
-          sha256 = "";
+          sha256 = "06229kwfw1ciz5mj2k3fqh1077414m3nf8zkndky3nmz6rkdlsvf";
         }
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/REQ/JGuiControls.lua";
-          sha256 = "";
+          sha256 = "18igbig3qw9zl5x0cxqg15qzk8y06wq76gfvqi123s4yjrm237z3";
         }
         {
           path = ''SFX/lib/REQ/JGuiFunctions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/REQ/JGuiFunctions.lua";
-          sha256 = "";
+          sha256 = "1q2ir1q8k7bk0qwikkxczv141ydllndsffwz3n8fq1s7b7vqqvx6";
         }
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/REQ/JProjectClass.lua";
-          sha256 = "";
+          sha256 = "09wqnsdn6dps0ds662w4prhfl02m0hgz6jc29jx5d3686sa86i7y";
         }
         {
           path = ''SFX/lib/REQ/JProjectClassReq.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/REQ/JProjectClassReq.lua";
-          sha256 = "";
+          sha256 = "18qqhfjijm6dximnj2zf8sl3f6ddwz6dmiliqvjcslvnvj7wran3";
         }
         {
           path = ''SFX/lib/REQ/jKeyboard.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/REQ/jKeyboard.lua";
-          sha256 = "";
+          sha256 = "1n6shy125q01lxiif5fq7smiarz14ir667yzhr7byx9scf1wxhmd";
         }
         {
           path = ''SFX/lib/REQ/j_file_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/REQ/j_file_functions.lua";
-          sha256 = "";
+          sha256 = "10v70h0ayjijv21kbhhyp9xr5ba31jcli0z0b2jgkmpfv3n8j7sb";
         }
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/REQ/j_settings_functions.lua";
-          sha256 = "";
+          sha256 = "0kjz15q9ck2nvn830bpir82g7abgg49ba4ddj0sxc700mkklnbjx";
         }
         {
           path = ''SFX/lib/REQ/j_string_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/REQ/j_string_functions.lua";
-          sha256 = "";
+          sha256 = "1mxxqqrnpdhsxsg9ki6wq893plsj0xq1qjx80fz4v14dy3h6q3hd";
         }
         {
           path = ''SFX/lib/REQ/j_tables.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/REQ/j_tables.lua";
-          sha256 = "";
+          sha256 = "0ikq2nnwl58pmcaznq4qgr4iyasd6dzawzcbcnvph1by0h570r0w";
         }
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "";
+          sha256 = "17rls7sy6iz14vipp6cbn4lhiw237bmpmcznv492hkfxd1bh8ihi";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/lib/REQ/mouse.lua";
-          sha256 = "";
+          sha256 = "1aqvcxb7jqqifwhswa2b42gbm83lxbwa469rkjj4l1dzi8kj1hbd";
         }
         {
           path = ''SFX/rating.csv'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4d9b6b36bae28e23ef9461c2291cc5b59547a33b/Various/SFX/rating.csv";
-          sha256 = "";
+          sha256 = "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73";
         }
       ];
     };
@@ -29916,12 +29860,12 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Album.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92822a62c1a9cd67f96857af20e3b24190727562/Various/SFX/zaibuyidao_SFX%20Tag%20Album.lua";
-          sha256 = "";
+          sha256 = "0bcnw6h7qqkk100gqaxm9fskcwm01jw0wakpwqc400x9srhc077x";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Comment.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92822a62c1a9cd67f96857af20e3b24190727562/Various/SFX/zaibuyidao_SFX%20Tag%20Comment.lua";
-          sha256 = "";
+          sha256 = "0yy5q5lk9517q9v7zdrnz1py3yxxr9gxb7fd447h0difqyi5rvx8";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Description.lua'';
@@ -29931,22 +29875,22 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag File Name.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92822a62c1a9cd67f96857af20e3b24190727562/Various/SFX/zaibuyidao_SFX%20Tag%20File%20Name.lua";
-          sha256 = "";
+          sha256 = "1lrqk18ghpk8l1v0a2qkvyf5xcxh7nx5aqp8hf8n87zc8zj5m197";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Genre.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92822a62c1a9cd67f96857af20e3b24190727562/Various/SFX/zaibuyidao_SFX%20Tag%20Genre.lua";
-          sha256 = "";
+          sha256 = "1sn5443m4r8mvsw5rhg3c2lbfj7klkdbg2j1wl8c3s7hmmx1fbiz";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Title.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92822a62c1a9cd67f96857af20e3b24190727562/Various/SFX/zaibuyidao_SFX%20Tag%20Title.lua";
-          sha256 = "";
+          sha256 = "0kg98gd20j634w4hbvbg8nj7ar2wkzcqziwx4g4gwars76apm8lg";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CatID.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92822a62c1a9cd67f96857af20e3b24190727562/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CatID.lua";
-          sha256 = "1lf3q47l3ycgn50s1h3vfgjwjkj124cbyrswc91kjqs1jll92jaw";
+          sha256 = "12pzmnz16l3sz9v9b4kxh83cpmd1043fl1dddz9cdm4ldfv8blya";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML FXName.lua'';
@@ -29956,7 +29900,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Category.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92822a62c1a9cd67f96857af20e3b24190727562/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Category.lua";
-          sha256 = "09dlaamghlwqjw6x4l4wsxk6479s9q75pa0ggkk09swmsi0jkfch";
+          sha256 = "1pnj1s5m5dxgim1zpad9299hz3n50605ivglzvm3zkqkbm8mlvjv";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
@@ -30001,7 +29945,7 @@
         {
           path = ''SFX/lib/ListView.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/92822a62c1a9cd67f96857af20e3b24190727562/Various/SFX/lib/ListView.lua";
-          sha256 = "1ziyigd9xxy1ivv2jmkxbz6yrih4d48bgryi3nafj2z8pkmkf5rw";
+          sha256 = "07gjzcn875ar5kiyhcn7z20fwxzy1iijp2xzpi9l8psjfdicz8vw";
         }
         {
           path = ''SFX/lib/reaper-utils.lua'';
@@ -30120,7 +30064,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag File Name.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b589751222c9a27bbf66cedb1e7359fe3f21225b/Various/SFX/zaibuyidao_SFX%20Tag%20File%20Name.lua";
-          sha256 = "1q1gsagjnvwjj6s6snwpgqdq1s586vcazc8bmw9myibh9wdg692n";
+          sha256 = "1jk52mc3nsns8sragaygv0iiaqsb9yd9l6dkggyzbbbd1lhs1mkw";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Genre.lua'';
@@ -30130,7 +30074,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Title.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b589751222c9a27bbf66cedb1e7359fe3f21225b/Various/SFX/zaibuyidao_SFX%20Tag%20Title.lua";
-          sha256 = "1zbj5zcphxmzcqc295as8am59barwclpjxqqbr4n444w16miihzk";
+          sha256 = "01jvlwlh4qn4gm1m8c0w2z2hnskw2jaip0in3fzgl7z5a5ymqlyb";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CatID.lua'';
@@ -30260,7 +30204,7 @@
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b589751222c9a27bbf66cedb1e7359fe3f21225b/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
+          sha256 = "17rls7sy6iz14vipp6cbn4lhiw237bmpmcznv492hkfxd1bh8ihi";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
@@ -30284,7 +30228,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Search.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a6ef732cbfe0a6fae24812608a5b5eea4d2a03f1/Various/SFX/zaibuyidao_SFX%20Tag%20Search.lua";
-          sha256 = "0zkg2pgz5ywkg1cihfm0hqsgn35ba3by37446lp0yh2a6519wwg5";
+          sha256 = "16d0kqzlpc3br23sxjsr89cpgrzzchwdkpfv9c8s73jiynw5ad7x";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Search Custom.lua'';
@@ -30349,7 +30293,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Keywords.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a6ef732cbfe0a6fae24812608a5b5eea4d2a03f1/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Keywords.lua";
-          sha256 = "09145pvmwqx9ayk909z507bcc7mxi9svl5r2vhbsg02mvw4lc26y";
+          sha256 = "06ly9dhn5a29wjpip768yi8lm8rrfi3r70v3kx7khysvyqx7j6yg";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Library.lua'';
@@ -30399,7 +30343,7 @@
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a6ef732cbfe0a6fae24812608a5b5eea4d2a03f1/Various/SFX/lib/REQ/JGuiColors.lua";
-          sha256 = "06229kwfw1ciz5mj2k3fqh1077414m3nf8zkndky3nmz6rkdlsvf";
+          sha256 = "1n9xhd5xj7l5ga6fq9k0jznz9c38s76529mh7g48szzwi40f092d";
         }
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
@@ -30588,7 +30532,7 @@
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c21c124cdebd0d145cede2f738db6b9874a5e10e/Various/SFX/lib/REQ/JGuiColors.lua";
-          sha256 = "06229kwfw1ciz5mj2k3fqh1077414m3nf8zkndky3nmz6rkdlsvf";
+          sha256 = "1n9xhd5xj7l5ga6fq9k0jznz9c38s76529mh7g48szzwi40f092d";
         }
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
@@ -30618,7 +30562,7 @@
         {
           path = ''SFX/lib/REQ/j_file_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c21c124cdebd0d145cede2f738db6b9874a5e10e/Various/SFX/lib/REQ/j_file_functions.lua";
-          sha256 = "10v70h0ayjijv21kbhhyp9xr5ba31jcli0z0b2jgkmpfv3n8j7sb";
+          sha256 = "1yl0yz81r4xw6mmdq5z7ybz8c2ksbhy1h7yjr6rfg81z4i3zrf25";
         }
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
@@ -30633,7 +30577,7 @@
         {
           path = ''SFX/lib/REQ/j_tables.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c21c124cdebd0d145cede2f738db6b9874a5e10e/Various/SFX/lib/REQ/j_tables.lua";
-          sha256 = "0cg5nd8yq16q7liijaxv6nw715dgrbr6b1mhvp0nc9aawghmwhdq";
+          sha256 = "0ikq2nnwl58pmcaznq4qgr4iyasd6dzawzcbcnvph1by0h570r0w";
         }
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
@@ -30697,7 +30641,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Title.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c931373f0b6cb1ca95b5539667a3d1924a74036b/Various/SFX/zaibuyidao_SFX%20Tag%20Title.lua";
-          sha256 = "1mlg64kmpgk7rv5f3msz69z0gqiq6ahkqkjk6awbm7d2kzm5g0gk";
+          sha256 = "1xrszvxyy33w6p7ggpn5dhkfpy3h3mkzwwlcb2zyxznzn9bwdybx";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CatID.lua'';
@@ -30722,7 +30666,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CategoryFull.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c931373f0b6cb1ca95b5539667a3d1924a74036b/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CategoryFull.lua";
-          sha256 = "";
+          sha256 = "139m5nai760gs1qkc5v44ilmb9jn4d5mzsp2zg7s6g5s59ikak6q";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Keywords.lua'';
@@ -30747,12 +30691,12 @@
         {
           path = ''SFX/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c931373f0b6cb1ca95b5539667a3d1924a74036b/Various/SFX/lib/core.lua";
-          sha256 = "";
+          sha256 = "0iwh41vabavidakpkrr5jjqhfdm50hl2hc1yffkx0pi45ygw04kq";
         }
         {
           path = ''SFX/lib/LIP.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c931373f0b6cb1ca95b5539667a3d1924a74036b/Various/SFX/lib/LIP.lua";
-          sha256 = "";
+          sha256 = "0pg4rv129jrfqqsxla26y1s8pn8qkkvvj7f4qrbnfgsfm00s1hi1";
         }
         {
           path = ''SFX/lib/ListView.lua'';
@@ -30762,17 +30706,17 @@
         {
           path = ''SFX/lib/reaper-utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c931373f0b6cb1ca95b5539667a3d1924a74036b/Various/SFX/lib/reaper-utils.lua";
-          sha256 = "";
+          sha256 = "0jhcmz4fkcdc3ni6hirha45sfjz0sh3rqcrn911vxnx7hw98dh6a";
         }
         {
           path = ''SFX/lib/pinyin.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c931373f0b6cb1ca95b5539667a3d1924a74036b/Various/SFX/lib/pinyin.lua";
-          sha256 = "";
+          sha256 = "1kldrr4nj0ww8xxznyiw2qal24cz56ynb98sij1as3pd0a3d5fhf";
         }
         {
           path = ''SFX/lib/REQ/JGui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c931373f0b6cb1ca95b5539667a3d1924a74036b/Various/SFX/lib/REQ/JGui.lua";
-          sha256 = "";
+          sha256 = "19naw5c9qjwhx8mcvfw881s2lib5p6nmq3dqk2xn6q3wyhwr4hil";
         }
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
@@ -30787,7 +30731,7 @@
         {
           path = ''SFX/lib/REQ/JGuiFunctions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c931373f0b6cb1ca95b5539667a3d1924a74036b/Various/SFX/lib/REQ/JGuiFunctions.lua";
-          sha256 = "";
+          sha256 = "1q2ir1q8k7bk0qwikkxczv141ydllndsffwz3n8fq1s7b7vqqvx6";
         }
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
@@ -30802,7 +30746,7 @@
         {
           path = ''SFX/lib/REQ/jKeyboard.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c931373f0b6cb1ca95b5539667a3d1924a74036b/Various/SFX/lib/REQ/jKeyboard.lua";
-          sha256 = "";
+          sha256 = "1n6shy125q01lxiif5fq7smiarz14ir667yzhr7byx9scf1wxhmd";
         }
         {
           path = ''SFX/lib/REQ/j_file_functions.lua'';
@@ -30812,12 +30756,12 @@
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c931373f0b6cb1ca95b5539667a3d1924a74036b/Various/SFX/lib/REQ/j_settings_functions.lua";
-          sha256 = "";
+          sha256 = "0kjz15q9ck2nvn830bpir82g7abgg49ba4ddj0sxc700mkklnbjx";
         }
         {
           path = ''SFX/lib/REQ/j_string_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c931373f0b6cb1ca95b5539667a3d1924a74036b/Various/SFX/lib/REQ/j_string_functions.lua";
-          sha256 = "";
+          sha256 = "1jd0l7zj02l2jd0gazibpha2vpfk9gwrpm4lvgv1iafiyc5pdjz3";
         }
         {
           path = ''SFX/lib/REQ/j_tables.lua'';
@@ -30827,7 +30771,7 @@
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c931373f0b6cb1ca95b5539667a3d1924a74036b/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "";
+          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
@@ -30856,7 +30800,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Search Custom.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/zaibuyidao_SFX%20Tag%20Search%20Custom.lua";
-          sha256 = "";
+          sha256 = "1znch820mcpz65iij07qf1g839f59gnxrzfvi4hr8w9s4h7qp4a0";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Album.lua'';
@@ -30866,7 +30810,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Comment.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/zaibuyidao_SFX%20Tag%20Comment.lua";
-          sha256 = "";
+          sha256 = "17q9g2i32scya3grbr2dc8gzmi1ka34hnzz4f0arvclfq8hf9ir1";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Description.lua'';
@@ -30881,17 +30825,17 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Genre.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/zaibuyidao_SFX%20Tag%20Genre.lua";
-          sha256 = "";
+          sha256 = "15k48pqm5xzkdhlys0dpan0p63nraxmjahddz9vqy8y6vcl4h18d";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Title.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/zaibuyidao_SFX%20Tag%20Title.lua";
-          sha256 = "";
+          sha256 = "1mlg64kmpgk7rv5f3msz69z0gqiq6ahkqkjk6awbm7d2kzm5g0gk";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CatID.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CatID.lua";
-          sha256 = "";
+          sha256 = "0yy1sgqz894sfnc98vnvbjf9pm62xhwy67shdglklpsf5j7s0mva";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML FXName.lua'';
@@ -30911,7 +30855,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CategoryFull.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CategoryFull.lua";
-          sha256 = "";
+          sha256 = "139m5nai760gs1qkc5v44ilmb9jn4d5mzsp2zg7s6g5s59ikak6q";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Keywords.lua'';
@@ -30931,12 +30875,12 @@
         {
           path = ''SFX/lib/config-custom.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/lib/config-custom.lua";
-          sha256 = "";
+          sha256 = "0qvl1gxybwxbj4a6r8qhfihh8qmz0w1r3yjvl041p3b3d0mnwnqc";
         }
         {
           path = ''SFX/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/lib/core.lua";
-          sha256 = "";
+          sha256 = "0iwh41vabavidakpkrr5jjqhfdm50hl2hc1yffkx0pi45ygw04kq";
         }
         {
           path = ''SFX/lib/LIP.lua'';
@@ -30946,12 +30890,12 @@
         {
           path = ''SFX/lib/ListView.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/lib/ListView.lua";
-          sha256 = "";
+          sha256 = "1ziyigd9xxy1ivv2jmkxbz6yrih4d48bgryi3nafj2z8pkmkf5rw";
         }
         {
           path = ''SFX/lib/reaper-utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/lib/reaper-utils.lua";
-          sha256 = "";
+          sha256 = "0jhcmz4fkcdc3ni6hirha45sfjz0sh3rqcrn911vxnx7hw98dh6a";
         }
         {
           path = ''SFX/lib/pinyin.lua'';
@@ -30961,12 +30905,12 @@
         {
           path = ''SFX/lib/REQ/JGui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/lib/REQ/JGui.lua";
-          sha256 = "";
+          sha256 = "19naw5c9qjwhx8mcvfw881s2lib5p6nmq3dqk2xn6q3wyhwr4hil";
         }
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/lib/REQ/JGuiColors.lua";
-          sha256 = "";
+          sha256 = "06229kwfw1ciz5mj2k3fqh1077414m3nf8zkndky3nmz6rkdlsvf";
         }
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
@@ -30981,12 +30925,12 @@
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/lib/REQ/JProjectClass.lua";
-          sha256 = "";
+          sha256 = "09wqnsdn6dps0ds662w4prhfl02m0hgz6jc29jx5d3686sa86i7y";
         }
         {
           path = ''SFX/lib/REQ/JProjectClassReq.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/lib/REQ/JProjectClassReq.lua";
-          sha256 = "";
+          sha256 = "1czgh7pzch4q1laalqhga00nj05acbi2jk1mwrp1mzvzfrdi49rb";
         }
         {
           path = ''SFX/lib/REQ/jKeyboard.lua'';
@@ -31001,22 +30945,22 @@
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/lib/REQ/j_settings_functions.lua";
-          sha256 = "";
+          sha256 = "0kjz15q9ck2nvn830bpir82g7abgg49ba4ddj0sxc700mkklnbjx";
         }
         {
           path = ''SFX/lib/REQ/j_string_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/lib/REQ/j_string_functions.lua";
-          sha256 = "";
+          sha256 = "1mxxqqrnpdhsxsg9ki6wq893plsj0xq1qjx80fz4v14dy3h6q3hd";
         }
         {
           path = ''SFX/lib/REQ/j_tables.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/lib/REQ/j_tables.lua";
-          sha256 = "";
+          sha256 = "0cg5nd8yq16q7liijaxv6nw715dgrbr6b1mhvp0nc9aawghmwhdq";
         }
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbe8f218a0845cd6d0e46b346899e78694a4ea80/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "17rls7sy6iz14vipp6cbn4lhiw237bmpmcznv492hkfxd1bh8ihi";
+          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
@@ -31050,12 +30994,12 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Album.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/zaibuyidao_SFX%20Tag%20Album.lua";
-          sha256 = "";
+          sha256 = "1dh0rh6arjzdzqankl9fv33ybl4hpsg3ac8rak6i7iks1haijkjh";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Comment.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/zaibuyidao_SFX%20Tag%20Comment.lua";
-          sha256 = "";
+          sha256 = "17q9g2i32scya3grbr2dc8gzmi1ka34hnzz4f0arvclfq8hf9ir1";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Description.lua'';
@@ -31065,7 +31009,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag File Name.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/zaibuyidao_SFX%20Tag%20File%20Name.lua";
-          sha256 = "1nsz1idp64l5nawvdg060zipk2va06xbm7yxdzz3a1anm1c78r1r";
+          sha256 = "06hj111250gm1879bj9p4icgnga7c9vbx0d23vyw99f6vd620mia";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Genre.lua'';
@@ -31075,7 +31019,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Title.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/zaibuyidao_SFX%20Tag%20Title.lua";
-          sha256 = "";
+          sha256 = "1mlg64kmpgk7rv5f3msz69z0gqiq6ahkqkjk6awbm7d2kzm5g0gk";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CatID.lua'';
@@ -31085,12 +31029,12 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML FXName.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20FXName.lua";
-          sha256 = "";
+          sha256 = "14ydypkfksr2720v7krp9sa9jx0mrn6ws4bjihkaxaia4bk11sqr";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Category.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Category.lua";
-          sha256 = "0xidm8fxzi9l9sn6kfnzpix27ry5v9qaz4ds2b30i7m5mn2yp2cv";
+          sha256 = "1sxk6686cz0alnix85ywdc62056ippf0hs0j2k4l4bncrnm3vgka";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
@@ -31100,67 +31044,67 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CategoryFull.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CategoryFull.lua";
-          sha256 = "";
+          sha256 = "139m5nai760gs1qkc5v44ilmb9jn4d5mzsp2zg7s6g5s59ikak6q";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Keywords.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Keywords.lua";
-          sha256 = "";
+          sha256 = "00h6xbcaki21d8vm8xbflj2m5q1pqlxah70230a3d4am0mxp06pc";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Library.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Library.lua";
-          sha256 = "";
+          sha256 = "0pwfd4v5dycd72vs7b9xd3a5q8gcl39k99fkmx94l0kspvvavyl3";
         }
         {
           path = ''SFX/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/config.lua";
-          sha256 = "1jjd2c26dks4m8f4rzwwlay5a5ncca7csyvp44b79j6m28igla1h";
+          sha256 = "1px7rs3wcf1qdn0yicr3hv85af4rv3qg7lkg763bcx5xb67r4r5x";
         }
         {
           path = ''SFX/lib/config-custom.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/config-custom.lua";
-          sha256 = "093x7j4hyqwdsya469w1wmivl5d1lal3p3899xhv5czx19qxna5a";
+          sha256 = "0qvl1gxybwxbj4a6r8qhfihh8qmz0w1r3yjvl041p3b3d0mnwnqc";
         }
         {
           path = ''SFX/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/core.lua";
-          sha256 = "";
+          sha256 = "0iwh41vabavidakpkrr5jjqhfdm50hl2hc1yffkx0pi45ygw04kq";
         }
         {
           path = ''SFX/lib/LIP.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/LIP.lua";
-          sha256 = "";
+          sha256 = "0pg4rv129jrfqqsxla26y1s8pn8qkkvvj7f4qrbnfgsfm00s1hi1";
         }
         {
           path = ''SFX/lib/ListView.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/ListView.lua";
-          sha256 = "";
+          sha256 = "1ziyigd9xxy1ivv2jmkxbz6yrih4d48bgryi3nafj2z8pkmkf5rw";
         }
         {
           path = ''SFX/lib/reaper-utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/reaper-utils.lua";
-          sha256 = "";
+          sha256 = "0jhcmz4fkcdc3ni6hirha45sfjz0sh3rqcrn911vxnx7hw98dh6a";
         }
         {
           path = ''SFX/lib/pinyin.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/pinyin.lua";
-          sha256 = "";
+          sha256 = "1kldrr4nj0ww8xxznyiw2qal24cz56ynb98sij1as3pd0a3d5fhf";
         }
         {
           path = ''SFX/lib/REQ/JGui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/REQ/JGui.lua";
-          sha256 = "";
+          sha256 = "19naw5c9qjwhx8mcvfw881s2lib5p6nmq3dqk2xn6q3wyhwr4hil";
         }
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/REQ/JGuiColors.lua";
-          sha256 = "";
+          sha256 = "06229kwfw1ciz5mj2k3fqh1077414m3nf8zkndky3nmz6rkdlsvf";
         }
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/REQ/JGuiControls.lua";
-          sha256 = "0q29a6g4nqfdg5p3b40hgin84zmp9shrk2ifpmb2hj8bhpcjn55w";
+          sha256 = "18igbig3qw9zl5x0cxqg15qzk8y06wq76gfvqi123s4yjrm237z3";
         }
         {
           path = ''SFX/lib/REQ/JGuiFunctions.lua'';
@@ -31180,12 +31124,12 @@
         {
           path = ''SFX/lib/REQ/jKeyboard.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/REQ/jKeyboard.lua";
-          sha256 = "0mb1plbzjl6wz5hwy2za02c7llcmbc5n19qzmdpkzi26np9azvlh";
+          sha256 = "1n6shy125q01lxiif5fq7smiarz14ir667yzhr7byx9scf1wxhmd";
         }
         {
           path = ''SFX/lib/REQ/j_file_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/REQ/j_file_functions.lua";
-          sha256 = "1yl0yz81r4xw6mmdq5z7ybz8c2ksbhy1h7yjr6rfg81z4i3zrf25";
+          sha256 = "10v70h0ayjijv21kbhhyp9xr5ba31jcli0z0b2jgkmpfv3n8j7sb";
         }
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
@@ -31200,17 +31144,17 @@
         {
           path = ''SFX/lib/REQ/j_tables.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/REQ/j_tables.lua";
-          sha256 = "0ikq2nnwl58pmcaznq4qgr4iyasd6dzawzcbcnvph1by0h570r0w";
+          sha256 = "0cg5nd8yq16q7liijaxv6nw715dgrbr6b1mhvp0nc9aawghmwhdq";
         }
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "17rls7sy6iz14vipp6cbn4lhiw237bmpmcznv492hkfxd1bh8ihi";
+          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/26e8e92a8ce3e6be2f39a1e4c31ea95aa7df0295/Various/SFX/lib/REQ/mouse.lua";
-          sha256 = "17kbhqm6s2n5c8a1mf118nklnrig3ffz3caqg8cfibrmgmcwrcmr";
+          sha256 = "1aqvcxb7jqqifwhswa2b42gbm83lxbwa469rkjj4l1dzi8kj1hbd";
         }
         {
           path = ''SFX/rating.csv'';
@@ -31229,7 +31173,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Search.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0ed68473fcd32f72bf8bb09d452d826168c271d8/Various/SFX/zaibuyidao_SFX%20Tag%20Search.lua";
-          sha256 = "0wzni4y4kkrvzcjlh8rsn3m8wqgqad8gnvw2phjx4p1gh564v0sf";
+          sha256 = "0zx2yw5s7xqfczm9mz3c1bf82q3fi1k379rqsd5m7lx7qyz6p05a";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Search Custom.lua'';
@@ -31274,7 +31218,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML FXName.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0ed68473fcd32f72bf8bb09d452d826168c271d8/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20FXName.lua";
-          sha256 = "0a46w48hmg0xc5bpi9l7829xb8496fz0dpix5vqq5irkd0dz7pii";
+          sha256 = "14ydypkfksr2720v7krp9sa9jx0mrn6ws4bjihkaxaia4bk11sqr";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Category.lua'';
@@ -31284,7 +31228,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0ed68473fcd32f72bf8bb09d452d826168c271d8/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20SubCategory.lua";
-          sha256 = "1zjzzj9nmxx3j26p9y0hh4mqfk4s1mi4s52ryh5bn6laac5lvrpi";
+          sha256 = "0n7snxvrims1s6sg0rwva6h7fkgw85zrhrqmkslzwy5fwa4fhdiv";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CategoryFull.lua'';
@@ -31309,7 +31253,7 @@
         {
           path = ''SFX/lib/config-custom.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0ed68473fcd32f72bf8bb09d452d826168c271d8/Various/SFX/lib/config-custom.lua";
-          sha256 = "093x7j4hyqwdsya469w1wmivl5d1lal3p3899xhv5czx19qxna5a";
+          sha256 = "0qvl1gxybwxbj4a6r8qhfihh8qmz0w1r3yjvl041p3b3d0mnwnqc";
         }
         {
           path = ''SFX/lib/core.lua'';
@@ -31319,7 +31263,7 @@
         {
           path = ''SFX/lib/LIP.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0ed68473fcd32f72bf8bb09d452d826168c271d8/Various/SFX/lib/LIP.lua";
-          sha256 = "1jw3kygrcnl5rffzzhr9nr87gnl5fsamy7zy60nhwj72sj95nh7c";
+          sha256 = "0pg4rv129jrfqqsxla26y1s8pn8qkkvvj7f4qrbnfgsfm00s1hi1";
         }
         {
           path = ''SFX/lib/ListView.lua'';
@@ -31344,7 +31288,7 @@
         {
           path = ''SFX/lib/REQ/JGuiColors.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0ed68473fcd32f72bf8bb09d452d826168c271d8/Various/SFX/lib/REQ/JGuiColors.lua";
-          sha256 = "1n9xhd5xj7l5ga6fq9k0jznz9c38s76529mh7g48szzwi40f092d";
+          sha256 = "06229kwfw1ciz5mj2k3fqh1077414m3nf8zkndky3nmz6rkdlsvf";
         }
         {
           path = ''SFX/lib/REQ/JGuiControls.lua'';
@@ -31379,7 +31323,7 @@
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0ed68473fcd32f72bf8bb09d452d826168c271d8/Various/SFX/lib/REQ/j_settings_functions.lua";
-          sha256 = "0iw073h4mz2gfcnl5ibys55kvqbhq4vcmqf4rrw4a33p3crp50a0";
+          sha256 = "0kjz15q9ck2nvn830bpir82g7abgg49ba4ddj0sxc700mkklnbjx";
         }
         {
           path = ''SFX/lib/REQ/j_string_functions.lua'';
@@ -31399,7 +31343,7 @@
         {
           path = ''SFX/lib/REQ/mouse.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0ed68473fcd32f72bf8bb09d452d826168c271d8/Various/SFX/lib/REQ/mouse.lua";
-          sha256 = "17kbhqm6s2n5c8a1mf118nklnrig3ffz3caqg8cfibrmgmcwrcmr";
+          sha256 = "1aqvcxb7jqqifwhswa2b42gbm83lxbwa469rkjj4l1dzi8kj1hbd";
         }
         {
           path = ''SFX/rating.csv'';
@@ -31463,7 +31407,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML FXName.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3c03dd28b06c468ab55f9c0e1b31a54a7151089d/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20FXName.lua";
-          sha256 = "0a46w48hmg0xc5bpi9l7829xb8496fz0dpix5vqq5irkd0dz7pii";
+          sha256 = "14ydypkfksr2720v7krp9sa9jx0mrn6ws4bjihkaxaia4bk11sqr";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Category.lua'';
@@ -31473,7 +31417,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3c03dd28b06c468ab55f9c0e1b31a54a7151089d/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20SubCategory.lua";
-          sha256 = "1zjzzj9nmxx3j26p9y0hh4mqfk4s1mi4s52ryh5bn6laac5lvrpi";
+          sha256 = "0n7snxvrims1s6sg0rwva6h7fkgw85zrhrqmkslzwy5fwa4fhdiv";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CategoryFull.lua'';
@@ -31503,7 +31447,7 @@
         {
           path = ''SFX/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3c03dd28b06c468ab55f9c0e1b31a54a7151089d/Various/SFX/lib/core.lua";
-          sha256 = "0q2b3378j5y6j4hmyh7mxw5g2hjw9j6gqx2dca7vfyg62a5c5j27";
+          sha256 = "0iwh41vabavidakpkrr5jjqhfdm50hl2hc1yffkx0pi45ygw04kq";
         }
         {
           path = ''SFX/lib/LIP.lua'';
@@ -31523,7 +31467,7 @@
         {
           path = ''SFX/lib/pinyin.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3c03dd28b06c468ab55f9c0e1b31a54a7151089d/Various/SFX/lib/pinyin.lua";
-          sha256 = "18slb54mw4p6wsmj81qq0y2y6my4lx79rrdjdhl7zrvvig6z35i1";
+          sha256 = "1kldrr4nj0ww8xxznyiw2qal24cz56ynb98sij1as3pd0a3d5fhf";
         }
         {
           path = ''SFX/lib/REQ/JGui.lua'';
@@ -31543,7 +31487,7 @@
         {
           path = ''SFX/lib/REQ/JGuiFunctions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3c03dd28b06c468ab55f9c0e1b31a54a7151089d/Various/SFX/lib/REQ/JGuiFunctions.lua";
-          sha256 = "0gxb8svqycn22i7aszmn0mqp7816lqvps8jbl35w2wa7lwmrlj4a";
+          sha256 = "1q2ir1q8k7bk0qwikkxczv141ydllndsffwz3n8fq1s7b7vqqvx6";
         }
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
@@ -31568,7 +31512,7 @@
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3c03dd28b06c468ab55f9c0e1b31a54a7151089d/Various/SFX/lib/REQ/j_settings_functions.lua";
-          sha256 = "0iw073h4mz2gfcnl5ibys55kvqbhq4vcmqf4rrw4a33p3crp50a0";
+          sha256 = "0kjz15q9ck2nvn830bpir82g7abgg49ba4ddj0sxc700mkklnbjx";
         }
         {
           path = ''SFX/lib/REQ/j_string_functions.lua'';
@@ -31617,7 +31561,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Album.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/74e89cd47bea071a6cd330b6d8f36475dcd00afd/Various/SFX/zaibuyidao_SFX%20Tag%20Album.lua";
-          sha256 = "0rvajrv706yg2sjl12p9s7akqixsi5k3fb1gljrl5gsgm4ia771j";
+          sha256 = "1dh0rh6arjzdzqankl9fv33ybl4hpsg3ac8rak6i7iks1haijkjh";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Comment.lua'';
@@ -31647,7 +31591,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CatID.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/74e89cd47bea071a6cd330b6d8f36475dcd00afd/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CatID.lua";
-          sha256 = "0ma07p3z491jciqqy0ivac9413wp74m8n1038k6bqid0jlfcvg6j";
+          sha256 = "0yy1sgqz894sfnc98vnvbjf9pm62xhwy67shdglklpsf5j7s0mva";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML FXName.lua'';
@@ -31702,7 +31646,7 @@
         {
           path = ''SFX/lib/ListView.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/74e89cd47bea071a6cd330b6d8f36475dcd00afd/Various/SFX/lib/ListView.lua";
-          sha256 = "07gjzcn875ar5kiyhcn7z20fwxzy1iijp2xzpi9l8psjfdicz8vw";
+          sha256 = "1ziyigd9xxy1ivv2jmkxbz6yrih4d48bgryi3nafj2z8pkmkf5rw";
         }
         {
           path = ''SFX/lib/reaper-utils.lua'';
@@ -31826,7 +31770,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Genre.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cd1a9bf4668f01991875ce048dab1673cf163156/Various/SFX/zaibuyidao_SFX%20Tag%20Genre.lua";
-          sha256 = "0s6yr9kwcl506051g31zrc8jp5l7h7k3zmjfs6g5cy7k1kv3wi3d";
+          sha256 = "15k48pqm5xzkdhlys0dpan0p63nraxmjahddz9vqy8y6vcl4h18d";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Title.lua'';
@@ -31936,7 +31880,7 @@
         {
           path = ''SFX/lib/REQ/jKeyboard.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cd1a9bf4668f01991875ce048dab1673cf163156/Various/SFX/lib/REQ/jKeyboard.lua";
-          sha256 = "0mb1plbzjl6wz5hwy2za02c7llcmbc5n19qzmdpkzi26np9azvlh";
+          sha256 = "1n6shy125q01lxiif5fq7smiarz14ir667yzhr7byx9scf1wxhmd";
         }
         {
           path = ''SFX/lib/REQ/j_file_functions.lua'';
@@ -31951,7 +31895,7 @@
         {
           path = ''SFX/lib/REQ/j_string_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cd1a9bf4668f01991875ce048dab1673cf163156/Various/SFX/lib/REQ/j_string_functions.lua";
-          sha256 = "1jd0l7zj02l2jd0gazibpha2vpfk9gwrpm4lvgv1iafiyc5pdjz3";
+          sha256 = "1mxxqqrnpdhsxsg9ki6wq893plsj0xq1qjx80fz4v14dy3h6q3hd";
         }
         {
           path = ''SFX/lib/REQ/j_tables.lua'';
@@ -32000,7 +31944,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Comment.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b21b900a53977d6c7d44ac074b2f2501f283dae4/Various/SFX/zaibuyidao_SFX%20Tag%20Comment.lua";
-          sha256 = "1bybpl06ai8m4m7z16d7aqcsfzmh0jwj1k19nafgn6zw9jbrggqp";
+          sha256 = "17q9g2i32scya3grbr2dc8gzmi1ka34hnzz4f0arvclfq8hf9ir1";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Description.lua'';
@@ -32020,7 +31964,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Title.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b21b900a53977d6c7d44ac074b2f2501f283dae4/Various/SFX/zaibuyidao_SFX%20Tag%20Title.lua";
-          sha256 = "1xrszvxyy33w6p7ggpn5dhkfpy3h3mkzwwlcb2zyxznzn9bwdybx";
+          sha256 = "1mlg64kmpgk7rv5f3msz69z0gqiq6ahkqkjk6awbm7d2kzm5g0gk";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CatID.lua'';
@@ -32224,7 +32168,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Category.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/115ad2c63f3532e44c12fb4b1c873ebc34148c59/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Category.lua";
-          sha256 = "";
+          sha256 = "1sxk6686cz0alnix85ywdc62056ippf0hs0j2k4l4bncrnm3vgka";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
@@ -32309,7 +32253,7 @@
         {
           path = ''SFX/lib/REQ/JProjectClassReq.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/115ad2c63f3532e44c12fb4b1c873ebc34148c59/Various/SFX/lib/REQ/JProjectClassReq.lua";
-          sha256 = "18qqhfjijm6dximnj2zf8sl3f6ddwz6dmiliqvjcslvnvj7wran3";
+          sha256 = "1czgh7pzch4q1laalqhga00nj05acbi2jk1mwrp1mzvzfrdi49rb";
         }
         {
           path = ''SFX/lib/REQ/jKeyboard.lua'';
@@ -32339,7 +32283,7 @@
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/115ad2c63f3532e44c12fb4b1c873ebc34148c59/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "17rls7sy6iz14vipp6cbn4lhiw237bmpmcznv492hkfxd1bh8ihi";
+          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
@@ -32528,7 +32472,7 @@
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/e6e3c13a9242dacb3c01869a72c2e66c935e95ca/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "17rls7sy6iz14vipp6cbn4lhiw237bmpmcznv492hkfxd1bh8ihi";
+          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
@@ -32796,7 +32740,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Category.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/68a369f14136eba783a968cf3bf62d5285bc93df/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Category.lua";
-          sha256 = "0xidm8fxzi9l9sn6kfnzpix27ry5v9qaz4ds2b30i7m5mn2yp2cv";
+          sha256 = "1sxk6686cz0alnix85ywdc62056ippf0hs0j2k4l4bncrnm3vgka";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
@@ -33015,12 +32959,12 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Library.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbc3a0e6338bc8bf8b0aad77a1ec1a4b5c52a196/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Library.lua";
-          sha256 = "11xskhqrlmc9p44rn515qb5mn738a3g73hfr7qwsmdc69n0nykfb";
+          sha256 = "0pwfd4v5dycd72vs7b9xd3a5q8gcl39k99fkmx94l0kspvvavyl3";
         }
         {
           path = ''SFX/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/bbc3a0e6338bc8bf8b0aad77a1ec1a4b5c52a196/Various/SFX/lib/config.lua";
-          sha256 = "10g1h62hgy9l6ndp0d58cwqxk9rv1fmdpv34hj5hv2k0a97rs5cb";
+          sha256 = "09lk81czxcmjlvpdkp25rj5sm5p58sa7b6spx93hfccdkdxwz59l";
         }
         {
           path = ''SFX/lib/config-custom.lua'';
@@ -33209,7 +33153,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CategoryFull.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4de554fc750c3cdf1c0f2c01023e3dcafb5529ce/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CategoryFull.lua";
-          sha256 = "0ia992ih5grgw6s91mjc395kyr0g52r6z1imq10z5f1r3fi6yr7s";
+          sha256 = "139m5nai760gs1qkc5v44ilmb9jn4d5mzsp2zg7s6g5s59ikak6q";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Keywords.lua'';
@@ -33453,7 +33397,7 @@
         {
           path = ''SFX/lib/ListView.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f0f36c6685e9c4dc66d2d3842bb5b732827cba2b/Various/SFX/lib/ListView.lua";
-          sha256 = "1ziyigd9xxy1ivv2jmkxbz6yrih4d48bgryi3nafj2z8pkmkf5rw";
+          sha256 = "07gjzcn875ar5kiyhcn7z20fwxzy1iijp2xzpi9l8psjfdicz8vw";
         }
         {
           path = ''SFX/lib/reaper-utils.lua'';
@@ -33567,7 +33511,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Album.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/72e019a17c49c398e2afc1ef32c847a6e8845f39/Various/SFX/zaibuyidao_SFX%20Tag%20Album.lua";
-          sha256 = "1dh0rh6arjzdzqankl9fv33ybl4hpsg3ac8rak6i7iks1haijkjh";
+          sha256 = "0rvajrv706yg2sjl12p9s7akqixsi5k3fb1gljrl5gsgm4ia771j";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Comment.lua'';
@@ -33597,7 +33541,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CatID.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/72e019a17c49c398e2afc1ef32c847a6e8845f39/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20CatID.lua";
-          sha256 = "0yy1sgqz894sfnc98vnvbjf9pm62xhwy67shdglklpsf5j7s0mva";
+          sha256 = "0ma07p3z491jciqqy0ivac9413wp74m8n1038k6bqid0jlfcvg6j";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML FXName.lua'';
@@ -33662,7 +33606,7 @@
         {
           path = ''SFX/lib/reaper-utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/72e019a17c49c398e2afc1ef32c847a6e8845f39/Various/SFX/lib/reaper-utils.lua";
-          sha256 = "1k77ywhnssmgkzakmk23850js1mwzyflkchxzc8bzhp4skq1g4mf";
+          sha256 = "1rnxjjgb507dh4shkx228jkfp4ljnrl7shxkmlh4k85nchyppinv";
         }
         {
           path = ''SFX/lib/pinyin.lua'';
@@ -33702,7 +33646,7 @@
         {
           path = ''SFX/lib/REQ/jKeyboard.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/72e019a17c49c398e2afc1ef32c847a6e8845f39/Various/SFX/lib/REQ/jKeyboard.lua";
-          sha256 = "1n6shy125q01lxiif5fq7smiarz14ir667yzhr7byx9scf1wxhmd";
+          sha256 = "0mb1plbzjl6wz5hwy2za02c7llcmbc5n19qzmdpkzi26np9azvlh";
         }
         {
           path = ''SFX/lib/REQ/j_file_functions.lua'';
@@ -33771,7 +33715,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Album.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/22394abf555b49037f7669bd3c706ca7adbf6a90/Various/SFX/zaibuyidao_SFX%20Tag%20Album.lua";
-          sha256 = "1dh0rh6arjzdzqankl9fv33ybl4hpsg3ac8rak6i7iks1haijkjh";
+          sha256 = "0rvajrv706yg2sjl12p9s7akqixsi5k3fb1gljrl5gsgm4ia771j";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Comment.lua'';
@@ -33811,7 +33755,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Category.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/22394abf555b49037f7669bd3c706ca7adbf6a90/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Category.lua";
-          sha256 = "1sxk6686cz0alnix85ywdc62056ippf0hs0j2k4l4bncrnm3vgka";
+          sha256 = "0xidm8fxzi9l9sn6kfnzpix27ry5v9qaz4ds2b30i7m5mn2yp2cv";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
@@ -33851,12 +33795,12 @@
         {
           path = ''SFX/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/22394abf555b49037f7669bd3c706ca7adbf6a90/Various/SFX/lib/core.lua";
-          sha256 = "0iwh41vabavidakpkrr5jjqhfdm50hl2hc1yffkx0pi45ygw04kq";
+          sha256 = "0q2b3378j5y6j4hmyh7mxw5g2hjw9j6gqx2dca7vfyg62a5c5j27";
         }
         {
           path = ''SFX/lib/LIP.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/22394abf555b49037f7669bd3c706ca7adbf6a90/Various/SFX/lib/LIP.lua";
-          sha256 = "0pg4rv129jrfqqsxla26y1s8pn8qkkvvj7f4qrbnfgsfm00s1hi1";
+          sha256 = "1jw3kygrcnl5rffzzhr9nr87gnl5fsamy7zy60nhwj72sj95nh7c";
         }
         {
           path = ''SFX/lib/ListView.lua'';
@@ -34025,7 +33969,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0a52cd9f15c01b0cf58177ed6144e750df5f9f32/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20SubCategory.lua";
-          sha256 = "0n7snxvrims1s6sg0rwva6h7fkgw85zrhrqmkslzwy5fwa4fhdiv";
+          sha256 = "1zjzzj9nmxx3j26p9y0hh4mqfk4s1mi4s52ryh5bn6laac5lvrpi";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CategoryFull.lua'';
@@ -34145,7 +34089,7 @@
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0a52cd9f15c01b0cf58177ed6144e750df5f9f32/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "17rls7sy6iz14vipp6cbn4lhiw237bmpmcznv492hkfxd1bh8ihi";
+          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
@@ -34219,7 +34163,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Title.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5af0035330b1b012137c7820711033eb2fb75587/Various/SFX/zaibuyidao_SFX%20Tag%20Title.lua";
-          sha256 = "1xrszvxyy33w6p7ggpn5dhkfpy3h3mkzwwlcb2zyxznzn9bwdybx";
+          sha256 = "1mlg64kmpgk7rv5f3msz69z0gqiq6ahkqkjk6awbm7d2kzm5g0gk";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CatID.lua'';
@@ -34239,7 +34183,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML SubCategory.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5af0035330b1b012137c7820711033eb2fb75587/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20SubCategory.lua";
-          sha256 = "1zjzzj9nmxx3j26p9y0hh4mqfk4s1mi4s52ryh5bn6laac5lvrpi";
+          sha256 = "0n7snxvrims1s6sg0rwva6h7fkgw85zrhrqmkslzwy5fwa4fhdiv";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML CategoryFull.lua'';
@@ -34259,7 +34203,7 @@
         {
           path = ''SFX/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5af0035330b1b012137c7820711033eb2fb75587/Various/SFX/lib/config.lua";
-          sha256 = "09lk81czxcmjlvpdkp25rj5sm5p58sa7b6spx93hfccdkdxwz59l";
+          sha256 = "10g1h62hgy9l6ndp0d58cwqxk9rv1fmdpv34hj5hv2k0a97rs5cb";
         }
         {
           path = ''SFX/lib/config-custom.lua'';
@@ -34319,7 +34263,7 @@
         {
           path = ''SFX/lib/REQ/JGuiFunctions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5af0035330b1b012137c7820711033eb2fb75587/Various/SFX/lib/REQ/JGuiFunctions.lua";
-          sha256 = "1q2ir1q8k7bk0qwikkxczv141ydllndsffwz3n8fq1s7b7vqqvx6";
+          sha256 = "0gxb8svqycn22i7aszmn0mqp7816lqvps8jbl35w2wa7lwmrlj4a";
         }
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
@@ -34339,7 +34283,7 @@
         {
           path = ''SFX/lib/REQ/j_file_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5af0035330b1b012137c7820711033eb2fb75587/Various/SFX/lib/REQ/j_file_functions.lua";
-          sha256 = "1yl0yz81r4xw6mmdq5z7ybz8c2ksbhy1h7yjr6rfg81z4i3zrf25";
+          sha256 = "10v70h0ayjijv21kbhhyp9xr5ba31jcli0z0b2jgkmpfv3n8j7sb";
         }
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
@@ -34354,12 +34298,12 @@
         {
           path = ''SFX/lib/REQ/j_tables.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5af0035330b1b012137c7820711033eb2fb75587/Various/SFX/lib/REQ/j_tables.lua";
-          sha256 = "0ikq2nnwl58pmcaznq4qgr4iyasd6dzawzcbcnvph1by0h570r0w";
+          sha256 = "0cg5nd8yq16q7liijaxv6nw715dgrbr6b1mhvp0nc9aawghmwhdq";
         }
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/5af0035330b1b012137c7820711033eb2fb75587/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "17rls7sy6iz14vipp6cbn4lhiw237bmpmcznv492hkfxd1bh8ihi";
+          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
@@ -34473,7 +34417,7 @@
         {
           path = ''SFX/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f796c47db0a27eeaba2e08f7c661094b955f935b/Various/SFX/lib/config.lua";
-          sha256 = "09lk81czxcmjlvpdkp25rj5sm5p58sa7b6spx93hfccdkdxwz59l";
+          sha256 = "10g1h62hgy9l6ndp0d58cwqxk9rv1fmdpv34hj5hv2k0a97rs5cb";
         }
         {
           path = ''SFX/lib/config-custom.lua'';
@@ -34498,7 +34442,7 @@
         {
           path = ''SFX/lib/LIP.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f796c47db0a27eeaba2e08f7c661094b955f935b/Various/SFX/lib/LIP.lua";
-          sha256 = "1jw3kygrcnl5rffzzhr9nr87gnl5fsamy7zy60nhwj72sj95nh7c";
+          sha256 = "0pg4rv129jrfqqsxla26y1s8pn8qkkvvj7f4qrbnfgsfm00s1hi1";
         }
         {
           path = ''SFX/lib/ListView.lua'';
@@ -34578,7 +34522,7 @@
         {
           path = ''SFX/lib/REQ/mouse.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f796c47db0a27eeaba2e08f7c661094b955f935b/Various/SFX/lib/REQ/mouse.lua";
-          sha256 = "1aqvcxb7jqqifwhswa2b42gbm83lxbwa469rkjj4l1dzi8kj1hbd";
+          sha256 = "17kbhqm6s2n5c8a1mf118nklnrig3ffz3caqg8cfibrmgmcwrcmr";
         }
         {
           path = ''SFX/rating.csv'';
@@ -34617,7 +34561,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Search (UCS).lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c0deee3b3f54e9ec95425e858032167f40db2579/Various/SFX/zaibuyidao_SFX%20Tag%20Search%20(UCS).lua";
-          sha256 = "0rxilyyz49fxvp624aippm0iz8zr1gwbc52i2al68vd86vgrvnwh";
+          sha256 = "1yrcl1qkddlg5gxapmphqbcb5px3vbr8mh7a4wadcmp2ksbpgclq";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Album.lua'';
@@ -34707,7 +34651,7 @@
         {
           path = ''SFX/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c0deee3b3f54e9ec95425e858032167f40db2579/Various/SFX/lib/core.lua";
-          sha256 = "1bck2b3hj8q2w6cdp5cghi85z9xq96s7ff88lymqjn5s71cjzqvy";
+          sha256 = "0iy9z5c8ya3f69dnz7yra4dl9vrbldspzssqsjq7w02v5clfiw46";
         }
         {
           path = ''SFX/lib/LIP.lua'';
@@ -34752,7 +34696,7 @@
         {
           path = ''SFX/lib/REQ/JProjectClass.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c0deee3b3f54e9ec95425e858032167f40db2579/Various/SFX/lib/REQ/JProjectClass.lua";
-          sha256 = "0yghn45r2zfqjbsmygbvg8s0s8qb9bhm5f63apq0nvnmi8f3fpwg";
+          sha256 = "09wqnsdn6dps0ds662w4prhfl02m0hgz6jc29jx5d3686sa86i7y";
         }
         {
           path = ''SFX/lib/REQ/JProjectClassReq.lua'';
@@ -34792,7 +34736,7 @@
         {
           path = ''SFX/lib/REQ/mouse.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c0deee3b3f54e9ec95425e858032167f40db2579/Various/SFX/lib/REQ/mouse.lua";
-          sha256 = "17kbhqm6s2n5c8a1mf118nklnrig3ffz3caqg8cfibrmgmcwrcmr";
+          sha256 = "1aqvcxb7jqqifwhswa2b42gbm83lxbwa469rkjj4l1dzi8kj1hbd";
         }
         {
           path = ''SFX/rating.csv'';
@@ -34802,7 +34746,7 @@
         {
           path = ''SFX/ucs_keywords.csv'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c0deee3b3f54e9ec95425e858032167f40db2579/Various/SFX/ucs_keywords.csv";
-          sha256 = "1xpgb8kg0hiyhnfl7xrcpffxxzy0dj4b2ni6hz2ag56b5798d84q";
+          sha256 = "1gznjp521cg6qgqw6hda2y4vy7w5inr8ynf43y52z4nhj4nrlh81";
         }
       ];
     };
@@ -34981,7 +34925,7 @@
         {
           path = ''SFX/lib/REQ/j_file_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/67b0c922f1aa34da10d147b8266e65c6729c4aaa/Various/SFX/lib/REQ/j_file_functions.lua";
-          sha256 = "1yl0yz81r4xw6mmdq5z7ybz8c2ksbhy1h7yjr6rfg81z4i3zrf25";
+          sha256 = "10v70h0ayjijv21kbhhyp9xr5ba31jcli0z0b2jgkmpfv3n8j7sb";
         }
         {
           path = ''SFX/lib/REQ/j_settings_functions.lua'';
@@ -35001,7 +34945,7 @@
         {
           path = ''SFX/lib/REQ/j_trackstatechunk_functions.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/67b0c922f1aa34da10d147b8266e65c6729c4aaa/Various/SFX/lib/REQ/j_trackstatechunk_functions.lua";
-          sha256 = "1bgxnn471yvl7iqs28c7mcmlnrhw5pdcdbg0mbmhf0bxy3x8mk71";
+          sha256 = "17rls7sy6iz14vipp6cbn4lhiw237bmpmcznv492hkfxd1bh8ihi";
         }
         {
           path = ''SFX/lib/REQ/mouse.lua'';
@@ -35319,7 +35263,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Keywords.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a8a9b0a0f78ce5f81051b6c2018a2223ed7cc90b/Various/SFX/zaibuyidao_SFX%20Tag%20iXML%20Keywords.lua";
-          sha256 = "00h6xbcaki21d8vm8xbflj2m5q1pqlxah70230a3d4am0mxp06pc";
+          sha256 = "0ipird6khg1s6lcpdpq08vmhhl1ahrmvwjfbr0hvws4kxsqxa4j5";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag iXML Library.lua'';
@@ -36115,7 +36059,7 @@
         {
           path = ''SFX/zaibuyidao_SFX Tag Search (UCS).lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a2d9d1bc2df1952d3c72d6c8419ab14ebf275523/Various/SFX/zaibuyidao_SFX%20Tag%20Search%20(UCS).lua";
-          sha256 = "1jzymy01dw5y4gxi9agqlkxnc6xmzdhihsqnv59c7zi5a4j3kl3x";
+          sha256 = "1wf90asxcxd6j8ajca859fk02shych5zl1ygsyv022cg0pj2djyy";
         }
         {
           path = ''SFX/zaibuyidao_SFX Tag Album.lua'';
@@ -37728,7 +37672,7 @@
         {
           path = ''SFX/lib/pinyin.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/301f7b7e93cf47ab4d8be21ce88ab643fa76a7bc/Various/SFX/lib/pinyin.lua";
-          sha256 = "1kldrr4nj0ww8xxznyiw2qal24cz56ynb98sij1as3pd0a3d5fhf";
+          sha256 = "18slb54mw4p6wsmj81qq0y2y6my4lx79rrdjdhl7zrvvig6z35i1";
         }
         {
           path = ''SFX/lib/REQ/JGui.lua'';
@@ -37971,7 +37915,7 @@
         {
           path = ''SFX Tag Search/zaibuyidao_SFX Tag Search - Database.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/623a36b3040df6a129379818764270c31da46fe0/Various/SFX%20Tag%20Search/zaibuyidao_SFX%20Tag%20Search%20-%20Database.lua";
-          sha256 = "1izbmi4z1qq3l9cxf30j7pdaxwd80b1w2s624jckmrxa4245galm";
+          sha256 = "161lhaffcb9ypbja6015rf6mklkx6f5fl8vq746i1nfj0hxnd3ia";
         }
         {
           path = ''SFX Tag Search/zaibuyidao_SFX Tag Search - Favorite.lua'';
@@ -38081,7 +38025,7 @@
         {
           path = ''SFX Tag Search/keywords_ucs.csv'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/623a36b3040df6a129379818764270c31da46fe0/Various/SFX%20Tag%20Search/keywords_ucs.csv";
-          sha256 = "1xpgb8kg0hiyhnfl7xrcpffxxzy0dj4b2ni6hz2ag56b5798d84q";
+          sha256 = "1gznjp521cg6qgqw6hda2y4vy7w5inr8ynf43y52z4nhj4nrlh81";
         }
         {
           path = ''SFX Tag Search/lib/config-custom-tags-default.ini'';
@@ -38130,7 +38074,7 @@
         {
           path = ''SFX Tag Search/zaibuyidao_SFX Tag Search - UCS.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2f06274d8764b0bf682b425cd68f00765194b8cd/Various/SFX%20Tag%20Search/zaibuyidao_SFX%20Tag%20Search%20-%20UCS.lua";
-          sha256 = "03vxspic3l0ym3h0vasilsx3m5aard5iigha3wsl64c1xxr9v04k";
+          sha256 = "1k61aqwkd20xmgjc8pzda79c112lp16989wnqq3snajwpb8ybl1a";
         }
         {
           path = ''SFX Tag Search/lib/LIP.lua'';
@@ -39536,7 +39480,7 @@
         {
           path = ''SFX Tag Search/zaibuyidao_SFX Tag Search - UCS Synonym Index.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/1b1edd12280786b39d29933489169ca4d595a857/Various/SFX%20Tag%20Search/zaibuyidao_SFX%20Tag%20Search%20-%20UCS%20Synonym%20Index.lua";
-          sha256 = "108j2qzzmrp30lrmdkf85imcxwqrkgbbsganmvl8bp5ibda16yz8";
+          sha256 = "1czgbhq23q4daiwsi8r8xvggq1p615m2mcprsfk6r2aknfy3xgsj";
         }
         {
           path = ''SFX Tag Search/zaibuyidao_SFX Tag Search - UCS.lua'';
@@ -43983,7 +43927,7 @@
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Manager.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/63a707f74fbd43aca9ce3985cd70352e089d157c/Various/UCS/zaibuyidao_UCS%20Metadata%20Region%20Manager.lua";
-          sha256 = "1sxd506w2dr5nibmpz4fi0nk46ircqqy1k1515w8agn6i9bmx2d8";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Within Time Selection.lua'';
@@ -44003,12 +43947,12 @@
         {
           path = ''UCS/lib/guir.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/63a707f74fbd43aca9ce3985cd70352e089d157c/Various/UCS/lib/guir.lua";
-          sha256 = "0ld064hdsqc88jz5wk1s366kyxpkfzhavnv7f335qknl4rij0mlb";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/guis.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/63a707f74fbd43aca9ce3985cd70352e089d157c/Various/UCS/lib/guis.lua";
-          sha256 = "0kzj68k8ka7r9ywps0gylqn4cgchvcwzdgmpjq8vfmbylr0kv1vm";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/ucs.lua'';
@@ -44052,17 +43996,17 @@
         {
           path = ''UCS/zaibuyidao_UCS Metadata Item-Region.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c568c417ce79fcfb9c2753b4c70f3e6194ee9fb7/Various/UCS/zaibuyidao_UCS%20Metadata%20Item-Region.lua";
-          sha256 = "1ilnps4mdmz9nn848sskplh2gf7rxhz0ndmk5hv2rirw30lbmrdn";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Item-Take.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c568c417ce79fcfb9c2753b4c70f3e6194ee9fb7/Various/UCS/zaibuyidao_UCS%20Metadata%20Item-Take.lua";
-          sha256 = "014q178wdk8za899j8qxf3gaya6a0rypapvx8a2750ymqiqcggwy";
+          sha256 = "0x8q0rghgzmg8dki1awhzqrn20i2rb6rw47i8yis0z3ah87bx8dc";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Manager.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c568c417ce79fcfb9c2753b4c70f3e6194ee9fb7/Various/UCS/zaibuyidao_UCS%20Metadata%20Region%20Manager.lua";
-          sha256 = "1sxd506w2dr5nibmpz4fi0nk46ircqqy1k1515w8agn6i9bmx2d8";
+          sha256 = "1gv3972baj54wdz3w3sicnhmw1kyk3hyc6xgxsx7xsl02sp9yjwg";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Within Time Selection.lua'';
@@ -44077,7 +44021,7 @@
         {
           path = ''UCS/lib/catid.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c568c417ce79fcfb9c2753b4c70f3e6194ee9fb7/Various/UCS/lib/catid.lua";
-          sha256 = "1hzfcpfxms3386xgc41m5py54f09dcrvgwajamfln4dp9mvdxasa";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/guir.lua'';
@@ -44087,17 +44031,17 @@
         {
           path = ''UCS/lib/guis.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c568c417ce79fcfb9c2753b4c70f3e6194ee9fb7/Various/UCS/lib/guis.lua";
-          sha256 = "0kzj68k8ka7r9ywps0gylqn4cgchvcwzdgmpjq8vfmbylr0kv1vm";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/ucs.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c568c417ce79fcfb9c2753b4c70f3e6194ee9fb7/Various/UCS/lib/ucs.lua";
-          sha256 = "195cd8l34ypdnhs1d1whv9m9j90inb830sw40vmd1gyhaaimak73";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c568c417ce79fcfb9c2753b4c70f3e6194ee9fb7/Various/UCS/lib/utils.lua";
-          sha256 = "05j74wnpyk88k0dr2npqmmbvs0b2rk6lr9r5754xf3q9571lr9dg";
+          sha256 = "";
         }
         {
           path = ''UCS/UCS_list.csv'';
@@ -44121,7 +44065,7 @@
         {
           path = ''UCS/zaibuyidao_UCS Tag Rename.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3ea20242c1c9e8a0005487141670079fc8e5de3d/Various/UCS/zaibuyidao_UCS%20Tag%20Rename.lua";
-          sha256 = "1rlmwlijgdlksrdqypvd62bpinzl10vpqh8sp50wj128a0kim1y5";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Tag Search.lua'';
@@ -44136,7 +44080,7 @@
         {
           path = ''UCS/zaibuyidao_UCS Metadata Item-Take.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3ea20242c1c9e8a0005487141670079fc8e5de3d/Various/UCS/zaibuyidao_UCS%20Metadata%20Item-Take.lua";
-          sha256 = "014q178wdk8za899j8qxf3gaya6a0rypapvx8a2750ymqiqcggwy";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Manager.lua'';
@@ -44156,7 +44100,7 @@
         {
           path = ''UCS/lib/catid.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3ea20242c1c9e8a0005487141670079fc8e5de3d/Various/UCS/lib/catid.lua";
-          sha256 = "1hzfcpfxms3386xgc41m5py54f09dcrvgwajamfln4dp9mvdxasa";
+          sha256 = "10ibrg6hdnrdi8zr2m1h6yb6wr6p4mcv6xj71libhi6z1al5zfdz";
         }
         {
           path = ''UCS/lib/guir.lua'';
@@ -44171,7 +44115,7 @@
         {
           path = ''UCS/lib/ucs.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3ea20242c1c9e8a0005487141670079fc8e5de3d/Various/UCS/lib/ucs.lua";
-          sha256 = "195cd8l34ypdnhs1d1whv9m9j90inb830sw40vmd1gyhaaimak73";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/utils.lua'';
@@ -44186,7 +44130,7 @@
         {
           path = ''UCS/UCS_list_custom.csv'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3ea20242c1c9e8a0005487141670079fc8e5de3d/Various/UCS/UCS_list_custom.csv";
-          sha256 = "1crsmykykcr5xh0kfaxbx86r0gii2j5l5nsmgbmw7yzqvzr78bxk";
+          sha256 = "1b77qp2frf7k49nc616ai01z44c26674lc31x6i29gk8i9im25rr";
         }
       ];
     };
@@ -44205,7 +44149,7 @@
         {
           path = ''UCS/zaibuyidao_UCS Tag Search.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/93dba3ea52ca3bf0f41e3a3cfd17fb112c136a83/Various/UCS/zaibuyidao_UCS%20Tag%20Search.lua";
-          sha256 = "1hqk00xchm743xv31pzbl2nsv5vivh4vkqca4ksgl7dgg8w430sh";
+          sha256 = "0bwi8jp8d4c2m38pjjk0m14h7fk32sn19rryanxc5nswzgqyx8l7";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Item-Region.lua'';
@@ -44215,12 +44159,12 @@
         {
           path = ''UCS/zaibuyidao_UCS Metadata Item-Take.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/93dba3ea52ca3bf0f41e3a3cfd17fb112c136a83/Various/UCS/zaibuyidao_UCS%20Metadata%20Item-Take.lua";
-          sha256 = "014q178wdk8za899j8qxf3gaya6a0rypapvx8a2750ymqiqcggwy";
+          sha256 = "0x8q0rghgzmg8dki1awhzqrn20i2rb6rw47i8yis0z3ah87bx8dc";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Manager.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/93dba3ea52ca3bf0f41e3a3cfd17fb112c136a83/Various/UCS/zaibuyidao_UCS%20Metadata%20Region%20Manager.lua";
-          sha256 = "1sxd506w2dr5nibmpz4fi0nk46ircqqy1k1515w8agn6i9bmx2d8";
+          sha256 = "1gv3972baj54wdz3w3sicnhmw1kyk3hyc6xgxsx7xsl02sp9yjwg";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Within Time Selection.lua'';
@@ -44235,7 +44179,7 @@
         {
           path = ''UCS/lib/catid.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/93dba3ea52ca3bf0f41e3a3cfd17fb112c136a83/Various/UCS/lib/catid.lua";
-          sha256 = "1hzfcpfxms3386xgc41m5py54f09dcrvgwajamfln4dp9mvdxasa";
+          sha256 = "10ibrg6hdnrdi8zr2m1h6yb6wr6p4mcv6xj71libhi6z1al5zfdz";
         }
         {
           path = ''UCS/lib/guir.lua'';
@@ -44255,7 +44199,7 @@
         {
           path = ''UCS/lib/utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/93dba3ea52ca3bf0f41e3a3cfd17fb112c136a83/Various/UCS/lib/utils.lua";
-          sha256 = "05j74wnpyk88k0dr2npqmmbvs0b2rk6lr9r5754xf3q9571lr9dg";
+          sha256 = "03qc9qa6dp9nmyv3182by89g2rwzlvbj05sk9sycydjmjmbwkl5y";
         }
         {
           path = ''UCS/UCS_list.csv'';
@@ -44265,7 +44209,7 @@
         {
           path = ''UCS/UCS_list_custom.csv'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/93dba3ea52ca3bf0f41e3a3cfd17fb112c136a83/Various/UCS/UCS_list_custom.csv";
-          sha256 = "1crsmykykcr5xh0kfaxbx86r0gii2j5l5nsmgbmw7yzqvzr78bxk";
+          sha256 = "1b77qp2frf7k49nc616ai01z44c26674lc31x6i29gk8i9im25rr";
         }
       ];
     };
@@ -44279,12 +44223,12 @@
         {
           path = ''UCS/zaibuyidao_UCS Tag Rename.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b791f146811837bcca10e12b6971e24d1b171b61/Various/UCS/zaibuyidao_UCS%20Tag%20Rename.lua";
-          sha256 = "02bl6ppixvznzdrrdc4bqn74dw6ql9s2s3w55pq0c4y622g87m34";
+          sha256 = "1d3aqda6hxhav65b9lssmq96v1p8yy5jzn34gf8q89613kc7ph9y";
         }
         {
           path = ''UCS/zaibuyidao_UCS Tag Search.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b791f146811837bcca10e12b6971e24d1b171b61/Various/UCS/zaibuyidao_UCS%20Tag%20Search.lua";
-          sha256 = "1hrb69q8cbkr626y651xl5m5svp096ixkaxpw2lnzgiabg8swx4i";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Item-Region.lua'';
@@ -44309,7 +44253,7 @@
         {
           path = ''UCS/zaibuyidao_UCS Edit CatID.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b791f146811837bcca10e12b6971e24d1b171b61/Various/UCS/zaibuyidao_UCS%20Edit%20CatID.lua";
-          sha256 = "13m782gxbp12n1w1pxah8788a0cs130cmj8vzhb3sgpl27smbwcw";
+          sha256 = "1jb4j535d88rbvb7gqqdcss8wjab3p21dnf9sn2b9fyhdmb9sm54";
         }
         {
           path = ''UCS/lib/catid.lua'';
@@ -44319,22 +44263,22 @@
         {
           path = ''UCS/lib/guir.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b791f146811837bcca10e12b6971e24d1b171b61/Various/UCS/lib/guir.lua";
-          sha256 = "0ld064hdsqc88jz5wk1s366kyxpkfzhavnv7f335qknl4rij0mlb";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/guis.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b791f146811837bcca10e12b6971e24d1b171b61/Various/UCS/lib/guis.lua";
-          sha256 = "0kzj68k8ka7r9ywps0gylqn4cgchvcwzdgmpjq8vfmbylr0kv1vm";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/ucs.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b791f146811837bcca10e12b6971e24d1b171b61/Various/UCS/lib/ucs.lua";
-          sha256 = "195cd8l34ypdnhs1d1whv9m9j90inb830sw40vmd1gyhaaimak73";
+          sha256 = "1s75wqg5j5sf39hm8xdpnhp13mbjz5bq3kb0sxp4jwqf3qzm8b0f";
         }
         {
           path = ''UCS/lib/utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b791f146811837bcca10e12b6971e24d1b171b61/Various/UCS/lib/utils.lua";
-          sha256 = "05j74wnpyk88k0dr2npqmmbvs0b2rk6lr9r5754xf3q9571lr9dg";
+          sha256 = "";
         }
         {
           path = ''UCS/UCS_list.csv'';
@@ -44344,7 +44288,7 @@
         {
           path = ''UCS/UCS_list_custom.csv'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/b791f146811837bcca10e12b6971e24d1b171b61/Various/UCS/UCS_list_custom.csv";
-          sha256 = "1crsmykykcr5xh0kfaxbx86r0gii2j5l5nsmgbmw7yzqvzr78bxk";
+          sha256 = "";
         }
       ];
     };
@@ -44363,7 +44307,7 @@
         {
           path = ''UCS/zaibuyidao_UCS Tag Search.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4e39371d46861e65fe1862a9f6fbb50cee03b90d/Various/UCS/zaibuyidao_UCS%20Tag%20Search.lua";
-          sha256 = "0a4ca7jwcf1mwa54a86s9kss6ax71x1b0k239gavrak4xsvwvpbp";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Item-Region.lua'';
@@ -44373,17 +44317,17 @@
         {
           path = ''UCS/zaibuyidao_UCS Metadata Item-Take.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4e39371d46861e65fe1862a9f6fbb50cee03b90d/Various/UCS/zaibuyidao_UCS%20Metadata%20Item-Take.lua";
-          sha256 = "014q178wdk8za899j8qxf3gaya6a0rypapvx8a2750ymqiqcggwy";
+          sha256 = "0x8q0rghgzmg8dki1awhzqrn20i2rb6rw47i8yis0z3ah87bx8dc";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Manager.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4e39371d46861e65fe1862a9f6fbb50cee03b90d/Various/UCS/zaibuyidao_UCS%20Metadata%20Region%20Manager.lua";
-          sha256 = "1sxd506w2dr5nibmpz4fi0nk46ircqqy1k1515w8agn6i9bmx2d8";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Within Time Selection.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4e39371d46861e65fe1862a9f6fbb50cee03b90d/Various/UCS/zaibuyidao_UCS%20Metadata%20Region%20Within%20Time%20Selection.lua";
-          sha256 = "0aj0y6x44qlhik7hddjpxqhs5ka479rki9310nsb1f3zaxwz4ys3";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Edit CatID.lua'';
@@ -44398,22 +44342,22 @@
         {
           path = ''UCS/lib/guir.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4e39371d46861e65fe1862a9f6fbb50cee03b90d/Various/UCS/lib/guir.lua";
-          sha256 = "0ld064hdsqc88jz5wk1s366kyxpkfzhavnv7f335qknl4rij0mlb";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/guis.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4e39371d46861e65fe1862a9f6fbb50cee03b90d/Various/UCS/lib/guis.lua";
-          sha256 = "0kzj68k8ka7r9ywps0gylqn4cgchvcwzdgmpjq8vfmbylr0kv1vm";
+          sha256 = "1cqp782wwpz33qlzghi7f7m2hn7f86jfgj0gn7vndb76lg8i4m65";
         }
         {
           path = ''UCS/lib/ucs.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4e39371d46861e65fe1862a9f6fbb50cee03b90d/Various/UCS/lib/ucs.lua";
-          sha256 = "195cd8l34ypdnhs1d1whv9m9j90inb830sw40vmd1gyhaaimak73";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/4e39371d46861e65fe1862a9f6fbb50cee03b90d/Various/UCS/lib/utils.lua";
-          sha256 = "05j74wnpyk88k0dr2npqmmbvs0b2rk6lr9r5754xf3q9571lr9dg";
+          sha256 = "";
         }
         {
           path = ''UCS/UCS_list.csv'';
@@ -44442,7 +44386,7 @@
         {
           path = ''UCS/zaibuyidao_UCS Tag Search.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6f183905c2ec014d898edc6d3b745a4ca4f22f9b/Various/UCS/zaibuyidao_UCS%20Tag%20Search.lua";
-          sha256 = "105v7vqar34gcn3lsv4ciq94fqn641fbb1jh8x1lix95w7di8wnk";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Item-Region.lua'';
@@ -44457,17 +44401,17 @@
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Manager.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6f183905c2ec014d898edc6d3b745a4ca4f22f9b/Various/UCS/zaibuyidao_UCS%20Metadata%20Region%20Manager.lua";
-          sha256 = "1sxd506w2dr5nibmpz4fi0nk46ircqqy1k1515w8agn6i9bmx2d8";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Within Time Selection.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6f183905c2ec014d898edc6d3b745a4ca4f22f9b/Various/UCS/zaibuyidao_UCS%20Metadata%20Region%20Within%20Time%20Selection.lua";
-          sha256 = "0aj0y6x44qlhik7hddjpxqhs5ka479rki9310nsb1f3zaxwz4ys3";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Edit CatID.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6f183905c2ec014d898edc6d3b745a4ca4f22f9b/Various/UCS/zaibuyidao_UCS%20Edit%20CatID.lua";
-          sha256 = "13m782gxbp12n1w1pxah8788a0cs130cmj8vzhb3sgpl27smbwcw";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/catid.lua'';
@@ -44487,7 +44431,7 @@
         {
           path = ''UCS/lib/ucs.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6f183905c2ec014d898edc6d3b745a4ca4f22f9b/Various/UCS/lib/ucs.lua";
-          sha256 = "195cd8l34ypdnhs1d1whv9m9j90inb830sw40vmd1gyhaaimak73";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/utils.lua'';
@@ -44531,12 +44475,12 @@
         {
           path = ''UCS/zaibuyidao_UCS Metadata Item-Take.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/250adb4edffaa8c0281dc3e7068140ba56b8f7a3/Various/UCS/zaibuyidao_UCS%20Metadata%20Item-Take.lua";
-          sha256 = "014q178wdk8za899j8qxf3gaya6a0rypapvx8a2750ymqiqcggwy";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Manager.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/250adb4edffaa8c0281dc3e7068140ba56b8f7a3/Various/UCS/zaibuyidao_UCS%20Metadata%20Region%20Manager.lua";
-          sha256 = "1sxd506w2dr5nibmpz4fi0nk46ircqqy1k1515w8agn6i9bmx2d8";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Within Time Selection.lua'';
@@ -44551,12 +44495,12 @@
         {
           path = ''UCS/lib/catid.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/250adb4edffaa8c0281dc3e7068140ba56b8f7a3/Various/UCS/lib/catid.lua";
-          sha256 = "1hzfcpfxms3386xgc41m5py54f09dcrvgwajamfln4dp9mvdxasa";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/guir.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/250adb4edffaa8c0281dc3e7068140ba56b8f7a3/Various/UCS/lib/guir.lua";
-          sha256 = "01zy3lqgs73x35mp7794ybbkvi57b6cfh3h5g2gb5a8axdcq42dv";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/guis.lua'';
@@ -44566,7 +44510,7 @@
         {
           path = ''UCS/lib/ucs.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/250adb4edffaa8c0281dc3e7068140ba56b8f7a3/Various/UCS/lib/ucs.lua";
-          sha256 = "195cd8l34ypdnhs1d1whv9m9j90inb830sw40vmd1gyhaaimak73";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/utils.lua'';
@@ -44610,12 +44554,12 @@
         {
           path = ''UCS/zaibuyidao_UCS Metadata Item-Take.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a0184eec532160bf7a6e826316e7df8ac14e8da0/Various/UCS/zaibuyidao_UCS%20Metadata%20Item-Take.lua";
-          sha256 = "014q178wdk8za899j8qxf3gaya6a0rypapvx8a2750ymqiqcggwy";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Manager.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a0184eec532160bf7a6e826316e7df8ac14e8da0/Various/UCS/zaibuyidao_UCS%20Metadata%20Region%20Manager.lua";
-          sha256 = "1sxd506w2dr5nibmpz4fi0nk46ircqqy1k1515w8agn6i9bmx2d8";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Within Time Selection.lua'';
@@ -44625,12 +44569,12 @@
         {
           path = ''UCS/zaibuyidao_UCS Edit CatID.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a0184eec532160bf7a6e826316e7df8ac14e8da0/Various/UCS/zaibuyidao_UCS%20Edit%20CatID.lua";
-          sha256 = "13m782gxbp12n1w1pxah8788a0cs130cmj8vzhb3sgpl27smbwcw";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/catid.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a0184eec532160bf7a6e826316e7df8ac14e8da0/Various/UCS/lib/catid.lua";
-          sha256 = "1hzfcpfxms3386xgc41m5py54f09dcrvgwajamfln4dp9mvdxasa";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/guir.lua'';
@@ -44640,27 +44584,27 @@
         {
           path = ''UCS/lib/guis.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a0184eec532160bf7a6e826316e7df8ac14e8da0/Various/UCS/lib/guis.lua";
-          sha256 = "0kzj68k8ka7r9ywps0gylqn4cgchvcwzdgmpjq8vfmbylr0kv1vm";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/ucs.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a0184eec532160bf7a6e826316e7df8ac14e8da0/Various/UCS/lib/ucs.lua";
-          sha256 = "195cd8l34ypdnhs1d1whv9m9j90inb830sw40vmd1gyhaaimak73";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a0184eec532160bf7a6e826316e7df8ac14e8da0/Various/UCS/lib/utils.lua";
-          sha256 = "05j74wnpyk88k0dr2npqmmbvs0b2rk6lr9r5754xf3q9571lr9dg";
+          sha256 = "";
         }
         {
           path = ''UCS/UCS_list.csv'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a0184eec532160bf7a6e826316e7df8ac14e8da0/Various/UCS/UCS_list.csv";
-          sha256 = "1gqz82yhv42k68nr5i59q1ndb0h0lznfn0f0vnvfh6lciqlbmp8l";
+          sha256 = "";
         }
         {
           path = ''UCS/UCS_list_custom.csv'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a0184eec532160bf7a6e826316e7df8ac14e8da0/Various/UCS/UCS_list_custom.csv";
-          sha256 = "1crsmykykcr5xh0kfaxbx86r0gii2j5l5nsmgbmw7yzqvzr78bxk";
+          sha256 = "";
         }
       ];
     };
@@ -44679,7 +44623,7 @@
         {
           path = ''UCS/zaibuyidao_UCS Tag Search.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8cee47cff76619e7c117fd5281a0754c8584cf7f/Various/UCS/zaibuyidao_UCS%20Tag%20Search.lua";
-          sha256 = "0nhvnrn950jz5ihlysddwyzi1v1j1cmk349fiac0j4xrcxfhbx30";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Item-Region.lua'';
@@ -44699,7 +44643,7 @@
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Within Time Selection.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8cee47cff76619e7c117fd5281a0754c8584cf7f/Various/UCS/zaibuyidao_UCS%20Metadata%20Region%20Within%20Time%20Selection.lua";
-          sha256 = "0aj0y6x44qlhik7hddjpxqhs5ka479rki9310nsb1f3zaxwz4ys3";
+          sha256 = "";
         }
         {
           path = ''UCS/zaibuyidao_UCS Edit CatID.lua'';
@@ -44714,7 +44658,7 @@
         {
           path = ''UCS/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8cee47cff76619e7c117fd5281a0754c8584cf7f/Various/UCS/lib/config.lua";
-          sha256 = "19rrinlz57p63rvv98n2h234xc2szr07md7ji5gaf5xp0v97zrhp";
+          sha256 = "";
         }
         {
           path = ''UCS/lib/guir.lua'';
@@ -44734,12 +44678,12 @@
         {
           path = ''UCS/lib/utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8cee47cff76619e7c117fd5281a0754c8584cf7f/Various/UCS/lib/utils.lua";
-          sha256 = "05j74wnpyk88k0dr2npqmmbvs0b2rk6lr9r5754xf3q9571lr9dg";
+          sha256 = "";
         }
         {
           path = ''UCS/UCS_list.csv'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8cee47cff76619e7c117fd5281a0754c8584cf7f/Various/UCS/UCS_list.csv";
-          sha256 = "1gqz82yhv42k68nr5i59q1ndb0h0lznfn0f0vnvfh6lciqlbmp8l";
+          sha256 = "";
         }
         {
           path = ''UCS/UCS_list_custom.csv'';
@@ -44778,7 +44722,7 @@
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Manager.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/477312925724b10216d5d48e83a46a22908ba6ff/Various/UCS/zaibuyidao_UCS%20Metadata%20Region%20Manager.lua";
-          sha256 = "1sxd506w2dr5nibmpz4fi0nk46ircqqy1k1515w8agn6i9bmx2d8";
+          sha256 = "1gv3972baj54wdz3w3sicnhmw1kyk3hyc6xgxsx7xsl02sp9yjwg";
         }
         {
           path = ''UCS/zaibuyidao_UCS Metadata Region Within Time Selection.lua'';
@@ -44788,7 +44732,7 @@
         {
           path = ''UCS/zaibuyidao_UCS Edit CatID.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/477312925724b10216d5d48e83a46a22908ba6ff/Various/UCS/zaibuyidao_UCS%20Edit%20CatID.lua";
-          sha256 = "13m782gxbp12n1w1pxah8788a0cs130cmj8vzhb3sgpl27smbwcw";
+          sha256 = "1jb4j535d88rbvb7gqqdcss8wjab3p21dnf9sn2b9fyhdmb9sm54";
         }
         {
           path = ''UCS/lib/catid.lua'';
@@ -44798,12 +44742,12 @@
         {
           path = ''UCS/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/477312925724b10216d5d48e83a46a22908ba6ff/Various/UCS/lib/config.lua";
-          sha256 = "19rrinlz57p63rvv98n2h234xc2szr07md7ji5gaf5xp0v97zrhp";
+          sha256 = "1by4wk1ngv0d9qjllgg2m2ziqf5pw10d2fxih1r0wc32a0rs6vg0";
         }
         {
           path = ''UCS/lib/guir.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/477312925724b10216d5d48e83a46a22908ba6ff/Various/UCS/lib/guir.lua";
-          sha256 = "01zy3lqgs73x35mp7794ybbkvi57b6cfh3h5g2gb5a8axdcq42dv";
+          sha256 = "0d1ghpcfwxn4p1zzp5vwfm5xjggxpp87635y4pzn0wzkm97r5hpx";
         }
         {
           path = ''UCS/lib/guis.lua'';
