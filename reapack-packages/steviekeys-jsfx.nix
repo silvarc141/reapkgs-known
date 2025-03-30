@@ -743,6 +743,20 @@
         }
       ];
     };
+    hard-antiderivative-antialiasing-clipper-jsfx-1-0-2 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "hard-antiderivative-antialiasing-clipper-jsfx-1-0-2";
+      indexName = "StevieKeys JSFX";
+      categoryName = "Distortion";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/942aaff88161aff2802bac91e03ffa6e0adfacbe/Distortion/Hard%20AntiDerivative%20AntiAliasing%20Clipper.jsfx";
+          sha256 = "1v7qhh4m8dm0x9ncl47412zyry6crj45s1w6cxdiwx7r5qlrdz05";
+        }
+      ];
+    };
     octave-fuzz-jsfx-0-5-0beta = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "octave-fuzz-jsfx-0-5-0beta";

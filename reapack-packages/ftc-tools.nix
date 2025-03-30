@@ -10047,7 +10047,7 @@
         {
           path = ''Generated/FTC_MeMagic (9-6) Horizontally scroll to mouse or edit cursor + Vertically scroll to pitch, restrict to notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/f8d2c43ebfe097742ac68ae401c7a998d5c214d0/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(9-6)%20Horizontally%20scroll%20to%20mouse%20or%20edit%20cursor%20+%20Vertically%20scroll%20to%20pitch,%20restrict%20to%20notes%20in%20item.lua";
-          sha256 = "1pm6h405dkf0vmmvfz7pyrnmsqxxwy0l267qg2m0za4rh2ppz110";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (9-7) Horizontally scroll to mouse or edit cursor + Vertically scroll to center of notes in visible area.lua'';
@@ -10081,7 +10081,7 @@
         {
           path = ''Generated/FTC_MeMagic (1-3) Vertically zoom to all notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(1-3)%20Vertically%20zoom%20to%20all%20notes%20in%20item.lua";
-          sha256 = "19s06cq68gnspwjz53lz8zang2209fna535jh9zxv09hhksra6hm";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (1-3s) Vertically zoom to all selected notes in item.lua'';
@@ -10111,17 +10111,17 @@
         {
           path = ''Generated/FTC_MeMagic (1-7s) Vertically scroll to center of selected notes in visible area.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(1-7s)%20Vertically%20scroll%20to%20center%20of%20selected%20notes%20in%20visible%20area.lua";
-          sha256 = "1x5wzjlkmpy3x4fk801zlsr5lrg8dwrbh8w0jxc26h2sggw3zkqh";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (1-8) Vertically scroll to center of notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(1-8)%20Vertically%20scroll%20to%20center%20of%20notes%20in%20item.lua";
-          sha256 = "0h0nb3afhbhi3qaj95f9ahgx8kd485js6qkgic71m9khsfa1hdrg";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (1-8s) Vertically scroll to center of selected notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(1-8s)%20Vertically%20scroll%20to%20center%20of%20selected%20notes%20in%20item.lua";
-          sha256 = "1d3d6vz2id2gqkpaza424bg610gdmmnvc9j729h81qsj9grzrp2w";
+          sha256 = "1gbnn20c09msardfs17q3lflim8p2msyc8gsi52d9kjf4alb6iki";
         }
         {
           path = ''Generated/FTC_MeMagic (1-9) Vertically scroll to lowest note in visible area.lua'';
@@ -10156,7 +10156,7 @@
         {
           path = ''Generated/FTC_MeMagic (1-12) Vertically scroll to highest note in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(1-12)%20Vertically%20scroll%20to%20highest%20note%20in%20item.lua";
-          sha256 = "02a98rma4vdvdw85vcl3gyib0qai7sb27szdvpx0hmbqbdn09wxf";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (1-12s) Vertically scroll to highest selected note in item.lua'';
@@ -10176,7 +10176,7 @@
         {
           path = ''Generated/FTC_MeMagic (2-4) Horizontally zoom to item + Vertically scroll to pitch.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(2-4)%20Horizontally%20zoom%20to%20item%20+%20Vertically%20scroll%20to%20pitch.lua";
-          sha256 = "0iqyrq4f4ygg6la7hwjsi72vjw78j7wxi67mqmrl4d8d9rl1g8mb";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (2-6) Horizontally zoom to item + Vertically scroll to pitch, restrict to notes in item.lua'';
@@ -10211,7 +10211,7 @@
         {
           path = ''Generated/FTC_MeMagic (3-3) Horizontally zoom to 4 measures at mouse or edit cursor + Vertically zoom to all notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(3-3)%20Horizontally%20zoom%20to%204%20measures%20at%20mouse%20or%20edit%20cursor%20+%20Vertically%20zoom%20to%20all%20notes%20in%20item.lua";
-          sha256 = "0iiwwi9ii51cjkq1ckr6ljgdv0aq8bxck0wcmicziw5622gqfphv";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (3-4) Horizontally zoom to 4 measures at mouse or edit cursor + Vertically scroll to pitch.lua'';
@@ -10231,12 +10231,12 @@
         {
           path = ''Generated/FTC_MeMagic (3-7) Horizontally zoom to 4 measures at mouse or edit cursor + Vertically scroll to center of notes in visible area.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(3-7)%20Horizontally%20zoom%20to%204%20measures%20at%20mouse%20or%20edit%20cursor%20+%20Vertically%20scroll%20to%20center%20of%20notes%20in%20visible%20area.lua";
-          sha256 = "165nzw64jq74flsdpawvidydvady8ssj9fmfvgvaq7qjix8mrhhf";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (3-8) Horizontally zoom to 4 measures at mouse or edit cursor + Vertically scroll to center of notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(3-8)%20Horizontally%20zoom%20to%204%20measures%20at%20mouse%20or%20edit%20cursor%20+%20Vertically%20scroll%20to%20center%20of%20notes%20in%20item.lua";
-          sha256 = "0hqbvy5dznaviri6fisfmz1im817nvq25hq2dvq85nbv2iyiq0qi";
+          sha256 = "05czp578kbhv882pb802rs39cks5iqz3d11vwi4806slra1wy3nn";
         }
         {
           path = ''Generated/FTC_MeMagic (4-1) Horizontally zoom to 4 measures at mouse or edit cursor, restrict to item.lua'';
@@ -10251,12 +10251,12 @@
         {
           path = ''Generated/FTC_MeMagic (4-3) Horizontally zoom to 4 measures at mouse or edit cursor, restrict to item + Vertically zoom to all notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(4-3)%20Horizontally%20zoom%20to%204%20measures%20at%20mouse%20or%20edit%20cursor,%20restrict%20to%20item%20+%20Vertically%20zoom%20to%20all%20notes%20in%20item.lua";
-          sha256 = "1y5rjphi4qz63x284j2cv183agr4085jhm4nyrp4n3c0sx8533x5";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (4-4) Horizontally zoom to 4 measures at mouse or edit cursor, restrict to item + Vertically scroll to pitch.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(4-4)%20Horizontally%20zoom%20to%204%20measures%20at%20mouse%20or%20edit%20cursor,%20restrict%20to%20item%20+%20Vertically%20scroll%20to%20pitch.lua";
-          sha256 = "12lpfmfb49lcsxmmyjdwj051zirkrz108a54s22myzvfal7ldbwb";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (4-5) Horizontally zoom to 4 measures at mouse or edit cursor, restrict to item + Vertically scroll to pitch, restrict to notes in visible area.lua'';
@@ -10266,7 +10266,7 @@
         {
           path = ''Generated/FTC_MeMagic (4-6) Horizontally zoom to 4 measures at mouse or edit cursor, restrict to item + Vertically scroll to pitch, restrict to notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(4-6)%20Horizontally%20zoom%20to%204%20measures%20at%20mouse%20or%20edit%20cursor,%20restrict%20to%20item%20+%20Vertically%20scroll%20to%20pitch,%20restrict%20to%20notes%20in%20item.lua";
-          sha256 = "0p0rfpggx8zwrmmwmdlygfh5k6z2z58wydbammygn0g28rzhjwl6";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (4-7) Horizontally zoom to 4 measures at mouse or edit cursor, restrict to item + Vertically scroll to center of notes in visible area.lua'';
@@ -10281,32 +10281,32 @@
         {
           path = ''Generated/FTC_MeMagic (5-1) Horizontally smart zoom to 20 notes at mouse or edit cursor.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(5-1)%20Horizontally%20smart%20zoom%20to%2020%20notes%20at%20mouse%20or%20edit%20cursor.lua";
-          sha256 = "0j8ps1q23j5zrlbiv53fhyn11h1l7hv7zglvaz2qihiw7zcznfjv";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (5-2) Horizontally smart zoom to 20 notes at mouse or edit cursor + Vertically zoom to notes in visible area.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(5-2)%20Horizontally%20smart%20zoom%20to%2020%20notes%20at%20mouse%20or%20edit%20cursor%20+%20Vertically%20zoom%20to%20notes%20in%20visible%20area.lua";
-          sha256 = "0wk480rx40vrjk3ww3c2gndl6934nl91ag2l24jckdvkh6f60vdz";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (5-3) Horizontally smart zoom to 20 notes at mouse or edit cursor + Vertically zoom to all notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(5-3)%20Horizontally%20smart%20zoom%20to%2020%20notes%20at%20mouse%20or%20edit%20cursor%20+%20Vertically%20zoom%20to%20all%20notes%20in%20item.lua";
-          sha256 = "1hvdp67l2x8xbq46zaxg3vfd50dnalig8wba27pplsrvly1x35fa";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (5-4) Horizontally smart zoom to 20 notes at mouse or edit cursor + Vertically scroll to pitch.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(5-4)%20Horizontally%20smart%20zoom%20to%2020%20notes%20at%20mouse%20or%20edit%20cursor%20+%20Vertically%20scroll%20to%20pitch.lua";
-          sha256 = "0dccnf0lq8pxh2yv30gw6fppkpp2bgf4lik4g3dylncaqzh2j9k7";
+          sha256 = "124hwvd753s6i6lafgp0qr4vg81w767gfq6hj65vqgzp0j5k0pjv";
         }
         {
           path = ''Generated/FTC_MeMagic (5-5) Horizontally smart zoom to 20 notes at mouse or edit cursor + Vertically scroll to pitch, restrict to notes in visible area.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(5-5)%20Horizontally%20smart%20zoom%20to%2020%20notes%20at%20mouse%20or%20edit%20cursor%20+%20Vertically%20scroll%20to%20pitch,%20restrict%20to%20notes%20in%20visible%20area.lua";
-          sha256 = "06xqvbj37rdy40s2vnnl846cd6xi3g1gr6grxv69x7ay06mgdjgb";
+          sha256 = "02y0y5v8mg77qsws5124jpxgg0l76gjwnrxzas1r8h6i0qnxcs07";
         }
         {
           path = ''Generated/FTC_MeMagic (5-6) Horizontally smart zoom to 20 notes at mouse or edit cursor + Vertically scroll to pitch, restrict to notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(5-6)%20Horizontally%20smart%20zoom%20to%2020%20notes%20at%20mouse%20or%20edit%20cursor%20+%20Vertically%20scroll%20to%20pitch,%20restrict%20to%20notes%20in%20item.lua";
-          sha256 = "14ijwkbzdgbq5vp45j5hw9q9j1is27g6zbjnxh9x9mv6wj29zwz0";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (5-7) Horizontally smart zoom to 20 notes at mouse or edit cursor + Vertically scroll to center of notes in visible area.lua'';
@@ -10316,7 +10316,7 @@
         {
           path = ''Generated/FTC_MeMagic (5-8) Horizontally smart zoom to 20 notes at mouse or edit cursor + Vertically scroll to center of notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(5-8)%20Horizontally%20smart%20zoom%20to%2020%20notes%20at%20mouse%20or%20edit%20cursor%20+%20Vertically%20scroll%20to%20center%20of%20notes%20in%20item.lua";
-          sha256 = "1l9xrq63whxv340pvmqswaarary57pjiigm9ziwafmfxb651vdbx";
+          sha256 = "1xqv09a9wp1kmkgf4017xdkr5xyya6w81rpkhhgwl7m3m4zgfk81";
         }
         {
           path = ''Generated/FTC_MeMagic (6-1) Horizontally smart zoom to 20 notes at mouse or edit cursor, restrict to item.lua'';
@@ -10331,12 +10331,12 @@
         {
           path = ''Generated/FTC_MeMagic (6-3) Horizontally smart zoom to 20 notes at mouse or edit cursor, restrict to item + Vertically zoom to all notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(6-3)%20Horizontally%20smart%20zoom%20to%2020%20notes%20at%20mouse%20or%20edit%20cursor,%20restrict%20to%20item%20+%20Vertically%20zoom%20to%20all%20notes%20in%20item.lua";
-          sha256 = "01mv5v3z7vx9ph37apfm1511qh1vd15l3wyg08qihjp1fng5ly1p";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (6-4) Horizontally smart zoom to 20 notes at mouse or edit cursor, restrict to item + Vertically scroll to pitch.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(6-4)%20Horizontally%20smart%20zoom%20to%2020%20notes%20at%20mouse%20or%20edit%20cursor,%20restrict%20to%20item%20+%20Vertically%20scroll%20to%20pitch.lua";
-          sha256 = "1ahk7fvkqhf9qmpkzfc8ar23rnvxld4wpvvdd2brf9gd62mcc1qc";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (6-5) Horizontally smart zoom to 20 notes at mouse or edit cursor, restrict to item + Vertically scroll to pitch, restrict to notes in visible area.lua'';
@@ -10356,12 +10356,12 @@
         {
           path = ''Generated/FTC_MeMagic (6-8) Horizontally smart zoom to 20 notes at mouse or edit cursor, restrict to item + Vertically scroll to center of notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(6-8)%20Horizontally%20smart%20zoom%20to%2020%20notes%20at%20mouse%20or%20edit%20cursor,%20restrict%20to%20item%20+%20Vertically%20scroll%20to%20center%20of%20notes%20in%20item.lua";
-          sha256 = "0w0ylsbv3ry8abva0dzlazadnyz4glfy5qsyszr9yrn1haiqqhyn";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (7-1) Horizontally smart zoom to measures at mouse or edit cursor.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(7-1)%20Horizontally%20smart%20zoom%20to%20measures%20at%20mouse%20or%20edit%20cursor.lua";
-          sha256 = "1hclhxng0aldl39szvzpiw6y25prdiapzkrv9nxkws8sw33zyr4q";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (7-2) Horizontally smart zoom to measures at mouse or edit cursor + Vertically zoom to notes in visible area.lua'';
@@ -10381,7 +10381,7 @@
         {
           path = ''Generated/FTC_MeMagic (7-5) Horizontally smart zoom to measures at mouse or edit cursor + Vertically scroll to pitch, restrict to notes in visible area.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(7-5)%20Horizontally%20smart%20zoom%20to%20measures%20at%20mouse%20or%20edit%20cursor%20+%20Vertically%20scroll%20to%20pitch,%20restrict%20to%20notes%20in%20visible%20area.lua";
-          sha256 = "1izsrhm2ghlqrr2pgkf6gbfwfd80rxx7b0f4lvfc8lzpixc91pfp";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (7-6) Horizontally smart zoom to measures at mouse or edit cursor + Vertically scroll to pitch, restrict to notes in item.lua'';
@@ -10416,12 +10416,12 @@
         {
           path = ''Generated/FTC_MeMagic (8-4) Horizontally smart zoom to measures at mouse or edit cursor, restrict to item + Vertically scroll to pitch.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(8-4)%20Horizontally%20smart%20zoom%20to%20measures%20at%20mouse%20or%20edit%20cursor,%20restrict%20to%20item%20+%20Vertically%20scroll%20to%20pitch.lua";
-          sha256 = "0jnw72wy3xynxwkxjqmc9brka1wna95b8kwbyznllp59dp4imq04";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (8-5) Horizontally smart zoom to measures at mouse or edit cursor, restrict to item + Vertically scroll to pitch, restrict to notes in visible area.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(8-5)%20Horizontally%20smart%20zoom%20to%20measures%20at%20mouse%20or%20edit%20cursor,%20restrict%20to%20item%20+%20Vertically%20scroll%20to%20pitch,%20restrict%20to%20notes%20in%20visible%20area.lua";
-          sha256 = "1fnrlmi1n8bhc75b5bmdwam615l13p7v9w4yp4mfnc7nixbi2clq";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (8-6) Horizontally smart zoom to measures at mouse or edit cursor, restrict to item + Vertically scroll to pitch, restrict to notes in item.lua'';
@@ -10446,12 +10446,12 @@
         {
           path = ''Generated/FTC_MeMagic (9-2) Horizontally scroll to mouse or edit cursor + Vertically zoom to notes in visible area.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(9-2)%20Horizontally%20scroll%20to%20mouse%20or%20edit%20cursor%20+%20Vertically%20zoom%20to%20notes%20in%20visible%20area.lua";
-          sha256 = "1ywx4nh9g09sfxvkm8vn5inblalv7k1raj29fw3w3y97d9ndnziy";
+          sha256 = "1r7dlw9r0f3hgib9c2b47wrvvxidjgwa2mi63sjpnjd6l6rphwqi";
         }
         {
           path = ''Generated/FTC_MeMagic (9-3) Horizontally scroll to mouse or edit cursor + Vertically zoom to all notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(9-3)%20Horizontally%20scroll%20to%20mouse%20or%20edit%20cursor%20+%20Vertically%20zoom%20to%20all%20notes%20in%20item.lua";
-          sha256 = "1dxbvl5xkcx4qaykskygd684x0w4samb9synhwk84isk0qldwpa2";
+          sha256 = "";
         }
         {
           path = ''Generated/FTC_MeMagic (9-4) Horizontally scroll to mouse or edit cursor + Vertically scroll to pitch.lua'';
@@ -10461,22 +10461,22 @@
         {
           path = ''Generated/FTC_MeMagic (9-5) Horizontally scroll to mouse or edit cursor + Vertically scroll to pitch, restrict to notes in visible area.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(9-5)%20Horizontally%20scroll%20to%20mouse%20or%20edit%20cursor%20+%20Vertically%20scroll%20to%20pitch,%20restrict%20to%20notes%20in%20visible%20area.lua";
-          sha256 = "1q6vnmhf9s5h5wi60r1wg500c0rbh6w6zgr58hafzqjaswi2d9a7";
+          sha256 = "1drc8yik9096yi290yg1zv1wckf0f23hvmn3c1n9jysd9f40vl8l";
         }
         {
           path = ''Generated/FTC_MeMagic (9-6) Horizontally scroll to mouse or edit cursor + Vertically scroll to pitch, restrict to notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(9-6)%20Horizontally%20scroll%20to%20mouse%20or%20edit%20cursor%20+%20Vertically%20scroll%20to%20pitch,%20restrict%20to%20notes%20in%20item.lua";
-          sha256 = "1gba4ms7kimcjwcyi4hrbzjnn159zw87i4kd1dac5d5jdvrx0j15";
+          sha256 = "0xdwwbk5mq7yxskgbdcbnym471ixi0qzrfncs1k1n4a0bi6xvwp5";
         }
         {
           path = ''Generated/FTC_MeMagic (9-7) Horizontally scroll to mouse or edit cursor + Vertically scroll to center of notes in visible area.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(9-7)%20Horizontally%20scroll%20to%20mouse%20or%20edit%20cursor%20+%20Vertically%20scroll%20to%20center%20of%20notes%20in%20visible%20area.lua";
-          sha256 = "0s91qp4x2bsn80gy11gz68pwh75hr9cisgsi1qnh5mfsl1k5jvb8";
+          sha256 = "0wj9kf6lgbsm8vjbbyaf8fm5v91vaxq784j3wdbjfiqccjy5whdd";
         }
         {
           path = ''Generated/FTC_MeMagic (9-8) Horizontally scroll to mouse or edit cursor + Vertically scroll to center of notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c25513e420834675682d5132361dfef22e622ae/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(9-8)%20Horizontally%20scroll%20to%20mouse%20or%20edit%20cursor%20+%20Vertically%20scroll%20to%20center%20of%20notes%20in%20item.lua";
-          sha256 = "1wdfldckhjlqm9162pdxvpp15vrxfhzf8lmd0wz9i1h38p8cw05z";
+          sha256 = "02mpdkwkis1wyspcvd52nxb41qak32chmsr784wnzdk5rf7xg4lg";
         }
       ];
     };
@@ -10500,7 +10500,7 @@
         {
           path = ''Generated/FTC_MeMagic (1-3) Vertically zoom to all notes in item.lua'';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/0a4125c79df1d735726d4ff182c357b11faebd97/MIDI%20Editor%20Magic/Generated/FTC_MeMagic%20(1-3)%20Vertically%20zoom%20to%20all%20notes%20in%20item.lua";
-          sha256 = "1df4h4in219df42rah4vh6cmai4rihdxc6g1a1zwrwqjyxpsa7m0";
+          sha256 = "0m4rqm5ck7r191kyizgs5vm2dg97xd9wjna8lr0i3vddzlpl3ybz";
         }
         {
           path = ''Generated/FTC_MeMagic (1-3s) Vertically zoom to all selected notes in item.lua'';
@@ -13360,6 +13360,20 @@
           path = '''';
           url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/10923715865129119babb08a1c22fc2a65a764a1/Various/REAPER%20Update%20Utility.lua";
           sha256 = "1gv9l78sa5axmw0pyqyv9xm7fg83h3hililrz8c3kbx48wirxrqk";
+        }
+      ];
+    };
+    reaper-update-utility-lua-2-0-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "reaper-update-utility-lua-2-0-0";
+      indexName = "FTC Tools";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/iliaspoulakis/Reaper-Tools/raw/cb9afdfad657a6c60e842e9fc1d77636f550d9ac/Various/REAPER%20Update%20Utility.lua";
+          sha256 = "1ivxq2z8i7kd0a1hjn1qkf99agk9ifxwpf4vf1qqvf6rjhqi30wr";
         }
       ];
     };

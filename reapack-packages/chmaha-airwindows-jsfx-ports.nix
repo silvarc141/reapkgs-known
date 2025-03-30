@@ -29,7 +29,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/25eb2ee7018be94ba68221649673f969e64f4d5f/Consoles/ChloeConsoleColors.jsfx";
-          sha256 = "";
+          sha256 = "1p77v1j3yva49syxvwhi8j2v5x2s317b96qmdxqbnb731p3bws51";
         }
       ];
     };
@@ -48,7 +48,7 @@
         {
           path = ''ReaClassical_Cora.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/ReaClassical_Cora.RPP";
-          sha256 = "0d1qcfybaclqig6k86qdvc5bbjiq795fls6518fzja997prmjzrj";
+          sha256 = "02acgyfgiv26l5s467vn2pflf4ss47hvq9h1i4w18ymdggb90v3s";
         }
       ];
     };
@@ -62,7 +62,7 @@
         {
           path = ''Cora.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/Cora.jsfx";
-          sha256 = "";
+          sha256 = "1a084y4zl9d3hax4yk6j0jb0sdck0zagva10fvdrfrvgvn9ymfwl";
         }
         {
           path = ''ReaClassical_Cora.RPP'';
@@ -81,7 +81,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/desk-a-docious.jsfx";
-          sha256 = "";
+          sha256 = "0kwmggkk2bp4jbsynnczbf49mdgaxn8900xm5ck4gxyi25hx557v";
         }
       ];
     };
@@ -128,7 +128,7 @@
         {
           path = ''Em-See-Eye_Bus.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/deb904aa16abdbeacb32ed62ef2912eecff36fd3/Consoles/Em-See-Eye_Bus.jsfx";
-          sha256 = "";
+          sha256 = "10l4fy0fpf44vm1dhv032c2kv9nq56ilica777bp5n5yiypvlsdq";
         }
       ];
     };
@@ -152,12 +152,12 @@
         {
           path = ''ReaClassical_Eurydice_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/ReaClassical_Eurydice_A.RPP";
-          sha256 = "";
+          sha256 = "1q0wmsd0wj37l9lxzgclm9hr5zk8g5i0cx3pnapl0f0xpy4y8k0x";
         }
         {
           path = ''ReaClassical_Eurydice_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/ReaClassical_Eurydice_B.RPP";
-          sha256 = "";
+          sha256 = "1yjrqsj8xgyn64clf9jh4cvlf60i1limyxbi6zbf1jg7p6nzw6nz";
         }
       ];
     };
@@ -181,12 +181,12 @@
         {
           path = ''ReaClassical_Eurydice_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Consoles/ReaClassical_Eurydice_A.RPP";
-          sha256 = "";
+          sha256 = "1q0wmsd0wj37l9lxzgclm9hr5zk8g5i0cx3pnapl0f0xpy4y8k0x";
         }
         {
           path = ''ReaClassical_Eurydice_B.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/875c6e2277a5df0e51ef2bbf4bfc69dd1c43f09f/Consoles/ReaClassical_Eurydice_B.RPP";
-          sha256 = "";
+          sha256 = "1yjrqsj8xgyn64clf9jh4cvlf60i1limyxbi6zbf1jg7p6nzw6nz";
         }
       ];
     };
@@ -210,7 +210,7 @@
         {
           path = ''ReaClassical_Eurydice_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Consoles/ReaClassical_Eurydice_A.RPP";
-          sha256 = "";
+          sha256 = "1q0wmsd0wj37l9lxzgclm9hr5zk8g5i0cx3pnapl0f0xpy4y8k0x";
         }
         {
           path = ''ReaClassical_Eurydice_B.RPP'';
@@ -229,7 +229,7 @@
         {
           path = ''GenesisBus.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/GenesisBus.jsfx";
-          sha256 = "0jbncc9phd8r9kbpbnmrbb6mr4ik6b3rfizyxb86m0fgn0gsh7n9";
+          sha256 = "1r6hwwd10ivyw32m4d3mxdgxn268zysjkdr7yj5yn1fn3mdsdi7s";
         }
         {
           path = ''GenesisChannel.jsfx'';
@@ -326,7 +326,7 @@
         {
           path = ''ReaClassical_Genesis_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/945b48ff69d3c236e4ba342aa1830effd4c21bf5/Consoles/ReaClassical_Genesis_A.RPP";
-          sha256 = "1529qhca9inj9fpmhv9i991pbapfhiz9y38m1cjgqjxvvkcj5kj1";
+          sha256 = "1qlg562am4z5sjm7438ldzwq3smszfjf9cxfkib9gsxdgm9x548h";
         }
         {
           path = ''ReaClassical_Genesis_B.RPP'';
@@ -355,7 +355,7 @@
         {
           path = ''ReaClassical_Genesis_A.RPP'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/65568ec471d2cc83480a73e580ad33031855cd9a/Consoles/ReaClassical_Genesis_A.RPP";
-          sha256 = "1529qhca9inj9fpmhv9i991pbapfhiz9y38m1cjgqjxvvkcj5kj1";
+          sha256 = "1qlg562am4z5sjm7438ldzwq3smszfjf9cxfkib9gsxdgm9x548h";
         }
         {
           path = ''ReaClassical_Genesis_B.RPP'';
@@ -379,7 +379,7 @@
         {
           path = ''HorizonBuss.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/7e3dfc32ed3b066f3567fc537047fc49a479ff06/Consoles/HorizonBuss.jsfx";
-          sha256 = "1qzk309m6nz4x3nfwsd4hmkbiqi5c2415qzvd81vldv5ypg2qwf3";
+          sha256 = "0f3i8fxff79wh3gpnl1g1zf01f64vfpjrd8hrxkjh26vzl0fkfhr";
         }
       ];
     };
@@ -445,7 +445,7 @@
         {
           path = ''Orpheus_Bus_Out.jsfx'';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/1befb663e2faf08e585b227d0c30549eaf23f2a4/Consoles/Orpheus_Bus_Out.jsfx";
-          sha256 = "02gm3z8k8ys61l0vjhip4ijak6xmfrbfbssbjvfak41iy2y1q6q0";
+          sha256 = "1x63nkgmgx9d4x4crzim115rf7434fb948wynni6scpb18qrxwgi";
         }
         {
           path = ''Orpheus_Channel_In.jsfx'';

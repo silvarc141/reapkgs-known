@@ -25,7 +25,7 @@
         {
           path = ''euclid.lua'';
           url = "https://github.com/RobU23/ReaScripts/raw/b425115e55ea654c8916ef6c3a3ee71b359a87d0/MIDI%20Editor/MIDI%20Ex%20Machina/euclid.lua";
-          sha256 = "0cr8sp5xhkxsynb4ww8qm6mw3lvxyp60hs7kcw32xhdjws17kq43";
+          sha256 = "09is0c731vgnn43wh01q946ql1qsivgr6fkfmc7c8xsxqqs63qrx";
         }
         {
           path = ''persistence.lua'';
@@ -49,17 +49,17 @@
         {
           path = ''eGUI.lua'';
           url = "https://github.com/RobU23/ReaScripts/raw/2116b22f05844ed25267fb03e6190063c1480afe/MIDI%20Editor/MIDI%20Ex%20Machina/eGUI.lua";
-          sha256 = "1nc35hnjhq419rirv0dqnmm2z110l6ii3mqxw7ki5wlmqm7cind4";
+          sha256 = "182qca3z82c86qw36zingc2gaa42jkw25j3bjzprn4f7mcqmr8c0";
         }
         {
           path = ''euclid.lua'';
           url = "https://github.com/RobU23/ReaScripts/raw/2116b22f05844ed25267fb03e6190063c1480afe/MIDI%20Editor/MIDI%20Ex%20Machina/euclid.lua";
-          sha256 = "1162rp6m9z5a4m63whlxvivn059crzq9642pn79pbns5y6l10rsk";
+          sha256 = "1izlkj6hsy2skz5jybz1kxfzr7bf7ypyk9icsx16zr0k3wzib1zl";
         }
         {
           path = ''persistence.lua'';
           url = "https://github.com/RobU23/ReaScripts/raw/2116b22f05844ed25267fb03e6190063c1480afe/MIDI%20Editor/MIDI%20Ex%20Machina/persistence.lua";
-          sha256 = "1v09hx2b820pg0zkgpzhx5lk08myafsp8a55nns8jas798716nhr";
+          sha256 = "0rbqgv8yvvd1qhl133xqx67vs2br2j6dcsv41clyidibbiwf440k";
         }
       ];
     };

@@ -12763,7 +12763,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/de984c021e7f3f6e36d081e314e00af7085826db/Text%20Items%20and%20Item%20Notes/Formatting/X-Raym_Search%20and%20replace%20in%20selected%20items%20notes.lua";
-          sha256 = "";
+          sha256 = "1j40xhyk9v40g3mz9vlsi11yq7141k40vip3w9wp0n85ajwld2zg";
         }
       ];
     };
@@ -12777,7 +12777,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/56440babdda029c25d863867d7b24225c115ff59/Text%20Items%20and%20Item%20Notes/Formatting/X-Raym_Uppercase%20selected%20items%20notes.lua";
-          sha256 = "";
+          sha256 = "0rh2r8zc4lbk2lxdhha8i74jlxyp1j610g32cfllhrf859mhi8aw";
         }
       ];
     };
@@ -12917,7 +12917,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Track%20Properties/X-Raym_Display%20first%20selected%20track%20width%20and%20height.lua";
-          sha256 = "1cn47mxngafckzwljxkzr8yzx3k5lhhfahmxra6advzr9bkfwklv";
+          sha256 = "0iad2nlqlcyy0d7xl9ksxkbxl3as0s77x3x1z2gmlq7f1wj52kbw";
         }
       ];
     };
@@ -13043,7 +13043,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/d70934462a6f19c6841c699e3f6f499a5a246751/Track%20Properties/X-Raym_Move%20selected%20tracks%20down%20on%20visible%20track%20list.lua";
-          sha256 = "";
+          sha256 = "1vk9x4vaci0l19xsn1ng7z1pkk0m8s14h6c97kran532l5nbxj6c";
         }
       ];
     };
@@ -13057,7 +13057,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9cc51554ef045aee91b77f4a38b9e76df6e1c716/Track%20Properties/X-Raym_Move%20selected%20tracks%20down%20on%20visible%20track%20list.lua";
-          sha256 = "";
+          sha256 = "1hbaqpryrb91pim2vllsm92cf6bk9z41ypir1kljd2il35lkxli4";
         }
       ];
     };
@@ -13183,7 +13183,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Track%20Properties/X-Raym_Move%20selected%20tracks%20up%20to%20the%20top%20of%20the%20visible%20track%20list.lua";
-          sha256 = "08mb1cgb2dy8lsmg3j7a6dg77gx35fbfr2qh78rniji9spc8qa1x";
+          sha256 = "1cr11fj0bw75i9wblkjd2hyqyz8jkpw4cj0zdlxnvyfrg3k041q3";
         }
       ];
     };
@@ -13225,7 +13225,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Track%20Properties/X-Raym_Rename%20and%20recolor%20tracks%20created%20by%20Vordio%20from%20a%20Premiere%20Pro%20XML%20export.lua";
-          sha256 = "0qli90jhbpl0da38nvky2137gp0q4df52i10rfqh0a3frxm4h2jn";
+          sha256 = "0s8bnq8fck9qx8k6mrf67c8d9h6znbpxhg12xi4g8w524sv1i0mc";
         }
       ];
     };
@@ -13253,7 +13253,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Track%20Properties/X-Raym_Rename%20selected%20tracks%20with%20counter%20for%20child%20tracks%20and%20uppercase%20for%20parent%20tracks.lua";
-          sha256 = "1dlx9yzmknw3g6hksxcaq4fsfzvsac6lc3cxljafh90f8pl8w2ma";
+          sha256 = "1x93z5nrafhl04rsyhh9nvzgb2808c68j420qdkjjjhvp6ig0p0s";
         }
       ];
     };
@@ -15354,22 +15354,22 @@
         {
           path = ''X-Raym_Click at X Y screen position_slot 1.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/e8b5c2012106c4dd23786f1ce420959761c328b2/Various/X-Raym_Click%20at%20X%20Y%20screen%20position.lua";
-          sha256 = "";
+          sha256 = "0r7gs6hw6m4ysvab2cs4w9czxp7pk95b40wkdrlk1nki92v2913m";
         }
         {
           path = ''X-Raym_Click at X Y screen position_slot 2.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/e8b5c2012106c4dd23786f1ce420959761c328b2/Various/X-Raym_Click%20at%20X%20Y%20screen%20position.lua";
-          sha256 = "";
+          sha256 = "0r7gs6hw6m4ysvab2cs4w9czxp7pk95b40wkdrlk1nki92v2913m";
         }
         {
           path = ''X-Raym_Click at X Y screen position_slot 3.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/e8b5c2012106c4dd23786f1ce420959761c328b2/Various/X-Raym_Click%20at%20X%20Y%20screen%20position.lua";
-          sha256 = "";
+          sha256 = "0r7gs6hw6m4ysvab2cs4w9czxp7pk95b40wkdrlk1nki92v2913m";
         }
         {
           path = ''X-Raym_Click at X Y screen position_slot 4.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/e8b5c2012106c4dd23786f1ce420959761c328b2/Various/X-Raym_Click%20at%20X%20Y%20screen%20position.lua";
-          sha256 = "";
+          sha256 = "0r7gs6hw6m4ysvab2cs4w9czxp7pk95b40wkdrlk1nki92v2913m";
         }
       ];
     };
@@ -15425,7 +15425,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Various/X-Raym_Display%20script%20infos%20in%20the%20console.lua";
-          sha256 = "";
+          sha256 = "0z7n5r8rmgrnhzibdc36aswg5455chdhhl98cph4hjzai56j5i0d";
         }
       ];
     };
@@ -15467,7 +15467,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/0c1fdaeb63bf73935bbaecfaf9e0944216c48b42/Various/X-Raym_Export%20first%20selected%20track%20MIDI%20as%20UltraStar%20txt%20file.lua";
-          sha256 = "";
+          sha256 = "1g4sajb4k3f9blfa39z17phfjla0m0gq6kw1w6fgsdpbydqch63f";
         }
       ];
     };
@@ -15621,7 +15621,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/58d9c5b903a08f349fd752d0447788d23188d76e/Various/X-Raym_Export%20first%20selected%20track%20MIDI%20as%20UltraStar%20txt%20file.lua";
-          sha256 = "";
+          sha256 = "09ivgjkbxn7476iln189xj1ksxmz40zw7f6f4n7fmmwyz3zv5q53";
         }
       ];
     };
@@ -15635,7 +15635,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/a9237d1a5656f07c89f6392ed7c88d038cc5623e/Various/X-Raym_Export%20first%20selected%20track%20MIDI%20as%20UltraStar%20txt%20file.lua";
-          sha256 = "0233iqszl3rnlb58fdxknxs9k99b5ghmzhcs0ga0kd8679xa45ii";
+          sha256 = "1bqygbfsfjhzacnlljrf00ffm40iyh7lxjh9wyzgdgvqycx96i28";
         }
       ];
     };
@@ -15663,7 +15663,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Various/X-Raym_Focus%20SWS%20Notes%20window.lua";
-          sha256 = "0sy750zrcaarvgs4b6jgdgrh4p228wgp6nh95bzwvnpx6z687z9f";
+          sha256 = "011m5sd85ldihqkn7adq2y5py9lfiiylmf74aslnr5n723n3my47";
         }
       ];
     };
@@ -15705,7 +15705,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/ef664d9f0029b06a67f64fda2060babd25031e15/Various/X-Raym_Generate%20a%20combination%20of%20three%20random%20words%20to%20clipboard.lua";
-          sha256 = "";
+          sha256 = "0mkc7cs1r2vf7wlnskpbxcy9g8a3lkiymd63xfryajkwkj7g465w";
         }
       ];
     };
@@ -15733,7 +15733,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/3e5ce0f760ce5b4cbca0ce7c8c21acefde042283/Various/X-Raym_Import%20UltraStar%20txt.lua";
-          sha256 = "0rsnbxnmfgp9771m5m4fr8vinsdlr5w13r5al8l2hqp3w68iki10";
+          sha256 = "0g20ppjklkln7gq21p42sxk60h9m60rj3rparsal9rnh7klhmlgp";
         }
       ];
     };
@@ -15747,7 +15747,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/3c5983bc4bacf9773697b673cd1a6caf592b15c9/Various/X-Raym_Import%20UltraStar%20txt.lua";
-          sha256 = "0a3cd4hmgv3a52ywh0l3b148qjpssnx7s7g16iilnq15lyp17bnw";
+          sha256 = "0gim0j34q5yhaghxkhqfiqd5qxs0wraqjd145f8c1c66abx3166h";
         }
       ];
     };
@@ -15761,7 +15761,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/858b09f3f6131e6b360d7edca93670b428e7cd6b/Various/X-Raym_Import%20UltraStar%20txt.lua";
-          sha256 = "0f3lfpdjh5d31lw3djixdzjxnrx1r837c0xryj6js8ywkdg7qks7";
+          sha256 = "0ggqcw2nnwak52qhlqa1nzlnvxih49ypp8vm448cqz9inyjy2aqn";
         }
       ];
     };
@@ -15817,7 +15817,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Various/X-Raym_Import%20UltraStar%20txt.lua";
-          sha256 = "";
+          sha256 = "14pqyiqd3x66la2252bqmzrjnjzkx6fqfxkszkcdsz1sf4hqr3h2";
         }
       ];
     };
@@ -15831,7 +15831,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bd8e5a21a446426fd58d357ec4f1c290942251ac/Various/X-Raym_Import%20UltraStar%20txt.lua";
-          sha256 = "";
+          sha256 = "00vbi0fp329as2x0bwbwbbw9g3iv8rvz6rz8ynrb06fx4r4cdw4p";
         }
       ];
     };
@@ -15845,7 +15845,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/278204b1b5a45cd25c262c9ada68c4795559fd1c/Various/X-Raym_Import%20UltraStar%20txt.lua";
-          sha256 = "14f9gr6qpwhvdm01qv8aa262q2xa33cq3nad83pwcdwjdgvddyyz";
+          sha256 = "1f6nl89mr4jlslf2a4ysr2z8hmyqipgh3ga12laaj4q8375i03c7";
         }
       ];
     };
@@ -15859,7 +15859,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/90027ea1c96d9d978eb4802c7579ec03615494a4/Various/X-Raym_Import%20UltraStar%20txt.lua";
-          sha256 = "";
+          sha256 = "0d68dfj7q9vda5zrqlkl6987z0jg1a29jckyybh90y06x5ll3pps";
         }
       ];
     };
@@ -15873,7 +15873,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Various/X-Raym_Insert%20empty%20space%20at%20edit%20cursor%20(popup).lua";
-          sha256 = "";
+          sha256 = "1d0agf7z9xl5g0zji7z2a6wi1hd37l1429wp93wqwkm31fk7fy2v";
         }
       ];
     };
@@ -15929,7 +15929,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/376dd539141cc533ee4503f2525caf919b926e0a/Various/X-Raym_Insert%20UltraStar%20lyrics%20from%20project%20to%20items%20MIDI%20notes%20on%20first%20selected%20track.lua";
-          sha256 = "1l30ad19bz140148gvqpb8lrarv0vlr1qayfxa5r0aw8sj719ric";
+          sha256 = "1x3gbh0x334l4yjb86biv7zafpb16wsshdkllqzn0hakd5799f8s";
         }
       ];
     };
@@ -15957,7 +15957,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/85a93cc6a5f0dd16708426cb4ac99aab8e4fb1e6/Various/X-Raym_Insert%20UltraStar%20lyrics%20from%20project%20to%20items%20MIDI%20notes%20on%20first%20selected%20track.lua";
-          sha256 = "";
+          sha256 = "0hxxnbwz77gdf518xk7mnjkl9icww3ikx1mwm6g8sw348wxxbfpn";
         }
       ];
     };
@@ -15971,7 +15971,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/22ed8e6480fbb5a9c56bcae8bfbcf99f1ff307a3/Various/X-Raym_Insert%20UltraStar%20lyrics%20from%20project%20to%20items%20MIDI%20notes%20on%20first%20selected%20track_background.lua";
-          sha256 = "0lpqrv4ch88hhpd6qppyqyy6flz0ync5gj02gcvrcr2pvznv5x8l";
+          sha256 = "1f1lcihwa4x0wgpgfrcjbl1w3mab9n9s5nc4xpwf878i8r2j4w1k";
         }
       ];
     };
@@ -16013,7 +16013,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/c1075083a79e7c38241eccbdee22cf1dc822fb0d/Various/X-Raym_Lua%20pattern%20viewer_ReaImGui.lua";
-          sha256 = "";
+          sha256 = "0sikzgdim88kjibg32z29lm0vhqb62dgajz6qxmfv581h347wkd7";
         }
       ];
     };
@@ -16041,7 +16041,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/099e0f6046a73d3067fbee581bb6b252ccad5caf/Various/X-Raym_Lua%20pattern%20viewer_ReaImGui.lua";
-          sha256 = "";
+          sha256 = "1x3rjccmdh1jfmhdymb57932vwkm9fhbdvl0hdnqdgpf3xhhr27g";
         }
       ];
     };
@@ -16055,7 +16055,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/70ce5695ce866199b41b2f72f4a8641912a41845/Various/X-Raym_Lua%20pattern%20viewer_ReaImGui.lua";
-          sha256 = "";
+          sha256 = "0x3pja35wh5rz1bpy7kibnfs9ynd2yvhlp215ph68b2pg9m0kjb1";
         }
       ];
     };
@@ -16111,7 +16111,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/da3865e2c30d17f21d2432ad076c36cf8b98724e/Various/X-Raym_Lua%20pattern%20viewer_ReaImGui.lua";
-          sha256 = "";
+          sha256 = "06xi3fa698bsf68qqczk0ki3wf49s45rqddkp36rwxfwb6jryf5v";
         }
       ];
     };
@@ -16139,7 +16139,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/daf57ad206831930911ad4e616e947af394ea100/Various/X-Raym_Lua%20pattern%20viewer_ReaImGui.lua";
-          sha256 = "";
+          sha256 = "09g5d7g5kpy9l3yvq9wg5rmrv6h311bbgwl3xw73snzqk9y4xw3k";
         }
       ];
     };
@@ -16153,7 +16153,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Various/X-Raym_Move%20edit%20cursor%20to%20time%200%20or%20to%20project%20start.lua";
-          sha256 = "";
+          sha256 = "1mh9b6x8ap483plws3vrrl9ki2r98hi3wif93mmq4kw8snzydqnv";
         }
       ];
     };
@@ -16167,7 +16167,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/12a245f316559673d0d1461e5cfde6ef9f00cf6d/Various/X-Raym_Move%20edit%20cursor%20to%20time%200%20or%20to%20project%20start.lua";
-          sha256 = "";
+          sha256 = "0q5p98g0y2jqbzwp2a3jmg8368zrcaaldzzifsh5iw713h4yz9qa";
         }
       ];
     };
@@ -16195,7 +16195,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/b505fa54c8f125564bd39ccdf3138e29b4dc2538/Various/X-Raym_Open%20project%20folder%20in%20explorer%20or%20finder.lua";
-          sha256 = "";
+          sha256 = "1p00ri8vrln6y0pjhij8392yglczgzbylb7rri284vv903fi9hka";
         }
       ];
     };
@@ -16237,7 +16237,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/4cad213fc31bccc8dea8bf5af3ce1d5f65d3125e/Various/X-Raym_Open%20render%20folder%20in%20explorer%20or%20finder.lua";
-          sha256 = "";
+          sha256 = "06zq1c3j6zg5k0rdfwf3yc507cjcmkzk1wa0vbhw13bl7z00i8fw";
         }
       ];
     };
@@ -16265,7 +16265,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/909fdfc65ae2d587defbe9e75c4ceeb529f3bf88/Various/X-Raym_Open%20render%20folder%20in%20explorer%20or%20finder.lua";
-          sha256 = "";
+          sha256 = "12x6rz704w31ifsmcgp6nmgq8z0hgd6pnjf4x92k25a5vi70cnhd";
         }
       ];
     };
@@ -16279,7 +16279,21 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/abdae2245f4501f8af68684f3cdc56e717c341f0/Various/X-Raym_Open%20render%20folder%20in%20explorer%20or%20finder.lua";
-          sha256 = "";
+          sha256 = "0xi2cydycj9h7xlk2hcpsc5p5h1xshjf61kr4bhdxqmlh2nhlqay";
+        }
+      ];
+    };
+    x-raym-open-render-folder-in-explorer-or-finder-lua-1-0-5 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-open-render-folder-in-explorer-or-finder-lua-1-0-5";
+      indexName = "X-Raym Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/36dd90cb60c7a887adfc467e7a969b537918388c/Various/X-Raym_Open%20render%20folder%20in%20explorer%20or%20finder.lua";
+          sha256 = "0v15svlfsvn1yac0pm28493z3ykmn2daiakancmwdvz17nswagn2";
         }
       ];
     };
@@ -16307,7 +16321,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Various/X-Raym_Remove%20content%20of%20time%20selection%20preserving%20time%20selection%20and%20relative%20play%20cursor%20in%20place.eel";
-          sha256 = "";
+          sha256 = "1llxh4b1jf5fqxj7xjdmsbifgpc4jm7708gmxfwnz8i1shcd8g54";
         }
       ];
     };
@@ -16349,7 +16363,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/a902a10b5691ac88e1a6246c9b80c9cd8f577f32/Various/X-Raym_Render%20selected%20tracks%20individually%20through%20master.lua";
-          sha256 = "";
+          sha256 = "1mjwpswcysz7si27a9hw5sryak6z18n5593dlfcy8d1qm0glkpns";
         }
       ];
     };
@@ -16433,7 +16447,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Various/X-Raym_Ripple%20check.eel";
-          sha256 = "";
+          sha256 = "0fl3i82h9d5xbmy3z4g6kh0pjrdsib9bkwqhmqi7z7cmyzf7b9jp";
         }
       ];
     };
@@ -16505,22 +16519,22 @@
         {
           path = ''X-Raym_Save mouse cursor X Y screen position_slot 1.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/e8b5c2012106c4dd23786f1ce420959761c328b2/Various/X-Raym_Save%20mouse%20cursor%20X%20Y%20screen%20position.lua";
-          sha256 = "";
+          sha256 = "1b16fyy8p5ip9rhg6k06xl9w7c0x70pwwjv1vq8wgg8ykrfv5aiv";
         }
         {
           path = ''X-Raym_Save mouse cursor X Y screen position_slot 2.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/e8b5c2012106c4dd23786f1ce420959761c328b2/Various/X-Raym_Save%20mouse%20cursor%20X%20Y%20screen%20position.lua";
-          sha256 = "";
+          sha256 = "1b16fyy8p5ip9rhg6k06xl9w7c0x70pwwjv1vq8wgg8ykrfv5aiv";
         }
         {
           path = ''X-Raym_Save mouse cursor X Y screen position_slot 3.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/e8b5c2012106c4dd23786f1ce420959761c328b2/Various/X-Raym_Save%20mouse%20cursor%20X%20Y%20screen%20position.lua";
-          sha256 = "";
+          sha256 = "1b16fyy8p5ip9rhg6k06xl9w7c0x70pwwjv1vq8wgg8ykrfv5aiv";
         }
         {
           path = ''X-Raym_Save mouse cursor X Y screen position_slot 4.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/e8b5c2012106c4dd23786f1ce420959761c328b2/Various/X-Raym_Save%20mouse%20cursor%20X%20Y%20screen%20position.lua";
-          sha256 = "";
+          sha256 = "1b16fyy8p5ip9rhg6k06xl9w7c0x70pwwjv1vq8wgg8ykrfv5aiv";
         }
       ];
     };
@@ -16534,7 +16548,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Various/X-Raym_Set%20SWS%20global%20startup%20action%20extstate%20value%20to%20Off.lua";
-          sha256 = "";
+          sha256 = "03f610wirab17f5ql2n579f3i051w8kq61miclfs8h20rqlk7xcn";
         }
       ];
     };
@@ -16548,7 +16562,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/c03c1dc130490ff3b58c3e7efe900464fe078f8c/Various/X-Raym_Set%20SWS%20global%20startup%20action%20extstate%20value%20to%20Off.lua";
-          sha256 = "";
+          sha256 = "0yglg34sphq7ihclm02bg1awdmrgn2w2qy02b2sq8w0i24bba358";
         }
       ];
     };
@@ -16562,7 +16576,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Various/X-Raym_Set%20SWS%20global%20startup%20action%20extstate%20value%20to%20On.lua";
-          sha256 = "";
+          sha256 = "14s8q8ymicg0fypxjl57bqkpp9c93w11xfp2qqv3hiwzlzx073a1";
         }
       ];
     };
@@ -16576,7 +16590,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/c03c1dc130490ff3b58c3e7efe900464fe078f8c/Various/X-Raym_Set%20SWS%20global%20startup%20action%20extstate%20value%20to%20On.lua";
-          sha256 = "";
+          sha256 = "1f12m8vvvldhcnfvlxbbscrzzl8h88dlg6ypmq9dw0gg5q07zf5v";
         }
       ];
     };
@@ -16590,7 +16604,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Various/X-Raym_Set%20SWS%20project%20startup%20action%20extstate%20value%20to%20Off.lua";
-          sha256 = "";
+          sha256 = "0i14d5y58vz1fmaddpjckci17vzcpdw47526ans043pavrwj23bj";
         }
       ];
     };
@@ -16604,7 +16618,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Various/X-Raym_Set%20SWS%20project%20startup%20action%20extstate%20value%20to%20On.lua";
-          sha256 = "";
+          sha256 = "0nly0lcrvb01ybx1026kkymx04b5wf7kj2n06a5lcgp2sac4f96q";
         }
       ];
     };
@@ -16618,82 +16632,82 @@
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 1.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 2.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 3.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 4.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 5.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 6.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 7.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 8.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 9.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 10.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 11.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 12.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 13.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 14.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 15.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
         {
           path = ''X-Raym_Set take or item or track or region or marker color to custom slot 16.lua'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/bc69868b4df4f4a21279687cfe66cf691ce599c2/Various/X-Raym_Set%20take%20item%20track%20region%20marker%20color_functions.lua";
-          sha256 = "";
+          sha256 = "18f6r9ipqz6nw6abgfmiagpm6scrk3w6309n7wrdqd4iylw1sv8r";
         }
       ];
     };
@@ -16707,7 +16721,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Various/X-Raym_Set%20UltraStar%20project%20metadata.lua";
-          sha256 = "";
+          sha256 = "1skav5fp6jm1lnv9xqs9i1g1a918hdhq7daj16wfhw8afb0gpzzl";
         }
       ];
     };
@@ -16721,7 +16735,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9d89604dc0f67a11b89e46802f3cc43db44ad2ce/Various/X-Raym_Set%20UltraStar%20project%20metadata.lua";
-          sha256 = "0gv5zdhqa1hss6w2h8qzsi27i4zj8zwcczbdryf1xmmypmx01amn";
+          sha256 = "14shgv0p9zpvkj87n20dpy3c567ic6slgc2fyqbim1n19dgmza3j";
         }
       ];
     };
@@ -16735,7 +16749,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/e6dc5bfa864abef783e946979487f2bfc6241d97/Various/X-Raym_State%20chunk%20editor_ReaImGui.lua";
-          sha256 = "";
+          sha256 = "1h4lm6xz8yhgjs5nywkapvdcikdc9z6d5fzch7lmyi71c22fhps6";
         }
       ];
     };
@@ -16791,7 +16805,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/da3865e2c30d17f21d2432ad076c36cf8b98724e/Various/X-Raym_State%20chunk%20editor_ReaImGui.lua";
-          sha256 = "";
+          sha256 = "1hq8brxkiszplzyvi50kwi7ygyzmyqfgp5sy9kmhhym13ap7aldi";
         }
       ];
     };
@@ -16805,7 +16819,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/19ef53aa4bf1c11f4076b9eef1e5cec9f1fe3ad3/Various/X-Raym_State%20chunk%20editor_ReaImGui.lua";
-          sha256 = "";
+          sha256 = "0j4rhg9ib96q8ksbzck0ld02d8sz3pyzhr5hl2fnqh5qlcfznh6v";
         }
       ];
     };
@@ -16819,7 +16833,21 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/daf57ad206831930911ad4e616e947af394ea100/Various/X-Raym_State%20chunk%20editor_ReaImGui.lua";
-          sha256 = "";
+          sha256 = "1j9rhvzfq7whagp9qc905kgpipwx297zh123qykwzi4pid2xq544";
+        }
+      ];
+    };
+    x-raym-state-chunk-editor-reaimgui-lua-1-1-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "x-raym-state-chunk-editor-reaimgui-lua-1-1-0";
+      indexName = "X-Raym Scripts";
+      categoryName = "Various";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/83b96417369ad7a4838977997ad7761b27e91ebf/Various/X-Raym_State%20chunk%20editor_ReaImGui.lua";
+          sha256 = "01dpy4bi2rk57vc25sahsk2fdgwq1yd0y9jk6wymh1684kra6iyw";
         }
       ];
     };
@@ -16833,7 +16861,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/eaa8bcb5b342b88926378142e9141716e5af5697/Various/X-Raym_Toggle%20Sonarworks%20SoundID%20monitor%20FX%20instance%20Calibration%20state.lua";
-          sha256 = "";
+          sha256 = "1m29xpqwii395nh34w2rpjxbhamgs0x5p3i9zpc0yh7s3wijzbj1";
         }
       ];
     };
@@ -16847,7 +16875,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/caeb706f95cbd90a0198f88d65ac6061c6892e79/Various/X-Raym_Toggle%20Sonarworks%20SoundID%20monitor%20FX%20instance%20Calibration%20state.lua";
-          sha256 = "";
+          sha256 = "021ni4d7b0bp4ni8w7lzbpf9y23mn58msd1ci8mhqpscrsh9xwnz";
         }
       ];
     };
@@ -16875,7 +16903,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/c03c1dc130490ff3b58c3e7efe900464fe078f8c/Various/X-Raym_Toggle%20Sonarworks%20SoundID%20monitor%20FX%20instance%20Calibration%20state.lua";
-          sha256 = "";
+          sha256 = "0hdnz1yj27k2b359jwg8qg51w18gwya30adw2dkbr2aw6hb5x1sv";
         }
       ];
     };
@@ -16903,7 +16931,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/6c53d978e6e34c91b4ecd10749743f8acd4c279f/Various/X-Raym_XR%20ReaImGui%20Themer_ReaImGui.lua";
-          sha256 = "";
+          sha256 = "1q978y3yszw93mfvahpyq0dvl075sy5m9fnqy5xifddl0w1ldj7q";
         }
       ];
     };
@@ -16959,7 +16987,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/View/X-Raym_Find%20and%20go%20to%20next%20items%20on%20selected%20tracks%20with%20input%20text%20as%20notes.lua";
-          sha256 = "";
+          sha256 = "13cqwv18r70g3c04zvws5bg87k6xj305in5i79nf02609jb8csjr";
         }
       ];
     };
@@ -16973,7 +17001,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/70fbd82eeba8e49a4d455904445a5f725c9860d8/View/X-Raym_Focus%20media%20explorer.lua";
-          sha256 = "";
+          sha256 = "1pbigizflpsvslc4pal5swirj68c318cf4yib3xxx5a9sa8js5q4";
         }
       ];
     };
@@ -16987,7 +17015,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/View/X-Raym_Focus%20media%20explorer.lua";
-          sha256 = "";
+          sha256 = "0ry0nsmcvi4lw5w5sfr9r781gl26qv3vbm4qs3z9kwfgb49fya62";
         }
       ];
     };
@@ -17029,7 +17057,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/View/X-Raym_Go%20and%20zoom%20to%20previous%20selected%20item%20without%20losing%20selection.lua";
-          sha256 = "";
+          sha256 = "08a820yvipl2rxr1ginym00z1lyjrj2hrj9v431kzd7ck05gxfs0";
         }
       ];
     };
@@ -17071,7 +17099,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/37c0d6de6f0eb7496ac679941dbc119f0fdeb761/View/X-Raym_Scroll%20arrange%20view%20if%20mouse%20reaches%20reaper%20window%20edges.lua";
-          sha256 = "";
+          sha256 = "185csj6j4997d2hs4agld8j22vmcyzbp8by2441rbijcdikpaaky";
         }
       ];
     };
@@ -17085,7 +17113,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/ba8ba872d3e6e61fe7202f000074f0a26f3d8ece/View/X-Raym_Scroll%20arrange%20view%20if%20mouse%20reaches%20reaper%20window%20edges.lua";
-          sha256 = "";
+          sha256 = "01arf83w5yhr02pbhqv95rfid8h125sa9dljqqjsb86m0237413r";
         }
       ];
     };
@@ -17141,7 +17169,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/c2fa8e60a93118c968360f5178d2f726b0916081/View/X-Raym_Scroll%20arrange%20view%20if%20mouse%20reaches%20screen%20edges.lua";
-          sha256 = "";
+          sha256 = "0nf97hqzbk21qbppv5vyrdliccwdxlvliv4mw90991g8r77mc6l7";
         }
       ];
     };
@@ -17169,7 +17197,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe4f352c134291fd57689fc6e013f3b999d67a59/View/X-Raym_Scroll%20arrange%20view%20if%20mouse%20reaches%20screen%20edges.lua";
-          sha256 = "";
+          sha256 = "10b753yn11qmzd5l6lnl7dg77854wlhpf2krgr874sd4khc62hal";
         }
       ];
     };
@@ -17225,7 +17253,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/2e015b30c39be43453cb2cdca23e07e41b335850/View/X-Raym_Scroll%20arrange%20view%20if%20mouse%20reaches%20screen%20edges.lua";
-          sha256 = "";
+          sha256 = "0ldyk5p7y2ra8zh55y86q5l3jkwyp7366anrq75imnnzp1fxm8ys";
         }
       ];
     };
@@ -17239,7 +17267,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/View/X-Raym_Scroll%20vertically%20down%20a%20little%20bit.lua";
-          sha256 = "";
+          sha256 = "17amnsl4gh0s0pnclr7safq6x171pi3ack4s4crqcliqr0lbajc7";
         }
       ];
     };
@@ -17281,7 +17309,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/964740fc3aab427b6d16790357f1d77f27fb062b/View/X-Raym_Toggle%20video%20window%20full%20screen.lua";
-          sha256 = "";
+          sha256 = "0r8371xxfxfv23zd6isyyjx0x0ixd9grdswgl5c7jwh9p6079g4c";
         }
       ];
     };
@@ -17295,7 +17323,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/964740fc3aab427b6d16790357f1d77f27fb062b/View/X-Raym_Toggle%20video%20window%20opacity.lua";
-          sha256 = "";
+          sha256 = "1jj2l3avv30hq2lvalmkz6qdyin9vs2pzdqw6yffxsh3zmk3a2v5";
         }
       ];
     };
@@ -17309,7 +17337,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/View/X-Raym_Zoom%20to%20region%20at%20edit%20cursor.lua";
-          sha256 = "";
+          sha256 = "1016xhyf06qlxzmw98p7gvj8fihyra47i5nqlqykx75wly2kn5b2";
         }
       ];
     };
@@ -17379,7 +17407,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/84b6ed3a00cfdbd15e038a61971b64a0567521e5/Web%20Interfaces/X-Raym_Convert%20Lyrics%20track%20items%20notes%20for%20dedicated%20web%20browser%20interface.lua";
-          sha256 = "";
+          sha256 = "0jlxsaba786zpq39699s6z5acym25sgbg6n3nqav8hmac8dssyc1";
         }
       ];
     };
@@ -17393,7 +17421,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/3b29953f71072be554531b3fa295fa13712dec24/Web%20Interfaces/X-Raym_Convert%20region%20names%20for%20dedicated%20web%20browser%20interface.lua";
-          sha256 = "";
+          sha256 = "0c2hq6icarx2ryfk0w15ziw6ndvr99lrir3vzf99ignkbkb8p3rk";
         }
       ];
     };
@@ -17421,7 +17449,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/a1d2942e64fcddc79b9493759522e39aa0dee11e/Web%20Interfaces/X-Raym_Convert%20region%20subtitles%20for%20dedicated%20web%20browser%20interface.lua";
-          sha256 = "";
+          sha256 = "0xn5i36qa1735ndxcq69nrlw9adb3axl8f1dnc43gcyrgrwrrh9g";
         }
       ];
     };
@@ -17477,7 +17505,7 @@
         {
           path = ''X-Raym_Lyrics.html'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9a8a3486561cac1ca7c0080398ebcf2d940af77b/Web%20Interfaces/X-Raym_Lyrics.html";
-          sha256 = "";
+          sha256 = "0rg3pb8qxb7iw301yl3wn2f3cmss76fhpcbr1idylzb85g1wg3sc";
         }
       ];
     };
@@ -17491,7 +17519,7 @@
         {
           path = ''X-Raym_Lyrics.html'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/a39c4116cdfa648ff4b70b63dcd7202db0539b26/Web%20Interfaces/X-Raym_Lyrics.html";
-          sha256 = "";
+          sha256 = "15pfh7vr45v1c8wv6caamr3vwabs59ik3nvm6jk8jsraxb738qaq";
         }
       ];
     };
@@ -17505,7 +17533,7 @@
         {
           path = ''X-Raym_Lyrics.html'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/84b6ed3a00cfdbd15e038a61971b64a0567521e5/Web%20Interfaces/X-Raym_Lyrics.html";
-          sha256 = "";
+          sha256 = "1ksv7091wawyknvs6rmgcnrqpww93885hs04vacqc9vjbm7rwcip";
         }
       ];
     };
@@ -17547,7 +17575,7 @@
         {
           path = ''X-Raym_Scrolling Lyrics.html'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/ff6360980ff4135d652377479b346a9754943afc/Web%20Interfaces/X-Raym_Scrolling%20Lyrics.html";
-          sha256 = "";
+          sha256 = "1r6z51gcr36n6hsvlag3jgjfpdjnix927zvj2qfxyvymnl88mbyy";
         }
       ];
     };
@@ -17561,7 +17589,7 @@
         {
           path = ''X-Raym_Scrolling Lyrics.html'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/a4349d1e639ccdea2d6e2329d1a732d8b3ea625a/Web%20Interfaces/X-Raym_Scrolling%20Lyrics.html";
-          sha256 = "";
+          sha256 = "1ig9f5ij8i67hnzkzgyfvm4j5s80rd77dpx264pvcrff9091b2qk";
         }
       ];
     };
@@ -17575,7 +17603,7 @@
         {
           path = ''X-Raym_Scrolling Lyrics.html'';
           url = "https://github.com/X-Raym/REAPER-ReaScripts/raw/9291cf3fd485b4965bcc320285e0474b5c67d97d/Web%20Interfaces/X-Raym_Scrolling%20Lyrics.html";
-          sha256 = "";
+          sha256 = "0g9018547759j2md3843l66k9mq8mpf7g8ga134j2fzm4y1ar7x8";
         }
       ];
     };

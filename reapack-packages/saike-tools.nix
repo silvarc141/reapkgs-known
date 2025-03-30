@@ -1329,6 +1329,55 @@
         }
       ];
     };
+    amaranth-jsfx-0-30 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amaranth-jsfx-0-30";
+      indexName = "Saike Tools";
+      categoryName = "Amaranth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/3924f66fa0137625cb7797c2ce0232f4ff5e1d69/Amaranth/Amaranth.jsfx";
+          sha256 = "0y0gszf9ndmaxrvp3ld0h3ygp6sm1qdy36fmjzh617c4jlpiiv1v";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_envelopes.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/3924f66fa0137625cb7797c2ce0232f4ff5e1d69/Amaranth/Amaranth_Dependencies/Amaranth_envelopes.jsfx-inc";
+          sha256 = "1klfp14y5ghwr96irizphgdig7w1sdfn4bpircqwkimkyh8lb9hp";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/3924f66fa0137625cb7797c2ce0232f4ff5e1d69/Amaranth/Amaranth_Dependencies/Amaranth_filters.jsfx-inc";
+          sha256 = "03d527229hc0h976pr8s0qf6rsmjj4rzslg093ck2ci5mghffdlx";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_grainlib.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/3924f66fa0137625cb7797c2ce0232f4ff5e1d69/Amaranth/Amaranth_Dependencies/Amaranth_grainlib.jsfx-inc";
+          sha256 = "04d0l925g41l6dj8lv2avyx0rz1lg3cvnkvig9a989fcv5smi331";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_mouse.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/3924f66fa0137625cb7797c2ce0232f4ff5e1d69/Amaranth/Amaranth_Dependencies/Amaranth_mouse.jsfx-inc";
+          sha256 = "1fnc4hqcg0l65hmc9jq0r4bq292sl5p51vzlxxlnh65bwprc547r";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_widgetdata.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/3924f66fa0137625cb7797c2ce0232f4ff5e1d69/Amaranth/Amaranth_Dependencies/Amaranth_widgetdata.jsfx-inc";
+          sha256 = "1wbzkp62z3dhq2zxkql2f197xpl4j7kbrqd3mc6xk1k54c6fh5r6";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_widgets.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/3924f66fa0137625cb7797c2ce0232f4ff5e1d69/Amaranth/Amaranth_Dependencies/Amaranth_widgets.jsfx-inc";
+          sha256 = "1c67hxmqr4rgv7jvb7fra0a55bgawcwizf08fgqmz7mxyy6pfkn2";
+        }
+        {
+          path = ''Amaranth_Dependencies/Logo4.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/3924f66fa0137625cb7797c2ce0232f4ff5e1d69/Amaranth/Amaranth_Dependencies/Logo4.png";
+          sha256 = "0hg3dgxi1nmx46rnqiybx09sjb2sdjl4cjlj4r89lq8vxsmczcz8";
+        }
+      ];
+    };
     bandsplitter-jsfx-0-01 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-01";

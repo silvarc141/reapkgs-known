@@ -2845,6 +2845,20 @@
         }
       ];
     };
+    sexan-fx-browser-parserv7-lua-1-43 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "sexan-fx-browser-parserv7-lua-1-43";
+      indexName = "Sexan_Scripts";
+      categoryName = "FX";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/GoranKovac/ReaScripts/raw/a78be82aa1531660df6a6bd77791d299c2fc0b95/FX/Sexan_FX_Browser_ParserV7.lua";
+          sha256 = "0pkgnczc2rb21gdvsa0z5bi8f491qyczgpxxkn4bvvzbsbmfa3pn";
+        }
+      ];
+    };
     filemanager-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "filemanager-lua-1-0";

@@ -1044,12 +1044,12 @@
         {
           path = ''libs/cf.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/32effb106c02583894243bf6efb82eb4764c257a/MIDI%20Selector%20Tool/libs/cf.lua";
-          sha256 = "";
+          sha256 = "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd";
         }
         {
           path = ''libs/gui.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/32effb106c02583894243bf6efb82eb4764c257a/MIDI%20Selector%20Tool/libs/gui.lua";
-          sha256 = "";
+          sha256 = "02qwpld0q02h23wsb3jaw5ssiw9sq2cbcdfx8wmpzbahgivyzdcg";
         }
         {
           path = ''default_lament.config'';
@@ -1083,7 +1083,7 @@
         {
           path = ''libs/cf.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/b7c2d75d4969ff481e49a11ef8d8426aabca0e3f/MIDI%20Selector%20Tool/libs/cf.lua";
-          sha256 = "";
+          sha256 = "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd";
         }
         {
           path = ''libs/gui.lua'';
@@ -1117,17 +1117,17 @@
         {
           path = ''presets/Default Preset.dat'';
           url = "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/presets/Default%20Preset.dat";
-          sha256 = "";
+          sha256 = "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m";
         }
         {
           path = ''libs/cf.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/libs/cf.lua";
-          sha256 = "18kvq6sfbq5dif0wxja44vw16mkzgbwc7ps0qj1ib8n5cnn919cf";
+          sha256 = "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd";
         }
         {
           path = ''libs/gui.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/libs/gui.lua";
-          sha256 = "15m5ilfrpmdlj1aq1w2yw528npcb5kpzrrrmahvhr77l9xxf0s04";
+          sha256 = "02qwpld0q02h23wsb3jaw5ssiw9sq2cbcdfx8wmpzbahgivyzdcg";
         }
         {
           path = ''default_lament.config'';
@@ -1137,7 +1137,7 @@
         {
           path = ''lament.config'';
           url = "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/lament.config";
-          sha256 = "1a12818sd6vskh4ymz2hvhfjm1iwrlq0sanqrg8j0pkqsrhqcxfv";
+          sha256 = "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd";
         }
       ];
     };
@@ -1195,7 +1195,7 @@
         {
           path = ''presets/Default Preset.dat'';
           url = "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/presets/Default%20Preset.dat";
-          sha256 = "1bk30y3lf09il46i0vq1c092l3inxpncjfwqqcg103pi5agdpjk4";
+          sha256 = "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m";
         }
         {
           path = ''libs/cf.lua'';
@@ -1210,7 +1210,7 @@
         {
           path = ''default_lament.config'';
           url = "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/default_lament.config";
-          sha256 = "1h5d55kyw2rydqdidjxy2mpd1fznr9r6bi4l8s0x3p9hafnzz76k";
+          sha256 = "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5";
         }
         {
           path = ''lament.config'';
@@ -1220,7 +1220,7 @@
         {
           path = ''preset_actions/preset_template.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/preset_actions/preset_template.lua";
-          sha256 = "1h4bvya1ick5jkq0290hkzzv2ysh676gk0v8zqyid2lfaid8x19f";
+          sha256 = "1i2ynyj2dwqmqpiap226lbsgqzvzrmdv0f9my5l5vsdqgqga06mk";
         }
       ];
     };
@@ -1254,7 +1254,7 @@
         {
           path = ''default_lament.config'';
           url = "https://github.com/lemerchand/lemerchand/raw/9043d1a443ee469543b1d9674512cd496624b75e/MIDI%20Selector%20Tool/default_lament.config";
-          sha256 = "1h5d55kyw2rydqdidjxy2mpd1fznr9r6bi4l8s0x3p9hafnzz76k";
+          sha256 = "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5";
         }
         {
           path = ''preset_actions/preset_template.lua'';
@@ -1312,7 +1312,7 @@
         {
           path = '''';
           url = "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua";
-          sha256 = "1qvdgwn2g9ib4nz31i5rr0v4xlvygsn8dpvwm4m7kdrx2rax72l6";
+          sha256 = "0is8apz1qa2fag3jk5f7rlfr5xm7bj2awll53p15yszhas36j01y";
         }
         {
           path = ''presets/Default Preset.dat'';
@@ -1327,12 +1327,12 @@
         {
           path = ''libs/gui.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/libs/gui.lua";
-          sha256 = "0v57fy7bdfzaa98zpqwq7y5brd9qpzwa759sdcqmrv0225zlg2ap";
+          sha256 = "072qwkq2w90k12q1a711biv932ysy9qmh016lvl8431xwrxpkylx";
         }
         {
           path = ''default_lament.config'';
           url = "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/default_lament.config";
-          sha256 = "1h5d55kyw2rydqdidjxy2mpd1fznr9r6bi4l8s0x3p9hafnzz76k";
+          sha256 = "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5";
         }
         {
           path = ''preset_actions/preset_template.lua'';
@@ -1400,7 +1400,7 @@
         {
           path = ''libs/cf.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/ac6c385931ff7f542160b46c43a40b39082110a4/MIDI%20Selector%20Tool/libs/cf.lua";
-          sha256 = "04n6hp7a2igipih0qj924nl3ma9zhgsj4hj9ymdh612avkv9vy5m";
+          sha256 = "1y4z5lhk4wlgbdfnzcnigcv0qlcai7zrf1bn17i26icj04gyn3rj";
         }
         {
           path = ''libs/gui.lua'';
@@ -1444,7 +1444,7 @@
         {
           path = ''libs/gui.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/libs/gui.lua";
-          sha256 = "1lhxch3cdrkz03xbywznmr5wzbq5nc8ybv8iw4ls77n1f4k4q9i3";
+          sha256 = "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b";
         }
         {
           path = ''default_lament.config'';
@@ -1459,7 +1459,7 @@
         {
           path = ''preset_actions/preset_template_time_selection.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua";
-          sha256 = "10gmqnag04bsvq7889ri63f3y04q2jlsl6v6fz2f152cp30s8az4";
+          sha256 = "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd";
         }
       ];
     };
@@ -1831,7 +1831,7 @@
         {
           path = ''keyscripts/y-Multikey-Script.lua'';
           url = "https://github.com/lemerchand/lemerchand/raw/882d4bcb76a484fc77f9ac559763da947f437307/multikey/keyscripts/y-Multikey-Script.lua";
-          sha256 = "00mvj14mrfr7yaii32cbz6ss5s9c6lbs6v711qa1r98d9dn1ilbh";
+          sha256 = "17hylmb25fl24fpay1hdqrsbcdaismbn14dwxxayz335y79gylfw";
         }
         {
           path = ''keyscripts/z-Multikey-Script.lua'';

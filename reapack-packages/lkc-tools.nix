@@ -1134,7 +1134,7 @@
         {
           path = ''ReaOpen - Install for Wwise (WIN).bat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/7bf24006d39562b24831f5b16571addc3427457e/ReaOpen/ReaOpen%20-%20Install%20for%20Wwise%20(WIN).bat";
-          sha256 = "";
+          sha256 = "0gx2hja7j16pn85dvjn6k0qx4w38nfj035mwi3yl0xc0k23qy5pr";
         }
         {
           path = ''ReaOpen - Init Setup.lua'';
@@ -1158,7 +1158,7 @@
         {
           path = ''ReaOpen.exe'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/37d8aeb533e2ac4a04a4f5b3c29ad48bfb5f682e/ReaOpen/ReaOpen.exe";
-          sha256 = "";
+          sha256 = "0fifbbq0kgp2cmk501ir4k8fv2lxplabghikszbcdq92iigwxaqs";
         }
         {
           path = ''ReaOpen MAC.zip'';
@@ -1178,7 +1178,7 @@
         {
           path = ''ReaOpen - Open script directory.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/37d8aeb533e2ac4a04a4f5b3c29ad48bfb5f682e/ReaOpen/ReaOpen%20-%20Open%20script%20directory.lua";
-          sha256 = "";
+          sha256 = "0qw80ak08idsbw415akjz204d7933rp8ks36d6p8rvlk5wgfbc6n";
         }
       ];
     };
@@ -1212,7 +1212,7 @@
         {
           path = ''install_wwise_command_for_pc.bat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/6a93b21baac51d2db6621c28dbf876aa03b116d9/ReaOpen/install_wwise_command_for_pc.bat";
-          sha256 = "";
+          sha256 = "0gx2hja7j16pn85dvjn6k0qx4w38nfj035mwi3yl0xc0k23qy5pr";
         }
         {
           path = ''ReaOpen - Init Setup.lua'';
@@ -1241,17 +1241,17 @@
         {
           path = ''ReaOpen.exe'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/358536209315c4c62b9105055cbeb6838a52e090/ReaOpen/ReaOpen.exe";
-          sha256 = "";
+          sha256 = "0fifbbq0kgp2cmk501ir4k8fv2lxplabghikszbcdq92iigwxaqs";
         }
         {
           path = ''ReaOpen MAC.zip'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/358536209315c4c62b9105055cbeb6838a52e090/ReaOpen/ReaOpen%20MAC.zip";
-          sha256 = "";
+          sha256 = "0p6h1lyfka7kzlgcqh7galkmfv2dffz3wlr3v0ahrsy0xaha01mz";
         }
         {
           path = ''ReaOpen.rpp'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/358536209315c4c62b9105055cbeb6838a52e090/ReaOpen/ReaOpen.rpp";
-          sha256 = "";
+          sha256 = "1gkr4w8l0c0mc8ss49gfjv5chssyzmp0mngcr3gsz7xmj9jg63ai";
         }
         {
           path = ''install_wwise_command_for_pc.bat'';
@@ -1280,17 +1280,17 @@
         {
           path = '''';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/1638c035f0908fa5da01ec045c30c21b35f40fc6/ReaOpen/ReaOpen.lua";
-          sha256 = "";
+          sha256 = "1x9hv4zjc7sxg1r47ywfgd09lvqdyi3kcj12w53p8c14ygxpvhzy";
         }
         {
           path = ''ReaOpen.exe'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/1638c035f0908fa5da01ec045c30c21b35f40fc6/ReaOpen/ReaOpen.exe";
-          sha256 = "";
+          sha256 = "0fifbbq0kgp2cmk501ir4k8fv2lxplabghikszbcdq92iigwxaqs";
         }
         {
           path = ''ReaOpen MAC.zip'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/1638c035f0908fa5da01ec045c30c21b35f40fc6/ReaOpen/ReaOpen%20MAC.zip";
-          sha256 = "";
+          sha256 = "0p6h1lyfka7kzlgcqh7galkmfv2dffz3wlr3v0ahrsy0xaha01mz";
         }
         {
           path = ''ReaOpen.rpp'';
@@ -1305,7 +1305,7 @@
         {
           path = ''ReaOpen - Init Setup.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/1638c035f0908fa5da01ec045c30c21b35f40fc6/ReaOpen/ReaOpen%20-%20Init%20Setup.lua";
-          sha256 = "";
+          sha256 = "1l84h8an1x8p630wkzghfxqkr98am3002sdcxm6183nyplhm1kyp";
         }
         {
           path = ''ReaOpen - Open script directory.lua'';
@@ -1324,27 +1324,27 @@
         {
           path = '''';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/944a82aa9175772f8f39e00dffa18c7b41a6593d/ReaOpen/ReaOpen.lua";
-          sha256 = "";
+          sha256 = "1578dxsla61pp432n0yhvscrh1k7nb8d2b9fmkr01dkhn2nssw6g";
         }
         {
           path = ''ReaOpen.exe'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/944a82aa9175772f8f39e00dffa18c7b41a6593d/ReaOpen/ReaOpen.exe";
-          sha256 = "";
+          sha256 = "0fifbbq0kgp2cmk501ir4k8fv2lxplabghikszbcdq92iigwxaqs";
         }
         {
           path = ''ReaOpen MAC.zip'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/944a82aa9175772f8f39e00dffa18c7b41a6593d/ReaOpen/ReaOpen%20MAC.zip";
-          sha256 = "";
+          sha256 = "0p6h1lyfka7kzlgcqh7galkmfv2dffz3wlr3v0ahrsy0xaha01mz";
         }
         {
           path = ''ReaOpen.rpp'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/944a82aa9175772f8f39e00dffa18c7b41a6593d/ReaOpen/ReaOpen.rpp";
-          sha256 = "";
+          sha256 = "0zq9nlbhv53pr3q7mdpcyh4s950ca0cjlr2pf553binp3ydsyb0n";
         }
         {
           path = ''install_wwise_command_for_pc.bat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/944a82aa9175772f8f39e00dffa18c7b41a6593d/ReaOpen/install_wwise_command_for_pc.bat";
-          sha256 = "";
+          sha256 = "0gx2hja7j16pn85dvjn6k0qx4w38nfj035mwi3yl0xc0k23qy5pr";
         }
         {
           path = ''ReaOpen - Init Setup.lua'';
@@ -1368,37 +1368,37 @@
         {
           path = '''';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/a347e355471c641b60431b7027ece21d5455f438/ReaOpen/ReaOpen.lua";
-          sha256 = "";
+          sha256 = "0k2gwskf3008iicw3k8ix2j5y127m81pdwnjba21mkii7wr5d52f";
         }
         {
           path = ''ReaOpen.exe'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/a347e355471c641b60431b7027ece21d5455f438/ReaOpen/ReaOpen.exe";
-          sha256 = "";
+          sha256 = "147wqg8pmcbzrvj641p8lb110kvaq4wrvlcakv1lpn0l9fq0wiag";
         }
         {
           path = ''ReaOpen MAC.zip'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/a347e355471c641b60431b7027ece21d5455f438/ReaOpen/ReaOpen%20MAC.zip";
-          sha256 = "";
+          sha256 = "0p6h1lyfka7kzlgcqh7galkmfv2dffz3wlr3v0ahrsy0xaha01mz";
         }
         {
           path = ''ReaOpen.rpp'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/a347e355471c641b60431b7027ece21d5455f438/ReaOpen/ReaOpen.rpp";
-          sha256 = "";
+          sha256 = "0zq9nlbhv53pr3q7mdpcyh4s950ca0cjlr2pf553binp3ydsyb0n";
         }
         {
           path = ''install_wwise_command_for_pc.bat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/a347e355471c641b60431b7027ece21d5455f438/ReaOpen/install_wwise_command_for_pc.bat";
-          sha256 = "";
+          sha256 = "0gx2hja7j16pn85dvjn6k0qx4w38nfj035mwi3yl0xc0k23qy5pr";
         }
         {
           path = ''ReaOpen - Init Setup.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/a347e355471c641b60431b7027ece21d5455f438/ReaOpen/ReaOpen%20-%20Init%20Setup.lua";
-          sha256 = "";
+          sha256 = "1l84h8an1x8p630wkzghfxqkr98am3002sdcxm6183nyplhm1kyp";
         }
         {
           path = ''ReaOpen - Open script directory.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/a347e355471c641b60431b7027ece21d5455f438/ReaOpen/ReaOpen%20-%20Open%20script%20directory.lua";
-          sha256 = "";
+          sha256 = "0qw80ak08idsbw415akjz204d7933rp8ks36d6p8rvlk5wgfbc6n";
         }
       ];
     };
@@ -1412,7 +1412,7 @@
         {
           path = '''';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/40fa7001763718a97c595839c14c6dc1c15ed52f/ReaOpen/ReaOpen.lua";
-          sha256 = "";
+          sha256 = "0iwk4qgzglszczdji68v1mwl8nhknaak34d9fwgngpmk8sdvy5kv";
         }
         {
           path = ''ReaOpen.exe'';
@@ -1461,22 +1461,22 @@
         {
           path = ''ReaOpen.exe'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/c77c181faf4acc99667f2835d8bc8466c7b39b44/ReaOpen/ReaOpen.exe";
-          sha256 = "";
+          sha256 = "17wr4n9wifj6vwhlwc13bgp0m9s16rihrbld1wvawln8rzlx03qj";
         }
         {
           path = ''ReaOpen MAC.zip'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/c77c181faf4acc99667f2835d8bc8466c7b39b44/ReaOpen/ReaOpen%20MAC.zip";
-          sha256 = "";
+          sha256 = "0p6h1lyfka7kzlgcqh7galkmfv2dffz3wlr3v0ahrsy0xaha01mz";
         }
         {
           path = ''ReaOpen.rpp'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/c77c181faf4acc99667f2835d8bc8466c7b39b44/ReaOpen/ReaOpen.rpp";
-          sha256 = "";
+          sha256 = "0zq9nlbhv53pr3q7mdpcyh4s950ca0cjlr2pf553binp3ydsyb0n";
         }
         {
           path = ''install_wwise_command_for_pc.bat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/c77c181faf4acc99667f2835d8bc8466c7b39b44/ReaOpen/install_wwise_command_for_pc.bat";
-          sha256 = "";
+          sha256 = "0gx2hja7j16pn85dvjn6k0qx4w38nfj035mwi3yl0xc0k23qy5pr";
         }
         {
           path = ''ReaOpen - Init Setup.lua'';
@@ -1486,7 +1486,7 @@
         {
           path = ''ReaOpen - Open script directory.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/c77c181faf4acc99667f2835d8bc8466c7b39b44/ReaOpen/ReaOpen%20-%20Open%20script%20directory.lua";
-          sha256 = "";
+          sha256 = "0qw80ak08idsbw415akjz204d7933rp8ks36d6p8rvlk5wgfbc6n";
         }
       ];
     };
@@ -1500,7 +1500,7 @@
         {
           path = '''';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/4d64219c494bd326a686d407e8ea82ea188ab390/ReaOpen/ReaOpen.lua";
-          sha256 = "";
+          sha256 = "1zdsn1ypwqbl97d8xywnsqs8p5ssb1xvpq7kjlj11m5h3691036v";
         }
         {
           path = ''ReaOpen.exe'';
@@ -1510,12 +1510,12 @@
         {
           path = ''ReaOpen MAC.zip'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/4d64219c494bd326a686d407e8ea82ea188ab390/ReaOpen/ReaOpen%20MAC.zip";
-          sha256 = "";
+          sha256 = "0p6h1lyfka7kzlgcqh7galkmfv2dffz3wlr3v0ahrsy0xaha01mz";
         }
         {
           path = ''ReaOpen.rpp'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/4d64219c494bd326a686d407e8ea82ea188ab390/ReaOpen/ReaOpen.rpp";
-          sha256 = "";
+          sha256 = "0zq9nlbhv53pr3q7mdpcyh4s950ca0cjlr2pf553binp3ydsyb0n";
         }
         {
           path = ''install_wwise_command_for_pc.bat'';
@@ -1544,12 +1544,12 @@
         {
           path = '''';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/42c36869ec153495408ab5960c35cd43d8e1a585/ReaOpen/ReaOpen.lua";
-          sha256 = "";
+          sha256 = "1fmdrk7ffgif55vr8k65xw339z3zb4wnfzrcgm33yv1wb368lzk3";
         }
         {
           path = ''ReaOpen.exe'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/42c36869ec153495408ab5960c35cd43d8e1a585/ReaOpen/ReaOpen.exe";
-          sha256 = "";
+          sha256 = "17wr4n9wifj6vwhlwc13bgp0m9s16rihrbld1wvawln8rzlx03qj";
         }
         {
           path = ''ReaOpen MAC.zip'';
@@ -1574,7 +1574,7 @@
         {
           path = ''ReaOpen - Open script directory.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/42c36869ec153495408ab5960c35cd43d8e1a585/ReaOpen/ReaOpen%20-%20Open%20script%20directory.lua";
-          sha256 = "";
+          sha256 = "1rc5lz1l36jyi0mf6vrhqlbylch7laqfr5zbjnzpjp7pk5kg70hx";
         }
       ];
     };
@@ -1588,12 +1588,12 @@
         {
           path = '''';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/ReaOpen.lua";
-          sha256 = "";
+          sha256 = "0b521vm3y556iaj8za06l8naymzl1jdibkk87l4v1qb1h4vf4gxk";
         }
         {
           path = ''ReaOpen.exe'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/ReaOpen.exe";
-          sha256 = "";
+          sha256 = "17wr4n9wifj6vwhlwc13bgp0m9s16rihrbld1wvawln8rzlx03qj";
         }
         {
           path = ''ReaOpen MAC.zip'';
@@ -1608,12 +1608,12 @@
         {
           path = ''install_wwise_command_for_pc.bat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/install_wwise_command_for_pc.bat";
-          sha256 = "";
+          sha256 = "0gx2hja7j16pn85dvjn6k0qx4w38nfj035mwi3yl0xc0k23qy5pr";
         }
         {
           path = ''ReaOpen - Init Setup.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/ReaOpen%20-%20Init%20Setup.lua";
-          sha256 = "";
+          sha256 = "0i89ng5m96jw5pzdd37lgqs6gbv9mpxc7a3b0pmpg5zckwnm8qjc";
         }
         {
           path = ''ReaOpen - Open script directory.lua'';
@@ -1623,12 +1623,12 @@
         {
           path = ''ReaOpen - Relative paths setup.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/ReaOpen%20-%20Relative%20paths%20setup.lua";
-          sha256 = "";
+          sha256 = "10lx6bhr3n0qw6xn8d4hx283y4g0i0fplrlh3sawb32ymxby4wml";
         }
         {
           path = ''Lokasenna_GUI/Class - Button.dat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/Lokasenna_GUI/Class%20-%20Button.dat";
-          sha256 = "";
+          sha256 = "01axwraf8sbvgr7602h67r0w79cs4z7a17sqdbgpvd6xpf3xx8pj";
         }
         {
           path = ''Lokasenna_GUI/Class - Label.dat'';
@@ -1643,7 +1643,7 @@
         {
           path = ''Lokasenna_GUI/Class - Window.dat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/06e650aa0a3bf77df837e207b853b6e5b8f66499/ReaOpen/Lokasenna_GUI/Class%20-%20Window.dat";
-          sha256 = "";
+          sha256 = "166f7qynsin5nx4fj23w12hszpy6zsyw2b21gq4951ngb6paw9z2";
         }
         {
           path = ''Lokasenna_GUI/Core.dat'';
@@ -1662,7 +1662,7 @@
         {
           path = '''';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/da156fc125b6579d0d39daac7476eee3daba1837/Timejump/LKC%20-%20TIMEJUMP%20-%20Undo.lua";
-          sha256 = "";
+          sha256 = "1ygdxx909vg2llj52z69cd043ifmh89c5by1xw4nhdg18a79b45k";
         }
         {
           path = ''LKC - TIMEJUMP - Redo.lua'';
@@ -1681,7 +1681,7 @@
         {
           path = '''';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/08f0a11fdc73c383f2b5f49fcc45c7d452fa8643/TTS/LKC%20-%20ElevenLabs%20TTS.lua";
-          sha256 = "";
+          sha256 = "127v56wgifcz34ziv13hd38lqhssa1picfl0h4462bbv5q7c2dn7";
         }
       ];
     };
@@ -1695,22 +1695,22 @@
         {
           path = ''Data/Lokasenna_GUI/Class - Button.dat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/53470d83622180b44214ce6711ea7c68cda59190/Variator/Data/Lokasenna_GUI/Class%20-%20Button.dat";
-          sha256 = "";
+          sha256 = "01axwraf8sbvgr7602h67r0w79cs4z7a17sqdbgpvd6xpf3xx8pj";
         }
         {
           path = ''Data/Lokasenna_GUI/Class - Options.dat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/53470d83622180b44214ce6711ea7c68cda59190/Variator/Data/Lokasenna_GUI/Class%20-%20Options.dat";
-          sha256 = "";
+          sha256 = "0l54j4byzvsg3zj2iq81xxnizf7k2lnvp28l6329x6an6sa0givb";
         }
         {
           path = ''Data/Lokasenna_GUI/Class - Label.dat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/53470d83622180b44214ce6711ea7c68cda59190/Variator/Data/Lokasenna_GUI/Class%20-%20Label.dat";
-          sha256 = "";
+          sha256 = "1vbrbwjx9hlgp5b23zanyl0cfbf83ll3nzh3j95z1nj55z2bc17d";
         }
         {
           path = ''Data/Lokasenna_GUI/Class - Window.dat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/53470d83622180b44214ce6711ea7c68cda59190/Variator/Data/Lokasenna_GUI/Class%20-%20Window.dat";
-          sha256 = "";
+          sha256 = "166f7qynsin5nx4fj23w12hszpy6zsyw2b21gq4951ngb6paw9z2";
         }
         {
           path = ''Data/Lokasenna_GUI/Class - Slider.dat'';
@@ -1725,7 +1725,7 @@
         {
           path = ''Data/Lokasenna_GUI/Class - Tabs.dat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/53470d83622180b44214ce6711ea7c68cda59190/Variator/Data/Lokasenna_GUI/Class%20-%20Tabs.dat";
-          sha256 = "";
+          sha256 = "14arfi5gr88hb35mbjmd28hr9xxyl5hyhyi3srk3gcszvx1zbgas";
         }
         {
           path = ''Data/Lokasenna_GUI/Core.dat'';
@@ -1740,7 +1740,7 @@
         {
           path = ''Data/variator_gui.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/53470d83622180b44214ce6711ea7c68cda59190/Variator/Data/variator_gui.lua";
-          sha256 = "";
+          sha256 = "11jl1p773ny5ahiis4dc1m3wacbz0ppgkgwf205wa3dc0qs1w5i9";
         }
         {
           path = ''Data/layout_horizontal1.lua'';
@@ -1760,17 +1760,17 @@
         {
           path = ''Data/layout_vertical2.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/53470d83622180b44214ce6711ea7c68cda59190/Variator/Data/layout_vertical2.lua";
-          sha256 = "";
+          sha256 = "0c02fjc54bmvw7bddmdicwvkd7s2w7xsnyzzrvv1c6yi05b79pam";
         }
         {
           path = ''LKC - Variator - Mutate.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/53470d83622180b44214ce6711ea7c68cda59190/Variator/LKC%20-%20Variator%20-%20Mutate.lua";
-          sha256 = "";
+          sha256 = "0vyqmg8qbz800zj34l724fyjq7kgazd36y2z2v08rniw0qnva7m7";
         }
         {
           path = ''LKC - Variator - Mutate using formula 1.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/53470d83622180b44214ce6711ea7c68cda59190/Variator/LKC%20-%20Variator%20-%20Mutate%20using%20formula%201.lua";
-          sha256 = "";
+          sha256 = "1g1dn28d02km6b8lv8yj6sgshii1rh40c6703ak6fwjpnvvnbvw5";
         }
         {
           path = ''LKC - Variator - Mutate using formula 2.lua'';
@@ -1819,7 +1819,7 @@
         {
           path = ''Data/Lokasenna_GUI/Class - Options.dat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/ae9844a933fbae7b279e123fef7c3441460445b6/Variator/Data/Lokasenna_GUI/Class%20-%20Options.dat";
-          sha256 = "";
+          sha256 = "0l54j4byzvsg3zj2iq81xxnizf7k2lnvp28l6329x6an6sa0givb";
         }
         {
           path = ''Data/Lokasenna_GUI/Class - Label.dat'';
@@ -1829,12 +1829,12 @@
         {
           path = ''Data/Lokasenna_GUI/Class - Window.dat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/ae9844a933fbae7b279e123fef7c3441460445b6/Variator/Data/Lokasenna_GUI/Class%20-%20Window.dat";
-          sha256 = "";
+          sha256 = "166f7qynsin5nx4fj23w12hszpy6zsyw2b21gq4951ngb6paw9z2";
         }
         {
           path = ''Data/Lokasenna_GUI/Class - Slider.dat'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/ae9844a933fbae7b279e123fef7c3441460445b6/Variator/Data/Lokasenna_GUI/Class%20-%20Slider.dat";
-          sha256 = "";
+          sha256 = "1k0vykkvab02yal4r1cwi2r2ix9qkvyixg3sd3wgcl7gr769qqgz";
         }
         {
           path = ''Data/Lokasenna_GUI/Class - Frame.dat'';
@@ -1854,7 +1854,7 @@
         {
           path = ''Data/variator_mutations.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/ae9844a933fbae7b279e123fef7c3441460445b6/Variator/Data/variator_mutations.lua";
-          sha256 = "";
+          sha256 = "0haqj2rlv1ynns01y51mrw4fdin6ppng59dygxrhla5xvq65fj26";
         }
         {
           path = ''Data/variator_gui.lua'';
@@ -1869,22 +1869,22 @@
         {
           path = ''Data/layout_horizontal2.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/ae9844a933fbae7b279e123fef7c3441460445b6/Variator/Data/layout_horizontal2.lua";
-          sha256 = "";
+          sha256 = "06bync20wrbajc73q7m31r3z7dpcxw700ddxxd0qr50qpbhbgh4j";
         }
         {
           path = ''Data/layout_vertical1.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/ae9844a933fbae7b279e123fef7c3441460445b6/Variator/Data/layout_vertical1.lua";
-          sha256 = "";
+          sha256 = "1v1zkrz7yvinzyw13xm0cxj1i3nj0fyks700kmp8n8dszsf1yyz3";
         }
         {
           path = ''Data/layout_vertical2.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/ae9844a933fbae7b279e123fef7c3441460445b6/Variator/Data/layout_vertical2.lua";
-          sha256 = "";
+          sha256 = "0c02fjc54bmvw7bddmdicwvkd7s2w7xsnyzzrvv1c6yi05b79pam";
         }
         {
           path = ''LKC - Variator - Mutate.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/ae9844a933fbae7b279e123fef7c3441460445b6/Variator/LKC%20-%20Variator%20-%20Mutate.lua";
-          sha256 = "";
+          sha256 = "1n1v6dnacfl3mf6ivhmdgbg988vh4zd0hmjk82mjp69hly8vcqlb";
         }
         {
           path = ''LKC - Variator - Mutate using formula 1.lua'';
@@ -1909,12 +1909,12 @@
         {
           path = ''LKC - Variator - Mutate using formula 5.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/ae9844a933fbae7b279e123fef7c3441460445b6/Variator/LKC%20-%20Variator%20-%20Mutate%20using%20formula%205.lua";
-          sha256 = "";
+          sha256 = "1wdmasqxpm7cc3c2yh63jxf4q9m1a657vbvz71fcnpkvn04x0mn2";
         }
         {
           path = ''LKC - Variator - Decontaminate.lua'';
           url = "https://github.com/nikolalkc/LKC-Tools/raw/ae9844a933fbae7b279e123fef7c3441460445b6/Variator/LKC%20-%20Variator%20-%20Decontaminate.lua";
-          sha256 = "";
+          sha256 = "107xf4lbv011yy7jmdjvm6j4d2hq083ic9k2pra0npw1kawvxzg2";
         }
         {
           path = '''';
