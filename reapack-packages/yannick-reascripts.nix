@@ -295,7 +295,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/94fb132eb9beabed4f697f0344e828f6e459bab3/Arrange/Yannick_Insert%20region%20from%20loop%20points%20and%20edit.lua";
-          sha256 = "0fjrc6cms9qhpwd23w5v2vjvwsdsvl71prlsm40x8vmccrrq3d29";
+          sha256 = "0amhn8zmk07wwjlvb8z4f4y0z061v6fvl71r6sah8big27zza55v";
         }
       ];
     };
@@ -337,7 +337,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Arrange/Yannick_Remove%20(clear)%20time%20selection%20then%20loop%20points.lua";
-          sha256 = "144ywk8jr41hd5qbnyqa36nya3jhvxi39awyl71xg0c4qqhw6c26";
+          sha256 = "";
         }
       ];
     };
@@ -407,7 +407,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/7d0e8d5c1254de3e65197989f62769408c814cdd/Arrange/Yannick_Save%20(copy)%20all%20tempo%20markers%20from%20the%20project.lua";
-          sha256 = "1d1ss0qlw8xx6dj71pg3x0dfm17m2ni3sbzpihn26cb67dxr306n";
+          sha256 = "165jnv8scai08d08yncjfsq5pn30w79a6f8jv99l12p6dg7ndxb8";
         }
       ];
     };
@@ -463,7 +463,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Arrange/Yannick_Set%20project%20grid%20size%20preserve%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua";
-          sha256 = "01130z7z4cf109h658wvg438bg6jwz5fq3p8p293dqw3l3fwgp4y";
+          sha256 = "1rbxi2b46s9xn9s1b58b3xb9pvmdiahm8car27p8cycl2g7wadid";
         }
       ];
     };
@@ -743,7 +743,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/1bf51116864b3e090824d5f3fd879b977de829d2/Items/Yannick_Add%20MIDI%20file%20into%20project%20-%20switch%20next%20MIDI%20take%20from%20recent%20folder.lua";
-          sha256 = "1g7wpczrf2jgilxy2z833firggj7zbypb62gbsmdbrk0wykf0wfg";
+          sha256 = "1j3j21vqhj2519w3yb1vlckcwficrcswv8rlymnzabf4m3g5l4mf";
         }
       ];
     };
@@ -757,7 +757,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/c1802aac8a7fe579a287447019e51ca32ff0c4cc/Items/Yannick_Add%20MIDI%20file%20into%20project%20-%20switch%20next%20MIDI%20take%20from%20recent%20folder.lua";
-          sha256 = "119h80k1harm0aayfdmwn2f1r9ixla083gjv0y4w52nzixd6xkpb";
+          sha256 = "0jfw8xii4d1kvvpfa7b52kk3qc1mv1jl1j2d578x1zi1wqk2610m";
         }
       ];
     };
@@ -925,7 +925,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/bbedc716fb9b4d6cd8c09870cd8a2336d674d677/Items/Yannick_Add%20or%20open%20Melodyne%20VST3%20in%20selected%20items.lua";
-          sha256 = "1pddikf3hgc4lqpvdqfb93mbcf00p4mp8rrh9f12a2ifnlaxbp4m";
+          sha256 = "0d8xmgh0ihjdx9952qvip90c6qq0bg49sa0f6xsd88fqwclrc92b";
         }
       ];
     };
@@ -1135,7 +1135,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/ae64fa4c53d659e70eb3b3b941094920466fee37/Items/Yannick_Bounce%20selection%20(selected%20items%20on%20the%20track%20merge%20into%20one%20new%20item).lua";
-          sha256 = "1sfg0pdl0hxprbl31sy5qc2iss54w9qs1s5jkxcalya2s824syaw";
+          sha256 = "0jv4afnn5gx7cwjk9xb5cs3049pav98h5dsp46a8ynyc7fh1sszd";
         }
       ];
     };
@@ -1471,7 +1471,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Items/Yannick_Propagate%20first%20selected%20item%20to%20all%20selected%20items.lua";
-          sha256 = "0yx1bkzi7590n8jp3p4qpjb8wxz6x9ymgd9gmahvnp0dzv3svcws";
+          sha256 = "0c7q5wlafi4gaq079q5xybj842ipz32ddn6qlgy1ckdh3z121ijq";
         }
       ];
     };
@@ -1555,7 +1555,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Items/Yannick_Propagate%20item%20under%20mouse%20cursor%20to%20all%20selected%20items.lua";
-          sha256 = "1b9la7vix5l37fh60khb6wbypmj5w57mryjiaa2f1qs9lm6dpxqr";
+          sha256 = "049rzp4s849m70dvvxr8rwcpsjdw7gqzxvxhs58kgqk6py65zz6c";
         }
       ];
     };
@@ -1751,7 +1751,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/Items/Yannick_Show%20or%20hide%20peaks%20on%20all%20items%20(global).lua";
-          sha256 = "0gx1ar22yrg26knlzsdhz0zhrg0akysk24j7rvzcvbkivhirdb0x";
+          sha256 = "0c4m818kn61cf8lv0mdpdbv7801acy7hskkpcsy5wbyagh0hg03a";
         }
       ];
     };
@@ -1933,7 +1933,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/6e1ab11f42953f1a512a18cf85bde9345e5a51ec/Items/Yannick_Unselect%20every%20odd%20item%20of%20selected%20items.lua";
-          sha256 = "0zjj6av0g16p5irdv79dnvvh36qpn9ybdinrq6pq9dwhpdbzb4z8";
+          sha256 = "0lbck6rpzd8m7arkcgnp8qz87m1kjgjd0xl7ml4ympar2a9a5d4w";
         }
       ];
     };
@@ -2199,7 +2199,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/af02a9b55dcc421765288d598a365ead703fb7c9/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua";
-          sha256 = "1n06aq3j2yzk7s2kmj63giw5qpi2mp8wfl26y2pa7l31zigqgzzd";
+          sha256 = "1ma1jw3lz3j94wy59xsk8rcc96wzwlspxwlysagr0kn8wgg9pcmr";
         }
       ];
     };
@@ -2311,7 +2311,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/525c2af64bd28986a6c2b4d027faba7edcc2b306/Mouse%20modifiers/Yannick_Set%20exclusive%20record%20arm%20for%20track%20or%20toggle%20folder%20collapse.lua";
-          sha256 = "1gvscv9384c1gki9jkasncz8sxmw2v7qacj72jhi67rmyqp50dbq";
+          sha256 = "0q6y7anq5q7lccsm68svbwykiwccczkq37kjzd2k6yj0a8jb60vc";
         }
       ];
     };
@@ -2871,7 +2871,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/5d37fd0af85bdbee4b29771865f4f4e36ff6d156/Tracks/Yannick_Create%20send%20track%20or%20create%20sends%20from%20selected%20track%20to%20existed%20track.lua";
-          sha256 = "18m80a9wi6xhsg06an0i9wb4c0x6n4vw0f897irx6rk4g42jr42a";
+          sha256 = "0igyxq9bkx3m2pjgz562i5j12f1jndqfkhczx9p4ix07382zmj95";
         }
       ];
     };
@@ -3599,7 +3599,7 @@
         {
           path = '''';
           url = "https://github.com/Yaunick/Yannick-ReaScripts/raw/e029e20cc62cee4bfe45356bd899d5f1fc4773ee/Tracks/Yannick_Toggle%20bypass%20all%20FX%20except%20Instruments%20from%20selected%20tracks%20-%20Clear%20all%20saves.lua";
-          sha256 = "1zmzi09dm75jnk29wi9zh4d8ii8s9yc8gf4qm83mnga7pb2444w8";
+          sha256 = "01w1gf7zvn33sjf9fzwn09lj8h0jkfdfq0lvzmzrf8sq8637vaxb";
         }
       ];
     };

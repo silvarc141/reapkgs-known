@@ -71,7 +71,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Split%20items%20under%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua";
-          sha256 = "13x3bqkk13n1m0vh2bhzspxhcmx7g04zm4lk5dykxwbz7cvmbwiy";
+          sha256 = "";
         }
       ];
     };
@@ -155,7 +155,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/3ec444f25cef1206d09bff82bbe48200da3ddb71/JSFX/Audio/RCBitRangeGain.jsfx";
-          sha256 = "1v8lzgrj7fmhrfypblihsbsakrj9fvp38mxwfqcbxzqblvy8qxjk";
+          sha256 = "";
         }
       ];
     };
@@ -183,7 +183,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/dc233c3cf6fd00e5e492a848c637b095a8634d5d/JSFX/Audio/RCEveryGain.jsfx";
-          sha256 = "0dpz8384mn2a9rsgl8pl9bbhdpd7c5mqc17yjlh24fx32nd4a698";
+          sha256 = "";
         }
       ];
     };
@@ -239,7 +239,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/ae468ad9e84da8e3720ac0903f4de4b2b09f97d4/JSFX/Audio/RCInflator.jsfx";
-          sha256 = "0rgwrvnjn6nfqhwbvyhwabkizf5hnc5pilphij2fknj819jdhfvb";
+          sha256 = "";
         }
       ];
     };
@@ -253,7 +253,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/9133c2ae55d7482e15472352b74c745651a2ad86/JSFX/Audio/RCInflator.jsfx";
-          sha256 = "0bgbgx737dqlmxwb9rs3msfdg81sawy7hrwjwf6pkh8nzzx8xp4y";
+          sha256 = "";
         }
       ];
     };
@@ -323,7 +323,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/bee92c21a11db6084007db0d7c233799a3017059/JSFX/MIDI/midi_cc_eater.jsfx";
-          sha256 = "19b18z3rrq89yfn85phck2r90vq7jkpqzy6rf8mz0ddgp4kgyl39";
+          sha256 = "";
         }
       ];
     };
@@ -337,7 +337,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/bee92c21a11db6084007db0d7c233799a3017059/JSFX/MIDI/midi_note_beat_repeater.jsfx";
-          sha256 = "0a28z2d0zg9by7v0b0i78skxvvavnvw2z7i36daglk4hwmym1srg";
+          sha256 = "";
         }
       ];
     };
@@ -351,7 +351,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/e20d37e5466383052909045840c87c9a45fedcd9/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx";
-          sha256 = "11lgj9bc4zf8nkkg5wzch0fgqrrhw9s5l7iickb4fvsvpz279qx4";
+          sha256 = "";
         }
       ];
     };
@@ -379,7 +379,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/42c6fc5541edc74a5afa87e484438a975e02ce5b/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx";
-          sha256 = "1a3q6hxpspvnh5548qlwnbl2arrawqp3nafzx3m4j2s2f12n9fp4";
+          sha256 = "";
         }
       ];
     };
@@ -463,7 +463,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/c47881b2a906bf56912b21b3e3bd6475dff30297/JSFX/MIDI/RC%20MIDI%20Circular%20Note%20Generator.jsfx";
-          sha256 = "01124sk3pz1yd00mgp8i5ag2mdca42jj247pmk215gbrxppgwa7y";
+          sha256 = "";
         }
       ];
     };
@@ -617,7 +617,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/f808e471e087fe2e45ca21b18a13af9f4a51027b/MIDI%20Editor/RCJacH_Split%20notes%20at%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua";
-          sha256 = "0mcz416zvlvqjw507dm8xk5kvgbdg8qv2lph9xgkq9lhfv4zv6kq";
+          sha256 = "";
         }
       ];
     };
@@ -631,7 +631,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/d89e0a77f3a3b8974e489b461003e188b1bac166/MIDI%20Editor/RCJacH_Split%20notes%20at%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua";
-          sha256 = "1qzk8hy41lyg09c7d19jcldvg7dn91dcmr0l22q6nsjifsni78bj";
+          sha256 = "";
         }
       ];
     };
@@ -673,7 +673,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/b4e2656a5d6d3275506f81b73c45415369413558/MIDI%20Editor/RCJacH_Split%20notes%20at%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua";
-          sha256 = "1ph9ran4cg1xsmcrrigqxjjqyz0rxg53nhi8ga26i04n8hpbdjb8";
+          sha256 = "";
         }
       ];
     };
@@ -687,7 +687,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/bca773a13a583905bceb50e833a6ab716c4a376e/MIDI%20Editor/RCJacH_Split%20notes%20at%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua";
-          sha256 = "02hr9adzyngyjs1q4k97k6dkm47pjpzjhlhkshl6ra50xb9gj5xk";
+          sha256 = "";
         }
       ];
     };
@@ -715,7 +715,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20of%20Selected%20Tracks.lua";
-          sha256 = "1vxryk7c335gvp32aq641x12zpbjnpx9ly3yahnizpxwf87863q3";
+          sha256 = "";
         }
       ];
     };
@@ -743,7 +743,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Various/RCJacH_Generate%20LRC%20Lyrics%20and%20Export%20to%20Clipboard.lua";
-          sha256 = "011qwpcck95a2fzaqblzxsb1s4x4xjvkflx0bry7gbkkrslli64l";
+          sha256 = "";
         }
       ];
     };
@@ -757,7 +757,7 @@
         {
           path = '''';
           url = "https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Various/Vimper%20Solo/RCJacH_Vimper%20Solo.lua";
-          sha256 = "1fzcvywl2afmwqzhrlwvxcqpqfba2pbpbcip8w8znwq6f7c92921";
+          sha256 = "1vd4ax1fhigyr3bs9xz816p2589rs8qhsx0kmq4n5wzpvy77832i";
         }
       ];
     };

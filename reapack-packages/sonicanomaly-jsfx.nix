@@ -15,7 +15,7 @@
         {
           path = '''';
           url = "https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/raw/f14cef59b86bd58c3e1e6a5bf982ff71c302443f/Plugins/5.1%20Master%20Limiter.jsfx";
-          sha256 = "12y8mc7j7snz6m64bql87mkrx75np7w3i3kv3mvdds5v7iqz9z3w";
+          sha256 = "0x4k1wn86cikc0qmhwkpshjd91bscnpg4l48svncpm1lvj72xg5v";
         }
         {
           path = ''5.1 Master Limiter/5.1 Master Limiter.pdf'';

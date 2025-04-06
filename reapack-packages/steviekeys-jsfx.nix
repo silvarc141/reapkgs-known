@@ -1172,6 +1172,93 @@
         }
       ];
     };
+    retro-overdrive-jsfx-2-0-3 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "retro-overdrive-jsfx-2-0-3";
+      indexName = "StevieKeys JSFX";
+      categoryName = "Distortion";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/e5a5b62612f6a77a358fe9b605920760398d2adc/Distortion/Retro%20Overdrive.jsfx";
+          sha256 = "1lxwxq1997cnww2ik90q5khd5w8drp8plqrs8xavdna9zq3k2cz4";
+        }
+        {
+          path = ''Retro_Overdrivre/RetroOverdrive background.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/e5a5b62612f6a77a358fe9b605920760398d2adc/Distortion/Retro_Overdrivre/RetroOverdrive%20background.png";
+          sha256 = "0xnnv6xc97hwv8i954q8dil9b53bxifv4vmn987hhhb7kqjhmbvv";
+        }
+        {
+          path = ''Retro_Overdrivre/RetroOverdrive knob 90x90.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/e5a5b62612f6a77a358fe9b605920760398d2adc/Distortion/Retro_Overdrivre/RetroOverdrive%20knob%2090x90.png";
+          sha256 = "0kqmfp7xwbln3h2ggrykapkxwbpm7a5rv2kcm2pp2dv9gm7f2lpp";
+        }
+        {
+          path = ''Retro_Overdrivre/RetroOverdrive text.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/e5a5b62612f6a77a358fe9b605920760398d2adc/Distortion/Retro_Overdrivre/RetroOverdrive%20text.png";
+          sha256 = "0b3lrrqijihcl3g5dqlscp8vpvwzybmaql8p09vplx7g4bcygl55";
+        }
+      ];
+    };
+    retro-overdrive-jsfx-2-0-5 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "retro-overdrive-jsfx-2-0-5";
+      indexName = "StevieKeys JSFX";
+      categoryName = "Distortion";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2f3eab035fa654e6527b2fc8a97b1543be6da522/Distortion/Retro%20Overdrive.jsfx";
+          sha256 = "11ck61aib69gy6xylyd4z3yylw8gg4vxryia5j2b25z79l09hnas";
+        }
+        {
+          path = ''Retro_Overdrivre/RetroOverdrive background.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2f3eab035fa654e6527b2fc8a97b1543be6da522/Distortion/Retro_Overdrivre/RetroOverdrive%20background.png";
+          sha256 = "0xnnv6xc97hwv8i954q8dil9b53bxifv4vmn987hhhb7kqjhmbvv";
+        }
+        {
+          path = ''Retro_Overdrivre/RetroOverdrive text.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2f3eab035fa654e6527b2fc8a97b1543be6da522/Distortion/Retro_Overdrivre/RetroOverdrive%20text.png";
+          sha256 = "0b3lrrqijihcl3g5dqlscp8vpvwzybmaql8p09vplx7g4bcygl55";
+        }
+        {
+          path = ''Retro_Overdrivre/RetroOverdrive knob 90x90.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/2f3eab035fa654e6527b2fc8a97b1543be6da522/Distortion/Retro_Overdrivre/RetroOverdrive%20knob%2090x90.png";
+          sha256 = "0kqmfp7xwbln3h2ggrykapkxwbpm7a5rv2kcm2pp2dv9gm7f2lpp";
+        }
+      ];
+    };
+    retro-overdrive-jsfx-2-0-6 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "retro-overdrive-jsfx-2-0-6";
+      indexName = "StevieKeys JSFX";
+      categoryName = "Distortion";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/08d044dc1720ed5762c02eab4092449766a8abfd/Distortion/Retro%20Overdrive.jsfx";
+          sha256 = "06gi1jcjhphsa1d0xcsjbyyqgjyflsqa126yni7ihnmhg6zrp5si";
+        }
+        {
+          path = ''Retro_Overdrive/RetroOverdrive background.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/08d044dc1720ed5762c02eab4092449766a8abfd/Distortion/Retro_Overdrive/RetroOverdrive%20background.png";
+          sha256 = "0xnnv6xc97hwv8i954q8dil9b53bxifv4vmn987hhhb7kqjhmbvv";
+        }
+        {
+          path = ''Retro_Overdrive/RetroOverdrive text.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/08d044dc1720ed5762c02eab4092449766a8abfd/Distortion/Retro_Overdrive/RetroOverdrive%20text.png";
+          sha256 = "0b3lrrqijihcl3g5dqlscp8vpvwzybmaql8p09vplx7g4bcygl55";
+        }
+        {
+          path = ''Retro_Overdrive/RetroOverdrive knob 90x90.png'';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/08d044dc1720ed5762c02eab4092449766a8abfd/Distortion/Retro_Overdrive/RetroOverdrive%20knob%2090x90.png";
+          sha256 = "0kqmfp7xwbln3h2ggrykapkxwbpm7a5rv2kcm2pp2dv9gm7f2lpp";
+        }
+      ];
+    };
     blue-vocal-compressor-jsfx-0-1-0beta = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "blue-vocal-compressor-jsfx-0-1-0beta";
@@ -2384,6 +2471,20 @@
         }
       ];
     };
+    highpass-lowpass-12db-jsfx-1-0-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "highpass-lowpass-12db-jsfx-1-0-0";
+      indexName = "StevieKeys JSFX";
+      categoryName = "EQ";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/7d4e20fe1eb0a4859466ceeb476db139618fec7b/EQ/Highpass%20Lowpass%2012dB.jsfx";
+          sha256 = "0b2ls6rqn2l96wc68r1nlchmkv6axsmw88in359ahp2rx52pw61k";
+        }
+      ];
+    };
     retro-mod-a-exciter-jsfx-0-1-0beta = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "retro-mod-a-exciter-jsfx-0-1-0beta";
@@ -2395,6 +2496,20 @@
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b07d96ee5538eb6ea55272629cc4a12616cb482a/EQ/Retro%20Mod%20A%20Exciter.jsfx";
           sha256 = "1vza16g61xwyw59mfz60yby5s8ay6z324psxkxa44ba51ff1iah1";
+        }
+      ];
+    };
+    retro-mod-a-exciter-jsfx-1-0-0 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "retro-mod-a-exciter-jsfx-1-0-0";
+      indexName = "StevieKeys JSFX";
+      categoryName = "EQ";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/30c3e12497aa3eb9669324847dbe4af2d570650f/EQ/Retro%20Mod%20A%20Exciter.jsfx";
+          sha256 = "1shm5v23jni1dzhs4jw4lh2sz1rmvma4npfq4pnbd38ax5q0izm1";
         }
       ];
     };
@@ -3021,6 +3136,20 @@
           path = '''';
           url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/b8e125fc8c2a81f9a5298cc5d5655e677a89a9f1/utility/Perfect%20Mono.jsfx";
           sha256 = "11pmaf8r2y43c16vy4y4pq8svvvcsqcq76rk9nhsqpf8gi0151fn";
+        }
+      ];
+    };
+    trapezoid-pdf-dither-jsfx-0-9 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "trapezoid-pdf-dither-jsfx-0-9";
+      indexName = "StevieKeys JSFX";
+      categoryName = "utility";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/Steviekeys/StevieKeys_JSFX2/raw/1e942906e2dcaa5ccec6718c7ba76b0395355c3d/utility/Trapezoid%20PDF%20Dither.jsfx";
+          sha256 = "1qg8z0vww1zqh067qmmcjkbjb9shhr5v7j89vqwlsswg0ap2s2xi";
         }
       ];
     };

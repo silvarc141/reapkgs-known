@@ -2031,7 +2031,7 @@
         {
           path = ''../img/icons-light/18-search.png'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/img/icons-light/18-search.png";
-          sha256 = "0zvff0si9ssb7hilhpv9giz429k841n89rflsd2nq6gl9lhc40ky";
+          sha256 = "";
         }
         {
           path = ''../img/icons-light/18-settings.png'';
@@ -2086,7 +2086,7 @@
         {
           path = ''../jsfx/Reaticulate.jsfx'';
           url = "https://raw.githubusercontent.com/jtackaberry/reaticulate/0.4.8/jsfx/Reaticulate.jsfx";
-          sha256 = "1g7hyni8rnykghrvfp6znv5np3n31bkda5r0yvgpiss35ixyr4gp";
+          sha256 = "01138jcjpyzs8khw3hjk1g15i56f6lq39whf9rw6f4mid08rk6h3";
         }
       ];
     };

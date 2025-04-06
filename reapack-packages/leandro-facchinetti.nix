@@ -119,7 +119,7 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/b5c56056889061e7d093db8e8a6abe108c5e1c1b/Scripts/leafac_Copy%20track%20___,%20item%20___%20and%20paste%20on%20new%20track,%20measure%20___.lua";
-          sha256 = "1gydviqfsq7pa030p53qp3ry5lmqk86awirih8qlli0c0zmjdan0";
+          sha256 = "";
         }
       ];
     };
@@ -133,7 +133,7 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/3a07cccc2c9a549d2774b76ecb8b8dd6a91163fe/Scripts/leafac_iddqd_Search%20REAPER%20Mania%20tutorial....lua";
-          sha256 = "0fdxkfdfas8a6bjqzksdcmvvwscmac7dark2ghr4r26r2lsxr7ky";
+          sha256 = "";
         }
       ];
     };
@@ -254,7 +254,7 @@
         {
           path = ''leafac_OBS Controller.html'';
           url = "https://github.com/leafac/reaper/raw/e59e118b60eacf091bdd5e6318c4137e17570c2a/WebInterfaces/leafac_OBS%20Controller.html";
-          sha256 = "1pxjwvhnqvv7gw91156kkbwvzzn1y6zx1icnzrkpcclp898i4wb1";
+          sha256 = "";
         }
       ];
     };
@@ -273,7 +273,7 @@
         {
           path = ''leafac_OBS Controller.html'';
           url = "https://github.com/leafac/reaper/raw/49fb1bc796975f60ebba8b5b1510f988df5f6916/WebInterfaces/leafac_OBS%20Controller.html";
-          sha256 = "03zhzidnki1sakj74p5xa5irv5m2fmkvfaiifw5f8sdfkdsik3b3";
+          sha256 = "";
         }
       ];
     };
@@ -287,12 +287,12 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/9e754afa1167555f11f70702d04c25c2eef91aa4/WebInterfaces/leafac_OBS%20Multicam.html";
-          sha256 = "00ar7dwjzwzplc4cd81yhwqj9k55z59xaf0rp9arhpdllv1h14zd";
+          sha256 = "";
         }
         {
           path = ''leafac_OBS Multicam - Hammerspoon.lua'';
           url = "https://github.com/leafac/reaper/raw/9e754afa1167555f11f70702d04c25c2eef91aa4/Data/leafac_OBS%20Multicam%20-%20Hammerspoon.lua";
-          sha256 = "1pfx4ngncp8qki3ab2lkhlhz81khd5k0q50n9mqalh9k58rjhg2y";
+          sha256 = "";
         }
       ];
     };
@@ -306,12 +306,12 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/9e754afa1167555f11f70702d04c25c2eef91aa4/WebInterfaces/leafac_OBS%20Multicam.html";
-          sha256 = "00ar7dwjzwzplc4cd81yhwqj9k55z59xaf0rp9arhpdllv1h14zd";
+          sha256 = "";
         }
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/9e754afa1167555f11f70702d04c25c2eef91aa4/Data/leafac_OBS%20Multicam%20-%20Hammerspoon.lua";
-          sha256 = "1pfx4ngncp8qki3ab2lkhlhz81khd5k0q50n9mqalh9k58rjhg2y";
+          sha256 = "";
         }
       ];
     };
@@ -325,27 +325,27 @@
         {
           path = ''leafac_OBS - Start recording.lua'';
           url = "https://github.com/leafac/reaper/raw/e65fea901305d85cb7b4dd27c923559630961500/Scripts/leafac_OBS.lua";
-          sha256 = "081p3idj99za5c5b86incwx9jb8xclxyqf51rlzswily53aig4s1";
+          sha256 = "1761w5vsd3nd5dwbbcn28ibxs90ynwnx0ag5k03i4dy2glm6xwqb";
         }
         {
           path = ''leafac_OBS - Stop recording.lua'';
           url = "https://github.com/leafac/reaper/raw/e65fea901305d85cb7b4dd27c923559630961500/Scripts/leafac_OBS.lua";
-          sha256 = "081p3idj99za5c5b86incwx9jb8xclxyqf51rlzswily53aig4s1";
+          sha256 = "1761w5vsd3nd5dwbbcn28ibxs90ynwnx0ag5k03i4dy2glm6xwqb";
         }
         {
           path = ''leafac_OBS - Toggle recording.lua'';
           url = "https://github.com/leafac/reaper/raw/e65fea901305d85cb7b4dd27c923559630961500/Scripts/leafac_OBS.lua";
-          sha256 = "081p3idj99za5c5b86incwx9jb8xclxyqf51rlzswily53aig4s1";
+          sha256 = "1761w5vsd3nd5dwbbcn28ibxs90ynwnx0ag5k03i4dy2glm6xwqb";
         }
         {
           path = ''leafac_OBS - Advanced settings.lua'';
           url = "https://github.com/leafac/reaper/raw/e65fea901305d85cb7b4dd27c923559630961500/Scripts/leafac_OBS.lua";
-          sha256 = "081p3idj99za5c5b86incwx9jb8xclxyqf51rlzswily53aig4s1";
+          sha256 = "1761w5vsd3nd5dwbbcn28ibxs90ynwnx0ag5k03i4dy2glm6xwqb";
         }
         {
           path = ''leafac_OBS - Reset advanced settings to factory defaults.lua'';
           url = "https://github.com/leafac/reaper/raw/e65fea901305d85cb7b4dd27c923559630961500/Scripts/leafac_OBS.lua";
-          sha256 = "081p3idj99za5c5b86incwx9jb8xclxyqf51rlzswily53aig4s1";
+          sha256 = "1761w5vsd3nd5dwbbcn28ibxs90ynwnx0ag5k03i4dy2glm6xwqb";
         }
         {
           path = ''leafac_obs-cli'';
@@ -374,17 +374,17 @@
         {
           path = ''leafac_OBS - Start recording.lua'';
           url = "https://github.com/leafac/reaper/raw/cb2c9e07ffb9372046fddfc0da7b2c49f74b1fac/Scripts/leafac_OBS.lua";
-          sha256 = "10faiy2rzz18ld9cjh2sbp84jdgsmc44l34i3bsmadgk9vrfi060";
+          sha256 = "1fpq339rp6fv8vdkf8q6mjbgz1f3z7i7qsx4grdhkk3ld7bkadmn";
         }
         {
           path = ''leafac_OBS - Stop recording.lua'';
           url = "https://github.com/leafac/reaper/raw/cb2c9e07ffb9372046fddfc0da7b2c49f74b1fac/Scripts/leafac_OBS.lua";
-          sha256 = "10faiy2rzz18ld9cjh2sbp84jdgsmc44l34i3bsmadgk9vrfi060";
+          sha256 = "1fpq339rp6fv8vdkf8q6mjbgz1f3z7i7qsx4grdhkk3ld7bkadmn";
         }
         {
           path = ''leafac_OBS - Toggle recording.lua'';
           url = "https://github.com/leafac/reaper/raw/cb2c9e07ffb9372046fddfc0da7b2c49f74b1fac/Scripts/leafac_OBS.lua";
-          sha256 = "10faiy2rzz18ld9cjh2sbp84jdgsmc44l34i3bsmadgk9vrfi060";
+          sha256 = "1fpq339rp6fv8vdkf8q6mjbgz1f3z7i7qsx4grdhkk3ld7bkadmn";
         }
         {
           path = ''leafac_obs-cli'';
@@ -686,17 +686,17 @@
         {
           path = ''leafac_OBS - Start recording.lua'';
           url = "https://github.com/leafac/reaper/raw/6528aee127b6b613bc3714600b54997bd54dc5b7/Scripts/leafac_OBS.lua";
-          sha256 = "11099ywm1qh12rsgylvbiddfnx8l8z9j02yazjk5z981785wvzif";
+          sha256 = "";
         }
         {
           path = ''leafac_OBS - Stop recording.lua'';
           url = "https://github.com/leafac/reaper/raw/6528aee127b6b613bc3714600b54997bd54dc5b7/Scripts/leafac_OBS.lua";
-          sha256 = "11099ywm1qh12rsgylvbiddfnx8l8z9j02yazjk5z981785wvzif";
+          sha256 = "";
         }
         {
           path = ''leafac_OBS - Toggle recording.lua'';
           url = "https://github.com/leafac/reaper/raw/6528aee127b6b613bc3714600b54997bd54dc5b7/Scripts/leafac_OBS.lua";
-          sha256 = "11099ywm1qh12rsgylvbiddfnx8l8z9j02yazjk5z981785wvzif";
+          sha256 = "";
         }
         {
           path = ''leafac_obs-cli'';
@@ -845,12 +845,12 @@
         {
           path = ''leafac_Prepare project for audio editing....lua'';
           url = "https://github.com/leafac/reaper/raw/d6b763d15083595fa18ed9824d42711683ecdb2d/Scripts/leafac_Prepare%20project%20for%20editing....lua";
-          sha256 = "1j5wi3gpm2rm02s74w2srsrzza4xg4zm7ga19csv4q0x5ilnxrqx";
+          sha256 = "";
         }
         {
           path = ''leafac_Prepare project for video editing....lua'';
           url = "https://github.com/leafac/reaper/raw/d6b763d15083595fa18ed9824d42711683ecdb2d/Scripts/leafac_Prepare%20project%20for%20editing....lua";
-          sha256 = "1j5wi3gpm2rm02s74w2srsrzza4xg4zm7ga19csv4q0x5ilnxrqx";
+          sha256 = "";
         }
       ];
     };
@@ -902,12 +902,12 @@
         {
           path = ''leafac_Set preserve pitch in audio items when changing master playrate on.lua'';
           url = "https://github.com/leafac/reaper/raw/396820ee36386e1b9d8fdc7f8ee22a7d685cf2d8/Scripts/leafac_Set%20preserve%20pitch%20in%20audio%20items%20when%20changing%20master%20playrate.lua";
-          sha256 = "180m750w5q8qskw6r7c1awwgikwnbnxhwqqwr7ks3qv73m73vshw";
+          sha256 = "";
         }
         {
           path = ''leafac_Set preserve pitch in audio items when changing master playrate off.lua'';
           url = "https://github.com/leafac/reaper/raw/396820ee36386e1b9d8fdc7f8ee22a7d685cf2d8/Scripts/leafac_Set%20preserve%20pitch%20in%20audio%20items%20when%20changing%20master%20playrate.lua";
-          sha256 = "180m750w5q8qskw6r7c1awwgikwnbnxhwqqwr7ks3qv73m73vshw";
+          sha256 = "";
         }
       ];
     };
@@ -921,7 +921,7 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/38fe6a4c98495ca0758b9645d0be37ee1b9c552b/Scripts/leafac_Play%20or%20stop%20(Move%20edit%20cursor%20to%20play%20cursor).lua";
-          sha256 = "1g1rbr55xa2yncrhazmi3cz9xjlizwf825x8valf94adiiklcxgz";
+          sha256 = "";
         }
       ];
     };
@@ -935,7 +935,7 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/492513d73936be4c0f4b29b6dfc830679f5d0e69/Scripts/leafac_Play%20or%20stop%20(Move%20edit%20cursor%20to%20play%20cursor).lua";
-          sha256 = "0375ijj5v01ncd7hx7h1bd1ijxvvns76lzlqcbdffw297gc2bdvj";
+          sha256 = "";
         }
       ];
     };
@@ -949,7 +949,7 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/38fe6a4c98495ca0758b9645d0be37ee1b9c552b/Scripts/leafac_Play%20from%20start%20of%20time%20selection%20or%20edit%20cursor.lua";
-          sha256 = "0i8gq1i5jfrgx4yd4a6d016677pnchd531wplq7757640j9xywah";
+          sha256 = "";
         }
       ];
     };
@@ -963,7 +963,7 @@
         {
           path = '''';
           url = "https://github.com/leafac/reaper/raw/492513d73936be4c0f4b29b6dfc830679f5d0e69/Scripts/leafac_Play%20from%20start%20of%20time%20selection%20or%20edit%20cursor.lua";
-          sha256 = "0xdsn480m884x47b8yrsdkqcys8nqdc3cmf7rfjmjw0pllm0ff3q";
+          sha256 = "";
         }
       ];
     };
@@ -977,7 +977,7 @@
         {
           path = ''leafac_Group tracks into a folder.lua'';
           url = "https://github.com/leafac/reaper/raw/112eb8866609b2b00ff87c44accae6de62908d1d/Scripts/leafac_Group%20tracks%20into%20a%20folder.lua";
-          sha256 = "1spda730spwr064zkqr1fjzn9fymgbianxk0gwq42i47kqvp7rxp";
+          sha256 = "";
         }
         {
           path = ''leafac_Ungroup tracks from within folders.lua'';
@@ -996,42 +996,42 @@
         {
           path = ''leafac_Prepare selected items for editing....lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
         {
           path = ''leafac_Prepare selected items for editing (options)....lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
         {
           path = ''leafac_Truncate silence in selected items....lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
         {
           path = ''leafac_Truncate silence in selected items (options)....lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
         {
           path = ''leafac_Truncate silence in selected items and trim....lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
         {
           path = ''leafac_Truncate silence in selected items and trim (options)....lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
         {
           path = ''leafac_Remove gaps between selected items (Reposition selected items across tracks).lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
         {
           path = ''leafac_Remove gaps between selected items (Reposition selected items across tracks) (options)....lua'';
           url = "https://github.com/leafac/reaper/raw/f7a080853675dfa2b5f092a636849f6a1ae874f2/Scripts/leafac_Truncate%20silence....lua";
-          sha256 = "0qa432b004812j5zdfynyv55g4f5y2m2yy4ihyi6b2sw1drp5m7m";
+          sha256 = "";
         }
       ];
     };
@@ -2505,7 +2505,7 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 1.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%201.lua";
-          sha256 = "070kfwqb3dwmzz4s6jb70mkyb25c26h443jlnvppfnc6ybf549pa";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 2.lua'';
@@ -2520,12 +2520,12 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 4.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%204.lua";
-          sha256 = "070kfwqb3dwmzz4s6jb70mkyb25c26h443jlnvppfnc6ybf549pa";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 5.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%205.lua";
-          sha256 = "070kfwqb3dwmzz4s6jb70mkyb25c26h443jlnvppfnc6ybf549pa";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 6.lua'';
@@ -2535,17 +2535,17 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 7.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%207.lua";
-          sha256 = "070kfwqb3dwmzz4s6jb70mkyb25c26h443jlnvppfnc6ybf549pa";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 8.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%208.lua";
-          sha256 = "070kfwqb3dwmzz4s6jb70mkyb25c26h443jlnvppfnc6ybf549pa";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 9.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%209.lua";
-          sha256 = "070kfwqb3dwmzz4s6jb70mkyb25c26h443jlnvppfnc6ybf549pa";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 10.lua'';
@@ -2575,7 +2575,7 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 15.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2015.lua";
-          sha256 = "070kfwqb3dwmzz4s6jb70mkyb25c26h443jlnvppfnc6ybf549pa";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 16.lua'';
@@ -2610,12 +2610,12 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 2.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%202.lua";
-          sha256 = "0k1fmzmi8j7g1n0fs8yj776pg9ssgnfn5vmsxgs2p6cy0mm242dw";
+          sha256 = "0sbb1k9abaz7f876hg1yg6h75m55mb06by2xx5mr1hcwhhlw95qy";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 3.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%203.lua";
-          sha256 = "0k1fmzmi8j7g1n0fs8yj776pg9ssgnfn5vmsxgs2p6cy0mm242dw";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 4.lua'';
@@ -2625,7 +2625,7 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 5.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%205.lua";
-          sha256 = "0k1fmzmi8j7g1n0fs8yj776pg9ssgnfn5vmsxgs2p6cy0mm242dw";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 6.lua'';
@@ -2645,12 +2645,12 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 9.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%209.lua";
-          sha256 = "0k1fmzmi8j7g1n0fs8yj776pg9ssgnfn5vmsxgs2p6cy0mm242dw";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 10.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%2010.lua";
-          sha256 = "0k1fmzmi8j7g1n0fs8yj776pg9ssgnfn5vmsxgs2p6cy0mm242dw";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 11.lua'';
@@ -2675,7 +2675,7 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 15.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%2015.lua";
-          sha256 = "0k1fmzmi8j7g1n0fs8yj776pg9ssgnfn5vmsxgs2p6cy0mm242dw";
+          sha256 = "0sbb1k9abaz7f876hg1yg6h75m55mb06by2xx5mr1hcwhhlw95qy";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 16.lua'';
@@ -2685,12 +2685,12 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 17.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%2017.lua";
-          sha256 = "0k1fmzmi8j7g1n0fs8yj776pg9ssgnfn5vmsxgs2p6cy0mm242dw";
+          sha256 = "0sbb1k9abaz7f876hg1yg6h75m55mb06by2xx5mr1hcwhhlw95qy";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 18.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%2018.lua";
-          sha256 = "0k1fmzmi8j7g1n0fs8yj776pg9ssgnfn5vmsxgs2p6cy0mm242dw";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 19.lua'';
@@ -2700,7 +2700,7 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 20.lua'';
           url = "https://github.com/leafac/reaper/raw/6d54db57a457ed658d2d9c92e52e8787b53be103/Scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%2020.lua";
-          sha256 = "0k1fmzmi8j7g1n0fs8yj776pg9ssgnfn5vmsxgs2p6cy0mm242dw";
+          sha256 = "0sbb1k9abaz7f876hg1yg6h75m55mb06by2xx5mr1hcwhhlw95qy";
         }
       ];
     };
@@ -2714,12 +2714,12 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 1.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%201.lua";
-          sha256 = "0q7xzzx5r72mjb1m2i0ry32vk6blvb68yk5j60649699z0n7r1f1";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 2.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%202.lua";
-          sha256 = "0q7xzzx5r72mjb1m2i0ry32vk6blvb68yk5j60649699z0n7r1f1";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 3.lua'';
@@ -2734,7 +2734,7 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 5.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%205.lua";
-          sha256 = "0q7xzzx5r72mjb1m2i0ry32vk6blvb68yk5j60649699z0n7r1f1";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 6.lua'';
@@ -2754,7 +2754,7 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 9.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%209.lua";
-          sha256 = "0q7xzzx5r72mjb1m2i0ry32vk6blvb68yk5j60649699z0n7r1f1";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 10.lua'';
@@ -2769,7 +2769,7 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 12.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2012.lua";
-          sha256 = "0q7xzzx5r72mjb1m2i0ry32vk6blvb68yk5j60649699z0n7r1f1";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 13.lua'';
@@ -2789,17 +2789,17 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 16.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2016.lua";
-          sha256 = "0q7xzzx5r72mjb1m2i0ry32vk6blvb68yk5j60649699z0n7r1f1";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 17.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2017.lua";
-          sha256 = "0q7xzzx5r72mjb1m2i0ry32vk6blvb68yk5j60649699z0n7r1f1";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 18.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2018.lua";
-          sha256 = "0q7xzzx5r72mjb1m2i0ry32vk6blvb68yk5j60649699z0n7r1f1";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 19.lua'';
@@ -2824,22 +2824,22 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 3.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%203.lua";
-          sha256 = "0n9d96wv633sndcsmjd2ljk2dqhv4clihns9g8l0k2l9vp42c0fm";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 4.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%204.lua";
-          sha256 = "0n9d96wv633sndcsmjd2ljk2dqhv4clihns9g8l0k2l9vp42c0fm";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 5.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%205.lua";
-          sha256 = "0n9d96wv633sndcsmjd2ljk2dqhv4clihns9g8l0k2l9vp42c0fm";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 6.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%206.lua";
-          sha256 = "0n9d96wv633sndcsmjd2ljk2dqhv4clihns9g8l0k2l9vp42c0fm";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 7.lua'';
@@ -2849,7 +2849,7 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 8.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%208.lua";
-          sha256 = "0n9d96wv633sndcsmjd2ljk2dqhv4clihns9g8l0k2l9vp42c0fm";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 9.lua'';
@@ -2864,7 +2864,7 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 11.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%2011.lua";
-          sha256 = "0n9d96wv633sndcsmjd2ljk2dqhv4clihns9g8l0k2l9vp42c0fm";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 12.lua'';
@@ -2874,7 +2874,7 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 13.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%2013.lua";
-          sha256 = "0n9d96wv633sndcsmjd2ljk2dqhv4clihns9g8l0k2l9vp42c0fm";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 14.lua'';
@@ -2894,7 +2894,7 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 17.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%2017.lua";
-          sha256 = "0n9d96wv633sndcsmjd2ljk2dqhv4clihns9g8l0k2l9vp42c0fm";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 18.lua'';
@@ -2909,7 +2909,7 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 20.lua'';
           url = "https://github.com/leafac/reaper/raw/33cb64bd0644d8199cccba4b4a68d515df2018a4/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%2020.lua";
-          sha256 = "0n9d96wv633sndcsmjd2ljk2dqhv4clihns9g8l0k2l9vp42c0fm";
+          sha256 = "16sa03vhj5iq35yqzdr7gqfjhh4517xhv0h1mdcnjcxbdgbyww24";
         }
       ];
     };
@@ -2923,17 +2923,17 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 1.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%201.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "1zspr6jky9rl5psxjp0av38gr6mzrs8dcbxglpvdwxcckg1l8dy5";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 2.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%202.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 3.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%203.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 4.lua'';
@@ -2948,12 +2948,12 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 6.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%206.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 7.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%207.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 8.lua'';
@@ -2963,7 +2963,7 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 9.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%209.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 10.lua'';
@@ -2978,7 +2978,7 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 12.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2012.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 13.lua'';
@@ -2993,7 +2993,7 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 15.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2015.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 16.lua'';
@@ -3003,7 +3003,7 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 17.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2017.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 18.lua'';
@@ -3013,7 +3013,7 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 19.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2019.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 20.lua'';
@@ -3023,12 +3023,12 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 1.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%201.lua";
-          sha256 = "1xapyjvf0a5nnr558n8w9dqdisx95ms3dzimwqvg2276ldjjjmb0";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 2.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%202.lua";
-          sha256 = "1xapyjvf0a5nnr558n8w9dqdisx95ms3dzimwqvg2276ldjjjmb0";
+          sha256 = "0wzd0f7ngvhp91b8x1r1xvyjkdvz7mw9byajnjjp5panyz4ccj3j";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 3.lua'';
@@ -3048,7 +3048,7 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 6.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%206.lua";
-          sha256 = "1xapyjvf0a5nnr558n8w9dqdisx95ms3dzimwqvg2276ldjjjmb0";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 7.lua'';
@@ -3068,7 +3068,7 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 10.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%2010.lua";
-          sha256 = "1xapyjvf0a5nnr558n8w9dqdisx95ms3dzimwqvg2276ldjjjmb0";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 11.lua'';
@@ -3083,7 +3083,7 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 13.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%2013.lua";
-          sha256 = "1xapyjvf0a5nnr558n8w9dqdisx95ms3dzimwqvg2276ldjjjmb0";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 14.lua'';
@@ -3113,7 +3113,7 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 19.lua'';
           url = "https://github.com/leafac/reaper/raw/fdc88a1f34d2db05cb2c3917fca24637c4a75815/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%2019.lua";
-          sha256 = "1xapyjvf0a5nnr558n8w9dqdisx95ms3dzimwqvg2276ldjjjmb0";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 20.lua'';
@@ -3132,22 +3132,22 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 1.lua'';
           url = "https://github.com/leafac/reaper/raw/94eb30755cb2f091952e990198a8496e518b1c82/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%201.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 2.lua'';
           url = "https://github.com/leafac/reaper/raw/94eb30755cb2f091952e990198a8496e518b1c82/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%202.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 3.lua'';
           url = "https://github.com/leafac/reaper/raw/94eb30755cb2f091952e990198a8496e518b1c82/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%203.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 4.lua'';
           url = "https://github.com/leafac/reaper/raw/94eb30755cb2f091952e990198a8496e518b1c82/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%204.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 5.lua'';
@@ -3177,12 +3177,12 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 10.lua'';
           url = "https://github.com/leafac/reaper/raw/94eb30755cb2f091952e990198a8496e518b1c82/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2010.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 11.lua'';
           url = "https://github.com/leafac/reaper/raw/94eb30755cb2f091952e990198a8496e518b1c82/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2011.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 12.lua'';
@@ -3192,7 +3192,7 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 13.lua'';
           url = "https://github.com/leafac/reaper/raw/94eb30755cb2f091952e990198a8496e518b1c82/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2013.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 14.lua'';
@@ -3202,12 +3202,12 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 15.lua'';
           url = "https://github.com/leafac/reaper/raw/94eb30755cb2f091952e990198a8496e518b1c82/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2015.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 16.lua'';
           url = "https://github.com/leafac/reaper/raw/94eb30755cb2f091952e990198a8496e518b1c82/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2016.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "1zspr6jky9rl5psxjp0av38gr6mzrs8dcbxglpvdwxcckg1l8dy5";
         }
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 17.lua'';
@@ -3227,12 +3227,12 @@
         {
           path = ''leafac_Multicam - Set selected camera selection items to camera 20.lua'';
           url = "https://github.com/leafac/reaper/raw/94eb30755cb2f091952e990198a8496e518b1c82/scripts/leafac_Multicam%20-%20Set%20selected%20camera%20selection%20items%20to%20camera%2020.lua";
-          sha256 = "0zflqg2h9jk3c44cxjmja092rpiivngpf1d7qdcwvj6wx3fb99zr";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 1.lua'';
           url = "https://github.com/leafac/reaper/raw/94eb30755cb2f091952e990198a8496e518b1c82/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%201.lua";
-          sha256 = "1ggyfllzmbnx2ypsh6pf9kkf9740578xigynh0ai8zdplv72s293";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 2.lua'';
@@ -3257,7 +3257,7 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 6.lua'';
           url = "https://github.com/leafac/reaper/raw/94eb30755cb2f091952e990198a8496e518b1c82/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%206.lua";
-          sha256 = "1ggyfllzmbnx2ypsh6pf9kkf9740578xigynh0ai8zdplv72s293";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 7.lua'';
@@ -3292,7 +3292,7 @@
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 13.lua'';
           url = "https://github.com/leafac/reaper/raw/94eb30755cb2f091952e990198a8496e518b1c82/scripts/leafac_Multicam%20-%20Split%20and%20set%20selected%20camera%20selection%20items%20to%20camera%2013.lua";
-          sha256 = "1ggyfllzmbnx2ypsh6pf9kkf9740578xigynh0ai8zdplv72s293";
+          sha256 = "";
         }
         {
           path = ''leafac_Multicam - Split and set selected camera selection items to camera 14.lua'';
@@ -3341,37 +3341,37 @@
         {
           path = ''leafac_Toggle master playrate (fast forward) - 125%.lua'';
           url = "https://github.com/leafac/reaper/raw/d556f4e3a55e75b256e1d4fbd5bd697d5feca4e9/Scripts/leafac_Toggle%20master%20playrate%20(fast%20forward-slow%20motion).lua";
-          sha256 = "1x0r15304l0xjb94pfss6gczzm3q9fciv24bynqjv2jkh9k883vz";
+          sha256 = "";
         }
         {
           path = ''leafac_Toggle master playrate (fast forward) - 150%.lua'';
           url = "https://github.com/leafac/reaper/raw/d556f4e3a55e75b256e1d4fbd5bd697d5feca4e9/Scripts/leafac_Toggle%20master%20playrate%20(fast%20forward-slow%20motion).lua";
-          sha256 = "1x0r15304l0xjb94pfss6gczzm3q9fciv24bynqjv2jkh9k883vz";
+          sha256 = "";
         }
         {
           path = ''leafac_Toggle master playrate (fast forward) - 175%.lua'';
           url = "https://github.com/leafac/reaper/raw/d556f4e3a55e75b256e1d4fbd5bd697d5feca4e9/Scripts/leafac_Toggle%20master%20playrate%20(fast%20forward-slow%20motion).lua";
-          sha256 = "1x0r15304l0xjb94pfss6gczzm3q9fciv24bynqjv2jkh9k883vz";
+          sha256 = "";
         }
         {
           path = ''leafac_Toggle master playrate (fast forward) - 200%.lua'';
           url = "https://github.com/leafac/reaper/raw/d556f4e3a55e75b256e1d4fbd5bd697d5feca4e9/Scripts/leafac_Toggle%20master%20playrate%20(fast%20forward-slow%20motion).lua";
-          sha256 = "1x0r15304l0xjb94pfss6gczzm3q9fciv24bynqjv2jkh9k883vz";
+          sha256 = "";
         }
         {
           path = ''leafac_Toggle master playrate (slow motion) - 25%.lua'';
           url = "https://github.com/leafac/reaper/raw/d556f4e3a55e75b256e1d4fbd5bd697d5feca4e9/Scripts/leafac_Toggle%20master%20playrate%20(fast%20forward-slow%20motion).lua";
-          sha256 = "1x0r15304l0xjb94pfss6gczzm3q9fciv24bynqjv2jkh9k883vz";
+          sha256 = "";
         }
         {
           path = ''leafac_Toggle master playrate (slow motion) - 50%.lua'';
           url = "https://github.com/leafac/reaper/raw/d556f4e3a55e75b256e1d4fbd5bd697d5feca4e9/Scripts/leafac_Toggle%20master%20playrate%20(fast%20forward-slow%20motion).lua";
-          sha256 = "1x0r15304l0xjb94pfss6gczzm3q9fciv24bynqjv2jkh9k883vz";
+          sha256 = "";
         }
         {
           path = ''leafac_Toggle master playrate (slow motion) - 75%.lua'';
           url = "https://github.com/leafac/reaper/raw/d556f4e3a55e75b256e1d4fbd5bd697d5feca4e9/Scripts/leafac_Toggle%20master%20playrate%20(fast%20forward-slow%20motion).lua";
-          sha256 = "1x0r15304l0xjb94pfss6gczzm3q9fciv24bynqjv2jkh9k883vz";
+          sha256 = "";
         }
       ];
     };
@@ -3385,7 +3385,7 @@
         {
           path = ''leafac_Toggle master playrate (fast forward) - 125%.lua'';
           url = "https://github.com/leafac/reaper/raw/1ead5c64e2a6cdfaefbd31067b4ff23263dde3a0/scripts/leafac_Toggle%20master%20playrate%20(fast%20forward)%20-%20125%25.lua";
-          sha256 = "1sxqrgkfl18h4iv0qwahvmjahyjmbzingws48an7qbaskrh9banc";
+          sha256 = "";
         }
         {
           path = ''leafac_Toggle master playrate (fast forward) - 150%.lua'';
@@ -3400,7 +3400,7 @@
         {
           path = ''leafac_Toggle master playrate (fast forward) - 200%.lua'';
           url = "https://github.com/leafac/reaper/raw/1ead5c64e2a6cdfaefbd31067b4ff23263dde3a0/scripts/leafac_Toggle%20master%20playrate%20(fast%20forward)%20-%20200%25.lua";
-          sha256 = "1sxqrgkfl18h4iv0qwahvmjahyjmbzingws48an7qbaskrh9banc";
+          sha256 = "";
         }
         {
           path = ''leafac_Toggle master playrate (slow motion) - 25%.lua'';
@@ -3415,7 +3415,7 @@
         {
           path = ''leafac_Toggle master playrate (slow motion) - 75%.lua'';
           url = "https://github.com/leafac/reaper/raw/1ead5c64e2a6cdfaefbd31067b4ff23263dde3a0/scripts/leafac_Toggle%20master%20playrate%20(slow%20motion)%20-%2075%25.lua";
-          sha256 = "1sxqrgkfl18h4iv0qwahvmjahyjmbzingws48an7qbaskrh9banc";
+          sha256 = "0hpda7031z8khjh9kpm2n2vz208210nwy9f5wj25jsliqqv4vgbv";
         }
       ];
     };
@@ -3444,7 +3444,7 @@
         {
           path = ''leafac_Toggle master playrate (fast forward) - 200%.lua'';
           url = "https://github.com/leafac/reaper/raw/7565b3c59c46c89fbfa63b32d5be6de25c5419c5/scripts/leafac_Toggle%20master%20playrate%20(fast%20forward)%20-%20200%25.lua";
-          sha256 = "0zhnhbjkczrj9r30hxjdx71iv1pmpkvadxc8n2dy944rfbqdq0dc";
+          sha256 = "01nqgm4ahdwfax3kngbl2qna6vis24fya1khsqp9y7mfrrg1b2vq";
         }
         {
           path = ''leafac_Toggle master playrate (slow motion) - 25%.lua'';

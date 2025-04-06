@@ -1443,7 +1443,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/254cfe1162d43c28b73080f3e94f76fc1e61f6be/Functions/Arc_Function_lua.lua";
-          sha256 = "0rdfgf943sqm2hk10z5ab6ly1ji5n2pd4krf7k09j6al45h2ypnj";
+          sha256 = "";
         }
       ];
     };
@@ -1457,7 +1457,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/28390f147a9675b27dd579b2714b4db1acff4545/Functions/Arc_Function_lua.lua";
-          sha256 = "0q13l7y03z6j1jlh9mcxdy77d8gjsxhfb89xixyyskj593lzljkn";
+          sha256 = "";
         }
       ];
     };
@@ -1471,7 +1471,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/a9625251a514b4878ff49762bb93000cd3170675/Functions/Arc_Function_lua.lua";
-          sha256 = "049ssn0m70018yb8cgbz2jdrki5z457f5zrh65fbr7byrasna51x";
+          sha256 = "";
         }
       ];
     };
@@ -1541,7 +1541,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Context/Archie_Cont;%20Move%20tracks%20down%20or%20items%20down%20depending%20on%20focus(skip%20minimized%20track).lua";
-          sha256 = "1vb4c8k06qavrbxdcf5ksbgaifpdag1lpflq9sq6gyl5cr3nbxfl";
+          sha256 = "";
         }
       ];
     };
@@ -1583,7 +1583,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Context/Archie_Cont;%20Move%20tracks%20up%20or%20items%20up%20depending%20on%20focus(skip%20minimized%20track).lua";
-          sha256 = "1gx7781bx2v4d02qfhcxkg8vv5qkwvlavm5bhgc6fyy1dkv8gj21";
+          sha256 = "";
         }
       ];
     };
@@ -1625,7 +1625,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Context/Archie_Cont;%20Set%20focus%20on%20items%20-%20arrange.lua";
-          sha256 = "1gjjfcdkslnblfvlh27qbiknspsjw9dv36nwg2hb3xvkn57ys3nb";
+          sha256 = "";
         }
       ];
     };
@@ -1667,7 +1667,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Set%20focus%20on%20track%20panels.lua";
-          sha256 = "0w3dd37jamfm67lfw95zimzdd6ssj305fkn737298fvx1n10qcf1";
+          sha256 = "";
         }
       ];
     };
@@ -1681,7 +1681,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Auto%20edit%20cursor%20under%20mouse.lua";
-          sha256 = "06kwdqmh2z190ijzmz5ajbx2igk5rpsgq7c6gynm12xkkkvkznj0";
+          sha256 = "";
         }
       ];
     };
@@ -1737,7 +1737,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/5675ac57f38779f253ae96cec237e02ae1b0fb7a/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Go%20To%20Time(beats).lua";
-          sha256 = "1awp7lcb79laqxjcnf613hdk57zsxjs7iznrjwj7xaij016bpws5";
+          sha256 = "";
         }
       ];
     };
@@ -1765,7 +1765,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/5675ac57f38779f253ae96cec237e02ae1b0fb7a/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Go%20To%20Time(time).lua";
-          sha256 = "0plvf6f1gz28sfw7k3jdz9ai0559pn6psvqri6pdx58ki023k81q";
+          sha256 = "";
         }
       ];
     };
@@ -1779,7 +1779,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/166553fa522f76caca141946d7ffc9bc8d31214b/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Go%20To%20Time(time).lua";
-          sha256 = "08qgsghljrls55frh9aclyz3sg0ksw6xxy1fdxdyvmy7pzxzynp3";
+          sha256 = "";
         }
       ];
     };
@@ -1793,107 +1793,107 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 100 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 200 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 300 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 400 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 500 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 600 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 700 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 800 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 900 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 1000 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 100 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 200 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 300 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 400 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 500 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 600 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 700 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 800 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 900 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 1000 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "09a7rsi0sa78qsknplaqjw99qzvk5rwkwmczxxizj6aj46cq75fx";
+          sha256 = "";
         }
       ];
     };
@@ -1907,107 +1907,107 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 100 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 200 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 300 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 400 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 500 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 600 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 700 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 800 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 900 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor left for 1000 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 100 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 200 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 300 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 400 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 500 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 600 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 700 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 800 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 900 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
         {
           path = ''Archie_Edit cursor; Move cursor right for 1000 milliseconds(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20for%20n%20milliseconds(%60).lua";
-          sha256 = "1vyhs3rwll0z469bqx26gc1ipmki1qgssalj0pm3bxfik74wf35y";
+          sha256 = "0a4zc8rgvb3nrx40ihhrcmymjxksg5qs3nzpr1jmpxfswjxw7f7b";
         }
       ];
     };
@@ -2021,7 +2021,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/971ec1deb93f54fa69f3462b6031c5a857523fce/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20cursor%20to%20center%20of%20selected%20items.lua";
-          sha256 = "0s6543j3xf4q3w2dp6f9ak8cbrqf15ms4bh4pxm2zxgr7wfgiqfn";
+          sha256 = "";
         }
       ];
     };
@@ -2049,7 +2049,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20edit%20cursor%20to%20last%20start%20of%20play%20cursor.lua";
-          sha256 = "1fv38gjviasmbkflzvadfhrx4v1gbymi8sy64variv7r0p3rarcg";
+          sha256 = "";
         }
       ];
     };
@@ -2063,7 +2063,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20edit%20cursor%20to%20nearest%201%601.3%20grid%20line.lua";
-          sha256 = "0rrbvlz9fd6j2zfvg4gv3jdysixdkm1if8f1bzr4zqmm0gfklqhz";
+          sha256 = "";
         }
       ];
     };
@@ -2133,7 +2133,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20edit%20cursor%20to%20nearest%201%604%20grid%20line.lua";
-          sha256 = "1cwinqwjlamnsykdv454d61aif98mjz038q160z5mlgq7wr1g5xm";
+          sha256 = "";
         }
       ];
     };
@@ -2175,7 +2175,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20edit%20cursor%20to%20nearest%20visible%20grid.lua";
-          sha256 = "193rzcksvxsl5sw8mgy5yddf65a9vcrjbcy8ivmq3z0kbvivww9x";
+          sha256 = "";
         }
       ];
     };
@@ -2203,7 +2203,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20edit%20cursor%20to%20start%20of%20first%20selected%20item%20and%20next%20in%20time(%60).lua";
-          sha256 = "1jx3mg5pxgqmvl7y1r4f7rzcrfyvs15y9hcgvr9ajdnvv2gna7s6";
+          sha256 = "";
         }
       ];
     };
@@ -2217,7 +2217,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20edit%20cursor%20to%20start%20of%20first%20selected%20item%20and%20next%20in%20time(%60).lua";
-          sha256 = "07wy8a3mp9ki28q9ywgjcjqngcnyc3vcblcc33cnbxyc9acli8lc";
+          sha256 = "";
         }
       ];
     };
@@ -2231,7 +2231,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20edit%20cursor%20to%20start%20of%20first%20selected%20item%20in%20time.lua";
-          sha256 = "169ccicygzv51srhm2sqmz3a1sfj6yw3h9f0byxjawn8lv3qw6kn";
+          sha256 = "";
         }
       ];
     };
@@ -2245,7 +2245,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20edit%20cursor%20to%20start%20of%20first%20selected%20item%20in%20time.lua";
-          sha256 = "0mjgj1v7iqrlhmmz6mjk2cjnflravd32lpxnqyx0kpf9r64kjxk3";
+          sha256 = "";
         }
       ];
     };
@@ -2259,7 +2259,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20edit%20cursor%20to%20start%20of%20nearest%20selected%20item%20and%20next%20in%20time(%60).lua";
-          sha256 = "0gsg8c5zqbyh402cj8zrijigzsswrrd65llfnzh63qipxgnyz0ln";
+          sha256 = "";
         }
       ];
     };
@@ -2287,7 +2287,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Edit%20cursor/Archie_Edit%20cursor;%20Move%20edit%20cursor%20to%20x%20value%20(loop%20in%20time%20selection).lua";
-          sha256 = "0fq1lwwa5z7fm8m2avhfhj8pwc13pqrhx9z6ngvhi294liw2b5rj";
+          sha256 = "";
         }
       ];
     };
@@ -2315,7 +2315,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Envelope/Archie_Env;%20Glue%20automation%20items%20(Clean).lua";
-          sha256 = "0xd8zhp3na0p2gv77hp00s44rzjdcz6iiymsyl0cdzqr2x46dy2s";
+          sha256 = "";
         }
       ];
     };
@@ -2329,7 +2329,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/Envelope/Archie_Env;%20Glue%20automation%20items%20(Clean).lua";
-          sha256 = "0shxmfiyzwav29704lkqpgsajswdfcwj1p5gr4h533p2cgwg4a4g";
+          sha256 = "";
         }
       ];
     };
@@ -2343,7 +2343,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Envelope/Archie_Env;%20Insert%20four%20points%20in%20time%20selection%20and%20omit%20by%20-1%20dB%20(Env%20track).lua";
-          sha256 = "06bmc1yj8rpjw283xnms7w1cl27spsrkdlzylzksxf46rcnygkvj";
+          sha256 = "";
         }
       ];
     };
@@ -2371,7 +2371,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/Envelope/Archie_Env;%20Insert%20four%20points%20in%20time%20selection%20and%20omit%20by%20-1%20dB%20(Env%20track).lua";
-          sha256 = "09lpk21nbmfcpmxgsrwc6gg0parqrxs99hgx8my4fm2mybrff24m";
+          sha256 = "";
         }
       ];
     };
@@ -2483,7 +2483,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Envelope/Archie_Env;%20Select%20all%20automation%20items%20in%20selected%20envelope%20track,with%20selected%20%20points%20preserve%20.lua";
-          sha256 = "19fl5zvd2f3s627dfv9q92bg6na7lbsvb9lyxqy9r0vl5i47lk1c";
+          sha256 = "0a7yl777c6swv6lxq2svv2h45dq4nyrmk4m0jw6bxn7cnb6lxqpi";
         }
       ];
     };
@@ -2637,7 +2637,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Envelope/Archie_Env;%20Show%20track%20envelope%20last%20touched%20FX%20parameter(add%20point%20in%20start%20of%20time%20selection)(%60).lua";
-          sha256 = "00vwmc25d79pxky4b7dfssvw8v5qk4m4damjimpn0lygdbmpip7y";
+          sha256 = "0422lrbrya76h7iyv0jckcjbzyf6mx7sjq2bvykf3pb8myc1dq81";
         }
       ];
     };
@@ -2651,7 +2651,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/Envelope/Archie_Env;%20Show%20track%20envelope%20last%20touched%20FX%20parameter(add%20point%20in%20start%20of%20time%20selection)(%60).lua";
-          sha256 = "0iccivnvywpz4g2mpyqhxa07l4n60r87bichlyy11wn8ba0pa2vr";
+          sha256 = "01m0xvx1zzal14vplzb99hnvvdaii7y3dgh7gqc4syxg2wxli7xc";
         }
       ];
     };
@@ -3281,7 +3281,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/FX/Archie_FX;%20Bypass%20all%20FX%20selected%20track.lua";
-          sha256 = "0bhdyxmb072s69ndhdqg1ph82x7c1fd6c8m0lmmxbvs6awljw9ph";
+          sha256 = "";
         }
       ];
     };
@@ -3309,7 +3309,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/FX/Archie_FX;%20Bypass%20all%20FX%20selected%20tracks%20-%20Restore%20previous.lua";
-          sha256 = "1ygjvwfh8421f3vlxlhww49csi99m25k7k80cxkass0wj7yil9yj";
+          sha256 = "";
         }
       ];
     };
@@ -3323,7 +3323,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/FX/Archie_FX;%20Bypass%20all%20FX%20selected%20tracks%20-%20Restore%20previous.lua";
-          sha256 = "1rhkzn72crf9ad2s97s8hbjkfc98c1zb1l5zx53l381yy2a7zy85";
+          sha256 = "";
         }
       ];
     };
@@ -3365,7 +3365,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/FX/Archie_FX;%20Bypass%20all%20FX%20selected%20tracks%20except%20instruments%20-%20Restore%20previous.lua";
-          sha256 = "0dkb1p370iyrv499pfxzfwng963iqz2399qmnyzl3j9zi8db14j0";
+          sha256 = "";
         }
       ];
     };
@@ -3379,7 +3379,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/FX/Archie_FX;%20Bypass%20all%20FX%20selected%20tracks%20except%20instruments%20-%20Restore%20previous.lua";
-          sha256 = "0jmqs2yn2yf34m7lg11h40xk1l0vcd57pvi5yg63vnf315ia7ypc";
+          sha256 = "";
         }
       ];
     };
@@ -3407,7 +3407,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/FX/Archie_FX;%20Bypass%20all%20Fx%20selected%20tracks%20except%20instruments%20-%20Save%20previous.lua";
-          sha256 = "19i9dmzwpxpmj52pvhwsrvn6v9l6b1rdpyxdkyvk5ahgx2kwbz4c";
+          sha256 = "";
         }
       ];
     };
@@ -3421,7 +3421,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/FX/Archie_FX;%20Bypass%20instrument%20all%20tracks%20-%20Restore%20previous.lua";
-          sha256 = "1pxphvy3lnf11ajwxaahl58d02iv679pyfakjcg9x6ya3fizq00g";
+          sha256 = "16kpq0xy1lgz715v03rmscdb7nd2sszg5xvpxcdwwvxb4vm9x8hn";
         }
       ];
     };
@@ -3491,7 +3491,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/FX/Archie_FX;%20Bypass%20instrument%20selected%20tracks%20-%20Restore%20previous.lua";
-          sha256 = "0gd6qdnx1vq85qgxianqsg006if9q3hsw0mbzr2znhdgj1fsgbyx";
+          sha256 = "";
         }
       ];
     };
@@ -3505,7 +3505,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/FX/Archie_FX;%20Bypass%20instrument%20selected%20tracks%20-%20Save%20previous.lua";
-          sha256 = "1kjnx4acysggjlc8xmrdfpcqqmi37f910z07j8a0791frbya3nqk";
+          sha256 = "";
         }
       ];
     };
@@ -3533,7 +3533,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/FX/Archie_FX;%20Bypass%20necessary%20Fx%20in%20selected%20tracks(user%20input%20through%20%20space).lua";
-          sha256 = "0aipf83rm8mc9cf96nwx21vqbf5dvr5r4nc8v70sv9pcpdpnahb8";
+          sha256 = "";
         }
       ];
     };
@@ -3589,7 +3589,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/FX/Archie_FX;%20Close%20all%20Fx%20(Track).lua";
-          sha256 = "19qb4p4jsd4rzr6xjya8gmdappy8fjnknpn15sv70i8hrx4miwik";
+          sha256 = "16i5dgiqa8bz8ld3ndldbwmiiwikqbzxmbs2yybrh5s8vjgkirdp";
         }
       ];
     };
@@ -3659,7 +3659,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/FX/Archie_FX;%20Close%20all%20VSTi%20in%20Selected%20tracks.lua";
-          sha256 = "14ryz9rgxhdyk91vl69dy22a4yan6p2wwn9hqskzypliw9rd9s3v";
+          sha256 = "";
         }
       ];
     };
@@ -3817,22 +3817,22 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/FX/Archie_FX;%20Freeze%20track%20in%20(...),%20up%20to%20last%20selected%20FX.lua";
-          sha256 = "12h8cc9m3j1xsvsf7zhijsfzchz7mp1znysiq5nljaqbb64k8y3b";
+          sha256 = "0q2b3yhp7vcyccz16r9n62psgwfn36r64j7h6xw4li4dzgavm2az";
         }
         {
           path = ''Archie_FX; Freeze track in mono, up to last selected FX.lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/FX/Archie_FX;%20Freeze%20track%20in%20(...),%20up%20to%20last%20selected%20FX.lua";
-          sha256 = "12h8cc9m3j1xsvsf7zhijsfzchz7mp1znysiq5nljaqbb64k8y3b";
+          sha256 = "0q2b3yhp7vcyccz16r9n62psgwfn36r64j7h6xw4li4dzgavm2az";
         }
         {
           path = ''Archie_FX; Freeze track in stereo, up to last selected FX.lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/FX/Archie_FX;%20Freeze%20track%20in%20(...),%20up%20to%20last%20selected%20FX.lua";
-          sha256 = "12h8cc9m3j1xsvsf7zhijsfzchz7mp1znysiq5nljaqbb64k8y3b";
+          sha256 = "0q2b3yhp7vcyccz16r9n62psgwfn36r64j7h6xw4li4dzgavm2az";
         }
         {
           path = ''Archie_FX; Freeze track in multichannel, up to last selected FX.lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/FX/Archie_FX;%20Freeze%20track%20in%20(...),%20up%20to%20last%20selected%20FX.lua";
-          sha256 = "12h8cc9m3j1xsvsf7zhijsfzchz7mp1znysiq5nljaqbb64k8y3b";
+          sha256 = "0q2b3yhp7vcyccz16r9n62psgwfn36r64j7h6xw4li4dzgavm2az";
         }
       ];
     };
@@ -3930,7 +3930,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/105d4a498e372599e1182519567a888aef5431a4/MAIN/FX/Archie_FX;%20Offline%20all%20FX%20all%20tracks%20-%20Save%20previous.lua";
-          sha256 = "1n11bcnaxd0pw9k078rdljz1a9xim3jyqi9b4090gcsch9hp8r0j";
+          sha256 = "";
         }
       ];
     };
@@ -4000,7 +4000,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/FX/Archie_FX;%20Offline%20all%20FX%20selected%20tracks%20-%20Restore%20previous.lua";
-          sha256 = "02wvd16qxcsbl0h0zf5kk4wwnam46gxry8lnqgb5zsa5rz4i2isw";
+          sha256 = "";
         }
       ];
     };
@@ -4028,7 +4028,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/FX/Archie_FX;%20Offline%20all%20FX%20selected%20tracks%20-%20Save%20previous.lua";
-          sha256 = "1izn3zimyg03rkcjxa90gds9hm4dq74kv1nc91v7x3h43bpzfc1r";
+          sha256 = "";
         }
       ];
     };
@@ -4154,7 +4154,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/FX/Archie_FX;%20Rename%20all%20fx%20in%20selected%20tracks%20in%20...(%60).lua";
-          sha256 = "0cdck05ndwpyd0jqzw40msd4l7qsdfnzr0i48gj64z7inv9p6d3y";
+          sha256 = "";
         }
       ];
     };
@@ -4168,7 +4168,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/FX/Archie_FX;%20Rename%20all%20fx%20in%20selected%20tracks%20in%20...(%60).lua";
-          sha256 = "0qjp1k99c47d823kr9m30kmmj0c4jhhww39xr7vy81a747dp0759";
+          sha256 = "0yzxp4siz70jvm3mi1d4c6gk6vb9mdaq3bdhhx22x2nhr7sijl1b";
         }
       ];
     };
@@ -4280,7 +4280,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/FX/Archie_FX;%20Revers%20fade%20in-out.lua";
-          sha256 = "0rnrvipjhhi3lgflzczhvgp94phj2g2v693swhm3mn7dsjl8b4f3";
+          sha256 = "0v8b4nf3byj9zhpi5b53als75cqr9prr4d0zg57cy90g9d9wz69k";
         }
       ];
     };
@@ -4350,7 +4350,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/FX/Archie_FX;%20Smart%20template%20-%20Add%20Fx%20by%20name%20to%20selected%20tracks%20+%20Master%20track.lua";
-          sha256 = "0c9j2r0d09qc00nfmmk7mlajmma354p0nbc9wm8arrh5z3w3hvjg";
+          sha256 = "17mc2r3y15mzqa23l4ag5qygnd6q1lr9l8y67nyfiagzz7yxqn4r";
         }
       ];
     };
@@ -4364,7 +4364,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/FX/Archie_FX;%20Smart%20template%20-%20Add%20Fx%20by%20name%20to%20selected%20tracks%20+%20Master%20track.lua";
-          sha256 = "0paqdfkzcdv73am0xnjw3pgx6drrwjkfw6dqv2kpgscxbvsbvgwd";
+          sha256 = "06s5nfpfm2pc7dr3632nirc1qav570vwcw1xjrm6a3pjjsfw8v95";
         }
       ];
     };
@@ -10928,7 +10928,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Markers/Archie_Markers;%20Create%20region%20by%20borders%20of%20selected%20items(%60).lua";
-          sha256 = "0rd146bbw0m8bdhx3bcna9z7kv9zx5ybi7rdvm6rrj11bavl6gsy";
+          sha256 = "0c1qkzky1khgy5kd2va9azkf08if6vdq2wnqca44h48dlv4jawqx";
         }
       ];
     };
@@ -11264,7 +11264,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20selected%20tracks%20MCP%20by%20master%20track.lua";
-          sha256 = "08zsl1anhh8p97mwkqd8lqhcxibgycsawzyjqriyp91ia8jllf26";
+          sha256 = "13ymgzpin66z016i4sxxxvgj1fpzw6czjnqmw9a0zb396xkk6ps0";
         }
       ];
     };
@@ -11502,7 +11502,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20tracks%20rec-armed%20in%20MCP(%60).lua";
-          sha256 = "1vmqfrwxyc6b1lkqmv8gmxr5iwz75s1wb98yjficyd77372ncibn";
+          sha256 = "13j372i4glrilhm572nh7xg5hdd1c7mmy66qdy25cs067m6ym69g";
         }
       ];
     };
@@ -11516,7 +11516,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20tracks%20rec-armed%20in%20MCP(%60).lua";
-          sha256 = "1sxwhnx9bl6sr90zz4hpkzw7i72ic5idq8nrsb20wmhyrfas2x52";
+          sha256 = "0pqvw9v0gpy7r3i9f6hxjpih5g1hqjy0qnq54q6ks4d4vricqhyy";
         }
       ];
     };
@@ -11600,7 +11600,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Monitoring/Archie_MonitorFx;%20Smart%20template%20monitoring%20Toggle%20Open%20Fx%20in%20float.lua";
-          sha256 = "19bf2ak9y0wabc8dyi76f1id8drlccpkkgmxigs570qamks4k7wp";
+          sha256 = "02rhzkkdf8al24l65p59jnr3vn8kvzdy7xzhlaf8ghpyq28chn0r";
         }
       ];
     };
@@ -11614,7 +11614,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Monitoring/Archie_MonitorFx;%20Smart%20template%20monitoring%20Toggle%20Open%20Fx%20in%20float.lua";
-          sha256 = "0inz4wghpj51b2nk3g5x9p5nh4hx2p3ikxij5lzlwai5cqv6f4zm";
+          sha256 = "0qa7861am518b7pl0cdn2sdp4lw476m8wrc2pdcfxknyffln6mlc";
         }
       ];
     };
@@ -11628,7 +11628,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Monitoring/Archie_MonitorFx;%20Smart%20template%20monitoring%20Toggle%20Open%20Fx%20in%20float.lua";
-          sha256 = "0lbx8ipg8413qci9vwhzymj3fwyhqn1wrr049bjmh733wjy6snz9";
+          sha256 = "1gjm9azhj4x5z4r3pblrrvbdi1341mb8mmwkwlgzy24iv4wyilk6";
         }
       ];
     };
@@ -11698,7 +11698,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Options/Archie_Options;%20Reset%20ReaScript%20task%20control%20for%20all%20scripts.lua";
-          sha256 = "01x0lc674k55mjvfbbsjincr94lrpydfbcl4f4l2zcpfj6w0q1bq";
+          sha256 = "00j1xsf7hc2myj41hx1fia4039sdi1pgyh2gilq94g202zidshhh";
         }
       ];
     };
@@ -11712,7 +11712,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Options/Archie_Options;%20Reset%20ReaScript%20task%20control%20for%20all%20scripts.lua";
-          sha256 = "1yd7if0z3riaa9anyq5jpzzfxxad3c7g8y2w7l17kp3gdyrpi6g8";
+          sha256 = "17f8bnxc9gbapswqc8wm98whd6398xh2r5jkjvkbw3zqqmxqzsy8";
         }
       ];
     };
@@ -11974,7 +11974,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Preferences/Archie_Pref;%20Antialiased%20peak%20and%20waveform%20drawing.lua";
-          sha256 = "13c19vjg8pxi7a0d1mh67z61np5lvc036z6bijgmfaxqmvg2znga";
+          sha256 = "1lagsyz5war0rqbad3g9wv0gy55frn7vjm90jbhkrvw7j397k7zk";
         }
       ];
     };
@@ -12030,7 +12030,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Preferences/Archie_Pref;%20Draw%20edges%20on%20waveforms.lua";
-          sha256 = "17cqn9qc2znwfdmqw4zny6jmwbqg2q6s5xxvrjqz5d1manr4z9ri";
+          sha256 = "";
         }
       ];
     };
@@ -12044,7 +12044,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Preferences/Archie_Pref;%20Fill%20waveforms%20to%20zero%20line.lua";
-          sha256 = "1jhd3ccs9d8p0qz42sp7nnr32y5c621a9x4891d92k2nrxbi0i74";
+          sha256 = "1hsp77vfcf6m9kl3hlbwj7c8smnbpgq0n6fvazw7q4m4qsdybhag";
         }
       ];
     };
@@ -12184,7 +12184,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Preferences/Archie_Pref;%20Sample-level%20waveform%20(Dots%20and%20sinc).lua";
-          sha256 = "0i0b2vhdsl3i53mszpdjl0n8pnx0y2jivsjgnfcrx4x9dby9fjb7";
+          sha256 = "1k15r6s76ikczhzk5cf08fhdx29fpp2b8kd50phc0pzxmaznby1a";
         }
       ];
     };
@@ -12212,7 +12212,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Preferences/Archie_Pref;%20Sample-level%20waveform%20(Filled%20samples).lua";
-          sha256 = "0inznkcfcdmz1hclf7a5ikfg9z3mzan1vq672p611w019gmn0cda";
+          sha256 = "048aibilwl6wn0c2706nahr9drjsbns1mahbwpa46zbncvnk4hix";
         }
       ];
     };
@@ -12254,7 +12254,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Preferences/Archie_Pref;%20Sample-level%20waveform%20(Outlined%20samples).lua";
-          sha256 = "09rpb4qzrmk7mj2nwhdv8n24lx3mmyxabnzcn77ln2fam8rziaq9";
+          sha256 = "19f0szs6c59ii4fnf4h0fcghkmvdw64i17d3ykzw7whsid6ssxgk";
         }
       ];
     };
@@ -12324,7 +12324,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Preferences/Archie_Pref;%20Sample-level%20waveform%20(Stepped%20samples).lua";
-          sha256 = "127qa08s7fvfj80q2fhyg3l8wzblha1ypl99g37b9bh4grbdx0ah";
+          sha256 = "1rmy4w21hh8iny9lrcy5ngzzwb2vgjc2yqcsxgac74m593zj8l9y";
         }
       ];
     };
@@ -12352,7 +12352,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Preferences/Archie_Pref;%20Solo%20in%20front'%20dimming%20+1%20dB%20from%20set%20value.lua";
-          sha256 = "10fxkscnkqdscv522lm4xrvb2zrmhbis6xj9854rqr5bjwcm9ccq";
+          sha256 = "1gl00iacn8qbwwvrk60x5nmha8piibyksbbf0n45yfnc0637ivid";
         }
       ];
     };
@@ -12380,7 +12380,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Preferences/Archie_Pref;%20Solo%20in%20front'%20dimming%20-1%20dB%20from%20set%20value.lua";
-          sha256 = "1rzw2w0bsrjiz86v319kgqfanjx5zix5v6rlxl5nfirqv6a2pd2i";
+          sha256 = "1bqb2pip5j6i4wbgidp3gzkd9m4sfy9zz4as53vvbhvjm7gafh5s";
         }
       ];
     };
@@ -12408,7 +12408,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Preferences/Archie_Pref;%20Toggle%20Allow%20snap%20grid,track%20envelope,routing%20windows%20to%20stay%20open.lua";
-          sha256 = "0fckg6wjrn5cg3ay7b4skiy3xvklxcma8cfsgdx87lj6afl5036n";
+          sha256 = "1nkjjwl3vjc1ydfbjxf7pcs5i1liizc0zpdgra5d0gpswxc8qxzm";
         }
       ];
     };
@@ -12422,7 +12422,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Preferences/Archie_Pref;%20Toggle%20Allow%20snap%20grid,track%20envelope,routing%20windows%20to%20stay%20open.lua";
-          sha256 = "1cvry30mx3fjqisb172a5g958zfr33c394mfsqswb8hwlbnv1yd4";
+          sha256 = "1cxpqzfjx5b9vyjq1bkkchxl8lph6093abd60wwyhczaqd2xfypy";
         }
       ];
     };
@@ -12478,7 +12478,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20(User%20input).lua";
-          sha256 = "1v5d8gx63s1ywgrip9mhn8y73bbjk508sgh59hny40pz84shxm23";
+          sha256 = "0a91zcjcqw8siygici5aw7wr5vg4r2c3il6ak04i5rag811gyza0";
         }
       ];
     };
@@ -12604,7 +12604,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2088200.lua";
-          sha256 = "0k02xxph25n27mmc44s55snkir8jrharqwrbfr5b38rzmzb4sq7d";
+          sha256 = "1ay5j8n3s4505kv8l8ls3q2ayi5mni5yk3sqmw2cnvdzhq8mcndm";
         }
       ];
     };
@@ -12618,7 +12618,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2088200.lua";
-          sha256 = "1994d6c4jj5dhg1b0iradh0vrb6rpr0wjd3z3a8nqsmwl3268zjs";
+          sha256 = "1fcb6mi8nfsmzzrw79y51w7hv03x05qbhmlqfiriw9xsi4x83x4q";
         }
       ];
     };
@@ -12660,7 +12660,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Render/Archie_Render;%20Render%20multi-track%20to%20a%20stereo%20track%20in%20certain%20channels.lua";
-          sha256 = "1mm6sws2ky8gxr2avcxadjgv9v5sx8ads07ic72s7jsqa4nr1qwc";
+          sha256 = "122knkhij8vcvvdalr7fj6x93bawilvq19726xjdb8971980x50i";
         }
       ];
     };
@@ -12730,7 +12730,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Render/Archie_Render;%20Render%20track%20to%20a%20Mono%20track%20in%20certain%20channels.lua";
-          sha256 = "1f31n9fbyhyqq19r3n1sz85lfhcc26a1w4xkhmcz615ydpd502m2";
+          sha256 = "0vcha8jyb8s938hbgf68g0c3228vvrvshhrzpwyiyhq65qz9njwm";
         }
       ];
     };
@@ -12744,7 +12744,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Render/Archie_Render;%20Render%20track%20to%20a%20Mono%20track%20in%20certain%20channels.lua";
-          sha256 = "0pkazvkbks5yll58a3bbn54lfcvp830gsamx11mkdc4h534qd12r";
+          sha256 = "1vxqcc6jwrl096pc49yiv7824wzd8cw2h6419wblw1l75q1a7bqi";
         }
       ];
     };
@@ -12954,7 +12954,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Routing/Archie_Rout;%20Copy%20Input%20routing%20of%20focused%20plug-in.lua";
-          sha256 = "12d97si2ahpc33k7052xgq883frhxbpw5iwdkglawbppbmxkdm61";
+          sha256 = "";
         }
       ];
     };
@@ -12996,7 +12996,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Routing/Archie_Rout;%20Copy%20Output%20routing%20of%20focused%20plug-in.lua";
-          sha256 = "12sk5qgl83dq06cqciz86xgnv4p661iycz3gqy4kdvba48ylcqhd";
+          sha256 = "1mx4lcy2ddgj6clgp8nxydab9xz98sb4sbpl9rvdpz9v6xznisqh";
         }
       ];
     };
@@ -13024,7 +13024,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Routing/Archie_Rout;%20Paste%20Input%20routing%20in%20focused%20plug-in.lua";
-          sha256 = "1dy391wfw811vchnj2pc7nld05bayaivjaqig0b9r35cda26r7zi";
+          sha256 = "02m7wj09f4afswjd7ic0y1ilf9rdg1sw3f6n2bfp6nssv5hxhsni";
         }
       ];
     };
@@ -13080,7 +13080,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Routing/Archie_Rout;%20Paste%20Output%20routing%20in%20focused%20plug-in.lua";
-          sha256 = "0z89j5w6ph770359mrx3sz7z4mk23l2d66fic9cc29w8maxfllfg";
+          sha256 = "17id44399xy51is7bfra8xd898gz2j5ndd62dp9rqbhd4xc4aqs7";
         }
       ];
     };
@@ -13108,7 +13108,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Take/Archie_Take;%20Copy%20active%20take%20to%20new%20items%20at%20time%20selection.lua";
-          sha256 = "1vhgv8256ydrxyk7qhhn5syclcg5xdvniknsapbl2sz7n0a24qqa";
+          sha256 = "0kgxbglb657a0k8j25jqacb9rjm3z97v0idzim5zr01mz0xzjm35";
         }
       ];
     };
@@ -13150,7 +13150,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/c6203977b684a975f8174d423229e973292a5c26/MAIN/Take/Archie_Take;%20Copy%20Active%20take.lua";
-          sha256 = "13jqy9pfz7h7fzs26g5pd3345y1hbwa2dhw7fqih9jw4dz5x7pzm";
+          sha256 = "";
         }
       ];
     };
@@ -13178,7 +13178,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Take/Archie_Take;%20Copy%20color%20item%20active%20take.lua";
-          sha256 = "1j6skvbcfi06g4qjdrxp2j2qdi1d4zfk4nj9rdx1sa16h8l0nlia";
+          sha256 = "1bi2i7izssyw0b9f14jk4dq12yq6ssnwj2fawa4z4l5karci8d7a";
         }
       ];
     };
@@ -13192,7 +13192,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Take/Archie_Take;%20Copy%20color%20item%20active%20take.lua";
-          sha256 = "0c9kqn2m08jfp2alb0q297g2gmmrd6g74a2yhar0473hnxpg0xzr";
+          sha256 = "1piniagcn0s128ij27x86ikbjapfrjdr861fzcf5cr56v311fd6z";
         }
       ];
     };
@@ -13220,7 +13220,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Take/Archie_Take;%20Copy%20Name%20item%20active%20take.lua";
-          sha256 = "03iq55ka597ispwsh1wwsma9g1bg41281i6xy60yj2rvax7dfsws";
+          sha256 = "0mdpfj4jkarqkpj15asmqz8kwgkk3asi0q4c09frjj9sgp98ljaw";
         }
       ];
     };
@@ -13262,7 +13262,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Take/Archie_Take;%20Copy%20source%20Active%20take.lua";
-          sha256 = "0apcyzabm2kijlgyxpyj4y7y826hl7lan4mrsi15aiibgk3jb5wj";
+          sha256 = "";
         }
       ];
     };
@@ -13276,7 +13276,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Take/Archie_Take;%20Crop%20to%20active%20take%20-%20ignore%20lock%20items.lua";
-          sha256 = "0q3dnidnnq5s9g420jxgjnzs4s814085bipdn2gv5ri57df7w5z7";
+          sha256 = "1356ar22gr3hzzrslyw6if1g31b2hqmlz46jcgrd387mhadxba4n";
         }
       ];
     };
@@ -13290,7 +13290,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Take/Archie_Take;%20Crop%20to%20active%20take%20-%20ignore%20lock%20items.lua";
-          sha256 = "1ja8sy8bvvg40s8512hbazy3bs8msvja6jcq8kj63409a6s2cb8z";
+          sha256 = "";
         }
       ];
     };
@@ -13318,7 +13318,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f8712e0869c6be9070606686bef103389b780ded/MAIN/Take/Archie_Take;%20Crop%20to%20active%20take%20all%20items%20in%20selected%20tracks.lua";
-          sha256 = "0zhy3yys7zyllkg6jcq9il6g3b6nsc56x85pn5r0p72gfpnhmccy";
+          sha256 = "06v4vlhrm7h742c1lr6af5665pq7ib0c4sr7dr3fj9hx8phv4kzd";
         }
       ];
     };
@@ -13374,7 +13374,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Take/Archie_Take;%20Paste%20color%20to%20selected%20item%20active%20take(%60).lua";
-          sha256 = "1irimdh3jss5zrwicif1ffsg48fgw770qrwywgk93h7jmhq0gsaj";
+          sha256 = "11h3l6k3s6m3qnhx4d7bp55bqdb2lpgbbc6gc8wffbnrwc8zjdcc";
         }
       ];
     };
@@ -13388,7 +13388,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Take/Archie_Take;%20Paste%20color%20to%20selected%20item%20active%20take(%60).lua";
-          sha256 = "0a1ryk5i354r61cf4n13qkr2vq9gal38g1kp2q0wf4xqlpb176ag";
+          sha256 = "0kzkr3c3v2bjmpjv636vw1xz7kq3ndxbgxil9q7r2s17d4h72wak";
         }
       ];
     };
@@ -13430,7 +13430,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Take/Archie_Take;%20Paste%20Name%20to%20selected%20items%20active%20take(%60).lua";
-          sha256 = "0ra6maymqmlgn9v4bzinv1n4d50pbb3ajwf5zcpcs1pz83h1nk8i";
+          sha256 = "194y52py32prgirkmjn1m3kfnmxpcz5kaxx557lmmz3bxj68scbj";
         }
       ];
     };
@@ -13444,7 +13444,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Take/Archie_Take;%20Paste%20Name%20to%20selected%20items%20active%20take(%60).lua";
-          sha256 = "0v58bfalizg5wy8649ij5k52jrr2dwq9fhw38m1nmjrpsisalpy6";
+          sha256 = "";
         }
       ];
     };
@@ -13643,7 +13643,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Take/Archie_Take;%20Render%20active%20takes,%20into%20new%20items%20to%20new%20tracks.lua";
-          sha256 = "08gnlymrsc4ifgrw9c8v1fcszs8lhzgi7l9am0afh0dkhv69k4ky";
+          sha256 = "1n343lb00j8h8w4bdv0l5aqmji36fvfkxk3vggpwwkrags2j1amn";
         }
       ];
     };
@@ -13657,7 +13657,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Take/Archie_Take;%20Render%20active%20takes,%20into%20new%20items%20to%20new%20tracks.lua";
-          sha256 = "0z1zrcxcdm8skv04cb9cnm3y81plaz0jfaaq07y5wj1x0axfxddb";
+          sha256 = "0cmv16hy4qanq70lrrfmdaca3ridalp1vgzqrk59qf5wnc72cv1a";
         }
       ];
     };
@@ -13671,7 +13671,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Take/Archie_Take;%20Reset%20color%20default%20in%20all%20take%20in%20selected%20items%20.lua";
-          sha256 = "1ig5w18r22r2qhf5wjymp4yxjhvqi8szvcyl6509hl17djyjgadh";
+          sha256 = "04qs8f5w4ny8y7wfl0s38qbmpfhsxnf2855wfrk0acy2jhrx1qgm";
         }
       ];
     };
@@ -13685,7 +13685,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Take/Archie_Take;%20Reset%20color%20default%20in%20all%20take%20in%20selected%20items%20.lua";
-          sha256 = "0irjjp8d6y1z3sfwc0iyi201mmqcxc5sssl0ja1j0vyx098g5bni";
+          sha256 = "1s9rfbfa2jzpj3806bfb70p52a0v4b7mfk098y4gpag8sy62qs1i";
         }
       ];
     };
@@ -13699,7 +13699,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Time%20selection/Archie_Time%20selection;%20Insert%20empty%20space%20at%20time%20selection%20in%20selected%20tracks(moving%20later%20items).lua";
-          sha256 = "1ycva1hbpv63qcnxndf9jrhbmxy5ag5ml5a2j559la7nfbawfnk0";
+          sha256 = "1iidnm0avqbmk3cl8hglzpha1vnpvaa4h4959bql1m8icnf5q6yi";
         }
       ];
     };
@@ -13797,7 +13797,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Time%20selection/Archie_Time%20selection;%20Nudge%20right%20edge%20left%20to%20nearest%20grid.lua";
-          sha256 = "0f1phjnf13qbh87c02kihp4vm6f8zis99fwdvwf53s50cqm9fvlv";
+          sha256 = "1ys8y2iz3rsm5x4kn65d1ksnax8nbwk400w5r4kh1bmy3kswhix4";
         }
       ];
     };
@@ -13825,7 +13825,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Time%20selection/Archie_Time%20selection;%20Nudge%20right%20edge%20right%20to%20nearest%20grid.lua";
-          sha256 = "0ylv7ly6wyrrmgi1zg02gzcslygcym0v7w61qp7bkc81m1wwb2j7";
+          sha256 = "0yv83g7cqgdmz4hkpcrx5yph9ssh7brssasyql1g487cghrlakfp";
         }
       ];
     };
@@ -13839,7 +13839,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Time%20selection/Archie_Time%20selection;%20Remove%20all%20contents%20of%20time%20selection.lua";
-          sha256 = "1h50q3gvb2wqyzmnbg7p9a12fg8zi90gcdzill224zd54k8wg9pn";
+          sha256 = "10daz6x4ryb7084k6gc2rvga9jsxmizmhj818syjzbnrg41imfr2";
         }
       ];
     };
@@ -13853,7 +13853,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Time%20selection/Archie_Time%20selection;%20Remove%20all%20contents%20of%20time%20selection.lua";
-          sha256 = "112mfhhnpsgqbbz29pdwqpyy82i5vy00gygr7lqqwv4kdaq7513f";
+          sha256 = "";
         }
       ];
     };
@@ -13895,7 +13895,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Time%20selection/Archie_Time%20selection;%20Remove%20contents%20of%20time%20selection%20in%20selected%20tracks%20(moving%20later%20items).lua";
-          sha256 = "0j7vs2qbnyi22d5f2q5maccvrap79r1wjghsrvq19kaf6h8xa5ar";
+          sha256 = "1q8swylk2kq4x3j52war0bg15szd0xpibhcnbd4ajg90kj8vl21d";
         }
       ];
     };
@@ -14063,7 +14063,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Track/Archie_Track;%20Activate-Deactivate%20rec-armed%20rec-monitoring%20all%20input-Fx%20in%20selected%20tracks(%60).lua";
-          sha256 = "05wzmi9i7d69m6l0cb4h7x5nw2an0ycs3x7w2blvdxhrxr3v73h8";
+          sha256 = "00nd4bj3kv45ppb17rs3hvl4jc3fk9d9f95hm7vd8ag304ya0qg8";
         }
       ];
     };
@@ -14077,7 +14077,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Track/Archie_Track;%20Add%20in%20end%20of%20name%20of%20selected%20track%20_ARCHIVE(%60).lua";
-          sha256 = "0aw4k6qpxw61lfyam8jyx6v4jd3x0083129g51lwak7wxzr9z3j2";
+          sha256 = "06zjfgy2bm8ibfg8d4pxqwb378kmvg5rv610jhih1m26vh12bh2p";
         }
       ];
     };
@@ -14091,7 +14091,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Track/Archie_Track;%20Add%20in%20end%20of%20name%20of%20selected%20track%20_ARCHIVE(%60).lua";
-          sha256 = "0p7ixqjasvr7ig62zcjsn8wg0i3j6blli2yvw8rm8483ba2shbnj";
+          sha256 = "02x627lpr6fair4wchg8a848kgvhyqhylvdwf55xly5wkdz70ya3";
         }
       ];
     };
@@ -14119,7 +14119,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Track/Archie_Track;%20Add%20tracks%20with%20locked%20height%20to%20collapsed%20folders-Restore%20when%20uncollapsed(background).lua";
-          sha256 = "0ivar1vjjsivxys3vd65rn3qyz2239br8inqq1pkhh5fds1iwgak";
+          sha256 = "01bfg6dzv24g8im7w8lgina9shp4smlqmq0hm01862jkb267r6y6";
         }
       ];
     };
@@ -14147,7 +14147,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Track/Archie_Track;%20Arm%20only%20Selected%20tracks.lua";
-          sha256 = "1f5q7ynm3w3nfrp4w1sqpl8nhv6cnsi52727bhlndkcz60y330cg";
+          sha256 = "0pirjz3sp4wb83vpag9i4pd64znjnwsmc2z9ywmjz37dkbsk4msf";
         }
       ];
     };
@@ -14315,7 +14315,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Track/Archie_Track;%20Copy%20selected%20track%20name.lua";
-          sha256 = "16nd36lc4pili0sf7ks4xvfamr6a07zvs0c157xh3d43xkl77vy1";
+          sha256 = "0f85s0qc4aanhb9pg9x6vf39lbkq5b9fdn7wbbspzzx4nd3qdfhl";
         }
       ];
     };
@@ -14329,7 +14329,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/7ce6a342353bd8c90f16ab158a2045e928e0809c/MAIN/Track/Archie_Track;%20Copy%20solo%20mute%20state%20selected%20track.lua";
-          sha256 = "15f3dvyc5jbz9p0id28ar9ay1fdgc4vpgb9gj71bryya9s3nzrm2";
+          sha256 = "";
         }
       ];
     };
@@ -14427,7 +14427,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Track/Archie_Track;%20Copy%20track%20icon.lua";
-          sha256 = "1v4dlr783240iqr16gmkr09il8qqvsglqf17aikk5rb9xmdnrdj9";
+          sha256 = "1bdvks27w53lx2j7w0n5rjn366dfvn14w9avdkv3yn44s6b38v83";
         }
       ];
     };
@@ -14441,7 +14441,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/7ce6a342353bd8c90f16ab158a2045e928e0809c/MAIN/Track/Archie_Track;%20Cut%20solo%20mute%20state%20selected%20track.lua";
-          sha256 = "0l25hlfaviipkmfiyf83wsgr63y5rcaqg4rrmrazbpyqwq22nnm5";
+          sha256 = "1a307jk6qa33n4px3abhlvn7h4w20f4cg9npwz47ph02ynhfn904";
         }
       ];
     };
@@ -14497,7 +14497,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Track/Archie_Track;%20Delete%20all%20receive%20in%20selected%20tracks.lua";
-          sha256 = "05ps0yky93hg762jynyy9y277r705yfiscjgqj65ngbkry9iq1y9";
+          sha256 = "1f6sjqpacjwdxwvdmkb8r30y78y3b95cbwrm6r5p8kp58191rjy8";
         }
       ];
     };
@@ -14735,7 +14735,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/7fbe7f4fb0d85297af83f4a3cc8ebb1695683329/MAIN/Track/Archie_Track;%20Go%20to%20next%20track%20-%20track%20solo%20in%20solo%20exclusive(skip%20minimized%20folders).lua";
-          sha256 = "0abvk913wkbvn8wpmyi5apinvl0xx7vs1m9j8773lj738hn0ybcq";
+          sha256 = "0214qplxfw3r7cwvv6apysd42l5274rz2ckp87aq4wb6q9dsf4jr";
         }
       ];
     };
@@ -14987,7 +14987,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Track/Archie_Track;%20Hide%20child%20tracks%20of%20selected%20folders%20in%20MCP.lua";
-          sha256 = "15r2q38lpmn2p5v4z8h1iahiiy2qigz4ajcxzz32k2yrv222hmda";
+          sha256 = "06d3kkwyysa2d1ia8d7pj0ai4cbzs0w814bxbbmii7a85sjjdyw8";
         }
       ];
     };
@@ -15337,7 +15337,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Track/Archie_Track;%20Insert%20new%20track%20with%20send%20on%20selected%20tracks.lua";
-          sha256 = "1pisry3hanm7x31fk3bmpw2al21dm724s9823i8pnrn8rn1nacdc";
+          sha256 = "0qngzlkg27ryqfjdgbkv82s0k5dh8isky0rnp0vrrzpv07sc5g9v";
         }
       ];
     };
@@ -15421,7 +15421,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Track/Archie_Track;%20Insert%20track%20holding%20the%20mouse%20into%20empty%20TCP%20and%20rename,%20random%20color.lua.lua";
-          sha256 = "1lkkzlz71bvg0947qscvlh24qyb1fh0kkydp88b566qgk69llrz2";
+          sha256 = "09i8dnvrknlg532k4r5mg3hiv2r8b4p3q1f3ha58sw7h78siyjxs";
         }
       ];
     };
@@ -15729,7 +15729,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Track/Archie_Track;%20Move%20all%20selected%20tracks%20to%20last%20selected%20folder(%60).lua";
-          sha256 = "0r3d25aks0rpkgjvsrmwqfs1q6lf9spjvl3mzpi86ckn4sra21cm";
+          sha256 = "0v63x0s7s6dcxavrmnbzd6rbmm80bxvsbn9yvw0r8zfp03y5hnax";
         }
       ];
     };
@@ -15855,7 +15855,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Track/Archie_Track;%20Move%20children%20from%20folder%20and%20place%20them%20above%20folder.lua";
-          sha256 = "1f3fad718cmqiifg4vlwlyklf5grm4va8snng0w1gfrmary4f788";
+          sha256 = "1n4f3h7cy87w8aj8l8mlc9bix0vxcb9njjfbnk4kfgyxn06abz25";
         }
       ];
     };
@@ -16098,22 +16098,22 @@
         {
           path = ''Archie_Track; Move selected tracks up by one visible(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Track/Archie_Track;%20Move%20selected%20tracks%20up%20by%20one%20visible(%60).lua";
-          sha256 = "0h45vjdlz4iz3b0zkx0dnv81ydw90ppq85n12bwf3gpkd2ihscmm";
+          sha256 = "0iy9kkcy6fgrm7p2js73cn30pqj01g625fzy7g4c0azzp50jv3l4";
         }
         {
           path = ''Archie_Track; Move selected tracks up by one visible (skip folders)(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Track/Archie_Track;%20Move%20selected%20tracks%20up%20by%20one%20visible(%60).lua";
-          sha256 = "0h45vjdlz4iz3b0zkx0dnv81ydw90ppq85n12bwf3gpkd2ihscmm";
+          sha256 = "0iy9kkcy6fgrm7p2js73cn30pqj01g625fzy7g4c0azzp50jv3l4";
         }
         {
           path = ''Archie_Track; Move selected tracks up by one visible (request to skip folders)(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Track/Archie_Track;%20Move%20selected%20tracks%20up%20by%20one%20visible(%60).lua";
-          sha256 = "0h45vjdlz4iz3b0zkx0dnv81ydw90ppq85n12bwf3gpkd2ihscmm";
+          sha256 = "0iy9kkcy6fgrm7p2js73cn30pqj01g625fzy7g4c0azzp50jv3l4";
         }
         {
           path = ''Archie_Track; Move selected tracks up by one visible (skip minimized folders)(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Track/Archie_Track;%20Move%20selected%20tracks%20up%20by%20one%20visible(%60).lua";
-          sha256 = "0h45vjdlz4iz3b0zkx0dnv81ydw90ppq85n12bwf3gpkd2ihscmm";
+          sha256 = "0iy9kkcy6fgrm7p2js73cn30pqj01g625fzy7g4c0azzp50jv3l4";
         }
       ];
     };
@@ -16127,22 +16127,22 @@
         {
           path = ''Archie_Track; Move selected tracks up by one visible(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/6833f64fe546b86bcf2f077d01a84f501bc0e6e6/MAIN/Track/Archie_Track;%20Move%20selected%20tracks%20up%20by%20one%20visible(%60).lua";
-          sha256 = "00f6bs4jkvxg456ayi6rvpxwmig9w6083i7xragq6s7vafphzm1k";
+          sha256 = "0jsr19yg72hxrad3d50w5llvqv76yjxm2kbif5bariyparhllkmh";
         }
         {
           path = ''Archie_Track; Move selected tracks up by one visible (skip folders)(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/6833f64fe546b86bcf2f077d01a84f501bc0e6e6/MAIN/Track/Archie_Track;%20Move%20selected%20tracks%20up%20by%20one%20visible(%60).lua";
-          sha256 = "00f6bs4jkvxg456ayi6rvpxwmig9w6083i7xragq6s7vafphzm1k";
+          sha256 = "0jsr19yg72hxrad3d50w5llvqv76yjxm2kbif5bariyparhllkmh";
         }
         {
           path = ''Archie_Track; Move selected tracks up by one visible (request to skip folders)(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/6833f64fe546b86bcf2f077d01a84f501bc0e6e6/MAIN/Track/Archie_Track;%20Move%20selected%20tracks%20up%20by%20one%20visible(%60).lua";
-          sha256 = "00f6bs4jkvxg456ayi6rvpxwmig9w6083i7xragq6s7vafphzm1k";
+          sha256 = "0jsr19yg72hxrad3d50w5llvqv76yjxm2kbif5bariyparhllkmh";
         }
         {
           path = ''Archie_Track; Move selected tracks up by one visible (skip minimized folders)(`).lua'';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/6833f64fe546b86bcf2f077d01a84f501bc0e6e6/MAIN/Track/Archie_Track;%20Move%20selected%20tracks%20up%20by%20one%20visible(%60).lua";
-          sha256 = "00f6bs4jkvxg456ayi6rvpxwmig9w6083i7xragq6s7vafphzm1k";
+          sha256 = "0jsr19yg72hxrad3d50w5llvqv76yjxm2kbif5bariyparhllkmh";
         }
       ];
     };
@@ -16383,7 +16383,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Track/Archie_Track;%20Mute%20all%20visible%20track%20in%20TCP(%60).lua";
-          sha256 = "0kmawnlm4f4z8gl7grvcnv8kl2l71nbdyjspm93rsr4sg9lq26yj";
+          sha256 = "053nq35kf8wpbibg8fb2091jcn8jy49lsmgkmzm0vdwsvkf85k4c";
         }
       ];
     };
@@ -17400,7 +17400,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Track/Archie_Track;%20Set%20pan%20on%20selected%20tracks%20by%20inverting%20every%20second%20track%20.lua";
-          sha256 = "0xvkb43dipc77xg9j1lffr22rc6spagpsnwsvw7mkjjbfjqalbk9";
+          sha256 = "1agyvf5rsl6735ml2sn92ijy0x110vbvarv8z6wk5dv356h84np3";
         }
       ];
     };
@@ -18014,7 +18014,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Track/Archie_Track;%20Show%20child%20tracks%20of%20selected%20folders%20in%20MCP.lua";
-          sha256 = "0066n7v43zhgpa3y40n4w5yrhgmr5yk09qv4y8cji28qsb4qy5by";
+          sha256 = "0i5jrhndkpqnb9hvhp5cnmf6ygk7725hkfyp71lk0nin0nc9hw3v";
         }
       ];
     };
@@ -18532,7 +18532,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Track/Archie_Track;%20Toggle%20Hide%20super%20collapsed(AutoRun).lua";
-          sha256 = "1fjpd81di1ws6as3av4irasi9z3qgrlzqxbn31m8aacjjk11aimb";
+          sha256 = "0vgjbgqi1irh0c7bfivds98xcfn4ikx2r0fbzns3cb6lj591bh23";
         }
       ];
     };
@@ -18742,7 +18742,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Track/Archie_Track;%20Toggle%20Rec%20Arm%20exclusive(%60).lua";
-          sha256 = "1h80x5npf8c939907diwlbvh24h27b0lxg4j8wcc4sg0fp2n0dmn";
+          sha256 = "0m0gs9hpyszcp9x705v17fnmfhnxvqb9mqppp4m2lpwf6gl86ska";
         }
       ];
     };
@@ -18826,7 +18826,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Track/Archie_Track;%20Toggle%20Unmute%20mute%20all%20visible%20track%20in%20TCP.lua";
-          sha256 = "1nz6racww25lda7lgyxbs5kmayb4iw4gpr977xh7qrlpbgxnirdn";
+          sha256 = "07pb45pswxddqnr1mbccjmdkmp2y6knrfvm17i34apvp95i8gj68";
         }
       ];
     };
@@ -18882,7 +18882,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Track/Archie_Track;%20Unarm%20all%20tracks%20for%20recording(AutoRun)(%60).lua";
-          sha256 = "0h1wsdmzj6rcs4z0f7d6vdymz1dgq93jzif9s7mgmyc2cswq54xy";
+          sha256 = "";
         }
       ];
     };
@@ -18910,7 +18910,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Track/Archie_Track;%20UnArm%20Selected%20track.lua";
-          sha256 = "1siiva26wgl5bj6mljg5nci4rxkkp4kifqj3ljjp9wj7wwnmpshd";
+          sha256 = "1bk4264b6givayl7685ija73kmr9mzhvfi6yfbwwhy3qn9a9hdw3";
         }
       ];
     };
@@ -19064,7 +19064,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Track/Archie_Track;%20Unmute%20all%20visible%20track%20in%20MCP(%60).lua";
-          sha256 = "0a4asjl4zq7hvdr8mr4kbgpi9j3l7l6palsgrwchqil9bdz4ai04";
+          sha256 = "164qpsz6f86c30ak20x934wzivypcahjyg21avb65mbc3a3scsfm";
         }
       ];
     };
@@ -19106,7 +19106,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Track/Archie_Track;%20Unmute%20all%20visible%20track%20in%20TCP%20and%20MCP(%60).lua";
-          sha256 = "0qh163v50lkvddqawdf5h51wsalhvqp1xgzbd2ccxl1k1i7q7ipz";
+          sha256 = "0jc13nz73fpsdj7zhpn0c4ylk100pxcv394bmhqzxr6in78r5fn1";
         }
       ];
     };
@@ -19204,7 +19204,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Track/Archie_Track;%20Unsolo%20all%20visible%20track%20in%20MCP(%60).lua";
-          sha256 = "1m9naw3yibqh72d09xpbg0r8cnlcmkwy5s3gy17fdbhf34lnk50x";
+          sha256 = "1ff0jm538fyncsvr1nysaiq2qa65ij4xygsgsnsddh205nphxljy";
         }
       ];
     };
@@ -19512,7 +19512,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Transport/Archie_Transp;%20Toggle%20Playrate%201.0%20-%20Custom%20value%20(ctrl).lua";
-          sha256 = "1gjn7v26niksv5x7d5psmisbzlz2lrmpsh03r6xck1hbc50dldwh";
+          sha256 = "01ra1lac4lcwadqlq4pwq28bcwzasaikzd94w5ifds5i0h21a5xy";
         }
       ];
     };
@@ -19995,7 +19995,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Various/Archie_Var;%20Popup%20menu%20single-level(n).lua";
-          sha256 = "09by5adb0idzdp1zhqicr63ck30yjzppl4mc9f02c3hrrfnn146a";
+          sha256 = "1axgiyknrhvmhj9w0ply547pjwqw5j4drags2r4hx4ag5y1wc079";
         }
       ];
     };
@@ -20037,7 +20037,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Various/Archie_Var;%20Popup%20menu(n).lua";
-          sha256 = "1kk9wwn472lz6xchkskfkwp9xjlh2zzaiylrdqrzzpkzc8cgg9k8";
+          sha256 = "1bpzx1iyadxr0gm5rpgl66kbwcl6vm2ra7h0q25n4l2vvimipwap";
         }
       ];
     };
@@ -20149,7 +20149,7 @@
         {
           path = '''';
           url = "https://github.com/ArchieScript/Archie_ReaScripts/raw/f61197268fee51aa27c31d1c0dd45c2b814307d5/MAIN/Various/Archie_Var;%20Remove%20items%20tracks%20env%20points%20(depending%20on%20focus)%20select%20next.lua";
-          sha256 = "0j3chq09a7avw4dvm6n8fpd6n1xcpyfsfdji2m8xkphvypg3m206";
+          sha256 = "085cncasivvj5y6v0j2rm48xysbd95sfydsfjmh396rcv7kb4hdb";
         }
       ];
     };

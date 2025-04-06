@@ -29,7 +29,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/MIDI-Makey-Makey/raw/2d2a29f64ffce1806fd6541a8aa97fa13e1ea295/JSFX/X-Raym_Makey%20Makey%20MIDI%20Notes%20Map.jsfx";
-          sha256 = "01r8qg13an67a94lspnimvl73pfqpqifp2njl90q5r0l68lq73h3";
+          sha256 = "";
         }
       ];
     };
@@ -57,7 +57,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/MIDI-Makey-Makey/raw/2d2a29f64ffce1806fd6541a8aa97fa13e1ea295/JSFX/X-Raym_Makey%20Makey%20MIDI%20Notes%20Monitor.jsfx";
-          sha256 = "04f8zrwfhbzjdh1fhipyl297n40ch1vryipar0a4xfndm925n68d";
+          sha256 = "";
         }
       ];
     };
@@ -71,7 +71,7 @@
         {
           path = '''';
           url = "https://github.com/X-Raym/MIDI-Makey-Makey/raw/2d2a29f64ffce1806fd6541a8aa97fa13e1ea295/JSFX/X-Raym_Makey%20Makey%20MIDI%20Notes%20Velocity.jsfx";
-          sha256 = "0jhb638czgb8xnm441039yjdsm54s4dz986db1l7vhg0i1nn1hy0";
+          sha256 = "";
         }
       ];
     };

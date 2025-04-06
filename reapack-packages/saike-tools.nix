@@ -1378,6 +1378,104 @@
         }
       ];
     };
+    amaranth-jsfx-0-31 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amaranth-jsfx-0-31";
+      indexName = "Saike Tools";
+      categoryName = "Amaranth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/52567c60a9084d0b4085aa60fe6369821ff1e3da/Amaranth/Amaranth.jsfx";
+          sha256 = "10j8kcphdr0cj55sp8f05h30irqqw3ck6lifk57wcbc7hvg6l411";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_envelopes.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/52567c60a9084d0b4085aa60fe6369821ff1e3da/Amaranth/Amaranth_Dependencies/Amaranth_envelopes.jsfx-inc";
+          sha256 = "1klfp14y5ghwr96irizphgdig7w1sdfn4bpircqwkimkyh8lb9hp";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/52567c60a9084d0b4085aa60fe6369821ff1e3da/Amaranth/Amaranth_Dependencies/Amaranth_filters.jsfx-inc";
+          sha256 = "03d527229hc0h976pr8s0qf6rsmjj4rzslg093ck2ci5mghffdlx";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_grainlib.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/52567c60a9084d0b4085aa60fe6369821ff1e3da/Amaranth/Amaranth_Dependencies/Amaranth_grainlib.jsfx-inc";
+          sha256 = "04d0l925g41l6dj8lv2avyx0rz1lg3cvnkvig9a989fcv5smi331";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_mouse.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/52567c60a9084d0b4085aa60fe6369821ff1e3da/Amaranth/Amaranth_Dependencies/Amaranth_mouse.jsfx-inc";
+          sha256 = "1fnc4hqcg0l65hmc9jq0r4bq292sl5p51vzlxxlnh65bwprc547r";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_widgetdata.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/52567c60a9084d0b4085aa60fe6369821ff1e3da/Amaranth/Amaranth_Dependencies/Amaranth_widgetdata.jsfx-inc";
+          sha256 = "1wbzkp62z3dhq2zxkql2f197xpl4j7kbrqd3mc6xk1k54c6fh5r6";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_widgets.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/52567c60a9084d0b4085aa60fe6369821ff1e3da/Amaranth/Amaranth_Dependencies/Amaranth_widgets.jsfx-inc";
+          sha256 = "1c67hxmqr4rgv7jvb7fra0a55bgawcwizf08fgqmz7mxyy6pfkn2";
+        }
+        {
+          path = ''Amaranth_Dependencies/Logo4.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/52567c60a9084d0b4085aa60fe6369821ff1e3da/Amaranth/Amaranth_Dependencies/Logo4.png";
+          sha256 = "0hg3dgxi1nmx46rnqiybx09sjb2sdjl4cjlj4r89lq8vxsmczcz8";
+        }
+      ];
+    };
+    amaranth-jsfx-0-32 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "amaranth-jsfx-0-32";
+      indexName = "Saike Tools";
+      categoryName = "Amaranth";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/61aa97d6141601e4ba5e15daed4682315de5e1ea/Amaranth/Amaranth.jsfx";
+          sha256 = "0r4gnif803qd23lh9b4rvlafjapm4fyzh7h11ifk51s3zhznzkvm";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_envelopes.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/61aa97d6141601e4ba5e15daed4682315de5e1ea/Amaranth/Amaranth_Dependencies/Amaranth_envelopes.jsfx-inc";
+          sha256 = "1klfp14y5ghwr96irizphgdig7w1sdfn4bpircqwkimkyh8lb9hp";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_filters.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/61aa97d6141601e4ba5e15daed4682315de5e1ea/Amaranth/Amaranth_Dependencies/Amaranth_filters.jsfx-inc";
+          sha256 = "03d527229hc0h976pr8s0qf6rsmjj4rzslg093ck2ci5mghffdlx";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_grainlib.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/61aa97d6141601e4ba5e15daed4682315de5e1ea/Amaranth/Amaranth_Dependencies/Amaranth_grainlib.jsfx-inc";
+          sha256 = "04d0l925g41l6dj8lv2avyx0rz1lg3cvnkvig9a989fcv5smi331";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_mouse.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/61aa97d6141601e4ba5e15daed4682315de5e1ea/Amaranth/Amaranth_Dependencies/Amaranth_mouse.jsfx-inc";
+          sha256 = "1fnc4hqcg0l65hmc9jq0r4bq292sl5p51vzlxxlnh65bwprc547r";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_widgetdata.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/61aa97d6141601e4ba5e15daed4682315de5e1ea/Amaranth/Amaranth_Dependencies/Amaranth_widgetdata.jsfx-inc";
+          sha256 = "1wbzkp62z3dhq2zxkql2f197xpl4j7kbrqd3mc6xk1k54c6fh5r6";
+        }
+        {
+          path = ''Amaranth_Dependencies/Amaranth_widgets.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/61aa97d6141601e4ba5e15daed4682315de5e1ea/Amaranth/Amaranth_Dependencies/Amaranth_widgets.jsfx-inc";
+          sha256 = "1c67hxmqr4rgv7jvb7fra0a55bgawcwizf08fgqmz7mxyy6pfkn2";
+        }
+        {
+          path = ''Amaranth_Dependencies/Logo4.png'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/61aa97d6141601e4ba5e15daed4682315de5e1ea/Amaranth/Amaranth_Dependencies/Logo4.png";
+          sha256 = "0hg3dgxi1nmx46rnqiybx09sjb2sdjl4cjlj4r89lq8vxsmczcz8";
+        }
+      ];
+    };
     bandsplitter-jsfx-0-01 = mkReapackPackage {
       inherit lib stdenv fetchurl;
       name = "bandsplitter-jsfx-0-01";
@@ -2367,6 +2465,25 @@
         {
           path = ''saike_pitchlib.jsfx-inc'';
           url = "https://github.com/JoepVanlier/JSFX/raw/867fa7526b29b063f62184eadce36fa1eb2d2d86/Basics/saike_pitchlib.jsfx-inc";
+          sha256 = "0wavi2jm8kfj26gv3i2rfa74il59yhfnscfslrqqnlxkpkajv0a7";
+        }
+      ];
+    };
+    saike-pitch-shift-jsfx-0-04 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "saike-pitch-shift-jsfx-0-04";
+      indexName = "Saike Tools";
+      categoryName = "Basics";
+      packageType = "effect";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/JoepVanlier/JSFX/raw/d04c5ea17825df9256d3a82eecbe89944b9b8fb2/Basics/Saike_Pitch_Shift.jsfx";
+          sha256 = "18m53nzxw2zzkdqg8y45khbza94wdzafwpm52dpgvs03wcxlyp9j";
+        }
+        {
+          path = ''saike_pitchlib.jsfx-inc'';
+          url = "https://github.com/JoepVanlier/JSFX/raw/d04c5ea17825df9256d3a82eecbe89944b9b8fb2/Basics/saike_pitchlib.jsfx-inc";
           sha256 = "0wavi2jm8kfj26gv3i2rfa74il59yhfnscfslrqqnlxkpkajv0a7";
         }
       ];

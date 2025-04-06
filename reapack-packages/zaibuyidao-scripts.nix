@@ -7403,17 +7403,31 @@
         }
       ];
     };
-    zaibuyidao-insert-expression-set-cc-shape-lua-1-0 = mkReapackPackage {
+    zaibuyidao-insert-expression-cc-events-and-set-cc-shape-lua-1-0 = mkReapackPackage {
       inherit lib stdenv fetchurl;
-      name = "zaibuyidao-insert-expression-set-cc-shape-lua-1-0";
+      name = "zaibuyidao-insert-expression-cc-events-and-set-cc-shape-lua-1-0";
       indexName = "zaibuyidao Scripts";
       categoryName = "MIDI Editor";
       packageType = "script";
       sources = [
         {
           path = '''';
-          url = "https://github.com/zaibuyidao/ReaScripts/raw/07e4afec91e0e7ea2b3cd1fe6ca880652222b0bf/MIDI%20Editor/zaibuyidao_Insert%20Expression%20(Set%20CC%20Shape).lua";
-          sha256 = "0if4w29vvdggs4wsnmfk7ciqlk7shkg2m1xnxwbvzp304s9piayz";
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/039c6b7ca33e34d56cf0c8e516b209ddc859b2c0/MIDI%20Editor/zaibuyidao_Insert%20Expression%20CC%20Events%20and%20Set%20CC%20Shape.lua";
+          sha256 = "0piim9yf3k5ckqvcgc3w0jhfy07kq6qhj0idrjy02dcc4x2l5j49";
+        }
+      ];
+    };
+    zaibuyidao-insert-expression-cc-events-and-set-cc-shape-lua-1-0-1 = mkReapackPackage {
+      inherit lib stdenv fetchurl;
+      name = "zaibuyidao-insert-expression-cc-events-and-set-cc-shape-lua-1-0-1";
+      indexName = "zaibuyidao Scripts";
+      categoryName = "MIDI Editor";
+      packageType = "script";
+      sources = [
+        {
+          path = '''';
+          url = "https://github.com/zaibuyidao/ReaScripts/raw/a87ec195acb8009d5feeeaa0f38c8e82384298f4/MIDI%20Editor/zaibuyidao_Insert%20Expression%20CC%20Events%20and%20Set%20CC%20Shape.lua";
+          sha256 = "1wvs43gjingxrszg43mfw44zwn661qvxwfz293ag4m3rmhnm8mnc";
         }
       ];
     };
@@ -13867,7 +13881,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/61388d27acf0c0ca403fb6a23a3d69999a995422/MIDI%20Editor/zaibuyidao_Trim%20Note%20Right%20Edge%20(Fast).lua";
-          sha256 = "";
+          sha256 = "1c3q8dr7z5lbx637bzq2bk8s1cxdsj4bpazjif6f5jh3620747fp";
         }
       ];
     };
@@ -13881,7 +13895,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8d69b1d0593742bbc15f7dbb85a01d5c4c2a75ad/MIDI%20Editor/zaibuyidao_Trim%20Note%20Right%20Edge%20(Fast).lua";
-          sha256 = "";
+          sha256 = "1ld4zp3c291y1wss4pgnghkpyhbywcyq5iv97a9zk5jim2izn8bi";
         }
       ];
     };
@@ -13895,7 +13909,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/eff7a5f86ff8eae235ce3ef4825f0c8b91b83ac8/MIDI%20Editor/zaibuyidao_Trim%20Note%20Right%20Edge%20(Fast).lua";
-          sha256 = "";
+          sha256 = "0cq6lv7fj8kj1hijwph74bvb77xg7j7jk93i1k78frpqqbpdhq5c";
         }
       ];
     };
@@ -13951,7 +13965,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a741eba7e71f7f988f89a905b09103d4301621c2/MIDI%20Editor/zaibuyidao_Trim%20Note%20Right%20Edge%20+10.lua";
-          sha256 = "";
+          sha256 = "1mz4967hwfjvszgqlrsy6y9gzwc90r004wvpn38vj3kfa48d186y";
         }
       ];
     };
@@ -13965,7 +13979,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6213c04016af0b673563a7c54fc518e739a34102/MIDI%20Editor/zaibuyidao_Trim%20Note%20Right%20Edge%20-10%20Ticks%20(Fast).lua";
-          sha256 = "1wasj5ap3qc961nl498g53d9w1fkij9j2rbhgl6z8ddaa08c3yhh";
+          sha256 = "0lnlabq4bbhm38i85k1cq7w75a336w241nlpqb1mj8dacfnl9lly";
         }
       ];
     };
@@ -14021,7 +14035,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a741eba7e71f7f988f89a905b09103d4301621c2/MIDI%20Editor/zaibuyidao_Trim%20Note%20Right%20Edge.lua";
-          sha256 = "";
+          sha256 = "1xl34d7ylxpskf9xccynbfnvcv8i7w8fmwf0wsh6dnaz762cwbpr";
         }
       ];
     };
@@ -14035,7 +14049,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c23eaa11c96b2c3015d0ad79141ef7350e996751/MIDI%20Editor/zaibuyidao_Trim%20Note%20Right%20Grid%20+1%20(Fast).lua";
-          sha256 = "0956q70j2ccg50vv10fmmxiqdgm6r10wy4l7shxk1vysbsi2gf5w";
+          sha256 = "11gd62vwvi7dqgn9kfiay5jq88x4hrp6nbz2422vm2y60i7rfdl3";
         }
       ];
     };
@@ -14077,7 +14091,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c23eaa11c96b2c3015d0ad79141ef7350e996751/MIDI%20Editor/zaibuyidao_Trim%20Note%20Right%20Grid%20-1%20(Fast).lua";
-          sha256 = "";
+          sha256 = "15d0dr0962gwcc1037b64lh2r3k4fzrqmd1d40lq0ykrimpfxqas";
         }
       ];
     };
@@ -14091,7 +14105,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/61388d27acf0c0ca403fb6a23a3d69999a995422/MIDI%20Editor/zaibuyidao_Trim%20Note%20Right%20Grid%20-1%20(Fast).lua";
-          sha256 = "19q9p19v90931csv9gzzkzj36c8n2az8y5dkw14jln3qpnfdz44f";
+          sha256 = "0j3kp32mmzp47w9nlfclkz2cbd7j91yyhll4y2n0r5y3yabja3h2";
         }
       ];
     };
@@ -14105,7 +14119,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8d69b1d0593742bbc15f7dbb85a01d5c4c2a75ad/MIDI%20Editor/zaibuyidao_Trim%20Note%20Right%20Grid%20-1%20(Fast).lua";
-          sha256 = "";
+          sha256 = "1jimqsi2lln5h532p027npk3kgmhv91jfyba5k3glm46j5afc6b8";
         }
       ];
     };
@@ -14133,7 +14147,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/e44d1930146831803a947fdaa10f0ae9427dd35b/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua";
-          sha256 = "";
+          sha256 = "0ggbma8gj2xdjaay0jggfzyppzkn3llhlin6bnkpd3nbzb4kj9yn";
         }
       ];
     };
@@ -14161,7 +14175,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f888ff1f82a9832ad7b630d728f271d0a03562e9/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua";
-          sha256 = "";
+          sha256 = "00fb5dq9vgm1102ssl22wx5rwy20ivy26k01n82vibrdvv4q2ph4";
         }
       ];
     };
@@ -14189,7 +14203,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7e2035b89a6f7ee655e3fd13608bf9528c7f256d/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua";
-          sha256 = "";
+          sha256 = "0qvx6gyn3sjcdqi7wicjigmd7wl74x2vdvphkbjfizhpnlm2q5mq";
         }
       ];
     };
@@ -14245,7 +14259,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7834649a733e2f2706cd25d61f548b10a8d2e8c9/Razor%20Edit/zaibuyidao_Copy%20Content%20And%20Marker%20In%20Razor%20Edit%20Area.lua";
-          sha256 = "17mn3pvhz711kkzq34i2a1n5m950476fc8iayskivlm51gs1hxqs";
+          sha256 = "00f4npc176v70qcv3r8bzdylijnr283gnblwxd10qwdyr9iqxph6";
         }
       ];
     };
@@ -14273,7 +14287,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/700523c3784560b3a9588890f1213868a240bc7c/Razor%20Edit/zaibuyidao_Copy%20Content%20And%20Region%20Marker%20In%20Razor%20Edit%20Area.lua";
-          sha256 = "";
+          sha256 = "000xkj7si7nba90m1yffh5ba543mgp3i1k35cajg2w558k4r4x1h";
         }
       ];
     };
@@ -14287,7 +14301,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a1e0a8194a2c13c2169835dc0fce7ebf2f48a4ab/Razor%20Edit/zaibuyidao_Copy%20Content%20And%20Region%20Marker%20In%20Razor%20Edit%20Area.lua";
-          sha256 = "";
+          sha256 = "0zvh9nc29fpk4b3qg89f2fqphfxm18fd4zhbdij7wn4gja1dxm62";
         }
       ];
     };
@@ -14315,7 +14329,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7834649a733e2f2706cd25d61f548b10a8d2e8c9/Razor%20Edit/zaibuyidao_Paste%20Content%20And%20Marker%20In%20Razor%20Edit%20Area.lua";
-          sha256 = "1sw5yakfn53329vmq5ljn2yfgyxhykjx2hzjrz825v7lrs2l48jx";
+          sha256 = "1priam1a92yfmmfdn6mfdid2vk72xl94qrqjjqfkpav0mys13rk6";
         }
       ];
     };
@@ -14343,7 +14357,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/700523c3784560b3a9588890f1213868a240bc7c/Razor%20Edit/zaibuyidao_Paste%20Content%20And%20Region%20Marker%20In%20Razor%20Edit%20Area.lua";
-          sha256 = "1x2blvg1pykaavwd52g2nrzxv72j43ghc6s2p2gqnpvfwslcgd98";
+          sha256 = "0av913h887xskh41a04b9y6fd5ynspyi1sqniklln3s9fhkcq2vs";
         }
       ];
     };
@@ -14357,7 +14371,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a1e0a8194a2c13c2169835dc0fce7ebf2f48a4ab/Razor%20Edit/zaibuyidao_Paste%20Content%20And%20Region%20Marker%20In%20Razor%20Edit%20Area.lua";
-          sha256 = "0nszdgbarygbx8s4f9azc8ca19b149i82q3cvmj53s2qbij4savf";
+          sha256 = "08jvl0bycplnh0mramrijqvb4j4rbrm8as3127hkzimi0hw3q0ja";
         }
       ];
     };
@@ -14399,7 +14413,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/898d6e66f74a2035f2234aeca4f2fda37b42bcd4/Razor%20Edit/zaibuyidao_Paste%20Content%20And%20Region%20Marker%20Tempo%20In%20Razor%20Edit%20Area.lua";
-          sha256 = "103hja18ijhz9j066r7giylarhhvpzrc572kdiwd7rd6250763dg";
+          sha256 = "0dqqaz5xzqsq6687a1p4gb2as7wwpjp4hpfrdxjndx06sinpy09y";
         }
       ];
     };
@@ -14413,7 +14427,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7551e7c34563ebc35005e4b1d5edc223f04e1a9c/Razor%20Edit/zaibuyidao_Set%20Time%20Selection%20To%20Razor%20Edit%20Area.lua";
-          sha256 = "0kfs8ha6a6399cq1cay7n664z8y2qqynaclw28s2w5h1pfwy73z2";
+          sha256 = "1mrayncfixdzjcg68n3c9gi6ckzr96y45dyacl5bc9y8ds1q6idn";
         }
       ];
     };
@@ -14427,7 +14441,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Regions/zaibuyidao_Batch%20Rename%20Regions%20for%20Selected%20Items.lua";
-          sha256 = "0j0y4q6q6qryjvvsbwicdipk0rbdpjsnv5j7cxa3pinn64fw1yfm";
+          sha256 = "04376xrpx3x68b32iys64fxanlhafdmcfslzaacj4q3gvb5m4g36";
         }
       ];
     };
@@ -14441,7 +14455,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Regions/zaibuyidao_Batch%20Rename%20Regions%20in%20Region%20Manager.lua";
-          sha256 = "0a5la8f0ycmasgss5bvh2vx82bavndbb88nkbpi3r0f7m5cpdsfb";
+          sha256 = "1nyf8mw3fqmq8si3pmcc2q8v7vrb81d0647rywfmi0r2ya1g9qcg";
         }
       ];
     };
@@ -14455,7 +14469,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Regions/zaibuyidao_Batch%20Rename%20Regions%20Within%20Time%20Selection.lua";
-          sha256 = "1rmqx92ii64wm7h5p9rc06j5kbkdxkmafpr2jvf4mr72yz63vq7f";
+          sha256 = "16zaf6x885rjdggp677ijqjmszyiy6rvdksvxz3w3d99gfbmywbr";
         }
       ];
     };
@@ -14469,7 +14483,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Regions/zaibuyidao_Batch%20Set%20Region%20Names%20for%20Selected%20Items.lua";
-          sha256 = "02qy62mwav4dl6naink0kwzj0sbw56m7cnxn5hhxa1cx6ykfkqdn";
+          sha256 = "1a7r51dhqhi08q8ljm2yl2axh3iqa7pljh6nvpm0vyi0ary7352y";
         }
       ];
     };
@@ -14497,7 +14511,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3cbed1425623a99054b1bc3f703858d8455b6ebf/Regions/zaibuyidao_Delete%20Regions%20Within%20Time%20Selection.lua";
-          sha256 = "";
+          sha256 = "0jj9x4cqwf8422ghn2p34x1k89ssg4c8hidgaal1r5inv7yrrj5r";
         }
       ];
     };
@@ -14539,7 +14553,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9ef65ab3daa6e91649c8170b880c7a8c73aca739/Regions/zaibuyidao_Set%20Region%20Color%20Within%20Time%20Selection.lua";
-          sha256 = "05dpxh7w2c884qii1023v8sjyrk27k5px8lg3b5jvxwmzkh4ha4l";
+          sha256 = "1sfmr24fzbgcawks8300rgx0y02z5bwsghi5phda903422f6c3n5";
         }
       ];
     };
@@ -14553,7 +14567,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3cbed1425623a99054b1bc3f703858d8455b6ebf/Regions/zaibuyidao_Set%20Region%20Color%20Within%20Time%20Selection.lua";
-          sha256 = "";
+          sha256 = "1vvadvyqp7s9r483rhmmvfh1qfspkdvgki767qmd80q49whcm87v";
         }
       ];
     };
@@ -14567,7 +14581,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/fc79ad359b99c5babe2c0ed01f7aac96ea74f240/Regions/zaibuyidao_Set%20Region%20Names%20for%20Selected%20Items%20from%20Clipboard.lua";
-          sha256 = "";
+          sha256 = "1rqa3diq68adalw3slpk153ry629dcihrq5ycgdai7v9g319savx";
         }
       ];
     };
@@ -14581,7 +14595,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3cbed1425623a99054b1bc3f703858d8455b6ebf/Regions/zaibuyidao_Set%20Region%20Tails%20of%20Selected%20Items.lua";
-          sha256 = "";
+          sha256 = "12ibncb465g3ibk8h709jf6q18ir0nbw2ingwc16rkp8cahwnjk3";
         }
       ];
     };
@@ -14595,7 +14609,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/3cbed1425623a99054b1bc3f703858d8455b6ebf/Regions/zaibuyidao_Set%20Selected%20Items%20to%20Matching%20Region%20Colors.lua";
-          sha256 = "1r93hlpc9ghac11x16f3djqknd7xwdp3lrlqvzylv2ing06hlph1";
+          sha256 = "0a55yq3sq8lrphvgxwafqxz135yafn7my0blkbwqnpnafjs4jb1q";
         }
       ];
     };
@@ -14609,7 +14623,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Tracks%20Properties/zaibuyidao_Batch%20Rename%20Tracks.lua";
-          sha256 = "1530nd3pnv9xv5w4g4jrf07bh1mplrnw5y8mmrha0msz3c95c3y3";
+          sha256 = "028p7w1dr0xzw126apkfvycik9j0kh3w8lgpd4jl6ypgql7rl8wf";
         }
       ];
     };
@@ -14623,7 +14637,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2f0637b47744c2149c35ded37a723463b9fc3ce2/Tracks%20Properties/zaibuyidao_Batch%20Rename%20Tracks.lua";
-          sha256 = "05cjkv87z3gxzmdvf7fdxkrqvc5b3ppnjiijyfxq89naw243gnqa";
+          sha256 = "0ddrc1k4wqcrgyly611z3s4yh2z4jgbr594fz23gl2qiaqifyi29";
         }
       ];
     };
@@ -14637,7 +14651,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Tracks%20Properties/zaibuyidao_Batch%20Set%20Track%20Names.lua";
-          sha256 = "";
+          sha256 = "1171366mdhvxjnncc1ymiz8jxabqiqmvxac0v45nairc261gwvk1";
         }
       ];
     };
@@ -14651,7 +14665,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/2f0637b47744c2149c35ded37a723463b9fc3ce2/Tracks%20Properties/zaibuyidao_Batch%20Set%20Track%20Names.lua";
-          sha256 = "1c48isp2yqqjys9iiw8d9zfnzjh1ssvn0a42qlkgq0rzj71ax5kr";
+          sha256 = "140qbhqv7gy0h9c20852lb82qnxag1v8b3f8xndda6wzy7wckd1d";
         }
       ];
     };
@@ -14679,7 +14693,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/9bba7ef9fef3aceceb4c5df0c80dda211464eb34/Tracks%20Properties/zaibuyidao_Link%20Selected%20Track%20FX%20Parameter%20(For%20Selected%20FX).lua";
-          sha256 = "";
+          sha256 = "1qmfnfkagc89pkwlpzx1vidsv0rkl850bjks3qrhr4zblssqngsn";
         }
       ];
     };
@@ -14693,7 +14707,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f6c1c393c3553a25489d2654b2a1c16eeb83e855/Tracks%20Properties/zaibuyidao_Link%20Selected%20Track%20FX%20Parameter%20(For%20Selected%20FX).lua";
-          sha256 = "1v1bsigs9hba114ygb6kayzk5rr689y6rz7pfs1wqajdqf0gr8a3";
+          sha256 = "1kh73jc4ziwrvxviz5s4mjxcwgn6pnmpbv83flp9lb14accgfrih";
         }
       ];
     };
@@ -14777,7 +14791,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f6c1c393c3553a25489d2654b2a1c16eeb83e855/Tracks%20Properties/zaibuyidao_Link%20Selected%20Track%20FX%20Parameter.lua";
-          sha256 = "18ny9kg3ii0z8cc3yh06pszm2i5xwgx2mvs6784aclkj0n0fbqw8";
+          sha256 = "1c7z9gj25a4nsl8im2nbqj3kbvv3vi1mfyf0g9p57pwwvw9kbsc2";
         }
       ];
     };
@@ -14791,7 +14805,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7ceae7f1b67761ac9dec1d000252cc9f6d5cc85a/Tracks%20Properties/zaibuyidao_Link%20Selected%20Track%20FX%20Parameter.lua";
-          sha256 = "0fwgyw26xb40sq8w5dxlhhvp1q3wbjd48crsnwsqd2lnh5g1jp44";
+          sha256 = "0mgw17gl63kxyx0j96k8qi68yis86bgnh60jipfg1i0h724agxp4";
         }
       ];
     };
@@ -14805,7 +14819,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7393c25d95a64a5960ad7354d1d8a9802e45c912/Tracks%20Properties/zaibuyidao_Link%20Selected%20Track%20FX%20Parameter.lua";
-          sha256 = "0izkd9832hjz9hpmw1yalli2aqapmpsyipikx7lifrgib47a1azq";
+          sha256 = "11j25gjpa7pf8pc2ymb9w1llwjaf3vhchy226p06c0vwb78jv75s";
         }
       ];
     };
@@ -14819,7 +14833,7 @@
         {
           path = '''';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/c21aba986e2a9602def55737ebeefe9f351c366d/Tracks%20Properties/zaibuyidao_Open%20FX%20Panel%20For%20Selected%20Track.lua";
-          sha256 = "1zgwwr1zjw5wqkv2saygsa579xwhcs9g0hyv96y0bg28q3l8iqql";
+          sha256 = "0ir1gjlkxcaw0wbbfpa05ca1ffzmsz5l42z2gps2b9x5044dj5xk";
         }
       ];
     };
@@ -17304,7 +17318,7 @@
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo Track from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Instant%20Solo%20Track%20from%20Mouse%20Position.lua";
-          sha256 = "";
+          sha256 = "1b4yqirwjbkwvjp69wggqzbcqhqlsh12dr7hq9ab70kwa4zhz40v";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Toggle Solo Automatically for Selected Tracks.lua'';
@@ -17319,12 +17333,12 @@
         {
           path = ''Advanced Solo/zaibuyidao_Toggle Solo for Selected Tracks.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Toggle%20Solo%20for%20Selected%20Tracks.lua";
-          sha256 = "";
+          sha256 = "1698y7lj7gjjldil0044kq0b55178x4jzvax3hijhdyqf6xxg85w";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Toggle Solo for Specific Track (Settings).lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/zaibuyidao_Toggle%20Solo%20for%20Specific%20Track%20(Settings).lua";
-          sha256 = "";
+          sha256 = "05lwrxj77fd9b3lkfsjwrzqpiahm332gjzc49sz5jhsnrgnsnlx2";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Toggle Solo for Specific Track.lua'';
@@ -17334,7 +17348,7 @@
         {
           path = ''Advanced Solo/lib/speaker.cur'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a99e8053774db4cc95091eaeb294440eefa12f01/Various/Advanced%20Solo/lib/speaker.cur";
-          sha256 = "";
+          sha256 = "0lg8c4bqq2mx6rn09lk9ia4ginngfyzk9vf3pjisv1fp9q9a78j7";
         }
         {
           path = ''Advanced Solo/lib/serpent.lua'';
@@ -17353,17 +17367,17 @@
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Item from Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Item%20from%20Edit%20Cursor.lua";
-          sha256 = "18lj8i2h0pjq0bzkqqks31lfg524ihwa17hl5cqxgjddf9grr7yh";
+          sha256 = "0hl2jf8ihb36plw3qmk9375zfb7aqwq9mcvs1q1w1kqzk4fy6dj4";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Item from First Selected Item.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Item%20from%20First%20Selected%20Item.lua";
-          sha256 = "0dacbaq7c098pdqp47xdzk82wwxzijmnwx0gq8zdf05yzi2n9y2r";
+          sha256 = "0w8djjc94va0nginw02kb41lp6npipyr29gxwqspfxgr265ii05x";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Item from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Item%20from%20Mouse%20Position.lua";
-          sha256 = "";
+          sha256 = "0jnvpainsm00rkkww03xfcpqclsks9aiq23ppg9kc8vbcbdz6fwf";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Item Without Moving Edit Cursor.lua'';
@@ -17378,62 +17392,62 @@
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo MIDI Item from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20MIDI%20Item%20from%20Mouse%20Position.lua";
-          sha256 = "";
+          sha256 = "0s5k68b4sxmmiyvz051jrlzl61z7qah6vljq8gh8bg3pi62bp827";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Note from Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Note%20from%20Edit%20Cursor.lua";
-          sha256 = "0fg9x5k6cfv541bxzlh25z59m9hmvy0v21smyf5fmkhi0qzinhbx";
+          sha256 = "10n25543ri2pnniz4gps7zz92091b8kc7k5v618r53c8vdmsiqmp";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Note from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Note%20from%20Mouse%20Position.lua";
-          sha256 = "";
+          sha256 = "14qdm39ffgfm0a5advyrr809f7dp9a8zacm5sngwkmckvvimn8q0";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track from Edit Cursor (Exclude Item Selection).lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Track%20from%20Edit%20Cursor%20(Exclude%20Item%20Selection).lua";
-          sha256 = "1ril3pcmkvcwpwgi3d0d7zxz3ip96s5d44zdwmx708hi9d4921aj";
+          sha256 = "15qlkk8sr8ib4mx0x9icfm0ds2a1irdw28vicmvlr2qbql71kjz7";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track from Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Track%20from%20Edit%20Cursor.lua";
-          sha256 = "";
+          sha256 = "1gi9jz4k79ppmvh46w6yrri84ja0d2pikdi6gihcn3s4fvnygnjv";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track from Mouse Position (Exclude Item Selection).lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Track%20from%20Mouse%20Position%20(Exclude%20Item%20Selection).lua";
-          sha256 = "0fqgqs36allmc987pf7aapild17cdv21h3qcpizjxg19x3ln3h39";
+          sha256 = "1abfb3fyj6649qas35hziihd16wvx3rlsy558wyqgx64f26sv3dg";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Track%20from%20Mouse%20Position.lua";
-          sha256 = "1670ap0y38cf0blcfw67pq9ym0bdnryc7n5xk7vhy6y9n4w7iysi";
+          sha256 = "0cq74kj79kpsc0lvi6vxc7hw1ksqfxd05z9g7l8y3kwwxfjln0bs";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track Without Moving Edit Cursor (Exclude Item Selection).lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Track%20Without%20Moving%20Edit%20Cursor%20(Exclude%20Item%20Selection).lua";
-          sha256 = "";
+          sha256 = "01mnh44233zj4k9wrplqri2zj6rc62dv8m35f89smdb8avvxd23m";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Hold to Solo Track Without Moving Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Hold%20to%20Solo%20Track%20Without%20Moving%20Edit%20Cursor.lua";
-          sha256 = "";
+          sha256 = "0b8bickns2zwf3wxb7lfzrjspn9x5hz1h34q41yfk9g6nw5cw55p";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo Item from Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Instant%20Solo%20Item%20from%20Edit%20Cursor.lua";
-          sha256 = "";
+          sha256 = "026w8pv37rdy987mrcg08sl0n1dd34hmkmz5gibw02rx55z8dppy";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo Item from First Selected Item.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Instant%20Solo%20Item%20from%20First%20Selected%20Item.lua";
-          sha256 = "";
+          sha256 = "076f2kkqh5ipvqf8hs4ih7611b64hx3zppjnd5ylv7dr7v7s9wf5";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo Item from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Instant%20Solo%20Item%20from%20Mouse%20Position.lua";
-          sha256 = "";
+          sha256 = "1yqmw7r76jafn6qshkbph7ixxcg0v8qwlq87sjqxa5laz0lsfdv9";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo MIDI Item from Edit Cursor.lua'';
@@ -17443,47 +17457,47 @@
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo MIDI Item from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Instant%20Solo%20MIDI%20Item%20from%20Mouse%20Position.lua";
-          sha256 = "";
+          sha256 = "1hklsw2hai0z68mvrwzlkcbfwspqi3dsl33i2si4yixx52m5gjcm";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo Note from Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Instant%20Solo%20Note%20from%20Edit%20Cursor.lua";
-          sha256 = "";
+          sha256 = "0sgp5gkasx2q4nnflz27xb2fc1r4zn3pjw767xbm39czqilqh7qj";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo Note from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Instant%20Solo%20Note%20from%20Mouse%20Position.lua";
-          sha256 = "";
+          sha256 = "0l6gr2xk1s02z8dcmm1mp1kr4j992i5pid8mln6z0jmbwzpqf90f";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo Track from Edit Cursor.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Instant%20Solo%20Track%20from%20Edit%20Cursor.lua";
-          sha256 = "";
+          sha256 = "14km21l8vbwk4lpp4nwpsqkiicwxv0a0cigrxdagnc82849k7f3k";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Instant Solo Track from Mouse Position.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Instant%20Solo%20Track%20from%20Mouse%20Position.lua";
-          sha256 = "1aafmqf3fbdjsjxixsbnjw5zn8cn8r3zz4xnd59w2mx6k1z1hn1x";
+          sha256 = "1b4yqirwjbkwvjp69wggqzbcqhqlsh12dr7hq9ab70kwa4zhz40v";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Toggle Solo Automatically for Selected Tracks.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Toggle%20Solo%20Automatically%20for%20Selected%20Tracks.lua";
-          sha256 = "";
+          sha256 = "18f6s7m12q7gnx3pwwphqxsqvg96cf8ksb3hfwgz99gwajybh0pw";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Toggle Solo for Selected Tracks or Track Under Mouse.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Toggle%20Solo%20for%20Selected%20Tracks%20or%20Track%20Under%20Mouse.lua";
-          sha256 = "0q3zj122h1q5842dbbi2swk3hds6j75md9nl7h087ng53xv268j7";
+          sha256 = "1wrsnm5448cjkrhv32lp0lbrygbbqsvria3rsq14fy49zcx2rvsa";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Toggle Solo for Selected Tracks.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Toggle%20Solo%20for%20Selected%20Tracks.lua";
-          sha256 = "";
+          sha256 = "1698y7lj7gjjldil0044kq0b55178x4jzvax3hijhdyqf6xxg85w";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Toggle Solo for Specific Track (Settings).lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/zaibuyidao_Toggle%20Solo%20for%20Specific%20Track%20(Settings).lua";
-          sha256 = "133iq9cri0qmrx9yn7avrzc9k7gvni0ajz1abvglk1hg76mbq7rg";
+          sha256 = "05lwrxj77fd9b3lkfsjwrzqpiahm332gjzc49sz5jhsnrgnsnlx2";
         }
         {
           path = ''Advanced Solo/zaibuyidao_Toggle Solo for Specific Track.lua'';
@@ -17493,12 +17507,12 @@
         {
           path = ''Advanced Solo/lib/speaker.cur'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/lib/speaker.cur";
-          sha256 = "";
+          sha256 = "0lg8c4bqq2mx6rn09lk9ia4ginngfyzk9vf3pjisv1fp9q9a78j7";
         }
         {
           path = ''Advanced Solo/lib/serpent.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/a328fc787eff11565e6877a8db6f812006308827/Various/Advanced%20Solo/lib/serpent.lua";
-          sha256 = "";
+          sha256 = "01i3v3i9x12m6zvglaf9h876manwhsvdjycvw3hwq2j7cn80gc2k";
         }
       ];
     };
@@ -17512,12 +17526,12 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - No GUI.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0794f97ab6269bf969221ea10b4ba6de2ea943df/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20No%20GUI.lua";
-          sha256 = "";
+          sha256 = "0111na0562906b2pjyz4i20am18cw1xp89yz7n39mfc6281hsdav";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Note To PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0794f97ab6269bf969221ea10b4ba6de2ea943df/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Note%20To%20PC.lua";
-          sha256 = "";
+          sha256 = "0mc0fa6jjwk6b7ij4m1785k92ihyrsvsx78yz2vljdkc16z2bc4g";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC To Note.lua'';
@@ -17527,7 +17541,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle Note PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0794f97ab6269bf969221ea10b4ba6de2ea943df/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Toggle%20Note%20PC.lua";
-          sha256 = "1lcvcqbmypbjd38z5gi69qjvhci05mhlb7n9r7s2g9msnd5wzi1r";
+          sha256 = "1pid0gccap2pk3r8yjhwfvn8agg1cjiqky58nm7jj0rf9xyvxibz";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map.lua'';
@@ -17542,12 +17556,12 @@
         {
           path = ''Articulation Map/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0794f97ab6269bf969221ea10b4ba6de2ea943df/Various/Articulation%20Map/lib/core.lua";
-          sha256 = "1py53j91ip07909c7diil47fng5q4s25s2ls60yla76k5njilixd";
+          sha256 = "18saaigzi7yg8l8jw1k3fn62gxbw2lq387dwgh1v9j7lnvgknma5";
         }
         {
           path = ''Articulation Map/lib/gui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0794f97ab6269bf969221ea10b4ba6de2ea943df/Various/Articulation%20Map/lib/gui.lua";
-          sha256 = "1kh1kwqd4y1hgv23czfn7sqjvgbyid52lqmcak262j3jxqfrpa9l";
+          sha256 = "0rp0gnwv1jpgd2alnfrr2qdl2jn2nhfw8niy3a05bpza32sm5riv";
         }
         {
           path = ''Articulation Map/lib/utils.lua'';
@@ -17557,7 +17571,7 @@
         {
           path = ''Articulation Map/articulation_map_factory.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/0794f97ab6269bf969221ea10b4ba6de2ea943df/Various/Articulation%20Map/articulation_map_factory.reabank";
-          sha256 = "16mfbzaz5hkszr1znlwx9llp8791h684yprd4sfwy6nvhps20kfr";
+          sha256 = "17hl5wk87dvf4z498vnrwg1q5bgnrmncxcxpfw1g36p6azd3xr4z";
         }
       ];
     };
@@ -19352,7 +19366,7 @@
         {
           path = ''Articulation Map/articulation_map_factory.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/209a6bdb1c0f0f77992d944dbcba4a8094574623/Various/Articulation%20Map/articulation_map_factory.reabank";
-          sha256 = "";
+          sha256 = "1zbd6vb3b3484b6b760xvnl1fmsi9fwv597r1zqwl7bihklgv5ia";
         }
       ];
     };
@@ -19366,7 +19380,7 @@
         {
           path = ''Articulation Map/articulation_map.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/articulation_map.jsfx";
-          sha256 = "";
+          sha256 = "1ydm5vdrs1kqxg6702crrsp8q0vl74h3x8x8lsdz85zwsafhxxf8";
         }
         {
           path = ''Articulation Map/pre_trigger_events.jsfx'';
@@ -19381,7 +19395,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - No GUI.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20No%20GUI.lua";
-          sha256 = "";
+          sha256 = "0l6g8pshmavvnfajfp9vq57h2nfwb1kjxb6gynb1pkd7nmpy4yrk";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - CC to PC.lua'';
@@ -19406,27 +19420,27 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Note to PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Note%20to%20PC.lua";
-          sha256 = "";
+          sha256 = "18i7jrppwmacrgbj3c2x3yjj18bknvkvsplaz896ls90973zs16l";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to Note.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20Note.lua";
-          sha256 = "";
+          sha256 = "0id7px6b6fqfdshbxsvq4rj9bw12szyx9l01vnxcbj62ix1r4xv3";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/zaibuyidao_Articulation%20Map.lua";
-          sha256 = "";
+          sha256 = "158ifma3fv0vb5mlkdyk2hiaffzzflgs254qdsz97zb8rz6iicpa";
         }
         {
           path = ''Articulation Map/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/lib/config.lua";
-          sha256 = "";
+          sha256 = "1nyfkg3626qrmknylr5wkjq7kjd7hh3d50rcbx19d4x1z6nz1g56";
         }
         {
           path = ''Articulation Map/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/lib/core.lua";
-          sha256 = "";
+          sha256 = "0nwj2xdggsbr5y11n67h6pm4jds4y1d7pva1smwhaq0zdq0l8nzk";
         }
         {
           path = ''Articulation Map/lib/gui.lua'';
@@ -19436,7 +19450,7 @@
         {
           path = ''Articulation Map/lib/utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/lib/utils.lua";
-          sha256 = "";
+          sha256 = "1hsq4x52mkqy3r6kr4r30zvgmy8f7f1jdpgnar8dw5rv61iayz0x";
         }
         {
           path = ''Articulation Map/banks/Ample Metal Eclipse (金属吉他).reabank'';
@@ -19446,7 +19460,7 @@
         {
           path = ''Articulation Map/banks/Ample Metal Hellrazer (九弦吉他).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/banks/Ample%20Metal%20Hellrazer%20(%E4%B9%9D%E5%BC%A6%E5%90%89%E4%BB%96).reabank";
-          sha256 = "";
+          sha256 = "0a77krfmnqxns7azc80bzrm7wjb9n95ns70pc7w688mnxfl387rv";
         }
         {
           path = ''Articulation Map/banks/Ample Sound Erhu (二胡凝月).reabank'';
@@ -19456,12 +19470,12 @@
         {
           path = ''Articulation Map/banks/Ample Sound Qudi (曲笛風逸).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/banks/Ample%20Sound%20Qudi%20(%E6%9B%B2%E7%AC%9B%E9%A2%A8%E9%80%B8).reabank";
-          sha256 = "";
+          sha256 = "0l9sj2a7ck7s7z1bkxq003a5skpgj6ibkijm65jmipwladw4idyb";
         }
         {
           path = ''Articulation Map/banks/Cinematic Studio Strings (UACC-58).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/banks/Cinematic%20Studio%20Strings%20(UACC-58).reabank";
-          sha256 = "";
+          sha256 = "0hsiyq1qfvzlyv8xvysry5j417fz2s4dhzpj0csgabkh7by779ky";
         }
         {
           path = ''Articulation Map/banks/Cinematic Studio Strings.reabank'';
@@ -19471,17 +19485,17 @@
         {
           path = ''Articulation Map/banks/Spitfire Albion 1 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/banks/Spitfire%20Albion%201%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "1i4xmrzi10qqssx5kbyzzvksiwsgnsr0izy5ixgnq8lvgkr9rcf9";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion 2 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/banks/Spitfire%20Albion%202%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "12vhjsm11yd578naf74vbp5j4zya8qr109fxx30hnx5nsxd4l88g";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion 3 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/banks/Spitfire%20Albion%203%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "17zb0a4mbnca1pgwi96scp5h34i105c71490n7jprdb8c149m1nk";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion ONE (UACC-32).reabank'';
@@ -19491,7 +19505,7 @@
         {
           path = ''Articulation Map/banks/Spitfire Albion V (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/banks/Spitfire%20Albion%20V%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "1y3v5vszd30pzw8r87cb9v8gw8v0v3v6g0akl9c7j9s8fm95hjbc";
         }
         {
           path = ''Articulation Map/banks/Spitfire Chamber Strings (UACC-32).reabank'';
@@ -19511,7 +19525,7 @@
         {
           path = ''Articulation Map/banks/Spitfire Symphonic Strings (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/banks/Spitfire%20Symphonic%20Strings%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "1x795sn8g7zz6hfn0q3sfbj64ism46piawb31dp9zs4kqb27byix";
         }
         {
           path = ''Articulation Map/banks/Spitfire Symphonic Woodwinds (UACC-32).reabank'';
@@ -19531,7 +19545,7 @@
         {
           path = ''Articulation Map/banks/Three-Body Whisper of Loong (曲笛新雨).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/banks/Three-Body%20Whisper%20of%20Loong%20(%E6%9B%B2%E7%AC%9B%E6%96%B0%E9%9B%A8).reabank";
-          sha256 = "";
+          sha256 = "1x2wgz8wsf9g9n0s053lg7mn8grrf2vb6hhmah5zzlsndpw59f5f";
         }
         {
           path = ''Articulation Map/banks/Three-Body Whisper of Loong.reabank'';
@@ -19541,7 +19555,7 @@
         {
           path = ''Articulation Map/articulation_map_factory.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/f7491f9c0f36072a6ff33d4d5d1e53367f9967ba/Various/Articulation%20Map/articulation_map_factory.reabank";
-          sha256 = "";
+          sha256 = "1zbd6vb3b3484b6b760xvnl1fmsi9fwv597r1zqwl7bihklgv5ia";
         }
       ];
     };
@@ -19565,7 +19579,7 @@
         {
           path = ''zaibuyidao_articulation_map/simul-arts.txt'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/785c5f41232f444a035c73cd4c1e8e0aa7da17c0/Various/Articulation%20Map/jsfx/zaibuyidao_articulation_map/simul-arts.txt";
-          sha256 = "";
+          sha256 = "01mc5kdi3s8qbw8101mx7lxam1m2vzlnyfznskwiki1zipgs4nmr";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - No GUI.lua'';
@@ -19575,12 +19589,12 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - CC to PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/785c5f41232f444a035c73cd4c1e8e0aa7da17c0/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20CC%20to%20PC.lua";
-          sha256 = "";
+          sha256 = "10w9z06mp753j8xyjq8ag8yb9mgszds3rmhwqv611pf5wm4r69qq";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/785c5f41232f444a035c73cd4c1e8e0aa7da17c0/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20CC.lua";
-          sha256 = "";
+          sha256 = "1vqa1dx47f162pbwz3cwjc98f3klxjpflzvvz7j31d472k4br0wj";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to CC.lua'';
@@ -19650,12 +19664,12 @@
         {
           path = ''Articulation Map/banks/Cinematic Studio Strings (UACC-58).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/785c5f41232f444a035c73cd4c1e8e0aa7da17c0/Various/Articulation%20Map/banks/Cinematic%20Studio%20Strings%20(UACC-58).reabank";
-          sha256 = "16hml5ml0s9ajgv03cmr44sxqv91dzvl11s2h4hvck0ck9x2mx8r";
+          sha256 = "0hsiyq1qfvzlyv8xvysry5j417fz2s4dhzpj0csgabkh7by779ky";
         }
         {
           path = ''Articulation Map/banks/Cinematic Studio Strings.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/785c5f41232f444a035c73cd4c1e8e0aa7da17c0/Various/Articulation%20Map/banks/Cinematic%20Studio%20Strings.reabank";
-          sha256 = "0acjmdlp66d4wx08wwrd0x86ybmbcxlgmcmvd0am0rq1kpxn0y3r";
+          sha256 = "0hzavvwj3q546s3bznmc1qixdvvaf3hqihmxm5l1m8vvds1r0kdy";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion 1 (UACC-32).reabank'';
@@ -21421,7 +21435,7 @@
         {
           path = ''Articulation Map/banks/Three-Body Whisper of Loong (曲笛新雨).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/07524ba6ceec601cbd08d503919ed528fe8a487e/Various/Articulation%20Map/banks/Three-Body%20Whisper%20of%20Loong%20(%E6%9B%B2%E7%AC%9B%E6%96%B0%E9%9B%A8).reabank";
-          sha256 = "";
+          sha256 = "1x2wgz8wsf9g9n0s053lg7mn8grrf2vb6hhmah5zzlsndpw59f5f";
         }
         {
           path = ''Articulation Map/banks/Three-Body Whisper of Loong.reabank'';
@@ -21450,17 +21464,17 @@
         {
           path = ''Articulation Map/pre_trigger_events.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/jsfx/pre_trigger_events.jsfx";
-          sha256 = "";
+          sha256 = "18sg4vsfh40hpccgqrpl1r7vnar5zmjvhhpf2a2pkjl518qa64hj";
         }
         {
           path = ''zaibuyidao_articulation_map/simul-arts.txt'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/jsfx/zaibuyidao_articulation_map/simul-arts.txt";
-          sha256 = "";
+          sha256 = "0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - No GUI.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20No%20GUI.lua";
-          sha256 = "";
+          sha256 = "0l6g8pshmavvnfajfp9vq57h2nfwb1kjxb6gynb1pkd7nmpy4yrk";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - CC to PC.lua'';
@@ -21470,12 +21484,12 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20CC.lua";
-          sha256 = "";
+          sha256 = "1vqa1dx47f162pbwz3cwjc98f3klxjpflzvvz7j31d472k4br0wj";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Toggle%20PC%20to%20CC.lua";
-          sha256 = "";
+          sha256 = "1qib7bhg0fid89cdfa3w8y2w6zrrrabz2z1rr3dzdjzkwp1v7pnk";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to Note.lua'';
@@ -21490,22 +21504,22 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to Note.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20Note.lua";
-          sha256 = "";
+          sha256 = "0yxpf4mhlpybkn5y0n8iq4jzrkds0f4bnql5a141qmjad4dlm75z";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/zaibuyidao_Articulation%20Map.lua";
-          sha256 = "";
+          sha256 = "0yxq8nhm17c37rxmp4ip3g93g8q5255wb2frkrkypkb0s8vsb9gd";
         }
         {
           path = ''Articulation Map/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/lib/config.lua";
-          sha256 = "";
+          sha256 = "0r7g1apbdq6cr9w90nf2fa0rz8brwhv14nlijh1gn03s9m2nb4b7";
         }
         {
           path = ''Articulation Map/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/lib/core.lua";
-          sha256 = "";
+          sha256 = "0nwj2xdggsbr5y11n67h6pm4jds4y1d7pva1smwhaq0zdq0l8nzk";
         }
         {
           path = ''Articulation Map/lib/gui.lua'';
@@ -21520,7 +21534,7 @@
         {
           path = ''Articulation Map/banks/Ample Metal Eclipse (金属吉他).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Ample%20Metal%20Eclipse%20(%E9%87%91%E5%B1%9E%E5%90%89%E4%BB%96).reabank";
-          sha256 = "";
+          sha256 = "1w91dwzwr00zgkkpjf5j18i2rc6xhv3clb9xyjb9g53mn6h42n45";
         }
         {
           path = ''Articulation Map/banks/Ample Metal Hellrazer (九弦吉他).reabank'';
@@ -21535,7 +21549,7 @@
         {
           path = ''Articulation Map/banks/Ample Sound Qudi (曲笛風逸).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Ample%20Sound%20Qudi%20(%E6%9B%B2%E7%AC%9B%E9%A2%A8%E9%80%B8).reabank";
-          sha256 = "";
+          sha256 = "0l9sj2a7ck7s7z1bkxq003a5skpgj6ibkijm65jmipwladw4idyb";
         }
         {
           path = ''Articulation Map/banks/Bank-100-0 LASS 3 Full (CC Stack).reabank'';
@@ -21545,7 +21559,7 @@
         {
           path = ''Articulation Map/banks/Cinematic Studio Strings (UACC-58).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Cinematic%20Studio%20Strings%20(UACC-58).reabank";
-          sha256 = "";
+          sha256 = "0hsiyq1qfvzlyv8xvysry5j417fz2s4dhzpj0csgabkh7by779ky";
         }
         {
           path = ''Articulation Map/banks/Cinematic Studio Strings.reabank'';
@@ -21565,7 +21579,7 @@
         {
           path = ''Articulation Map/banks/Spitfire Albion 3 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Spitfire%20Albion%203%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "17zb0a4mbnca1pgwi96scp5h34i105c71490n7jprdb8c149m1nk";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion ONE (UACC-32).reabank'';
@@ -21585,17 +21599,17 @@
         {
           path = ''Articulation Map/banks/Spitfire Masse (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Spitfire%20Masse%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "10xv506f7ylzd1yswmmkg3r5k285xn4a656lhahpn2yw5ww98rfx";
         }
         {
           path = ''Articulation Map/banks/Spitfire Symphonic Brass (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Spitfire%20Symphonic%20Brass%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "12rx0vhpysg2a49wpln9cpjdmv181jqdpixni1l3gp802w6r3xmz";
         }
         {
           path = ''Articulation Map/banks/Spitfire Symphonic Strings (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Spitfire%20Symphonic%20Strings%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "1x795sn8g7zz6hfn0q3sfbj64ism46piawb31dp9zs4kqb27byix";
         }
         {
           path = ''Articulation Map/banks/Spitfire Symphonic Woodwinds (UACC-32).reabank'';
@@ -21615,17 +21629,17 @@
         {
           path = ''Articulation Map/banks/Three-Body Whisper of Loong (曲笛新雨).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Three-Body%20Whisper%20of%20Loong%20(%E6%9B%B2%E7%AC%9B%E6%96%B0%E9%9B%A8).reabank";
-          sha256 = "";
+          sha256 = "1x2wgz8wsf9g9n0s053lg7mn8grrf2vb6hhmah5zzlsndpw59f5f";
         }
         {
           path = ''Articulation Map/banks/Three-Body Whisper of Loong.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/banks/Three-Body%20Whisper%20of%20Loong.reabank";
-          sha256 = "";
+          sha256 = "0jvbjqagg2gd5iw3cr1p53558vnvlflbwxnh6q5d6srkbkqhhmm8";
         }
         {
           path = ''Articulation Map/articulation_map_factory.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/cbaaefbdd3f257065337bc7f3c2f5116a4292d0b/Various/Articulation%20Map/articulation_map_factory.reabank";
-          sha256 = "";
+          sha256 = "07hagh75mhv5dzhwzclril9is1pk8dvz6xvk6kksrb307v2l657g";
         }
       ];
     };
@@ -21639,12 +21653,12 @@
         {
           path = ''Articulation Map/articulation_map.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/jsfx/articulation_map.jsfx";
-          sha256 = "";
+          sha256 = "0j9gxzhd7hy1dn9bsd0bnjx23ssn0fj96i0nyhdv0asdjnxgaga4";
         }
         {
           path = ''Articulation Map/pre_trigger_events.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/jsfx/pre_trigger_events.jsfx";
-          sha256 = "1nw2y6jfg84n4fll21zgj12pfnr1d3rz05y140cml4mckajwixdy";
+          sha256 = "18sg4vsfh40hpccgqrpl1r7vnar5zmjvhhpf2a2pkjl518qa64hj";
         }
         {
           path = ''zaibuyidao_articulation_map/simul-arts.txt'';
@@ -21654,12 +21668,12 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - No GUI.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20No%20GUI.lua";
-          sha256 = "1xn8mlsshqwj5vz3nsys76zrpxylqszhz5mg12d374nij4kcg2f9";
+          sha256 = "0l6g8pshmavvnfajfp9vq57h2nfwb1kjxb6gynb1pkd7nmpy4yrk";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - CC to PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20CC%20to%20PC.lua";
-          sha256 = "";
+          sha256 = "10w9z06mp753j8xyjq8ag8yb9mgszds3rmhwqv611pf5wm4r69qq";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to CC.lua'';
@@ -21669,7 +21683,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Toggle%20PC%20to%20CC.lua";
-          sha256 = "";
+          sha256 = "1qib7bhg0fid89cdfa3w8y2w6zrrrabz2z1rr3dzdjzkwp1v7pnk";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to Note.lua'';
@@ -21739,17 +21753,17 @@
         {
           path = ''Articulation Map/banks/Cinematic Studio Strings (UACC-58).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Cinematic%20Studio%20Strings%20(UACC-58).reabank";
-          sha256 = "";
+          sha256 = "0hsiyq1qfvzlyv8xvysry5j417fz2s4dhzpj0csgabkh7by779ky";
         }
         {
           path = ''Articulation Map/banks/Cinematic Studio Strings.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Cinematic%20Studio%20Strings.reabank";
-          sha256 = "";
+          sha256 = "0hzavvwj3q546s3bznmc1qixdvvaf3hqihmxm5l1m8vvds1r0kdy";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion 1 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Spitfire%20Albion%201%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "1i4xmrzi10qqssx5kbyzzvksiwsgnsr0izy5ixgnq8lvgkr9rcf9";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion 2 (UACC-32).reabank'';
@@ -21764,7 +21778,7 @@
         {
           path = ''Articulation Map/banks/Spitfire Albion ONE (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Spitfire%20Albion%20ONE%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "1llgg739fg1ywhc3nl1dgmbqlkxdaj3k9agpiy2f2d1y3xvp9i07";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion V (UACC-32).reabank'';
@@ -21774,27 +21788,27 @@
         {
           path = ''Articulation Map/banks/Spitfire Chamber Strings (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Spitfire%20Chamber%20Strings%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "16bshwm26s3rcfai2hv47fdprwnr2yr81ymsh84dgfxjab2gmysi";
         }
         {
           path = ''Articulation Map/banks/Spitfire Masse (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Spitfire%20Masse%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "10xv506f7ylzd1yswmmkg3r5k285xn4a656lhahpn2yw5ww98rfx";
         }
         {
           path = ''Articulation Map/banks/Spitfire Symphonic Brass (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Spitfire%20Symphonic%20Brass%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "12rx0vhpysg2a49wpln9cpjdmv181jqdpixni1l3gp802w6r3xmz";
         }
         {
           path = ''Articulation Map/banks/Spitfire Symphonic Strings (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Spitfire%20Symphonic%20Strings%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "1x795sn8g7zz6hfn0q3sfbj64ism46piawb31dp9zs4kqb27byix";
         }
         {
           path = ''Articulation Map/banks/Spitfire Symphonic Woodwinds (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/banks/Spitfire%20Symphonic%20Woodwinds%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "0xkq7qbh7137bg0hdkc921jnd993zglmzl4c4n27i602z1r2x8gr";
         }
         {
           path = ''Articulation Map/banks/Three-Body Raindrop &amp; Blade (扬琴落英).reabank'';
@@ -21819,7 +21833,7 @@
         {
           path = ''Articulation Map/articulation_map_factory.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/78b9b7f01e4a129b92bc53f07c7ea562e9a3b0c3/Various/Articulation%20Map/articulation_map_factory.reabank";
-          sha256 = "";
+          sha256 = "07hagh75mhv5dzhwzclril9is1pk8dvz6xvk6kksrb307v2l657g";
         }
       ];
     };
@@ -21833,12 +21847,12 @@
         {
           path = ''Articulation Map/articulation_map.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/250aaac54a2e85422f2a11b2607eac24201a52c0/Various/Articulation%20Map/jsfx/articulation_map.jsfx";
-          sha256 = "";
+          sha256 = "0ddb5l0c7j6s2k70qhv5c0zbyrmmwmjxbv9rrsbfxg0cxp4v2lqs";
         }
         {
           path = ''Articulation Map/pre_trigger_events.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/250aaac54a2e85422f2a11b2607eac24201a52c0/Various/Articulation%20Map/jsfx/pre_trigger_events.jsfx";
-          sha256 = "";
+          sha256 = "18sg4vsfh40hpccgqrpl1r7vnar5zmjvhhpf2a2pkjl518qa64hj";
         }
         {
           path = ''zaibuyidao_articulation_map/simul-arts.txt'';
@@ -21848,12 +21862,12 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - No GUI.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/250aaac54a2e85422f2a11b2607eac24201a52c0/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20No%20GUI.lua";
-          sha256 = "1xn8mlsshqwj5vz3nsys76zrpxylqszhz5mg12d374nij4kcg2f9";
+          sha256 = "0l6g8pshmavvnfajfp9vq57h2nfwb1kjxb6gynb1pkd7nmpy4yrk";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - CC to PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/250aaac54a2e85422f2a11b2607eac24201a52c0/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20CC%20to%20PC.lua";
-          sha256 = "01fnlfqk4r1x9anbfmipll370gir77an4q6cskp2c5a2rg5k7x85";
+          sha256 = "10w9z06mp753j8xyjq8ag8yb9mgszds3rmhwqv611pf5wm4r69qq";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to CC.lua'';
@@ -21863,7 +21877,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/250aaac54a2e85422f2a11b2607eac24201a52c0/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Toggle%20PC%20to%20CC.lua";
-          sha256 = "1fglib8xmkp6yqyr3qgfk8nx1y6q9a315dkqmjy0p1vjpyk96j0x";
+          sha256 = "1qib7bhg0fid89cdfa3w8y2w6zrrrabz2z1rr3dzdjzkwp1v7pnk";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to Note.lua'';
@@ -21873,7 +21887,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Note to PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/250aaac54a2e85422f2a11b2607eac24201a52c0/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Note%20to%20PC.lua";
-          sha256 = "00kmrm4ljf1hv78df87gag8dfgvyd9qv9vwhr5ckvf4ybxcda97a";
+          sha256 = "0z10hxvyfdyjmw99xw9a62fhpl3lf1njp3his33r7402740qa9vy";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to Note.lua'';
@@ -22256,7 +22270,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to Note.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/06fe16b8f3a97ce797c39e38961b4d605597bc3e/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Toggle%20PC%20to%20Note.lua";
-          sha256 = "";
+          sha256 = "00jv64hwdj3gswjvbwxwpcgr10bdr3fm4g134l5dslb9xygnz0n4";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Note to PC.lua'';
@@ -22276,7 +22290,7 @@
         {
           path = ''Articulation Map/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/06fe16b8f3a97ce797c39e38961b4d605597bc3e/Various/Articulation%20Map/lib/config.lua";
-          sha256 = "";
+          sha256 = "0r7g1apbdq6cr9w90nf2fa0rz8brwhv14nlijh1gn03s9m2nb4b7";
         }
         {
           path = ''Articulation Map/lib/core.lua'';
@@ -22286,17 +22300,17 @@
         {
           path = ''Articulation Map/lib/gui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/06fe16b8f3a97ce797c39e38961b4d605597bc3e/Various/Articulation%20Map/lib/gui.lua";
-          sha256 = "";
+          sha256 = "16fj1zqm34m3sq4hz1yzzdc5z0wsxvzcyxv3gkwj3wrx4rj4yq9k";
         }
         {
           path = ''Articulation Map/lib/utils.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/06fe16b8f3a97ce797c39e38961b4d605597bc3e/Various/Articulation%20Map/lib/utils.lua";
-          sha256 = "";
+          sha256 = "1pblg8i35p0ymjdyx8c635zk1cznzxp3v5ypx68aznby58s55rqs";
         }
         {
           path = ''Articulation Map/banks/100-0 LASS 3 Full (CC Stack).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/06fe16b8f3a97ce797c39e38961b4d605597bc3e/Various/Articulation%20Map/banks/100-0%20LASS%203%20Full%20(CC%20Stack).reabank";
-          sha256 = "";
+          sha256 = "0m065lbnn3v37kzmph7ndil10jldvyllpkpxm7fvngy3z45g2kx5";
         }
         {
           path = ''Articulation Map/banks/67-58 Cinematic Studio Strings (UACC-58).reabank'';
@@ -22311,12 +22325,12 @@
         {
           path = ''Articulation Map/banks/70-96 Ample Metal Eclipse (金属吉他).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/06fe16b8f3a97ce797c39e38961b4d605597bc3e/Various/Articulation%20Map/banks/70-96%20Ample%20Metal%20Eclipse%20(%E9%87%91%E5%B1%9E%E5%90%89%E4%BB%96).reabank";
-          sha256 = "";
+          sha256 = "1jw8n2pj744bn1y1fc2grwhxbbbsgghc2vjadd58y0rgrrixldli";
         }
         {
           path = ''Articulation Map/banks/71-96 Ample Metal Hellrazer (九弦吉他).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/06fe16b8f3a97ce797c39e38961b4d605597bc3e/Various/Articulation%20Map/banks/71-96%20Ample%20Metal%20Hellrazer%20(%E4%B9%9D%E5%BC%A6%E5%90%89%E4%BB%96).reabank";
-          sha256 = "";
+          sha256 = "0y624rvx2ix7786lsw40yzrfmqm7fc58l4h3046amhbkr1pwp883";
         }
         {
           path = ''Articulation Map/banks/72-96 Ample Sound Erhu (二胡凝月).reabank'';
@@ -22336,7 +22350,7 @@
         {
           path = ''Articulation Map/banks/74-96 Three-Body Whisper of Loong.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/06fe16b8f3a97ce797c39e38961b4d605597bc3e/Various/Articulation%20Map/banks/74-96%20Three-Body%20Whisper%20of%20Loong.reabank";
-          sha256 = "";
+          sha256 = "056jm2as3c01rzf5f4fl25h4qzlxwbmigp4dj54d573c3kchjxi3";
         }
         {
           path = ''Articulation Map/banks/75-96 Three-Body Raindrop &amp; Blade (扬琴落英).reabank'';
@@ -22361,7 +22375,7 @@
         {
           path = ''Articulation Map/banks/Spitfire Albion 3 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/06fe16b8f3a97ce797c39e38961b4d605597bc3e/Various/Articulation%20Map/banks/Spitfire%20Albion%203%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "17zb0a4mbnca1pgwi96scp5h34i105c71490n7jprdb8c149m1nk";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion ONE (UACC-32).reabank'';
@@ -22371,12 +22385,12 @@
         {
           path = ''Articulation Map/banks/Spitfire Albion V (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/06fe16b8f3a97ce797c39e38961b4d605597bc3e/Various/Articulation%20Map/banks/Spitfire%20Albion%20V%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "1y3v5vszd30pzw8r87cb9v8gw8v0v3v6g0akl9c7j9s8fm95hjbc";
         }
         {
           path = ''Articulation Map/banks/Spitfire Chamber Strings (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/06fe16b8f3a97ce797c39e38961b4d605597bc3e/Various/Articulation%20Map/banks/Spitfire%20Chamber%20Strings%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "16bshwm26s3rcfai2hv47fdprwnr2yr81ymsh84dgfxjab2gmysi";
         }
         {
           path = ''Articulation Map/banks/Spitfire Masse (UACC-32).reabank'';
@@ -22420,7 +22434,7 @@
         {
           path = ''Articulation Map/pre_trigger_events.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/jsfx/pre_trigger_events.jsfx";
-          sha256 = "";
+          sha256 = "18sg4vsfh40hpccgqrpl1r7vnar5zmjvhhpf2a2pkjl518qa64hj";
         }
         {
           path = ''zaibuyidao_articulation_map/simul-arts.txt'';
@@ -22440,7 +22454,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20CC.lua";
-          sha256 = "";
+          sha256 = "1vqa1dx47f162pbwz3cwjc98f3klxjpflzvvz7j31d472k4br0wj";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to CC.lua'';
@@ -22460,27 +22474,27 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to Note.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20Note.lua";
-          sha256 = "";
+          sha256 = "0yxpf4mhlpybkn5y0n8iq4jzrkds0f4bnql5a141qmjad4dlm75z";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/zaibuyidao_Articulation%20Map.lua";
-          sha256 = "";
+          sha256 = "1vi4ciqsb2lbggzsk9zlgma50k4ss9rwivrl1fvhm9cla7kajana";
         }
         {
           path = ''Articulation Map/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/lib/config.lua";
-          sha256 = "";
+          sha256 = "0r7g1apbdq6cr9w90nf2fa0rz8brwhv14nlijh1gn03s9m2nb4b7";
         }
         {
           path = ''Articulation Map/lib/core.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/lib/core.lua";
-          sha256 = "";
+          sha256 = "0xq5ngkv71mwj21pjnr959g1hclym4kzmvp9vm4k8csgvqkagg62";
         }
         {
           path = ''Articulation Map/lib/gui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/lib/gui.lua";
-          sha256 = "";
+          sha256 = "16fj1zqm34m3sq4hz1yzzdc5z0wsxvzcyxv3gkwj3wrx4rj4yq9k";
         }
         {
           path = ''Articulation Map/lib/utils.lua'';
@@ -22495,17 +22509,17 @@
         {
           path = ''Articulation Map/banks/120-0 Hypersonic 2.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/banks/120-0%20Hypersonic%202.reabank";
-          sha256 = "";
+          sha256 = "16jvn87dr437f58wwzylxq7y2qxj4l830q80yvwf6594mwrq0laq";
         }
         {
           path = ''Articulation Map/banks/67-58 Cinematic Studio Strings (UACC-58).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/banks/67-58%20Cinematic%20Studio%20Strings%20(UACC-58).reabank";
-          sha256 = "";
+          sha256 = "0f1sfqkibc6g6hnx02llwg35f2dxp3h11n2pxvllzzpqm0ys00p6";
         }
         {
           path = ''Articulation Map/banks/67-96 Cinematic Studio Strings.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/banks/67-96%20Cinematic%20Studio%20Strings.reabank";
-          sha256 = "";
+          sha256 = "0yrqybndf6iihh6pcg1xpg1ls633l4s79g3r097zdzkhg2vz5srr";
         }
         {
           path = ''Articulation Map/banks/70-96 Ample Metal Eclipse (金属吉他).reabank'';
@@ -22555,12 +22569,12 @@
         {
           path = ''Articulation Map/banks/Spitfire Albion 2 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/banks/Spitfire%20Albion%202%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "12vhjsm11yd578naf74vbp5j4zya8qr109fxx30hnx5nsxd4l88g";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion 3 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/banks/Spitfire%20Albion%203%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "17zb0a4mbnca1pgwi96scp5h34i105c71490n7jprdb8c149m1nk";
         }
         {
           path = ''Articulation Map/banks/Spitfire Albion ONE (UACC-32).reabank'';
@@ -22570,12 +22584,12 @@
         {
           path = ''Articulation Map/banks/Spitfire Albion V (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/banks/Spitfire%20Albion%20V%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "1y3v5vszd30pzw8r87cb9v8gw8v0v3v6g0akl9c7j9s8fm95hjbc";
         }
         {
           path = ''Articulation Map/banks/Spitfire Chamber Strings (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/banks/Spitfire%20Chamber%20Strings%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "16bshwm26s3rcfai2hv47fdprwnr2yr81ymsh84dgfxjab2gmysi";
         }
         {
           path = ''Articulation Map/banks/Spitfire Masse (UACC-32).reabank'';
@@ -22600,7 +22614,7 @@
         {
           path = ''Articulation Map/articulation_map_factory.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/6423d4005056e4801ead65dab1b1518f12c55cc4/Various/Articulation%20Map/articulation_map_factory.reabank";
-          sha256 = "";
+          sha256 = "0rk7lir33fzd6zlx9bykr2g3xldzw9ynwnyaiqdb8blgbknr0525";
         }
       ];
     };
@@ -22619,7 +22633,7 @@
         {
           path = ''Articulation Map/pre_trigger_events.jsfx'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/jsfx/pre_trigger_events.jsfx";
-          sha256 = "";
+          sha256 = "18sg4vsfh40hpccgqrpl1r7vnar5zmjvhhpf2a2pkjl518qa64hj";
         }
         {
           path = ''zaibuyidao_articulation_map/simul-arts.txt'';
@@ -22634,7 +22648,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - CC to PC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20CC%20to%20PC.lua";
-          sha256 = "";
+          sha256 = "10w9z06mp753j8xyjq8ag8yb9mgszds3rmhwqv611pf5wm4r69qq";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to CC.lua'';
@@ -22644,12 +22658,12 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Toggle%20PC%20to%20CC.lua";
-          sha256 = "";
+          sha256 = "1qib7bhg0fid89cdfa3w8y2w6zrrrabz2z1rr3dzdjzkwp1v7pnk";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to Note.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Toggle%20PC%20to%20Note.lua";
-          sha256 = "0vlp3piwmg8lsnir5lp3j1af1310d8wv73f7xsnlvvjpx92mj2dy";
+          sha256 = "00jv64hwdj3gswjvbwxwpcgr10bdr3fm4g134l5dslb9xygnz0n4";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Note to PC.lua'';
@@ -22664,12 +22678,12 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/zaibuyidao_Articulation%20Map.lua";
-          sha256 = "";
+          sha256 = "02by3n8zj57kdxy7ggy13q9ygsq1b9qjpwl1csh04iqfh2q4g594";
         }
         {
           path = ''Articulation Map/lib/config.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/lib/config.lua";
-          sha256 = "0ix5wlf81bx6qnvm32wzky9nai52n9rqkczy8jiay53mkgmbv9pc";
+          sha256 = "0r7g1apbdq6cr9w90nf2fa0rz8brwhv14nlijh1gn03s9m2nb4b7";
         }
         {
           path = ''Articulation Map/lib/core.lua'';
@@ -22679,7 +22693,7 @@
         {
           path = ''Articulation Map/lib/gui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/lib/gui.lua";
-          sha256 = "";
+          sha256 = "16fj1zqm34m3sq4hz1yzzdc5z0wsxvzcyxv3gkwj3wrx4rj4yq9k";
         }
         {
           path = ''Articulation Map/lib/utils.lua'';
@@ -22689,12 +22703,12 @@
         {
           path = ''Articulation Map/banks/100-0 LASS 3 Full (CC Stack-0).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/100-0%20LASS%203%20Full%20(CC%20Stack-0).reabank";
-          sha256 = "03gnxrj3mpzwdh9x0fbvz97kdh77s1r5sddcbvx4gklnrir74wdz";
+          sha256 = "0kk4gcbkr1pkmg8zgyrb4hq4raa55lx5ki3jxizswnw6k5cyrjyl";
         }
         {
           path = ''Articulation Map/banks/120-0 Hypersonic 2.reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/120-0%20Hypersonic%202.reabank";
-          sha256 = "1cmk2lqaki8kgjm4mzrdp9qjiz6jhl8y5rnmb0lywwbxn4xvrv86";
+          sha256 = "16jvn87dr437f58wwzylxq7y2qxj4l830q80yvwf6594mwrq0laq";
         }
         {
           path = ''Articulation Map/banks/64-1 Spitfire Chamber Strings (UACC-32).reabank'';
@@ -22714,7 +22728,7 @@
         {
           path = ''Articulation Map/banks/65-1 Spitfire Symphonic Brass (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/65-1%20Spitfire%20Symphonic%20Brass%20(UACC-32).reabank";
-          sha256 = "0z6681pk7i4a4nmcgnyzjdkms7wdsjy22c6abb09mgv3hy7qfdni";
+          sha256 = "1jczii0sw7hqg9zgd48lrf9n40f9xdgxhinzc5py4h3pc1dxxjhg";
         }
         {
           path = ''Articulation Map/banks/66-1 Spitfire Albion 1 (UACC-32).reabank'';
@@ -22724,7 +22738,7 @@
         {
           path = ''Articulation Map/banks/66-15 Spitfire Albion ONE (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/66-15%20Spitfire%20Albion%20ONE%20(UACC-32).reabank";
-          sha256 = "1kpada2m7s222nl0lniz11aslyj8cmp8jjxbn0gsxwysiafm1a1m";
+          sha256 = "0vvssgglv4nza23596d73d7dq0jn62r7bw7mzjj9sxzk74v3xc3b";
         }
         {
           path = ''Articulation Map/banks/66-30 Spitfire Albion V (UACC-32).reabank'';
@@ -22734,7 +22748,7 @@
         {
           path = ''Articulation Map/banks/66-50 Spitfire Masse (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/66-50%20Spitfire%20Masse%20(UACC-32).reabank";
-          sha256 = "";
+          sha256 = "1fsffbwhsx8dnj2s3innrlci7r1w4plfhpbxh2dyg40jwxbk5pdf";
         }
         {
           path = ''Articulation Map/banks/66-60 Spitfire Albion 2 (UACC-32).reabank'';
@@ -22744,7 +22758,7 @@
         {
           path = ''Articulation Map/banks/66-70 Spitfire Albion 3 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/66-70%20Spitfire%20Albion%203%20(UACC-32).reabank";
-          sha256 = "0h78wc20y7wd0j625b6lzlagqjx06ginmvkw67rlkv1ryz9s343c";
+          sha256 = "1w2xqd4jb0fgbvvz4mikgsdhwazq32vfk9q9krwzkvm5jvw6l5cb";
         }
         {
           path = ''Articulation Map/banks/67-1 Cinematic Studio Strings.reabank'';
@@ -22764,7 +22778,7 @@
         {
           path = ''Articulation Map/banks/71-96 Ample Metal Hellrazer (九弦吉他).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/7a58858e694fc30ee02adf1349de1b20cdbfe03c/Various/Articulation%20Map/banks/71-96%20Ample%20Metal%20Hellrazer%20(%E4%B9%9D%E5%BC%A6%E5%90%89%E4%BB%96).reabank";
-          sha256 = "100wrwk47l612x965lkagsc5b5kynmywgblsrr3x6z5d3jqbsn5m";
+          sha256 = "13b15ng393ar0j45x0s47vvvrjcvhqxwqhn6y5a4lfylhi7kavin";
         }
         {
           path = ''Articulation Map/banks/72-96 Ample Sound Erhu (二胡凝月).reabank'';
@@ -22838,12 +22852,12 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20PC%20to%20CC.lua";
-          sha256 = "0skfz6w8spkvx87npcydiv9wgfcjnpb52ikb3c4v4hhs722jyfmq";
+          sha256 = "1vqa1dx47f162pbwz3cwjc98f3klxjpflzvvz7j31d472k4br0wj";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Toggle%20PC%20to%20CC.lua";
-          sha256 = "1fglib8xmkp6yqyr3qgfk8nx1y6q9a315dkqmjy0p1vjpyk96j0x";
+          sha256 = "1qib7bhg0fid89cdfa3w8y2w6zrrrabz2z1rr3dzdjzkwp1v7pnk";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to Note.lua'';
@@ -22878,7 +22892,7 @@
         {
           path = ''Articulation Map/lib/gui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/lib/gui.lua";
-          sha256 = "0r7snx6rzybbmllppq0hbp4ysdlfd1zn3mvn18hz8l5bblcvr2q2";
+          sha256 = "16fj1zqm34m3sq4hz1yzzdc5z0wsxvzcyxv3gkwj3wrx4rj4yq9k";
         }
         {
           path = ''Articulation Map/lib/utils.lua'';
@@ -22898,7 +22912,7 @@
         {
           path = ''Articulation Map/banks/64-1 Spitfire Chamber Strings (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/banks/64-1%20Spitfire%20Chamber%20Strings%20(UACC-32).reabank";
-          sha256 = "1pvlv99gz9z898yj07j4mq0d3fb5nhyn0fxv2pq7m9gzqdnh0i76";
+          sha256 = "00x7fgiscd1v2q4kbwcp51x3qn1rrklfsz83i0ks6j1hp7yf64bb";
         }
         {
           path = ''Articulation Map/banks/64-30 Spitfire Symphonic Strings (UACC-32).reabank'';
@@ -22943,7 +22957,7 @@
         {
           path = ''Articulation Map/banks/66-70 Spitfire Albion 3 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/396c0f563d1b4a0cdcdb08721a5698e38f7d1a4c/Various/Articulation%20Map/banks/66-70%20Spitfire%20Albion%203%20(UACC-32).reabank";
-          sha256 = "0v45gpi1nmwiy390jk8mv3n3v22n8qsysi81jz11zkcv6jjf61g2";
+          sha256 = "1nlsjv7ff7lqws3zsp2l4blij11wrd0lwbfnm593n7l56xa4yvny";
         }
         {
           path = ''Articulation Map/banks/67-1 Cinematic Studio Strings.reabank'';
@@ -23042,7 +23056,7 @@
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to CC.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/e12fe7aa76eb518dbad8e3e5567316e35cf577a2/Various/Articulation%20Map/zaibuyidao_Articulation%20Map%20-%20Toggle%20PC%20to%20CC.lua";
-          sha256 = "1fglib8xmkp6yqyr3qgfk8nx1y6q9a315dkqmjy0p1vjpyk96j0x";
+          sha256 = "1qib7bhg0fid89cdfa3w8y2w6zrrrabz2z1rr3dzdjzkwp1v7pnk";
         }
         {
           path = ''Articulation Map/zaibuyidao_Articulation Map - Toggle PC to Note.lua'';
@@ -23097,7 +23111,7 @@
         {
           path = ''Articulation Map/banks/61-1 Spitfire Albion 1 (UACC-32).reabank'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/e12fe7aa76eb518dbad8e3e5567316e35cf577a2/Various/Articulation%20Map/banks/61-1%20Spitfire%20Albion%201%20(UACC-32).reabank";
-          sha256 = "0600mlvbdrpgf0km753d5j61w7f7kk7qmcby85k1y48g1fgyxlr1";
+          sha256 = "1i4xmrzi10qqssx5kbyzzvksiwsgnsr0izy5ixgnq8lvgkr9rcf9";
         }
         {
           path = ''Articulation Map/banks/64-1 Spitfire Chamber Strings (UACC-32).reabank'';
@@ -23276,7 +23290,7 @@
         {
           path = ''Articulation Map/lib/gui.lua'';
           url = "https://github.com/zaibuyidao/ReaScripts/raw/622c766f902a2bf27adb510d3f5f09cebe0c1f93/Various/Articulation%20Map/lib/gui.lua";
-          sha256 = "0r7snx6rzybbmllppq0hbp4ysdlfd1zn3mvn18hz8l5bblcvr2q2";
+          sha256 = "16fj1zqm34m3sq4hz1yzzdc5z0wsxvzcyxv3gkwj3wrx4rj4yq9k";
         }
         {
           path = ''Articulation Map/lib/utils.lua'';

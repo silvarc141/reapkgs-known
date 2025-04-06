@@ -2290,7 +2290,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Solar_Wind.jsfx";
-          sha256 = "0il9p1bz88znlxahi8iipixzpvqxmajsgsppvxpz52p791raxqp5";
+          sha256 = "";
         }
       ];
     };
@@ -2318,7 +2318,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/ac931c5f815c559dc4a04235813564b4ca6a0707/Various/StudioSphere.jsfx";
-          sha256 = "1ili6girhcw4cys0xaj4j1lm9chslml3f5368lj73sbrc81k4qih";
+          sha256 = "";
         }
       ];
     };
@@ -2346,7 +2346,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/0a01e9723d498308910ba0723037f7e705f78c67/Various/Titan.jsfx";
-          sha256 = "1ni9bsg22nrj7qbcicgi1bq396zvlavrvkn54n82lx28fqgvbdlv";
+          sha256 = "";
         }
       ];
     };
@@ -2444,7 +2444,7 @@
         {
           path = '''';
           url = "https://github.com/chmaha/airwindows-JSFX-ports/raw/c8aa8a1ad65527ddf9b51884bc9e38e3bdb2717c/Various/WideAlchemy.jsfx";
-          sha256 = "1jzymkar7b1734hm0mnjrp3wkv489hafsmn2j5zphffsks3myfwk";
+          sha256 = "";
         }
       ];
     };

@@ -10306,12 +10306,12 @@
         {
           path = ''New Treasure S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/New%20Treasure%20S2%20(Tukan).png";
-          sha256 = "1lf0q12v0r9y0ym1n1fzflr4av51c503bcby7k9mzb76m09jp1xy";
+          sha256 = "";
         }
         {
           path = ''ABXNULL S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/ABXNULL%20S2%20(Tukan).png";
-          sha256 = "12aych8xvx85hgbz91gccr8wwnqz2m6mbijys2vnsyr8m546c9kv";
+          sha256 = "";
         }
         {
           path = ''T-EQ S2 (Tukan)'';
@@ -11830,7 +11830,7 @@
         {
           path = ''ABXNULL S2 (Tukan)'';
           url = "https://raw.githubusercontent.com/TukanStudios/TUKAN_STUDIOS_PLUGINS/main/S2GFX/ABXNULL%20S2%20(Tukan).png";
-          sha256 = "12aych8xvx85hgbz91gccr8wwnqz2m6mbijys2vnsyr8m546c9kv";
+          sha256 = "";
         }
         {
           path = ''T-EQ S2 (Tukan)'';

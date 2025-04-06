@@ -1930,12 +1930,12 @@
         {
           path = ''libraries/gui/gui_main.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38bd95948160f7e19f187013ba119c7ef9d91330/FX%20Mangler/libraries/gui/gui_main.lua";
-          sha256 = "07jhspmqiacp5q5hys5dlg2ck162iiyp9s0fd69jxk9j2yqf5sq5";
+          sha256 = "1aimfa0p31vv5397dhc9m7widdfpmi31wvpaj52b593hxp5iidfg";
         }
         {
           path = ''libraries/gui/gui_param_blacklist.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38bd95948160f7e19f187013ba119c7ef9d91330/FX%20Mangler/libraries/gui/gui_param_blacklist.lua";
-          sha256 = "1d8w299d2xncp63q8zyqmgxrb35cp5izxc9arfccbbr6187xkvq5";
+          sha256 = "";
         }
         {
           path = ''libraries/gui/gui.lua'';
@@ -1969,12 +1969,12 @@
         {
           path = ''global_sampler_libraries/sampler_settings.json'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/03ffad4b2af90283655a09ec8e06b8043685976c/Global%20Sampler/global_sampler_libraries/sampler_settings.json";
-          sha256 = "1bl8sayzj1pizjb6r71f80bfqvx9pawqg6qidq12a2iy56amapls";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/themes.json'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/03ffad4b2af90283655a09ec8e06b8043685976c/Global%20Sampler/global_sampler_libraries/themes.json";
-          sha256 = "1qlx56nh702l78p2cwhqq8m285kgjsdbd5m93qiy572rqq1zvq8b";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/wav.lua'';
@@ -2013,22 +2013,22 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6d1309a7613c83cb5917fdbd556d08ed768a169d/Global%20Sampler/BirdBird_Global%20Sampler.lua";
-          sha256 = "1ag6my59q4f86asqfwlpy8gbql1kr7x0s58k8chnq8kjddcri2ax";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/global_resampler_lib.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6d1309a7613c83cb5917fdbd556d08ed768a169d/Global%20Sampler/global_sampler_libraries/global_resampler_lib.lua";
-          sha256 = "1xzp1i1gx6a5dswk8gbwz0vni0g197vp3phzqd3kbfw0hw15d0cm";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6d1309a7613c83cb5917fdbd556d08ed768a169d/Global%20Sampler/global_sampler_libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/sampler_settings.json'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6d1309a7613c83cb5917fdbd556d08ed768a169d/Global%20Sampler/global_sampler_libraries/sampler_settings.json";
-          sha256 = "1bl8sayzj1pizjb6r71f80bfqvx9pawqg6qidq12a2iy56amapls";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/themes.json'';
@@ -2038,7 +2038,7 @@
         {
           path = ''global_sampler_libraries/wav.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6d1309a7613c83cb5917fdbd556d08ed768a169d/Global%20Sampler/global_sampler_libraries/wav.lua";
-          sha256 = "06063aj3aiylqn9jg7fp75vpwhmy0icxglb2hbb769812ifcbj01";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Sample Last Playthrough.lua'';
@@ -2048,7 +2048,7 @@
         {
           path = ''BirdBird_Sample Last X Seconds.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6d1309a7613c83cb5917fdbd556d08ed768a169d/Global%20Sampler/BirdBird_Sample%20Last%20X%20Seconds.lua";
-          sha256 = "0vihsj20rh8684rvxdnwfjhzmwizlna6nddm57j2m986s9q9nq7p";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Set Global Sampler Recording Path.lua'';
@@ -2058,7 +2058,7 @@
         {
           path = ''BirdBird_Global Sampler Recorder.jsfx'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6d1309a7613c83cb5917fdbd556d08ed768a169d/Global%20Sampler/BirdBird_Global%20Sampler%20Recorder.jsfx";
-          sha256 = "1hn5456yibw1mbamhrad69cdvz5cvkg8pp3b34cqdvq8a97dbf4d";
+          sha256 = "";
         }
       ];
     };
@@ -2082,7 +2082,7 @@
         {
           path = ''global_sampler_libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/df0c14a2bcd1a490f370bc651fd996fc5705d8bd/Global%20Sampler/global_sampler_libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "0zp3jbrqj3zf1rykgqmmn6560yvkbvgl1wd13bcagkj76qkafn8k";
         }
         {
           path = ''global_sampler_libraries/sampler_settings.json'';
@@ -2097,7 +2097,7 @@
         {
           path = ''global_sampler_libraries/wav.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/df0c14a2bcd1a490f370bc651fd996fc5705d8bd/Global%20Sampler/global_sampler_libraries/wav.lua";
-          sha256 = "06063aj3aiylqn9jg7fp75vpwhmy0icxglb2hbb769812ifcbj01";
+          sha256 = "1362v0vj4x9s3jgk68kwb99840kk0239kqs1dir6828lj7i23zlj";
         }
         {
           path = ''BirdBird_Sample Last Playthrough.lua'';
@@ -2112,7 +2112,7 @@
         {
           path = ''BirdBird_Set Global Sampler Recording Path.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/df0c14a2bcd1a490f370bc651fd996fc5705d8bd/Global%20Sampler/BirdBird_Set%20Global%20Sampler%20Recording%20Path.lua";
-          sha256 = "1bgr38wis5i5n6brrkx62gsf3j6l1hpmpkg4rqh3psc4i95fdd44";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Global Sampler Recorder.jsfx'';
@@ -2141,12 +2141,12 @@
         {
           path = ''global_sampler_libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/73e4e98190951ddbbaa9e1847e0766c510ed9763/Global%20Sampler/global_sampler_libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/themes.json'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/73e4e98190951ddbbaa9e1847e0766c510ed9763/Global%20Sampler/global_sampler_libraries/themes.json";
-          sha256 = "1qlx56nh702l78p2cwhqq8m285kgjsdbd5m93qiy572rqq1zvq8b";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/wav.lua'';
@@ -2171,7 +2171,7 @@
         {
           path = ''BirdBird_Global Sampler Recorder.jsfx'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/73e4e98190951ddbbaa9e1847e0766c510ed9763/Global%20Sampler/BirdBird_Global%20Sampler%20Recorder.jsfx";
-          sha256 = "1w5h1yw8kdp2ap6zqnq2di4pxpxf77r7vmdvq2anwn39yvzf2rpk";
+          sha256 = "";
         }
       ];
     };
@@ -2185,12 +2185,12 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/23a5b3da7afff4fc136b38ec7dbf4254414dfccc/Global%20Sampler/BirdBird_Global%20Sampler.lua";
-          sha256 = "14ck2pnzxw9slmwjxm1adi7cpbfr3a4fgprbypia45vi1rhmr5v0";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/global_resampler_lib.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/23a5b3da7afff4fc136b38ec7dbf4254414dfccc/Global%20Sampler/global_sampler_libraries/global_resampler_lib.lua";
-          sha256 = "0qimsbm99dmx39m3pms0qm1wb48gqyx17ai8pqiy8lxdk7qjyq9r";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/json.lua'';
@@ -2200,7 +2200,7 @@
         {
           path = ''global_sampler_libraries/themes.json'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/23a5b3da7afff4fc136b38ec7dbf4254414dfccc/Global%20Sampler/global_sampler_libraries/themes.json";
-          sha256 = "1qlx56nh702l78p2cwhqq8m285kgjsdbd5m93qiy572rqq1zvq8b";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Sample Last Playthrough.lua'';
@@ -2210,7 +2210,7 @@
         {
           path = ''BirdBird_Sample Last X Seconds.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/23a5b3da7afff4fc136b38ec7dbf4254414dfccc/Global%20Sampler/BirdBird_Sample%20Last%20X%20Seconds.lua";
-          sha256 = "06r9n90qjq10ydr5rf3pyv9ikzwy219l1ycaxwp7jqdyis3lydvw";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Global Sampler.jsfx'';
@@ -2229,12 +2229,12 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/5ec66ef64d851a8fd6cbbe01e10e20dd0313e9e5/Global%20Sampler/BirdBird_Global%20Sampler.lua";
-          sha256 = "1d5xy4rbggw95dxs7dc69qzpjfj2vwmki4g2kab1l8bby7c4in0d";
+          sha256 = "1fvc2bzvxjm1ayf0v8l0zdx18fvq0vgccvybp3qasf9qjmfwa8ah";
         }
         {
           path = ''global_sampler_libraries/global_resampler_lib.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/5ec66ef64d851a8fd6cbbe01e10e20dd0313e9e5/Global%20Sampler/global_sampler_libraries/global_resampler_lib.lua";
-          sha256 = "1xlgppgkwr51136vdmk7fbg5jql2j9bw1847a9wyf3z30malsnm8";
+          sha256 = "0jhxi025v93ykd4mpqxv55n1v1dx6kqdpj0i2lc8fy0kyq7112cc";
         }
         {
           path = ''global_sampler_libraries/json.lua'';
@@ -2278,7 +2278,7 @@
         {
           path = ''global_sampler_libraries/global_resampler_lib.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7468f8d8810d693b65b408b087e59a485488cd49/Global%20Sampler/global_sampler_libraries/global_resampler_lib.lua";
-          sha256 = "1xlgppgkwr51136vdmk7fbg5jql2j9bw1847a9wyf3z30malsnm8";
+          sha256 = "0jhxi025v93ykd4mpqxv55n1v1dx6kqdpj0i2lc8fy0kyq7112cc";
         }
         {
           path = ''global_sampler_libraries/json.lua'';
@@ -2293,7 +2293,7 @@
         {
           path = ''BirdBird_Sample Last Playthrough.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7468f8d8810d693b65b408b087e59a485488cd49/Global%20Sampler/BirdBird_Sample%20Last%20Playthrough.lua";
-          sha256 = "0dkpnxx62z37vk7dwb5vm5pn7fpd9x0aym0g9m41n4lqal0yiy1p";
+          sha256 = "1aw31ym6wclcwlq4ins7vysv5rrvh7gvjcv6s3jkhxh4hf7ihp2x";
         }
         {
           path = ''BirdBird_Sample Last X Seconds.lua'';
@@ -2625,7 +2625,7 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/35ba3f810934591cbfb91fc495c47867063e33f1/Global%20Sampler/BirdBird_Global%20Sampler.lua";
-          sha256 = "12v328m3b0skh75i7bfzdd02v7w4rpjrifg2h7xa7ahajhnaf671";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/global_resampler_lib.lua'';
@@ -2635,12 +2635,12 @@
         {
           path = ''global_sampler_libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/35ba3f810934591cbfb91fc495c47867063e33f1/Global%20Sampler/global_sampler_libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/themes.json'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/35ba3f810934591cbfb91fc495c47867063e33f1/Global%20Sampler/global_sampler_libraries/themes.json";
-          sha256 = "1qlx56nh702l78p2cwhqq8m285kgjsdbd5m93qiy572rqq1zvq8b";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Sample Last Playthrough.lua'';
@@ -2669,7 +2669,7 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/d27a6ce74fa5e7b6fc25d8048b56e8e4726d5457/Global%20Sampler/BirdBird_Global%20Sampler.lua";
-          sha256 = "11xgcp3w98ivh4xcxcw3alxx8x28pl09zf4dmkax5z3j4k5nymc7";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/global_resampler_lib.lua'';
@@ -2689,7 +2689,7 @@
         {
           path = ''BirdBird_Sample Last Playthrough.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/d27a6ce74fa5e7b6fc25d8048b56e8e4726d5457/Global%20Sampler/BirdBird_Sample%20Last%20Playthrough.lua";
-          sha256 = "0dkpnxx62z37vk7dwb5vm5pn7fpd9x0aym0g9m41n4lqal0yiy1p";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Sample Last X Seconds.lua'';
@@ -2718,12 +2718,12 @@
         {
           path = ''global_sampler_libraries/global_resampler_lib.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/d112c7f79d76be868a92d7cc4a029c0ce6e2399f/Global%20Sampler/global_sampler_libraries/global_resampler_lib.lua";
-          sha256 = "1hdvw90rmq7wc7c20ian2xsbmbwfmvd9d7yhw1r4k04byw5mzn6a";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/d112c7f79d76be868a92d7cc4a029c0ce6e2399f/Global%20Sampler/global_sampler_libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/themes.lua'';
@@ -2738,7 +2738,7 @@
         {
           path = ''BirdBird_Sample Last X Seconds.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/d112c7f79d76be868a92d7cc4a029c0ce6e2399f/Global%20Sampler/BirdBird_Sample%20Last%20X%20Seconds.lua";
-          sha256 = "06r9n90qjq10ydr5rf3pyv9ikzwy219l1ycaxwp7jqdyis3lydvw";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Global Sampler Theme Editor.lua'';
@@ -2762,12 +2762,12 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/e9e261d5ea29731645875e765fbace5a01f14da9/Global%20Sampler/BirdBird_Global%20Sampler.lua";
-          sha256 = "1l3xnvcqa9z3279ga32g2gmca5hg37jv96b61n454dqbi3b98d62";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/global_resampler_lib.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/e9e261d5ea29731645875e765fbace5a01f14da9/Global%20Sampler/global_sampler_libraries/global_resampler_lib.lua";
-          sha256 = "1hdvw90rmq7wc7c20ian2xsbmbwfmvd9d7yhw1r4k04byw5mzn6a";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/json.lua'';
@@ -2797,7 +2797,7 @@
         {
           path = ''BirdBird_Global Sampler.jsfx'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/e9e261d5ea29731645875e765fbace5a01f14da9/Global%20Sampler/BirdBird_Global%20Sampler.jsfx";
-          sha256 = "0b25y3m8gbqlzjbxi5nmbyk47may07nn5hs41z6i22b56n54qw32";
+          sha256 = "";
         }
       ];
     };
@@ -2816,12 +2816,12 @@
         {
           path = ''global_sampler_libraries/global_resampler_lib.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/bdf0f9f52df64268ce202e98b7a759f78dd49128/Global%20Sampler/global_sampler_libraries/global_resampler_lib.lua";
-          sha256 = "1hdvw90rmq7wc7c20ian2xsbmbwfmvd9d7yhw1r4k04byw5mzn6a";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/bdf0f9f52df64268ce202e98b7a759f78dd49128/Global%20Sampler/global_sampler_libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/themes.lua'';
@@ -2836,7 +2836,7 @@
         {
           path = ''BirdBird_Sample Last X Seconds.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/bdf0f9f52df64268ce202e98b7a759f78dd49128/Global%20Sampler/BirdBird_Sample%20Last%20X%20Seconds.lua";
-          sha256 = "06r9n90qjq10ydr5rf3pyv9ikzwy219l1ycaxwp7jqdyis3lydvw";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Global Sampler Theme Editor.lua'';
@@ -2846,7 +2846,7 @@
         {
           path = ''BirdBird_Global Sampler.jsfx'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/bdf0f9f52df64268ce202e98b7a759f78dd49128/Global%20Sampler/BirdBird_Global%20Sampler.jsfx";
-          sha256 = "0b25y3m8gbqlzjbxi5nmbyk47may07nn5hs41z6i22b56n54qw32";
+          sha256 = "";
         }
       ];
     };
@@ -2860,7 +2860,7 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/720135f00a77dc0a6c395ef76ab5dda57e608fb6/Global%20Sampler/BirdBird_Global%20Sampler.lua";
-          sha256 = "12iww903v9cklzlp8viivqzqf0skwzr5k1x8kf6jmvizsqbdzgc6";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/global_resampler_lib.lua'';
@@ -2875,27 +2875,27 @@
         {
           path = ''global_sampler_libraries/themes.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/720135f00a77dc0a6c395ef76ab5dda57e608fb6/Global%20Sampler/global_sampler_libraries/themes.lua";
-          sha256 = "06lz00aaskjw6f9l6pxlxfmlx69p8msf1nx9y6vrsxsh7wbza38z";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Sample Last Playthrough.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/720135f00a77dc0a6c395ef76ab5dda57e608fb6/Global%20Sampler/BirdBird_Sample%20Last%20Playthrough.lua";
-          sha256 = "0dkpnxx62z37vk7dwb5vm5pn7fpd9x0aym0g9m41n4lqal0yiy1p";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Sample Last X Seconds.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/720135f00a77dc0a6c395ef76ab5dda57e608fb6/Global%20Sampler/BirdBird_Sample%20Last%20X%20Seconds.lua";
-          sha256 = "06r9n90qjq10ydr5rf3pyv9ikzwy219l1ycaxwp7jqdyis3lydvw";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Global Sampler Theme Editor.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/720135f00a77dc0a6c395ef76ab5dda57e608fb6/Global%20Sampler/BirdBird_Global%20Sampler%20Theme%20Editor.lua";
-          sha256 = "05pqllmgx4s0qsj89xzfcayngrx2xg2dihcy1n18snr03yygl2hh";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Global Sampler.jsfx'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/720135f00a77dc0a6c395ef76ab5dda57e608fb6/Global%20Sampler/BirdBird_Global%20Sampler.jsfx";
-          sha256 = "0b25y3m8gbqlzjbxi5nmbyk47may07nn5hs41z6i22b56n54qw32";
+          sha256 = "";
         }
       ];
     };
@@ -2909,42 +2909,42 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/93682613e6ee28201c8d051a17cb246c3abf9cb7/Global%20Sampler/BirdBird_Global%20Sampler.lua";
-          sha256 = "0axdsqk30k20r129zi5c9zb8v0q2pjwb0vixivq9hykyxn6wwp16";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/global_resampler_lib.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/93682613e6ee28201c8d051a17cb246c3abf9cb7/Global%20Sampler/global_sampler_libraries/global_resampler_lib.lua";
-          sha256 = "0yvl595cxf0ki8dwhgsqpbni1f4skg43qg4i1fqkyj0d1dy9aclg";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/93682613e6ee28201c8d051a17cb246c3abf9cb7/Global%20Sampler/global_sampler_libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/themes.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/93682613e6ee28201c8d051a17cb246c3abf9cb7/Global%20Sampler/global_sampler_libraries/themes.lua";
-          sha256 = "06lz00aaskjw6f9l6pxlxfmlx69p8msf1nx9y6vrsxsh7wbza38z";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Sample Last Playthrough.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/93682613e6ee28201c8d051a17cb246c3abf9cb7/Global%20Sampler/BirdBird_Sample%20Last%20Playthrough.lua";
-          sha256 = "0dkpnxx62z37vk7dwb5vm5pn7fpd9x0aym0g9m41n4lqal0yiy1p";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Sample Last X Seconds.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/93682613e6ee28201c8d051a17cb246c3abf9cb7/Global%20Sampler/BirdBird_Sample%20Last%20X%20Seconds.lua";
-          sha256 = "06r9n90qjq10ydr5rf3pyv9ikzwy219l1ycaxwp7jqdyis3lydvw";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Global Sampler Theme Editor.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/93682613e6ee28201c8d051a17cb246c3abf9cb7/Global%20Sampler/BirdBird_Global%20Sampler%20Theme%20Editor.lua";
-          sha256 = "05pqllmgx4s0qsj89xzfcayngrx2xg2dihcy1n18snr03yygl2hh";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Global Sampler.jsfx'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/93682613e6ee28201c8d051a17cb246c3abf9cb7/Global%20Sampler/BirdBird_Global%20Sampler.jsfx";
-          sha256 = "0b25y3m8gbqlzjbxi5nmbyk47may07nn5hs41z6i22b56n54qw32";
+          sha256 = "";
         }
       ];
     };
@@ -2958,42 +2958,42 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/1aaffb72ba539fcb3dafecce21d09ecc2b95b4d2/Global%20Sampler/BirdBird_Global%20Sampler.lua";
-          sha256 = "0s7dlgjqrjlphkf36vxfz5pknprbrzhxqxv3bnlpbck398qj6k0d";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/global_resampler_lib.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/1aaffb72ba539fcb3dafecce21d09ecc2b95b4d2/Global%20Sampler/global_sampler_libraries/global_resampler_lib.lua";
-          sha256 = "14d0n6vsha6s0hmnq3j70xq2rw17wa2dcgqwr0csc04dgxnm6w3r";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/1aaffb72ba539fcb3dafecce21d09ecc2b95b4d2/Global%20Sampler/global_sampler_libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
         {
           path = ''global_sampler_libraries/themes.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/1aaffb72ba539fcb3dafecce21d09ecc2b95b4d2/Global%20Sampler/global_sampler_libraries/themes.lua";
-          sha256 = "06lz00aaskjw6f9l6pxlxfmlx69p8msf1nx9y6vrsxsh7wbza38z";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Sample Last Playthrough.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/1aaffb72ba539fcb3dafecce21d09ecc2b95b4d2/Global%20Sampler/BirdBird_Sample%20Last%20Playthrough.lua";
-          sha256 = "0dkpnxx62z37vk7dwb5vm5pn7fpd9x0aym0g9m41n4lqal0yiy1p";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Sample Last X Seconds.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/1aaffb72ba539fcb3dafecce21d09ecc2b95b4d2/Global%20Sampler/BirdBird_Sample%20Last%20X%20Seconds.lua";
-          sha256 = "06r9n90qjq10ydr5rf3pyv9ikzwy219l1ycaxwp7jqdyis3lydvw";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Global Sampler Theme Editor.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/1aaffb72ba539fcb3dafecce21d09ecc2b95b4d2/Global%20Sampler/BirdBird_Global%20Sampler%20Theme%20Editor.lua";
-          sha256 = "05pqllmgx4s0qsj89xzfcayngrx2xg2dihcy1n18snr03yygl2hh";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Global Sampler.jsfx'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/1aaffb72ba539fcb3dafecce21d09ecc2b95b4d2/Global%20Sampler/BirdBird_Global%20Sampler.jsfx";
-          sha256 = "096z56lqpbf8lpagr1ddg6z40rbb8r6izng8plswfx6a819f0qmy";
+          sha256 = "";
         }
       ];
     };
@@ -3007,42 +3007,42 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4c6b610111bdd8f907bf1c5526c646935aa865f1/Item%20Modifiers/BirdBird_Item%20Modifiers.lua";
-          sha256 = "1sbc1fbypmx4hkvnwl7ljdssqfpq16n3b9jmqkkg8piwscmfky2w";
+          sha256 = "";
         }
         {
           path = ''libraries/functions.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4c6b610111bdd8f907bf1c5526c646935aa865f1/Item%20Modifiers/libraries/functions.lua";
-          sha256 = "1p9asmwl527lsqp857pff5n668mdlrkmbdq4ff4ga671xk7byf73";
+          sha256 = "";
         }
         {
           path = ''libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4c6b610111bdd8f907bf1c5526c646935aa865f1/Item%20Modifiers/libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
         {
           path = ''libraries/modifiers.json'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4c6b610111bdd8f907bf1c5526c646935aa865f1/Item%20Modifiers/libraries/modifiers.json";
-          sha256 = "1qha95kwr48zwlm96hd16qnvhy31zrm53i05xx9wsskqh78hnylz";
+          sha256 = "1wg9glbqv5mzczg217j0vh8iry1jpfw2jsl80sx7xcynxfj31a2h";
         }
         {
           path = ''libraries/settings.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4c6b610111bdd8f907bf1c5526c646935aa865f1/Item%20Modifiers/libraries/settings.lua";
-          sha256 = "1d72fd0gbmzy98bqm0lbd0w4plllwpmpii61fq81xvx1kzijb3q4";
+          sha256 = "087fsbxnc71vxqi6r4wirkvh6zsy3mpv7sac0wz73kf01xccv2jw";
         }
         {
           path = ''libraries/builder_parser.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4c6b610111bdd8f907bf1c5526c646935aa865f1/Item%20Modifiers/libraries/builder_parser.lua";
-          sha256 = "1vg7ljxlgb6rw7kwipacj3hf98i0ah1pdlqr33vdjd0mf9miqi5j";
+          sha256 = "15kydcs1z6xh55my5rryvwhbzkr66fdkp0658xym1pm5q9dkasb4";
         }
         {
           path = ''libraries/command_table.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4c6b610111bdd8f907bf1c5526c646935aa865f1/Item%20Modifiers/libraries/command_table.lua";
-          sha256 = "02kgiq1hyg5ba006bsmapnf64pf0480dv48vx9qap0pjjz4bs19l";
+          sha256 = "1zwfx077l0gmkkvv78r7nnlcb7637d7y5mhv2q5v23fd2vf1132m";
         }
         {
           path = ''libraries/modifiers.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4c6b610111bdd8f907bf1c5526c646935aa865f1/Item%20Modifiers/libraries/modifiers.lua";
-          sha256 = "1i0gdq5pcfbmnyvrgzm565fx9m8f3851jlhhawysp13wih90qc1z";
+          sha256 = "";
         }
         {
           path = ''libraries/modifier_stacks.lua'';
@@ -3057,17 +3057,17 @@
         {
           path = ''libraries/gui/gui.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4c6b610111bdd8f907bf1c5526c646935aa865f1/Item%20Modifiers/libraries/gui/gui.lua";
-          sha256 = "1cvm6669lb8rf3f6rnsrly1m9f4wz1y8fg024lqra690q9rqmhk3";
+          sha256 = "";
         }
         {
           path = ''libraries/gui/gui_common.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4c6b610111bdd8f907bf1c5526c646935aa865f1/Item%20Modifiers/libraries/gui/gui_common.lua";
-          sha256 = "0dq1bm9vc4aldlxxa7cjah5nz91vcm4v6818nibw3l9c1f69g2dg";
+          sha256 = "";
         }
         {
           path = ''libraries/gui/gui_builder.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4c6b610111bdd8f907bf1c5526c646935aa865f1/Item%20Modifiers/libraries/gui/gui_builder.lua";
-          sha256 = "04a8h9bzsdr7pxqqgg9b0c0si6c15l4szwd51waa7h5m1fi4l869";
+          sha256 = "";
         }
         {
           path = ''libraries/user_files/generated_scripts/example.lua'';
@@ -3131,7 +3131,7 @@
         {
           path = ''libraries/modifiers.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6233634d1194cb6070c8ec3d39323a6d4709f106/Item%20Modifiers/libraries/modifiers.lua";
-          sha256 = "1i0gdq5pcfbmnyvrgzm565fx9m8f3851jlhhawysp13wih90qc1z";
+          sha256 = "";
         }
         {
           path = ''libraries/modifier_stacks.lua'';
@@ -3141,7 +3141,7 @@
         {
           path = ''libraries/gui/gui_main.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6233634d1194cb6070c8ec3d39323a6d4709f106/Item%20Modifiers/libraries/gui/gui_main.lua";
-          sha256 = "1zki756f7fcgfm71rlpirr7bmpbpdlxfi3rflfgb8w15j7i77fzj";
+          sha256 = "";
         }
         {
           path = ''libraries/gui/gui.lua'';
@@ -3161,12 +3161,12 @@
         {
           path = ''libraries/user_files/generated_scripts/example.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6233634d1194cb6070c8ec3d39323a6d4709f106/Item%20Modifiers/libraries/user_files/generated_scripts/example.lua";
-          sha256 = "0a78p4vq8hs72dkbz1cc3g3w4gsspj51kjfgaykw16bcm4pvh47k";
+          sha256 = "";
         }
         {
           path = ''libraries/user_files/modifier_stacks/Beat Chopper Stutter.modstk'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6233634d1194cb6070c8ec3d39323a6d4709f106/Item%20Modifiers/libraries/user_files/modifier_stacks/Beat%20Chopper%20Stutter.modstk";
-          sha256 = "1xxaac0i1dan3yiyyf623qlv60dh2jv82hdvc2i4h4r7rdvgny9y";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Item Modifier Builder.lua'';
@@ -3185,7 +3185,7 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7c769778caa6af6ee76375d532e755dc2f897700/Item%20Modifiers/BirdBird_Item%20Modifiers.lua";
-          sha256 = "0qnxszx8jyhkc1mndfgw4d3cw9vadj2cspq4iwzysp31ill6dyhb";
+          sha256 = "";
         }
         {
           path = ''libraries/functions.lua'';
@@ -3195,12 +3195,12 @@
         {
           path = ''libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7c769778caa6af6ee76375d532e755dc2f897700/Item%20Modifiers/libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
         {
           path = ''libraries/modifiers.json'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7c769778caa6af6ee76375d532e755dc2f897700/Item%20Modifiers/libraries/modifiers.json";
-          sha256 = "1qha95kwr48zwlm96hd16qnvhy31zrm53i05xx9wsskqh78hnylz";
+          sha256 = "";
         }
         {
           path = ''libraries/settings.lua'';
@@ -3215,12 +3215,12 @@
         {
           path = ''libraries/command_table.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7c769778caa6af6ee76375d532e755dc2f897700/Item%20Modifiers/libraries/command_table.lua";
-          sha256 = "02kgiq1hyg5ba006bsmapnf64pf0480dv48vx9qap0pjjz4bs19l";
+          sha256 = "";
         }
         {
           path = ''libraries/modifiers.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7c769778caa6af6ee76375d532e755dc2f897700/Item%20Modifiers/libraries/modifiers.lua";
-          sha256 = "1i0gdq5pcfbmnyvrgzm565fx9m8f3851jlhhawysp13wih90qc1z";
+          sha256 = "";
         }
         {
           path = ''libraries/modifier_stacks.lua'';
@@ -3235,12 +3235,12 @@
         {
           path = ''libraries/gui/gui.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7c769778caa6af6ee76375d532e755dc2f897700/Item%20Modifiers/libraries/gui/gui.lua";
-          sha256 = "1cvm6669lb8rf3f6rnsrly1m9f4wz1y8fg024lqra690q9rqmhk3";
+          sha256 = "";
         }
         {
           path = ''libraries/gui/gui_common.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7c769778caa6af6ee76375d532e755dc2f897700/Item%20Modifiers/libraries/gui/gui_common.lua";
-          sha256 = "1qm7k4pi4sz905zkhw0dnvkmirbbbkda52hk89day4d6i7j1s4g6";
+          sha256 = "";
         }
         {
           path = ''libraries/gui/gui_builder.lua'';
@@ -3250,7 +3250,7 @@
         {
           path = ''libraries/drawing/drawlist_API.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7c769778caa6af6ee76375d532e755dc2f897700/Item%20Modifiers/libraries/drawing/drawlist_API.lua";
-          sha256 = "1xla32wmbwy4sag3nmfqnyr0sw7767srakdpqcfwrgys3zf1hsyd";
+          sha256 = "";
         }
         {
           path = ''libraries/drawing/waveform_peaks.lua'';
@@ -3310,7 +3310,7 @@
         {
           path = ''libraries/functional_console/validation.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7c769778caa6af6ee76375d532e755dc2f897700/Item%20Modifiers/libraries/functional_console/validation.lua";
-          sha256 = "02c1a3dmffi9mir5v1pa3d6mkx7lzsspjrv36wl8g6r14a5bcdap";
+          sha256 = "";
         }
         {
           path = ''libraries/functional_console/user_files/user_files.txt'';
@@ -3329,7 +3329,7 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38c33da1283bc019aedd537f9c1ec1096f9f5ffa/Item%20Modifiers/BirdBird_Item%20Modifiers.lua";
-          sha256 = "1nnkhibz3xz8494fsf4h69hxk2lbmh5382rc36hhqvzlrmsvj6aj";
+          sha256 = "";
         }
         {
           path = ''libraries/functions.lua'';
@@ -3349,7 +3349,7 @@
         {
           path = ''libraries/settings.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38c33da1283bc019aedd537f9c1ec1096f9f5ffa/Item%20Modifiers/libraries/settings.lua";
-          sha256 = "1d72fd0gbmzy98bqm0lbd0w4plllwpmpii61fq81xvx1kzijb3q4";
+          sha256 = "";
         }
         {
           path = ''libraries/builder_parser.lua'';
@@ -3384,7 +3384,7 @@
         {
           path = ''libraries/gui/gui_common.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38c33da1283bc019aedd537f9c1ec1096f9f5ffa/Item%20Modifiers/libraries/gui/gui_common.lua";
-          sha256 = "1qm7k4pi4sz905zkhw0dnvkmirbbbkda52hk89day4d6i7j1s4g6";
+          sha256 = "";
         }
         {
           path = ''libraries/gui/gui_builder.lua'';
@@ -3394,17 +3394,17 @@
         {
           path = ''libraries/drawing/drawlist_API.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38c33da1283bc019aedd537f9c1ec1096f9f5ffa/Item%20Modifiers/libraries/drawing/drawlist_API.lua";
-          sha256 = "1xla32wmbwy4sag3nmfqnyr0sw7767srakdpqcfwrgys3zf1hsyd";
+          sha256 = "";
         }
         {
           path = ''libraries/drawing/waveform_peaks.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38c33da1283bc019aedd537f9c1ec1096f9f5ffa/Item%20Modifiers/libraries/drawing/waveform_peaks.lua";
-          sha256 = "04gfrrg3iny58ggzzwp1lk3ky8scl6wcy7yl7p9j3bfyk8qi2lm3";
+          sha256 = "";
         }
         {
           path = ''libraries/user_files/generated_scripts/example.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38c33da1283bc019aedd537f9c1ec1096f9f5ffa/Item%20Modifiers/libraries/user_files/generated_scripts/example.lua";
-          sha256 = "0a78p4vq8hs72dkbz1cc3g3w4gsspj51kjfgaykw16bcm4pvh47k";
+          sha256 = "";
         }
         {
           path = ''libraries/user_files/modifier_stacks/Beat Chopper Stutter.modstk'';
@@ -3414,22 +3414,22 @@
         {
           path = ''BirdBird_Item Modifier Builder.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38c33da1283bc019aedd537f9c1ec1096f9f5ffa/Item%20Modifiers/BirdBird_Item%20Modifier%20Builder.lua";
-          sha256 = "1xgkg38mvl55766rmdzlar43aysiq5zyizzn4zdmxs4ci0cqvv8n";
+          sha256 = "";
         }
         {
           path = ''libraries/functional_console/base.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38c33da1283bc019aedd537f9c1ec1096f9f5ffa/Item%20Modifiers/libraries/functional_console/base.lua";
-          sha256 = "1816x2287mb06rpfd2fvdnc7nl7r7hqga69lv7m7fav46116lbq3";
+          sha256 = "";
         }
         {
           path = ''libraries/functional_console/basic_commands.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38c33da1283bc019aedd537f9c1ec1096f9f5ffa/Item%20Modifiers/libraries/functional_console/basic_commands.lua";
-          sha256 = "0wppra0fgawyjszvxpci2nlkbw7s1zaxv86i6xj9fr9pri312ffn";
+          sha256 = "";
         }
         {
           path = ''libraries/functional_console/functions.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38c33da1283bc019aedd537f9c1ec1096f9f5ffa/Item%20Modifiers/libraries/functional_console/functions.lua";
-          sha256 = "0p5h3ydgp19lkciy9pqqin7mdsh7lfm4646mwhsqviaqfc3ss7yb";
+          sha256 = "";
         }
         {
           path = ''libraries/functional_console/item_data.lua'';
@@ -3439,7 +3439,7 @@
         {
           path = ''libraries/functional_console/macro_library.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38c33da1283bc019aedd537f9c1ec1096f9f5ffa/Item%20Modifiers/libraries/functional_console/macro_library.lua";
-          sha256 = "13m66bi6ragn4d4590yfr8fdyd8c5104lcg9bixlwm28z1ki019k";
+          sha256 = "";
         }
         {
           path = ''libraries/functional_console/random.lua'';
@@ -3449,17 +3449,17 @@
         {
           path = ''libraries/functional_console/state.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38c33da1283bc019aedd537f9c1ec1096f9f5ffa/Item%20Modifiers/libraries/functional_console/state.lua";
-          sha256 = "0d4vr02ianim411jdbfpx45ygfi4wgijxnzya4bly9ag94n2pcgb";
+          sha256 = "";
         }
         {
           path = ''libraries/functional_console/validation.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38c33da1283bc019aedd537f9c1ec1096f9f5ffa/Item%20Modifiers/libraries/functional_console/validation.lua";
-          sha256 = "02c1a3dmffi9mir5v1pa3d6mkx7lzsspjrv36wl8g6r14a5bcdap";
+          sha256 = "";
         }
         {
           path = ''libraries/functional_console/user_files/user_files.txt'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/38c33da1283bc019aedd537f9c1ec1096f9f5ffa/Item%20Modifiers/libraries/functional_console/user_files/user_files.txt";
-          sha256 = "1z5yvs4cb1xcq07nh2m2rgh2zw6qgq17s0z24zkrs601l0sjxb1q";
+          sha256 = "";
         }
       ];
     };
@@ -3473,17 +3473,17 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/690032051b62a5f4933baf2319fee5bb29c97d61/Item%20Modifiers/BirdBird_Item%20Modifiers.lua";
-          sha256 = "15ay0p13xyl54jmgli0ii4i0l22a1m6sfhbmffkr2x6czaywii7y";
+          sha256 = "";
         }
         {
           path = ''libraries/functions.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/690032051b62a5f4933baf2319fee5bb29c97d61/Item%20Modifiers/libraries/functions.lua";
-          sha256 = "02mli3bh0jbyaqvz6vnqzhaqk3ydcxrma04832wd9ajb63ndpxkh";
+          sha256 = "";
         }
         {
           path = ''libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/690032051b62a5f4933baf2319fee5bb29c97d61/Item%20Modifiers/libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
         {
           path = ''libraries/modifiers.json'';
@@ -3503,7 +3503,7 @@
         {
           path = ''libraries/command_table.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/690032051b62a5f4933baf2319fee5bb29c97d61/Item%20Modifiers/libraries/command_table.lua";
-          sha256 = "02kgiq1hyg5ba006bsmapnf64pf0480dv48vx9qap0pjjz4bs19l";
+          sha256 = "";
         }
         {
           path = ''libraries/modifiers.lua'';
@@ -3523,7 +3523,7 @@
         {
           path = ''libraries/gui/gui.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/690032051b62a5f4933baf2319fee5bb29c97d61/Item%20Modifiers/libraries/gui/gui.lua";
-          sha256 = "1cvm6669lb8rf3f6rnsrly1m9f4wz1y8fg024lqra690q9rqmhk3";
+          sha256 = "";
         }
         {
           path = ''libraries/gui/gui_common.lua'';
@@ -3538,7 +3538,7 @@
         {
           path = ''libraries/drawing/drawlist_API.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/690032051b62a5f4933baf2319fee5bb29c97d61/Item%20Modifiers/libraries/drawing/drawlist_API.lua";
-          sha256 = "1xla32wmbwy4sag3nmfqnyr0sw7767srakdpqcfwrgys3zf1hsyd";
+          sha256 = "";
         }
         {
           path = ''libraries/drawing/waveform_peaks.lua'';
@@ -3558,17 +3558,17 @@
         {
           path = ''BirdBird_Item Modifier Builder.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/690032051b62a5f4933baf2319fee5bb29c97d61/Item%20Modifiers/BirdBird_Item%20Modifier%20Builder.lua";
-          sha256 = "1xgkg38mvl55766rmdzlar43aysiq5zyizzn4zdmxs4ci0cqvv8n";
+          sha256 = "";
         }
         {
           path = ''libraries/functional_console/base.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/690032051b62a5f4933baf2319fee5bb29c97d61/Item%20Modifiers/libraries/functional_console/base.lua";
-          sha256 = "1816x2287mb06rpfd2fvdnc7nl7r7hqga69lv7m7fav46116lbq3";
+          sha256 = "";
         }
         {
           path = ''libraries/functional_console/basic_commands.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/690032051b62a5f4933baf2319fee5bb29c97d61/Item%20Modifiers/libraries/functional_console/basic_commands.lua";
-          sha256 = "0wppra0fgawyjszvxpci2nlkbw7s1zaxv86i6xj9fr9pri312ffn";
+          sha256 = "";
         }
         {
           path = ''libraries/functional_console/functions.lua'';
@@ -3583,12 +3583,12 @@
         {
           path = ''libraries/functional_console/macro_library.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/690032051b62a5f4933baf2319fee5bb29c97d61/Item%20Modifiers/libraries/functional_console/macro_library.lua";
-          sha256 = "13m66bi6ragn4d4590yfr8fdyd8c5104lcg9bixlwm28z1ki019k";
+          sha256 = "";
         }
         {
           path = ''libraries/functional_console/random.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/690032051b62a5f4933baf2319fee5bb29c97d61/Item%20Modifiers/libraries/functional_console/random.lua";
-          sha256 = "0byriphwsryavy9rkrmwvhrpfarr85rwmwjnvp79pr25lmr82h3k";
+          sha256 = "";
         }
         {
           path = ''libraries/functional_console/state.lua'';
@@ -3617,7 +3617,7 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/0e7098557129fbdf5292edce11cc79cca74c5d12/Item%20Modifiers/BirdBird_Item%20Modifiers.lua";
-          sha256 = "11z43g3nshnx5294i4rjgvk81lxc5yd188r15slyn12f1s1gxcvz";
+          sha256 = "";
         }
         {
           path = ''libraries/functions.lua'';
@@ -3642,7 +3642,7 @@
         {
           path = ''libraries/builder_parser.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/0e7098557129fbdf5292edce11cc79cca74c5d12/Item%20Modifiers/libraries/builder_parser.lua";
-          sha256 = "1vg7ljxlgb6rw7kwipacj3hf98i0ah1pdlqr33vdjd0mf9miqi5j";
+          sha256 = "15kydcs1z6xh55my5rryvwhbzkr66fdkp0658xym1pm5q9dkasb4";
         }
         {
           path = ''libraries/command_table.lua'';
@@ -3652,7 +3652,7 @@
         {
           path = ''libraries/modifiers.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/0e7098557129fbdf5292edce11cc79cca74c5d12/Item%20Modifiers/libraries/modifiers.lua";
-          sha256 = "1i0gdq5pcfbmnyvrgzm565fx9m8f3851jlhhawysp13wih90qc1z";
+          sha256 = "084ra7q6ffywfxbnisbahxwcjrqghsdnbs63jjip74mm6y48fqq0";
         }
         {
           path = ''libraries/modifier_stacks.lua'';
@@ -3677,12 +3677,12 @@
         {
           path = ''libraries/gui/gui_builder.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/0e7098557129fbdf5292edce11cc79cca74c5d12/Item%20Modifiers/libraries/gui/gui_builder.lua";
-          sha256 = "04a8h9bzsdr7pxqqgg9b0c0si6c15l4szwd51waa7h5m1fi4l869";
+          sha256 = "0y1c3kiyiw6pify06lfkb543faw2j44jfq7q1gc7p955653qfj82";
         }
         {
           path = ''libraries/drawing/drawlist_API.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/0e7098557129fbdf5292edce11cc79cca74c5d12/Item%20Modifiers/libraries/drawing/drawlist_API.lua";
-          sha256 = "1xla32wmbwy4sag3nmfqnyr0sw7767srakdpqcfwrgys3zf1hsyd";
+          sha256 = "1vql1693mlzyqqbjqap1i4a4d2z6iydgdp8gbq4dlswf8m76kcx1";
         }
         {
           path = ''libraries/drawing/waveform_peaks.lua'';
@@ -5210,12 +5210,12 @@
         {
           path = ''resources/JetBrainsMono-Medium.ttf'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/resources/JetBrainsMono-Medium.ttf";
-          sha256 = "0s7lqq80x18dr8kfhmvzx5y993f780w19mmy7c7syva7mz0n13w3";
+          sha256 = "";
         }
         {
           path = ''tab_sets/_tab_sets.txt'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/tab_sets/_tab_sets.txt";
-          sha256 = "1z5yvs4cb1xcq07nh2m2rgh2zw6qgq17s0z24zkrs601l0sjxb1q";
+          sha256 = "";
         }
       ];
     };
@@ -5229,7 +5229,7 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4fe5ef18b896d1fa3769f42fa4294157d36104ec/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20Settings.lua";
-          sha256 = "1rhly1052mip5dlh61296k0k447snavdi4main6gxj54mskkg4az";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility Toolbar.lua'';
@@ -5249,7 +5249,7 @@
         {
           path = ''preset_selection/BirdBird_Razor Edit Utility - Select Preset 1.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4fe5ef18b896d1fa3769f42fa4294157d36104ec/Razor%20Edit%20Utility/preset_selection/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%201.lua";
-          sha256 = "1l2hg6k8s39s9hl7xxclrcbk4564kgh0hq1ljv4w346xsgca4h4m";
+          sha256 = "";
         }
         {
           path = ''preset_selection/BirdBird_Razor Edit Utility - Select Preset 2.lua'';
@@ -5259,17 +5259,17 @@
         {
           path = ''preset_selection/BirdBird_Razor Edit Utility - Select Preset 3.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4fe5ef18b896d1fa3769f42fa4294157d36104ec/Razor%20Edit%20Utility/preset_selection/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%203.lua";
-          sha256 = "0q8vd2kjpi7dm17mb37sw43irn0qnsd55a4xx1y63g3ja7y45fq7";
+          sha256 = "";
         }
         {
           path = ''preset_selection/BirdBird_Razor Edit Utility - Select Preset 4.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4fe5ef18b896d1fa3769f42fa4294157d36104ec/Razor%20Edit%20Utility/preset_selection/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%204.lua";
-          sha256 = "0zhnwx8gzb7nw6b312sj1j6fv6qj1szdnjk2r1dmi2zca8vg9lqj";
+          sha256 = "";
         }
         {
           path = ''preset_selection/BirdBird_Razor Edit Utility - Select Preset 5.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4fe5ef18b896d1fa3769f42fa4294157d36104ec/Razor%20Edit%20Utility/preset_selection/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%205.lua";
-          sha256 = "1gdxi3dwrdqbwh406czs2svpxqc6a07cpdgvghpbzhd3g8gq39s5";
+          sha256 = "";
         }
         {
           path = ''libraries/functions.lua'';
@@ -5279,7 +5279,7 @@
         {
           path = ''libraries/gmem.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4fe5ef18b896d1fa3769f42fa4294157d36104ec/Razor%20Edit%20Utility/libraries/gmem.lua";
-          sha256 = "01sm81fjc1f38zfsn5yh9nari69yf85jxi0i5nci04q7z2gkccrm";
+          sha256 = "";
         }
         {
           path = ''libraries/gui_main.lua'';
@@ -5299,12 +5299,12 @@
         {
           path = ''libraries/items.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4fe5ef18b896d1fa3769f42fa4294157d36104ec/Razor%20Edit%20Utility/libraries/items.lua";
-          sha256 = "101yjdm5w210vvfbgnfqd0srl4yyriqqpkkpv9al8h4ikvznwmvh";
+          sha256 = "";
         }
         {
           path = ''libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/4fe5ef18b896d1fa3769f42fa4294157d36104ec/Razor%20Edit%20Utility/libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "0zp3jbrqj3zf1rykgqmmn6560yvkbvgl1wd13bcagkj76qkafn8k";
         }
         {
           path = ''libraries/razor.lua'';
@@ -5338,7 +5338,7 @@
         {
           path = ''BirdBird_Razor Edit Utility Toolbar.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/2628efcec1188c4b44bf0fd5d168e343db2c4c58/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20Toolbar.lua";
-          sha256 = "0q3kwnlksfnsayjpjlk9pxlm9bx72fykxbj7ja375bn4y3z096yw";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Comp to selected track.lua'';
@@ -5393,7 +5393,7 @@
         {
           path = ''libraries/gui_toolbar.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/2628efcec1188c4b44bf0fd5d168e343db2c4c58/Razor%20Edit%20Utility/libraries/gui_toolbar.lua";
-          sha256 = "1nr8882gb49j83012hafijvif8h91v93dgcld6c2768m03mmrfqx";
+          sha256 = "";
         }
         {
           path = ''libraries/gui.lua'';
@@ -5423,7 +5423,7 @@
         {
           path = ''libraries/user_files/user_files.txt'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/2628efcec1188c4b44bf0fd5d168e343db2c4c58/Razor%20Edit%20Utility/libraries/user_files/user_files.txt";
-          sha256 = "1z5yvs4cb1xcq07nh2m2rgh2zw6qgq17s0z24zkrs601l0sjxb1q";
+          sha256 = "";
         }
       ];
     };
@@ -5442,7 +5442,7 @@
         {
           path = ''BirdBird_Razor Edit Utility Toolbar.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cdaa360cae46c24ed7b5d701fc926c8dfccf83a6/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20Toolbar.lua";
-          sha256 = "133jijy6spg5cyndpzgkk1ksi142ndmikygzjg7ka5vjf3xmzg9y";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Comp to selected track.lua'';
@@ -5477,7 +5477,7 @@
         {
           path = ''preset_selection/BirdBird_Razor Edit Utility - Select Preset 5.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cdaa360cae46c24ed7b5d701fc926c8dfccf83a6/Razor%20Edit%20Utility/preset_selection/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%205.lua";
-          sha256 = "1gdxi3dwrdqbwh406czs2svpxqc6a07cpdgvghpbzhd3g8gq39s5";
+          sha256 = "0f77mp9hf5qa0jisp8v40193bb74hi7rxdv9jhg12dh56pc1hc6f";
         }
         {
           path = ''libraries/functions.lua'';
@@ -5487,7 +5487,7 @@
         {
           path = ''libraries/gmem.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cdaa360cae46c24ed7b5d701fc926c8dfccf83a6/Razor%20Edit%20Utility/libraries/gmem.lua";
-          sha256 = "01sm81fjc1f38zfsn5yh9nari69yf85jxi0i5nci04q7z2gkccrm";
+          sha256 = "";
         }
         {
           path = ''libraries/gui_main.lua'';
@@ -5502,7 +5502,7 @@
         {
           path = ''libraries/gui.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cdaa360cae46c24ed7b5d701fc926c8dfccf83a6/Razor%20Edit%20Utility/libraries/gui.lua";
-          sha256 = "0r7hd2nnwjfw440kk8dnb7lg9k1h1pzg17y3ajc19kadgly7p4dk";
+          sha256 = "0kxyaqw16faqvx2k40dxx1saxw3n09zgckqk9i88mjrxsc3qs426";
         }
         {
           path = ''libraries/items.lua'';
@@ -5527,7 +5527,7 @@
         {
           path = ''libraries/user_files/user_files.txt'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cdaa360cae46c24ed7b5d701fc926c8dfccf83a6/Razor%20Edit%20Utility/libraries/user_files/user_files.txt";
-          sha256 = "1z5yvs4cb1xcq07nh2m2rgh2zw6qgq17s0z24zkrs601l0sjxb1q";
+          sha256 = "1kqf8v51d6lmbp9gzx3iy18qsy76n9d4hirpap06n8zyhsa9ddla";
         }
       ];
     };
@@ -5546,7 +5546,7 @@
         {
           path = ''BirdBird_Razor Edit Utility Toolbar.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7bd9be284f9417f92a7682d06711d503b384db6b/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20Toolbar.lua";
-          sha256 = "133jijy6spg5cyndpzgkk1ksi142ndmikygzjg7ka5vjf3xmzg9y";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Comp to selected track.lua'';
@@ -5601,7 +5601,7 @@
         {
           path = ''libraries/gui_toolbar.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7bd9be284f9417f92a7682d06711d503b384db6b/Razor%20Edit%20Utility/libraries/gui_toolbar.lua";
-          sha256 = "1nr8882gb49j83012hafijvif8h91v93dgcld6c2768m03mmrfqx";
+          sha256 = "0y1rx87jmp7zn9q5cdi48izp8fscdsql3biih8lah244cql1l04q";
         }
         {
           path = ''libraries/gui.lua'';
@@ -5626,7 +5626,7 @@
         {
           path = ''libraries/settings.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7bd9be284f9417f92a7682d06711d503b384db6b/Razor%20Edit%20Utility/libraries/settings.lua";
-          sha256 = "18ch9g0ihjf1jhdwm7s8m19h28wryk1kdc71fy0zp50zw3rbbzzi";
+          sha256 = "0i3h6pj40lsv8m05xs8kcsk7fk0kz66sv45zzhpcf67d1l9paq8z";
         }
         {
           path = ''libraries/user_files/user_files.txt'';
@@ -5660,7 +5660,7 @@
         {
           path = ''BirdBird_Razor Edit Utility.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/d379b7e6e745b2982ed708d849c1df98474d65ce/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility.lua";
-          sha256 = "1mbwyi6b46w0fh0w7i4igikm2ga3qpdd37v7fzk5df6iidbdj1h5";
+          sha256 = "0sw1hbq7wc4g3ry918mjqgkf23zganb36kd08nfgw544ymmy1ad1";
         }
         {
           path = ''preset_selection/BirdBird_Razor Edit Utility - Select Preset 1.lua'';
@@ -5675,7 +5675,7 @@
         {
           path = ''preset_selection/BirdBird_Razor Edit Utility - Select Preset 3.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/d379b7e6e745b2982ed708d849c1df98474d65ce/Razor%20Edit%20Utility/preset_selection/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%203.lua";
-          sha256 = "0q8vd2kjpi7dm17mb37sw43irn0qnsd55a4xx1y63g3ja7y45fq7";
+          sha256 = "00r51bx79b26qppbac5k3ak2s1a55wldcz56djvxx9rk3aajap8y";
         }
         {
           path = ''preset_selection/BirdBird_Razor Edit Utility - Select Preset 4.lua'';
@@ -6890,7 +6890,7 @@
         {
           path = ''BirdBird_Razor Edit Utility - Move razor edits up by one track.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/2b3e4db583a7634799931c33362aa99b1c19ff8f/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Move%20razor%20edits%20up%20by%20one%20track.lua";
-          sha256 = "1j4iisw5pcqxilzr50nz6wlw90xqh5g1k1zyzpq0mjj1mh647m0r";
+          sha256 = "";
         }
         {
           path = ''libraries/functions.lua'';
@@ -6910,7 +6910,7 @@
         {
           path = ''libraries/gui_toolbar.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/2b3e4db583a7634799931c33362aa99b1c19ff8f/Razor%20Edit%20Utility/libraries/gui_toolbar.lua";
-          sha256 = "1gkdj54bl3ia717snyxp4ih5m7g944njp1653rigynrzfaai79jd";
+          sha256 = "";
         }
         {
           path = ''libraries/actions_list.lua'';
@@ -6945,12 +6945,12 @@
         {
           path = ''libraries/settings.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/2b3e4db583a7634799931c33362aa99b1c19ff8f/Razor%20Edit%20Utility/libraries/settings.lua";
-          sha256 = "1iyh4xpxig96i5qv7j6zb9l8f6al20msr5ddd4lh8dcg5f0yyj47";
+          sha256 = "";
         }
         {
           path = ''libraries/user_files/user_files.txt'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/2b3e4db583a7634799931c33362aa99b1c19ff8f/Razor%20Edit%20Utility/libraries/user_files/user_files.txt";
-          sha256 = "1z5yvs4cb1xcq07nh2m2rgh2zw6qgq17s0z24zkrs601l0sjxb1q";
+          sha256 = "";
         }
       ];
     };
@@ -6999,12 +6999,12 @@
         {
           path = ''BirdBird_Razor Edit Utility - Select Preset 3.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6873ea0f96605475015b81c396c90eccdc1a9a32/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%203.lua";
-          sha256 = "0q8vd2kjpi7dm17mb37sw43irn0qnsd55a4xx1y63g3ja7y45fq7";
+          sha256 = "00r51bx79b26qppbac5k3ak2s1a55wldcz56djvxx9rk3aajap8y";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Select Preset 4.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6873ea0f96605475015b81c396c90eccdc1a9a32/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%204.lua";
-          sha256 = "0zhnwx8gzb7nw6b312sj1j6fv6qj1szdnjk2r1dmi2zca8vg9lqj";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Select Preset 5.lua'';
@@ -7019,7 +7019,7 @@
         {
           path = ''BirdBird_Razor Edit Utility - Move razor edits up by one track.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6873ea0f96605475015b81c396c90eccdc1a9a32/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Move%20razor%20edits%20up%20by%20one%20track.lua";
-          sha256 = "1j4iisw5pcqxilzr50nz6wlw90xqh5g1k1zyzpq0mjj1mh647m0r";
+          sha256 = "";
         }
         {
           path = ''libraries/functions.lua'';
@@ -7029,27 +7029,27 @@
         {
           path = ''libraries/gmem.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6873ea0f96605475015b81c396c90eccdc1a9a32/Razor%20Edit%20Utility/libraries/gmem.lua";
-          sha256 = "1yzng06y85ps62q3pz8z9hcnfyl5xsqf3by9rbanpl6ak0jm4h45";
+          sha256 = "1046c3l61cwqjgh38w7r3v25k8c67nmp1r63h6sjy47n72qnn6d1";
         }
         {
           path = ''libraries/gui_main.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6873ea0f96605475015b81c396c90eccdc1a9a32/Razor%20Edit%20Utility/libraries/gui_main.lua";
-          sha256 = "0jk4kmcv925w1cwzmahx1lmi9v10arngf2paqj5bdf1yvjhkklpr";
+          sha256 = "";
         }
         {
           path = ''libraries/gui_toolbar.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6873ea0f96605475015b81c396c90eccdc1a9a32/Razor%20Edit%20Utility/libraries/gui_toolbar.lua";
-          sha256 = "1gkdj54bl3ia717snyxp4ih5m7g944njp1653rigynrzfaai79jd";
+          sha256 = "";
         }
         {
           path = ''libraries/actions_list.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6873ea0f96605475015b81c396c90eccdc1a9a32/Razor%20Edit%20Utility/libraries/actions_list.lua";
-          sha256 = "13dlq8zcaaa8q0638jf6i42y80ffjj7gxn9a5ss56hhhy3d63482";
+          sha256 = "";
         }
         {
           path = ''libraries/comping.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6873ea0f96605475015b81c396c90eccdc1a9a32/Razor%20Edit%20Utility/libraries/comping.lua";
-          sha256 = "1s51md3rcvf68x1nvcrjkj5jbrfxz85fiw5lbqlc4hp59kclg874";
+          sha256 = "";
         }
         {
           path = ''libraries/gui.lua'';
@@ -7059,12 +7059,12 @@
         {
           path = ''libraries/items.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6873ea0f96605475015b81c396c90eccdc1a9a32/Razor%20Edit%20Utility/libraries/items.lua";
-          sha256 = "101yjdm5w210vvfbgnfqd0srl4yyriqqpkkpv9al8h4ikvznwmvh";
+          sha256 = "1ilxzpz8n533h8knwlzbyn3wjjjzxmrd4g1nbcwshvj3flhn76hf";
         }
         {
           path = ''libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6873ea0f96605475015b81c396c90eccdc1a9a32/Razor%20Edit%20Utility/libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "0zp3jbrqj3zf1rykgqmmn6560yvkbvgl1wd13bcagkj76qkafn8k";
         }
         {
           path = ''libraries/razor.lua'';
@@ -7079,7 +7079,7 @@
         {
           path = ''libraries/user_files/user_files.txt'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6873ea0f96605475015b81c396c90eccdc1a9a32/Razor%20Edit%20Utility/libraries/user_files/user_files.txt";
-          sha256 = "1z5yvs4cb1xcq07nh2m2rgh2zw6qgq17s0z24zkrs601l0sjxb1q";
+          sha256 = "";
         }
       ];
     };
@@ -7093,12 +7093,12 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20Settings.lua";
-          sha256 = "0iykhnd1fkcnclz7ffxi8v4hs82zmmrwl26yi3j6x1aw1d5ildpv";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility Toolbar.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20Toolbar.lua";
-          sha256 = "196lp5j1hn9fx4awncabdxr188divl67v0pj8qv8zp4hz3ik66zw";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Comp to selected track.lua'';
@@ -7128,7 +7128,7 @@
         {
           path = ''BirdBird_Razor Edit Utility - Select Preset 3.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%203.lua";
-          sha256 = "0q8vd2kjpi7dm17mb37sw43irn0qnsd55a4xx1y63g3ja7y45fq7";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Select Preset 4.lua'';
@@ -7138,32 +7138,32 @@
         {
           path = ''BirdBird_Razor Edit Utility - Select Preset 5.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%205.lua";
-          sha256 = "1gdxi3dwrdqbwh406czs2svpxqc6a07cpdgvghpbzhd3g8gq39s5";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Move razor edits down by one track.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Move%20razor%20edits%20down%20by%20one%20track.lua";
-          sha256 = "0lz14578127w4r3gfhgc4wfxlcsbf5qp8l3mh3ia2826ivib1jvz";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Move razor edits up by one track.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Move%20razor%20edits%20up%20by%20one%20track.lua";
-          sha256 = "1j4iisw5pcqxilzr50nz6wlw90xqh5g1k1zyzpq0mjj1mh647m0r";
+          sha256 = "";
         }
         {
           path = ''libraries/functions.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/libraries/functions.lua";
-          sha256 = "16zbgaw6vylp7v3v2i8dp53gck5aim36y6iwgp3akbbmns4mq4f0";
+          sha256 = "";
         }
         {
           path = ''libraries/gmem.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/libraries/gmem.lua";
-          sha256 = "1yzng06y85ps62q3pz8z9hcnfyl5xsqf3by9rbanpl6ak0jm4h45";
+          sha256 = "";
         }
         {
           path = ''libraries/gui_main.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/libraries/gui_main.lua";
-          sha256 = "1n993779sw4yf05sjppxjwskhdl54xyrvxvm280kckb7wd0ibxlm";
+          sha256 = "";
         }
         {
           path = ''libraries/gui_toolbar.lua'';
@@ -7173,37 +7173,37 @@
         {
           path = ''libraries/actions_list.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/libraries/actions_list.lua";
-          sha256 = "13dlq8zcaaa8q0638jf6i42y80ffjj7gxn9a5ss56hhhy3d63482";
+          sha256 = "";
         }
         {
           path = ''libraries/comping.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/libraries/comping.lua";
-          sha256 = "1s51md3rcvf68x1nvcrjkj5jbrfxz85fiw5lbqlc4hp59kclg874";
+          sha256 = "";
         }
         {
           path = ''libraries/gui.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/libraries/gui.lua";
-          sha256 = "0p0dnvl0l4wy0rnxqqkimvsjl0yzmskniaij5bba77dvbka0lhqh";
+          sha256 = "1p0jpykfshw634m3ryp7fmsz4vvarpjasknnnifxhjbv9lfjzwjz";
         }
         {
           path = ''libraries/items.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/libraries/items.lua";
-          sha256 = "101yjdm5w210vvfbgnfqd0srl4yyriqqpkkpv9al8h4ikvznwmvh";
+          sha256 = "";
         }
         {
           path = ''libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "0zp3jbrqj3zf1rykgqmmn6560yvkbvgl1wd13bcagkj76qkafn8k";
         }
         {
           path = ''libraries/razor.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/libraries/razor.lua";
-          sha256 = "1l0ic28iagnhs2qxziqdzngbzzp2ysb160ch7s54qy1mvb1i6v9a";
+          sha256 = "";
         }
         {
           path = ''libraries/settings.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/72b99daa294d13633c49db30680fb1a7dcfde35b/Razor%20Edit%20Utility/libraries/settings.lua";
-          sha256 = "1iyh4xpxig96i5qv7j6zb9l8f6al20msr5ddd4lh8dcg5f0yyj47";
+          sha256 = "";
         }
         {
           path = ''libraries/user_files/user_files.txt'';
@@ -7222,12 +7222,12 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20Settings.lua";
-          sha256 = "09vwm5m08l3g85p5dc06p8aad6g88sdxpchc6qrqbnrkg4mmv4m0";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility Toolbar.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20Toolbar.lua";
-          sha256 = "196lp5j1hn9fx4awncabdxr188divl67v0pj8qv8zp4hz3ik66zw";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Comp to selected track.lua'';
@@ -7237,7 +7237,7 @@
         {
           path = ''BirdBird_Razor Edit Utility - Comp to nearest comp track (above).lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Comp%20to%20nearest%20comp%20track%20(above).lua";
-          sha256 = "08ndz5wwcbki5a892rzr7lkq1warckhawh3vyw2lrb35h4p9k9ry";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility.lua'';
@@ -7247,7 +7247,7 @@
         {
           path = ''BirdBird_Razor Edit Utility - Select Preset 1.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%201.lua";
-          sha256 = "1l2hg6k8s39s9hl7xxclrcbk4564kgh0hq1ljv4w346xsgca4h4m";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Select Preset 2.lua'';
@@ -7257,22 +7257,22 @@
         {
           path = ''BirdBird_Razor Edit Utility - Select Preset 3.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%203.lua";
-          sha256 = "0q8vd2kjpi7dm17mb37sw43irn0qnsd55a4xx1y63g3ja7y45fq7";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Select Preset 4.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%204.lua";
-          sha256 = "0zhnwx8gzb7nw6b312sj1j6fv6qj1szdnjk2r1dmi2zca8vg9lqj";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Select Preset 5.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Select%20Preset%205.lua";
-          sha256 = "1gdxi3dwrdqbwh406czs2svpxqc6a07cpdgvghpbzhd3g8gq39s5";
+          sha256 = "0f77mp9hf5qa0jisp8v40193bb74hi7rxdv9jhg12dh56pc1hc6f";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Move razor edits down by one track.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/BirdBird_Razor%20Edit%20Utility%20-%20Move%20razor%20edits%20down%20by%20one%20track.lua";
-          sha256 = "0lz14578127w4r3gfhgc4wfxlcsbf5qp8l3mh3ia2826ivib1jvz";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Razor Edit Utility - Move razor edits up by one track.lua'';
@@ -7282,12 +7282,12 @@
         {
           path = ''libraries/functions.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/libraries/functions.lua";
-          sha256 = "16zbgaw6vylp7v3v2i8dp53gck5aim36y6iwgp3akbbmns4mq4f0";
+          sha256 = "";
         }
         {
           path = ''libraries/gmem.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/libraries/gmem.lua";
-          sha256 = "1yzng06y85ps62q3pz8z9hcnfyl5xsqf3by9rbanpl6ak0jm4h45";
+          sha256 = "";
         }
         {
           path = ''libraries/gui_main.lua'';
@@ -7297,7 +7297,7 @@
         {
           path = ''libraries/gui_toolbar.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/libraries/gui_toolbar.lua";
-          sha256 = "1gkdj54bl3ia717snyxp4ih5m7g944njp1653rigynrzfaai79jd";
+          sha256 = "";
         }
         {
           path = ''libraries/actions_list.lua'';
@@ -7307,17 +7307,17 @@
         {
           path = ''libraries/comping.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/libraries/comping.lua";
-          sha256 = "1s51md3rcvf68x1nvcrjkj5jbrfxz85fiw5lbqlc4hp59kclg874";
+          sha256 = "";
         }
         {
           path = ''libraries/gui.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/libraries/gui.lua";
-          sha256 = "0p0dnvl0l4wy0rnxqqkimvsjl0yzmskniaij5bba77dvbka0lhqh";
+          sha256 = "";
         }
         {
           path = ''libraries/items.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/libraries/items.lua";
-          sha256 = "101yjdm5w210vvfbgnfqd0srl4yyriqqpkkpv9al8h4ikvznwmvh";
+          sha256 = "";
         }
         {
           path = ''libraries/json.lua'';
@@ -7337,7 +7337,7 @@
         {
           path = ''libraries/user_files/user_files.txt'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/cb208f17eca86f9d8b738f7ffc0ec8466bdbaba8/Razor%20Edit%20Utility/libraries/user_files/user_files.txt";
-          sha256 = "1z5yvs4cb1xcq07nh2m2rgh2zw6qgq17s0z24zkrs601l0sjxb1q";
+          sha256 = "";
         }
       ];
     };
@@ -7356,12 +7356,12 @@
         {
           path = ''libraries/functions.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6f2a63b9bad84ab26f0c035a3f4b460e450ea361/Track%20Tags/libraries/functions.lua";
-          sha256 = "12c3prlgzl70g1f0x8ar65vrnay1kgn7hm83vmyqllkrff62rpsv";
+          sha256 = "0yyw0g0sk44hzg869jb4j6240x3y2xsmjhnp4lv8wkhvc85d0gax";
         }
         {
           path = ''libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/6f2a63b9bad84ab26f0c035a3f4b460e450ea361/Track%20Tags/libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "0zp3jbrqj3zf1rykgqmmn6560yvkbvgl1wd13bcagkj76qkafn8k";
         }
       ];
     };
@@ -7380,7 +7380,7 @@
         {
           path = ''libraries/functions.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/40cae84ac0aea209e8e646b5d08e67848a48dbbe/Track%20Tags/libraries/functions.lua";
-          sha256 = "12c3prlgzl70g1f0x8ar65vrnay1kgn7hm83vmyqllkrff62rpsv";
+          sha256 = "";
         }
         {
           path = ''libraries/json.lua'';
@@ -7399,12 +7399,12 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/e028a1d503e9b1c8e64291a2932b062e858482d1/Track%20Tags/BirdBird_Track%20Tags.lua";
-          sha256 = "073nmv140nfcw6198y2p3x33y78xmz1rs0sy9qm25bywfi2c8ap5";
+          sha256 = "1xzr864d2jhqx6a8lxlyapbnn13vilw2c8cy400vzwca4910x4hl";
         }
         {
           path = ''libraries/functions.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/e028a1d503e9b1c8e64291a2932b062e858482d1/Track%20Tags/libraries/functions.lua";
-          sha256 = "12c3prlgzl70g1f0x8ar65vrnay1kgn7hm83vmyqllkrff62rpsv";
+          sha256 = "";
         }
         {
           path = ''libraries/json.lua'';
@@ -7476,12 +7476,12 @@
         {
           path = ''libraries/functions.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/71f69bbb230255e0828980d4272d10be7335f200/Track%20Tags/libraries/functions.lua";
-          sha256 = "01q1b1f52pasayzqvs7s3kdh6h32g7475ai5i9pgfxalf6m1qa36";
+          sha256 = "0gg482qhhrd7ahjvvzr0rizmff9bs6vsqdm11d9ni4zvx30l7ma4";
         }
         {
           path = ''libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/71f69bbb230255e0828980d4272d10be7335f200/Track%20Tags/libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
       ];
     };
@@ -7543,7 +7543,7 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/9841d13ec2922e03de2e0cb39ce48873127ead41/Track%20Tags/BirdBird_Track%20Tags.lua";
-          sha256 = "0ajka1g1mvrdwnffy0qwnbay86mrjifgzjx76vz3xjr42hmci4rb";
+          sha256 = "";
         }
         {
           path = ''libraries/functions.lua'';
@@ -7591,7 +7591,7 @@
         {
           path = ''track_versions_libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/0ee756d023e5f76a06996dffd8dfcd45ffb52eac/Track%20Versions/track_versions_libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
       ];
     };
@@ -7605,7 +7605,7 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/7d6608b689c5abdf946fa7413fcc6e1060cebbff/Track%20Versions/BirdBird_Track%20Versions.lua";
-          sha256 = "1770nz9qwj50pl1aiqww7rhsp97fa3i4nrp6j5i69ikn9ibk9f63";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/json.lua'';
@@ -7644,7 +7644,7 @@
         {
           path = ''BirdBird_Track Versions - Cycle to previous version.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/19c410b65b8ed14a5b89184ef3e33c15d2313d72/Track%20Versions/BirdBird_Track%20Versions%20-%20Cycle%20to%20previous%20version.lua";
-          sha256 = "17h8sccn11m72lm32dhcjlw1xhx9y6qyqigj747lw1g2268c9q3j";
+          sha256 = "";
         }
       ];
     };
@@ -7678,7 +7678,7 @@
         {
           path = ''BirdBird_Track Versions - Cycle to previous version.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/00b840276ec3295d963d4049fdc7aace4d0ff86b/Track%20Versions/BirdBird_Track%20Versions%20-%20Cycle%20to%20previous%20version.lua";
-          sha256 = "0i10hx57svkyrvnzr09l9j6xdgkmvg40qwcm6nvq18qpl48hlc5h";
+          sha256 = "";
         }
       ];
     };
@@ -7702,7 +7702,7 @@
         {
           path = ''track_versions_libraries/functions.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/0366c5f1ed71f4ff7f42dcf34210f2ac9450ecf2/Track%20Versions/track_versions_libraries/functions.lua";
-          sha256 = "1fbc0z9qxx7vxmfi282lss31d75vf6nilkiwdvg0qww3aam6sc1m";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Track Versions - Cycle to next version.lua'';
@@ -7712,7 +7712,7 @@
         {
           path = ''BirdBird_Track Versions - Cycle to previous version.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/0366c5f1ed71f4ff7f42dcf34210f2ac9450ecf2/Track%20Versions/BirdBird_Track%20Versions%20-%20Cycle%20to%20previous%20version.lua";
-          sha256 = "1azyvsll6cslh9m4jivckzaavi5wb5xchwppgqx8f24dwk404cqy";
+          sha256 = "";
         }
       ];
     };
@@ -7751,7 +7751,7 @@
         {
           path = ''BirdBird_Track Versions Settings.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/827a7b8ae0d87f261f95e1d02d598301185a6354/Track%20Versions/BirdBird_Track%20Versions%20Settings.lua";
-          sha256 = "098k6nrrqd7vh9hgsj8fvlldnwqplxac2xvg4wggj1wmvh531rvf";
+          sha256 = "";
         }
       ];
     };
@@ -7765,7 +7765,7 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/b14b82ed88a36f555d4ed1aea5694685b90be807/Track%20Versions/BirdBird_Track%20Versions.lua";
-          sha256 = "1pvzv9qb0kc7aawn7vqpyl65i4brk1xwqv5aap9rp68gpn12d14d";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/json.lua'';
@@ -7785,7 +7785,7 @@
         {
           path = ''BirdBird_Track Versions - Cycle to previous version.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/b14b82ed88a36f555d4ed1aea5694685b90be807/Track%20Versions/BirdBird_Track%20Versions%20-%20Cycle%20to%20previous%20version.lua";
-          sha256 = "0zfgbxp8yi92m8sa3irplyv2vg29fjzxx76x65bczvf848q57zvp";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Track Versions Settings.lua'';
@@ -7809,7 +7809,7 @@
         {
           path = ''track_versions_libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/42c9caef01673a27eb9e7e7668af8043dac188e6/Track%20Versions/track_versions_libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/functions.lua'';
@@ -7819,12 +7819,12 @@
         {
           path = ''track_versions_libraries/settings.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/42c9caef01673a27eb9e7e7668af8043dac188e6/Track%20Versions/track_versions_libraries/settings.lua";
-          sha256 = "1v54jmbz5ri86h2f2v3yi1v5a2rjypwbvcigkyl8cz8h10yvv9k8";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/versions.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/42c9caef01673a27eb9e7e7668af8043dac188e6/Track%20Versions/track_versions_libraries/versions.lua";
-          sha256 = "0wnqqcwaf1bjqizkvk65pacgwf9cfk0sswxj3c0palaa01p9c8jb";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/gui.lua'';
@@ -7854,7 +7854,7 @@
         {
           path = ''BirdBird_Track Versions Settings.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/42c9caef01673a27eb9e7e7668af8043dac188e6/Track%20Versions/BirdBird_Track%20Versions%20Settings.lua";
-          sha256 = "1sx6wzngi78cy1k812p5ja2sfb7y4hskzm44d4p5fhhs9yc1dxqk";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Track Versions (GUI).lua'';
@@ -7873,7 +7873,7 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/c9a6f4d84c3aca259010ae08796e9711c18e1da5/Track%20Versions/BirdBird_Track%20Versions.lua";
-          sha256 = "18aygwnv41aj9fcvvdidrwhc94smm58ki8i7z4zbg8ql2y0187gp";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/json.lua'';
@@ -7898,7 +7898,7 @@
         {
           path = ''track_versions_libraries/gui.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/c9a6f4d84c3aca259010ae08796e9711c18e1da5/Track%20Versions/track_versions_libraries/gui.lua";
-          sha256 = "0fg39qq7yhf4y28w5dr8cjba3y2q0639433cbs56hqbxvxxm99ph";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/ext_state.lua'';
@@ -7918,7 +7918,7 @@
         {
           path = ''BirdBird_Track Versions - Cycle to previous version.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/c9a6f4d84c3aca259010ae08796e9711c18e1da5/Track%20Versions/BirdBird_Track%20Versions%20-%20Cycle%20to%20previous%20version.lua";
-          sha256 = "1mffjyvmnn6qzjnkp9v4bxq5yaj1vp1a75fxbsjpca9v61hhxddm";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Track Versions Settings.lua'';
@@ -7942,12 +7942,12 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/30e6453a10c4b605e97158193ed0a4045d28207d/Track%20Versions/BirdBird_Track%20Versions.lua";
-          sha256 = "0iq8g7j7rq8g8id663dqjrn5nl60ngl6qg1sapr0vq7glrnmhi6b";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/30e6453a10c4b605e97158193ed0a4045d28207d/Track%20Versions/track_versions_libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "0zp3jbrqj3zf1rykgqmmn6560yvkbvgl1wd13bcagkj76qkafn8k";
         }
         {
           path = ''track_versions_libraries/functions.lua'';
@@ -7972,7 +7972,7 @@
         {
           path = ''track_versions_libraries/ext_state.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/30e6453a10c4b605e97158193ed0a4045d28207d/Track%20Versions/track_versions_libraries/ext_state.lua";
-          sha256 = "11b9l9hyfprdxvs8l64b329v55dav5d0kkwl8ngswm6p6n1wrv8p";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/chunk_parsing.lua'';
@@ -8011,12 +8011,12 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/e5bd23a4ec3a06590129f434a13df981c4db8e02/Track%20Versions/BirdBird_Track%20Versions.lua";
-          sha256 = "02bx7yn09zfx5hh0jl4lgb3016cr5hjf0cd7a97bv3dzisbfwygc";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/e5bd23a4ec3a06590129f434a13df981c4db8e02/Track%20Versions/track_versions_libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/functions.lua'';
@@ -8036,7 +8036,7 @@
         {
           path = ''track_versions_libraries/gui.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/e5bd23a4ec3a06590129f434a13df981c4db8e02/Track%20Versions/track_versions_libraries/gui.lua";
-          sha256 = "10xrkkhg3bmrif88ywbl3bk412kifrr3mgb20krknv2skknhlq54";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/ext_state.lua'';
@@ -8046,7 +8046,7 @@
         {
           path = ''track_versions_libraries/chunk_parsing.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/e5bd23a4ec3a06590129f434a13df981c4db8e02/Track%20Versions/track_versions_libraries/chunk_parsing.lua";
-          sha256 = "0qqf401fkhxzv5jgdxys894q4kmayyislp8z8v1dsdxykz523r52";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Track Versions - Cycle to next version.lua'';
@@ -8085,7 +8085,7 @@
         {
           path = ''track_versions_libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/375c82627d12104d9182a52e2e4905b6f3dd4d19/Track%20Versions/track_versions_libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/functions.lua'';
@@ -8110,7 +8110,7 @@
         {
           path = ''track_versions_libraries/ext_state.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/375c82627d12104d9182a52e2e4905b6f3dd4d19/Track%20Versions/track_versions_libraries/ext_state.lua";
-          sha256 = "11b9l9hyfprdxvs8l64b329v55dav5d0kkwl8ngswm6p6n1wrv8p";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/chunk_parsing.lua'';
@@ -8179,7 +8179,7 @@
         {
           path = ''track_versions_libraries/ext_state.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/f7fe5d36da11cddadd26614f35d1d3ae6fe9f0a6/Track%20Versions/track_versions_libraries/ext_state.lua";
-          sha256 = "11b9l9hyfprdxvs8l64b329v55dav5d0kkwl8ngswm6p6n1wrv8p";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/chunk_parsing.lua'';
@@ -8204,7 +8204,7 @@
         {
           path = ''BirdBird_Track Versions (GUI).lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/f7fe5d36da11cddadd26614f35d1d3ae6fe9f0a6/Track%20Versions/BirdBird_Track%20Versions%20(GUI).lua";
-          sha256 = "10cdk126lw1fk5lpd7pkk6aw78c9c084ps44vc0p70gchljh79f4";
+          sha256 = "";
         }
       ];
     };
@@ -8258,7 +8258,7 @@
         {
           path = ''BirdBird_Track Versions - Cycle to next version.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/637fafc13efd8a64e83567a4dac73106c80ee68d/Track%20Versions/BirdBird_Track%20Versions%20-%20Cycle%20to%20next%20version.lua";
-          sha256 = "0nny0nygr124xl9ndavhp40hjhz2vk5gkyc2jf3zadfzlckpsf0r";
+          sha256 = "";
         }
         {
           path = ''BirdBird_Track Versions - Cycle to previous version.lua'';
@@ -8287,22 +8287,22 @@
         {
           path = '''';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/3aa9d98dff9c532d53f261fd16f26730a45091e8/Track%20Versions/BirdBird_Track%20Versions.lua";
-          sha256 = "01g8rskr6144bjd2yx2gk7wynilmn9l8z8a7k71ck60s2z5pr9ly";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/json.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/3aa9d98dff9c532d53f261fd16f26730a45091e8/Track%20Versions/track_versions_libraries/json.lua";
-          sha256 = "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/functions.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/3aa9d98dff9c532d53f261fd16f26730a45091e8/Track%20Versions/track_versions_libraries/functions.lua";
-          sha256 = "1gzg73m2gyj27dr3db3j44c8v4lzrfg15h1agsbxxj8br8j3xlhc";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/settings.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/3aa9d98dff9c532d53f261fd16f26730a45091e8/Track%20Versions/track_versions_libraries/settings.lua";
-          sha256 = "0lwlcyh2prg99hxsw1n6ysk7a52v02vymyndj7aj626dc54pj16c";
+          sha256 = "";
         }
         {
           path = ''track_versions_libraries/versions.lua'';
@@ -8327,7 +8327,7 @@
         {
           path = ''BirdBird_Track Versions - Cycle to next version.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/3aa9d98dff9c532d53f261fd16f26730a45091e8/Track%20Versions/BirdBird_Track%20Versions%20-%20Cycle%20to%20next%20version.lua";
-          sha256 = "0nny0nygr124xl9ndavhp40hjhz2vk5gkyc2jf3zadfzlckpsf0r";
+          sha256 = "0s09j78ndfyipjkp0ypj86xjjjry58mwvh74pkd9h746wrnhdsnh";
         }
         {
           path = ''BirdBird_Track Versions - Cycle to previous version.lua'';
@@ -8371,7 +8371,7 @@
         {
           path = ''track_versions_libraries/settings.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/3dd028e8c05874b02032a7ef5c7c7fb4729d1b0e/Track%20Versions/track_versions_libraries/settings.lua";
-          sha256 = "0lwlcyh2prg99hxsw1n6ysk7a52v02vymyndj7aj626dc54pj16c";
+          sha256 = "15rz5minyg5llvp0wi5fy2cd7c9aahr67rh7jv7wyi95p4lqkxny";
         }
         {
           path = ''track_versions_libraries/versions.lua'';
@@ -8381,7 +8381,7 @@
         {
           path = ''track_versions_libraries/gui.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/3dd028e8c05874b02032a7ef5c7c7fb4729d1b0e/Track%20Versions/track_versions_libraries/gui.lua";
-          sha256 = "10xrkkhg3bmrif88ywbl3bk412kifrr3mgb20krknv2skknhlq54";
+          sha256 = "0cv2h2p0p51rc5p0s97qqr7nfjcimiz83va58sswcy8v8xn4js97";
         }
         {
           path = ''track_versions_libraries/ext_state.lua'';
@@ -8396,7 +8396,7 @@
         {
           path = ''BirdBird_Track Versions - Cycle to next version.lua'';
           url = "https://github.com/Bird-Bird/ReaScript_Testing/raw/3dd028e8c05874b02032a7ef5c7c7fb4729d1b0e/Track%20Versions/BirdBird_Track%20Versions%20-%20Cycle%20to%20next%20version.lua";
-          sha256 = "0nny0nygr124xl9ndavhp40hjhz2vk5gkyc2jf3zadfzlckpsf0r";
+          sha256 = "0s09j78ndfyipjkp0ypj86xjjjry58mwvh74pkd9h746wrnhdsnh";
         }
         {
           path = ''BirdBird_Track Versions - Cycle to previous version.lua'';
