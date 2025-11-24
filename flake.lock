@@ -80,11 +80,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1763993386,
-        "narHash": "sha256-HRnSrVeGtGutSgm8mJHXo3VpDwd9EkcOs3e9TWsdzfQ=",
+        "lastModified": 1763998457,
+        "narHash": "sha256-5i5QBrzKSDzZ2aYRayWmlvkkvbBk6pLJiD16827iuwE=",
         "owner": "silvarc141",
         "repo": "reapkgs",
-        "rev": "55586f06304f068a4f8f74484e3155efe079609e",
+        "rev": "085f273cdd412f763a730d04d77d3038e03800be",
         "type": "github"
       },
       "original": {
