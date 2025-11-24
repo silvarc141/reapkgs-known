@@ -2,35 +2,38 @@
   description = "Known ReaPack repositories packaged for Nix";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-25.05";
     flake-utils.url = "github:numtide/flake-utils";
-    reapkgs = {
-      url = "github:silvarc141/reapkgs"; 
-      inputs.nixpkgs.follows = "nixpkgs";
-    };
+    reapkgs.url = "github:silvarc141/reapkgs";
   };
 
-  outputs = { self, nixpkgs, flake-utils, reapkgs }:
+  outputs = {
+    self,
+    flake-utils,
+    reapkgs,
+  }:
     flake-utils.lib.eachDefaultSystem (system: let
-      pkgs = nixpkgs.legacyPackages.${system};
-      lib = pkgs.lib;
+      pkgs = reapkgs.inputs.nixpkgs.legacyPackages.${system};
+
+      inherit (builtins) readDir;
+      inherit (pkgs.lib) hasSuffix filterAttrs mapAttrs' nameValuePair removeSuffix;
+      inherit (reapkgs.lib) mkReaPackIndex;
 
       indexesDir = ./indexes;
 
-      isJson = name: type: type == "regular" && lib.hasSuffix ".json" name;
+      isJson = name: type: type == "regular" && hasSuffix ".json" name;
 
-      jsonFiles = lib.filterAttrs isJson (builtins.readDir indexesDir);
+      jsonFiles = filterAttrs isJson (readDir indexesDir);
 
-      mkRepo = filename: _type: 
-        let
-          repoName = lib.removeSuffix ".json" filename;
-        in lib.nameValuePair 
-          repoName 
-          (reapkgs.lib.mkReaPackIndex {
-            inherit pkgs;
-            jsonPath = indexesDir + "/${filename}";
-          });
+      mkRepo = filename: _type: let
+        repoName = removeSuffix ".json" filename;
+      in
+        nameValuePair repoName (mkReaPackIndex {
+          inherit pkgs;
+          jsonPath = indexesDir + "/${filename}";
+        });
     in {
-      legacyPackages = lib.mapAttrs' mkRepo jsonFiles;
+      formatter = pkgs.alejandra;
+      legacyPackages = mapAttrs' mkRepo jsonFiles;
+      defaultPackage = reapkgs.legacyPackages.${system}.generate-reapkgs;
     });
 }
