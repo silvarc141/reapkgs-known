@@ -1,4 +1,4 @@
-name: Regenerate
+name: Regenerate indexes
 
 on:
   schedule:
@@ -9,17 +9,17 @@ permissions:
   contents: write
 
 jobs:
-  regenerate:
+  regenerate-indexes:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
       - uses: wimpysworld/nothing-but-nix@main
       - uses: cachix/install-nix-action@v31
       - name: Generate JSON for each 'known' ReaPack index
-        run: nix run nixpkgs#nushell -- ./update.nu
+        run: nix run nixpkgs#nushell -- ./regenerate-indexes.nu
       - name: Commit
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add indexes/
-          git diff --quiet HEAD || (git commit -m "update indexes" && git push)
+          git diff --quiet HEAD || (git commit -m "regenerate indexes" && git push)
