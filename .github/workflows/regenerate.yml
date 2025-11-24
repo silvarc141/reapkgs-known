@@ -1,29 +1,55 @@
 name: Regenerate
+
 on:
   schedule:
     - cron: '0 0 * * 0'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   regenerate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: DeterminateSystems/nix-installer-action@main
-      - name: Delete all files except README
+
+      - name: Generate Indexes
         run: |
-          shopt -s extglob
-          rm -rf !(README.md|.git)
-          shopt -u extglob
-      - name: Generate
-        run: |
-          nix run github:silvarc141/reapkgs -- -gprqo .
-      - name: Lock
-        run: |
-          df -h
-          nix flake lock
+          nix run nixpkgs#nushell -- -c '
+            mkdir indexes
+            rm -f indexes/*.json
+
+            http get https://reapack.com/repos.txt
+            | lines
+            | each {|repo_url|
+                print $"Processing ($repo_url)..."
+
+                try {
+                    let index_data = (http get $repo_url)
+                    let raw_name = $index_data.attributes.name
+
+                    let safe_name = ($raw_name
+                      | str downcase
+                      | str replace --all -r "[^a-z0-9]+" "-"
+                      | str trim --char "-"
+                      | str replace -r "^([0-9])" "_$1"
+                    )
+
+                    let json_output = (^nix run github:silvarc141/reapkgs -- $repo_url)
+                    $json_output | save -f $"indexes/($safe_name).json"
+
+                    print $"Saved indexes/($safe_name).json"
+                } catch {
+                    print $"Failed to process ($repo_url)"
+                }
+            }
+          '
+
       - name: Commit
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add -A
-          git diff --quiet HEAD || (git commit -am "flake regeneration $(date +'%Y-%m-%d')" && git push)
+          git add indexes/
+          git diff --quiet HEAD || (git commit -m "update indexes" && git push)
