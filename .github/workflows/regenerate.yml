@@ -13,9 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: DeterminateSystems/nix-installer-action@main
-
-      - name: Generate Indexes
+      - uses: wimpysworld/nothing-but-nix@main
+      - uses: nixbuild/nix-quick-install-action@v34
+      - name: generate indexes
         run: |
           nix run nixpkgs#nushell -- -c '
             mkdir indexes
@@ -47,7 +47,7 @@ jobs:
             }
           '
 
-      - name: Commit
+      - name: commit
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
