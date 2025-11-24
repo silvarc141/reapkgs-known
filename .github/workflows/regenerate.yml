@@ -37,7 +37,7 @@ jobs:
                       | str replace -r "^([0-9])" "_$1"
                     )
 
-                    let json_output = (^nix run github:silvarc141/reapkgs -- $repo_url)
+                    let json_output = (^nix run . -- $repo_url)
                     $json_output | save -f $"indexes/($safe_name).json"
 
                     print $"Saved indexes/($safe_name).json"
