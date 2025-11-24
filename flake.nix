@@ -2,7 +2,7 @@
   description = "Known ReaPack repositories packaged for Nix";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-25.05";
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-25.05";
     flake-utils.url = "github:numtide/flake-utils";
     reapkgs = {
       url = "github:silvarc141/reapkgs"; 
