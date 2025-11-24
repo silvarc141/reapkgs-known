@@ -2,14 +2,9 @@
   "ix_sequences.data": {
     "latest": [
       {
-        "path": "Data/../../ix_sequences/4 - Accent On 1.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%201.txt",
-        "sha256": "0dkszzb6n93kn6dlzhnrh5v9dz08751pj6hiz64mi6gz7rjqkndq"
-      },
-      {
-        "path": "Data/../../ix_sequences/5 - Accent on 5.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/5%20-%20Accent%20on%205.txt",
-        "sha256": "01c9mnnv1amvhdqgv0d04xphffs6cvg6cr9jmvkz8qngm4pbaf31"
+        "path": "Data/../../ix_sequences/4 - Accent On 4.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%204.txt",
+        "sha256": "08m9d3ipbn2mh67wd1ibfn08ci5vlq0d4v1jrxablxr3dqnqrp2y"
       },
       {
         "path": "Data/../../ix_sequences/4 - Accent On 3.txt",
@@ -17,29 +12,19 @@
         "sha256": "0ayrfm044wr9gsdc8ap8002dvmv1g6j174dhn3w3lfv5017y5p4v"
       },
       {
+        "path": "Data/../../ix_sequences/4 - Accent On 1.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%201.txt",
+        "sha256": "0dkszzb6n93kn6dlzhnrh5v9dz08751pj6hiz64mi6gz7rjqkndq"
+      },
+      {
         "path": "Data/../../ix_sequences/4 - Accent On 2.txt",
         "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%202.txt",
         "sha256": "1hnkp067395yggkm030bb11v0awydm5ym1416cir528b0hcmz92b"
       },
       {
-        "path": "Data/../../ix_sequences/3 - Accent on 3.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%203.txt",
-        "sha256": "15cmbyd06rfvrbqlfhk20lq8kbw28ywf12fppscc2c264fxqxcpf"
-      },
-      {
-        "path": "Data/../../ix_sequences/2 - Accent on 2.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%202.txt",
-        "sha256": "0qnb1wwxy5192q5lscf9yaixhzyll65za5flcvq3as4mzd2dslry"
-      },
-      {
-        "path": "Data/../../ix_sequences/2 - Accent on 1.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%201.txt",
-        "sha256": "1xyqzzqypww862cggxg5ihw52ibnwn03zdkxy5p03g01b2d43k09"
-      },
-      {
-        "path": "Data/../../ix_sequences/4 - Accent On 4.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%204.txt",
-        "sha256": "08m9d3ipbn2mh67wd1ibfn08ci5vlq0d4v1jrxablxr3dqnqrp2y"
+        "path": "Data/../../ix_sequences/5 - Accent on 5.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/5%20-%20Accent%20on%205.txt",
+        "sha256": "01c9mnnv1amvhdqgv0d04xphffs6cvg6cr9jmvkz8qngm4pbaf31"
       },
       {
         "path": "Data/../../ix_sequences/3 - Accent on 2.txt",
@@ -52,21 +37,31 @@
         "sha256": "0ffil8i5fh69b25lk9q7g2z5ai32kjgg6j6bw65qki70zhn6w0s2"
       },
       {
+        "path": "Data/../../ix_sequences/2 - Accent on 1.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%201.txt",
+        "sha256": "1xyqzzqypww862cggxg5ihw52ibnwn03zdkxy5p03g01b2d43k09"
+      },
+      {
         "path": "Data/../../ix_sequences/1 - All Notes.txt",
         "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/1%20-%20All%20Notes.txt",
         "sha256": "0jsvhyvxslhyq14isbx2xajasisp7xdgykl0dffy3z1lzxrv51kb"
+      },
+      {
+        "path": "Data/../../ix_sequences/3 - Accent on 3.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%203.txt",
+        "sha256": "15cmbyd06rfvrbqlfhk20lq8kbw28ywf12fppscc2c264fxqxcpf"
+      },
+      {
+        "path": "Data/../../ix_sequences/2 - Accent on 2.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%202.txt",
+        "sha256": "0qnb1wwxy5192q5lscf9yaixhzyll65za5flcvq3as4mzd2dslry"
       }
     ],
     "1.0": [
       {
-        "path": "Data/../../ix_sequences/4 - Accent On 1.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%201.txt",
-        "sha256": "0dkszzb6n93kn6dlzhnrh5v9dz08751pj6hiz64mi6gz7rjqkndq"
-      },
-      {
-        "path": "Data/../../ix_sequences/5 - Accent on 5.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/5%20-%20Accent%20on%205.txt",
-        "sha256": "01c9mnnv1amvhdqgv0d04xphffs6cvg6cr9jmvkz8qngm4pbaf31"
+        "path": "Data/../../ix_sequences/4 - Accent On 4.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%204.txt",
+        "sha256": "08m9d3ipbn2mh67wd1ibfn08ci5vlq0d4v1jrxablxr3dqnqrp2y"
       },
       {
         "path": "Data/../../ix_sequences/4 - Accent On 3.txt",
@@ -74,29 +69,19 @@
         "sha256": "0ayrfm044wr9gsdc8ap8002dvmv1g6j174dhn3w3lfv5017y5p4v"
       },
       {
+        "path": "Data/../../ix_sequences/4 - Accent On 1.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%201.txt",
+        "sha256": "0dkszzb6n93kn6dlzhnrh5v9dz08751pj6hiz64mi6gz7rjqkndq"
+      },
+      {
         "path": "Data/../../ix_sequences/4 - Accent On 2.txt",
         "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%202.txt",
         "sha256": "1hnkp067395yggkm030bb11v0awydm5ym1416cir528b0hcmz92b"
       },
       {
-        "path": "Data/../../ix_sequences/3 - Accent on 3.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%203.txt",
-        "sha256": "15cmbyd06rfvrbqlfhk20lq8kbw28ywf12fppscc2c264fxqxcpf"
-      },
-      {
-        "path": "Data/../../ix_sequences/2 - Accent on 2.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%202.txt",
-        "sha256": "0qnb1wwxy5192q5lscf9yaixhzyll65za5flcvq3as4mzd2dslry"
-      },
-      {
-        "path": "Data/../../ix_sequences/2 - Accent on 1.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%201.txt",
-        "sha256": "1xyqzzqypww862cggxg5ihw52ibnwn03zdkxy5p03g01b2d43k09"
-      },
-      {
-        "path": "Data/../../ix_sequences/4 - Accent On 4.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%204.txt",
-        "sha256": "08m9d3ipbn2mh67wd1ibfn08ci5vlq0d4v1jrxablxr3dqnqrp2y"
+        "path": "Data/../../ix_sequences/5 - Accent on 5.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/5%20-%20Accent%20on%205.txt",
+        "sha256": "01c9mnnv1amvhdqgv0d04xphffs6cvg6cr9jmvkz8qngm4pbaf31"
       },
       {
         "path": "Data/../../ix_sequences/3 - Accent on 2.txt",
@@ -109,50 +94,30 @@
         "sha256": "0ffil8i5fh69b25lk9q7g2z5ai32kjgg6j6bw65qki70zhn6w0s2"
       },
       {
+        "path": "Data/../../ix_sequences/2 - Accent on 1.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%201.txt",
+        "sha256": "1xyqzzqypww862cggxg5ihw52ibnwn03zdkxy5p03g01b2d43k09"
+      },
+      {
         "path": "Data/../../ix_sequences/1 - All Notes.txt",
         "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/1%20-%20All%20Notes.txt",
         "sha256": "0jsvhyvxslhyq14isbx2xajasisp7xdgykl0dffy3z1lzxrv51kb"
+      },
+      {
+        "path": "Data/../../ix_sequences/3 - Accent on 3.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%203.txt",
+        "sha256": "15cmbyd06rfvrbqlfhk20lq8kbw28ywf12fppscc2c264fxqxcpf"
+      },
+      {
+        "path": "Data/../../ix_sequences/2 - Accent on 2.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%202.txt",
+        "sha256": "0qnb1wwxy5192q5lscf9yaixhzyll65za5flcvq3as4mzd2dslry"
       }
     ]
   },
   "ix_scales.data": {
     "latest": [
       {
-        "path": "Data/../../ix_scales/Mixolydian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Mixolydian.txt",
-        "sha256": "0l7bnvzdnrljcp08whwwdiky7h9lw8cb8jn5jc7srlbmnk4r6ppm"
-      },
-      {
-        "path": "Data/../../ix_scales/Harmonic Minor.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Harmonic%20Minor.txt",
-        "sha256": "1sj7ynhqiqakxnirkdzlcg8j85zbrhkanwkkz3ip632k1qaim8v5"
-      },
-      {
-        "path": "Data/../../ix_scales/Whole Tone.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Whole%20Tone.txt",
-        "sha256": "06r05d6r7ad6hm8ra8bc78kn02icv3xr0jqhbjpn466aw1q8q9z1"
-      },
-      {
-        "path": "Data/../../ix_scales/Locrian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Locrian.txt",
-        "sha256": "0b1chq3khcaz3j4i5k8i7424mlg67wrmcmy8pl4jnwsbar900467"
-      },
-      {
-        "path": "Data/../../ix_scales/Phrygian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Phrygian.txt",
-        "sha256": "0xx5crnpxn1ans42xl9qp0ld0src7lcvj6lf8656lcc3gawxih97"
-      },
-      {
-        "path": "Data/../../ix_scales/Natural Minor.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Natural%20Minor.txt",
-        "sha256": "0zn0dasqn2dawsisjdr6z64fqlh2wbj53zljdfhq5d2b6ljhhfhl"
-      },
-      {
-        "path": "Data/../../ix_scales/Pentatonic Major.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Pentatonic%20Major.txt",
-        "sha256": "0h3562b7qd5inmcvijb0mx9k43nb55nc3jp3v8mj4m3rrs1766rr"
-      },
-      {
         "path": "Data/../../ix_scales/Chromatic.txt",
         "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Chromatic.txt",
         "sha256": "0kd8x04p4kgqc8jzhaja4sps39vfrs1qlpblrng1jbrrm3xzgz0m"
@@ -173,53 +138,53 @@
         "sha256": "1gr8kgkpbdvrzy34ac7j5f7ql0g59x9ff49sr07984a482jsd6wl"
       },
       {
-        "path": "Data/../../ix_scales/Dorian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Dorian.txt",
-        "sha256": "1xw8q763wzllnja4sqlxr724d73hawjlc354f1ap9a9f53654wi4"
+        "path": "Data/../../ix_scales/Phrygian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Phrygian.txt",
+        "sha256": "0xx5crnpxn1ans42xl9qp0ld0src7lcvj6lf8656lcc3gawxih97"
+      },
+      {
+        "path": "Data/../../ix_scales/Harmonic Minor.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Harmonic%20Minor.txt",
+        "sha256": "1sj7ynhqiqakxnirkdzlcg8j85zbrhkanwkkz3ip632k1qaim8v5"
+      },
+      {
+        "path": "Data/../../ix_scales/Natural Minor.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Natural%20Minor.txt",
+        "sha256": "0zn0dasqn2dawsisjdr6z64fqlh2wbj53zljdfhq5d2b6ljhhfhl"
+      },
+      {
+        "path": "Data/../../ix_scales/Pentatonic Major.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Pentatonic%20Major.txt",
+        "sha256": "0h3562b7qd5inmcvijb0mx9k43nb55nc3jp3v8mj4m3rrs1766rr"
+      },
+      {
+        "path": "Data/../../ix_scales/Whole Tone.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Whole%20Tone.txt",
+        "sha256": "06r05d6r7ad6hm8ra8bc78kn02icv3xr0jqhbjpn466aw1q8q9z1"
       },
       {
         "path": "Data/../../ix_scales/Pentatonic Minor.txt",
         "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Pentatonic%20Minor.txt",
         "sha256": "04mnqrh1ys1pvn3a6rxp752m6dc0yn9wflixxqpbnscy9n6vyq2b"
+      },
+      {
+        "path": "Data/../../ix_scales/Locrian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Locrian.txt",
+        "sha256": "0b1chq3khcaz3j4i5k8i7424mlg67wrmcmy8pl4jnwsbar900467"
+      },
+      {
+        "path": "Data/../../ix_scales/Dorian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Dorian.txt",
+        "sha256": "1xw8q763wzllnja4sqlxr724d73hawjlc354f1ap9a9f53654wi4"
+      },
+      {
+        "path": "Data/../../ix_scales/Mixolydian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Mixolydian.txt",
+        "sha256": "0l7bnvzdnrljcp08whwwdiky7h9lw8cb8jn5jc7srlbmnk4r6ppm"
       }
     ],
     "1.0": [
       {
-        "path": "Data/../../ix_scales/Mixolydian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Mixolydian.txt",
-        "sha256": "0l7bnvzdnrljcp08whwwdiky7h9lw8cb8jn5jc7srlbmnk4r6ppm"
-      },
-      {
-        "path": "Data/../../ix_scales/Harmonic Minor.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Harmonic%20Minor.txt",
-        "sha256": "1sj7ynhqiqakxnirkdzlcg8j85zbrhkanwkkz3ip632k1qaim8v5"
-      },
-      {
-        "path": "Data/../../ix_scales/Whole Tone.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Whole%20Tone.txt",
-        "sha256": "06r05d6r7ad6hm8ra8bc78kn02icv3xr0jqhbjpn466aw1q8q9z1"
-      },
-      {
-        "path": "Data/../../ix_scales/Locrian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Locrian.txt",
-        "sha256": "0b1chq3khcaz3j4i5k8i7424mlg67wrmcmy8pl4jnwsbar900467"
-      },
-      {
-        "path": "Data/../../ix_scales/Phrygian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Phrygian.txt",
-        "sha256": "0xx5crnpxn1ans42xl9qp0ld0src7lcvj6lf8656lcc3gawxih97"
-      },
-      {
-        "path": "Data/../../ix_scales/Natural Minor.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Natural%20Minor.txt",
-        "sha256": "0zn0dasqn2dawsisjdr6z64fqlh2wbj53zljdfhq5d2b6ljhhfhl"
-      },
-      {
-        "path": "Data/../../ix_scales/Pentatonic Major.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Pentatonic%20Major.txt",
-        "sha256": "0h3562b7qd5inmcvijb0mx9k43nb55nc3jp3v8mj4m3rrs1766rr"
-      },
-      {
         "path": "Data/../../ix_scales/Chromatic.txt",
         "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Chromatic.txt",
         "sha256": "0kd8x04p4kgqc8jzhaja4sps39vfrs1qlpblrng1jbrrm3xzgz0m"
@@ -240,14 +205,49 @@
         "sha256": "1gr8kgkpbdvrzy34ac7j5f7ql0g59x9ff49sr07984a482jsd6wl"
       },
       {
-        "path": "Data/../../ix_scales/Dorian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Dorian.txt",
-        "sha256": "1xw8q763wzllnja4sqlxr724d73hawjlc354f1ap9a9f53654wi4"
+        "path": "Data/../../ix_scales/Phrygian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Phrygian.txt",
+        "sha256": "0xx5crnpxn1ans42xl9qp0ld0src7lcvj6lf8656lcc3gawxih97"
+      },
+      {
+        "path": "Data/../../ix_scales/Harmonic Minor.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Harmonic%20Minor.txt",
+        "sha256": "1sj7ynhqiqakxnirkdzlcg8j85zbrhkanwkkz3ip632k1qaim8v5"
+      },
+      {
+        "path": "Data/../../ix_scales/Natural Minor.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Natural%20Minor.txt",
+        "sha256": "0zn0dasqn2dawsisjdr6z64fqlh2wbj53zljdfhq5d2b6ljhhfhl"
+      },
+      {
+        "path": "Data/../../ix_scales/Pentatonic Major.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Pentatonic%20Major.txt",
+        "sha256": "0h3562b7qd5inmcvijb0mx9k43nb55nc3jp3v8mj4m3rrs1766rr"
+      },
+      {
+        "path": "Data/../../ix_scales/Whole Tone.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Whole%20Tone.txt",
+        "sha256": "06r05d6r7ad6hm8ra8bc78kn02icv3xr0jqhbjpn466aw1q8q9z1"
       },
       {
         "path": "Data/../../ix_scales/Pentatonic Minor.txt",
         "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Pentatonic%20Minor.txt",
         "sha256": "04mnqrh1ys1pvn3a6rxp752m6dc0yn9wflixxqpbnscy9n6vyq2b"
+      },
+      {
+        "path": "Data/../../ix_scales/Locrian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Locrian.txt",
+        "sha256": "0b1chq3khcaz3j4i5k8i7424mlg67wrmcmy8pl4jnwsbar900467"
+      },
+      {
+        "path": "Data/../../ix_scales/Dorian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Dorian.txt",
+        "sha256": "1xw8q763wzllnja4sqlxr724d73hawjlc354f1ap9a9f53654wi4"
+      },
+      {
+        "path": "Data/../../ix_scales/Mixolydian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Mixolydian.txt",
+        "sha256": "0l7bnvzdnrljcp08whwwdiky7h9lw8cb8jn5jc7srlbmnk4r6ppm"
       }
     ]
   },
@@ -267,67 +267,19 @@
       }
     ]
   },
-  "MIDI_Router.jsfx": {
+  "MIDI_Looper.jsfx": {
     "latest": [
       {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_Router",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_Router.jsfx",
-        "sha256": "1q85pzr9ch7yhq3iwvaw98sp70w4bmyl18x593cbb291dpljg47g"
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_Looper",
+        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_Looper.jsfx",
+        "sha256": "0i6djn8jm62fjq9vmd0iv1n43zlqm4ixl3cy70jwahfis776307q"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_Router",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_Router.jsfx",
-        "sha256": "1q85pzr9ch7yhq3iwvaw98sp70w4bmyl18x593cbb291dpljg47g"
-      }
-    ]
-  },
-  "MIDI_PatchUtil.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_PatchUtil",
-        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_PatchUtil.jsfx",
-        "sha256": "0lg4bllcbgln3qmy9hl734agpl6gv4jxhc6ybh70s3jdxz1svnpb"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_PatchUtil",
-        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_PatchUtil.jsfx",
-        "sha256": "0lg4bllcbgln3qmy9hl734agpl6gv4jxhc6ybh70s3jdxz1svnpb"
-      }
-    ]
-  },
-  "MIDI_Latch.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_Latch",
-        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_Latch.jsfx",
-        "sha256": "1p92vf243dsjhdd34a5rc3nssc1wyhbrgmx3zwywdgd9ryl7rpd5"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_Latch",
-        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_Latch.jsfx",
-        "sha256": "1p92vf243dsjhdd34a5rc3nssc1wyhbrgmx3zwywdgd9ryl7rpd5"
-      }
-    ]
-  },
-  "MIDI_Tool.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_Tool",
-        "url": "https://github.com/IXix/JSFX/raw/2f70284fa402d2c6d4bd3af212f3b5fa79bfcaac/Effects/MIDI/MIDI_Tool.jsfx",
-        "sha256": "1nh0f0lsd0066hv98y8r1r5mbzpn6ca9ih86bg4pqp8wywz19xf9"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_Tool",
-        "url": "https://github.com/IXix/JSFX/raw/2f70284fa402d2c6d4bd3af212f3b5fa79bfcaac/Effects/MIDI/MIDI_Tool.jsfx",
-        "sha256": "1nh0f0lsd0066hv98y8r1r5mbzpn6ca9ih86bg4pqp8wywz19xf9"
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_Looper",
+        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_Looper.jsfx",
+        "sha256": "0i6djn8jm62fjq9vmd0iv1n43zlqm4ixl3cy70jwahfis776307q"
       }
     ]
   },
@@ -344,6 +296,59 @@
         "path": "Effects/IX/Effects/MIDI/../../MIDI_Wobulator",
         "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_Wobulator.jsfx",
         "sha256": "0cssqnx7vnjvqpprpj0dqsj7wnfakbbqfpdxw6hkn1xppifxbhpx"
+      }
+    ]
+  },
+  "MIDI_KeyMap.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeyMap",
+        "url": "https://github.com/IXix/JSFX/raw/d9e32587a6ee2b074417af98b535aaab79db79e2/Effects/MIDI/MIDI_KeyMap.jsfx",
+        "sha256": "0xq7y192jzcic56p2i5cdyizh439p96za5aif150mnq0k4v749km"
+      }
+    ],
+    "2.2": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeyMap",
+        "url": "https://github.com/IXix/JSFX/raw/d9e32587a6ee2b074417af98b535aaab79db79e2/Effects/MIDI/MIDI_KeyMap.jsfx",
+        "sha256": "0xq7y192jzcic56p2i5cdyizh439p96za5aif150mnq0k4v749km"
+      }
+    ],
+    "2.1": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeyMap",
+        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_KeyMap.jsfx",
+        "sha256": "08s416j0i3xhsg18ccnhw20mfgssfy7x7zvbwkb19cr6187qd7wa"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeyMap",
+        "url": "https://github.com/IXix/JSFX/raw/96c37b3eef3041f63808dfc06db23853922eb57d/Effects/MIDI/MIDI_KeyMap.jsfx",
+        "sha256": "1y2kb47ggc9pym75y6vdjynszwx78a14amdfn77amzwsx87dnvw2"
+      }
+    ]
+  },
+  "MIDI_KeySnap.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeySnap",
+        "url": "https://github.com/IXix/JSFX/raw/d9e32587a6ee2b074417af98b535aaab79db79e2/Effects/MIDI/MIDI_KeySnap.jsfx",
+        "sha256": "0128pnv03y4s93na9bsd9pjv4ynhva745r3y9m1l8zvswchrpkd5"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeySnap",
+        "url": "https://github.com/IXix/JSFX/raw/d9e32587a6ee2b074417af98b535aaab79db79e2/Effects/MIDI/MIDI_KeySnap.jsfx",
+        "sha256": "0128pnv03y4s93na9bsd9pjv4ynhva745r3y9m1l8zvswchrpkd5"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeySnap",
+        "url": "https://github.com/IXix/JSFX/raw/96c37b3eef3041f63808dfc06db23853922eb57d/Effects/MIDI/MIDI_KeySnap.jsfx",
+        "sha256": "1q4qx6s8gprxdj25z4hady97g3pr5cgk8ljgppd107bxmvkrk9rg"
       }
     ]
   },
@@ -384,6 +389,38 @@
       }
     ]
   },
+  "MIDI_Tool.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_Tool",
+        "url": "https://github.com/IXix/JSFX/raw/2f70284fa402d2c6d4bd3af212f3b5fa79bfcaac/Effects/MIDI/MIDI_Tool.jsfx",
+        "sha256": "1nh0f0lsd0066hv98y8r1r5mbzpn6ca9ih86bg4pqp8wywz19xf9"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_Tool",
+        "url": "https://github.com/IXix/JSFX/raw/2f70284fa402d2c6d4bd3af212f3b5fa79bfcaac/Effects/MIDI/MIDI_Tool.jsfx",
+        "sha256": "1nh0f0lsd0066hv98y8r1r5mbzpn6ca9ih86bg4pqp8wywz19xf9"
+      }
+    ]
+  },
+  "MIDI_SerialKiller.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_SerialKiller.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/MIDI/MIDI_SerialKiller.jsfx",
+        "sha256": "0ivhj3q13ls834vbr6zcrzd5xq7igpqwmcdzic4fm28k3bqvmxlw"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_SerialKiller.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/MIDI/MIDI_SerialKiller.jsfx",
+        "sha256": "0ivhj3q13ls834vbr6zcrzd5xq7igpqwmcdzic4fm28k3bqvmxlw"
+      }
+    ]
+  },
   "MIDI_Velocifier II.jsfx": {
     "latest": [
       {
@@ -407,100 +444,6 @@
       }
     ]
   },
-  "MIDI_KeyMap.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeyMap",
-        "url": "https://github.com/IXix/JSFX/raw/d9e32587a6ee2b074417af98b535aaab79db79e2/Effects/MIDI/MIDI_KeyMap.jsfx",
-        "sha256": "0xq7y192jzcic56p2i5cdyizh439p96za5aif150mnq0k4v749km"
-      }
-    ],
-    "2.2": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeyMap",
-        "url": "https://github.com/IXix/JSFX/raw/d9e32587a6ee2b074417af98b535aaab79db79e2/Effects/MIDI/MIDI_KeyMap.jsfx",
-        "sha256": "0xq7y192jzcic56p2i5cdyizh439p96za5aif150mnq0k4v749km"
-      }
-    ],
-    "2.1": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeyMap",
-        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_KeyMap.jsfx",
-        "sha256": "08s416j0i3xhsg18ccnhw20mfgssfy7x7zvbwkb19cr6187qd7wa"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeyMap",
-        "url": "https://github.com/IXix/JSFX/raw/96c37b3eef3041f63808dfc06db23853922eb57d/Effects/MIDI/MIDI_KeyMap.jsfx",
-        "sha256": "1y2kb47ggc9pym75y6vdjynszwx78a14amdfn77amzwsx87dnvw2"
-      }
-    ]
-  },
-  "MIDI_Looper.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_Looper",
-        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_Looper.jsfx",
-        "sha256": "0i6djn8jm62fjq9vmd0iv1n43zlqm4ixl3cy70jwahfis776307q"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_Looper",
-        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_Looper.jsfx",
-        "sha256": "0i6djn8jm62fjq9vmd0iv1n43zlqm4ixl3cy70jwahfis776307q"
-      }
-    ]
-  },
-  "MIDI_HighPriority.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_HighPriority.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/MIDI/MIDI_HighPriority.jsfx",
-        "sha256": "0c06igd0drvqfmf4655b0rvinzb6lbak9mpvdnwbngyzc2vhx9ms"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_HighPriority.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/MIDI/MIDI_HighPriority.jsfx",
-        "sha256": "0c06igd0drvqfmf4655b0rvinzb6lbak9mpvdnwbngyzc2vhx9ms"
-      }
-    ]
-  },
-  "MIDI_CCRider.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_CCRider",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_CCRider.jsfx",
-        "sha256": "00hpq032gsiwp1s749v27y2ymjby8gb342dd17al16chfzbgiyfb"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_CCRider",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_CCRider.jsfx",
-        "sha256": "00hpq032gsiwp1s749v27y2ymjby8gb342dd17al16chfzbgiyfb"
-      }
-    ]
-  },
-  "MIDI_SerialKiller.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_SerialKiller.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/MIDI/MIDI_SerialKiller.jsfx",
-        "sha256": "0ivhj3q13ls834vbr6zcrzd5xq7igpqwmcdzic4fm28k3bqvmxlw"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_SerialKiller.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/MIDI/MIDI_SerialKiller.jsfx",
-        "sha256": "0ivhj3q13ls834vbr6zcrzd5xq7igpqwmcdzic4fm28k3bqvmxlw"
-      }
-    ]
-  },
   "MIDI_Probalocity.jsfx": {
     "latest": [
       {
@@ -517,74 +460,19 @@
       }
     ]
   },
-  "MIDI_KeySnap.jsfx": {
+  "MIDI_Router.jsfx": {
     "latest": [
       {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeySnap",
-        "url": "https://github.com/IXix/JSFX/raw/d9e32587a6ee2b074417af98b535aaab79db79e2/Effects/MIDI/MIDI_KeySnap.jsfx",
-        "sha256": "0128pnv03y4s93na9bsd9pjv4ynhva745r3y9m1l8zvswchrpkd5"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeySnap",
-        "url": "https://github.com/IXix/JSFX/raw/d9e32587a6ee2b074417af98b535aaab79db79e2/Effects/MIDI/MIDI_KeySnap.jsfx",
-        "sha256": "0128pnv03y4s93na9bsd9pjv4ynhva745r3y9m1l8zvswchrpkd5"
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_Router",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_Router.jsfx",
+        "sha256": "1q85pzr9ch7yhq3iwvaw98sp70w4bmyl18x593cbb291dpljg47g"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeySnap",
-        "url": "https://github.com/IXix/JSFX/raw/96c37b3eef3041f63808dfc06db23853922eb57d/Effects/MIDI/MIDI_KeySnap.jsfx",
-        "sha256": "1q4qx6s8gprxdj25z4hady97g3pr5cgk8ljgppd107bxmvkrk9rg"
-      }
-    ]
-  },
-  "MIDI_DuplicateFilter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_DuplicateFilter",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_DuplicateFilter.jsfx",
-        "sha256": "0fznf78lgnngynn478lfz9dm7vh2y6pzkgjnl2kd3i43a3g6wkzi"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_DuplicateFilter",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_DuplicateFilter.jsfx",
-        "sha256": "0fznf78lgnngynn478lfz9dm7vh2y6pzkgjnl2kd3i43a3g6wkzi"
-      }
-    ]
-  },
-  "MIDI_Tool II.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_Tool II",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_Tool%20II.jsfx",
-        "sha256": "1zhivkcbml4qdwivg2dmz1mmsz30pdxhzqrrfwimhlfk24rsz612"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_Tool II",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_Tool%20II.jsfx",
-        "sha256": "1zhivkcbml4qdwivg2dmz1mmsz30pdxhzqrrfwimhlfk24rsz612"
-      }
-    ]
-  },
-  "MIDI_KeyMap II.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeyMap II",
-        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_KeyMap%20II.jsfx",
-        "sha256": "15kd2nfmnn6xmg63fy0zn61pfzrwf77w05dx0bcykgg19fsawspx"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeyMap II",
-        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_KeyMap%20II.jsfx",
-        "sha256": "15kd2nfmnn6xmg63fy0zn61pfzrwf77w05dx0bcykgg19fsawspx"
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_Router",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_Router.jsfx",
+        "sha256": "1q85pzr9ch7yhq3iwvaw98sp70w4bmyl18x593cbb291dpljg47g"
       }
     ]
   },
@@ -604,6 +492,22 @@
       }
     ]
   },
+  "MIDI_KeyMap II.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeyMap II",
+        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_KeyMap%20II.jsfx",
+        "sha256": "15kd2nfmnn6xmg63fy0zn61pfzrwf77w05dx0bcykgg19fsawspx"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_KeyMap II",
+        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_KeyMap%20II.jsfx",
+        "sha256": "15kd2nfmnn6xmg63fy0zn61pfzrwf77w05dx0bcykgg19fsawspx"
+      }
+    ]
+  },
   "MIDI_ChokingHazard.jsfx": {
     "latest": [
       {
@@ -620,19 +524,131 @@
       }
     ]
   },
-  "MuteRangeOnStop.jsfx": {
+  "MIDI_PatchUtil.jsfx": {
     "latest": [
       {
-        "path": "Effects/IX/Effects/Audio/../../MuteRangeOnStop.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteRangeOnStop.jsfx",
-        "sha256": "1916202ln69jdxzkh3klpvdbsxa9dsscn4lrq9yfwb5hx3si4q36"
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_PatchUtil",
+        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_PatchUtil.jsfx",
+        "sha256": "0lg4bllcbgln3qmy9hl734agpl6gv4jxhc6ybh70s3jdxz1svnpb"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/IX/Effects/Audio/../../MuteRangeOnStop.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteRangeOnStop.jsfx",
-        "sha256": "1916202ln69jdxzkh3klpvdbsxa9dsscn4lrq9yfwb5hx3si4q36"
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_PatchUtil",
+        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_PatchUtil.jsfx",
+        "sha256": "0lg4bllcbgln3qmy9hl734agpl6gv4jxhc6ybh70s3jdxz1svnpb"
+      }
+    ]
+  },
+  "MIDI_DuplicateFilter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_DuplicateFilter",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_DuplicateFilter.jsfx",
+        "sha256": "0fznf78lgnngynn478lfz9dm7vh2y6pzkgjnl2kd3i43a3g6wkzi"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_DuplicateFilter",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_DuplicateFilter.jsfx",
+        "sha256": "0fznf78lgnngynn478lfz9dm7vh2y6pzkgjnl2kd3i43a3g6wkzi"
+      }
+    ]
+  },
+  "MIDI_CCRider.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_CCRider",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_CCRider.jsfx",
+        "sha256": "00hpq032gsiwp1s749v27y2ymjby8gb342dd17al16chfzbgiyfb"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_CCRider",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_CCRider.jsfx",
+        "sha256": "00hpq032gsiwp1s749v27y2ymjby8gb342dd17al16chfzbgiyfb"
+      }
+    ]
+  },
+  "MIDI_HighPriority.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_HighPriority.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/MIDI/MIDI_HighPriority.jsfx",
+        "sha256": "0c06igd0drvqfmf4655b0rvinzb6lbak9mpvdnwbngyzc2vhx9ms"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_HighPriority.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/MIDI/MIDI_HighPriority.jsfx",
+        "sha256": "0c06igd0drvqfmf4655b0rvinzb6lbak9mpvdnwbngyzc2vhx9ms"
+      }
+    ]
+  },
+  "MIDI_Latch.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_Latch",
+        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_Latch.jsfx",
+        "sha256": "1p92vf243dsjhdd34a5rc3nssc1wyhbrgmx3zwywdgd9ryl7rpd5"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_Latch",
+        "url": "https://github.com/IXix/JSFX/raw/f34c80a30fa9805561788347ed58c220e47c4ed6/Effects/MIDI/MIDI_Latch.jsfx",
+        "sha256": "1p92vf243dsjhdd34a5rc3nssc1wyhbrgmx3zwywdgd9ryl7rpd5"
+      }
+    ]
+  },
+  "MIDI_Tool II.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_Tool II",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_Tool%20II.jsfx",
+        "sha256": "1zhivkcbml4qdwivg2dmz1mmsz30pdxhzqrrfwimhlfk24rsz612"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/IX/Effects/MIDI/../../MIDI_Tool II",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/MIDI/MIDI_Tool%20II.jsfx",
+        "sha256": "1zhivkcbml4qdwivg2dmz1mmsz30pdxhzqrrfwimhlfk24rsz612"
+      }
+    ]
+  },
+  "DC Generator.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/Utility/../../DC Generator.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Utility/DC%20Generator.jsfx",
+        "sha256": "1ys7qbjkj35ln80m5wbxy8cbqsgjhi7sqn65p32z6ns430snzcvs"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/IX/Effects/Utility/../../DC Generator.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Utility/DC%20Generator.jsfx",
+        "sha256": "1ys7qbjkj35ln80m5wbxy8cbqsgjhi7sqn65p32z6ns430snzcvs"
+      }
+    ]
+  },
+  "GlobalSliders.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/Utility/../../GlobalSliders.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Utility/GlobalSliders.jsfx",
+        "sha256": "0c6dqm8mp8qgknfdrxmpvk1gpkh993px9p466386qkh68h2pn4m6"
+      }
+    ],
+    "1.4a": [
+      {
+        "path": "Effects/IX/Effects/Utility/../../GlobalSliders.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Utility/GlobalSliders.jsfx",
+        "sha256": "0c6dqm8mp8qgknfdrxmpvk1gpkh993px9p466386qkh68h2pn4m6"
       }
     ]
   },
@@ -656,6 +672,54 @@
         "path": "Effects/IX/Effects/Audio/../../Switcher5.jsfx",
         "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/Switcher5.jsfx",
         "sha256": "0qgxphap83w7w9cp2ym6nydgq6b801al1zzaw940xk19ll2lwj06"
+      }
+    ]
+  },
+  "Mixer_8xM-1xS.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/Audio/../../Mixer_8xM-1xS",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Mixer_8xM-1xS.jsfx",
+        "sha256": "1qg2366ixxqspp4m3p8n3irxwar24r6hx7ff85y6qmnf42ngs7k9"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/IX/Effects/Audio/../../Mixer_8xM-1xS",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Mixer_8xM-1xS.jsfx",
+        "sha256": "1qg2366ixxqspp4m3p8n3irxwar24r6hx7ff85y6qmnf42ngs7k9"
+      }
+    ]
+  },
+  "SwixMitch.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/Audio/../../SwixMitch",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/SwixMitch.jsfx",
+        "sha256": "0wzp7gr62n151h0cic0992xn0rrcxsvlw0j8grzgvxpccpi09kk5"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/IX/Effects/Audio/../../SwixMitch",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/SwixMitch.jsfx",
+        "sha256": "0wzp7gr62n151h0cic0992xn0rrcxsvlw0j8grzgvxpccpi09kk5"
+      }
+    ]
+  },
+  "MuteOnStop.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/Audio/../../MuteOnStop.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteOnStop.jsfx",
+        "sha256": "1p6vswq28cx3cwg5cb4m71zysmqjn8kiw7nbxjbriynbk97d0k55"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/IX/Effects/Audio/../../MuteOnStop.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteOnStop.jsfx",
+        "sha256": "1p6vswq28cx3cwg5cb4m71zysmqjn8kiw7nbxjbriynbk97d0k55"
       }
     ]
   },
@@ -691,38 +755,6 @@
       }
     ]
   },
-  "PhaseAdjustingRouter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/Audio/../../PhaseAdjustingRouter",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/PhaseAdjustingRouter.jsfx",
-        "sha256": "05gydjjk59wn06fvz89y2vpig396wvhja4ybsglpqmq0n4bwy6c5"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/IX/Effects/Audio/../../PhaseAdjustingRouter",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/PhaseAdjustingRouter.jsfx",
-        "sha256": "05gydjjk59wn06fvz89y2vpig396wvhja4ybsglpqmq0n4bwy6c5"
-      }
-    ]
-  },
-  "MuteOnStop.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/Audio/../../MuteOnStop.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteOnStop.jsfx",
-        "sha256": "1p6vswq28cx3cwg5cb4m71zysmqjn8kiw7nbxjbriynbk97d0k55"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/IX/Effects/Audio/../../MuteOnStop.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteOnStop.jsfx",
-        "sha256": "1p6vswq28cx3cwg5cb4m71zysmqjn8kiw7nbxjbriynbk97d0k55"
-      }
-    ]
-  },
   "Switcher3.jsfx": {
     "latest": [
       {
@@ -739,35 +771,35 @@
       }
     ]
   },
-  "SwixMitch.jsfx": {
+  "PhaseAdjustingRouter.jsfx": {
     "latest": [
       {
-        "path": "Effects/IX/Effects/Audio/../../SwixMitch",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/SwixMitch.jsfx",
-        "sha256": "0wzp7gr62n151h0cic0992xn0rrcxsvlw0j8grzgvxpccpi09kk5"
+        "path": "Effects/IX/Effects/Audio/../../PhaseAdjustingRouter",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/PhaseAdjustingRouter.jsfx",
+        "sha256": "05gydjjk59wn06fvz89y2vpig396wvhja4ybsglpqmq0n4bwy6c5"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/IX/Effects/Audio/../../SwixMitch",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/SwixMitch.jsfx",
-        "sha256": "0wzp7gr62n151h0cic0992xn0rrcxsvlw0j8grzgvxpccpi09kk5"
+        "path": "Effects/IX/Effects/Audio/../../PhaseAdjustingRouter",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/PhaseAdjustingRouter.jsfx",
+        "sha256": "05gydjjk59wn06fvz89y2vpig396wvhja4ybsglpqmq0n4bwy6c5"
       }
     ]
   },
-  "Mixer_8xM-1xS.jsfx": {
+  "MuteRangeOnStop.jsfx": {
     "latest": [
       {
-        "path": "Effects/IX/Effects/Audio/../../Mixer_8xM-1xS",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Mixer_8xM-1xS.jsfx",
-        "sha256": "1qg2366ixxqspp4m3p8n3irxwar24r6hx7ff85y6qmnf42ngs7k9"
+        "path": "Effects/IX/Effects/Audio/../../MuteRangeOnStop.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteRangeOnStop.jsfx",
+        "sha256": "1916202ln69jdxzkh3klpvdbsxa9dsscn4lrq9yfwb5hx3si4q36"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/IX/Effects/Audio/../../Mixer_8xM-1xS",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Mixer_8xM-1xS.jsfx",
-        "sha256": "1qg2366ixxqspp4m3p8n3irxwar24r6hx7ff85y6qmnf42ngs7k9"
+        "path": "Effects/IX/Effects/Audio/../../MuteRangeOnStop.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteRangeOnStop.jsfx",
+        "sha256": "1916202ln69jdxzkh3klpvdbsxa9dsscn4lrq9yfwb5hx3si4q36"
       }
     ]
   },
@@ -784,38 +816,6 @@
         "path": "Effects/IX/Effects/Audio/../../Mixer_8xS-1xS",
         "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Mixer_8xS-1xS.jsfx",
         "sha256": "0qzmiss9nbdzx3dci4ykm915cbpfnl8b4sdzhv8r0w85402sf1p3"
-      }
-    ]
-  },
-  "DC Generator.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/Utility/../../DC Generator.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Utility/DC%20Generator.jsfx",
-        "sha256": "1ys7qbjkj35ln80m5wbxy8cbqsgjhi7sqn65p32z6ns430snzcvs"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/IX/Effects/Utility/../../DC Generator.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Utility/DC%20Generator.jsfx",
-        "sha256": "1ys7qbjkj35ln80m5wbxy8cbqsgjhi7sqn65p32z6ns430snzcvs"
-      }
-    ]
-  },
-  "GlobalSliders.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/Utility/../../GlobalSliders.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Utility/GlobalSliders.jsfx",
-        "sha256": "0c6dqm8mp8qgknfdrxmpvk1gpkh993px9p466386qkh68h2pn4m6"
-      }
-    ],
-    "1.4a": [
-      {
-        "path": "Effects/IX/Effects/Utility/../../GlobalSliders.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Utility/GlobalSliders.jsfx",
-        "sha256": "0c6dqm8mp8qgknfdrxmpvk1gpkh993px9p466386qkh68h2pn4m6"
       }
     ]
   }

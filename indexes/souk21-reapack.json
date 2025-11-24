@@ -1,951 +1,4 @@
 {
-  "Rename FX Instance.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/Rename FX Instance.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/25805a1abfea3550194358ea85b6fa0a6cc2d3f4/Scripts/Rename%20FX%20Instance.lua",
-        "sha256": "0yi8f5r14jwzl9m201z3cm4805r3apigg08s5is5qyvr875a1fcc"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/Rename FX Instance.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/25805a1abfea3550194358ea85b6fa0a6cc2d3f4/Scripts/Rename%20FX%20Instance.lua",
-        "sha256": "0yi8f5r14jwzl9m201z3cm4805r3apigg08s5is5qyvr875a1fcc"
-      }
-    ]
-  },
-  "Set block (buffer) size.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Halve block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Double block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set limits for double and halve block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      }
-    ],
-    "1.14": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Halve block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Double block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set limits for double and halve block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
-      }
-    ],
-    "1.13": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Double block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set limits for double/halve block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Halve block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
-      }
-    ],
-    "1.12": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set limits for 'double/halve block (buffer) size'.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Halve block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Double block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
-      }
-    ],
-    "1.11": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set limits for \"double/halve block (buffer) size\".lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Halve block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Double block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
-      }
-    ],
-    "1.10": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Double block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Halve block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
-      }
-    ],
-    "1.09": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Double block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Halve block (buffer) size.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
-      }
-    ],
-    "1.08": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
-      }
-    ],
-    "1.07": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
-      }
-    ],
-    "1.06": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
-      }
-    ],
-    "1.05": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
-      }
-    ],
-    "1.04": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/451964c2d3c710c4d0f4cbf3fffe2b53f7cabc0e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1plml5r0qwflj8nc8sc76p9fa8hdr5nvl9xysljyr1afhjj9rh3f"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/451964c2d3c710c4d0f4cbf3fffe2b53f7cabc0e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1plml5r0qwflj8nc8sc76p9fa8hdr5nvl9xysljyr1afhjj9rh3f"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/451964c2d3c710c4d0f4cbf3fffe2b53f7cabc0e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1plml5r0qwflj8nc8sc76p9fa8hdr5nvl9xysljyr1afhjj9rh3f"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/451964c2d3c710c4d0f4cbf3fffe2b53f7cabc0e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1plml5r0qwflj8nc8sc76p9fa8hdr5nvl9xysljyr1afhjj9rh3f"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/451964c2d3c710c4d0f4cbf3fffe2b53f7cabc0e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1plml5r0qwflj8nc8sc76p9fa8hdr5nvl9xysljyr1afhjj9rh3f"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/451964c2d3c710c4d0f4cbf3fffe2b53f7cabc0e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1plml5r0qwflj8nc8sc76p9fa8hdr5nvl9xysljyr1afhjj9rh3f"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/451964c2d3c710c4d0f4cbf3fffe2b53f7cabc0e/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1plml5r0qwflj8nc8sc76p9fa8hdr5nvl9xysljyr1afhjj9rh3f"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2ba1571a9887f9406ae614b69bedd73fa0986464/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1qgzk96b2z0li2hznb9rm5r2rzvbjhwwbhmpygzkszqlahms3245"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2ba1571a9887f9406ae614b69bedd73fa0986464/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1qgzk96b2z0li2hznb9rm5r2rzvbjhwwbhmpygzkszqlahms3245"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2ba1571a9887f9406ae614b69bedd73fa0986464/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1qgzk96b2z0li2hznb9rm5r2rzvbjhwwbhmpygzkszqlahms3245"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2ba1571a9887f9406ae614b69bedd73fa0986464/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1qgzk96b2z0li2hznb9rm5r2rzvbjhwwbhmpygzkszqlahms3245"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2ba1571a9887f9406ae614b69bedd73fa0986464/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1qgzk96b2z0li2hznb9rm5r2rzvbjhwwbhmpygzkszqlahms3245"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2ba1571a9887f9406ae614b69bedd73fa0986464/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1qgzk96b2z0li2hznb9rm5r2rzvbjhwwbhmpygzkszqlahms3245"
-      },
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2ba1571a9887f9406ae614b69bedd73fa0986464/Scripts/Set%20block%20(buffer)%20size.lua",
-        "sha256": "1qgzk96b2z0li2hznb9rm5r2rzvbjhwwbhmpygzkszqlahms3245"
-      }
-    ]
-  },
-  "Open floating \"Recent Projects\" menu at mouse position.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Open floating Recent Projects menu at mouse position.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d9d3088b93d49c81255b8c8cd38bab477a4a91a3/Scripts/Open%20floating%20%22Recent%20Projects%22%20menu%20at%20mouse%20position.lua",
-        "sha256": "03m9rakzjvj9xvbqmcmnbs95sq2c5jxcmkrnlcm2d959s7vnzkcx"
-      }
-    ],
-    "1.21": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Open floating Recent Projects menu at mouse position.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d9d3088b93d49c81255b8c8cd38bab477a4a91a3/Scripts/Open%20floating%20%22Recent%20Projects%22%20menu%20at%20mouse%20position.lua",
-        "sha256": "03m9rakzjvj9xvbqmcmnbs95sq2c5jxcmkrnlcm2d959s7vnzkcx"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Open floating \"Recent Projects\" menu at mouse position.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/33812f776ccfc453bc47e28656f8adde38e7f19d/Scripts/Open%20floating%20%22Recent%20Projects%22%20menu%20at%20mouse%20position.lua",
-        "sha256": "1ylarbbidf4wsbqqbzz8n626y9s8xl4k365b5pdjixd6zqcan7j3"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/Open floating \"Recent Projects\" menu at mouse position.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fa10b4b2d96f88f022df441d4381cf86639bf20/Scripts/Open%20floating%20%22Recent%20Projects%22%20menu%20at%20mouse%20position.lua",
-        "sha256": "1i8k829dsnxsk9vkbiyjll6ph1bvvmn4gb9f45hmc886r51gr1is"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Souk21 ReaPack/Scripts/Open floating \"Recent Projects\" menu at mouse position.lua",
-        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/01dd6b84c436a406ef06e499c1da50844e476b60/Scripts/Open%20floating%20%22Recent%20Projects%22%20menu%20at%20mouse%20position.lua",
-        "sha256": "0rhpmmscvk6w9m477mzxdm48mvmk4a7xpaz0xvzd32388cw5n01l"
-      }
-    ]
-  },
   "Key Sequences.lua": {
     "latest": [
       {
@@ -1071,6 +124,953 @@
         "path": "Scripts/Souk21 ReaPack/Scripts/Key Sequences.lua",
         "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/9ba7c7f12ebed0a1042e233bd2470c1c77cbfa35/Scripts/Key%20Sequences.lua",
         "sha256": "0f62872d79n7ddybfxvjbl0xcfjqqhgkssdnzjcdw638kamddnjh"
+      }
+    ]
+  },
+  "Set block (buffer) size.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set limits for double and halve block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Double block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Halve block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      }
+    ],
+    "1.14": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set limits for double and halve block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Double block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Halve block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/1ae305a88d938ea3175d44ea473d0e4598777f85/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "10bd5p7nkiw37r3cpkfs46j383kbddjc9cxzwx68zazfg4s1s5yx"
+      }
+    ],
+    "1.13": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Double block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Halve block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set limits for double/halve block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/4ceefccd1e1e9a278dd69f307d5e09663c50a65e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fnwyxj076wlbdm5g27ar79xb7xl52iak4vai5vv4kyh0lqhy03s"
+      }
+    ],
+    "1.12": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Halve block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Double block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set limits for 'double/halve block (buffer) size'.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/bd49e4198827df4ad3dc9ae0cdaecca4149fa151/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "15w9k3pw66vvdfl2jh5a7fg10ydmci84szmini79xq05rxi81fzr"
+      }
+    ],
+    "1.11": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Double block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set limits for \"double/halve block (buffer) size\".lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Halve block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/fa650dd33d461fc944c4fe493b20235cb47be01f/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0lz6gya1869chdiykswy1fnhdr88mk9g49a1qjm2xc2nkkgdx3hx"
+      }
+    ],
+    "1.10": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Double block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Halve block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fd74b7f73e341c777b2e68566bf9817a6d63009/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "02a32i53xhyjrasmhvrf2x820zbv3sfixp1k4fn57zwlfj5wz36i"
+      }
+    ],
+    "1.09": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Halve block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Double block (buffer) size.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5cda988e3f81f8b43d806c96795fdc60ae0897d/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "12h4didrfx0gy4vkvwf52n48b8shk7lrabpjq4df8p1phyrpwrx0"
+      }
+    ],
+    "1.08": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/95a0de7e0df7067d137bdb8da8ffd6c7ab06c2f4/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0d5y9c8yp58i89h909rlkj13ywxjljwdv48490ppli6z2rz3dwjr"
+      }
+    ],
+    "1.07": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 32.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 16.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 4096.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7e9bf5b31bcc2aeeeb8401015dba981678b636df/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1j13sxwm98ilcq15cifw9hqvw7fb2j0pz0wryp8mhykl41wzi6wh"
+      }
+    ],
+    "1.06": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/a56e2c6d09b04ee24ed13ca532c30947ffbe477c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0xn12miy2wq0d2iiyr25mwq2v7xa1yh9p3grijmg4xmrx6yxaznf"
+      }
+    ],
+    "1.05": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d5fb50d433b2165aa18670d6a4c805fd2e4d29fa/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1hy6pavbiphrp363wrqdzsfqs3j0cjn3r3dphxf25azrmi5bnzm2"
+      }
+    ],
+    "1.04": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/dadc4e2a2b32b13ddd50b40355d0b96b9f181b65/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1kyhgplwkaws069000s0ifhpx3whc2abzpqnnm7spyf696qvffgm"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d1c56c97033ef21a820cc61756ef13c225d3ef8c/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0jvdf70m40arxa2l4pijwikx4zqb2xg6q4z7skwgl66k16lchcjr"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (menu).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/7d1c5a145ee4e2f999103f503e33c3b3605cbc35/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "0fh2zh1sq6cmy11azrblp50wcjsc2q99b684w7jz5r0vifqgyyj6"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/451964c2d3c710c4d0f4cbf3fffe2b53f7cabc0e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1plml5r0qwflj8nc8sc76p9fa8hdr5nvl9xysljyr1afhjj9rh3f"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/451964c2d3c710c4d0f4cbf3fffe2b53f7cabc0e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1plml5r0qwflj8nc8sc76p9fa8hdr5nvl9xysljyr1afhjj9rh3f"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/451964c2d3c710c4d0f4cbf3fffe2b53f7cabc0e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1plml5r0qwflj8nc8sc76p9fa8hdr5nvl9xysljyr1afhjj9rh3f"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/451964c2d3c710c4d0f4cbf3fffe2b53f7cabc0e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1plml5r0qwflj8nc8sc76p9fa8hdr5nvl9xysljyr1afhjj9rh3f"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/451964c2d3c710c4d0f4cbf3fffe2b53f7cabc0e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1plml5r0qwflj8nc8sc76p9fa8hdr5nvl9xysljyr1afhjj9rh3f"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/451964c2d3c710c4d0f4cbf3fffe2b53f7cabc0e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1plml5r0qwflj8nc8sc76p9fa8hdr5nvl9xysljyr1afhjj9rh3f"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/451964c2d3c710c4d0f4cbf3fffe2b53f7cabc0e/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1plml5r0qwflj8nc8sc76p9fa8hdr5nvl9xysljyr1afhjj9rh3f"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size (prompt).lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2ba1571a9887f9406ae614b69bedd73fa0986464/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1qgzk96b2z0li2hznb9rm5r2rzvbjhwwbhmpygzkszqlahms3245"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 1024.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2ba1571a9887f9406ae614b69bedd73fa0986464/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1qgzk96b2z0li2hznb9rm5r2rzvbjhwwbhmpygzkszqlahms3245"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 64.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2ba1571a9887f9406ae614b69bedd73fa0986464/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1qgzk96b2z0li2hznb9rm5r2rzvbjhwwbhmpygzkszqlahms3245"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 512.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2ba1571a9887f9406ae614b69bedd73fa0986464/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1qgzk96b2z0li2hznb9rm5r2rzvbjhwwbhmpygzkszqlahms3245"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 256.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2ba1571a9887f9406ae614b69bedd73fa0986464/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1qgzk96b2z0li2hznb9rm5r2rzvbjhwwbhmpygzkszqlahms3245"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 128.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2ba1571a9887f9406ae614b69bedd73fa0986464/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1qgzk96b2z0li2hznb9rm5r2rzvbjhwwbhmpygzkszqlahms3245"
+      },
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Set block (buffer) size to 2048.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/2ba1571a9887f9406ae614b69bedd73fa0986464/Scripts/Set%20block%20(buffer)%20size.lua",
+        "sha256": "1qgzk96b2z0li2hznb9rm5r2rzvbjhwwbhmpygzkszqlahms3245"
+      }
+    ]
+  },
+  "Open floating \"Recent Projects\" menu at mouse position.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Open floating Recent Projects menu at mouse position.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d9d3088b93d49c81255b8c8cd38bab477a4a91a3/Scripts/Open%20floating%20%22Recent%20Projects%22%20menu%20at%20mouse%20position.lua",
+        "sha256": "03m9rakzjvj9xvbqmcmnbs95sq2c5jxcmkrnlcm2d959s7vnzkcx"
+      }
+    ],
+    "1.21": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Open floating Recent Projects menu at mouse position.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/d9d3088b93d49c81255b8c8cd38bab477a4a91a3/Scripts/Open%20floating%20%22Recent%20Projects%22%20menu%20at%20mouse%20position.lua",
+        "sha256": "03m9rakzjvj9xvbqmcmnbs95sq2c5jxcmkrnlcm2d959s7vnzkcx"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/souk21_Open floating \"Recent Projects\" menu at mouse position.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/33812f776ccfc453bc47e28656f8adde38e7f19d/Scripts/Open%20floating%20%22Recent%20Projects%22%20menu%20at%20mouse%20position.lua",
+        "sha256": "1ylarbbidf4wsbqqbzz8n626y9s8xl4k365b5pdjixd6zqcan7j3"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/Open floating \"Recent Projects\" menu at mouse position.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/3fa10b4b2d96f88f022df441d4381cf86639bf20/Scripts/Open%20floating%20%22Recent%20Projects%22%20menu%20at%20mouse%20position.lua",
+        "sha256": "1i8k829dsnxsk9vkbiyjll6ph1bvvmn4gb9f45hmc886r51gr1is"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/Open floating \"Recent Projects\" menu at mouse position.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/01dd6b84c436a406ef06e499c1da50844e476b60/Scripts/Open%20floating%20%22Recent%20Projects%22%20menu%20at%20mouse%20position.lua",
+        "sha256": "0rhpmmscvk6w9m477mzxdm48mvmk4a7xpaz0xvzd32388cw5n01l"
+      }
+    ]
+  },
+  "Rename FX Instance.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/Rename FX Instance.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/25805a1abfea3550194358ea85b6fa0a6cc2d3f4/Scripts/Rename%20FX%20Instance.lua",
+        "sha256": "0yi8f5r14jwzl9m201z3cm4805r3apigg08s5is5qyvr875a1fcc"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Souk21 ReaPack/Scripts/Rename FX Instance.lua",
+        "url": "https://github.com/Souk21/REAPER-scripts-and-effects/raw/25805a1abfea3550194358ea85b6fa0a6cc2d3f4/Scripts/Rename%20FX%20Instance.lua",
+        "sha256": "0yi8f5r14jwzl9m201z3cm4805r3apigg08s5is5qyvr875a1fcc"
       }
     ]
   },

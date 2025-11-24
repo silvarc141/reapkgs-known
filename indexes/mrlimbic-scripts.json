@@ -1,36 +1,4 @@
 {
-  "mrlimbic_apply vr rotate from item notes.lua": {
-    "latest": [
-      {
-        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_apply vr rotate from item notes.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/04d4addb431e99b1496dc2d9a1f2cf9b6669ca78/Envelopes/mrlimbic_apply%20vr%20rotate%20from%20item%20notes.lua",
-        "sha256": "01p38yyhd567a3753s083anq59r6y92wfnfsc215zvmw6bj3x2ds"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_apply vr rotate from item notes.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/04d4addb431e99b1496dc2d9a1f2cf9b6669ca78/Envelopes/mrlimbic_apply%20vr%20rotate%20from%20item%20notes.lua",
-        "sha256": "01p38yyhd567a3753s083anq59r6y92wfnfsc215zvmw6bj3x2ds"
-      }
-    ]
-  },
-  "mrlimbic_merge_track_volume_envelope_into_selected_items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
-        "sha256": "011l15vqh8vyqs8wj2bjgqzzzvqm5fcjla64mn059qg2j71jnpl0"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
-        "sha256": "011l15vqh8vyqs8wj2bjgqzzzvqm5fcjla64mn059qg2j71jnpl0"
-      }
-    ]
-  },
   "4-ch sidechain compressor.jsfx": {
     "latest": [
       {
@@ -44,22 +12,6 @@
         "path": "Effects/mrlimbic scripts/JSFX/4-ch sidechain compressor.jsfx",
         "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%20sidechain%20compressor.jsfx",
         "sha256": "11fp66d7nycirwrv1z4d253a8smxkn384iqhz5f9h6rgs7gr3whi"
-      }
-    ]
-  },
-  "4-ch 4-band splitter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch 4-band splitter.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%204-band%20splitter.jsfx",
-        "sha256": "0nby3bh90g4ac8ci8wdjwrwmi64947p88xr7n0m8k1r6w41mpxcg"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/mrlimbic scripts/JSFX/4-ch 4-band splitter.jsfx",
-        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%204-band%20splitter.jsfx",
-        "sha256": "0nby3bh90g4ac8ci8wdjwrwmi64947p88xr7n0m8k1r6w41mpxcg"
       }
     ]
   },
@@ -167,6 +119,22 @@
       }
     ]
   },
+  "4-ch 4-band splitter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch 4-band splitter.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%204-band%20splitter.jsfx",
+        "sha256": "0nby3bh90g4ac8ci8wdjwrwmi64947p88xr7n0m8k1r6w41mpxcg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/mrlimbic scripts/JSFX/4-ch 4-band splitter.jsfx",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/JSFX/4-ch%204-band%20splitter.jsfx",
+        "sha256": "0nby3bh90g4ac8ci8wdjwrwmi64947p88xr7n0m8k1r6w41mpxcg"
+      }
+    ]
+  },
   "Dopp Wobbler.jsfx": {
     "latest": [
       {
@@ -215,45 +183,6 @@
       }
     ]
   },
-  "mrlimbic_create regions from item groups.lua": {
-    "latest": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/2a4192934058a05446f172f08fd71712eb28fb78/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
-        "sha256": "1a84rgxqfyliz20nyajq7d7x7k5qrc41zxrvhvpcga3cyy45kmpq"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/2a4192934058a05446f172f08fd71712eb28fb78/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
-        "sha256": "1a84rgxqfyliz20nyajq7d7x7k5qrc41zxrvhvpcga3cyy45kmpq"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/44f16ce9f576d4e22bd5b32ba05f5108ca0ed886/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
-        "sha256": "0c4whbib6dlmpks65i23i4f3vmsdgg1dycqcbxibb4kk3h99z2jr"
-      }
-    ]
-  },
-  "mrlimbic_import timecoded regions from tab-delimited CSV.lua": {
-    "latest": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_import timecoded regions from tab-delimited CSV.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/fcf499d4f378cf623f35b163e1b76ae3de73bce0/Regions/mrlimbic_import%20timecoded%20regions%20from%20tab-delimited%20CSV.lua",
-        "sha256": "1ik133bxn6rqz7dsnm92c6vk8w9m43cjrphz26nkb7drylbk9mq4"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_import timecoded regions from tab-delimited CSV.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/fcf499d4f378cf623f35b163e1b76ae3de73bce0/Regions/mrlimbic_import%20timecoded%20regions%20from%20tab-delimited%20CSV.lua",
-        "sha256": "1ik133bxn6rqz7dsnm92c6vk8w9m43cjrphz26nkb7drylbk9mq4"
-      }
-    ]
-  },
   "mrlimbic_ffprobe scene detect.lua": {
     "latest": [
       {
@@ -293,6 +222,61 @@
       }
     ]
   },
+  "mrlimbic_add sequential mono sends to parent and disable master-parent send.lua": {
+    "latest": [
+      {
+        "path": "Scripts/mrlimbic scripts/Routing/mrlimbic_add sequential mono sends to parent and disable master-parent send.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/6d70cfd24d2aba3640775e80502d942b7de82c4f/Routing/mrlimbic_add%20sequential%20mono%20sends%20to%20parent%20and%20disable%20master-parent%20send.lua",
+        "sha256": "072yvviiwyyng3s0whgib8khy7k3aqah319zwjyxrbpa1hmw7bbr"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/mrlimbic scripts/Routing/mrlimbic_add sequential mono sends to parent and disable master-parent send.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/6d70cfd24d2aba3640775e80502d942b7de82c4f/Routing/mrlimbic_add%20sequential%20mono%20sends%20to%20parent%20and%20disable%20master-parent%20send.lua",
+        "sha256": "072yvviiwyyng3s0whgib8khy7k3aqah319zwjyxrbpa1hmw7bbr"
+      }
+    ]
+  },
+  "mrlimbic_create regions from item groups.lua": {
+    "latest": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/2a4192934058a05446f172f08fd71712eb28fb78/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
+        "sha256": "1a84rgxqfyliz20nyajq7d7x7k5qrc41zxrvhvpcga3cyy45kmpq"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/2a4192934058a05446f172f08fd71712eb28fb78/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
+        "sha256": "1a84rgxqfyliz20nyajq7d7x7k5qrc41zxrvhvpcga3cyy45kmpq"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_create regions from item groups.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/44f16ce9f576d4e22bd5b32ba05f5108ca0ed886/Regions/mrlimbic_create%20regions%20from%20item%20groups.lua",
+        "sha256": "0c4whbib6dlmpks65i23i4f3vmsdgg1dycqcbxibb4kk3h99z2jr"
+      }
+    ]
+  },
+  "mrlimbic_import timecoded regions from tab-delimited CSV.lua": {
+    "latest": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_import timecoded regions from tab-delimited CSV.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/fcf499d4f378cf623f35b163e1b76ae3de73bce0/Regions/mrlimbic_import%20timecoded%20regions%20from%20tab-delimited%20CSV.lua",
+        "sha256": "1ik133bxn6rqz7dsnm92c6vk8w9m43cjrphz26nkb7drylbk9mq4"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/mrlimbic scripts/Regions/mrlimbic_import timecoded regions from tab-delimited CSV.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/fcf499d4f378cf623f35b163e1b76ae3de73bce0/Regions/mrlimbic_import%20timecoded%20regions%20from%20tab-delimited%20CSV.lua",
+        "sha256": "1ik133bxn6rqz7dsnm92c6vk8w9m43cjrphz26nkb7drylbk9mq4"
+      }
+    ]
+  },
   "mrlimbic_timecode_entry.lua": {
     "latest": [
       {
@@ -309,19 +293,35 @@
       }
     ]
   },
-  "mrlimbic_add sequential mono sends to parent and disable master-parent send.lua": {
+  "mrlimbic_apply vr rotate from item notes.lua": {
     "latest": [
       {
-        "path": "Scripts/mrlimbic scripts/Routing/mrlimbic_add sequential mono sends to parent and disable master-parent send.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/6d70cfd24d2aba3640775e80502d942b7de82c4f/Routing/mrlimbic_add%20sequential%20mono%20sends%20to%20parent%20and%20disable%20master-parent%20send.lua",
-        "sha256": "072yvviiwyyng3s0whgib8khy7k3aqah319zwjyxrbpa1hmw7bbr"
+        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_apply vr rotate from item notes.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/04d4addb431e99b1496dc2d9a1f2cf9b6669ca78/Envelopes/mrlimbic_apply%20vr%20rotate%20from%20item%20notes.lua",
+        "sha256": "01p38yyhd567a3753s083anq59r6y92wfnfsc215zvmw6bj3x2ds"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/mrlimbic scripts/Routing/mrlimbic_add sequential mono sends to parent and disable master-parent send.lua",
-        "url": "https://github.com/mrlimbic/reascripts/raw/6d70cfd24d2aba3640775e80502d942b7de82c4f/Routing/mrlimbic_add%20sequential%20mono%20sends%20to%20parent%20and%20disable%20master-parent%20send.lua",
-        "sha256": "072yvviiwyyng3s0whgib8khy7k3aqah319zwjyxrbpa1hmw7bbr"
+        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_apply vr rotate from item notes.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/04d4addb431e99b1496dc2d9a1f2cf9b6669ca78/Envelopes/mrlimbic_apply%20vr%20rotate%20from%20item%20notes.lua",
+        "sha256": "01p38yyhd567a3753s083anq59r6y92wfnfsc215zvmw6bj3x2ds"
+      }
+    ]
+  },
+  "mrlimbic_merge_track_volume_envelope_into_selected_items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
+        "sha256": "011l15vqh8vyqs8wj2bjgqzzzvqm5fcjla64mn059qg2j71jnpl0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/mrlimbic scripts/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
+        "url": "https://github.com/mrlimbic/reascripts/raw/3129d5e358f892f293884614283984967d4e75b8/Envelopes/mrlimbic_merge_track_volume_envelope_into_selected_items.lua",
+        "sha256": "011l15vqh8vyqs8wj2bjgqzzzvqm5fcjla64mn059qg2j71jnpl0"
       }
     ]
   }

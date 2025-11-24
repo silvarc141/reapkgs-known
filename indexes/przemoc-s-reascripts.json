@@ -1,33 +1,33 @@
 {
-  "PPP - Move only right edge of selected items left by time selection length.eel": {
+  "PPP - Move edit cursor left by time selection length.eel": {
     "latest": [
       {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only right edge of selected items left by time selection length.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20right%20edge%20of%20selected%20items%20left%20by%20time%20selection%20length.eel",
-        "sha256": "05077av2iqhr536sj2f9j12xnc3mmsck9n7xjh4s65ppfx0wc04y"
+        "path": "Scripts/Przemoc's ReaScripts/Cursor/PPP - Move edit cursor left by time selection length.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Cursor/PPP%20-%20Move%20edit%20cursor%20left%20by%20time%20selection%20length.eel",
+        "sha256": "003ws54lapvmbclcbd9xwj7631lg5c9mvgsxdc4yikc8fx0idr1s"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only right edge of selected items left by time selection length.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20right%20edge%20of%20selected%20items%20left%20by%20time%20selection%20length.eel",
-        "sha256": "05077av2iqhr536sj2f9j12xnc3mmsck9n7xjh4s65ppfx0wc04y"
+        "path": "Scripts/Przemoc's ReaScripts/Cursor/PPP - Move edit cursor left by time selection length.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Cursor/PPP%20-%20Move%20edit%20cursor%20left%20by%20time%20selection%20length.eel",
+        "sha256": "003ws54lapvmbclcbd9xwj7631lg5c9mvgsxdc4yikc8fx0idr1s"
       }
     ]
   },
-  "PPP - Move selected items right by time selection length.eel": {
+  "PPP - Move edit cursor right by time selection length.eel": {
     "latest": [
       {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move selected items right by time selection length.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/5eb4935925b9b21bbee4fee901c7930186827313/Item/PPP%20-%20Move%20selected%20items%20right%20by%20time%20selection%20length.eel",
-        "sha256": "0dmpln0hx0crddhcyrb51lgrg8vlnz44clvqjlpj0vrkhh6hjh3l"
+        "path": "Scripts/Przemoc's ReaScripts/Cursor/PPP - Move edit cursor right by time selection length.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Cursor/PPP%20-%20Move%20edit%20cursor%20right%20by%20time%20selection%20length.eel",
+        "sha256": "1zqp0xmp7zdbjflknp0kff8bzpdz2y6a13rzx6i6khjlwpl2nbwf"
       }
     ],
-    "1.01": [
+    "1.0": [
       {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move selected items right by time selection length.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/5eb4935925b9b21bbee4fee901c7930186827313/Item/PPP%20-%20Move%20selected%20items%20right%20by%20time%20selection%20length.eel",
-        "sha256": "0dmpln0hx0crddhcyrb51lgrg8vlnz44clvqjlpj0vrkhh6hjh3l"
+        "path": "Scripts/Przemoc's ReaScripts/Cursor/PPP - Move edit cursor right by time selection length.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Cursor/PPP%20-%20Move%20edit%20cursor%20right%20by%20time%20selection%20length.eel",
+        "sha256": "1zqp0xmp7zdbjflknp0kff8bzpdz2y6a13rzx6i6khjlwpl2nbwf"
       }
     ]
   },
@@ -47,19 +47,19 @@
       }
     ]
   },
-  "PPP - Move only right edge of selected items right by time selection length.eel": {
+  "PPP - Move only left edge of selected items left by time selection length.eel": {
     "latest": [
       {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only right edge of selected items right by time selection length.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20right%20edge%20of%20selected%20items%20right%20by%20time%20selection%20length.eel",
-        "sha256": "1mg4ilib0x85flrj5j33k96gdjg7al1p517hh57n2p6yfx6bij4r"
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only left edge of selected items left by time selection length.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20left%20edge%20of%20selected%20items%20left%20by%20time%20selection%20length.eel",
+        "sha256": "0r7x4s2wnfv19vrrmpzqf92fahvggqs5m6c3f05q39nbx8905n20"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only right edge of selected items right by time selection length.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20right%20edge%20of%20selected%20items%20right%20by%20time%20selection%20length.eel",
-        "sha256": "1mg4ilib0x85flrj5j33k96gdjg7al1p517hh57n2p6yfx6bij4r"
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only left edge of selected items left by time selection length.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20left%20edge%20of%20selected%20items%20left%20by%20time%20selection%20length.eel",
+        "sha256": "0r7x4s2wnfv19vrrmpzqf92fahvggqs5m6c3f05q39nbx8905n20"
       }
     ]
   },
@@ -76,38 +76,6 @@
         "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only left edge of selected items right by time selection length preserving source position.eel",
         "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/5eb4935925b9b21bbee4fee901c7930186827313/Item/PPP%20-%20Move%20only%20left%20edge%20of%20selected%20items%20right%20by%20time%20selection%20length%20preserving%20source%20position.eel",
         "sha256": "1szpl2prd5zq0fgbx29zkq4ic2grqy92phm0qgihhg306jan7plx"
-      }
-    ]
-  },
-  "PPP - Move only left edge of selected items left by time selection length preserving source position.eel": {
-    "latest": [
-      {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only left edge of selected items left by time selection length preserving source position.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20left%20edge%20of%20selected%20items%20left%20by%20time%20selection%20length%20preserving%20source%20position.eel",
-        "sha256": "0ixz8knijv925yn3hiq72f9j4h93yk1glrfrn7l7p9jwhbcwgbxm"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only left edge of selected items left by time selection length preserving source position.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20left%20edge%20of%20selected%20items%20left%20by%20time%20selection%20length%20preserving%20source%20position.eel",
-        "sha256": "0ixz8knijv925yn3hiq72f9j4h93yk1glrfrn7l7p9jwhbcwgbxm"
-      }
-    ]
-  },
-  "PPP - Move only left edge of selected items left by time selection length.eel": {
-    "latest": [
-      {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only left edge of selected items left by time selection length.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20left%20edge%20of%20selected%20items%20left%20by%20time%20selection%20length.eel",
-        "sha256": "0r7x4s2wnfv19vrrmpzqf92fahvggqs5m6c3f05q39nbx8905n20"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only left edge of selected items left by time selection length.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20left%20edge%20of%20selected%20items%20left%20by%20time%20selection%20length.eel",
-        "sha256": "0r7x4s2wnfv19vrrmpzqf92fahvggqs5m6c3f05q39nbx8905n20"
       }
     ]
   },
@@ -140,38 +108,6 @@
         "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Add all items on the left of edit cursor to selection.eel",
         "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Add%20all%20items%20on%20the%20left%20of%20edit%20cursor%20to%20selection.eel",
         "sha256": "0vjv17wn4fb7gkd3m3bmzgvj410b8r6bam21f2xkl1k8f1aihfyy"
-      }
-    ]
-  },
-  "PPP - Add whole items on the left of edit cursor to selection.eel": {
-    "latest": [
-      {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Add whole items on the left of edit cursor to selection.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Add%20whole%20items%20on%20the%20left%20of%20edit%20cursor%20to%20selection.eel",
-        "sha256": "1raa2y47kq5qgv8yia8wv9krzr3d7x74af6n02wji2igdq3qs0p4"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Add whole items on the left of edit cursor to selection.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Add%20whole%20items%20on%20the%20left%20of%20edit%20cursor%20to%20selection.eel",
-        "sha256": "1raa2y47kq5qgv8yia8wv9krzr3d7x74af6n02wji2igdq3qs0p4"
-      }
-    ]
-  },
-  "PPP - Unselect all items on the right of edit cursor.eel": {
-    "latest": [
-      {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Unselect all items on the right of edit cursor.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Unselect%20all%20items%20on%20the%20right%20of%20edit%20cursor.eel",
-        "sha256": "114b5yzijx567plan868v7r94nbgd7qhhc2y3h6gmbqlswgrg5j9"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Unselect all items on the right of edit cursor.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Unselect%20all%20items%20on%20the%20right%20of%20edit%20cursor.eel",
-        "sha256": "114b5yzijx567plan868v7r94nbgd7qhhc2y3h6gmbqlswgrg5j9"
       }
     ]
   },
@@ -223,38 +159,6 @@
       }
     ]
   },
-  "PPP - Unselect all items on the left of edit cursor.eel": {
-    "latest": [
-      {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Unselect all items on the left of edit cursor.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Unselect%20all%20items%20on%20the%20left%20of%20edit%20cursor.eel",
-        "sha256": "16461xnxizr5bb5dbw713v371sdz5z7yvibgl8ihdi2qvfij67im"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Unselect all items on the left of edit cursor.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Unselect%20all%20items%20on%20the%20left%20of%20edit%20cursor.eel",
-        "sha256": "16461xnxizr5bb5dbw713v371sdz5z7yvibgl8ihdi2qvfij67im"
-      }
-    ]
-  },
-  "PPP - Move only left edge of selected items right by time selection length.eel": {
-    "latest": [
-      {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only left edge of selected items right by time selection length.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/5eb4935925b9b21bbee4fee901c7930186827313/Item/PPP%20-%20Move%20only%20left%20edge%20of%20selected%20items%20right%20by%20time%20selection%20length.eel",
-        "sha256": "0r2m25pbqabbgiw5dxk29nw52p8q2j549mbdzw1xhlcqnq9cxc1l"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only left edge of selected items right by time selection length.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/5eb4935925b9b21bbee4fee901c7930186827313/Item/PPP%20-%20Move%20only%20left%20edge%20of%20selected%20items%20right%20by%20time%20selection%20length.eel",
-        "sha256": "0r2m25pbqabbgiw5dxk29nw52p8q2j549mbdzw1xhlcqnq9cxc1l"
-      }
-    ]
-  },
   "PPP - Unselect items under edit cursor.eel": {
     "latest": [
       {
@@ -287,6 +191,38 @@
       }
     ]
   },
+  "PPP - Unselect all items on the right of edit cursor.eel": {
+    "latest": [
+      {
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Unselect all items on the right of edit cursor.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Unselect%20all%20items%20on%20the%20right%20of%20edit%20cursor.eel",
+        "sha256": "114b5yzijx567plan868v7r94nbgd7qhhc2y3h6gmbqlswgrg5j9"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Unselect all items on the right of edit cursor.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Unselect%20all%20items%20on%20the%20right%20of%20edit%20cursor.eel",
+        "sha256": "114b5yzijx567plan868v7r94nbgd7qhhc2y3h6gmbqlswgrg5j9"
+      }
+    ]
+  },
+  "PPP - Unselect all items on the left of edit cursor.eel": {
+    "latest": [
+      {
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Unselect all items on the left of edit cursor.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Unselect%20all%20items%20on%20the%20left%20of%20edit%20cursor.eel",
+        "sha256": "16461xnxizr5bb5dbw713v371sdz5z7yvibgl8ihdi2qvfij67im"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Unselect all items on the left of edit cursor.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Unselect%20all%20items%20on%20the%20left%20of%20edit%20cursor.eel",
+        "sha256": "16461xnxizr5bb5dbw713v371sdz5z7yvibgl8ihdi2qvfij67im"
+      }
+    ]
+  },
   "PPP - Add items under edit cursor to selection.eel": {
     "latest": [
       {
@@ -303,35 +239,99 @@
       }
     ]
   },
-  "PPP - Move edit cursor left by time selection length.eel": {
+  "PPP - Move selected items right by time selection length.eel": {
     "latest": [
       {
-        "path": "Scripts/Przemoc's ReaScripts/Cursor/PPP - Move edit cursor left by time selection length.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Cursor/PPP%20-%20Move%20edit%20cursor%20left%20by%20time%20selection%20length.eel",
-        "sha256": "003ws54lapvmbclcbd9xwj7631lg5c9mvgsxdc4yikc8fx0idr1s"
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move selected items right by time selection length.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/5eb4935925b9b21bbee4fee901c7930186827313/Item/PPP%20-%20Move%20selected%20items%20right%20by%20time%20selection%20length.eel",
+        "sha256": "0dmpln0hx0crddhcyrb51lgrg8vlnz44clvqjlpj0vrkhh6hjh3l"
       }
     ],
-    "1.0": [
+    "1.01": [
       {
-        "path": "Scripts/Przemoc's ReaScripts/Cursor/PPP - Move edit cursor left by time selection length.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Cursor/PPP%20-%20Move%20edit%20cursor%20left%20by%20time%20selection%20length.eel",
-        "sha256": "003ws54lapvmbclcbd9xwj7631lg5c9mvgsxdc4yikc8fx0idr1s"
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move selected items right by time selection length.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/5eb4935925b9b21bbee4fee901c7930186827313/Item/PPP%20-%20Move%20selected%20items%20right%20by%20time%20selection%20length.eel",
+        "sha256": "0dmpln0hx0crddhcyrb51lgrg8vlnz44clvqjlpj0vrkhh6hjh3l"
       }
     ]
   },
-  "PPP - Move edit cursor right by time selection length.eel": {
+  "PPP - Move only left edge of selected items left by time selection length preserving source position.eel": {
     "latest": [
       {
-        "path": "Scripts/Przemoc's ReaScripts/Cursor/PPP - Move edit cursor right by time selection length.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Cursor/PPP%20-%20Move%20edit%20cursor%20right%20by%20time%20selection%20length.eel",
-        "sha256": "1zqp0xmp7zdbjflknp0kff8bzpdz2y6a13rzx6i6khjlwpl2nbwf"
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only left edge of selected items left by time selection length preserving source position.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20left%20edge%20of%20selected%20items%20left%20by%20time%20selection%20length%20preserving%20source%20position.eel",
+        "sha256": "0ixz8knijv925yn3hiq72f9j4h93yk1glrfrn7l7p9jwhbcwgbxm"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Przemoc's ReaScripts/Cursor/PPP - Move edit cursor right by time selection length.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Cursor/PPP%20-%20Move%20edit%20cursor%20right%20by%20time%20selection%20length.eel",
-        "sha256": "1zqp0xmp7zdbjflknp0kff8bzpdz2y6a13rzx6i6khjlwpl2nbwf"
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only left edge of selected items left by time selection length preserving source position.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20left%20edge%20of%20selected%20items%20left%20by%20time%20selection%20length%20preserving%20source%20position.eel",
+        "sha256": "0ixz8knijv925yn3hiq72f9j4h93yk1glrfrn7l7p9jwhbcwgbxm"
+      }
+    ]
+  },
+  "PPP - Move only right edge of selected items right by time selection length.eel": {
+    "latest": [
+      {
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only right edge of selected items right by time selection length.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20right%20edge%20of%20selected%20items%20right%20by%20time%20selection%20length.eel",
+        "sha256": "1mg4ilib0x85flrj5j33k96gdjg7al1p517hh57n2p6yfx6bij4r"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only right edge of selected items right by time selection length.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20right%20edge%20of%20selected%20items%20right%20by%20time%20selection%20length.eel",
+        "sha256": "1mg4ilib0x85flrj5j33k96gdjg7al1p517hh57n2p6yfx6bij4r"
+      }
+    ]
+  },
+  "PPP - Move only right edge of selected items left by time selection length.eel": {
+    "latest": [
+      {
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only right edge of selected items left by time selection length.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20right%20edge%20of%20selected%20items%20left%20by%20time%20selection%20length.eel",
+        "sha256": "05077av2iqhr536sj2f9j12xnc3mmsck9n7xjh4s65ppfx0wc04y"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only right edge of selected items left by time selection length.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/b0a6cb7fc5963f31cca7151f7133928e08eb5706/Item/PPP%20-%20Move%20only%20right%20edge%20of%20selected%20items%20left%20by%20time%20selection%20length.eel",
+        "sha256": "05077av2iqhr536sj2f9j12xnc3mmsck9n7xjh4s65ppfx0wc04y"
+      }
+    ]
+  },
+  "PPP - Move only left edge of selected items right by time selection length.eel": {
+    "latest": [
+      {
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only left edge of selected items right by time selection length.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/5eb4935925b9b21bbee4fee901c7930186827313/Item/PPP%20-%20Move%20only%20left%20edge%20of%20selected%20items%20right%20by%20time%20selection%20length.eel",
+        "sha256": "0r2m25pbqabbgiw5dxk29nw52p8q2j549mbdzw1xhlcqnq9cxc1l"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Move only left edge of selected items right by time selection length.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/5eb4935925b9b21bbee4fee901c7930186827313/Item/PPP%20-%20Move%20only%20left%20edge%20of%20selected%20items%20right%20by%20time%20selection%20length.eel",
+        "sha256": "0r2m25pbqabbgiw5dxk29nw52p8q2j549mbdzw1xhlcqnq9cxc1l"
+      }
+    ]
+  },
+  "PPP - Add whole items on the left of edit cursor to selection.eel": {
+    "latest": [
+      {
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Add whole items on the left of edit cursor to selection.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Add%20whole%20items%20on%20the%20left%20of%20edit%20cursor%20to%20selection.eel",
+        "sha256": "1raa2y47kq5qgv8yia8wv9krzr3d7x74af6n02wji2igdq3qs0p4"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Add whole items on the left of edit cursor to selection.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Add%20whole%20items%20on%20the%20left%20of%20edit%20cursor%20to%20selection.eel",
+        "sha256": "1raa2y47kq5qgv8yia8wv9krzr3d7x74af6n02wji2igdq3qs0p4"
       }
     ]
   },
