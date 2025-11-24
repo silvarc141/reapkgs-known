@@ -26,11 +26,9 @@
 
       mkRepo = filename: _type: let
         repoName = removeSuffix ".json" filename;
+        repoIndex = mkReaPackIndex (indexesDir + "/${filename}");
       in
-        nameValuePair repoName (mkReaPackIndex {
-          inherit pkgs;
-          jsonPath = indexesDir + "/${filename}";
-        });
+        nameValuePair repoName repoIndex;
     in {
       formatter = pkgs.alejandra;
       legacyPackages = mapAttrs' mkRepo jsonFiles;
