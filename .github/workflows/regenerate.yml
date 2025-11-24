@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v5
       - uses: wimpysworld/nothing-but-nix@main
       - uses: cachix/install-nix-action@v31
-      - name: generate indexes
+      - name: Generate JSON for each 'known' ReaPack index
         run: |
           nix run nixpkgs#nushell -- -c '
             mkdir indexes
@@ -24,7 +24,7 @@ jobs:
             http get https://reapack.com/repos.txt
             | lines
             | each {|repo_url|
-                print $"Processing ($repo_url)..."
+                print $"Processing ($repo_url)"
 
                 try {
                     let index_data = (http get $repo_url)
@@ -46,8 +46,7 @@ jobs:
                 }
             }
           '
-
-      - name: commit
+      - name: Commit
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
