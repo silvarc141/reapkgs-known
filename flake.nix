@@ -16,7 +16,7 @@
 
       inherit (builtins) readDir;
       inherit (pkgs.lib) hasSuffix filterAttrs mapAttrs' nameValuePair removeSuffix;
-      inherit (reapkgs.lib) mkReaPackIndex;
+      inherit (reapkgs.lib.${system}) mkReaPackIndex;
 
       indexesDir = ./indexes;
 
