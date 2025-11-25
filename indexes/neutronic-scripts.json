@@ -1,4 +1,99 @@
 {
+  "neutronic_MIDI plug and play.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_MIDI plug and play.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/075357353fee3e35d510f552bf340dacb2204d3a/Utilities/neutronic_MIDI%20plug%20and%20play.lua",
+        "sha256": "0g6a7mwavy2zgfilp7yarz3g5iksms0qsirwh57d8szdb4b605jj"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_MIDI plug and play.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/075357353fee3e35d510f552bf340dacb2204d3a/Utilities/neutronic_MIDI%20plug%20and%20play.lua",
+        "sha256": "0g6a7mwavy2zgfilp7yarz3g5iksms0qsirwh57d8szdb4b605jj"
+      }
+    ]
+  },
+  "neutronic_Quick add FX or track template.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/f7fbe7f132f729a575378404362fbc009024fe18/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
+        "sha256": "1ayp5n1jv3ccc3xgb713dq54nc43l9xkl9rw4jclr762x8f981lg"
+      }
+    ],
+    "1.50": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/f7fbe7f132f729a575378404362fbc009024fe18/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
+        "sha256": "1ayp5n1jv3ccc3xgb713dq54nc43l9xkl9rw4jclr762x8f981lg"
+      }
+    ],
+    "1.47": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/8da5e1b2631566dc8fc17d7172e8322bfae982de/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
+        "sha256": "1y3fjh64nf287l9adjhnwsjfvkr8wc9i6rp2ww2fry1fvhywwqrs"
+      }
+    ],
+    "1.45": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/91246c69b73fbb6bd29ca17e545305f6ca852d89/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
+        "sha256": "0yyqw30ndz7ky0cgqsiha73pi7sjwy2jha91x13i1czcn75mz2r2"
+      }
+    ],
+    "1.40": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/a3afd851884f362ef47e5fca53a436b7df61be7e/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
+        "sha256": "1imq653q3bnqhkk7vbmm7zpnw1xaq06kfkkzzd02mwlvjd07jfsm"
+      }
+    ],
+    "1.31": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/eb0fb57e8f482767ad5505b65560b773287ca61e/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
+        "sha256": "0n4ji4z551j6vbl26a4n8a55fpbrvjsr7psi0mww20qkgji6f79q"
+      }
+    ],
+    "1.30": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/8ae886c20c56d0ee69c2218e69762d75e3396ad8/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
+        "sha256": "153z6s6zcizqbphpgc9d9hcxcq2lxqklwnrpnr0731nkvgy05q5z"
+      }
+    ],
+    "1.25": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/893b941533ca6fd6e951da142a901f8c9ad7ae53/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
+        "sha256": "09z9fn12qwalqwnvj5dgi9gjczghah7wbmfi5528srii8xik3k0i"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/1331e689063ff76a81232122889e00cf267039ee/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
+        "sha256": "0h5k5hf6dpq8zyj5631dacz87p4bs9b8ms94plxnmz63i8zmh0hc"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/e258ed63aa732b4087f5688a7e5897d564fe0137/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
+        "sha256": "11rsswazdsvc8nn5fnsrkpk421wybbc0a5s4zf4ppyv03fnhvj8m"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/61d082d8e115cebca98f3e6d5e0f9d24aac959f7/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
+        "sha256": "0cxy27ynkcqi8jllmmlblm36gya8s1r56qaqbppznx5y0c5b1y7x"
+      }
+    ]
+  },
   "neutronic_Quick Adder 2.lua": {
     "latest": [
       {
@@ -239,138 +334,6 @@
       }
     ]
   },
-  "neutronic_Show track or take envelope for last touched parameter.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/32d6cc09fff9a559affabf281c4fb430edb6d69d/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
-        "sha256": "1msg97nzihvby45akxmsp6nqncd4l8ixq03gld63wzp59736iz77"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/32d6cc09fff9a559affabf281c4fb430edb6d69d/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
-        "sha256": "1msg97nzihvby45akxmsp6nqncd4l8ixq03gld63wzp59736iz77"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/20d398c5bbabaed2b374897ccf2fabf9812962ef/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
-        "sha256": "0aq95y1ml64n45cxrnyb4ddqabwmzfpjbcfsa18w42k42v0r21r1"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/59827435b6b0992f6c01a87580770efe84f3d33f/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
-        "sha256": "0h4jrxwy6q003g4kk0hv6n9a41lvgwcgxn7fidscxnpl8kybaxav"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/55ea23d43b8f441a0a2b5e9bc2e1e85884513a6d/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
-        "sha256": "1vv1g7yavr5ai2cx8408d62ajh7ylm5fg9nkk2p3ahxjmd9awzqr"
-      }
-    ]
-  },
-  "neutronic_MIDI plug and play.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_MIDI plug and play.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/075357353fee3e35d510f552bf340dacb2204d3a/Utilities/neutronic_MIDI%20plug%20and%20play.lua",
-        "sha256": "0g6a7mwavy2zgfilp7yarz3g5iksms0qsirwh57d8szdb4b605jj"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_MIDI plug and play.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/075357353fee3e35d510f552bf340dacb2204d3a/Utilities/neutronic_MIDI%20plug%20and%20play.lua",
-        "sha256": "0g6a7mwavy2zgfilp7yarz3g5iksms0qsirwh57d8szdb4b605jj"
-      }
-    ]
-  },
-  "neutronic_Quick add FX or track template.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/f7fbe7f132f729a575378404362fbc009024fe18/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
-        "sha256": "1ayp5n1jv3ccc3xgb713dq54nc43l9xkl9rw4jclr762x8f981lg"
-      }
-    ],
-    "1.50": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/f7fbe7f132f729a575378404362fbc009024fe18/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
-        "sha256": "1ayp5n1jv3ccc3xgb713dq54nc43l9xkl9rw4jclr762x8f981lg"
-      }
-    ],
-    "1.47": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/8da5e1b2631566dc8fc17d7172e8322bfae982de/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
-        "sha256": "1y3fjh64nf287l9adjhnwsjfvkr8wc9i6rp2ww2fry1fvhywwqrs"
-      }
-    ],
-    "1.45": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/91246c69b73fbb6bd29ca17e545305f6ca852d89/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
-        "sha256": "0yyqw30ndz7ky0cgqsiha73pi7sjwy2jha91x13i1czcn75mz2r2"
-      }
-    ],
-    "1.40": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/a3afd851884f362ef47e5fca53a436b7df61be7e/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
-        "sha256": "1imq653q3bnqhkk7vbmm7zpnw1xaq06kfkkzzd02mwlvjd07jfsm"
-      }
-    ],
-    "1.31": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/eb0fb57e8f482767ad5505b65560b773287ca61e/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
-        "sha256": "0n4ji4z551j6vbl26a4n8a55fpbrvjsr7psi0mww20qkgji6f79q"
-      }
-    ],
-    "1.30": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/8ae886c20c56d0ee69c2218e69762d75e3396ad8/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
-        "sha256": "153z6s6zcizqbphpgc9d9hcxcq2lxqklwnrpnr0731nkvgy05q5z"
-      }
-    ],
-    "1.25": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/893b941533ca6fd6e951da142a901f8c9ad7ae53/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
-        "sha256": "09z9fn12qwalqwnvj5dgi9gjczghah7wbmfi5528srii8xik3k0i"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/1331e689063ff76a81232122889e00cf267039ee/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
-        "sha256": "0h5k5hf6dpq8zyj5631dacz87p4bs9b8ms94plxnmz63i8zmh0hc"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/e258ed63aa732b4087f5688a7e5897d564fe0137/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
-        "sha256": "11rsswazdsvc8nn5fnsrkpk421wybbc0a5s4zf4ppyv03fnhvj8m"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/neutronic_Quick add FX or track template.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/61d082d8e115cebca98f3e6d5e0f9d24aac959f7/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua",
-        "sha256": "0cxy27ynkcqi8jllmmlblm36gya8s1r56qaqbppznx5y0c5b1y7x"
-      }
-    ]
-  },
   "neutronic_Quick Adder 2 -- optimize GUI size for 1080p.lua": {
     "latest": [
       {
@@ -464,6 +427,43 @@
         "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- refresh database.lua",
         "url": "https://github.com/Neutronic/ReaScripts/raw/94a0aea5da7e167fcab35fa9b8340f1723823b59/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20refresh%20database.lua",
         "sha256": "1niy27j3x7w9q6r1hm65m86bg4335fx8hypnbgsc5l8d2lpm8bfg"
+      }
+    ]
+  },
+  "neutronic_Show track or take envelope for last touched parameter.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/32d6cc09fff9a559affabf281c4fb430edb6d69d/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
+        "sha256": "1msg97nzihvby45akxmsp6nqncd4l8ixq03gld63wzp59736iz77"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/32d6cc09fff9a559affabf281c4fb430edb6d69d/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
+        "sha256": "1msg97nzihvby45akxmsp6nqncd4l8ixq03gld63wzp59736iz77"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/20d398c5bbabaed2b374897ccf2fabf9812962ef/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
+        "sha256": "0aq95y1ml64n45cxrnyb4ddqabwmzfpjbcfsa18w42k42v0r21r1"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/59827435b6b0992f6c01a87580770efe84f3d33f/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
+        "sha256": "0h4jrxwy6q003g4kk0hv6n9a41lvgwcgxn7fidscxnpl8kybaxav"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/55ea23d43b8f441a0a2b5e9bc2e1e85884513a6d/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
+        "sha256": "1vv1g7yavr5ai2cx8408d62ajh7ylm5fg9nkk2p3ahxjmd9awzqr"
       }
     ]
   }

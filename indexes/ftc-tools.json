@@ -3502,65 +3502,53 @@
       }
     ]
   },
-  "Colorize active theme to match unthemeable areas.lua": {
+  "Smart-freeze.lua": {
     "latest": [
       {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize active theme to match unthemeable areas.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/6f7dba33a016ca2378c05d2393428e4357d37fa3/LibSwell%20Colorize/Colorize%20active%20theme%20to%20match%20unthemeable%20areas.lua",
-        "sha256": "09g8q25bc42nik6r846q1gcd237qbdqmpznmf8h5a7ckr8h1kaka"
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20selected%20tracks.lua",
+        "sha256": "0ckdzyp78xv25d308rslbz654xy63c76l4gs2ysk72rz80m56mfg"
+      },
+      {
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20settings.lua",
+        "sha256": "1pqg2rjz3bn0xcs7szz89hl757v8dnqlzkmj8azar7y58q2b8mh6"
       }
     ],
-    "1.0.1": [
+    "1.1.1": [
       {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize active theme to match unthemeable areas.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/6f7dba33a016ca2378c05d2393428e4357d37fa3/LibSwell%20Colorize/Colorize%20active%20theme%20to%20match%20unthemeable%20areas.lua",
-        "sha256": "09g8q25bc42nik6r846q1gcd237qbdqmpznmf8h5a7ckr8h1kaka"
-      }
-    ],
-    "1.0.0": [
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20selected%20tracks.lua",
+        "sha256": "0ckdzyp78xv25d308rslbz654xy63c76l4gs2ysk72rz80m56mfg"
+      },
       {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize active theme to match unthemeable areas.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/019f97c636c34b984a3dc23ad39cf997099c07fe/LibSwell%20Colorize/Colorize%20active%20theme%20to%20match%20unthemeable%20areas.lua",
-        "sha256": "1akmpncws8ggbd58wyk3r9ihp3bf669lb2f572p61znkiyadzzxb"
-      }
-    ]
-  },
-  "Colorize unthemeable areas to match active theme.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize unthemeable areas to match active theme.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/fc93887cd9c3e44cc855406a6b88ce7913c1d7fe/LibSwell%20Colorize/Colorize%20unthemeable%20areas%20to%20match%20active%20theme.lua",
-        "sha256": "1j6nnmbafw07djmaxnpx3ggxwkjahlhics9xkvag6xv2zxh0ib98"
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20settings.lua",
+        "sha256": "1pqg2rjz3bn0xcs7szz89hl757v8dnqlzkmj8azar7y58q2b8mh6"
       }
     ],
     "1.1.0": [
       {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize unthemeable areas to match active theme.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/fc93887cd9c3e44cc855406a6b88ce7913c1d7fe/LibSwell%20Colorize/Colorize%20unthemeable%20areas%20to%20match%20active%20theme.lua",
-        "sha256": "1j6nnmbafw07djmaxnpx3ggxwkjahlhics9xkvag6xv2zxh0ib98"
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/55090f0de946439d8b9b4b2641f7876edbd7c59a/Freeze/Smart-freeze%20selected%20tracks.lua",
+        "sha256": "0whg7997ldv2ac71ghmpdr3aa13mijvl7gfja3yw77y4wb1vxxq7"
+      },
+      {
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/55090f0de946439d8b9b4b2641f7876edbd7c59a/Freeze/Smart-freeze%20settings.lua",
+        "sha256": "0ix84lhf3vsvpw1bc8z42br0kdv94dnsg2b8psck0gw7xvj4cqli"
       }
     ],
     "1.0.0": [
       {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize unthemeable areas to match active theme.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/e057b6fba968b1644fa3661218784777267248d4/LibSwell%20Colorize/Colorize%20unthemeable%20areas%20to%20match%20active%20theme.lua",
-        "sha256": "1lg8b24ba1dc9zq2flyjhqsdm3y6dy7mk2rm88l7q4wnm0rc331c"
-      }
-    ]
-  },
-  "Set unthemeable area colors (override).lua": {
-    "latest": [
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c4f4a0c76c3eece6ed3728a45cb9c77f8e58810/Freeze/Smart-freeze%20selected%20tracks.lua",
+        "sha256": "0lv5vvq2djpnl67jaz8dyplisr8m453ncyalg4k65mcwwv13sjnr"
+      },
       {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Set unthemeable area colors (override).lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/019f97c636c34b984a3dc23ad39cf997099c07fe/LibSwell%20Colorize/Set%20unthemeable%20area%20colors%20(override).lua",
-        "sha256": "0zcwlawl2ia4hd2ghalz7lw4357wkvhzp9rwvwbf7bwgwwkqhmb4"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/LibSwell Colorize/Set unthemeable area colors (override).lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/019f97c636c34b984a3dc23ad39cf997099c07fe/LibSwell%20Colorize/Set%20unthemeable%20area%20colors%20(override).lua",
-        "sha256": "0zcwlawl2ia4hd2ghalz7lw4357wkvhzp9rwvwbf7bwgwwkqhmb4"
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c4f4a0c76c3eece6ed3728a45cb9c77f8e58810/Freeze/Smart-freeze%20settings.lua",
+        "sha256": "0vv82fwjqp8zzxqziyjq8m2gzlzhwc01l0fqgx07mfwcvy8xy0m8"
       }
     ]
   },
@@ -10352,205 +10340,6 @@
       }
     ]
   },
-  "Move razor edit down by one track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit down by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20down%20by%20one%20track.lua",
-        "sha256": "0zgsjy9djzdxi021m7aba2bisbs1lh57cwzw6wcfqm1zb6fnj0fb"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit down by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20down%20by%20one%20track.lua",
-        "sha256": "0zgsjy9djzdxi021m7aba2bisbs1lh57cwzw6wcfqm1zb6fnj0fb"
-      }
-    ]
-  },
-  "Move razor edit left by grid size.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20grid%20size.lua",
-        "sha256": "0ghkfxnaf00pzp2xm3xzvsd6a95g7mkzm3vp1bbm9m9f5qzkv6ab"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20grid%20size.lua",
-        "sha256": "0ghkfxnaf00pzp2xm3xzvsd6a95g7mkzm3vp1bbm9m9f5qzkv6ab"
-      }
-    ]
-  },
-  "Move razor edit left by one measure.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20one%20measure.lua",
-        "sha256": "1wpj2mh35px7rgnbyakcvvqbv8gnplirlbs1xp09a879826gd5g6"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20one%20measure.lua",
-        "sha256": "1wpj2mh35px7rgnbyakcvvqbv8gnplirlbs1xp09a879826gd5g6"
-      }
-    ]
-  },
-  "Move razor edit right by grid size.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20grid%20size.lua",
-        "sha256": "1x4bz84a179dsdwa6rvig4jaxx8ryifprfah2wfyc32n3zpxqwmg"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20grid%20size.lua",
-        "sha256": "1x4bz84a179dsdwa6rvig4jaxx8ryifprfah2wfyc32n3zpxqwmg"
-      }
-    ]
-  },
-  "Move razor edit right by one measure.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20one%20measure.lua",
-        "sha256": "06dxllws01krxrmn8ic26jr8q13irx0ndkr2lxnq9ik18n52p6v0"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20one%20measure.lua",
-        "sha256": "06dxllws01krxrmn8ic26jr8q13irx0ndkr2lxnq9ik18n52p6v0"
-      }
-    ]
-  },
-  "Move razor edit up by one track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit up by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20up%20by%20one%20track.lua",
-        "sha256": "0sv72ahvpij41nlp4z5ac86xnsgbx11h2rgczzc6cwkxb9vgi5xf"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Move razor edit up by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20up%20by%20one%20track.lua",
-        "sha256": "0sv72ahvpij41nlp4z5ac86xnsgbx11h2rgczzc6cwkxb9vgi5xf"
-      }
-    ]
-  },
-  "Resize razor edit down by one track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit down by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20down%20by%20one%20track.lua",
-        "sha256": "0w1x3rhbj1ljbbmfjhzc093ajhmh5s71pgg7r2jbdc0iim8s4sbv"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit down by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20down%20by%20one%20track.lua",
-        "sha256": "0w1x3rhbj1ljbbmfjhzc093ajhmh5s71pgg7r2jbdc0iim8s4sbv"
-      }
-    ]
-  },
-  "Resize razor edit left by grid size.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20grid%20size.lua",
-        "sha256": "0aj0pj07hdxcs1gm8g767lby72c5mmx8fs5fykmpay6cbplff1va"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20grid%20size.lua",
-        "sha256": "0aj0pj07hdxcs1gm8g767lby72c5mmx8fs5fykmpay6cbplff1va"
-      }
-    ]
-  },
-  "Resize razor edit left by one measure.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20one%20measure.lua",
-        "sha256": "0spx35jhsmmkcw1y15fgb0ki447gnj35ikhc0ck3mha304md1qjw"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20one%20measure.lua",
-        "sha256": "0spx35jhsmmkcw1y15fgb0ki447gnj35ikhc0ck3mha304md1qjw"
-      }
-    ]
-  },
-  "Resize razor edit right by grid size.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20grid%20size.lua",
-        "sha256": "08a5jx8xyix61nz1mpzqfn0xzlma1dyrbc4293xy9sixjl5g3xwz"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by grid size.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20grid%20size.lua",
-        "sha256": "08a5jx8xyix61nz1mpzqfn0xzlma1dyrbc4293xy9sixjl5g3xwz"
-      }
-    ]
-  },
-  "Resize razor edit right by one measure.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20one%20measure.lua",
-        "sha256": "1nhc0a1s25bm8ijrl5jswvb7knjw5wnyk363jbbaw9frypnxbx3i"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by one measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20one%20measure.lua",
-        "sha256": "1nhc0a1s25bm8ijrl5jswvb7knjw5wnyk363jbbaw9frypnxbx3i"
-      }
-    ]
-  },
-  "Resize razor edit up by one track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit up by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cc63f962cb7d4d609e7dd552eed52038673dcfd2/Razor%20edits/Resize%20razor%20edit%20up%20by%20one%20track.lua",
-        "sha256": "1avpsny94i4wspfphb5qf1l357bq7lbgcm9km3rh16qclwclqcaw"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit up by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cc63f962cb7d4d609e7dd552eed52038673dcfd2/Razor%20edits/Resize%20razor%20edit%20up%20by%20one%20track.lua",
-        "sha256": "1avpsny94i4wspfphb5qf1l357bq7lbgcm9km3rh16qclwclqcaw"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit up by one track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20up%20by%20one%20track.lua",
-        "sha256": "0cvshpv5l8prwkz2f3yyshsqx5cw80skc1rgz1zf8nv87fzrnwna"
-      }
-    ]
-  },
   "Insert media into sample player on next played note(s).lua": {
     "latest": [
       {
@@ -11288,6 +11077,91 @@
       }
     ]
   },
+  "Keep only one floating fx open and centered in screen, exclude master track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen, exclude master track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen,%20exclude%20master%20track.lua",
+        "sha256": "196jlfpq43d8w5ydk2faj9hg4vlg1q46cwkr45jlvvhvmqn86z1r"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen, exclude master track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen,%20exclude%20master%20track.lua",
+        "sha256": "196jlfpq43d8w5ydk2faj9hg4vlg1q46cwkr45jlvvhvmqn86z1r"
+      }
+    ]
+  },
+  "Keep only one floating fx open and centered in screen.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen.lua",
+        "sha256": "1xrpvncpgnplvr1zdx88hja8rr76fzqwj29ywki2ks31fj90h9aj"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen.lua",
+        "sha256": "1xrpvncpgnplvr1zdx88hja8rr76fzqwj29ywki2ks31fj90h9aj"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/77cfa6934990505a31e5dbcb4c84b587e84933d0/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen.lua",
+        "sha256": "1kzsxz72mbi9hqgq0s0jxx17scmx0cw27vabip7wmn58hmi89hm1"
+      }
+    ]
+  },
+  "Keep only one floating fx open at the same position, exclude master track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position, exclude master track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position,%20exclude%20master%20track.lua",
+        "sha256": "1l7as9s2nwb0ppwr9fap7rk3kyx4gvyf0zg2lai4nnz1xw91h2xx"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position, exclude master track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position,%20exclude%20master%20track.lua",
+        "sha256": "1l7as9s2nwb0ppwr9fap7rk3kyx4gvyf0zg2lai4nnz1xw91h2xx"
+      }
+    ]
+  },
+  "Keep only one floating fx open at the same position.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position.lua",
+        "sha256": "1i9nqa2yfkbm27q21p4y5845dyg0x857ynh8l2x7xp392yqnz3s3"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position.lua",
+        "sha256": "1i9nqa2yfkbm27q21p4y5845dyg0x857ynh8l2x7xp392yqnz3s3"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/4cb154e04b5d0f18ae1b07cee0d00546b6e9e83f/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position.lua",
+        "sha256": "1c7438nji2z3s4krv2crlxbm15hv0zk26j5rykjjhzgvpj0bqm8d"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/509435e68365e63634f5c6319ae7ec622ee20c8f/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position.lua",
+        "sha256": "09i78rmjxwckpjln6sh41n08wza43qrw6iaflfvb16wxcdfdqmn1"
+      }
+    ]
+  },
   "FTC_Record takes without new splits (extend items).lua": {
     "latest": [
       {
@@ -11390,141 +11264,6 @@
       }
     ]
   },
-  "Keep only one floating fx open and centered in screen, exclude master track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen, exclude master track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen,%20exclude%20master%20track.lua",
-        "sha256": "196jlfpq43d8w5ydk2faj9hg4vlg1q46cwkr45jlvvhvmqn86z1r"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen, exclude master track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen,%20exclude%20master%20track.lua",
-        "sha256": "196jlfpq43d8w5ydk2faj9hg4vlg1q46cwkr45jlvvhvmqn86z1r"
-      }
-    ]
-  },
-  "Keep only one floating fx open and centered in screen.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen.lua",
-        "sha256": "1xrpvncpgnplvr1zdx88hja8rr76fzqwj29ywki2ks31fj90h9aj"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen.lua",
-        "sha256": "1xrpvncpgnplvr1zdx88hja8rr76fzqwj29ywki2ks31fj90h9aj"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open and centered in screen.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/77cfa6934990505a31e5dbcb4c84b587e84933d0/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20and%20centered%20in%20screen.lua",
-        "sha256": "1kzsxz72mbi9hqgq0s0jxx17scmx0cw27vabip7wmn58hmi89hm1"
-      }
-    ]
-  },
-  "Keep only one floating fx open at the same position, exclude master track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position, exclude master track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position,%20exclude%20master%20track.lua",
-        "sha256": "1l7as9s2nwb0ppwr9fap7rk3kyx4gvyf0zg2lai4nnz1xw91h2xx"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position, exclude master track.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position,%20exclude%20master%20track.lua",
-        "sha256": "1l7as9s2nwb0ppwr9fap7rk3kyx4gvyf0zg2lai4nnz1xw91h2xx"
-      }
-    ]
-  },
-  "Keep only one floating fx open at the same position.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position.lua",
-        "sha256": "1i9nqa2yfkbm27q21p4y5845dyg0x857ynh8l2x7xp392yqnz3s3"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05e8494349268ffa7ef3a367e1b95438326e6183/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position.lua",
-        "sha256": "1i9nqa2yfkbm27q21p4y5845dyg0x857ynh8l2x7xp392yqnz3s3"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/4cb154e04b5d0f18ae1b07cee0d00546b6e9e83f/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position.lua",
-        "sha256": "1c7438nji2z3s4krv2crlxbm15hv0zk26j5rykjjhzgvpj0bqm8d"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/509435e68365e63634f5c6319ae7ec622ee20c8f/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position.lua",
-        "sha256": "09i78rmjxwckpjln6sh41n08wza43qrw6iaflfvb16wxcdfdqmn1"
-      }
-    ]
-  },
-  "Smart-freeze.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20selected%20tracks.lua",
-        "sha256": "0ckdzyp78xv25d308rslbz654xy63c76l4gs2ysk72rz80m56mfg"
-      },
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20settings.lua",
-        "sha256": "1pqg2rjz3bn0xcs7szz89hl757v8dnqlzkmj8azar7y58q2b8mh6"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20selected%20tracks.lua",
-        "sha256": "0ckdzyp78xv25d308rslbz654xy63c76l4gs2ysk72rz80m56mfg"
-      },
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20settings.lua",
-        "sha256": "1pqg2rjz3bn0xcs7szz89hl757v8dnqlzkmj8azar7y58q2b8mh6"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/55090f0de946439d8b9b4b2641f7876edbd7c59a/Freeze/Smart-freeze%20selected%20tracks.lua",
-        "sha256": "0whg7997ldv2ac71ghmpdr3aa13mijvl7gfja3yw77y4wb1vxxq7"
-      },
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/55090f0de946439d8b9b4b2641f7876edbd7c59a/Freeze/Smart-freeze%20settings.lua",
-        "sha256": "0ix84lhf3vsvpw1bc8z42br0kdv94dnsg2b8psck0gw7xvj4cqli"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c4f4a0c76c3eece6ed3728a45cb9c77f8e58810/Freeze/Smart-freeze%20selected%20tracks.lua",
-        "sha256": "0lv5vvq2djpnl67jaz8dyplisr8m453ncyalg4k65mcwwv13sjnr"
-      },
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c4f4a0c76c3eece6ed3728a45cb9c77f8e58810/Freeze/Smart-freeze%20settings.lua",
-        "sha256": "0vv82fwjqp8zzxqziyjq8m2gzlzhwc01l0fqgx07mfwcvy8xy0m8"
-      }
-    ]
-  },
   "Create an approximate razor edit from region under mouse.lua": {
     "latest": [
       {
@@ -11584,6 +11323,267 @@
         "path": "Scripts/FTC Tools/Mouse modifiers/Remove region including contents (Ruler alt double click).lua",
         "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/21e12afff8d51f1533d128cdebb0189115c908a6/Mouse%20modifiers/Remove%20region%20including%20contents%20(Ruler%20alt%20double%20click).lua",
         "sha256": "0mx7826g6viq56zlpvc8gpzrc8ic3y9frkprn7nhk992bvghgm78"
+      }
+    ]
+  },
+  "Move razor edit down by one track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit down by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20down%20by%20one%20track.lua",
+        "sha256": "0zgsjy9djzdxi021m7aba2bisbs1lh57cwzw6wcfqm1zb6fnj0fb"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit down by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20down%20by%20one%20track.lua",
+        "sha256": "0zgsjy9djzdxi021m7aba2bisbs1lh57cwzw6wcfqm1zb6fnj0fb"
+      }
+    ]
+  },
+  "Move razor edit left by grid size.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20grid%20size.lua",
+        "sha256": "0ghkfxnaf00pzp2xm3xzvsd6a95g7mkzm3vp1bbm9m9f5qzkv6ab"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20grid%20size.lua",
+        "sha256": "0ghkfxnaf00pzp2xm3xzvsd6a95g7mkzm3vp1bbm9m9f5qzkv6ab"
+      }
+    ]
+  },
+  "Move razor edit left by one measure.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20one%20measure.lua",
+        "sha256": "1wpj2mh35px7rgnbyakcvvqbv8gnplirlbs1xp09a879826gd5g6"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit left by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20left%20by%20one%20measure.lua",
+        "sha256": "1wpj2mh35px7rgnbyakcvvqbv8gnplirlbs1xp09a879826gd5g6"
+      }
+    ]
+  },
+  "Move razor edit right by grid size.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20grid%20size.lua",
+        "sha256": "1x4bz84a179dsdwa6rvig4jaxx8ryifprfah2wfyc32n3zpxqwmg"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20grid%20size.lua",
+        "sha256": "1x4bz84a179dsdwa6rvig4jaxx8ryifprfah2wfyc32n3zpxqwmg"
+      }
+    ]
+  },
+  "Move razor edit right by one measure.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20one%20measure.lua",
+        "sha256": "06dxllws01krxrmn8ic26jr8q13irx0ndkr2lxnq9ik18n52p6v0"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit right by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20right%20by%20one%20measure.lua",
+        "sha256": "06dxllws01krxrmn8ic26jr8q13irx0ndkr2lxnq9ik18n52p6v0"
+      }
+    ]
+  },
+  "Move razor edit up by one track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit up by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20up%20by%20one%20track.lua",
+        "sha256": "0sv72ahvpij41nlp4z5ac86xnsgbx11h2rgczzc6cwkxb9vgi5xf"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Move razor edit up by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Move%20razor%20edit%20up%20by%20one%20track.lua",
+        "sha256": "0sv72ahvpij41nlp4z5ac86xnsgbx11h2rgczzc6cwkxb9vgi5xf"
+      }
+    ]
+  },
+  "Resize razor edit down by one track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit down by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20down%20by%20one%20track.lua",
+        "sha256": "0w1x3rhbj1ljbbmfjhzc093ajhmh5s71pgg7r2jbdc0iim8s4sbv"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit down by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20down%20by%20one%20track.lua",
+        "sha256": "0w1x3rhbj1ljbbmfjhzc093ajhmh5s71pgg7r2jbdc0iim8s4sbv"
+      }
+    ]
+  },
+  "Resize razor edit left by grid size.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20grid%20size.lua",
+        "sha256": "0aj0pj07hdxcs1gm8g767lby72c5mmx8fs5fykmpay6cbplff1va"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20grid%20size.lua",
+        "sha256": "0aj0pj07hdxcs1gm8g767lby72c5mmx8fs5fykmpay6cbplff1va"
+      }
+    ]
+  },
+  "Resize razor edit left by one measure.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20one%20measure.lua",
+        "sha256": "0spx35jhsmmkcw1y15fgb0ki447gnj35ikhc0ck3mha304md1qjw"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit left by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20left%20by%20one%20measure.lua",
+        "sha256": "0spx35jhsmmkcw1y15fgb0ki447gnj35ikhc0ck3mha304md1qjw"
+      }
+    ]
+  },
+  "Resize razor edit right by grid size.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20grid%20size.lua",
+        "sha256": "08a5jx8xyix61nz1mpzqfn0xzlma1dyrbc4293xy9sixjl5g3xwz"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by grid size.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20grid%20size.lua",
+        "sha256": "08a5jx8xyix61nz1mpzqfn0xzlma1dyrbc4293xy9sixjl5g3xwz"
+      }
+    ]
+  },
+  "Resize razor edit right by one measure.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20one%20measure.lua",
+        "sha256": "1nhc0a1s25bm8ijrl5jswvb7knjw5wnyk363jbbaw9frypnxbx3i"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit right by one measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20right%20by%20one%20measure.lua",
+        "sha256": "1nhc0a1s25bm8ijrl5jswvb7knjw5wnyk363jbbaw9frypnxbx3i"
+      }
+    ]
+  },
+  "Resize razor edit up by one track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit up by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cc63f962cb7d4d609e7dd552eed52038673dcfd2/Razor%20edits/Resize%20razor%20edit%20up%20by%20one%20track.lua",
+        "sha256": "1avpsny94i4wspfphb5qf1l357bq7lbgcm9km3rh16qclwclqcaw"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit up by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cc63f962cb7d4d609e7dd552eed52038673dcfd2/Razor%20edits/Resize%20razor%20edit%20up%20by%20one%20track.lua",
+        "sha256": "1avpsny94i4wspfphb5qf1l357bq7lbgcm9km3rh16qclwclqcaw"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Razor edits/Resize razor edit up by one track.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/5ebfba4499f1c1689945e97e92cd36d84d03a590/Razor%20edits/Resize%20razor%20edit%20up%20by%20one%20track.lua",
+        "sha256": "0cvshpv5l8prwkz2f3yyshsqx5cw80skc1rgz1zf8nv87fzrnwna"
+      }
+    ]
+  },
+  "Colorize active theme to match unthemeable areas.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize active theme to match unthemeable areas.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/6f7dba33a016ca2378c05d2393428e4357d37fa3/LibSwell%20Colorize/Colorize%20active%20theme%20to%20match%20unthemeable%20areas.lua",
+        "sha256": "09g8q25bc42nik6r846q1gcd237qbdqmpznmf8h5a7ckr8h1kaka"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize active theme to match unthemeable areas.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/6f7dba33a016ca2378c05d2393428e4357d37fa3/LibSwell%20Colorize/Colorize%20active%20theme%20to%20match%20unthemeable%20areas.lua",
+        "sha256": "09g8q25bc42nik6r846q1gcd237qbdqmpznmf8h5a7ckr8h1kaka"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize active theme to match unthemeable areas.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/019f97c636c34b984a3dc23ad39cf997099c07fe/LibSwell%20Colorize/Colorize%20active%20theme%20to%20match%20unthemeable%20areas.lua",
+        "sha256": "1akmpncws8ggbd58wyk3r9ihp3bf669lb2f572p61znkiyadzzxb"
+      }
+    ]
+  },
+  "Colorize unthemeable areas to match active theme.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize unthemeable areas to match active theme.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/fc93887cd9c3e44cc855406a6b88ce7913c1d7fe/LibSwell%20Colorize/Colorize%20unthemeable%20areas%20to%20match%20active%20theme.lua",
+        "sha256": "1j6nnmbafw07djmaxnpx3ggxwkjahlhics9xkvag6xv2zxh0ib98"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize unthemeable areas to match active theme.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/fc93887cd9c3e44cc855406a6b88ce7913c1d7fe/LibSwell%20Colorize/Colorize%20unthemeable%20areas%20to%20match%20active%20theme.lua",
+        "sha256": "1j6nnmbafw07djmaxnpx3ggxwkjahlhics9xkvag6xv2zxh0ib98"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Colorize unthemeable areas to match active theme.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/e057b6fba968b1644fa3661218784777267248d4/LibSwell%20Colorize/Colorize%20unthemeable%20areas%20to%20match%20active%20theme.lua",
+        "sha256": "1lg8b24ba1dc9zq2flyjhqsdm3y6dy7mk2rm88l7q4wnm0rc331c"
+      }
+    ]
+  },
+  "Set unthemeable area colors (override).lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Set unthemeable area colors (override).lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/019f97c636c34b984a3dc23ad39cf997099c07fe/LibSwell%20Colorize/Set%20unthemeable%20area%20colors%20(override).lua",
+        "sha256": "0zcwlawl2ia4hd2ghalz7lw4357wkvhzp9rwvwbf7bwgwwkqhmb4"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/LibSwell Colorize/Set unthemeable area colors (override).lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/019f97c636c34b984a3dc23ad39cf997099c07fe/LibSwell%20Colorize/Set%20unthemeable%20area%20colors%20(override).lua",
+        "sha256": "0zcwlawl2ia4hd2ghalz7lw4357wkvhzp9rwvwbf7bwgwwkqhmb4"
       }
     ]
   },

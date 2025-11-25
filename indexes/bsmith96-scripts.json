@@ -1,4 +1,166 @@
 {
+  "Create marker with name via OSC.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/49d8565ce2233548af6fd923064c2d3dfefe5640/Markers/Qlab5.ReaperOSC",
+        "sha256": "0g2vakkf0vk6xiy2nmkfldl6g7hlbd2572vpdrl15hv91vkkhbcc"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Create marker with name via OSC.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/49d8565ce2233548af6fd923064c2d3dfefe5640/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
+        "sha256": "13ir9bz88gfbf77xi49ms6xicvcshv1m2g9r6prmalnqci2d7bv3"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/49d8565ce2233548af6fd923064c2d3dfefe5640/Markers/Qlab5.ReaperOSC",
+        "sha256": "0g2vakkf0vk6xiy2nmkfldl6g7hlbd2572vpdrl15hv91vkkhbcc"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Create marker with name via OSC.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/49d8565ce2233548af6fd923064c2d3dfefe5640/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
+        "sha256": "13ir9bz88gfbf77xi49ms6xicvcshv1m2g9r6prmalnqci2d7bv3"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/c23565a1ea90600ba223dfe63396405a7c13cbd5/Markers/Qlab5.ReaperOSC",
+        "sha256": "0g2vakkf0vk6xiy2nmkfldl6g7hlbd2572vpdrl15hv91vkkhbcc"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Create marker with name via OSC.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/c23565a1ea90600ba223dfe63396405a7c13cbd5/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
+        "sha256": "05x9rn4m24r30rvb9c5ajmq9bvss5151qn4w5pdvav081yjmlha2"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/6e0f3801f5dbd3373e9f4b25843fc8091d811848/Markers/Qlab5.ReaperOSC",
+        "sha256": "0g2vakkf0vk6xiy2nmkfldl6g7hlbd2572vpdrl15hv91vkkhbcc"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Create marker with name via OSC.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/6e0f3801f5dbd3373e9f4b25843fc8091d811848/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
+        "sha256": "0kksv0n4kx7bk15fsvwg6rfhxgz70j0n91lwc8q1k5qzj3r4zkqi"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/ca9d13a013830434f34f45028f120f6c36a1ab75/Markers/Qlab5.ReaperOSC",
+        "sha256": "0g2vakkf0vk6xiy2nmkfldl6g7hlbd2572vpdrl15hv91vkkhbcc"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Create marker with name via OSC.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/ca9d13a013830434f34f45028f120f6c36a1ab75/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
+        "sha256": "1fcp14hf258d3dkjwkmzl927f63qwhpgzqi1wrns1f675ygwg3cf"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_qosc.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/ca9d13a013830434f34f45028f120f6c36a1ab75/Markers/qosc.lua",
+        "sha256": "01lj781wc2jx19vcxy67n1q00cplbfizhc5shd1xmrym929dgf8p"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/a28df476a9cda4bd06b20b56e07392901cecf2e3/Markers/Qlab5.ReaperOSC",
+        "sha256": "0fbmgnyfxab470kyfnbgrxbhl58nh1hlyna2nn002vsgbgz7wdf4"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Create marker with name via OSC.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/a28df476a9cda4bd06b20b56e07392901cecf2e3/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
+        "sha256": "09839y6vn7b05fawyqdl80ia6igsyfql5n46m22ffcafygg0cgn7"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_qosc.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/a28df476a9cda4bd06b20b56e07392901cecf2e3/Markers/qosc.lua",
+        "sha256": "01lj781wc2jx19vcxy67n1q00cplbfizhc5shd1xmrym929dgf8p"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3301e46b37ef9b0e0a610a16f6dd4c250d1c5f97/Markers/Qlab5.ReaperOSC",
+        "sha256": "0fbmgnyfxab470kyfnbgrxbhl58nh1hlyna2nn002vsgbgz7wdf4"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Create marker with name via OSC.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3301e46b37ef9b0e0a610a16f6dd4c250d1c5f97/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
+        "sha256": "0hp1x71pwwbin4jd1ha2yxjpbzk36lrq43h063sqilxi05qs4hpv"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/qosc.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3301e46b37ef9b0e0a610a16f6dd4c250d1c5f97/Markers/qosc.lua",
+        "sha256": "01lj781wc2jx19vcxy67n1q00cplbfizhc5shd1xmrym929dgf8p"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/50cb9d46df95b752b89475a40989ffcfdb3faa64/Markers/Qlab5.ReaperOSC",
+        "sha256": "0fbmgnyfxab470kyfnbgrxbhl58nh1hlyna2nn002vsgbgz7wdf4"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_{filename}.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/50cb9d46df95b752b89475a40989ffcfdb3faa64/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
+        "sha256": "0xzgmv2ckyxxqnqhna14fd1gc9l5jfq1nfajgrhbwld91a87mf4i"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/osc.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/50cb9d46df95b752b89475a40989ffcfdb3faa64/Markers/osc.lua",
+        "sha256": "17ywcjpm8rdixy758yc00j3yhlywlp9fj67as18ak0ckl2z8flw1"
+      }
+    ]
+  },
+  "Locate to marker.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Locate to marker.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Markers/Locate%20to%20marker.lua",
+        "sha256": "1rzyimbgj8hxqqbzs2mqinhrh3abnhj37fv0196q6x88vwwmycz8"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Locate to marker.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Markers/Locate%20to%20marker.lua",
+        "sha256": "1rzyimbgj8hxqqbzs2mqinhrh3abnhj37fv0196q6x88vwwmycz8"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Locate to marker.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/79756306aecc585403f7c35bb3ed25c6725cfe62/Markers/Locate%20to%20marker.lua",
+        "sha256": "04s84v883n1h18aj04mxbf6jq2pppaq32w3j8l74g734i00r1f5x"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/Locate to marker.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/a4877ef322519e8e70cf65f8eb5b8257213e5ee1/Markers/Locate%20to%20marker.lua",
+        "sha256": "0rrpcr44v3zbm09xia4ap6f3gk37y08zq76k4bjfz4myl9ahwz42"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/Locate to marker.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3a64b41837b2b92c0ea4982a40321d046882e453/Markers/Locate%20to%20marker.lua",
+        "sha256": "0j9c78kzrp8jilws28aa1wj80q70dskz9mjn8y0l6si8a4810hi0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Markers/Locate to marker.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/00cef1e4b944f1562e5e07c146825bad77d18e2e/Markers/Locate%20to%20marker.lua",
+        "sha256": "18ck2fy74ri2qz4svw6hlkfrvgw9kvzf8bg54bfsy6z7g8m53sik"
+      }
+    ]
+  },
   "Arm All Tracks Within Folders.lua": {
     "latest": [
       {
@@ -785,168 +947,6 @@
         "path": "Scripts/BSmith96 Scripts/Tracks/Put selected tracks in new folder track.lua",
         "url": "https://github.com/bsmith96/Reaper-Scripts/raw/00cef1e4b944f1562e5e07c146825bad77d18e2e/Tracks/Put%20selected%20tracks%20in%20new%20folder%20track.lua",
         "sha256": "1ydqsc1li4ikvnnjb4ivkvml9y8960ga6082ir03cwmmj3l9wwa9"
-      }
-    ]
-  },
-  "Create marker with name via OSC.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/49d8565ce2233548af6fd923064c2d3dfefe5640/Markers/Qlab5.ReaperOSC",
-        "sha256": "0g2vakkf0vk6xiy2nmkfldl6g7hlbd2572vpdrl15hv91vkkhbcc"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Create marker with name via OSC.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/49d8565ce2233548af6fd923064c2d3dfefe5640/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
-        "sha256": "13ir9bz88gfbf77xi49ms6xicvcshv1m2g9r6prmalnqci2d7bv3"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/49d8565ce2233548af6fd923064c2d3dfefe5640/Markers/Qlab5.ReaperOSC",
-        "sha256": "0g2vakkf0vk6xiy2nmkfldl6g7hlbd2572vpdrl15hv91vkkhbcc"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Create marker with name via OSC.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/49d8565ce2233548af6fd923064c2d3dfefe5640/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
-        "sha256": "13ir9bz88gfbf77xi49ms6xicvcshv1m2g9r6prmalnqci2d7bv3"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/c23565a1ea90600ba223dfe63396405a7c13cbd5/Markers/Qlab5.ReaperOSC",
-        "sha256": "0g2vakkf0vk6xiy2nmkfldl6g7hlbd2572vpdrl15hv91vkkhbcc"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Create marker with name via OSC.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/c23565a1ea90600ba223dfe63396405a7c13cbd5/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
-        "sha256": "05x9rn4m24r30rvb9c5ajmq9bvss5151qn4w5pdvav081yjmlha2"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/6e0f3801f5dbd3373e9f4b25843fc8091d811848/Markers/Qlab5.ReaperOSC",
-        "sha256": "0g2vakkf0vk6xiy2nmkfldl6g7hlbd2572vpdrl15hv91vkkhbcc"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Create marker with name via OSC.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/6e0f3801f5dbd3373e9f4b25843fc8091d811848/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
-        "sha256": "0kksv0n4kx7bk15fsvwg6rfhxgz70j0n91lwc8q1k5qzj3r4zkqi"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/ca9d13a013830434f34f45028f120f6c36a1ab75/Markers/Qlab5.ReaperOSC",
-        "sha256": "0g2vakkf0vk6xiy2nmkfldl6g7hlbd2572vpdrl15hv91vkkhbcc"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Create marker with name via OSC.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/ca9d13a013830434f34f45028f120f6c36a1ab75/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
-        "sha256": "1fcp14hf258d3dkjwkmzl927f63qwhpgzqi1wrns1f675ygwg3cf"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_qosc.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/ca9d13a013830434f34f45028f120f6c36a1ab75/Markers/qosc.lua",
-        "sha256": "01lj781wc2jx19vcxy67n1q00cplbfizhc5shd1xmrym929dgf8p"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/a28df476a9cda4bd06b20b56e07392901cecf2e3/Markers/Qlab5.ReaperOSC",
-        "sha256": "0fbmgnyfxab470kyfnbgrxbhl58nh1hlyna2nn002vsgbgz7wdf4"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Create marker with name via OSC.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/a28df476a9cda4bd06b20b56e07392901cecf2e3/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
-        "sha256": "09839y6vn7b05fawyqdl80ia6igsyfql5n46m22ffcafygg0cgn7"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_qosc.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/a28df476a9cda4bd06b20b56e07392901cecf2e3/Markers/qosc.lua",
-        "sha256": "01lj781wc2jx19vcxy67n1q00cplbfizhc5shd1xmrym929dgf8p"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3301e46b37ef9b0e0a610a16f6dd4c250d1c5f97/Markers/Qlab5.ReaperOSC",
-        "sha256": "0fbmgnyfxab470kyfnbgrxbhl58nh1hlyna2nn002vsgbgz7wdf4"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Create marker with name via OSC.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3301e46b37ef9b0e0a610a16f6dd4c250d1c5f97/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
-        "sha256": "0hp1x71pwwbin4jd1ha2yxjpbzk36lrq43h063sqilxi05qs4hpv"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/qosc.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3301e46b37ef9b0e0a610a16f6dd4c250d1c5f97/Markers/qosc.lua",
-        "sha256": "01lj781wc2jx19vcxy67n1q00cplbfizhc5shd1xmrym929dgf8p"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/Qlab5.ReaperOSC",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/50cb9d46df95b752b89475a40989ffcfdb3faa64/Markers/Qlab5.ReaperOSC",
-        "sha256": "0fbmgnyfxab470kyfnbgrxbhl58nh1hlyna2nn002vsgbgz7wdf4"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_{filename}.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/50cb9d46df95b752b89475a40989ffcfdb3faa64/Markers/Create%20marker%20with%20name%20via%20OSC.lua",
-        "sha256": "0xzgmv2ckyxxqnqhna14fd1gc9l5jfq1nfajgrhbwld91a87mf4i"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/osc.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/50cb9d46df95b752b89475a40989ffcfdb3faa64/Markers/osc.lua",
-        "sha256": "17ywcjpm8rdixy758yc00j3yhlywlp9fj67as18ak0ckl2z8flw1"
-      }
-    ]
-  },
-  "Locate to marker.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Locate to marker.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Markers/Locate%20to%20marker.lua",
-        "sha256": "1rzyimbgj8hxqqbzs2mqinhrh3abnhj37fv0196q6x88vwwmycz8"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Locate to marker.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/d53869a1d54aed09e1d5e899fea76263279b7388/Markers/Locate%20to%20marker.lua",
-        "sha256": "1rzyimbgj8hxqqbzs2mqinhrh3abnhj37fv0196q6x88vwwmycz8"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/bsmith96_Locate to marker.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/79756306aecc585403f7c35bb3ed25c6725cfe62/Markers/Locate%20to%20marker.lua",
-        "sha256": "04s84v883n1h18aj04mxbf6jq2pppaq32w3j8l74g734i00r1f5x"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/Locate to marker.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/a4877ef322519e8e70cf65f8eb5b8257213e5ee1/Markers/Locate%20to%20marker.lua",
-        "sha256": "0rrpcr44v3zbm09xia4ap6f3gk37y08zq76k4bjfz4myl9ahwz42"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/Locate to marker.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3a64b41837b2b92c0ea4982a40321d046882e453/Markers/Locate%20to%20marker.lua",
-        "sha256": "0j9c78kzrp8jilws28aa1wj80q70dskz9mjn8y0l6si8a4810hi0"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Markers/Locate to marker.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/00cef1e4b944f1562e5e07c146825bad77d18e2e/Markers/Locate%20to%20marker.lua",
-        "sha256": "18ck2fy74ri2qz4svw6hlkfrvgw9kvzf8bg54bfsy6z7g8m53sik"
       }
     ]
   },

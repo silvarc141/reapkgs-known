@@ -3259,232 +3259,182 @@
       }
     ]
   },
-  "zaibuyidao_Batch Rename Markers Within Time Selection.lua": {
+  "MIDI Bank MSB-LSB Mapping.jsfx": {
     "latest": [
       {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Batch Rename Markers Within Time Selection.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Markers/zaibuyidao_Batch%20Rename%20Markers%20Within%20Time%20Selection.lua",
-        "sha256": "1ybm45skgx9byjfgc8kfm7dyr30z4pq0h0i5q47j71jniywdnm84"
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank MSB-LSB Mapping.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2677725a1fbe5eaf50bb3c153171dd8da992aade/JSFX/MIDI%20Bank%20MSB-LSB%20Mapping.jsfx",
+        "sha256": "0jfd7d4pbpzkgrnq3fkanzx4ijw5rkd6gv9bxspjypwmwrnmr9lz"
+      },
+      {
+        "path": "Effects/zaibuyidao Scripts/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2677725a1fbe5eaf50bb3c153171dd8da992aade/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
+        "sha256": "0nmss1z8rpli9nq4kcg35fjw2f4axaka9rw1s2qi832ls8155zvi"
       }
     ],
-    "1.0": [
+    "1.0.2": [
       {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Batch Rename Markers Within Time Selection.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Markers/zaibuyidao_Batch%20Rename%20Markers%20Within%20Time%20Selection.lua",
-        "sha256": "1ybm45skgx9byjfgc8kfm7dyr30z4pq0h0i5q47j71jniywdnm84"
-      }
-    ]
-  },
-  "zaibuyidao_Batch Rename Markers in Marker Manager.lua": {
-    "latest": [
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank MSB-LSB Mapping.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2677725a1fbe5eaf50bb3c153171dd8da992aade/JSFX/MIDI%20Bank%20MSB-LSB%20Mapping.jsfx",
+        "sha256": "0jfd7d4pbpzkgrnq3fkanzx4ijw5rkd6gv9bxspjypwmwrnmr9lz"
+      },
       {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Batch Rename Markers in Marker Manager.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2f0637b47744c2149c35ded37a723463b9fc3ce2/Markers/zaibuyidao_Batch%20Rename%20Markers%20in%20Marker%20Manager.lua",
-        "sha256": "0lb74l8d1plawp1sf4ybbjs0xs0hc70h4iyz3ii9nfmqns13fb6w"
+        "path": "Effects/zaibuyidao Scripts/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2677725a1fbe5eaf50bb3c153171dd8da992aade/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
+        "sha256": "0nmss1z8rpli9nq4kcg35fjw2f4axaka9rw1s2qi832ls8155zvi"
       }
     ],
     "1.0.1": [
       {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Batch Rename Markers in Marker Manager.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2f0637b47744c2149c35ded37a723463b9fc3ce2/Markers/zaibuyidao_Batch%20Rename%20Markers%20in%20Marker%20Manager.lua",
-        "sha256": "0lb74l8d1plawp1sf4ybbjs0xs0hc70h4iyz3ii9nfmqns13fb6w"
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank MSB-LSB Mapping.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/f48482a3b5dfec0b142742efc51d788ea8a744a9/JSFX/MIDI%20Bank%20MSB-LSB%20Mapping.jsfx",
+        "sha256": "1lkxii3bbvqnr65sdaibp9xxk9i6ljpyyhyygjqd0fl5vmvwrmzq"
+      },
+      {
+        "path": "Effects/zaibuyidao Scripts/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/f48482a3b5dfec0b142742efc51d788ea8a744a9/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
+        "sha256": "0nmss1z8rpli9nq4kcg35fjw2f4axaka9rw1s2qi832ls8155zvi"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Batch Rename Markers in Marker Manager.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Markers/zaibuyidao_Batch%20Rename%20Markers%20in%20Marker%20Manager.lua",
-        "sha256": "0bl311i54nssv8r2ln6yvgbpdglav10aj6g9cwhl6xi620a3zz4w"
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank MSB-LSB Mapping.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/e0d9ab678160d721c7f45c0b46f373fc8e6ba8e7/JSFX/MIDI%20Bank%20MSB-LSB%20Mapping.jsfx",
+        "sha256": "10wwl7k02vfls5fsfxcbal544r9zb8zs4vm396gq75vqcf8mjih8"
+      },
+      {
+        "path": "Effects/zaibuyidao Scripts/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/e0d9ab678160d721c7f45c0b46f373fc8e6ba8e7/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
+        "sha256": "09amc3bn1rgsmkfl68v43m2mg666fjbap0z75a858hw2v56qzb55"
       }
     ]
   },
-  "zaibuyidao_Batch Set Marker Names for Selected Items.lua": {
+  "MIDI Bank Program on Specific Note (File-Based).jsfx": {
     "latest": [
       {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Batch Set Marker Names for Selected Items.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Markers/zaibuyidao_Batch%20Set%20Marker%20Names%20for%20Selected%20Items.lua",
-        "sha256": "14ji7zbk60g7p33ivgbrqsblbbhh0dn53dbjrjshihdy951xw6zr"
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank Program on Specific Note (File-Based).jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2ce374311bda43f683998d6ed14891a1e25abb99/JSFX/MIDI%20Bank%20Program%20on%20Specific%20Note%20(File-Based).jsfx",
+        "sha256": "1hy1lmfk17fzv2l7rq287a1bn83inq91x3674za94x74hi76ig0d"
+      },
+      {
+        "path": "Effects/zaibuyidao Scripts/JSFX/zaibuyidao_midi_bank_program/Roland SC-88 Pro.txt",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2ce374311bda43f683998d6ed14891a1e25abb99/JSFX/zaibuyidao_midi_bank_program/Roland%20SC-88%20Pro.txt",
+        "sha256": "1hlsv5236d2xzlxcph427r1vn4jqmk7762s5xic9lsbym01bnbfn"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Batch Set Marker Names for Selected Items.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Markers/zaibuyidao_Batch%20Set%20Marker%20Names%20for%20Selected%20Items.lua",
-        "sha256": "14ji7zbk60g7p33ivgbrqsblbbhh0dn53dbjrjshihdy951xw6zr"
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank Program on Specific Note (File-Based).jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2ce374311bda43f683998d6ed14891a1e25abb99/JSFX/MIDI%20Bank%20Program%20on%20Specific%20Note%20(File-Based).jsfx",
+        "sha256": "1hy1lmfk17fzv2l7rq287a1bn83inq91x3674za94x74hi76ig0d"
+      },
+      {
+        "path": "Effects/zaibuyidao Scripts/JSFX/zaibuyidao_midi_bank_program/Roland SC-88 Pro.txt",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2ce374311bda43f683998d6ed14891a1e25abb99/JSFX/zaibuyidao_midi_bank_program/Roland%20SC-88%20Pro.txt",
+        "sha256": "1hlsv5236d2xzlxcph427r1vn4jqmk7762s5xic9lsbym01bnbfn"
       }
     ]
   },
-  "zaibuyidao_Copy Marker In Time Selection (Relative Position).lua": {
+  "MIDI Bank Program on Specific Note.jsfx": {
     "latest": [
       {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Copy Marker In Time Selection (Relative Position).lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Copy%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
-        "sha256": "1d5wk6p2jq339zfb1z83p7dpsj99g14pb6km9pig0v9ighy3asjh"
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank Program on Specific Note.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2ce374311bda43f683998d6ed14891a1e25abb99/JSFX/MIDI%20Bank%20Program%20on%20Specific%20Note.jsfx",
+        "sha256": "1skzd2a5zv5z8j0ddrwm5yizwdm2k6w5yy71i1rvjcrjv416qgwk"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Copy Marker In Time Selection (Relative Position).lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Copy%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
-        "sha256": "1d5wk6p2jq339zfb1z83p7dpsj99g14pb6km9pig0v9ighy3asjh"
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank Program on Specific Note.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2ce374311bda43f683998d6ed14891a1e25abb99/JSFX/MIDI%20Bank%20Program%20on%20Specific%20Note.jsfx",
+        "sha256": "1skzd2a5zv5z8j0ddrwm5yizwdm2k6w5yy71i1rvjcrjv416qgwk"
       }
     ]
   },
-  "zaibuyidao_Copy Region In Time Selection (Relative Position).lua": {
+  "MIDI CC Events First.jsfx": {
     "latest": [
       {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Copy Region In Time Selection (Relative Position).lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Copy%20Region%20In%20Time%20Selection%20(Relative%20Position).lua",
-        "sha256": "1ml3ysg2l1md4sycp41pflwm7jvjcx8s0nnmliyk35dip2zfy5ji"
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI CC Events First.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/fac9dd35379f2f382e245eeb23c286ccd1334aff/JSFX/MIDI%20CC%20Events%20First.jsfx",
+        "sha256": "1kgjbqcpj0kxm801nb7n59zpbwabiqh4gkly01s2qnai5x5jbm7g"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Copy Region In Time Selection (Relative Position).lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Copy%20Region%20In%20Time%20Selection%20(Relative%20Position).lua",
-        "sha256": "1ml3ysg2l1md4sycp41pflwm7jvjcx8s0nnmliyk35dip2zfy5ji"
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI CC Events First.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/fac9dd35379f2f382e245eeb23c286ccd1334aff/JSFX/MIDI%20CC%20Events%20First.jsfx",
+        "sha256": "1kgjbqcpj0kxm801nb7n59zpbwabiqh4gkly01s2qnai5x5jbm7g"
       }
     ]
   },
-  "zaibuyidao_Copy Region Marker In Time Selection (Relative Position).lua": {
+  "MIDI Off Velocity Limiter.jsfx": {
     "latest": [
       {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Copy Region Marker In Time Selection (Relative Position).lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/c32f33b3155289c347451956cdd7880149fda476/Markers/zaibuyidao_Copy%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
-        "sha256": "1s04pd2iwb0p24zdk1hi8jipxbxrjb1iyzmf1hcy9brmvcjlb860"
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Off Velocity Limiter.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/89e7c476dc525e3c77cd941503e3d431c9380f89/JSFX/MIDI%20Off%20Velocity%20Limiter.jsfx",
+        "sha256": "0a2lgxpv7l3rllssy25q9iqbxxv8vjhgfc7a31i00wdim06nbcj5"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Off Velocity Limiter.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/89e7c476dc525e3c77cd941503e3d431c9380f89/JSFX/MIDI%20Off%20Velocity%20Limiter.jsfx",
+        "sha256": "0a2lgxpv7l3rllssy25q9iqbxxv8vjhgfc7a31i00wdim06nbcj5"
+      }
+    ]
+  },
+  "MIDI Route CC To Channel.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Route CC To Channel.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/93f392b2b169831d2df33f3b6014105eae1c9550/JSFX/MIDI%20Route%20CC%20To%20Channel.jsfx",
+        "sha256": "0j1yjbpm9qhnbcqb7rxvsh0rf2v9bm068fdyx5q0m49nsy38mqjz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Route CC To Channel.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/93f392b2b169831d2df33f3b6014105eae1c9550/JSFX/MIDI%20Route%20CC%20To%20Channel.jsfx",
+        "sha256": "0j1yjbpm9qhnbcqb7rxvsh0rf2v9bm068fdyx5q0m49nsy38mqjz"
+      }
+    ]
+  },
+  "MIDI Route PC To Channel.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Route PC To Channel.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/e75ce927ef620b4904dc92bfa290bb36ab7e4f4c/JSFX/MIDI%20Route%20PC%20To%20Channel.jsfx",
+        "sha256": "0k613p9crkm6c0h1wz5j9mv2zlpmyjgy1v0mw1jn2grbhnnddpkk"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Route PC To Channel.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/e75ce927ef620b4904dc92bfa290bb36ab7e4f4c/JSFX/MIDI%20Route%20PC%20To%20Channel.jsfx",
+        "sha256": "0k613p9crkm6c0h1wz5j9mv2zlpmyjgy1v0mw1jn2grbhnnddpkk"
+      }
+    ]
+  },
+  "MIDI Transform CC.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Transform CC.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/e240f1d0f853c4a83a82bc552ebb7d96fd356064/JSFX/MIDI%20Transform%20CC.jsfx",
+        "sha256": "10i62a7p63m7zbv2kg5w4dsdrzwx2j49cx6l6yp1jlnq960h4g49"
       }
     ],
     "1.0.1": [
       {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Copy Region Marker In Time Selection (Relative Position).lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/c32f33b3155289c347451956cdd7880149fda476/Markers/zaibuyidao_Copy%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
-        "sha256": "1s04pd2iwb0p24zdk1hi8jipxbxrjb1iyzmf1hcy9brmvcjlb860"
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Transform CC.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/e240f1d0f853c4a83a82bc552ebb7d96fd356064/JSFX/MIDI%20Transform%20CC.jsfx",
+        "sha256": "10i62a7p63m7zbv2kg5w4dsdrzwx2j49cx6l6yp1jlnq960h4g49"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Copy Region Marker In Time Selection (Relative Position).lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/a1e0a8194a2c13c2169835dc0fce7ebf2f48a4ab/Markers/zaibuyidao_Copy%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
-        "sha256": "0gimhjvvmmf5sa5hyff8fvc01zkbjj352zj7wrklxvnaassx3zsw"
-      }
-    ]
-  },
-  "zaibuyidao_Delete Marker Within Time Selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Delete Marker Within Time Selection.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/873d5bafd6544f8b3c14c9f37a7368c088a89c65/Markers/zaibuyidao_Delete%20Marker%20Within%20Time%20Selection.lua",
-        "sha256": "11m5shab8jm65h7iyz5qzv5b2rb4f4nh4r8zdhgr3xcpv6pp5j11"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Delete Marker Within Time Selection.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/873d5bafd6544f8b3c14c9f37a7368c088a89c65/Markers/zaibuyidao_Delete%20Marker%20Within%20Time%20Selection.lua",
-        "sha256": "11m5shab8jm65h7iyz5qzv5b2rb4f4nh4r8zdhgr3xcpv6pp5j11"
-      }
-    ]
-  },
-  "zaibuyidao_Paste Marker In Time Selection (Relative Position).lua": {
-    "latest": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Paste Marker In Time Selection (Relative Position).lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Paste%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
-        "sha256": "1j0642bh522qxanjrixsi267wq8qg4s2l2yj57fm82a2kvb9sb6w"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Paste Marker In Time Selection (Relative Position).lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Paste%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
-        "sha256": "1j0642bh522qxanjrixsi267wq8qg4s2l2yj57fm82a2kvb9sb6w"
-      }
-    ]
-  },
-  "zaibuyidao_Paste Region In Time Selection (Relative Position).lua": {
-    "latest": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Paste Region In Time Selection (Relative Position).lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Paste%20Region%20In%20Time%20Selection%20(Relative%20Position).lua",
-        "sha256": "1x0q2addd8p21dwabqmhqk59bzqaamj2slnqg8fhsl32fag2qlgl"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Paste Region In Time Selection (Relative Position).lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Paste%20Region%20In%20Time%20Selection%20(Relative%20Position).lua",
-        "sha256": "1x0q2addd8p21dwabqmhqk59bzqaamj2slnqg8fhsl32fag2qlgl"
-      }
-    ]
-  },
-  "zaibuyidao_Paste Region Marker In Time Selection (Relative Position).lua": {
-    "latest": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Paste Region Marker In Time Selection (Relative Position).lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/c32f33b3155289c347451956cdd7880149fda476/Markers/zaibuyidao_Paste%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
-        "sha256": "0mh1ibkgl9lb8q4mijr1p9dgly7a8gwa6cbv2n727159bamadfdj"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Paste Region Marker In Time Selection (Relative Position).lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/c32f33b3155289c347451956cdd7880149fda476/Markers/zaibuyidao_Paste%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
-        "sha256": "0mh1ibkgl9lb8q4mijr1p9dgly7a8gwa6cbv2n727159bamadfdj"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Paste Region Marker In Time Selection (Relative Position).lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/a1e0a8194a2c13c2169835dc0fce7ebf2f48a4ab/Markers/zaibuyidao_Paste%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
-        "sha256": "05gcf198wjh3vvyi2iprmp9xjrgn6sj9q5bmj08iqzvskb9csxcd"
-      }
-    ]
-  },
-  "zaibuyidao_Random Marker Color.lua": {
-    "latest": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Random Marker Color.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/9ef65ab3daa6e91649c8170b880c7a8c73aca739/Markers/zaibuyidao_Random%20Marker%20Color.lua",
-        "sha256": "0mlkrhsr4ginisqlcagp05hljky52xaqzz9i4cy2ilpakbinjbyn"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Random Marker Color.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/9ef65ab3daa6e91649c8170b880c7a8c73aca739/Markers/zaibuyidao_Random%20Marker%20Color.lua",
-        "sha256": "0mlkrhsr4ginisqlcagp05hljky52xaqzz9i4cy2ilpakbinjbyn"
-      }
-    ]
-  },
-  "zaibuyidao_Random Marker Region Color.lua": {
-    "latest": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Random Marker Region Color.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/9ef65ab3daa6e91649c8170b880c7a8c73aca739/Markers/zaibuyidao_Random%20Marker%20Region%20Color.lua",
-        "sha256": "1s3sldaqqk9akj9r15gzhxwyvkjd1gdyrja94rp21gx2z52fxhhd"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Random Marker Region Color.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/9ef65ab3daa6e91649c8170b880c7a8c73aca739/Markers/zaibuyidao_Random%20Marker%20Region%20Color.lua",
-        "sha256": "1s3sldaqqk9akj9r15gzhxwyvkjd1gdyrja94rp21gx2z52fxhhd"
-      }
-    ]
-  },
-  "zaibuyidao_Set Marker Color Within Time Selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Set Marker Color Within Time Selection.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/9ef65ab3daa6e91649c8170b880c7a8c73aca739/Markers/zaibuyidao_Set%20Marker%20Color%20Within%20Time%20Selection.lua",
-        "sha256": "1sd298npj4cjp23005cpic3dwyzjw8iys27alfwdy3xgx7qrpnx1"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Set Marker Color Within Time Selection.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/9ef65ab3daa6e91649c8170b880c7a8c73aca739/Markers/zaibuyidao_Set%20Marker%20Color%20Within%20Time%20Selection.lua",
-        "sha256": "1sd298npj4cjp23005cpic3dwyzjw8iys27alfwdy3xgx7qrpnx1"
+        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Transform CC.jsfx",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/ca91a2df55db96ef44b8b1a5e68303caefa347ff/JSFX/MIDI%20Transform%20CC.jsfx",
+        "sha256": "1bni28jjry5jqqb8k0q2v8agspx6xym7ihns4npkv7r7lnm4wka6"
       }
     ]
   },
@@ -45308,68 +45258,232 @@
       }
     ]
   },
-  "zaibuyidao_Insert NRPN.lua": {
+  "zaibuyidao_Batch Rename Markers Within Time Selection.lua": {
     "latest": [
       {
-        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/6c636758cd170409cade9d9e74cc245d7f83145c/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
-        "sha256": "1g56vkyry91xd96824g1mlj74hc1v4ypxs5iw7smx1p4b9d3zfr5"
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Batch Rename Markers Within Time Selection.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Markers/zaibuyidao_Batch%20Rename%20Markers%20Within%20Time%20Selection.lua",
+        "sha256": "1ybm45skgx9byjfgc8kfm7dyr30z4pq0h0i5q47j71jniywdnm84"
       }
     ],
-    "2.5": [
+    "1.0": [
       {
-        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/6c636758cd170409cade9d9e74cc245d7f83145c/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
-        "sha256": "1g56vkyry91xd96824g1mlj74hc1v4ypxs5iw7smx1p4b9d3zfr5"
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Batch Rename Markers Within Time Selection.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Markers/zaibuyidao_Batch%20Rename%20Markers%20Within%20Time%20Selection.lua",
+        "sha256": "1ybm45skgx9byjfgc8kfm7dyr30z4pq0h0i5q47j71jniywdnm84"
+      }
+    ]
+  },
+  "zaibuyidao_Batch Rename Markers in Marker Manager.lua": {
+    "latest": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Batch Rename Markers in Marker Manager.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2f0637b47744c2149c35ded37a723463b9fc3ce2/Markers/zaibuyidao_Batch%20Rename%20Markers%20in%20Marker%20Manager.lua",
+        "sha256": "0lb74l8d1plawp1sf4ybbjs0xs0hc70h4iyz3ii9nfmqns13fb6w"
       }
     ],
-    "2.4": [
+    "1.0.1": [
       {
-        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/b8326d091cd764f45909e20292ce5ec92630b4c2/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
-        "sha256": "1nimalqvmfys2nshmmsxfi1dipfsxkjj5svzm2h9w8a1q552rbyn"
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Batch Rename Markers in Marker Manager.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2f0637b47744c2149c35ded37a723463b9fc3ce2/Markers/zaibuyidao_Batch%20Rename%20Markers%20in%20Marker%20Manager.lua",
+        "sha256": "0lb74l8d1plawp1sf4ybbjs0xs0hc70h4iyz3ii9nfmqns13fb6w"
       }
     ],
-    "2.3": [
+    "1.0": [
       {
-        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/89bfa5394c949b6136521424b1e46d2b882ce291/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
-        "sha256": "0qkpx1d57hjlhr9zaa3l4yr8jfzp2b6yi08ijqgnwc2z3xb9wdzg"
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Batch Rename Markers in Marker Manager.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Markers/zaibuyidao_Batch%20Rename%20Markers%20in%20Marker%20Manager.lua",
+        "sha256": "0bl311i54nssv8r2ln6yvgbpdglav10aj6g9cwhl6xi620a3zz4w"
+      }
+    ]
+  },
+  "zaibuyidao_Batch Set Marker Names for Selected Items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Batch Set Marker Names for Selected Items.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Markers/zaibuyidao_Batch%20Set%20Marker%20Names%20for%20Selected%20Items.lua",
+        "sha256": "14ji7zbk60g7p33ivgbrqsblbbhh0dn53dbjrjshihdy951xw6zr"
       }
     ],
-    "2.2": [
+    "1.0": [
       {
-        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/7e2035b89a6f7ee655e3fd13608bf9528c7f256d/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
-        "sha256": "0qvx6gyn3sjcdqi7wicjigmd7wl74x2vdvphkbjfizhpnlm2q5mq"
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Batch Set Marker Names for Selected Items.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/8763366c63d92b19d78ea2aa111c7e025817ad0f/Markers/zaibuyidao_Batch%20Set%20Marker%20Names%20for%20Selected%20Items.lua",
+        "sha256": "14ji7zbk60g7p33ivgbrqsblbbhh0dn53dbjrjshihdy951xw6zr"
+      }
+    ]
+  },
+  "zaibuyidao_Copy Marker In Time Selection (Relative Position).lua": {
+    "latest": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Copy Marker In Time Selection (Relative Position).lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Copy%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
+        "sha256": "1d5wk6p2jq339zfb1z83p7dpsj99g14pb6km9pig0v9ighy3asjh"
       }
     ],
-    "2.1": [
+    "1.0": [
       {
-        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/6150ae111324673f721b5bac06b5b33f7128e59e/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
-        "sha256": "1wbn52ihlz158bshlg0703gr3f1srw607k6bffdlz6b8z6hfyxl1"
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Copy Marker In Time Selection (Relative Position).lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Copy%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
+        "sha256": "1d5wk6p2jq339zfb1z83p7dpsj99g14pb6km9pig0v9ighy3asjh"
+      }
+    ]
+  },
+  "zaibuyidao_Copy Region In Time Selection (Relative Position).lua": {
+    "latest": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Copy Region In Time Selection (Relative Position).lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Copy%20Region%20In%20Time%20Selection%20(Relative%20Position).lua",
+        "sha256": "1ml3ysg2l1md4sycp41pflwm7jvjcx8s0nnmliyk35dip2zfy5ji"
       }
     ],
-    "2.0": [
+    "1.0": [
       {
-        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/f888ff1f82a9832ad7b630d728f271d0a03562e9/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
-        "sha256": "00fb5dq9vgm1102ssl22wx5rwy20ivy26k01n82vibrdvv4q2ph4"
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Copy Region In Time Selection (Relative Position).lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Copy%20Region%20In%20Time%20Selection%20(Relative%20Position).lua",
+        "sha256": "1ml3ysg2l1md4sycp41pflwm7jvjcx8s0nnmliyk35dip2zfy5ji"
+      }
+    ]
+  },
+  "zaibuyidao_Copy Region Marker In Time Selection (Relative Position).lua": {
+    "latest": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Copy Region Marker In Time Selection (Relative Position).lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/c32f33b3155289c347451956cdd7880149fda476/Markers/zaibuyidao_Copy%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
+        "sha256": "1s04pd2iwb0p24zdk1hi8jipxbxrjb1iyzmf1hcy9brmvcjlb860"
       }
     ],
-    "1.21": [
+    "1.0.1": [
       {
-        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/3bb010aeacb8d1ce6b47c8b05884bef561887306/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
-        "sha256": "0fipjsmalkrvlnl4yylkx7bdphv6p2a5i9nky5x4viyjls92211n"
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Copy Region Marker In Time Selection (Relative Position).lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/c32f33b3155289c347451956cdd7880149fda476/Markers/zaibuyidao_Copy%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
+        "sha256": "1s04pd2iwb0p24zdk1hi8jipxbxrjb1iyzmf1hcy9brmvcjlb860"
       }
     ],
-    "1.2": [
+    "1.0": [
       {
-        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/e44d1930146831803a947fdaa10f0ae9427dd35b/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
-        "sha256": "0ggbma8gj2xdjaay0jggfzyppzkn3llhlin6bnkpd3nbzb4kj9yn"
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Copy Region Marker In Time Selection (Relative Position).lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/a1e0a8194a2c13c2169835dc0fce7ebf2f48a4ab/Markers/zaibuyidao_Copy%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
+        "sha256": "0gimhjvvmmf5sa5hyff8fvc01zkbjj352zj7wrklxvnaassx3zsw"
+      }
+    ]
+  },
+  "zaibuyidao_Delete Marker Within Time Selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Delete Marker Within Time Selection.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/873d5bafd6544f8b3c14c9f37a7368c088a89c65/Markers/zaibuyidao_Delete%20Marker%20Within%20Time%20Selection.lua",
+        "sha256": "11m5shab8jm65h7iyz5qzv5b2rb4f4nh4r8zdhgr3xcpv6pp5j11"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Delete Marker Within Time Selection.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/873d5bafd6544f8b3c14c9f37a7368c088a89c65/Markers/zaibuyidao_Delete%20Marker%20Within%20Time%20Selection.lua",
+        "sha256": "11m5shab8jm65h7iyz5qzv5b2rb4f4nh4r8zdhgr3xcpv6pp5j11"
+      }
+    ]
+  },
+  "zaibuyidao_Paste Marker In Time Selection (Relative Position).lua": {
+    "latest": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Paste Marker In Time Selection (Relative Position).lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Paste%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
+        "sha256": "1j0642bh522qxanjrixsi267wq8qg4s2l2yj57fm82a2kvb9sb6w"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Paste Marker In Time Selection (Relative Position).lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Paste%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
+        "sha256": "1j0642bh522qxanjrixsi267wq8qg4s2l2yj57fm82a2kvb9sb6w"
+      }
+    ]
+  },
+  "zaibuyidao_Paste Region In Time Selection (Relative Position).lua": {
+    "latest": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Paste Region In Time Selection (Relative Position).lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Paste%20Region%20In%20Time%20Selection%20(Relative%20Position).lua",
+        "sha256": "1x0q2addd8p21dwabqmhqk59bzqaamj2slnqg8fhsl32fag2qlgl"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Paste Region In Time Selection (Relative Position).lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2073e5a4d03ffad7a16f27078636a9035dce969b/Markers/zaibuyidao_Paste%20Region%20In%20Time%20Selection%20(Relative%20Position).lua",
+        "sha256": "1x0q2addd8p21dwabqmhqk59bzqaamj2slnqg8fhsl32fag2qlgl"
+      }
+    ]
+  },
+  "zaibuyidao_Paste Region Marker In Time Selection (Relative Position).lua": {
+    "latest": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Paste Region Marker In Time Selection (Relative Position).lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/c32f33b3155289c347451956cdd7880149fda476/Markers/zaibuyidao_Paste%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
+        "sha256": "0mh1ibkgl9lb8q4mijr1p9dgly7a8gwa6cbv2n727159bamadfdj"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Paste Region Marker In Time Selection (Relative Position).lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/c32f33b3155289c347451956cdd7880149fda476/Markers/zaibuyidao_Paste%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
+        "sha256": "0mh1ibkgl9lb8q4mijr1p9dgly7a8gwa6cbv2n727159bamadfdj"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Paste Region Marker In Time Selection (Relative Position).lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/a1e0a8194a2c13c2169835dc0fce7ebf2f48a4ab/Markers/zaibuyidao_Paste%20Region%20Marker%20In%20Time%20Selection%20(Relative%20Position).lua",
+        "sha256": "05gcf198wjh3vvyi2iprmp9xjrgn6sj9q5bmj08iqzvskb9csxcd"
+      }
+    ]
+  },
+  "zaibuyidao_Random Marker Color.lua": {
+    "latest": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Random Marker Color.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/9ef65ab3daa6e91649c8170b880c7a8c73aca739/Markers/zaibuyidao_Random%20Marker%20Color.lua",
+        "sha256": "0mlkrhsr4ginisqlcagp05hljky52xaqzz9i4cy2ilpakbinjbyn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Random Marker Color.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/9ef65ab3daa6e91649c8170b880c7a8c73aca739/Markers/zaibuyidao_Random%20Marker%20Color.lua",
+        "sha256": "0mlkrhsr4ginisqlcagp05hljky52xaqzz9i4cy2ilpakbinjbyn"
+      }
+    ]
+  },
+  "zaibuyidao_Random Marker Region Color.lua": {
+    "latest": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Random Marker Region Color.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/9ef65ab3daa6e91649c8170b880c7a8c73aca739/Markers/zaibuyidao_Random%20Marker%20Region%20Color.lua",
+        "sha256": "1s3sldaqqk9akj9r15gzhxwyvkjd1gdyrja94rp21gx2z52fxhhd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Random Marker Region Color.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/9ef65ab3daa6e91649c8170b880c7a8c73aca739/Markers/zaibuyidao_Random%20Marker%20Region%20Color.lua",
+        "sha256": "1s3sldaqqk9akj9r15gzhxwyvkjd1gdyrja94rp21gx2z52fxhhd"
+      }
+    ]
+  },
+  "zaibuyidao_Set Marker Color Within Time Selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Set Marker Color Within Time Selection.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/9ef65ab3daa6e91649c8170b880c7a8c73aca739/Markers/zaibuyidao_Set%20Marker%20Color%20Within%20Time%20Selection.lua",
+        "sha256": "1sd298npj4cjp23005cpic3dwyzjw8iys27alfwdy3xgx7qrpnx1"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/zaibuyidao Scripts/Markers/zaibuyidao_Set Marker Color Within Time Selection.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/9ef65ab3daa6e91649c8170b880c7a8c73aca739/Markers/zaibuyidao_Set%20Marker%20Color%20Within%20Time%20Selection.lua",
+        "sha256": "1sd298npj4cjp23005cpic3dwyzjw8iys27alfwdy3xgx7qrpnx1"
       }
     ]
   },
@@ -45545,182 +45659,68 @@
       }
     ]
   },
-  "MIDI Bank MSB-LSB Mapping.jsfx": {
+  "zaibuyidao_Insert NRPN.lua": {
     "latest": [
       {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank MSB-LSB Mapping.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2677725a1fbe5eaf50bb3c153171dd8da992aade/JSFX/MIDI%20Bank%20MSB-LSB%20Mapping.jsfx",
-        "sha256": "0jfd7d4pbpzkgrnq3fkanzx4ijw5rkd6gv9bxspjypwmwrnmr9lz"
-      },
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2677725a1fbe5eaf50bb3c153171dd8da992aade/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
-        "sha256": "0nmss1z8rpli9nq4kcg35fjw2f4axaka9rw1s2qi832ls8155zvi"
+        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/6c636758cd170409cade9d9e74cc245d7f83145c/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
+        "sha256": "1g56vkyry91xd96824g1mlj74hc1v4ypxs5iw7smx1p4b9d3zfr5"
       }
     ],
-    "1.0.2": [
+    "2.5": [
       {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank MSB-LSB Mapping.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2677725a1fbe5eaf50bb3c153171dd8da992aade/JSFX/MIDI%20Bank%20MSB-LSB%20Mapping.jsfx",
-        "sha256": "0jfd7d4pbpzkgrnq3fkanzx4ijw5rkd6gv9bxspjypwmwrnmr9lz"
-      },
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2677725a1fbe5eaf50bb3c153171dd8da992aade/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
-        "sha256": "0nmss1z8rpli9nq4kcg35fjw2f4axaka9rw1s2qi832ls8155zvi"
+        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/6c636758cd170409cade9d9e74cc245d7f83145c/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
+        "sha256": "1g56vkyry91xd96824g1mlj74hc1v4ypxs5iw7smx1p4b9d3zfr5"
       }
     ],
-    "1.0.1": [
+    "2.4": [
       {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank MSB-LSB Mapping.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/f48482a3b5dfec0b142742efc51d788ea8a744a9/JSFX/MIDI%20Bank%20MSB-LSB%20Mapping.jsfx",
-        "sha256": "1lkxii3bbvqnr65sdaibp9xxk9i6ljpyyhyygjqd0fl5vmvwrmzq"
-      },
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/f48482a3b5dfec0b142742efc51d788ea8a744a9/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
-        "sha256": "0nmss1z8rpli9nq4kcg35fjw2f4axaka9rw1s2qi832ls8155zvi"
+        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/b8326d091cd764f45909e20292ce5ec92630b4c2/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
+        "sha256": "1nimalqvmfys2nshmmsxfi1dipfsxkjj5svzm2h9w8a1q552rbyn"
       }
     ],
-    "1.0": [
+    "2.3": [
       {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank MSB-LSB Mapping.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/e0d9ab678160d721c7f45c0b46f373fc8e6ba8e7/JSFX/MIDI%20Bank%20MSB-LSB%20Mapping.jsfx",
-        "sha256": "10wwl7k02vfls5fsfxcbal544r9zb8zs4vm396gq75vqcf8mjih8"
-      },
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/e0d9ab678160d721c7f45c0b46f373fc8e6ba8e7/JSFX/zaibuyidao_bank_msb_lsb_mapping/bank-map.txt",
-        "sha256": "09amc3bn1rgsmkfl68v43m2mg666fjbap0z75a858hw2v56qzb55"
-      }
-    ]
-  },
-  "MIDI Bank Program on Specific Note (File-Based).jsfx": {
-    "latest": [
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank Program on Specific Note (File-Based).jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2ce374311bda43f683998d6ed14891a1e25abb99/JSFX/MIDI%20Bank%20Program%20on%20Specific%20Note%20(File-Based).jsfx",
-        "sha256": "1hy1lmfk17fzv2l7rq287a1bn83inq91x3674za94x74hi76ig0d"
-      },
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/zaibuyidao_midi_bank_program/Roland SC-88 Pro.txt",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2ce374311bda43f683998d6ed14891a1e25abb99/JSFX/zaibuyidao_midi_bank_program/Roland%20SC-88%20Pro.txt",
-        "sha256": "1hlsv5236d2xzlxcph427r1vn4jqmk7762s5xic9lsbym01bnbfn"
+        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/89bfa5394c949b6136521424b1e46d2b882ce291/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
+        "sha256": "0qkpx1d57hjlhr9zaa3l4yr8jfzp2b6yi08ijqgnwc2z3xb9wdzg"
       }
     ],
-    "1.0": [
+    "2.2": [
       {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank Program on Specific Note (File-Based).jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2ce374311bda43f683998d6ed14891a1e25abb99/JSFX/MIDI%20Bank%20Program%20on%20Specific%20Note%20(File-Based).jsfx",
-        "sha256": "1hy1lmfk17fzv2l7rq287a1bn83inq91x3674za94x74hi76ig0d"
-      },
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/zaibuyidao_midi_bank_program/Roland SC-88 Pro.txt",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2ce374311bda43f683998d6ed14891a1e25abb99/JSFX/zaibuyidao_midi_bank_program/Roland%20SC-88%20Pro.txt",
-        "sha256": "1hlsv5236d2xzlxcph427r1vn4jqmk7762s5xic9lsbym01bnbfn"
-      }
-    ]
-  },
-  "MIDI Bank Program on Specific Note.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank Program on Specific Note.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2ce374311bda43f683998d6ed14891a1e25abb99/JSFX/MIDI%20Bank%20Program%20on%20Specific%20Note.jsfx",
-        "sha256": "1skzd2a5zv5z8j0ddrwm5yizwdm2k6w5yy71i1rvjcrjv416qgwk"
+        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/7e2035b89a6f7ee655e3fd13608bf9528c7f256d/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
+        "sha256": "0qvx6gyn3sjcdqi7wicjigmd7wl74x2vdvphkbjfizhpnlm2q5mq"
       }
     ],
-    "1.0": [
+    "2.1": [
       {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Bank Program on Specific Note.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/2ce374311bda43f683998d6ed14891a1e25abb99/JSFX/MIDI%20Bank%20Program%20on%20Specific%20Note.jsfx",
-        "sha256": "1skzd2a5zv5z8j0ddrwm5yizwdm2k6w5yy71i1rvjcrjv416qgwk"
-      }
-    ]
-  },
-  "MIDI CC Events First.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI CC Events First.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/fac9dd35379f2f382e245eeb23c286ccd1334aff/JSFX/MIDI%20CC%20Events%20First.jsfx",
-        "sha256": "1kgjbqcpj0kxm801nb7n59zpbwabiqh4gkly01s2qnai5x5jbm7g"
+        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/6150ae111324673f721b5bac06b5b33f7128e59e/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
+        "sha256": "1wbn52ihlz158bshlg0703gr3f1srw607k6bffdlz6b8z6hfyxl1"
       }
     ],
-    "1.0": [
+    "2.0": [
       {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI CC Events First.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/fac9dd35379f2f382e245eeb23c286ccd1334aff/JSFX/MIDI%20CC%20Events%20First.jsfx",
-        "sha256": "1kgjbqcpj0kxm801nb7n59zpbwabiqh4gkly01s2qnai5x5jbm7g"
-      }
-    ]
-  },
-  "MIDI Off Velocity Limiter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Off Velocity Limiter.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/89e7c476dc525e3c77cd941503e3d431c9380f89/JSFX/MIDI%20Off%20Velocity%20Limiter.jsfx",
-        "sha256": "0a2lgxpv7l3rllssy25q9iqbxxv8vjhgfc7a31i00wdim06nbcj5"
+        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/f888ff1f82a9832ad7b630d728f271d0a03562e9/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
+        "sha256": "00fb5dq9vgm1102ssl22wx5rwy20ivy26k01n82vibrdvv4q2ph4"
       }
     ],
-    "1.0": [
+    "1.21": [
       {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Off Velocity Limiter.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/89e7c476dc525e3c77cd941503e3d431c9380f89/JSFX/MIDI%20Off%20Velocity%20Limiter.jsfx",
-        "sha256": "0a2lgxpv7l3rllssy25q9iqbxxv8vjhgfc7a31i00wdim06nbcj5"
-      }
-    ]
-  },
-  "MIDI Route CC To Channel.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Route CC To Channel.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/93f392b2b169831d2df33f3b6014105eae1c9550/JSFX/MIDI%20Route%20CC%20To%20Channel.jsfx",
-        "sha256": "0j1yjbpm9qhnbcqb7rxvsh0rf2v9bm068fdyx5q0m49nsy38mqjz"
+        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/3bb010aeacb8d1ce6b47c8b05884bef561887306/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
+        "sha256": "0fipjsmalkrvlnl4yylkx7bdphv6p2a5i9nky5x4viyjls92211n"
       }
     ],
-    "1.0": [
+    "1.2": [
       {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Route CC To Channel.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/93f392b2b169831d2df33f3b6014105eae1c9550/JSFX/MIDI%20Route%20CC%20To%20Channel.jsfx",
-        "sha256": "0j1yjbpm9qhnbcqb7rxvsh0rf2v9bm068fdyx5q0m49nsy38mqjz"
-      }
-    ]
-  },
-  "MIDI Route PC To Channel.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Route PC To Channel.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/e75ce927ef620b4904dc92bfa290bb36ab7e4f4c/JSFX/MIDI%20Route%20PC%20To%20Channel.jsfx",
-        "sha256": "0k613p9crkm6c0h1wz5j9mv2zlpmyjgy1v0mw1jn2grbhnnddpkk"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Route PC To Channel.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/e75ce927ef620b4904dc92bfa290bb36ab7e4f4c/JSFX/MIDI%20Route%20PC%20To%20Channel.jsfx",
-        "sha256": "0k613p9crkm6c0h1wz5j9mv2zlpmyjgy1v0mw1jn2grbhnnddpkk"
-      }
-    ]
-  },
-  "MIDI Transform CC.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Transform CC.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/e240f1d0f853c4a83a82bc552ebb7d96fd356064/JSFX/MIDI%20Transform%20CC.jsfx",
-        "sha256": "10i62a7p63m7zbv2kg5w4dsdrzwx2j49cx6l6yp1jlnq960h4g49"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Transform CC.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/e240f1d0f853c4a83a82bc552ebb7d96fd356064/JSFX/MIDI%20Transform%20CC.jsfx",
-        "sha256": "10i62a7p63m7zbv2kg5w4dsdrzwx2j49cx6l6yp1jlnq960h4g49"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/zaibuyidao Scripts/JSFX/MIDI Transform CC.jsfx",
-        "url": "https://github.com/zaibuyidao/ReaScripts/raw/ca91a2df55db96ef44b8b1a5e68303caefa347ff/JSFX/MIDI%20Transform%20CC.jsfx",
-        "sha256": "1bni28jjry5jqqb8k0q2v8agspx6xym7ihns4npkv7r7lnm4wka6"
+        "path": "Scripts/zaibuyidao Scripts/MIDI Event List Editor/zaibuyidao_Insert NRPN.lua",
+        "url": "https://github.com/zaibuyidao/ReaScripts/raw/e44d1930146831803a947fdaa10f0ae9427dd35b/MIDI%20Event%20List%20Editor/zaibuyidao_Insert%20NRPN.lua",
+        "sha256": "0ggbma8gj2xdjaay0jggfzyppzkn3llhlin6bnkpd3nbzb4kj9yn"
       }
     ]
   }

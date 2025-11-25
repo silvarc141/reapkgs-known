@@ -1,169 +1,185 @@
 {
-  "mpl_Convert selected envelope points to automation item.lua": {
+  "mpl_Duplicate envelope points.lua": {
     "latest": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Convert selected envelope points to automation item.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/284b4e92e744e0e7073a267585098dabfc1544b3/Automation%20Items/mpl_Convert%20selected%20envelope%20points%20to%20automation%20item.lua",
-        "sha256": "1b2awijvwmsk48snhbrxhlkl5s7hj3d8q1n4wz27qsq5am90zwbf"
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/284b4e92e744e0e7073a267585098dabfc1544b3/Envelopes/mpl_Duplicate%20envelope%20points.lua",
+        "sha256": "1gn1p9qqplxsh276x2vmhg8qs4yd2viv0acs6mhzhksqwbx9738f"
       }
     ],
-    "1.01": [
+    "1.06": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Convert selected envelope points to automation item.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/284b4e92e744e0e7073a267585098dabfc1544b3/Automation%20Items/mpl_Convert%20selected%20envelope%20points%20to%20automation%20item.lua",
-        "sha256": "1b2awijvwmsk48snhbrxhlkl5s7hj3d8q1n4wz27qsq5am90zwbf"
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/284b4e92e744e0e7073a267585098dabfc1544b3/Envelopes/mpl_Duplicate%20envelope%20points.lua",
+        "sha256": "1gn1p9qqplxsh276x2vmhg8qs4yd2viv0acs6mhzhksqwbx9738f"
       }
     ],
-    "1.0": [
+    "1.05": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Convert selected envelope points to automation item.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/db9ad59b458d15e54ea60bbd1083ea64eb4561d4/Automation%20Items/mpl_Convert%20selected%20envelope%20points%20to%20automation%20item.lua",
-        "sha256": "1hgnq0m1n4p3rr2q2j39n6qyg8ynx9n6rljw4pkwm3074nvcrj6m"
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Envelopes/mpl_Duplicate%20envelope%20points.lua",
+        "sha256": "1ydrddbnh4yrq12app32yz2g2nqa3cz2bl9cn01hpa7kdmsra7sp"
       }
-    ]
-  },
-  "mpl_Generate pooled automation item for selected envelope from item audio.lua": {
-    "latest": [
+    ],
+    "1.04": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Generate pooled automation item for selected envelope from item audio.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/185e5b4338f344d5e55c166ceca8b033101b6d5c/Automation%20Items/mpl_Generate%20pooled%20automation%20item%20for%20selected%20envelope%20from%20item%20audio.lua",
-        "sha256": "1zz14nviwbnscr0k0q10s594y3ycz19lphjc0l4vighx1a0phxmc"
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/38d2aa292749c5ae9863538252b5d1628b290f02/Envelopes/mpl_Duplicate%20envelope%20points.lua",
+        "sha256": "0ld2kh6lg4nafdbs10nbfhspapi61p2pc213g85m7vnnr9j0znnw"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/653bd21badb09305b18d5a5d067aa7b05e43795f/Envelopes/mpl_Duplicate%20envelope%20points.lua",
+        "sha256": "1x2dslcfdyysdl9h1vg0q7dhifpmf9020avqfg0a43nghfqdx5v1"
       }
     ],
     "1.02": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Generate pooled automation item for selected envelope from item audio.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/185e5b4338f344d5e55c166ceca8b033101b6d5c/Automation%20Items/mpl_Generate%20pooled%20automation%20item%20for%20selected%20envelope%20from%20item%20audio.lua",
-        "sha256": "1zz14nviwbnscr0k0q10s594y3ycz19lphjc0l4vighx1a0phxmc"
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/fed792247989211dd4b56720f30d795a9919b6e6/Envelopes/mpl_Duplicate%20envelope%20points.lua",
+        "sha256": "1w69plgbkl99d0m01qijg87lxrm9i631mwkssdc2h2255sh5ha12"
       }
     ],
     "1.01": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Generate pooled automation item for selected envelope from item audio.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Automation%20Items/mpl_Generate%20pooled%20automation%20item%20for%20selected%20envelope%20from%20item%20audio.lua",
-        "sha256": "0sp9jd6nspfpzrwklky9p6pfhjbgiskshx9kw4xsfwy53shbmh92"
-      }
-    ]
-  },
-  "mpl_Insert 1 measure long automation item for last touched parameter.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Insert 1 measure long automation item for last touched parameter.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b9c1a6b7054783de9bc6a8a9c9edf731d54dc1e6/Automation%20Items/mpl_Insert%201%20measure%20long%20automation%20item%20for%20last%20touched%20parameter.lua",
-        "sha256": "05yyq0b4yx8n4jiscn0xwlapcqnc5pd05xyjf7qr55csj0w8dj2f"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Insert 1 measure long automation item for last touched parameter.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b9c1a6b7054783de9bc6a8a9c9edf731d54dc1e6/Automation%20Items/mpl_Insert%201%20measure%20long%20automation%20item%20for%20last%20touched%20parameter.lua",
-        "sha256": "05yyq0b4yx8n4jiscn0xwlapcqnc5pd05xyjf7qr55csj0w8dj2f"
-      }
-    ]
-  },
-  "mpl_Load automation item.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 1.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
-      {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 10.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
-      {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 2.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
-      {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 3.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
-      {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 4.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
-      {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 5.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
-      {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 6.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
-      {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 7.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
-      {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 8.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
-      {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 9.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/db88db1aa74371b0c4470f1ac0c6129a026087ea/Envelopes/mpl_Duplicate%20envelope%20points.lua",
+        "sha256": "0j4m6jpsr5i7b9gw8fy8n4hsfmlbn281w5jny9gpf4n07cz4rvzn"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 1.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/00da72a143b9a5e6db90829f6910a8d5b3d79f0f/Envelopes/mpl_Duplicate%20envelope%20points.lua",
+        "sha256": "1dia6zkxgs1bxsckaw4vpb1kc4gkwmvzfs502h249y2inzkd9ask"
+      }
+    ]
+  },
+  "mpl_Hide all track envelopes except envelope under mouse cursor.lua": {
+    "latest": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 10.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Hide all track envelopes except envelope under mouse cursor.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Hide%20all%20track%20envelopes%20except%20envelope%20under%20mouse%20cursor.lua",
+        "sha256": "11x079ihv28k4vhmq7yllfjg603bhdnw9qzcnp7635p24ln6v3kf"
+      }
+    ],
+    "1.03": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 2.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Hide all track envelopes except envelope under mouse cursor.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Hide%20all%20track%20envelopes%20except%20envelope%20under%20mouse%20cursor.lua",
+        "sha256": "11x079ihv28k4vhmq7yllfjg603bhdnw9qzcnp7635p24ln6v3kf"
+      }
+    ]
+  },
+  "mpl_Remove all track envelope points inside time selection.lua": {
+    "latest": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 3.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Remove all track envelope points inside time selection.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b14b93bfde671dc9b5ba199f77a51be2d68c6238/Envelopes/mpl_Remove%20all%20track%20envelope%20points%20inside%20time%20selection.lua",
+        "sha256": "0qb85divkrps55grmmwix4c0pmgan7cqlk49gk1221j4yzm0h216"
+      }
+    ],
+    "1.0": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 4.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Remove all track envelope points inside time selection.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b14b93bfde671dc9b5ba199f77a51be2d68c6238/Envelopes/mpl_Remove%20all%20track%20envelope%20points%20inside%20time%20selection.lua",
+        "sha256": "0qb85divkrps55grmmwix4c0pmgan7cqlk49gk1221j4yzm0h216"
+      }
+    ]
+  },
+  "mpl_Select active envelopes tracks.lua": {
+    "latest": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 5.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Select active envelopes tracks.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Select%20active%20envelopes%20tracks.lua",
+        "sha256": "01c0ydz8jjiq4bnh98vp4z0ssh3q1jy770cp2fj02k23px48l06d"
+      }
+    ],
+    "1.01": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 6.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Select active envelopes tracks.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Select%20active%20envelopes%20tracks.lua",
+        "sha256": "01c0ydz8jjiq4bnh98vp4z0ssh3q1jy770cp2fj02k23px48l06d"
+      }
+    ]
+  },
+  "mpl_Show all active track envelopes, hide unactive.lua": {
+    "latest": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 7.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Show all active track envelopes, hide unactive.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Show%20all%20active%20track%20envelopes,%20hide%20unactive.lua",
+        "sha256": "1n1pjnkiyhgrizgc11rw7gl953fq4cl6r70vysg7gafwdwdvy028"
+      }
+    ],
+    "1.01": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 8.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
-      },
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Show all active track envelopes, hide unactive.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Show%20all%20active%20track%20envelopes,%20hide%20unactive.lua",
+        "sha256": "1n1pjnkiyhgrizgc11rw7gl953fq4cl6r70vysg7gafwdwdvy028"
+      }
+    ]
+  },
+  "mpl_Show all armed track envelopes, hide unarmed.lua": {
+    "latest": [
       {
-        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 9.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
-        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Show all armed track envelopes, hide unarmed.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Show%20all%20armed%20track%20envelopes,%20hide%20unarmed.lua",
+        "sha256": "0h45w49svb29pbwbxjjl97k75z4vd7yd4qlkz05sn4d3da1skbm6"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Show all armed track envelopes, hide unarmed.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Show%20all%20armed%20track%20envelopes,%20hide%20unarmed.lua",
+        "sha256": "0h45w49svb29pbwbxjjl97k75z4vd7yd4qlkz05sn4d3da1skbm6"
+      }
+    ]
+  },
+  "mpl_Show existing envelopes for last touched FX.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Show existing envelopes for last touched FX.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Show%20existing%20envelopes%20for%20last%20touched%20FX.lua",
+        "sha256": "1mc615ckcb43afgnph984lvmmvid30bdsd8733n9laay6c2fqfkm"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Show existing envelopes for last touched FX.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Show%20existing%20envelopes%20for%20last%20touched%20FX.lua",
+        "sha256": "1mc615ckcb43afgnph984lvmmvid30bdsd8733n9laay6c2fqfkm"
+      }
+    ]
+  },
+  "mpl_Split all track envelopes at selected envelope points positions.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Split all track envelopes at selected envelope points positions.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/284b4e92e744e0e7073a267585098dabfc1544b3/Envelopes/mpl_Split%20all%20track%20envelopes%20at%20selected%20envelope%20points%20positions.lua",
+        "sha256": "09q00505b6kwkvfjwba3krkry4yh2vicz3cpv62shf5c15d6bp90"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Split all track envelopes at selected envelope points positions.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/284b4e92e744e0e7073a267585098dabfc1544b3/Envelopes/mpl_Split%20all%20track%20envelopes%20at%20selected%20envelope%20points%20positions.lua",
+        "sha256": "09q00505b6kwkvfjwba3krkry4yh2vicz3cpv62shf5c15d6bp90"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Split all track envelopes at selected envelope points positions.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/06e1c31d77255471c06f89bc75826a5885f2205c/Envelopes/mpl_Split%20all%20track%20envelopes%20at%20selected%20envelope%20points%20positions.lua",
+        "sha256": "1idwn1r8np0fpkmzy0127dwjik5i9ds8143mq2crg4wq90y04d0w"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Envelopes/mpl_Split all track envelopes at selected envelope points positions.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/f5284315c3d155a0b9858ed2fad7c128b6155108/Envelopes/mpl_Split%20all%20track%20envelopes%20at%20selected%20envelope%20points%20positions.lua",
+        "sha256": "1j2h4l3d0vwmhx1nx82fragkwmg9i56x28h4ha0mdbcy5hqf15dm"
       }
     ]
   },
@@ -23506,6 +23522,139 @@
       }
     ]
   },
+  "mpl_Move cursor to next phrase in items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to next phrase in items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Navigation/mpl_Move%20cursor%20to%20next%20phrase%20in%20items.lua",
+        "sha256": "07ilqj2f82fv0zy17vc6ad9xw0g2d05pg3q85dif98xmaklzsmj3"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to next phrase in items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Navigation/mpl_Move%20cursor%20to%20next%20phrase%20in%20items.lua",
+        "sha256": "07ilqj2f82fv0zy17vc6ad9xw0g2d05pg3q85dif98xmaklzsmj3"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to next phrase in items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Move%20cursor%20to%20next%20phrase%20in%20items.lua",
+        "sha256": "184sc6d3vwl1pb49haaanqvrnixfpdqklibcvrw38nxmpkabgr5r"
+      }
+    ]
+  },
+  "mpl_Move cursor to next selected item edge, keep overlapping condition.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to next selected item edge, keep overlapping condition.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Move%20cursor%20to%20next%20selected%20item%20edge,%20keep%20overlapping%20condition.lua",
+        "sha256": "0a4cpsmb7zfdhb39zn2pzf3lbm4pp09jmq2b1wsqsv4zv9hcgqf6"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to next selected item edge, keep overlapping condition.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Move%20cursor%20to%20next%20selected%20item%20edge,%20keep%20overlapping%20condition.lua",
+        "sha256": "0a4cpsmb7zfdhb39zn2pzf3lbm4pp09jmq2b1wsqsv4zv9hcgqf6"
+      }
+    ]
+  },
+  "mpl_Move cursor to previous phrase in items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to previous phrase in items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Navigation/mpl_Move%20cursor%20to%20previous%20phrase%20in%20items.lua",
+        "sha256": "0yb0qig21k8hs19y2mskwhx6f0ai1szz87bc9ijckvd0afxy4f4b"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to previous phrase in items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Navigation/mpl_Move%20cursor%20to%20previous%20phrase%20in%20items.lua",
+        "sha256": "0yb0qig21k8hs19y2mskwhx6f0ai1szz87bc9ijckvd0afxy4f4b"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to previous phrase in items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Move%20cursor%20to%20previous%20phrase%20in%20items.lua",
+        "sha256": "0y7gmfld6sbb4m1cyqgwkj52rriswa9s474fglvcyi0l1a40916v"
+      }
+    ]
+  },
+  "mpl_Move edit cursor to first note of selected item.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Move edit cursor to first note of selected item.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Move%20edit%20cursor%20to%20first%20note%20of%20selected%20item.lua",
+        "sha256": "04frv4k32v4wny0bcki4ylx07dm3y2lyysq6wvyq5n2a3idmcc53"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Move edit cursor to first note of selected item.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Move%20edit%20cursor%20to%20first%20note%20of%20selected%20item.lua",
+        "sha256": "04frv4k32v4wny0bcki4ylx07dm3y2lyysq6wvyq5n2a3idmcc53"
+      }
+    ]
+  },
+  "mpl_Select following phrase.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Select following phrase.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Navigation/mpl_Select%20following%20phrase.lua",
+        "sha256": "19md08314mqzin4dn25f63mww3cq27q9hf3l4h6qld0xx6mnc91h"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Select following phrase.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Navigation/mpl_Select%20following%20phrase.lua",
+        "sha256": "19md08314mqzin4dn25f63mww3cq27q9hf3l4h6qld0xx6mnc91h"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Select following phrase.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Select%20following%20phrase.lua",
+        "sha256": "06fwdz7qcdb9dcv8swb3ly1f5j3w9s2d4r3qp5awy8rfsrvh3mgf"
+      }
+    ]
+  },
+  "mpl_Set time selection from edit cursor to end of current region.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Set time selection from edit cursor to end of current region.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Set%20time%20selection%20from%20edit%20cursor%20to%20end%20of%20current%20region.lua",
+        "sha256": "0ibzpcsk1qzxfwz38j9fcv7wmm1sa5p6868m9i7mm19kbxqvwmfa"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Set time selection from edit cursor to end of current region.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Set%20time%20selection%20from%20edit%20cursor%20to%20end%20of%20current%20region.lua",
+        "sha256": "0ibzpcsk1qzxfwz38j9fcv7wmm1sa5p6868m9i7mm19kbxqvwmfa"
+      }
+    ]
+  },
+  "mpl_Set time selection from edit cursor to start of current region.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Set time selection from edit cursor to start of current region.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Set%20time%20selection%20from%20edit%20cursor%20to%20start%20of%20current%20region.lua",
+        "sha256": "0h34lz9wh5lqlkcgkrw7r7ahnshb7gzirdcp5baz2mfqlq2s4w16"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Navigation/mpl_Set time selection from edit cursor to start of current region.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Set%20time%20selection%20from%20edit%20cursor%20to%20start%20of%20current%20region.lua",
+        "sha256": "0h34lz9wh5lqlkcgkrw7r7ahnshb7gzirdcp5baz2mfqlq2s4w16"
+      }
+    ]
+  },
   "mpl_Disable add rendered files to project after render.lua": {
     "latest": [
       {
@@ -25335,248 +25484,6 @@
         "path": "Scripts/MPL Scripts/Spectral edits/mpl_Toggle solo for selected items active take selected spectral edits.lua",
         "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bfd3919611f6a72f02e7bf2466e7a91fc25ab6f3/Spectral%20edits/mpl_Toggle%20solo%20for%20selected%20items%20active%20take%20selected%20spectral%20edits.lua",
         "sha256": "0v5y2spiwnz9h8m9n6wx2j097h9rikz4ymh5g5lgai9fkzk08dw0"
-      }
-    ]
-  },
-  "mpl_Copy selected item stretch markers.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Copy selected item stretch markers.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Copy%20selected%20item%20stretch%20markers.lua",
-        "sha256": "0g96v8limbanmbwlxgbybf2jx3s8yvkbgz7xn7i7krydxi07k7qj"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Copy selected item stretch markers.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Copy%20selected%20item%20stretch%20markers.lua",
-        "sha256": "0g96v8limbanmbwlxgbybf2jx3s8yvkbgz7xn7i7krydxi07k7qj"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Copy selected item stretch markers.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/730c2a896e103c3071221cf606cb55ebec2ef311/Stretch%20Markers/mpl_Copy%20selected%20item%20stretch%20markers.lua",
-        "sha256": "10xpds1rcz7acyh6zxmamghw2f5p5jd5rdx2f0vfbp6klpgqcziv"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Copy selected item stretch markers.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/920189885012790e094f3238c7d916372f10d023/Stretch%20Markers/mpl_Copy%20selected%20item%20stretch%20markers.lua",
-        "sha256": "0gwhir3x3xgjxfm1g1yh49rrk6yspcfcv13yvcy3icgr5ffkpaaq"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Copy selected item stretch markers.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0d2ff87f1c08dcaa7306b8c31383eb00a49b9206/Stretch%20Markers/mpl_Copy%20selected%20item%20stretch%20markers.lua",
-        "sha256": "1gqyirl1gva6r645c8p1bgc37r77f1rhf9m73r5gh3jx08zfmx66"
-      }
-    ]
-  },
-  "mpl_Move take content under stretch markers 10ms left.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Move take content under stretch markers 10ms left.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1b0ddb39acd4a2f7fc85317e482f1b6155f1b91c/Stretch%20Markers/mpl_Move%20take%20content%20under%20stretch%20markers%2010ms%20left.lua",
-        "sha256": "12zz877lmnfqh0mplcwz55dsy5chf6c2jlr8rn5mnv8rlfaijf5b"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Move take content under stretch markers 10ms left.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1b0ddb39acd4a2f7fc85317e482f1b6155f1b91c/Stretch%20Markers/mpl_Move%20take%20content%20under%20stretch%20markers%2010ms%20left.lua",
-        "sha256": "12zz877lmnfqh0mplcwz55dsy5chf6c2jlr8rn5mnv8rlfaijf5b"
-      }
-    ]
-  },
-  "mpl_Move take content under stretch markers 10ms right.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Move take content under stretch markers 10ms right.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1b0ddb39acd4a2f7fc85317e482f1b6155f1b91c/Stretch%20Markers/mpl_Move%20take%20content%20under%20stretch%20markers%2010ms%20right.lua",
-        "sha256": "1m4yvpvzkaa5lg6qg8czspl895cyp361xzrbqxwvha9anwzgdb9x"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Move take content under stretch markers 10ms right.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1b0ddb39acd4a2f7fc85317e482f1b6155f1b91c/Stretch%20Markers/mpl_Move%20take%20content%20under%20stretch%20markers%2010ms%20right.lua",
-        "sha256": "1m4yvpvzkaa5lg6qg8czspl895cyp361xzrbqxwvha9anwzgdb9x"
-      }
-    ]
-  },
-  "mpl_Paste and replace stretch markers to selected items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Paste and replace stretch markers to selected items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Paste%20and%20replace%20stretch%20markers%20to%20selected%20items.lua",
-        "sha256": "1n6klxavj95wnk474g9skjk6x8j39yra58cnrlpwrcma6dd0r91m"
-      }
-    ],
-    "1.04": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Paste and replace stretch markers to selected items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Paste%20and%20replace%20stretch%20markers%20to%20selected%20items.lua",
-        "sha256": "1n6klxavj95wnk474g9skjk6x8j39yra58cnrlpwrcma6dd0r91m"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Paste and replace stretch markers to selected items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/52e7fcf4bc51ea291dc56d3dc726049d9f444aa1/Stretch%20Markers/mpl_Paste%20and%20replace%20stretch%20markers%20to%20selected%20items.lua",
-        "sha256": "0jygww1fvq4mi4sghkv98dxk9dj09sl5j1chizzwwphqjbcxqf06"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Paste and replace stretch markers to selected items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/730c2a896e103c3071221cf606cb55ebec2ef311/Stretch%20Markers/mpl_Paste%20and%20replace%20stretch%20markers%20to%20selected%20items.lua",
-        "sha256": "0zk7digggipav3f4n2h9lzpy0g8yxwzgg6cr9dlxvipqvznjqacr"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Paste and replace stretch markers to selected items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/920189885012790e094f3238c7d916372f10d023/Stretch%20Markers/mpl_Paste%20and%20replace%20stretch%20markers%20to%20selected%20items.lua",
-        "sha256": "1d9jh81hkw63gvv5g5lqnx4c62wfa62pa9dzm6svm0c8x5wb4q2q"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Paste and replace stretch markers to selected items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0d2ff87f1c08dcaa7306b8c31383eb00a49b9206/Stretch%20Markers/mpl_Paste%20and%20replace%20stretch%20markers%20to%20selected%20items.lua",
-        "sha256": "0g8dq8jjvczc7v0fsdz5f9k12d9q0hm3g3rgs86pa4gspcn7cx7n"
-      }
-    ]
-  },
-  "mpl_Quantize stretch markers in selected items to zero crossings.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Quantize stretch markers in selected items to zero crossings.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/964292166704b31746a06f970d43625b0853eee0/Stretch%20Markers/mpl_Quantize%20stretch%20markers%20in%20selected%20items%20to%20zero%20crossings.lua",
-        "sha256": "1f86s8fmkr8dds1kli92342v48nwd5iy825w4b9y5ag2nhkfvz8f"
-      }
-    ],
-    "1.10": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Quantize stretch markers in selected items to zero crossings.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/964292166704b31746a06f970d43625b0853eee0/Stretch%20Markers/mpl_Quantize%20stretch%20markers%20in%20selected%20items%20to%20zero%20crossings.lua",
-        "sha256": "1f86s8fmkr8dds1kli92342v48nwd5iy825w4b9y5ag2nhkfvz8f"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Quantize stretch markers in selected items to zero crossings.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/56f774513b1eafbc939cfecf0fdd6b04f5985524/Stretch%20Markers/mpl_Quantize%20stretch%20markers%20in%20selected%20items%20to%20zero%20crossings.lua",
-        "sha256": "00faf752g6zp4ka99wkxfy285r4bcl2iqssvm1h3wyg44l7j2xsr"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Quantize stretch markers in selected items to zero crossings.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e05284018ed801f1b68c27dea4775376eb357bf9/Stretch%20Markers/mpl_Quantize%20stretch%20markers%20in%20selected%20items%20to%20zero%20crossings.lua",
-        "sha256": "0gz198jsk8ki065qjjvl46zfr9hajp0pm3dv1c5xrxr5209bwb4z"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Quantize stretch markers in selected items to zero crossings.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1456fcc723679bfbafc160aff338af15db14f791/Stretch%20Markers/mpl_Quantize%20stretch%20markers%20in%20selected%20items%20to%20zero%20crossings.lua",
-        "sha256": "0cg8z7m9578cl0fhh5bbkjc5iqjcnrnd21c84smj7jqx0r5d93qv"
-      }
-    ]
-  },
-  "mpl_Remove all non-1x stretch markers from selected takes.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Remove all non-1x stretch markers from selected takes.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/25fcdddfbc75e85be0176730523fe22e0d83ee11/Stretch%20Markers/mpl_Remove%20all%20non-1x%20stretch%20markers%20from%20selected%20takes.lua",
-        "sha256": "0475v6y98mizzwpdnf77wig6hpkpd5ri9lx32w99ahaag7yv3zrd"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Remove all non-1x stretch markers from selected takes.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/25fcdddfbc75e85be0176730523fe22e0d83ee11/Stretch%20Markers/mpl_Remove%20all%20non-1x%20stretch%20markers%20from%20selected%20takes.lua",
-        "sha256": "0475v6y98mizzwpdnf77wig6hpkpd5ri9lx32w99ahaag7yv3zrd"
-      }
-    ]
-  },
-  "mpl_Stretch marker guard.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Stretch marker guard.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c2cad4a1eff41f8c054553fe6926eba5cd345c7e/Stretch%20Markers/mpl_Stretch%20marker%20guard.lua",
-        "sha256": "1m666ngnz7204z3kzqgacg50rj45xan9668v9079aj0rml8rwps7"
-      }
-    ],
-    "1.04": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Stretch marker guard.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c2cad4a1eff41f8c054553fe6926eba5cd345c7e/Stretch%20Markers/mpl_Stretch%20marker%20guard.lua",
-        "sha256": "1m666ngnz7204z3kzqgacg50rj45xan9668v9079aj0rml8rwps7"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Stretch marker guard.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/3b1aeb6f13e89f776646e72a03ca17c8321a1cd1/Stretch%20Markers/mpl_Stretch%20marker%20guard.lua",
-        "sha256": "0xfmgkylkznw9gbk0mj8psimqypzs8hkymix9zyk0pjxr6yhhvpl"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Stretch marker guard.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/08868abafdcb03eb74d020c03460aa1960cef964/Stretch%20Markers/mpl_Stretch%20marker%20guard.lua",
-        "sha256": "0lgdp0i7iplxhik7pm3q7svvkxhp0p043mxsgd66d0mhp6f1dibh"
-      }
-    ]
-  },
-  "mpl_Tape start selected items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Tape start selected items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Tape%20start%20selected%20items.lua",
-        "sha256": "0gmyd4rfjxip49b632p4ql98a8vj9yzrpcy8nqw7zdr3ymm9lv5s"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Tape start selected items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Tape%20start%20selected%20items.lua",
-        "sha256": "0gmyd4rfjxip49b632p4ql98a8vj9yzrpcy8nqw7zdr3ymm9lv5s"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Tape start selected items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/6bc561efc9366dfab3603929e04abbfab555c16a/Stretch%20Markers/mpl_Tape%20start%20selected%20items.lua",
-        "sha256": "1qrqwjk1z47bsykiydzx4fimj27apr56bfg691nqkn54amrqmqvv"
-      }
-    ]
-  },
-  "mpl_Tape stop selected items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Tape stop selected items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Tape%20stop%20selected%20items.lua",
-        "sha256": "0x24v81as6wp9kkb31yrw5jkllrbvjc2bn4dsfja02s0yksiss8p"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Tape stop selected items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Tape%20stop%20selected%20items.lua",
-        "sha256": "0x24v81as6wp9kkb31yrw5jkllrbvjc2bn4dsfja02s0yksiss8p"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Tape stop selected items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/6bc561efc9366dfab3603929e04abbfab555c16a/Stretch%20Markers/mpl_Tape%20stop%20selected%20items.lua",
-        "sha256": "13pp94bvjapbv2xxk6r7ms5gcy8d8zmy4p3q4nyhfd8qiasnj6rz"
       }
     ]
   },
@@ -39441,421 +39348,49 @@
       }
     ]
   },
-  "mpl_Play from item under mouse cursor.lua": {
+  "mpl_Move selected items to selected subprojects.lua": {
     "latest": [
       {
-        "path": "Scripts/MPL Scripts/Transport/mpl_Play from item under mouse cursor.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Transport/mpl_Play%20from%20item%20under%20mouse%20cursor.lua",
-        "sha256": "0vg83djab8rgxds6cd880hyr3810d9mfyslmpm7s4bb8plrh6rgg"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/MPL Scripts/Transport/mpl_Play from item under mouse cursor.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Transport/mpl_Play%20from%20item%20under%20mouse%20cursor.lua",
-        "sha256": "0vg83djab8rgxds6cd880hyr3810d9mfyslmpm7s4bb8plrh6rgg"
+        "path": "Scripts/MPL Scripts/Subprojects/mpl_Move selected items to selected subprojects.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Subprojects/mpl_Move%20selected%20items%20to%20selected%20subprojects.lua",
+        "sha256": "1yrvx7kamgbwmqnzxgjz2vfc8143657y2xl3rc05zkygrxgvd012"
       }
     ],
     "1.01": [
       {
-        "path": "Scripts/MPL Scripts/Transport/mpl_Play from item under mouse cursor.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/08868abafdcb03eb74d020c03460aa1960cef964/Transport/mpl_Play%20from%20item%20under%20mouse%20cursor.lua",
-        "sha256": "125lvnj1m2j6fsbyhvqp0l9s798sn30dq1awazkfb6bkvx1g8vxp"
+        "path": "Scripts/MPL Scripts/Subprojects/mpl_Move selected items to selected subprojects.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Subprojects/mpl_Move%20selected%20items%20to%20selected%20subprojects.lua",
+        "sha256": "1yrvx7kamgbwmqnzxgjz2vfc8143657y2xl3rc05zkygrxgvd012"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/MPL Scripts/Transport/mpl_Play from item under mouse cursor.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1b0ddb39acd4a2f7fc85317e482f1b6155f1b91c/Transport/mpl_Play%20from%20item%20under%20mouse%20cursor.lua",
-        "sha256": "1n65zavh5vj59wbvi1hs0xmxhsjwgnly7hqw8qm5lqza739ncpqx"
+        "path": "Scripts/MPL Scripts/Subprojects/mpl_Move selected items to selected subprojects.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7ea8e1825d520c178f517d0b48d7301ee90b0173/Subprojects/mpl_Move%20selected%20items%20to%20selected%20subprojects.lua",
+        "sha256": "0845avhmpa3wsndbxd0z2i6sqjss1mg5vj89p7vw14ldrx41mig4"
       }
     ]
   },
-  "mpl_Transport Play Stop (obey longest negative track offset).lua": {
+  "mpl_Syncronize edit cursor beetween parent and subproject (background).lua": {
     "latest": [
       {
-        "path": "Scripts/MPL Scripts/Transport/mpl_Transport Play Stop (obey longest negative track offset).lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/53819570102cb2a627dfd198b18bfe31139b09b7/Transport/mpl_Transport%20Play%20Stop%20(obey%20longest%20negative%20track%20offset).lua",
-        "sha256": "1yv49hcsar5k7jmsc9f66bziwy7c7944d67ig4hjg26bmhpm213m"
+        "path": "Scripts/MPL Scripts/Subprojects/mpl_Syncronize edit cursor beetween parent and subproject (background).lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5fdf6c18d3226e829d7a894a53ea2d4eab322510/Subprojects/mpl_Syncronize%20edit%20cursor%20beetween%20parent%20and%20subproject%20(background).lua",
+        "sha256": "0k6wgs8sga0l8vy6qa7896z9yf9r92khaax279f7dmgn3553aysp"
       }
     ],
     "1.01": [
       {
-        "path": "Scripts/MPL Scripts/Transport/mpl_Transport Play Stop (obey longest negative track offset).lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/53819570102cb2a627dfd198b18bfe31139b09b7/Transport/mpl_Transport%20Play%20Stop%20(obey%20longest%20negative%20track%20offset).lua",
-        "sha256": "1yv49hcsar5k7jmsc9f66bziwy7c7944d67ig4hjg26bmhpm213m"
+        "path": "Scripts/MPL Scripts/Subprojects/mpl_Syncronize edit cursor beetween parent and subproject (background).lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5fdf6c18d3226e829d7a894a53ea2d4eab322510/Subprojects/mpl_Syncronize%20edit%20cursor%20beetween%20parent%20and%20subproject%20(background).lua",
+        "sha256": "0k6wgs8sga0l8vy6qa7896z9yf9r92khaax279f7dmgn3553aysp"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/MPL Scripts/Transport/mpl_Transport Play Stop (obey longest negative track offset).lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/3f4f8dfb409f899416442cfaf94b3378d960739d/Transport/mpl_Transport%20Play%20Stop%20(obey%20longest%20negative%20track%20offset).lua",
-        "sha256": "0i74m10b4p9mbwr0801azpn4czbrrw1w4snwfsnf0kzzddk8lp30"
-      }
-    ]
-  },
-  "mpl_Trigger record after recent audio event, set channel input.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Transport/mpl_Trigger record after recent audio event, set channel input.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Transport/mpl_Trigger%20record%20after%20recent%20audio%20event,%20set%20channel%20input.lua",
-        "sha256": "092rlnhhgiww566dsfpz40vy5hlk93ak0w35qhap08p5gwsk7npl"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Transport/mpl_Trigger record after recent audio event, set channel input.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Transport/mpl_Trigger%20record%20after%20recent%20audio%20event,%20set%20channel%20input.lua",
-        "sha256": "092rlnhhgiww566dsfpz40vy5hlk93ak0w35qhap08p5gwsk7npl"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Transport/mpl_Trigger record after recent audio event, set channel input.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/634a972f382a262e17213e885f1857bee120656d/Transport/mpl_Trigger%20record%20after%20recent%20audio%20event,%20set%20channel%20input.lua",
-        "sha256": "0hi0nxvsfw288fzdgarrgxqdzsrpxz5ndidqag51bhn3h7lm0kmn"
-      }
-    ]
-  },
-  "mpl_Trigger record after recent input MIDI event.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Transport/mpl_Trigger record after recent input MIDI event.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Transport/mpl_Trigger%20record%20after%20recent%20input%20MIDI%20event.lua",
-        "sha256": "1clqq6nbnzavnv5d3nms7w83qq0rcka1mb98djnlaz7fgsib1mcj"
-      }
-    ],
-    "2.02": [
-      {
-        "path": "Scripts/MPL Scripts/Transport/mpl_Trigger record after recent input MIDI event.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Transport/mpl_Trigger%20record%20after%20recent%20input%20MIDI%20event.lua",
-        "sha256": "1clqq6nbnzavnv5d3nms7w83qq0rcka1mb98djnlaz7fgsib1mcj"
-      }
-    ],
-    "2.01": [
-      {
-        "path": "Scripts/MPL Scripts/Transport/mpl_Trigger record after recent input MIDI event.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/dfcb45ea727a9ec9d5c5625dbff3199147d871e3/Transport/mpl_Trigger%20record%20after%20recent%20input%20MIDI%20event.lua",
-        "sha256": "1zqdfvf60f4ibcbpjm0x9zj6nb29mj8aiq5mcjdp3q5728rs1fkp"
-      }
-    ]
-  },
-  "mpl_Import Cubase tempo map.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Tempo/mpl_Import Cubase tempo map.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b0bbbc46b349837b79ac23c2661562de41a73639/Tempo/mpl_Import%20Cubase%20tempo%20map.lua",
-        "sha256": "0pgmdr3rwwgi53qbaa0rz4gq96cw2awarkv1jm24fg5cw5g5dx4b"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Tempo/mpl_Import Cubase tempo map.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b0bbbc46b349837b79ac23c2661562de41a73639/Tempo/mpl_Import%20Cubase%20tempo%20map.lua",
-        "sha256": "0pgmdr3rwwgi53qbaa0rz4gq96cw2awarkv1jm24fg5cw5g5dx4b"
-      }
-    ]
-  },
-  "mpl_Tempo versions.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Tempo/mpl_Tempo versions.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e1b69c42ac4cf00ea9a11df67e45080e30d9b0a7/Tempo/mpl_Tempo%20versions.lua",
-        "sha256": "0vm08ms0xrv6xsnakmlqq07bhpz8970bw5f8wnf6xlhk3n2s0fl0"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/MPL Scripts/Tempo/mpl_Tempo versions.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e1b69c42ac4cf00ea9a11df67e45080e30d9b0a7/Tempo/mpl_Tempo%20versions.lua",
-        "sha256": "0vm08ms0xrv6xsnakmlqq07bhpz8970bw5f8wnf6xlhk3n2s0fl0"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/MPL Scripts/Tempo/mpl_Tempo versions.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2804257689d4b2c1912bd1ed5854292819f59b35/Tempo/mpl_Tempo%20versions.lua",
-        "sha256": "1gi145ai66yf16wxalzv4v93q6f220drg5cx8jaq2adxqbbc8ycn"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Tempo/mpl_Tempo versions.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/856391bfa9d38298d8922c7f04e568b3d882380f/Tempo/mpl_Tempo%20versions.lua",
-        "sha256": "1dlll300cbyp1kvvyjgyra65l5rb0fc7cvh1qalvw2nrz9pmrg41"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Tempo/mpl_Tempo versions.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/9175263be98b7c29a2c4a8b452fa9ecb72b15518/Tempo/mpl_Tempo%20versions.lua",
-        "sha256": "0w02v6k1jgw0z1p1zjj4nr70i0005jajshd5bwi8clfpz5q1vani"
-      }
-    ]
-  },
-  "mpl_Toggle gradually transition for tempo marker before edit cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Tempo/mpl_Toggle gradually transition for tempo marker before edit cursor.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c7fe537643af12d82d2024af046d47c79fe5c24f/Tempo/mpl_Toggle%20gradually%20transition%20for%20tempo%20marker%20before%20edit%20cursor.lua",
-        "sha256": "05d7dqi3p612wnbjzjn68ss0gkrq3v7a05yrys9w35xb12h9a090"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Tempo/mpl_Toggle gradually transition for tempo marker before edit cursor.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c7fe537643af12d82d2024af046d47c79fe5c24f/Tempo/mpl_Toggle%20gradually%20transition%20for%20tempo%20marker%20before%20edit%20cursor.lua",
-        "sha256": "05d7dqi3p612wnbjzjn68ss0gkrq3v7a05yrys9w35xb12h9a090"
-      }
-    ]
-  },
-  "mpl_Move cursor to next phrase in items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to next phrase in items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Navigation/mpl_Move%20cursor%20to%20next%20phrase%20in%20items.lua",
-        "sha256": "07ilqj2f82fv0zy17vc6ad9xw0g2d05pg3q85dif98xmaklzsmj3"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to next phrase in items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Navigation/mpl_Move%20cursor%20to%20next%20phrase%20in%20items.lua",
-        "sha256": "07ilqj2f82fv0zy17vc6ad9xw0g2d05pg3q85dif98xmaklzsmj3"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to next phrase in items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Move%20cursor%20to%20next%20phrase%20in%20items.lua",
-        "sha256": "184sc6d3vwl1pb49haaanqvrnixfpdqklibcvrw38nxmpkabgr5r"
-      }
-    ]
-  },
-  "mpl_Move cursor to next selected item edge, keep overlapping condition.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to next selected item edge, keep overlapping condition.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Move%20cursor%20to%20next%20selected%20item%20edge,%20keep%20overlapping%20condition.lua",
-        "sha256": "0a4cpsmb7zfdhb39zn2pzf3lbm4pp09jmq2b1wsqsv4zv9hcgqf6"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to next selected item edge, keep overlapping condition.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Move%20cursor%20to%20next%20selected%20item%20edge,%20keep%20overlapping%20condition.lua",
-        "sha256": "0a4cpsmb7zfdhb39zn2pzf3lbm4pp09jmq2b1wsqsv4zv9hcgqf6"
-      }
-    ]
-  },
-  "mpl_Move cursor to previous phrase in items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to previous phrase in items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Navigation/mpl_Move%20cursor%20to%20previous%20phrase%20in%20items.lua",
-        "sha256": "0yb0qig21k8hs19y2mskwhx6f0ai1szz87bc9ijckvd0afxy4f4b"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to previous phrase in items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Navigation/mpl_Move%20cursor%20to%20previous%20phrase%20in%20items.lua",
-        "sha256": "0yb0qig21k8hs19y2mskwhx6f0ai1szz87bc9ijckvd0afxy4f4b"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Move cursor to previous phrase in items.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Move%20cursor%20to%20previous%20phrase%20in%20items.lua",
-        "sha256": "0y7gmfld6sbb4m1cyqgwkj52rriswa9s474fglvcyi0l1a40916v"
-      }
-    ]
-  },
-  "mpl_Move edit cursor to first note of selected item.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Move edit cursor to first note of selected item.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Move%20edit%20cursor%20to%20first%20note%20of%20selected%20item.lua",
-        "sha256": "04frv4k32v4wny0bcki4ylx07dm3y2lyysq6wvyq5n2a3idmcc53"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Move edit cursor to first note of selected item.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Move%20edit%20cursor%20to%20first%20note%20of%20selected%20item.lua",
-        "sha256": "04frv4k32v4wny0bcki4ylx07dm3y2lyysq6wvyq5n2a3idmcc53"
-      }
-    ]
-  },
-  "mpl_Select following phrase.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Select following phrase.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Navigation/mpl_Select%20following%20phrase.lua",
-        "sha256": "19md08314mqzin4dn25f63mww3cq27q9hf3l4h6qld0xx6mnc91h"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Select following phrase.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Navigation/mpl_Select%20following%20phrase.lua",
-        "sha256": "19md08314mqzin4dn25f63mww3cq27q9hf3l4h6qld0xx6mnc91h"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Select following phrase.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Select%20following%20phrase.lua",
-        "sha256": "06fwdz7qcdb9dcv8swb3ly1f5j3w9s2d4r3qp5awy8rfsrvh3mgf"
-      }
-    ]
-  },
-  "mpl_Set time selection from edit cursor to end of current region.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Set time selection from edit cursor to end of current region.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Set%20time%20selection%20from%20edit%20cursor%20to%20end%20of%20current%20region.lua",
-        "sha256": "0ibzpcsk1qzxfwz38j9fcv7wmm1sa5p6868m9i7mm19kbxqvwmfa"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Set time selection from edit cursor to end of current region.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Set%20time%20selection%20from%20edit%20cursor%20to%20end%20of%20current%20region.lua",
-        "sha256": "0ibzpcsk1qzxfwz38j9fcv7wmm1sa5p6868m9i7mm19kbxqvwmfa"
-      }
-    ]
-  },
-  "mpl_Set time selection from edit cursor to start of current region.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Set time selection from edit cursor to start of current region.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Set%20time%20selection%20from%20edit%20cursor%20to%20start%20of%20current%20region.lua",
-        "sha256": "0h34lz9wh5lqlkcgkrw7r7ahnshb7gzirdcp5baz2mfqlq2s4w16"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Navigation/mpl_Set time selection from edit cursor to start of current region.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Navigation/mpl_Set%20time%20selection%20from%20edit%20cursor%20to%20start%20of%20current%20region.lua",
-        "sha256": "0h34lz9wh5lqlkcgkrw7r7ahnshb7gzirdcp5baz2mfqlq2s4w16"
-      }
-    ]
-  },
-  "Convert Pitch(L) Gate(R) pair from Reaktor Blocks to MIDI.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/MPL Scripts/JSFX/Convert Pitch(L) Gate(R) pair from Reaktor Blocks to MIDI.jsfx",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0bec563fc22114ad8960e4c9a902623fe679fd43/JSFX/Convert%20Pitch(L)%20Gate(R)%20pair%20from%20Reaktor%20Blocks%20to%20MIDI.jsfx",
-        "sha256": "1mg963d7hpywhac11j1ywnq2mqbvhdapgr5nbyg483x7hli8pldl"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/MPL Scripts/JSFX/Convert Pitch(L) Gate(R) pair from Reaktor Blocks to MIDI.jsfx",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0bec563fc22114ad8960e4c9a902623fe679fd43/JSFX/Convert%20Pitch(L)%20Gate(R)%20pair%20from%20Reaktor%20Blocks%20to%20MIDI.jsfx",
-        "sha256": "1mg963d7hpywhac11j1ywnq2mqbvhdapgr5nbyg483x7hli8pldl"
-      }
-    ]
-  },
-  "DC offset.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/MPL Scripts/JSFX/DC offset.jsfx",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e20700fecd51e57f581046811f99456544e565e2/JSFX/DC%20offset.jsfx",
-        "sha256": "0yw09jawz7jm07mlr637iik37adr4ilc3anlgamg00shj9sw9j06"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/MPL Scripts/JSFX/DC offset.jsfx",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e20700fecd51e57f581046811f99456544e565e2/JSFX/DC%20offset.jsfx",
-        "sha256": "0yw09jawz7jm07mlr637iik37adr4ilc3anlgamg00shj9sw9j06"
-      }
-    ]
-  },
-  "mpl_Convert CUE file into markers (DDP formatted).lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Regions/mpl_Convert CUE file into markers (DDP formatted).lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Regions/mpl_Convert%20CUE%20file%20into%20markers%20(DDP%20formatted).lua",
-        "sha256": "1dvv5vvgxzb8y4kqgk4vkm0cxa1p8fk5bsq7r4w4cgpikk661lc3"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Regions/mpl_Convert CUE file into markers (DDP formatted).lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Regions/mpl_Convert%20CUE%20file%20into%20markers%20(DDP%20formatted).lua",
-        "sha256": "1dvv5vvgxzb8y4kqgk4vkm0cxa1p8fk5bsq7r4w4cgpikk661lc3"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Regions/mpl_Convert CUE file into markers (DDP formatted).lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/200d56a4739f6b119c856974a874c47905fd92d8/Regions/mpl_Convert%20CUE%20file%20into%20markers%20(DDP%20formatted).lua",
-        "sha256": "05d2kpnc3g31dlcwrh8zkvhrp7mda46b1lpxl5swq9q2q69z75k4"
-      }
-    ]
-  },
-  "mpl_Convert CUE file into markers.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Regions/mpl_Convert CUE file into markers.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/ccb8e205e9b15f5336372e934170504dfcedfa80/Regions/mpl_Convert%20CUE%20file%20into%20markers.lua",
-        "sha256": "1c2ncf23bd8rpb28w4qzk6hqfsdn29ny261sdkcvb892il0avqiy"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Regions/mpl_Convert CUE file into markers.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/ccb8e205e9b15f5336372e934170504dfcedfa80/Regions/mpl_Convert%20CUE%20file%20into%20markers.lua",
-        "sha256": "1c2ncf23bd8rpb28w4qzk6hqfsdn29ny261sdkcvb892il0avqiy"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Regions/mpl_Convert CUE file into markers.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bc82de9b5a69a3ec5a59b0c753803eb03e44c3dc/Regions/mpl_Convert%20CUE%20file%20into%20markers.lua",
-        "sha256": "0qhidd942pccr0r71jikwb45an0rhg9l1a90rgv8b853sziplmq7"
-      }
-    ]
-  },
-  "mpl_Go to next marker id.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Regions/mpl_Go to next marker id.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/18a6a1b52fb22db830dde788c6f0f34455853125/Regions/mpl_Go%20to%20next%20marker%20id.lua",
-        "sha256": "1ka2qwji0b6gvz4jl2c9y0amrbqlwh7353mvpjf7ipwhg04mmb16"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Regions/mpl_Go to next marker id.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/18a6a1b52fb22db830dde788c6f0f34455853125/Regions/mpl_Go%20to%20next%20marker%20id.lua",
-        "sha256": "1ka2qwji0b6gvz4jl2c9y0amrbqlwh7353mvpjf7ipwhg04mmb16"
-      }
-    ]
-  },
-  "mpl_Shift regions and markers to edit cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Regions/mpl_Shift regions and markers to edit cursor.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Regions/mpl_Shift%20regions%20and%20markers%20to%20edit%20cursor.lua",
-        "sha256": "0l5zcbrx6zl7is780jdi2bna1qlm2iqp3dh5b93ylg2gz8xzjmp7"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Regions/mpl_Shift regions and markers to edit cursor.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Regions/mpl_Shift%20regions%20and%20markers%20to%20edit%20cursor.lua",
-        "sha256": "0l5zcbrx6zl7is780jdi2bna1qlm2iqp3dh5b93ylg2gz8xzjmp7"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Regions/mpl_Shift regions and markers to edit cursor.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/08c1b34a5bc7b024946090bc369e1bee4ff4397c/Regions/mpl_Shift%20regions%20and%20markers%20to%20edit%20cursor.lua",
-        "sha256": "01ljlagf6yrq9iravd302zq893az4ifyzsjb4lc56fay9r40hc83"
+        "path": "Scripts/MPL Scripts/Subprojects/mpl_Syncronize edit cursor beetween parent and subproject (background).lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/08bf8b936afcf521311dc55c297877ba129f464e/Subprojects/mpl_Syncronize%20edit%20cursor%20beetween%20parent%20and%20subproject%20(background).lua",
+        "sha256": "1cjs5q3hagg4jzz7lf75w8fcca9givpdh2swk3a30ra3ihls30jl"
       }
     ]
   },
@@ -39958,233 +39493,698 @@
       }
     ]
   },
-  "mpl_Duplicate envelope points.lua": {
+  "mpl_Convert selected envelope points to automation item.lua": {
     "latest": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/284b4e92e744e0e7073a267585098dabfc1544b3/Envelopes/mpl_Duplicate%20envelope%20points.lua",
-        "sha256": "1gn1p9qqplxsh276x2vmhg8qs4yd2viv0acs6mhzhksqwbx9738f"
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Convert selected envelope points to automation item.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/284b4e92e744e0e7073a267585098dabfc1544b3/Automation%20Items/mpl_Convert%20selected%20envelope%20points%20to%20automation%20item.lua",
+        "sha256": "1b2awijvwmsk48snhbrxhlkl5s7hj3d8q1n4wz27qsq5am90zwbf"
       }
     ],
-    "1.06": [
+    "1.01": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/284b4e92e744e0e7073a267585098dabfc1544b3/Envelopes/mpl_Duplicate%20envelope%20points.lua",
-        "sha256": "1gn1p9qqplxsh276x2vmhg8qs4yd2viv0acs6mhzhksqwbx9738f"
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Convert selected envelope points to automation item.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/284b4e92e744e0e7073a267585098dabfc1544b3/Automation%20Items/mpl_Convert%20selected%20envelope%20points%20to%20automation%20item.lua",
+        "sha256": "1b2awijvwmsk48snhbrxhlkl5s7hj3d8q1n4wz27qsq5am90zwbf"
       }
     ],
-    "1.05": [
+    "1.0": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Envelopes/mpl_Duplicate%20envelope%20points.lua",
-        "sha256": "1ydrddbnh4yrq12app32yz2g2nqa3cz2bl9cn01hpa7kdmsra7sp"
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Convert selected envelope points to automation item.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/db9ad59b458d15e54ea60bbd1083ea64eb4561d4/Automation%20Items/mpl_Convert%20selected%20envelope%20points%20to%20automation%20item.lua",
+        "sha256": "1hgnq0m1n4p3rr2q2j39n6qyg8ynx9n6rljw4pkwm3074nvcrj6m"
+      }
+    ]
+  },
+  "mpl_Generate pooled automation item for selected envelope from item audio.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Generate pooled automation item for selected envelope from item audio.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/185e5b4338f344d5e55c166ceca8b033101b6d5c/Automation%20Items/mpl_Generate%20pooled%20automation%20item%20for%20selected%20envelope%20from%20item%20audio.lua",
+        "sha256": "1zz14nviwbnscr0k0q10s594y3ycz19lphjc0l4vighx1a0phxmc"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Generate pooled automation item for selected envelope from item audio.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/185e5b4338f344d5e55c166ceca8b033101b6d5c/Automation%20Items/mpl_Generate%20pooled%20automation%20item%20for%20selected%20envelope%20from%20item%20audio.lua",
+        "sha256": "1zz14nviwbnscr0k0q10s594y3ycz19lphjc0l4vighx1a0phxmc"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Generate pooled automation item for selected envelope from item audio.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/277c7b2778004fbfbd325bc3772ae7b101bea657/Automation%20Items/mpl_Generate%20pooled%20automation%20item%20for%20selected%20envelope%20from%20item%20audio.lua",
+        "sha256": "0sp9jd6nspfpzrwklky9p6pfhjbgiskshx9kw4xsfwy53shbmh92"
+      }
+    ]
+  },
+  "mpl_Insert 1 measure long automation item for last touched parameter.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Insert 1 measure long automation item for last touched parameter.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b9c1a6b7054783de9bc6a8a9c9edf731d54dc1e6/Automation%20Items/mpl_Insert%201%20measure%20long%20automation%20item%20for%20last%20touched%20parameter.lua",
+        "sha256": "05yyq0b4yx8n4jiscn0xwlapcqnc5pd05xyjf7qr55csj0w8dj2f"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Insert 1 measure long automation item for last touched parameter.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b9c1a6b7054783de9bc6a8a9c9edf731d54dc1e6/Automation%20Items/mpl_Insert%201%20measure%20long%20automation%20item%20for%20last%20touched%20parameter.lua",
+        "sha256": "05yyq0b4yx8n4jiscn0xwlapcqnc5pd05xyjf7qr55csj0w8dj2f"
+      }
+    ]
+  },
+  "mpl_Load automation item.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 1.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 10.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 2.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 3.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 4.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 5.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 6.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 7.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 8.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 9.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 1.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 10.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 2.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 3.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 4.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 5.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 6.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 7.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 8.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      },
+      {
+        "path": "Scripts/MPL Scripts/Automation Items/mpl_Load automation item 9.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0c5bce3a6376038c4b021672352c90361575b1fc/Automation%20Items/mpl_Load%20automation%20item.lua",
+        "sha256": "1zxczz69qr7ysziqrkjpw2fpcbk6kw23nkk870mp5q7k5h0vccb7"
+      }
+    ]
+  },
+  "mpl_Import Cubase tempo map.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Tempo/mpl_Import Cubase tempo map.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b0bbbc46b349837b79ac23c2661562de41a73639/Tempo/mpl_Import%20Cubase%20tempo%20map.lua",
+        "sha256": "0pgmdr3rwwgi53qbaa0rz4gq96cw2awarkv1jm24fg5cw5g5dx4b"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Tempo/mpl_Import Cubase tempo map.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b0bbbc46b349837b79ac23c2661562de41a73639/Tempo/mpl_Import%20Cubase%20tempo%20map.lua",
+        "sha256": "0pgmdr3rwwgi53qbaa0rz4gq96cw2awarkv1jm24fg5cw5g5dx4b"
+      }
+    ]
+  },
+  "mpl_Tempo versions.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Tempo/mpl_Tempo versions.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e1b69c42ac4cf00ea9a11df67e45080e30d9b0a7/Tempo/mpl_Tempo%20versions.lua",
+        "sha256": "0vm08ms0xrv6xsnakmlqq07bhpz8970bw5f8wnf6xlhk3n2s0fl0"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/MPL Scripts/Tempo/mpl_Tempo versions.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e1b69c42ac4cf00ea9a11df67e45080e30d9b0a7/Tempo/mpl_Tempo%20versions.lua",
+        "sha256": "0vm08ms0xrv6xsnakmlqq07bhpz8970bw5f8wnf6xlhk3n2s0fl0"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/MPL Scripts/Tempo/mpl_Tempo versions.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/2804257689d4b2c1912bd1ed5854292819f59b35/Tempo/mpl_Tempo%20versions.lua",
+        "sha256": "1gi145ai66yf16wxalzv4v93q6f220drg5cx8jaq2adxqbbc8ycn"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Tempo/mpl_Tempo versions.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/856391bfa9d38298d8922c7f04e568b3d882380f/Tempo/mpl_Tempo%20versions.lua",
+        "sha256": "1dlll300cbyp1kvvyjgyra65l5rb0fc7cvh1qalvw2nrz9pmrg41"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Tempo/mpl_Tempo versions.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/9175263be98b7c29a2c4a8b452fa9ecb72b15518/Tempo/mpl_Tempo%20versions.lua",
+        "sha256": "0w02v6k1jgw0z1p1zjj4nr70i0005jajshd5bwi8clfpz5q1vani"
+      }
+    ]
+  },
+  "mpl_Toggle gradually transition for tempo marker before edit cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Tempo/mpl_Toggle gradually transition for tempo marker before edit cursor.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c7fe537643af12d82d2024af046d47c79fe5c24f/Tempo/mpl_Toggle%20gradually%20transition%20for%20tempo%20marker%20before%20edit%20cursor.lua",
+        "sha256": "05d7dqi3p612wnbjzjn68ss0gkrq3v7a05yrys9w35xb12h9a090"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Tempo/mpl_Toggle gradually transition for tempo marker before edit cursor.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c7fe537643af12d82d2024af046d47c79fe5c24f/Tempo/mpl_Toggle%20gradually%20transition%20for%20tempo%20marker%20before%20edit%20cursor.lua",
+        "sha256": "05d7dqi3p612wnbjzjn68ss0gkrq3v7a05yrys9w35xb12h9a090"
+      }
+    ]
+  },
+  "mpl_Copy selected item stretch markers.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Copy selected item stretch markers.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Copy%20selected%20item%20stretch%20markers.lua",
+        "sha256": "0g96v8limbanmbwlxgbybf2jx3s8yvkbgz7xn7i7krydxi07k7qj"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Copy selected item stretch markers.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Copy%20selected%20item%20stretch%20markers.lua",
+        "sha256": "0g96v8limbanmbwlxgbybf2jx3s8yvkbgz7xn7i7krydxi07k7qj"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Copy selected item stretch markers.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/730c2a896e103c3071221cf606cb55ebec2ef311/Stretch%20Markers/mpl_Copy%20selected%20item%20stretch%20markers.lua",
+        "sha256": "10xpds1rcz7acyh6zxmamghw2f5p5jd5rdx2f0vfbp6klpgqcziv"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Copy selected item stretch markers.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/920189885012790e094f3238c7d916372f10d023/Stretch%20Markers/mpl_Copy%20selected%20item%20stretch%20markers.lua",
+        "sha256": "0gwhir3x3xgjxfm1g1yh49rrk6yspcfcv13yvcy3icgr5ffkpaaq"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Copy selected item stretch markers.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0d2ff87f1c08dcaa7306b8c31383eb00a49b9206/Stretch%20Markers/mpl_Copy%20selected%20item%20stretch%20markers.lua",
+        "sha256": "1gqyirl1gva6r645c8p1bgc37r77f1rhf9m73r5gh3jx08zfmx66"
+      }
+    ]
+  },
+  "mpl_Move take content under stretch markers 10ms left.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Move take content under stretch markers 10ms left.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1b0ddb39acd4a2f7fc85317e482f1b6155f1b91c/Stretch%20Markers/mpl_Move%20take%20content%20under%20stretch%20markers%2010ms%20left.lua",
+        "sha256": "12zz877lmnfqh0mplcwz55dsy5chf6c2jlr8rn5mnv8rlfaijf5b"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Move take content under stretch markers 10ms left.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1b0ddb39acd4a2f7fc85317e482f1b6155f1b91c/Stretch%20Markers/mpl_Move%20take%20content%20under%20stretch%20markers%2010ms%20left.lua",
+        "sha256": "12zz877lmnfqh0mplcwz55dsy5chf6c2jlr8rn5mnv8rlfaijf5b"
+      }
+    ]
+  },
+  "mpl_Move take content under stretch markers 10ms right.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Move take content under stretch markers 10ms right.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1b0ddb39acd4a2f7fc85317e482f1b6155f1b91c/Stretch%20Markers/mpl_Move%20take%20content%20under%20stretch%20markers%2010ms%20right.lua",
+        "sha256": "1m4yvpvzkaa5lg6qg8czspl895cyp361xzrbqxwvha9anwzgdb9x"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Move take content under stretch markers 10ms right.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1b0ddb39acd4a2f7fc85317e482f1b6155f1b91c/Stretch%20Markers/mpl_Move%20take%20content%20under%20stretch%20markers%2010ms%20right.lua",
+        "sha256": "1m4yvpvzkaa5lg6qg8czspl895cyp361xzrbqxwvha9anwzgdb9x"
+      }
+    ]
+  },
+  "mpl_Paste and replace stretch markers to selected items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Paste and replace stretch markers to selected items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Paste%20and%20replace%20stretch%20markers%20to%20selected%20items.lua",
+        "sha256": "1n6klxavj95wnk474g9skjk6x8j39yra58cnrlpwrcma6dd0r91m"
       }
     ],
     "1.04": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/38d2aa292749c5ae9863538252b5d1628b290f02/Envelopes/mpl_Duplicate%20envelope%20points.lua",
-        "sha256": "0ld2kh6lg4nafdbs10nbfhspapi61p2pc213g85m7vnnr9j0znnw"
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Paste and replace stretch markers to selected items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Paste%20and%20replace%20stretch%20markers%20to%20selected%20items.lua",
+        "sha256": "1n6klxavj95wnk474g9skjk6x8j39yra58cnrlpwrcma6dd0r91m"
       }
     ],
     "1.03": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/653bd21badb09305b18d5a5d067aa7b05e43795f/Envelopes/mpl_Duplicate%20envelope%20points.lua",
-        "sha256": "1x2dslcfdyysdl9h1vg0q7dhifpmf9020avqfg0a43nghfqdx5v1"
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Paste and replace stretch markers to selected items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/52e7fcf4bc51ea291dc56d3dc726049d9f444aa1/Stretch%20Markers/mpl_Paste%20and%20replace%20stretch%20markers%20to%20selected%20items.lua",
+        "sha256": "0jygww1fvq4mi4sghkv98dxk9dj09sl5j1chizzwwphqjbcxqf06"
       }
     ],
     "1.02": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/fed792247989211dd4b56720f30d795a9919b6e6/Envelopes/mpl_Duplicate%20envelope%20points.lua",
-        "sha256": "1w69plgbkl99d0m01qijg87lxrm9i631mwkssdc2h2255sh5ha12"
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Paste and replace stretch markers to selected items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/730c2a896e103c3071221cf606cb55ebec2ef311/Stretch%20Markers/mpl_Paste%20and%20replace%20stretch%20markers%20to%20selected%20items.lua",
+        "sha256": "0zk7digggipav3f4n2h9lzpy0g8yxwzgg6cr9dlxvipqvznjqacr"
       }
     ],
     "1.01": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/db88db1aa74371b0c4470f1ac0c6129a026087ea/Envelopes/mpl_Duplicate%20envelope%20points.lua",
-        "sha256": "0j4m6jpsr5i7b9gw8fy8n4hsfmlbn281w5jny9gpf4n07cz4rvzn"
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Paste and replace stretch markers to selected items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/920189885012790e094f3238c7d916372f10d023/Stretch%20Markers/mpl_Paste%20and%20replace%20stretch%20markers%20to%20selected%20items.lua",
+        "sha256": "1d9jh81hkw63gvv5g5lqnx4c62wfa62pa9dzm6svm0c8x5wb4q2q"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Duplicate envelope points.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/00da72a143b9a5e6db90829f6910a8d5b3d79f0f/Envelopes/mpl_Duplicate%20envelope%20points.lua",
-        "sha256": "1dia6zkxgs1bxsckaw4vpb1kc4gkwmvzfs502h249y2inzkd9ask"
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Paste and replace stretch markers to selected items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0d2ff87f1c08dcaa7306b8c31383eb00a49b9206/Stretch%20Markers/mpl_Paste%20and%20replace%20stretch%20markers%20to%20selected%20items.lua",
+        "sha256": "0g8dq8jjvczc7v0fsdz5f9k12d9q0hm3g3rgs86pa4gspcn7cx7n"
       }
     ]
   },
-  "mpl_Hide all track envelopes except envelope under mouse cursor.lua": {
+  "mpl_Quantize stretch markers in selected items to zero crossings.lua": {
     "latest": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Hide all track envelopes except envelope under mouse cursor.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Hide%20all%20track%20envelopes%20except%20envelope%20under%20mouse%20cursor.lua",
-        "sha256": "11x079ihv28k4vhmq7yllfjg603bhdnw9qzcnp7635p24ln6v3kf"
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Quantize stretch markers in selected items to zero crossings.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/964292166704b31746a06f970d43625b0853eee0/Stretch%20Markers/mpl_Quantize%20stretch%20markers%20in%20selected%20items%20to%20zero%20crossings.lua",
+        "sha256": "1f86s8fmkr8dds1kli92342v48nwd5iy825w4b9y5ag2nhkfvz8f"
+      }
+    ],
+    "1.10": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Quantize stretch markers in selected items to zero crossings.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/964292166704b31746a06f970d43625b0853eee0/Stretch%20Markers/mpl_Quantize%20stretch%20markers%20in%20selected%20items%20to%20zero%20crossings.lua",
+        "sha256": "1f86s8fmkr8dds1kli92342v48nwd5iy825w4b9y5ag2nhkfvz8f"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Quantize stretch markers in selected items to zero crossings.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/56f774513b1eafbc939cfecf0fdd6b04f5985524/Stretch%20Markers/mpl_Quantize%20stretch%20markers%20in%20selected%20items%20to%20zero%20crossings.lua",
+        "sha256": "00faf752g6zp4ka99wkxfy285r4bcl2iqssvm1h3wyg44l7j2xsr"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Quantize stretch markers in selected items to zero crossings.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e05284018ed801f1b68c27dea4775376eb357bf9/Stretch%20Markers/mpl_Quantize%20stretch%20markers%20in%20selected%20items%20to%20zero%20crossings.lua",
+        "sha256": "0gz198jsk8ki065qjjvl46zfr9hajp0pm3dv1c5xrxr5209bwb4z"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Quantize stretch markers in selected items to zero crossings.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1456fcc723679bfbafc160aff338af15db14f791/Stretch%20Markers/mpl_Quantize%20stretch%20markers%20in%20selected%20items%20to%20zero%20crossings.lua",
+        "sha256": "0cg8z7m9578cl0fhh5bbkjc5iqjcnrnd21c84smj7jqx0r5d93qv"
+      }
+    ]
+  },
+  "mpl_Remove all non-1x stretch markers from selected takes.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Remove all non-1x stretch markers from selected takes.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/25fcdddfbc75e85be0176730523fe22e0d83ee11/Stretch%20Markers/mpl_Remove%20all%20non-1x%20stretch%20markers%20from%20selected%20takes.lua",
+        "sha256": "0475v6y98mizzwpdnf77wig6hpkpd5ri9lx32w99ahaag7yv3zrd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Remove all non-1x stretch markers from selected takes.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/25fcdddfbc75e85be0176730523fe22e0d83ee11/Stretch%20Markers/mpl_Remove%20all%20non-1x%20stretch%20markers%20from%20selected%20takes.lua",
+        "sha256": "0475v6y98mizzwpdnf77wig6hpkpd5ri9lx32w99ahaag7yv3zrd"
+      }
+    ]
+  },
+  "mpl_Stretch marker guard.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Stretch marker guard.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c2cad4a1eff41f8c054553fe6926eba5cd345c7e/Stretch%20Markers/mpl_Stretch%20marker%20guard.lua",
+        "sha256": "1m666ngnz7204z3kzqgacg50rj45xan9668v9079aj0rml8rwps7"
+      }
+    ],
+    "1.04": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Stretch marker guard.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/c2cad4a1eff41f8c054553fe6926eba5cd345c7e/Stretch%20Markers/mpl_Stretch%20marker%20guard.lua",
+        "sha256": "1m666ngnz7204z3kzqgacg50rj45xan9668v9079aj0rml8rwps7"
       }
     ],
     "1.03": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Hide all track envelopes except envelope under mouse cursor.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Hide%20all%20track%20envelopes%20except%20envelope%20under%20mouse%20cursor.lua",
-        "sha256": "11x079ihv28k4vhmq7yllfjg603bhdnw9qzcnp7635p24ln6v3kf"
-      }
-    ]
-  },
-  "mpl_Remove all track envelope points inside time selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Remove all track envelope points inside time selection.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b14b93bfde671dc9b5ba199f77a51be2d68c6238/Envelopes/mpl_Remove%20all%20track%20envelope%20points%20inside%20time%20selection.lua",
-        "sha256": "0qb85divkrps55grmmwix4c0pmgan7cqlk49gk1221j4yzm0h216"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Remove all track envelope points inside time selection.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/b14b93bfde671dc9b5ba199f77a51be2d68c6238/Envelopes/mpl_Remove%20all%20track%20envelope%20points%20inside%20time%20selection.lua",
-        "sha256": "0qb85divkrps55grmmwix4c0pmgan7cqlk49gk1221j4yzm0h216"
-      }
-    ]
-  },
-  "mpl_Select active envelopes tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Select active envelopes tracks.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Select%20active%20envelopes%20tracks.lua",
-        "sha256": "01c0ydz8jjiq4bnh98vp4z0ssh3q1jy770cp2fj02k23px48l06d"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Select active envelopes tracks.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Select%20active%20envelopes%20tracks.lua",
-        "sha256": "01c0ydz8jjiq4bnh98vp4z0ssh3q1jy770cp2fj02k23px48l06d"
-      }
-    ]
-  },
-  "mpl_Show all active track envelopes, hide unactive.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Show all active track envelopes, hide unactive.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Show%20all%20active%20track%20envelopes,%20hide%20unactive.lua",
-        "sha256": "1n1pjnkiyhgrizgc11rw7gl953fq4cl6r70vysg7gafwdwdvy028"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Show all active track envelopes, hide unactive.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Show%20all%20active%20track%20envelopes,%20hide%20unactive.lua",
-        "sha256": "1n1pjnkiyhgrizgc11rw7gl953fq4cl6r70vysg7gafwdwdvy028"
-      }
-    ]
-  },
-  "mpl_Show all armed track envelopes, hide unarmed.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Show all armed track envelopes, hide unarmed.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Show%20all%20armed%20track%20envelopes,%20hide%20unarmed.lua",
-        "sha256": "0h45w49svb29pbwbxjjl97k75z4vd7yd4qlkz05sn4d3da1skbm6"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Show all armed track envelopes, hide unarmed.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Show%20all%20armed%20track%20envelopes,%20hide%20unarmed.lua",
-        "sha256": "0h45w49svb29pbwbxjjl97k75z4vd7yd4qlkz05sn4d3da1skbm6"
-      }
-    ]
-  },
-  "mpl_Show existing envelopes for last touched FX.lua": {
-    "latest": [
-      {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Show existing envelopes for last touched FX.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Show%20existing%20envelopes%20for%20last%20touched%20FX.lua",
-        "sha256": "1mc615ckcb43afgnph984lvmmvid30bdsd8733n9laay6c2fqfkm"
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Stretch marker guard.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/3b1aeb6f13e89f776646e72a03ca17c8321a1cd1/Stretch%20Markers/mpl_Stretch%20marker%20guard.lua",
+        "sha256": "0xfmgkylkznw9gbk0mj8psimqypzs8hkymix9zyk0pjxr6yhhvpl"
       }
     ],
     "1.02": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Show existing envelopes for last touched FX.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e3323ae98bde98ac7d0714464e881a6eca709dfe/Envelopes/mpl_Show%20existing%20envelopes%20for%20last%20touched%20FX.lua",
-        "sha256": "1mc615ckcb43afgnph984lvmmvid30bdsd8733n9laay6c2fqfkm"
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Stretch marker guard.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/08868abafdcb03eb74d020c03460aa1960cef964/Stretch%20Markers/mpl_Stretch%20marker%20guard.lua",
+        "sha256": "0lgdp0i7iplxhik7pm3q7svvkxhp0p043mxsgd66d0mhp6f1dibh"
       }
     ]
   },
-  "mpl_Split all track envelopes at selected envelope points positions.lua": {
+  "mpl_Tape start selected items.lua": {
     "latest": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Split all track envelopes at selected envelope points positions.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/284b4e92e744e0e7073a267585098dabfc1544b3/Envelopes/mpl_Split%20all%20track%20envelopes%20at%20selected%20envelope%20points%20positions.lua",
-        "sha256": "09q00505b6kwkvfjwba3krkry4yh2vicz3cpv62shf5c15d6bp90"
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Tape start selected items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Tape%20start%20selected%20items.lua",
+        "sha256": "0gmyd4rfjxip49b632p4ql98a8vj9yzrpcy8nqw7zdr3ymm9lv5s"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Tape start selected items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Tape%20start%20selected%20items.lua",
+        "sha256": "0gmyd4rfjxip49b632p4ql98a8vj9yzrpcy8nqw7zdr3ymm9lv5s"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Tape start selected items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/6bc561efc9366dfab3603929e04abbfab555c16a/Stretch%20Markers/mpl_Tape%20start%20selected%20items.lua",
+        "sha256": "1qrqwjk1z47bsykiydzx4fimj27apr56bfg691nqkn54amrqmqvv"
+      }
+    ]
+  },
+  "mpl_Tape stop selected items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Tape stop selected items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Tape%20stop%20selected%20items.lua",
+        "sha256": "0x24v81as6wp9kkb31yrw5jkllrbvjc2bn4dsfja02s0yksiss8p"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Tape stop selected items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Stretch%20Markers/mpl_Tape%20stop%20selected%20items.lua",
+        "sha256": "0x24v81as6wp9kkb31yrw5jkllrbvjc2bn4dsfja02s0yksiss8p"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Stretch Markers/mpl_Tape stop selected items.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/6bc561efc9366dfab3603929e04abbfab555c16a/Stretch%20Markers/mpl_Tape%20stop%20selected%20items.lua",
+        "sha256": "13pp94bvjapbv2xxk6r7ms5gcy8d8zmy4p3q4nyhfd8qiasnj6rz"
+      }
+    ]
+  },
+  "mpl_Convert CUE file into markers (DDP formatted).lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Regions/mpl_Convert CUE file into markers (DDP formatted).lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Regions/mpl_Convert%20CUE%20file%20into%20markers%20(DDP%20formatted).lua",
+        "sha256": "1dvv5vvgxzb8y4kqgk4vkm0cxa1p8fk5bsq7r4w4cgpikk661lc3"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Regions/mpl_Convert CUE file into markers (DDP formatted).lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Regions/mpl_Convert%20CUE%20file%20into%20markers%20(DDP%20formatted).lua",
+        "sha256": "1dvv5vvgxzb8y4kqgk4vkm0cxa1p8fk5bsq7r4w4cgpikk661lc3"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Regions/mpl_Convert CUE file into markers (DDP formatted).lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/200d56a4739f6b119c856974a874c47905fd92d8/Regions/mpl_Convert%20CUE%20file%20into%20markers%20(DDP%20formatted).lua",
+        "sha256": "05d2kpnc3g31dlcwrh8zkvhrp7mda46b1lpxl5swq9q2q69z75k4"
+      }
+    ]
+  },
+  "mpl_Convert CUE file into markers.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Regions/mpl_Convert CUE file into markers.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/ccb8e205e9b15f5336372e934170504dfcedfa80/Regions/mpl_Convert%20CUE%20file%20into%20markers.lua",
+        "sha256": "1c2ncf23bd8rpb28w4qzk6hqfsdn29ny261sdkcvb892il0avqiy"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Regions/mpl_Convert CUE file into markers.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/ccb8e205e9b15f5336372e934170504dfcedfa80/Regions/mpl_Convert%20CUE%20file%20into%20markers.lua",
+        "sha256": "1c2ncf23bd8rpb28w4qzk6hqfsdn29ny261sdkcvb892il0avqiy"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Regions/mpl_Convert CUE file into markers.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/bc82de9b5a69a3ec5a59b0c753803eb03e44c3dc/Regions/mpl_Convert%20CUE%20file%20into%20markers.lua",
+        "sha256": "0qhidd942pccr0r71jikwb45an0rhg9l1a90rgv8b853sziplmq7"
+      }
+    ]
+  },
+  "mpl_Go to next marker id.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Regions/mpl_Go to next marker id.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/18a6a1b52fb22db830dde788c6f0f34455853125/Regions/mpl_Go%20to%20next%20marker%20id.lua",
+        "sha256": "1ka2qwji0b6gvz4jl2c9y0amrbqlwh7353mvpjf7ipwhg04mmb16"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Regions/mpl_Go to next marker id.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/18a6a1b52fb22db830dde788c6f0f34455853125/Regions/mpl_Go%20to%20next%20marker%20id.lua",
+        "sha256": "1ka2qwji0b6gvz4jl2c9y0amrbqlwh7353mvpjf7ipwhg04mmb16"
+      }
+    ]
+  },
+  "mpl_Shift regions and markers to edit cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Regions/mpl_Shift regions and markers to edit cursor.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Regions/mpl_Shift%20regions%20and%20markers%20to%20edit%20cursor.lua",
+        "sha256": "0l5zcbrx6zl7is780jdi2bna1qlm2iqp3dh5b93ylg2gz8xzjmp7"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/MPL Scripts/Regions/mpl_Shift regions and markers to edit cursor.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7effb6ebeb7e6b9fec71a78f0a634c9c6a734b02/Regions/mpl_Shift%20regions%20and%20markers%20to%20edit%20cursor.lua",
+        "sha256": "0l5zcbrx6zl7is780jdi2bna1qlm2iqp3dh5b93ylg2gz8xzjmp7"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/MPL Scripts/Regions/mpl_Shift regions and markers to edit cursor.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/08c1b34a5bc7b024946090bc369e1bee4ff4397c/Regions/mpl_Shift%20regions%20and%20markers%20to%20edit%20cursor.lua",
+        "sha256": "01ljlagf6yrq9iravd302zq893az4ifyzsjb4lc56fay9r40hc83"
+      }
+    ]
+  },
+  "mpl_Play from item under mouse cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Transport/mpl_Play from item under mouse cursor.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Transport/mpl_Play%20from%20item%20under%20mouse%20cursor.lua",
+        "sha256": "0vg83djab8rgxds6cd880hyr3810d9mfyslmpm7s4bb8plrh6rgg"
       }
     ],
     "1.02": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Split all track envelopes at selected envelope points positions.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/284b4e92e744e0e7073a267585098dabfc1544b3/Envelopes/mpl_Split%20all%20track%20envelopes%20at%20selected%20envelope%20points%20positions.lua",
-        "sha256": "09q00505b6kwkvfjwba3krkry4yh2vicz3cpv62shf5c15d6bp90"
+        "path": "Scripts/MPL Scripts/Transport/mpl_Play from item under mouse cursor.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Transport/mpl_Play%20from%20item%20under%20mouse%20cursor.lua",
+        "sha256": "0vg83djab8rgxds6cd880hyr3810d9mfyslmpm7s4bb8plrh6rgg"
       }
     ],
     "1.01": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Split all track envelopes at selected envelope points positions.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/06e1c31d77255471c06f89bc75826a5885f2205c/Envelopes/mpl_Split%20all%20track%20envelopes%20at%20selected%20envelope%20points%20positions.lua",
-        "sha256": "1idwn1r8np0fpkmzy0127dwjik5i9ds8143mq2crg4wq90y04d0w"
+        "path": "Scripts/MPL Scripts/Transport/mpl_Play from item under mouse cursor.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/08868abafdcb03eb74d020c03460aa1960cef964/Transport/mpl_Play%20from%20item%20under%20mouse%20cursor.lua",
+        "sha256": "125lvnj1m2j6fsbyhvqp0l9s798sn30dq1awazkfb6bkvx1g8vxp"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/MPL Scripts/Envelopes/mpl_Split all track envelopes at selected envelope points positions.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/f5284315c3d155a0b9858ed2fad7c128b6155108/Envelopes/mpl_Split%20all%20track%20envelopes%20at%20selected%20envelope%20points%20positions.lua",
-        "sha256": "1j2h4l3d0vwmhx1nx82fragkwmg9i56x28h4ha0mdbcy5hqf15dm"
+        "path": "Scripts/MPL Scripts/Transport/mpl_Play from item under mouse cursor.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1b0ddb39acd4a2f7fc85317e482f1b6155f1b91c/Transport/mpl_Play%20from%20item%20under%20mouse%20cursor.lua",
+        "sha256": "1n65zavh5vj59wbvi1hs0xmxhsjwgnly7hqw8qm5lqza739ncpqx"
       }
     ]
   },
-  "mpl_Move selected items to selected subprojects.lua": {
+  "mpl_Transport Play Stop (obey longest negative track offset).lua": {
     "latest": [
       {
-        "path": "Scripts/MPL Scripts/Subprojects/mpl_Move selected items to selected subprojects.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Subprojects/mpl_Move%20selected%20items%20to%20selected%20subprojects.lua",
-        "sha256": "1yrvx7kamgbwmqnzxgjz2vfc8143657y2xl3rc05zkygrxgvd012"
+        "path": "Scripts/MPL Scripts/Transport/mpl_Transport Play Stop (obey longest negative track offset).lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/53819570102cb2a627dfd198b18bfe31139b09b7/Transport/mpl_Transport%20Play%20Stop%20(obey%20longest%20negative%20track%20offset).lua",
+        "sha256": "1yv49hcsar5k7jmsc9f66bziwy7c7944d67ig4hjg26bmhpm213m"
       }
     ],
     "1.01": [
       {
-        "path": "Scripts/MPL Scripts/Subprojects/mpl_Move selected items to selected subprojects.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/1010be68ace051db1e6d1484883280ee9b5366ed/Subprojects/mpl_Move%20selected%20items%20to%20selected%20subprojects.lua",
-        "sha256": "1yrvx7kamgbwmqnzxgjz2vfc8143657y2xl3rc05zkygrxgvd012"
+        "path": "Scripts/MPL Scripts/Transport/mpl_Transport Play Stop (obey longest negative track offset).lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/53819570102cb2a627dfd198b18bfe31139b09b7/Transport/mpl_Transport%20Play%20Stop%20(obey%20longest%20negative%20track%20offset).lua",
+        "sha256": "1yv49hcsar5k7jmsc9f66bziwy7c7944d67ig4hjg26bmhpm213m"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/MPL Scripts/Subprojects/mpl_Move selected items to selected subprojects.lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/7ea8e1825d520c178f517d0b48d7301ee90b0173/Subprojects/mpl_Move%20selected%20items%20to%20selected%20subprojects.lua",
-        "sha256": "0845avhmpa3wsndbxd0z2i6sqjss1mg5vj89p7vw14ldrx41mig4"
+        "path": "Scripts/MPL Scripts/Transport/mpl_Transport Play Stop (obey longest negative track offset).lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/3f4f8dfb409f899416442cfaf94b3378d960739d/Transport/mpl_Transport%20Play%20Stop%20(obey%20longest%20negative%20track%20offset).lua",
+        "sha256": "0i74m10b4p9mbwr0801azpn4czbrrw1w4snwfsnf0kzzddk8lp30"
       }
     ]
   },
-  "mpl_Syncronize edit cursor beetween parent and subproject (background).lua": {
+  "mpl_Trigger record after recent audio event, set channel input.lua": {
     "latest": [
       {
-        "path": "Scripts/MPL Scripts/Subprojects/mpl_Syncronize edit cursor beetween parent and subproject (background).lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5fdf6c18d3226e829d7a894a53ea2d4eab322510/Subprojects/mpl_Syncronize%20edit%20cursor%20beetween%20parent%20and%20subproject%20(background).lua",
-        "sha256": "0k6wgs8sga0l8vy6qa7896z9yf9r92khaax279f7dmgn3553aysp"
+        "path": "Scripts/MPL Scripts/Transport/mpl_Trigger record after recent audio event, set channel input.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Transport/mpl_Trigger%20record%20after%20recent%20audio%20event,%20set%20channel%20input.lua",
+        "sha256": "092rlnhhgiww566dsfpz40vy5hlk93ak0w35qhap08p5gwsk7npl"
       }
     ],
     "1.01": [
       {
-        "path": "Scripts/MPL Scripts/Subprojects/mpl_Syncronize edit cursor beetween parent and subproject (background).lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/5fdf6c18d3226e829d7a894a53ea2d4eab322510/Subprojects/mpl_Syncronize%20edit%20cursor%20beetween%20parent%20and%20subproject%20(background).lua",
-        "sha256": "0k6wgs8sga0l8vy6qa7896z9yf9r92khaax279f7dmgn3553aysp"
+        "path": "Scripts/MPL Scripts/Transport/mpl_Trigger record after recent audio event, set channel input.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Transport/mpl_Trigger%20record%20after%20recent%20audio%20event,%20set%20channel%20input.lua",
+        "sha256": "092rlnhhgiww566dsfpz40vy5hlk93ak0w35qhap08p5gwsk7npl"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/MPL Scripts/Subprojects/mpl_Syncronize edit cursor beetween parent and subproject (background).lua",
-        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/08bf8b936afcf521311dc55c297877ba129f464e/Subprojects/mpl_Syncronize%20edit%20cursor%20beetween%20parent%20and%20subproject%20(background).lua",
-        "sha256": "1cjs5q3hagg4jzz7lf75w8fcca9givpdh2swk3a30ra3ihls30jl"
+        "path": "Scripts/MPL Scripts/Transport/mpl_Trigger record after recent audio event, set channel input.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/634a972f382a262e17213e885f1857bee120656d/Transport/mpl_Trigger%20record%20after%20recent%20audio%20event,%20set%20channel%20input.lua",
+        "sha256": "0hi0nxvsfw288fzdgarrgxqdzsrpxz5ndidqag51bhn3h7lm0kmn"
+      }
+    ]
+  },
+  "mpl_Trigger record after recent input MIDI event.lua": {
+    "latest": [
+      {
+        "path": "Scripts/MPL Scripts/Transport/mpl_Trigger record after recent input MIDI event.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Transport/mpl_Trigger%20record%20after%20recent%20input%20MIDI%20event.lua",
+        "sha256": "1clqq6nbnzavnv5d3nms7w83qq0rcka1mb98djnlaz7fgsib1mcj"
+      }
+    ],
+    "2.02": [
+      {
+        "path": "Scripts/MPL Scripts/Transport/mpl_Trigger record after recent input MIDI event.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/002ad736f4670669a14cdf007f53e573cac57c6c/Transport/mpl_Trigger%20record%20after%20recent%20input%20MIDI%20event.lua",
+        "sha256": "1clqq6nbnzavnv5d3nms7w83qq0rcka1mb98djnlaz7fgsib1mcj"
+      }
+    ],
+    "2.01": [
+      {
+        "path": "Scripts/MPL Scripts/Transport/mpl_Trigger record after recent input MIDI event.lua",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/dfcb45ea727a9ec9d5c5625dbff3199147d871e3/Transport/mpl_Trigger%20record%20after%20recent%20input%20MIDI%20event.lua",
+        "sha256": "1zqdfvf60f4ibcbpjm0x9zj6nb29mj8aiq5mcjdp3q5728rs1fkp"
+      }
+    ]
+  },
+  "Convert Pitch(L) Gate(R) pair from Reaktor Blocks to MIDI.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/MPL Scripts/JSFX/Convert Pitch(L) Gate(R) pair from Reaktor Blocks to MIDI.jsfx",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0bec563fc22114ad8960e4c9a902623fe679fd43/JSFX/Convert%20Pitch(L)%20Gate(R)%20pair%20from%20Reaktor%20Blocks%20to%20MIDI.jsfx",
+        "sha256": "1mg963d7hpywhac11j1ywnq2mqbvhdapgr5nbyg483x7hli8pldl"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/MPL Scripts/JSFX/Convert Pitch(L) Gate(R) pair from Reaktor Blocks to MIDI.jsfx",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/0bec563fc22114ad8960e4c9a902623fe679fd43/JSFX/Convert%20Pitch(L)%20Gate(R)%20pair%20from%20Reaktor%20Blocks%20to%20MIDI.jsfx",
+        "sha256": "1mg963d7hpywhac11j1ywnq2mqbvhdapgr5nbyg483x7hli8pldl"
+      }
+    ]
+  },
+  "DC offset.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/MPL Scripts/JSFX/DC offset.jsfx",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e20700fecd51e57f581046811f99456544e565e2/JSFX/DC%20offset.jsfx",
+        "sha256": "0yw09jawz7jm07mlr637iik37adr4ilc3anlgamg00shj9sw9j06"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/MPL Scripts/JSFX/DC offset.jsfx",
+        "url": "https://github.com/MichaelPilyavskiy/ReaScripts/raw/e20700fecd51e57f581046811f99456544e565e2/JSFX/DC%20offset.jsfx",
+        "sha256": "0yw09jawz7jm07mlr637iik37adr4ilc3anlgamg00shj9sw9j06"
       }
     ]
   }

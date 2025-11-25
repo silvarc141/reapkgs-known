@@ -1,4 +1,126 @@
 {
+  "ply_Delete marker.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 01.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 02.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 03.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 04.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 05.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 06.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 07.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 08.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 09.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 10.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 01.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 02.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 03.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 04.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 05.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 06.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 07.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 08.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 09.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      },
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 10.lua",
+        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
+        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
+      }
+    ]
+  },
+  "ply_Insert marker with ID larger than 10 at playback position (dialog).lua": {
+    "latest": [
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Insert marker with ID larger than 10 at playback position (dialog).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Markers/ply_Insert%20marker%20with%20ID%20larger%20than%2010%20at%20playback%20position%20(dialog).lua",
+        "sha256": "1flw2n93xnnhccxlx42iqbj09xqy1da2gfm9p2wy17x65lcj582y"
+      }
+    ],
+    "1.2.1": [
+      {
+        "path": "Scripts/ply Scripts/Markers/ply_Insert marker with ID larger than 10 at playback position (dialog).lua",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Markers/ply_Insert%20marker%20with%20ID%20larger%20than%2010%20at%20playback%20position%20(dialog).lua",
+        "sha256": "1flw2n93xnnhccxlx42iqbj09xqy1da2gfm9p2wy17x65lcj582y"
+      }
+    ]
+  },
   "ply_Source-Destination edit.lua": {
     "latest": [
       {
@@ -148,154 +270,6 @@
       }
     ]
   },
-  "ply_M7util.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ply Scripts/Various/BricastiM7/M7v2.reabank",
-        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/M7v2.reabank",
-        "sha256": "1nk2m981bjklrp356y3gnp2z2ylyj33zqbkidj2mngnrwygzhhb5"
-      },
-      {
-        "path": "Effects/ply Scripts/Various/BricastiM7/ply_M7util.jsfx",
-        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/ply_M7util.jsfx",
-        "sha256": "0ns7kxap8jzsbvq45yzq43jag2l5v6m77dwdsbc1wzlk7kdr4hdi"
-      }
-    ],
-    "0.1alpha.1": [
-      {
-        "path": "Effects/ply Scripts/Various/BricastiM7/M7v2.reabank",
-        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/M7v2.reabank",
-        "sha256": "1nk2m981bjklrp356y3gnp2z2ylyj33zqbkidj2mngnrwygzhhb5"
-      },
-      {
-        "path": "Effects/ply Scripts/Various/BricastiM7/ply_M7util.jsfx",
-        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/ply_M7util.jsfx",
-        "sha256": "0ns7kxap8jzsbvq45yzq43jag2l5v6m77dwdsbc1wzlk7kdr4hdi"
-      }
-    ]
-  },
-  "ply_Delete marker.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 01.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 02.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 03.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 04.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 05.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 06.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 07.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 08.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 09.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 10.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 01.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 02.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 03.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 04.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 05.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 06.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 07.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 08.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 09.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      },
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Delete marker 10.lua",
-        "url": "https://github.com/ply/ReaScripts/raw/dc589fb4ceaa27caedb402276b6cd748264f55c5/Markers/ply_Delete%20marker.lua",
-        "sha256": "03zqbalw34j2vr1rwn8yqqj1z25zpc9g92zw1wf0c9l2iv0didcy"
-      }
-    ]
-  },
-  "ply_Insert marker with ID larger than 10 at playback position (dialog).lua": {
-    "latest": [
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Insert marker with ID larger than 10 at playback position (dialog).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Markers/ply_Insert%20marker%20with%20ID%20larger%20than%2010%20at%20playback%20position%20(dialog).lua",
-        "sha256": "1flw2n93xnnhccxlx42iqbj09xqy1da2gfm9p2wy17x65lcj582y"
-      }
-    ],
-    "1.2.1": [
-      {
-        "path": "Scripts/ply Scripts/Markers/ply_Insert marker with ID larger than 10 at playback position (dialog).lua",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/Markers/ply_Insert%20marker%20with%20ID%20larger%20than%2010%20at%20playback%20position%20(dialog).lua",
-        "sha256": "1flw2n93xnnhccxlx42iqbj09xqy1da2gfm9p2wy17x65lcj582y"
-      }
-    ]
-  },
   "ply_Horizontal zoom in (center at edit cursor).eel": {
     "latest": [
       {
@@ -406,38 +380,6 @@
       }
     ]
   },
-  "ply_5.1 output router.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ply Scripts/JSFX/Routing/ply_5.1 output router.jsfx",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_5.1%20output%20router.jsfx",
-        "sha256": "0fm03nac207gnqh22rxgnxgcjbqnajj48h5z19lhl6c5j1rcmrr8"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/ply Scripts/JSFX/Routing/ply_5.1 output router.jsfx",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_5.1%20output%20router.jsfx",
-        "sha256": "0fm03nac207gnqh22rxgnxgcjbqnajj48h5z19lhl6c5j1rcmrr8"
-      }
-    ]
-  },
-  "ply_output_switcher.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ply Scripts/JSFX/Routing/ply_output_switcher.jsfx",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_output_switcher.jsfx",
-        "sha256": "035c7qyjxqshjgyh70vbs0k5g7d8g5vwmdpmsl58yvh2jxg8lljy"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Effects/ply Scripts/JSFX/Routing/ply_output_switcher.jsfx",
-        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_output_switcher.jsfx",
-        "sha256": "035c7qyjxqshjgyh70vbs0k5g7d8g5vwmdpmsl58yvh2jxg8lljy"
-      }
-    ]
-  },
   "ply_Add empty items on selected tracks within time selection.lua": {
     "latest": [
       {
@@ -470,6 +412,32 @@
       }
     ]
   },
+  "ply_M7util.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ply Scripts/Various/BricastiM7/M7v2.reabank",
+        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/M7v2.reabank",
+        "sha256": "1nk2m981bjklrp356y3gnp2z2ylyj33zqbkidj2mngnrwygzhhb5"
+      },
+      {
+        "path": "Effects/ply Scripts/Various/BricastiM7/ply_M7util.jsfx",
+        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/ply_M7util.jsfx",
+        "sha256": "0ns7kxap8jzsbvq45yzq43jag2l5v6m77dwdsbc1wzlk7kdr4hdi"
+      }
+    ],
+    "0.1alpha.1": [
+      {
+        "path": "Effects/ply Scripts/Various/BricastiM7/M7v2.reabank",
+        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/M7v2.reabank",
+        "sha256": "1nk2m981bjklrp356y3gnp2z2ylyj33zqbkidj2mngnrwygzhhb5"
+      },
+      {
+        "path": "Effects/ply Scripts/Various/BricastiM7/ply_M7util.jsfx",
+        "url": "https://github.com/ply/ReaScripts/raw/e06e23e27553a25319fdcf779b5f8b8e3a8caa90/Various/BricastiM7/ply_M7util.jsfx",
+        "sha256": "0ns7kxap8jzsbvq45yzq43jag2l5v6m77dwdsbc1wzlk7kdr4hdi"
+      }
+    ]
+  },
   "ply_Set time selection relative to edit cursor (dialog).lua": {
     "latest": [
       {
@@ -483,6 +451,38 @@
         "path": "Scripts/ply Scripts/Time Selection/ply_Set time selection relative to edit cursor (dialog).lua",
         "url": "https://github.com/ply/ReaScripts/raw/4cdb40fe720201ea2984060c6e85727e93469a99/Time%20Selection/ply_Set%20time%20selection%20relative%20to%20edit%20cursor%20(dialog).lua",
         "sha256": "1vbgm1x8kfhzdgsz3wvaj0rq7d6yhmvrikh3v2702miqgny2zr6k"
+      }
+    ]
+  },
+  "ply_5.1 output router.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ply Scripts/JSFX/Routing/ply_5.1 output router.jsfx",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_5.1%20output%20router.jsfx",
+        "sha256": "0fm03nac207gnqh22rxgnxgcjbqnajj48h5z19lhl6c5j1rcmrr8"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/ply Scripts/JSFX/Routing/ply_5.1 output router.jsfx",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_5.1%20output%20router.jsfx",
+        "sha256": "0fm03nac207gnqh22rxgnxgcjbqnajj48h5z19lhl6c5j1rcmrr8"
+      }
+    ]
+  },
+  "ply_output_switcher.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ply Scripts/JSFX/Routing/ply_output_switcher.jsfx",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_output_switcher.jsfx",
+        "sha256": "035c7qyjxqshjgyh70vbs0k5g7d8g5vwmdpmsl58yvh2jxg8lljy"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Effects/ply Scripts/JSFX/Routing/ply_output_switcher.jsfx",
+        "url": "https://github.com/ply/ReaScripts/raw/c000beaa5ebfcb710c667e79cf0ad58901bdb033/JSFX/Routing/ply_output_switcher.jsfx",
+        "sha256": "035c7qyjxqshjgyh70vbs0k5g7d8g5vwmdpmsl58yvh2jxg8lljy"
       }
     ]
   },

@@ -1,71 +1,47 @@
 {
-  "OpenAssociatedReaperProject.lua": {
+  "Strata_Copy selection to next project.lua": {
     "latest": [
       {
-        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install Wwise Command.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/05a38d99ca2005dbd8c09622b130fbc6c535bdf3/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install%20Wwise%20Command.lua",
-        "sha256": "1hs5kpgqlrmda09n5lh804ba60rjrb02s6ji4g9grsw8kbzahwwk"
-      },
-      {
-        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/05a38d99ca2005dbd8c09622b130fbc6c535bdf3/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
-        "sha256": "1saiw4jyf3bd7vk7hskqhvhscinjn2s5zykzr911pp7q0ff0q51x"
-      },
-      {
-        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/Utilities.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/05a38d99ca2005dbd8c09622b130fbc6c535bdf3/OpenAssociatedReaperProject/Utilities.lua",
-        "sha256": "0cjfhv98s6jnzlfsa0y6zmlv9z229frf3nxh7s4kk82l14vnrvmi"
+        "path": "Scripts/Audiokinetic/Scripts/Strata_Copy selection to next project.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/a7149e11db207fb085fc8f70bb389281841beeae/Scripts/Strata_Copy%20selection%20to%20next%20project.lua",
+        "sha256": "12f86f4w9qcb3b8qcxh31ldfy042l41wf91njcy76z5b8n12289q"
       }
     ],
-    "1.0.0": [
+    "1.0.2": [
       {
-        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install Wwise Command.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/05a38d99ca2005dbd8c09622b130fbc6c535bdf3/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install%20Wwise%20Command.lua",
-        "sha256": "1hs5kpgqlrmda09n5lh804ba60rjrb02s6ji4g9grsw8kbzahwwk"
-      },
-      {
-        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/05a38d99ca2005dbd8c09622b130fbc6c535bdf3/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
-        "sha256": "1saiw4jyf3bd7vk7hskqhvhscinjn2s5zykzr911pp7q0ff0q51x"
-      },
-      {
-        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/Utilities.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/05a38d99ca2005dbd8c09622b130fbc6c535bdf3/OpenAssociatedReaperProject/Utilities.lua",
-        "sha256": "0cjfhv98s6jnzlfsa0y6zmlv9z229frf3nxh7s4kk82l14vnrvmi"
+        "path": "Scripts/Audiokinetic/Scripts/Strata_Copy selection to next project.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/a7149e11db207fb085fc8f70bb389281841beeae/Scripts/Strata_Copy%20selection%20to%20next%20project.lua",
+        "sha256": "12f86f4w9qcb3b8qcxh31ldfy042l41wf91njcy76z5b8n12289q"
       }
     ],
-    "1.0.0-rc.2": [
+    "1.0.2a": [
       {
-        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install Wwise Command.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/a472587a926117b9796cddb80af53a43d08e598a/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install%20Wwise%20Command.lua",
-        "sha256": "1hs5kpgqlrmda09n5lh804ba60rjrb02s6ji4g9grsw8kbzahwwk"
-      },
+        "path": "Scripts/Audiokinetic/Scripts/Strata_Copy selection to next project.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/8f259badba8dea287a47ca0347a9622e56eb6937/Scripts/Strata_Copy%20selection%20to%20next%20project.lua",
+        "sha256": "0ymncn3ziibsp27jhyxj1fd4b0066fazfxypbr3ja6ml7i66w3y6"
+      }
+    ]
+  },
+  "Strata_Open associated Strata project from selected audio file.lua": {
+    "latest": [
       {
-        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/a472587a926117b9796cddb80af53a43d08e598a/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
-        "sha256": "1saiw4jyf3bd7vk7hskqhvhscinjn2s5zykzr911pp7q0ff0q51x"
-      },
+        "path": "Scripts/Audiokinetic/Scripts/Strata_Open associated Strata project from selected audio file.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/6cdc562e0b8daeca273b79a09b9e8244ba028bda/Scripts/Strata_Open%20associated%20Strata%20project%20from%20selected%20audio%20file.lua",
+        "sha256": "0w01qhi52h039wiqflrm2rm84ixnfmfk2a6l6ml8ifxk9g00plfm"
+      }
+    ],
+    "1.1.0": [
       {
-        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/Utilities.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/a472587a926117b9796cddb80af53a43d08e598a/OpenAssociatedReaperProject/Utilities.lua",
-        "sha256": "0cjfhv98s6jnzlfsa0y6zmlv9z229frf3nxh7s4kk82l14vnrvmi"
+        "path": "Scripts/Audiokinetic/Scripts/Strata_Open associated Strata project from selected audio file.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/6cdc562e0b8daeca273b79a09b9e8244ba028bda/Scripts/Strata_Open%20associated%20Strata%20project%20from%20selected%20audio%20file.lua",
+        "sha256": "0w01qhi52h039wiqflrm2rm84ixnfmfk2a6l6ml8ifxk9g00plfm"
       }
     ],
     "1.0.0-rc.1": [
       {
-        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install Wwise Command.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/3ff02e2876443beb7fd0f30df260d97a4511b409/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install%20Wwise%20Command.lua",
-        "sha256": "13pxaxl8qg4p2xllrjdxc8x7izi64mrm955h09mj76w156i9kjg8"
-      },
-      {
-        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/3ff02e2876443beb7fd0f30df260d97a4511b409/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
-        "sha256": "0dgvp1w307dd546ssqmjarll439d1l2k34xp490vahz1rb0kj4bv"
-      },
-      {
-        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/Utilities.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/3ff02e2876443beb7fd0f30df260d97a4511b409/OpenAssociatedReaperProject/Utilities.lua",
-        "sha256": "042bx51whvmq1fvsphv9krb8ndwrfvpaipvbvhrqby03pjsg0x2m"
+        "path": "Scripts/Audiokinetic/Scripts/Strata_Open associated Strata project from selected audio file.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/b94a29e1314a9246c4bfceee3d6951041a85830f/Scripts/Strata_Open%20associated%20Strata%20project%20from%20selected%20audio%20file.lua",
+        "sha256": "0jmnigzd65gyh7wl00i1imfhahc64w2nvlqg6zwv3mjp79wf4hg3"
       }
     ]
   },
@@ -191,49 +167,73 @@
       }
     ]
   },
-  "Strata_Copy selection to next project.lua": {
+  "OpenAssociatedReaperProject.lua": {
     "latest": [
       {
-        "path": "Scripts/Audiokinetic/Scripts/Strata_Copy selection to next project.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/a7149e11db207fb085fc8f70bb389281841beeae/Scripts/Strata_Copy%20selection%20to%20next%20project.lua",
-        "sha256": "12f86f4w9qcb3b8qcxh31ldfy042l41wf91njcy76z5b8n12289q"
+        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install Wwise Command.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/05a38d99ca2005dbd8c09622b130fbc6c535bdf3/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install%20Wwise%20Command.lua",
+        "sha256": "1hs5kpgqlrmda09n5lh804ba60rjrb02s6ji4g9grsw8kbzahwwk"
+      },
+      {
+        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/05a38d99ca2005dbd8c09622b130fbc6c535bdf3/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
+        "sha256": "1saiw4jyf3bd7vk7hskqhvhscinjn2s5zykzr911pp7q0ff0q51x"
+      },
+      {
+        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/Utilities.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/05a38d99ca2005dbd8c09622b130fbc6c535bdf3/OpenAssociatedReaperProject/Utilities.lua",
+        "sha256": "0cjfhv98s6jnzlfsa0y6zmlv9z229frf3nxh7s4kk82l14vnrvmi"
       }
     ],
-    "1.0.2": [
+    "1.0.0": [
       {
-        "path": "Scripts/Audiokinetic/Scripts/Strata_Copy selection to next project.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/a7149e11db207fb085fc8f70bb389281841beeae/Scripts/Strata_Copy%20selection%20to%20next%20project.lua",
-        "sha256": "12f86f4w9qcb3b8qcxh31ldfy042l41wf91njcy76z5b8n12289q"
+        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install Wwise Command.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/05a38d99ca2005dbd8c09622b130fbc6c535bdf3/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install%20Wwise%20Command.lua",
+        "sha256": "1hs5kpgqlrmda09n5lh804ba60rjrb02s6ji4g9grsw8kbzahwwk"
+      },
+      {
+        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/05a38d99ca2005dbd8c09622b130fbc6c535bdf3/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
+        "sha256": "1saiw4jyf3bd7vk7hskqhvhscinjn2s5zykzr911pp7q0ff0q51x"
+      },
+      {
+        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/Utilities.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/05a38d99ca2005dbd8c09622b130fbc6c535bdf3/OpenAssociatedReaperProject/Utilities.lua",
+        "sha256": "0cjfhv98s6jnzlfsa0y6zmlv9z229frf3nxh7s4kk82l14vnrvmi"
       }
     ],
-    "1.0.2a": [
+    "1.0.0-rc.2": [
       {
-        "path": "Scripts/Audiokinetic/Scripts/Strata_Copy selection to next project.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/8f259badba8dea287a47ca0347a9622e56eb6937/Scripts/Strata_Copy%20selection%20to%20next%20project.lua",
-        "sha256": "0ymncn3ziibsp27jhyxj1fd4b0066fazfxypbr3ja6ml7i66w3y6"
-      }
-    ]
-  },
-  "Strata_Open associated Strata project from selected audio file.lua": {
-    "latest": [
+        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install Wwise Command.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/a472587a926117b9796cddb80af53a43d08e598a/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install%20Wwise%20Command.lua",
+        "sha256": "1hs5kpgqlrmda09n5lh804ba60rjrb02s6ji4g9grsw8kbzahwwk"
+      },
       {
-        "path": "Scripts/Audiokinetic/Scripts/Strata_Open associated Strata project from selected audio file.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/6cdc562e0b8daeca273b79a09b9e8244ba028bda/Scripts/Strata_Open%20associated%20Strata%20project%20from%20selected%20audio%20file.lua",
-        "sha256": "0w01qhi52h039wiqflrm2rm84ixnfmfk2a6l6ml8ifxk9g00plfm"
-      }
-    ],
-    "1.1.0": [
+        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/a472587a926117b9796cddb80af53a43d08e598a/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
+        "sha256": "1saiw4jyf3bd7vk7hskqhvhscinjn2s5zykzr911pp7q0ff0q51x"
+      },
       {
-        "path": "Scripts/Audiokinetic/Scripts/Strata_Open associated Strata project from selected audio file.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/6cdc562e0b8daeca273b79a09b9e8244ba028bda/Scripts/Strata_Open%20associated%20Strata%20project%20from%20selected%20audio%20file.lua",
-        "sha256": "0w01qhi52h039wiqflrm2rm84ixnfmfk2a6l6ml8ifxk9g00plfm"
+        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/Utilities.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/a472587a926117b9796cddb80af53a43d08e598a/OpenAssociatedReaperProject/Utilities.lua",
+        "sha256": "0cjfhv98s6jnzlfsa0y6zmlv9z229frf3nxh7s4kk82l14vnrvmi"
       }
     ],
     "1.0.0-rc.1": [
       {
-        "path": "Scripts/Audiokinetic/Scripts/Strata_Open associated Strata project from selected audio file.lua",
-        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/b94a29e1314a9246c4bfceee3d6951041a85830f/Scripts/Strata_Open%20associated%20Strata%20project%20from%20selected%20audio%20file.lua",
-        "sha256": "0jmnigzd65gyh7wl00i1imfhahc64w2nvlqg6zwv3mjp79wf4hg3"
+        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install Wwise Command.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/3ff02e2876443beb7fd0f30df260d97a4511b409/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Install%20Wwise%20Command.lua",
+        "sha256": "13pxaxl8qg4p2xllrjdxc8x7izi64mrm955h09mj76w156i9kjg8"
+      },
+      {
+        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/3ff02e2876443beb7fd0f30df260d97a4511b409/OpenAssociatedReaperProject/OpenAssociatedReaperProject_Script.lua",
+        "sha256": "0dgvp1w307dd546ssqmjarll439d1l2k34xp490vahz1rb0kj4bv"
+      },
+      {
+        "path": "Scripts/Audiokinetic/OpenAssociatedReaperProject/Utilities.lua",
+        "url": "https://raw.githubusercontent.com/audiokinetic/Reaper-Tools/3ff02e2876443beb7fd0f30df260d97a4511b409/OpenAssociatedReaperProject/Utilities.lua",
+        "sha256": "042bx51whvmq1fvsphv9krb8ndwrfvpaipvbvhrqby03pjsg0x2m"
       }
     ]
   }

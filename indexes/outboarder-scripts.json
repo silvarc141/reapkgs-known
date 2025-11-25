@@ -1,4 +1,116 @@
 {
+  "Outboarder - Move Selected Item(s) left by Loop Division.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Move Selected Item(s) left by Loop Division.lua",
+        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Move%20Selected%20Item(s)%20left%20by%20Loop%20Division.lua",
+        "sha256": "1nf4gpaxr70f6prqx7v3b7ify5l9hj5iw5jsjqaj9fy6vz6n03d7"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Move Selected Item(s) left by Loop Division.lua",
+        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Move%20Selected%20Item(s)%20left%20by%20Loop%20Division.lua",
+        "sha256": "1nf4gpaxr70f6prqx7v3b7ify5l9hj5iw5jsjqaj9fy6vz6n03d7"
+      }
+    ]
+  },
+  "Outboarder - Move Selected Item(s) right by Loop Division.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Move Selected Item(s) right by Loop Division.lua",
+        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Move%20Selected%20Item(s)%20right%20by%20Loop%20Division.lua",
+        "sha256": "0m1yqap8v842n47avdd2y5rq9cxcymckrwdjvzcivdysddgccx86"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Move Selected Item(s) right by Loop Division.lua",
+        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Move%20Selected%20Item(s)%20right%20by%20Loop%20Division.lua",
+        "sha256": "0m1yqap8v842n47avdd2y5rq9cxcymckrwdjvzcivdysddgccx86"
+      }
+    ]
+  },
+  "Outboarder - Move items (overlap) Crossfade between selected items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Move items (overlap) Crossfade between selected items.lua",
+        "url": "https://github.com/Outboarder/ReaScripts/raw/bfbef17bba7b066737316b77229a9ca7c4c4fc49/Item/Outboarder%20-%20Move%20items%20(overlap)%20Crossfade%20between%20selected%20items.lua",
+        "sha256": "1ssq0xj8c4714b4gig3c878lw5z83fldjiwy2wmzalvbwlsjc7ai"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Move items (overlap) Crossfade between selected items.lua",
+        "url": "https://github.com/Outboarder/ReaScripts/raw/bfbef17bba7b066737316b77229a9ca7c4c4fc49/Item/Outboarder%20-%20Move%20items%20(overlap)%20Crossfade%20between%20selected%20items.lua",
+        "sha256": "1ssq0xj8c4714b4gig3c878lw5z83fldjiwy2wmzalvbwlsjc7ai"
+      }
+    ]
+  },
+  "Outboarder - Remove Silence Join Gaps (Selected Items).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Remove Silence Join Gaps (Selected Items).lua",
+        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Remove%20Silence%20Join%20Gaps%20(Selected%20Items).lua",
+        "sha256": "0qmrp3rrip5g75fvhhyamwksimfbxv0r6fwdiwmsb5m1jncniqa0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Remove Silence Join Gaps (Selected Items).lua",
+        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Remove%20Silence%20Join%20Gaps%20(Selected%20Items).lua",
+        "sha256": "0qmrp3rrip5g75fvhhyamwksimfbxv0r6fwdiwmsb5m1jncniqa0"
+      }
+    ]
+  },
+  "Outboarder - Remove Silence Join Gaps and Glue (Selected Items).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Remove Silence Join Gaps and Glue (Selected Items).lua",
+        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Remove%20Silence%20Join%20Gaps%20and%20Glue%20(Selected%20Items).lua",
+        "sha256": "0px5mvw5zkj6zsm4n617h6cq02xmxc8sv44xg5sjl1fn799n1x6i"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Remove Silence Join Gaps and Glue (Selected Items).lua",
+        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Remove%20Silence%20Join%20Gaps%20and%20Glue%20(Selected%20Items).lua",
+        "sha256": "0px5mvw5zkj6zsm4n617h6cq02xmxc8sv44xg5sjl1fn799n1x6i"
+      }
+    ]
+  },
+  "Outboarder - Trim left at edit cursor move edit cursor left by 2sec then play.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Trim left at edit cursor move edit cursor left by 2sec then play.lua",
+        "url": "https://github.com/Outboarder/ReaScripts/raw/b818d9462137c204f614e73b4f641183e2db4ac4/Item/Outboarder%20-%20Trim%20left%20at%20edit%20cursor%20move%20edit%20cursor%20left%20by%202sec%20then%20play.lua",
+        "sha256": "0dl918w69kg8s24rk26vh4ip3m8rnp1b8p4f0brp3x1rn8lqxd7i"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Trim left at edit cursor move edit cursor left by 2sec then play.lua",
+        "url": "https://github.com/Outboarder/ReaScripts/raw/b818d9462137c204f614e73b4f641183e2db4ac4/Item/Outboarder%20-%20Trim%20left%20at%20edit%20cursor%20move%20edit%20cursor%20left%20by%202sec%20then%20play.lua",
+        "sha256": "0dl918w69kg8s24rk26vh4ip3m8rnp1b8p4f0brp3x1rn8lqxd7i"
+      }
+    ]
+  },
+  "Outboarder - Trim selected item to nearest item on left side .lua": {
+    "latest": [
+      {
+        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Trim selected item to nearest item on left side .lua",
+        "url": "https://github.com/Outboarder/ReaScripts/raw/155e6ee7237aeee44d97462b2b3b8270a05786b8/Item/Outboarder%20-%20Trim%20selected%20item%20to%20nearest%20item%20on%20left%20side%20.lua",
+        "sha256": "1lf2hdb2gbi7rd7larc1axgfg40j7x9jvb0lr75zb3i6f47bk4gg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Trim selected item to nearest item on left side .lua",
+        "url": "https://github.com/Outboarder/ReaScripts/raw/155e6ee7237aeee44d97462b2b3b8270a05786b8/Item/Outboarder%20-%20Trim%20selected%20item%20to%20nearest%20item%20on%20left%20side%20.lua",
+        "sha256": "1lf2hdb2gbi7rd7larc1axgfg40j7x9jvb0lr75zb3i6f47bk4gg"
+      }
+    ]
+  },
   "Outboarder - Copy TCP Vol-Pan to Send Vol-Pan(Edit for Instruction).lua": {
     "latest": [
       {
@@ -732,118 +844,6 @@
         "path": "Scripts/Outboarder Scripts/Utility/Outboarder - Note Name Text Generator.lua",
         "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Utility/Outboarder%20-%20Note%20Name%20Text%20Generator.lua",
         "sha256": "1f0f0cq0ryjh70lgwrqq5dhmq395719gm6l6rjqz8993slccigh7"
-      }
-    ]
-  },
-  "Outboarder - Move Selected Item(s) left by Loop Division.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Move Selected Item(s) left by Loop Division.lua",
-        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Move%20Selected%20Item(s)%20left%20by%20Loop%20Division.lua",
-        "sha256": "1nf4gpaxr70f6prqx7v3b7ify5l9hj5iw5jsjqaj9fy6vz6n03d7"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Move Selected Item(s) left by Loop Division.lua",
-        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Move%20Selected%20Item(s)%20left%20by%20Loop%20Division.lua",
-        "sha256": "1nf4gpaxr70f6prqx7v3b7ify5l9hj5iw5jsjqaj9fy6vz6n03d7"
-      }
-    ]
-  },
-  "Outboarder - Move Selected Item(s) right by Loop Division.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Move Selected Item(s) right by Loop Division.lua",
-        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Move%20Selected%20Item(s)%20right%20by%20Loop%20Division.lua",
-        "sha256": "0m1yqap8v842n47avdd2y5rq9cxcymckrwdjvzcivdysddgccx86"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Move Selected Item(s) right by Loop Division.lua",
-        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Move%20Selected%20Item(s)%20right%20by%20Loop%20Division.lua",
-        "sha256": "0m1yqap8v842n47avdd2y5rq9cxcymckrwdjvzcivdysddgccx86"
-      }
-    ]
-  },
-  "Outboarder - Move items (overlap) Crossfade between selected items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Move items (overlap) Crossfade between selected items.lua",
-        "url": "https://github.com/Outboarder/ReaScripts/raw/bfbef17bba7b066737316b77229a9ca7c4c4fc49/Item/Outboarder%20-%20Move%20items%20(overlap)%20Crossfade%20between%20selected%20items.lua",
-        "sha256": "1ssq0xj8c4714b4gig3c878lw5z83fldjiwy2wmzalvbwlsjc7ai"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Move items (overlap) Crossfade between selected items.lua",
-        "url": "https://github.com/Outboarder/ReaScripts/raw/bfbef17bba7b066737316b77229a9ca7c4c4fc49/Item/Outboarder%20-%20Move%20items%20(overlap)%20Crossfade%20between%20selected%20items.lua",
-        "sha256": "1ssq0xj8c4714b4gig3c878lw5z83fldjiwy2wmzalvbwlsjc7ai"
-      }
-    ]
-  },
-  "Outboarder - Remove Silence Join Gaps (Selected Items).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Remove Silence Join Gaps (Selected Items).lua",
-        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Remove%20Silence%20Join%20Gaps%20(Selected%20Items).lua",
-        "sha256": "0qmrp3rrip5g75fvhhyamwksimfbxv0r6fwdiwmsb5m1jncniqa0"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Remove Silence Join Gaps (Selected Items).lua",
-        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Remove%20Silence%20Join%20Gaps%20(Selected%20Items).lua",
-        "sha256": "0qmrp3rrip5g75fvhhyamwksimfbxv0r6fwdiwmsb5m1jncniqa0"
-      }
-    ]
-  },
-  "Outboarder - Remove Silence Join Gaps and Glue (Selected Items).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Remove Silence Join Gaps and Glue (Selected Items).lua",
-        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Remove%20Silence%20Join%20Gaps%20and%20Glue%20(Selected%20Items).lua",
-        "sha256": "0px5mvw5zkj6zsm4n617h6cq02xmxc8sv44xg5sjl1fn799n1x6i"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Remove Silence Join Gaps and Glue (Selected Items).lua",
-        "url": "https://github.com/Outboarder/ReaScripts/raw/4fc53d7d437a18fb3a04413e12ed54a09ca53b7e/Item/Outboarder%20-%20Remove%20Silence%20Join%20Gaps%20and%20Glue%20(Selected%20Items).lua",
-        "sha256": "0px5mvw5zkj6zsm4n617h6cq02xmxc8sv44xg5sjl1fn799n1x6i"
-      }
-    ]
-  },
-  "Outboarder - Trim left at edit cursor move edit cursor left by 2sec then play.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Trim left at edit cursor move edit cursor left by 2sec then play.lua",
-        "url": "https://github.com/Outboarder/ReaScripts/raw/b818d9462137c204f614e73b4f641183e2db4ac4/Item/Outboarder%20-%20Trim%20left%20at%20edit%20cursor%20move%20edit%20cursor%20left%20by%202sec%20then%20play.lua",
-        "sha256": "0dl918w69kg8s24rk26vh4ip3m8rnp1b8p4f0brp3x1rn8lqxd7i"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Trim left at edit cursor move edit cursor left by 2sec then play.lua",
-        "url": "https://github.com/Outboarder/ReaScripts/raw/b818d9462137c204f614e73b4f641183e2db4ac4/Item/Outboarder%20-%20Trim%20left%20at%20edit%20cursor%20move%20edit%20cursor%20left%20by%202sec%20then%20play.lua",
-        "sha256": "0dl918w69kg8s24rk26vh4ip3m8rnp1b8p4f0brp3x1rn8lqxd7i"
-      }
-    ]
-  },
-  "Outboarder - Trim selected item to nearest item on left side .lua": {
-    "latest": [
-      {
-        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Trim selected item to nearest item on left side .lua",
-        "url": "https://github.com/Outboarder/ReaScripts/raw/155e6ee7237aeee44d97462b2b3b8270a05786b8/Item/Outboarder%20-%20Trim%20selected%20item%20to%20nearest%20item%20on%20left%20side%20.lua",
-        "sha256": "1lf2hdb2gbi7rd7larc1axgfg40j7x9jvb0lr75zb3i6f47bk4gg"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Outboarder Scripts/Item/Outboarder - Trim selected item to nearest item on left side .lua",
-        "url": "https://github.com/Outboarder/ReaScripts/raw/155e6ee7237aeee44d97462b2b3b8270a05786b8/Item/Outboarder%20-%20Trim%20selected%20item%20to%20nearest%20item%20on%20left%20side%20.lua",
-        "sha256": "1lf2hdb2gbi7rd7larc1axgfg40j7x9jvb0lr75zb3i6f47bk4gg"
       }
     ]
   }

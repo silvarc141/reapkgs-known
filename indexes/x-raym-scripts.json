@@ -1,198 +1,111 @@
 {
-  "X-Raym_Automatically set edit cursor pos at mouse position if mouse over ruler.lua": {
+  "X-Raym_Display color of selected tracks items and takes in the console.eel": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Automatically set edit cursor pos at mouse position if mouse over ruler.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/efdf392bc68c491b99fd4f85d767b11b79040d11/Cursor/X-Raym_Automatically%20set%20edit%20cursor%20pos%20at%20mouse%20position%20if%20mouse%20over%20ruler.lua",
-        "sha256": "0bj51szvlppbqh5r67625ggkzfhmqrzrmnrd066c5h5h3hbm1q6n"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Automatically set edit cursor pos at mouse position if mouse over ruler.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/efdf392bc68c491b99fd4f85d767b11b79040d11/Cursor/X-Raym_Automatically%20set%20edit%20cursor%20pos%20at%20mouse%20position%20if%20mouse%20over%20ruler.lua",
-        "sha256": "0bj51szvlppbqh5r67625ggkzfhmqrzrmnrd066c5h5h3hbm1q6n"
+        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Display color of selected tracks items and takes in the console.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Display%20color%20of%20selected%20tracks%20items%20and%20takes%20in%20the%20console.eel",
+        "sha256": "06795rmrxf4zw67bzs6ni4m41n2rcd8x3q6qrq6s333mk5k4qxiz"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Automatically set edit cursor pos at mouse position if mouse over ruler.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Cursor/X-Raym_Automatically%20set%20edit%20cursor%20pos%20at%20mouse%20position%20if%20mouse%20over%20ruler.lua",
-        "sha256": "0pgb2lj87qw09ycd5v9sskdvlib7lbl52wjzql7b4m1z9gw09ma9"
+        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Display color of selected tracks items and takes in the console.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Display%20color%20of%20selected%20tracks%20items%20and%20takes%20in%20the%20console.eel",
+        "sha256": "06795rmrxf4zw67bzs6ni4m41n2rcd8x3q6qrq6s333mk5k4qxiz"
       }
     ]
   },
-  "X-Raym_Go to start of next region.lua": {
+  "X-Raym_Select items with same color as mouse context (or first selected item) on selected tracks.lua": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Go to start of next region.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Go%20to%20start%20of%20next%20region.lua",
-        "sha256": "07s31asmcm6hv3naklfalcvm641d6ibh9rw2mmkk5k5s6725bp4q"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Go to start of next region.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Go%20to%20start%20of%20next%20region.lua",
-        "sha256": "07s31asmcm6hv3naklfalcvm641d6ibh9rw2mmkk5k5s6725bp4q"
-      }
-    ]
-  },
-  "X-Raym_Go to start of previous region (strict).lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Go to start of previous region (strict).lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Go%20to%20start%20of%20previous%20region%20(strict).lua",
-        "sha256": "1xy9r1zpvzkpyfpl2ays4pph824nbdrn2yam9191jxq5yk1j7amm"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Go to start of previous region (strict).lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Go%20to%20start%20of%20previous%20region%20(strict).lua",
-        "sha256": "1xy9r1zpvzkpyfpl2ays4pph824nbdrn2yam9191jxq5yk1j7amm"
-      }
-    ]
-  },
-  "X-Raym_Go to start of previous region.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Go to start of previous region.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Go%20to%20start%20of%20previous%20region.lua",
-        "sha256": "0bjn6h647sz03ibhh61in7sy3lv5l5y8pga6ywma8v709wl2kqyq"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Go to start of previous region.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Go%20to%20start%20of%20previous%20region.lua",
-        "sha256": "0bjn6h647sz03ibhh61in7sy3lv5l5y8pga6ywma8v709wl2kqyq"
-      }
-    ]
-  },
-  "X-Raym_Move edit cursor to end of region under play or edit cursor and play.eel": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to end of region under play or edit cursor and play.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20end%20of%20region%20under%20play%20or%20edit%20cursor%20and%20play.eel",
-        "sha256": "1jqw9l7h3jn2k5gn0jc9np0nq9n6ywqxxg90h2hjzr4401hjrav2"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to end of region under play or edit cursor and play.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20end%20of%20region%20under%20play%20or%20edit%20cursor%20and%20play.eel",
-        "sha256": "1jqw9l7h3jn2k5gn0jc9np0nq9n6ywqxxg90h2hjzr4401hjrav2"
-      }
-    ]
-  },
-  "X-Raym_Move edit cursor to end of region under play or edit cursor.eel": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to end of region under play or edit cursor.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20end%20of%20region%20under%20play%20or%20edit%20cursor.eel",
-        "sha256": "06psnrvg29yfk6fydc17wjz0xv6g41z481xnic4nxyy4z518gjni"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to end of region under play or edit cursor.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20end%20of%20region%20under%20play%20or%20edit%20cursor.eel",
-        "sha256": "06psnrvg29yfk6fydc17wjz0xv6g41z481xnic4nxyy4z518gjni"
-      }
-    ]
-  },
-  "X-Raym_Move edit cursor to first selected item snap offset.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to first selected item snap offset.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20first%20selected%20item%20snap%20offset.lua",
-        "sha256": "1x1005b9999l9b2qhmk4zgslkxz331n1ipyz5v10wwvxmabq1n8f"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to first selected item snap offset.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20first%20selected%20item%20snap%20offset.lua",
-        "sha256": "1x1005b9999l9b2qhmk4zgslkxz331n1ipyz5v10wwvxmabq1n8f"
-      }
-    ]
-  },
-  "X-Raym_Move edit cursor to next frame.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to next frame.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/014e522512e3b6738fa32ee13461b6b6265dcfb0/Cursor/X-Raym_Move%20edit%20cursor%20to%20next%20frame.lua",
-        "sha256": "1vwy9z7wznj3cq352132jbiwx68bxravwndxkkgfg7bx3yk0icnz"
+        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Select items with same color as mouse context (or first selected item) on selected tracks.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Select%20items%20with%20same%20color%20as%20mouse%20context%20(or%20first%20selected%20item)%20on%20selected%20tracks.lua",
+        "sha256": "1rikk12n4bkijb507vizlkb0wzgnb9h51b8105bbn3zgz1w2cc2b"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to next frame.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/014e522512e3b6738fa32ee13461b6b6265dcfb0/Cursor/X-Raym_Move%20edit%20cursor%20to%20next%20frame.lua",
-        "sha256": "1vwy9z7wznj3cq352132jbiwx68bxravwndxkkgfg7bx3yk0icnz"
+        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Select items with same color as mouse context (or first selected item) on selected tracks.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Select%20items%20with%20same%20color%20as%20mouse%20context%20(or%20first%20selected%20item)%20on%20selected%20tracks.lua",
+        "sha256": "1rikk12n4bkijb507vizlkb0wzgnb9h51b8105bbn3zgz1w2cc2b"
+      }
+    ]
+  },
+  "X-Raym_Set selected takes or items color from their visible color.eel": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected takes or items color from their visible color.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20takes%20or%20items%20color%20from%20their%20visible%20color.eel",
+        "sha256": "1vjprpiwixzzcqzmr160cfjbd971d7pz3hajv6njhq61jhyfaqlv"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to next frame.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20next%20frame.lua",
-        "sha256": "0qfskjgsh7g3z5bsbi3982xs0jx02vc1my5zrpd2z5kgj2qmlfxk"
+        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected takes or items color from their visible color.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20takes%20or%20items%20color%20from%20their%20visible%20color.eel",
+        "sha256": "1vjprpiwixzzcqzmr160cfjbd971d7pz3hajv6njhq61jhyfaqlv"
       }
     ]
   },
-  "X-Raym_Move edit cursor to previous frame.lua": {
+  "X-Raym_Set selected tracks and takes color from HEX value.lua": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to previous frame.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/014e522512e3b6738fa32ee13461b6b6265dcfb0/Cursor/X-Raym_Move%20edit%20cursor%20to%20previous%20frame.lua",
-        "sha256": "12vdlml82acgk5aaqgpvcyn8slh0yay47xli0a677rcqqa9w3pwj"
+        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks and takes color from HEX value.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20tracks%20and%20takes%20color%20from%20HEX%20value.lua",
+        "sha256": "18xi8kjq67bv1r1fxpg2zkgg2prdp2hrph0f7wk74960piv3yiaf"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks and takes color from HEX value.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20tracks%20and%20takes%20color%20from%20HEX%20value.lua",
+        "sha256": "18xi8kjq67bv1r1fxpg2zkgg2prdp2hrph0f7wk74960piv3yiaf"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to previous frame.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/014e522512e3b6738fa32ee13461b6b6265dcfb0/Cursor/X-Raym_Move%20edit%20cursor%20to%20previous%20frame.lua",
-        "sha256": "12vdlml82acgk5aaqgpvcyn8slh0yay47xli0a677rcqqa9w3pwj"
+        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks and takes color from HEX value.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/d7f55cedb426b45a5ff8aa9c1099f606960a84be/Color/X-Raym_Set%20selected%20tracks%20and%20takes%20color%20from%20HEX%20value.lua",
+        "sha256": "1x1dc0lx0d56gbpvi2qm83dyr6y91w877njipnv63xki54a22g1i"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to previous frame.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20previous%20frame.lua",
-        "sha256": "0svvddrcvrag38lpz9iladvldf7sh2v1lr0r2vlj7axnx3x76yv6"
+        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks and takes color from HEX value.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/05876b1a4b12a54eadf98e1a05d7875071de7dde/Color/X-Raym_Set%20selected%20tracks%20and%20takes%20color%20from%20HEX%20value.lua",
+        "sha256": "06wqh2sbz79a09x1yghmwd6ish1ckhjlf5gfxsvpx44jkr6fnd7i"
       }
     ]
   },
-  "X-Raym_Move edit cursor to start of region under play or edit cursor and play.eel": {
+  "X-Raym_Set selected tracks and takes color.eel": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to start of region under play or edit cursor and play.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20start%20of%20region%20under%20play%20or%20edit%20cursor%20and%20play.eel",
-        "sha256": "0gbn0zpmm1cslrbr0gqxdlz3dhnvpwwp7wrx3mn2xm6mm2hlw1gr"
+        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks and takes color.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20tracks%20and%20takes%20color.eel",
+        "sha256": "0gsn2liqqldgxw7ydwgplggjjcd67h9pxxl05al2cklmyd5jpwl3"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to start of region under play or edit cursor and play.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20start%20of%20region%20under%20play%20or%20edit%20cursor%20and%20play.eel",
-        "sha256": "0gbn0zpmm1cslrbr0gqxdlz3dhnvpwwp7wrx3mn2xm6mm2hlw1gr"
+        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks and takes color.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20tracks%20and%20takes%20color.eel",
+        "sha256": "0gsn2liqqldgxw7ydwgplggjjcd67h9pxxl05al2cklmyd5jpwl3"
       }
     ]
   },
-  "X-Raym_Move edit cursor to start of region under play or edit cursor.eel": {
+  "X-Raym_Set selected tracks items and takes color from mouse context.lua": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to start of region under play or edit cursor.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20start%20of%20region%20under%20play%20or%20edit%20cursor.eel",
-        "sha256": "18q0i3v7lw7i4gnmh4sl3pszlfczg9siphlp1jfaxrkz9d748904"
+        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks items and takes color from mouse context.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20tracks%20items%20and%20takes%20color%20from%20mouse%20context.lua",
+        "sha256": "0fyizmvkkx9qrbn93zjj381bbz167kbv7zicsgs7mja85krav50j"
       }
     ],
-    "1.0": [
+    "1.1": [
       {
-        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to start of region under play or edit cursor.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20start%20of%20region%20under%20play%20or%20edit%20cursor.eel",
-        "sha256": "18q0i3v7lw7i4gnmh4sl3pszlfczg9siphlp1jfaxrkz9d748904"
+        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks items and takes color from mouse context.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20tracks%20items%20and%20takes%20color%20from%20mouse%20context.lua",
+        "sha256": "0fyizmvkkx9qrbn93zjj381bbz167kbv7zicsgs7mja85krav50j"
       }
     ]
   },
@@ -8144,165 +8057,6 @@
       }
     ]
   },
-  "X-Raym_Focus arrange view.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Focus arrange view.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Media%20Explorer/X-Raym_Focus%20arrange%20view.lua",
-        "sha256": "0pybyniq4cr0zqv48gbvw70kxc9ihpck7arg58zwmwxxy1j3g2d8"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Focus arrange view.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Media%20Explorer/X-Raym_Focus%20arrange%20view.lua",
-        "sha256": "0pybyniq4cr0zqv48gbvw70kxc9ihpck7arg58zwmwxxy1j3g2d8"
-      }
-    ]
-  },
-  "X-Raym_Play-Stop arrange view from media explorer context.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Play-Stop arrange view from media explorer context.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Media%20Explorer/X-Raym_Play-Stop%20arrange%20view%20from%20media%20explorer%20context.lua",
-        "sha256": "0mx0h49gqx356ib9dh7bv8nidn196dfra5g87w1cmigrdzc5l46n"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Play-Stop arrange view from media explorer context.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Media%20Explorer/X-Raym_Play-Stop%20arrange%20view%20from%20media%20explorer%20context.lua",
-        "sha256": "0mx0h49gqx356ib9dh7bv8nidn196dfra5g87w1cmigrdzc5l46n"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Play-Stop arrange view from media explorer context.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/86faa07438234450d3b9127d279bf9671f73b8f6/Media%20Explorer/X-Raym_Play-Stop%20arrange%20view%20from%20media%20explorer%20context.lua",
-        "sha256": "16fx41l2d4kxrn2qq2l1jqx20yv65n2ji5glfxhwpqbkp9vc46cn"
-      }
-    ]
-  },
-  "X-Raym_Preview media explorer and play-stop project arrange view simultaneously.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Preview media explorer and play-stop project arrange view simultaneously.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Preview%20media%20explorer%20and%20play-stop%20project%20arrange%20view%20simultaneously.lua",
-        "sha256": "1h5rbn7gw652im68rmbi453wy8alh4hkk28aa7s3avsc6dkr46br"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Preview media explorer and play-stop project arrange view simultaneously.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Preview%20media%20explorer%20and%20play-stop%20project%20arrange%20view%20simultaneously.lua",
-        "sha256": "1h5rbn7gw652im68rmbi453wy8alh4hkk28aa7s3avsc6dkr46br"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Preview media explorer and play-stop project arrange view simultaneously.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Media%20Explorer/X-Raym_Preview%20media%20explorer%20and%20play-stop%20project%20arrange%20view%20simultaneously.lua",
-        "sha256": "0zr63bv6mfdza872xx00ii4gvfkh9l2ra92di0gzxccwy5vvpwjk"
-      }
-    ]
-  },
-  "X-Raym_Reset media explorer volume to 0dB.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Reset media explorer volume to 0dB.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Reset%20media%20explorer%20volume%20to%200dB.lua",
-        "sha256": "1ry4d01y66b4zn5z55sbl3hhq53jvs5z2p284vvby3xj4s9rsq6p"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Reset media explorer volume to 0dB.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Reset%20media%20explorer%20volume%20to%200dB.lua",
-        "sha256": "1ry4d01y66b4zn5z55sbl3hhq53jvs5z2p284vvby3xj4s9rsq6p"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Reset media explorer volume to 0dB.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Media%20Explorer/X-Raym_Reset%20media%20explorer%20volume%20to%200dB.lua",
-        "sha256": "0v331b225zdnmvpj3l5iqx8av830mg6nydfrly77cr5db60zjbgr"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Reset media explorer volume to 0dB.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/0edf0bf5dcc86a201913e358457e78aad8698fad/Media%20Explorer/X-Raym_Reset%20media%20explorer%20volume%20to%200dB.lua",
-        "sha256": "06gklmzc618a9wm7qj3yi6zsjmh71v0rqxxqws54snmzhybpy9kg"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Reset media explorer volume to 0dB.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b99773dca5409328484dfed644cd4da45bab4a37/Media%20Explorer/X-Raym_Reset%20media%20explorer%20volume%20to%200dB.lua",
-        "sha256": "09r55b3crgg63y61ij4limv05y94da5v20qbf1y94mrbl8hm2n03"
-      }
-    ]
-  },
-  "X-Raym_Set media explorer volume down a bit.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume down a bit.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20down%20a%20bit.lua",
-        "sha256": "1d8xqr4db3kw0d96a73gqm2f2zx75gfp3py44lgppd9s25syx0mi"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume down a bit.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20down%20a%20bit.lua",
-        "sha256": "1d8xqr4db3kw0d96a73gqm2f2zx75gfp3py44lgppd9s25syx0mi"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume down a bit.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20down%20a%20bit.lua",
-        "sha256": "0fspxagi0f93xcvs8vdp3a7vla73dx6jv5bv7zzir12zd0j2y2i6"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume down a bit.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b99773dca5409328484dfed644cd4da45bab4a37/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20down%20a%20bit.lua",
-        "sha256": "1wisjhi6mff7qgkdbfzj26hyw4fikjbvqg4caisw8h9gafyag921"
-      }
-    ]
-  },
-  "X-Raym_Set media explorer volume up a bit.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume up a bit.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20up%20a%20bit.lua",
-        "sha256": "1hm7c7srqvapb6p1krla7q86j77r1rviklrk5xkq74swmpg6i9jw"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume up a bit.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20up%20a%20bit.lua",
-        "sha256": "1hm7c7srqvapb6p1krla7q86j77r1rviklrk5xkq74swmpg6i9jw"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume up a bit.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20up%20a%20bit.lua",
-        "sha256": "12nd075qb7gbmiwya76m94c003766ps179yh78a2rwdh2izrqrab"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume up a bit.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b99773dca5409328484dfed644cd4da45bab4a37/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20up%20a%20bit.lua",
-        "sha256": "0gvad9yhdr5w67yh1wx6fnfbgs1d8rfk6lacdcj528hl6ya3j6ww"
-      }
-    ]
-  },
   "FnA_Select-Unselect notes in grid over mouse.eel": {
     "latest": [
       {
@@ -9856,100 +9610,120 @@
       }
     ]
   },
-  "X-Raym_Parent script of preset script_template.lua": {
+  "X-Raym_Delete all tempo markers.eel": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/README.md",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/18e73ae3da1cef940cbf5b2f4c164025b3cebc0e/Templates/Script%20Preset/README.md",
-        "sha256": "04f536myqim14jwzd5r2k4sg8ss2cfsrzbrym4kv4imdryz4rqky"
-      },
-      {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Parent script of preset script_template.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/18e73ae3da1cef940cbf5b2f4c164025b3cebc0e/Templates/Script%20Preset/X-Raym_Parent%20script%20of%20preset%20script_template.lua",
-        "sha256": "1vxhcpzb4i36ccrkcgsf13zbaimp5dd3xh7md06i5lc6r2l28s1z"
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Delete all tempo markers.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Delete%20all%20tempo%20markers.eel",
+        "sha256": "1y5qm6wgcwrg5p5x9pz31cmlslp3qrzri00lib5faijbslf4y2xr"
       }
     ],
-    "1.0.4": [
+    "1.1": [
       {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/README.md",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/18e73ae3da1cef940cbf5b2f4c164025b3cebc0e/Templates/Script%20Preset/README.md",
-        "sha256": "04f536myqim14jwzd5r2k4sg8ss2cfsrzbrym4kv4imdryz4rqky"
-      },
-      {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Parent script of preset script_template.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/18e73ae3da1cef940cbf5b2f4c164025b3cebc0e/Templates/Script%20Preset/X-Raym_Parent%20script%20of%20preset%20script_template.lua",
-        "sha256": "1vxhcpzb4i36ccrkcgsf13zbaimp5dd3xh7md06i5lc6r2l28s1z"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/README.md",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/66212d7b5eeb1c11e49ea2933a3bb66c50830e44/Templates/Script%20Preset/README.md",
-        "sha256": "1p85z709h9dmkmrab6mknv2dx71haqks6qs4jvp7im6dnjpkd418"
-      },
-      {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Parent script of preset script_template.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/66212d7b5eeb1c11e49ea2933a3bb66c50830e44/Templates/Script%20Preset/X-Raym_Parent%20script%20of%20preset%20script_template.lua",
-        "sha256": "1rgkjpdkib33qfvc0hi9vbc7nsb70df1irph3nnnkqbc4p0i7d8m"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/README.md",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/50cddb66627de940b116122cbacec876139ba967/Templates/Script%20Preset/README.md",
-        "sha256": "1p85z709h9dmkmrab6mknv2dx71haqks6qs4jvp7im6dnjpkd418"
-      },
-      {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Parent script of preset script_template.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/50cddb66627de940b116122cbacec876139ba967/Templates/Script%20Preset/X-Raym_Parent%20script%20of%20preset%20script_template.lua",
-        "sha256": "0d8a0vz2rl9hjj7dqypcbwjsbs6agvkzlg6inx2l579x6ac9wcjm"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/README.md",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/73fb1b6025a4fc9cd9ac7a4f56ff5fdf6a5e1191/Templates/Script%20Preset/README.md",
-        "sha256": "1p85z709h9dmkmrab6mknv2dx71haqks6qs4jvp7im6dnjpkd418"
-      },
-      {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Parent script of preset script_template.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/73fb1b6025a4fc9cd9ac7a4f56ff5fdf6a5e1191/Templates/Script%20Preset/X-Raym_Parent%20script%20of%20preset%20script_template.lua",
-        "sha256": "04qc9ssyr456g6n5j9kg299lwvh2ipak430sjwvgppgqb7qk1y5p"
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Delete all tempo markers.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Delete%20all%20tempo%20markers.eel",
+        "sha256": "1y5qm6wgcwrg5p5x9pz31cmlslp3qrzri00lib5faijbslf4y2xr"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/README.md",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/eef3980d2eaa2edca044f6d00a57784ea6cd4863/Templates/Script%20Preset/README.md",
-        "sha256": "1p85z709h9dmkmrab6mknv2dx71haqks6qs4jvp7im6dnjpkd418"
-      },
-      {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Parent script of preset script_template.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/eef3980d2eaa2edca044f6d00a57784ea6cd4863/Templates/Script%20Preset/X-Raym_Parent%20script%20of%20preset%20script_template.lua",
-        "sha256": "0dg0crhbwnxrqy5wqbbqikaf7287wwbyz21hqklj0h3vp51sp6px"
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Delete all tempo markers.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/bd5f5f3d1dfc49e6e9756fd7a4b086794abb6e78/Tempo%20and%20Time%20Signature/X-Raym_Delete%20all%20tempo%20markers.eel",
+        "sha256": "0ibkf3pgc56fsbb9g39cwj80cr6h1kqcm6ajhbri8l9yvgncmy0d"
       }
     ]
   },
-  "X-Raym_Preset script_template.lua": {
+  "X-Raym_Insert time signature markers from selected items.eel": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Preset script_template.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/94a22f1ca5531ae3dd35a2dfe6b9069de1e3c89e/Templates/Script%20Preset/X-Raym_Preset%20script_template.lua",
-        "sha256": "0c8490ca28dlz715nxfbdypfhkk8ca7jnrk4dc7sf8s1h2fqjy4n"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Preset script_template.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/94a22f1ca5531ae3dd35a2dfe6b9069de1e3c89e/Templates/Script%20Preset/X-Raym_Preset%20script_template.lua",
-        "sha256": "0c8490ca28dlz715nxfbdypfhkk8ca7jnrk4dc7sf8s1h2fqjy4n"
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Insert time signature markers from selected items.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Insert%20time%20signature%20markers%20from%20selected%20items.eel",
+        "sha256": "06nz6ba0lpn4p6y9fi9n1f9rfndrnirh707ivhlq6i83h64mm3fh"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Preset script_template.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/eef3980d2eaa2edca044f6d00a57784ea6cd4863/Templates/Script%20Preset/X-Raym_Preset%20script_template.lua",
-        "sha256": "06qdmxcrasbnpqnlzb0vaxh6ws4bv259zq37c775h3q21j11hhbv"
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Insert time signature markers from selected items.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Insert%20time%20signature%20markers%20from%20selected%20items.eel",
+        "sha256": "06nz6ba0lpn4p6y9fi9n1f9rfndrnirh707ivhlq6i83h64mm3fh"
+      }
+    ]
+  },
+  "X-Raym_Round all tempo markers BPM.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Round all tempo markers BPM.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Round%20all%20tempo%20markers%20BPM.lua",
+        "sha256": "0amz0015m5c0dhrngx23j0sa4fcxak6r8zb703sqc5qbx718fckc"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Round all tempo markers BPM.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Round%20all%20tempo%20markers%20BPM.lua",
+        "sha256": "0amz0015m5c0dhrngx23j0sa4fcxak6r8zb703sqc5qbx718fckc"
+      }
+    ],
+    "0.9": [
+      {
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Round all tempo markers BPM.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/41bc65f23073400dd69dd61daa034966ac12bb94/Tempo%20and%20Time%20Signature/X-Raym_Round%20all%20tempo%20markers%20BPM.lua",
+        "sha256": "1zk27y12pwv7khshzcbw5n8yc1c04lxh17d1dc84bspcq99259vn"
+      }
+    ]
+  },
+  "X-Raym_Set selected tempo envelope points value.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Set selected tempo envelope points value.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Set%20selected%20tempo%20envelope%20points%20value.lua",
+        "sha256": "01c25nqa10fs3drix389l4c8fjgwg8h1a0sy5mi88akrj86vxq10"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Set selected tempo envelope points value.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Set%20selected%20tempo%20envelope%20points%20value.lua",
+        "sha256": "01c25nqa10fs3drix389l4c8fjgwg8h1a0sy5mi88akrj86vxq10"
+      }
+    ]
+  },
+  "X-Raym_Tap tempo.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Tap tempo.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Tempo%20and%20Time%20Signature/X-Raym_Tap%20tempo.lua",
+        "sha256": "0fzanss2rv2skxcibxx7f67lvl5vmmx4pwz86cpb5lpvgz4ms5g4"
+      }
+    ],
+    "1.1.2": [
+      {
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Tap tempo.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Tempo%20and%20Time%20Signature/X-Raym_Tap%20tempo.lua",
+        "sha256": "0fzanss2rv2skxcibxx7f67lvl5vmmx4pwz86cpb5lpvgz4ms5g4"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Tap tempo.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/05876b1a4b12a54eadf98e1a05d7875071de7dde/Tempo%20and%20Time%20Signature/X-Raym_Tap%20tempo.lua",
+        "sha256": "0w9c98wycyqvkkbh076v63bbc698bgmn7j7g5qjya90lqkyfll3c"
+      }
+    ]
+  },
+  "michaeltonight_daxliniere_X-Raym_Display notes length at edit cursor.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/michaeltonight_daxliniere_X-Raym_Display notes length at edit cursor.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Tempo%20and%20Time%20Signature/michaeltonight_daxliniere_X-Raym_Display%20notes%20length%20at%20edit%20cursor.lua",
+        "sha256": "0kccx5v1lgl3600x3g5y9bi65h3fwchjdjckfgx780198w0xf7z8"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/michaeltonight_daxliniere_X-Raym_Display notes length at edit cursor.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Tempo%20and%20Time%20Signature/michaeltonight_daxliniere_X-Raym_Display%20notes%20length%20at%20edit%20cursor.lua",
+        "sha256": "0kccx5v1lgl3600x3g5y9bi65h3fwchjdjckfgx780198w0xf7z8"
       }
     ]
   },
@@ -14714,6 +14488,411 @@
       }
     ]
   },
+  "X-Raym_4 Mono channels switcher.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_4 Mono channels switcher.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/c1385350aae502ce811e404193dbd8cb976b0e78/JSFX/X-Raym_4%20Mono%20channels%20switcher.jsfx",
+        "sha256": "1y3653fjb4z2hcl14hvbpppiwhmxxixr18rwzcnz296dqm02iyfq"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_4 Mono channels switcher.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/c1385350aae502ce811e404193dbd8cb976b0e78/JSFX/X-Raym_4%20Mono%20channels%20switcher.jsfx",
+        "sha256": "1y3653fjb4z2hcl14hvbpppiwhmxxixr18rwzcnz296dqm02iyfq"
+      }
+    ]
+  },
+  "X-Raym_4 Stereo channels switcher.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_4 Stereo channels switcher.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/5b6dd274131779260f471ed081fea221a8d5f7bb/JSFX/X-Raym_4%20Stereo%20channels%20switcher.jsfx",
+        "sha256": "162bw3pxhairm8l40lwzv6jsvwmbkfrhimr4s6nzvxxclb3va3az"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_4 Stereo channels switcher.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/5b6dd274131779260f471ed081fea221a8d5f7bb/JSFX/X-Raym_4%20Stereo%20channels%20switcher.jsfx",
+        "sha256": "162bw3pxhairm8l40lwzv6jsvwmbkfrhimr4s6nzvxxclb3va3az"
+      }
+    ]
+  },
+  "X-Raym_Mute on loop.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Mute on loop.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/1cd15a11cf7f0a0129a3dd64ac3fab07dea5f3e4/JSFX/X-Raym_Mute%20on%20loop.jsfx",
+        "sha256": "0j53zyzswykkwjhn90jdvkqflms6rq9vylrcbjc24ljkbni67v9r"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Mute on loop.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/1cd15a11cf7f0a0129a3dd64ac3fab07dea5f3e4/JSFX/X-Raym_Mute%20on%20loop.jsfx",
+        "sha256": "0j53zyzswykkwjhn90jdvkqflms6rq9vylrcbjc24ljkbni67v9r"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Mute on loop.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/be94591adc31265ae600fd7af9fc6f06c8e9cb0e/JSFX/X-Raym_Mute%20on%20loop.jsfx",
+        "sha256": "0fbjnbq3pzcdxadwnvc84x3p0pgzh6ph6w6z8qjmq8fnd9jh2i8d"
+      }
+    ]
+  },
+  "X-Raym_Silence meter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Silence meter.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7720c8c5e083a4d5212f2c423fd77ab08cf8ab1e/JSFX/X-Raym_Silence%20meter.jsfx",
+        "sha256": "1h8sxcawlgjbrcbhav4y0pmf8dr6qfkqq9bnmmw4za1889qjnchq"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Silence meter.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7720c8c5e083a4d5212f2c423fd77ab08cf8ab1e/JSFX/X-Raym_Silence%20meter.jsfx",
+        "sha256": "1h8sxcawlgjbrcbhav4y0pmf8dr6qfkqq9bnmmw4za1889qjnchq"
+      }
+    ]
+  },
+  "X-Raym_Stereo downmixer.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Stereo downmixer.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/8149e7f04f55f143c395a7441d79dd663b5e49ef/JSFX/X-Raym_Stereo%20downmixer.jsfx",
+        "sha256": "0kzmrjkyppllhmwx27w1niw45bcncmj78zm045p03zwrxirbcq0g"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Stereo downmixer.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/8149e7f04f55f143c395a7441d79dd663b5e49ef/JSFX/X-Raym_Stereo%20downmixer.jsfx",
+        "sha256": "0kzmrjkyppllhmwx27w1niw45bcncmj78zm045p03zwrxirbcq0g"
+      }
+    ]
+  },
+  "X-Raym_Tap tempo.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Tap tempo.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/f54b51b9a48a355877e86a7a8a9b18942ea2cfcd/JSFX/X-Raym_Tap%20tempo.jsfx",
+        "sha256": "1kzdzpjk2zwaimsi0jfzk6v5vw6j2733g6726343brgq9lh30k9z"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Tap tempo.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/f54b51b9a48a355877e86a7a8a9b18942ea2cfcd/JSFX/X-Raym_Tap%20tempo.jsfx",
+        "sha256": "1kzdzpjk2zwaimsi0jfzk6v5vw6j2733g6726343brgq9lh30k9z"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Tap tempo.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/5956f8b5d16295f27036e73bb6886311d624852e/JSFX/X-Raym_Tap%20tempo.jsfx",
+        "sha256": "121y5p53laasf1zw7jpr4jcdq1fg2mpwqha4fmsmfg93r45nq26z"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Tap tempo.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/77c8f8957a6429e6938f042c388c0b7c1dcd717c/JSFX/X-Raym_Tap%20tempo.jsfx",
+        "sha256": "14g2mamlwybcwqp29g5zqy7bywx2na7w770mjj6lb6nsdfv4cyn2"
+      }
+    ]
+  },
+  "X-Raym_Tone generator with playstate.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Tone generator with playstate.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/20a51b3bfd8af5fdbf6e216e9dca7a0d50fefbad/JSFX/X-Raym_Tone%20generator%20with%20playstate.jsfx",
+        "sha256": "11fd6275a1cvgzaymxiv94dswz3yq2h8x8z2cw45yy2r5czc0qdv"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Tone generator with playstate.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/20a51b3bfd8af5fdbf6e216e9dca7a0d50fefbad/JSFX/X-Raym_Tone%20generator%20with%20playstate.jsfx",
+        "sha256": "11fd6275a1cvgzaymxiv94dswz3yq2h8x8z2cw45yy2r5czc0qdv"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Tone generator with playstate.jsfx",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/0079fde8cf6d435c23b08984a30dc686b2601a38/JSFX/X-Raym_Tone%20generator%20with%20playstate.jsfx",
+        "sha256": "0pw11vvzmdkqv5bgxci6y1ipz96szlvdd4sfrqsx4x397j5m4rx3"
+      }
+    ]
+  },
+  "X-Raym_Export first selected MIDI item as CSound file.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_Export first selected MIDI item as CSound file.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/82c7e41abea5eff7553e42cec0905e264a512b23/MIDI/X-Raym_Export%20first%20selected%20MIDI%20item%20as%20CSound%20file.lua",
+        "sha256": "1acjbxzkc92q6xybjdpcg4wqk1dh3n656almhrl3gjn4xd82p706"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_Export first selected MIDI item as CSound file.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/82c7e41abea5eff7553e42cec0905e264a512b23/MIDI/X-Raym_Export%20first%20selected%20MIDI%20item%20as%20CSound%20file.lua",
+        "sha256": "1acjbxzkc92q6xybjdpcg4wqk1dh3n656almhrl3gjn4xd82p706"
+      }
+    ]
+  },
+  "X-Raym_Insert MIDI note in selected items active take.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_Insert MIDI note in selected items active take.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/469157ee86cf38d29a9306e62d1dbcae6149857c/MIDI/X-Raym_Insert%20MIDI%20note%20in%20selected%20items%20active%20take.lua",
+        "sha256": "1rw49dvhvji327dh2pic3k7adr0wyqxy95hb45bscya02y0rp08y"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_Insert MIDI note in selected items active take.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/469157ee86cf38d29a9306e62d1dbcae6149857c/MIDI/X-Raym_Insert%20MIDI%20note%20in%20selected%20items%20active%20take.lua",
+        "sha256": "1rw49dvhvji327dh2pic3k7adr0wyqxy95hb45bscya02y0rp08y"
+      }
+    ]
+  },
+  "X-Raym_MIDI Lyrics karaoke viewer for Ultrastar_GUI.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_MIDI Lyrics karaoke viewer for Ultrastar_GUI.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/dba0fd8789d5ef38cfcd06959c5f605897bee58a/MIDI/X-Raym_MIDI%20Lyrics%20karaoke%20viewer%20for%20Ultrastar_GUI.lua",
+        "sha256": "1pvv9lbqw20l7whrhy9ai13axjm8m8ngvz32fk8yniw0dqvkzv5b"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_MIDI Lyrics karaoke viewer for Ultrastar_GUI.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/dba0fd8789d5ef38cfcd06959c5f605897bee58a/MIDI/X-Raym_MIDI%20Lyrics%20karaoke%20viewer%20for%20Ultrastar_GUI.lua",
+        "sha256": "1pvv9lbqw20l7whrhy9ai13axjm8m8ngvz32fk8yniw0dqvkzv5b"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_MIDI Lyrics karaoke viewer for Ultrastar_GUI.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/a9237d1a5656f07c89f6392ed7c88d038cc5623e/MIDI/X-Raym_MIDI%20Lyrics%20karaoke%20viewer%20for%20Ultrastar_GUI.lua",
+        "sha256": "0b56195g0h2wyn1kkn32j9cpmw7wjg4q96jgplnbmdzj2v2rpla6"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_MIDI Lyrics karaoke viewer for Ultrastar_GUI.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/c59852d20c1e20b6ebc07ee861d866e67ffa41ad/MIDI/X-Raym_MIDI%20Lyrics%20karaoke%20viewer%20for%20Ultrastar_GUI.lua",
+        "sha256": "014wnram63y5a18i5sqdjpnmwvr9xk3ac6wwdp8wzzxmrdpa3gl4"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_MIDI Lyrics karaoke viewer for Ultrastar_GUI.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/14993001aacd20ece2a4b348c03b2763f08891ff/MIDI/X-Raym_MIDI%20Lyrics%20karaoke%20viewer%20for%20Ultrastar_GUI.lua",
+        "sha256": "1pll1jxln2rnimw7drklf7c9640sf64krcw8x9arawzy2ak0rx0j"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_MIDI Lyrics karaoke viewer for Ultrastar_GUI.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/d20b8ffb3637dd7287497478253c8090e0831a55/MIDI/X-Raym_MIDI%20Lyrics%20karaoke%20viewer%20for%20Ultrastar_GUI.lua",
+        "sha256": "18294wn5dzkvb7hwdnia80gblnkjcvvdxrymk77zdlbjfg1l3kf5"
+      }
+    ]
+  },
+  "X-Raym_Remove selected items MIDI CC events lanes where all events are equal to 0.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_Remove selected items MIDI CC events lanes where all events are equal to 0.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/MIDI/X-Raym_Remove%20selected%20items%20MIDI%20CC%20events%20lanes%20where%20all%20events%20are%20equal%20to%200.lua",
+        "sha256": "1ias0xbvhk12wg7fsg3msb7yz8xarymnj5hlvh0zipkanw00andk"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_Remove selected items MIDI CC events lanes where all events are equal to 0.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/MIDI/X-Raym_Remove%20selected%20items%20MIDI%20CC%20events%20lanes%20where%20all%20events%20are%20equal%20to%200.lua",
+        "sha256": "1ias0xbvhk12wg7fsg3msb7yz8xarymnj5hlvh0zipkanw00andk"
+      }
+    ]
+  },
+  "X-Raym_Open most recent project.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Open most recent project.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b91497047d10dcc2f3b51265f38a2a85a4be82c1/Project/X-Raym_Open%20most%20recent%20project.lua",
+        "sha256": "0q9nim2z7dskwqc3h5vlrxg57ddni9ii5vrc8vr7pjw8yl28rlhf"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Open most recent project.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b91497047d10dcc2f3b51265f38a2a85a4be82c1/Project/X-Raym_Open%20most%20recent%20project.lua",
+        "sha256": "0q9nim2z7dskwqc3h5vlrxg57ddni9ii5vrc8vr7pjw8yl28rlhf"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Open most recent project.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/488aaffa809b0150eacd8f77975a007d8db97192/Project/X-Raym_Open%20most%20recent%20project.lua",
+        "sha256": "16zardgr6db16s0xy0nwyxzrfmmz1f3nbxj8qjbdmwicd6wjsp1a"
+      }
+    ]
+  },
+  "X-Raym_Save all open project tabs.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Save all open project tabs.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69f87ac77ef38871823be9125f7970106be16634/Project/X-Raym_Save%20all%20open%20project%20tabs.lua",
+        "sha256": "0239yxgsq0cxjkfy34ybiabnza0rsynhf2095bga5ds07cfcdgkv"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Save all open project tabs.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69f87ac77ef38871823be9125f7970106be16634/Project/X-Raym_Save%20all%20open%20project%20tabs.lua",
+        "sha256": "0239yxgsq0cxjkfy34ybiabnza0rsynhf2095bga5ds07cfcdgkv"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Save all open project tabs.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/edc3ea7566f66a00f5f152b9cccd55d6acb648a5/Project/X-Raym_Save%20all%20open%20project%20tabs.lua",
+        "sha256": "0j8w2inczgj18bl8jfizbkh56nvgx8ghcq9m37sr1ddrglsbxx31"
+      }
+    ]
+  },
+  "X-Raym_Save project and keep only X backups.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Save project and keep only X backups.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Project/X-Raym_Save%20project%20and%20keep%20only%20X%20backups.lua",
+        "sha256": "1kgj95pxcak42iibfm07ibsk1ni6vc2ipwb3dx3aqp7zq02bkrk8"
+      }
+    ],
+    "1.0.7": [
+      {
+        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Save project and keep only X backups.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Project/X-Raym_Save%20project%20and%20keep%20only%20X%20backups.lua",
+        "sha256": "1kgj95pxcak42iibfm07ibsk1ni6vc2ipwb3dx3aqp7zq02bkrk8"
+      }
+    ],
+    "1.0.6": [
+      {
+        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Save project and keep only X backups.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/5eb49edd36499ee4fbb64690f200bc9fb24de8ab/Project/X-Raym_Save%20project%20and%20keep%20only%20X%20backups.lua",
+        "sha256": "0v51icgnnkag3ygzpdrrnziv7dvfd6nbnr2wadfk9kgqlcjymbp9"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Save project and keep only X backups.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/e3c6555252c1419d3f1c56ba3de01dce4ef8d6b8/Project/X-Raym_Save%20project%20and%20keep%20only%20X%20backups.lua",
+        "sha256": "0hd2mxmj9y5qggqaw64whd43a9vxhxwpn4bwv3l8pwkga31qsqv6"
+      }
+    ]
+  },
+  "X-Raym_Parent script of preset script_template.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/README.md",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/18e73ae3da1cef940cbf5b2f4c164025b3cebc0e/Templates/Script%20Preset/README.md",
+        "sha256": "04f536myqim14jwzd5r2k4sg8ss2cfsrzbrym4kv4imdryz4rqky"
+      },
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Parent script of preset script_template.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/18e73ae3da1cef940cbf5b2f4c164025b3cebc0e/Templates/Script%20Preset/X-Raym_Parent%20script%20of%20preset%20script_template.lua",
+        "sha256": "1vxhcpzb4i36ccrkcgsf13zbaimp5dd3xh7md06i5lc6r2l28s1z"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/README.md",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/18e73ae3da1cef940cbf5b2f4c164025b3cebc0e/Templates/Script%20Preset/README.md",
+        "sha256": "04f536myqim14jwzd5r2k4sg8ss2cfsrzbrym4kv4imdryz4rqky"
+      },
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Parent script of preset script_template.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/18e73ae3da1cef940cbf5b2f4c164025b3cebc0e/Templates/Script%20Preset/X-Raym_Parent%20script%20of%20preset%20script_template.lua",
+        "sha256": "1vxhcpzb4i36ccrkcgsf13zbaimp5dd3xh7md06i5lc6r2l28s1z"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/README.md",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/66212d7b5eeb1c11e49ea2933a3bb66c50830e44/Templates/Script%20Preset/README.md",
+        "sha256": "1p85z709h9dmkmrab6mknv2dx71haqks6qs4jvp7im6dnjpkd418"
+      },
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Parent script of preset script_template.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/66212d7b5eeb1c11e49ea2933a3bb66c50830e44/Templates/Script%20Preset/X-Raym_Parent%20script%20of%20preset%20script_template.lua",
+        "sha256": "1rgkjpdkib33qfvc0hi9vbc7nsb70df1irph3nnnkqbc4p0i7d8m"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/README.md",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/50cddb66627de940b116122cbacec876139ba967/Templates/Script%20Preset/README.md",
+        "sha256": "1p85z709h9dmkmrab6mknv2dx71haqks6qs4jvp7im6dnjpkd418"
+      },
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Parent script of preset script_template.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/50cddb66627de940b116122cbacec876139ba967/Templates/Script%20Preset/X-Raym_Parent%20script%20of%20preset%20script_template.lua",
+        "sha256": "0d8a0vz2rl9hjj7dqypcbwjsbs6agvkzlg6inx2l579x6ac9wcjm"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/README.md",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/73fb1b6025a4fc9cd9ac7a4f56ff5fdf6a5e1191/Templates/Script%20Preset/README.md",
+        "sha256": "1p85z709h9dmkmrab6mknv2dx71haqks6qs4jvp7im6dnjpkd418"
+      },
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Parent script of preset script_template.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/73fb1b6025a4fc9cd9ac7a4f56ff5fdf6a5e1191/Templates/Script%20Preset/X-Raym_Parent%20script%20of%20preset%20script_template.lua",
+        "sha256": "04qc9ssyr456g6n5j9kg299lwvh2ipak430sjwvgppgqb7qk1y5p"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/README.md",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/eef3980d2eaa2edca044f6d00a57784ea6cd4863/Templates/Script%20Preset/README.md",
+        "sha256": "1p85z709h9dmkmrab6mknv2dx71haqks6qs4jvp7im6dnjpkd418"
+      },
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Parent script of preset script_template.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/eef3980d2eaa2edca044f6d00a57784ea6cd4863/Templates/Script%20Preset/X-Raym_Parent%20script%20of%20preset%20script_template.lua",
+        "sha256": "0dg0crhbwnxrqy5wqbbqikaf7287wwbyz21hqklj0h3vp51sp6px"
+      }
+    ]
+  },
+  "X-Raym_Preset script_template.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Preset script_template.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/94a22f1ca5531ae3dd35a2dfe6b9069de1e3c89e/Templates/Script%20Preset/X-Raym_Preset%20script_template.lua",
+        "sha256": "0c8490ca28dlz715nxfbdypfhkk8ca7jnrk4dc7sf8s1h2fqjy4n"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Preset script_template.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/94a22f1ca5531ae3dd35a2dfe6b9069de1e3c89e/Templates/Script%20Preset/X-Raym_Preset%20script_template.lua",
+        "sha256": "0c8490ca28dlz715nxfbdypfhkk8ca7jnrk4dc7sf8s1h2fqjy4n"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Templates/Script Preset/X-Raym_Preset script_template.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/eef3980d2eaa2edca044f6d00a57784ea6cd4863/Templates/Script%20Preset/X-Raym_Preset%20script_template.lua",
+        "sha256": "06qdmxcrasbnpqnlzb0vaxh6ws4bv259zq37c775h3q21j11hhbv"
+      }
+    ]
+  },
   "X-Raym_Convert Lyrics track items notes for dedicated web browser interface.lua": {
     "latest": [
       {
@@ -14950,354 +15129,162 @@
       }
     ]
   },
-  "X-Raym_Display color of selected tracks items and takes in the console.eel": {
+  "X-Raym_Focus arrange view.lua": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Display color of selected tracks items and takes in the console.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Display%20color%20of%20selected%20tracks%20items%20and%20takes%20in%20the%20console.eel",
-        "sha256": "06795rmrxf4zw67bzs6ni4m41n2rcd8x3q6qrq6s333mk5k4qxiz"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Focus arrange view.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Media%20Explorer/X-Raym_Focus%20arrange%20view.lua",
+        "sha256": "0pybyniq4cr0zqv48gbvw70kxc9ihpck7arg58zwmwxxy1j3g2d8"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Display color of selected tracks items and takes in the console.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Display%20color%20of%20selected%20tracks%20items%20and%20takes%20in%20the%20console.eel",
-        "sha256": "06795rmrxf4zw67bzs6ni4m41n2rcd8x3q6qrq6s333mk5k4qxiz"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Focus arrange view.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Media%20Explorer/X-Raym_Focus%20arrange%20view.lua",
+        "sha256": "0pybyniq4cr0zqv48gbvw70kxc9ihpck7arg58zwmwxxy1j3g2d8"
       }
     ]
   },
-  "X-Raym_Select items with same color as mouse context (or first selected item) on selected tracks.lua": {
+  "X-Raym_Play-Stop arrange view from media explorer context.lua": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Select items with same color as mouse context (or first selected item) on selected tracks.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Select%20items%20with%20same%20color%20as%20mouse%20context%20(or%20first%20selected%20item)%20on%20selected%20tracks.lua",
-        "sha256": "1rikk12n4bkijb507vizlkb0wzgnb9h51b8105bbn3zgz1w2cc2b"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Select items with same color as mouse context (or first selected item) on selected tracks.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Select%20items%20with%20same%20color%20as%20mouse%20context%20(or%20first%20selected%20item)%20on%20selected%20tracks.lua",
-        "sha256": "1rikk12n4bkijb507vizlkb0wzgnb9h51b8105bbn3zgz1w2cc2b"
-      }
-    ]
-  },
-  "X-Raym_Set selected takes or items color from their visible color.eel": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected takes or items color from their visible color.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20takes%20or%20items%20color%20from%20their%20visible%20color.eel",
-        "sha256": "1vjprpiwixzzcqzmr160cfjbd971d7pz3hajv6njhq61jhyfaqlv"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected takes or items color from their visible color.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20takes%20or%20items%20color%20from%20their%20visible%20color.eel",
-        "sha256": "1vjprpiwixzzcqzmr160cfjbd971d7pz3hajv6njhq61jhyfaqlv"
-      }
-    ]
-  },
-  "X-Raym_Set selected tracks and takes color from HEX value.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks and takes color from HEX value.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20tracks%20and%20takes%20color%20from%20HEX%20value.lua",
-        "sha256": "18xi8kjq67bv1r1fxpg2zkgg2prdp2hrph0f7wk74960piv3yiaf"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks and takes color from HEX value.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20tracks%20and%20takes%20color%20from%20HEX%20value.lua",
-        "sha256": "18xi8kjq67bv1r1fxpg2zkgg2prdp2hrph0f7wk74960piv3yiaf"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks and takes color from HEX value.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/d7f55cedb426b45a5ff8aa9c1099f606960a84be/Color/X-Raym_Set%20selected%20tracks%20and%20takes%20color%20from%20HEX%20value.lua",
-        "sha256": "1x1dc0lx0d56gbpvi2qm83dyr6y91w877njipnv63xki54a22g1i"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks and takes color from HEX value.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/05876b1a4b12a54eadf98e1a05d7875071de7dde/Color/X-Raym_Set%20selected%20tracks%20and%20takes%20color%20from%20HEX%20value.lua",
-        "sha256": "06wqh2sbz79a09x1yghmwd6ish1ckhjlf5gfxsvpx44jkr6fnd7i"
-      }
-    ]
-  },
-  "X-Raym_Set selected tracks and takes color.eel": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks and takes color.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20tracks%20and%20takes%20color.eel",
-        "sha256": "0gsn2liqqldgxw7ydwgplggjjcd67h9pxxl05al2cklmyd5jpwl3"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks and takes color.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20tracks%20and%20takes%20color.eel",
-        "sha256": "0gsn2liqqldgxw7ydwgplggjjcd67h9pxxl05al2cklmyd5jpwl3"
-      }
-    ]
-  },
-  "X-Raym_Set selected tracks items and takes color from mouse context.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks items and takes color from mouse context.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20tracks%20items%20and%20takes%20color%20from%20mouse%20context.lua",
-        "sha256": "0fyizmvkkx9qrbn93zjj381bbz167kbv7zicsgs7mja85krav50j"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Color/X-Raym_Set selected tracks items and takes color from mouse context.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Color/X-Raym_Set%20selected%20tracks%20items%20and%20takes%20color%20from%20mouse%20context.lua",
-        "sha256": "0fyizmvkkx9qrbn93zjj381bbz167kbv7zicsgs7mja85krav50j"
-      }
-    ]
-  },
-  "X-Raym_Export first selected MIDI item as CSound file.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_Export first selected MIDI item as CSound file.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/82c7e41abea5eff7553e42cec0905e264a512b23/MIDI/X-Raym_Export%20first%20selected%20MIDI%20item%20as%20CSound%20file.lua",
-        "sha256": "1acjbxzkc92q6xybjdpcg4wqk1dh3n656almhrl3gjn4xd82p706"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_Export first selected MIDI item as CSound file.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/82c7e41abea5eff7553e42cec0905e264a512b23/MIDI/X-Raym_Export%20first%20selected%20MIDI%20item%20as%20CSound%20file.lua",
-        "sha256": "1acjbxzkc92q6xybjdpcg4wqk1dh3n656almhrl3gjn4xd82p706"
-      }
-    ]
-  },
-  "X-Raym_Insert MIDI note in selected items active take.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_Insert MIDI note in selected items active take.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/469157ee86cf38d29a9306e62d1dbcae6149857c/MIDI/X-Raym_Insert%20MIDI%20note%20in%20selected%20items%20active%20take.lua",
-        "sha256": "1rw49dvhvji327dh2pic3k7adr0wyqxy95hb45bscya02y0rp08y"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_Insert MIDI note in selected items active take.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/469157ee86cf38d29a9306e62d1dbcae6149857c/MIDI/X-Raym_Insert%20MIDI%20note%20in%20selected%20items%20active%20take.lua",
-        "sha256": "1rw49dvhvji327dh2pic3k7adr0wyqxy95hb45bscya02y0rp08y"
-      }
-    ]
-  },
-  "X-Raym_MIDI Lyrics karaoke viewer for Ultrastar_GUI.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_MIDI Lyrics karaoke viewer for Ultrastar_GUI.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/dba0fd8789d5ef38cfcd06959c5f605897bee58a/MIDI/X-Raym_MIDI%20Lyrics%20karaoke%20viewer%20for%20Ultrastar_GUI.lua",
-        "sha256": "1pvv9lbqw20l7whrhy9ai13axjm8m8ngvz32fk8yniw0dqvkzv5b"
-      }
-    ],
-    "1.0.4": [
-      {
-        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_MIDI Lyrics karaoke viewer for Ultrastar_GUI.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/dba0fd8789d5ef38cfcd06959c5f605897bee58a/MIDI/X-Raym_MIDI%20Lyrics%20karaoke%20viewer%20for%20Ultrastar_GUI.lua",
-        "sha256": "1pvv9lbqw20l7whrhy9ai13axjm8m8ngvz32fk8yniw0dqvkzv5b"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Play-Stop arrange view from media explorer context.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Media%20Explorer/X-Raym_Play-Stop%20arrange%20view%20from%20media%20explorer%20context.lua",
+        "sha256": "0mx0h49gqx356ib9dh7bv8nidn196dfra5g87w1cmigrdzc5l46n"
       }
     ],
     "1.0.3": [
       {
-        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_MIDI Lyrics karaoke viewer for Ultrastar_GUI.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/a9237d1a5656f07c89f6392ed7c88d038cc5623e/MIDI/X-Raym_MIDI%20Lyrics%20karaoke%20viewer%20for%20Ultrastar_GUI.lua",
-        "sha256": "0b56195g0h2wyn1kkn32j9cpmw7wjg4q96jgplnbmdzj2v2rpla6"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Play-Stop arrange view from media explorer context.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Media%20Explorer/X-Raym_Play-Stop%20arrange%20view%20from%20media%20explorer%20context.lua",
+        "sha256": "0mx0h49gqx356ib9dh7bv8nidn196dfra5g87w1cmigrdzc5l46n"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Play-Stop arrange view from media explorer context.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/86faa07438234450d3b9127d279bf9671f73b8f6/Media%20Explorer/X-Raym_Play-Stop%20arrange%20view%20from%20media%20explorer%20context.lua",
+        "sha256": "16fx41l2d4kxrn2qq2l1jqx20yv65n2ji5glfxhwpqbkp9vc46cn"
+      }
+    ]
+  },
+  "X-Raym_Preview media explorer and play-stop project arrange view simultaneously.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Preview media explorer and play-stop project arrange view simultaneously.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Preview%20media%20explorer%20and%20play-stop%20project%20arrange%20view%20simultaneously.lua",
+        "sha256": "1h5rbn7gw652im68rmbi453wy8alh4hkk28aa7s3avsc6dkr46br"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Preview media explorer and play-stop project arrange view simultaneously.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Preview%20media%20explorer%20and%20play-stop%20project%20arrange%20view%20simultaneously.lua",
+        "sha256": "1h5rbn7gw652im68rmbi453wy8alh4hkk28aa7s3avsc6dkr46br"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Preview media explorer and play-stop project arrange view simultaneously.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Media%20Explorer/X-Raym_Preview%20media%20explorer%20and%20play-stop%20project%20arrange%20view%20simultaneously.lua",
+        "sha256": "0zr63bv6mfdza872xx00ii4gvfkh9l2ra92di0gzxccwy5vvpwjk"
+      }
+    ]
+  },
+  "X-Raym_Reset media explorer volume to 0dB.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Reset media explorer volume to 0dB.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Reset%20media%20explorer%20volume%20to%200dB.lua",
+        "sha256": "1ry4d01y66b4zn5z55sbl3hhq53jvs5z2p284vvby3xj4s9rsq6p"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Reset media explorer volume to 0dB.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Reset%20media%20explorer%20volume%20to%200dB.lua",
+        "sha256": "1ry4d01y66b4zn5z55sbl3hhq53jvs5z2p284vvby3xj4s9rsq6p"
       }
     ],
     "1.0.2": [
       {
-        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_MIDI Lyrics karaoke viewer for Ultrastar_GUI.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/c59852d20c1e20b6ebc07ee861d866e67ffa41ad/MIDI/X-Raym_MIDI%20Lyrics%20karaoke%20viewer%20for%20Ultrastar_GUI.lua",
-        "sha256": "014wnram63y5a18i5sqdjpnmwvr9xk3ac6wwdp8wzzxmrdpa3gl4"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Reset media explorer volume to 0dB.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Media%20Explorer/X-Raym_Reset%20media%20explorer%20volume%20to%200dB.lua",
+        "sha256": "0v331b225zdnmvpj3l5iqx8av830mg6nydfrly77cr5db60zjbgr"
       }
     ],
     "1.0.1": [
       {
-        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_MIDI Lyrics karaoke viewer for Ultrastar_GUI.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/14993001aacd20ece2a4b348c03b2763f08891ff/MIDI/X-Raym_MIDI%20Lyrics%20karaoke%20viewer%20for%20Ultrastar_GUI.lua",
-        "sha256": "1pll1jxln2rnimw7drklf7c9640sf64krcw8x9arawzy2ak0rx0j"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Reset media explorer volume to 0dB.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/0edf0bf5dcc86a201913e358457e78aad8698fad/Media%20Explorer/X-Raym_Reset%20media%20explorer%20volume%20to%200dB.lua",
+        "sha256": "06gklmzc618a9wm7qj3yi6zsjmh71v0rqxxqws54snmzhybpy9kg"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_MIDI Lyrics karaoke viewer for Ultrastar_GUI.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/d20b8ffb3637dd7287497478253c8090e0831a55/MIDI/X-Raym_MIDI%20Lyrics%20karaoke%20viewer%20for%20Ultrastar_GUI.lua",
-        "sha256": "18294wn5dzkvb7hwdnia80gblnkjcvvdxrymk77zdlbjfg1l3kf5"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Reset media explorer volume to 0dB.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b99773dca5409328484dfed644cd4da45bab4a37/Media%20Explorer/X-Raym_Reset%20media%20explorer%20volume%20to%200dB.lua",
+        "sha256": "09r55b3crgg63y61ij4limv05y94da5v20qbf1y94mrbl8hm2n03"
       }
     ]
   },
-  "X-Raym_Remove selected items MIDI CC events lanes where all events are equal to 0.lua": {
+  "X-Raym_Set media explorer volume down a bit.lua": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_Remove selected items MIDI CC events lanes where all events are equal to 0.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/MIDI/X-Raym_Remove%20selected%20items%20MIDI%20CC%20events%20lanes%20where%20all%20events%20are%20equal%20to%200.lua",
-        "sha256": "1ias0xbvhk12wg7fsg3msb7yz8xarymnj5hlvh0zipkanw00andk"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume down a bit.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20down%20a%20bit.lua",
+        "sha256": "1d8xqr4db3kw0d96a73gqm2f2zx75gfp3py44lgppd9s25syx0mi"
       }
     ],
-    "1.0": [
+    "1.0.2": [
       {
-        "path": "Scripts/X-Raym Scripts/MIDI/X-Raym_Remove selected items MIDI CC events lanes where all events are equal to 0.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/MIDI/X-Raym_Remove%20selected%20items%20MIDI%20CC%20events%20lanes%20where%20all%20events%20are%20equal%20to%200.lua",
-        "sha256": "1ias0xbvhk12wg7fsg3msb7yz8xarymnj5hlvh0zipkanw00andk"
-      }
-    ]
-  },
-  "X-Raym_Copy visible armed envelope of last touched track and paste to selected tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Copy visible armed envelope of last touched track and paste to selected tracks.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Envelopes/Across%20Tracks/X-Raym_Copy%20visible%20armed%20envelope%20of%20last%20touched%20track%20and%20paste%20to%20selected%20tracks.lua",
-        "sha256": "1rlmcnfsw8qs8xwiqm44l4zanslfwbbv4g4mc63ywg1cbaliq2xd"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Copy visible armed envelope of last touched track and paste to selected tracks.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Envelopes/Across%20Tracks/X-Raym_Copy%20visible%20armed%20envelope%20of%20last%20touched%20track%20and%20paste%20to%20selected%20tracks.lua",
-        "sha256": "1rlmcnfsw8qs8xwiqm44l4zanslfwbbv4g4mc63ywg1cbaliq2xd"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Copy visible armed envelope of last touched track and paste to selected tracks.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fa81bae94b5d5760cde4b76eca42774381f470d3/Envelopes/Across%20Tracks/X-Raym_Copy%20visible%20armed%20envelope%20of%20last%20touched%20track%20and%20paste%20to%20selected%20tracks.lua",
-        "sha256": "0nhz57161s2ikk101apr3y22wadlldvvm4z69fqd1q7p09crcxm5"
-      }
-    ]
-  },
-  "X-Raym_Copy visible armed envelope points in time selection of last touched track and insert in selected tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Copy visible armed envelope points in time selection of last touched track and insert in selected tracks.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Envelopes/Across%20Tracks/X-Raym_Copy%20visible%20armed%20envelope%20points%20in%20time%20selection%20of%20last%20touched%20track%20and%20insert%20in%20selected%20tracks.lua",
-        "sha256": "12bvnrddlqq2yjxak0dwp9nis8pfshad3zygy4lj9mnwff4ac6wq"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume down a bit.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20down%20a%20bit.lua",
+        "sha256": "1d8xqr4db3kw0d96a73gqm2f2zx75gfp3py44lgppd9s25syx0mi"
       }
     ],
     "1.0.1": [
       {
-        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Copy visible armed envelope points in time selection of last touched track and insert in selected tracks.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Envelopes/Across%20Tracks/X-Raym_Copy%20visible%20armed%20envelope%20points%20in%20time%20selection%20of%20last%20touched%20track%20and%20insert%20in%20selected%20tracks.lua",
-        "sha256": "12bvnrddlqq2yjxak0dwp9nis8pfshad3zygy4lj9mnwff4ac6wq"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume down a bit.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20down%20a%20bit.lua",
+        "sha256": "0fspxagi0f93xcvs8vdp3a7vla73dx6jv5bv7zzir12zd0j2y2i6"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Copy visible armed envelope points in time selection of last touched track and insert in selected tracks.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fa81bae94b5d5760cde4b76eca42774381f470d3/Envelopes/Across%20Tracks/X-Raym_Copy%20visible%20armed%20envelope%20points%20in%20time%20selection%20of%20last%20touched%20track%20and%20insert%20in%20selected%20tracks.lua",
-        "sha256": "1ysfm5zsd74nxql5b4fhrbbly0y50jjnqd35z5ynpdh9miw6bywx"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume down a bit.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b99773dca5409328484dfed644cd4da45bab4a37/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20down%20a%20bit.lua",
+        "sha256": "1wisjhi6mff7qgkdbfzj26hyw4fikjbvqg4caisw8h9gafyag921"
       }
     ]
   },
-  "X-Raym_Merge visible armed envelopes of selected track to selected tracks VCA like).lua": {
+  "X-Raym_Set media explorer volume up a bit.lua": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Merge visible armed envelopes of selected track to selected tracks VCA like).lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/145811b445e303c3a8d432d8fb29171c13e46ac2/Envelopes/Across%20Tracks/X-Raym_Merge%20visible%20armed%20envelopes%20of%20selected%20track%20to%20selected%20tracks%20VCA%20like).lua",
-        "sha256": "0qn7kl0skswk0gl724rlq6fhc928aav6laf57h1qs0q17b8x2dxl"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume up a bit.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20up%20a%20bit.lua",
+        "sha256": "1hm7c7srqvapb6p1krla7q86j77r1rviklrk5xkq74swmpg6i9jw"
       }
     ],
-    "1.1.1": [
+    "1.0.2": [
       {
-        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Merge visible armed envelopes of selected track to selected tracks VCA like).lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/145811b445e303c3a8d432d8fb29171c13e46ac2/Envelopes/Across%20Tracks/X-Raym_Merge%20visible%20armed%20envelopes%20of%20selected%20track%20to%20selected%20tracks%20VCA%20like).lua",
-        "sha256": "0qn7kl0skswk0gl724rlq6fhc928aav6laf57h1qs0q17b8x2dxl"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume up a bit.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7a76b2c45414d26cb9bcedea8f3eedb12e933f12/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20up%20a%20bit.lua",
+        "sha256": "1hm7c7srqvapb6p1krla7q86j77r1rviklrk5xkq74swmpg6i9jw"
       }
     ],
-    "1.1": [
+    "1.0.1": [
       {
-        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Merge visible armed envelopes of selected track to selected tracks VCA like).lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Envelopes/Across%20Tracks/X-Raym_Merge%20visible%20armed%20envelopes%20of%20selected%20track%20to%20selected%20tracks%20VCA%20like).lua",
-        "sha256": "10gn6vmynd8354p91v1clsmfvfms49a8dnc6ai7bx58im4hd6kjy"
-      }
-    ]
-  },
-  "X-Raym_Functions - console debug messages.eel": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Functions/X-Raym_Functions - console debug messages.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Functions/X-Raym_Functions%20-%20console%20debug%20messages.eel",
-        "sha256": "1rn8l29yfdyv2yv0asyx1z6jfb1rynyy3hzszkppm55d03x1nnds"
-      }
-    ],
-    "1.7": [
-      {
-        "path": "Scripts/X-Raym Scripts/Functions/X-Raym_Functions - console debug messages.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Functions/X-Raym_Functions%20-%20console%20debug%20messages.eel",
-        "sha256": "1rn8l29yfdyv2yv0asyx1z6jfb1rynyy3hzszkppm55d03x1nnds"
-      }
-    ]
-  },
-  "X-Raym_Perform action until keyboard shortcut released_functions.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Functions/X-Raym_Perform action until keyboard shortcut released_functions.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/9a06b279bcbfe9afbefd12597c4b75482401ea37/Functions/X-Raym_Perform%20action%20until%20keyboard%20shortcut%20released_functions.lua",
-        "sha256": "15481fll2prx27dma6kygx7f8l4qxbii0m4k0ihzzhn3h1rmgzrw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Functions/X-Raym_Perform action until keyboard shortcut released_functions.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/9a06b279bcbfe9afbefd12597c4b75482401ea37/Functions/X-Raym_Perform%20action%20until%20keyboard%20shortcut%20released_functions.lua",
-        "sha256": "15481fll2prx27dma6kygx7f8l4qxbii0m4k0ihzzhn3h1rmgzrw"
-      }
-    ]
-  },
-  "spk77_class.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Functions/spk77_class.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Functions/spk77_class.lua",
-        "sha256": "04lx84gc51zj958ni67fr34nqsxqbsnjw5w3zxhrkqgzklgd3lxm"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume up a bit.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20up%20a%20bit.lua",
+        "sha256": "12nd075qb7gbmiwya76m94c003766ps179yh78a2rwdh2izrqrab"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/X-Raym Scripts/Functions/spk77_class.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Functions/spk77_class.lua",
-        "sha256": "04lx84gc51zj958ni67fr34nqsxqbsnjw5w3zxhrkqgzklgd3lxm"
-      }
-    ]
-  },
-  "spk77_slider class.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Functions/spk77_slider class.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/bd5f5f3d1dfc49e6e9756fd7a4b086794abb6e78/Functions/spk77_slider%20class.lua",
-        "sha256": "0gapqw8wpgwlaz6p589a9wadyqvz8gnbml7hhqh0rcz07hq8p4r9"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Functions/spk77_slider class.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/bd5f5f3d1dfc49e6e9756fd7a4b086794abb6e78/Functions/spk77_slider%20class.lua",
-        "sha256": "0gapqw8wpgwlaz6p589a9wadyqvz8gnbml7hhqh0rcz07hq8p4r9"
-      }
-    ]
-  },
-  "spk_slider_class.eel": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Functions/spk_slider_class.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Functions/spk_slider_class.eel",
-        "sha256": "10pzv93dvl3yh04z3dk06rbvalj3z91hacmjkh5dd8mx98936nzd"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Functions/spk_slider_class.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Functions/spk_slider_class.eel",
-        "sha256": "10pzv93dvl3yh04z3dk06rbvalj3z91hacmjkh5dd8mx98936nzd"
+        "path": "Scripts/X-Raym Scripts/Media Explorer/X-Raym_Set media explorer volume up a bit.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b99773dca5409328484dfed644cd4da45bab4a37/Media%20Explorer/X-Raym_Set%20media%20explorer%20volume%20up%20a%20bit.lua",
+        "sha256": "0gvad9yhdr5w67yh1wx6fnfbgs1d8rfk6lacdcj528hl6ya3j6ww"
       }
     ]
   },
@@ -15397,283 +15384,223 @@
       }
     ]
   },
-  "X-Raym_Delete all tempo markers.eel": {
+  "X-Raym_Export items notes from tracks or items selection as SRT subtitles file.lua": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Delete all tempo markers.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Delete%20all%20tempo%20markers.eel",
-        "sha256": "1y5qm6wgcwrg5p5x9pz31cmlslp3qrzri00lib5faijbslf4y2xr"
+        "path": "Scripts/X-Raym Scripts/Text Items and Item Notes/Subtitles/X-Raym_Export items notes from tracks or items selection as SRT subtitles file.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/2034e0eb6e0e256e082089074042627f13330091/Text%20Items%20and%20Item%20Notes/Subtitles/X-Raym_Export%20items%20notes%20from%20tracks%20or%20items%20selection%20as%20SRT%20subtitles%20file.lua",
+        "sha256": "163q1cc7a4bkcdpp0x4y0sj58zv2vg82n99br1dl8nfndflwiry3"
       }
     ],
-    "1.1": [
+    "2.1": [
       {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Delete all tempo markers.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Delete%20all%20tempo%20markers.eel",
-        "sha256": "1y5qm6wgcwrg5p5x9pz31cmlslp3qrzri00lib5faijbslf4y2xr"
+        "path": "Scripts/X-Raym Scripts/Text Items and Item Notes/Subtitles/X-Raym_Export items notes from tracks or items selection as SRT subtitles file.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/2034e0eb6e0e256e082089074042627f13330091/Text%20Items%20and%20Item%20Notes/Subtitles/X-Raym_Export%20items%20notes%20from%20tracks%20or%20items%20selection%20as%20SRT%20subtitles%20file.lua",
+        "sha256": "163q1cc7a4bkcdpp0x4y0sj58zv2vg82n99br1dl8nfndflwiry3"
       }
     ],
-    "1.0": [
+    "2.0": [
       {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Delete all tempo markers.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/bd5f5f3d1dfc49e6e9756fd7a4b086794abb6e78/Tempo%20and%20Time%20Signature/X-Raym_Delete%20all%20tempo%20markers.eel",
-        "sha256": "0ibkf3pgc56fsbb9g39cwj80cr6h1kqcm6ajhbri8l9yvgncmy0d"
+        "path": "Scripts/X-Raym Scripts/Text Items and Item Notes/Subtitles/X-Raym_Export items notes from tracks or items selection as SRT subtitles file.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/58fd5e25efd34621ae24a3736f737bc7078fe55a/Text%20Items%20and%20Item%20Notes/Subtitles/X-Raym_Export%20items%20notes%20from%20tracks%20or%20items%20selection%20as%20SRT%20subtitles%20file.lua",
+        "sha256": "03nmff4rivcqd0vhmnq5lcrm9766xgkm55d7wnkyix3k7vjli2w6"
       }
     ]
   },
-  "X-Raym_Insert time signature markers from selected items.eel": {
+  "X-Raym_Automatically set edit cursor pos at mouse position if mouse over ruler.lua": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Insert time signature markers from selected items.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Insert%20time%20signature%20markers%20from%20selected%20items.eel",
-        "sha256": "06nz6ba0lpn4p6y9fi9n1f9rfndrnirh707ivhlq6i83h64mm3fh"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Insert time signature markers from selected items.eel",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Insert%20time%20signature%20markers%20from%20selected%20items.eel",
-        "sha256": "06nz6ba0lpn4p6y9fi9n1f9rfndrnirh707ivhlq6i83h64mm3fh"
-      }
-    ]
-  },
-  "X-Raym_Round all tempo markers BPM.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Round all tempo markers BPM.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Round%20all%20tempo%20markers%20BPM.lua",
-        "sha256": "0amz0015m5c0dhrngx23j0sa4fcxak6r8zb703sqc5qbx718fckc"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Round all tempo markers BPM.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Round%20all%20tempo%20markers%20BPM.lua",
-        "sha256": "0amz0015m5c0dhrngx23j0sa4fcxak6r8zb703sqc5qbx718fckc"
-      }
-    ],
-    "0.9": [
-      {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Round all tempo markers BPM.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/41bc65f23073400dd69dd61daa034966ac12bb94/Tempo%20and%20Time%20Signature/X-Raym_Round%20all%20tempo%20markers%20BPM.lua",
-        "sha256": "1zk27y12pwv7khshzcbw5n8yc1c04lxh17d1dc84bspcq99259vn"
-      }
-    ]
-  },
-  "X-Raym_Set selected tempo envelope points value.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Set selected tempo envelope points value.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Set%20selected%20tempo%20envelope%20points%20value.lua",
-        "sha256": "01c25nqa10fs3drix389l4c8fjgwg8h1a0sy5mi88akrj86vxq10"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Set selected tempo envelope points value.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69e766a7098f62f3b320f2e23a6328613e95b8d2/Tempo%20and%20Time%20Signature/X-Raym_Set%20selected%20tempo%20envelope%20points%20value.lua",
-        "sha256": "01c25nqa10fs3drix389l4c8fjgwg8h1a0sy5mi88akrj86vxq10"
-      }
-    ]
-  },
-  "X-Raym_Tap tempo.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Tap tempo.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Tempo%20and%20Time%20Signature/X-Raym_Tap%20tempo.lua",
-        "sha256": "0fzanss2rv2skxcibxx7f67lvl5vmmx4pwz86cpb5lpvgz4ms5g4"
-      }
-    ],
-    "1.1.2": [
-      {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Tap tempo.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Tempo%20and%20Time%20Signature/X-Raym_Tap%20tempo.lua",
-        "sha256": "0fzanss2rv2skxcibxx7f67lvl5vmmx4pwz86cpb5lpvgz4ms5g4"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/X-Raym_Tap tempo.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/05876b1a4b12a54eadf98e1a05d7875071de7dde/Tempo%20and%20Time%20Signature/X-Raym_Tap%20tempo.lua",
-        "sha256": "0w9c98wycyqvkkbh076v63bbc698bgmn7j7g5qjya90lqkyfll3c"
-      }
-    ]
-  },
-  "michaeltonight_daxliniere_X-Raym_Display notes length at edit cursor.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/michaeltonight_daxliniere_X-Raym_Display notes length at edit cursor.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Tempo%20and%20Time%20Signature/michaeltonight_daxliniere_X-Raym_Display%20notes%20length%20at%20edit%20cursor.lua",
-        "sha256": "0kccx5v1lgl3600x3g5y9bi65h3fwchjdjckfgx780198w0xf7z8"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Tempo and Time Signature/michaeltonight_daxliniere_X-Raym_Display notes length at edit cursor.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Tempo%20and%20Time%20Signature/michaeltonight_daxliniere_X-Raym_Display%20notes%20length%20at%20edit%20cursor.lua",
-        "sha256": "0kccx5v1lgl3600x3g5y9bi65h3fwchjdjckfgx780198w0xf7z8"
-      }
-    ]
-  },
-  "X-Raym_4 Mono channels switcher.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_4 Mono channels switcher.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/c1385350aae502ce811e404193dbd8cb976b0e78/JSFX/X-Raym_4%20Mono%20channels%20switcher.jsfx",
-        "sha256": "1y3653fjb4z2hcl14hvbpppiwhmxxixr18rwzcnz296dqm02iyfq"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_4 Mono channels switcher.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/c1385350aae502ce811e404193dbd8cb976b0e78/JSFX/X-Raym_4%20Mono%20channels%20switcher.jsfx",
-        "sha256": "1y3653fjb4z2hcl14hvbpppiwhmxxixr18rwzcnz296dqm02iyfq"
-      }
-    ]
-  },
-  "X-Raym_4 Stereo channels switcher.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_4 Stereo channels switcher.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/5b6dd274131779260f471ed081fea221a8d5f7bb/JSFX/X-Raym_4%20Stereo%20channels%20switcher.jsfx",
-        "sha256": "162bw3pxhairm8l40lwzv6jsvwmbkfrhimr4s6nzvxxclb3va3az"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_4 Stereo channels switcher.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/5b6dd274131779260f471ed081fea221a8d5f7bb/JSFX/X-Raym_4%20Stereo%20channels%20switcher.jsfx",
-        "sha256": "162bw3pxhairm8l40lwzv6jsvwmbkfrhimr4s6nzvxxclb3va3az"
-      }
-    ]
-  },
-  "X-Raym_Mute on loop.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Mute on loop.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/1cd15a11cf7f0a0129a3dd64ac3fab07dea5f3e4/JSFX/X-Raym_Mute%20on%20loop.jsfx",
-        "sha256": "0j53zyzswykkwjhn90jdvkqflms6rq9vylrcbjc24ljkbni67v9r"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Automatically set edit cursor pos at mouse position if mouse over ruler.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/efdf392bc68c491b99fd4f85d767b11b79040d11/Cursor/X-Raym_Automatically%20set%20edit%20cursor%20pos%20at%20mouse%20position%20if%20mouse%20over%20ruler.lua",
+        "sha256": "0bj51szvlppbqh5r67625ggkzfhmqrzrmnrd066c5h5h3hbm1q6n"
       }
     ],
     "1.0.1": [
       {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Mute on loop.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/1cd15a11cf7f0a0129a3dd64ac3fab07dea5f3e4/JSFX/X-Raym_Mute%20on%20loop.jsfx",
-        "sha256": "0j53zyzswykkwjhn90jdvkqflms6rq9vylrcbjc24ljkbni67v9r"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Automatically set edit cursor pos at mouse position if mouse over ruler.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/efdf392bc68c491b99fd4f85d767b11b79040d11/Cursor/X-Raym_Automatically%20set%20edit%20cursor%20pos%20at%20mouse%20position%20if%20mouse%20over%20ruler.lua",
+        "sha256": "0bj51szvlppbqh5r67625ggkzfhmqrzrmnrd066c5h5h3hbm1q6n"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Mute on loop.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/be94591adc31265ae600fd7af9fc6f06c8e9cb0e/JSFX/X-Raym_Mute%20on%20loop.jsfx",
-        "sha256": "0fbjnbq3pzcdxadwnvc84x3p0pgzh6ph6w6z8qjmq8fnd9jh2i8d"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Automatically set edit cursor pos at mouse position if mouse over ruler.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Cursor/X-Raym_Automatically%20set%20edit%20cursor%20pos%20at%20mouse%20position%20if%20mouse%20over%20ruler.lua",
+        "sha256": "0pgb2lj87qw09ycd5v9sskdvlib7lbl52wjzql7b4m1z9gw09ma9"
       }
     ]
   },
-  "X-Raym_Silence meter.jsfx": {
+  "X-Raym_Go to start of next region.lua": {
     "latest": [
       {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Silence meter.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7720c8c5e083a4d5212f2c423fd77ab08cf8ab1e/JSFX/X-Raym_Silence%20meter.jsfx",
-        "sha256": "1h8sxcawlgjbrcbhav4y0pmf8dr6qfkqq9bnmmw4za1889qjnchq"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Go to start of next region.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Go%20to%20start%20of%20next%20region.lua",
+        "sha256": "07s31asmcm6hv3naklfalcvm641d6ibh9rw2mmkk5k5s6725bp4q"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Silence meter.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/7720c8c5e083a4d5212f2c423fd77ab08cf8ab1e/JSFX/X-Raym_Silence%20meter.jsfx",
-        "sha256": "1h8sxcawlgjbrcbhav4y0pmf8dr6qfkqq9bnmmw4za1889qjnchq"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Go to start of next region.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Go%20to%20start%20of%20next%20region.lua",
+        "sha256": "07s31asmcm6hv3naklfalcvm641d6ibh9rw2mmkk5k5s6725bp4q"
       }
     ]
   },
-  "X-Raym_Stereo downmixer.jsfx": {
+  "X-Raym_Go to start of previous region (strict).lua": {
     "latest": [
       {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Stereo downmixer.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/8149e7f04f55f143c395a7441d79dd663b5e49ef/JSFX/X-Raym_Stereo%20downmixer.jsfx",
-        "sha256": "0kzmrjkyppllhmwx27w1niw45bcncmj78zm045p03zwrxirbcq0g"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Go to start of previous region (strict).lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Go%20to%20start%20of%20previous%20region%20(strict).lua",
+        "sha256": "1xy9r1zpvzkpyfpl2ays4pph824nbdrn2yam9191jxq5yk1j7amm"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Stereo downmixer.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/8149e7f04f55f143c395a7441d79dd663b5e49ef/JSFX/X-Raym_Stereo%20downmixer.jsfx",
-        "sha256": "0kzmrjkyppllhmwx27w1niw45bcncmj78zm045p03zwrxirbcq0g"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Go to start of previous region (strict).lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Go%20to%20start%20of%20previous%20region%20(strict).lua",
+        "sha256": "1xy9r1zpvzkpyfpl2ays4pph824nbdrn2yam9191jxq5yk1j7amm"
       }
     ]
   },
-  "X-Raym_Tap tempo.jsfx": {
+  "X-Raym_Go to start of previous region.lua": {
     "latest": [
       {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Tap tempo.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/f54b51b9a48a355877e86a7a8a9b18942ea2cfcd/JSFX/X-Raym_Tap%20tempo.jsfx",
-        "sha256": "1kzdzpjk2zwaimsi0jfzk6v5vw6j2733g6726343brgq9lh30k9z"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Tap tempo.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/f54b51b9a48a355877e86a7a8a9b18942ea2cfcd/JSFX/X-Raym_Tap%20tempo.jsfx",
-        "sha256": "1kzdzpjk2zwaimsi0jfzk6v5vw6j2733g6726343brgq9lh30k9z"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Tap tempo.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/5956f8b5d16295f27036e73bb6886311d624852e/JSFX/X-Raym_Tap%20tempo.jsfx",
-        "sha256": "121y5p53laasf1zw7jpr4jcdq1fg2mpwqha4fmsmfg93r45nq26z"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Go to start of previous region.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Go%20to%20start%20of%20previous%20region.lua",
+        "sha256": "0bjn6h647sz03ibhh61in7sy3lv5l5y8pga6ywma8v709wl2kqyq"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Tap tempo.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/77c8f8957a6429e6938f042c388c0b7c1dcd717c/JSFX/X-Raym_Tap%20tempo.jsfx",
-        "sha256": "14g2mamlwybcwqp29g5zqy7bywx2na7w770mjj6lb6nsdfv4cyn2"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Go to start of previous region.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Go%20to%20start%20of%20previous%20region.lua",
+        "sha256": "0bjn6h647sz03ibhh61in7sy3lv5l5y8pga6ywma8v709wl2kqyq"
       }
     ]
   },
-  "X-Raym_Tone generator with playstate.jsfx": {
+  "X-Raym_Move edit cursor to end of region under play or edit cursor and play.eel": {
     "latest": [
       {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Tone generator with playstate.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/20a51b3bfd8af5fdbf6e216e9dca7a0d50fefbad/JSFX/X-Raym_Tone%20generator%20with%20playstate.jsfx",
-        "sha256": "11fd6275a1cvgzaymxiv94dswz3yq2h8x8z2cw45yy2r5czc0qdv"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to end of region under play or edit cursor and play.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20end%20of%20region%20under%20play%20or%20edit%20cursor%20and%20play.eel",
+        "sha256": "1jqw9l7h3jn2k5gn0jc9np0nq9n6ywqxxg90h2hjzr4401hjrav2"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to end of region under play or edit cursor and play.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20end%20of%20region%20under%20play%20or%20edit%20cursor%20and%20play.eel",
+        "sha256": "1jqw9l7h3jn2k5gn0jc9np0nq9n6ywqxxg90h2hjzr4401hjrav2"
+      }
+    ]
+  },
+  "X-Raym_Move edit cursor to end of region under play or edit cursor.eel": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to end of region under play or edit cursor.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20end%20of%20region%20under%20play%20or%20edit%20cursor.eel",
+        "sha256": "06psnrvg29yfk6fydc17wjz0xv6g41z481xnic4nxyy4z518gjni"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to end of region under play or edit cursor.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20end%20of%20region%20under%20play%20or%20edit%20cursor.eel",
+        "sha256": "06psnrvg29yfk6fydc17wjz0xv6g41z481xnic4nxyy4z518gjni"
+      }
+    ]
+  },
+  "X-Raym_Move edit cursor to first selected item snap offset.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to first selected item snap offset.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20first%20selected%20item%20snap%20offset.lua",
+        "sha256": "1x1005b9999l9b2qhmk4zgslkxz331n1ipyz5v10wwvxmabq1n8f"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to first selected item snap offset.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20first%20selected%20item%20snap%20offset.lua",
+        "sha256": "1x1005b9999l9b2qhmk4zgslkxz331n1ipyz5v10wwvxmabq1n8f"
+      }
+    ]
+  },
+  "X-Raym_Move edit cursor to next frame.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to next frame.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/014e522512e3b6738fa32ee13461b6b6265dcfb0/Cursor/X-Raym_Move%20edit%20cursor%20to%20next%20frame.lua",
+        "sha256": "1vwy9z7wznj3cq352132jbiwx68bxravwndxkkgfg7bx3yk0icnz"
       }
     ],
     "1.1": [
       {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Tone generator with playstate.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/20a51b3bfd8af5fdbf6e216e9dca7a0d50fefbad/JSFX/X-Raym_Tone%20generator%20with%20playstate.jsfx",
-        "sha256": "11fd6275a1cvgzaymxiv94dswz3yq2h8x8z2cw45yy2r5czc0qdv"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to next frame.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/014e522512e3b6738fa32ee13461b6b6265dcfb0/Cursor/X-Raym_Move%20edit%20cursor%20to%20next%20frame.lua",
+        "sha256": "1vwy9z7wznj3cq352132jbiwx68bxravwndxkkgfg7bx3yk0icnz"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/X-Raym Scripts/JSFX/X-Raym_Tone generator with playstate.jsfx",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/0079fde8cf6d435c23b08984a30dc686b2601a38/JSFX/X-Raym_Tone%20generator%20with%20playstate.jsfx",
-        "sha256": "0pw11vvzmdkqv5bgxci6y1ipz96szlvdd4sfrqsx4x397j5m4rx3"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to next frame.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20next%20frame.lua",
+        "sha256": "0qfskjgsh7g3z5bsbi3982xs0jx02vc1my5zrpd2z5kgj2qmlfxk"
       }
     ]
   },
-  "X-Raym_snooks_Explode selected subprojects to child tracks.lua": {
+  "X-Raym_Move edit cursor to previous frame.lua": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Subprojects/X-Raym_snooks_Explode selected subprojects to child tracks.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Subprojects/X-Raym_snooks_Explode%20selected%20subprojects%20to%20child%20tracks.lua",
-        "sha256": "02xkhan1irgqc9993j3k4xl72vz1w5qvnxxdlia7kvx4246xsgcd"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to previous frame.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/014e522512e3b6738fa32ee13461b6b6265dcfb0/Cursor/X-Raym_Move%20edit%20cursor%20to%20previous%20frame.lua",
+        "sha256": "12vdlml82acgk5aaqgpvcyn8slh0yay47xli0a677rcqqa9w3pwj"
       }
     ],
-    "1.0.1": [
+    "1.1": [
       {
-        "path": "Scripts/X-Raym Scripts/Subprojects/X-Raym_snooks_Explode selected subprojects to child tracks.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Subprojects/X-Raym_snooks_Explode%20selected%20subprojects%20to%20child%20tracks.lua",
-        "sha256": "02xkhan1irgqc9993j3k4xl72vz1w5qvnxxdlia7kvx4246xsgcd"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to previous frame.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/014e522512e3b6738fa32ee13461b6b6265dcfb0/Cursor/X-Raym_Move%20edit%20cursor%20to%20previous%20frame.lua",
+        "sha256": "12vdlml82acgk5aaqgpvcyn8slh0yay47xli0a677rcqqa9w3pwj"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/X-Raym Scripts/Subprojects/X-Raym_snooks_Explode selected subprojects to child tracks.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/0b46f609903de3d50a8ccd421fa8bd754d9ed2a1/Subprojects/X-Raym_snooks_Explode%20selected%20subprojects%20to%20child%20tracks.lua",
-        "sha256": "15bkj7nmb5sqydwavkz6jpn6ny05jl1d71kh5q7crmg0nqjj2fq6"
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to previous frame.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20previous%20frame.lua",
+        "sha256": "0svvddrcvrag38lpz9iladvldf7sh2v1lr0r2vlj7axnx3x76yv6"
+      }
+    ]
+  },
+  "X-Raym_Move edit cursor to start of region under play or edit cursor and play.eel": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to start of region under play or edit cursor and play.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20start%20of%20region%20under%20play%20or%20edit%20cursor%20and%20play.eel",
+        "sha256": "0gbn0zpmm1cslrbr0gqxdlz3dhnvpwwp7wrx3mn2xm6mm2hlw1gr"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to start of region under play or edit cursor and play.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20start%20of%20region%20under%20play%20or%20edit%20cursor%20and%20play.eel",
+        "sha256": "0gbn0zpmm1cslrbr0gqxdlz3dhnvpwwp7wrx3mn2xm6mm2hlw1gr"
+      }
+    ]
+  },
+  "X-Raym_Move edit cursor to start of region under play or edit cursor.eel": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to start of region under play or edit cursor.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20start%20of%20region%20under%20play%20or%20edit%20cursor.eel",
+        "sha256": "18q0i3v7lw7i4gnmh4sl3pszlfczg9siphlp1jfaxrkz9d748904"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Cursor/X-Raym_Move edit cursor to start of region under play or edit cursor.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Cursor/X-Raym_Move%20edit%20cursor%20to%20start%20of%20region%20under%20play%20or%20edit%20cursor.eel",
+        "sha256": "18q0i3v7lw7i4gnmh4sl3pszlfczg9siphlp1jfaxrkz9d748904"
       }
     ]
   },
@@ -15730,79 +15657,191 @@
       }
     ]
   },
-  "X-Raym_Open most recent project.lua": {
+  "X-Raym_Functions - console debug messages.eel": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Open most recent project.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b91497047d10dcc2f3b51265f38a2a85a4be82c1/Project/X-Raym_Open%20most%20recent%20project.lua",
-        "sha256": "0q9nim2z7dskwqc3h5vlrxg57ddni9ii5vrc8vr7pjw8yl28rlhf"
+        "path": "Scripts/X-Raym Scripts/Functions/X-Raym_Functions - console debug messages.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Functions/X-Raym_Functions%20-%20console%20debug%20messages.eel",
+        "sha256": "1rn8l29yfdyv2yv0asyx1z6jfb1rynyy3hzszkppm55d03x1nnds"
       }
     ],
-    "1.0.1": [
+    "1.7": [
       {
-        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Open most recent project.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b91497047d10dcc2f3b51265f38a2a85a4be82c1/Project/X-Raym_Open%20most%20recent%20project.lua",
-        "sha256": "0q9nim2z7dskwqc3h5vlrxg57ddni9ii5vrc8vr7pjw8yl28rlhf"
+        "path": "Scripts/X-Raym Scripts/Functions/X-Raym_Functions - console debug messages.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Functions/X-Raym_Functions%20-%20console%20debug%20messages.eel",
+        "sha256": "1rn8l29yfdyv2yv0asyx1z6jfb1rynyy3hzszkppm55d03x1nnds"
+      }
+    ]
+  },
+  "X-Raym_Perform action until keyboard shortcut released_functions.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Functions/X-Raym_Perform action until keyboard shortcut released_functions.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/9a06b279bcbfe9afbefd12597c4b75482401ea37/Functions/X-Raym_Perform%20action%20until%20keyboard%20shortcut%20released_functions.lua",
+        "sha256": "15481fll2prx27dma6kygx7f8l4qxbii0m4k0ihzzhn3h1rmgzrw"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/X-Raym Scripts/Functions/X-Raym_Perform action until keyboard shortcut released_functions.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/9a06b279bcbfe9afbefd12597c4b75482401ea37/Functions/X-Raym_Perform%20action%20until%20keyboard%20shortcut%20released_functions.lua",
+        "sha256": "15481fll2prx27dma6kygx7f8l4qxbii0m4k0ihzzhn3h1rmgzrw"
+      }
+    ]
+  },
+  "spk77_class.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Functions/spk77_class.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Functions/spk77_class.lua",
+        "sha256": "04lx84gc51zj958ni67fr34nqsxqbsnjw5w3zxhrkqgzklgd3lxm"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Open most recent project.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/488aaffa809b0150eacd8f77975a007d8db97192/Project/X-Raym_Open%20most%20recent%20project.lua",
-        "sha256": "16zardgr6db16s0xy0nwyxzrfmmz1f3nbxj8qjbdmwicd6wjsp1a"
+        "path": "Scripts/X-Raym Scripts/Functions/spk77_class.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Functions/spk77_class.lua",
+        "sha256": "04lx84gc51zj958ni67fr34nqsxqbsnjw5w3zxhrkqgzklgd3lxm"
       }
     ]
   },
-  "X-Raym_Save all open project tabs.lua": {
+  "spk77_slider class.lua": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Save all open project tabs.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69f87ac77ef38871823be9125f7970106be16634/Project/X-Raym_Save%20all%20open%20project%20tabs.lua",
-        "sha256": "0239yxgsq0cxjkfy34ybiabnza0rsynhf2095bga5ds07cfcdgkv"
+        "path": "Scripts/X-Raym Scripts/Functions/spk77_slider class.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/bd5f5f3d1dfc49e6e9756fd7a4b086794abb6e78/Functions/spk77_slider%20class.lua",
+        "sha256": "0gapqw8wpgwlaz6p589a9wadyqvz8gnbml7hhqh0rcz07hq8p4r9"
       }
     ],
-    "1.0.1": [
+    "0.1": [
       {
-        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Save all open project tabs.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/69f87ac77ef38871823be9125f7970106be16634/Project/X-Raym_Save%20all%20open%20project%20tabs.lua",
-        "sha256": "0239yxgsq0cxjkfy34ybiabnza0rsynhf2095bga5ds07cfcdgkv"
+        "path": "Scripts/X-Raym Scripts/Functions/spk77_slider class.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/bd5f5f3d1dfc49e6e9756fd7a4b086794abb6e78/Functions/spk77_slider%20class.lua",
+        "sha256": "0gapqw8wpgwlaz6p589a9wadyqvz8gnbml7hhqh0rcz07hq8p4r9"
+      }
+    ]
+  },
+  "spk_slider_class.eel": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Functions/spk_slider_class.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Functions/spk_slider_class.eel",
+        "sha256": "10pzv93dvl3yh04z3dk06rbvalj3z91hacmjkh5dd8mx98936nzd"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Save all open project tabs.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/edc3ea7566f66a00f5f152b9cccd55d6acb648a5/Project/X-Raym_Save%20all%20open%20project%20tabs.lua",
-        "sha256": "0j8w2inczgj18bl8jfizbkh56nvgx8ghcq9m37sr1ddrglsbxx31"
+        "path": "Scripts/X-Raym Scripts/Functions/spk_slider_class.eel",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Functions/spk_slider_class.eel",
+        "sha256": "10pzv93dvl3yh04z3dk06rbvalj3z91hacmjkh5dd8mx98936nzd"
       }
     ]
   },
-  "X-Raym_Save project and keep only X backups.lua": {
+  "X-Raym_snooks_Explode selected subprojects to child tracks.lua": {
     "latest": [
       {
-        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Save project and keep only X backups.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Project/X-Raym_Save%20project%20and%20keep%20only%20X%20backups.lua",
-        "sha256": "1kgj95pxcak42iibfm07ibsk1ni6vc2ipwb3dx3aqp7zq02bkrk8"
+        "path": "Scripts/X-Raym Scripts/Subprojects/X-Raym_snooks_Explode selected subprojects to child tracks.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Subprojects/X-Raym_snooks_Explode%20selected%20subprojects%20to%20child%20tracks.lua",
+        "sha256": "02xkhan1irgqc9993j3k4xl72vz1w5qvnxxdlia7kvx4246xsgcd"
       }
     ],
-    "1.0.7": [
+    "1.0.1": [
       {
-        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Save project and keep only X backups.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Project/X-Raym_Save%20project%20and%20keep%20only%20X%20backups.lua",
-        "sha256": "1kgj95pxcak42iibfm07ibsk1ni6vc2ipwb3dx3aqp7zq02bkrk8"
+        "path": "Scripts/X-Raym Scripts/Subprojects/X-Raym_snooks_Explode selected subprojects to child tracks.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fe19da18bed7c81b32eca95926a6ede6ffc950fb/Subprojects/X-Raym_snooks_Explode%20selected%20subprojects%20to%20child%20tracks.lua",
+        "sha256": "02xkhan1irgqc9993j3k4xl72vz1w5qvnxxdlia7kvx4246xsgcd"
       }
     ],
-    "1.0.6": [
+    "1.0": [
       {
-        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Save project and keep only X backups.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/5eb49edd36499ee4fbb64690f200bc9fb24de8ab/Project/X-Raym_Save%20project%20and%20keep%20only%20X%20backups.lua",
-        "sha256": "0v51icgnnkag3ygzpdrrnziv7dvfd6nbnr2wadfk9kgqlcjymbp9"
+        "path": "Scripts/X-Raym Scripts/Subprojects/X-Raym_snooks_Explode selected subprojects to child tracks.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/0b46f609903de3d50a8ccd421fa8bd754d9ed2a1/Subprojects/X-Raym_snooks_Explode%20selected%20subprojects%20to%20child%20tracks.lua",
+        "sha256": "15bkj7nmb5sqydwavkz6jpn6ny05jl1d71kh5q7crmg0nqjj2fq6"
+      }
+    ]
+  },
+  "X-Raym_Copy visible armed envelope of last touched track and paste to selected tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Copy visible armed envelope of last touched track and paste to selected tracks.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Envelopes/Across%20Tracks/X-Raym_Copy%20visible%20armed%20envelope%20of%20last%20touched%20track%20and%20paste%20to%20selected%20tracks.lua",
+        "sha256": "1rlmcnfsw8qs8xwiqm44l4zanslfwbbv4g4mc63ywg1cbaliq2xd"
       }
     ],
-    "1.0.4": [
+    "1.2": [
       {
-        "path": "Scripts/X-Raym Scripts/Project/X-Raym_Save project and keep only X backups.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/e3c6555252c1419d3f1c56ba3de01dce4ef8d6b8/Project/X-Raym_Save%20project%20and%20keep%20only%20X%20backups.lua",
-        "sha256": "0hd2mxmj9y5qggqaw64whd43a9vxhxwpn4bwv3l8pwkga31qsqv6"
+        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Copy visible armed envelope of last touched track and paste to selected tracks.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Envelopes/Across%20Tracks/X-Raym_Copy%20visible%20armed%20envelope%20of%20last%20touched%20track%20and%20paste%20to%20selected%20tracks.lua",
+        "sha256": "1rlmcnfsw8qs8xwiqm44l4zanslfwbbv4g4mc63ywg1cbaliq2xd"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Copy visible armed envelope of last touched track and paste to selected tracks.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fa81bae94b5d5760cde4b76eca42774381f470d3/Envelopes/Across%20Tracks/X-Raym_Copy%20visible%20armed%20envelope%20of%20last%20touched%20track%20and%20paste%20to%20selected%20tracks.lua",
+        "sha256": "0nhz57161s2ikk101apr3y22wadlldvvm4z69fqd1q7p09crcxm5"
+      }
+    ]
+  },
+  "X-Raym_Copy visible armed envelope points in time selection of last touched track and insert in selected tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Copy visible armed envelope points in time selection of last touched track and insert in selected tracks.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Envelopes/Across%20Tracks/X-Raym_Copy%20visible%20armed%20envelope%20points%20in%20time%20selection%20of%20last%20touched%20track%20and%20insert%20in%20selected%20tracks.lua",
+        "sha256": "12bvnrddlqq2yjxak0dwp9nis8pfshad3zygy4lj9mnwff4ac6wq"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Copy visible armed envelope points in time selection of last touched track and insert in selected tracks.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Envelopes/Across%20Tracks/X-Raym_Copy%20visible%20armed%20envelope%20points%20in%20time%20selection%20of%20last%20touched%20track%20and%20insert%20in%20selected%20tracks.lua",
+        "sha256": "12bvnrddlqq2yjxak0dwp9nis8pfshad3zygy4lj9mnwff4ac6wq"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Copy visible armed envelope points in time selection of last touched track and insert in selected tracks.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/fa81bae94b5d5760cde4b76eca42774381f470d3/Envelopes/Across%20Tracks/X-Raym_Copy%20visible%20armed%20envelope%20points%20in%20time%20selection%20of%20last%20touched%20track%20and%20insert%20in%20selected%20tracks.lua",
+        "sha256": "1ysfm5zsd74nxql5b4fhrbbly0y50jjnqd35z5ynpdh9miw6bywx"
+      }
+    ]
+  },
+  "X-Raym_Merge visible armed envelopes of selected track to selected tracks VCA like).lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Merge visible armed envelopes of selected track to selected tracks VCA like).lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/145811b445e303c3a8d432d8fb29171c13e46ac2/Envelopes/Across%20Tracks/X-Raym_Merge%20visible%20armed%20envelopes%20of%20selected%20track%20to%20selected%20tracks%20VCA%20like).lua",
+        "sha256": "0qn7kl0skswk0gl724rlq6fhc928aav6laf57h1qs0q17b8x2dxl"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Merge visible armed envelopes of selected track to selected tracks VCA like).lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/145811b445e303c3a8d432d8fb29171c13e46ac2/Envelopes/Across%20Tracks/X-Raym_Merge%20visible%20armed%20envelopes%20of%20selected%20track%20to%20selected%20tracks%20VCA%20like).lua",
+        "sha256": "0qn7kl0skswk0gl724rlq6fhc928aav6laf57h1qs0q17b8x2dxl"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/X-Raym Scripts/Envelopes/Across Tracks/X-Raym_Merge visible armed envelopes of selected track to selected tracks VCA like).lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Envelopes/Across%20Tracks/X-Raym_Merge%20visible%20armed%20envelopes%20of%20selected%20track%20to%20selected%20tracks%20VCA%20like).lua",
+        "sha256": "10gn6vmynd8354p91v1clsmfvfms49a8dnc6ai7bx58im4hd6kjy"
+      }
+    ]
+  },
+  "X-Raym_Set selected tracks razor edit area to time selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/X-Raym Scripts/Razor Edit/X-Raym_Set selected tracks razor edit area to time selection.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/ec8805d7b2352a01c2cbcf5c385ab4805361bcb2/Razor%20Edit/X-Raym_Set%20selected%20tracks%20razor%20edit%20area%20to%20time%20selection.lua",
+        "sha256": "1cqxm2f7q3qj7ymc5rbkhwc5zhyqjzx8z9pmpza7y7kmzx1xh19a"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/X-Raym Scripts/Razor Edit/X-Raym_Set selected tracks razor edit area to time selection.lua",
+        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/ec8805d7b2352a01c2cbcf5c385ab4805361bcb2/Razor%20Edit/X-Raym_Set%20selected%20tracks%20razor%20edit%20area%20to%20time%20selection.lua",
+        "sha256": "1cqxm2f7q3qj7ymc5rbkhwc5zhyqjzx8z9pmpza7y7kmzx1xh19a"
       }
     ]
   },
@@ -15835,45 +15874,6 @@
         "path": "Scripts/X-Raym Scripts/Envelopes/Automation Items/X-Raym_Select all automation items below length threshold on selected tracks.lua",
         "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/b5a1cae8185f739e631c15ca844ec9a1c6460a13/Envelopes/Automation%20Items/X-Raym_Select%20all%20automation%20items%20below%20length%20threshold%20on%20selected%20tracks.lua",
         "sha256": "1v0wjhibn1zr4g6p38sx7s93z0rgj528yfvp39lhi07qxiy9jmi2"
-      }
-    ]
-  },
-  "X-Raym_Set selected tracks razor edit area to time selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Razor Edit/X-Raym_Set selected tracks razor edit area to time selection.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/ec8805d7b2352a01c2cbcf5c385ab4805361bcb2/Razor%20Edit/X-Raym_Set%20selected%20tracks%20razor%20edit%20area%20to%20time%20selection.lua",
-        "sha256": "1cqxm2f7q3qj7ymc5rbkhwc5zhyqjzx8z9pmpza7y7kmzx1xh19a"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Razor Edit/X-Raym_Set selected tracks razor edit area to time selection.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/ec8805d7b2352a01c2cbcf5c385ab4805361bcb2/Razor%20Edit/X-Raym_Set%20selected%20tracks%20razor%20edit%20area%20to%20time%20selection.lua",
-        "sha256": "1cqxm2f7q3qj7ymc5rbkhwc5zhyqjzx8z9pmpza7y7kmzx1xh19a"
-      }
-    ]
-  },
-  "X-Raym_Export items notes from tracks or items selection as SRT subtitles file.lua": {
-    "latest": [
-      {
-        "path": "Scripts/X-Raym Scripts/Text Items and Item Notes/Subtitles/X-Raym_Export items notes from tracks or items selection as SRT subtitles file.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/2034e0eb6e0e256e082089074042627f13330091/Text%20Items%20and%20Item%20Notes/Subtitles/X-Raym_Export%20items%20notes%20from%20tracks%20or%20items%20selection%20as%20SRT%20subtitles%20file.lua",
-        "sha256": "163q1cc7a4bkcdpp0x4y0sj58zv2vg82n99br1dl8nfndflwiry3"
-      }
-    ],
-    "2.1": [
-      {
-        "path": "Scripts/X-Raym Scripts/Text Items and Item Notes/Subtitles/X-Raym_Export items notes from tracks or items selection as SRT subtitles file.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/2034e0eb6e0e256e082089074042627f13330091/Text%20Items%20and%20Item%20Notes/Subtitles/X-Raym_Export%20items%20notes%20from%20tracks%20or%20items%20selection%20as%20SRT%20subtitles%20file.lua",
-        "sha256": "163q1cc7a4bkcdpp0x4y0sj58zv2vg82n99br1dl8nfndflwiry3"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Scripts/X-Raym Scripts/Text Items and Item Notes/Subtitles/X-Raym_Export items notes from tracks or items selection as SRT subtitles file.lua",
-        "url": "https://github.com/X-Raym/REAPER-ReaScripts/raw/58fd5e25efd34621ae24a3736f737bc7078fe55a/Text%20Items%20and%20Item%20Notes/Subtitles/X-Raym_Export%20items%20notes%20from%20tracks%20or%20items%20selection%20as%20SRT%20subtitles%20file.lua",
-        "sha256": "03nmff4rivcqd0vhmnq5lcrm9766xgkm55d7wnkyix3k7vjli2w6"
       }
     ]
   }

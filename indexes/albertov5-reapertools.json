@@ -1,4 +1,83 @@
 {
+  "CycleGrid.data": {
+    "latest": [
+      {
+        "path": "Data/cycle_grid_down.lua",
+        "url": "https://github.com/AlbertoV5/ReaperTools/raw/2c2caaaaf0081b8d28e8df8c6f9a724069c0852f/CycleGrid/cycle_grid_down.lua",
+        "sha256": "07lckkry334kdvg47dh0kbnkmkqnvanxyjlav9v4khy86f9wwpgp"
+      },
+      {
+        "path": "Data/cycle_grid_up.lua",
+        "url": "https://github.com/AlbertoV5/ReaperTools/raw/2c2caaaaf0081b8d28e8df8c6f9a724069c0852f/CycleGrid/cycle_grid_up.lua",
+        "sha256": "1cbarqazmmdyj614w3n2r3k6q23mjxkmxjhqk08pyg9bl36v41zz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Data/cycle_grid_down.lua",
+        "url": "https://github.com/AlbertoV5/ReaperTools/raw/2c2caaaaf0081b8d28e8df8c6f9a724069c0852f/CycleGrid/cycle_grid_down.lua",
+        "sha256": "07lckkry334kdvg47dh0kbnkmkqnvanxyjlav9v4khy86f9wwpgp"
+      },
+      {
+        "path": "Data/cycle_grid_up.lua",
+        "url": "https://github.com/AlbertoV5/ReaperTools/raw/2c2caaaaf0081b8d28e8df8c6f9a724069c0852f/CycleGrid/cycle_grid_up.lua",
+        "sha256": "1cbarqazmmdyj614w3n2r3k6q23mjxkmxjhqk08pyg9bl36v41zz"
+      }
+    ]
+  },
+  "stoicOSC.data": {
+    "latest": [
+      {
+        "path": "Data/stoicOSC/stoic.reaperOSC",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.ReaperOSC?raw=true",
+        "sha256": "0lrgzvgkm78y93hfyylvxfbf2k3bqna4r2xav5y1c0gcg890zkyw"
+      },
+      {
+        "path": "Data/stoicOSC/stoic.tosc",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.tosc?raw=true",
+        "sha256": "0g1nbxmhd54rwqwlwhil4xsphbf5b680cdav6h3h4lxc3kzm0xw7"
+      },
+      {
+        "path": "Data/stoicOSC/stoic.xml",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.xml?raw=true",
+        "sha256": "06q3s9mfb15kqwylp9qdq65cxc6jkdid3hgp1ggxifkr0g7r675b"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Data/stoicOSC/stoic.reaperOSC",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.ReaperOSC?raw=true",
+        "sha256": "0lrgzvgkm78y93hfyylvxfbf2k3bqna4r2xav5y1c0gcg890zkyw"
+      },
+      {
+        "path": "Data/stoicOSC/stoic.tosc",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.tosc?raw=true",
+        "sha256": "0g1nbxmhd54rwqwlwhil4xsphbf5b680cdav6h3h4lxc3kzm0xw7"
+      },
+      {
+        "path": "Data/stoicOSC/stoic.xml",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.xml?raw=true",
+        "sha256": "06q3s9mfb15kqwylp9qdq65cxc6jkdid3hgp1ggxifkr0g7r675b"
+      }
+    ],
+    "0.9.0": [
+      {
+        "path": "Data/stoicOSC/stoic.reaperOSC",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.ReaperOSC",
+        "sha256": "0ax3fs8bg7v5a7jz5y39hvhgibr4ir09fyj55k1b7n3ykb84afav"
+      },
+      {
+        "path": "Data/stoicOSC/stoic.tosc",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.tosc",
+        "sha256": "0br31s7wc0wgjw031s4b1hzlfdri6lr7d8g7lp27d1vl24gn76aw"
+      },
+      {
+        "path": "Data/stoicOSC/stoic.xml",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.xml",
+        "sha256": "03yi8j8k7hm0187yyw51hc7yffdgxn2nrwzmlpfy4x2s2msa0slk"
+      }
+    ]
+  },
   "liszt.data": {
     "latest": [
       {
@@ -83,85 +162,6 @@
         "path": "Data/liszt-web.py",
         "url": "https://raw.githubusercontent.com/AlbertoV5/tosclib/main/docs/demos/5-reaper-tosclib.py",
         "sha256": "0m6s6nwasn22p1ggw2ka0pbgvnsha1rf42psbz8pkmm43zm19mip"
-      }
-    ]
-  },
-  "CycleGrid.data": {
-    "latest": [
-      {
-        "path": "Data/cycle_grid_down.lua",
-        "url": "https://github.com/AlbertoV5/ReaperTools/raw/2c2caaaaf0081b8d28e8df8c6f9a724069c0852f/CycleGrid/cycle_grid_down.lua",
-        "sha256": "07lckkry334kdvg47dh0kbnkmkqnvanxyjlav9v4khy86f9wwpgp"
-      },
-      {
-        "path": "Data/cycle_grid_up.lua",
-        "url": "https://github.com/AlbertoV5/ReaperTools/raw/2c2caaaaf0081b8d28e8df8c6f9a724069c0852f/CycleGrid/cycle_grid_up.lua",
-        "sha256": "1cbarqazmmdyj614w3n2r3k6q23mjxkmxjhqk08pyg9bl36v41zz"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Data/cycle_grid_down.lua",
-        "url": "https://github.com/AlbertoV5/ReaperTools/raw/2c2caaaaf0081b8d28e8df8c6f9a724069c0852f/CycleGrid/cycle_grid_down.lua",
-        "sha256": "07lckkry334kdvg47dh0kbnkmkqnvanxyjlav9v4khy86f9wwpgp"
-      },
-      {
-        "path": "Data/cycle_grid_up.lua",
-        "url": "https://github.com/AlbertoV5/ReaperTools/raw/2c2caaaaf0081b8d28e8df8c6f9a724069c0852f/CycleGrid/cycle_grid_up.lua",
-        "sha256": "1cbarqazmmdyj614w3n2r3k6q23mjxkmxjhqk08pyg9bl36v41zz"
-      }
-    ]
-  },
-  "stoicOSC.data": {
-    "latest": [
-      {
-        "path": "Data/stoicOSC/stoic.reaperOSC",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.ReaperOSC?raw=true",
-        "sha256": "0lrgzvgkm78y93hfyylvxfbf2k3bqna4r2xav5y1c0gcg890zkyw"
-      },
-      {
-        "path": "Data/stoicOSC/stoic.tosc",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.tosc?raw=true",
-        "sha256": "0g1nbxmhd54rwqwlwhil4xsphbf5b680cdav6h3h4lxc3kzm0xw7"
-      },
-      {
-        "path": "Data/stoicOSC/stoic.xml",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.xml?raw=true",
-        "sha256": "06q3s9mfb15kqwylp9qdq65cxc6jkdid3hgp1ggxifkr0g7r675b"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Data/stoicOSC/stoic.reaperOSC",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.ReaperOSC?raw=true",
-        "sha256": "0lrgzvgkm78y93hfyylvxfbf2k3bqna4r2xav5y1c0gcg890zkyw"
-      },
-      {
-        "path": "Data/stoicOSC/stoic.tosc",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.tosc?raw=true",
-        "sha256": "0g1nbxmhd54rwqwlwhil4xsphbf5b680cdav6h3h4lxc3kzm0xw7"
-      },
-      {
-        "path": "Data/stoicOSC/stoic.xml",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.xml?raw=true",
-        "sha256": "06q3s9mfb15kqwylp9qdq65cxc6jkdid3hgp1ggxifkr0g7r675b"
-      }
-    ],
-    "0.9.0": [
-      {
-        "path": "Data/stoicOSC/stoic.reaperOSC",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.ReaperOSC",
-        "sha256": "0zw1l8zzmq9aw02yfgwrpjpgnv9n9k154abn6f8my48lflsdqgbk"
-      },
-      {
-        "path": "Data/stoicOSC/stoic.tosc",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.tosc",
-        "sha256": "1r5lbnr5yvpy6c43h14pg5hwdklqph5ykgscd8y1gf93scvwincq"
-      },
-      {
-        "path": "Data/stoicOSC/stoic.xml",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.xml",
-        "sha256": "0jwq98csljb9ci3dixarc8bbbk72hx75r86b807ywsm8qd7bc5s4"
       }
     ]
   },

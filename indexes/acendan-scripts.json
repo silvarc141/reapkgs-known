@@ -4381,6 +4381,151 @@
       }
     ]
   },
+  "acendan_Create multichannel render from selected tracks with mono items.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Create multichannel render from selected tracks with mono items.lua",
+        "url": "https://github.com/acendan/reascripts/raw/e4a5ff86d83606c76750b6f668507ecebcc91835/Rendering/acendan_Create%20multichannel%20render%20from%20selected%20tracks%20with%20mono%20items.lua",
+        "sha256": "1nknzbq6asgrj9p2gkhccc1vkny9ynp8zklgmxi9cdlmlywqy6is"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Create multichannel render from selected tracks with mono items.lua",
+        "url": "https://github.com/acendan/reascripts/raw/e4a5ff86d83606c76750b6f668507ecebcc91835/Rendering/acendan_Create%20multichannel%20render%20from%20selected%20tracks%20with%20mono%20items.lua",
+        "sha256": "1nknzbq6asgrj9p2gkhccc1vkny9ynp8zklgmxi9cdlmlywqy6is"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Create multichannel render from selected tracks with mono items.lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Rendering/acendan_Create%20multichannel%20render%20from%20selected%20tracks%20with%20mono%20items.lua",
+        "sha256": "0f4zsdx9bsh44vbsj29kragilvmmrbpg61g930fyqnqj9qpxk5zj"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Create multichannel render from selected tracks with mono items.lua",
+        "url": "https://github.com/acendan/reascripts/raw/e8d57ce1902130f546206ee976ed01198194b9be/Rendering/acendan_Create%20multichannel%20render%20from%20selected%20tracks%20with%20mono%20items.lua",
+        "sha256": "1lg0qmp07a5cg6x0xzg81h57n6hdyaw07zfpsqa0k1xdxx5mp6ci"
+      }
+    ]
+  },
+  "acendan_Load render directory from slot.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 1.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
+        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 2.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
+        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 3.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
+        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 4.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
+        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 1.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
+        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 2.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
+        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 3.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
+        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 4.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
+        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
+      }
+    ]
+  },
+  "acendan_Save render directory to slot.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 1.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
+        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 2.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
+        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 3.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
+        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 4.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
+        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 1.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
+        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 2.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
+        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 3.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
+        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 4.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
+        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
+      }
+    ]
+  },
+  "acendan_Set up SoundMiner iXML metadata markers in project render metadata settings.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Set up SoundMiner iXML metadata markers in project render metadata settings.lua",
+        "url": "https://github.com/acendan/reascripts/raw/2864af50dd834b870ff7e58b196d061f288b6b2f/Rendering/acendan_Set%20up%20SoundMiner%20iXML%20metadata%20markers%20in%20project%20render%20metadata%20settings.lua",
+        "sha256": "0zg8777jlcib8adr26r2w9pg6zxhq2351pdki0sxwqzzbiffirgb"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Set up SoundMiner iXML metadata markers in project render metadata settings.lua",
+        "url": "https://github.com/acendan/reascripts/raw/2864af50dd834b870ff7e58b196d061f288b6b2f/Rendering/acendan_Set%20up%20SoundMiner%20iXML%20metadata%20markers%20in%20project%20render%20metadata%20settings.lua",
+        "sha256": "0zg8777jlcib8adr26r2w9pg6zxhq2351pdki0sxwqzzbiffirgb"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/ACendan Scripts/Rendering/acendan_Set up SoundMiner iXML metadata markers in project render metadata settings.lua",
+        "url": "https://github.com/acendan/reascripts/raw/a3d615565711ec0b9a260b20e985d26c7a8034d0/Rendering/acendan_Set%20up%20SoundMiner%20iXML%20metadata%20markers%20in%20project%20render%20metadata%20settings.lua",
+        "sha256": "1q142abfxccvrh2890jf3nh8b9zc347m11m9zdpci8cj7zy8b29x"
+      }
+    ]
+  },
   "acendan_Clear Saved URL By Track Name.lua": {
     "latest": [
       {
@@ -21566,151 +21711,6 @@
         "path": "Scripts/ACendan Scripts/Razor Edits/acendan_Snap edit cursor to nearest razor edit edge in track under mouse.lua",
         "url": "https://github.com/acendan/reascripts/raw/5f542d4638685af605df0d0a6078f7d3d99c4435/Razor%20Edits/acendan_Snap%20edit%20cursor%20to%20nearest%20razor%20edit%20edge%20in%20track%20under%20mouse.lua",
         "sha256": "1ckixpl1n99xcnyc7bfw8i4naid0wcsfrks9vlk57br7h8s9q70h"
-      }
-    ]
-  },
-  "acendan_Create multichannel render from selected tracks with mono items.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Create multichannel render from selected tracks with mono items.lua",
-        "url": "https://github.com/acendan/reascripts/raw/e4a5ff86d83606c76750b6f668507ecebcc91835/Rendering/acendan_Create%20multichannel%20render%20from%20selected%20tracks%20with%20mono%20items.lua",
-        "sha256": "1nknzbq6asgrj9p2gkhccc1vkny9ynp8zklgmxi9cdlmlywqy6is"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Create multichannel render from selected tracks with mono items.lua",
-        "url": "https://github.com/acendan/reascripts/raw/e4a5ff86d83606c76750b6f668507ecebcc91835/Rendering/acendan_Create%20multichannel%20render%20from%20selected%20tracks%20with%20mono%20items.lua",
-        "sha256": "1nknzbq6asgrj9p2gkhccc1vkny9ynp8zklgmxi9cdlmlywqy6is"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Create multichannel render from selected tracks with mono items.lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Rendering/acendan_Create%20multichannel%20render%20from%20selected%20tracks%20with%20mono%20items.lua",
-        "sha256": "0f4zsdx9bsh44vbsj29kragilvmmrbpg61g930fyqnqj9qpxk5zj"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Create multichannel render from selected tracks with mono items.lua",
-        "url": "https://github.com/acendan/reascripts/raw/e8d57ce1902130f546206ee976ed01198194b9be/Rendering/acendan_Create%20multichannel%20render%20from%20selected%20tracks%20with%20mono%20items.lua",
-        "sha256": "1lg0qmp07a5cg6x0xzg81h57n6hdyaw07zfpsqa0k1xdxx5mp6ci"
-      }
-    ]
-  },
-  "acendan_Load render directory from slot.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 1.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
-        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 2.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
-        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 3.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
-        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 4.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
-        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 1.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
-        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 2.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
-        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 3.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
-        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Load render directory from slot 4.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Load%20render%20directory%20from%20slot.lua",
-        "sha256": "037c68pk7dp11p1a70zirv0ffjsqijby9jgfp4am304mbk3c99hf"
-      }
-    ]
-  },
-  "acendan_Save render directory to slot.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 1.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
-        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 2.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
-        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 3.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
-        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 4.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
-        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 1.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
-        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 2.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
-        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 3.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
-        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Save render directory to slot 4.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3cf624535724fd03b674246487328ca3d872ad60/Rendering/acendan_Save%20render%20directory%20to%20slot.lua",
-        "sha256": "0fma9hrg4l512sddpv7bihrjs6fzh172ndbdcx35rdr097akc775"
-      }
-    ]
-  },
-  "acendan_Set up SoundMiner iXML metadata markers in project render metadata settings.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Set up SoundMiner iXML metadata markers in project render metadata settings.lua",
-        "url": "https://github.com/acendan/reascripts/raw/2864af50dd834b870ff7e58b196d061f288b6b2f/Rendering/acendan_Set%20up%20SoundMiner%20iXML%20metadata%20markers%20in%20project%20render%20metadata%20settings.lua",
-        "sha256": "0zg8777jlcib8adr26r2w9pg6zxhq2351pdki0sxwqzzbiffirgb"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Set up SoundMiner iXML metadata markers in project render metadata settings.lua",
-        "url": "https://github.com/acendan/reascripts/raw/2864af50dd834b870ff7e58b196d061f288b6b2f/Rendering/acendan_Set%20up%20SoundMiner%20iXML%20metadata%20markers%20in%20project%20render%20metadata%20settings.lua",
-        "sha256": "0zg8777jlcib8adr26r2w9pg6zxhq2351pdki0sxwqzzbiffirgb"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/ACendan Scripts/Rendering/acendan_Set up SoundMiner iXML metadata markers in project render metadata settings.lua",
-        "url": "https://github.com/acendan/reascripts/raw/a3d615565711ec0b9a260b20e985d26c7a8034d0/Rendering/acendan_Set%20up%20SoundMiner%20iXML%20metadata%20markers%20in%20project%20render%20metadata%20settings.lua",
-        "sha256": "1q142abfxccvrh2890jf3nh8b9zc347m11m9zdpci8cj7zy8b29x"
       }
     ]
   },

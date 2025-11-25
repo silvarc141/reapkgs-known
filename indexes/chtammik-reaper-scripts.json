@@ -1,4 +1,187 @@
 {
+  "chtammik_Move cursor left by 0.1 seconds.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 0.1 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%200.1%20seconds.eel",
+        "sha256": "1vjz63xsjr0k8d73yi0d8s68blfrijihqccrgq95gjr51dalxa15"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 0.1 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%200.1%20seconds.eel",
+        "sha256": "1vjz63xsjr0k8d73yi0d8s68blfrijihqccrgq95gjr51dalxa15"
+      }
+    ]
+  },
+  "chtammik_Move cursor left by 0.5 seconds.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 0.5 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%200.5%20seconds.eel",
+        "sha256": "1cpb029q1vn0g7l83qqnlpkl2qqjs4hsg9l6iy5w8izdjipzwaj8"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 0.5 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%200.5%20seconds.eel",
+        "sha256": "1cpb029q1vn0g7l83qqnlpkl2qqjs4hsg9l6iy5w8izdjipzwaj8"
+      }
+    ]
+  },
+  "chtammik_Move cursor left by 1 seconds.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 1 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%201%20seconds.eel",
+        "sha256": "078qkg4kxmfbg6kpq448s3cy4mxqkp8cm4vps9ss3xhw5glar2j1"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 1 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%201%20seconds.eel",
+        "sha256": "078qkg4kxmfbg6kpq448s3cy4mxqkp8cm4vps9ss3xhw5glar2j1"
+      }
+    ]
+  },
+  "chtammik_Move cursor left by 10 seconds.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 10 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%2010%20seconds.eel",
+        "sha256": "1q7z6kdm76h8606xjw9yib62ihdiqjwi373vili1cbyd09zbv9zw"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 10 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%2010%20seconds.eel",
+        "sha256": "1q7z6kdm76h8606xjw9yib62ihdiqjwi373vili1cbyd09zbv9zw"
+      }
+    ]
+  },
+  "chtammik_Move cursor left by 5 seconds.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 5 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%205%20seconds.eel",
+        "sha256": "0wnfhn0ddr3h7a9hdacqyf4sghcppypx06bn5s05fr669pjnh1dg"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 5 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%205%20seconds.eel",
+        "sha256": "0wnfhn0ddr3h7a9hdacqyf4sghcppypx06bn5s05fr669pjnh1dg"
+      }
+    ]
+  },
+  "chtammik_Move cursor right by 0.1 seconds.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 0.1 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%200.1%20seconds.eel",
+        "sha256": "0xwgbf32inzsi660kys0gfcs4kp3mxxbkxdjxa2kvh1bjk041c5b"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 0.1 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%200.1%20seconds.eel",
+        "sha256": "0xwgbf32inzsi660kys0gfcs4kp3mxxbkxdjxa2kvh1bjk041c5b"
+      }
+    ]
+  },
+  "chtammik_Move cursor right by 0.5 seconds.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 0.5 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%200.5%20seconds.eel",
+        "sha256": "1iy5mxkp4m9d0rgzrjv5nrl19cbcly60w0i5af4hh88qa7zr9bn7"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 0.5 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%200.5%20seconds.eel",
+        "sha256": "1iy5mxkp4m9d0rgzrjv5nrl19cbcly60w0i5af4hh88qa7zr9bn7"
+      }
+    ]
+  },
+  "chtammik_Move cursor right by 1 seconds.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 1 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Cursor/chtammik_Move%20cursor%20right%20by%201%20seconds.eel",
+        "sha256": "0cq73c55xjab0chw55wqsd5y9v6yn8x4qlzbqj2wkarix88zgm0g"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 1 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Cursor/chtammik_Move%20cursor%20right%20by%201%20seconds.eel",
+        "sha256": "0cq73c55xjab0chw55wqsd5y9v6yn8x4qlzbqj2wkarix88zgm0g"
+      }
+    ]
+  },
+  "chtammik_Move cursor right by 10 seconds.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 10 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%2010%20seconds.eel",
+        "sha256": "0j18jagf6x4rpj6wf6fr3mz8hx28igkxavd940s13mcdx121mx93"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 10 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%2010%20seconds.eel",
+        "sha256": "0j18jagf6x4rpj6wf6fr3mz8hx28igkxavd940s13mcdx121mx93"
+      }
+    ]
+  },
+  "chtammik_Move cursor right by 5 seconds.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 5 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%205%20seconds.eel",
+        "sha256": "023n9s7ggvim0fsz5536q520121izw0lxn91ax1l6q1an6nfgpbs"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 5 seconds.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%205%20seconds.eel",
+        "sha256": "023n9s7ggvim0fsz5536q520121izw0lxn91ax1l6q1an6nfgpbs"
+      }
+    ]
+  },
+  "chtammik_Move cursor right to next item edge on same track.eel": {
+    "latest": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right to next item edge on same track.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Cursor/chtammik_Move%20cursor%20right%20to%20next%20item%20edge%20on%20same%20track.eel",
+        "sha256": "1y9grw6wzkg3niy9b3avf1j8h2dss7n8l9ycmmw3ds4l419dj1di"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right to next item edge on same track.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Cursor/chtammik_Move%20cursor%20right%20to%20next%20item%20edge%20on%20same%20track.eel",
+        "sha256": "1y9grw6wzkg3niy9b3avf1j8h2dss7n8l9ycmmw3ds4l419dj1di"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right to next item edge on same track.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Cursor/chtammik_Move%20cursor%20right%20to%20next%20item%20edge%20on%20same%20track.eel",
+        "sha256": "0p9grpmw6kgykada8b4zq15q88qxrfnliq92103gydszvif3k50b"
+      }
+    ]
+  },
   "chtammik_Move selected items left 0.1 seconds.lua": {
     "latest": [
       {
@@ -275,186 +458,19 @@
       }
     ]
   },
-  "chtammik_Move cursor left by 0.1 seconds.eel": {
+  "chtammik_XOR exclusive solo toggle selected tracks.eel": {
     "latest": [
       {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 0.1 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%200.1%20seconds.eel",
-        "sha256": "1vjz63xsjr0k8d73yi0d8s68blfrijihqccrgq95gjr51dalxa15"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 0.1 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%200.1%20seconds.eel",
-        "sha256": "1vjz63xsjr0k8d73yi0d8s68blfrijihqccrgq95gjr51dalxa15"
-      }
-    ]
-  },
-  "chtammik_Move cursor left by 0.5 seconds.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 0.5 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%200.5%20seconds.eel",
-        "sha256": "1cpb029q1vn0g7l83qqnlpkl2qqjs4hsg9l6iy5w8izdjipzwaj8"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 0.5 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%200.5%20seconds.eel",
-        "sha256": "1cpb029q1vn0g7l83qqnlpkl2qqjs4hsg9l6iy5w8izdjipzwaj8"
-      }
-    ]
-  },
-  "chtammik_Move cursor left by 1 seconds.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 1 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%201%20seconds.eel",
-        "sha256": "078qkg4kxmfbg6kpq448s3cy4mxqkp8cm4vps9ss3xhw5glar2j1"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 1 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%201%20seconds.eel",
-        "sha256": "078qkg4kxmfbg6kpq448s3cy4mxqkp8cm4vps9ss3xhw5glar2j1"
-      }
-    ]
-  },
-  "chtammik_Move cursor left by 10 seconds.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 10 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%2010%20seconds.eel",
-        "sha256": "1q7z6kdm76h8606xjw9yib62ihdiqjwi373vili1cbyd09zbv9zw"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 10 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%2010%20seconds.eel",
-        "sha256": "1q7z6kdm76h8606xjw9yib62ihdiqjwi373vili1cbyd09zbv9zw"
-      }
-    ]
-  },
-  "chtammik_Move cursor left by 5 seconds.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 5 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%205%20seconds.eel",
-        "sha256": "0wnfhn0ddr3h7a9hdacqyf4sghcppypx06bn5s05fr669pjnh1dg"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor left by 5 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20left%20by%205%20seconds.eel",
-        "sha256": "0wnfhn0ddr3h7a9hdacqyf4sghcppypx06bn5s05fr669pjnh1dg"
-      }
-    ]
-  },
-  "chtammik_Move cursor right by 0.1 seconds.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 0.1 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%200.1%20seconds.eel",
-        "sha256": "0xwgbf32inzsi660kys0gfcs4kp3mxxbkxdjxa2kvh1bjk041c5b"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 0.1 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%200.1%20seconds.eel",
-        "sha256": "0xwgbf32inzsi660kys0gfcs4kp3mxxbkxdjxa2kvh1bjk041c5b"
-      }
-    ]
-  },
-  "chtammik_Move cursor right by 0.5 seconds.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 0.5 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%200.5%20seconds.eel",
-        "sha256": "1iy5mxkp4m9d0rgzrjv5nrl19cbcly60w0i5af4hh88qa7zr9bn7"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 0.5 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%200.5%20seconds.eel",
-        "sha256": "1iy5mxkp4m9d0rgzrjv5nrl19cbcly60w0i5af4hh88qa7zr9bn7"
-      }
-    ]
-  },
-  "chtammik_Move cursor right by 1 seconds.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 1 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Cursor/chtammik_Move%20cursor%20right%20by%201%20seconds.eel",
-        "sha256": "0cq73c55xjab0chw55wqsd5y9v6yn8x4qlzbqj2wkarix88zgm0g"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 1 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Cursor/chtammik_Move%20cursor%20right%20by%201%20seconds.eel",
-        "sha256": "0cq73c55xjab0chw55wqsd5y9v6yn8x4qlzbqj2wkarix88zgm0g"
-      }
-    ]
-  },
-  "chtammik_Move cursor right by 10 seconds.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 10 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%2010%20seconds.eel",
-        "sha256": "0j18jagf6x4rpj6wf6fr3mz8hx28igkxavd940s13mcdx121mx93"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 10 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%2010%20seconds.eel",
-        "sha256": "0j18jagf6x4rpj6wf6fr3mz8hx28igkxavd940s13mcdx121mx93"
-      }
-    ]
-  },
-  "chtammik_Move cursor right by 5 seconds.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 5 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%205%20seconds.eel",
-        "sha256": "023n9s7ggvim0fsz5536q520121izw0lxn91ax1l6q1an6nfgpbs"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right by 5 seconds.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/ab3c6fa5fd650093c5e5177c59a03fefc9a392d4/Cursor/chtammik_Move%20cursor%20right%20by%205%20seconds.eel",
-        "sha256": "023n9s7ggvim0fsz5536q520121izw0lxn91ax1l6q1an6nfgpbs"
-      }
-    ]
-  },
-  "chtammik_Move cursor right to next item edge on same track.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right to next item edge on same track.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Cursor/chtammik_Move%20cursor%20right%20to%20next%20item%20edge%20on%20same%20track.eel",
-        "sha256": "1y9grw6wzkg3niy9b3avf1j8h2dss7n8l9ycmmw3ds4l419dj1di"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right to next item edge on same track.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/da0bd68d706bfa307ca55518e1d53011afb27a8a/Cursor/chtammik_Move%20cursor%20right%20to%20next%20item%20edge%20on%20same%20track.eel",
-        "sha256": "1y9grw6wzkg3niy9b3avf1j8h2dss7n8l9ycmmw3ds4l419dj1di"
+        "path": "Scripts/chtammik_Reaper_Scripts/Track Properties/chtammik_XOR exclusive solo toggle selected tracks.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Track%20Properties/chtammik_XOR%20exclusive%20solo%20toggle%20selected%20tracks.eel",
+        "sha256": "0g17azpkv7krqib1bv3ry0aqwbfkf7p828iqvg45l0mkdcr1qqlx"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/chtammik_Reaper_Scripts/Cursor/chtammik_Move cursor right to next item edge on same track.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Cursor/chtammik_Move%20cursor%20right%20to%20next%20item%20edge%20on%20same%20track.eel",
-        "sha256": "0p9grpmw6kgykada8b4zq15q88qxrfnliq92103gydszvif3k50b"
+        "path": "Scripts/chtammik_Reaper_Scripts/Track Properties/chtammik_XOR exclusive solo toggle selected tracks.eel",
+        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Track%20Properties/chtammik_XOR%20exclusive%20solo%20toggle%20selected%20tracks.eel",
+        "sha256": "0g17azpkv7krqib1bv3ry0aqwbfkf7p828iqvg45l0mkdcr1qqlx"
       }
     ]
   },
@@ -471,22 +487,6 @@
         "path": "Scripts/chtammik_Reaper_Scripts/Utility/chtammik_Show itemnumber in console.eel",
         "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Utility/chtammik_Show%20itemnumber%20in%20console.eel",
         "sha256": "0bzi35dcaf8i1269ym2m02y7j9hr65ldrbhdhs0cq779vv0awjil"
-      }
-    ]
-  },
-  "chtammik_XOR exclusive solo toggle selected tracks.eel": {
-    "latest": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Track Properties/chtammik_XOR exclusive solo toggle selected tracks.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Track%20Properties/chtammik_XOR%20exclusive%20solo%20toggle%20selected%20tracks.eel",
-        "sha256": "0g17azpkv7krqib1bv3ry0aqwbfkf7p828iqvg45l0mkdcr1qqlx"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/chtammik_Reaper_Scripts/Track Properties/chtammik_XOR exclusive solo toggle selected tracks.eel",
-        "url": "https://github.com/chtammik/chtammik_Reaper_Scripts/raw/3c629ca95902f8aae37382859e921807f24c22ee/Track%20Properties/chtammik_XOR%20exclusive%20solo%20toggle%20selected%20tracks.eel",
-        "sha256": "0g17azpkv7krqib1bv3ry0aqwbfkf7p828iqvg45l0mkdcr1qqlx"
       }
     ]
   }

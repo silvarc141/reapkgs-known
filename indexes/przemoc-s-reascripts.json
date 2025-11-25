@@ -31,22 +31,6 @@
       }
     ]
   },
-  "PPP - Set time selection to items on selected tracks.eel": {
-    "latest": [
-      {
-        "path": "Scripts/Przemoc's ReaScripts/Time selection/PPP - Set time selection to items on selected tracks.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/d723fc254852cd3d34ea19ccbd33dd33f14b8095/Time%20selection/PPP%20-%20Set%20time%20selection%20to%20items%20on%20selected%20tracks.eel",
-        "sha256": "1p71a4b3l9lva3i0l3lqmyxhpv970p1x8088glrbpk0f6smnrdvn"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Przemoc's ReaScripts/Time selection/PPP - Set time selection to items on selected tracks.eel",
-        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/d723fc254852cd3d34ea19ccbd33dd33f14b8095/Time%20selection/PPP%20-%20Set%20time%20selection%20to%20items%20on%20selected%20tracks.eel",
-        "sha256": "1p71a4b3l9lva3i0l3lqmyxhpv970p1x8088glrbpk0f6smnrdvn"
-      }
-    ]
-  },
   "PPP - Add all items on the left of edit cursor to selection.eel": {
     "latest": [
       {
@@ -348,6 +332,22 @@
         "path": "Scripts/Przemoc's ReaScripts/Item/PPP - Unselect whole items on the right of edit cursor.eel",
         "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/c72cbf27fcdf1f4b579204228d6fb1a2a6672c95/Item/PPP%20-%20Unselect%20whole%20items%20on%20the%20right%20of%20edit%20cursor.eel",
         "sha256": "0x9bpmrrisbxabdzi5a2rl49hgkl5fw4wx931vk59psml274dgaz"
+      }
+    ]
+  },
+  "PPP - Set time selection to items on selected tracks.eel": {
+    "latest": [
+      {
+        "path": "Scripts/Przemoc's ReaScripts/Time selection/PPP - Set time selection to items on selected tracks.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/d723fc254852cd3d34ea19ccbd33dd33f14b8095/Time%20selection/PPP%20-%20Set%20time%20selection%20to%20items%20on%20selected%20tracks.eel",
+        "sha256": "1p71a4b3l9lva3i0l3lqmyxhpv970p1x8088glrbpk0f6smnrdvn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Przemoc's ReaScripts/Time selection/PPP - Set time selection to items on selected tracks.eel",
+        "url": "https://github.com/przemoc/REAPER-ReaScripts/raw/d723fc254852cd3d34ea19ccbd33dd33f14b8095/Time%20selection/PPP%20-%20Set%20time%20selection%20to%20items%20on%20selected%20tracks.eel",
+        "sha256": "1p71a4b3l9lva3i0l3lqmyxhpv970p1x8088glrbpk0f6smnrdvn"
       }
     ]
   }

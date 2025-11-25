@@ -125,6 +125,77 @@
       }
     ]
   },
+  "BirdBird_Auto center new floating fx.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Auto center new floating fx.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript/raw/4c15c45fd4189a362779e6ff110803f524386e97/Utility/BirdBird_Auto%20center%20new%20floating%20fx.lua",
+        "sha256": "0n5irvqdkp1pchal9gbr83flayccpkma5crvlnhxvqlsslc00zg3"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Auto center new floating fx.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript/raw/4c15c45fd4189a362779e6ff110803f524386e97/Utility/BirdBird_Auto%20center%20new%20floating%20fx.lua",
+        "sha256": "0n5irvqdkp1pchal9gbr83flayccpkma5crvlnhxvqlsslc00zg3"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Auto center new floating fx.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript/raw/805e4b68be7a2473c260d0cdb9940e2b70866f18/Utility/BirdBird_Auto%20center%20new%20floating%20fx.lua",
+        "sha256": "0zmk3ds4g33q8j31cl8f107ycz3aa38rgyqg52nv750m8mn760id"
+      }
+    ]
+  },
+  "BirdBird_Disable repeat.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Disable repeat.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript/raw/dd3c4a3b3f9200b111f8f0a28ddfbcb56d39beda/Utility/BirdBird_Disable%20repeat.lua",
+        "sha256": "0lkn3rxsgbvrh09g28qvb21v9i0wzbr2xxfypfl8bvprkp4cmz2z"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Disable repeat.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript/raw/dd3c4a3b3f9200b111f8f0a28ddfbcb56d39beda/Utility/BirdBird_Disable%20repeat.lua",
+        "sha256": "0lkn3rxsgbvrh09g28qvb21v9i0wzbr2xxfypfl8bvprkp4cmz2z"
+      }
+    ]
+  },
+  "BirdBird_Enable repeat.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Enable repeat.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript/raw/dd3c4a3b3f9200b111f8f0a28ddfbcb56d39beda/Utility/BirdBird_Enable%20repeat.lua",
+        "sha256": "0zhpi7gazjmm1hjckpjvxzg0ihr7jz2nivn47fvc528slf4qqiy7"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Enable repeat.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript/raw/dd3c4a3b3f9200b111f8f0a28ddfbcb56d39beda/Utility/BirdBird_Enable%20repeat.lua",
+        "sha256": "0zhpi7gazjmm1hjckpjvxzg0ihr7jz2nivn47fvc528slf4qqiy7"
+      }
+    ]
+  },
+  "BirdBird_Print item state chunk.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Print item state chunk.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript/raw/7a05eb7f093b402bb909eac29bb650fab459f5b2/Utility/BirdBird_Print%20item%20state%20chunk.lua",
+        "sha256": "1ni9x699xpzynxvjw8ijqwkqvz4g1ysg8g93z23r4lxwj45pncr3"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Print item state chunk.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript/raw/7a05eb7f093b402bb909eac29bb650fab459f5b2/Utility/BirdBird_Print%20item%20state%20chunk.lua",
+        "sha256": "1ni9x699xpzynxvjw8ijqwkqvz4g1ysg8g93z23r4lxwj45pncr3"
+      }
+    ]
+  },
   "BirdBird_Add new track to root folder of the track under mouse cursor.lua": {
     "latest": [
       {
@@ -707,77 +778,6 @@
         "path": "Scripts/BirdBird Scripts/Workflow/BirdBird_Quick preview (Perform until shortcut released).lua",
         "url": "https://github.com/Bird-Bird/ReaScript/raw/10757812a334d1ef3d7a84c3033980b52d93afb7/Workflow/BirdBird_Quick%20preview%20(Perform%20until%20shortcut%20released).lua",
         "sha256": "16jh1h9000lv0f1g4p9vj7l954jgsqp3cwdiqbvq9mbzspblxnsf"
-      }
-    ]
-  },
-  "BirdBird_Auto center new floating fx.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Auto center new floating fx.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript/raw/4c15c45fd4189a362779e6ff110803f524386e97/Utility/BirdBird_Auto%20center%20new%20floating%20fx.lua",
-        "sha256": "0n5irvqdkp1pchal9gbr83flayccpkma5crvlnhxvqlsslc00zg3"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Auto center new floating fx.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript/raw/4c15c45fd4189a362779e6ff110803f524386e97/Utility/BirdBird_Auto%20center%20new%20floating%20fx.lua",
-        "sha256": "0n5irvqdkp1pchal9gbr83flayccpkma5crvlnhxvqlsslc00zg3"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Auto center new floating fx.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript/raw/805e4b68be7a2473c260d0cdb9940e2b70866f18/Utility/BirdBird_Auto%20center%20new%20floating%20fx.lua",
-        "sha256": "0zmk3ds4g33q8j31cl8f107ycz3aa38rgyqg52nv750m8mn760id"
-      }
-    ]
-  },
-  "BirdBird_Disable repeat.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Disable repeat.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript/raw/dd3c4a3b3f9200b111f8f0a28ddfbcb56d39beda/Utility/BirdBird_Disable%20repeat.lua",
-        "sha256": "0lkn3rxsgbvrh09g28qvb21v9i0wzbr2xxfypfl8bvprkp4cmz2z"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Disable repeat.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript/raw/dd3c4a3b3f9200b111f8f0a28ddfbcb56d39beda/Utility/BirdBird_Disable%20repeat.lua",
-        "sha256": "0lkn3rxsgbvrh09g28qvb21v9i0wzbr2xxfypfl8bvprkp4cmz2z"
-      }
-    ]
-  },
-  "BirdBird_Enable repeat.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Enable repeat.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript/raw/dd3c4a3b3f9200b111f8f0a28ddfbcb56d39beda/Utility/BirdBird_Enable%20repeat.lua",
-        "sha256": "0zhpi7gazjmm1hjckpjvxzg0ihr7jz2nivn47fvc528slf4qqiy7"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Enable repeat.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript/raw/dd3c4a3b3f9200b111f8f0a28ddfbcb56d39beda/Utility/BirdBird_Enable%20repeat.lua",
-        "sha256": "0zhpi7gazjmm1hjckpjvxzg0ihr7jz2nivn47fvc528slf4qqiy7"
-      }
-    ]
-  },
-  "BirdBird_Print item state chunk.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Print item state chunk.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript/raw/7a05eb7f093b402bb909eac29bb650fab459f5b2/Utility/BirdBird_Print%20item%20state%20chunk.lua",
-        "sha256": "1ni9x699xpzynxvjw8ijqwkqvz4g1ysg8g93z23r4lxwj45pncr3"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/BirdBird Scripts/Utility/BirdBird_Print item state chunk.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript/raw/7a05eb7f093b402bb909eac29bb650fab459f5b2/Utility/BirdBird_Print%20item%20state%20chunk.lua",
-        "sha256": "1ni9x699xpzynxvjw8ijqwkqvz4g1ysg8g93z23r4lxwj45pncr3"
       }
     ]
   },

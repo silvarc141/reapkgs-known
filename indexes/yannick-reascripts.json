@@ -1409,139 +1409,79 @@
       }
     ]
   },
-  "Yannick_Erase notes along with moving edit cursor (like Back in Studio One).lua": {
+  "Yannick_Float instruments from insert or send at selected track or toggle folder collapse.lua": {
     "latest": [
       {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Erase notes along with moving edit cursor (like Back in Studio One).lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/MIDI%20Editor/Yannick_Erase%20notes%20along%20with%20moving%20edit%20cursor%20(like%20Back%20in%20Studio%20One).lua",
-        "sha256": "1d4i007s2md31wafyrk0rc5xxq6jb65n3a1viibip8m74a83m4j2"
+        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Float instruments from insert or send at selected track or toggle folder collapse.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Mouse%20modifiers/Yannick_Float%20instruments%20from%20insert%20or%20send%20at%20selected%20track%20or%20toggle%20folder%20collapse.lua",
+        "sha256": "0wfaab6d66mkjm62aqzhp0xd0ysmga0025hmh51hp0bcq0d6vvs8"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Erase notes along with moving edit cursor (like Back in Studio One).lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/MIDI%20Editor/Yannick_Erase%20notes%20along%20with%20moving%20edit%20cursor%20(like%20Back%20in%20Studio%20One).lua",
-        "sha256": "1d4i007s2md31wafyrk0rc5xxq6jb65n3a1viibip8m74a83m4j2"
+        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Float instruments from insert or send at selected track or toggle folder collapse.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Mouse%20modifiers/Yannick_Float%20instruments%20from%20insert%20or%20send%20at%20selected%20track%20or%20toggle%20folder%20collapse.lua",
+        "sha256": "0wfaab6d66mkjm62aqzhp0xd0ysmga0025hmh51hp0bcq0d6vvs8"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Erase notes along with moving edit cursor (like Back in Studio One).lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/MIDI%20Editor/Yannick_Erase%20notes%20along%20with%20moving%20edit%20cursor%20(like%20Back%20in%20Studio%20One).lua",
-        "sha256": "0jvids859p8sql8xcnm1h4ph5viakhm5f5vv1bqlf9z2rnb2nvxn"
+        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Float instruments from insert or send at selected track or toggle folder collapse.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/Mouse%20modifiers/Yannick_Float%20instruments%20from%20insert%20or%20send%20at%20selected%20track%20or%20toggle%20folder%20collapse.lua",
+        "sha256": "02zmhwpprywmf5lj6zbwv9gws9fdcwmnmx10bwnxq2djl52nrhsw"
       }
     ]
   },
-  "Yannick_Float instrument from midi editor (from insert or send at track).lua": {
+  "Yannick_Insert item at mouse cursor within a measure (like in Studio One).lua": {
     "latest": [
       {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Float instrument from midi editor (from insert or send at track).lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/MIDI%20Editor/Yannick_Float%20instrument%20from%20midi%20editor%20(from%20insert%20or%20send%20at%20track).lua",
-        "sha256": "0sm67gr62wxp27h7riddalzf9j6hiz914xbg7m7yia711dyyf42f"
+        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Insert item at mouse cursor within a measure (like in Studio One).lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Mouse%20modifiers/Yannick_Insert%20item%20at%20mouse%20cursor%20within%20a%20measure%20(like%20in%20Studio%20One).lua",
+        "sha256": "0l3si8k16m8f6982yw4s5lmihgh838a9liwwc4iy2gxf8nk2rlqv"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Float instrument from midi editor (from insert or send at track).lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/MIDI%20Editor/Yannick_Float%20instrument%20from%20midi%20editor%20(from%20insert%20or%20send%20at%20track).lua",
-        "sha256": "0sm67gr62wxp27h7riddalzf9j6hiz914xbg7m7yia711dyyf42f"
+        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Insert item at mouse cursor within a measure (like in Studio One).lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Mouse%20modifiers/Yannick_Insert%20item%20at%20mouse%20cursor%20within%20a%20measure%20(like%20in%20Studio%20One).lua",
+        "sha256": "0l3si8k16m8f6982yw4s5lmihgh838a9liwwc4iy2gxf8nk2rlqv"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Float instrument from midi editor (from insert or send at track).lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/MIDI%20Editor/Yannick_Float%20instrument%20from%20midi%20editor%20(from%20insert%20or%20send%20at%20track).lua",
-        "sha256": "0kgmvqkwhk7glwk4zr97m92sjcg479hychkcnbj9ns63xn1n1rk8"
+        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Insert item at mouse cursor within a measure (like in Studio One).lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/Mouse%20modifiers/Yannick_Insert%20item%20at%20mouse%20cursor%20within%20a%20measure%20(like%20in%20Studio%20One).lua",
+        "sha256": "0w34a6q1ga94xmjx07640w251mv3w49grngdbqzmqmigv276f7l5"
       }
     ]
   },
-  "Yannick_Remove (clear) time selection then loop points (then close midi editor - disabled by default).lua": {
+  "Yannick_Set exclusive record arm for track or toggle folder collapse.lua": {
     "latest": [
       {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Remove (clear) time selection then loop points (then close midi editor - disabled by default).lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/b2e4f093b3160527189e5f97dbab19a27f3af671/MIDI%20Editor/Yannick_Remove%20(clear)%20time%20selection%20then%20loop%20points%20(then%20close%20midi%20editor%20-%20disabled%20by%20default).lua",
-        "sha256": "0887n9v0sbkqyzgrir84la2mqgh0bbgzcm2qif9n1p1arvy08j5p"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Remove (clear) time selection then loop points (then close midi editor - disabled by default).lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/b2e4f093b3160527189e5f97dbab19a27f3af671/MIDI%20Editor/Yannick_Remove%20(clear)%20time%20selection%20then%20loop%20points%20(then%20close%20midi%20editor%20-%20disabled%20by%20default).lua",
-        "sha256": "0887n9v0sbkqyzgrir84la2mqgh0bbgzcm2qif9n1p1arvy08j5p"
-      }
-    ]
-  },
-  "Yannick_Set midi editor grid size preserve grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid size preserve grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/608802329b6c3cd1de709b441af254feeb73cc93/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20size%20preserve%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
-        "sha256": "0239lxdwms1gba3y2sg2hs39gh9040nysgbgcm6fhkrcpw1z2531"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid size preserve grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/608802329b6c3cd1de709b441af254feeb73cc93/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20size%20preserve%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
-        "sha256": "0239lxdwms1gba3y2sg2hs39gh9040nysgbgcm6fhkrcpw1z2531"
+        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Set exclusive record arm for track or toggle folder collapse.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Mouse%20modifiers/Yannick_Set%20exclusive%20record%20arm%20for%20track%20or%20toggle%20folder%20collapse.lua",
+        "sha256": "0zjbr2d64gzflibk6q1j66m19mhssipfrgf57b1pzml0cbrzdwjz"
       }
     ],
     "1.2": [
       {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid size preserve grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20size%20preserve%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
-        "sha256": "07bv8saf30i4li3ksrl295brav2hhzpzvh2a0a99rck3c6qqryin"
+        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Set exclusive record arm for track or toggle folder collapse.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Mouse%20modifiers/Yannick_Set%20exclusive%20record%20arm%20for%20track%20or%20toggle%20folder%20collapse.lua",
+        "sha256": "0zjbr2d64gzflibk6q1j66m19mhssipfrgf57b1pzml0cbrzdwjz"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid size preserve grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/af02a9b55dcc421765288d598a365ead703fb7c9/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20size%20preserve%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
-        "sha256": "15mra4p7w9ysgys2v0jr38jpm3kvd8rdzdlgwf6j1mrgm96qmwba"
+        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Set exclusive record arm for track or toggle folder collapse.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/525c2af64bd28986a6c2b4d027faba7edcc2b306/Mouse%20modifiers/Yannick_Set%20exclusive%20record%20arm%20for%20track%20or%20toggle%20folder%20collapse.lua",
+        "sha256": "1gvscv9384c1gki9jkasncz8sxmw2v7qacj72jhi67rmyqp50dbq"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid size preserve grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20size%20preserve%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
-        "sha256": "1mizp2xnhll4ya83nx0nh7flfyqh0yxfbs5g7mhgi179wh37hnnn"
-      }
-    ]
-  },
-  "Yannick_Set midi editor grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/608802329b6c3cd1de709b441af254feeb73cc93/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
-        "sha256": "13vc6q24xbwjq6h218cix3swschhp0lzd7byni6d54vnlbv8pq7s"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/608802329b6c3cd1de709b441af254feeb73cc93/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
-        "sha256": "13vc6q24xbwjq6h218cix3swschhp0lzd7byni6d54vnlbv8pq7s"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
-        "sha256": "00baxjfkykkzrg2crc0a0pl477ya31rk9ivjbc2j8c2222r83pqv"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/af02a9b55dcc421765288d598a365ead703fb7c9/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
-        "sha256": "1n06aq3j2yzk7s2kmj63giw5qpi2mp8wfl26y2pa7l31zigqgzzd"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
-        "sha256": "0hsfqy73dm57mdf2315mbx5nil47qm90rqszsdy0mv3bx2bc2n4w"
+        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Set exclusive record arm for track or toggle folder collapse.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/Mouse%20modifiers/Yannick_Set%20exclusive%20record%20arm%20for%20track%20or%20toggle%20folder%20collapse.lua",
+        "sha256": "0fwkdn3ny3lbndyva2pl9iz0mvg9yd85m6x66yqibk7m5v9rjjyk"
       }
     ]
   },
@@ -3001,6 +2941,142 @@
       }
     ]
   },
+  "Yannick_Erase notes along with moving edit cursor (like Back in Studio One).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Erase notes along with moving edit cursor (like Back in Studio One).lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/MIDI%20Editor/Yannick_Erase%20notes%20along%20with%20moving%20edit%20cursor%20(like%20Back%20in%20Studio%20One).lua",
+        "sha256": "1d4i007s2md31wafyrk0rc5xxq6jb65n3a1viibip8m74a83m4j2"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Erase notes along with moving edit cursor (like Back in Studio One).lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/MIDI%20Editor/Yannick_Erase%20notes%20along%20with%20moving%20edit%20cursor%20(like%20Back%20in%20Studio%20One).lua",
+        "sha256": "1d4i007s2md31wafyrk0rc5xxq6jb65n3a1viibip8m74a83m4j2"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Erase notes along with moving edit cursor (like Back in Studio One).lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/MIDI%20Editor/Yannick_Erase%20notes%20along%20with%20moving%20edit%20cursor%20(like%20Back%20in%20Studio%20One).lua",
+        "sha256": "0jvids859p8sql8xcnm1h4ph5viakhm5f5vv1bqlf9z2rnb2nvxn"
+      }
+    ]
+  },
+  "Yannick_Float instrument from midi editor (from insert or send at track).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Float instrument from midi editor (from insert or send at track).lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/MIDI%20Editor/Yannick_Float%20instrument%20from%20midi%20editor%20(from%20insert%20or%20send%20at%20track).lua",
+        "sha256": "0sm67gr62wxp27h7riddalzf9j6hiz914xbg7m7yia711dyyf42f"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Float instrument from midi editor (from insert or send at track).lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/MIDI%20Editor/Yannick_Float%20instrument%20from%20midi%20editor%20(from%20insert%20or%20send%20at%20track).lua",
+        "sha256": "0sm67gr62wxp27h7riddalzf9j6hiz914xbg7m7yia711dyyf42f"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Float instrument from midi editor (from insert or send at track).lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/MIDI%20Editor/Yannick_Float%20instrument%20from%20midi%20editor%20(from%20insert%20or%20send%20at%20track).lua",
+        "sha256": "0kgmvqkwhk7glwk4zr97m92sjcg479hychkcnbj9ns63xn1n1rk8"
+      }
+    ]
+  },
+  "Yannick_Remove (clear) time selection then loop points (then close midi editor - disabled by default).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Remove (clear) time selection then loop points (then close midi editor - disabled by default).lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/b2e4f093b3160527189e5f97dbab19a27f3af671/MIDI%20Editor/Yannick_Remove%20(clear)%20time%20selection%20then%20loop%20points%20(then%20close%20midi%20editor%20-%20disabled%20by%20default).lua",
+        "sha256": "0887n9v0sbkqyzgrir84la2mqgh0bbgzcm2qif9n1p1arvy08j5p"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Remove (clear) time selection then loop points (then close midi editor - disabled by default).lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/b2e4f093b3160527189e5f97dbab19a27f3af671/MIDI%20Editor/Yannick_Remove%20(clear)%20time%20selection%20then%20loop%20points%20(then%20close%20midi%20editor%20-%20disabled%20by%20default).lua",
+        "sha256": "0887n9v0sbkqyzgrir84la2mqgh0bbgzcm2qif9n1p1arvy08j5p"
+      }
+    ]
+  },
+  "Yannick_Set midi editor grid size preserve grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid size preserve grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/608802329b6c3cd1de709b441af254feeb73cc93/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20size%20preserve%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
+        "sha256": "0239lxdwms1gba3y2sg2hs39gh9040nysgbgcm6fhkrcpw1z2531"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid size preserve grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/608802329b6c3cd1de709b441af254feeb73cc93/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20size%20preserve%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
+        "sha256": "0239lxdwms1gba3y2sg2hs39gh9040nysgbgcm6fhkrcpw1z2531"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid size preserve grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20size%20preserve%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
+        "sha256": "07bv8saf30i4li3ksrl295brav2hhzpzvh2a0a99rck3c6qqryin"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid size preserve grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/af02a9b55dcc421765288d598a365ead703fb7c9/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20size%20preserve%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
+        "sha256": "15mra4p7w9ysgys2v0jr38jpm3kvd8rdzdlgwf6j1mrgm96qmwba"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid size preserve grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20size%20preserve%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
+        "sha256": "1mizp2xnhll4ya83nx0nh7flfyqh0yxfbs5g7mhgi179wh37hnnn"
+      }
+    ]
+  },
+  "Yannick_Set midi editor grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/608802329b6c3cd1de709b441af254feeb73cc93/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
+        "sha256": "13vc6q24xbwjq6h218cix3swschhp0lzd7byni6d54vnlbv8pq7s"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/608802329b6c3cd1de709b441af254feeb73cc93/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
+        "sha256": "13vc6q24xbwjq6h218cix3swschhp0lzd7byni6d54vnlbv8pq7s"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
+        "sha256": "00baxjfkykkzrg2crc0a0pl477ya31rk9ivjbc2j8c2222r83pqv"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/af02a9b55dcc421765288d598a365ead703fb7c9/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
+        "sha256": "1n06aq3j2yzk7s2kmj63giw5qpi2mp8wfl26y2pa7l31zigqgzzd"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/MIDI Editor/Yannick_Set midi editor grid type (normal, triplet, quintuplet, septuplet, dotted) in Popup Menu.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/MIDI%20Editor/Yannick_Set%20midi%20editor%20grid%20type%20(normal,%20triplet,%20quintuplet,%20septuplet,%20dotted)%20in%20Popup%20Menu.lua",
+        "sha256": "0hsfqy73dm57mdf2315mbx5nil47qm90rqszsdy0mv3bx2bc2n4w"
+      }
+    ]
+  },
   "Yannick_Duplicate in one file Lua script from my repository by name from clipboard for customisation.lua": {
     "latest": [
       {
@@ -3060,82 +3136,6 @@
         "path": "Scripts/Yannick-ReaScripts/Managing Yannick Scripts/Yannick_Open repository folder.lua",
         "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/51567264908af84c7973e857ea496a9912a614a8/Managing%20Yannick%20Scripts/Yannick_Open%20repository%20folder.lua",
         "sha256": "17wiv2hg45p5fnld72kmw7pmc2x4k5qln2z65ww90gzmn0azs88q"
-      }
-    ]
-  },
-  "Yannick_Float instruments from insert or send at selected track or toggle folder collapse.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Float instruments from insert or send at selected track or toggle folder collapse.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Mouse%20modifiers/Yannick_Float%20instruments%20from%20insert%20or%20send%20at%20selected%20track%20or%20toggle%20folder%20collapse.lua",
-        "sha256": "0wfaab6d66mkjm62aqzhp0xd0ysmga0025hmh51hp0bcq0d6vvs8"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Float instruments from insert or send at selected track or toggle folder collapse.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Mouse%20modifiers/Yannick_Float%20instruments%20from%20insert%20or%20send%20at%20selected%20track%20or%20toggle%20folder%20collapse.lua",
-        "sha256": "0wfaab6d66mkjm62aqzhp0xd0ysmga0025hmh51hp0bcq0d6vvs8"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Float instruments from insert or send at selected track or toggle folder collapse.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/Mouse%20modifiers/Yannick_Float%20instruments%20from%20insert%20or%20send%20at%20selected%20track%20or%20toggle%20folder%20collapse.lua",
-        "sha256": "02zmhwpprywmf5lj6zbwv9gws9fdcwmnmx10bwnxq2djl52nrhsw"
-      }
-    ]
-  },
-  "Yannick_Insert item at mouse cursor within a measure (like in Studio One).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Insert item at mouse cursor within a measure (like in Studio One).lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Mouse%20modifiers/Yannick_Insert%20item%20at%20mouse%20cursor%20within%20a%20measure%20(like%20in%20Studio%20One).lua",
-        "sha256": "0l3si8k16m8f6982yw4s5lmihgh838a9liwwc4iy2gxf8nk2rlqv"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Insert item at mouse cursor within a measure (like in Studio One).lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Mouse%20modifiers/Yannick_Insert%20item%20at%20mouse%20cursor%20within%20a%20measure%20(like%20in%20Studio%20One).lua",
-        "sha256": "0l3si8k16m8f6982yw4s5lmihgh838a9liwwc4iy2gxf8nk2rlqv"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Insert item at mouse cursor within a measure (like in Studio One).lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/Mouse%20modifiers/Yannick_Insert%20item%20at%20mouse%20cursor%20within%20a%20measure%20(like%20in%20Studio%20One).lua",
-        "sha256": "0w34a6q1ga94xmjx07640w251mv3w49grngdbqzmqmigv276f7l5"
-      }
-    ]
-  },
-  "Yannick_Set exclusive record arm for track or toggle folder collapse.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Set exclusive record arm for track or toggle folder collapse.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Mouse%20modifiers/Yannick_Set%20exclusive%20record%20arm%20for%20track%20or%20toggle%20folder%20collapse.lua",
-        "sha256": "0zjbr2d64gzflibk6q1j66m19mhssipfrgf57b1pzml0cbrzdwjz"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Set exclusive record arm for track or toggle folder collapse.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/f481c83fc156bccbdde17d2106fb8a86b2b78638/Mouse%20modifiers/Yannick_Set%20exclusive%20record%20arm%20for%20track%20or%20toggle%20folder%20collapse.lua",
-        "sha256": "0zjbr2d64gzflibk6q1j66m19mhssipfrgf57b1pzml0cbrzdwjz"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Set exclusive record arm for track or toggle folder collapse.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/525c2af64bd28986a6c2b4d027faba7edcc2b306/Mouse%20modifiers/Yannick_Set%20exclusive%20record%20arm%20for%20track%20or%20toggle%20folder%20collapse.lua",
-        "sha256": "1gvscv9384c1gki9jkasncz8sxmw2v7qacj72jhi67rmyqp50dbq"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Set exclusive record arm for track or toggle folder collapse.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/Mouse%20modifiers/Yannick_Set%20exclusive%20record%20arm%20for%20track%20or%20toggle%20folder%20collapse.lua",
-        "sha256": "0fwkdn3ny3lbndyva2pl9iz0mvg9yd85m6x66yqibk7m5v9rjjyk"
       }
     ]
   },

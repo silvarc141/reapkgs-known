@@ -1,76 +1,67 @@
 {
-  "LKC - CONSTRUCT ITEMS - Toggle.lua": {
+  "LKC - Change default fades.lua": {
     "latest": [
       {
-        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle (automation supported - slow).lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle%20(automation%20supported%20-%20slow).lua",
-        "sha256": "0n5fwaq293bpsfv1a784ks9yxghf9zpndwp8s2nj1r7vv508nhfv"
+        "path": "Scripts/LKC Tools/Change default fades/LKC - Change default fadeout shape to linear.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/LKC%20-%20Change%20default%20fadeout%20shape%20to%20linear.lua",
+        "sha256": "0xx69wl60464wjgnvdp8iybpfn8ddq4gxqrs2r6l9rjr2wapgvqx"
       },
       {
-        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle (channel aware).lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle%20(channel%20aware).lua",
-        "sha256": "1mxlh8xvv991zijd01s8p169rxmwrr0nmhv5nrzcknar8l2i3f9h"
+        "path": "Scripts/LKC Tools/Change default fades/LKC - Change default fadeout shape to logarithmic.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/LKC%20-%20Change%20default%20fadeout%20shape%20to%20logarithmic.lua",
+        "sha256": "1cvpp1v0hm8sfnqgb0y8qaqn9nd9ixxqdbc6555ja0y7m9za2dhk"
       },
       {
-        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle.lua",
-        "sha256": "0nbq7dj27bram7l5b2rpq12rlbnhyhahiq664dl9iazlhc5rmsjd"
+        "path": "Scripts/LKC Tools/Change default fades/LKC - Change default fadeout shape to parabolic.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/LKC%20-%20Change%20default%20fadeout%20shape%20to%20parabolic.lua",
+        "sha256": "1cb8didg74xxzhbf201vwpfjkbigflx1yc3d8mabafkrmc7rrvxz"
       },
       {
-        "path": "Scripts/LKC Tools/Construct items/toolbar_icons/constructed.png",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/constructed.png",
-        "sha256": "12x7kv9j77s4ikp595ndyyaa2ci4hjdx9jc4x4vrjbg18zdzi4rm"
+        "path": "Scripts/LKC Tools/Change default fades/toolbar_icons/default_fade_linear.png",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/default_fade_linear.png",
+        "sha256": "1av1g9bxz681h8k4kkp1grwwilwwz78vvh17x79x4b2ncwywvzmc"
+      },
+      {
+        "path": "Scripts/LKC Tools/Change default fades/toolbar_icons/default_fade_logarithmic.png",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/default_fade_logarithmic.png",
+        "sha256": "1yvaahv33xc369qdhh8w6z6fcl7rwq46xsa2karzbhl05zv7l9ay"
+      },
+      {
+        "path": "Scripts/LKC Tools/Change default fades/toolbar_icons/default_fade_parabolic.png",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/default_fade_parabolic.png",
+        "sha256": "1qj6l3y62x1s2iz6w072r3yw9vvvm9s927v5mcbz4pf9ygjvbjjx"
       }
     ],
-    "1.55": [
+    "1.0": [
       {
-        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle (automation supported - slow).lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle%20(automation%20supported%20-%20slow).lua",
-        "sha256": "0n5fwaq293bpsfv1a784ks9yxghf9zpndwp8s2nj1r7vv508nhfv"
+        "path": "Scripts/LKC Tools/Change default fades/LKC - Change default fadeout shape to linear.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/LKC%20-%20Change%20default%20fadeout%20shape%20to%20linear.lua",
+        "sha256": "0xx69wl60464wjgnvdp8iybpfn8ddq4gxqrs2r6l9rjr2wapgvqx"
       },
       {
-        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle (channel aware).lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle%20(channel%20aware).lua",
-        "sha256": "1mxlh8xvv991zijd01s8p169rxmwrr0nmhv5nrzcknar8l2i3f9h"
+        "path": "Scripts/LKC Tools/Change default fades/LKC - Change default fadeout shape to logarithmic.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/LKC%20-%20Change%20default%20fadeout%20shape%20to%20logarithmic.lua",
+        "sha256": "1cvpp1v0hm8sfnqgb0y8qaqn9nd9ixxqdbc6555ja0y7m9za2dhk"
       },
       {
-        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle.lua",
-        "sha256": "0nbq7dj27bram7l5b2rpq12rlbnhyhahiq664dl9iazlhc5rmsjd"
+        "path": "Scripts/LKC Tools/Change default fades/LKC - Change default fadeout shape to parabolic.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/LKC%20-%20Change%20default%20fadeout%20shape%20to%20parabolic.lua",
+        "sha256": "1cb8didg74xxzhbf201vwpfjkbigflx1yc3d8mabafkrmc7rrvxz"
       },
       {
-        "path": "Scripts/LKC Tools/Construct items/toolbar_icons/constructed.png",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/constructed.png",
-        "sha256": "12x7kv9j77s4ikp595ndyyaa2ci4hjdx9jc4x4vrjbg18zdzi4rm"
-      }
-    ],
-    "1.54": [
-      {
-        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle (automation supported - slow).lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/5aa0c1880017a70ff7cb351e260fdf8d8350e1db/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle%20(automation%20supported%20-%20slow).lua",
-        "sha256": "1sw7vnjfw63lbmijdfcfh0cm2ygbcvmp53gkks95i5j6flgj83y7"
+        "path": "Scripts/LKC Tools/Change default fades/toolbar_icons/default_fade_linear.png",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/default_fade_linear.png",
+        "sha256": "1av1g9bxz681h8k4kkp1grwwilwwz78vvh17x79x4b2ncwywvzmc"
       },
       {
-        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle (channel aware).lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/5aa0c1880017a70ff7cb351e260fdf8d8350e1db/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle%20(channel%20aware).lua",
-        "sha256": "1mxlh8xvv991zijd01s8p169rxmwrr0nmhv5nrzcknar8l2i3f9h"
+        "path": "Scripts/LKC Tools/Change default fades/toolbar_icons/default_fade_logarithmic.png",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/default_fade_logarithmic.png",
+        "sha256": "1yvaahv33xc369qdhh8w6z6fcl7rwq46xsa2karzbhl05zv7l9ay"
       },
       {
-        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/5aa0c1880017a70ff7cb351e260fdf8d8350e1db/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle.lua",
-        "sha256": "1vnzk6s0yld10ys3s4lk71l099fnfgqns4m78bmqc6g3fn0518cs"
-      }
-    ],
-    "1.53": [
-      {
-        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle (channel aware).lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/707a12bac6e20d1b8c0930e2e7fcdb9430bf1a41/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle%20(channel%20aware).lua",
-        "sha256": "1mxlh8xvv991zijd01s8p169rxmwrr0nmhv5nrzcknar8l2i3f9h"
-      },
-      {
-        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/707a12bac6e20d1b8c0930e2e7fcdb9430bf1a41/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle.lua",
-        "sha256": "1m5fj1c432fip9hwyj88i9b1haa5a293y5m0f95zc1zx036nbj3b"
+        "path": "Scripts/LKC Tools/Change default fades/toolbar_icons/default_fade_parabolic.png",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/default_fade_parabolic.png",
+        "sha256": "1qj6l3y62x1s2iz6w072r3yw9vvvm9s927v5mcbz4pf9ygjvbjjx"
       }
     ]
   },
@@ -1812,6 +1803,153 @@
       }
     ]
   },
+  "LKC - CONSTRUCT ITEMS - Toggle.lua": {
+    "latest": [
+      {
+        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle (automation supported - slow).lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle%20(automation%20supported%20-%20slow).lua",
+        "sha256": "0n5fwaq293bpsfv1a784ks9yxghf9zpndwp8s2nj1r7vv508nhfv"
+      },
+      {
+        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle (channel aware).lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle%20(channel%20aware).lua",
+        "sha256": "1mxlh8xvv991zijd01s8p169rxmwrr0nmhv5nrzcknar8l2i3f9h"
+      },
+      {
+        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle.lua",
+        "sha256": "0nbq7dj27bram7l5b2rpq12rlbnhyhahiq664dl9iazlhc5rmsjd"
+      },
+      {
+        "path": "Scripts/LKC Tools/Construct items/toolbar_icons/constructed.png",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/constructed.png",
+        "sha256": "12x7kv9j77s4ikp595ndyyaa2ci4hjdx9jc4x4vrjbg18zdzi4rm"
+      }
+    ],
+    "1.55": [
+      {
+        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle (automation supported - slow).lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle%20(automation%20supported%20-%20slow).lua",
+        "sha256": "0n5fwaq293bpsfv1a784ks9yxghf9zpndwp8s2nj1r7vv508nhfv"
+      },
+      {
+        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle (channel aware).lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle%20(channel%20aware).lua",
+        "sha256": "1mxlh8xvv991zijd01s8p169rxmwrr0nmhv5nrzcknar8l2i3f9h"
+      },
+      {
+        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle.lua",
+        "sha256": "0nbq7dj27bram7l5b2rpq12rlbnhyhahiq664dl9iazlhc5rmsjd"
+      },
+      {
+        "path": "Scripts/LKC Tools/Construct items/toolbar_icons/constructed.png",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/59f4c3acb1e68c11aedb911babdcedd975943ca0/Construct%20items/constructed.png",
+        "sha256": "12x7kv9j77s4ikp595ndyyaa2ci4hjdx9jc4x4vrjbg18zdzi4rm"
+      }
+    ],
+    "1.54": [
+      {
+        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle (automation supported - slow).lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/5aa0c1880017a70ff7cb351e260fdf8d8350e1db/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle%20(automation%20supported%20-%20slow).lua",
+        "sha256": "1sw7vnjfw63lbmijdfcfh0cm2ygbcvmp53gkks95i5j6flgj83y7"
+      },
+      {
+        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle (channel aware).lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/5aa0c1880017a70ff7cb351e260fdf8d8350e1db/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle%20(channel%20aware).lua",
+        "sha256": "1mxlh8xvv991zijd01s8p169rxmwrr0nmhv5nrzcknar8l2i3f9h"
+      },
+      {
+        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/5aa0c1880017a70ff7cb351e260fdf8d8350e1db/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle.lua",
+        "sha256": "1vnzk6s0yld10ys3s4lk71l099fnfgqns4m78bmqc6g3fn0518cs"
+      }
+    ],
+    "1.53": [
+      {
+        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle (channel aware).lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/707a12bac6e20d1b8c0930e2e7fcdb9430bf1a41/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle%20(channel%20aware).lua",
+        "sha256": "1mxlh8xvv991zijd01s8p169rxmwrr0nmhv5nrzcknar8l2i3f9h"
+      },
+      {
+        "path": "Scripts/LKC Tools/Construct items/LKC - CONSTRUCT ITEMS - Toggle.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/707a12bac6e20d1b8c0930e2e7fcdb9430bf1a41/Construct%20items/LKC%20-%20CONSTRUCT%20ITEMS%20-%20Toggle.lua",
+        "sha256": "1m5fj1c432fip9hwyj88i9b1haa5a293y5m0f95zc1zx036nbj3b"
+      }
+    ]
+  },
+  "LKC - PRO ZOOM - In.lua": {
+    "latest": [
+      {
+        "path": "Scripts/LKC Tools/Pro Zoom/LKC - PRO ZOOM - In.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/3d8492e300ac204013a96718f30f852e859148e9/Pro%20Zoom/LKC%20-%20PRO%20ZOOM%20-%20In.lua",
+        "sha256": "101i9xpm8qn2rn176622g06r7ixwvn5rfs38ny175h4jhs3dy6yl"
+      },
+      {
+        "path": "Scripts/LKC Tools/Pro Zoom/LKC - PRO ZOOM - Out.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/3d8492e300ac204013a96718f30f852e859148e9/Pro%20Zoom/LKC%20-%20PRO%20ZOOM%20-%20Out.lua",
+        "sha256": "0nxkp9w4qdwx3p7hx2srq5mpkcsckjkbzinhnhgwbbz2qi2jdl9x"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/LKC Tools/Pro Zoom/LKC - PRO ZOOM - In.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/3d8492e300ac204013a96718f30f852e859148e9/Pro%20Zoom/LKC%20-%20PRO%20ZOOM%20-%20In.lua",
+        "sha256": "101i9xpm8qn2rn176622g06r7ixwvn5rfs38ny175h4jhs3dy6yl"
+      },
+      {
+        "path": "Scripts/LKC Tools/Pro Zoom/LKC - PRO ZOOM - Out.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/3d8492e300ac204013a96718f30f852e859148e9/Pro%20Zoom/LKC%20-%20PRO%20ZOOM%20-%20Out.lua",
+        "sha256": "0nxkp9w4qdwx3p7hx2srq5mpkcsckjkbzinhnhgwbbz2qi2jdl9x"
+      }
+    ]
+  },
+  "LKC - Perforce P4 - Current workspace settings.lua": {
+    "latest": [
+      {
+        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Checkout current project folder.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Checkout%20current%20project%20folder.lua",
+        "sha256": "0cdjjgvhqr84i4vmr56hqqps8fypkxx1f543xx32sywngxfkihgh"
+      },
+      {
+        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Current workspace settings.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Current%20workspace%20settings.lua",
+        "sha256": "1mv86pwikxbpbspmy0vmnlg5qd7snn2n6a2q55wlnnzpwziiavgl"
+      },
+      {
+        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Reconcile current project folder.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Reconcile%20current%20project%20folder.lua",
+        "sha256": "185nmdk28nqk4sfvhcgxmidy1b8yx43ri0bvsnz0kl9r08bi27fy"
+      },
+      {
+        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Revert unchanged files in current project folder.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Revert%20unchanged%20files%20in%20current%20project%20folder.lua",
+        "sha256": "14y1abiwcbd7ppa63m2ngayf0xi7h84fngmfcywfmfxnlxfrv171"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Checkout current project folder.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Checkout%20current%20project%20folder.lua",
+        "sha256": "0cdjjgvhqr84i4vmr56hqqps8fypkxx1f543xx32sywngxfkihgh"
+      },
+      {
+        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Current workspace settings.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Current%20workspace%20settings.lua",
+        "sha256": "1mv86pwikxbpbspmy0vmnlg5qd7snn2n6a2q55wlnnzpwziiavgl"
+      },
+      {
+        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Reconcile current project folder.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Reconcile%20current%20project%20folder.lua",
+        "sha256": "185nmdk28nqk4sfvhcgxmidy1b8yx43ri0bvsnz0kl9r08bi27fy"
+      },
+      {
+        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Revert unchanged files in current project folder.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Revert%20unchanged%20files%20in%20current%20project%20folder.lua",
+        "sha256": "14y1abiwcbd7ppa63m2ngayf0xi7h84fngmfcywfmfxnlxfrv171"
+      }
+    ]
+  },
   "lkc_colored_rippling.ext": {
     "latest": [
       {
@@ -1859,144 +1997,6 @@
         "path": "UserPlugins/reaper_colored_rippling_x64.dylib",
         "url": "https://github.com/nikolalkc/LKC-Tools/raw/f8ae559b2d3cc802a148e001fae6453e44759171/Extensions/reaper_colored_rippling_x64.dylib",
         "sha256": "0cyzsjh9hw1n7rizr51b2r304mwv5jrv6gjiag6m2d1ci4amf889"
-      }
-    ]
-  },
-  "LKC - TIMEJUMP - Undo.lua": {
-    "latest": [
-      {
-        "path": "Scripts/LKC Tools/Timejump/LKC - TIMEJUMP - Redo.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/da156fc125b6579d0d39daac7476eee3daba1837/Timejump/LKC%20-%20TIMEJUMP%20-%20Redo.lua",
-        "sha256": "121nx8mfnfp7z57d5s5i7dbhycgnqc12iyn9sy0ykyikdk6xl6af"
-      },
-      {
-        "path": "Scripts/LKC Tools/Timejump/LKC - TIMEJUMP - Undo.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/da156fc125b6579d0d39daac7476eee3daba1837/Timejump/LKC%20-%20TIMEJUMP%20-%20Undo.lua",
-        "sha256": "1ygdxx909vg2llj52z69cd043ifmh89c5by1xw4nhdg18a79b45k"
-      }
-    ],
-    "1.30": [
-      {
-        "path": "Scripts/LKC Tools/Timejump/LKC - TIMEJUMP - Redo.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/da156fc125b6579d0d39daac7476eee3daba1837/Timejump/LKC%20-%20TIMEJUMP%20-%20Redo.lua",
-        "sha256": "121nx8mfnfp7z57d5s5i7dbhycgnqc12iyn9sy0ykyikdk6xl6af"
-      },
-      {
-        "path": "Scripts/LKC Tools/Timejump/LKC - TIMEJUMP - Undo.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/da156fc125b6579d0d39daac7476eee3daba1837/Timejump/LKC%20-%20TIMEJUMP%20-%20Undo.lua",
-        "sha256": "1ygdxx909vg2llj52z69cd043ifmh89c5by1xw4nhdg18a79b45k"
-      }
-    ]
-  },
-  "LKC - Change default fades.lua": {
-    "latest": [
-      {
-        "path": "Scripts/LKC Tools/Change default fades/LKC - Change default fadeout shape to linear.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/LKC%20-%20Change%20default%20fadeout%20shape%20to%20linear.lua",
-        "sha256": "0xx69wl60464wjgnvdp8iybpfn8ddq4gxqrs2r6l9rjr2wapgvqx"
-      },
-      {
-        "path": "Scripts/LKC Tools/Change default fades/LKC - Change default fadeout shape to logarithmic.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/LKC%20-%20Change%20default%20fadeout%20shape%20to%20logarithmic.lua",
-        "sha256": "1cvpp1v0hm8sfnqgb0y8qaqn9nd9ixxqdbc6555ja0y7m9za2dhk"
-      },
-      {
-        "path": "Scripts/LKC Tools/Change default fades/LKC - Change default fadeout shape to parabolic.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/LKC%20-%20Change%20default%20fadeout%20shape%20to%20parabolic.lua",
-        "sha256": "1cb8didg74xxzhbf201vwpfjkbigflx1yc3d8mabafkrmc7rrvxz"
-      },
-      {
-        "path": "Scripts/LKC Tools/Change default fades/toolbar_icons/default_fade_linear.png",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/default_fade_linear.png",
-        "sha256": "1av1g9bxz681h8k4kkp1grwwilwwz78vvh17x79x4b2ncwywvzmc"
-      },
-      {
-        "path": "Scripts/LKC Tools/Change default fades/toolbar_icons/default_fade_logarithmic.png",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/default_fade_logarithmic.png",
-        "sha256": "1yvaahv33xc369qdhh8w6z6fcl7rwq46xsa2karzbhl05zv7l9ay"
-      },
-      {
-        "path": "Scripts/LKC Tools/Change default fades/toolbar_icons/default_fade_parabolic.png",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/default_fade_parabolic.png",
-        "sha256": "1qj6l3y62x1s2iz6w072r3yw9vvvm9s927v5mcbz4pf9ygjvbjjx"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/LKC Tools/Change default fades/LKC - Change default fadeout shape to linear.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/LKC%20-%20Change%20default%20fadeout%20shape%20to%20linear.lua",
-        "sha256": "0xx69wl60464wjgnvdp8iybpfn8ddq4gxqrs2r6l9rjr2wapgvqx"
-      },
-      {
-        "path": "Scripts/LKC Tools/Change default fades/LKC - Change default fadeout shape to logarithmic.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/LKC%20-%20Change%20default%20fadeout%20shape%20to%20logarithmic.lua",
-        "sha256": "1cvpp1v0hm8sfnqgb0y8qaqn9nd9ixxqdbc6555ja0y7m9za2dhk"
-      },
-      {
-        "path": "Scripts/LKC Tools/Change default fades/LKC - Change default fadeout shape to parabolic.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/LKC%20-%20Change%20default%20fadeout%20shape%20to%20parabolic.lua",
-        "sha256": "1cb8didg74xxzhbf201vwpfjkbigflx1yc3d8mabafkrmc7rrvxz"
-      },
-      {
-        "path": "Scripts/LKC Tools/Change default fades/toolbar_icons/default_fade_linear.png",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/default_fade_linear.png",
-        "sha256": "1av1g9bxz681h8k4kkp1grwwilwwz78vvh17x79x4b2ncwywvzmc"
-      },
-      {
-        "path": "Scripts/LKC Tools/Change default fades/toolbar_icons/default_fade_logarithmic.png",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/default_fade_logarithmic.png",
-        "sha256": "1yvaahv33xc369qdhh8w6z6fcl7rwq46xsa2karzbhl05zv7l9ay"
-      },
-      {
-        "path": "Scripts/LKC Tools/Change default fades/toolbar_icons/default_fade_parabolic.png",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/dbe9887be945ec772ba798be3454f519d2dd23b2/Change%20default%20fades/default_fade_parabolic.png",
-        "sha256": "1qj6l3y62x1s2iz6w072r3yw9vvvm9s927v5mcbz4pf9ygjvbjjx"
-      }
-    ]
-  },
-  "LKC - Perforce P4 - Current workspace settings.lua": {
-    "latest": [
-      {
-        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Checkout current project folder.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Checkout%20current%20project%20folder.lua",
-        "sha256": "0cdjjgvhqr84i4vmr56hqqps8fypkxx1f543xx32sywngxfkihgh"
-      },
-      {
-        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Current workspace settings.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Current%20workspace%20settings.lua",
-        "sha256": "1mv86pwikxbpbspmy0vmnlg5qd7snn2n6a2q55wlnnzpwziiavgl"
-      },
-      {
-        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Reconcile current project folder.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Reconcile%20current%20project%20folder.lua",
-        "sha256": "185nmdk28nqk4sfvhcgxmidy1b8yx43ri0bvsnz0kl9r08bi27fy"
-      },
-      {
-        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Revert unchanged files in current project folder.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Revert%20unchanged%20files%20in%20current%20project%20folder.lua",
-        "sha256": "14y1abiwcbd7ppa63m2ngayf0xi7h84fngmfcywfmfxnlxfrv171"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Checkout current project folder.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Checkout%20current%20project%20folder.lua",
-        "sha256": "0cdjjgvhqr84i4vmr56hqqps8fypkxx1f543xx32sywngxfkihgh"
-      },
-      {
-        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Current workspace settings.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Current%20workspace%20settings.lua",
-        "sha256": "1mv86pwikxbpbspmy0vmnlg5qd7snn2n6a2q55wlnnzpwziiavgl"
-      },
-      {
-        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Reconcile current project folder.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Reconcile%20current%20project%20folder.lua",
-        "sha256": "185nmdk28nqk4sfvhcgxmidy1b8yx43ri0bvsnz0kl9r08bi27fy"
-      },
-      {
-        "path": "Scripts/LKC Tools/Source Control/LKC - Perforce P4 - Revert unchanged files in current project folder.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/98ae6531de90796e38b4be8939906d4eeabec786/Source%20Control/LKC%20-%20Perforce%20P4%20-%20Revert%20unchanged%20files%20in%20current%20project%20folder.lua",
-        "sha256": "14y1abiwcbd7ppa63m2ngayf0xi7h84fngmfcywfmfxnlxfrv171"
       }
     ]
   },
@@ -2049,29 +2049,29 @@
       }
     ]
   },
-  "LKC - PRO ZOOM - In.lua": {
+  "LKC - TIMEJUMP - Undo.lua": {
     "latest": [
       {
-        "path": "Scripts/LKC Tools/Pro Zoom/LKC - PRO ZOOM - In.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/3d8492e300ac204013a96718f30f852e859148e9/Pro%20Zoom/LKC%20-%20PRO%20ZOOM%20-%20In.lua",
-        "sha256": "101i9xpm8qn2rn176622g06r7ixwvn5rfs38ny175h4jhs3dy6yl"
+        "path": "Scripts/LKC Tools/Timejump/LKC - TIMEJUMP - Redo.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/da156fc125b6579d0d39daac7476eee3daba1837/Timejump/LKC%20-%20TIMEJUMP%20-%20Redo.lua",
+        "sha256": "121nx8mfnfp7z57d5s5i7dbhycgnqc12iyn9sy0ykyikdk6xl6af"
       },
       {
-        "path": "Scripts/LKC Tools/Pro Zoom/LKC - PRO ZOOM - Out.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/3d8492e300ac204013a96718f30f852e859148e9/Pro%20Zoom/LKC%20-%20PRO%20ZOOM%20-%20Out.lua",
-        "sha256": "0nxkp9w4qdwx3p7hx2srq5mpkcsckjkbzinhnhgwbbz2qi2jdl9x"
+        "path": "Scripts/LKC Tools/Timejump/LKC - TIMEJUMP - Undo.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/da156fc125b6579d0d39daac7476eee3daba1837/Timejump/LKC%20-%20TIMEJUMP%20-%20Undo.lua",
+        "sha256": "1ygdxx909vg2llj52z69cd043ifmh89c5by1xw4nhdg18a79b45k"
       }
     ],
-    "1.6": [
+    "1.30": [
       {
-        "path": "Scripts/LKC Tools/Pro Zoom/LKC - PRO ZOOM - In.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/3d8492e300ac204013a96718f30f852e859148e9/Pro%20Zoom/LKC%20-%20PRO%20ZOOM%20-%20In.lua",
-        "sha256": "101i9xpm8qn2rn176622g06r7ixwvn5rfs38ny175h4jhs3dy6yl"
+        "path": "Scripts/LKC Tools/Timejump/LKC - TIMEJUMP - Redo.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/da156fc125b6579d0d39daac7476eee3daba1837/Timejump/LKC%20-%20TIMEJUMP%20-%20Redo.lua",
+        "sha256": "121nx8mfnfp7z57d5s5i7dbhycgnqc12iyn9sy0ykyikdk6xl6af"
       },
       {
-        "path": "Scripts/LKC Tools/Pro Zoom/LKC - PRO ZOOM - Out.lua",
-        "url": "https://github.com/nikolalkc/LKC-Tools/raw/3d8492e300ac204013a96718f30f852e859148e9/Pro%20Zoom/LKC%20-%20PRO%20ZOOM%20-%20Out.lua",
-        "sha256": "0nxkp9w4qdwx3p7hx2srq5mpkcsckjkbzinhnhgwbbz2qi2jdl9x"
+        "path": "Scripts/LKC Tools/Timejump/LKC - TIMEJUMP - Undo.lua",
+        "url": "https://github.com/nikolalkc/LKC-Tools/raw/da156fc125b6579d0d39daac7476eee3daba1837/Timejump/LKC%20-%20TIMEJUMP%20-%20Undo.lua",
+        "sha256": "1ygdxx909vg2llj52z69cd043ifmh89c5by1xw4nhdg18a79b45k"
       }
     ]
   },
