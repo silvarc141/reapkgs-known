@@ -1662,6 +1662,140 @@
       }
     ]
   },
+  "Hammer And String": {
+    "latest": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+      }
+    ],
+    "1.0.4": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "14f69w655v3mjs9psi70aa8rg79k4z2a6l85fkrrfgbrap23r97r"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "146rh4hxdwgk3cgly1i16fmb0g3l6ikblh121rnhd6pscdy1dhj2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/Hammer%20And%20String.jsfx",
+        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/delay-utils.jsfx-inc",
+        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/synth-framework.jsfx-inc",
+        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
+      },
+      {
+        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
+        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/ui-lib.jsfx-inc",
+        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
+      }
+    ]
+  },
   "Hammer And Chord": {
     "latest": [
       {
@@ -4011,140 +4145,6 @@
         "path": "Effects/Geraint's JSFX/Synth/Soft-Bell/ui-lib.jsfx-inc",
         "url": "https://geraintluff.github.io/jsfx/releases/Soft-Bell/1.0.0/Soft-Bell/ui-lib.jsfx-inc",
         "sha256": "19ykc69ywzhbrxd85chmqrfzmvgcqzxf1y2a81ykwx31aghnad52"
-      }
-    ]
-  },
-  "Hammer And String": {
-    "latest": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
-      }
-    ],
-    "1.0.4": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "0pzzf06dl4vv0giqysprnjlmvmy03mqyvw8aww6wr2w6j7za5m4f"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "1z6bv6bxhzjxyqqk8gxria6mbv2k7whpxbhd322vc51qgswb4hsa"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "0q8pk5ayz3acl18c5p49g6gfmg01574a8ddn50y90yfcqg3qy5rg"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.4/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1h8p983zxfmqgr7vrndmnyskni67cf2kfvbxbdnwz832abnkqrgk"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "14f69w655v3mjs9psi70aa8rg79k4z2a6l85fkrrfgbrap23r97r"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "0mqrajqpscbxj4wwn5cx2ssb6lbc7p2jmwmjb4ffazhynz1wfm5n"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.3/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "16wi4aisa8c6ib2zvcd1h1037fayra2g1qnv16p8z6fszrfl2bpj"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "146rh4hxdwgk3cgly1i16fmb0g3l6ikblh121rnhd6pscdy1dhj2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "19d7nmj3029g91hzj8ccwaxkkglw17hr25cyq5i3a5cf9ym29rni"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.2/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.1/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/Hammer And String.jsfx",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/Hammer%20And%20String.jsfx",
-        "sha256": "004wn2wx4zg7j8x2zw3n5cdpyz7i0i1k7n9dhfcmr299swqq7dr2"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/delay-utils.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/delay-utils.jsfx-inc",
-        "sha256": "0v5cbsq5n3nprdrp9lq7l18x0swhy5zmzmqsfzz9pbkjdidgxiq8"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/synth-framework.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/synth-framework.jsfx-inc",
-        "sha256": "1cngyh2148k8j5wr2xa5rdi9dv5yqn8xjqif27qr3accpa7pas9g"
-      },
-      {
-        "path": "Effects/Geraint's JSFX/Synth/Hammer-And-String/ui-lib.jsfx-inc",
-        "url": "https://geraintluff.github.io/jsfx/releases/Hammer-And-String/1.0.0/Hammer-And-String/ui-lib.jsfx-inc",
-        "sha256": "1jdhvbp9r4xppma43as8gdkqbsbb7ymc06cfwigpwc4cij7n8367"
       }
     ]
   },
