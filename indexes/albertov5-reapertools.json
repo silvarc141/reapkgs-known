@@ -25,56 +25,19 @@
       }
     ]
   },
-  "stoicOSC.data": {
+  "Link Multichannel FXs Parameters.lua": {
     "latest": [
       {
-        "path": "Data/stoicOSC/stoic.reaperOSC",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.ReaperOSC?raw=true",
-        "sha256": "0lrgzvgkm78y93hfyylvxfbf2k3bqna4r2xav5y1c0gcg890zkyw"
-      },
-      {
-        "path": "Data/stoicOSC/stoic.tosc",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.tosc?raw=true",
-        "sha256": "0g1nbxmhd54rwqwlwhil4xsphbf5b680cdav6h3h4lxc3kzm0xw7"
-      },
-      {
-        "path": "Data/stoicOSC/stoic.xml",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.xml?raw=true",
-        "sha256": "06q3s9mfb15kqwylp9qdq65cxc6jkdid3hgp1ggxifkr0g7r675b"
+        "path": "Scripts/AlbertoV5-ReaperTools/Link Multichannel FXs Parameters/Link Multichannel FXs Parameters.lua",
+        "url": "https://github.com/AlbertoV5/ReaperTools/raw/c2ce297a74a074dcb392f41f2372679af530b289/Link%20Multichannel%20FXs%20Parameters/Link%20Multichannel%20FXs%20Parameters.lua",
+        "sha256": "0nkvlr9pglxrl41f86cm9fz851kcwf6myflddpknmzplc26j78qa"
       }
     ],
-    "0.1": [
+    "1.0": [
       {
-        "path": "Data/stoicOSC/stoic.reaperOSC",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.ReaperOSC?raw=true",
-        "sha256": "0lrgzvgkm78y93hfyylvxfbf2k3bqna4r2xav5y1c0gcg890zkyw"
-      },
-      {
-        "path": "Data/stoicOSC/stoic.tosc",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.tosc?raw=true",
-        "sha256": "0g1nbxmhd54rwqwlwhil4xsphbf5b680cdav6h3h4lxc3kzm0xw7"
-      },
-      {
-        "path": "Data/stoicOSC/stoic.xml",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.xml?raw=true",
-        "sha256": "06q3s9mfb15kqwylp9qdq65cxc6jkdid3hgp1ggxifkr0g7r675b"
-      }
-    ],
-    "0.9.0": [
-      {
-        "path": "Data/stoicOSC/stoic.reaperOSC",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.ReaperOSC",
-        "sha256": "0ax3fs8bg7v5a7jz5y39hvhgibr4ir09fyj55k1b7n3ykb84afav"
-      },
-      {
-        "path": "Data/stoicOSC/stoic.tosc",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.tosc",
-        "sha256": "0br31s7wc0wgjw031s4b1hzlfdri6lr7d8g7lp27d1vl24gn76aw"
-      },
-      {
-        "path": "Data/stoicOSC/stoic.xml",
-        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.xml",
-        "sha256": "03yi8j8k7hm0187yyw51hc7yffdgxn2nrwzmlpfy4x2s2msa0slk"
+        "path": "Scripts/AlbertoV5-ReaperTools/Link Multichannel FXs Parameters/Link Multichannel FXs Parameters.lua",
+        "url": "https://github.com/AlbertoV5/ReaperTools/raw/c2ce297a74a074dcb392f41f2372679af530b289/Link%20Multichannel%20FXs%20Parameters/Link%20Multichannel%20FXs%20Parameters.lua",
+        "sha256": "0nkvlr9pglxrl41f86cm9fz851kcwf6myflddpknmzplc26j78qa"
       }
     ]
   },
@@ -165,19 +128,56 @@
       }
     ]
   },
-  "Link Multichannel FXs Parameters.lua": {
+  "stoicOSC.data": {
     "latest": [
       {
-        "path": "Scripts/AlbertoV5-ReaperTools/Link Multichannel FXs Parameters/Link Multichannel FXs Parameters.lua",
-        "url": "https://github.com/AlbertoV5/ReaperTools/raw/c2ce297a74a074dcb392f41f2372679af530b289/Link%20Multichannel%20FXs%20Parameters/Link%20Multichannel%20FXs%20Parameters.lua",
-        "sha256": "0nkvlr9pglxrl41f86cm9fz851kcwf6myflddpknmzplc26j78qa"
+        "path": "Data/stoicOSC/stoic.reaperOSC",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.ReaperOSC?raw=true",
+        "sha256": "0lrgzvgkm78y93hfyylvxfbf2k3bqna4r2xav5y1c0gcg890zkyw"
+      },
+      {
+        "path": "Data/stoicOSC/stoic.tosc",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.tosc?raw=true",
+        "sha256": "0g1nbxmhd54rwqwlwhil4xsphbf5b680cdav6h3h4lxc3kzm0xw7"
+      },
+      {
+        "path": "Data/stoicOSC/stoic.xml",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.xml?raw=true",
+        "sha256": "06q3s9mfb15kqwylp9qdq65cxc6jkdid3hgp1ggxifkr0g7r675b"
       }
     ],
-    "1.0": [
+    "0.1": [
       {
-        "path": "Scripts/AlbertoV5-ReaperTools/Link Multichannel FXs Parameters/Link Multichannel FXs Parameters.lua",
-        "url": "https://github.com/AlbertoV5/ReaperTools/raw/c2ce297a74a074dcb392f41f2372679af530b289/Link%20Multichannel%20FXs%20Parameters/Link%20Multichannel%20FXs%20Parameters.lua",
-        "sha256": "0nkvlr9pglxrl41f86cm9fz851kcwf6myflddpknmzplc26j78qa"
+        "path": "Data/stoicOSC/stoic.reaperOSC",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.ReaperOSC?raw=true",
+        "sha256": "0lrgzvgkm78y93hfyylvxfbf2k3bqna4r2xav5y1c0gcg890zkyw"
+      },
+      {
+        "path": "Data/stoicOSC/stoic.tosc",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.tosc?raw=true",
+        "sha256": "0g1nbxmhd54rwqwlwhil4xsphbf5b680cdav6h3h4lxc3kzm0xw7"
+      },
+      {
+        "path": "Data/stoicOSC/stoic.xml",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.xml?raw=true",
+        "sha256": "06q3s9mfb15kqwylp9qdq65cxc6jkdid3hgp1ggxifkr0g7r675b"
+      }
+    ],
+    "0.9.0": [
+      {
+        "path": "Data/stoicOSC/stoic.reaperOSC",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.ReaperOSC",
+        "sha256": "0czamx06cjdjjp66kwaa833fvamf3gvhwqj439jkbj7q53pdfxd7"
+      },
+      {
+        "path": "Data/stoicOSC/stoic.tosc",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.tosc",
+        "sha256": "0s80i9ly096rw10lzjqwj7h0v9ibqwbg86fdmmwwsj4clsb54f1f"
+      },
+      {
+        "path": "Data/stoicOSC/stoic.xml",
+        "url": "https://github.com/AlbertoV5/stoicOSC/blob/main/Reapack/stoic.xml",
+        "sha256": "075pmyijqm74ccvq4pgbxwgwasbdmm1y6y1dpyvn6r7a6s85fh4g"
       }
     ]
   }

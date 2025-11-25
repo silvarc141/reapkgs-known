@@ -1,4 +1,1002 @@
 {
+  "MIDI Selector Tool.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "0vga7w9j0hrdg4y7sjsbddsqnay9qp1jg5fib539zkv8hcp5p15x"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "1grvaprg90didini94jzkd81m9djj4gr29jhsn37zs97ax3h7hvw"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
+        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template_time_selection.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua",
+        "sha256": "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.2.73": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "0vga7w9j0hrdg4y7sjsbddsqnay9qp1jg5fib539zkv8hcp5p15x"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "1grvaprg90didini94jzkd81m9djj4gr29jhsn37zs97ax3h7hvw"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
+        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template_time_selection.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua",
+        "sha256": "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.2.71": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "0pyp80ssrvm4p7k90ifm2rz2hf5dl0k0vn5m651ypmxdjx8sc9rb"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "1qpd6lkq5rfsbqv75kal45q3y0sd2yzlvblrbha27z155kv05hwb"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
+        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template_time_selection.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua",
+        "sha256": "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.2.68": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5d18b775064d7ba1c134c7d7f6ee0d0df28c4b9c/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "0l4449mszfk1vf9z2i950vy1drjy13cgw2rj1kiaypwywbiprg14"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5d18b775064d7ba1c134c7d7f6ee0d0df28c4b9c/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5d18b775064d7ba1c134c7d7f6ee0d0df28c4b9c/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "1sf2v8q1izp3df1zlwpggk0sk4hs2s02n8lj3m270s122vm5xriv"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5d18b775064d7ba1c134c7d7f6ee0d0df28c4b9c/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5d18b775064d7ba1c134c7d7f6ee0d0df28c4b9c/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
+        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template_time_selection.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5d18b775064d7ba1c134c7d7f6ee0d0df28c4b9c/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua",
+        "sha256": "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/5d18b775064d7ba1c134c7d7f6ee0d0df28c4b9c/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.2.67": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/759c9110afa5e3b77fe7a6488c16c0e0e77c8792/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "0isrqpyhl3a2d93jsak3mr7141hb96fm8v64yi464qaicsnx6kfj"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/759c9110afa5e3b77fe7a6488c16c0e0e77c8792/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/759c9110afa5e3b77fe7a6488c16c0e0e77c8792/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "1sf2v8q1izp3df1zlwpggk0sk4hs2s02n8lj3m270s122vm5xriv"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/759c9110afa5e3b77fe7a6488c16c0e0e77c8792/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/759c9110afa5e3b77fe7a6488c16c0e0e77c8792/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
+        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template_time_selection.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/759c9110afa5e3b77fe7a6488c16c0e0e77c8792/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua",
+        "sha256": "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/759c9110afa5e3b77fe7a6488c16c0e0e77c8792/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.2.66": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/8c4ad3cd76195a110d4978103e5cb5785952281d/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "1iy5q35fyva95vrf9glibxcd4f7ml727k5rqx67b3qjh47nxdawd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/8c4ad3cd76195a110d4978103e5cb5785952281d/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/8c4ad3cd76195a110d4978103e5cb5785952281d/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "0r6gcbcvksf28s3ccrgbrxzqlypg7kxwvg6z7cfd6rbzss40737x"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/8c4ad3cd76195a110d4978103e5cb5785952281d/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/8c4ad3cd76195a110d4978103e5cb5785952281d/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
+        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template_time_selection.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/8c4ad3cd76195a110d4978103e5cb5785952281d/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua",
+        "sha256": "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/8c4ad3cd76195a110d4978103e5cb5785952281d/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.2.6": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "0h3g5fkc5z7k9zvq834pyv32wlbr18yf64qzp2022a9132wmnsxb"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "0r6gcbcvksf28s3ccrgbrxzqlypg7kxwvg6z7cfd6rbzss40737x"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
+        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template_time_selection.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua",
+        "sha256": "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.2.41": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac6c385931ff7f542160b46c43a40b39082110a4/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "143hskxn7cnc9llhhl9vd3590mx28fjfs66vqjgb4783cw10a0kz"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac6c385931ff7f542160b46c43a40b39082110a4/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac6c385931ff7f542160b46c43a40b39082110a4/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "1y4z5lhk4wlgbdfnzcnigcv0qlcai7zrf1bn17i26icj04gyn3rj"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac6c385931ff7f542160b46c43a40b39082110a4/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "072qwkq2w90k12q1a711biv932ysy9qmh016lvl8431xwrxpkylx"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac6c385931ff7f542160b46c43a40b39082110a4/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
+        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac6c385931ff7f542160b46c43a40b39082110a4/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.2.4": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/c4cc54e69d3c712d8e41ce4363e98b81f70c8cea/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "01n71iflh0ji4d5d9q605pksfvpym0z9whqvvjqqrgrkvghhky8g"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/c4cc54e69d3c712d8e41ce4363e98b81f70c8cea/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/c4cc54e69d3c712d8e41ce4363e98b81f70c8cea/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "1y4z5lhk4wlgbdfnzcnigcv0qlcai7zrf1bn17i26icj04gyn3rj"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/c4cc54e69d3c712d8e41ce4363e98b81f70c8cea/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "072qwkq2w90k12q1a711biv932ysy9qmh016lvl8431xwrxpkylx"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/c4cc54e69d3c712d8e41ce4363e98b81f70c8cea/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
+        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/c4cc54e69d3c712d8e41ce4363e98b81f70c8cea/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.2.3b": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "0is8apz1qa2fag3jk5f7rlfr5xm7bj2awll53p15yszhas36j01y"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "1y4z5lhk4wlgbdfnzcnigcv0qlcai7zrf1bn17i26icj04gyn3rj"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "072qwkq2w90k12q1a711biv932ysy9qmh016lvl8431xwrxpkylx"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
+        "sha256": "085zg795aargj2afizhwbsl3b047b3fy63mzrixmyaaiv0g7218c"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.2.2b": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/87d0d619433206cadff9670cda06f7cc8c2dc614/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "0036w4905n1h6nbs3hq2a9z9wlimg9cd82pxamffrnski57nmqn4"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/87d0d619433206cadff9670cda06f7cc8c2dc614/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/87d0d619433206cadff9670cda06f7cc8c2dc614/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "029slif2wx1k7dsfw7kb90z1h25pxwy9bdajaa4m396c7n6jn2qh"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/87d0d619433206cadff9670cda06f7cc8c2dc614/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "0ysz5h3v8jwsakaf9sq91w53fj26n8a146fvykyhh4p6yrhfv100"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/87d0d619433206cadff9670cda06f7cc8c2dc614/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
+        "sha256": "085zg795aargj2afizhwbsl3b047b3fy63mzrixmyaaiv0g7218c"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/87d0d619433206cadff9670cda06f7cc8c2dc614/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.2.1b": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9043d1a443ee469543b1d9674512cd496624b75e/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "0jammzccxnl5fsdv4d22f50958ks2pclsi255qcciaj6ksjp5zg2"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9043d1a443ee469543b1d9674512cd496624b75e/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9043d1a443ee469543b1d9674512cd496624b75e/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "029slif2wx1k7dsfw7kb90z1h25pxwy9bdajaa4m396c7n6jn2qh"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9043d1a443ee469543b1d9674512cd496624b75e/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "0ysz5h3v8jwsakaf9sq91w53fj26n8a146fvykyhh4p6yrhfv100"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9043d1a443ee469543b1d9674512cd496624b75e/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
+        "sha256": "085zg795aargj2afizhwbsl3b047b3fy63mzrixmyaaiv0g7218c"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9043d1a443ee469543b1d9674512cd496624b75e/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.2b": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "06zr9rihv0vcdlp0phhz3v7wnqg82qvraxndlpldi9vv11p9pkvj"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/lament.config",
+        "sha256": "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "1hwknk86i1qpa8qywha5gbrfdq2d4c4y6g838m976yz5j554xvz1"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "0ysz5h3v8jwsakaf9sq91w53fj26n8a146fvykyhh4p6yrhfv100"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
+        "sha256": "1i2ynyj2dwqmqpiap226lbsgqzvzrmdv0f9my5l5vsdqgqga06mk"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.1.b": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ce13ea67b7c568a03c45aef6f6e3e993ae397594/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "1v18h29clx03df9xyjyinnr6i2v1p407zn62xcp0frpd3q6id949"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ce13ea67b7c568a03c45aef6f6e3e993ae397594/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ce13ea67b7c568a03c45aef6f6e3e993ae397594/MIDI%20Selector%20Tool/lament.config",
+        "sha256": "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ce13ea67b7c568a03c45aef6f6e3e993ae397594/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ce13ea67b7c568a03c45aef6f6e3e993ae397594/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "02qwpld0q02h23wsb3jaw5ssiw9sq2cbcdfx8wmpzbahgivyzdcg"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ce13ea67b7c568a03c45aef6f6e3e993ae397594/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.0.999c": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "1pxxrmnkwgga5ic23iqma8xvz5xw6yzzg0yxiqjf7fr1k5inry2y"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/lament.config",
+        "sha256": "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "02qwpld0q02h23wsb3jaw5ssiw9sq2cbcdfx8wmpzbahgivyzdcg"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.0.88c": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/b7c2d75d4969ff481e49a11ef8d8426aabca0e3f/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "1a7zx65h2iqjdnnjjnm1nk4inbhx059kb42l2yjlimiwfpqfpcvp"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/b7c2d75d4969ff481e49a11ef8d8426aabca0e3f/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/b7c2d75d4969ff481e49a11ef8d8426aabca0e3f/MIDI%20Selector%20Tool/lament.config",
+        "sha256": "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/b7c2d75d4969ff481e49a11ef8d8426aabca0e3f/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/b7c2d75d4969ff481e49a11ef8d8426aabca0e3f/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "02qwpld0q02h23wsb3jaw5ssiw9sq2cbcdfx8wmpzbahgivyzdcg"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/b7c2d75d4969ff481e49a11ef8d8426aabca0e3f/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.0.8c": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/32effb106c02583894243bf6efb82eb4764c257a/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "0j963i0ijf25i2np3kinjh7kznayxkkwzlapn30jhzih0f0lppnq"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/32effb106c02583894243bf6efb82eb4764c257a/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/32effb106c02583894243bf6efb82eb4764c257a/MIDI%20Selector%20Tool/lament.config",
+        "sha256": "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/32effb106c02583894243bf6efb82eb4764c257a/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/32effb106c02583894243bf6efb82eb4764c257a/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "02qwpld0q02h23wsb3jaw5ssiw9sq2cbcdfx8wmpzbahgivyzdcg"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/32effb106c02583894243bf6efb82eb4764c257a/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.0.8b": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9d87ad4b61be6db0f2ec98429ecc4283f834fa8a/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "1q8yrrfvy3sifzjzfa3785kllk9dzz77fn82agrmb35cv0wv4nz8"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9d87ad4b61be6db0f2ec98429ecc4283f834fa8a/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9d87ad4b61be6db0f2ec98429ecc4283f834fa8a/MIDI%20Selector%20Tool/lament.config",
+        "sha256": "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9d87ad4b61be6db0f2ec98429ecc4283f834fa8a/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9d87ad4b61be6db0f2ec98429ecc4283f834fa8a/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "02qwpld0q02h23wsb3jaw5ssiw9sq2cbcdfx8wmpzbahgivyzdcg"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9d87ad4b61be6db0f2ec98429ecc4283f834fa8a/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.0.778d": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/877b811438a2e1ad72646fe071ae2dff04738d81/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "1rcdgbqjk50fd50nxax34dvhn499ls4y9h31lhzvjs84pl3n8w20"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/877b811438a2e1ad72646fe071ae2dff04738d81/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/877b811438a2e1ad72646fe071ae2dff04738d81/MIDI%20Selector%20Tool/lament.config",
+        "sha256": "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/877b811438a2e1ad72646fe071ae2dff04738d81/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/877b811438a2e1ad72646fe071ae2dff04738d81/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "02qwpld0q02h23wsb3jaw5ssiw9sq2cbcdfx8wmpzbahgivyzdcg"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/877b811438a2e1ad72646fe071ae2dff04738d81/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.0.778c": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/94d9984e684ebf4afbcbe61bc3a8a4731f8ca3c0/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "0rx6xv55mgl3bvjy1110amkn3ai7089d9r236pv5k2wfrbg8b312"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/94d9984e684ebf4afbcbe61bc3a8a4731f8ca3c0/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/94d9984e684ebf4afbcbe61bc3a8a4731f8ca3c0/MIDI%20Selector%20Tool/lament.config",
+        "sha256": "11xqscibb9mq05sknapvp0mqdvwp3md4sdsn4bpw0wam530jr6x0"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/94d9984e684ebf4afbcbe61bc3a8a4731f8ca3c0/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "0v82kjia81nd5vvmd2d79jsfgm3bn1a1ds5sqjb0vbdbd1z9p805"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/94d9984e684ebf4afbcbe61bc3a8a4731f8ca3c0/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "1f3ygnil937knfcywprgf5c4p1080lfv93v6jh4c2hv9lsvcsn6n"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/94d9984e684ebf4afbcbe61bc3a8a4731f8ca3c0/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ],
+    "1.0.778b": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/15c99375808ec42b67cb57a5ac609e1dad895be9/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "18bk57i5wpqlzfj8phhb59w8fgr9krycmy61hiak4x6jypix8ack"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/15c99375808ec42b67cb57a5ac609e1dad895be9/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/15c99375808ec42b67cb57a5ac609e1dad895be9/MIDI%20Selector%20Tool/lament.config",
+        "sha256": "11xqscibb9mq05sknapvp0mqdvwp3md4sdsn4bpw0wam530jr6x0"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/15c99375808ec42b67cb57a5ac609e1dad895be9/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "147fpsqnj0w600y8x6wks6nhxxsi2vb5m8rqy8pi57jdgz6vm0j1"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/15c99375808ec42b67cb57a5ac609e1dad895be9/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "1f3ygnil937knfcywprgf5c4p1080lfv93v6jh4c2hv9lsvcsn6n"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/15c99375808ec42b67cb57a5ac609e1dad895be9/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/df.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/15c99375808ec42b67cb57a5ac609e1dad895be9/MIDI%20Selector%20Tool/presets/df.dat",
+        "sha256": "0d5dn8yfar47kli93m1216gpc5fgns5242hqs49gv92798x19x9q"
+      }
+    ],
+    "1.0.777b": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/e1ddbb8250a556ab200e22fe66a117a2a048693d/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
+        "sha256": "12qd9hfhx1vav1lf08j7iiw0zxfyl2k47sq08v3dsdb3qn8fcjq3"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/e1ddbb8250a556ab200e22fe66a117a2a048693d/MIDI%20Selector%20Tool/default_lament.config",
+        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
+        "url": "https://github.com/lemerchand/lemerchand/raw/e1ddbb8250a556ab200e22fe66a117a2a048693d/MIDI%20Selector%20Tool/lament.config",
+        "sha256": "11xqscibb9mq05sknapvp0mqdvwp3md4sdsn4bpw0wam530jr6x0"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/e1ddbb8250a556ab200e22fe66a117a2a048693d/MIDI%20Selector%20Tool/libs/cf.lua",
+        "sha256": "1qqn1cm7j2qfq85mdawy8bh16mjkcr4h7hb1hdzlk21507vvpwn9"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/e1ddbb8250a556ab200e22fe66a117a2a048693d/MIDI%20Selector%20Tool/libs/gui.lua",
+        "sha256": "1f3ygnil937knfcywprgf5c4p1080lfv93v6jh4c2hv9lsvcsn6n"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
+        "url": "https://github.com/lemerchand/lemerchand/raw/e1ddbb8250a556ab200e22fe66a117a2a048693d/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
+        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
+      }
+    ]
+  },
+  "Move selected notes to row under mouse.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/Misc MIDI Scripts/Move selected notes to row under mouse.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/472b327f1f02449654fbe62b6c7a9329d5e90156/Misc%20MIDI%20Scripts/Move%20selected%20notes%20to%20row%20under%20mouse.lua",
+        "sha256": "11xi2sjjpfz28jdc2ba5adyqnhm9ih2qzry7f3fxnz005y8l2ykw"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/Misc MIDI Scripts/Move selected notes to row under mouse.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/472b327f1f02449654fbe62b6c7a9329d5e90156/Misc%20MIDI%20Scripts/Move%20selected%20notes%20to%20row%20under%20mouse.lua",
+        "sha256": "11xi2sjjpfz28jdc2ba5adyqnhm9ih2qzry7f3fxnz005y8l2ykw"
+      }
+    ]
+  },
+  "SERA - Draw Tool.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Draw%20Tool.lua",
+        "sha256": "15j9na047j7w4146l0wn8h91im2914jf7xzjsdvhajkr46p1j2dc"
+      }
+    ],
+    "0.5.3": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Draw%20Tool.lua",
+        "sha256": "15j9na047j7w4146l0wn8h91im2914jf7xzjsdvhajkr46p1j2dc"
+      }
+    ],
+    "0.5.2": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Draw%20Tool.lua",
+        "sha256": "172kb90zpx29y1kvhsaqnzq5jm92zliwg30x3r214xg6x0bly73b"
+      }
+    ],
+    "0.5": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Draw%20Tool.lua",
+        "sha256": "0181mdp7kj28hgdap8w0vzv1jdna8q40hm64n0bzhnd5yivp6j6q"
+      }
+    ]
+  },
+  "SERA - Make Pattern Clip Unique.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
+        "sha256": "1xc2bn73xzw04jq5l87bdg147dkavhzbcjkiwkdjn6shv4f2aja1"
+      }
+    ],
+    "0.5.3": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
+        "sha256": "1xc2bn73xzw04jq5l87bdg147dkavhzbcjkiwkdjn6shv4f2aja1"
+      }
+    ],
+    "0.5.2": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
+        "sha256": "1d97pa8a5pd26aak7zg32l2fdvx355p99ibmyz4hphgf7bsmzvkg"
+      }
+    ],
+    "0.5.1": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
+        "sha256": "04x8if6x8hhrkrmqfplb5frpwkpasrnw0pb360h7q1x98vzi53sg"
+      }
+    ]
+  },
+  "SERA - Create Pattern Clip.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
+        "sha256": "0la8ckacd15ipq1bvy33a7mn5g6mw33mq3yipkhq536fv2yfssj8"
+      }
+    ],
+    "0.5.2": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
+        "sha256": "0la8ckacd15ipq1bvy33a7mn5g6mw33mq3yipkhq536fv2yfssj8"
+      }
+    ],
+    "0.5.1": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
+        "sha256": "1qzqbmyyxpfg6dp2rzfdkdlm3xynrlgxi4a69l9c3nq0x5nxp68a"
+      }
+    ],
+    "0.5": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
+        "sha256": "07n40yb528zs3wvbhq8lrnmvh3dax3i8z56zgmrgdb6r87wakk2i"
+      }
+    ]
+  },
+  "SERA - Toggle Pattern Clip.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
+        "sha256": "0sqccj2kxrv9gj5lbv0c1rfcjlqya76f7jnch1j9l05bvf3gpd3j"
+      }
+    ],
+    "0.5.3": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
+        "sha256": "0sqccj2kxrv9gj5lbv0c1rfcjlqya76f7jnch1j9l05bvf3gpd3j"
+      }
+    ],
+    "0.5.2": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
+        "sha256": "0kz1psk9jw3r657j92bqnxsr29vpjkxvnkcfhyak6hkx2n6qi3hr"
+      }
+    ],
+    "0.5.1": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
+        "sha256": "0zlpwb63rhm6c58n06zz7ir5jprkxk75rqnds20fxwlnydrwwkbr"
+      }
+    ],
+    "0.5": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
+        "sha256": "0lqs0l58r797fhica46k30710zzpvajchhy753cm5xpzpcx52jbl"
+      }
+    ]
+  },
+  "cmd.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/c9cb5531359d4543ab530799ce68a1da6b8e60d5/libss/cf.lua",
+        "sha256": "184xw26fnij5n3nxhzml9pxs4xfkcp4yj4kbsx7cb8wy9vbppbdx"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/c9cb5531359d4543ab530799ce68a1da6b8e60d5/libss/gui.lua",
+        "sha256": "1i12gzpdwhzvy2qbzgv45h7vi7bf19550q882j1r56pk3dk04l80"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/cmd.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/c9cb5531359d4543ab530799ce68a1da6b8e60d5/Practice/cmd.lua",
+        "sha256": "1zkd10v2n0gq1khdn1c9rkq844m6dv1d6x2jddsxl5whrdk88pw3"
+      }
+    ],
+    "0.7": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/c9cb5531359d4543ab530799ce68a1da6b8e60d5/libss/cf.lua",
+        "sha256": "184xw26fnij5n3nxhzml9pxs4xfkcp4yj4kbsx7cb8wy9vbppbdx"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/c9cb5531359d4543ab530799ce68a1da6b8e60d5/libss/gui.lua",
+        "sha256": "1i12gzpdwhzvy2qbzgv45h7vi7bf19550q882j1r56pk3dk04l80"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/cmd.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/c9cb5531359d4543ab530799ce68a1da6b8e60d5/Practice/cmd.lua",
+        "sha256": "1zkd10v2n0gq1khdn1c9rkq844m6dv1d6x2jddsxl5whrdk88pw3"
+      }
+    ],
+    "0.6.9b": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/2a3ea4031d06003b34732e04bd95ab6bd169ae21/libss/cf.lua",
+        "sha256": "184xw26fnij5n3nxhzml9pxs4xfkcp4yj4kbsx7cb8wy9vbppbdx"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/2a3ea4031d06003b34732e04bd95ab6bd169ae21/libss/gui.lua",
+        "sha256": "1i12gzpdwhzvy2qbzgv45h7vi7bf19550q882j1r56pk3dk04l80"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/cmd.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/2a3ea4031d06003b34732e04bd95ab6bd169ae21/Practice/cmd.lua",
+        "sha256": "0mqdgba3ay4hfb114vhx359rc0740g9vwll0hman3fp22hdyi78r"
+      }
+    ],
+    "0.6.6b": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/3afa681b44009f617e2d421d537942905c4686dc/libss/cf.lua",
+        "sha256": "05kvmfbbj1ndf7wfiprnwmx3fs4yjsw1rdjpzr0kvlkq85h49sjp"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/3afa681b44009f617e2d421d537942905c4686dc/libss/gui.lua",
+        "sha256": "1i12gzpdwhzvy2qbzgv45h7vi7bf19550q882j1r56pk3dk04l80"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/cmd.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/3afa681b44009f617e2d421d537942905c4686dc/Practice/cmd.lua",
+        "sha256": "0wxvfk2vx6ssqnhnsnqkjm3r8nn9g466cblyhwv5pqixivwmdzwh"
+      }
+    ],
+    "0.6.1b": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/libss/cf.lua",
+        "sha256": "05kvmfbbj1ndf7wfiprnwmx3fs4yjsw1rdjpzr0kvlkq85h49sjp"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/libss/gui.lua",
+        "sha256": "1i12gzpdwhzvy2qbzgv45h7vi7bf19550q882j1r56pk3dk04l80"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/cmd.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/Practice/cmd.lua",
+        "sha256": "0spx03khnw89bvsf5xgqsr5aspkshmsph1qcmp9wglnyc24bv0kc"
+      }
+    ],
+    "0.5.1b": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/cf.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/e1132ca428141e49839adec05894424e3f93a600/libss/cf.lua",
+        "sha256": "05kvmfbbj1ndf7wfiprnwmx3fs4yjsw1rdjpzr0kvlkq85h49sjp"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/gui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/e1132ca428141e49839adec05894424e3f93a600/libss/gui.lua",
+        "sha256": "0bq4b8aghidcxkr69w7qn6f6c152d1y5giqgj7g031cgl722v9am"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/Practice/cmd.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/e1132ca428141e49839adec05894424e3f93a600/Practice/cmd.lua",
+        "sha256": "0d7nmdbprxpgis2x919bwbq1ndn00kskvm6zhz20hd9i9rq0zqvm"
+      }
+    ]
+  },
   "itemtray.lua": {
     "latest": [
       {
@@ -765,757 +1763,6 @@
       }
     ]
   },
-  "MIDI Selector Tool.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "0vga7w9j0hrdg4y7sjsbddsqnay9qp1jg5fib539zkv8hcp5p15x"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "1grvaprg90didini94jzkd81m9djj4gr29jhsn37zs97ax3h7hvw"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
-        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template_time_selection.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua",
-        "sha256": "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.2.73": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "0vga7w9j0hrdg4y7sjsbddsqnay9qp1jg5fib539zkv8hcp5p15x"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "1grvaprg90didini94jzkd81m9djj4gr29jhsn37zs97ax3h7hvw"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
-        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template_time_selection.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua",
-        "sha256": "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5bb6425b3cce243d99137983741356b5a6bf7453/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.2.71": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "0pyp80ssrvm4p7k90ifm2rz2hf5dl0k0vn5m651ypmxdjx8sc9rb"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "1qpd6lkq5rfsbqv75kal45q3y0sd2yzlvblrbha27z155kv05hwb"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
-        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template_time_selection.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua",
-        "sha256": "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.2.68": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5d18b775064d7ba1c134c7d7f6ee0d0df28c4b9c/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "0l4449mszfk1vf9z2i950vy1drjy13cgw2rj1kiaypwywbiprg14"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5d18b775064d7ba1c134c7d7f6ee0d0df28c4b9c/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5d18b775064d7ba1c134c7d7f6ee0d0df28c4b9c/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "1sf2v8q1izp3df1zlwpggk0sk4hs2s02n8lj3m270s122vm5xriv"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5d18b775064d7ba1c134c7d7f6ee0d0df28c4b9c/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5d18b775064d7ba1c134c7d7f6ee0d0df28c4b9c/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
-        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template_time_selection.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5d18b775064d7ba1c134c7d7f6ee0d0df28c4b9c/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua",
-        "sha256": "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/5d18b775064d7ba1c134c7d7f6ee0d0df28c4b9c/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.2.67": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/759c9110afa5e3b77fe7a6488c16c0e0e77c8792/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "0isrqpyhl3a2d93jsak3mr7141hb96fm8v64yi464qaicsnx6kfj"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/759c9110afa5e3b77fe7a6488c16c0e0e77c8792/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/759c9110afa5e3b77fe7a6488c16c0e0e77c8792/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "1sf2v8q1izp3df1zlwpggk0sk4hs2s02n8lj3m270s122vm5xriv"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/759c9110afa5e3b77fe7a6488c16c0e0e77c8792/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/759c9110afa5e3b77fe7a6488c16c0e0e77c8792/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
-        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template_time_selection.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/759c9110afa5e3b77fe7a6488c16c0e0e77c8792/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua",
-        "sha256": "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/759c9110afa5e3b77fe7a6488c16c0e0e77c8792/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.2.66": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/8c4ad3cd76195a110d4978103e5cb5785952281d/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "1iy5q35fyva95vrf9glibxcd4f7ml727k5rqx67b3qjh47nxdawd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/8c4ad3cd76195a110d4978103e5cb5785952281d/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/8c4ad3cd76195a110d4978103e5cb5785952281d/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "0r6gcbcvksf28s3ccrgbrxzqlypg7kxwvg6z7cfd6rbzss40737x"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/8c4ad3cd76195a110d4978103e5cb5785952281d/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/8c4ad3cd76195a110d4978103e5cb5785952281d/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
-        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template_time_selection.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/8c4ad3cd76195a110d4978103e5cb5785952281d/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua",
-        "sha256": "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/8c4ad3cd76195a110d4978103e5cb5785952281d/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.2.6": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "0h3g5fkc5z7k9zvq834pyv32wlbr18yf64qzp2022a9132wmnsxb"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "0r6gcbcvksf28s3ccrgbrxzqlypg7kxwvg6z7cfd6rbzss40737x"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "0vqvqckxf9k0y9vl522lkw9slpqwrw1by57dlq01bjidqplpjc9b"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
-        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template_time_selection.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/preset_actions/preset_template_time_selection.lua",
-        "sha256": "0nz5yr1qlzvbm6j7kq0kh387mayhsy7sgxnq634jnmnijs2bnvpd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/dc850bc30e8f3853af51967984192515bd4ba74c/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.2.41": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac6c385931ff7f542160b46c43a40b39082110a4/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "143hskxn7cnc9llhhl9vd3590mx28fjfs66vqjgb4783cw10a0kz"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac6c385931ff7f542160b46c43a40b39082110a4/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac6c385931ff7f542160b46c43a40b39082110a4/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "1y4z5lhk4wlgbdfnzcnigcv0qlcai7zrf1bn17i26icj04gyn3rj"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac6c385931ff7f542160b46c43a40b39082110a4/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "072qwkq2w90k12q1a711biv932ysy9qmh016lvl8431xwrxpkylx"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac6c385931ff7f542160b46c43a40b39082110a4/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
-        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac6c385931ff7f542160b46c43a40b39082110a4/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.2.4": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/c4cc54e69d3c712d8e41ce4363e98b81f70c8cea/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "01n71iflh0ji4d5d9q605pksfvpym0z9whqvvjqqrgrkvghhky8g"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/c4cc54e69d3c712d8e41ce4363e98b81f70c8cea/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/c4cc54e69d3c712d8e41ce4363e98b81f70c8cea/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "1y4z5lhk4wlgbdfnzcnigcv0qlcai7zrf1bn17i26icj04gyn3rj"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/c4cc54e69d3c712d8e41ce4363e98b81f70c8cea/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "072qwkq2w90k12q1a711biv932ysy9qmh016lvl8431xwrxpkylx"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/c4cc54e69d3c712d8e41ce4363e98b81f70c8cea/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
-        "sha256": "0yq1gfrfmb8fipv9arn39xbvy0c130wwndvp1qman1wpchlxmgyd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/c4cc54e69d3c712d8e41ce4363e98b81f70c8cea/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.2.3b": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "0is8apz1qa2fag3jk5f7rlfr5xm7bj2awll53p15yszhas36j01y"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "1y4z5lhk4wlgbdfnzcnigcv0qlcai7zrf1bn17i26icj04gyn3rj"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "072qwkq2w90k12q1a711biv932ysy9qmh016lvl8431xwrxpkylx"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
-        "sha256": "085zg795aargj2afizhwbsl3b047b3fy63mzrixmyaaiv0g7218c"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.2.2b": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/87d0d619433206cadff9670cda06f7cc8c2dc614/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "0036w4905n1h6nbs3hq2a9z9wlimg9cd82pxamffrnski57nmqn4"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/87d0d619433206cadff9670cda06f7cc8c2dc614/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/87d0d619433206cadff9670cda06f7cc8c2dc614/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "029slif2wx1k7dsfw7kb90z1h25pxwy9bdajaa4m396c7n6jn2qh"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/87d0d619433206cadff9670cda06f7cc8c2dc614/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "0ysz5h3v8jwsakaf9sq91w53fj26n8a146fvykyhh4p6yrhfv100"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/87d0d619433206cadff9670cda06f7cc8c2dc614/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
-        "sha256": "085zg795aargj2afizhwbsl3b047b3fy63mzrixmyaaiv0g7218c"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/87d0d619433206cadff9670cda06f7cc8c2dc614/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.2.1b": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9043d1a443ee469543b1d9674512cd496624b75e/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "0jammzccxnl5fsdv4d22f50958ks2pclsi255qcciaj6ksjp5zg2"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9043d1a443ee469543b1d9674512cd496624b75e/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9043d1a443ee469543b1d9674512cd496624b75e/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "029slif2wx1k7dsfw7kb90z1h25pxwy9bdajaa4m396c7n6jn2qh"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9043d1a443ee469543b1d9674512cd496624b75e/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "0ysz5h3v8jwsakaf9sq91w53fj26n8a146fvykyhh4p6yrhfv100"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9043d1a443ee469543b1d9674512cd496624b75e/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
-        "sha256": "085zg795aargj2afizhwbsl3b047b3fy63mzrixmyaaiv0g7218c"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9043d1a443ee469543b1d9674512cd496624b75e/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.2b": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "06zr9rihv0vcdlp0phhz3v7wnqg82qvraxndlpldi9vv11p9pkvj"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/lament.config",
-        "sha256": "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "1hwknk86i1qpa8qywha5gbrfdq2d4c4y6g838m976yz5j554xvz1"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "0ysz5h3v8jwsakaf9sq91w53fj26n8a146fvykyhh4p6yrhfv100"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/preset_actions/preset_template.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/preset_actions/preset_template.lua",
-        "sha256": "1i2ynyj2dwqmqpiap226lbsgqzvzrmdv0f9my5l5vsdqgqga06mk"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/0a535d43047a9d35524681963e121f0bdeaf99ff/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.1.b": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ce13ea67b7c568a03c45aef6f6e3e993ae397594/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "1v18h29clx03df9xyjyinnr6i2v1p407zn62xcp0frpd3q6id949"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ce13ea67b7c568a03c45aef6f6e3e993ae397594/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ce13ea67b7c568a03c45aef6f6e3e993ae397594/MIDI%20Selector%20Tool/lament.config",
-        "sha256": "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ce13ea67b7c568a03c45aef6f6e3e993ae397594/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ce13ea67b7c568a03c45aef6f6e3e993ae397594/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "02qwpld0q02h23wsb3jaw5ssiw9sq2cbcdfx8wmpzbahgivyzdcg"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ce13ea67b7c568a03c45aef6f6e3e993ae397594/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.0.999c": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "1pxxrmnkwgga5ic23iqma8xvz5xw6yzzg0yxiqjf7fr1k5inry2y"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/lament.config",
-        "sha256": "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "02qwpld0q02h23wsb3jaw5ssiw9sq2cbcdfx8wmpzbahgivyzdcg"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/984e281438624dc8315cb5b9867439056bc5693e/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.0.88c": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/b7c2d75d4969ff481e49a11ef8d8426aabca0e3f/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "1a7zx65h2iqjdnnjjnm1nk4inbhx059kb42l2yjlimiwfpqfpcvp"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/b7c2d75d4969ff481e49a11ef8d8426aabca0e3f/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/b7c2d75d4969ff481e49a11ef8d8426aabca0e3f/MIDI%20Selector%20Tool/lament.config",
-        "sha256": "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/b7c2d75d4969ff481e49a11ef8d8426aabca0e3f/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/b7c2d75d4969ff481e49a11ef8d8426aabca0e3f/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "02qwpld0q02h23wsb3jaw5ssiw9sq2cbcdfx8wmpzbahgivyzdcg"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/b7c2d75d4969ff481e49a11ef8d8426aabca0e3f/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.0.8c": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/32effb106c02583894243bf6efb82eb4764c257a/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "0j963i0ijf25i2np3kinjh7kznayxkkwzlapn30jhzih0f0lppnq"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/32effb106c02583894243bf6efb82eb4764c257a/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/32effb106c02583894243bf6efb82eb4764c257a/MIDI%20Selector%20Tool/lament.config",
-        "sha256": "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/32effb106c02583894243bf6efb82eb4764c257a/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/32effb106c02583894243bf6efb82eb4764c257a/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "02qwpld0q02h23wsb3jaw5ssiw9sq2cbcdfx8wmpzbahgivyzdcg"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/32effb106c02583894243bf6efb82eb4764c257a/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.0.8b": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9d87ad4b61be6db0f2ec98429ecc4283f834fa8a/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "1q8yrrfvy3sifzjzfa3785kllk9dzz77fn82agrmb35cv0wv4nz8"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9d87ad4b61be6db0f2ec98429ecc4283f834fa8a/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9d87ad4b61be6db0f2ec98429ecc4283f834fa8a/MIDI%20Selector%20Tool/lament.config",
-        "sha256": "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9d87ad4b61be6db0f2ec98429ecc4283f834fa8a/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9d87ad4b61be6db0f2ec98429ecc4283f834fa8a/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "02qwpld0q02h23wsb3jaw5ssiw9sq2cbcdfx8wmpzbahgivyzdcg"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9d87ad4b61be6db0f2ec98429ecc4283f834fa8a/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.0.778d": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/877b811438a2e1ad72646fe071ae2dff04738d81/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "1rcdgbqjk50fd50nxax34dvhn499ls4y9h31lhzvjs84pl3n8w20"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/877b811438a2e1ad72646fe071ae2dff04738d81/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/877b811438a2e1ad72646fe071ae2dff04738d81/MIDI%20Selector%20Tool/lament.config",
-        "sha256": "024bj3jkpgv8vx45kmva4slcy797zgzc497fcmz3l0qbn1hakbhd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/877b811438a2e1ad72646fe071ae2dff04738d81/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "0qwbpa8qsja1h9j7c4vh9dwdcvkzgryrfaqmgzdhqjay86aisrrd"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/877b811438a2e1ad72646fe071ae2dff04738d81/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "02qwpld0q02h23wsb3jaw5ssiw9sq2cbcdfx8wmpzbahgivyzdcg"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/877b811438a2e1ad72646fe071ae2dff04738d81/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.0.778c": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/94d9984e684ebf4afbcbe61bc3a8a4731f8ca3c0/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "0rx6xv55mgl3bvjy1110amkn3ai7089d9r236pv5k2wfrbg8b312"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/94d9984e684ebf4afbcbe61bc3a8a4731f8ca3c0/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/94d9984e684ebf4afbcbe61bc3a8a4731f8ca3c0/MIDI%20Selector%20Tool/lament.config",
-        "sha256": "11xqscibb9mq05sknapvp0mqdvwp3md4sdsn4bpw0wam530jr6x0"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/94d9984e684ebf4afbcbe61bc3a8a4731f8ca3c0/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "0v82kjia81nd5vvmd2d79jsfgm3bn1a1ds5sqjb0vbdbd1z9p805"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/94d9984e684ebf4afbcbe61bc3a8a4731f8ca3c0/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "1f3ygnil937knfcywprgf5c4p1080lfv93v6jh4c2hv9lsvcsn6n"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/94d9984e684ebf4afbcbe61bc3a8a4731f8ca3c0/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ],
-    "1.0.778b": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/15c99375808ec42b67cb57a5ac609e1dad895be9/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "18bk57i5wpqlzfj8phhb59w8fgr9krycmy61hiak4x6jypix8ack"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/15c99375808ec42b67cb57a5ac609e1dad895be9/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/15c99375808ec42b67cb57a5ac609e1dad895be9/MIDI%20Selector%20Tool/lament.config",
-        "sha256": "11xqscibb9mq05sknapvp0mqdvwp3md4sdsn4bpw0wam530jr6x0"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/15c99375808ec42b67cb57a5ac609e1dad895be9/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "147fpsqnj0w600y8x6wks6nhxxsi2vb5m8rqy8pi57jdgz6vm0j1"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/15c99375808ec42b67cb57a5ac609e1dad895be9/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "1f3ygnil937knfcywprgf5c4p1080lfv93v6jh4c2hv9lsvcsn6n"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/15c99375808ec42b67cb57a5ac609e1dad895be9/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/df.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/15c99375808ec42b67cb57a5ac609e1dad895be9/MIDI%20Selector%20Tool/presets/df.dat",
-        "sha256": "0d5dn8yfar47kli93m1216gpc5fgns5242hqs49gv92798x19x9q"
-      }
-    ],
-    "1.0.777b": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/MIDI Selector Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/e1ddbb8250a556ab200e22fe66a117a2a048693d/MIDI%20Selector%20Tool/MIDI%20Selector%20Tool.lua",
-        "sha256": "12qd9hfhx1vav1lf08j7iiw0zxfyl2k47sq08v3dsdb3qn8fcjq3"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/default_lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/e1ddbb8250a556ab200e22fe66a117a2a048693d/MIDI%20Selector%20Tool/default_lament.config",
-        "sha256": "02f8a4jm906b90pyp2ksv0h5igshs3m5dxi8s14z8dfkr1fa10q5"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/lament.config",
-        "url": "https://github.com/lemerchand/lemerchand/raw/e1ddbb8250a556ab200e22fe66a117a2a048693d/MIDI%20Selector%20Tool/lament.config",
-        "sha256": "11xqscibb9mq05sknapvp0mqdvwp3md4sdsn4bpw0wam530jr6x0"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/e1ddbb8250a556ab200e22fe66a117a2a048693d/MIDI%20Selector%20Tool/libs/cf.lua",
-        "sha256": "1qqn1cm7j2qfq85mdawy8bh16mjkcr4h7hb1hdzlk21507vvpwn9"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/libs/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/e1ddbb8250a556ab200e22fe66a117a2a048693d/MIDI%20Selector%20Tool/libs/gui.lua",
-        "sha256": "1f3ygnil937knfcywprgf5c4p1080lfv93v6jh4c2hv9lsvcsn6n"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/MIDI Selector Tool/presets/Default Preset.dat",
-        "url": "https://github.com/lemerchand/lemerchand/raw/e1ddbb8250a556ab200e22fe66a117a2a048693d/MIDI%20Selector%20Tool/presets/Default%20Preset.dat",
-        "sha256": "17k76hl088h6n1cji1qd9r2gs0sbsi4v8zaqj840hrcpspnvn31m"
-      }
-    ]
-  },
   "multikey.lua": {
     "latest": [
       {
@@ -2100,253 +2347,6 @@
         "path": "Scripts/Scripts by Lemerchand/reaCon/ui.lua",
         "url": "https://github.com/lemerchand/lemerchand/raw/fc1b043a2227530f77ee117ff1f5203bac8b753e/reaCon/ui.lua",
         "sha256": "0xbfmb9rq4zxp3bbckcxad64jmld61cbpwa587jbzllgc7im88a6"
-      }
-    ]
-  },
-  "cmd.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/c9cb5531359d4543ab530799ce68a1da6b8e60d5/libss/cf.lua",
-        "sha256": "184xw26fnij5n3nxhzml9pxs4xfkcp4yj4kbsx7cb8wy9vbppbdx"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/c9cb5531359d4543ab530799ce68a1da6b8e60d5/libss/gui.lua",
-        "sha256": "1i12gzpdwhzvy2qbzgv45h7vi7bf19550q882j1r56pk3dk04l80"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/cmd.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/c9cb5531359d4543ab530799ce68a1da6b8e60d5/Practice/cmd.lua",
-        "sha256": "1zkd10v2n0gq1khdn1c9rkq844m6dv1d6x2jddsxl5whrdk88pw3"
-      }
-    ],
-    "0.7": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/c9cb5531359d4543ab530799ce68a1da6b8e60d5/libss/cf.lua",
-        "sha256": "184xw26fnij5n3nxhzml9pxs4xfkcp4yj4kbsx7cb8wy9vbppbdx"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/c9cb5531359d4543ab530799ce68a1da6b8e60d5/libss/gui.lua",
-        "sha256": "1i12gzpdwhzvy2qbzgv45h7vi7bf19550q882j1r56pk3dk04l80"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/cmd.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/c9cb5531359d4543ab530799ce68a1da6b8e60d5/Practice/cmd.lua",
-        "sha256": "1zkd10v2n0gq1khdn1c9rkq844m6dv1d6x2jddsxl5whrdk88pw3"
-      }
-    ],
-    "0.6.9b": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/2a3ea4031d06003b34732e04bd95ab6bd169ae21/libss/cf.lua",
-        "sha256": "184xw26fnij5n3nxhzml9pxs4xfkcp4yj4kbsx7cb8wy9vbppbdx"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/2a3ea4031d06003b34732e04bd95ab6bd169ae21/libss/gui.lua",
-        "sha256": "1i12gzpdwhzvy2qbzgv45h7vi7bf19550q882j1r56pk3dk04l80"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/cmd.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/2a3ea4031d06003b34732e04bd95ab6bd169ae21/Practice/cmd.lua",
-        "sha256": "0mqdgba3ay4hfb114vhx359rc0740g9vwll0hman3fp22hdyi78r"
-      }
-    ],
-    "0.6.6b": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/3afa681b44009f617e2d421d537942905c4686dc/libss/cf.lua",
-        "sha256": "05kvmfbbj1ndf7wfiprnwmx3fs4yjsw1rdjpzr0kvlkq85h49sjp"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/3afa681b44009f617e2d421d537942905c4686dc/libss/gui.lua",
-        "sha256": "1i12gzpdwhzvy2qbzgv45h7vi7bf19550q882j1r56pk3dk04l80"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/cmd.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/3afa681b44009f617e2d421d537942905c4686dc/Practice/cmd.lua",
-        "sha256": "0wxvfk2vx6ssqnhnsnqkjm3r8nn9g466cblyhwv5pqixivwmdzwh"
-      }
-    ],
-    "0.6.1b": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/libss/cf.lua",
-        "sha256": "05kvmfbbj1ndf7wfiprnwmx3fs4yjsw1rdjpzr0kvlkq85h49sjp"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/libss/gui.lua",
-        "sha256": "1i12gzpdwhzvy2qbzgv45h7vi7bf19550q882j1r56pk3dk04l80"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/cmd.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/ac7bf1cb589415aba763e648996a5c580e24f470/Practice/cmd.lua",
-        "sha256": "0spx03khnw89bvsf5xgqsr5aspkshmsph1qcmp9wglnyc24bv0kc"
-      }
-    ],
-    "0.5.1b": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/cf.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/e1132ca428141e49839adec05894424e3f93a600/libss/cf.lua",
-        "sha256": "05kvmfbbj1ndf7wfiprnwmx3fs4yjsw1rdjpzr0kvlkq85h49sjp"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/../libss/gui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/e1132ca428141e49839adec05894424e3f93a600/libss/gui.lua",
-        "sha256": "0bq4b8aghidcxkr69w7qn6f6c152d1y5giqgj7g031cgl722v9am"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/Practice/cmd.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/e1132ca428141e49839adec05894424e3f93a600/Practice/cmd.lua",
-        "sha256": "0d7nmdbprxpgis2x919bwbq1ndn00kskvm6zhz20hd9i9rq0zqvm"
-      }
-    ]
-  },
-  "SERA - Create Pattern Clip.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
-        "sha256": "0la8ckacd15ipq1bvy33a7mn5g6mw33mq3yipkhq536fv2yfssj8"
-      }
-    ],
-    "0.5.2": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
-        "sha256": "0la8ckacd15ipq1bvy33a7mn5g6mw33mq3yipkhq536fv2yfssj8"
-      }
-    ],
-    "0.5.1": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
-        "sha256": "1qzqbmyyxpfg6dp2rzfdkdlm3xynrlgxi4a69l9c3nq0x5nxp68a"
-      }
-    ],
-    "0.5": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
-        "sha256": "07n40yb528zs3wvbhq8lrnmvh3dax3i8z56zgmrgdb6r87wakk2i"
-      }
-    ]
-  },
-  "SERA - Draw Tool.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Draw%20Tool.lua",
-        "sha256": "15j9na047j7w4146l0wn8h91im2914jf7xzjsdvhajkr46p1j2dc"
-      }
-    ],
-    "0.5.3": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Draw%20Tool.lua",
-        "sha256": "15j9na047j7w4146l0wn8h91im2914jf7xzjsdvhajkr46p1j2dc"
-      }
-    ],
-    "0.5.2": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Draw%20Tool.lua",
-        "sha256": "172kb90zpx29y1kvhsaqnzq5jm92zliwg30x3r214xg6x0bly73b"
-      }
-    ],
-    "0.5": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Draw Tool.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Draw%20Tool.lua",
-        "sha256": "0181mdp7kj28hgdap8w0vzv1jdna8q40hm64n0bzhnd5yivp6j6q"
-      }
-    ]
-  },
-  "SERA - Make Pattern Clip Unique.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
-        "sha256": "1xc2bn73xzw04jq5l87bdg147dkavhzbcjkiwkdjn6shv4f2aja1"
-      }
-    ],
-    "0.5.3": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
-        "sha256": "1xc2bn73xzw04jq5l87bdg147dkavhzbcjkiwkdjn6shv4f2aja1"
-      }
-    ],
-    "0.5.2": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
-        "sha256": "1d97pa8a5pd26aak7zg32l2fdvx355p99ibmyz4hphgf7bsmzvkg"
-      }
-    ],
-    "0.5.1": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Make Pattern Clip Unique.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Make%20Pattern%20Clip%20Unique.lua",
-        "sha256": "04x8if6x8hhrkrmqfplb5frpwkpasrnw0pb360h7q1x98vzi53sg"
-      }
-    ]
-  },
-  "SERA - Toggle Pattern Clip.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
-        "sha256": "0sqccj2kxrv9gj5lbv0c1rfcjlqya76f7jnch1j9l05bvf3gpd3j"
-      }
-    ],
-    "0.5.3": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/d912d8304fc446c9dda33d3c843ed4d2a0a1b9e8/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
-        "sha256": "0sqccj2kxrv9gj5lbv0c1rfcjlqya76f7jnch1j9l05bvf3gpd3j"
-      }
-    ],
-    "0.5.2": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
-        "sha256": "0kz1psk9jw3r657j92bqnxsr29vpjkxvnkcfhyak6hkx2n6qi3hr"
-      }
-    ],
-    "0.5.1": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
-        "sha256": "0zlpwb63rhm6c58n06zz7ir5jprkxk75rqnds20fxwlnydrwwkbr"
-      }
-    ],
-    "0.5": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
-        "sha256": "0lqs0l58r797fhica46k30710zzpvajchhy753cm5xpzpcx52jbl"
-      }
-    ]
-  },
-  "Move selected notes to row under mouse.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/Misc MIDI Scripts/Move selected notes to row under mouse.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/472b327f1f02449654fbe62b6c7a9329d5e90156/Misc%20MIDI%20Scripts/Move%20selected%20notes%20to%20row%20under%20mouse.lua",
-        "sha256": "11xi2sjjpfz28jdc2ba5adyqnhm9ih2qzry7f3fxnz005y8l2ykw"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/Misc MIDI Scripts/Move selected notes to row under mouse.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/472b327f1f02449654fbe62b6c7a9329d5e90156/Misc%20MIDI%20Scripts/Move%20selected%20notes%20to%20row%20under%20mouse.lua",
-        "sha256": "11xi2sjjpfz28jdc2ba5adyqnhm9ih2qzry7f3fxnz005y8l2ykw"
       }
     ]
   }

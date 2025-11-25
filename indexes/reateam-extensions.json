@@ -672,89 +672,6 @@
       }
     ]
   },
-  "ak5k_ReaMCULive Programmable ReaScript API control surface extension.ext": {
-    "latest": [
-      {
-        "path": "UserPlugins/reaper_reamculive-aarch64.so",
-        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-aarch64.so",
-        "sha256": "044njk1ysc54xvl9jsspxvs5ncpl68n28l5mwiyl6w0mdclpqnlf"
-      },
-      {
-        "path": "UserPlugins/reaper_reamculive-arm64.dylib",
-        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-arm64.dylib",
-        "sha256": "1km97jbxm7sz9zhc23l77lgzpdx0a5kbplngak4sb3l30310xvlg"
-      },
-      {
-        "path": "UserPlugins/reaper_reamculive-x64.dll",
-        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-x64.dll",
-        "sha256": "0nf1ykh66s030nijflsy087l1kii6nc6fcbr7bnmdml75x3yaphw"
-      },
-      {
-        "path": "UserPlugins/reaper_reamculive-x86_64.dylib",
-        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-x86_64.dylib",
-        "sha256": "1j94hb23lc11ar4n8jm6f16176ah00dqha7xbj0r7qdrkr44g9ha"
-      },
-      {
-        "path": "UserPlugins/reaper_reamculive-x86_64.so",
-        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-x86_64.so",
-        "sha256": "1rpby53857fwmwpab9ib3mgbc99s224hx92lfv97zcs33635iz3d"
-      }
-    ],
-    "0.1.7": [
-      {
-        "path": "UserPlugins/reaper_reamculive-aarch64.so",
-        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-aarch64.so",
-        "sha256": "044njk1ysc54xvl9jsspxvs5ncpl68n28l5mwiyl6w0mdclpqnlf"
-      },
-      {
-        "path": "UserPlugins/reaper_reamculive-arm64.dylib",
-        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-arm64.dylib",
-        "sha256": "1km97jbxm7sz9zhc23l77lgzpdx0a5kbplngak4sb3l30310xvlg"
-      },
-      {
-        "path": "UserPlugins/reaper_reamculive-x64.dll",
-        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-x64.dll",
-        "sha256": "0nf1ykh66s030nijflsy087l1kii6nc6fcbr7bnmdml75x3yaphw"
-      },
-      {
-        "path": "UserPlugins/reaper_reamculive-x86_64.dylib",
-        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-x86_64.dylib",
-        "sha256": "1j94hb23lc11ar4n8jm6f16176ah00dqha7xbj0r7qdrkr44g9ha"
-      },
-      {
-        "path": "UserPlugins/reaper_reamculive-x86_64.so",
-        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-x86_64.so",
-        "sha256": "1rpby53857fwmwpab9ib3mgbc99s224hx92lfv97zcs33635iz3d"
-      }
-    ],
-    "0.1.6": [
-      {
-        "path": "UserPlugins/reaper_reamculive-aarch64.so",
-        "url": "https://github.com/ak5k/reamculive/releases/download/v0.1.6/reaper_reamculive-aarch64.so",
-        "sha256": "1vv6acbd3a3icm8y6a57lmicand671rk2j0hfwm9rk3q1kzn6b9q"
-      },
-      {
-        "path": "UserPlugins/reaper_reamculive-arm64.dylib",
-        "url": "https://github.com/ak5k/reamculive/releases/download/v0.1.6/reaper_reamculive-arm64.dylib",
-        "sha256": "00ihqw645a55mshi2xipjg91i3821yf61jipga1nv18z80z7w06p"
-      },
-      {
-        "path": "UserPlugins/reaper_reamculive-x64.dll",
-        "url": "https://github.com/ak5k/reamculive/releases/download/v0.1.6/reaper_reamculive-x64.dll",
-        "sha256": "15m4qf08j0yjz0ypp70qlqkkd7kyf247cq1lx5v4h1gbzvd5n860"
-      },
-      {
-        "path": "UserPlugins/reaper_reamculive-x86_64.dylib",
-        "url": "https://github.com/ak5k/reamculive/releases/download/v0.1.6/reaper_reamculive-x86_64.dylib",
-        "sha256": "1q3n7vvlb108km4c7c2a61dadrxrfppprkgzr5wjwaj4hmnb68fw"
-      },
-      {
-        "path": "UserPlugins/reaper_reamculive-x86_64.so",
-        "url": "https://github.com/ak5k/reamculive/releases/download/v0.1.6/reaper_reamculive-x86_64.so",
-        "sha256": "0jyz5mxkszxhj0b3ksggbgkh0kpf4cmasr080dgpzfawk81190d8"
-      }
-    ]
-  },
   "js_ReaScriptAPI.ext": {
     "latest": [
       {
@@ -5982,6 +5899,1153 @@
       }
     ]
   },
+  "ak5k_ReaMCULive Programmable ReaScript API control surface extension.ext": {
+    "latest": [
+      {
+        "path": "UserPlugins/reaper_reamculive-aarch64.so",
+        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-aarch64.so",
+        "sha256": "044njk1ysc54xvl9jsspxvs5ncpl68n28l5mwiyl6w0mdclpqnlf"
+      },
+      {
+        "path": "UserPlugins/reaper_reamculive-arm64.dylib",
+        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-arm64.dylib",
+        "sha256": "1km97jbxm7sz9zhc23l77lgzpdx0a5kbplngak4sb3l30310xvlg"
+      },
+      {
+        "path": "UserPlugins/reaper_reamculive-x64.dll",
+        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-x64.dll",
+        "sha256": "0nf1ykh66s030nijflsy087l1kii6nc6fcbr7bnmdml75x3yaphw"
+      },
+      {
+        "path": "UserPlugins/reaper_reamculive-x86_64.dylib",
+        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-x86_64.dylib",
+        "sha256": "1j94hb23lc11ar4n8jm6f16176ah00dqha7xbj0r7qdrkr44g9ha"
+      },
+      {
+        "path": "UserPlugins/reaper_reamculive-x86_64.so",
+        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-x86_64.so",
+        "sha256": "1rpby53857fwmwpab9ib3mgbc99s224hx92lfv97zcs33635iz3d"
+      }
+    ],
+    "0.1.7": [
+      {
+        "path": "UserPlugins/reaper_reamculive-aarch64.so",
+        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-aarch64.so",
+        "sha256": "044njk1ysc54xvl9jsspxvs5ncpl68n28l5mwiyl6w0mdclpqnlf"
+      },
+      {
+        "path": "UserPlugins/reaper_reamculive-arm64.dylib",
+        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-arm64.dylib",
+        "sha256": "1km97jbxm7sz9zhc23l77lgzpdx0a5kbplngak4sb3l30310xvlg"
+      },
+      {
+        "path": "UserPlugins/reaper_reamculive-x64.dll",
+        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-x64.dll",
+        "sha256": "0nf1ykh66s030nijflsy087l1kii6nc6fcbr7bnmdml75x3yaphw"
+      },
+      {
+        "path": "UserPlugins/reaper_reamculive-x86_64.dylib",
+        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-x86_64.dylib",
+        "sha256": "1j94hb23lc11ar4n8jm6f16176ah00dqha7xbj0r7qdrkr44g9ha"
+      },
+      {
+        "path": "UserPlugins/reaper_reamculive-x86_64.so",
+        "url": "https://github.com/ak5k/reamculive/releases/download/0.1.7/reaper_reamculive-x86_64.so",
+        "sha256": "1rpby53857fwmwpab9ib3mgbc99s224hx92lfv97zcs33635iz3d"
+      }
+    ],
+    "0.1.6": [
+      {
+        "path": "UserPlugins/reaper_reamculive-aarch64.so",
+        "url": "https://github.com/ak5k/reamculive/releases/download/v0.1.6/reaper_reamculive-aarch64.so",
+        "sha256": "1vv6acbd3a3icm8y6a57lmicand671rk2j0hfwm9rk3q1kzn6b9q"
+      },
+      {
+        "path": "UserPlugins/reaper_reamculive-arm64.dylib",
+        "url": "https://github.com/ak5k/reamculive/releases/download/v0.1.6/reaper_reamculive-arm64.dylib",
+        "sha256": "00ihqw645a55mshi2xipjg91i3821yf61jipga1nv18z80z7w06p"
+      },
+      {
+        "path": "UserPlugins/reaper_reamculive-x64.dll",
+        "url": "https://github.com/ak5k/reamculive/releases/download/v0.1.6/reaper_reamculive-x64.dll",
+        "sha256": "15m4qf08j0yjz0ypp70qlqkkd7kyf247cq1lx5v4h1gbzvd5n860"
+      },
+      {
+        "path": "UserPlugins/reaper_reamculive-x86_64.dylib",
+        "url": "https://github.com/ak5k/reamculive/releases/download/v0.1.6/reaper_reamculive-x86_64.dylib",
+        "sha256": "1q3n7vvlb108km4c7c2a61dadrxrfppprkgzr5wjwaj4hmnb68fw"
+      },
+      {
+        "path": "UserPlugins/reaper_reamculive-x86_64.so",
+        "url": "https://github.com/ak5k/reamculive/releases/download/v0.1.6/reaper_reamculive-x86_64.so",
+        "sha256": "0jyz5mxkszxhj0b3ksggbgkh0kpf4cmasr080dgpzfawk81190d8"
+      }
+    ]
+  },
+  "ak5k_ReaLlm REAPER Low latency monitoring plug-in extension.ext": {
+    "latest": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-aarch64.so",
+        "sha256": "1lp968zb0xsgg781kcsxxshg2p5k3j2fi5hw3yfc7rz7lfx0s0qj"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-arm64.dylib",
+        "sha256": "1yl0q3xafi65ijw4j6mj3l3r5px2wgf1ilzqvxaadwqz55fr84mk"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64ec.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-arm64ec.dll",
+        "sha256": "0plca6mmahq7aik3zmqc5njjm5rd658jd8axif2mm611fpwcvwcr"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-armv7l.so",
+        "sha256": "10789fpa4haxm07252pvnrzhxd9jx70zdd3izx28ccxp6j9kl6s1"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-i386.dylib",
+        "sha256": "0li97rz1xpm42ary7lzzvrv8726y470ypi3sz05lxxrwmycj7hnl"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-i686.so",
+        "sha256": "1c3hz2s5p3acaric0wxbkr5wkppvw3vvnac3xsvz73qlblgrg1gf"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x64.dll",
+        "sha256": "062qmaivzv1s3104ixksn415f40npc5gk068bszxyhzka9lxzzjq"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86.dll",
+        "sha256": "1i9s31437wb16697ba2833wizvmq5ykhgdxmfpr0ibvdkf619pv8"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86_64.dylib",
+        "sha256": "1j8y40brikww00pxvadx222x1b8j75r3xsimc8g765yrhca2c2dx"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86_64.so",
+        "sha256": "1f98bpwxl6isxlgn42w60cf7z0rh3j7am85mmrd4r7sbmlzdss9v"
+      }
+    ],
+    "0.7.0": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-aarch64.so",
+        "sha256": "1lp968zb0xsgg781kcsxxshg2p5k3j2fi5hw3yfc7rz7lfx0s0qj"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-arm64.dylib",
+        "sha256": "1yl0q3xafi65ijw4j6mj3l3r5px2wgf1ilzqvxaadwqz55fr84mk"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64ec.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-arm64ec.dll",
+        "sha256": "0plca6mmahq7aik3zmqc5njjm5rd658jd8axif2mm611fpwcvwcr"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-armv7l.so",
+        "sha256": "10789fpa4haxm07252pvnrzhxd9jx70zdd3izx28ccxp6j9kl6s1"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-i386.dylib",
+        "sha256": "0li97rz1xpm42ary7lzzvrv8726y470ypi3sz05lxxrwmycj7hnl"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-i686.so",
+        "sha256": "1c3hz2s5p3acaric0wxbkr5wkppvw3vvnac3xsvz73qlblgrg1gf"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x64.dll",
+        "sha256": "062qmaivzv1s3104ixksn415f40npc5gk068bszxyhzka9lxzzjq"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86.dll",
+        "sha256": "1i9s31437wb16697ba2833wizvmq5ykhgdxmfpr0ibvdkf619pv8"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86_64.dylib",
+        "sha256": "1j8y40brikww00pxvadx222x1b8j75r3xsimc8g765yrhca2c2dx"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86_64.so",
+        "sha256": "1f98bpwxl6isxlgn42w60cf7z0rh3j7am85mmrd4r7sbmlzdss9v"
+      }
+    ],
+    "0.6.10": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-aarch64.so",
+        "sha256": "071xgbagbpc7iv7vqa2nj0b7igasvn2mzsn9mnas63862b981wz0"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-arm64.dylib",
+        "sha256": "1854zk5hzz3pnwj1jz6y2nq85cd7kwgl10k3acfd78hzd1jppzqz"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-armv7l.so",
+        "sha256": "0y0y5n04b9nfz2fsgdf6dayw0djcm1xwkcq4dwbhkblwyrirgxs1"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-i386.dylib",
+        "sha256": "1ahwyfzfnlhwiny4kyfyy0lb2pvkcniyc7d5mkn4xyrc3zwwl7fd"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-i686.so",
+        "sha256": "18105nl3p1xs7jgqb5qdi292klm0vxx7hflzawzp28639wp63hjc"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-x64.dll",
+        "sha256": "05bj0lj92772vawdcs0gv2irjd0317mly5l55vk1ac2nil5brpyf"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-x86.dll",
+        "sha256": "07cmcfifdkz22sdag6i9bjvz2a1s4cpg1mv391liyvirk558ssks"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-x86_64.dylib",
+        "sha256": "0pll72ri729li38kpmyj6xv5ahqs3cmbiwflf8kh7h16kpwhw2ai"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-x86_64.so",
+        "sha256": "1g1byzsnwcjwxpzqq17drf3l0fi8pdih119mrnxzjpyl0c9rjj97"
+      }
+    ],
+    "0.6.9": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-aarch64.so",
+        "sha256": "0x14m4m3cb0xr1j9327qw6bk219jsv5dz4fvpmscjw8xim1cvg46"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-arm64.dylib",
+        "sha256": "01bgna50047ijvfj8iwd4h5ims0s16xzdv9s7hp025xbfsvig422"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-armv7l.so",
+        "sha256": "0kh3drx65siqr7plwbphysd4919j1rlajfaxb8v3250m7v3940s8"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-i386.dylib",
+        "sha256": "096x51lqg2flk3avk614zz7w0riw859gilf6k2mrivmwakzx3n4h"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-i686.so",
+        "sha256": "013p5ckqf4gv9xmmm83i716bli8lrq7glk788kq229xd4q9v8j1i"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-x64.dll",
+        "sha256": "12fb7i8a1j5lq33ccciv641bqnjdn8b6l1bpndr7lrh08zgfyhvh"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-x86.dll",
+        "sha256": "1q2ldgzgv3q9hiacbwasmlav13l78lr696gi43prs05y555wbjys"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-x86_64.dylib",
+        "sha256": "0rpyzq3fzmy11yn30iqvj8gzkd31xr7yxjgwas1p6w5zbfsa12ja"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-x86_64.so",
+        "sha256": "1b07b89z9haqf27xwc7fycjsw2dgqchlgn4w7ig09a4gr32y3dyj"
+      }
+    ],
+    "0.6.8": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-aarch64.so",
+        "sha256": "0rhzphwv9m6n779mgdpshrpk9kiwf9f7j9vxjm5w3k4ixy6bzp80"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-arm64.dylib",
+        "sha256": "1la4jn602gssw3n8k0swz58i662bis06hmczv63zanxzrw9m3mkb"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-armv7l.so",
+        "sha256": "0qj6phlal0r5k08sa2whd5b7d393rpk386i17ns0b1y68s65c061"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-i386.dylib",
+        "sha256": "13rcmk9g59z98b34hmflvgdlpl3cjdr336qsvwgm3cyrzcq0ijbp"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-i686.so",
+        "sha256": "1w4ipvb13sm4hbw30xnyda0d97cnkpx263fkld1pvcwyzjbgxw5g"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-x64.dll",
+        "sha256": "1vvhabsg2zrxh0mj0s0dq7g14qq9zqs46bnj08r988nndvkbj8n4"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-x86.dll",
+        "sha256": "0z76sdngsnh13bx7sz6jmrg5k3bvy54v50ihs6s4h2yz776q55yx"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-x86_64.dylib",
+        "sha256": "125ylyn8w1k2fsdc05im3z3gxfnv1zfzmm5j61ig9cq79xcp2knx"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-x86_64.so",
+        "sha256": "1pkb7m87kzsd05vmpbk0drcvf434mhzxrqp1j0giavx4d5r81cjj"
+      }
+    ],
+    "0.6.7": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-aarch64.so",
+        "sha256": "14dgyg0zkl9ycq7x8hksnv2gw6vdw6qinxl9cymfmvgw5d4gqg99"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-arm64.dylib",
+        "sha256": "040rvrv347bd0znn56l4wj1k76dvxy2k407nfx96j542733inhjg"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-armv7l.so",
+        "sha256": "06fj86170y9s2j5nnn51bykf5lfq1n3gmcknpx4s7lcyb52g14f5"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-i386.dylib",
+        "sha256": "0wwa45ycxx4nwcw3z6ydxbgczmnscdik8vsra0j9qj3jrv5z3h6d"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-i686.so",
+        "sha256": "158jzsmd8mhx7i0ymmsx3szmk10ag7769hnj9yg7nqds40db5p25"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-x64.dll",
+        "sha256": "0j0hg9bgfyb2y7grm96512xrm6f8d34l4kgn03vnaz6fg1fw54za"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-x86.dll",
+        "sha256": "1ck177px23hg6q2a56svcj75v11w8hdxkdxgcg384cpv8mn1qw62"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-x86_64.dylib",
+        "sha256": "0zwcziv2l9fc65bp67prw9zcgw5dsq3jsbqln20nl4433d40ibjr"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-x86_64.so",
+        "sha256": "1i343jmj6lrcpypyxyblajslxw33106amxdjl072lc93ncx6f7gk"
+      }
+    ],
+    "0.6.6": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-aarch64.so",
+        "sha256": "0gg4ydpmrir2qbf8inw1jzk5q6fb8hghlcdhi4dmdcj2g1bbkkb1"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-arm64.dylib",
+        "sha256": "04glcvbnvc9r2x7z3n8q8ywrgn52nfzjaamhwkl1522yw9gjf21h"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-armv7l.so",
+        "sha256": "1rh1pqy10kk98myfv82yf8rhk0xpvcvm80fyxwg6y4h725hzv52x"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-i386.dylib",
+        "sha256": "19gyaplrspq6wj4sa96wnp0fd6g4zcpczyp9vawbzkpghszv1n8k"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-i686.so",
+        "sha256": "1f2scr5cmahf1862fbd6ivz3mh2h1xpbyf189a6q01xp7irz677a"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-x64.dll",
+        "sha256": "18p3s053c0vywx6h39skiw3i0jhjf771havns6902msv45sdivdk"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-x86.dll",
+        "sha256": "0yc857n3dr2qf19r5knqraix014yxafp3x13qiam31jfbr8j3mqj"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-x86_64.dylib",
+        "sha256": "1a0i1jmjxsca6vbmsgcksmvq2wlpwqcjnnr1jzmvjdyg3sx36s3r"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-x86_64.so",
+        "sha256": "09f87na8alb0ms1mmndjkyixd68ljaqi6byf9hlnwkh8dx5xp2d7"
+      }
+    ],
+    "0.6.5": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-aarch64.so",
+        "sha256": "0z88kdvwfqwwr3y465jfdvf8498gavc639aknzgmswrbbf1vr5yd"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-arm64.dylib",
+        "sha256": "0l0cig6m8ms5ixb5yh486sr7id19wzy9yd7d48ri0cjw0s3pqwzg"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-armv7l.so",
+        "sha256": "1bx6nm6w6vilqbn9kx4n7zymh2bcl3f9005da90q4l3pi4bf07ri"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-i386.dylib",
+        "sha256": "03zygblf3by8sdk7apwdihm67kfxw8ikvjn27ymwyvfncyb1j1gb"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-i686.so",
+        "sha256": "16jja81va27xsz9dnpgbh9cs25b80i6y4z51rafqzaax3q0zrb87"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-x64.dll",
+        "sha256": "0kvknwj155f6a3wbdvy0d7b8i2v7r904jld6crg8vq4vml5c1xjd"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-x86.dll",
+        "sha256": "1xavbqplj17hvq84wr0znmbdk508n8byvhr59d1vf6y9hxyxlykv"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-x86_64.dylib",
+        "sha256": "0jc11x7vxfbvhwgvlnf5j6f6rhz0afywbp26i1x7g39wjk7dsypg"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-x86_64.so",
+        "sha256": "1kbmq2r9q7p8ibm92bmv100bpa9v1b4rnbi4r9z8vn33py7wh2xv"
+      }
+    ],
+    "0.6.4": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-aarch64.so",
+        "sha256": "1pdaw4ra2w4y8ifq0djm25q73sy04hrr7cvs8lvkkar0q2yswqzc"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-arm64.dylib",
+        "sha256": "1k5ck4ck99cf917xxhxpc56fqinfqp5qwyr9nxfjysv2iwg3lfj5"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-armv7l.so",
+        "sha256": "0rqvmybaikxnwhq63fx30dbbcjwff20xb74m4hjbhxig5jljicys"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-i386.dylib",
+        "sha256": "16f2cciq4a7z591b5i295jc9ic1h7n4pn489ari1zp5j0nq43fv6"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-i686.so",
+        "sha256": "170f49kw6qbxjk0idwddvgg7hznkixyjh5spk74dam5rd8p63k0v"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-x64.dll",
+        "sha256": "1rvr71d1g79kisqkaa2471wq294n13r68vfs21xn9w6xyqayz8qz"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-x86.dll",
+        "sha256": "0yw5gg0sgm3zhgkphm4v7nl5ki93pybkcs2z7qqn0bzbzwg58qh9"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-x86_64.dylib",
+        "sha256": "0vgn7jza037jj702bxkirjdysfwnm2bags16zgabd46i99vwh51w"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-x86_64.so",
+        "sha256": "1rj83q4m4fj9xahz5ma2xqb72prrjmpigdlfmw6k060dj8zn4k21"
+      }
+    ],
+    "0.6.3": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-aarch64.so",
+        "sha256": "0881lhgga0kc9wpbapv490fzr32jknbka4kmkyrcafvr8h342ib1"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-arm64.dylib",
+        "sha256": "14653ya7pdsljbprsnvgi6q7a81419w00zr5j7xqnaxhc0f3fv5x"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-armv7l.so",
+        "sha256": "10f2fz60npcp4fznrmqgdhiqd59krzc18v37l9fvkmhwpb7szmkd"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-i386.dylib",
+        "sha256": "1lgnaf90rhkpasw43f6xy72zj3wpszx0bwp85qq5pjdv5bqlfcbc"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-i686.so",
+        "sha256": "10iadnr5d6w80kkxciqlynrzr0mi2f9vjc6sann0vavjjkva359b"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-x64.dll",
+        "sha256": "0pybxpqx2vqw5vajsmsm7wls8qw5k1nd00d20qnqm6r30xscd65j"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-x86.dll",
+        "sha256": "0a1wqjr2i97cr8mhaxig23v5x0142qq0324n24l7393s1vd4r39m"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-x86_64.dylib",
+        "sha256": "06q9axnnh8rkpiw16gvxmf6cnxxvy6in809dy2xnqh1lfgpkypj2"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-x86_64.so",
+        "sha256": "0rz0p8dfjivv7qfgx2nd8h3d93d5pjq2zsqgbxflzfilcnwxwn1s"
+      }
+    ],
+    "0.6.2": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-aarch64.so",
+        "sha256": "0vjqq1ym5zniav370bwgqxg9x05w76lkyis0irx8nlqpxdrz5ifi"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-arm64.dylib",
+        "sha256": "19xpcpjby6m1mi0l2jssfish5jyks4krqpbmyahavs4vqs3vyd5a"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-armv7l.so",
+        "sha256": "0siawprqy9rhrkjd12vvsfmvpannyp5594kydx50zb9lfmg215bk"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-i386.dylib",
+        "sha256": "0ya8d1vw9ibrqwaww7wcif4z652j3zn9a4d37iwz5pgxyhpjkf3c"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-i686.so",
+        "sha256": "0l8i24xha7ll5mkaw6pm61b3vvakkkacyjx3ca26yg4y6m9dxdwb"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-x64.dll",
+        "sha256": "0s8p8iqk1mxx5ipzp3vi96si1y1cqfc3vdli6i0ri8az7hsifwrz"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-x86.dll",
+        "sha256": "0fs3lc905p6pyrzxa8d49v80gk51xwm4j3rwlp6js8qqv5x8ddl3"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-x86_64.dylib",
+        "sha256": "1zda7pvjn80fjc5g4dwywyfriw2rkfn62v4q75vl8gs6alincfsl"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-x86_64.so",
+        "sha256": "1xg3s2zdn5ky15nmdv6yzb0vxpwdc5dm5k0sawrsxiksrx5dpcb7"
+      }
+    ],
+    "0.6.1": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-aarch64.so",
+        "sha256": "1nakp734sn0011sl270jax402q1rx2qc8h7lszm8kclsgp76gda6"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-arm64.dylib",
+        "sha256": "133mx8wiyjzg65yffrw6q6mp81qhxlf94xpin738sdkcgsqw4md6"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-armv7l.so",
+        "sha256": "0394zrnhja572daapz23acwgjj4gwl28byqlvpqnfavh234g4kfd"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-i386.dylib",
+        "sha256": ""
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-i686.so",
+        "sha256": "1hmklsl447i95lwq6rxm9jyrxx3c2cz2yfd8c2l3dvbshb1clhjs"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-x64.dll",
+        "sha256": "13xsnshd4c22vqc1w2xpdwl519xfbmr1k09ps41838gzi66l8459"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-x86.dll",
+        "sha256": "0jdjf2wjslsnqi4d0ml2ph5hig5cdp8ick25sp08zr29hi4n5pmi"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-x86_64.dylib",
+        "sha256": "1wl3rbplhh02n0vahwdi8vnir36p7f609mwfnfhb02ayjwmh3mks"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-x86_64.so",
+        "sha256": "1xn6hdb6qjzcbb6fp0f1mrm22p2z8vzid94icffgan3fnxwzzmn1"
+      }
+    ],
+    "0.5.0": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-aarch64.so",
+        "sha256": "17lwkrxra65cchnfzhv5mrhakdk84r4pz5vc7p6p8v5p6jqj73gx"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-arm64.dylib",
+        "sha256": "02qn7byv37iwbaz8spigpnl9gpbvn9np749z5780cngxhs57ss1c"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-armv7l.so",
+        "sha256": "1vjk0hw1j8c11nvjssrb8dnzxiwllcfanfhvrvv4njzg73x3hfp1"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-i386.dylib",
+        "sha256": "06ds13hqwgldw7zsf4f8drh3aaksm32c0ay99jy3fziqs493gblw"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-i686.so",
+        "sha256": "1amw356sm3kc8ddm5azw7gv79nc93pmavc7zi905padq59jdqsim"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-x64.dll",
+        "sha256": "0f3gah64a7hjkl4g55f7sl7cvzdbnbb80sgfsiql7qjqh3ypphbq"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-x86.dll",
+        "sha256": "1p6zdmyw6jyzh0w175pri5cbi4fyz3z1a2zz8fcy9nd2bpzmnbjf"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-x86_64.dylib",
+        "sha256": "0as2j24a7k0gn4wjidkfxgnzqhqwvzk5pbdc077nh1djwwyv1x2s"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-x86_64.so",
+        "sha256": "07zvzam58wg8zlrks4v6i4p9nssxjbkvp3ll4fwairvvg3gvg3zn"
+      }
+    ],
+    "0.4.3": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-aarch64.so",
+        "sha256": "00xyivfz69n503xcs0hix61byjm46dfbm5ag640hl5j3icvhcdrb"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-arm64.dylib",
+        "sha256": "1vn3i2i2glaaq3dv7rpv7qnbc6rzqx7g6mgs01f3ldg4aclkmzq5"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-armv7l.so",
+        "sha256": "0q61pvsmy8spz4cyd6p3dlq7rlpj62g28d2d1f37ada8air3cp0b"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-i386.dylib",
+        "sha256": "0l7bpj9cwfq4rssnfs8azs7305j958caa304kks703ih96h6a1zr"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-i686.so",
+        "sha256": "0gqk5nikfyk448dngv9ngi08f473nzqhqh3gdrwivifncrr4wfvb"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-x64.dll",
+        "sha256": "0k8b6ns4vav10sd7iq65zdgx5hkispxnfwlf90vi5f56dnfdd2w8"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-x86.dll",
+        "sha256": "1r016ds8zs6ilzn5psc5rksln6v6jg6cpra4sva5f6f71rlm14j8"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-x86_64.dylib",
+        "sha256": "0a7l2y6g9lpn7162wd8rd1gv0fsjk8yw4q0man8v8zbcd2zdw3qg"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-x86_64.so",
+        "sha256": "0kpz834lda94421n1csi1r1hnpsnqqmc5ikyqvq1y6fwnganzbq8"
+      }
+    ],
+    "0.4.1": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-aarch64.so",
+        "sha256": "1grrh4bmgv82yr4202qspsc5dvqip2w93zgfqgfn9c5f0k6sf6pd"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-arm64.dylib",
+        "sha256": "0sv9c3rs2728kyihsw62isdb64am3p3d1p1d4ip6hd2gmkj674fn"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-armv7l.so",
+        "sha256": "040iz3xs447ar6vgdqjfpqb482ar2958636lxf028lw6vah8kmpc"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-i386.dylib",
+        "sha256": "11q38rij64bwmvizf647rbzd9c357myswia768019ql5rhb21i2m"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-i686.so",
+        "sha256": "0d2bhab164xvfw8sjg816rw523c0jy48j111c19azwb3z319579b"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-x64.dll",
+        "sha256": "0yrwnwv8qyfagsbpv54ia2gvqh0ns367skflwssnc9yp3bia721b"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-x86.dll",
+        "sha256": "1z4fr41ax9m3xwc00vi0gay41grd4fh8jbkcw3s45s2xysl72avy"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-x86_64.dylib",
+        "sha256": "13afpljzhwqlbshird2jf8q5wy0l0bhcjlw0wzzkhlkk0q7795pk"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-x86_64.so",
+        "sha256": "0gv18pwb43p35i8dmmq051b0kk55cb5y79chr2v6iq23pkxazr5l"
+      }
+    ],
+    "0.4.0": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-aarch64.so",
+        "sha256": "1wqi8mrvv1psi727dcdd8x7c0yy02lhwnrhap7aal343f2bg9bg3"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-arm64.dylib",
+        "sha256": "1dvwibx10gyqxyxkaa0rsp0k3axccgv14cdxlbqjxndf53cdpwma"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-armv7l.so",
+        "sha256": "14cgllgd3dv3777h927g8hcdih070k5bw440fjpws4ynrd22ciz0"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-i386.dylib",
+        "sha256": "1fvg0vqh9c9r9r94jgpajl0wq5dcqccmz1z5rw8iy22l29d7zykj"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-i686.so",
+        "sha256": "1wv6gkfz6dm8s9zbrl6ixn1qnyk5jkrb5a4a7rb6d8xcf4xp0d5d"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-x64.dll",
+        "sha256": "0nzy0529alvh7qfw6dgi7g1gpwr7l12c72fz1p3q5qp2mmw59zi9"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-x86.dll",
+        "sha256": "1jbjk95gbpnbj7aa9v1ld2x4kwyg02wja7mbr4hb8sabzkgbr7ar"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-x86_64.dylib",
+        "sha256": "1pds3qqk5l7vk0fhqwcwwprz9741m6kaq8ibg245gc1p0zq5vq2z"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-x86_64.so",
+        "sha256": "0iwcqjylymn3pz9fx1lsfyv47ga103l6yaxlg2fx4jz5vqgrwv7g"
+      }
+    ],
+    "0.3.2": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-aarch64.so",
+        "sha256": "1xnb6ba3ajms3np054lqqiyvbzb4bqgkr09sksv19f0v7i41njyc"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-arm64.dylib",
+        "sha256": "0wmg0r7flbsl4j4alhn02wklh1dj7012i38ycrsv5x4yrh95h2pa"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-armv7l.so",
+        "sha256": "1j9a9nm9020601h95gc7gihr1i3b3x3jrg8wr05q23wr0vkspzlq"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-i386.dylib",
+        "sha256": "0inq95b14z7vikl2zy71fbb94vixd8snp25ha2kzn86pb4yxjqkr"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-i686.so",
+        "sha256": "18g2giqxl2b822159az2xw06j6dihlb6ps90cfrwd9qprrjhk1zj"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-x64.dll",
+        "sha256": "1sgippc5svb4b8r5vvw3f757gr3h1i9h38cqvmgrzkqyixq328ax"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-x86.dll",
+        "sha256": "00brxic30s74f5v0g7jacfwb5a68x8fmk5763rslqaxn9ifwcava"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-x86_64.dylib",
+        "sha256": "1pnx2fvclfpa7jar0xnmqryfrlhp7wwaffg2nzklnis81x6wj3p1"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-x86_64.so",
+        "sha256": "0cyp26nxdak8ldp2ih0d89wy5971zn6jadi2zy9hpqc9lr1rnhwx"
+      }
+    ],
+    "0.3.1": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-aarch64.so",
+        "sha256": "0swpzl85dsb325kp6g38awgzf3iwjhs19szz0xmmm7f37gvwsh7j"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-arm64.dylib",
+        "sha256": "0ha9rgg0bk55kgzyk9pl3h7j54zldx1cnnlf2km7dqfmvdr2khkq"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-armv7l.so",
+        "sha256": "0ak08gkbv2snj5jwacg23p144rghyq13zwigzrirxh9lxx4a5grh"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-i386.dylib",
+        "sha256": "08h2ii07ngr5i80xyz6xmjsq9gdcb55kxm1yl9jbmjv88y9qkzah"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-i686.so",
+        "sha256": "1vhx9xrlsril0h8z68gynqv1gcjkgl9icgbk0rmp0p0qlxmbjz20"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-x64.dll",
+        "sha256": "0y6fhaxzznrm8fi4f02l1knxhck9whpy8kf208vd2729r840ql8x"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-x86.dll",
+        "sha256": "0x5g8g3pi07mzvh8dkn7r4byd7accb3bh51v5046ixsrjljphaz7"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-x86_64.dylib",
+        "sha256": "00mzcrsl4g9g630ga3n28dmw2mpacv6j0iks44h93kchacg8sgc7"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-x86_64.so",
+        "sha256": "0qsdh8ysha924a7g3s70b70h17ygxjnz8xshrgg0b4f8fxki1qqr"
+      }
+    ],
+    "0.3.0": [
+      {
+        "path": "UserPlugins/reaper_reallm-aarch64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-aarch64.so",
+        "sha256": "14y6a6a589kw0qgm91n2r8ap01scrzr4bgppwiwhfxgnrizhmj87"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-arm64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-arm64.dylib",
+        "sha256": "1qbvljf53prbf47zylj002iq89s6x6ll99yliszdf8yv1qk077pp"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-armv7l.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-armv7l.so",
+        "sha256": "1f2cngj38nq1qg3pb9ib3wr1i85ir29d49lg9kiggqyqzwanv3i6"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i386.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-i386.dylib",
+        "sha256": "1jiyl525cp0sqrix8x4ykhlxx740r383fkmccq3h0xlz829g5bb1"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-i686.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-i686.so",
+        "sha256": "10njf8js2wgwqixv3c1y4wqi7m6h8jvyn01y7g14kkv9y6yagzmj"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x64.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-x64.dll",
+        "sha256": "0ggd7ia7qd0f226rd6dfribr1azggdw7npgx1hy0lipwp7xczjyx"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86.dll",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-x86.dll",
+        "sha256": "06zxa1k173kvbmsibh21bs02c5b68m9m3px907y8zj0369zx09xn"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-x86_64.dylib",
+        "sha256": "0vgpmsrn8v6yrzqg017s1x56k0pqdb2g89vdgwrfv8168m7s8y7n"
+      },
+      {
+        "path": "UserPlugins/reaper_reallm-x86_64.so",
+        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-x86_64.so",
+        "sha256": "1lx7g7vh8ypfpc466q3n5x2zx4nn5qwi3s2j1siscx3wcr3zif2l"
+      }
+    ]
+  },
+  "ak5k_ReaFab Fabulous REAPER plug-in controller extension.ext": {
+    "latest": [
+      {
+        "path": "UserPlugins/reaper_reafab-aarch64.so",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-aarch64.so",
+        "sha256": "1hr246hdw03psc49yca68mcgydjlv1ch0hhaq186iw72wih1vc6s"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-arm64.dylib",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-arm64.dylib",
+        "sha256": "0xlkmdc2szwjkvi5fy379yj4dxpnlyq5nh0ak22la81lsk1g7xiv"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-armv7l.so",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-armv7l.so",
+        "sha256": "1s92xpdsjcfzv49b7cgsaiym73sgqwzinfibc7qmx4imym7ndl1g"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-i386.dylib",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-i386.dylib",
+        "sha256": "15a33qswbk7b1jd5n0lgajmm7cknz1pbrfjd2ym6b5hr507h51m7"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-i686.so",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-i686.so",
+        "sha256": "1p0b77ihlvvmbzw0blz4qh0ljib44fg5zr619psh3c65vr6h0y33"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-x64.dll",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x64.dll",
+        "sha256": "070k2g0v1slx4c9q9bybgviq0ids8w963hcbig3bd33928x3b31s"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-x86.dll",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x86.dll",
+        "sha256": "0r3wqa1rwq8s9w9hqmc2jk6a4scxpr7wciblj3pb6hpq6l7p9895"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-x86_64.dylib",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x86_64.dylib",
+        "sha256": "19qg05hpnzrm7ksr1vw62jc93imqlhivcz8hx4fpwsdyc37xi7pg"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-x86_64.so",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x86_64.so",
+        "sha256": "1ll3qa4g37z09q4s5d01n7z78742y7bvfcns43m6b0wp1zmr44zw"
+      }
+    ],
+    "0.3.11": [
+      {
+        "path": "UserPlugins/reaper_reafab-aarch64.so",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-aarch64.so",
+        "sha256": "1hr246hdw03psc49yca68mcgydjlv1ch0hhaq186iw72wih1vc6s"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-arm64.dylib",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-arm64.dylib",
+        "sha256": "0xlkmdc2szwjkvi5fy379yj4dxpnlyq5nh0ak22la81lsk1g7xiv"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-armv7l.so",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-armv7l.so",
+        "sha256": "1s92xpdsjcfzv49b7cgsaiym73sgqwzinfibc7qmx4imym7ndl1g"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-i386.dylib",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-i386.dylib",
+        "sha256": "15a33qswbk7b1jd5n0lgajmm7cknz1pbrfjd2ym6b5hr507h51m7"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-i686.so",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-i686.so",
+        "sha256": "1p0b77ihlvvmbzw0blz4qh0ljib44fg5zr619psh3c65vr6h0y33"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-x64.dll",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x64.dll",
+        "sha256": "070k2g0v1slx4c9q9bybgviq0ids8w963hcbig3bd33928x3b31s"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-x86.dll",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x86.dll",
+        "sha256": "0r3wqa1rwq8s9w9hqmc2jk6a4scxpr7wciblj3pb6hpq6l7p9895"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-x86_64.dylib",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x86_64.dylib",
+        "sha256": "19qg05hpnzrm7ksr1vw62jc93imqlhivcz8hx4fpwsdyc37xi7pg"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-x86_64.so",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x86_64.so",
+        "sha256": "1ll3qa4g37z09q4s5d01n7z78742y7bvfcns43m6b0wp1zmr44zw"
+      }
+    ],
+    "0.3.10": [
+      {
+        "path": "UserPlugins/reaper_reafab-aarch64.so",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-aarch64.so",
+        "sha256": "0bbnxak25p38vpli01q4nxrqw5dzqvdlgl6mbrszqi7v04l9d6ng"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-arm64.dylib",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-arm64.dylib",
+        "sha256": "0f3wsz83d14ijhqgl28s7333p56p3mszp2gcf5h8rgshcm5swsqn"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-armv7l.so",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-armv7l.so",
+        "sha256": "1958d35wv39iwgzfgfrgn95j8zdf7518dj841v3h42bf1baaf2sb"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-i386.dylib",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-i386.dylib",
+        "sha256": "1h9m021fqwx95kp3jykrwyfjk43kk1gkr8i6dyih1mqbcm93zlq5"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-i686.so",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-i686.so",
+        "sha256": "0mnl5fxiw324j1wkis1wi1li74s2bcxglrk8namk733nj89wln0h"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-x64.dll",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-x64.dll",
+        "sha256": "0nasr05kzdlc35jh65d34wiw31r60rng5b83f187kmca2jpclmzy"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-x86.dll",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-x86.dll",
+        "sha256": "14ly669az369aq85nac13ism129i6xhgwc7mvn99chh9j81x4phg"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-x86_64.dylib",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-x86_64.dylib",
+        "sha256": "1hirppzhyjsjjvwa47fna1jsdc1iq7v63pm6w5xp01ikhi9yqfay"
+      },
+      {
+        "path": "UserPlugins/reaper_reafab-x86_64.so",
+        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-x86_64.so",
+        "sha256": "0b1f920qpnk3ggakk04262jw3hqp2mq0n53n4b1yj0q3r27xk6vn"
+      }
+    ]
+  },
+  "frabert_ogler.ext": {
+    "latest": [
+      {
+        "path": "UserPlugins/FX/ogler.clap",
+        "url": "https://github.com/frabert/ogler/releases/download/v0.10.0/ogler-win64.clap",
+        "sha256": "0bjvj5vv5jji7vqi0nsy0v5vki4dpm0ysqbypx11kny1lav25k6i"
+      }
+    ],
+    "0.10.0": [
+      {
+        "path": "UserPlugins/FX/ogler.clap",
+        "url": "https://github.com/frabert/ogler/releases/download/v0.10.0/ogler-win64.clap",
+        "sha256": "0bjvj5vv5jji7vqi0nsy0v5vki4dpm0ysqbypx11kny1lav25k6i"
+      }
+    ]
+  },
   "ak5k_ReaSolotus REAPER Solo bus extension.ext": {
     "latest": [
       {
@@ -6143,49 +7207,6 @@
         "path": "UserPlugins/reaper_reasolotus-x86_64.so",
         "url": "https://github.com/ak5k/reasolotus/releases/download/v0.1.6/reaper_reasolotus-x86_64.so",
         "sha256": "04gvqjklw4kzjsfacj0c0wmj03zsb1dpwp0ajv5f2knqw3zxi2fn"
-      }
-    ]
-  },
-  "brumbear_ReaKontrol.ext": {
-    "latest": [
-      {
-        "path": "UserPlugins/ReaKontrolConfig/reakontrol_EXAMPLE.ini",
-        "url": "https://github.com/brummbrum/reaKontrol/releases/download/v1.10/reakontrol_EXAMPLE.ini",
-        "sha256": "027q6csx4861pjs3fsg9mypfl9a3kkcw5vsscgcxwc12fd8i4ymm"
-      },
-      {
-        "path": "UserPlugins/reaper_kontrol.dll",
-        "url": "https://github.com/brummbrum/reaKontrol/releases/download/v1.10/reaper_kontrol.dll",
-        "sha256": "0aqn249hx7v2w6863wv19fqzfw9q6w6fszw0gwgcrsgf06s1sinc"
-      }
-    ],
-    "1.10": [
-      {
-        "path": "UserPlugins/ReaKontrolConfig/reakontrol_EXAMPLE.ini",
-        "url": "https://github.com/brummbrum/reaKontrol/releases/download/v1.10/reakontrol_EXAMPLE.ini",
-        "sha256": "027q6csx4861pjs3fsg9mypfl9a3kkcw5vsscgcxwc12fd8i4ymm"
-      },
-      {
-        "path": "UserPlugins/reaper_kontrol.dll",
-        "url": "https://github.com/brummbrum/reaKontrol/releases/download/v1.10/reaper_kontrol.dll",
-        "sha256": "0aqn249hx7v2w6863wv19fqzfw9q6w6fszw0gwgcrsgf06s1sinc"
-      }
-    ],
-    "1.00": [
-      {
-        "path": "UserPlugins/ReaKontrolConfig/reakontrol.ini",
-        "url": "https://github.com/brummbrum/reaKontrol/releases/download/v1.00/reakontrol_EXAMPLE.ini",
-        "sha256": ""
-      },
-      {
-        "path": "UserPlugins/reaper_kontrol.dll",
-        "url": "https://github.com/brummbrum/reaKontrol/releases/download/v1.00/reaper_kontrol.dll",
-        "sha256": "0zpb7g71bk96a1121ykrvm2hwgv6312567x18kyhp666vf7fqx3i"
-      },
-      {
-        "path": "UserPlugins/reaper_kontrol.dylib",
-        "url": "https://stash.reaper.fm/38633/reaper_kontrol.dylib",
-        "sha256": "0zxl8r5zz07di8kvnadrzwk84nfaygcgn0fym2iagr83pxg51kfl"
       }
     ]
   },
@@ -7566,6 +8587,49 @@
       }
     ]
   },
+  "brumbear_ReaKontrol.ext": {
+    "latest": [
+      {
+        "path": "UserPlugins/ReaKontrolConfig/reakontrol_EXAMPLE.ini",
+        "url": "https://github.com/brummbrum/reaKontrol/releases/download/v1.10/reakontrol_EXAMPLE.ini",
+        "sha256": "027q6csx4861pjs3fsg9mypfl9a3kkcw5vsscgcxwc12fd8i4ymm"
+      },
+      {
+        "path": "UserPlugins/reaper_kontrol.dll",
+        "url": "https://github.com/brummbrum/reaKontrol/releases/download/v1.10/reaper_kontrol.dll",
+        "sha256": "0aqn249hx7v2w6863wv19fqzfw9q6w6fszw0gwgcrsgf06s1sinc"
+      }
+    ],
+    "1.10": [
+      {
+        "path": "UserPlugins/ReaKontrolConfig/reakontrol_EXAMPLE.ini",
+        "url": "https://github.com/brummbrum/reaKontrol/releases/download/v1.10/reakontrol_EXAMPLE.ini",
+        "sha256": "027q6csx4861pjs3fsg9mypfl9a3kkcw5vsscgcxwc12fd8i4ymm"
+      },
+      {
+        "path": "UserPlugins/reaper_kontrol.dll",
+        "url": "https://github.com/brummbrum/reaKontrol/releases/download/v1.10/reaper_kontrol.dll",
+        "sha256": "0aqn249hx7v2w6863wv19fqzfw9q6w6fszw0gwgcrsgf06s1sinc"
+      }
+    ],
+    "1.00": [
+      {
+        "path": "UserPlugins/ReaKontrolConfig/reakontrol.ini",
+        "url": "https://github.com/brummbrum/reaKontrol/releases/download/v1.00/reakontrol_EXAMPLE.ini",
+        "sha256": ""
+      },
+      {
+        "path": "UserPlugins/reaper_kontrol.dll",
+        "url": "https://github.com/brummbrum/reaKontrol/releases/download/v1.00/reaper_kontrol.dll",
+        "sha256": "0zpb7g71bk96a1121ykrvm2hwgv6312567x18kyhp666vf7fqx3i"
+      },
+      {
+        "path": "UserPlugins/reaper_kontrol.dylib",
+        "url": "https://stash.reaper.fm/38633/reaper_kontrol.dylib",
+        "sha256": "0zxl8r5zz07di8kvnadrzwk84nfaygcgn0fym2iagr83pxg51kfl"
+      }
+    ]
+  },
   "reaper-oss_SWS.ext": {
     "latest": [
       {
@@ -7590,11 +8654,6 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python32.py",
-        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
         "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
       },
@@ -7607,6 +8666,11 @@
         "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
         "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python32.py",
+        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
       },
       {
         "path": "UserPlugins/../API/sws.py",
@@ -8092,11 +9156,6 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python32.py",
-        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
         "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
       },
@@ -8109,6 +9168,11 @@
         "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python64.py",
         "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.7/sws_python32.py",
+        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
       },
       {
         "path": "UserPlugins/../API/sws.py",
@@ -8579,11 +9643,6 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.6/sws_python32.py",
-        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.6/sws_python64.py",
         "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
       },
@@ -8604,13 +9663,18 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.6/sws_python64.py",
-        "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.6/sws_python32.py",
+        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
       },
       {
         "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.6/sws_python32.py",
         "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.6/sws_python64.py",
+        "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
       },
       {
         "path": "UserPlugins/../API/sws.py",
@@ -9076,21 +10140,6 @@
     "2.14.0.5-beta": [
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python32.py",
-        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python32.py",
-        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python32.py",
-        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python64.py",
         "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
       },
@@ -9116,8 +10165,23 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python32.py",
+        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python64.py",
         "sha256": "08m9hxlrr2773bfz1545v2pv22z8l15v98kx9il0xmk00iy6yf8q"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python32.py",
+        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.5-beta/sws_python32.py",
+        "sha256": "0kjrlww3j4a8kw6priaz39g6b1mf28q1qndm9d42gc8wmzksp7cy"
       },
       {
         "path": "UserPlugins/Grooves/16th Quantize.rgt",
@@ -9578,26 +10642,6 @@
     "2.14.0.4-beta": [
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python32.py",
-        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python32.py",
-        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python64.py",
-        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python64.py",
-        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python64.py",
         "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
       },
@@ -9613,6 +10657,11 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python64.py",
+        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python32.py",
         "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
       },
@@ -9620,6 +10669,21 @@
         "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python64.py",
         "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python64.py",
+        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python32.py",
+        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.4-beta/sws_python32.py",
+        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
       },
       {
         "path": "UserPlugins/Grooves/16th Quantize.rgt",
@@ -10085,6 +11149,21 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.3/sws_python64.py",
+        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.3/sws_python64.py",
+        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.3/sws_python64.py",
+        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.3/sws_python32.py",
         "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
       },
@@ -10105,23 +11184,8 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.3/sws_python64.py",
-        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.3/sws_python32.py",
         "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.3/sws_python64.py",
-        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.3/sws_python64.py",
-        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
       },
       {
         "path": "UserPlugins/Grooves/16th Quantize.rgt",
@@ -10582,23 +11646,13 @@
     "2.14.0.2-beta": [
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.2/sws_python32.py",
-        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.2/sws_python32.py",
-        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.2/sws_python32.py",
-        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.2/sws_python64.py",
         "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.2/sws_python32.py",
+        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
       },
       {
         "path": "UserPlugins/../API/sws.py",
@@ -10612,6 +11666,11 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.2/sws_python32.py",
+        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.2/sws_python64.py",
         "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
       },
@@ -10619,6 +11678,11 @@
         "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.2/sws_python64.py",
         "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.2/sws_python32.py",
+        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
       },
       {
         "path": "UserPlugins/../API/sws.py",
@@ -11089,16 +12153,6 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python64.py",
-        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python32.py",
-        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python32.py",
         "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
       },
@@ -11114,6 +12168,11 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python32.py",
+        "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python64.py",
         "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
       },
@@ -11121,6 +12180,11 @@
         "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python32.py",
         "sha256": "0cj9aayai8jfqcm7fhzf8w3cid78i0ryviwaying6kp9h1s76js2"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14.0.1/sws_python64.py",
+        "sha256": "0pb18gh6nacjhk48yzpn2bnj26jv6lap3y4y97flff539zmy7s32"
       },
       {
         "path": "UserPlugins/../API/sws.py",
@@ -11596,21 +12660,6 @@
       },
       {
         "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python64.py",
-        "sha256": "08mp4gxq6bnhr8f883pw56q5qmxj46m6r304aygpsyc9s9x5y5cv"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python64.py",
-        "sha256": "08mp4gxq6bnhr8f883pw56q5qmxj46m6r304aygpsyc9s9x5y5cv"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
-        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python32.py",
-        "sha256": "0pa74xgabqs9wfdrqzpkyxh9pb5zh9lab4d5xvq0adh10dgpzfbj"
-      },
-      {
-        "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python32.py",
         "sha256": "0pa74xgabqs9wfdrqzpkyxh9pb5zh9lab4d5xvq0adh10dgpzfbj"
       },
@@ -11628,6 +12677,21 @@
         "path": "UserPlugins/../API/sws.py",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python64.py",
         "sha256": "08mp4gxq6bnhr8f883pw56q5qmxj46m6r304aygpsyc9s9x5y5cv"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python64.py",
+        "sha256": "08mp4gxq6bnhr8f883pw56q5qmxj46m6r304aygpsyc9s9x5y5cv"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python64.py",
+        "sha256": "08mp4gxq6bnhr8f883pw56q5qmxj46m6r304aygpsyc9s9x5y5cv"
+      },
+      {
+        "path": "UserPlugins/../API/sws.py",
+        "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/sws_python32.py",
+        "sha256": "0pa74xgabqs9wfdrqzpkyxh9pb5zh9lab4d5xvq0adh10dgpzfbj"
       },
       {
         "path": "UserPlugins/Grooves/16th Quantize.rgt",
@@ -12083,1070 +13147,6 @@
         "path": "UserPlugins/reaper_sws-x86_64.so",
         "url": "https://github.com/reaper-oss/sws/releases/download/v2.14/reaper_sws-x86_64.so",
         "sha256": "17jzmlvdmympqpq2gzj2isc6lkb94gicnd5cy00sbk550iilb9ap"
-      }
-    ]
-  },
-  "ak5k_ReaFab Fabulous REAPER plug-in controller extension.ext": {
-    "latest": [
-      {
-        "path": "UserPlugins/reaper_reafab-aarch64.so",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-aarch64.so",
-        "sha256": "1hr246hdw03psc49yca68mcgydjlv1ch0hhaq186iw72wih1vc6s"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-arm64.dylib",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-arm64.dylib",
-        "sha256": "0xlkmdc2szwjkvi5fy379yj4dxpnlyq5nh0ak22la81lsk1g7xiv"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-armv7l.so",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-armv7l.so",
-        "sha256": "1s92xpdsjcfzv49b7cgsaiym73sgqwzinfibc7qmx4imym7ndl1g"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-i386.dylib",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-i386.dylib",
-        "sha256": "15a33qswbk7b1jd5n0lgajmm7cknz1pbrfjd2ym6b5hr507h51m7"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-i686.so",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-i686.so",
-        "sha256": "1p0b77ihlvvmbzw0blz4qh0ljib44fg5zr619psh3c65vr6h0y33"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-x64.dll",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x64.dll",
-        "sha256": "070k2g0v1slx4c9q9bybgviq0ids8w963hcbig3bd33928x3b31s"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-x86.dll",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x86.dll",
-        "sha256": "0r3wqa1rwq8s9w9hqmc2jk6a4scxpr7wciblj3pb6hpq6l7p9895"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-x86_64.dylib",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x86_64.dylib",
-        "sha256": "19qg05hpnzrm7ksr1vw62jc93imqlhivcz8hx4fpwsdyc37xi7pg"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-x86_64.so",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x86_64.so",
-        "sha256": "1ll3qa4g37z09q4s5d01n7z78742y7bvfcns43m6b0wp1zmr44zw"
-      }
-    ],
-    "0.3.11": [
-      {
-        "path": "UserPlugins/reaper_reafab-aarch64.so",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-aarch64.so",
-        "sha256": "1hr246hdw03psc49yca68mcgydjlv1ch0hhaq186iw72wih1vc6s"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-arm64.dylib",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-arm64.dylib",
-        "sha256": "0xlkmdc2szwjkvi5fy379yj4dxpnlyq5nh0ak22la81lsk1g7xiv"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-armv7l.so",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-armv7l.so",
-        "sha256": "1s92xpdsjcfzv49b7cgsaiym73sgqwzinfibc7qmx4imym7ndl1g"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-i386.dylib",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-i386.dylib",
-        "sha256": "15a33qswbk7b1jd5n0lgajmm7cknz1pbrfjd2ym6b5hr507h51m7"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-i686.so",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-i686.so",
-        "sha256": "1p0b77ihlvvmbzw0blz4qh0ljib44fg5zr619psh3c65vr6h0y33"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-x64.dll",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x64.dll",
-        "sha256": "070k2g0v1slx4c9q9bybgviq0ids8w963hcbig3bd33928x3b31s"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-x86.dll",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x86.dll",
-        "sha256": "0r3wqa1rwq8s9w9hqmc2jk6a4scxpr7wciblj3pb6hpq6l7p9895"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-x86_64.dylib",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x86_64.dylib",
-        "sha256": "19qg05hpnzrm7ksr1vw62jc93imqlhivcz8hx4fpwsdyc37xi7pg"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-x86_64.so",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.11/reaper_reafab-x86_64.so",
-        "sha256": "1ll3qa4g37z09q4s5d01n7z78742y7bvfcns43m6b0wp1zmr44zw"
-      }
-    ],
-    "0.3.10": [
-      {
-        "path": "UserPlugins/reaper_reafab-aarch64.so",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-aarch64.so",
-        "sha256": "0bbnxak25p38vpli01q4nxrqw5dzqvdlgl6mbrszqi7v04l9d6ng"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-arm64.dylib",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-arm64.dylib",
-        "sha256": "0f3wsz83d14ijhqgl28s7333p56p3mszp2gcf5h8rgshcm5swsqn"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-armv7l.so",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-armv7l.so",
-        "sha256": "1958d35wv39iwgzfgfrgn95j8zdf7518dj841v3h42bf1baaf2sb"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-i386.dylib",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-i386.dylib",
-        "sha256": "1h9m021fqwx95kp3jykrwyfjk43kk1gkr8i6dyih1mqbcm93zlq5"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-i686.so",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-i686.so",
-        "sha256": "0mnl5fxiw324j1wkis1wi1li74s2bcxglrk8namk733nj89wln0h"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-x64.dll",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-x64.dll",
-        "sha256": "0nasr05kzdlc35jh65d34wiw31r60rng5b83f187kmca2jpclmzy"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-x86.dll",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-x86.dll",
-        "sha256": "14ly669az369aq85nac13ism129i6xhgwc7mvn99chh9j81x4phg"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-x86_64.dylib",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-x86_64.dylib",
-        "sha256": "1hirppzhyjsjjvwa47fna1jsdc1iq7v63pm6w5xp01ikhi9yqfay"
-      },
-      {
-        "path": "UserPlugins/reaper_reafab-x86_64.so",
-        "url": "https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-x86_64.so",
-        "sha256": "0b1f920qpnk3ggakk04262jw3hqp2mq0n53n4b1yj0q3r27xk6vn"
-      }
-    ]
-  },
-  "ak5k_ReaLlm REAPER Low latency monitoring plug-in extension.ext": {
-    "latest": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-aarch64.so",
-        "sha256": "1lp968zb0xsgg781kcsxxshg2p5k3j2fi5hw3yfc7rz7lfx0s0qj"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-arm64.dylib",
-        "sha256": "1yl0q3xafi65ijw4j6mj3l3r5px2wgf1ilzqvxaadwqz55fr84mk"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64ec.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-arm64ec.dll",
-        "sha256": "0plca6mmahq7aik3zmqc5njjm5rd658jd8axif2mm611fpwcvwcr"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-armv7l.so",
-        "sha256": "10789fpa4haxm07252pvnrzhxd9jx70zdd3izx28ccxp6j9kl6s1"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-i386.dylib",
-        "sha256": "0li97rz1xpm42ary7lzzvrv8726y470ypi3sz05lxxrwmycj7hnl"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-i686.so",
-        "sha256": "1c3hz2s5p3acaric0wxbkr5wkppvw3vvnac3xsvz73qlblgrg1gf"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x64.dll",
-        "sha256": "062qmaivzv1s3104ixksn415f40npc5gk068bszxyhzka9lxzzjq"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86.dll",
-        "sha256": "1i9s31437wb16697ba2833wizvmq5ykhgdxmfpr0ibvdkf619pv8"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86_64.dylib",
-        "sha256": "1j8y40brikww00pxvadx222x1b8j75r3xsimc8g765yrhca2c2dx"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86_64.so",
-        "sha256": "1f98bpwxl6isxlgn42w60cf7z0rh3j7am85mmrd4r7sbmlzdss9v"
-      }
-    ],
-    "0.7.0": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-aarch64.so",
-        "sha256": "1lp968zb0xsgg781kcsxxshg2p5k3j2fi5hw3yfc7rz7lfx0s0qj"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-arm64.dylib",
-        "sha256": "1yl0q3xafi65ijw4j6mj3l3r5px2wgf1ilzqvxaadwqz55fr84mk"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64ec.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-arm64ec.dll",
-        "sha256": "0plca6mmahq7aik3zmqc5njjm5rd658jd8axif2mm611fpwcvwcr"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-armv7l.so",
-        "sha256": "10789fpa4haxm07252pvnrzhxd9jx70zdd3izx28ccxp6j9kl6s1"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-i386.dylib",
-        "sha256": "0li97rz1xpm42ary7lzzvrv8726y470ypi3sz05lxxrwmycj7hnl"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-i686.so",
-        "sha256": "1c3hz2s5p3acaric0wxbkr5wkppvw3vvnac3xsvz73qlblgrg1gf"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x64.dll",
-        "sha256": "062qmaivzv1s3104ixksn415f40npc5gk068bszxyhzka9lxzzjq"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86.dll",
-        "sha256": "1i9s31437wb16697ba2833wizvmq5ykhgdxmfpr0ibvdkf619pv8"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86_64.dylib",
-        "sha256": "1j8y40brikww00pxvadx222x1b8j75r3xsimc8g765yrhca2c2dx"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.7.0/reaper_reallm-x86_64.so",
-        "sha256": "1f98bpwxl6isxlgn42w60cf7z0rh3j7am85mmrd4r7sbmlzdss9v"
-      }
-    ],
-    "0.6.10": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-aarch64.so",
-        "sha256": "071xgbagbpc7iv7vqa2nj0b7igasvn2mzsn9mnas63862b981wz0"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-arm64.dylib",
-        "sha256": "1854zk5hzz3pnwj1jz6y2nq85cd7kwgl10k3acfd78hzd1jppzqz"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-armv7l.so",
-        "sha256": "0y0y5n04b9nfz2fsgdf6dayw0djcm1xwkcq4dwbhkblwyrirgxs1"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-i386.dylib",
-        "sha256": "1ahwyfzfnlhwiny4kyfyy0lb2pvkcniyc7d5mkn4xyrc3zwwl7fd"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-i686.so",
-        "sha256": "18105nl3p1xs7jgqb5qdi292klm0vxx7hflzawzp28639wp63hjc"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-x64.dll",
-        "sha256": "05bj0lj92772vawdcs0gv2irjd0317mly5l55vk1ac2nil5brpyf"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-x86.dll",
-        "sha256": "07cmcfifdkz22sdag6i9bjvz2a1s4cpg1mv391liyvirk558ssks"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-x86_64.dylib",
-        "sha256": "0pll72ri729li38kpmyj6xv5ahqs3cmbiwflf8kh7h16kpwhw2ai"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.10/reaper_reallm-x86_64.so",
-        "sha256": "1g1byzsnwcjwxpzqq17drf3l0fi8pdih119mrnxzjpyl0c9rjj97"
-      }
-    ],
-    "0.6.9": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-aarch64.so",
-        "sha256": "0x14m4m3cb0xr1j9327qw6bk219jsv5dz4fvpmscjw8xim1cvg46"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-arm64.dylib",
-        "sha256": "01bgna50047ijvfj8iwd4h5ims0s16xzdv9s7hp025xbfsvig422"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-armv7l.so",
-        "sha256": "0kh3drx65siqr7plwbphysd4919j1rlajfaxb8v3250m7v3940s8"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-i386.dylib",
-        "sha256": "096x51lqg2flk3avk614zz7w0riw859gilf6k2mrivmwakzx3n4h"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-i686.so",
-        "sha256": "013p5ckqf4gv9xmmm83i716bli8lrq7glk788kq229xd4q9v8j1i"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-x64.dll",
-        "sha256": "12fb7i8a1j5lq33ccciv641bqnjdn8b6l1bpndr7lrh08zgfyhvh"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-x86.dll",
-        "sha256": "1q2ldgzgv3q9hiacbwasmlav13l78lr696gi43prs05y555wbjys"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-x86_64.dylib",
-        "sha256": "0rpyzq3fzmy11yn30iqvj8gzkd31xr7yxjgwas1p6w5zbfsa12ja"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.9/reaper_reallm-x86_64.so",
-        "sha256": "1b07b89z9haqf27xwc7fycjsw2dgqchlgn4w7ig09a4gr32y3dyj"
-      }
-    ],
-    "0.6.8": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-aarch64.so",
-        "sha256": "0rhzphwv9m6n779mgdpshrpk9kiwf9f7j9vxjm5w3k4ixy6bzp80"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-arm64.dylib",
-        "sha256": "1la4jn602gssw3n8k0swz58i662bis06hmczv63zanxzrw9m3mkb"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-armv7l.so",
-        "sha256": "0qj6phlal0r5k08sa2whd5b7d393rpk386i17ns0b1y68s65c061"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-i386.dylib",
-        "sha256": "13rcmk9g59z98b34hmflvgdlpl3cjdr336qsvwgm3cyrzcq0ijbp"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-i686.so",
-        "sha256": "1w4ipvb13sm4hbw30xnyda0d97cnkpx263fkld1pvcwyzjbgxw5g"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-x64.dll",
-        "sha256": "1vvhabsg2zrxh0mj0s0dq7g14qq9zqs46bnj08r988nndvkbj8n4"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-x86.dll",
-        "sha256": "0z76sdngsnh13bx7sz6jmrg5k3bvy54v50ihs6s4h2yz776q55yx"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-x86_64.dylib",
-        "sha256": "125ylyn8w1k2fsdc05im3z3gxfnv1zfzmm5j61ig9cq79xcp2knx"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.8/reaper_reallm-x86_64.so",
-        "sha256": "1pkb7m87kzsd05vmpbk0drcvf434mhzxrqp1j0giavx4d5r81cjj"
-      }
-    ],
-    "0.6.7": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-aarch64.so",
-        "sha256": "14dgyg0zkl9ycq7x8hksnv2gw6vdw6qinxl9cymfmvgw5d4gqg99"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-arm64.dylib",
-        "sha256": "040rvrv347bd0znn56l4wj1k76dvxy2k407nfx96j542733inhjg"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-armv7l.so",
-        "sha256": "06fj86170y9s2j5nnn51bykf5lfq1n3gmcknpx4s7lcyb52g14f5"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-i386.dylib",
-        "sha256": "0wwa45ycxx4nwcw3z6ydxbgczmnscdik8vsra0j9qj3jrv5z3h6d"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-i686.so",
-        "sha256": "158jzsmd8mhx7i0ymmsx3szmk10ag7769hnj9yg7nqds40db5p25"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-x64.dll",
-        "sha256": "0j0hg9bgfyb2y7grm96512xrm6f8d34l4kgn03vnaz6fg1fw54za"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-x86.dll",
-        "sha256": "1ck177px23hg6q2a56svcj75v11w8hdxkdxgcg384cpv8mn1qw62"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-x86_64.dylib",
-        "sha256": "0zwcziv2l9fc65bp67prw9zcgw5dsq3jsbqln20nl4433d40ibjr"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.7/reaper_reallm-x86_64.so",
-        "sha256": "1i343jmj6lrcpypyxyblajslxw33106amxdjl072lc93ncx6f7gk"
-      }
-    ],
-    "0.6.6": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-aarch64.so",
-        "sha256": "0gg4ydpmrir2qbf8inw1jzk5q6fb8hghlcdhi4dmdcj2g1bbkkb1"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-arm64.dylib",
-        "sha256": "04glcvbnvc9r2x7z3n8q8ywrgn52nfzjaamhwkl1522yw9gjf21h"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-armv7l.so",
-        "sha256": "1rh1pqy10kk98myfv82yf8rhk0xpvcvm80fyxwg6y4h725hzv52x"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-i386.dylib",
-        "sha256": "19gyaplrspq6wj4sa96wnp0fd6g4zcpczyp9vawbzkpghszv1n8k"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-i686.so",
-        "sha256": "1f2scr5cmahf1862fbd6ivz3mh2h1xpbyf189a6q01xp7irz677a"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-x64.dll",
-        "sha256": "18p3s053c0vywx6h39skiw3i0jhjf771havns6902msv45sdivdk"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-x86.dll",
-        "sha256": "0yc857n3dr2qf19r5knqraix014yxafp3x13qiam31jfbr8j3mqj"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-x86_64.dylib",
-        "sha256": "1a0i1jmjxsca6vbmsgcksmvq2wlpwqcjnnr1jzmvjdyg3sx36s3r"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.6/reaper_reallm-x86_64.so",
-        "sha256": "09f87na8alb0ms1mmndjkyixd68ljaqi6byf9hlnwkh8dx5xp2d7"
-      }
-    ],
-    "0.6.5": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-aarch64.so",
-        "sha256": "0z88kdvwfqwwr3y465jfdvf8498gavc639aknzgmswrbbf1vr5yd"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-arm64.dylib",
-        "sha256": "0l0cig6m8ms5ixb5yh486sr7id19wzy9yd7d48ri0cjw0s3pqwzg"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-armv7l.so",
-        "sha256": "1bx6nm6w6vilqbn9kx4n7zymh2bcl3f9005da90q4l3pi4bf07ri"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-i386.dylib",
-        "sha256": "03zygblf3by8sdk7apwdihm67kfxw8ikvjn27ymwyvfncyb1j1gb"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-i686.so",
-        "sha256": "16jja81va27xsz9dnpgbh9cs25b80i6y4z51rafqzaax3q0zrb87"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-x64.dll",
-        "sha256": "0kvknwj155f6a3wbdvy0d7b8i2v7r904jld6crg8vq4vml5c1xjd"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-x86.dll",
-        "sha256": "1xavbqplj17hvq84wr0znmbdk508n8byvhr59d1vf6y9hxyxlykv"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-x86_64.dylib",
-        "sha256": "0jc11x7vxfbvhwgvlnf5j6f6rhz0afywbp26i1x7g39wjk7dsypg"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.5/reaper_reallm-x86_64.so",
-        "sha256": "1kbmq2r9q7p8ibm92bmv100bpa9v1b4rnbi4r9z8vn33py7wh2xv"
-      }
-    ],
-    "0.6.4": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-aarch64.so",
-        "sha256": "1pdaw4ra2w4y8ifq0djm25q73sy04hrr7cvs8lvkkar0q2yswqzc"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-arm64.dylib",
-        "sha256": "1k5ck4ck99cf917xxhxpc56fqinfqp5qwyr9nxfjysv2iwg3lfj5"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-armv7l.so",
-        "sha256": "0rqvmybaikxnwhq63fx30dbbcjwff20xb74m4hjbhxig5jljicys"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-i386.dylib",
-        "sha256": "16f2cciq4a7z591b5i295jc9ic1h7n4pn489ari1zp5j0nq43fv6"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-i686.so",
-        "sha256": "170f49kw6qbxjk0idwddvgg7hznkixyjh5spk74dam5rd8p63k0v"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-x64.dll",
-        "sha256": "1rvr71d1g79kisqkaa2471wq294n13r68vfs21xn9w6xyqayz8qz"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-x86.dll",
-        "sha256": "0yw5gg0sgm3zhgkphm4v7nl5ki93pybkcs2z7qqn0bzbzwg58qh9"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-x86_64.dylib",
-        "sha256": "0vgn7jza037jj702bxkirjdysfwnm2bags16zgabd46i99vwh51w"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.4/reaper_reallm-x86_64.so",
-        "sha256": "1rj83q4m4fj9xahz5ma2xqb72prrjmpigdlfmw6k060dj8zn4k21"
-      }
-    ],
-    "0.6.3": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-aarch64.so",
-        "sha256": "0881lhgga0kc9wpbapv490fzr32jknbka4kmkyrcafvr8h342ib1"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-arm64.dylib",
-        "sha256": "14653ya7pdsljbprsnvgi6q7a81419w00zr5j7xqnaxhc0f3fv5x"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-armv7l.so",
-        "sha256": "10f2fz60npcp4fznrmqgdhiqd59krzc18v37l9fvkmhwpb7szmkd"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-i386.dylib",
-        "sha256": "1lgnaf90rhkpasw43f6xy72zj3wpszx0bwp85qq5pjdv5bqlfcbc"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-i686.so",
-        "sha256": "10iadnr5d6w80kkxciqlynrzr0mi2f9vjc6sann0vavjjkva359b"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-x64.dll",
-        "sha256": "0pybxpqx2vqw5vajsmsm7wls8qw5k1nd00d20qnqm6r30xscd65j"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-x86.dll",
-        "sha256": "0a1wqjr2i97cr8mhaxig23v5x0142qq0324n24l7393s1vd4r39m"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-x86_64.dylib",
-        "sha256": "06q9axnnh8rkpiw16gvxmf6cnxxvy6in809dy2xnqh1lfgpkypj2"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.3/reaper_reallm-x86_64.so",
-        "sha256": "0rz0p8dfjivv7qfgx2nd8h3d93d5pjq2zsqgbxflzfilcnwxwn1s"
-      }
-    ],
-    "0.6.2": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-aarch64.so",
-        "sha256": "0vjqq1ym5zniav370bwgqxg9x05w76lkyis0irx8nlqpxdrz5ifi"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-arm64.dylib",
-        "sha256": "19xpcpjby6m1mi0l2jssfish5jyks4krqpbmyahavs4vqs3vyd5a"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-armv7l.so",
-        "sha256": "0siawprqy9rhrkjd12vvsfmvpannyp5594kydx50zb9lfmg215bk"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-i386.dylib",
-        "sha256": "0ya8d1vw9ibrqwaww7wcif4z652j3zn9a4d37iwz5pgxyhpjkf3c"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-i686.so",
-        "sha256": "0l8i24xha7ll5mkaw6pm61b3vvakkkacyjx3ca26yg4y6m9dxdwb"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-x64.dll",
-        "sha256": "0s8p8iqk1mxx5ipzp3vi96si1y1cqfc3vdli6i0ri8az7hsifwrz"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-x86.dll",
-        "sha256": "0fs3lc905p6pyrzxa8d49v80gk51xwm4j3rwlp6js8qqv5x8ddl3"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-x86_64.dylib",
-        "sha256": "1zda7pvjn80fjc5g4dwywyfriw2rkfn62v4q75vl8gs6alincfsl"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.2/reaper_reallm-x86_64.so",
-        "sha256": "1xg3s2zdn5ky15nmdv6yzb0vxpwdc5dm5k0sawrsxiksrx5dpcb7"
-      }
-    ],
-    "0.6.1": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-aarch64.so",
-        "sha256": "1nakp734sn0011sl270jax402q1rx2qc8h7lszm8kclsgp76gda6"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-arm64.dylib",
-        "sha256": "133mx8wiyjzg65yffrw6q6mp81qhxlf94xpin738sdkcgsqw4md6"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-armv7l.so",
-        "sha256": "0394zrnhja572daapz23acwgjj4gwl28byqlvpqnfavh234g4kfd"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-i386.dylib",
-        "sha256": ""
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-i686.so",
-        "sha256": "1hmklsl447i95lwq6rxm9jyrxx3c2cz2yfd8c2l3dvbshb1clhjs"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-x64.dll",
-        "sha256": "13xsnshd4c22vqc1w2xpdwl519xfbmr1k09ps41838gzi66l8459"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-x86.dll",
-        "sha256": "0jdjf2wjslsnqi4d0ml2ph5hig5cdp8ick25sp08zr29hi4n5pmi"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-x86_64.dylib",
-        "sha256": "1wl3rbplhh02n0vahwdi8vnir36p7f609mwfnfhb02ayjwmh3mks"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/0.6.1/reaper_reallm-x86_64.so",
-        "sha256": "1xn6hdb6qjzcbb6fp0f1mrm22p2z8vzid94icffgan3fnxwzzmn1"
-      }
-    ],
-    "0.5.0": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-aarch64.so",
-        "sha256": "17lwkrxra65cchnfzhv5mrhakdk84r4pz5vc7p6p8v5p6jqj73gx"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-arm64.dylib",
-        "sha256": "02qn7byv37iwbaz8spigpnl9gpbvn9np749z5780cngxhs57ss1c"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-armv7l.so",
-        "sha256": "1vjk0hw1j8c11nvjssrb8dnzxiwllcfanfhvrvv4njzg73x3hfp1"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-i386.dylib",
-        "sha256": "06ds13hqwgldw7zsf4f8drh3aaksm32c0ay99jy3fziqs493gblw"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-i686.so",
-        "sha256": "1amw356sm3kc8ddm5azw7gv79nc93pmavc7zi905padq59jdqsim"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-x64.dll",
-        "sha256": "0f3gah64a7hjkl4g55f7sl7cvzdbnbb80sgfsiql7qjqh3ypphbq"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-x86.dll",
-        "sha256": "1p6zdmyw6jyzh0w175pri5cbi4fyz3z1a2zz8fcy9nd2bpzmnbjf"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-x86_64.dylib",
-        "sha256": "0as2j24a7k0gn4wjidkfxgnzqhqwvzk5pbdc077nh1djwwyv1x2s"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.5.0/reaper_reallm-x86_64.so",
-        "sha256": "07zvzam58wg8zlrks4v6i4p9nssxjbkvp3ll4fwairvvg3gvg3zn"
-      }
-    ],
-    "0.4.3": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-aarch64.so",
-        "sha256": "00xyivfz69n503xcs0hix61byjm46dfbm5ag640hl5j3icvhcdrb"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-arm64.dylib",
-        "sha256": "1vn3i2i2glaaq3dv7rpv7qnbc6rzqx7g6mgs01f3ldg4aclkmzq5"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-armv7l.so",
-        "sha256": "0q61pvsmy8spz4cyd6p3dlq7rlpj62g28d2d1f37ada8air3cp0b"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-i386.dylib",
-        "sha256": "0l7bpj9cwfq4rssnfs8azs7305j958caa304kks703ih96h6a1zr"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-i686.so",
-        "sha256": "0gqk5nikfyk448dngv9ngi08f473nzqhqh3gdrwivifncrr4wfvb"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-x64.dll",
-        "sha256": "0k8b6ns4vav10sd7iq65zdgx5hkispxnfwlf90vi5f56dnfdd2w8"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-x86.dll",
-        "sha256": "1r016ds8zs6ilzn5psc5rksln6v6jg6cpra4sva5f6f71rlm14j8"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-x86_64.dylib",
-        "sha256": "0a7l2y6g9lpn7162wd8rd1gv0fsjk8yw4q0man8v8zbcd2zdw3qg"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.3/reaper_reallm-x86_64.so",
-        "sha256": "0kpz834lda94421n1csi1r1hnpsnqqmc5ikyqvq1y6fwnganzbq8"
-      }
-    ],
-    "0.4.1": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-aarch64.so",
-        "sha256": "1grrh4bmgv82yr4202qspsc5dvqip2w93zgfqgfn9c5f0k6sf6pd"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-arm64.dylib",
-        "sha256": "0sv9c3rs2728kyihsw62isdb64am3p3d1p1d4ip6hd2gmkj674fn"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-armv7l.so",
-        "sha256": "040iz3xs447ar6vgdqjfpqb482ar2958636lxf028lw6vah8kmpc"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-i386.dylib",
-        "sha256": "11q38rij64bwmvizf647rbzd9c357myswia768019ql5rhb21i2m"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-i686.so",
-        "sha256": "0d2bhab164xvfw8sjg816rw523c0jy48j111c19azwb3z319579b"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-x64.dll",
-        "sha256": "0yrwnwv8qyfagsbpv54ia2gvqh0ns367skflwssnc9yp3bia721b"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-x86.dll",
-        "sha256": "1z4fr41ax9m3xwc00vi0gay41grd4fh8jbkcw3s45s2xysl72avy"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-x86_64.dylib",
-        "sha256": "13afpljzhwqlbshird2jf8q5wy0l0bhcjlw0wzzkhlkk0q7795pk"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.1/reaper_reallm-x86_64.so",
-        "sha256": "0gv18pwb43p35i8dmmq051b0kk55cb5y79chr2v6iq23pkxazr5l"
-      }
-    ],
-    "0.4.0": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-aarch64.so",
-        "sha256": "1wqi8mrvv1psi727dcdd8x7c0yy02lhwnrhap7aal343f2bg9bg3"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-arm64.dylib",
-        "sha256": "1dvwibx10gyqxyxkaa0rsp0k3axccgv14cdxlbqjxndf53cdpwma"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-armv7l.so",
-        "sha256": "14cgllgd3dv3777h927g8hcdih070k5bw440fjpws4ynrd22ciz0"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-i386.dylib",
-        "sha256": "1fvg0vqh9c9r9r94jgpajl0wq5dcqccmz1z5rw8iy22l29d7zykj"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-i686.so",
-        "sha256": "1wv6gkfz6dm8s9zbrl6ixn1qnyk5jkrb5a4a7rb6d8xcf4xp0d5d"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-x64.dll",
-        "sha256": "0nzy0529alvh7qfw6dgi7g1gpwr7l12c72fz1p3q5qp2mmw59zi9"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-x86.dll",
-        "sha256": "1jbjk95gbpnbj7aa9v1ld2x4kwyg02wja7mbr4hb8sabzkgbr7ar"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-x86_64.dylib",
-        "sha256": "1pds3qqk5l7vk0fhqwcwwprz9741m6kaq8ibg245gc1p0zq5vq2z"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.4.0/reaper_reallm-x86_64.so",
-        "sha256": "0iwcqjylymn3pz9fx1lsfyv47ga103l6yaxlg2fx4jz5vqgrwv7g"
-      }
-    ],
-    "0.3.2": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-aarch64.so",
-        "sha256": "1xnb6ba3ajms3np054lqqiyvbzb4bqgkr09sksv19f0v7i41njyc"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-arm64.dylib",
-        "sha256": "0wmg0r7flbsl4j4alhn02wklh1dj7012i38ycrsv5x4yrh95h2pa"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-armv7l.so",
-        "sha256": "1j9a9nm9020601h95gc7gihr1i3b3x3jrg8wr05q23wr0vkspzlq"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-i386.dylib",
-        "sha256": "0inq95b14z7vikl2zy71fbb94vixd8snp25ha2kzn86pb4yxjqkr"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-i686.so",
-        "sha256": "18g2giqxl2b822159az2xw06j6dihlb6ps90cfrwd9qprrjhk1zj"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-x64.dll",
-        "sha256": "1sgippc5svb4b8r5vvw3f757gr3h1i9h38cqvmgrzkqyixq328ax"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-x86.dll",
-        "sha256": "00brxic30s74f5v0g7jacfwb5a68x8fmk5763rslqaxn9ifwcava"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-x86_64.dylib",
-        "sha256": "1pnx2fvclfpa7jar0xnmqryfrlhp7wwaffg2nzklnis81x6wj3p1"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.2/reaper_reallm-x86_64.so",
-        "sha256": "0cyp26nxdak8ldp2ih0d89wy5971zn6jadi2zy9hpqc9lr1rnhwx"
-      }
-    ],
-    "0.3.1": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-aarch64.so",
-        "sha256": "0swpzl85dsb325kp6g38awgzf3iwjhs19szz0xmmm7f37gvwsh7j"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-arm64.dylib",
-        "sha256": "0ha9rgg0bk55kgzyk9pl3h7j54zldx1cnnlf2km7dqfmvdr2khkq"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-armv7l.so",
-        "sha256": "0ak08gkbv2snj5jwacg23p144rghyq13zwigzrirxh9lxx4a5grh"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-i386.dylib",
-        "sha256": "08h2ii07ngr5i80xyz6xmjsq9gdcb55kxm1yl9jbmjv88y9qkzah"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-i686.so",
-        "sha256": "1vhx9xrlsril0h8z68gynqv1gcjkgl9icgbk0rmp0p0qlxmbjz20"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-x64.dll",
-        "sha256": "0y6fhaxzznrm8fi4f02l1knxhck9whpy8kf208vd2729r840ql8x"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-x86.dll",
-        "sha256": "0x5g8g3pi07mzvh8dkn7r4byd7accb3bh51v5046ixsrjljphaz7"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-x86_64.dylib",
-        "sha256": "00mzcrsl4g9g630ga3n28dmw2mpacv6j0iks44h93kchacg8sgc7"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-x86_64.so",
-        "sha256": "0qsdh8ysha924a7g3s70b70h17ygxjnz8xshrgg0b4f8fxki1qqr"
-      }
-    ],
-    "0.3.0": [
-      {
-        "path": "UserPlugins/reaper_reallm-aarch64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-aarch64.so",
-        "sha256": "14y6a6a589kw0qgm91n2r8ap01scrzr4bgppwiwhfxgnrizhmj87"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-arm64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-arm64.dylib",
-        "sha256": "1qbvljf53prbf47zylj002iq89s6x6ll99yliszdf8yv1qk077pp"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-armv7l.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-armv7l.so",
-        "sha256": "1f2cngj38nq1qg3pb9ib3wr1i85ir29d49lg9kiggqyqzwanv3i6"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i386.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-i386.dylib",
-        "sha256": "1jiyl525cp0sqrix8x4ykhlxx740r383fkmccq3h0xlz829g5bb1"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-i686.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-i686.so",
-        "sha256": "10njf8js2wgwqixv3c1y4wqi7m6h8jvyn01y7g14kkv9y6yagzmj"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x64.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-x64.dll",
-        "sha256": "0ggd7ia7qd0f226rd6dfribr1azggdw7npgx1hy0lipwp7xczjyx"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86.dll",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-x86.dll",
-        "sha256": "06zxa1k173kvbmsibh21bs02c5b68m9m3px907y8zj0369zx09xn"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.dylib",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-x86_64.dylib",
-        "sha256": "0vgpmsrn8v6yrzqg017s1x56k0pqdb2g89vdgwrfv8168m7s8y7n"
-      },
-      {
-        "path": "UserPlugins/reaper_reallm-x86_64.so",
-        "url": "https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-x86_64.so",
-        "sha256": "1lx7g7vh8ypfpc466q3n5x2zx4nn5qwi3s2j1siscx3wcr3zif2l"
-      }
-    ]
-  },
-  "frabert_ogler.ext": {
-    "latest": [
-      {
-        "path": "UserPlugins/FX/ogler.clap",
-        "url": "https://github.com/frabert/ogler/releases/download/v0.10.0/ogler-win64.clap",
-        "sha256": "0bjvj5vv5jji7vqi0nsy0v5vki4dpm0ysqbypx11kny1lav25k6i"
-      }
-    ],
-    "0.10.0": [
-      {
-        "path": "UserPlugins/FX/ogler.clap",
-        "url": "https://github.com/frabert/ogler/releases/download/v0.10.0/ogler-win64.clap",
-        "sha256": "0bjvj5vv5jji7vqi0nsy0v5vki4dpm0ysqbypx11kny1lav25k6i"
       }
     ]
   }
