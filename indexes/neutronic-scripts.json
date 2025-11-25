@@ -1,41 +1,4 @@
 {
-  "neutronic_Show track or take envelope for last touched parameter.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/32d6cc09fff9a559affabf281c4fb430edb6d69d/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
-        "sha256": "1msg97nzihvby45akxmsp6nqncd4l8ixq03gld63wzp59736iz77"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/32d6cc09fff9a559affabf281c4fb430edb6d69d/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
-        "sha256": "1msg97nzihvby45akxmsp6nqncd4l8ixq03gld63wzp59736iz77"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/20d398c5bbabaed2b374897ccf2fabf9812962ef/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
-        "sha256": "0aq95y1ml64n45cxrnyb4ddqabwmzfpjbcfsa18w42k42v0r21r1"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/59827435b6b0992f6c01a87580770efe84f3d33f/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
-        "sha256": "0h4jrxwy6q003g4kk0hv6n9a41lvgwcgxn7fidscxnpl8kybaxav"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/55ea23d43b8f441a0a2b5e9bc2e1e85884513a6d/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
-        "sha256": "1vv1g7yavr5ai2cx8408d62ajh7ylm5fg9nkk2p3ahxjmd9awzqr"
-      }
-    ]
-  },
   "neutronic_Quick Adder 2.lua": {
     "latest": [
       {
@@ -273,6 +236,43 @@
         "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/neutronic_Quick Adder 2.lua",
         "url": "https://github.com/Neutronic/ReaScripts/raw/def33d35c353df71084d51119b66d49dc8691316/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua",
         "sha256": "1j01gfq3d4zfqgqf4zvsl23ls445bqminx2b5fi597x9f86ci85v"
+      }
+    ]
+  },
+  "neutronic_Show track or take envelope for last touched parameter.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/32d6cc09fff9a559affabf281c4fb430edb6d69d/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
+        "sha256": "1msg97nzihvby45akxmsp6nqncd4l8ixq03gld63wzp59736iz77"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/32d6cc09fff9a559affabf281c4fb430edb6d69d/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
+        "sha256": "1msg97nzihvby45akxmsp6nqncd4l8ixq03gld63wzp59736iz77"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/20d398c5bbabaed2b374897ccf2fabf9812962ef/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
+        "sha256": "0aq95y1ml64n45cxrnyb4ddqabwmzfpjbcfsa18w42k42v0r21r1"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/59827435b6b0992f6c01a87580770efe84f3d33f/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
+        "sha256": "0h4jrxwy6q003g4kk0hv6n9a41lvgwcgxn7fidscxnpl8kybaxav"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Neutronic Scripts/FX/neutronic_Show track or take envelope for last touched parameter.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/55ea23d43b8f441a0a2b5e9bc2e1e85884513a6d/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua",
+        "sha256": "1vv1g7yavr5ai2cx8408d62ajh7ylm5fg9nkk2p3ahxjmd9awzqr"
       }
     ]
   },

@@ -521,114 +521,6 @@
       }
     ]
   },
-  "lewloiwc's Sound Design Suite.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/Open_Delay_Examples_in_Container.RPL",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/Open_Delay_Examples_in_Container.RPL",
-        "sha256": "1gra46af66qk30v696xbph4yzgizbzlh1gy4mlh2nnakz4281l8h"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/SoundDesign_Dependencies/more_graphics.jsfx-inc",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_graphics.jsfx-inc",
-        "sha256": "1hg131hyp0r1mbasax6qxq5wzsyxrmldh0z3zqrpdy66kdz2zmbx"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/SoundDesign_Dependencies/more_math_functions.jsfx-inc",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_math_functions.jsfx-inc",
-        "sha256": "1lvw8g9gb3zrfwibjsfkr50lskdzrkvbzgshfj5i06bzm6jhx350"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_midi_trigger_envelope.jsfx",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_midi_trigger_envelope.jsfx",
-        "sha256": "16qy36a7ccind7jp14x98cb5pamzkv0cb3fr4jkq49x2f2j6lx9c"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_open_delay.jsfx",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_open_delay.jsfx",
-        "sha256": "1pr7j30yia40pr8plq4j6521sad8lsml4l3fh3idmcc2ikq96wws"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_sample_warp_texture_mode.jsfx",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sample_warp_texture_mode.jsfx",
-        "sha256": "0xfqjvkl34vmdgsym5n9l3fnkv6a3qi4nqrq8zfil4jgd15af5iv"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_sidechain_erosion.jsfx",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sidechain_erosion.jsfx",
-        "sha256": "0wfjmdjq89sg950q6gdy00xq9s5qzjgvjci406ibqbwlc7cwc431"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/Open_Delay_Examples_in_Container.RPL",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/Open_Delay_Examples_in_Container.RPL",
-        "sha256": "1gra46af66qk30v696xbph4yzgizbzlh1gy4mlh2nnakz4281l8h"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/SoundDesign_Dependencies/more_graphics.jsfx-inc",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_graphics.jsfx-inc",
-        "sha256": "1hg131hyp0r1mbasax6qxq5wzsyxrmldh0z3zqrpdy66kdz2zmbx"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/SoundDesign_Dependencies/more_math_functions.jsfx-inc",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_math_functions.jsfx-inc",
-        "sha256": "1lvw8g9gb3zrfwibjsfkr50lskdzrkvbzgshfj5i06bzm6jhx350"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_midi_trigger_envelope.jsfx",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_midi_trigger_envelope.jsfx",
-        "sha256": "16qy36a7ccind7jp14x98cb5pamzkv0cb3fr4jkq49x2f2j6lx9c"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_open_delay.jsfx",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_open_delay.jsfx",
-        "sha256": "1pr7j30yia40pr8plq4j6521sad8lsml4l3fh3idmcc2ikq96wws"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_sample_warp_texture_mode.jsfx",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sample_warp_texture_mode.jsfx",
-        "sha256": "0xfqjvkl34vmdgsym5n9l3fnkv6a3qi4nqrq8zfil4jgd15af5iv"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_sidechain_erosion.jsfx",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sidechain_erosion.jsfx",
-        "sha256": "0wfjmdjq89sg950q6gdy00xq9s5qzjgvjci406ibqbwlc7cwc431"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/SoundDesign_Dependencies/more_graphics.jsfx-inc",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_graphics.jsfx-inc",
-        "sha256": "1hg131hyp0r1mbasax6qxq5wzsyxrmldh0z3zqrpdy66kdz2zmbx"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/SoundDesign_Dependencies/more_math_functions.jsfx-inc",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_math_functions.jsfx-inc",
-        "sha256": "1lvw8g9gb3zrfwibjsfkr50lskdzrkvbzgshfj5i06bzm6jhx350"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_midi_trigger_envelope.jsfx",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_midi_trigger_envelope.jsfx",
-        "sha256": "16qy36a7ccind7jp14x98cb5pamzkv0cb3fr4jkq49x2f2j6lx9c"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_open_delay.jsfx",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_open_delay.jsfx",
-        "sha256": "1pr7j30yia40pr8plq4j6521sad8lsml4l3fh3idmcc2ikq96wws"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_sample_warp_texture_mode.jsfx",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sample_warp_texture_mode.jsfx",
-        "sha256": "0xfqjvkl34vmdgsym5n9l3fnkv6a3qi4nqrq8zfil4jgd15af5iv"
-      },
-      {
-        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_sidechain_erosion.jsfx",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sidechain_erosion.jsfx",
-        "sha256": "0wfjmdjq89sg950q6gdy00xq9s5qzjgvjci406ibqbwlc7cwc431"
-      }
-    ]
-  },
   "lewloiwc's Splitter Suite.jsfx": {
     "latest": [
       {
@@ -891,6 +783,153 @@
         "path": "Effects/Suzuki Scripts/lewloiwc's Splitter Suite/lewloiwc_sinc_frequency_splitter.jsfx",
         "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/3768ce7349644d4c3c4647ebd1bd1d13046c2071/lewloiwc's%20Splitter%20Suite/lewloiwc_sinc_frequency_splitter.jsfx",
         "sha256": "0dkq2n3pxw6gmi5cgxy571a3rgwfd70agyz2mbm47gxs2wdqc0p6"
+      }
+    ]
+  },
+  "Suzuki_Set last touched track or take FX (inside Container) parameter as a lead parameter for parameter link.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Set last touched track or take FX (inside Container) parameter as a lead parameter for parameter link.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e96035ac7869a7f3754db30d149dd05f025076ac/Modulation/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20as%20a%20lead%20parameter%20for%20parameter%20link.lua",
+        "sha256": "1qh61jp0ggk7rg5bgzy2avhkcg650xphbjnaby3yx7p2ddgzb4l9"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Set last touched track or take FX (inside Container) parameter as a lead parameter for parameter link.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e96035ac7869a7f3754db30d149dd05f025076ac/Modulation/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20as%20a%20lead%20parameter%20for%20parameter%20link.lua",
+        "sha256": "1qh61jp0ggk7rg5bgzy2avhkcg650xphbjnaby3yx7p2ddgzb4l9"
+      }
+    ]
+  },
+  "Suzuki_Toggle enable disable LFO for last touched track or take FX (inside Container) parameter.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable LFO for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20enable%20disable%20LFO%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "0zd7dibj1jsmsk0wacj9qfibr4269cwscjhcfzzcy0ds7f5k04yk"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable LFO for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20enable%20disable%20LFO%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "0zd7dibj1jsmsk0wacj9qfibr4269cwscjhcfzzcy0ds7f5k04yk"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable LFO for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/a827b9c8d3ce223198efdbcccdbaf23d8e2da543/Modulation/Suzuki_Toggle%20enable%20disable%20LFO%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "0kcrk37s98gw0xvx1cgfgc87vmrdh53m1d13agf2kfxjhfjj5sqq"
+      }
+    ]
+  },
+  "Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20enable%20disable%20audio%20control%20signal%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "13bcysf2sbxgb70wqps7zya7dl00y1idfyarxbdld1yydq619pqg"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20enable%20disable%20audio%20control%20signal%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "13bcysf2sbxgb70wqps7zya7dl00y1idfyarxbdld1yydq619pqg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c2ec5e58bf5e8f63b23a6386bed9d217343f06d9/Modulation/Suzuki_Toggle%20enable%20disable%20audio%20control%20signal%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "0d1l7zvsridkly6xamkbp9wpjvvxhq0y8kygijqz6q8l2z6hf5p9"
+      }
+    ]
+  },
+  "Suzuki_Toggle link last touched track or take FX (inside Container) parameter as a follower to the lead parameter.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle link last touched track or take FX (inside Container) parameter as a follower to the lead parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e96035ac7869a7f3754db30d149dd05f025076ac/Modulation/Suzuki_Toggle%20link%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20as%20a%20follower%20to%20the%20lead%20parameter.lua",
+        "sha256": "1vjj750z6gck34mb4z4jcss55jrp638bczj4lv6x29pxc7fxnf38"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle link last touched track or take FX (inside Container) parameter as a follower to the lead parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e96035ac7869a7f3754db30d149dd05f025076ac/Modulation/Suzuki_Toggle%20link%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20as%20a%20follower%20to%20the%20lead%20parameter.lua",
+        "sha256": "1vjj750z6gck34mb4z4jcss55jrp638bczj4lv6x29pxc7fxnf38"
+      }
+    ]
+  },
+  "Suzuki_Toggle set midi CC link (119) for last touched track or take FX (inside Container) parameter.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link (119) for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/75e1873e7b44e732ec029aec838e09e4c5cdb74a/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20(119)%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "0jn1b4x1a8bcqdkfij6ndj3lbmqxz1nd1i7w5n3lgfnhv9bk0f8y"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link (119) for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/75e1873e7b44e732ec029aec838e09e4c5cdb74a/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20(119)%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "0jn1b4x1a8bcqdkfij6ndj3lbmqxz1nd1i7w5n3lgfnhv9bk0f8y"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link (119) for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/3e8e76ce4a8f9e9926195bda3083f1d8ed437fe9/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20(119)%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "1xabsass756jmyrkzdyifplh8sb4qi4b2zaycd7l7ll5ipaq5nd2"
+      }
+    ]
+  },
+  "Suzuki_Toggle set midi CC link (31_63) for last touched track or take FX (inside Container) parameter.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link (31_63) for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/75e1873e7b44e732ec029aec838e09e4c5cdb74a/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20(31_63)%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "1avsqikvmvd8n2ficbwk7jha8p77dgcm8j49yighvnxjnzay72cv"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link (31_63) for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/75e1873e7b44e732ec029aec838e09e4c5cdb74a/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20(31_63)%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "1avsqikvmvd8n2ficbwk7jha8p77dgcm8j49yighvnxjnzay72cv"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link (31_63) for last touched track or take FX (inside Container) parameter.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/3e8e76ce4a8f9e9926195bda3083f1d8ed437fe9/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20(31_63)%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
+        "sha256": "0yiai13hrivcr7qvzy8szwcgnymjdgyfz2kidnvv4hc5qx1lrvd2"
+      }
+    ]
+  },
+  "Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20(user%20input).lua",
+        "sha256": "16g78plrwik5a4rp6cqp2rlwjlyd18srw9zbnfk44k98fzsihirx"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20(user%20input).lua",
+        "sha256": "16g78plrwik5a4rp6cqp2rlwjlyd18srw9zbnfk44k98fzsihirx"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c91b44efdc568a35d489c2977f39e39936880ea7/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20(user%20input).lua",
+        "sha256": "0dg04byccig93zbn50jwvb25aw2y1ig6sn68spchcqr6yqy3n4cy"
       }
     ]
   },
@@ -6090,6 +6129,114 @@
       }
     ]
   },
+  "lewloiwc's Sound Design Suite.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/Open_Delay_Examples_in_Container.RPL",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/Open_Delay_Examples_in_Container.RPL",
+        "sha256": "1gra46af66qk30v696xbph4yzgizbzlh1gy4mlh2nnakz4281l8h"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/SoundDesign_Dependencies/more_graphics.jsfx-inc",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_graphics.jsfx-inc",
+        "sha256": "1hg131hyp0r1mbasax6qxq5wzsyxrmldh0z3zqrpdy66kdz2zmbx"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/SoundDesign_Dependencies/more_math_functions.jsfx-inc",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_math_functions.jsfx-inc",
+        "sha256": "1lvw8g9gb3zrfwibjsfkr50lskdzrkvbzgshfj5i06bzm6jhx350"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_midi_trigger_envelope.jsfx",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_midi_trigger_envelope.jsfx",
+        "sha256": "16qy36a7ccind7jp14x98cb5pamzkv0cb3fr4jkq49x2f2j6lx9c"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_open_delay.jsfx",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_open_delay.jsfx",
+        "sha256": "1pr7j30yia40pr8plq4j6521sad8lsml4l3fh3idmcc2ikq96wws"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_sample_warp_texture_mode.jsfx",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sample_warp_texture_mode.jsfx",
+        "sha256": "0xfqjvkl34vmdgsym5n9l3fnkv6a3qi4nqrq8zfil4jgd15af5iv"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_sidechain_erosion.jsfx",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sidechain_erosion.jsfx",
+        "sha256": "0wfjmdjq89sg950q6gdy00xq9s5qzjgvjci406ibqbwlc7cwc431"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/Open_Delay_Examples_in_Container.RPL",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/Open_Delay_Examples_in_Container.RPL",
+        "sha256": "1gra46af66qk30v696xbph4yzgizbzlh1gy4mlh2nnakz4281l8h"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/SoundDesign_Dependencies/more_graphics.jsfx-inc",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_graphics.jsfx-inc",
+        "sha256": "1hg131hyp0r1mbasax6qxq5wzsyxrmldh0z3zqrpdy66kdz2zmbx"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/SoundDesign_Dependencies/more_math_functions.jsfx-inc",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_math_functions.jsfx-inc",
+        "sha256": "1lvw8g9gb3zrfwibjsfkr50lskdzrkvbzgshfj5i06bzm6jhx350"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_midi_trigger_envelope.jsfx",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_midi_trigger_envelope.jsfx",
+        "sha256": "16qy36a7ccind7jp14x98cb5pamzkv0cb3fr4jkq49x2f2j6lx9c"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_open_delay.jsfx",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_open_delay.jsfx",
+        "sha256": "1pr7j30yia40pr8plq4j6521sad8lsml4l3fh3idmcc2ikq96wws"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_sample_warp_texture_mode.jsfx",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sample_warp_texture_mode.jsfx",
+        "sha256": "0xfqjvkl34vmdgsym5n9l3fnkv6a3qi4nqrq8zfil4jgd15af5iv"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_sidechain_erosion.jsfx",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/10fd04e87caf477632676b51de46ce8e12c18b02/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sidechain_erosion.jsfx",
+        "sha256": "0wfjmdjq89sg950q6gdy00xq9s5qzjgvjci406ibqbwlc7cwc431"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/SoundDesign_Dependencies/more_graphics.jsfx-inc",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_graphics.jsfx-inc",
+        "sha256": "1hg131hyp0r1mbasax6qxq5wzsyxrmldh0z3zqrpdy66kdz2zmbx"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/SoundDesign_Dependencies/more_math_functions.jsfx-inc",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/SoundDesign_Dependencies/more_math_functions.jsfx-inc",
+        "sha256": "1lvw8g9gb3zrfwibjsfkr50lskdzrkvbzgshfj5i06bzm6jhx350"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_midi_trigger_envelope.jsfx",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_midi_trigger_envelope.jsfx",
+        "sha256": "16qy36a7ccind7jp14x98cb5pamzkv0cb3fr4jkq49x2f2j6lx9c"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_open_delay.jsfx",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_open_delay.jsfx",
+        "sha256": "1pr7j30yia40pr8plq4j6521sad8lsml4l3fh3idmcc2ikq96wws"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_sample_warp_texture_mode.jsfx",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sample_warp_texture_mode.jsfx",
+        "sha256": "0xfqjvkl34vmdgsym5n9l3fnkv6a3qi4nqrq8zfil4jgd15af5iv"
+      },
+      {
+        "path": "Effects/Suzuki Scripts/lewloiwc's Sound Design Suite/lewloiwc_sidechain_erosion.jsfx",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/25a8e1b16cf06035cbfa1836d1a335fdd4d3c6d2/lewloiwc's%20Sound%20Design%20Suite/lewloiwc_sidechain_erosion.jsfx",
+        "sha256": "0wfjmdjq89sg950q6gdy00xq9s5qzjgvjci406ibqbwlc7cwc431"
+      }
+    ]
+  },
   "Suzuki_Toggle show hide visible envelope for last touched track or take FX (inside Container) parameter.lua": {
     "latest": [
       {
@@ -6120,150 +6267,33 @@
       }
     ]
   },
-  "Suzuki_Set last touched track or take FX (inside Container) parameter as a lead parameter for parameter link.lua": {
+  "Suzuki_Track template shortcut generator.lua": {
     "latest": [
       {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Set last touched track or take FX (inside Container) parameter as a lead parameter for parameter link.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e96035ac7869a7f3754db30d149dd05f025076ac/Modulation/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20as%20a%20lead%20parameter%20for%20parameter%20link.lua",
-        "sha256": "1qh61jp0ggk7rg5bgzy2avhkcg650xphbjnaby3yx7p2ddgzb4l9"
+        "path": "Scripts/Suzuki Scripts/Track/Track Template Shortcut Generator/Suzuki_Track template shortcut generator.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/aeddbd137040ca3436c6f1ef118188bb27a52f2a/Track/Track%20Template%20Shortcut%20Generator/Suzuki_Track%20template%20shortcut%20generator.lua",
+        "sha256": "13glwdwckqgfw7x4zz84c3zl9jsqhbz4axzy3q0706kpdcal4ihj"
       }
     ],
-    "1.0": [
+    "1.2": [
       {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Set last touched track or take FX (inside Container) parameter as a lead parameter for parameter link.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e96035ac7869a7f3754db30d149dd05f025076ac/Modulation/Suzuki_Set%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20as%20a%20lead%20parameter%20for%20parameter%20link.lua",
-        "sha256": "1qh61jp0ggk7rg5bgzy2avhkcg650xphbjnaby3yx7p2ddgzb4l9"
-      }
-    ]
-  },
-  "Suzuki_Toggle enable disable LFO for last touched track or take FX (inside Container) parameter.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable LFO for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20enable%20disable%20LFO%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "0zd7dibj1jsmsk0wacj9qfibr4269cwscjhcfzzcy0ds7f5k04yk"
+        "path": "Scripts/Suzuki Scripts/Track/Track Template Shortcut Generator/Suzuki_Track template shortcut generator.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/aeddbd137040ca3436c6f1ef118188bb27a52f2a/Track/Track%20Template%20Shortcut%20Generator/Suzuki_Track%20template%20shortcut%20generator.lua",
+        "sha256": "13glwdwckqgfw7x4zz84c3zl9jsqhbz4axzy3q0706kpdcal4ihj"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable LFO for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20enable%20disable%20LFO%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "0zd7dibj1jsmsk0wacj9qfibr4269cwscjhcfzzcy0ds7f5k04yk"
+        "path": "Scripts/Suzuki Scripts/Track/Track Template Shortcut Generator/Suzuki_Track template shortcut generator.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/98189865e22087397be8cbba7356326ac6803e3a/Track/Track%20Template%20Shortcut%20Generator/Suzuki_Track%20template%20shortcut%20generator.lua",
+        "sha256": "0wz5rlp75xix6di2z4jwmy9jdbfzpdr01zmrxcxg48s2vfcpnifl"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable LFO for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/a827b9c8d3ce223198efdbcccdbaf23d8e2da543/Modulation/Suzuki_Toggle%20enable%20disable%20LFO%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "0kcrk37s98gw0xvx1cgfgc87vmrdh53m1d13agf2kfxjhfjj5sqq"
-      }
-    ]
-  },
-  "Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20enable%20disable%20audio%20control%20signal%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "13bcysf2sbxgb70wqps7zya7dl00y1idfyarxbdld1yydq619pqg"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20enable%20disable%20audio%20control%20signal%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "13bcysf2sbxgb70wqps7zya7dl00y1idfyarxbdld1yydq619pqg"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle enable disable audio control signal for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c2ec5e58bf5e8f63b23a6386bed9d217343f06d9/Modulation/Suzuki_Toggle%20enable%20disable%20audio%20control%20signal%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "0d1l7zvsridkly6xamkbp9wpjvvxhq0y8kygijqz6q8l2z6hf5p9"
-      }
-    ]
-  },
-  "Suzuki_Toggle link last touched track or take FX (inside Container) parameter as a follower to the lead parameter.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle link last touched track or take FX (inside Container) parameter as a follower to the lead parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e96035ac7869a7f3754db30d149dd05f025076ac/Modulation/Suzuki_Toggle%20link%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20as%20a%20follower%20to%20the%20lead%20parameter.lua",
-        "sha256": "1vjj750z6gck34mb4z4jcss55jrp638bczj4lv6x29pxc7fxnf38"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle link last touched track or take FX (inside Container) parameter as a follower to the lead parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/e96035ac7869a7f3754db30d149dd05f025076ac/Modulation/Suzuki_Toggle%20link%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20as%20a%20follower%20to%20the%20lead%20parameter.lua",
-        "sha256": "1vjj750z6gck34mb4z4jcss55jrp638bczj4lv6x29pxc7fxnf38"
-      }
-    ]
-  },
-  "Suzuki_Toggle set midi CC link (119) for last touched track or take FX (inside Container) parameter.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link (119) for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/75e1873e7b44e732ec029aec838e09e4c5cdb74a/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20(119)%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "0jn1b4x1a8bcqdkfij6ndj3lbmqxz1nd1i7w5n3lgfnhv9bk0f8y"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link (119) for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/75e1873e7b44e732ec029aec838e09e4c5cdb74a/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20(119)%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "0jn1b4x1a8bcqdkfij6ndj3lbmqxz1nd1i7w5n3lgfnhv9bk0f8y"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link (119) for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/3e8e76ce4a8f9e9926195bda3083f1d8ed437fe9/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20(119)%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "1xabsass756jmyrkzdyifplh8sb4qi4b2zaycd7l7ll5ipaq5nd2"
-      }
-    ]
-  },
-  "Suzuki_Toggle set midi CC link (31_63) for last touched track or take FX (inside Container) parameter.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link (31_63) for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/75e1873e7b44e732ec029aec838e09e4c5cdb74a/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20(31_63)%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "1avsqikvmvd8n2ficbwk7jha8p77dgcm8j49yighvnxjnzay72cv"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link (31_63) for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/75e1873e7b44e732ec029aec838e09e4c5cdb74a/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20(31_63)%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "1avsqikvmvd8n2ficbwk7jha8p77dgcm8j49yighvnxjnzay72cv"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link (31_63) for last touched track or take FX (inside Container) parameter.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/3e8e76ce4a8f9e9926195bda3083f1d8ed437fe9/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20(31_63)%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter.lua",
-        "sha256": "0yiai13hrivcr7qvzy8szwcgnymjdgyfz2kidnvv4hc5qx1lrvd2"
-      }
-    ]
-  },
-  "Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20(user%20input).lua",
-        "sha256": "16g78plrwik5a4rp6cqp2rlwjlyd18srw9zbnfk44k98fzsihirx"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/8568ed033473e8340e83818f33c3c5421b6d7913/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20(user%20input).lua",
-        "sha256": "16g78plrwik5a4rp6cqp2rlwjlyd18srw9zbnfk44k98fzsihirx"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/Modulation/Suzuki_Toggle set midi CC link for last touched track or take FX (inside Container) parameter (user input).lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/c91b44efdc568a35d489c2977f39e39936880ea7/Modulation/Suzuki_Toggle%20set%20midi%20CC%20link%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container)%20parameter%20(user%20input).lua",
-        "sha256": "0dg04byccig93zbn50jwvb25aw2y1ig6sn68spchcqr6yqy3n4cy"
+        "path": "Scripts/Suzuki Scripts/Track/Track Template Shortcut Generator/Suzuki_Track template shortcut generator.lua",
+        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/17a8c2c4f9178ea0c0a995a66d43cc3d6e7b9ed5/Track/Track%20Template%20Shortcut%20Generator/Suzuki_Track%20template%20shortcut%20generator.lua",
+        "sha256": "0hsw9wfrzaji01xdc1x1slq4cgm29378pzgc8lyrcvnq1rvjisjb"
       }
     ]
   },
@@ -6296,36 +6326,6 @@
         "path": "Scripts/Suzuki Scripts/Development/Suzuki_Check stereo channels output bitmask for last touched track or take FX (inside Container).lua",
         "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/ce6f7a9cb82732e09e5deda9c74992d8dfc11a06/Development/Suzuki_Check%20stereo%20channels%20output%20bitmask%20for%20last%20touched%20track%20or%20take%20FX%20(inside%20Container).lua",
         "sha256": "1nfsy85m50hf8kbcgbp7qj0jy9qnxplikhpxfwbbxh699p7c5p5r"
-      }
-    ]
-  },
-  "Suzuki_Track template shortcut generator.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Suzuki Scripts/Track/Track Template Shortcut Generator/Suzuki_Track template shortcut generator.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/aeddbd137040ca3436c6f1ef118188bb27a52f2a/Track/Track%20Template%20Shortcut%20Generator/Suzuki_Track%20template%20shortcut%20generator.lua",
-        "sha256": "13glwdwckqgfw7x4zz84c3zl9jsqhbz4axzy3q0706kpdcal4ihj"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Suzuki Scripts/Track/Track Template Shortcut Generator/Suzuki_Track template shortcut generator.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/aeddbd137040ca3436c6f1ef118188bb27a52f2a/Track/Track%20Template%20Shortcut%20Generator/Suzuki_Track%20template%20shortcut%20generator.lua",
-        "sha256": "13glwdwckqgfw7x4zz84c3zl9jsqhbz4axzy3q0706kpdcal4ihj"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Suzuki Scripts/Track/Track Template Shortcut Generator/Suzuki_Track template shortcut generator.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/98189865e22087397be8cbba7356326ac6803e3a/Track/Track%20Template%20Shortcut%20Generator/Suzuki_Track%20template%20shortcut%20generator.lua",
-        "sha256": "0wz5rlp75xix6di2z4jwmy9jdbfzpdr01zmrxcxg48s2vfcpnifl"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Suzuki Scripts/Track/Track Template Shortcut Generator/Suzuki_Track template shortcut generator.lua",
-        "url": "https://github.com/Suzuki-Re/Suzuki-Scripts/raw/17a8c2c4f9178ea0c0a995a66d43cc3d6e7b9ed5/Track/Track%20Template%20Shortcut%20Generator/Suzuki_Track%20template%20shortcut%20generator.lua",
-        "sha256": "0hsw9wfrzaji01xdc1x1slq4cgm29378pzgc8lyrcvnq1rvjisjb"
       }
     ]
   }

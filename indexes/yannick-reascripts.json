@@ -3001,38 +3001,6 @@
       }
     ]
   },
-  "Yannick_Transport - Off or On toolbar button - Stop or Pause (save state after REAPER reboot).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/Scripts with config files/Transport/Yannick_Transport - Off or On toolbar button - Stop or Pause (save state after REAPER reboot).lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/d3456cbdfb1baad0670a8f8ace954c1aee44ef5c/Scripts%20with%20config%20files/Transport/Yannick_Transport%20-%20Off%20or%20On%20toolbar%20button%20-%20Stop%20or%20Pause%20(save%20state%20after%20REAPER%20reboot).lua",
-        "sha256": "0hm93plfgv4hmvzcj34fhrg3y26manarb31wi1fz4fkjk0bw0vp6"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/Scripts with config files/Transport/Yannick_Transport - Off or On toolbar button - Stop or Pause (save state after REAPER reboot).lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/d3456cbdfb1baad0670a8f8ace954c1aee44ef5c/Scripts%20with%20config%20files/Transport/Yannick_Transport%20-%20Off%20or%20On%20toolbar%20button%20-%20Stop%20or%20Pause%20(save%20state%20after%20REAPER%20reboot).lua",
-        "sha256": "0hm93plfgv4hmvzcj34fhrg3y26manarb31wi1fz4fkjk0bw0vp6"
-      }
-    ]
-  },
-  "Yannick_Transport - Toggle Play or Stop-Pause project depending on toolbar button state.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/Scripts with config files/Transport/Yannick_Transport - Toggle Play or Stop-Pause project depending on toolbar button state.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/d3456cbdfb1baad0670a8f8ace954c1aee44ef5c/Scripts%20with%20config%20files/Transport/Yannick_Transport%20-%20Toggle%20Play%20or%20Stop-Pause%20project%20depending%20on%20toolbar%20button%20state.lua",
-        "sha256": "0i6wbr8w1r31fznnvg35qv2rq0rh8spvpd0q6skl7xk21iks814j"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Yannick-ReaScripts/Scripts with config files/Transport/Yannick_Transport - Toggle Play or Stop-Pause project depending on toolbar button state.lua",
-        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/d3456cbdfb1baad0670a8f8ace954c1aee44ef5c/Scripts%20with%20config%20files/Transport/Yannick_Transport%20-%20Toggle%20Play%20or%20Stop-Pause%20project%20depending%20on%20toolbar%20button%20state.lua",
-        "sha256": "0i6wbr8w1r31fznnvg35qv2rq0rh8spvpd0q6skl7xk21iks814j"
-      }
-    ]
-  },
   "Yannick_Duplicate in one file Lua script from my repository by name from clipboard for customisation.lua": {
     "latest": [
       {
@@ -3168,6 +3136,38 @@
         "path": "Scripts/Yannick-ReaScripts/Mouse modifiers/Yannick_Set exclusive record arm for track or toggle folder collapse.lua",
         "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/3ff366111671ab209448d6579fe47408ebacf8ec/Mouse%20modifiers/Yannick_Set%20exclusive%20record%20arm%20for%20track%20or%20toggle%20folder%20collapse.lua",
         "sha256": "0fwkdn3ny3lbndyva2pl9iz0mvg9yd85m6x66yqibk7m5v9rjjyk"
+      }
+    ]
+  },
+  "Yannick_Transport - Off or On toolbar button - Stop or Pause (save state after REAPER reboot).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/Scripts with config files/Transport/Yannick_Transport - Off or On toolbar button - Stop or Pause (save state after REAPER reboot).lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/d3456cbdfb1baad0670a8f8ace954c1aee44ef5c/Scripts%20with%20config%20files/Transport/Yannick_Transport%20-%20Off%20or%20On%20toolbar%20button%20-%20Stop%20or%20Pause%20(save%20state%20after%20REAPER%20reboot).lua",
+        "sha256": "0hm93plfgv4hmvzcj34fhrg3y26manarb31wi1fz4fkjk0bw0vp6"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/Scripts with config files/Transport/Yannick_Transport - Off or On toolbar button - Stop or Pause (save state after REAPER reboot).lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/d3456cbdfb1baad0670a8f8ace954c1aee44ef5c/Scripts%20with%20config%20files/Transport/Yannick_Transport%20-%20Off%20or%20On%20toolbar%20button%20-%20Stop%20or%20Pause%20(save%20state%20after%20REAPER%20reboot).lua",
+        "sha256": "0hm93plfgv4hmvzcj34fhrg3y26manarb31wi1fz4fkjk0bw0vp6"
+      }
+    ]
+  },
+  "Yannick_Transport - Toggle Play or Stop-Pause project depending on toolbar button state.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/Scripts with config files/Transport/Yannick_Transport - Toggle Play or Stop-Pause project depending on toolbar button state.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/d3456cbdfb1baad0670a8f8ace954c1aee44ef5c/Scripts%20with%20config%20files/Transport/Yannick_Transport%20-%20Toggle%20Play%20or%20Stop-Pause%20project%20depending%20on%20toolbar%20button%20state.lua",
+        "sha256": "0i6wbr8w1r31fznnvg35qv2rq0rh8spvpd0q6skl7xk21iks814j"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Yannick-ReaScripts/Scripts with config files/Transport/Yannick_Transport - Toggle Play or Stop-Pause project depending on toolbar button state.lua",
+        "url": "https://github.com/Yaunick/Yannick-ReaScripts/raw/d3456cbdfb1baad0670a8f8ace954c1aee44ef5c/Scripts%20with%20config%20files/Transport/Yannick_Transport%20-%20Toggle%20Play%20or%20Stop-Pause%20project%20depending%20on%20toolbar%20button%20state.lua",
+        "sha256": "0i6wbr8w1r31fznnvg35qv2rq0rh8spvpd0q6skl7xk21iks814j"
       }
     ]
   }

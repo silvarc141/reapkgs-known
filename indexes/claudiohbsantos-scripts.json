@@ -317,6 +317,102 @@
       }
     ]
   },
+  "CS Channel 32 Channel Mixer.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Channel 32 Channel Mixer.jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Channel%2032%20Channel%20Mixer.jsfx",
+        "sha256": "0h30l9layhd70kygm6vak2q26v9l7q8b9vnqj7yc7l54fqyrg441"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Channel 32 Channel Mixer.jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Channel%2032%20Channel%20Mixer.jsfx",
+        "sha256": "0h30l9layhd70kygm6vak2q26v9l7q8b9vnqj7yc7l54fqyrg441"
+      }
+    ]
+  },
+  "CS Channel Router.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Channel Router.jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Channel%20Router.jsfx",
+        "sha256": "1r1zdv917q5mlp4gc6y8imbd09nqvzr9dda5zbasxdiaqsc948kw"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Channel Router.jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Channel%20Router.jsfx",
+        "sha256": "1r1zdv917q5mlp4gc6y8imbd09nqvzr9dda5zbasxdiaqsc948kw"
+      }
+    ]
+  },
+  "CS LR to Center Channel Send (Ch 3 Mixer).jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS LR to Center Channel Send (Ch 3 Mixer).jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20LR%20to%20Center%20Channel%20Send%20(Ch%203%20Mixer).jsfx",
+        "sha256": "1cnq4j0jzzb4h6kw7y74w9w63jvd7y8ih0h05ac01222s30a1bw4"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS LR to Center Channel Send (Ch 3 Mixer).jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20LR%20to%20Center%20Channel%20Send%20(Ch%203%20Mixer).jsfx",
+        "sha256": "1cnq4j0jzzb4h6kw7y74w9w63jvd7y8ih0h05ac01222s30a1bw4"
+      }
+    ]
+  },
+  "CS Stereo Phase Meter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Stereo Phase Meter.jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d29f782d18f2b644b18a1d4aa442570cd6bfdbd5/JSFX/CS%20Stereo%20Phase%20Meter.jsfx",
+        "sha256": "0dzn9giwpyk2yy67crliiv9zsy6a6dizrjagksnnry0gn937r18n"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Stereo Phase Meter.jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d29f782d18f2b644b18a1d4aa442570cd6bfdbd5/JSFX/CS%20Stereo%20Phase%20Meter.jsfx",
+        "sha256": "0dzn9giwpyk2yy67crliiv9zsy6a6dizrjagksnnry0gn937r18n"
+      }
+    ]
+  },
+  "CS Surround Channel Order Converter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Surround Channel Order Converter.jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20Channel%20Order%20Converter.jsfx",
+        "sha256": "0v13grvbb7s8jgx7jdvvlzfh1pb7fxjfxyinww088grk1fs5mxh8"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Surround Channel Order Converter.jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20Channel%20Order%20Converter.jsfx",
+        "sha256": "0v13grvbb7s8jgx7jdvvlzfh1pb7fxjfxyinww088grk1fs5mxh8"
+      }
+    ]
+  },
+  "CS Surround LFE Send.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Surround LFE Send.jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20LFE%20Send.jsfx",
+        "sha256": "1vv7vcfvq0qp7ds4xa68inbn0iq22a2zsmzlmkj9iqx3hhriws12"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Surround LFE Send.jsfx",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20LFE%20Send.jsfx",
+        "sha256": "1vv7vcfvq0qp7ds4xa68inbn0iq22a2zsmzlmkj9iqx3hhriws12"
+      }
+    ]
+  },
   "CS_Copy Take Volume Envelope to Track Volume Envelope.lua": {
     "latest": [
       {
@@ -778,213 +874,6 @@
         "path": "Scripts/Claudiohbsantos Scripts/Lua/Editing/CS_Smart Trim Right Edge/CS_Smart Trim Right Edge.lua",
         "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Editing/CS_Smart%20Trim%20Right%20Edge.lua",
         "sha256": "125m2r21bnwba70ba955jf5kx8bzbqfn2ggss1sqn3qmfhbff9fz"
-      }
-    ]
-  },
-  "CS_Item Disable Invert Phase.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable Invert Phase/CS_Item Disable Invert Phase.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Disable%20Invert%20Phase.lua",
-        "sha256": "1drhiswpayfw63mdp13j83kdls9gp72vscz7xgfcfwm401c2sjyg"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable Invert Phase/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable Invert Phase/CS_Item Disable Invert Phase.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Disable%20Invert%20Phase.lua",
-        "sha256": "1drhiswpayfw63mdp13j83kdls9gp72vscz7xgfcfwm401c2sjyg"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable Invert Phase/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable Invert Phase.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Items/CS_Item%20Disable%20Invert%20Phase.lua",
-        "sha256": "0hrx9hq8ymim2y5jla20lmz2j2c3jz6426a5nq2xmsaavhs5i9bb"
-      }
-    ]
-  },
-  "CS_Item Disable LoopSource.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Item Disable LoopSource.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Disable%20LoopSource.lua",
-        "sha256": "0nhkl0f78blaw1iyqd3ljjzjaiyxj83yshxri12pvhgns1v9bxgj"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Item Disable LoopSource.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Disable%20LoopSource.lua",
-        "sha256": "0nhkl0f78blaw1iyqd3ljjzjaiyxj83yshxri12pvhgns1v9bxgj"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Items/CS_Item%20Disable%20LoopSource.lua",
-        "sha256": "1rzbzldjpx13zw1kl6gy173szs8fvmsarb02kjbshknzgqn26c1q"
-      }
-    ]
-  },
-  "CS_Item Enable Invert Phase.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable Invert Phase/CS_Item Enable Invert Phase.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Enable%20Invert%20Phase.lua",
-        "sha256": "1jhzvhjci08ghvg2h9mb2bni1vnz6a25d1qxskbsfqvcvf9k93y9"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable Invert Phase/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable Invert Phase/CS_Item Enable Invert Phase.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Enable%20Invert%20Phase.lua",
-        "sha256": "1jhzvhjci08ghvg2h9mb2bni1vnz6a25d1qxskbsfqvcvf9k93y9"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable Invert Phase/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable Invert Phase.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Items/CS_Item%20Enable%20Invert%20Phase.lua",
-        "sha256": "12lf56n2ckfvsyis4a29r2annp83ywqz10g26ihkf829pn2n1fgq"
-      }
-    ]
-  },
-  "CS_Item Enable LoopSource.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable LoopSource/CS_Item Enable LoopSource.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Enable%20LoopSource.lua",
-        "sha256": "1przm5jrqwn3ab7l1jizz88cs7w1qxcvijvccrqdc7ksxqrrfqin"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable LoopSource/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable LoopSource/CS_Item Enable LoopSource.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Enable%20LoopSource.lua",
-        "sha256": "1przm5jrqwn3ab7l1jizz88cs7w1qxcvijvccrqdc7ksxqrrfqin"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable LoopSource/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
-        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable LoopSource.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Items/CS_Item%20Enable%20LoopSource.lua",
-        "sha256": "0svfsz40vsd0v5y5frixkb2f6jiszsivamvg65win1k8nx3lg86p"
-      }
-    ]
-  },
-  "CS_Select All item with same custom color as selected item.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
-        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Select All item with same custom color as selected item.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20All%20item%20with%20same%20custom%20color%20as%20selected%20item.lua",
-        "sha256": "0wrydf576pvx5cxp0wd0baag0bwc2lg1b8lwmpany1isgqy92xrn"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
-        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Select All item with same custom color as selected item.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20All%20item%20with%20same%20custom%20color%20as%20selected%20item.lua",
-        "sha256": "0wrydf576pvx5cxp0wd0baag0bwc2lg1b8lwmpany1isgqy92xrn"
-      }
-    ]
-  },
-  "CS_Select all items with same number of channels.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
-        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Select all items with same number of channels.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20all%20items%20with%20same%20number%20of%20channels.lua",
-        "sha256": "1kw5f6fbs5x2h99qn24h0ybhqzbaa1hfmfcmdb34wnrimi1k0jzc"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Library.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
-        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Select all items with same number of channels.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20all%20items%20with%20same%20number%20of%20channels.lua",
-        "sha256": "1kw5f6fbs5x2h99qn24h0ybhqzbaa1hfmfcmdb34wnrimi1k0jzc"
-      }
-    ]
-  },
-  "CS_Select all takes with volume below threshold.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all takes with volume below threshold.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/ce744f62047426bab1d0e58060e3fcdd2c268795/Lua/Items/CS_Select%20all%20takes%20with%20volume%20below%20threshold.lua",
-        "sha256": "1vjpzz4sh33icv4ksk1xyhpz3kcjj0pmg1a5d13h59k5shiyryvx"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all takes with volume below threshold.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/ce744f62047426bab1d0e58060e3fcdd2c268795/Lua/Items/CS_Select%20all%20takes%20with%20volume%20below%20threshold.lua",
-        "sha256": "1vjpzz4sh33icv4ksk1xyhpz3kcjj0pmg1a5d13h59k5shiyryvx"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all takes with volume below threshold.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/ecec2559110cce576d5a23b6a19314176c0b21ef/Lua/Items/CS_Select%20all%20takes%20with%20volume%20below%20threshold.lua",
-        "sha256": "1iy6rr8zqacgqjp52c0jrh9085p6nbcv943j6yvy2kz3xqx6wswn"
       }
     ]
   },
@@ -1798,45 +1687,210 @@
       }
     ]
   },
-  "CS_Rename Currently Recording Take.lua": {
+  "CS_Item Disable Invert Phase.lua": {
     "latest": [
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Recording/CS_Rename Currently Recording Take/CS_Rename Currently Recording Take.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Recording/CS_Rename%20Currently%20Recording%20Take.lua",
-        "sha256": "068xsy6mb4zh6prf2v7rzzgnhq1mhvx4ydrx5xa8qkszhc7bv782"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable Invert Phase/CS_Item Disable Invert Phase.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Disable%20Invert%20Phase.lua",
+        "sha256": "1drhiswpayfw63mdp13j83kdls9gp72vscz7xgfcfwm401c2sjyg"
       },
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Recording/CS_Rename Currently Recording Take/TextInput_Module.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/TextInput_Module.lua",
-        "sha256": "0xnzs5v0znvhw1vzaffl8mby7wwafnk7alki5s29412i81al74ks"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable Invert Phase/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable Invert Phase/CS_Item Disable Invert Phase.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Disable%20Invert%20Phase.lua",
+        "sha256": "1drhiswpayfw63mdp13j83kdls9gp72vscz7xgfcfwm401c2sjyg"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable Invert Phase/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Recording/CS_Rename Currently Recording Take/CS_Rename Currently Recording Take.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Recording/CS_Rename%20Currently%20Recording%20Take.lua",
-        "sha256": "068xsy6mb4zh6prf2v7rzzgnhq1mhvx4ydrx5xa8qkszhc7bv782"
-      },
-      {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Recording/CS_Rename Currently Recording Take/TextInput_Module.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/TextInput_Module.lua",
-        "sha256": "0xnzs5v0znvhw1vzaffl8mby7wwafnk7alki5s29412i81al74ks"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable Invert Phase.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Items/CS_Item%20Disable%20Invert%20Phase.lua",
+        "sha256": "0hrx9hq8ymim2y5jla20lmz2j2c3jz6426a5nq2xmsaavhs5i9bb"
       }
     ]
   },
-  "CS_Extend Track Selection to Track under Mouse.lua": {
+  "CS_Item Disable LoopSource.lua": {
     "latest": [
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Selection/CS_Extend Track Selection to Track under Mouse.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Selection/CS_Extend%20Track%20Selection%20to%20Track%20under%20Mouse.lua",
-        "sha256": "1vpa4np5vg7ixb5xy2cnjkr7a4rfvzsdzrxf4z21s98m7vhwahqp"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Item Disable LoopSource.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Disable%20LoopSource.lua",
+        "sha256": "0nhkl0f78blaw1iyqd3ljjzjaiyxj83yshxri12pvhgns1v9bxgj"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Item Disable LoopSource.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Disable%20LoopSource.lua",
+        "sha256": "0nhkl0f78blaw1iyqd3ljjzjaiyxj83yshxri12pvhgns1v9bxgj"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Claudiohbsantos Scripts/Lua/Selection/CS_Extend Track Selection to Track under Mouse.lua",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Selection/CS_Extend%20Track%20Selection%20to%20Track%20under%20Mouse.lua",
-        "sha256": "1vpa4np5vg7ixb5xy2cnjkr7a4rfvzsdzrxf4z21s98m7vhwahqp"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Disable LoopSource.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Items/CS_Item%20Disable%20LoopSource.lua",
+        "sha256": "1rzbzldjpx13zw1kl6gy173szs8fvmsarb02kjbshknzgqn26c1q"
+      }
+    ]
+  },
+  "CS_Item Enable Invert Phase.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable Invert Phase/CS_Item Enable Invert Phase.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Enable%20Invert%20Phase.lua",
+        "sha256": "1jhzvhjci08ghvg2h9mb2bni1vnz6a25d1qxskbsfqvcvf9k93y9"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable Invert Phase/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable Invert Phase/CS_Item Enable Invert Phase.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Enable%20Invert%20Phase.lua",
+        "sha256": "1jhzvhjci08ghvg2h9mb2bni1vnz6a25d1qxskbsfqvcvf9k93y9"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable Invert Phase/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable Invert Phase.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Items/CS_Item%20Enable%20Invert%20Phase.lua",
+        "sha256": "12lf56n2ckfvsyis4a29r2annp83ywqz10g26ihkf829pn2n1fgq"
+      }
+    ]
+  },
+  "CS_Item Enable LoopSource.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable LoopSource/CS_Item Enable LoopSource.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Enable%20LoopSource.lua",
+        "sha256": "1przm5jrqwn3ab7l1jizz88cs7w1qxcvijvccrqdc7ksxqrrfqin"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable LoopSource/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable LoopSource/CS_Item Enable LoopSource.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Items/CS_Item%20Enable%20LoopSource.lua",
+        "sha256": "1przm5jrqwn3ab7l1jizz88cs7w1qxcvijvccrqdc7ksxqrrfqin"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable LoopSource/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/f3e4b6d691e244983a90f6ff85380d01cae59900/Lua/Libraries/CS_Library.lua",
+        "sha256": "1l99a3vwzphi9h616xlfm5nadrxkhqgpkx9mx6rsfw3m4y0345nw"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Item Enable LoopSource.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/0339f8cce9665d62a14d302f16327eac6e868558/Lua/Items/CS_Item%20Enable%20LoopSource.lua",
+        "sha256": "0svfsz40vsd0v5y5frixkb2f6jiszsivamvg65win1k8nx3lg86p"
+      }
+    ]
+  },
+  "CS_Select All item with same custom color as selected item.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
+        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Select All item with same custom color as selected item.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20All%20item%20with%20same%20custom%20color%20as%20selected%20item.lua",
+        "sha256": "0wrydf576pvx5cxp0wd0baag0bwc2lg1b8lwmpany1isgqy92xrn"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
+        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select All item with same custom color as selected item/CS_Select All item with same custom color as selected item.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20All%20item%20with%20same%20custom%20color%20as%20selected%20item.lua",
+        "sha256": "0wrydf576pvx5cxp0wd0baag0bwc2lg1b8lwmpany1isgqy92xrn"
+      }
+    ]
+  },
+  "CS_Select all items with same number of channels.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
+        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Select all items with same number of channels.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20all%20items%20with%20same%20number%20of%20channels.lua",
+        "sha256": "1kw5f6fbs5x2h99qn24h0ybhqzbaa1hfmfcmdb34wnrimi1k0jzc"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Library.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Libraries/CS_Library.lua",
+        "sha256": "1lxk50kclafqhi731la00wa3m2v9zb35f2aaciblhl8a4gkcc52i"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all items with same number of channels/CS_Select all items with same number of channels.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/157d98ba38901791da03f824bcebad47cf0a89ab/Lua/Items/CS_Select%20all%20items%20with%20same%20number%20of%20channels.lua",
+        "sha256": "1kw5f6fbs5x2h99qn24h0ybhqzbaa1hfmfcmdb34wnrimi1k0jzc"
+      }
+    ]
+  },
+  "CS_Select all takes with volume below threshold.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all takes with volume below threshold.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/ce744f62047426bab1d0e58060e3fcdd2c268795/Lua/Items/CS_Select%20all%20takes%20with%20volume%20below%20threshold.lua",
+        "sha256": "1vjpzz4sh33icv4ksk1xyhpz3kcjj0pmg1a5d13h59k5shiyryvx"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all takes with volume below threshold.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/ce744f62047426bab1d0e58060e3fcdd2c268795/Lua/Items/CS_Select%20all%20takes%20with%20volume%20below%20threshold.lua",
+        "sha256": "1vjpzz4sh33icv4ksk1xyhpz3kcjj0pmg1a5d13h59k5shiyryvx"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Items/CS_Select all takes with volume below threshold.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/ecec2559110cce576d5a23b6a19314176c0b21ef/Lua/Items/CS_Select%20all%20takes%20with%20volume%20below%20threshold.lua",
+        "sha256": "1iy6rr8zqacgqjp52c0jrh9085p6nbcv943j6yvy2kz3xqx6wswn"
       }
     ]
   },
@@ -1983,99 +2037,19 @@
       }
     ]
   },
-  "CS Channel 32 Channel Mixer.jsfx": {
+  "CS_Extend Track Selection to Track under Mouse.lua": {
     "latest": [
       {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Channel 32 Channel Mixer.jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Channel%2032%20Channel%20Mixer.jsfx",
-        "sha256": "0h30l9layhd70kygm6vak2q26v9l7q8b9vnqj7yc7l54fqyrg441"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Selection/CS_Extend Track Selection to Track under Mouse.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Selection/CS_Extend%20Track%20Selection%20to%20Track%20under%20Mouse.lua",
+        "sha256": "1vpa4np5vg7ixb5xy2cnjkr7a4rfvzsdzrxf4z21s98m7vhwahqp"
       }
     ],
-    "1.1": [
+    "1.0": [
       {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Channel 32 Channel Mixer.jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Channel%2032%20Channel%20Mixer.jsfx",
-        "sha256": "0h30l9layhd70kygm6vak2q26v9l7q8b9vnqj7yc7l54fqyrg441"
-      }
-    ]
-  },
-  "CS Channel Router.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Channel Router.jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Channel%20Router.jsfx",
-        "sha256": "1r1zdv917q5mlp4gc6y8imbd09nqvzr9dda5zbasxdiaqsc948kw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Channel Router.jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Channel%20Router.jsfx",
-        "sha256": "1r1zdv917q5mlp4gc6y8imbd09nqvzr9dda5zbasxdiaqsc948kw"
-      }
-    ]
-  },
-  "CS LR to Center Channel Send (Ch 3 Mixer).jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS LR to Center Channel Send (Ch 3 Mixer).jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20LR%20to%20Center%20Channel%20Send%20(Ch%203%20Mixer).jsfx",
-        "sha256": "1cnq4j0jzzb4h6kw7y74w9w63jvd7y8ih0h05ac01222s30a1bw4"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS LR to Center Channel Send (Ch 3 Mixer).jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20LR%20to%20Center%20Channel%20Send%20(Ch%203%20Mixer).jsfx",
-        "sha256": "1cnq4j0jzzb4h6kw7y74w9w63jvd7y8ih0h05ac01222s30a1bw4"
-      }
-    ]
-  },
-  "CS Stereo Phase Meter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Stereo Phase Meter.jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d29f782d18f2b644b18a1d4aa442570cd6bfdbd5/JSFX/CS%20Stereo%20Phase%20Meter.jsfx",
-        "sha256": "0dzn9giwpyk2yy67crliiv9zsy6a6dizrjagksnnry0gn937r18n"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Stereo Phase Meter.jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d29f782d18f2b644b18a1d4aa442570cd6bfdbd5/JSFX/CS%20Stereo%20Phase%20Meter.jsfx",
-        "sha256": "0dzn9giwpyk2yy67crliiv9zsy6a6dizrjagksnnry0gn937r18n"
-      }
-    ]
-  },
-  "CS Surround Channel Order Converter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Surround Channel Order Converter.jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20Channel%20Order%20Converter.jsfx",
-        "sha256": "0v13grvbb7s8jgx7jdvvlzfh1pb7fxjfxyinww088grk1fs5mxh8"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Surround Channel Order Converter.jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20Channel%20Order%20Converter.jsfx",
-        "sha256": "0v13grvbb7s8jgx7jdvvlzfh1pb7fxjfxyinww088grk1fs5mxh8"
-      }
-    ]
-  },
-  "CS Surround LFE Send.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Surround LFE Send.jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20LFE%20Send.jsfx",
-        "sha256": "1vv7vcfvq0qp7ds4xa68inbn0iq22a2zsmzlmkj9iqx3hhriws12"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Claudiohbsantos Scripts/JSFX/CS Surround LFE Send.jsfx",
-        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/7e3f24c6792a3b903a8c37e346718204e133b016/JSFX/CS%20Surround%20LFE%20Send.jsfx",
-        "sha256": "1vv7vcfvq0qp7ds4xa68inbn0iq22a2zsmzlmkj9iqx3hhriws12"
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Selection/CS_Extend Track Selection to Track under Mouse.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/a82b380cac8c744b0748aca9a7430633b3beb7f3/Lua/Selection/CS_Extend%20Track%20Selection%20to%20Track%20under%20Mouse.lua",
+        "sha256": "1vpa4np5vg7ixb5xy2cnjkr7a4rfvzsdzrxf4z21s98m7vhwahqp"
       }
     ]
   },
@@ -2099,6 +2073,32 @@
         "path": "Scripts/Claudiohbsantos Scripts/Lua/Playback/CS_SoloXOR_Across_Projects.lua",
         "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/ca06bed8cfb4885dddd64ed6ed5c96a7f19256d3/Lua/Playback/CS_SoloXOR_Across_Projects.lua",
         "sha256": "1l5qb35fz0n8i0v3q30samdmxa5qkhrfmbvfkfkbxpvhiya3pniv"
+      }
+    ]
+  },
+  "CS_Rename Currently Recording Take.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Recording/CS_Rename Currently Recording Take/CS_Rename Currently Recording Take.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Recording/CS_Rename%20Currently%20Recording%20Take.lua",
+        "sha256": "068xsy6mb4zh6prf2v7rzzgnhq1mhvx4ydrx5xa8qkszhc7bv782"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Recording/CS_Rename Currently Recording Take/TextInput_Module.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/TextInput_Module.lua",
+        "sha256": "0xnzs5v0znvhw1vzaffl8mby7wwafnk7alki5s29412i81al74ks"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Recording/CS_Rename Currently Recording Take/CS_Rename Currently Recording Take.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Recording/CS_Rename%20Currently%20Recording%20Take.lua",
+        "sha256": "068xsy6mb4zh6prf2v7rzzgnhq1mhvx4ydrx5xa8qkszhc7bv782"
+      },
+      {
+        "path": "Scripts/Claudiohbsantos Scripts/Lua/Recording/CS_Rename Currently Recording Take/TextInput_Module.lua",
+        "url": "https://github.com/Claudiohbsantos/Claudiohbsantos-Scripts/raw/d6697b40790e6e4ba3e34fb88ec1cb7927a32d9f/Lua/Libraries/TextInput_Module.lua",
+        "sha256": "0xnzs5v0znvhw1vzaffl8mby7wwafnk7alki5s29412i81al74ks"
       }
     ]
   }

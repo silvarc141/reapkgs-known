@@ -1,4 +1,372 @@
 {
+  "gen_Save Preset for last touched FX.lua": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/FX/gen_Save Preset for last touched FX.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/40ba1f02dfd5ba9de4636d3407d1d0d3c43a4f40/FX/gen_Save%20Preset%20for%20last%20touched%20FX.lua",
+        "sha256": "1f5lgsxq6gas5vvcnhrjn7qp3c0dysv82kf4gqisv93hn1rb205m"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/FX/gen_Save Preset for last touched FX.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/40ba1f02dfd5ba9de4636d3407d1d0d3c43a4f40/FX/gen_Save%20Preset%20for%20last%20touched%20FX.lua",
+        "sha256": "1f5lgsxq6gas5vvcnhrjn7qp3c0dysv82kf4gqisv93hn1rb205m"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/FX/gen_Save Preset for last touched FX.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/2ea1aadc3d5d036c34860cbe61e45ba6bbbbbf6c/FX/gen_Save%20Preset%20for%20last%20touched%20FX.lua",
+        "sha256": "1lshg337qjx9fq2hjxsyahxawmqbslga8ignc843gcr148455rrd"
+      }
+    ]
+  },
+  "gen_TrackFX Routing Matrix.lua": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/FX/gen_TrackFX Routing Matrix.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/4f81d79ef198ce03f8a8fd209c72d929c61ab66a/FX/gen_TrackFX%20Routing%20Matrix.lua",
+        "sha256": "1xm20dlyr2m3q6dpi31b36zbwm7905nblplaf6az55hm29mdjgw9"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/FX/gen_TrackFX Routing Matrix.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/4f81d79ef198ce03f8a8fd209c72d929c61ab66a/FX/gen_TrackFX%20Routing%20Matrix.lua",
+        "sha256": "1xm20dlyr2m3q6dpi31b36zbwm7905nblplaf6az55hm29mdjgw9"
+      }
+    ]
+  },
+  "gen_Align Items by transients.lua": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Align Items by transients.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/95583bd800689e59a0777415d6e77980ec6dc0c9/Various/gen_Align%20Items%20by%20transients.lua",
+        "sha256": "0shhflqj3iyzaircl4la4k65g67g7a3kqi0cf0hs8vsw2ig90mys"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Align Items by transients.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/95583bd800689e59a0777415d6e77980ec6dc0c9/Various/gen_Align%20Items%20by%20transients.lua",
+        "sha256": "0shhflqj3iyzaircl4la4k65g67g7a3kqi0cf0hs8vsw2ig90mys"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Align Items by transients.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6b0e7cc3fe379b28a27795df852374875511736b/Various/gen_Align%20Items%20by%20transients.lua",
+        "sha256": "0vg5lfdz71ksdc693gpdlivkhbb9j6aw2vw4b0aal6sf6sk6mlwv"
+      }
+    ]
+  },
+  "gen_Create stretch-markers at transients.eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Create stretch-markers at transients.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/590d8b4ed46c6b7d9c535640774d276bc4bb38ce/Various/gen_Create%20stretch-markers%20at%20transients.eel",
+        "sha256": "0ks30cjdz4xcyg808i2pjv5lkyvy3521wr5i36wy94397x4zy580"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Create stretch-markers at transients.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/590d8b4ed46c6b7d9c535640774d276bc4bb38ce/Various/gen_Create%20stretch-markers%20at%20transients.eel",
+        "sha256": "0ks30cjdz4xcyg808i2pjv5lkyvy3521wr5i36wy94397x4zy580"
+      }
+    ]
+  },
+  "gen_Drum trigger.lua": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Drum trigger.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/68416880106a6fa8a597452a773b362f2b2edf39/Various/gen_Drum%20trigger.lua",
+        "sha256": "0ph705f2b4c5iqs3mk9ghccmvkkhrgc4lwxgg2y4pwprryrrg75g"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Drum trigger.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/68416880106a6fa8a597452a773b362f2b2edf39/Various/gen_Drum%20trigger.lua",
+        "sha256": "0ph705f2b4c5iqs3mk9ghccmvkkhrgc4lwxgg2y4pwprryrrg75g"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Drum trigger.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6b0e7cc3fe379b28a27795df852374875511736b/Various/gen_Drum%20trigger.lua",
+        "sha256": "0ym5zpsqgz669xvalq2f41pp9vf918cfarw8inlfc7ahbaqd6cgh"
+      }
+    ]
+  },
+  "gen_Envelope-based Compressor.eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Compressor.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b643e2f64313e60862175111e663da2c62867855/Various/gen_Envelope-based%20Compressor.eel",
+        "sha256": "1hb7hknvvgw0rj4idb0gd1cgg76lbqc7mhc4x9bph300fs0f2dfw"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Compressor.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b643e2f64313e60862175111e663da2c62867855/Various/gen_Envelope-based%20Compressor.eel",
+        "sha256": "1hb7hknvvgw0rj4idb0gd1cgg76lbqc7mhc4x9bph300fs0f2dfw"
+      }
+    ],
+    "1.00": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Compressor.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/9091c4222170b6fa92b5a967e1f6bdde930b004e/Various/gen_Envelope-based%20Compressor.eel",
+        "sha256": "0ch4g08pffk1zl19wgc77icnlnlb7f4m86v7yjh8ldkfvajv9qd7"
+      }
+    ]
+  },
+  "gen_Envelope-based Deesser.eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Deesser.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/bb3da57ee69305761d53fd7c0d1435a6f91bda72/Various/gen_Envelope-based%20Deesser.eel",
+        "sha256": "0d5akfhz65wlwbl3whfyi7d5ns3k7fs1bczkahzzs04swwd8wwp4"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Deesser.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/bb3da57ee69305761d53fd7c0d1435a6f91bda72/Various/gen_Envelope-based%20Deesser.eel",
+        "sha256": "0d5akfhz65wlwbl3whfyi7d5ns3k7fs1bczkahzzs04swwd8wwp4"
+      }
+    ],
+    "1.00": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Deesser.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/5c4e06a55e0b5d84400af23b9acf58ca2a6690af/Various/gen_Envelope-based%20Deesser.eel",
+        "sha256": "0rxg57ivjbyxx55lw29mlvm1dj9dkyad9ix5l66cdscn704q0fmw"
+      }
+    ]
+  },
+  "gen_Retrospective Record (MIDI).eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (MIDI).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e88f3fe43e8401480d43562974138208caa7ac4a/Various/gen_Retrospective%20Record%20(MIDI).eel",
+        "sha256": "0yi6hi81cij1r27xq4hkhz4aczfmfjfqd1l7mdw7m2fpy7vqpslp"
+      }
+    ],
+    "3.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (MIDI).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e88f3fe43e8401480d43562974138208caa7ac4a/Various/gen_Retrospective%20Record%20(MIDI).eel",
+        "sha256": "0yi6hi81cij1r27xq4hkhz4aczfmfjfqd1l7mdw7m2fpy7vqpslp"
+      }
+    ]
+  },
+  "gen_Retrospective Record (audio).eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (audio).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/752f303ad7ef61042b81ec509531b11770285158/Various/gen_Retrospective%20Record%20(audio).eel",
+        "sha256": "0418kbq2has1diq0bkpq4z4wf0z61zjp92pgczkqscc3if2jwf3n"
+      }
+    ],
+    "3.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (audio).eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/752f303ad7ef61042b81ec509531b11770285158/Various/gen_Retrospective%20Record%20(audio).eel",
+        "sha256": "0418kbq2has1diq0bkpq4z4wf0z61zjp92pgczkqscc3if2jwf3n"
+      }
+    ]
+  },
+  "gen_True Stereo Takes Test.eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_True Stereo Takes Test.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/46eedacb679218621d2e3b317345cf5f0baaa19e/Various/gen_True%20Stereo%20Takes%20Test.eel",
+        "sha256": "00g7drgkbbk4mlkv0x849hi12kqi9i382i6bphggdnpb4hgbap03"
+      }
+    ],
+    "1.05": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_True Stereo Takes Test.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/46eedacb679218621d2e3b317345cf5f0baaa19e/Various/gen_True%20Stereo%20Takes%20Test.eel",
+        "sha256": "00g7drgkbbk4mlkv0x849hi12kqi9i382i6bphggdnpb4hgbap03"
+      }
+    ],
+    "1.04": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_True Stereo Takes Test.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/33239e094ab1f28344ae8ff2af823b0f021fa436/Various/gen_True%20Stereo%20Takes%20Test.eel",
+        "sha256": "19vrjx4ybcw9550hzadgvn62pm1iqjxd7082rqgprcdm3wfqgm2a"
+      }
+    ]
+  },
+  "gen_WAVE Generator.lua": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_WAVE Generator.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/fc949fec5c3bdab50ec975e682e166124904a7b2/Various/gen_WAVE%20Generator.lua",
+        "sha256": "1hyjddcgcy0984vg9r6glhpg1az6rzfh7sfp0ibrbic8p6fsxzaw"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_WAVE Generator.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/fc949fec5c3bdab50ec975e682e166124904a7b2/Various/gen_WAVE%20Generator.lua",
+        "sha256": "1hyjddcgcy0984vg9r6glhpg1az6rzfh7sfp0ibrbic8p6fsxzaw"
+      }
+    ]
+  },
+  "gen_Envelope-based Compressor v2.eel": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/gen_Envelope-based Compressor v2.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/gen_Envelope-based%20Compressor%20v2.eel",
+        "sha256": "0sncvvdf1fkbk1wi9f3cn20j6h212wi7ifc26q63988lqb5q3zxv"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/AudioFunctions.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/AudioFunctions.eel",
+        "sha256": "1wbmv790qd2pmmrzmkpljml98c1ix3bf1bdac1v4h51ncjyqpzg3"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/DevMenu.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/DevMenu.eel",
+        "sha256": "0x7ylb8v764ax4zkiqlxwz7lmckggjsjrpdw2lw4zdsb69ka7k5v"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/MiniGui.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/MiniGui.eel",
+        "sha256": "058p7byrib3rifpd3a0favhy858yivp961anqp1si23f5xsd103m"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Mouse.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/Mouse.eel",
+        "sha256": "19p05nlvkivdl83aqgcrdajfq8m0vcsv3cf3kr5nkd07ndx861h8"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Presets.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/Presets.eel",
+        "sha256": "1fv4r3ax15saw70328bqfhnc7l7bsmczi1lb0lzg9ifzr0i714gn"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/TextField.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/TextField.eel",
+        "sha256": "10ppdyy4fyjlpbqb8djdpgsq73p46m902c736i8c046xshrgaclm"
+      }
+    ],
+    "2.12": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/gen_Envelope-based Compressor v2.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/gen_Envelope-based%20Compressor%20v2.eel",
+        "sha256": "0sncvvdf1fkbk1wi9f3cn20j6h212wi7ifc26q63988lqb5q3zxv"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/AudioFunctions.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/AudioFunctions.eel",
+        "sha256": "1wbmv790qd2pmmrzmkpljml98c1ix3bf1bdac1v4h51ncjyqpzg3"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/DevMenu.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/DevMenu.eel",
+        "sha256": "0x7ylb8v764ax4zkiqlxwz7lmckggjsjrpdw2lw4zdsb69ka7k5v"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/MiniGui.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/MiniGui.eel",
+        "sha256": "058p7byrib3rifpd3a0favhy858yivp961anqp1si23f5xsd103m"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Mouse.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/Mouse.eel",
+        "sha256": "19p05nlvkivdl83aqgcrdajfq8m0vcsv3cf3kr5nkd07ndx861h8"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Presets.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/Presets.eel",
+        "sha256": "1fv4r3ax15saw70328bqfhnc7l7bsmczi1lb0lzg9ifzr0i714gn"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/TextField.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/TextField.eel",
+        "sha256": "10ppdyy4fyjlpbqb8djdpgsq73p46m902c736i8c046xshrgaclm"
+      }
+    ],
+    "2.11": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/gen_Envelope-based Compressor v2.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/dfdfb29cf28d4ea6d17ff17f0cd265e119fdf99a/Various/Envelope-based%20Compressor/gen_Envelope-based%20Compressor%20v2.eel",
+        "sha256": "1b0gnr0caarxicb67dswc5sm63nps83a64prykiq372qv91ah96p"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/AudioFunctions.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/dfdfb29cf28d4ea6d17ff17f0cd265e119fdf99a/Various/Envelope-based%20Compressor/inc/AudioFunctions.eel",
+        "sha256": "1wbmv790qd2pmmrzmkpljml98c1ix3bf1bdac1v4h51ncjyqpzg3"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/DevMenu.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/dfdfb29cf28d4ea6d17ff17f0cd265e119fdf99a/Various/Envelope-based%20Compressor/inc/DevMenu.eel",
+        "sha256": "0x7ylb8v764ax4zkiqlxwz7lmckggjsjrpdw2lw4zdsb69ka7k5v"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/MiniGui.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/dfdfb29cf28d4ea6d17ff17f0cd265e119fdf99a/Various/Envelope-based%20Compressor/inc/MiniGui.eel",
+        "sha256": "058p7byrib3rifpd3a0favhy858yivp961anqp1si23f5xsd103m"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Mouse.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/dfdfb29cf28d4ea6d17ff17f0cd265e119fdf99a/Various/Envelope-based%20Compressor/inc/Mouse.eel",
+        "sha256": "19p05nlvkivdl83aqgcrdajfq8m0vcsv3cf3kr5nkd07ndx861h8"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Presets.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/dfdfb29cf28d4ea6d17ff17f0cd265e119fdf99a/Various/Envelope-based%20Compressor/inc/Presets.eel",
+        "sha256": "1iz81pq68kj65l61p496spf21h7mm2hfa48dwyxkar4l8h858k7w"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/TextField.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/dfdfb29cf28d4ea6d17ff17f0cd265e119fdf99a/Various/Envelope-based%20Compressor/inc/TextField.eel",
+        "sha256": "10ppdyy4fyjlpbqb8djdpgsq73p46m902c736i8c046xshrgaclm"
+      }
+    ],
+    "2.1": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/gen_Envelope-based Compressor v2.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6993c62a7ca009ef5519edec4dd24b7600af7f76/Various/Envelope-based%20Compressor/gen_Envelope-based%20Compressor%20v2.eel",
+        "sha256": "022qyjhwjxsrshzywynpcf5jgg2zcv9hfyv40xsqpfffj65gfpnk"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/AudioFunctions.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6993c62a7ca009ef5519edec4dd24b7600af7f76/Various/Envelope-based%20Compressor/inc/AudioFunctions.eel",
+        "sha256": "1wbmv790qd2pmmrzmkpljml98c1ix3bf1bdac1v4h51ncjyqpzg3"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/DevMenu.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6993c62a7ca009ef5519edec4dd24b7600af7f76/Various/Envelope-based%20Compressor/inc/DevMenu.eel",
+        "sha256": "0x7ylb8v764ax4zkiqlxwz7lmckggjsjrpdw2lw4zdsb69ka7k5v"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/MiniGui.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6993c62a7ca009ef5519edec4dd24b7600af7f76/Various/Envelope-based%20Compressor/inc/MiniGui.eel",
+        "sha256": "058p7byrib3rifpd3a0favhy858yivp961anqp1si23f5xsd103m"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Mouse.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6993c62a7ca009ef5519edec4dd24b7600af7f76/Various/Envelope-based%20Compressor/inc/Mouse.eel",
+        "sha256": "19p05nlvkivdl83aqgcrdajfq8m0vcsv3cf3kr5nkd07ndx861h8"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Presets.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6993c62a7ca009ef5519edec4dd24b7600af7f76/Various/Envelope-based%20Compressor/inc/Presets.eel",
+        "sha256": "1iz81pq68kj65l61p496spf21h7mm2hfa48dwyxkar4l8h858k7w"
+      },
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/TextField.eel",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6993c62a7ca009ef5519edec4dd24b7600af7f76/Various/Envelope-based%20Compressor/inc/TextField.eel",
+        "sha256": "10ppdyy4fyjlpbqb8djdpgsq73p46m902c736i8c046xshrgaclm"
+      }
+    ]
+  },
   "gen_Explode multichannel Audio (Non-destructive).lua": {
     "latest": [
       {
@@ -202,185 +570,6 @@
         "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/gen_Vox-Deess Enveloper.lua",
         "url": "https://github.com/EUGEN27771/ReaScripts/raw/92d1d30a397a52c0cad4a755e9d267aa1fd87212/Item%20Editing/gen_Vox-Deess%20Enveloper.lua",
         "sha256": "12vgvpfigb5rx2x2ick8rq7d113998mlghha45cag7n5zj4mhcsx"
-      }
-    ]
-  },
-  "gen_Align Items by transients.lua": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Align Items by transients.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/95583bd800689e59a0777415d6e77980ec6dc0c9/Various/gen_Align%20Items%20by%20transients.lua",
-        "sha256": "0shhflqj3iyzaircl4la4k65g67g7a3kqi0cf0hs8vsw2ig90mys"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Align Items by transients.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/95583bd800689e59a0777415d6e77980ec6dc0c9/Various/gen_Align%20Items%20by%20transients.lua",
-        "sha256": "0shhflqj3iyzaircl4la4k65g67g7a3kqi0cf0hs8vsw2ig90mys"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Align Items by transients.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6b0e7cc3fe379b28a27795df852374875511736b/Various/gen_Align%20Items%20by%20transients.lua",
-        "sha256": "0vg5lfdz71ksdc693gpdlivkhbb9j6aw2vw4b0aal6sf6sk6mlwv"
-      }
-    ]
-  },
-  "gen_Create stretch-markers at transients.eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Create stretch-markers at transients.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/590d8b4ed46c6b7d9c535640774d276bc4bb38ce/Various/gen_Create%20stretch-markers%20at%20transients.eel",
-        "sha256": "0ks30cjdz4xcyg808i2pjv5lkyvy3521wr5i36wy94397x4zy580"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Create stretch-markers at transients.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/590d8b4ed46c6b7d9c535640774d276bc4bb38ce/Various/gen_Create%20stretch-markers%20at%20transients.eel",
-        "sha256": "0ks30cjdz4xcyg808i2pjv5lkyvy3521wr5i36wy94397x4zy580"
-      }
-    ]
-  },
-  "gen_Drum trigger.lua": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Drum trigger.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/68416880106a6fa8a597452a773b362f2b2edf39/Various/gen_Drum%20trigger.lua",
-        "sha256": "0ph705f2b4c5iqs3mk9ghccmvkkhrgc4lwxgg2y4pwprryrrg75g"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Drum trigger.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/68416880106a6fa8a597452a773b362f2b2edf39/Various/gen_Drum%20trigger.lua",
-        "sha256": "0ph705f2b4c5iqs3mk9ghccmvkkhrgc4lwxgg2y4pwprryrrg75g"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Drum trigger.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6b0e7cc3fe379b28a27795df852374875511736b/Various/gen_Drum%20trigger.lua",
-        "sha256": "0ym5zpsqgz669xvalq2f41pp9vf918cfarw8inlfc7ahbaqd6cgh"
-      }
-    ]
-  },
-  "gen_Envelope-based Compressor.eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Compressor.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b643e2f64313e60862175111e663da2c62867855/Various/gen_Envelope-based%20Compressor.eel",
-        "sha256": "1hb7hknvvgw0rj4idb0gd1cgg76lbqc7mhc4x9bph300fs0f2dfw"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Compressor.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b643e2f64313e60862175111e663da2c62867855/Various/gen_Envelope-based%20Compressor.eel",
-        "sha256": "1hb7hknvvgw0rj4idb0gd1cgg76lbqc7mhc4x9bph300fs0f2dfw"
-      }
-    ],
-    "1.00": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Compressor.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/9091c4222170b6fa92b5a967e1f6bdde930b004e/Various/gen_Envelope-based%20Compressor.eel",
-        "sha256": "0ch4g08pffk1zl19wgc77icnlnlb7f4m86v7yjh8ldkfvajv9qd7"
-      }
-    ]
-  },
-  "gen_Envelope-based Deesser.eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Deesser.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/bb3da57ee69305761d53fd7c0d1435a6f91bda72/Various/gen_Envelope-based%20Deesser.eel",
-        "sha256": "0d5akfhz65wlwbl3whfyi7d5ns3k7fs1bczkahzzs04swwd8wwp4"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Deesser.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/bb3da57ee69305761d53fd7c0d1435a6f91bda72/Various/gen_Envelope-based%20Deesser.eel",
-        "sha256": "0d5akfhz65wlwbl3whfyi7d5ns3k7fs1bczkahzzs04swwd8wwp4"
-      }
-    ],
-    "1.00": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Envelope-based Deesser.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/5c4e06a55e0b5d84400af23b9acf58ca2a6690af/Various/gen_Envelope-based%20Deesser.eel",
-        "sha256": "0rxg57ivjbyxx55lw29mlvm1dj9dkyad9ix5l66cdscn704q0fmw"
-      }
-    ]
-  },
-  "gen_Retrospective Record (MIDI).eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (MIDI).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e88f3fe43e8401480d43562974138208caa7ac4a/Various/gen_Retrospective%20Record%20(MIDI).eel",
-        "sha256": "0yi6hi81cij1r27xq4hkhz4aczfmfjfqd1l7mdw7m2fpy7vqpslp"
-      }
-    ],
-    "3.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (MIDI).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/e88f3fe43e8401480d43562974138208caa7ac4a/Various/gen_Retrospective%20Record%20(MIDI).eel",
-        "sha256": "0yi6hi81cij1r27xq4hkhz4aczfmfjfqd1l7mdw7m2fpy7vqpslp"
-      }
-    ]
-  },
-  "gen_Retrospective Record (audio).eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (audio).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/752f303ad7ef61042b81ec509531b11770285158/Various/gen_Retrospective%20Record%20(audio).eel",
-        "sha256": "0418kbq2has1diq0bkpq4z4wf0z61zjp92pgczkqscc3if2jwf3n"
-      }
-    ],
-    "3.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_Retrospective Record (audio).eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/752f303ad7ef61042b81ec509531b11770285158/Various/gen_Retrospective%20Record%20(audio).eel",
-        "sha256": "0418kbq2has1diq0bkpq4z4wf0z61zjp92pgczkqscc3if2jwf3n"
-      }
-    ]
-  },
-  "gen_True Stereo Takes Test.eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_True Stereo Takes Test.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/46eedacb679218621d2e3b317345cf5f0baaa19e/Various/gen_True%20Stereo%20Takes%20Test.eel",
-        "sha256": "00g7drgkbbk4mlkv0x849hi12kqi9i382i6bphggdnpb4hgbap03"
-      }
-    ],
-    "1.05": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_True Stereo Takes Test.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/46eedacb679218621d2e3b317345cf5f0baaa19e/Various/gen_True%20Stereo%20Takes%20Test.eel",
-        "sha256": "00g7drgkbbk4mlkv0x849hi12kqi9i382i6bphggdnpb4hgbap03"
-      }
-    ],
-    "1.04": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_True Stereo Takes Test.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/33239e094ab1f28344ae8ff2af823b0f021fa436/Various/gen_True%20Stereo%20Takes%20Test.eel",
-        "sha256": "19vrjx4ybcw9550hzadgvn62pm1iqjxd7082rqgprcdm3wfqgm2a"
-      }
-    ]
-  },
-  "gen_WAVE Generator.lua": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_WAVE Generator.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/fc949fec5c3bdab50ec975e682e166124904a7b2/Various/gen_WAVE%20Generator.lua",
-        "sha256": "1hyjddcgcy0984vg9r6glhpg1az6rzfh7sfp0ibrbic8p6fsxzaw"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/gen_WAVE Generator.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/fc949fec5c3bdab50ec975e682e166124904a7b2/Various/gen_WAVE%20Generator.lua",
-        "sha256": "1hyjddcgcy0984vg9r6glhpg1az6rzfh7sfp0ibrbic8p6fsxzaw"
       }
     ]
   },
@@ -617,195 +806,6 @@
       }
     ]
   },
-  "gen_Save Preset for last touched FX.lua": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/FX/gen_Save Preset for last touched FX.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/40ba1f02dfd5ba9de4636d3407d1d0d3c43a4f40/FX/gen_Save%20Preset%20for%20last%20touched%20FX.lua",
-        "sha256": "1f5lgsxq6gas5vvcnhrjn7qp3c0dysv82kf4gqisv93hn1rb205m"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/FX/gen_Save Preset for last touched FX.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/40ba1f02dfd5ba9de4636d3407d1d0d3c43a4f40/FX/gen_Save%20Preset%20for%20last%20touched%20FX.lua",
-        "sha256": "1f5lgsxq6gas5vvcnhrjn7qp3c0dysv82kf4gqisv93hn1rb205m"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/FX/gen_Save Preset for last touched FX.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/2ea1aadc3d5d036c34860cbe61e45ba6bbbbbf6c/FX/gen_Save%20Preset%20for%20last%20touched%20FX.lua",
-        "sha256": "1lshg337qjx9fq2hjxsyahxawmqbslga8ignc843gcr148455rrd"
-      }
-    ]
-  },
-  "gen_TrackFX Routing Matrix.lua": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/FX/gen_TrackFX Routing Matrix.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/4f81d79ef198ce03f8a8fd209c72d929c61ab66a/FX/gen_TrackFX%20Routing%20Matrix.lua",
-        "sha256": "1xm20dlyr2m3q6dpi31b36zbwm7905nblplaf6az55hm29mdjgw9"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/FX/gen_TrackFX Routing Matrix.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/4f81d79ef198ce03f8a8fd209c72d929c61ab66a/FX/gen_TrackFX%20Routing%20Matrix.lua",
-        "sha256": "1xm20dlyr2m3q6dpi31b36zbwm7905nblplaf6az55hm29mdjgw9"
-      }
-    ]
-  },
-  "gen_Envelope-based Compressor v2.eel": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/gen_Envelope-based Compressor v2.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/gen_Envelope-based%20Compressor%20v2.eel",
-        "sha256": "0sncvvdf1fkbk1wi9f3cn20j6h212wi7ifc26q63988lqb5q3zxv"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/AudioFunctions.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/AudioFunctions.eel",
-        "sha256": "1wbmv790qd2pmmrzmkpljml98c1ix3bf1bdac1v4h51ncjyqpzg3"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/DevMenu.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/DevMenu.eel",
-        "sha256": "0x7ylb8v764ax4zkiqlxwz7lmckggjsjrpdw2lw4zdsb69ka7k5v"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/MiniGui.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/MiniGui.eel",
-        "sha256": "058p7byrib3rifpd3a0favhy858yivp961anqp1si23f5xsd103m"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Mouse.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/Mouse.eel",
-        "sha256": "19p05nlvkivdl83aqgcrdajfq8m0vcsv3cf3kr5nkd07ndx861h8"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Presets.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/Presets.eel",
-        "sha256": "1fv4r3ax15saw70328bqfhnc7l7bsmczi1lb0lzg9ifzr0i714gn"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/TextField.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/TextField.eel",
-        "sha256": "10ppdyy4fyjlpbqb8djdpgsq73p46m902c736i8c046xshrgaclm"
-      }
-    ],
-    "2.12": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/gen_Envelope-based Compressor v2.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/gen_Envelope-based%20Compressor%20v2.eel",
-        "sha256": "0sncvvdf1fkbk1wi9f3cn20j6h212wi7ifc26q63988lqb5q3zxv"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/AudioFunctions.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/AudioFunctions.eel",
-        "sha256": "1wbmv790qd2pmmrzmkpljml98c1ix3bf1bdac1v4h51ncjyqpzg3"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/DevMenu.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/DevMenu.eel",
-        "sha256": "0x7ylb8v764ax4zkiqlxwz7lmckggjsjrpdw2lw4zdsb69ka7k5v"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/MiniGui.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/MiniGui.eel",
-        "sha256": "058p7byrib3rifpd3a0favhy858yivp961anqp1si23f5xsd103m"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Mouse.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/Mouse.eel",
-        "sha256": "19p05nlvkivdl83aqgcrdajfq8m0vcsv3cf3kr5nkd07ndx861h8"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Presets.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/Presets.eel",
-        "sha256": "1fv4r3ax15saw70328bqfhnc7l7bsmczi1lb0lzg9ifzr0i714gn"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/TextField.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/b47f7aaea1bc94de7ec9984203ace3eb13bbe59e/Various/Envelope-based%20Compressor/inc/TextField.eel",
-        "sha256": "10ppdyy4fyjlpbqb8djdpgsq73p46m902c736i8c046xshrgaclm"
-      }
-    ],
-    "2.11": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/gen_Envelope-based Compressor v2.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/dfdfb29cf28d4ea6d17ff17f0cd265e119fdf99a/Various/Envelope-based%20Compressor/gen_Envelope-based%20Compressor%20v2.eel",
-        "sha256": "1b0gnr0caarxicb67dswc5sm63nps83a64prykiq372qv91ah96p"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/AudioFunctions.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/dfdfb29cf28d4ea6d17ff17f0cd265e119fdf99a/Various/Envelope-based%20Compressor/inc/AudioFunctions.eel",
-        "sha256": "1wbmv790qd2pmmrzmkpljml98c1ix3bf1bdac1v4h51ncjyqpzg3"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/DevMenu.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/dfdfb29cf28d4ea6d17ff17f0cd265e119fdf99a/Various/Envelope-based%20Compressor/inc/DevMenu.eel",
-        "sha256": "0x7ylb8v764ax4zkiqlxwz7lmckggjsjrpdw2lw4zdsb69ka7k5v"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/MiniGui.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/dfdfb29cf28d4ea6d17ff17f0cd265e119fdf99a/Various/Envelope-based%20Compressor/inc/MiniGui.eel",
-        "sha256": "058p7byrib3rifpd3a0favhy858yivp961anqp1si23f5xsd103m"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Mouse.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/dfdfb29cf28d4ea6d17ff17f0cd265e119fdf99a/Various/Envelope-based%20Compressor/inc/Mouse.eel",
-        "sha256": "19p05nlvkivdl83aqgcrdajfq8m0vcsv3cf3kr5nkd07ndx861h8"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Presets.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/dfdfb29cf28d4ea6d17ff17f0cd265e119fdf99a/Various/Envelope-based%20Compressor/inc/Presets.eel",
-        "sha256": "1iz81pq68kj65l61p496spf21h7mm2hfa48dwyxkar4l8h858k7w"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/TextField.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/dfdfb29cf28d4ea6d17ff17f0cd265e119fdf99a/Various/Envelope-based%20Compressor/inc/TextField.eel",
-        "sha256": "10ppdyy4fyjlpbqb8djdpgsq73p46m902c736i8c046xshrgaclm"
-      }
-    ],
-    "2.1": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/gen_Envelope-based Compressor v2.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6993c62a7ca009ef5519edec4dd24b7600af7f76/Various/Envelope-based%20Compressor/gen_Envelope-based%20Compressor%20v2.eel",
-        "sha256": "022qyjhwjxsrshzywynpcf5jgg2zcv9hfyv40xsqpfffj65gfpnk"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/AudioFunctions.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6993c62a7ca009ef5519edec4dd24b7600af7f76/Various/Envelope-based%20Compressor/inc/AudioFunctions.eel",
-        "sha256": "1wbmv790qd2pmmrzmkpljml98c1ix3bf1bdac1v4h51ncjyqpzg3"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/DevMenu.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6993c62a7ca009ef5519edec4dd24b7600af7f76/Various/Envelope-based%20Compressor/inc/DevMenu.eel",
-        "sha256": "0x7ylb8v764ax4zkiqlxwz7lmckggjsjrpdw2lw4zdsb69ka7k5v"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/MiniGui.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6993c62a7ca009ef5519edec4dd24b7600af7f76/Various/Envelope-based%20Compressor/inc/MiniGui.eel",
-        "sha256": "058p7byrib3rifpd3a0favhy858yivp961anqp1si23f5xsd103m"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Mouse.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6993c62a7ca009ef5519edec4dd24b7600af7f76/Various/Envelope-based%20Compressor/inc/Mouse.eel",
-        "sha256": "19p05nlvkivdl83aqgcrdajfq8m0vcsv3cf3kr5nkd07ndx861h8"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/Presets.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6993c62a7ca009ef5519edec4dd24b7600af7f76/Various/Envelope-based%20Compressor/inc/Presets.eel",
-        "sha256": "1iz81pq68kj65l61p496spf21h7mm2hfa48dwyxkar4l8h858k7w"
-      },
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Various/Envelope-based Compressor/inc/TextField.eel",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/6993c62a7ca009ef5519edec4dd24b7600af7f76/Various/Envelope-based%20Compressor/inc/TextField.eel",
-        "sha256": "10ppdyy4fyjlpbqb8djdpgsq73p46m902c736i8c046xshrgaclm"
-      }
-    ]
-  },
   "gen_Select next first level track.lua": {
     "latest": [
       {
@@ -835,6 +835,54 @@
         "path": "Scripts/EUGENE27771-ReaScripts/Tracks Properties/gen_Select previous first level track.lua",
         "url": "https://github.com/EUGEN27771/ReaScripts/raw/3f9d579bed161f6436b8d351c4d3e98188a9126a/Tracks%20Properties/gen_Select%20previous%20first%20level%20track.lua",
         "sha256": "1d9w70r70yjmiw24031l2a9i71kqva2gbc522hz5jrygxi2nn3fy"
+      }
+    ]
+  },
+  "gen_Freeze selected tracks(only instruments).lua": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Track Editing/gen_Freeze selected tracks(only instruments).lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/2bf782c3347364094542952bcb73f43269b1f914/Track%20Editing/gen_Freeze%20selected%20tracks(only%20instruments).lua",
+        "sha256": "0smkinrzd9f5dans2k0c205q4cf1p4r3ycivm3vkq1y1s6l47w8c"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Track Editing/gen_Freeze selected tracks(only instruments).lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/2bf782c3347364094542952bcb73f43269b1f914/Track%20Editing/gen_Freeze%20selected%20tracks(only%20instruments).lua",
+        "sha256": "0smkinrzd9f5dans2k0c205q4cf1p4r3ycivm3vkq1y1s6l47w8c"
+      }
+    ]
+  },
+  "gen_Simple GUI template for scripts.lua": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Templates/GUI/gen_Simple GUI template for scripts.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/272bb620a7e967d804b75704cd5f7e9b49348f97/Templates/GUI/gen_Simple%20GUI%20template%20for%20scripts.lua",
+        "sha256": "1yy3idk75kqi1k296qg5ggv6yaavni84gk84vczdinwksh4dqm9b"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/Templates/GUI/gen_Simple GUI template for scripts.lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/272bb620a7e967d804b75704cd5f7e9b49348f97/Templates/GUI/gen_Simple%20GUI%20template%20for%20scripts.lua",
+        "sha256": "1yy3idk75kqi1k296qg5ggv6yaavni84gk84vczdinwksh4dqm9b"
+      }
+    ]
+  },
+  "gen_Delete Notes Overlaps (poly).lua": {
+    "latest": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/MIDI Editor/gen_Delete Notes Overlaps (poly).lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/bb2d8a411f83af078eb45326600bd5a54b88d3a6/MIDI%20Editor/gen_Delete%20Notes%20Overlaps%20(poly).lua",
+        "sha256": "0haqxw42mbwhhp4cajbd2vnc62l3c16x7r4zfnlcfjd1nv0l8r97"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/EUGENE27771-ReaScripts/MIDI Editor/gen_Delete Notes Overlaps (poly).lua",
+        "url": "https://github.com/EUGEN27771/ReaScripts/raw/bb2d8a411f83af078eb45326600bd5a54b88d3a6/MIDI%20Editor/gen_Delete%20Notes%20Overlaps%20(poly).lua",
+        "sha256": "0haqxw42mbwhhp4cajbd2vnc62l3c16x7r4zfnlcfjd1nv0l8r97"
       }
     ]
   },
@@ -979,54 +1027,6 @@
         "path": "Scripts/EUGENE27771-ReaScripts/Item Editing/MIDI item adjustment/gen_Transpose selected item notes within time selection with prompt.eel",
         "url": "https://github.com/EUGEN27771/ReaScripts/raw/8ac8662e3940954184dcbc837eb00b8cb7699e90/Item%20Editing/MIDI%20item%20adjustment/gen_Transpose%20selected%20item%20notes%20within%20time%20selection%20with%20prompt.eel",
         "sha256": "0di42ix106k2ag5c1b1571kfz5lbpcljqcdfmzn4hzxjyihksvsw"
-      }
-    ]
-  },
-  "gen_Freeze selected tracks(only instruments).lua": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Track Editing/gen_Freeze selected tracks(only instruments).lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/2bf782c3347364094542952bcb73f43269b1f914/Track%20Editing/gen_Freeze%20selected%20tracks(only%20instruments).lua",
-        "sha256": "0smkinrzd9f5dans2k0c205q4cf1p4r3ycivm3vkq1y1s6l47w8c"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Track Editing/gen_Freeze selected tracks(only instruments).lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/2bf782c3347364094542952bcb73f43269b1f914/Track%20Editing/gen_Freeze%20selected%20tracks(only%20instruments).lua",
-        "sha256": "0smkinrzd9f5dans2k0c205q4cf1p4r3ycivm3vkq1y1s6l47w8c"
-      }
-    ]
-  },
-  "gen_Simple GUI template for scripts.lua": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Templates/GUI/gen_Simple GUI template for scripts.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/272bb620a7e967d804b75704cd5f7e9b49348f97/Templates/GUI/gen_Simple%20GUI%20template%20for%20scripts.lua",
-        "sha256": "1yy3idk75kqi1k296qg5ggv6yaavni84gk84vczdinwksh4dqm9b"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/Templates/GUI/gen_Simple GUI template for scripts.lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/272bb620a7e967d804b75704cd5f7e9b49348f97/Templates/GUI/gen_Simple%20GUI%20template%20for%20scripts.lua",
-        "sha256": "1yy3idk75kqi1k296qg5ggv6yaavni84gk84vczdinwksh4dqm9b"
-      }
-    ]
-  },
-  "gen_Delete Notes Overlaps (poly).lua": {
-    "latest": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/MIDI Editor/gen_Delete Notes Overlaps (poly).lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/bb2d8a411f83af078eb45326600bd5a54b88d3a6/MIDI%20Editor/gen_Delete%20Notes%20Overlaps%20(poly).lua",
-        "sha256": "0haqxw42mbwhhp4cajbd2vnc62l3c16x7r4zfnlcfjd1nv0l8r97"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/EUGENE27771-ReaScripts/MIDI Editor/gen_Delete Notes Overlaps (poly).lua",
-        "url": "https://github.com/EUGEN27771/ReaScripts/raw/bb2d8a411f83af078eb45326600bd5a54b88d3a6/MIDI%20Editor/gen_Delete%20Notes%20Overlaps%20(poly).lua",
-        "sha256": "0haqxw42mbwhhp4cajbd2vnc62l3c16x7r4zfnlcfjd1nv0l8r97"
       }
     ]
   }

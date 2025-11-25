@@ -9098,314 +9098,33 @@
       }
     ]
   },
-  "Archie_Mixer; Reset height all tracks MCP by master track.lua": {
+  "Archie_MonitorFx; Smart template monitoring Toggle Open Fx in float.lua": {
     "latest": [
       {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height all tracks MCP by master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20all%20tracks%20MCP%20by%20master%20track.lua",
-        "sha256": "1v4y1wx2h0mw87lsd4q42ih5pfzmfh157x4ncgw952xn9v2z2ak7"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height all tracks MCP by master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20all%20tracks%20MCP%20by%20master%20track.lua",
-        "sha256": "1v4y1wx2h0mw87lsd4q42ih5pfzmfh157x4ncgw952xn9v2z2ak7"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height all tracks MCP by master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20all%20tracks%20MCP%20by%20master%20track.lua",
-        "sha256": "0wqirazmzssyhij8hl3mzd28g7hw4a8cs1sk78rm14iy1pr22idb"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height all tracks MCP by master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20all%20tracks%20MCP%20by%20master%20track.lua",
-        "sha256": "1bzy7dgc594f3myj9alycj9d2zngida4bqwszb0qrnq6bhwji256"
-      }
-    ]
-  },
-  "Archie_Mixer; Reset height selected tracks MCP by master track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height selected tracks MCP by master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20selected%20tracks%20MCP%20by%20master%20track.lua",
-        "sha256": "08zsl1anhh8p97mwkqd8lqhcxibgycsawzyjqriyp91ia8jllf26"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height selected tracks MCP by master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20selected%20tracks%20MCP%20by%20master%20track.lua",
-        "sha256": "08zsl1anhh8p97mwkqd8lqhcxibgycsawzyjqriyp91ia8jllf26"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height selected tracks MCP by master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20selected%20tracks%20MCP%20by%20master%20track.lua",
-        "sha256": "1zyscksp7zwlgchfpizkg48ny6d7xy9m6mhjgz3fl74nz5bhs85w"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height selected tracks MCP by master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20selected%20tracks%20MCP%20by%20master%20track.lua",
-        "sha256": "04740jqb1x3p0jzz2hbd9xlj6xsam3r0b89jg3dz447ipf4a3a82"
-      }
-    ]
-  },
-  "Archie_Mixer; Reset height unselected tracks MCP by master track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height unselected tracks MCP by master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20unselected%20tracks%20MCP%20by%20master%20track.lua",
-        "sha256": "0a0hj7hmcriasr7yl1h2rw47q8qb877d6pg77faw93p5lxxfk2qi"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height unselected tracks MCP by master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20unselected%20tracks%20MCP%20by%20master%20track.lua",
-        "sha256": "0a0hj7hmcriasr7yl1h2rw47q8qb877d6pg77faw93p5lxxfk2qi"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height unselected tracks MCP by master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20unselected%20tracks%20MCP%20by%20master%20track.lua",
-        "sha256": "1fri9nkqyp1xab003cr714z7b5gxwx8k4j3xdxyjh8il99dam7pa"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height unselected tracks MCP by master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20unselected%20tracks%20MCP%20by%20master%20track.lua",
-        "sha256": "1f0y2csramdv0xs1wl4gd6r3iksymx785cd557841hsg6kh258q1"
-      }
-    ]
-  },
-  "Archie_Mixer; Set height of Selected tracks MCP to height master track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of Selected tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20Selected%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "00dkwpvhs5z44lvb62cy5z580q12c2627fq8zn5z16a4lhjynni2"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of Selected tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20Selected%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "00dkwpvhs5z44lvb62cy5z580q12c2627fq8zn5z16a4lhjynni2"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of Selected tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20Selected%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "1mfwvs6dk7gzsz3gxbbzjd65apjfxbwspp484qkw3h08fvx712xn"
-      }
-    ]
-  },
-  "Archie_Mixer; Set height of all tracks MCP to height master track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of all tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20all%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "05mq9hgz3y77d7m5xwkgk3sx2jfv3r7xc9l143j813s4n6jr4f83"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of all tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20all%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "05mq9hgz3y77d7m5xwkgk3sx2jfv3r7xc9l143j813s4n6jr4f83"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of all tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20all%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "1m048d0vkxk82k7q2whaws313wcryy8f8zf6msz50vdsbyz0841r"
-      }
-    ]
-  },
-  "Archie_Mixer; Set height of all unselected tracks MCP to height master track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of all unselected tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20all%20unselected%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "17a5q4xdj5rnq2y61lsvrk4arbz750rhsf8mdi5xj1zzm8rd144h"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of all unselected tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20all%20unselected%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "17a5q4xdj5rnq2y61lsvrk4arbz750rhsf8mdi5xj1zzm8rd144h"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of all unselected tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20all%20unselected%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "0nf6zlciizyldq0ka68ccsngxzb79cb3g2dzm5hd8gc9xidll2d2"
-      }
-    ]
-  },
-  "Archie_Mixer; Set height of not rec-armed tracks MCP to height master track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of not rec-armed tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20not%20rec-armed%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "07s47cfsd95isfikq6dvkvdvjh1fz35mq41nka6033mvx4pybmyq"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of not rec-armed tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20not%20rec-armed%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "07s47cfsd95isfikq6dvkvdvjh1fz35mq41nka6033mvx4pybmyq"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of not rec-armed tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20not%20rec-armed%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "0y6rqf3k70q5na59n5cf5np6kxxxn7891vl4fmzzfyc1d1dlwsn3"
-      }
-    ]
-  },
-  "Archie_Mixer; Set height of rec-armed tracks MCP to height master track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of rec-armed tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20rec-armed%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "0pzk05klw43s7s1m065k5fvb5w07ljnmn369gk1wn8vk9lbyr23m"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of rec-armed tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20rec-armed%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "0pzk05klw43s7s1m065k5fvb5w07ljnmn369gk1wn8vk9lbyr23m"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of rec-armed tracks MCP to height master track.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20rec-armed%20tracks%20MCP%20to%20height%20master%20track.lua",
-        "sha256": "1yif671prvg9w0ax1z2mv528y03xcf7hjj1mbb6iyg9cjm8mas08"
-      }
-    ]
-  },
-  "Archie_Mixer; Toggle Auto zoom height selected tracks in MCP(`).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height selected tracks in MCP(`).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20selected%20tracks%20in%20MCP(%60).lua",
-        "sha256": "1wpxbscml2z4vch0xw6xf7s29p8aqky9fz704hl87kf1f1gkcd0c"
-      }
-    ],
-    "1.05": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height selected tracks in MCP(`).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20selected%20tracks%20in%20MCP(%60).lua",
-        "sha256": "1wpxbscml2z4vch0xw6xf7s29p8aqky9fz704hl87kf1f1gkcd0c"
+        "path": "Scripts/Archie-ReaScripts/MAIN/Monitoring/Archie_MonitorFx; Smart template monitoring Toggle Open Fx in float.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Monitoring/Archie_MonitorFx;%20Smart%20template%20monitoring%20Toggle%20Open%20Fx%20in%20float.lua",
+        "sha256": "0lbx8ipg8413qci9vwhzymj3fwyhqn1wrr049bjmh733wjy6snz9"
       }
     ],
     "1.04": [
       {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height selected tracks in MCP(`).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20selected%20tracks%20in%20MCP(%60).lua",
-        "sha256": "0ppz8bxmhqhhnf9147i3w9p13pqlyl7kmq1ggfgnwi9nd530m7gx"
+        "path": "Scripts/Archie-ReaScripts/MAIN/Monitoring/Archie_MonitorFx; Smart template monitoring Toggle Open Fx in float.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Monitoring/Archie_MonitorFx;%20Smart%20template%20monitoring%20Toggle%20Open%20Fx%20in%20float.lua",
+        "sha256": "0lbx8ipg8413qci9vwhzymj3fwyhqn1wrr049bjmh733wjy6snz9"
       }
     ],
     "1.03": [
       {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height selected tracks in MCP(`).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20selected%20tracks%20in%20MCP(%60).lua",
-        "sha256": "0brvls8rzqva7yqmxx88frpqqmbzh59ycnwwijkgypxxw5xf5vfd"
-      }
-    ]
-  },
-  "Archie_Mixer; Toggle Auto zoom height tracks rec-armed in MCP(`).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height tracks rec-armed in MCP(`).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20tracks%20rec-armed%20in%20MCP(%60).lua",
-        "sha256": "19az8kn8a8hai2d8mmlsav08lvhv6slqqfh29s0p480sfhvd477c"
-      }
-    ],
-    "1.04": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height tracks rec-armed in MCP(`).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20tracks%20rec-armed%20in%20MCP(%60).lua",
-        "sha256": "19az8kn8a8hai2d8mmlsav08lvhv6slqqfh29s0p480sfhvd477c"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height tracks rec-armed in MCP(`).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20tracks%20rec-armed%20in%20MCP(%60).lua",
-        "sha256": "1sxwhnx9bl6sr90zz4hpkzw7i72ic5idq8nrsb20wmhyrfas2x52"
+        "path": "Scripts/Archie-ReaScripts/MAIN/Monitoring/Archie_MonitorFx; Smart template monitoring Toggle Open Fx in float.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Monitoring/Archie_MonitorFx;%20Smart%20template%20monitoring%20Toggle%20Open%20Fx%20in%20float.lua",
+        "sha256": "0inz4wghpj51b2nk3g5x9p5nh4hx2p3ikxij5lzlwai5cqv6f4zm"
       }
     ],
     "1.02": [
       {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height tracks rec-armed in MCP(`).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20tracks%20rec-armed%20in%20MCP(%60).lua",
-        "sha256": "1vmqfrwxyc6b1lkqmv8gmxr5iwz75s1wb98yjficyd77372ncibn"
-      }
-    ]
-  },
-  "Archie_Mixer; Toggle Mute Unmute all visible track in MCP.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Mute Unmute all visible track in MCP.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Mute%20Unmute%20all%20visible%20track%20in%20MCP.lua",
-        "sha256": "14cd0wp63y4gsaaph2x3wsm6hahc8k84ph0h5cm9v6sf0xckp43j"
-      }
-    ],
-    "1.04": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Mute Unmute all visible track in MCP.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Mute%20Unmute%20all%20visible%20track%20in%20MCP.lua",
-        "sha256": "14cd0wp63y4gsaaph2x3wsm6hahc8k84ph0h5cm9v6sf0xckp43j"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Mute Unmute all visible track in MCP.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Toggle%20Mute%20Unmute%20all%20visible%20track%20in%20MCP.lua",
-        "sha256": "10c36bn0spglk0ch1g47ajgcpzn1iwq8a7sjqgfm9sh7iypk2spw"
-      }
-    ]
-  },
-  "Archie_Mixer; Toggle Unmute mute all visible track in MCP.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Unmute mute all visible track in MCP.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Unmute%20mute%20all%20visible%20track%20in%20MCP.lua",
-        "sha256": "1y0zwpp1wsd6zkfwmx4vns97k8i8z1yx94sg8ym7vm3bq8lbmm89"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Unmute mute all visible track in MCP.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Unmute%20mute%20all%20visible%20track%20in%20MCP.lua",
-        "sha256": "1y0zwpp1wsd6zkfwmx4vns97k8i8z1yx94sg8ym7vm3bq8lbmm89"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Unmute mute all visible track in MCP.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Toggle%20Unmute%20mute%20all%20visible%20track%20in%20MCP.lua",
-        "sha256": "12c2bi46pcqbx2pqhnhgsdsrh8n1z8yxy598h8h50b3qsqp8cqd1"
+        "path": "Scripts/Archie-ReaScripts/MAIN/Monitoring/Archie_MonitorFx; Smart template monitoring Toggle Open Fx in float.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Monitoring/Archie_MonitorFx;%20Smart%20template%20monitoring%20Toggle%20Open%20Fx%20in%20float.lua",
+        "sha256": "19bf2ak9y0wabc8dyi76f1id8drlccpkkgmxigs570qamks4k7wp"
       }
     ]
   },
@@ -10160,167 +9879,6 @@
         "path": "Scripts/Archie-ReaScripts/MAIN/Preferences/Archie_Pref; Toggle Don't autosctoll view (when enable) when viewing other parts of project.lua",
         "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Preferences/Archie_Pref;%20Toggle%20Don't%20autosctoll%20view%20(when%20enable)%20when%20viewing%20other%20parts%20of%20project.lua",
         "sha256": "08cfy618z85j18pm6scxab850ij8c35awg97pd0lz96b8i664y1b"
-      }
-    ]
-  },
-  "Archie_Proj; Set project sample rate (User input).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate (User input).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20(User%20input).lua",
-        "sha256": "1v5d8gx63s1ywgrip9mhn8y73bbjk508sgh59hny40pz84shxm23"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate (User input).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20(User%20input).lua",
-        "sha256": "1v5d8gx63s1ywgrip9mhn8y73bbjk508sgh59hny40pz84shxm23"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate (User input).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20(User%20input).lua",
-        "sha256": "0sfqd32qhs7xnfdrgr95bjh6c88vkzakl3gs8zv2qz3xajfsshn7"
-      }
-    ]
-  },
-  "Archie_Proj; Set project sample rate 176400.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 176400.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20176400.lua",
-        "sha256": "0j2ajm57nb4hyxh93hvn7y5bwb5sfw7qh7lclriy7p50wy311j2p"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 176400.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20176400.lua",
-        "sha256": "0j2ajm57nb4hyxh93hvn7y5bwb5sfw7qh7lclriy7p50wy311j2p"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 176400.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20176400.lua",
-        "sha256": "1m8ir9vmfk1j0is8lvnw4xbzb2m245pj83v8qm69iv91nxk9fph7"
-      }
-    ]
-  },
-  "Archie_Proj; Set project sample rate 192000.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 192000.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20192000.lua",
-        "sha256": "0ai53sg3qsz20cx61idgybward477xkbqs4bfr4irbxi1ryy5mgr"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 192000.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20192000.lua",
-        "sha256": "0ai53sg3qsz20cx61idgybward477xkbqs4bfr4irbxi1ryy5mgr"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 192000.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20192000.lua",
-        "sha256": "073pm08nij7j6fg39k33fbjz2p51d9wvgbyavrbvk0fkn0mq41ij"
-      }
-    ]
-  },
-  "Archie_Proj; Set project sample rate 44100.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 44100.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2044100.lua",
-        "sha256": "0s3kzbcrwj4x2mazqfmk7ink4hba1f05giwqcmv0mdmlw86il6ar"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 44100.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2044100.lua",
-        "sha256": "0s3kzbcrwj4x2mazqfmk7ink4hba1f05giwqcmv0mdmlw86il6ar"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 44100.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2044100.lua",
-        "sha256": "0zy4dmz1hp96rzjdy1ph1yvpd8qxa582wj48f5z8nf9g1ylf1ym6"
-      }
-    ]
-  },
-  "Archie_Proj; Set project sample rate 48000.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 48000.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2048000.lua",
-        "sha256": "0lgapj5kwjr2bnhh7fhcy81wql014d65h4i73pynzwfip95y75jh"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 48000.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2048000.lua",
-        "sha256": "0lgapj5kwjr2bnhh7fhcy81wql014d65h4i73pynzwfip95y75jh"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 48000.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2048000.lua",
-        "sha256": "01h9xn5pdjmh4m2n8nbp1wlzyr4spj704fyrgfvszf2g8gx7nwr4"
-      }
-    ]
-  },
-  "Archie_Proj; Set project sample rate 88200.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 88200.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2088200.lua",
-        "sha256": "1994d6c4jj5dhg1b0iradh0vrb6rpr0wjd3z3a8nqsmwl3268zjs"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 88200.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2088200.lua",
-        "sha256": "1994d6c4jj5dhg1b0iradh0vrb6rpr0wjd3z3a8nqsmwl3268zjs"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 88200.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2088200.lua",
-        "sha256": "0k02xxph25n27mmc44s55snkir8jrharqwrbfr5b38rzmzb4sq7d"
-      }
-    ]
-  },
-  "Archie_Proj; Set project sample rate 96000.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 96000.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2096000.lua",
-        "sha256": "0zagc47c2fgvgcwnngwb189iy6s9bv0yx2a52damcj83r517n96i"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 96000.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2096000.lua",
-        "sha256": "0zagc47c2fgvgcwnngwb189iy6s9bv0yx2a52damcj83r517n96i"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 96000.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2096000.lua",
-        "sha256": "125pjzn9dmgz8q802ng3ip6c6nbli5mavjldn4dwy9pkm0qqgjz7"
       }
     ]
   },
@@ -18769,36 +18327,6 @@
       }
     ]
   },
-  "Test_.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MIDI Inline Editor/Test_.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/264583dc354d793d2712f0e129b8fede642a400b/MIDI%20Inline%20Editor/Test_.lua",
-        "sha256": "0ppxy3aj8yisg25vwzbiq7g97hsvs3hillzmwjkr0zzjnlkx2ixz"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MIDI Inline Editor/Test_.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/264583dc354d793d2712f0e129b8fede642a400b/MIDI%20Inline%20Editor/Test_.lua",
-        "sha256": "0ppxy3aj8yisg25vwzbiq7g97hsvs3hillzmwjkr0zzjnlkx2ixz"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MIDI Inline Editor/Test_.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/70dce61922f2ce3cd7b0499a1058839b6fbc2dc9/MIDI%20Inline%20Editor/Test_.lua",
-        "sha256": "0fifkg0j1ib0jykgg588kkdj3pisw40vzlp9nvbzyzbz48fnf11g"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MIDI Inline Editor/Test_.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/9e530e62ecf2e654206266df1b7dd96a04496e50/MIDI%20Inline%20Editor/Test_.lua",
-        "sha256": "1yi20m0j6ar7ng3fx47m4ywzlyn2ax88c5ak2zk1c4mqqk9fqwjx"
-      }
-    ]
-  },
   "Archie_EnvT; Insert four points in time selection and omit by -1 dB (Envelope take volume).lua": {
     "latest": [
       {
@@ -19018,6 +18546,667 @@
       }
     ]
   },
+  "Archie_Mixer; Reset height all tracks MCP by master track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height all tracks MCP by master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20all%20tracks%20MCP%20by%20master%20track.lua",
+        "sha256": "1v4y1wx2h0mw87lsd4q42ih5pfzmfh157x4ncgw952xn9v2z2ak7"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height all tracks MCP by master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20all%20tracks%20MCP%20by%20master%20track.lua",
+        "sha256": "1v4y1wx2h0mw87lsd4q42ih5pfzmfh157x4ncgw952xn9v2z2ak7"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height all tracks MCP by master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20all%20tracks%20MCP%20by%20master%20track.lua",
+        "sha256": "0wqirazmzssyhij8hl3mzd28g7hw4a8cs1sk78rm14iy1pr22idb"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height all tracks MCP by master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20all%20tracks%20MCP%20by%20master%20track.lua",
+        "sha256": "1bzy7dgc594f3myj9alycj9d2zngida4bqwszb0qrnq6bhwji256"
+      }
+    ]
+  },
+  "Archie_Mixer; Reset height selected tracks MCP by master track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height selected tracks MCP by master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20selected%20tracks%20MCP%20by%20master%20track.lua",
+        "sha256": "08zsl1anhh8p97mwkqd8lqhcxibgycsawzyjqriyp91ia8jllf26"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height selected tracks MCP by master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20selected%20tracks%20MCP%20by%20master%20track.lua",
+        "sha256": "08zsl1anhh8p97mwkqd8lqhcxibgycsawzyjqriyp91ia8jllf26"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height selected tracks MCP by master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20selected%20tracks%20MCP%20by%20master%20track.lua",
+        "sha256": "1zyscksp7zwlgchfpizkg48ny6d7xy9m6mhjgz3fl74nz5bhs85w"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height selected tracks MCP by master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20selected%20tracks%20MCP%20by%20master%20track.lua",
+        "sha256": "04740jqb1x3p0jzz2hbd9xlj6xsam3r0b89jg3dz447ipf4a3a82"
+      }
+    ]
+  },
+  "Archie_Mixer; Reset height unselected tracks MCP by master track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height unselected tracks MCP by master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20unselected%20tracks%20MCP%20by%20master%20track.lua",
+        "sha256": "0a0hj7hmcriasr7yl1h2rw47q8qb877d6pg77faw93p5lxxfk2qi"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height unselected tracks MCP by master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20unselected%20tracks%20MCP%20by%20master%20track.lua",
+        "sha256": "0a0hj7hmcriasr7yl1h2rw47q8qb877d6pg77faw93p5lxxfk2qi"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height unselected tracks MCP by master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20unselected%20tracks%20MCP%20by%20master%20track.lua",
+        "sha256": "1fri9nkqyp1xab003cr714z7b5gxwx8k4j3xdxyjh8il99dam7pa"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Reset height unselected tracks MCP by master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Reset%20height%20unselected%20tracks%20MCP%20by%20master%20track.lua",
+        "sha256": "1f0y2csramdv0xs1wl4gd6r3iksymx785cd557841hsg6kh258q1"
+      }
+    ]
+  },
+  "Archie_Mixer; Set height of Selected tracks MCP to height master track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of Selected tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20Selected%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "00dkwpvhs5z44lvb62cy5z580q12c2627fq8zn5z16a4lhjynni2"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of Selected tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20Selected%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "00dkwpvhs5z44lvb62cy5z580q12c2627fq8zn5z16a4lhjynni2"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of Selected tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20Selected%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "1mfwvs6dk7gzsz3gxbbzjd65apjfxbwspp484qkw3h08fvx712xn"
+      }
+    ]
+  },
+  "Archie_Mixer; Set height of all tracks MCP to height master track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of all tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20all%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "05mq9hgz3y77d7m5xwkgk3sx2jfv3r7xc9l143j813s4n6jr4f83"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of all tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20all%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "05mq9hgz3y77d7m5xwkgk3sx2jfv3r7xc9l143j813s4n6jr4f83"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of all tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20all%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "1m048d0vkxk82k7q2whaws313wcryy8f8zf6msz50vdsbyz0841r"
+      }
+    ]
+  },
+  "Archie_Mixer; Set height of all unselected tracks MCP to height master track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of all unselected tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20all%20unselected%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "17a5q4xdj5rnq2y61lsvrk4arbz750rhsf8mdi5xj1zzm8rd144h"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of all unselected tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20all%20unselected%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "17a5q4xdj5rnq2y61lsvrk4arbz750rhsf8mdi5xj1zzm8rd144h"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of all unselected tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20all%20unselected%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "0nf6zlciizyldq0ka68ccsngxzb79cb3g2dzm5hd8gc9xidll2d2"
+      }
+    ]
+  },
+  "Archie_Mixer; Set height of not rec-armed tracks MCP to height master track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of not rec-armed tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20not%20rec-armed%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "07s47cfsd95isfikq6dvkvdvjh1fz35mq41nka6033mvx4pybmyq"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of not rec-armed tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20not%20rec-armed%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "07s47cfsd95isfikq6dvkvdvjh1fz35mq41nka6033mvx4pybmyq"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of not rec-armed tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20not%20rec-armed%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "0y6rqf3k70q5na59n5cf5np6kxxxn7891vl4fmzzfyc1d1dlwsn3"
+      }
+    ]
+  },
+  "Archie_Mixer; Set height of rec-armed tracks MCP to height master track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of rec-armed tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20rec-armed%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "0pzk05klw43s7s1m065k5fvb5w07ljnmn369gk1wn8vk9lbyr23m"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of rec-armed tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20rec-armed%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "0pzk05klw43s7s1m065k5fvb5w07ljnmn369gk1wn8vk9lbyr23m"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Set height of rec-armed tracks MCP to height master track.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Set%20height%20of%20rec-armed%20tracks%20MCP%20to%20height%20master%20track.lua",
+        "sha256": "1yif671prvg9w0ax1z2mv528y03xcf7hjj1mbb6iyg9cjm8mas08"
+      }
+    ]
+  },
+  "Archie_Mixer; Toggle Auto zoom height selected tracks in MCP(`).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height selected tracks in MCP(`).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20selected%20tracks%20in%20MCP(%60).lua",
+        "sha256": "1wpxbscml2z4vch0xw6xf7s29p8aqky9fz704hl87kf1f1gkcd0c"
+      }
+    ],
+    "1.05": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height selected tracks in MCP(`).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20selected%20tracks%20in%20MCP(%60).lua",
+        "sha256": "1wpxbscml2z4vch0xw6xf7s29p8aqky9fz704hl87kf1f1gkcd0c"
+      }
+    ],
+    "1.04": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height selected tracks in MCP(`).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20selected%20tracks%20in%20MCP(%60).lua",
+        "sha256": "0ppz8bxmhqhhnf9147i3w9p13pqlyl7kmq1ggfgnwi9nd530m7gx"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height selected tracks in MCP(`).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20selected%20tracks%20in%20MCP(%60).lua",
+        "sha256": "0brvls8rzqva7yqmxx88frpqqmbzh59ycnwwijkgypxxw5xf5vfd"
+      }
+    ]
+  },
+  "Archie_Mixer; Toggle Auto zoom height tracks rec-armed in MCP(`).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height tracks rec-armed in MCP(`).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20tracks%20rec-armed%20in%20MCP(%60).lua",
+        "sha256": "19az8kn8a8hai2d8mmlsav08lvhv6slqqfh29s0p480sfhvd477c"
+      }
+    ],
+    "1.04": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height tracks rec-armed in MCP(`).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20tracks%20rec-armed%20in%20MCP(%60).lua",
+        "sha256": "19az8kn8a8hai2d8mmlsav08lvhv6slqqfh29s0p480sfhvd477c"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height tracks rec-armed in MCP(`).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20tracks%20rec-armed%20in%20MCP(%60).lua",
+        "sha256": "1sxwhnx9bl6sr90zz4hpkzw7i72ic5idq8nrsb20wmhyrfas2x52"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Auto zoom height tracks rec-armed in MCP(`).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Toggle%20Auto%20zoom%20height%20tracks%20rec-armed%20in%20MCP(%60).lua",
+        "sha256": "1vmqfrwxyc6b1lkqmv8gmxr5iwz75s1wb98yjficyd77372ncibn"
+      }
+    ]
+  },
+  "Archie_Mixer; Toggle Mute Unmute all visible track in MCP.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Mute Unmute all visible track in MCP.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Mute%20Unmute%20all%20visible%20track%20in%20MCP.lua",
+        "sha256": "14cd0wp63y4gsaaph2x3wsm6hahc8k84ph0h5cm9v6sf0xckp43j"
+      }
+    ],
+    "1.04": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Mute Unmute all visible track in MCP.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Mute%20Unmute%20all%20visible%20track%20in%20MCP.lua",
+        "sha256": "14cd0wp63y4gsaaph2x3wsm6hahc8k84ph0h5cm9v6sf0xckp43j"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Mute Unmute all visible track in MCP.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Toggle%20Mute%20Unmute%20all%20visible%20track%20in%20MCP.lua",
+        "sha256": "10c36bn0spglk0ch1g47ajgcpzn1iwq8a7sjqgfm9sh7iypk2spw"
+      }
+    ]
+  },
+  "Archie_Mixer; Toggle Unmute mute all visible track in MCP.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Unmute mute all visible track in MCP.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Unmute%20mute%20all%20visible%20track%20in%20MCP.lua",
+        "sha256": "1y0zwpp1wsd6zkfwmx4vns97k8i8z1yx94sg8ym7vm3bq8lbmm89"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Unmute mute all visible track in MCP.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Mixer/Archie_Mixer;%20Toggle%20Unmute%20mute%20all%20visible%20track%20in%20MCP.lua",
+        "sha256": "1y0zwpp1wsd6zkfwmx4vns97k8i8z1yx94sg8ym7vm3bq8lbmm89"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Mixer/Archie_Mixer; Toggle Unmute mute all visible track in MCP.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Mixer/Archie_Mixer;%20Toggle%20Unmute%20mute%20all%20visible%20track%20in%20MCP.lua",
+        "sha256": "12c2bi46pcqbx2pqhnhgsdsrh8n1z8yxy598h8h50b3qsqp8cqd1"
+      }
+    ]
+  },
+  "Archie_Proj; Set project sample rate (User input).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate (User input).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20(User%20input).lua",
+        "sha256": "1v5d8gx63s1ywgrip9mhn8y73bbjk508sgh59hny40pz84shxm23"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate (User input).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20(User%20input).lua",
+        "sha256": "1v5d8gx63s1ywgrip9mhn8y73bbjk508sgh59hny40pz84shxm23"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate (User input).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20(User%20input).lua",
+        "sha256": "0sfqd32qhs7xnfdrgr95bjh6c88vkzakl3gs8zv2qz3xajfsshn7"
+      }
+    ]
+  },
+  "Archie_Proj; Set project sample rate 176400.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 176400.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20176400.lua",
+        "sha256": "0j2ajm57nb4hyxh93hvn7y5bwb5sfw7qh7lclriy7p50wy311j2p"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 176400.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20176400.lua",
+        "sha256": "0j2ajm57nb4hyxh93hvn7y5bwb5sfw7qh7lclriy7p50wy311j2p"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 176400.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20176400.lua",
+        "sha256": "1m8ir9vmfk1j0is8lvnw4xbzb2m245pj83v8qm69iv91nxk9fph7"
+      }
+    ]
+  },
+  "Archie_Proj; Set project sample rate 192000.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 192000.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20192000.lua",
+        "sha256": "0ai53sg3qsz20cx61idgybward477xkbqs4bfr4irbxi1ryy5mgr"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 192000.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20192000.lua",
+        "sha256": "0ai53sg3qsz20cx61idgybward477xkbqs4bfr4irbxi1ryy5mgr"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 192000.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%20192000.lua",
+        "sha256": "073pm08nij7j6fg39k33fbjz2p51d9wvgbyavrbvk0fkn0mq41ij"
+      }
+    ]
+  },
+  "Archie_Proj; Set project sample rate 44100.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 44100.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2044100.lua",
+        "sha256": "0s3kzbcrwj4x2mazqfmk7ink4hba1f05giwqcmv0mdmlw86il6ar"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 44100.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2044100.lua",
+        "sha256": "0s3kzbcrwj4x2mazqfmk7ink4hba1f05giwqcmv0mdmlw86il6ar"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 44100.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2044100.lua",
+        "sha256": "0zy4dmz1hp96rzjdy1ph1yvpd8qxa582wj48f5z8nf9g1ylf1ym6"
+      }
+    ]
+  },
+  "Archie_Proj; Set project sample rate 48000.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 48000.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2048000.lua",
+        "sha256": "0lgapj5kwjr2bnhh7fhcy81wql014d65h4i73pynzwfip95y75jh"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 48000.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2048000.lua",
+        "sha256": "0lgapj5kwjr2bnhh7fhcy81wql014d65h4i73pynzwfip95y75jh"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 48000.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2048000.lua",
+        "sha256": "01h9xn5pdjmh4m2n8nbp1wlzyr4spj704fyrgfvszf2g8gx7nwr4"
+      }
+    ]
+  },
+  "Archie_Proj; Set project sample rate 88200.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 88200.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2088200.lua",
+        "sha256": "1994d6c4jj5dhg1b0iradh0vrb6rpr0wjd3z3a8nqsmwl3268zjs"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 88200.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2088200.lua",
+        "sha256": "1994d6c4jj5dhg1b0iradh0vrb6rpr0wjd3z3a8nqsmwl3268zjs"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 88200.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2088200.lua",
+        "sha256": "0k02xxph25n27mmc44s55snkir8jrharqwrbfr5b38rzmzb4sq7d"
+      }
+    ]
+  },
+  "Archie_Proj; Set project sample rate 96000.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 96000.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2096000.lua",
+        "sha256": "0zagc47c2fgvgcwnngwb189iy6s9bv0yx2a52damcj83r517n96i"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 96000.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2096000.lua",
+        "sha256": "0zagc47c2fgvgcwnngwb189iy6s9bv0yx2a52damcj83r517n96i"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Project/Archie_Proj; Set project sample rate 96000.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Project/Archie_Proj;%20Set%20project%20sample%20rate%2096000.lua",
+        "sha256": "125pjzn9dmgz8q802ng3ip6c6nbli5mavjldn4dwy9pkm0qqgjz7"
+      }
+    ]
+  },
+  "Archie_Cont; Move tracks down or items down depending on focus(skip minimized track).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks down or items down depending on focus(skip minimized track).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Move%20tracks%20down%20or%20items%20down%20depending%20on%20focus(skip%20minimized%20track).lua",
+        "sha256": "0a7kij8frm8cp0ndajfwkn5hrv1nqv0d61a3f0rgrnwh1ffsnny8"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks down or items down depending on focus(skip minimized track).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Move%20tracks%20down%20or%20items%20down%20depending%20on%20focus(skip%20minimized%20track).lua",
+        "sha256": "0a7kij8frm8cp0ndajfwkn5hrv1nqv0d61a3f0rgrnwh1ffsnny8"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks down or items down depending on focus(skip minimized track).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/6833f64fe546b86bcf2f077d01a84f501bc0e6e6/MAIN/Context/Archie_Cont;%20Move%20tracks%20down%20or%20items%20down%20depending%20on%20focus(skip%20minimized%20track).lua",
+        "sha256": "14nd4haqm5gr2rbm0q701gzcclf0j83fsp6hk8dh5z5n3nkn2xms"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks down or items down depending on focus(skip minimized track).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Context/Archie_Cont;%20Move%20tracks%20down%20or%20items%20down%20depending%20on%20focus(skip%20minimized%20track).lua",
+        "sha256": "1vb4c8k06qavrbxdcf5ksbgaifpdag1lpflq9sq6gyl5cr3nbxfl"
+      }
+    ]
+  },
+  "Archie_Cont; Move tracks up or items up depending on focus(skip minimized track).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks up or items up depending on focus(skip minimized track).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Move%20tracks%20up%20or%20items%20up%20depending%20on%20focus(skip%20minimized%20track).lua",
+        "sha256": "0r02y1ks3kmr3wk68nd09ncxlydf49xd13vbczkhwcmni4347y0j"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks up or items up depending on focus(skip minimized track).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Move%20tracks%20up%20or%20items%20up%20depending%20on%20focus(skip%20minimized%20track).lua",
+        "sha256": "0r02y1ks3kmr3wk68nd09ncxlydf49xd13vbczkhwcmni4347y0j"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks up or items up depending on focus(skip minimized track).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/6833f64fe546b86bcf2f077d01a84f501bc0e6e6/MAIN/Context/Archie_Cont;%20Move%20tracks%20up%20or%20items%20up%20depending%20on%20focus(skip%20minimized%20track).lua",
+        "sha256": "0frfzmazdc42wslf0r0r58g4f5jb4j9r5k63ddcfnxdizn8qi452"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks up or items up depending on focus(skip minimized track).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Context/Archie_Cont;%20Move%20tracks%20up%20or%20items%20up%20depending%20on%20focus(skip%20minimized%20track).lua",
+        "sha256": "1gx7781bx2v4d02qfhcxkg8vv5qkwvlavm5bhgc6fyy1dkv8gj21"
+      }
+    ]
+  },
+  "Archie_Cont; Set focus on items - arrange.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Set focus on items - arrange.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Set%20focus%20on%20items%20-%20arrange.lua",
+        "sha256": "0mczvfq6s4b92cn4na7sc1s6apcspcka48sy36kb2wg28v9k7qyb"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Set focus on items - arrange.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Set%20focus%20on%20items%20-%20arrange.lua",
+        "sha256": "0mczvfq6s4b92cn4na7sc1s6apcspcka48sy36kb2wg28v9k7qyb"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Set focus on items - arrange.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Context/Archie_Cont;%20Set%20focus%20on%20items%20-%20arrange.lua",
+        "sha256": "1gjjfcdkslnblfvlh27qbiknspsjw9dv36nwg2hb3xvkn57ys3nb"
+      }
+    ]
+  },
+  "Archie_Cont; Set focus on track panels.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Set focus on track panels.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Set%20focus%20on%20track%20panels.lua",
+        "sha256": "0w3dd37jamfm67lfw95zimzdd6ssj305fkn737298fvx1n10qcf1"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Set focus on track panels.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Set%20focus%20on%20track%20panels.lua",
+        "sha256": "0w3dd37jamfm67lfw95zimzdd6ssj305fkn737298fvx1n10qcf1"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Set focus on track panels.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Context/Archie_Cont;%20Set%20focus%20on%20track%20panels.lua",
+        "sha256": "0pzvqbvha2c2xny9m4jf65y0vjd84qldhnnmqws8a666rqy8d42y"
+      }
+    ]
+  },
+  "Archie_Render; Render multi-track to a stereo track in certain channels.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render multi-track to a stereo track in certain channels.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Render/Archie_Render;%20Render%20multi-track%20to%20a%20stereo%20track%20in%20certain%20channels.lua",
+        "sha256": "0h6ypq20ac3jp7w34jpdfmj290pmbqwqg92jh37p6v9cijq0dn85"
+      }
+    ],
+    "1.05": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render multi-track to a stereo track in certain channels.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Render/Archie_Render;%20Render%20multi-track%20to%20a%20stereo%20track%20in%20certain%20channels.lua",
+        "sha256": "0h6ypq20ac3jp7w34jpdfmj290pmbqwqg92jh37p6v9cijq0dn85"
+      }
+    ],
+    "1.04": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render multi-track to a stereo track in certain channels.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Render/Archie_Render;%20Render%20multi-track%20to%20a%20stereo%20track%20in%20certain%20channels.lua",
+        "sha256": "1jgd8m1q9i7p3qgwmb8ssiwdyayvf56cc5dyapbrs5anwqm6jx39"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render multi-track to a stereo track in certain channels.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Render/Archie_Render;%20Render%20multi-track%20to%20a%20stereo%20track%20in%20certain%20channels.lua",
+        "sha256": "1mm6sws2ky8gxr2avcxadjgv9v5sx8ads07ic72s7jsqa4nr1qwc"
+      }
+    ]
+  },
+  "Archie_Render; Render stems Template(`).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render stems Template(`).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Render/Archie_Render;%20Render%20stems%20Template(%60).lua",
+        "sha256": "0x0k3ivzcpvv4ibjn3im4by2x9pwijppg25ndlgx8pn3pv7h3v1a"
+      }
+    ],
+    "2.01": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render stems Template(`).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Render/Archie_Render;%20Render%20stems%20Template(%60).lua",
+        "sha256": "0x0k3ivzcpvv4ibjn3im4by2x9pwijppg25ndlgx8pn3pv7h3v1a"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render stems Template(`).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Render/Archie_Render;%20Render%20stems%20Template(%60).lua",
+        "sha256": "0nrw4pkvgfw94c5gz4685m2ppljrs68ppp579mx96ni3l7wn9f3b"
+      }
+    ]
+  },
+  "Archie_Render; Render track to a Mono track in certain channels.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render track to a Mono track in certain channels.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Render/Archie_Render;%20Render%20track%20to%20a%20Mono%20track%20in%20certain%20channels.lua",
+        "sha256": "0cl7fbafpl16iapq1my64j5z2khp0il3wbhn1rag3l72shy7x2pz"
+      }
+    ],
+    "1.05": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render track to a Mono track in certain channels.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Render/Archie_Render;%20Render%20track%20to%20a%20Mono%20track%20in%20certain%20channels.lua",
+        "sha256": "0cl7fbafpl16iapq1my64j5z2khp0il3wbhn1rag3l72shy7x2pz"
+      }
+    ],
+    "1.04": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render track to a Mono track in certain channels.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Render/Archie_Render;%20Render%20track%20to%20a%20Mono%20track%20in%20certain%20channels.lua",
+        "sha256": "0pkazvkbks5yll58a3bbn54lfcvp830gsamx11mkdc4h534qd12r"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render track to a Mono track in certain channels.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Render/Archie_Render;%20Render%20track%20to%20a%20Mono%20track%20in%20certain%20channels.lua",
+        "sha256": "1f31n9fbyhyqq19r3n1sz85lfhcc26a1w4xkhmcz615ydpd502m2"
+      }
+    ]
+  },
   "Archie_Render; Render track (Post Fx & wave 24 bit & HQ(512pt Sinc) & Full-speed Offline )).lua": {
     "latest": [
       {
@@ -19233,245 +19422,33 @@
       }
     ]
   },
-  "Archie_Render; Render multi-track to a stereo track in certain channels.lua": {
+  "Test_.lua": {
     "latest": [
       {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render multi-track to a stereo track in certain channels.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Render/Archie_Render;%20Render%20multi-track%20to%20a%20stereo%20track%20in%20certain%20channels.lua",
-        "sha256": "0h6ypq20ac3jp7w34jpdfmj290pmbqwqg92jh37p6v9cijq0dn85"
-      }
-    ],
-    "1.05": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render multi-track to a stereo track in certain channels.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Render/Archie_Render;%20Render%20multi-track%20to%20a%20stereo%20track%20in%20certain%20channels.lua",
-        "sha256": "0h6ypq20ac3jp7w34jpdfmj290pmbqwqg92jh37p6v9cijq0dn85"
-      }
-    ],
-    "1.04": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render multi-track to a stereo track in certain channels.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Render/Archie_Render;%20Render%20multi-track%20to%20a%20stereo%20track%20in%20certain%20channels.lua",
-        "sha256": "1jgd8m1q9i7p3qgwmb8ssiwdyayvf56cc5dyapbrs5anwqm6jx39"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render multi-track to a stereo track in certain channels.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Render/Archie_Render;%20Render%20multi-track%20to%20a%20stereo%20track%20in%20certain%20channels.lua",
-        "sha256": "1mm6sws2ky8gxr2avcxadjgv9v5sx8ads07ic72s7jsqa4nr1qwc"
-      }
-    ]
-  },
-  "Archie_Render; Render stems Template(`).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render stems Template(`).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Render/Archie_Render;%20Render%20stems%20Template(%60).lua",
-        "sha256": "0x0k3ivzcpvv4ibjn3im4by2x9pwijppg25ndlgx8pn3pv7h3v1a"
-      }
-    ],
-    "2.01": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render stems Template(`).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Render/Archie_Render;%20Render%20stems%20Template(%60).lua",
-        "sha256": "0x0k3ivzcpvv4ibjn3im4by2x9pwijppg25ndlgx8pn3pv7h3v1a"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render stems Template(`).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Render/Archie_Render;%20Render%20stems%20Template(%60).lua",
-        "sha256": "0nrw4pkvgfw94c5gz4685m2ppljrs68ppp579mx96ni3l7wn9f3b"
-      }
-    ]
-  },
-  "Archie_Render; Render track to a Mono track in certain channels.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render track to a Mono track in certain channels.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Render/Archie_Render;%20Render%20track%20to%20a%20Mono%20track%20in%20certain%20channels.lua",
-        "sha256": "0cl7fbafpl16iapq1my64j5z2khp0il3wbhn1rag3l72shy7x2pz"
-      }
-    ],
-    "1.05": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render track to a Mono track in certain channels.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Render/Archie_Render;%20Render%20track%20to%20a%20Mono%20track%20in%20certain%20channels.lua",
-        "sha256": "0cl7fbafpl16iapq1my64j5z2khp0il3wbhn1rag3l72shy7x2pz"
-      }
-    ],
-    "1.04": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render track to a Mono track in certain channels.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Render/Archie_Render;%20Render%20track%20to%20a%20Mono%20track%20in%20certain%20channels.lua",
-        "sha256": "0pkazvkbks5yll58a3bbn54lfcvp830gsamx11mkdc4h534qd12r"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Render/Archie_Render; Render track to a Mono track in certain channels.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Render/Archie_Render;%20Render%20track%20to%20a%20Mono%20track%20in%20certain%20channels.lua",
-        "sha256": "1f31n9fbyhyqq19r3n1sz85lfhcc26a1w4xkhmcz615ydpd502m2"
-      }
-    ]
-  },
-  "Archie_Cont; Move tracks down or items down depending on focus(skip minimized track).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks down or items down depending on focus(skip minimized track).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Move%20tracks%20down%20or%20items%20down%20depending%20on%20focus(skip%20minimized%20track).lua",
-        "sha256": "0a7kij8frm8cp0ndajfwkn5hrv1nqv0d61a3f0rgrnwh1ffsnny8"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks down or items down depending on focus(skip minimized track).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Move%20tracks%20down%20or%20items%20down%20depending%20on%20focus(skip%20minimized%20track).lua",
-        "sha256": "0a7kij8frm8cp0ndajfwkn5hrv1nqv0d61a3f0rgrnwh1ffsnny8"
+        "path": "Scripts/Archie-ReaScripts/MIDI Inline Editor/Test_.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/264583dc354d793d2712f0e129b8fede642a400b/MIDI%20Inline%20Editor/Test_.lua",
+        "sha256": "0ppxy3aj8yisg25vwzbiq7g97hsvs3hillzmwjkr0zzjnlkx2ixz"
       }
     ],
     "1.02": [
       {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks down or items down depending on focus(skip minimized track).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/6833f64fe546b86bcf2f077d01a84f501bc0e6e6/MAIN/Context/Archie_Cont;%20Move%20tracks%20down%20or%20items%20down%20depending%20on%20focus(skip%20minimized%20track).lua",
-        "sha256": "14nd4haqm5gr2rbm0q701gzcclf0j83fsp6hk8dh5z5n3nkn2xms"
+        "path": "Scripts/Archie-ReaScripts/MIDI Inline Editor/Test_.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/264583dc354d793d2712f0e129b8fede642a400b/MIDI%20Inline%20Editor/Test_.lua",
+        "sha256": "0ppxy3aj8yisg25vwzbiq7g97hsvs3hillzmwjkr0zzjnlkx2ixz"
       }
     ],
     "1.01": [
       {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks down or items down depending on focus(skip minimized track).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Context/Archie_Cont;%20Move%20tracks%20down%20or%20items%20down%20depending%20on%20focus(skip%20minimized%20track).lua",
-        "sha256": "1vb4c8k06qavrbxdcf5ksbgaifpdag1lpflq9sq6gyl5cr3nbxfl"
-      }
-    ]
-  },
-  "Archie_Cont; Move tracks up or items up depending on focus(skip minimized track).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks up or items up depending on focus(skip minimized track).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Move%20tracks%20up%20or%20items%20up%20depending%20on%20focus(skip%20minimized%20track).lua",
-        "sha256": "0r02y1ks3kmr3wk68nd09ncxlydf49xd13vbczkhwcmni4347y0j"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks up or items up depending on focus(skip minimized track).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Move%20tracks%20up%20or%20items%20up%20depending%20on%20focus(skip%20minimized%20track).lua",
-        "sha256": "0r02y1ks3kmr3wk68nd09ncxlydf49xd13vbczkhwcmni4347y0j"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks up or items up depending on focus(skip minimized track).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/6833f64fe546b86bcf2f077d01a84f501bc0e6e6/MAIN/Context/Archie_Cont;%20Move%20tracks%20up%20or%20items%20up%20depending%20on%20focus(skip%20minimized%20track).lua",
-        "sha256": "0frfzmazdc42wslf0r0r58g4f5jb4j9r5k63ddcfnxdizn8qi452"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Move tracks up or items up depending on focus(skip minimized track).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Context/Archie_Cont;%20Move%20tracks%20up%20or%20items%20up%20depending%20on%20focus(skip%20minimized%20track).lua",
-        "sha256": "1gx7781bx2v4d02qfhcxkg8vv5qkwvlavm5bhgc6fyy1dkv8gj21"
-      }
-    ]
-  },
-  "Archie_Cont; Set focus on items - arrange.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Set focus on items - arrange.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Set%20focus%20on%20items%20-%20arrange.lua",
-        "sha256": "0mczvfq6s4b92cn4na7sc1s6apcspcka48sy36kb2wg28v9k7qyb"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Set focus on items - arrange.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Set%20focus%20on%20items%20-%20arrange.lua",
-        "sha256": "0mczvfq6s4b92cn4na7sc1s6apcspcka48sy36kb2wg28v9k7qyb"
+        "path": "Scripts/Archie-ReaScripts/MIDI Inline Editor/Test_.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/70dce61922f2ce3cd7b0499a1058839b6fbc2dc9/MIDI%20Inline%20Editor/Test_.lua",
+        "sha256": "0fifkg0j1ib0jykgg588kkdj3pisw40vzlp9nvbzyzbz48fnf11g"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Set focus on items - arrange.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Context/Archie_Cont;%20Set%20focus%20on%20items%20-%20arrange.lua",
-        "sha256": "1gjjfcdkslnblfvlh27qbiknspsjw9dv36nwg2hb3xvkn57ys3nb"
-      }
-    ]
-  },
-  "Archie_Cont; Set focus on track panels.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Set focus on track panels.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Set%20focus%20on%20track%20panels.lua",
-        "sha256": "0w3dd37jamfm67lfw95zimzdd6ssj305fkn737298fvx1n10qcf1"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Set focus on track panels.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/c501a15db9fb222736e1b517a41eb3c701bd72fa/MAIN/Context/Archie_Cont;%20Set%20focus%20on%20track%20panels.lua",
-        "sha256": "0w3dd37jamfm67lfw95zimzdd6ssj305fkn737298fvx1n10qcf1"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Context/Archie_Cont; Set focus on track panels.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Context/Archie_Cont;%20Set%20focus%20on%20track%20panels.lua",
-        "sha256": "0pzvqbvha2c2xny9m4jf65y0vjd84qldhnnmqws8a666rqy8d42y"
-      }
-    ]
-  },
-  "Archie_MonitorFx; Smart template monitoring Toggle Open Fx in float.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Monitoring/Archie_MonitorFx; Smart template monitoring Toggle Open Fx in float.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Monitoring/Archie_MonitorFx;%20Smart%20template%20monitoring%20Toggle%20Open%20Fx%20in%20float.lua",
-        "sha256": "0lbx8ipg8413qci9vwhzymj3fwyhqn1wrr049bjmh733wjy6snz9"
-      }
-    ],
-    "1.04": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Monitoring/Archie_MonitorFx; Smart template monitoring Toggle Open Fx in float.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/2401ea1636c6f8b8282c812489d0996de10e75ec/MAIN/Monitoring/Archie_MonitorFx;%20Smart%20template%20monitoring%20Toggle%20Open%20Fx%20in%20float.lua",
-        "sha256": "0lbx8ipg8413qci9vwhzymj3fwyhqn1wrr049bjmh733wjy6snz9"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Monitoring/Archie_MonitorFx; Smart template monitoring Toggle Open Fx in float.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/504c316043b991381a91e24c439b4a877491cafa/MAIN/Monitoring/Archie_MonitorFx;%20Smart%20template%20monitoring%20Toggle%20Open%20Fx%20in%20float.lua",
-        "sha256": "0inz4wghpj51b2nk3g5x9p5nh4hx2p3ikxij5lzlwai5cqv6f4zm"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/Monitoring/Archie_MonitorFx; Smart template monitoring Toggle Open Fx in float.lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Monitoring/Archie_MonitorFx;%20Smart%20template%20monitoring%20Toggle%20Open%20Fx%20in%20float.lua",
-        "sha256": "19bf2ak9y0wabc8dyi76f1id8drlccpkkgmxigs570qamks4k7wp"
-      }
-    ]
-  },
-  "Archie_File; Clean current project directory(ctrl- user input path).lua": {
-    "latest": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/File/Archie_File; Clean current project directory(ctrl- user input path).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/File/Archie_File;%20Clean%20current%20project%20directory(ctrl-%20user%20input%20path).lua",
-        "sha256": "0kv5sqshnq3g1ydin6rrixddn4j4n247c4v57lvgsx2q5j5hbnd2"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/File/Archie_File; Clean current project directory(ctrl- user input path).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/File/Archie_File;%20Clean%20current%20project%20directory(ctrl-%20user%20input%20path).lua",
-        "sha256": "0kv5sqshnq3g1ydin6rrixddn4j4n247c4v57lvgsx2q5j5hbnd2"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Archie-ReaScripts/MAIN/File/Archie_File; Clean current project directory(ctrl- user input path).lua",
-        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/File/Archie_File;%20Clean%20current%20project%20directory(ctrl-%20user%20input%20path).lua",
-        "sha256": "06dhm943gasvpkvv711cvy67lxcfilqzmch6ij12ghwf28f639cq"
+        "path": "Scripts/Archie-ReaScripts/MIDI Inline Editor/Test_.lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/9e530e62ecf2e654206266df1b7dd96a04496e50/MIDI%20Inline%20Editor/Test_.lua",
+        "sha256": "1yi20m0j6ar7ng3fx47m4ywzlyn2ax88c5ak2zk1c4mqqk9fqwjx"
       }
     ]
   },
@@ -19495,6 +19472,29 @@
         "path": "Scripts/Archie-ReaScripts/MAIN/Playback/Archie_Playback; Toggle stop playback at end of time selection.lua",
         "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/Playback/Archie_Playback;%20Toggle%20stop%20playback%20at%20end%20of%20time%20selection.lua",
         "sha256": "01glxxnl1c2626y4db0wcqp8xgna21r31h4z16kzg2wjmvfy82h9"
+      }
+    ]
+  },
+  "Archie_File; Clean current project directory(ctrl- user input path).lua": {
+    "latest": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/File/Archie_File; Clean current project directory(ctrl- user input path).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/File/Archie_File;%20Clean%20current%20project%20directory(ctrl-%20user%20input%20path).lua",
+        "sha256": "0kv5sqshnq3g1ydin6rrixddn4j4n247c4v57lvgsx2q5j5hbnd2"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/File/Archie_File; Clean current project directory(ctrl- user input path).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/afd5d0b3726eb229a22494ee35b71574bfcf2d4a/MAIN/File/Archie_File;%20Clean%20current%20project%20directory(ctrl-%20user%20input%20path).lua",
+        "sha256": "0kv5sqshnq3g1ydin6rrixddn4j4n247c4v57lvgsx2q5j5hbnd2"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Archie-ReaScripts/MAIN/File/Archie_File; Clean current project directory(ctrl- user input path).lua",
+        "url": "https://github.com/ArchieScript/Archie_ReaScripts/raw/086111415f515a3a968dc5f9c78585eaf585f244/MAIN/File/Archie_File;%20Clean%20current%20project%20directory(ctrl-%20user%20input%20path).lua",
+        "sha256": "06dhm943gasvpkvv711cvy67lxcfilqzmch6ij12ghwf28f639cq"
       }
     ]
   }

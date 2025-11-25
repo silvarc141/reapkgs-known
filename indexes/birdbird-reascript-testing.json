@@ -8230,6 +8230,68 @@
       }
     ]
   },
+  "BirdBird_Very Important Compressor.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/BirdBird_Very Important Compressor.jsfx",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/d86a1864989a7253b29a4c9044f512dc6539f592/Very%20Important%20Compressor/BirdBird_Very%20Important%20Compressor.jsfx",
+        "sha256": "14q744j9lzzi808ddz5dvha4qwfas9ywp46x1nx1wf36ylw1imqw"
+      },
+      {
+        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/vic_dependencies/very_important_file.ogg",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/d86a1864989a7253b29a4c9044f512dc6539f592/Very%20Important%20Compressor/vic_dependencies/very_important_file.ogg",
+        "sha256": "04gh3s8z19fcwqgxrqs9yp2cqz2p8yspsn64h8cggrba321raip2"
+      }
+    ],
+    "0.99.3": [
+      {
+        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/BirdBird_Very Important Compressor.jsfx",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/d86a1864989a7253b29a4c9044f512dc6539f592/Very%20Important%20Compressor/BirdBird_Very%20Important%20Compressor.jsfx",
+        "sha256": "14q744j9lzzi808ddz5dvha4qwfas9ywp46x1nx1wf36ylw1imqw"
+      },
+      {
+        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/vic_dependencies/very_important_file.ogg",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/d86a1864989a7253b29a4c9044f512dc6539f592/Very%20Important%20Compressor/vic_dependencies/very_important_file.ogg",
+        "sha256": "04gh3s8z19fcwqgxrqs9yp2cqz2p8yspsn64h8cggrba321raip2"
+      }
+    ],
+    "0.99.2": [
+      {
+        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/BirdBird_Very Important Compressor.jsfx",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/3c8b8943c178c7f8c62656ccdd26fdf538fe68f5/Very%20Important%20Compressor/BirdBird_Very%20Important%20Compressor.jsfx",
+        "sha256": "0zy6985dkl9pbcqc1sqrj65xqfmd0m2bbwr61yi2zbfirdbjnvdn"
+      },
+      {
+        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/vic_dependencies/very_important_file.ogg",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/3c8b8943c178c7f8c62656ccdd26fdf538fe68f5/Very%20Important%20Compressor/vic_dependencies/very_important_file.ogg",
+        "sha256": "04gh3s8z19fcwqgxrqs9yp2cqz2p8yspsn64h8cggrba321raip2"
+      }
+    ],
+    "0.99.1": [
+      {
+        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/BirdBird_Very Important Compressor.jsfx",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/281f5db337c97c7290d8248b9059c8b4e3ec0ebe/Very%20Important%20Compressor/BirdBird_Very%20Important%20Compressor.jsfx",
+        "sha256": "17la6zqxcip7azs6zqzk3q3ql00v0kikmi4ggw0x11s6zkyxkikl"
+      },
+      {
+        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/vic_dependencies/very_important_file.mp3",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/281f5db337c97c7290d8248b9059c8b4e3ec0ebe/Very%20Important%20Compressor/vic_dependencies/very_important_file.mp3",
+        "sha256": "0jw6v96r3dxac203nz6riymragb6na4g0icncnxbs3j3maagsgb7"
+      }
+    ],
+    "0.99": [
+      {
+        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/BirdBird_Very Important Compressor.jsfx",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/d7102416031c2d3c4fdd306d1577f44907efd3f5/Very%20Important%20Compressor/BirdBird_Very%20Important%20Compressor.jsfx",
+        "sha256": "094lm6szxla2qz54glvz60lydm8l40ah358bsvp8p85bxz099vaz"
+      },
+      {
+        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/vic_dependencies/very_important_file.mp3",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/d7102416031c2d3c4fdd306d1577f44907efd3f5/Very%20Important%20Compressor/vic_dependencies/very_important_file.mp3",
+        "sha256": "0jw6v96r3dxac203nz6riymragb6na4g0icncnxbs3j3maagsgb7"
+      }
+    ]
+  },
   "BirdBird_Project Tab Sets.lua": {
     "latest": [
       {
@@ -8323,68 +8385,6 @@
         "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/theme.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/theme.lua",
         "sha256": "0xira2xy55bchg8rdy6ip4qmvwwknqp46xscfnsxav3nyc4wm2hr"
-      }
-    ]
-  },
-  "BirdBird_Very Important Compressor.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/BirdBird_Very Important Compressor.jsfx",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/d86a1864989a7253b29a4c9044f512dc6539f592/Very%20Important%20Compressor/BirdBird_Very%20Important%20Compressor.jsfx",
-        "sha256": "14q744j9lzzi808ddz5dvha4qwfas9ywp46x1nx1wf36ylw1imqw"
-      },
-      {
-        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/vic_dependencies/very_important_file.ogg",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/d86a1864989a7253b29a4c9044f512dc6539f592/Very%20Important%20Compressor/vic_dependencies/very_important_file.ogg",
-        "sha256": "04gh3s8z19fcwqgxrqs9yp2cqz2p8yspsn64h8cggrba321raip2"
-      }
-    ],
-    "0.99.3": [
-      {
-        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/BirdBird_Very Important Compressor.jsfx",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/d86a1864989a7253b29a4c9044f512dc6539f592/Very%20Important%20Compressor/BirdBird_Very%20Important%20Compressor.jsfx",
-        "sha256": "14q744j9lzzi808ddz5dvha4qwfas9ywp46x1nx1wf36ylw1imqw"
-      },
-      {
-        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/vic_dependencies/very_important_file.ogg",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/d86a1864989a7253b29a4c9044f512dc6539f592/Very%20Important%20Compressor/vic_dependencies/very_important_file.ogg",
-        "sha256": "04gh3s8z19fcwqgxrqs9yp2cqz2p8yspsn64h8cggrba321raip2"
-      }
-    ],
-    "0.99.2": [
-      {
-        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/BirdBird_Very Important Compressor.jsfx",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/3c8b8943c178c7f8c62656ccdd26fdf538fe68f5/Very%20Important%20Compressor/BirdBird_Very%20Important%20Compressor.jsfx",
-        "sha256": "0zy6985dkl9pbcqc1sqrj65xqfmd0m2bbwr61yi2zbfirdbjnvdn"
-      },
-      {
-        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/vic_dependencies/very_important_file.ogg",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/3c8b8943c178c7f8c62656ccdd26fdf538fe68f5/Very%20Important%20Compressor/vic_dependencies/very_important_file.ogg",
-        "sha256": "04gh3s8z19fcwqgxrqs9yp2cqz2p8yspsn64h8cggrba321raip2"
-      }
-    ],
-    "0.99.1": [
-      {
-        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/BirdBird_Very Important Compressor.jsfx",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/281f5db337c97c7290d8248b9059c8b4e3ec0ebe/Very%20Important%20Compressor/BirdBird_Very%20Important%20Compressor.jsfx",
-        "sha256": "17la6zqxcip7azs6zqzk3q3ql00v0kikmi4ggw0x11s6zkyxkikl"
-      },
-      {
-        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/vic_dependencies/very_important_file.mp3",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/281f5db337c97c7290d8248b9059c8b4e3ec0ebe/Very%20Important%20Compressor/vic_dependencies/very_important_file.mp3",
-        "sha256": "0jw6v96r3dxac203nz6riymragb6na4g0icncnxbs3j3maagsgb7"
-      }
-    ],
-    "0.99": [
-      {
-        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/BirdBird_Very Important Compressor.jsfx",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/d7102416031c2d3c4fdd306d1577f44907efd3f5/Very%20Important%20Compressor/BirdBird_Very%20Important%20Compressor.jsfx",
-        "sha256": "094lm6szxla2qz54glvz60lydm8l40ah358bsvp8p85bxz099vaz"
-      },
-      {
-        "path": "Effects/BirdBird ReaScript Testing/Very Important Compressor/vic_dependencies/very_important_file.mp3",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/d7102416031c2d3c4fdd306d1577f44907efd3f5/Very%20Important%20Compressor/vic_dependencies/very_important_file.mp3",
-        "sha256": "0jw6v96r3dxac203nz6riymragb6na4g0icncnxbs3j3maagsgb7"
       }
     ]
   },

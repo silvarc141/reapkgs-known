@@ -1,57 +1,208 @@
 {
-  "philranger_GUI and Audio Library.jsfx": {
+  "Loudener.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library.jsfx",
-        "sha256": "0gwmmszckrlbxr4scmpz09yqa249mw1yqg0gj6r7x9gd9wjfq5hw"
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener.jsfx",
+        "sha256": "182r9y46id2qcjaa197y1zn4db9sn9qpjsxw3fn4fyvliv6vjp9j"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/Highlight.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Highlight.png",
-        "sha256": "1xbj2y6xhfrwkp18rjj0mliarwwzh3lq7w86chgj5z89m860b6z1"
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/bg.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/bg.png",
+        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/Knob.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Knob.png",
-        "sha256": "09mwpfsj1rwvrx1hjky6x69mn40kdl7j2jyq9vgdl5hrbp9w34hc"
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_off.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_off.png",
+        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/PhilRangerAudioLibraryAlpha2.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/PhilRangerAudioLibraryAlpha2.jsfx-inc",
-        "sha256": "0sqc7xddyq8ay2khd49229yj80lh1xbl1nmfpq60snjki5wwyh39"
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_on.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_on.png",
+        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/Switch.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Switch.png",
-        "sha256": "1hmscc35xgh5xlx5ac1wwaxxl3p4in063lv7z6svx69ixswaa6v9"
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/handle.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/handle.png",
+        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
       }
     ],
-    "0.Alpha2": [
+    "1.2": [
       {
-        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library.jsfx",
-        "sha256": "0gwmmszckrlbxr4scmpz09yqa249mw1yqg0gj6r7x9gd9wjfq5hw"
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener.jsfx",
+        "sha256": "182r9y46id2qcjaa197y1zn4db9sn9qpjsxw3fn4fyvliv6vjp9j"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/Highlight.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Highlight.png",
-        "sha256": "1xbj2y6xhfrwkp18rjj0mliarwwzh3lq7w86chgj5z89m860b6z1"
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/bg.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/bg.png",
+        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/Knob.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Knob.png",
-        "sha256": "09mwpfsj1rwvrx1hjky6x69mn40kdl7j2jyq9vgdl5hrbp9w34hc"
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_off.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_off.png",
+        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/PhilRangerAudioLibraryAlpha2.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/PhilRangerAudioLibraryAlpha2.jsfx-inc",
-        "sha256": "0sqc7xddyq8ay2khd49229yj80lh1xbl1nmfpq60snjki5wwyh39"
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_on.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_on.png",
+        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/Switch.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Switch.png",
-        "sha256": "1hmscc35xgh5xlx5ac1wwaxxl3p4in063lv7z6svx69ixswaa6v9"
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/handle.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/handle.png",
+        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener.jsfx",
+        "sha256": "0g19nq9fiiahmk6akbxbdidvfaw8iwa9h3i4mx0fy05y98yax1qx"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/bg.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/bg.png",
+        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_off.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/button_off.png",
+        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_on.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/button_on.png",
+        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/handle.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/handle.png",
+        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/Loudener.jsfx",
+        "sha256": "0bngxkaiffp6g05ng58894kj9nxwccvv834g6v5qfvip4vnlkb5m"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/bg.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/bg.png",
+        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/button_off.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/button_off.png",
+        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/button_on.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/button_on.png",
+        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/handle.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/handle.png",
+        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
+      }
+    ]
+  },
+  "RCInflator2_Ideal.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Ideal.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Ideal.jsfx",
+        "sha256": "1m24vsbikybyl7w1xhyhybg9w660z9afrrxh9f2fx2jxxzgd2f0j"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Ideal.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Ideal.jsfx",
+        "sha256": "1m24vsbikybyl7w1xhyhybg9w660z9afrrxh9f2fx2jxxzgd2f0j"
+      }
+    ]
+  },
+  "RCInflator2_Oxford.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Oxford.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Oxford.jsfx",
+        "sha256": "0cammydp9s0sdc5ih2ix1bfn4n87krdf3lpqk7j51rb8yx0v2rjw"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Oxford.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Oxford.jsfx",
+        "sha256": "0cammydp9s0sdc5ih2ix1bfn4n87krdf3lpqk7j51rb8yx0v2rjw"
+      }
+    ]
+  },
+  "TiaR_Ze Morpho Dist.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist.jsfx",
+        "sha256": "0hf02m2xwqnn1jl473qf156zbh70fv2y6hzv7356lly2hikj4jdj"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist/ZeMorphoDistIII.RPL",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist/ZeMorphoDistIII.RPL",
+        "sha256": "14bxfhz5wrbfwj5ssfm2mkm19dzhjixg3sg5vffkncyf1xcjny9z"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist.jsfx",
+        "sha256": "0hf02m2xwqnn1jl473qf156zbh70fv2y6hzv7356lly2hikj4jdj"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist/ZeMorphoDistIII.RPL",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist/ZeMorphoDistIII.RPL",
+        "sha256": "14bxfhz5wrbfwj5ssfm2mkm19dzhjixg3sg5vffkncyf1xcjny9z"
+      }
+    ]
+  },
+  "rcjach_RCInflator.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/rcjach_RCInflator.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/rcjach_RCInflator.jsfx",
+        "sha256": "060jc4fh0jigrqzax4baz0i1hpxj9l07ywy9n87l0hhfkszr7f58"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/rcjach_RCInflator.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/rcjach_RCInflator.jsfx",
+        "sha256": "060jc4fh0jigrqzax4baz0i1hpxj9l07ywy9n87l0hhfkszr7f58"
+      }
+    ]
+  },
+  "reincore_MegaGrit.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/reincore_MegaGrit.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/9ff4669c904ab09d2109007e66d3eb1ecafeae11/Distortion/reincore_MegaGrit.jsfx",
+        "sha256": "0p595x67q442k7yy9q7hzwr58wgx1dzpkbq7a1ygy2b0n890vsc1"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/reincore_MegaGrit.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/9ff4669c904ab09d2109007e66d3eb1ecafeae11/Distortion/reincore_MegaGrit.jsfx",
+        "sha256": "0p595x67q442k7yy9q7hzwr58wgx1dzpkbq7a1ygy2b0n890vsc1"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/ReaTeam JSFX/Distortion/reincore_MegaGrit.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/2e992d33e9fa76af1df04ba34e74c043cd2059dc/Distortion/reincore_MegaGrit.jsfx",
+        "sha256": "0xzih2j9dadl549g4agb5zbl4q42s0jrqqsgk7z2biy9s6fb3zc8"
       }
     ]
   },
@@ -12817,210 +12968,131 @@
       }
     ]
   },
-  "Loudener.jsfx": {
+  "TiaR_Lattice Filter.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener.jsfx",
-        "sha256": "182r9y46id2qcjaa197y1zn4db9sn9qpjsxw3fn4fyvliv6vjp9j"
+        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter.jsfx",
+        "sha256": "15ak7g69dqm1pz2gs3ydss3c0hw6r4i0cmp3x82qrgagm6f6bsxx"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/bg.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/bg.png",
-        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_off.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_off.png",
-        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_on.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_on.png",
-        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/handle.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/handle.png",
-        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener.jsfx",
-        "sha256": "182r9y46id2qcjaa197y1zn4db9sn9qpjsxw3fn4fyvliv6vjp9j"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/bg.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/bg.png",
-        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_off.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_off.png",
-        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_on.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/button_on.png",
-        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/handle.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/Loudener_gfx/handle.png",
-        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener.jsfx",
-        "sha256": "0g19nq9fiiahmk6akbxbdidvfaw8iwa9h3i4mx0fy05y98yax1qx"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/bg.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/bg.png",
-        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_off.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/button_off.png",
-        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/button_on.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/button_on.png",
-        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener_gfx/handle.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/bd44f8ce1b04d0141f2fdd078e5cf1ccff6e0866/Distortion/Loudener_gfx/handle.png",
-        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
+        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter/TiaR_LFX_01.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter/TiaR_LFX_01.jsfx-inc",
+        "sha256": "0dcdl7mr8sn2hgarivywfjh83q32l8gj4yzrfv6pn151nqba7zh5"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/Loudener.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/Loudener.jsfx",
-        "sha256": "0bngxkaiffp6g05ng58894kj9nxwccvv834g6v5qfvip4vnlkb5m"
+        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter.jsfx",
+        "sha256": "15ak7g69dqm1pz2gs3ydss3c0hw6r4i0cmp3x82qrgagm6f6bsxx"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/bg.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/bg.png",
-        "sha256": "17scl9vc5bx7l2d25rw822f9n6i7fy2ba2iza417mjwq121k3177"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/button_off.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/button_off.png",
-        "sha256": "14nzsmjjcv33ixxa2l03ynwz3mnf86snhi8l83f5jgyj9w5qqzl6"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/button_on.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/button_on.png",
-        "sha256": "1wyizl24bid2nkcfvyhlzrvfmhkdpzg7msz06d4ln0x7gc139nc5"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/loudener_gfx/handle.png",
-        "url": "https://github.com/ReaTeam/JSFX/raw/c3f3b2f63228c427948278da6fb4bad25a9e509f/Distortion/loudener_gfx/handle.png",
-        "sha256": "16grgz50dl9sk41p34yzv6jz5nrjzgjm8dljx476c802xxc4l40h"
+        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter/TiaR_LFX_01.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter/TiaR_LFX_01.jsfx-inc",
+        "sha256": "0dcdl7mr8sn2hgarivywfjh83q32l8gj4yzrfv6pn151nqba7zh5"
       }
     ]
   },
-  "RCInflator2_Ideal.jsfx": {
+  "bellesondes_eq1979.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Ideal.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Ideal.jsfx",
-        "sha256": "1m24vsbikybyl7w1xhyhybg9w660z9afrrxh9f2fx2jxxzgd2f0j"
+        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/a4f947bacae231a01ff6229fb1df3411fdfeef5f/Filter/bellesondes_eq1979.jsfx",
+        "sha256": "0gj1mdkpf6v7zmp7l9615rym55zv2l4kb1bgziwqyi5j8a6cgxkb"
       }
     ],
-    "1.0": [
+    "0.95": [
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Ideal.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Ideal.jsfx",
-        "sha256": "1m24vsbikybyl7w1xhyhybg9w660z9afrrxh9f2fx2jxxzgd2f0j"
+        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/a4f947bacae231a01ff6229fb1df3411fdfeef5f/Filter/bellesondes_eq1979.jsfx",
+        "sha256": "0gj1mdkpf6v7zmp7l9615rym55zv2l4kb1bgziwqyi5j8a6cgxkb"
+      }
+    ],
+    "0.92": [
+      {
+        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/f1105ff08e915260ac414e5ab33e4346c87f75d7/Filter/bellesondes_eq1979.jsfx",
+        "sha256": "0jrcpz6mvabm3qkfxdd9n2jm7z6n1p9vifqyv0720ajxjw1959jh"
+      }
+    ],
+    "0.9": [
+      {
+        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/a81a54773a9c24066eea10d6b8b1af2dc7a8871a/Filter/bellesondes_eq1979.jsfx",
+        "sha256": "113jk9kslmzzy6792cyr5wdkphgl67qq8hrzk40jqrpn4sx2zp5a"
       }
     ]
   },
-  "RCInflator2_Oxford.jsfx": {
+  "tilr_QuickFilter.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Oxford.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Oxford.jsfx",
-        "sha256": "0cammydp9s0sdc5ih2ix1bfn4n87krdf3lpqk7j51rb8yx0v2rjw"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/RCInflator2_Oxford.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/RCInflator2_Oxford.jsfx",
-        "sha256": "0cammydp9s0sdc5ih2ix1bfn4n87krdf3lpqk7j51rb8yx0v2rjw"
-      }
-    ]
-  },
-  "TiaR_Ze Morpho Dist.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist.jsfx",
-        "sha256": "0hf02m2xwqnn1jl473qf156zbh70fv2y6hzv7356lly2hikj4jdj"
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter.jsfx",
+        "sha256": "095syld3hl9znxl0fg03d0limim4ifbm6ks7lhak210gnw9aw0fk"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist/ZeMorphoDistIII.RPL",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist/ZeMorphoDistIII.RPL",
-        "sha256": "14bxfhz5wrbfwj5ssfm2mkm19dzhjixg3sg5vffkncyf1xcjny9z"
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
+        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist.jsfx",
-        "sha256": "0hf02m2xwqnn1jl473qf156zbh70fv2y6hzv7356lly2hikj4jdj"
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter.jsfx",
+        "sha256": "095syld3hl9znxl0fg03d0limim4ifbm6ks7lhak210gnw9aw0fk"
       },
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/TiaR_Ze Morpho Dist/ZeMorphoDistIII.RPL",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Distortion/TiaR_Ze%20Morpho%20Dist/ZeMorphoDistIII.RPL",
-        "sha256": "14bxfhz5wrbfwj5ssfm2mkm19dzhjixg3sg5vffkncyf1xcjny9z"
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
+        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
       }
     ]
   },
-  "rcjach_RCInflator.jsfx": {
+  "tilr_SKFilter.jsfx": {
     "latest": [
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/rcjach_RCInflator.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/rcjach_RCInflator.jsfx",
-        "sha256": "060jc4fh0jigrqzax4baz0i1hpxj9l07ywy9n87l0hhfkszr7f58"
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter.jsfx",
+        "sha256": "1apjjbylbq28lpv1ba7835fbwd9v0r3989m4qy1bk677zx7r8bdp"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "sha256": "1afwcmgw1hw0wnd273h8lfp5w5j0qrph6rg1f356r8lg1xb98513"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/rcjach_RCInflator.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2ab83011ebb4e10130c5614e864b46235e0680d3/Distortion/rcjach_RCInflator.jsfx",
-        "sha256": "060jc4fh0jigrqzax4baz0i1hpxj9l07ywy9n87l0hhfkszr7f58"
-      }
-    ]
-  },
-  "reincore_MegaGrit.jsfx": {
-    "latest": [
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter.jsfx",
+        "sha256": "1apjjbylbq28lpv1ba7835fbwd9v0r3989m4qy1bk677zx7r8bdp"
+      },
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/reincore_MegaGrit.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/9ff4669c904ab09d2109007e66d3eb1ecafeae11/Distortion/reincore_MegaGrit.jsfx",
-        "sha256": "0p595x67q442k7yy9q7hzwr58wgx1dzpkbq7a1ygy2b0n890vsc1"
-      }
-    ],
-    "2.0": [
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "sha256": "1afwcmgw1hw0wnd273h8lfp5w5j0qrph6rg1f356r8lg1xb98513"
+      },
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/reincore_MegaGrit.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/9ff4669c904ab09d2109007e66d3eb1ecafeae11/Distortion/reincore_MegaGrit.jsfx",
-        "sha256": "0p595x67q442k7yy9q7hzwr58wgx1dzpkbq7a1ygy2b0n890vsc1"
-      }
-    ],
-    "1.0": [
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
+      },
       {
-        "path": "Effects/ReaTeam JSFX/Distortion/reincore_MegaGrit.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/2e992d33e9fa76af1df04ba34e74c043cd2059dc/Distortion/reincore_MegaGrit.jsfx",
-        "sha256": "0xzih2j9dadl549g4agb5zbl4q42s0jrqqsgk7z2biy9s6fb3zc8"
+        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
+        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
       }
     ]
   },
@@ -13151,6 +13223,62 @@
       }
     ]
   },
+  "philranger_GUI and Audio Library.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library.jsfx",
+        "sha256": "0gwmmszckrlbxr4scmpz09yqa249mw1yqg0gj6r7x9gd9wjfq5hw"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/Highlight.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Highlight.png",
+        "sha256": "1xbj2y6xhfrwkp18rjj0mliarwwzh3lq7w86chgj5z89m860b6z1"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/Knob.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Knob.png",
+        "sha256": "09mwpfsj1rwvrx1hjky6x69mn40kdl7j2jyq9vgdl5hrbp9w34hc"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/PhilRangerAudioLibraryAlpha2.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/PhilRangerAudioLibraryAlpha2.jsfx-inc",
+        "sha256": "0sqc7xddyq8ay2khd49229yj80lh1xbl1nmfpq60snjki5wwyh39"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/Switch.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Switch.png",
+        "sha256": "1hmscc35xgh5xlx5ac1wwaxxl3p4in063lv7z6svx69ixswaa6v9"
+      }
+    ],
+    "0.Alpha2": [
+      {
+        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library.jsfx",
+        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library.jsfx",
+        "sha256": "0gwmmszckrlbxr4scmpz09yqa249mw1yqg0gj6r7x9gd9wjfq5hw"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/Highlight.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Highlight.png",
+        "sha256": "1xbj2y6xhfrwkp18rjj0mliarwwzh3lq7w86chgj5z89m860b6z1"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/Knob.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Knob.png",
+        "sha256": "09mwpfsj1rwvrx1hjky6x69mn40kdl7j2jyq9vgdl5hrbp9w34hc"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/PhilRangerAudioLibraryAlpha2.jsfx-inc",
+        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/PhilRangerAudioLibraryAlpha2.jsfx-inc",
+        "sha256": "0sqc7xddyq8ay2khd49229yj80lh1xbl1nmfpq60snjki5wwyh39"
+      },
+      {
+        "path": "Effects/ReaTeam JSFX/Development/philranger_GUI and Audio Library/Switch.png",
+        "url": "https://github.com/ReaTeam/JSFX/raw/31d05a54d3f7ffdefa828912261464c63bc47e99/Development/philranger_GUI%20and%20Audio%20Library/Switch.png",
+        "sha256": "1hmscc35xgh5xlx5ac1wwaxxl3p4in063lv7z6svx69ixswaa6v9"
+      }
+    ]
+  },
   "ersh_Transient Controller 2.jsfx": {
     "latest": [
       {
@@ -13203,134 +13331,6 @@
         "path": "Effects/ReaTeam JSFX/Dynamic/sinefabula_Hard Clipper.jsfx",
         "url": "https://github.com/ReaTeam/JSFX/raw/4fc0cd87b046cbee6c7a5d916fb8207b276cb01f/Dynamic/sinefabula_Hard%20Clipper.jsfx",
         "sha256": "1l4n1lc4cqyf2hba8l170dpj2j33hf55fnyipagf8dp8zq5bihl9"
-      }
-    ]
-  },
-  "TiaR_Lattice Filter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter.jsfx",
-        "sha256": "15ak7g69dqm1pz2gs3ydss3c0hw6r4i0cmp3x82qrgagm6f6bsxx"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter/TiaR_LFX_01.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter/TiaR_LFX_01.jsfx-inc",
-        "sha256": "0dcdl7mr8sn2hgarivywfjh83q32l8gj4yzrfv6pn151nqba7zh5"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter.jsfx",
-        "sha256": "15ak7g69dqm1pz2gs3ydss3c0hw6r4i0cmp3x82qrgagm6f6bsxx"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/TiaR_Lattice Filter/TiaR_LFX_01.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/4a33bbe6110bf1c5f37430bf245bbd058512148e/Filter/TiaR_Lattice%20Filter/TiaR_LFX_01.jsfx-inc",
-        "sha256": "0dcdl7mr8sn2hgarivywfjh83q32l8gj4yzrfv6pn151nqba7zh5"
-      }
-    ]
-  },
-  "bellesondes_eq1979.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/a4f947bacae231a01ff6229fb1df3411fdfeef5f/Filter/bellesondes_eq1979.jsfx",
-        "sha256": "0gj1mdkpf6v7zmp7l9615rym55zv2l4kb1bgziwqyi5j8a6cgxkb"
-      }
-    ],
-    "0.95": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/a4f947bacae231a01ff6229fb1df3411fdfeef5f/Filter/bellesondes_eq1979.jsfx",
-        "sha256": "0gj1mdkpf6v7zmp7l9615rym55zv2l4kb1bgziwqyi5j8a6cgxkb"
-      }
-    ],
-    "0.92": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/f1105ff08e915260ac414e5ab33e4346c87f75d7/Filter/bellesondes_eq1979.jsfx",
-        "sha256": "0jrcpz6mvabm3qkfxdd9n2jm7z6n1p9vifqyv0720ajxjw1959jh"
-      }
-    ],
-    "0.9": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/bellesondes_eq1979.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/a81a54773a9c24066eea10d6b8b1af2dc7a8871a/Filter/bellesondes_eq1979.jsfx",
-        "sha256": "113jk9kslmzzy6792cyr5wdkphgl67qq8hrzk40jqrpn4sx2zp5a"
-      }
-    ]
-  },
-  "tilr_QuickFilter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter.jsfx",
-        "sha256": "095syld3hl9znxl0fg03d0limim4ifbm6ks7lhak210gnw9aw0fk"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
-        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter.jsfx",
-        "sha256": "095syld3hl9znxl0fg03d0limim4ifbm6ks7lhak210gnw9aw0fk"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/72270f4963a7ba07cbce46f012eb68a837ce0f5d/Filter/tilr_QuickFilter/qf.svf_filter.jsfx-inc",
-        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
-      }
-    ]
-  },
-  "tilr_SKFilter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter.jsfx",
-        "sha256": "1apjjbylbq28lpv1ba7835fbwd9v0r3989m4qy1bk677zx7r8bdp"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "sha256": "1afwcmgw1hw0wnd273h8lfp5w5j0qrph6rg1f356r8lg1xb98513"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter.jsfx",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter.jsfx",
-        "sha256": "1apjjbylbq28lpv1ba7835fbwd9v0r3989m4qy1bk677zx7r8bdp"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "sha256": "1afwcmgw1hw0wnd273h8lfp5w5j0qrph6rg1f356r8lg1xb98513"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
-      },
-      {
-        "path": "Effects/ReaTeam JSFX/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
-        "url": "https://github.com/ReaTeam/JSFX/raw/e784f0c66e5c1e8ee26741987135687ca8a8a7df/Filter/tilr_SKFilter/skf.Saike_Yutani_upsamplers",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
       }
     ]
   },

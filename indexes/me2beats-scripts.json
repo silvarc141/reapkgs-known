@@ -4150,131 +4150,259 @@
       }
     ]
   },
-  "me2beats_Adjust grid (mousewheel).lua": {
+  "me2beats_Go to first playing project.lua": {
     "latest": [
       {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Adjust grid (mousewheel).lua",
-        "url": "https://github.com/me2beats/reapack/raw/a6b8c49d2115c5bf10645e6b7756a3e63249fd95/Other/me2beats_Adjust%20grid%20(mousewheel).lua",
-        "sha256": "1fgmwj5na8n3r8d4hzgzznvibiwszchbhcwa1yi35ywfcrmd2zfn"
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to first playing project.lua",
+        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20first%20playing%20project.lua",
+        "sha256": "1wvmf85pxdjr70bcl264fi76xj8kcmklc6k2kv83g760hkj4p58g"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Adjust grid (mousewheel).lua",
-        "url": "https://github.com/me2beats/reapack/raw/a6b8c49d2115c5bf10645e6b7756a3e63249fd95/Other/me2beats_Adjust%20grid%20(mousewheel).lua",
-        "sha256": "1fgmwj5na8n3r8d4hzgzznvibiwszchbhcwa1yi35ywfcrmd2zfn"
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to first playing project.lua",
+        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20first%20playing%20project.lua",
+        "sha256": "1wvmf85pxdjr70bcl264fi76xj8kcmklc6k2kv83g760hkj4p58g"
       }
     ]
   },
-  "me2beats_Adjust metronome volume.lua": {
+  "me2beats_Go to first project tab.lua": {
     "latest": [
       {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Adjust metronome volume.lua",
-        "url": "https://github.com/me2beats/reapack/raw/b9ae21ec1e7070f3aa18844965753549a07f05be/Other/me2beats_Adjust%20metronome%20volume.lua",
-        "sha256": "15rxkf1ysxm52gpfv0fj2557ypzj4bh8bmx6zawv6hr24vl4gj5q"
-      }
-    ],
-    "0.5": [
-      {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Adjust metronome volume.lua",
-        "url": "https://github.com/me2beats/reapack/raw/b9ae21ec1e7070f3aa18844965753549a07f05be/Other/me2beats_Adjust%20metronome%20volume.lua",
-        "sha256": "15rxkf1ysxm52gpfv0fj2557ypzj4bh8bmx6zawv6hr24vl4gj5q"
-      }
-    ]
-  },
-  "me2beats_Close toolbar 1.lua": {
-    "latest": [
-      {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Close toolbar 1.lua",
-        "url": "https://github.com/me2beats/reapack/raw/b2334ff93e307bd3727e40569e8bacca2efb4279/Other/me2beats_Close%20toolbar%201.lua",
-        "sha256": "0b5wfs761ad1szhf4gp21152l7fw791kdqrk903rf1znx5scbkhv"
-      }
-    ],
-    "0.5": [
-      {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Close toolbar 1.lua",
-        "url": "https://github.com/me2beats/reapack/raw/b2334ff93e307bd3727e40569e8bacca2efb4279/Other/me2beats_Close%20toolbar%201.lua",
-        "sha256": "0b5wfs761ad1szhf4gp21152l7fw791kdqrk903rf1znx5scbkhv"
-      }
-    ]
-  },
-  "me2beats_Disable swing grid.lua": {
-    "latest": [
-      {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Disable swing grid.lua",
-        "url": "https://github.com/me2beats/reapack/raw/a1103f6b25003eecbf19313977b9de6eecc750bd/Other/me2beats_Disable%20swing%20grid.lua",
-        "sha256": "0cg4jghgp4x073klv0w0vsjszqm1fvjj601psnkg35bbpr365mpz"
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to first project tab.lua",
+        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Go%20to%20first%20project%20tab.lua",
+        "sha256": "0kzb0pcfv5lcy8yzd9s70sr1wr7pysdx2h6fm05p5aviwb4nm97i"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Disable swing grid.lua",
-        "url": "https://github.com/me2beats/reapack/raw/a1103f6b25003eecbf19313977b9de6eecc750bd/Other/me2beats_Disable%20swing%20grid.lua",
-        "sha256": "0cg4jghgp4x073klv0w0vsjszqm1fvjj601psnkg35bbpr365mpz"
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to first project tab.lua",
+        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Go%20to%20first%20project%20tab.lua",
+        "sha256": "0kzb0pcfv5lcy8yzd9s70sr1wr7pysdx2h6fm05p5aviwb4nm97i"
       }
     ]
   },
-  "me2beats_Enable swing grid.lua": {
+  "me2beats_Go to last playing project.lua": {
     "latest": [
       {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Enable swing grid.lua",
-        "url": "https://github.com/me2beats/reapack/raw/a1103f6b25003eecbf19313977b9de6eecc750bd/Other/me2beats_Enable%20swing%20grid.lua",
-        "sha256": "1y1crwl5slpsf6ax83gdw9yddp8c9y2ck9jqg7xccd4g88y5b8j3"
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to last playing project.lua",
+        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20last%20playing%20project.lua",
+        "sha256": "19yjagkprgnvzgj8300f9s1f2wbvhkx86n923m7jn323psfmh2kb"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Enable swing grid.lua",
-        "url": "https://github.com/me2beats/reapack/raw/a1103f6b25003eecbf19313977b9de6eecc750bd/Other/me2beats_Enable%20swing%20grid.lua",
-        "sha256": "1y1crwl5slpsf6ax83gdw9yddp8c9y2ck9jqg7xccd4g88y5b8j3"
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to last playing project.lua",
+        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20last%20playing%20project.lua",
+        "sha256": "19yjagkprgnvzgj8300f9s1f2wbvhkx86n923m7jn323psfmh2kb"
       }
     ]
   },
-  "me2beats_Open toolbar 1.lua": {
+  "me2beats_Go to last project tab.lua": {
     "latest": [
       {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Open toolbar 1.lua",
-        "url": "https://github.com/me2beats/reapack/raw/b2334ff93e307bd3727e40569e8bacca2efb4279/Other/me2beats_Open%20toolbar%201.lua",
-        "sha256": "00j3j8xcfj24rz3w1j7x2ywmv9z958pabscgqfq70wzlc1ll3ww8"
-      }
-    ],
-    "0.5": [
-      {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Open toolbar 1.lua",
-        "url": "https://github.com/me2beats/reapack/raw/b2334ff93e307bd3727e40569e8bacca2efb4279/Other/me2beats_Open%20toolbar%201.lua",
-        "sha256": "00j3j8xcfj24rz3w1j7x2ywmv9z958pabscgqfq70wzlc1ll3ww8"
-      }
-    ]
-  },
-  "me2beats_Restore project grid.lua": {
-    "latest": [
-      {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Restore project grid.lua",
-        "url": "https://github.com/me2beats/reapack/raw/1b46c68578a57ea068b6a38eb363225e461a8c91/Other/me2beats_Restore%20project%20grid.lua",
-        "sha256": "0ccksnnlckwjq1r7bayqiv35517ggpgqb30nahbqvmrxns0g1278"
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to last project tab.lua",
+        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Go%20to%20last%20project%20tab.lua",
+        "sha256": "040s9cw3zrsgqc549s67y5jwp5qwxw4ffd965w6qkv6v32ln85sq"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Restore project grid.lua",
-        "url": "https://github.com/me2beats/reapack/raw/1b46c68578a57ea068b6a38eb363225e461a8c91/Other/me2beats_Restore%20project%20grid.lua",
-        "sha256": "0ccksnnlckwjq1r7bayqiv35517ggpgqb30nahbqvmrxns0g1278"
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to last project tab.lua",
+        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Go%20to%20last%20project%20tab.lua",
+        "sha256": "040s9cw3zrsgqc549s67y5jwp5qwxw4ffd965w6qkv6v32ln85sq"
       }
     ]
   },
-  "me2beats_Save project grid.lua": {
+  "me2beats_Go to next playing project.lua": {
     "latest": [
       {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Save project grid.lua",
-        "url": "https://github.com/me2beats/reapack/raw/1b46c68578a57ea068b6a38eb363225e461a8c91/Other/me2beats_Save%20project%20grid.lua",
-        "sha256": "06pfklkb6944ar2mpqm61yjy4v1p0whcis8sbbl3xxj9c2qx18qi"
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to next playing project.lua",
+        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20next%20playing%20project.lua",
+        "sha256": "09iwvdgps4rhrhkw3r06a8rcpcydavjdpjwdaxcsm0k31ijnmgpy"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/me2beats Scripts/Other/me2beats_Save project grid.lua",
-        "url": "https://github.com/me2beats/reapack/raw/1b46c68578a57ea068b6a38eb363225e461a8c91/Other/me2beats_Save%20project%20grid.lua",
-        "sha256": "06pfklkb6944ar2mpqm61yjy4v1p0whcis8sbbl3xxj9c2qx18qi"
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to next playing project.lua",
+        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20next%20playing%20project.lua",
+        "sha256": "09iwvdgps4rhrhkw3r06a8rcpcydavjdpjwdaxcsm0k31ijnmgpy"
+      }
+    ]
+  },
+  "me2beats_Go to previous playing project.lua": {
+    "latest": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to previous playing project.lua",
+        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20previous%20playing%20project.lua",
+        "sha256": "1ry1xxchv9241mb54kvi5q7p9ln10m5lwrj0vxzm101dj7q4ng3i"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to previous playing project.lua",
+        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20previous%20playing%20project.lua",
+        "sha256": "1ry1xxchv9241mb54kvi5q7p9ln10m5lwrj0vxzm101dj7q4ng3i"
+      }
+    ]
+  },
+  "me2beats_Project tabs - toggle between slots 1-2.lua": {
+    "latest": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Project tabs - toggle between slots 1-2.lua",
+        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Project%20tabs%20-%20toggle%20between%20slots%201-2.lua",
+        "sha256": "18lz5qayjkhalwffzxid9k2iqqmlkx7wn1fy4363gdgm9pzjgdxy"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Project tabs - toggle between slots 1-2.lua",
+        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Project%20tabs%20-%20toggle%20between%20slots%201-2.lua",
+        "sha256": "18lz5qayjkhalwffzxid9k2iqqmlkx7wn1fy4363gdgm9pzjgdxy"
+      }
+    ]
+  },
+  "me2beats_Restore saved project tab, slot 1.lua": {
+    "latest": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Restore saved project tab, slot 1.lua",
+        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Restore%20saved%20project%20tab,%20slot%201.lua",
+        "sha256": "0ksaax0iqxii7rw4fvi634rzq3wkyyvng55gbq1jxwai2ryd9wcz"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Restore saved project tab, slot 1.lua",
+        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Restore%20saved%20project%20tab,%20slot%201.lua",
+        "sha256": "0ksaax0iqxii7rw4fvi634rzq3wkyyvng55gbq1jxwai2ryd9wcz"
+      }
+    ]
+  },
+  "me2beats_Restore saved project tab, slot 2.lua": {
+    "latest": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Restore saved project tab, slot 2.lua",
+        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Restore%20saved%20project%20tab,%20slot%202.lua",
+        "sha256": "09052bf1b1p6nkzpp9kk8jx6h5r9123j36hdaxvnip6ipibpvlbg"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Restore saved project tab, slot 2.lua",
+        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Restore%20saved%20project%20tab,%20slot%202.lua",
+        "sha256": "09052bf1b1p6nkzpp9kk8jx6h5r9123j36hdaxvnip6ipibpvlbg"
+      }
+    ]
+  },
+  "me2beats_Restore saved project tab.lua": {
+    "latest": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Restore saved project tab.lua",
+        "url": "https://github.com/me2beats/reapack/raw/6c44b1d9c2bf4ee39f47d42d4b98a995d93d55d8/Projects/me2beats_Restore%20saved%20project%20tab.lua",
+        "sha256": "1va6ki50kiz9jgp4idl61ldl4sj5h6g5mxmxjsmw1r31zbzbyic8"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Restore saved project tab.lua",
+        "url": "https://github.com/me2beats/reapack/raw/6c44b1d9c2bf4ee39f47d42d4b98a995d93d55d8/Projects/me2beats_Restore%20saved%20project%20tab.lua",
+        "sha256": "1va6ki50kiz9jgp4idl61ldl4sj5h6g5mxmxjsmw1r31zbzbyic8"
+      }
+    ]
+  },
+  "me2beats_Save active project tab, slot 1.lua": {
+    "latest": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save active project tab, slot 1.lua",
+        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Save%20active%20project%20tab,%20slot%201.lua",
+        "sha256": "05jj026xihdawh6z3b4z334ixl8db9hvb8sdb77jmzfnd15bb3cb"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save active project tab, slot 1.lua",
+        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Save%20active%20project%20tab,%20slot%201.lua",
+        "sha256": "05jj026xihdawh6z3b4z334ixl8db9hvb8sdb77jmzfnd15bb3cb"
+      }
+    ]
+  },
+  "me2beats_Save active project tab, slot 2.lua": {
+    "latest": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save active project tab, slot 2.lua",
+        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Save%20active%20project%20tab,%20slot%202.lua",
+        "sha256": "0l2005im0c1n1jcama4xlxw9afcnfrclxrf115hi5j8f9k8khbpf"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save active project tab, slot 2.lua",
+        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Save%20active%20project%20tab,%20slot%202.lua",
+        "sha256": "0l2005im0c1n1jcama4xlxw9afcnfrclxrf115hi5j8f9k8khbpf"
+      }
+    ]
+  },
+  "me2beats_Save active project tab.lua": {
+    "latest": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save active project tab.lua",
+        "url": "https://github.com/me2beats/reapack/raw/6c44b1d9c2bf4ee39f47d42d4b98a995d93d55d8/Projects/me2beats_Save%20active%20project%20tab.lua",
+        "sha256": "14g6849847jjx5qgpjrl172nc85i1dciq2fbjpprq9hjrcyink07"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save active project tab.lua",
+        "url": "https://github.com/me2beats/reapack/raw/6c44b1d9c2bf4ee39f47d42d4b98a995d93d55d8/Projects/me2beats_Save%20active%20project%20tab.lua",
+        "sha256": "14g6849847jjx5qgpjrl172nc85i1dciq2fbjpprq9hjrcyink07"
+      }
+    ]
+  },
+  "me2beats_Save all projects as new versions.lua": {
+    "latest": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save all projects as new versions.lua",
+        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Save%20all%20projects%20as%20new%20versions.lua",
+        "sha256": "0q6icjb5nra2s2fnxx0j196w2klmikppkj465ljw2q67yf6dgi2r"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save all projects as new versions.lua",
+        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Save%20all%20projects%20as%20new%20versions.lua",
+        "sha256": "0q6icjb5nra2s2fnxx0j196w2klmikppkj465ljw2q67yf6dgi2r"
+      }
+    ]
+  },
+  "me2beats_Save all unsaved (dirty) projects as new versions.lua": {
+    "latest": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save all unsaved (dirty) projects as new versions.lua",
+        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Save%20all%20unsaved%20(dirty)%20projects%20as%20new%20versions.lua",
+        "sha256": "17ffa1daxw0nz9lic8d4fd02jjkf5dm087sk2iis46dhm0h81lzm"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save all unsaved (dirty) projects as new versions.lua",
+        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Save%20all%20unsaved%20(dirty)%20projects%20as%20new%20versions.lua",
+        "sha256": "17ffa1daxw0nz9lic8d4fd02jjkf5dm087sk2iis46dhm0h81lzm"
+      }
+    ]
+  },
+  "me2beats_Stop all playing projects but current one.lua": {
+    "latest": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Stop all playing projects but current one.lua",
+        "url": "https://github.com/me2beats/reapack/raw/f9efe2b82e3dd3e229b1769260f3cdf3eff31a8f/Projects/me2beats_Stop%20all%20playing%20projects%20but%20current%20one.lua",
+        "sha256": "00694cmv2i270ngcd1d0m24n9ldzkjr4w9pfh6c87cxmpyqiy2ss"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/me2beats Scripts/Projects/me2beats_Stop all playing projects but current one.lua",
+        "url": "https://github.com/me2beats/reapack/raw/f9efe2b82e3dd3e229b1769260f3cdf3eff31a8f/Projects/me2beats_Stop%20all%20playing%20projects%20but%20current%20one.lua",
+        "sha256": "00694cmv2i270ngcd1d0m24n9ldzkjr4w9pfh6c87cxmpyqiy2ss"
       }
     ]
   },
@@ -7154,259 +7282,131 @@
       }
     ]
   },
-  "me2beats_Go to first playing project.lua": {
+  "me2beats_Adjust grid (mousewheel).lua": {
     "latest": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to first playing project.lua",
-        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20first%20playing%20project.lua",
-        "sha256": "1wvmf85pxdjr70bcl264fi76xj8kcmklc6k2kv83g760hkj4p58g"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Adjust grid (mousewheel).lua",
+        "url": "https://github.com/me2beats/reapack/raw/a6b8c49d2115c5bf10645e6b7756a3e63249fd95/Other/me2beats_Adjust%20grid%20(mousewheel).lua",
+        "sha256": "1fgmwj5na8n3r8d4hzgzznvibiwszchbhcwa1yi35ywfcrmd2zfn"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to first playing project.lua",
-        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20first%20playing%20project.lua",
-        "sha256": "1wvmf85pxdjr70bcl264fi76xj8kcmklc6k2kv83g760hkj4p58g"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Adjust grid (mousewheel).lua",
+        "url": "https://github.com/me2beats/reapack/raw/a6b8c49d2115c5bf10645e6b7756a3e63249fd95/Other/me2beats_Adjust%20grid%20(mousewheel).lua",
+        "sha256": "1fgmwj5na8n3r8d4hzgzznvibiwszchbhcwa1yi35ywfcrmd2zfn"
       }
     ]
   },
-  "me2beats_Go to first project tab.lua": {
+  "me2beats_Adjust metronome volume.lua": {
     "latest": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to first project tab.lua",
-        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Go%20to%20first%20project%20tab.lua",
-        "sha256": "0kzb0pcfv5lcy8yzd9s70sr1wr7pysdx2h6fm05p5aviwb4nm97i"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Adjust metronome volume.lua",
+        "url": "https://github.com/me2beats/reapack/raw/b9ae21ec1e7070f3aa18844965753549a07f05be/Other/me2beats_Adjust%20metronome%20volume.lua",
+        "sha256": "15rxkf1ysxm52gpfv0fj2557ypzj4bh8bmx6zawv6hr24vl4gj5q"
       }
     ],
-    "1.0": [
+    "0.5": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to first project tab.lua",
-        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Go%20to%20first%20project%20tab.lua",
-        "sha256": "0kzb0pcfv5lcy8yzd9s70sr1wr7pysdx2h6fm05p5aviwb4nm97i"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Adjust metronome volume.lua",
+        "url": "https://github.com/me2beats/reapack/raw/b9ae21ec1e7070f3aa18844965753549a07f05be/Other/me2beats_Adjust%20metronome%20volume.lua",
+        "sha256": "15rxkf1ysxm52gpfv0fj2557ypzj4bh8bmx6zawv6hr24vl4gj5q"
       }
     ]
   },
-  "me2beats_Go to last playing project.lua": {
+  "me2beats_Close toolbar 1.lua": {
     "latest": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to last playing project.lua",
-        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20last%20playing%20project.lua",
-        "sha256": "19yjagkprgnvzgj8300f9s1f2wbvhkx86n923m7jn323psfmh2kb"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Close toolbar 1.lua",
+        "url": "https://github.com/me2beats/reapack/raw/b2334ff93e307bd3727e40569e8bacca2efb4279/Other/me2beats_Close%20toolbar%201.lua",
+        "sha256": "0b5wfs761ad1szhf4gp21152l7fw791kdqrk903rf1znx5scbkhv"
       }
     ],
-    "1.0": [
+    "0.5": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to last playing project.lua",
-        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20last%20playing%20project.lua",
-        "sha256": "19yjagkprgnvzgj8300f9s1f2wbvhkx86n923m7jn323psfmh2kb"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Close toolbar 1.lua",
+        "url": "https://github.com/me2beats/reapack/raw/b2334ff93e307bd3727e40569e8bacca2efb4279/Other/me2beats_Close%20toolbar%201.lua",
+        "sha256": "0b5wfs761ad1szhf4gp21152l7fw791kdqrk903rf1znx5scbkhv"
       }
     ]
   },
-  "me2beats_Go to last project tab.lua": {
+  "me2beats_Disable swing grid.lua": {
     "latest": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to last project tab.lua",
-        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Go%20to%20last%20project%20tab.lua",
-        "sha256": "040s9cw3zrsgqc549s67y5jwp5qwxw4ffd965w6qkv6v32ln85sq"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Disable swing grid.lua",
+        "url": "https://github.com/me2beats/reapack/raw/a1103f6b25003eecbf19313977b9de6eecc750bd/Other/me2beats_Disable%20swing%20grid.lua",
+        "sha256": "0cg4jghgp4x073klv0w0vsjszqm1fvjj601psnkg35bbpr365mpz"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to last project tab.lua",
-        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Go%20to%20last%20project%20tab.lua",
-        "sha256": "040s9cw3zrsgqc549s67y5jwp5qwxw4ffd965w6qkv6v32ln85sq"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Disable swing grid.lua",
+        "url": "https://github.com/me2beats/reapack/raw/a1103f6b25003eecbf19313977b9de6eecc750bd/Other/me2beats_Disable%20swing%20grid.lua",
+        "sha256": "0cg4jghgp4x073klv0w0vsjszqm1fvjj601psnkg35bbpr365mpz"
       }
     ]
   },
-  "me2beats_Go to next playing project.lua": {
+  "me2beats_Enable swing grid.lua": {
     "latest": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to next playing project.lua",
-        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20next%20playing%20project.lua",
-        "sha256": "09iwvdgps4rhrhkw3r06a8rcpcydavjdpjwdaxcsm0k31ijnmgpy"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Enable swing grid.lua",
+        "url": "https://github.com/me2beats/reapack/raw/a1103f6b25003eecbf19313977b9de6eecc750bd/Other/me2beats_Enable%20swing%20grid.lua",
+        "sha256": "1y1crwl5slpsf6ax83gdw9yddp8c9y2ck9jqg7xccd4g88y5b8j3"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to next playing project.lua",
-        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20next%20playing%20project.lua",
-        "sha256": "09iwvdgps4rhrhkw3r06a8rcpcydavjdpjwdaxcsm0k31ijnmgpy"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Enable swing grid.lua",
+        "url": "https://github.com/me2beats/reapack/raw/a1103f6b25003eecbf19313977b9de6eecc750bd/Other/me2beats_Enable%20swing%20grid.lua",
+        "sha256": "1y1crwl5slpsf6ax83gdw9yddp8c9y2ck9jqg7xccd4g88y5b8j3"
       }
     ]
   },
-  "me2beats_Go to previous playing project.lua": {
+  "me2beats_Open toolbar 1.lua": {
     "latest": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to previous playing project.lua",
-        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20previous%20playing%20project.lua",
-        "sha256": "1ry1xxchv9241mb54kvi5q7p9ln10m5lwrj0vxzm101dj7q4ng3i"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Open toolbar 1.lua",
+        "url": "https://github.com/me2beats/reapack/raw/b2334ff93e307bd3727e40569e8bacca2efb4279/Other/me2beats_Open%20toolbar%201.lua",
+        "sha256": "00j3j8xcfj24rz3w1j7x2ywmv9z958pabscgqfq70wzlc1ll3ww8"
       }
     ],
-    "1.0": [
+    "0.5": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Go to previous playing project.lua",
-        "url": "https://github.com/me2beats/reapack/raw/c865a6b4b51566f92fdeb72a8ee6d1a296d47862/Projects/me2beats_Go%20to%20previous%20playing%20project.lua",
-        "sha256": "1ry1xxchv9241mb54kvi5q7p9ln10m5lwrj0vxzm101dj7q4ng3i"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Open toolbar 1.lua",
+        "url": "https://github.com/me2beats/reapack/raw/b2334ff93e307bd3727e40569e8bacca2efb4279/Other/me2beats_Open%20toolbar%201.lua",
+        "sha256": "00j3j8xcfj24rz3w1j7x2ywmv9z958pabscgqfq70wzlc1ll3ww8"
       }
     ]
   },
-  "me2beats_Project tabs - toggle between slots 1-2.lua": {
+  "me2beats_Restore project grid.lua": {
     "latest": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Project tabs - toggle between slots 1-2.lua",
-        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Project%20tabs%20-%20toggle%20between%20slots%201-2.lua",
-        "sha256": "18lz5qayjkhalwffzxid9k2iqqmlkx7wn1fy4363gdgm9pzjgdxy"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Restore project grid.lua",
+        "url": "https://github.com/me2beats/reapack/raw/1b46c68578a57ea068b6a38eb363225e461a8c91/Other/me2beats_Restore%20project%20grid.lua",
+        "sha256": "0ccksnnlckwjq1r7bayqiv35517ggpgqb30nahbqvmrxns0g1278"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Project tabs - toggle between slots 1-2.lua",
-        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Project%20tabs%20-%20toggle%20between%20slots%201-2.lua",
-        "sha256": "18lz5qayjkhalwffzxid9k2iqqmlkx7wn1fy4363gdgm9pzjgdxy"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Restore project grid.lua",
+        "url": "https://github.com/me2beats/reapack/raw/1b46c68578a57ea068b6a38eb363225e461a8c91/Other/me2beats_Restore%20project%20grid.lua",
+        "sha256": "0ccksnnlckwjq1r7bayqiv35517ggpgqb30nahbqvmrxns0g1278"
       }
     ]
   },
-  "me2beats_Restore saved project tab, slot 1.lua": {
+  "me2beats_Save project grid.lua": {
     "latest": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Restore saved project tab, slot 1.lua",
-        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Restore%20saved%20project%20tab,%20slot%201.lua",
-        "sha256": "0ksaax0iqxii7rw4fvi634rzq3wkyyvng55gbq1jxwai2ryd9wcz"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Save project grid.lua",
+        "url": "https://github.com/me2beats/reapack/raw/1b46c68578a57ea068b6a38eb363225e461a8c91/Other/me2beats_Save%20project%20grid.lua",
+        "sha256": "06pfklkb6944ar2mpqm61yjy4v1p0whcis8sbbl3xxj9c2qx18qi"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Restore saved project tab, slot 1.lua",
-        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Restore%20saved%20project%20tab,%20slot%201.lua",
-        "sha256": "0ksaax0iqxii7rw4fvi634rzq3wkyyvng55gbq1jxwai2ryd9wcz"
-      }
-    ]
-  },
-  "me2beats_Restore saved project tab, slot 2.lua": {
-    "latest": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Restore saved project tab, slot 2.lua",
-        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Restore%20saved%20project%20tab,%20slot%202.lua",
-        "sha256": "09052bf1b1p6nkzpp9kk8jx6h5r9123j36hdaxvnip6ipibpvlbg"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Restore saved project tab, slot 2.lua",
-        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Restore%20saved%20project%20tab,%20slot%202.lua",
-        "sha256": "09052bf1b1p6nkzpp9kk8jx6h5r9123j36hdaxvnip6ipibpvlbg"
-      }
-    ]
-  },
-  "me2beats_Restore saved project tab.lua": {
-    "latest": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Restore saved project tab.lua",
-        "url": "https://github.com/me2beats/reapack/raw/6c44b1d9c2bf4ee39f47d42d4b98a995d93d55d8/Projects/me2beats_Restore%20saved%20project%20tab.lua",
-        "sha256": "1va6ki50kiz9jgp4idl61ldl4sj5h6g5mxmxjsmw1r31zbzbyic8"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Restore saved project tab.lua",
-        "url": "https://github.com/me2beats/reapack/raw/6c44b1d9c2bf4ee39f47d42d4b98a995d93d55d8/Projects/me2beats_Restore%20saved%20project%20tab.lua",
-        "sha256": "1va6ki50kiz9jgp4idl61ldl4sj5h6g5mxmxjsmw1r31zbzbyic8"
-      }
-    ]
-  },
-  "me2beats_Save active project tab, slot 1.lua": {
-    "latest": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save active project tab, slot 1.lua",
-        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Save%20active%20project%20tab,%20slot%201.lua",
-        "sha256": "05jj026xihdawh6z3b4z334ixl8db9hvb8sdb77jmzfnd15bb3cb"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save active project tab, slot 1.lua",
-        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Save%20active%20project%20tab,%20slot%201.lua",
-        "sha256": "05jj026xihdawh6z3b4z334ixl8db9hvb8sdb77jmzfnd15bb3cb"
-      }
-    ]
-  },
-  "me2beats_Save active project tab, slot 2.lua": {
-    "latest": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save active project tab, slot 2.lua",
-        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Save%20active%20project%20tab,%20slot%202.lua",
-        "sha256": "0l2005im0c1n1jcama4xlxw9afcnfrclxrf115hi5j8f9k8khbpf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save active project tab, slot 2.lua",
-        "url": "https://github.com/me2beats/reapack/raw/ed90358f52708a912233e8969ba8f44e494a496a/Projects/me2beats_Save%20active%20project%20tab,%20slot%202.lua",
-        "sha256": "0l2005im0c1n1jcama4xlxw9afcnfrclxrf115hi5j8f9k8khbpf"
-      }
-    ]
-  },
-  "me2beats_Save active project tab.lua": {
-    "latest": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save active project tab.lua",
-        "url": "https://github.com/me2beats/reapack/raw/6c44b1d9c2bf4ee39f47d42d4b98a995d93d55d8/Projects/me2beats_Save%20active%20project%20tab.lua",
-        "sha256": "14g6849847jjx5qgpjrl172nc85i1dciq2fbjpprq9hjrcyink07"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save active project tab.lua",
-        "url": "https://github.com/me2beats/reapack/raw/6c44b1d9c2bf4ee39f47d42d4b98a995d93d55d8/Projects/me2beats_Save%20active%20project%20tab.lua",
-        "sha256": "14g6849847jjx5qgpjrl172nc85i1dciq2fbjpprq9hjrcyink07"
-      }
-    ]
-  },
-  "me2beats_Save all projects as new versions.lua": {
-    "latest": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save all projects as new versions.lua",
-        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Save%20all%20projects%20as%20new%20versions.lua",
-        "sha256": "0q6icjb5nra2s2fnxx0j196w2klmikppkj465ljw2q67yf6dgi2r"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save all projects as new versions.lua",
-        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Save%20all%20projects%20as%20new%20versions.lua",
-        "sha256": "0q6icjb5nra2s2fnxx0j196w2klmikppkj465ljw2q67yf6dgi2r"
-      }
-    ]
-  },
-  "me2beats_Save all unsaved (dirty) projects as new versions.lua": {
-    "latest": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save all unsaved (dirty) projects as new versions.lua",
-        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Save%20all%20unsaved%20(dirty)%20projects%20as%20new%20versions.lua",
-        "sha256": "17ffa1daxw0nz9lic8d4fd02jjkf5dm087sk2iis46dhm0h81lzm"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Save all unsaved (dirty) projects as new versions.lua",
-        "url": "https://github.com/me2beats/reapack/raw/97365500eb18adf2cca7d40b5cf18c846f8e21d6/Projects/me2beats_Save%20all%20unsaved%20(dirty)%20projects%20as%20new%20versions.lua",
-        "sha256": "17ffa1daxw0nz9lic8d4fd02jjkf5dm087sk2iis46dhm0h81lzm"
-      }
-    ]
-  },
-  "me2beats_Stop all playing projects but current one.lua": {
-    "latest": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Stop all playing projects but current one.lua",
-        "url": "https://github.com/me2beats/reapack/raw/f9efe2b82e3dd3e229b1769260f3cdf3eff31a8f/Projects/me2beats_Stop%20all%20playing%20projects%20but%20current%20one.lua",
-        "sha256": "00694cmv2i270ngcd1d0m24n9ldzkjr4w9pfh6c87cxmpyqiy2ss"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/me2beats Scripts/Projects/me2beats_Stop all playing projects but current one.lua",
-        "url": "https://github.com/me2beats/reapack/raw/f9efe2b82e3dd3e229b1769260f3cdf3eff31a8f/Projects/me2beats_Stop%20all%20playing%20projects%20but%20current%20one.lua",
-        "sha256": "00694cmv2i270ngcd1d0m24n9ldzkjr4w9pfh6c87cxmpyqiy2ss"
+        "path": "Scripts/me2beats Scripts/Other/me2beats_Save project grid.lua",
+        "url": "https://github.com/me2beats/reapack/raw/1b46c68578a57ea068b6a38eb363225e461a8c91/Other/me2beats_Save%20project%20grid.lua",
+        "sha256": "06pfklkb6944ar2mpqm61yjy4v1p0whcis8sbbl3xxj9c2qx18qi"
       }
     ]
   },

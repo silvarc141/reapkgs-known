@@ -1,168 +1,269 @@
 {
-  "Mixer_8xM-1xS.jsfx": {
+  "ix_keymaps.data": {
     "latest": [
       {
-        "path": "Effects/IX/Effects/Audio/../../Mixer_8xM-1xS",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Mixer_8xM-1xS.jsfx",
-        "sha256": "1qg2366ixxqspp4m3p8n3irxwar24r6hx7ff85y6qmnf42ngs7k9"
+        "path": "Data/../../ix_keymaps/00 - Default Mapping.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_keymaps/00%20-%20Default%20Mapping.txt",
+        "sha256": "12yd2a19i34rbhlixy2cjj1wan7nznifprg71y1qm8sqq77svf2n"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/IX/Effects/Audio/../../Mixer_8xM-1xS",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Mixer_8xM-1xS.jsfx",
-        "sha256": "1qg2366ixxqspp4m3p8n3irxwar24r6hx7ff85y6qmnf42ngs7k9"
+        "path": "Data/../../ix_keymaps/00 - Default Mapping.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_keymaps/00%20-%20Default%20Mapping.txt",
+        "sha256": "12yd2a19i34rbhlixy2cjj1wan7nznifprg71y1qm8sqq77svf2n"
       }
     ]
   },
-  "Mixer_8xS-1xS.jsfx": {
+  "ix_scales.data": {
     "latest": [
       {
-        "path": "Effects/IX/Effects/Audio/../../Mixer_8xS-1xS",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Mixer_8xS-1xS.jsfx",
-        "sha256": "0qzmiss9nbdzx3dci4ykm915cbpfnl8b4sdzhv8r0w85402sf1p3"
+        "path": "Data/../../ix_scales/Chromatic.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Chromatic.txt",
+        "sha256": "0kd8x04p4kgqc8jzhaja4sps39vfrs1qlpblrng1jbrrm3xzgz0m"
+      },
+      {
+        "path": "Data/../../ix_scales/Dorian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Dorian.txt",
+        "sha256": "1xw8q763wzllnja4sqlxr724d73hawjlc354f1ap9a9f53654wi4"
+      },
+      {
+        "path": "Data/../../ix_scales/Harmonic Minor.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Harmonic%20Minor.txt",
+        "sha256": "1sj7ynhqiqakxnirkdzlcg8j85zbrhkanwkkz3ip632k1qaim8v5"
+      },
+      {
+        "path": "Data/../../ix_scales/Locrian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Locrian.txt",
+        "sha256": "0b1chq3khcaz3j4i5k8i7424mlg67wrmcmy8pl4jnwsbar900467"
+      },
+      {
+        "path": "Data/../../ix_scales/Lydian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Lydian.txt",
+        "sha256": "1gr8kgkpbdvrzy34ac7j5f7ql0g59x9ff49sr07984a482jsd6wl"
+      },
+      {
+        "path": "Data/../../ix_scales/Major.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Major.txt",
+        "sha256": "0xv1sl6jy0pd9w7f09n3p9ymjrwf6rjgs9ls7j7l11dakkcczc4w"
+      },
+      {
+        "path": "Data/../../ix_scales/Melodic Minor.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Melodic%20Minor.txt",
+        "sha256": "04zmmg218xvksr12ibrji3sh0g9xgnpbd419gy6gpba5rfwsppzb"
+      },
+      {
+        "path": "Data/../../ix_scales/Mixolydian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Mixolydian.txt",
+        "sha256": "0l7bnvzdnrljcp08whwwdiky7h9lw8cb8jn5jc7srlbmnk4r6ppm"
+      },
+      {
+        "path": "Data/../../ix_scales/Natural Minor.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Natural%20Minor.txt",
+        "sha256": "0zn0dasqn2dawsisjdr6z64fqlh2wbj53zljdfhq5d2b6ljhhfhl"
+      },
+      {
+        "path": "Data/../../ix_scales/Pentatonic Major.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Pentatonic%20Major.txt",
+        "sha256": "0h3562b7qd5inmcvijb0mx9k43nb55nc3jp3v8mj4m3rrs1766rr"
+      },
+      {
+        "path": "Data/../../ix_scales/Pentatonic Minor.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Pentatonic%20Minor.txt",
+        "sha256": "04mnqrh1ys1pvn3a6rxp752m6dc0yn9wflixxqpbnscy9n6vyq2b"
+      },
+      {
+        "path": "Data/../../ix_scales/Phrygian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Phrygian.txt",
+        "sha256": "0xx5crnpxn1ans42xl9qp0ld0src7lcvj6lf8656lcc3gawxih97"
+      },
+      {
+        "path": "Data/../../ix_scales/Whole Tone.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Whole%20Tone.txt",
+        "sha256": "06r05d6r7ad6hm8ra8bc78kn02icv3xr0jqhbjpn466aw1q8q9z1"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/IX/Effects/Audio/../../Mixer_8xS-1xS",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Mixer_8xS-1xS.jsfx",
-        "sha256": "0qzmiss9nbdzx3dci4ykm915cbpfnl8b4sdzhv8r0w85402sf1p3"
+        "path": "Data/../../ix_scales/Chromatic.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Chromatic.txt",
+        "sha256": "0kd8x04p4kgqc8jzhaja4sps39vfrs1qlpblrng1jbrrm3xzgz0m"
+      },
+      {
+        "path": "Data/../../ix_scales/Dorian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Dorian.txt",
+        "sha256": "1xw8q763wzllnja4sqlxr724d73hawjlc354f1ap9a9f53654wi4"
+      },
+      {
+        "path": "Data/../../ix_scales/Harmonic Minor.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Harmonic%20Minor.txt",
+        "sha256": "1sj7ynhqiqakxnirkdzlcg8j85zbrhkanwkkz3ip632k1qaim8v5"
+      },
+      {
+        "path": "Data/../../ix_scales/Locrian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Locrian.txt",
+        "sha256": "0b1chq3khcaz3j4i5k8i7424mlg67wrmcmy8pl4jnwsbar900467"
+      },
+      {
+        "path": "Data/../../ix_scales/Lydian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Lydian.txt",
+        "sha256": "1gr8kgkpbdvrzy34ac7j5f7ql0g59x9ff49sr07984a482jsd6wl"
+      },
+      {
+        "path": "Data/../../ix_scales/Major.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Major.txt",
+        "sha256": "0xv1sl6jy0pd9w7f09n3p9ymjrwf6rjgs9ls7j7l11dakkcczc4w"
+      },
+      {
+        "path": "Data/../../ix_scales/Melodic Minor.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Melodic%20Minor.txt",
+        "sha256": "04zmmg218xvksr12ibrji3sh0g9xgnpbd419gy6gpba5rfwsppzb"
+      },
+      {
+        "path": "Data/../../ix_scales/Mixolydian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Mixolydian.txt",
+        "sha256": "0l7bnvzdnrljcp08whwwdiky7h9lw8cb8jn5jc7srlbmnk4r6ppm"
+      },
+      {
+        "path": "Data/../../ix_scales/Natural Minor.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Natural%20Minor.txt",
+        "sha256": "0zn0dasqn2dawsisjdr6z64fqlh2wbj53zljdfhq5d2b6ljhhfhl"
+      },
+      {
+        "path": "Data/../../ix_scales/Pentatonic Major.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Pentatonic%20Major.txt",
+        "sha256": "0h3562b7qd5inmcvijb0mx9k43nb55nc3jp3v8mj4m3rrs1766rr"
+      },
+      {
+        "path": "Data/../../ix_scales/Pentatonic Minor.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Pentatonic%20Minor.txt",
+        "sha256": "04mnqrh1ys1pvn3a6rxp752m6dc0yn9wflixxqpbnscy9n6vyq2b"
+      },
+      {
+        "path": "Data/../../ix_scales/Phrygian.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Phrygian.txt",
+        "sha256": "0xx5crnpxn1ans42xl9qp0ld0src7lcvj6lf8656lcc3gawxih97"
+      },
+      {
+        "path": "Data/../../ix_scales/Whole Tone.txt",
+        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Whole%20Tone.txt",
+        "sha256": "06r05d6r7ad6hm8ra8bc78kn02icv3xr0jqhbjpn466aw1q8q9z1"
       }
     ]
   },
-  "MuteOnStop.jsfx": {
+  "ix_sequences.data": {
     "latest": [
       {
-        "path": "Effects/IX/Effects/Audio/../../MuteOnStop.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteOnStop.jsfx",
-        "sha256": "1p6vswq28cx3cwg5cb4m71zysmqjn8kiw7nbxjbriynbk97d0k55"
+        "path": "Data/../../ix_sequences/1 - All Notes.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/1%20-%20All%20Notes.txt",
+        "sha256": "0jsvhyvxslhyq14isbx2xajasisp7xdgykl0dffy3z1lzxrv51kb"
+      },
+      {
+        "path": "Data/../../ix_sequences/2 - Accent on 1.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%201.txt",
+        "sha256": "1xyqzzqypww862cggxg5ihw52ibnwn03zdkxy5p03g01b2d43k09"
+      },
+      {
+        "path": "Data/../../ix_sequences/2 - Accent on 2.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%202.txt",
+        "sha256": "0qnb1wwxy5192q5lscf9yaixhzyll65za5flcvq3as4mzd2dslry"
+      },
+      {
+        "path": "Data/../../ix_sequences/3 - Accent on 1.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%201.txt",
+        "sha256": "0ffil8i5fh69b25lk9q7g2z5ai32kjgg6j6bw65qki70zhn6w0s2"
+      },
+      {
+        "path": "Data/../../ix_sequences/3 - Accent on 2.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%202.txt",
+        "sha256": "1bkdxvw7ip6w2719xqamnmmrkyjw1a989hxhqy57qzfkijihvalb"
+      },
+      {
+        "path": "Data/../../ix_sequences/3 - Accent on 3.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%203.txt",
+        "sha256": "15cmbyd06rfvrbqlfhk20lq8kbw28ywf12fppscc2c264fxqxcpf"
+      },
+      {
+        "path": "Data/../../ix_sequences/4 - Accent On 1.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%201.txt",
+        "sha256": "0dkszzb6n93kn6dlzhnrh5v9dz08751pj6hiz64mi6gz7rjqkndq"
+      },
+      {
+        "path": "Data/../../ix_sequences/4 - Accent On 2.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%202.txt",
+        "sha256": "1hnkp067395yggkm030bb11v0awydm5ym1416cir528b0hcmz92b"
+      },
+      {
+        "path": "Data/../../ix_sequences/4 - Accent On 3.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%203.txt",
+        "sha256": "0ayrfm044wr9gsdc8ap8002dvmv1g6j174dhn3w3lfv5017y5p4v"
+      },
+      {
+        "path": "Data/../../ix_sequences/4 - Accent On 4.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%204.txt",
+        "sha256": "08m9d3ipbn2mh67wd1ibfn08ci5vlq0d4v1jrxablxr3dqnqrp2y"
+      },
+      {
+        "path": "Data/../../ix_sequences/5 - Accent on 5.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/5%20-%20Accent%20on%205.txt",
+        "sha256": "01c9mnnv1amvhdqgv0d04xphffs6cvg6cr9jmvkz8qngm4pbaf31"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/IX/Effects/Audio/../../MuteOnStop.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteOnStop.jsfx",
-        "sha256": "1p6vswq28cx3cwg5cb4m71zysmqjn8kiw7nbxjbriynbk97d0k55"
-      }
-    ]
-  },
-  "MuteRangeOnStop.jsfx": {
-    "latest": [
+        "path": "Data/../../ix_sequences/1 - All Notes.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/1%20-%20All%20Notes.txt",
+        "sha256": "0jsvhyvxslhyq14isbx2xajasisp7xdgykl0dffy3z1lzxrv51kb"
+      },
       {
-        "path": "Effects/IX/Effects/Audio/../../MuteRangeOnStop.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteRangeOnStop.jsfx",
-        "sha256": "1916202ln69jdxzkh3klpvdbsxa9dsscn4lrq9yfwb5hx3si4q36"
-      }
-    ],
-    "1.0": [
+        "path": "Data/../../ix_sequences/2 - Accent on 1.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%201.txt",
+        "sha256": "1xyqzzqypww862cggxg5ihw52ibnwn03zdkxy5p03g01b2d43k09"
+      },
       {
-        "path": "Effects/IX/Effects/Audio/../../MuteRangeOnStop.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteRangeOnStop.jsfx",
-        "sha256": "1916202ln69jdxzkh3klpvdbsxa9dsscn4lrq9yfwb5hx3si4q36"
-      }
-    ]
-  },
-  "PhaseAdjustingRouter.jsfx": {
-    "latest": [
+        "path": "Data/../../ix_sequences/2 - Accent on 2.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%202.txt",
+        "sha256": "0qnb1wwxy5192q5lscf9yaixhzyll65za5flcvq3as4mzd2dslry"
+      },
       {
-        "path": "Effects/IX/Effects/Audio/../../PhaseAdjustingRouter",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/PhaseAdjustingRouter.jsfx",
-        "sha256": "05gydjjk59wn06fvz89y2vpig396wvhja4ybsglpqmq0n4bwy6c5"
-      }
-    ],
-    "1.0": [
+        "path": "Data/../../ix_sequences/3 - Accent on 1.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%201.txt",
+        "sha256": "0ffil8i5fh69b25lk9q7g2z5ai32kjgg6j6bw65qki70zhn6w0s2"
+      },
       {
-        "path": "Effects/IX/Effects/Audio/../../PhaseAdjustingRouter",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/PhaseAdjustingRouter.jsfx",
-        "sha256": "05gydjjk59wn06fvz89y2vpig396wvhja4ybsglpqmq0n4bwy6c5"
-      }
-    ]
-  },
-  "StereoPhaseInvert.jsfx": {
-    "latest": [
+        "path": "Data/../../ix_sequences/3 - Accent on 2.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%202.txt",
+        "sha256": "1bkdxvw7ip6w2719xqamnmmrkyjw1a989hxhqy57qzfkijihvalb"
+      },
       {
-        "path": "Effects/IX/Effects/Audio/../../StereoPhaseInvert",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/StereoPhaseInvert.jsfx",
-        "sha256": "10k68pj2wbsp6vf6j69cjprzfpxm92v790vnqqzbmqf395lcand2"
-      }
-    ],
-    "1.0": [
+        "path": "Data/../../ix_sequences/3 - Accent on 3.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%203.txt",
+        "sha256": "15cmbyd06rfvrbqlfhk20lq8kbw28ywf12fppscc2c264fxqxcpf"
+      },
       {
-        "path": "Effects/IX/Effects/Audio/../../StereoPhaseInvert",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/StereoPhaseInvert.jsfx",
-        "sha256": "10k68pj2wbsp6vf6j69cjprzfpxm92v790vnqqzbmqf395lcand2"
-      }
-    ]
-  },
-  "Switcher2.jsfx": {
-    "latest": [
+        "path": "Data/../../ix_sequences/4 - Accent On 1.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%201.txt",
+        "sha256": "0dkszzb6n93kn6dlzhnrh5v9dz08751pj6hiz64mi6gz7rjqkndq"
+      },
       {
-        "path": "Effects/IX/Effects/Audio/../../Switcher2",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Switcher2.jsfx",
-        "sha256": "165l96gmag88dsw6riik725nskspps777baai6hzmmsjrask5f21"
-      }
-    ],
-    "1.0": [
+        "path": "Data/../../ix_sequences/4 - Accent On 2.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%202.txt",
+        "sha256": "1hnkp067395yggkm030bb11v0awydm5ym1416cir528b0hcmz92b"
+      },
       {
-        "path": "Effects/IX/Effects/Audio/../../Switcher2",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Switcher2.jsfx",
-        "sha256": "165l96gmag88dsw6riik725nskspps777baai6hzmmsjrask5f21"
-      }
-    ]
-  },
-  "Switcher3.jsfx": {
-    "latest": [
+        "path": "Data/../../ix_sequences/4 - Accent On 3.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%203.txt",
+        "sha256": "0ayrfm044wr9gsdc8ap8002dvmv1g6j174dhn3w3lfv5017y5p4v"
+      },
       {
-        "path": "Effects/IX/Effects/Audio/../../Switcher3",
-        "url": "https://github.com/IXix/JSFX/raw/d43a6d6e641f66c340d465c9ff1447566649ae9b/Effects/Audio/Switcher3.jsfx",
-        "sha256": "04qyrmfx755bd18xx8jsmni722q5nlpxhgpd3jq54jr9yxyqr4a1"
-      }
-    ],
-    "1.1": [
+        "path": "Data/../../ix_sequences/4 - Accent On 4.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%204.txt",
+        "sha256": "08m9d3ipbn2mh67wd1ibfn08ci5vlq0d4v1jrxablxr3dqnqrp2y"
+      },
       {
-        "path": "Effects/IX/Effects/Audio/../../Switcher3",
-        "url": "https://github.com/IXix/JSFX/raw/d43a6d6e641f66c340d465c9ff1447566649ae9b/Effects/Audio/Switcher3.jsfx",
-        "sha256": "04qyrmfx755bd18xx8jsmni722q5nlpxhgpd3jq54jr9yxyqr4a1"
-      }
-    ]
-  },
-  "Switcher5.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/Audio/../../Switcher5.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/0f7226842bc175b71adba09316678755bade6d60/Effects/Audio/Switcher5.jsfx",
-        "sha256": "15x70a85s7yxhk9hjf8l115r58fw5aw80wsww85775vlpxy8c9c2"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/IX/Effects/Audio/../../Switcher5.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/0f7226842bc175b71adba09316678755bade6d60/Effects/Audio/Switcher5.jsfx",
-        "sha256": "15x70a85s7yxhk9hjf8l115r58fw5aw80wsww85775vlpxy8c9c2"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/IX/Effects/Audio/../../Switcher5.jsfx",
-        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/Switcher5.jsfx",
-        "sha256": "0qgxphap83w7w9cp2ym6nydgq6b801al1zzaw940xk19ll2lwj06"
-      }
-    ]
-  },
-  "SwixMitch.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/IX/Effects/Audio/../../SwixMitch",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/SwixMitch.jsfx",
-        "sha256": "0wzp7gr62n151h0cic0992xn0rrcxsvlw0j8grzgvxpccpi09kk5"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/IX/Effects/Audio/../../SwixMitch",
-        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/SwixMitch.jsfx",
-        "sha256": "0wzp7gr62n151h0cic0992xn0rrcxsvlw0j8grzgvxpccpi09kk5"
+        "path": "Data/../../ix_sequences/5 - Accent on 5.txt",
+        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/5%20-%20Accent%20on%205.txt",
+        "sha256": "01c9mnnv1amvhdqgv0d04xphffs6cvg6cr9jmvkz8qngm4pbaf31"
       }
     ]
   },
@@ -519,271 +620,170 @@
       }
     ]
   },
-  "ix_keymaps.data": {
+  "Mixer_8xM-1xS.jsfx": {
     "latest": [
       {
-        "path": "Data/../../ix_keymaps/00 - Default Mapping.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_keymaps/00%20-%20Default%20Mapping.txt",
-        "sha256": "12yd2a19i34rbhlixy2cjj1wan7nznifprg71y1qm8sqq77svf2n"
+        "path": "Effects/IX/Effects/Audio/../../Mixer_8xM-1xS",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Mixer_8xM-1xS.jsfx",
+        "sha256": "1qg2366ixxqspp4m3p8n3irxwar24r6hx7ff85y6qmnf42ngs7k9"
       }
     ],
     "1.0": [
       {
-        "path": "Data/../../ix_keymaps/00 - Default Mapping.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_keymaps/00%20-%20Default%20Mapping.txt",
-        "sha256": "12yd2a19i34rbhlixy2cjj1wan7nznifprg71y1qm8sqq77svf2n"
+        "path": "Effects/IX/Effects/Audio/../../Mixer_8xM-1xS",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Mixer_8xM-1xS.jsfx",
+        "sha256": "1qg2366ixxqspp4m3p8n3irxwar24r6hx7ff85y6qmnf42ngs7k9"
       }
     ]
   },
-  "ix_scales.data": {
+  "Mixer_8xS-1xS.jsfx": {
     "latest": [
       {
-        "path": "Data/../../ix_scales/Chromatic.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Chromatic.txt",
-        "sha256": "0kd8x04p4kgqc8jzhaja4sps39vfrs1qlpblrng1jbrrm3xzgz0m"
-      },
-      {
-        "path": "Data/../../ix_scales/Dorian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Dorian.txt",
-        "sha256": "1xw8q763wzllnja4sqlxr724d73hawjlc354f1ap9a9f53654wi4"
-      },
-      {
-        "path": "Data/../../ix_scales/Harmonic Minor.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Harmonic%20Minor.txt",
-        "sha256": "1sj7ynhqiqakxnirkdzlcg8j85zbrhkanwkkz3ip632k1qaim8v5"
-      },
-      {
-        "path": "Data/../../ix_scales/Locrian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Locrian.txt",
-        "sha256": "0b1chq3khcaz3j4i5k8i7424mlg67wrmcmy8pl4jnwsbar900467"
-      },
-      {
-        "path": "Data/../../ix_scales/Lydian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Lydian.txt",
-        "sha256": "1gr8kgkpbdvrzy34ac7j5f7ql0g59x9ff49sr07984a482jsd6wl"
-      },
-      {
-        "path": "Data/../../ix_scales/Major.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Major.txt",
-        "sha256": "0xv1sl6jy0pd9w7f09n3p9ymjrwf6rjgs9ls7j7l11dakkcczc4w"
-      },
-      {
-        "path": "Data/../../ix_scales/Melodic Minor.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Melodic%20Minor.txt",
-        "sha256": "04zmmg218xvksr12ibrji3sh0g9xgnpbd419gy6gpba5rfwsppzb"
-      },
-      {
-        "path": "Data/../../ix_scales/Mixolydian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Mixolydian.txt",
-        "sha256": "0l7bnvzdnrljcp08whwwdiky7h9lw8cb8jn5jc7srlbmnk4r6ppm"
-      },
-      {
-        "path": "Data/../../ix_scales/Natural Minor.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Natural%20Minor.txt",
-        "sha256": "0zn0dasqn2dawsisjdr6z64fqlh2wbj53zljdfhq5d2b6ljhhfhl"
-      },
-      {
-        "path": "Data/../../ix_scales/Pentatonic Major.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Pentatonic%20Major.txt",
-        "sha256": "0h3562b7qd5inmcvijb0mx9k43nb55nc3jp3v8mj4m3rrs1766rr"
-      },
-      {
-        "path": "Data/../../ix_scales/Pentatonic Minor.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Pentatonic%20Minor.txt",
-        "sha256": "04mnqrh1ys1pvn3a6rxp752m6dc0yn9wflixxqpbnscy9n6vyq2b"
-      },
-      {
-        "path": "Data/../../ix_scales/Phrygian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Phrygian.txt",
-        "sha256": "0xx5crnpxn1ans42xl9qp0ld0src7lcvj6lf8656lcc3gawxih97"
-      },
-      {
-        "path": "Data/../../ix_scales/Whole Tone.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Whole%20Tone.txt",
-        "sha256": "06r05d6r7ad6hm8ra8bc78kn02icv3xr0jqhbjpn466aw1q8q9z1"
+        "path": "Effects/IX/Effects/Audio/../../Mixer_8xS-1xS",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Mixer_8xS-1xS.jsfx",
+        "sha256": "0qzmiss9nbdzx3dci4ykm915cbpfnl8b4sdzhv8r0w85402sf1p3"
       }
     ],
     "1.0": [
       {
-        "path": "Data/../../ix_scales/Chromatic.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Chromatic.txt",
-        "sha256": "0kd8x04p4kgqc8jzhaja4sps39vfrs1qlpblrng1jbrrm3xzgz0m"
-      },
-      {
-        "path": "Data/../../ix_scales/Dorian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Dorian.txt",
-        "sha256": "1xw8q763wzllnja4sqlxr724d73hawjlc354f1ap9a9f53654wi4"
-      },
-      {
-        "path": "Data/../../ix_scales/Harmonic Minor.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Harmonic%20Minor.txt",
-        "sha256": "1sj7ynhqiqakxnirkdzlcg8j85zbrhkanwkkz3ip632k1qaim8v5"
-      },
-      {
-        "path": "Data/../../ix_scales/Locrian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Locrian.txt",
-        "sha256": "0b1chq3khcaz3j4i5k8i7424mlg67wrmcmy8pl4jnwsbar900467"
-      },
-      {
-        "path": "Data/../../ix_scales/Lydian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Lydian.txt",
-        "sha256": "1gr8kgkpbdvrzy34ac7j5f7ql0g59x9ff49sr07984a482jsd6wl"
-      },
-      {
-        "path": "Data/../../ix_scales/Major.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Major.txt",
-        "sha256": "0xv1sl6jy0pd9w7f09n3p9ymjrwf6rjgs9ls7j7l11dakkcczc4w"
-      },
-      {
-        "path": "Data/../../ix_scales/Melodic Minor.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Melodic%20Minor.txt",
-        "sha256": "04zmmg218xvksr12ibrji3sh0g9xgnpbd419gy6gpba5rfwsppzb"
-      },
-      {
-        "path": "Data/../../ix_scales/Mixolydian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Mixolydian.txt",
-        "sha256": "0l7bnvzdnrljcp08whwwdiky7h9lw8cb8jn5jc7srlbmnk4r6ppm"
-      },
-      {
-        "path": "Data/../../ix_scales/Natural Minor.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Natural%20Minor.txt",
-        "sha256": "0zn0dasqn2dawsisjdr6z64fqlh2wbj53zljdfhq5d2b6ljhhfhl"
-      },
-      {
-        "path": "Data/../../ix_scales/Pentatonic Major.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Pentatonic%20Major.txt",
-        "sha256": "0h3562b7qd5inmcvijb0mx9k43nb55nc3jp3v8mj4m3rrs1766rr"
-      },
-      {
-        "path": "Data/../../ix_scales/Pentatonic Minor.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Pentatonic%20Minor.txt",
-        "sha256": "04mnqrh1ys1pvn3a6rxp752m6dc0yn9wflixxqpbnscy9n6vyq2b"
-      },
-      {
-        "path": "Data/../../ix_scales/Phrygian.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Phrygian.txt",
-        "sha256": "0xx5crnpxn1ans42xl9qp0ld0src7lcvj6lf8656lcc3gawxih97"
-      },
-      {
-        "path": "Data/../../ix_scales/Whole Tone.txt",
-        "url": "https://github.com/IXix/JSFX/raw/2a706987860fb29c5f64235acf4b61667825d942/Data/ix_scales/Whole%20Tone.txt",
-        "sha256": "06r05d6r7ad6hm8ra8bc78kn02icv3xr0jqhbjpn466aw1q8q9z1"
+        "path": "Effects/IX/Effects/Audio/../../Mixer_8xS-1xS",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Mixer_8xS-1xS.jsfx",
+        "sha256": "0qzmiss9nbdzx3dci4ykm915cbpfnl8b4sdzhv8r0w85402sf1p3"
       }
     ]
   },
-  "ix_sequences.data": {
+  "MuteOnStop.jsfx": {
     "latest": [
       {
-        "path": "Data/../../ix_sequences/1 - All Notes.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/1%20-%20All%20Notes.txt",
-        "sha256": "0jsvhyvxslhyq14isbx2xajasisp7xdgykl0dffy3z1lzxrv51kb"
-      },
-      {
-        "path": "Data/../../ix_sequences/2 - Accent on 1.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%201.txt",
-        "sha256": "1xyqzzqypww862cggxg5ihw52ibnwn03zdkxy5p03g01b2d43k09"
-      },
-      {
-        "path": "Data/../../ix_sequences/2 - Accent on 2.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%202.txt",
-        "sha256": "0qnb1wwxy5192q5lscf9yaixhzyll65za5flcvq3as4mzd2dslry"
-      },
-      {
-        "path": "Data/../../ix_sequences/3 - Accent on 1.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%201.txt",
-        "sha256": "0ffil8i5fh69b25lk9q7g2z5ai32kjgg6j6bw65qki70zhn6w0s2"
-      },
-      {
-        "path": "Data/../../ix_sequences/3 - Accent on 2.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%202.txt",
-        "sha256": "1bkdxvw7ip6w2719xqamnmmrkyjw1a989hxhqy57qzfkijihvalb"
-      },
-      {
-        "path": "Data/../../ix_sequences/3 - Accent on 3.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%203.txt",
-        "sha256": "15cmbyd06rfvrbqlfhk20lq8kbw28ywf12fppscc2c264fxqxcpf"
-      },
-      {
-        "path": "Data/../../ix_sequences/4 - Accent On 1.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%201.txt",
-        "sha256": "0dkszzb6n93kn6dlzhnrh5v9dz08751pj6hiz64mi6gz7rjqkndq"
-      },
-      {
-        "path": "Data/../../ix_sequences/4 - Accent On 2.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%202.txt",
-        "sha256": "1hnkp067395yggkm030bb11v0awydm5ym1416cir528b0hcmz92b"
-      },
-      {
-        "path": "Data/../../ix_sequences/4 - Accent On 3.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%203.txt",
-        "sha256": "0ayrfm044wr9gsdc8ap8002dvmv1g6j174dhn3w3lfv5017y5p4v"
-      },
-      {
-        "path": "Data/../../ix_sequences/4 - Accent On 4.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%204.txt",
-        "sha256": "08m9d3ipbn2mh67wd1ibfn08ci5vlq0d4v1jrxablxr3dqnqrp2y"
-      },
-      {
-        "path": "Data/../../ix_sequences/5 - Accent on 5.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/5%20-%20Accent%20on%205.txt",
-        "sha256": "01c9mnnv1amvhdqgv0d04xphffs6cvg6cr9jmvkz8qngm4pbaf31"
+        "path": "Effects/IX/Effects/Audio/../../MuteOnStop.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteOnStop.jsfx",
+        "sha256": "1p6vswq28cx3cwg5cb4m71zysmqjn8kiw7nbxjbriynbk97d0k55"
       }
     ],
     "1.0": [
       {
-        "path": "Data/../../ix_sequences/1 - All Notes.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/1%20-%20All%20Notes.txt",
-        "sha256": "0jsvhyvxslhyq14isbx2xajasisp7xdgykl0dffy3z1lzxrv51kb"
-      },
+        "path": "Effects/IX/Effects/Audio/../../MuteOnStop.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteOnStop.jsfx",
+        "sha256": "1p6vswq28cx3cwg5cb4m71zysmqjn8kiw7nbxjbriynbk97d0k55"
+      }
+    ]
+  },
+  "MuteRangeOnStop.jsfx": {
+    "latest": [
       {
-        "path": "Data/../../ix_sequences/2 - Accent on 1.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%201.txt",
-        "sha256": "1xyqzzqypww862cggxg5ihw52ibnwn03zdkxy5p03g01b2d43k09"
-      },
+        "path": "Effects/IX/Effects/Audio/../../MuteRangeOnStop.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteRangeOnStop.jsfx",
+        "sha256": "1916202ln69jdxzkh3klpvdbsxa9dsscn4lrq9yfwb5hx3si4q36"
+      }
+    ],
+    "1.0": [
       {
-        "path": "Data/../../ix_sequences/2 - Accent on 2.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/2%20-%20Accent%20on%202.txt",
-        "sha256": "0qnb1wwxy5192q5lscf9yaixhzyll65za5flcvq3as4mzd2dslry"
-      },
+        "path": "Effects/IX/Effects/Audio/../../MuteRangeOnStop.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/MuteRangeOnStop.jsfx",
+        "sha256": "1916202ln69jdxzkh3klpvdbsxa9dsscn4lrq9yfwb5hx3si4q36"
+      }
+    ]
+  },
+  "PhaseAdjustingRouter.jsfx": {
+    "latest": [
       {
-        "path": "Data/../../ix_sequences/3 - Accent on 1.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%201.txt",
-        "sha256": "0ffil8i5fh69b25lk9q7g2z5ai32kjgg6j6bw65qki70zhn6w0s2"
-      },
+        "path": "Effects/IX/Effects/Audio/../../PhaseAdjustingRouter",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/PhaseAdjustingRouter.jsfx",
+        "sha256": "05gydjjk59wn06fvz89y2vpig396wvhja4ybsglpqmq0n4bwy6c5"
+      }
+    ],
+    "1.0": [
       {
-        "path": "Data/../../ix_sequences/3 - Accent on 2.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%202.txt",
-        "sha256": "1bkdxvw7ip6w2719xqamnmmrkyjw1a989hxhqy57qzfkijihvalb"
-      },
+        "path": "Effects/IX/Effects/Audio/../../PhaseAdjustingRouter",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/PhaseAdjustingRouter.jsfx",
+        "sha256": "05gydjjk59wn06fvz89y2vpig396wvhja4ybsglpqmq0n4bwy6c5"
+      }
+    ]
+  },
+  "StereoPhaseInvert.jsfx": {
+    "latest": [
       {
-        "path": "Data/../../ix_sequences/3 - Accent on 3.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/3%20-%20Accent%20on%203.txt",
-        "sha256": "15cmbyd06rfvrbqlfhk20lq8kbw28ywf12fppscc2c264fxqxcpf"
-      },
+        "path": "Effects/IX/Effects/Audio/../../StereoPhaseInvert",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/StereoPhaseInvert.jsfx",
+        "sha256": "10k68pj2wbsp6vf6j69cjprzfpxm92v790vnqqzbmqf395lcand2"
+      }
+    ],
+    "1.0": [
       {
-        "path": "Data/../../ix_sequences/4 - Accent On 1.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%201.txt",
-        "sha256": "0dkszzb6n93kn6dlzhnrh5v9dz08751pj6hiz64mi6gz7rjqkndq"
-      },
+        "path": "Effects/IX/Effects/Audio/../../StereoPhaseInvert",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/StereoPhaseInvert.jsfx",
+        "sha256": "10k68pj2wbsp6vf6j69cjprzfpxm92v790vnqqzbmqf395lcand2"
+      }
+    ]
+  },
+  "Switcher2.jsfx": {
+    "latest": [
       {
-        "path": "Data/../../ix_sequences/4 - Accent On 2.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%202.txt",
-        "sha256": "1hnkp067395yggkm030bb11v0awydm5ym1416cir528b0hcmz92b"
-      },
+        "path": "Effects/IX/Effects/Audio/../../Switcher2",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Switcher2.jsfx",
+        "sha256": "165l96gmag88dsw6riik725nskspps777baai6hzmmsjrask5f21"
+      }
+    ],
+    "1.0": [
       {
-        "path": "Data/../../ix_sequences/4 - Accent On 3.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%203.txt",
-        "sha256": "0ayrfm044wr9gsdc8ap8002dvmv1g6j174dhn3w3lfv5017y5p4v"
-      },
+        "path": "Effects/IX/Effects/Audio/../../Switcher2",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/Switcher2.jsfx",
+        "sha256": "165l96gmag88dsw6riik725nskspps777baai6hzmmsjrask5f21"
+      }
+    ]
+  },
+  "Switcher3.jsfx": {
+    "latest": [
       {
-        "path": "Data/../../ix_sequences/4 - Accent On 4.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/4%20-%20Accent%20On%204.txt",
-        "sha256": "08m9d3ipbn2mh67wd1ibfn08ci5vlq0d4v1jrxablxr3dqnqrp2y"
-      },
+        "path": "Effects/IX/Effects/Audio/../../Switcher3",
+        "url": "https://github.com/IXix/JSFX/raw/d43a6d6e641f66c340d465c9ff1447566649ae9b/Effects/Audio/Switcher3.jsfx",
+        "sha256": "04qyrmfx755bd18xx8jsmni722q5nlpxhgpd3jq54jr9yxyqr4a1"
+      }
+    ],
+    "1.1": [
       {
-        "path": "Data/../../ix_sequences/5 - Accent on 5.txt",
-        "url": "https://github.com/IXix/JSFX/raw/e1cb66c1d5b004190ffbb28d5f762ae457492063/Data/ix_sequences/5%20-%20Accent%20on%205.txt",
-        "sha256": "01c9mnnv1amvhdqgv0d04xphffs6cvg6cr9jmvkz8qngm4pbaf31"
+        "path": "Effects/IX/Effects/Audio/../../Switcher3",
+        "url": "https://github.com/IXix/JSFX/raw/d43a6d6e641f66c340d465c9ff1447566649ae9b/Effects/Audio/Switcher3.jsfx",
+        "sha256": "04qyrmfx755bd18xx8jsmni722q5nlpxhgpd3jq54jr9yxyqr4a1"
+      }
+    ]
+  },
+  "Switcher5.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/Audio/../../Switcher5.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/0f7226842bc175b71adba09316678755bade6d60/Effects/Audio/Switcher5.jsfx",
+        "sha256": "15x70a85s7yxhk9hjf8l115r58fw5aw80wsww85775vlpxy8c9c2"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/IX/Effects/Audio/../../Switcher5.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/0f7226842bc175b71adba09316678755bade6d60/Effects/Audio/Switcher5.jsfx",
+        "sha256": "15x70a85s7yxhk9hjf8l115r58fw5aw80wsww85775vlpxy8c9c2"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/IX/Effects/Audio/../../Switcher5.jsfx",
+        "url": "https://github.com/IXix/JSFX/raw/06d4f9ed8d6cb5ef11d81bc0e660d2d9910e5c53/Effects/Audio/Switcher5.jsfx",
+        "sha256": "0qgxphap83w7w9cp2ym6nydgq6b801al1zzaw940xk19ll2lwj06"
+      }
+    ]
+  },
+  "SwixMitch.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/IX/Effects/Audio/../../SwixMitch",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/SwixMitch.jsfx",
+        "sha256": "0wzp7gr62n151h0cic0992xn0rrcxsvlw0j8grzgvxpccpi09kk5"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/IX/Effects/Audio/../../SwixMitch",
+        "url": "https://github.com/IXix/JSFX/raw/9293715ac22e8010f2e97f43c0bde98df2757cc6/Effects/Audio/SwixMitch.jsfx",
+        "sha256": "0wzp7gr62n151h0cic0992xn0rrcxsvlw0j8grzgvxpccpi09kk5"
       }
     ]
   },

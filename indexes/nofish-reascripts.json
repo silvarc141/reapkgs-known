@@ -1,226 +1,4 @@
 {
-  "nofish_Analyze loudness (integrated) per channel of selected items active take.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Analyze loudness (integrated) per channel of selected items active take.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2bc57ec65848005450bd9ac48b1e82845e7f31ad/Loudness/nofish_Analyze%20loudness%20(integrated)%20per%20channel%20of%20selected%20items%20active%20take.lua",
-        "sha256": "1cxfnlpzykjh2gg03rykvkv506z8mqkcyn4l56mfgwzmsp0vws04"
-      }
-    ],
-    "1.00": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Analyze loudness (integrated) per channel of selected items active take.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2bc57ec65848005450bd9ac48b1e82845e7f31ad/Loudness/nofish_Analyze%20loudness%20(integrated)%20per%20channel%20of%20selected%20items%20active%20take.lua",
-        "sha256": "1cxfnlpzykjh2gg03rykvkv506z8mqkcyn4l56mfgwzmsp0vws04"
-      }
-    ]
-  },
-  "nofish_Analyze loudness of master output in time selection (via temp render).lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Analyze loudness of master output in time selection (via temp render).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c23e5ec2fa44cd122c9bd14c65b9fa9a8881f7ad/Loudness/nofish_Analyze%20loudness%20of%20master%20output%20in%20time%20selection%20(via%20temp%20render).lua",
-        "sha256": "0dhrbny6hzzv83qhfh1sfdfx4pcry1jrx7cmprq42iqgwd722dzi"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Analyze loudness of master output in time selection (via temp render).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c23e5ec2fa44cd122c9bd14c65b9fa9a8881f7ad/Loudness/nofish_Analyze%20loudness%20of%20master%20output%20in%20time%20selection%20(via%20temp%20render).lua",
-        "sha256": "0dhrbny6hzzv83qhfh1sfdfx4pcry1jrx7cmprq42iqgwd722dzi"
-      }
-    ]
-  },
-  "nofish_Normalize loudness of selected items active take to X LUFS max momentary - no prompt.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max momentary - no prompt.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20momentary%20-%20no%20prompt.lua",
-        "sha256": "1p85h574790vs56nn2gh781fcxxmhdkyq1cbgikm5q7xcascl1yy"
-      }
-    ],
-    "1.04": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max momentary - no prompt.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20momentary%20-%20no%20prompt.lua",
-        "sha256": "1p85h574790vs56nn2gh781fcxxmhdkyq1cbgikm5q7xcascl1yy"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max momentary - no prompt.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/9e27d643455ba28ca54965ac54ab62789c903af0/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20momentary%20-%20no%20prompt.lua",
-        "sha256": "0x3q9zwkifak1v9wid7frjd470cnj3cdz42ck394l5h65in18l1m"
-      }
-    ]
-  },
-  "nofish_Normalize loudness of selected items active take to X LUFS max momentary.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max momentary.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20momentary.lua",
-        "sha256": "010czyrgxcwd1f3l6nc2509w9g54xahwdk6602cyzvdhy2kvyc9x"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max momentary.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20momentary.lua",
-        "sha256": "010czyrgxcwd1f3l6nc2509w9g54xahwdk6602cyzvdhy2kvyc9x"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max momentary.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/9e27d643455ba28ca54965ac54ab62789c903af0/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20momentary.lua",
-        "sha256": "1h2fffs1lkbcz5vya02hknh4q0s0r7d90py8pknfsz8g0n23mxq3"
-      }
-    ]
-  },
-  "nofish_Normalize loudness of selected items active take to X LUFS max short term - no prompt.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term - no prompt.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/8c47a87256c8960739735dec4a29a2ce5550af13/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term%20-%20no%20prompt.lua",
-        "sha256": "1b3rn09zx8cfawih03pz5g1qyi622xmh20p9lhj9z3l25dnrwv3m"
-      }
-    ],
-    "1.05": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term - no prompt.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/8c47a87256c8960739735dec4a29a2ce5550af13/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term%20-%20no%20prompt.lua",
-        "sha256": "1b3rn09zx8cfawih03pz5g1qyi622xmh20p9lhj9z3l25dnrwv3m"
-      }
-    ],
-    "1.04": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term - no prompt.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term%20-%20no%20prompt.lua",
-        "sha256": "0pa8r8h0j41m6526dbgsbqg9mi3d6zl5dspxrjclaq6pzk0fzjxr"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term - no prompt.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/dc6c285d971afcdd0d11fedbb593daaacdbc1fc3/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term%20-%20no%20prompt.lua",
-        "sha256": "0ym0vmls14xc8hwvbykl1dijm6jlk0svlvknhdsch1s3ryfkn241"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term - no prompt.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/cebd837ce969f4a0306a9372301520fb972dbdfa/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term%20-%20no%20prompt.lua",
-        "sha256": "0gc8mvdqcqbg29iw5dvb1v49pm9qkz2mxkg2vlk58kr61a9zp1xk"
-      }
-    ]
-  },
-  "nofish_Normalize loudness of selected items active take to X LUFS max short term.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
-        "sha256": "1jllghi1giavr4p3jn6rlr8cakhbwafhjgrkcn0b1lz6sb0dy5zq"
-      }
-    ],
-    "1.03": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
-        "sha256": "1jllghi1giavr4p3jn6rlr8cakhbwafhjgrkcn0b1lz6sb0dy5zq"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/cebd837ce969f4a0306a9372301520fb972dbdfa/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
-        "sha256": "0w38lfwxr4sh4v3agh9z3ifsfv2pbzd4x63s0ih9hz8ms7igwa9d"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/e431fac20627a4836e619024c879fb1f8839b3b4/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
-        "sha256": "0agchmfag0jsgsr20bh6ly75l7rwdxx9g7pxcsf2lmaidva20zz1"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2e27047e6017334988d95dd6b07d5e0286743433/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
-        "sha256": "1rwdnvbdkrb4fhv3cv6s7sd57vfp34sg30awwybwpyrk8ccpafjg"
-      }
-    ]
-  },
-  "nofish_Normalize take pan (Loudness based).lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based) - Set threshold.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based)%20-%20Set%20threshold.lua",
-        "sha256": "0ir591b42yafkqhl74wi1l4b54npzff3hhcd1vqsr6s9s1fk4ah3"
-      },
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based).lua",
-        "sha256": "1lrwhhf5g1v65gmx9aygq45hfxyd129b23gcnfqll8kgfhjb2mxr"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based) - Set threshold.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based)%20-%20Set%20threshold.lua",
-        "sha256": "0ir591b42yafkqhl74wi1l4b54npzff3hhcd1vqsr6s9s1fk4ah3"
-      },
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based).lua",
-        "sha256": "1lrwhhf5g1v65gmx9aygq45hfxyd129b23gcnfqll8kgfhjb2mxr"
-      }
-    ],
-    "1.00": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based) - Set threshold.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/37615b7c5c8ad2720f0044c5f2515ad5f2500454/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based)%20-%20Set%20threshold.lua",
-        "sha256": "0ir591b42yafkqhl74wi1l4b54npzff3hhcd1vqsr6s9s1fk4ah3"
-      },
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based).lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/37615b7c5c8ad2720f0044c5f2515ad5f2500454/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based).lua",
-        "sha256": "0r0rkschvdg2w0qjcwnc53s303avg942jcrhi1k099xnpx5rw648"
-      }
-    ]
-  },
-  "nofish_Set normalize loudness to X LUFS max momentary target value.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Set normalize loudness to X LUFS max momentary target value.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/9e27d643455ba28ca54965ac54ab62789c903af0/Loudness/nofish_Set%20normalize%20loudness%20to%20X%20LUFS%20max%20momentary%20target%20value.lua",
-        "sha256": "12qb42pz0gmj7vyacf1nvzda83izjfmm51nqjr0rr353win6bj9h"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Set normalize loudness to X LUFS max momentary target value.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/9e27d643455ba28ca54965ac54ab62789c903af0/Loudness/nofish_Set%20normalize%20loudness%20to%20X%20LUFS%20max%20momentary%20target%20value.lua",
-        "sha256": "12qb42pz0gmj7vyacf1nvzda83izjfmm51nqjr0rr353win6bj9h"
-      }
-    ]
-  },
-  "nofish_Set normalize loudness to X LUFS max short term target value.lua": {
-    "latest": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Set normalize loudness to X LUFS max short term target value.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/31a29efa5b45eb9c1067cd5efeaa5c51bed4623f/Loudness/nofish_Set%20normalize%20loudness%20to%20X%20LUFS%20max%20short%20term%20target%20value.lua",
-        "sha256": "0q2w0qrma4v8kycrgrszf6078ng07jmfp61fl5izi2ic0ph8b62g"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Set normalize loudness to X LUFS max short term target value.lua",
-        "url": "https://github.com/nofishonfriday/ReaScripts/raw/31a29efa5b45eb9c1067cd5efeaa5c51bed4623f/Loudness/nofish_Set%20normalize%20loudness%20to%20X%20LUFS%20max%20short%20term%20target%20value.lua",
-        "sha256": "0q2w0qrma4v8kycrgrszf6078ng07jmfp61fl5izi2ic0ph8b62g"
-      }
-    ]
-  },
   "Show midi note name in tooltip_nofish mod.lua": {
     "latest": [
       {
@@ -691,6 +469,228 @@
         "path": "Scripts/nofish ReaScripts/misc/nofish_run action - wait x sec - run next action (example).lua",
         "url": "https://github.com/nofishonfriday/ReaScripts/raw/6eb01ea89afe161677231b85c645cccb4f072cb0/misc/nofish_run%20action%20-%20wait%20x%20sec%20-%20run%20next%20action%20(example).lua",
         "sha256": "0y4gmdk15qapxk3vas57znai3fwghb4j1pc2jvxvmbn72ifj91qr"
+      }
+    ]
+  },
+  "nofish_Analyze loudness (integrated) per channel of selected items active take.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Analyze loudness (integrated) per channel of selected items active take.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2bc57ec65848005450bd9ac48b1e82845e7f31ad/Loudness/nofish_Analyze%20loudness%20(integrated)%20per%20channel%20of%20selected%20items%20active%20take.lua",
+        "sha256": "1cxfnlpzykjh2gg03rykvkv506z8mqkcyn4l56mfgwzmsp0vws04"
+      }
+    ],
+    "1.00": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Analyze loudness (integrated) per channel of selected items active take.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2bc57ec65848005450bd9ac48b1e82845e7f31ad/Loudness/nofish_Analyze%20loudness%20(integrated)%20per%20channel%20of%20selected%20items%20active%20take.lua",
+        "sha256": "1cxfnlpzykjh2gg03rykvkv506z8mqkcyn4l56mfgwzmsp0vws04"
+      }
+    ]
+  },
+  "nofish_Analyze loudness of master output in time selection (via temp render).lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Analyze loudness of master output in time selection (via temp render).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c23e5ec2fa44cd122c9bd14c65b9fa9a8881f7ad/Loudness/nofish_Analyze%20loudness%20of%20master%20output%20in%20time%20selection%20(via%20temp%20render).lua",
+        "sha256": "0dhrbny6hzzv83qhfh1sfdfx4pcry1jrx7cmprq42iqgwd722dzi"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Analyze loudness of master output in time selection (via temp render).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/c23e5ec2fa44cd122c9bd14c65b9fa9a8881f7ad/Loudness/nofish_Analyze%20loudness%20of%20master%20output%20in%20time%20selection%20(via%20temp%20render).lua",
+        "sha256": "0dhrbny6hzzv83qhfh1sfdfx4pcry1jrx7cmprq42iqgwd722dzi"
+      }
+    ]
+  },
+  "nofish_Normalize loudness of selected items active take to X LUFS max momentary - no prompt.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max momentary - no prompt.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20momentary%20-%20no%20prompt.lua",
+        "sha256": "1p85h574790vs56nn2gh781fcxxmhdkyq1cbgikm5q7xcascl1yy"
+      }
+    ],
+    "1.04": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max momentary - no prompt.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20momentary%20-%20no%20prompt.lua",
+        "sha256": "1p85h574790vs56nn2gh781fcxxmhdkyq1cbgikm5q7xcascl1yy"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max momentary - no prompt.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/9e27d643455ba28ca54965ac54ab62789c903af0/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20momentary%20-%20no%20prompt.lua",
+        "sha256": "0x3q9zwkifak1v9wid7frjd470cnj3cdz42ck394l5h65in18l1m"
+      }
+    ]
+  },
+  "nofish_Normalize loudness of selected items active take to X LUFS max momentary.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max momentary.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20momentary.lua",
+        "sha256": "010czyrgxcwd1f3l6nc2509w9g54xahwdk6602cyzvdhy2kvyc9x"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max momentary.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20momentary.lua",
+        "sha256": "010czyrgxcwd1f3l6nc2509w9g54xahwdk6602cyzvdhy2kvyc9x"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max momentary.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/9e27d643455ba28ca54965ac54ab62789c903af0/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20momentary.lua",
+        "sha256": "1h2fffs1lkbcz5vya02hknh4q0s0r7d90py8pknfsz8g0n23mxq3"
+      }
+    ]
+  },
+  "nofish_Normalize loudness of selected items active take to X LUFS max short term - no prompt.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term - no prompt.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/8c47a87256c8960739735dec4a29a2ce5550af13/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term%20-%20no%20prompt.lua",
+        "sha256": "1b3rn09zx8cfawih03pz5g1qyi622xmh20p9lhj9z3l25dnrwv3m"
+      }
+    ],
+    "1.05": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term - no prompt.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/8c47a87256c8960739735dec4a29a2ce5550af13/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term%20-%20no%20prompt.lua",
+        "sha256": "1b3rn09zx8cfawih03pz5g1qyi622xmh20p9lhj9z3l25dnrwv3m"
+      }
+    ],
+    "1.04": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term - no prompt.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term%20-%20no%20prompt.lua",
+        "sha256": "0pa8r8h0j41m6526dbgsbqg9mi3d6zl5dspxrjclaq6pzk0fzjxr"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term - no prompt.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/dc6c285d971afcdd0d11fedbb593daaacdbc1fc3/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term%20-%20no%20prompt.lua",
+        "sha256": "0ym0vmls14xc8hwvbykl1dijm6jlk0svlvknhdsch1s3ryfkn241"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term - no prompt.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/cebd837ce969f4a0306a9372301520fb972dbdfa/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term%20-%20no%20prompt.lua",
+        "sha256": "0gc8mvdqcqbg29iw5dvb1v49pm9qkz2mxkg2vlk58kr61a9zp1xk"
+      }
+    ]
+  },
+  "nofish_Normalize loudness of selected items active take to X LUFS max short term.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
+        "sha256": "1jllghi1giavr4p3jn6rlr8cakhbwafhjgrkcn0b1lz6sb0dy5zq"
+      }
+    ],
+    "1.03": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/7e84b1d140e4732ef4349dc7a7c7dde8c5fbb34a/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
+        "sha256": "1jllghi1giavr4p3jn6rlr8cakhbwafhjgrkcn0b1lz6sb0dy5zq"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/cebd837ce969f4a0306a9372301520fb972dbdfa/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
+        "sha256": "0w38lfwxr4sh4v3agh9z3ifsfv2pbzd4x63s0ih9hz8ms7igwa9d"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/e431fac20627a4836e619024c879fb1f8839b3b4/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
+        "sha256": "0agchmfag0jsgsr20bh6ly75l7rwdxx9g7pxcsf2lmaidva20zz1"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize loudness of selected items active take to X LUFS max short term.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/2e27047e6017334988d95dd6b07d5e0286743433/Loudness/nofish_Normalize%20loudness%20of%20selected%20items%20active%20take%20to%20X%20LUFS%20max%20short%20term.lua",
+        "sha256": "1rwdnvbdkrb4fhv3cv6s7sd57vfp34sg30awwybwpyrk8ccpafjg"
+      }
+    ]
+  },
+  "nofish_Normalize take pan (Loudness based).lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based) - Set threshold.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based)%20-%20Set%20threshold.lua",
+        "sha256": "0ir591b42yafkqhl74wi1l4b54npzff3hhcd1vqsr6s9s1fk4ah3"
+      },
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based).lua",
+        "sha256": "1lrwhhf5g1v65gmx9aygq45hfxyd129b23gcnfqll8kgfhjb2mxr"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based) - Set threshold.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based)%20-%20Set%20threshold.lua",
+        "sha256": "0ir591b42yafkqhl74wi1l4b54npzff3hhcd1vqsr6s9s1fk4ah3"
+      },
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/20905adcbc774f9cf2b84d509f53d497a38e901f/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based).lua",
+        "sha256": "1lrwhhf5g1v65gmx9aygq45hfxyd129b23gcnfqll8kgfhjb2mxr"
+      }
+    ],
+    "1.00": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based) - Set threshold.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/37615b7c5c8ad2720f0044c5f2515ad5f2500454/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based)%20-%20Set%20threshold.lua",
+        "sha256": "0ir591b42yafkqhl74wi1l4b54npzff3hhcd1vqsr6s9s1fk4ah3"
+      },
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Normalize take pan (Loudness based).lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/37615b7c5c8ad2720f0044c5f2515ad5f2500454/Loudness/nofish_Normalize%20take%20pan%20(Loudness%20based).lua",
+        "sha256": "0r0rkschvdg2w0qjcwnc53s303avg942jcrhi1k099xnpx5rw648"
+      }
+    ]
+  },
+  "nofish_Set normalize loudness to X LUFS max momentary target value.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Set normalize loudness to X LUFS max momentary target value.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/9e27d643455ba28ca54965ac54ab62789c903af0/Loudness/nofish_Set%20normalize%20loudness%20to%20X%20LUFS%20max%20momentary%20target%20value.lua",
+        "sha256": "12qb42pz0gmj7vyacf1nvzda83izjfmm51nqjr0rr353win6bj9h"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Set normalize loudness to X LUFS max momentary target value.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/9e27d643455ba28ca54965ac54ab62789c903af0/Loudness/nofish_Set%20normalize%20loudness%20to%20X%20LUFS%20max%20momentary%20target%20value.lua",
+        "sha256": "12qb42pz0gmj7vyacf1nvzda83izjfmm51nqjr0rr353win6bj9h"
+      }
+    ]
+  },
+  "nofish_Set normalize loudness to X LUFS max short term target value.lua": {
+    "latest": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Set normalize loudness to X LUFS max short term target value.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/31a29efa5b45eb9c1067cd5efeaa5c51bed4623f/Loudness/nofish_Set%20normalize%20loudness%20to%20X%20LUFS%20max%20short%20term%20target%20value.lua",
+        "sha256": "0q2w0qrma4v8kycrgrszf6078ng07jmfp61fl5izi2ic0ph8b62g"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/nofish ReaScripts/Loudness/nofish_Set normalize loudness to X LUFS max short term target value.lua",
+        "url": "https://github.com/nofishonfriday/ReaScripts/raw/31a29efa5b45eb9c1067cd5efeaa5c51bed4623f/Loudness/nofish_Set%20normalize%20loudness%20to%20X%20LUFS%20max%20short%20term%20target%20value.lua",
+        "sha256": "0q2w0qrma4v8kycrgrszf6078ng07jmfp61fl5izi2ic0ph8b62g"
       }
     ]
   },

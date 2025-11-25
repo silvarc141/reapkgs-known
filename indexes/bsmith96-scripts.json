@@ -1,53 +1,4 @@
 {
-  "Autopan - Set tempo.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Miscellaneous/FX Presets/Reasurround autopan.RPL",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/b8e5d7808a8b541ebc574e3653b94b094c8eafa8/Miscellaneous/FX%20Presets/Reasurround%20autopan.RPL",
-        "sha256": "1mdr2jb7avr8dwv62c0y3ik77vg3rd0f95xima1rrmfka4c9ii3r"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Miscellaneous/bsmith96_Set tempo.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/b8e5d7808a8b541ebc574e3653b94b094c8eafa8/Miscellaneous/Autopan%20-%20Set%20tempo.lua",
-        "sha256": "0zddxjy4kiqy1l2jwkvz540chv59dps1rvjf4cb4i5valflwcg0v"
-      }
-    ],
-    "1.6": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Miscellaneous/FX Presets/Reasurround autopan.RPL",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/b8e5d7808a8b541ebc574e3653b94b094c8eafa8/Miscellaneous/FX%20Presets/Reasurround%20autopan.RPL",
-        "sha256": "1mdr2jb7avr8dwv62c0y3ik77vg3rd0f95xima1rrmfka4c9ii3r"
-      },
-      {
-        "path": "Scripts/BSmith96 Scripts/Miscellaneous/bsmith96_Set tempo.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/b8e5d7808a8b541ebc574e3653b94b094c8eafa8/Miscellaneous/Autopan%20-%20Set%20tempo.lua",
-        "sha256": "0zddxjy4kiqy1l2jwkvz540chv59dps1rvjf4cb4i5valflwcg0v"
-      }
-    ]
-  },
-  "VCA Assign Template.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Miscellaneous/VCA Assign Template.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3a64b41837b2b92c0ea4982a40321d046882e453/Miscellaneous/VCA%20Assign%20Template.lua",
-        "sha256": "10lqn6d1wj5dl88z3cicdrv22ckds57n7pjx1da1yk231c71jypq"
-      }
-    ],
-    "2.1": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Miscellaneous/VCA Assign Template.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3a64b41837b2b92c0ea4982a40321d046882e453/Miscellaneous/VCA%20Assign%20Template.lua",
-        "sha256": "10lqn6d1wj5dl88z3cicdrv22ckds57n7pjx1da1yk231c71jypq"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Scripts/BSmith96 Scripts/Miscellaneous/VCA Assign Template.lua",
-        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/00cef1e4b944f1562e5e07c146825bad77d18e2e/Miscellaneous/VCA%20Assign%20Template.lua",
-        "sha256": "06nl68mn77pj0s409fmm1bp3a4hz21gi94v7qh9b1sqf7zss60wh"
-      }
-    ]
-  },
   "Arm All Tracks Within Folders.lua": {
     "latest": [
       {
@@ -996,6 +947,55 @@
         "path": "Scripts/BSmith96 Scripts/Markers/Locate to marker.lua",
         "url": "https://github.com/bsmith96/Reaper-Scripts/raw/00cef1e4b944f1562e5e07c146825bad77d18e2e/Markers/Locate%20to%20marker.lua",
         "sha256": "18ck2fy74ri2qz4svw6hlkfrvgw9kvzf8bg54bfsy6z7g8m53sik"
+      }
+    ]
+  },
+  "Autopan - Set tempo.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Miscellaneous/FX Presets/Reasurround autopan.RPL",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/b8e5d7808a8b541ebc574e3653b94b094c8eafa8/Miscellaneous/FX%20Presets/Reasurround%20autopan.RPL",
+        "sha256": "1mdr2jb7avr8dwv62c0y3ik77vg3rd0f95xima1rrmfka4c9ii3r"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Miscellaneous/bsmith96_Set tempo.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/b8e5d7808a8b541ebc574e3653b94b094c8eafa8/Miscellaneous/Autopan%20-%20Set%20tempo.lua",
+        "sha256": "0zddxjy4kiqy1l2jwkvz540chv59dps1rvjf4cb4i5valflwcg0v"
+      }
+    ],
+    "1.6": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Miscellaneous/FX Presets/Reasurround autopan.RPL",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/b8e5d7808a8b541ebc574e3653b94b094c8eafa8/Miscellaneous/FX%20Presets/Reasurround%20autopan.RPL",
+        "sha256": "1mdr2jb7avr8dwv62c0y3ik77vg3rd0f95xima1rrmfka4c9ii3r"
+      },
+      {
+        "path": "Scripts/BSmith96 Scripts/Miscellaneous/bsmith96_Set tempo.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/b8e5d7808a8b541ebc574e3653b94b094c8eafa8/Miscellaneous/Autopan%20-%20Set%20tempo.lua",
+        "sha256": "0zddxjy4kiqy1l2jwkvz540chv59dps1rvjf4cb4i5valflwcg0v"
+      }
+    ]
+  },
+  "VCA Assign Template.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Miscellaneous/VCA Assign Template.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3a64b41837b2b92c0ea4982a40321d046882e453/Miscellaneous/VCA%20Assign%20Template.lua",
+        "sha256": "10lqn6d1wj5dl88z3cicdrv22ckds57n7pjx1da1yk231c71jypq"
+      }
+    ],
+    "2.1": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Miscellaneous/VCA Assign Template.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/3a64b41837b2b92c0ea4982a40321d046882e453/Miscellaneous/VCA%20Assign%20Template.lua",
+        "sha256": "10lqn6d1wj5dl88z3cicdrv22ckds57n7pjx1da1yk231c71jypq"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Scripts/BSmith96 Scripts/Miscellaneous/VCA Assign Template.lua",
+        "url": "https://github.com/bsmith96/Reaper-Scripts/raw/00cef1e4b944f1562e5e07c146825bad77d18e2e/Miscellaneous/VCA%20Assign%20Template.lua",
+        "sha256": "06nl68mn77pj0s409fmm1bp3a4hz21gi94v7qh9b1sqf7zss60wh"
       }
     ]
   }

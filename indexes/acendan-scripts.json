@@ -4381,153 +4381,197 @@
       }
     ]
   },
-  "acendan_Continuously select all items in time selection background.lua": {
+  "acendan_Clear Saved URL By Track Name.lua": {
     "latest": [
       {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Continuously select all items in time selection background.lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Time%20Selection/acendan_Continuously%20select%20all%20items%20in%20time%20selection%20background.lua",
-        "sha256": "15kx8g21jh5v3zlj20wjv8y4yy6pl7gjgjy50x6ikd73rkds8cmx"
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Clear Saved URL By Track Name.lua",
+        "url": "https://github.com/acendan/reascripts/raw/b07f2392f55b9fcad3faf81e54868c71b70f8c00/Tracks%20Properties/acendan_Clear%20Saved%20URL%20By%20Track%20Name.lua",
+        "sha256": "018z1yj4i79x15njq3b0qzhmzd859aj7hwz5ngzzdv39r05f4488"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Continuously select all items in time selection background.lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Time%20Selection/acendan_Continuously%20select%20all%20items%20in%20time%20selection%20background.lua",
-        "sha256": "15kx8g21jh5v3zlj20wjv8y4yy6pl7gjgjy50x6ikd73rkds8cmx"
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Clear Saved URL By Track Name.lua",
+        "url": "https://github.com/acendan/reascripts/raw/b07f2392f55b9fcad3faf81e54868c71b70f8c00/Tracks%20Properties/acendan_Clear%20Saved%20URL%20By%20Track%20Name.lua",
+        "sha256": "018z1yj4i79x15njq3b0qzhmzd859aj7hwz5ngzzdv39r05f4488"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Continuously select all items in time selection background.lua",
-        "url": "https://github.com/acendan/reascripts/raw/76b5b7499051662ddeec9db849d6a21e24a152e2/Time%20Selection/acendan_Continuously%20select%20all%20items%20in%20time%20selection%20background.lua",
-        "sha256": "06zqzy7dhjay3dacdbvrx97xkxv6nq1s3qfifryfvkfhp10dmncm"
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Clear Saved URL By Track Name.lua",
+        "url": "https://github.com/acendan/reascripts/raw/184c5b1c8d0e69481b45ab168d4b3f5026175acc/Tracks%20Properties/acendan_Clear%20Saved%20URL%20By%20Track%20Name.lua",
+        "sha256": "19xkksv5mp5pzy3lv0v4ml2k3fiks1w89x3pa9mcyyr6v48s4dfp"
       }
     ]
   },
-  "acendan_Create time selection from edit cursor to mouse cursor.lua": {
+  "acendan_Insert new track respect folders.lua": {
     "latest": [
       {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Create time selection from edit cursor to mouse cursor.lua",
-        "url": "https://github.com/acendan/reascripts/raw/88987585c1ad149ea372e869be58340aa66be699/Time%20Selection/acendan_Create%20time%20selection%20from%20edit%20cursor%20to%20mouse%20cursor.lua",
-        "sha256": "040isq024rmhak57jvh4hfg95ixa45hk2w343ryxzakvxvbqf28q"
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Insert new track respect folders.lua",
+        "url": "https://github.com/acendan/reascripts/raw/6e7799997010f2415a26be66e6731d11bd5c6ab7/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua",
+        "sha256": "010v0ifk26bxc4gg8vkp0rzwi0b2zkn416lazwm4hh82zh6wzlbm"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Insert new track respect folders.lua",
+        "url": "https://github.com/acendan/reascripts/raw/6e7799997010f2415a26be66e6731d11bd5c6ab7/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua",
+        "sha256": "010v0ifk26bxc4gg8vkp0rzwi0b2zkn416lazwm4hh82zh6wzlbm"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Insert new track respect folders.lua",
+        "url": "https://github.com/acendan/reascripts/raw/9a63a7dda301d1af165a8b9742d6355488206f59/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua",
+        "sha256": "0cwbhls81b9g8qk3qbwj4mdz3ivfa9b55dfpaj1is87pvh358f9b"
+      }
+    ],
+    "1.2.1": [
+      {
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Insert new track respect folders.lua",
+        "url": "https://github.com/acendan/reascripts/raw/68dd7ae8851f4538b0b33256e8298567e3630493/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua",
+        "sha256": "02la2vl0ghzv6a02i3q6ad7sfw936zp0hahpq3j6fnchmhil386w"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Insert new track respect folders.lua",
+        "url": "https://github.com/acendan/reascripts/raw/03c6305e7cad1e83dc9e3cfd831a240cad11480b/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua",
+        "sha256": "1zp49xsxxhcb4880wzl3vkl5b8v2w1y5m0lqn8y40wm9nrbbdxkd"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Create time selection from edit cursor to mouse cursor.lua",
-        "url": "https://github.com/acendan/reascripts/raw/88987585c1ad149ea372e869be58340aa66be699/Time%20Selection/acendan_Create%20time%20selection%20from%20edit%20cursor%20to%20mouse%20cursor.lua",
-        "sha256": "040isq024rmhak57jvh4hfg95ixa45hk2w343ryxzakvxvbqf28q"
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Insert new track respect folders.lua",
+        "url": "https://github.com/acendan/reascripts/raw/fda368a709152f3017b4e7235179da361a9c5f19/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua",
+        "sha256": "1xc1mk5mdzjirgfry75fc3fqyaaabvklw8z65hbgk47iqnhprld9"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Create time selection from edit cursor to mouse cursor.lua",
-        "url": "https://github.com/acendan/reascripts/raw/30dcab3194ed4b826bb8a3c3453275c4f7a5c4d6/Time%20Selection/acendan_Create%20time%20selection%20from%20edit%20cursor%20to%20mouse%20cursor.lua",
-        "sha256": "02f619hai5rmrzbg08xpyhklhj88fvdnxd9nigfk3ybsvfafmdzn"
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Insert new track respect folders.lua",
+        "url": "https://github.com/acendan/reascripts/raw/9cb27ab195f4754ecfd3d318bc1bb9204e4cb3b8/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua",
+        "sha256": "11rcyk5nq5wj52jpf9gypagm35hzwv0c4vg12a955gn22xw2qybf"
       }
     ]
   },
-  "acendan_Extend right edge of time selection by x seconds.lua": {
+  "acendan_Search all tracks for FX by name.lua": {
     "latest": [
       {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 1 second.lua",
-        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
-        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 2 seconds.lua",
-        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
-        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 3 seconds.lua",
-        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
-        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 4 seconds.lua",
-        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
-        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 5 seconds.lua",
-        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
-        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Search all tracks for FX by name.lua",
+        "url": "https://github.com/acendan/reascripts/raw/6eb71b79c6392b0238d3117c92c65b1fb0b28e0e/Tracks%20Properties/acendan_Search%20all%20tracks%20for%20FX%20by%20name.lua",
+        "sha256": "0qi4498crfp1p9rz4lm16fxqcca8817s4v8bhv3zhl4axyjayhhm"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 1 second.lua",
-        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
-        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 2 seconds.lua",
-        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
-        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 3 seconds.lua",
-        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
-        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 4 seconds.lua",
-        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
-        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 5 seconds.lua",
-        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
-        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Search all tracks for FX by name.lua",
+        "url": "https://github.com/acendan/reascripts/raw/6eb71b79c6392b0238d3117c92c65b1fb0b28e0e/Tracks%20Properties/acendan_Search%20all%20tracks%20for%20FX%20by%20name.lua",
+        "sha256": "0qi4498crfp1p9rz4lm16fxqcca8817s4v8bhv3zhl4axyjayhhm"
       }
     ]
   },
-  "acendan_Extend time selection left to start of project and select items.lua": {
+  "acendan_Select tracks when making marquee selection.lua": {
     "latest": [
       {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend time selection left to start of project and select items.lua",
-        "url": "https://github.com/acendan/reascripts/raw/1369384d677fe270b89eb24fef0514e4f094d724/Time%20Selection/acendan_Extend%20time%20selection%20left%20to%20start%20of%20project%20and%20select%20items.lua",
-        "sha256": "06amm9i3kxyks62mnx0l6zz9kzg7pa0c5kas76n76n2fimh618k7"
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
+        "url": "https://github.com/acendan/reascripts/raw/8c1438dafd89223e8442625df34cd1663ae52f91/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
+        "sha256": "11h8hj3s4k2rn0r70d33glcs32g19viqxghcav2ip9hwkvw7i7c3"
+      }
+    ],
+    "2.1": [
+      {
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
+        "url": "https://github.com/acendan/reascripts/raw/8c1438dafd89223e8442625df34cd1663ae52f91/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
+        "sha256": "11h8hj3s4k2rn0r70d33glcs32g19viqxghcav2ip9hwkvw7i7c3"
+      }
+    ],
+    "2.0": [
+      {
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
+        "url": "https://github.com/acendan/reascripts/raw/bb918605f737e0836a19374dc11eec92d52ec2e6/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
+        "sha256": "0id423vmi4kn941r90z5cmm17ypis2iqfdiwnyl2f2ffmhic0q4n"
+      }
+    ],
+    "1.5": [
+      {
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
+        "url": "https://github.com/acendan/reascripts/raw/4c30e38b198f3b81a5691a50860e3439754c3f36/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
+        "sha256": "086w4l2c6kzrrlj7181g6wbrivrp7d44ykci3602lwbi5p7by505"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
+        "url": "https://github.com/acendan/reascripts/raw/30871adf59fc851b3b55231e8f4af3707dd3efd6/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
+        "sha256": "06sl6qqnqgfdh4798iy5nb7h1qpskvd92vnv3as2nj0dws7fphqc"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
+        "url": "https://github.com/acendan/reascripts/raw/81527fd1f9f7634d61b7aa416d1416491bc7219e/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
+        "sha256": "19cpa1382qlrkpgf54rpgf3mrfxcmzmpvn715bzq48fhczqhr0w6"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
+        "url": "https://github.com/acendan/reascripts/raw/e57b21bca218ebbb158c94f664521e5bd195acc1/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
+        "sha256": "1s717zsd9fhvw2p057nm8bs66mrysg9ylfpwwwws0w925k74nl5d"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
+        "url": "https://github.com/acendan/reascripts/raw/edf9933cf61ab8d2c1540c2af3fad857ef143811/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
+        "sha256": "1lg2cpy1i3igp2ffys0ayhnn7s1kqbrqqp3vplyb2dxb3jhg5r0m"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend time selection left to start of project and select items.lua",
-        "url": "https://github.com/acendan/reascripts/raw/1369384d677fe270b89eb24fef0514e4f094d724/Time%20Selection/acendan_Extend%20time%20selection%20left%20to%20start%20of%20project%20and%20select%20items.lua",
-        "sha256": "06amm9i3kxyks62mnx0l6zz9kzg7pa0c5kas76n76n2fimh618k7"
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
+        "url": "https://github.com/acendan/reascripts/raw/1fc2cc71dd35f33feccfa198a9116b026bc4c6cf/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
+        "sha256": "18zxzhcbjak884mirxkda5zlg5m93r69h7xir6is369x7nw06ihs"
       }
     ]
   },
-  "acendan_Select from edit cursor to start of project (items and time selection).lua": {
+  "acendan_Store and Open saved URL by track name.lua": {
     "latest": [
       {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Select from edit cursor to start of project (items and time selection).lua",
-        "url": "https://github.com/acendan/reascripts/raw/a9911536a9e73982e511d88d25e4a82f18e095a7/Time%20Selection/acendan_Select%20from%20edit%20cursor%20to%20start%20of%20project%20(items%20and%20time%20selection).lua",
-        "sha256": "0vpjmk0c1dimaws8zdn2iycjnxjzlr9w36qfabvp6is3dq1lh58d"
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Store and Open saved URL by track name.lua",
+        "url": "https://github.com/acendan/reascripts/raw/b07f2392f55b9fcad3faf81e54868c71b70f8c00/Tracks%20Properties/acendan_Store%20and%20Open%20saved%20URL%20by%20track%20name.lua",
+        "sha256": "19qlyc1gncl45hw0rcllrhj5lmhk07dvvi8wliadblbcqd8x9w05"
       }
     ],
-    "1.0": [
+    "1.1": [
       {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Select from edit cursor to start of project (items and time selection).lua",
-        "url": "https://github.com/acendan/reascripts/raw/a9911536a9e73982e511d88d25e4a82f18e095a7/Time%20Selection/acendan_Select%20from%20edit%20cursor%20to%20start%20of%20project%20(items%20and%20time%20selection).lua",
-        "sha256": "0vpjmk0c1dimaws8zdn2iycjnxjzlr9w36qfabvp6is3dq1lh58d"
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Store and Open saved URL by track name.lua",
+        "url": "https://github.com/acendan/reascripts/raw/b07f2392f55b9fcad3faf81e54868c71b70f8c00/Tracks%20Properties/acendan_Store%20and%20Open%20saved%20URL%20by%20track%20name.lua",
+        "sha256": "19qlyc1gncl45hw0rcllrhj5lmhk07dvvi8wliadblbcqd8x9w05"
       }
     ]
   },
-  "acendan_Select from mouse cursor to start of project (items and time selection).lua": {
+  "acendan_View Saved URLs By Track Name.lua": {
     "latest": [
       {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Select from mouse cursor to start of project (items and time selection).lua",
-        "url": "https://github.com/acendan/reascripts/raw/a9911536a9e73982e511d88d25e4a82f18e095a7/Time%20Selection/acendan_Select%20from%20mouse%20cursor%20to%20start%20of%20project%20(items%20and%20time%20selection).lua",
-        "sha256": "0i9hhgaqsip49vz367ccjhxkr38k2c29glnq71d9mqznpixfs48x"
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_View Saved URLs By Track Name.lua",
+        "url": "https://github.com/acendan/reascripts/raw/b07f2392f55b9fcad3faf81e54868c71b70f8c00/Tracks%20Properties/acendan_View%20Saved%20URLs%20By%20Track%20Name.lua",
+        "sha256": "1pzxlffn0qlwzrr0hkc76zmgn4x7cz36i7gvv7dxhg8ixw394zdj"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_View Saved URLs By Track Name.lua",
+        "url": "https://github.com/acendan/reascripts/raw/b07f2392f55b9fcad3faf81e54868c71b70f8c00/Tracks%20Properties/acendan_View%20Saved%20URLs%20By%20Track%20Name.lua",
+        "sha256": "1pzxlffn0qlwzrr0hkc76zmgn4x7cz36i7gvv7dxhg8ixw394zdj"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Select from mouse cursor to start of project (items and time selection).lua",
-        "url": "https://github.com/acendan/reascripts/raw/a9911536a9e73982e511d88d25e4a82f18e095a7/Time%20Selection/acendan_Select%20from%20mouse%20cursor%20to%20start%20of%20project%20(items%20and%20time%20selection).lua",
-        "sha256": "0i9hhgaqsip49vz367ccjhxkr38k2c29glnq71d9mqznpixfs48x"
+        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_View Saved URLs By Track Name.lua",
+        "url": "https://github.com/acendan/reascripts/raw/184c5b1c8d0e69481b45ab168d4b3f5026175acc/Tracks%20Properties/acendan_View%20Saved%20URLs%20By%20Track%20Name.lua",
+        "sha256": "12qcp1v4f4dr6rf9cf9iqmxs9yjzszzqywpwa79c3b0dc6sgvmdy"
       }
     ]
   },
@@ -7217,6 +7261,362 @@
         "path": "Scripts/ACendan Scripts/Various/acendan_Universal Category Renaming Tool.lua",
         "url": "https://github.com/acendan/reascripts/raw/35bb93c511916029b0304aed63b72a423929e06f/Various/acendan_Universal%20Category%20Renaming%20Tool.lua",
         "sha256": "1dcgf0aqrkgwzfl67xir6p1ba14f19csscw2llgw1sqaqvsciphz"
+      }
+    ]
+  },
+  "acendan_Create video processor text items for all project markers on new track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project markers on new track.lua",
+        "url": "https://github.com/acendan/reascripts/raw/be48deadef7b49fc572cd276d195c8af60ab5fdf/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua",
+        "sha256": "1qsjz7754dg5f2ff7vpkyj7ya5ak7i93bfr2dpzgdr4xcd49qmq3"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Text Overlay Preset.txt",
+        "url": "https://github.com/acendan/reascripts/raw/be48deadef7b49fc572cd276d195c8af60ab5fdf/Video/acendan_Text%20Overlay%20Preset.txt",
+        "sha256": "0jfzc036rwzzsz40mksayhgpdlgjcmmrgzsyr551rcn1570wsxb7"
+      }
+    ],
+    "1.4": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project markers on new track.lua",
+        "url": "https://github.com/acendan/reascripts/raw/be48deadef7b49fc572cd276d195c8af60ab5fdf/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua",
+        "sha256": "1qsjz7754dg5f2ff7vpkyj7ya5ak7i93bfr2dpzgdr4xcd49qmq3"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Text Overlay Preset.txt",
+        "url": "https://github.com/acendan/reascripts/raw/be48deadef7b49fc572cd276d195c8af60ab5fdf/Video/acendan_Text%20Overlay%20Preset.txt",
+        "sha256": "0jfzc036rwzzsz40mksayhgpdlgjcmmrgzsyr551rcn1570wsxb7"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project markers on new track.lua",
+        "url": "https://github.com/acendan/reascripts/raw/d6333f18395a8deaf02f273ed3385cc610a31076/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua",
+        "sha256": "133i60gjs4cnyw9x47x1bwp8776waq6l5m3blz1xiyn60fr2jqm8"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Text Overlay Preset.txt",
+        "url": "https://github.com/acendan/reascripts/raw/d6333f18395a8deaf02f273ed3385cc610a31076/Video/acendan_Text%20Overlay%20Preset.txt",
+        "sha256": "0jfzc036rwzzsz40mksayhgpdlgjcmmrgzsyr551rcn1570wsxb7"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project markers on new track.lua",
+        "url": "https://github.com/acendan/reascripts/raw/cf87238cc82acdc6acca3ada89ddaa4ba8318e94/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua",
+        "sha256": "19vgdc01g37bcfl8rwbr5jxdca0vxjj43vbw001ydha2q37a6nir"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Text Overlay Preset.txt",
+        "url": "https://github.com/acendan/reascripts/raw/cf87238cc82acdc6acca3ada89ddaa4ba8318e94/Video/acendan_Text%20Overlay%20Preset.txt",
+        "sha256": "0jfzc036rwzzsz40mksayhgpdlgjcmmrgzsyr551rcn1570wsxb7"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project markers on new track.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3ef6883efd8324935e1e8bf4d96eb9b0e0790f64/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua",
+        "sha256": "1sp1al5405rhq4hckqz1zv5kg427m4d5s189fhb3qxarsmigpskd"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Text Overlay Preset.txt",
+        "url": "https://github.com/acendan/reascripts/raw/3ef6883efd8324935e1e8bf4d96eb9b0e0790f64/Video/acendan_Text%20Overlay%20Preset.txt",
+        "sha256": "0jfzc036rwzzsz40mksayhgpdlgjcmmrgzsyr551rcn1570wsxb7"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project markers on new track.lua",
+        "url": "https://github.com/acendan/reascripts/raw/cdb21bd9d8013614889f778c7c4782115f13d892/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua",
+        "sha256": "16fqq23ywnw79xhfmnshrpr1xmj5fl51ar5ya7ycklm6x83zpbvg"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Text Overlay Preset.txt",
+        "url": "https://github.com/acendan/reascripts/raw/cdb21bd9d8013614889f778c7c4782115f13d892/Video/acendan_Text%20Overlay%20Preset.txt",
+        "sha256": "0jfzc036rwzzsz40mksayhgpdlgjcmmrgzsyr551rcn1570wsxb7"
+      }
+    ]
+  },
+  "acendan_Create video processor text items for all project regions on new track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project regions on new track.lua",
+        "url": "https://github.com/acendan/reascripts/raw/cf87238cc82acdc6acca3ada89ddaa4ba8318e94/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20regions%20on%20new%20track.lua",
+        "sha256": "0z1v28395m9v66xqp1xwp7vlha3n2f6g7r7hbm4pnfj4h9lsiknm"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project regions on new track.lua",
+        "url": "https://github.com/acendan/reascripts/raw/cf87238cc82acdc6acca3ada89ddaa4ba8318e94/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20regions%20on%20new%20track.lua",
+        "sha256": "0z1v28395m9v66xqp1xwp7vlha3n2f6g7r7hbm4pnfj4h9lsiknm"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project regions on new track.lua",
+        "url": "https://github.com/acendan/reascripts/raw/3ef6883efd8324935e1e8bf4d96eb9b0e0790f64/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20regions%20on%20new%20track.lua",
+        "sha256": "001gi5d85ifxa033b01r8xgzjv3p6w2qddw2n4ysl6w811bif0yq"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project regions on new track.lua",
+        "url": "https://github.com/acendan/reascripts/raw/cdb21bd9d8013614889f778c7c4782115f13d892/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20regions%20on%20new%20track.lua",
+        "sha256": "0d9bdy2fg751sh80v4g3db8b8c4ryv0ib7vsxwpd66238wrz7vly"
+      }
+    ]
+  },
+  "acendan_Prompt to match project frame rate with first video item import - background.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Prompt to match project frame rate with first video item import.lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Prompt%20to%20match%20project%20frame%20rate%20with%20first%20video%20item%20import%20-%20background.lua",
+        "sha256": "19lyr4xixpvs8szfi4i7bgih64768yqz29vppix0k4apg5r5zfww"
+      }
+    ],
+    "1.3": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Prompt to match project frame rate with first video item import.lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Prompt%20to%20match%20project%20frame%20rate%20with%20first%20video%20item%20import%20-%20background.lua",
+        "sha256": "19lyr4xixpvs8szfi4i7bgih64768yqz29vppix0k4apg5r5zfww"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Prompt to match project frame rate with first video item import.lua",
+        "url": "https://github.com/acendan/reascripts/raw/006c0cc753680182d1624cd1cba3aaa89ccf6249/Video/acendan_Prompt%20to%20match%20project%20frame%20rate%20with%20first%20video%20item%20import%20-%20background.lua",
+        "sha256": "1khvdqalpz9rp095d42xc9zrj440jsa5v022qpwnw46sj8wb17k3"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Prompt to match project frame rate with first video item import.lua",
+        "url": "https://github.com/acendan/reascripts/raw/b055ee050d5efb597d52753ee6b8ab69bce95622/Video/acendan_Prompt%20to%20match%20project%20frame%20rate%20with%20first%20video%20item%20import%20-%20background.lua",
+        "sha256": "0z6y6w29lqwqn863sswak4p89n4i1x2jkcwssamzf0hx3ymhb2rb"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Prompt to match project frame rate with first video item import.lua",
+        "url": "https://github.com/acendan/reascripts/raw/8e16519cbf0793e4813e73f27d59d22e6442a563/Video/acendan_Prompt%20to%20match%20project%20frame%20rate%20with%20first%20video%20item%20import%20-%20background.lua",
+        "sha256": "1b8g1a256wnz88l7rjv82qscszamlx7zp9shggbc1cv3zdlhb9l6"
+      }
+    ]
+  },
+  "acendan_Set project video frame rate keeping session timecode start.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (23.976).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (24).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (25).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97DF).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97ND).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (30).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (48).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (50).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (60).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (75).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      }
+    ],
+    "1.2": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (23.976).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (24).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (25).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97DF).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97ND).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (30).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (48).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (50).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (60).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (75).lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (23.976).lua",
+        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (24).lua",
+        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (25).lua",
+        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97DF).lua",
+        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97ND).lua",
+        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (30).lua",
+        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (48).lua",
+        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (50).lua",
+        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (60).lua",
+        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (75).lua",
+        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (23.976).lua",
+        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (24).lua",
+        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (25).lua",
+        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97DF).lua",
+        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97ND).lua",
+        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (30).lua",
+        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (48).lua",
+        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (50).lua",
+        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (60).lua",
+        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (75).lua",
+        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start.lua",
+        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
+        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
       }
     ]
   },
@@ -21137,6 +21537,38 @@
       }
     ]
   },
+  "acendan_Snap edit cursor to nearest razor edit edge in first selected track.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ACendan Scripts/Razor Edits/acendan_Snap edit cursor to nearest razor edit edge in first selected track.lua",
+        "url": "https://github.com/acendan/reascripts/raw/5f542d4638685af605df0d0a6078f7d3d99c4435/Razor%20Edits/acendan_Snap%20edit%20cursor%20to%20nearest%20razor%20edit%20edge%20in%20first%20selected%20track.lua",
+        "sha256": "168qfyin5bq2l0j6kgfxakw21qjscqyvqnv84gnb9dljc162yc4x"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/ACendan Scripts/Razor Edits/acendan_Snap edit cursor to nearest razor edit edge in first selected track.lua",
+        "url": "https://github.com/acendan/reascripts/raw/5f542d4638685af605df0d0a6078f7d3d99c4435/Razor%20Edits/acendan_Snap%20edit%20cursor%20to%20nearest%20razor%20edit%20edge%20in%20first%20selected%20track.lua",
+        "sha256": "168qfyin5bq2l0j6kgfxakw21qjscqyvqnv84gnb9dljc162yc4x"
+      }
+    ]
+  },
+  "acendan_Snap edit cursor to nearest razor edit edge in track under mouse.lua": {
+    "latest": [
+      {
+        "path": "Scripts/ACendan Scripts/Razor Edits/acendan_Snap edit cursor to nearest razor edit edge in track under mouse.lua",
+        "url": "https://github.com/acendan/reascripts/raw/5f542d4638685af605df0d0a6078f7d3d99c4435/Razor%20Edits/acendan_Snap%20edit%20cursor%20to%20nearest%20razor%20edit%20edge%20in%20track%20under%20mouse.lua",
+        "sha256": "1ckixpl1n99xcnyc7bfw8i4naid0wcsfrks9vlk57br7h8s9q70h"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/ACendan Scripts/Razor Edits/acendan_Snap edit cursor to nearest razor edit edge in track under mouse.lua",
+        "url": "https://github.com/acendan/reascripts/raw/5f542d4638685af605df0d0a6078f7d3d99c4435/Razor%20Edits/acendan_Snap%20edit%20cursor%20to%20nearest%20razor%20edit%20edge%20in%20track%20under%20mouse.lua",
+        "sha256": "1ckixpl1n99xcnyc7bfw8i4naid0wcsfrks9vlk57br7h8s9q70h"
+      }
+    ]
+  },
   "acendan_Create multichannel render from selected tracks with mono items.lua": {
     "latest": [
       {
@@ -21282,585 +21714,153 @@
       }
     ]
   },
-  "acendan_Clear Saved URL By Track Name.lua": {
+  "acendan_Continuously select all items in time selection background.lua": {
     "latest": [
       {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Clear Saved URL By Track Name.lua",
-        "url": "https://github.com/acendan/reascripts/raw/b07f2392f55b9fcad3faf81e54868c71b70f8c00/Tracks%20Properties/acendan_Clear%20Saved%20URL%20By%20Track%20Name.lua",
-        "sha256": "018z1yj4i79x15njq3b0qzhmzd859aj7hwz5ngzzdv39r05f4488"
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Continuously select all items in time selection background.lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Time%20Selection/acendan_Continuously%20select%20all%20items%20in%20time%20selection%20background.lua",
+        "sha256": "15kx8g21jh5v3zlj20wjv8y4yy6pl7gjgjy50x6ikd73rkds8cmx"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Clear Saved URL By Track Name.lua",
-        "url": "https://github.com/acendan/reascripts/raw/b07f2392f55b9fcad3faf81e54868c71b70f8c00/Tracks%20Properties/acendan_Clear%20Saved%20URL%20By%20Track%20Name.lua",
-        "sha256": "018z1yj4i79x15njq3b0qzhmzd859aj7hwz5ngzzdv39r05f4488"
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Continuously select all items in time selection background.lua",
+        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Time%20Selection/acendan_Continuously%20select%20all%20items%20in%20time%20selection%20background.lua",
+        "sha256": "15kx8g21jh5v3zlj20wjv8y4yy6pl7gjgjy50x6ikd73rkds8cmx"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Clear Saved URL By Track Name.lua",
-        "url": "https://github.com/acendan/reascripts/raw/184c5b1c8d0e69481b45ab168d4b3f5026175acc/Tracks%20Properties/acendan_Clear%20Saved%20URL%20By%20Track%20Name.lua",
-        "sha256": "19xkksv5mp5pzy3lv0v4ml2k3fiks1w89x3pa9mcyyr6v48s4dfp"
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Continuously select all items in time selection background.lua",
+        "url": "https://github.com/acendan/reascripts/raw/76b5b7499051662ddeec9db849d6a21e24a152e2/Time%20Selection/acendan_Continuously%20select%20all%20items%20in%20time%20selection%20background.lua",
+        "sha256": "06zqzy7dhjay3dacdbvrx97xkxv6nq1s3qfifryfvkfhp10dmncm"
       }
     ]
   },
-  "acendan_Insert new track respect folders.lua": {
+  "acendan_Create time selection from edit cursor to mouse cursor.lua": {
     "latest": [
       {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Insert new track respect folders.lua",
-        "url": "https://github.com/acendan/reascripts/raw/6e7799997010f2415a26be66e6731d11bd5c6ab7/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua",
-        "sha256": "010v0ifk26bxc4gg8vkp0rzwi0b2zkn416lazwm4hh82zh6wzlbm"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Insert new track respect folders.lua",
-        "url": "https://github.com/acendan/reascripts/raw/6e7799997010f2415a26be66e6731d11bd5c6ab7/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua",
-        "sha256": "010v0ifk26bxc4gg8vkp0rzwi0b2zkn416lazwm4hh82zh6wzlbm"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Insert new track respect folders.lua",
-        "url": "https://github.com/acendan/reascripts/raw/9a63a7dda301d1af165a8b9742d6355488206f59/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua",
-        "sha256": "0cwbhls81b9g8qk3qbwj4mdz3ivfa9b55dfpaj1is87pvh358f9b"
-      }
-    ],
-    "1.2.1": [
-      {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Insert new track respect folders.lua",
-        "url": "https://github.com/acendan/reascripts/raw/68dd7ae8851f4538b0b33256e8298567e3630493/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua",
-        "sha256": "02la2vl0ghzv6a02i3q6ad7sfw936zp0hahpq3j6fnchmhil386w"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Insert new track respect folders.lua",
-        "url": "https://github.com/acendan/reascripts/raw/03c6305e7cad1e83dc9e3cfd831a240cad11480b/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua",
-        "sha256": "1zp49xsxxhcb4880wzl3vkl5b8v2w1y5m0lqn8y40wm9nrbbdxkd"
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Create time selection from edit cursor to mouse cursor.lua",
+        "url": "https://github.com/acendan/reascripts/raw/88987585c1ad149ea372e869be58340aa66be699/Time%20Selection/acendan_Create%20time%20selection%20from%20edit%20cursor%20to%20mouse%20cursor.lua",
+        "sha256": "040isq024rmhak57jvh4hfg95ixa45hk2w343ryxzakvxvbqf28q"
       }
     ],
     "1.1": [
       {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Insert new track respect folders.lua",
-        "url": "https://github.com/acendan/reascripts/raw/fda368a709152f3017b4e7235179da361a9c5f19/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua",
-        "sha256": "1xc1mk5mdzjirgfry75fc3fqyaaabvklw8z65hbgk47iqnhprld9"
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Create time selection from edit cursor to mouse cursor.lua",
+        "url": "https://github.com/acendan/reascripts/raw/88987585c1ad149ea372e869be58340aa66be699/Time%20Selection/acendan_Create%20time%20selection%20from%20edit%20cursor%20to%20mouse%20cursor.lua",
+        "sha256": "040isq024rmhak57jvh4hfg95ixa45hk2w343ryxzakvxvbqf28q"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Insert new track respect folders.lua",
-        "url": "https://github.com/acendan/reascripts/raw/9cb27ab195f4754ecfd3d318bc1bb9204e4cb3b8/Tracks%20Properties/acendan_Insert%20new%20track%20respect%20folders.lua",
-        "sha256": "11rcyk5nq5wj52jpf9gypagm35hzwv0c4vg12a955gn22xw2qybf"
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Create time selection from edit cursor to mouse cursor.lua",
+        "url": "https://github.com/acendan/reascripts/raw/30dcab3194ed4b826bb8a3c3453275c4f7a5c4d6/Time%20Selection/acendan_Create%20time%20selection%20from%20edit%20cursor%20to%20mouse%20cursor.lua",
+        "sha256": "02f619hai5rmrzbg08xpyhklhj88fvdnxd9nigfk3ybsvfafmdzn"
       }
     ]
   },
-  "acendan_Search all tracks for FX by name.lua": {
+  "acendan_Extend right edge of time selection by x seconds.lua": {
     "latest": [
       {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Search all tracks for FX by name.lua",
-        "url": "https://github.com/acendan/reascripts/raw/6eb71b79c6392b0238d3117c92c65b1fb0b28e0e/Tracks%20Properties/acendan_Search%20all%20tracks%20for%20FX%20by%20name.lua",
-        "sha256": "0qi4498crfp1p9rz4lm16fxqcca8817s4v8bhv3zhl4axyjayhhm"
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 1 second.lua",
+        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
+        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 2 seconds.lua",
+        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
+        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 3 seconds.lua",
+        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
+        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 4 seconds.lua",
+        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
+        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 5 seconds.lua",
+        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
+        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Search all tracks for FX by name.lua",
-        "url": "https://github.com/acendan/reascripts/raw/6eb71b79c6392b0238d3117c92c65b1fb0b28e0e/Tracks%20Properties/acendan_Search%20all%20tracks%20for%20FX%20by%20name.lua",
-        "sha256": "0qi4498crfp1p9rz4lm16fxqcca8817s4v8bhv3zhl4axyjayhhm"
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 1 second.lua",
+        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
+        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 2 seconds.lua",
+        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
+        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 3 seconds.lua",
+        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
+        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 4 seconds.lua",
+        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
+        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
+      },
+      {
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend right edge of time selection by 5 seconds.lua",
+        "url": "https://github.com/acendan/reascripts/raw/5b7e532f78aa783a808e0549d31a4b2221d6be07/Time%20Selection/acendan_Extend%20right%20edge%20of%20time%20selection%20by%20x%20seconds.lua",
+        "sha256": "1mnx6psizw0iajl53jwh459bhd3q4hrykyfzxmr8glv8rc5g2ps2"
       }
     ]
   },
-  "acendan_Select tracks when making marquee selection.lua": {
+  "acendan_Extend time selection left to start of project and select items.lua": {
     "latest": [
       {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
-        "url": "https://github.com/acendan/reascripts/raw/8c1438dafd89223e8442625df34cd1663ae52f91/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
-        "sha256": "11h8hj3s4k2rn0r70d33glcs32g19viqxghcav2ip9hwkvw7i7c3"
-      }
-    ],
-    "2.1": [
-      {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
-        "url": "https://github.com/acendan/reascripts/raw/8c1438dafd89223e8442625df34cd1663ae52f91/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
-        "sha256": "11h8hj3s4k2rn0r70d33glcs32g19viqxghcav2ip9hwkvw7i7c3"
-      }
-    ],
-    "2.0": [
-      {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
-        "url": "https://github.com/acendan/reascripts/raw/bb918605f737e0836a19374dc11eec92d52ec2e6/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
-        "sha256": "0id423vmi4kn941r90z5cmm17ypis2iqfdiwnyl2f2ffmhic0q4n"
-      }
-    ],
-    "1.5": [
-      {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
-        "url": "https://github.com/acendan/reascripts/raw/4c30e38b198f3b81a5691a50860e3439754c3f36/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
-        "sha256": "086w4l2c6kzrrlj7181g6wbrivrp7d44ykci3602lwbi5p7by505"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
-        "url": "https://github.com/acendan/reascripts/raw/30871adf59fc851b3b55231e8f4af3707dd3efd6/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
-        "sha256": "06sl6qqnqgfdh4798iy5nb7h1qpskvd92vnv3as2nj0dws7fphqc"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
-        "url": "https://github.com/acendan/reascripts/raw/81527fd1f9f7634d61b7aa416d1416491bc7219e/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
-        "sha256": "19cpa1382qlrkpgf54rpgf3mrfxcmzmpvn715bzq48fhczqhr0w6"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
-        "url": "https://github.com/acendan/reascripts/raw/e57b21bca218ebbb158c94f664521e5bd195acc1/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
-        "sha256": "1s717zsd9fhvw2p057nm8bs66mrysg9ylfpwwwws0w925k74nl5d"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
-        "url": "https://github.com/acendan/reascripts/raw/edf9933cf61ab8d2c1540c2af3fad857ef143811/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
-        "sha256": "1lg2cpy1i3igp2ffys0ayhnn7s1kqbrqqp3vplyb2dxb3jhg5r0m"
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend time selection left to start of project and select items.lua",
+        "url": "https://github.com/acendan/reascripts/raw/1369384d677fe270b89eb24fef0514e4f094d724/Time%20Selection/acendan_Extend%20time%20selection%20left%20to%20start%20of%20project%20and%20select%20items.lua",
+        "sha256": "06amm9i3kxyks62mnx0l6zz9kzg7pa0c5kas76n76n2fimh618k7"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Select tracks when making marquee selection.lua",
-        "url": "https://github.com/acendan/reascripts/raw/1fc2cc71dd35f33feccfa198a9116b026bc4c6cf/Tracks%20Properties/acendan_Select%20tracks%20when%20making%20marquee%20selection.lua",
-        "sha256": "18zxzhcbjak884mirxkda5zlg5m93r69h7xir6is369x7nw06ihs"
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Extend time selection left to start of project and select items.lua",
+        "url": "https://github.com/acendan/reascripts/raw/1369384d677fe270b89eb24fef0514e4f094d724/Time%20Selection/acendan_Extend%20time%20selection%20left%20to%20start%20of%20project%20and%20select%20items.lua",
+        "sha256": "06amm9i3kxyks62mnx0l6zz9kzg7pa0c5kas76n76n2fimh618k7"
       }
     ]
   },
-  "acendan_Store and Open saved URL by track name.lua": {
+  "acendan_Select from edit cursor to start of project (items and time selection).lua": {
     "latest": [
       {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Store and Open saved URL by track name.lua",
-        "url": "https://github.com/acendan/reascripts/raw/b07f2392f55b9fcad3faf81e54868c71b70f8c00/Tracks%20Properties/acendan_Store%20and%20Open%20saved%20URL%20by%20track%20name.lua",
-        "sha256": "19qlyc1gncl45hw0rcllrhj5lmhk07dvvi8wliadblbcqd8x9w05"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_Store and Open saved URL by track name.lua",
-        "url": "https://github.com/acendan/reascripts/raw/b07f2392f55b9fcad3faf81e54868c71b70f8c00/Tracks%20Properties/acendan_Store%20and%20Open%20saved%20URL%20by%20track%20name.lua",
-        "sha256": "19qlyc1gncl45hw0rcllrhj5lmhk07dvvi8wliadblbcqd8x9w05"
-      }
-    ]
-  },
-  "acendan_View Saved URLs By Track Name.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_View Saved URLs By Track Name.lua",
-        "url": "https://github.com/acendan/reascripts/raw/b07f2392f55b9fcad3faf81e54868c71b70f8c00/Tracks%20Properties/acendan_View%20Saved%20URLs%20By%20Track%20Name.lua",
-        "sha256": "1pzxlffn0qlwzrr0hkc76zmgn4x7cz36i7gvv7dxhg8ixw394zdj"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_View Saved URLs By Track Name.lua",
-        "url": "https://github.com/acendan/reascripts/raw/b07f2392f55b9fcad3faf81e54868c71b70f8c00/Tracks%20Properties/acendan_View%20Saved%20URLs%20By%20Track%20Name.lua",
-        "sha256": "1pzxlffn0qlwzrr0hkc76zmgn4x7cz36i7gvv7dxhg8ixw394zdj"
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Select from edit cursor to start of project (items and time selection).lua",
+        "url": "https://github.com/acendan/reascripts/raw/a9911536a9e73982e511d88d25e4a82f18e095a7/Time%20Selection/acendan_Select%20from%20edit%20cursor%20to%20start%20of%20project%20(items%20and%20time%20selection).lua",
+        "sha256": "0vpjmk0c1dimaws8zdn2iycjnxjzlr9w36qfabvp6is3dq1lh58d"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/ACendan Scripts/Tracks Properties/acendan_View Saved URLs By Track Name.lua",
-        "url": "https://github.com/acendan/reascripts/raw/184c5b1c8d0e69481b45ab168d4b3f5026175acc/Tracks%20Properties/acendan_View%20Saved%20URLs%20By%20Track%20Name.lua",
-        "sha256": "12qcp1v4f4dr6rf9cf9iqmxs9yjzszzqywpwa79c3b0dc6sgvmdy"
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Select from edit cursor to start of project (items and time selection).lua",
+        "url": "https://github.com/acendan/reascripts/raw/a9911536a9e73982e511d88d25e4a82f18e095a7/Time%20Selection/acendan_Select%20from%20edit%20cursor%20to%20start%20of%20project%20(items%20and%20time%20selection).lua",
+        "sha256": "0vpjmk0c1dimaws8zdn2iycjnxjzlr9w36qfabvp6is3dq1lh58d"
       }
     ]
   },
-  "acendan_Create video processor text items for all project markers on new track.lua": {
+  "acendan_Select from mouse cursor to start of project (items and time selection).lua": {
     "latest": [
       {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project markers on new track.lua",
-        "url": "https://github.com/acendan/reascripts/raw/be48deadef7b49fc572cd276d195c8af60ab5fdf/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua",
-        "sha256": "1qsjz7754dg5f2ff7vpkyj7ya5ak7i93bfr2dpzgdr4xcd49qmq3"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Text Overlay Preset.txt",
-        "url": "https://github.com/acendan/reascripts/raw/be48deadef7b49fc572cd276d195c8af60ab5fdf/Video/acendan_Text%20Overlay%20Preset.txt",
-        "sha256": "0jfzc036rwzzsz40mksayhgpdlgjcmmrgzsyr551rcn1570wsxb7"
-      }
-    ],
-    "1.4": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project markers on new track.lua",
-        "url": "https://github.com/acendan/reascripts/raw/be48deadef7b49fc572cd276d195c8af60ab5fdf/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua",
-        "sha256": "1qsjz7754dg5f2ff7vpkyj7ya5ak7i93bfr2dpzgdr4xcd49qmq3"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Text Overlay Preset.txt",
-        "url": "https://github.com/acendan/reascripts/raw/be48deadef7b49fc572cd276d195c8af60ab5fdf/Video/acendan_Text%20Overlay%20Preset.txt",
-        "sha256": "0jfzc036rwzzsz40mksayhgpdlgjcmmrgzsyr551rcn1570wsxb7"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project markers on new track.lua",
-        "url": "https://github.com/acendan/reascripts/raw/d6333f18395a8deaf02f273ed3385cc610a31076/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua",
-        "sha256": "133i60gjs4cnyw9x47x1bwp8776waq6l5m3blz1xiyn60fr2jqm8"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Text Overlay Preset.txt",
-        "url": "https://github.com/acendan/reascripts/raw/d6333f18395a8deaf02f273ed3385cc610a31076/Video/acendan_Text%20Overlay%20Preset.txt",
-        "sha256": "0jfzc036rwzzsz40mksayhgpdlgjcmmrgzsyr551rcn1570wsxb7"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project markers on new track.lua",
-        "url": "https://github.com/acendan/reascripts/raw/cf87238cc82acdc6acca3ada89ddaa4ba8318e94/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua",
-        "sha256": "19vgdc01g37bcfl8rwbr5jxdca0vxjj43vbw001ydha2q37a6nir"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Text Overlay Preset.txt",
-        "url": "https://github.com/acendan/reascripts/raw/cf87238cc82acdc6acca3ada89ddaa4ba8318e94/Video/acendan_Text%20Overlay%20Preset.txt",
-        "sha256": "0jfzc036rwzzsz40mksayhgpdlgjcmmrgzsyr551rcn1570wsxb7"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project markers on new track.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3ef6883efd8324935e1e8bf4d96eb9b0e0790f64/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua",
-        "sha256": "1sp1al5405rhq4hckqz1zv5kg427m4d5s189fhb3qxarsmigpskd"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Text Overlay Preset.txt",
-        "url": "https://github.com/acendan/reascripts/raw/3ef6883efd8324935e1e8bf4d96eb9b0e0790f64/Video/acendan_Text%20Overlay%20Preset.txt",
-        "sha256": "0jfzc036rwzzsz40mksayhgpdlgjcmmrgzsyr551rcn1570wsxb7"
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Select from mouse cursor to start of project (items and time selection).lua",
+        "url": "https://github.com/acendan/reascripts/raw/a9911536a9e73982e511d88d25e4a82f18e095a7/Time%20Selection/acendan_Select%20from%20mouse%20cursor%20to%20start%20of%20project%20(items%20and%20time%20selection).lua",
+        "sha256": "0i9hhgaqsip49vz367ccjhxkr38k2c29glnq71d9mqznpixfs48x"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project markers on new track.lua",
-        "url": "https://github.com/acendan/reascripts/raw/cdb21bd9d8013614889f778c7c4782115f13d892/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20markers%20on%20new%20track.lua",
-        "sha256": "16fqq23ywnw79xhfmnshrpr1xmj5fl51ar5ya7ycklm6x83zpbvg"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Text Overlay Preset.txt",
-        "url": "https://github.com/acendan/reascripts/raw/cdb21bd9d8013614889f778c7c4782115f13d892/Video/acendan_Text%20Overlay%20Preset.txt",
-        "sha256": "0jfzc036rwzzsz40mksayhgpdlgjcmmrgzsyr551rcn1570wsxb7"
-      }
-    ]
-  },
-  "acendan_Create video processor text items for all project regions on new track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project regions on new track.lua",
-        "url": "https://github.com/acendan/reascripts/raw/cf87238cc82acdc6acca3ada89ddaa4ba8318e94/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20regions%20on%20new%20track.lua",
-        "sha256": "0z1v28395m9v66xqp1xwp7vlha3n2f6g7r7hbm4pnfj4h9lsiknm"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project regions on new track.lua",
-        "url": "https://github.com/acendan/reascripts/raw/cf87238cc82acdc6acca3ada89ddaa4ba8318e94/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20regions%20on%20new%20track.lua",
-        "sha256": "0z1v28395m9v66xqp1xwp7vlha3n2f6g7r7hbm4pnfj4h9lsiknm"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project regions on new track.lua",
-        "url": "https://github.com/acendan/reascripts/raw/3ef6883efd8324935e1e8bf4d96eb9b0e0790f64/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20regions%20on%20new%20track.lua",
-        "sha256": "001gi5d85ifxa033b01r8xgzjv3p6w2qddw2n4ysl6w811bif0yq"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Create video processor text items for all project regions on new track.lua",
-        "url": "https://github.com/acendan/reascripts/raw/cdb21bd9d8013614889f778c7c4782115f13d892/Video/acendan_Create%20video%20processor%20text%20items%20for%20all%20project%20regions%20on%20new%20track.lua",
-        "sha256": "0d9bdy2fg751sh80v4g3db8b8c4ryv0ib7vsxwpd66238wrz7vly"
-      }
-    ]
-  },
-  "acendan_Prompt to match project frame rate with first video item import - background.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Prompt to match project frame rate with first video item import.lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Prompt%20to%20match%20project%20frame%20rate%20with%20first%20video%20item%20import%20-%20background.lua",
-        "sha256": "19lyr4xixpvs8szfi4i7bgih64768yqz29vppix0k4apg5r5zfww"
-      }
-    ],
-    "1.3": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Prompt to match project frame rate with first video item import.lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Prompt%20to%20match%20project%20frame%20rate%20with%20first%20video%20item%20import%20-%20background.lua",
-        "sha256": "19lyr4xixpvs8szfi4i7bgih64768yqz29vppix0k4apg5r5zfww"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Prompt to match project frame rate with first video item import.lua",
-        "url": "https://github.com/acendan/reascripts/raw/006c0cc753680182d1624cd1cba3aaa89ccf6249/Video/acendan_Prompt%20to%20match%20project%20frame%20rate%20with%20first%20video%20item%20import%20-%20background.lua",
-        "sha256": "1khvdqalpz9rp095d42xc9zrj440jsa5v022qpwnw46sj8wb17k3"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Prompt to match project frame rate with first video item import.lua",
-        "url": "https://github.com/acendan/reascripts/raw/b055ee050d5efb597d52753ee6b8ab69bce95622/Video/acendan_Prompt%20to%20match%20project%20frame%20rate%20with%20first%20video%20item%20import%20-%20background.lua",
-        "sha256": "0z6y6w29lqwqn863sswak4p89n4i1x2jkcwssamzf0hx3ymhb2rb"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Prompt to match project frame rate with first video item import.lua",
-        "url": "https://github.com/acendan/reascripts/raw/8e16519cbf0793e4813e73f27d59d22e6442a563/Video/acendan_Prompt%20to%20match%20project%20frame%20rate%20with%20first%20video%20item%20import%20-%20background.lua",
-        "sha256": "1b8g1a256wnz88l7rjv82qscszamlx7zp9shggbc1cv3zdlhb9l6"
-      }
-    ]
-  },
-  "acendan_Set project video frame rate keeping session timecode start.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (23.976).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (24).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (25).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97DF).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97ND).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (30).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (48).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (50).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (60).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (75).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      }
-    ],
-    "1.2": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (23.976).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (24).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (25).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97DF).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97ND).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (30).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (48).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (50).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (60).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (75).lua",
-        "url": "https://github.com/acendan/reascripts/raw/ede76f60da5bd438f70081f39c5570d97e8f8286/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1pz5sb5wn10q5f1nkrsp4lxznlzlprn9p8hmcxq2sric3z4cv898"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (23.976).lua",
-        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (24).lua",
-        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (25).lua",
-        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97DF).lua",
-        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97ND).lua",
-        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (30).lua",
-        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (48).lua",
-        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (50).lua",
-        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (60).lua",
-        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (75).lua",
-        "url": "https://github.com/acendan/reascripts/raw/9761081e602e7cece25dbf9b608d0785bada349b/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1r0gvirw9p08lzdk08gilyi836dfg7p7kkmhzv1q66zz8m91di2f"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (23.976).lua",
-        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (24).lua",
-        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (25).lua",
-        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97DF).lua",
-        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (29.97ND).lua",
-        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (30).lua",
-        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (48).lua",
-        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (50).lua",
-        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (60).lua",
-        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start (75).lua",
-        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
-      },
-      {
-        "path": "Scripts/ACendan Scripts/Video/acendan_Set project video frame rate keeping session timecode start.lua",
-        "url": "https://github.com/acendan/reascripts/raw/abb1df2b62332de9a6a0a53e4a53b869088602ee/Video/acendan_Set%20project%20video%20frame%20rate%20keeping%20session%20timecode%20start.lua",
-        "sha256": "1zl4mn66r67v2xkdjw91rbaxr1r5ndsqvhp5higkhcjaa0k1ggpk"
-      }
-    ]
-  },
-  "acendan_Snap edit cursor to nearest razor edit edge in first selected track.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ACendan Scripts/Razor Edits/acendan_Snap edit cursor to nearest razor edit edge in first selected track.lua",
-        "url": "https://github.com/acendan/reascripts/raw/5f542d4638685af605df0d0a6078f7d3d99c4435/Razor%20Edits/acendan_Snap%20edit%20cursor%20to%20nearest%20razor%20edit%20edge%20in%20first%20selected%20track.lua",
-        "sha256": "168qfyin5bq2l0j6kgfxakw21qjscqyvqnv84gnb9dljc162yc4x"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/ACendan Scripts/Razor Edits/acendan_Snap edit cursor to nearest razor edit edge in first selected track.lua",
-        "url": "https://github.com/acendan/reascripts/raw/5f542d4638685af605df0d0a6078f7d3d99c4435/Razor%20Edits/acendan_Snap%20edit%20cursor%20to%20nearest%20razor%20edit%20edge%20in%20first%20selected%20track.lua",
-        "sha256": "168qfyin5bq2l0j6kgfxakw21qjscqyvqnv84gnb9dljc162yc4x"
-      }
-    ]
-  },
-  "acendan_Snap edit cursor to nearest razor edit edge in track under mouse.lua": {
-    "latest": [
-      {
-        "path": "Scripts/ACendan Scripts/Razor Edits/acendan_Snap edit cursor to nearest razor edit edge in track under mouse.lua",
-        "url": "https://github.com/acendan/reascripts/raw/5f542d4638685af605df0d0a6078f7d3d99c4435/Razor%20Edits/acendan_Snap%20edit%20cursor%20to%20nearest%20razor%20edit%20edge%20in%20track%20under%20mouse.lua",
-        "sha256": "1ckixpl1n99xcnyc7bfw8i4naid0wcsfrks9vlk57br7h8s9q70h"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/ACendan Scripts/Razor Edits/acendan_Snap edit cursor to nearest razor edit edge in track under mouse.lua",
-        "url": "https://github.com/acendan/reascripts/raw/5f542d4638685af605df0d0a6078f7d3d99c4435/Razor%20Edits/acendan_Snap%20edit%20cursor%20to%20nearest%20razor%20edit%20edge%20in%20track%20under%20mouse.lua",
-        "sha256": "1ckixpl1n99xcnyc7bfw8i4naid0wcsfrks9vlk57br7h8s9q70h"
+        "path": "Scripts/ACendan Scripts/Time Selection/acendan_Select from mouse cursor to start of project (items and time selection).lua",
+        "url": "https://github.com/acendan/reascripts/raw/a9911536a9e73982e511d88d25e4a82f18e095a7/Time%20Selection/acendan_Select%20from%20mouse%20cursor%20to%20start%20of%20project%20(items%20and%20time%20selection).lua",
+        "sha256": "0i9hhgaqsip49vz367ccjhxkr38k2c29glnq71d9mqznpixfs48x"
       }
     ]
   }

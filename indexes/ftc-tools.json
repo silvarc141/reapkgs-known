@@ -2477,6 +2477,269 @@
       }
     ]
   },
+  "Auto-hide silent tracks during playback.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20during%20playback.lua",
+        "sha256": "1ljndxy4158vk7c1wjh21vf6c38n3hnv7lya0n3nn17yw9pr71pw"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20during%20playback.lua",
+        "sha256": "1ljndxy4158vk7c1wjh21vf6c38n3hnv7lya0n3nn17yw9pr71pw"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20silent%20tracks%20during%20playback.lua",
+        "sha256": "1k7xz26vd2zw2xnri5p80xhlywh3zp4nqv2by5yh3xkl12irbf38"
+      }
+    ]
+  },
+  "Auto-hide silent tracks in MCP during playback.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in MCP during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20in%20MCP%20during%20playback.lua",
+        "sha256": "11lmvlx9x1s5gwdxqhvi9n374v2iy08lskrbivfaf2xxhidvm204"
+      }
+    ],
+    "1.1.3": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in MCP during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20in%20MCP%20during%20playback.lua",
+        "sha256": "11lmvlx9x1s5gwdxqhvi9n374v2iy08lskrbivfaf2xxhidvm204"
+      }
+    ],
+    "1.1.2": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in MCP during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20silent%20tracks%20in%20MCP%20during%20playback.lua",
+        "sha256": "1p4jgshibkdz2ib20syaq1n5mmgx20fqhghcf1dy4hvynhjjh7il"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in MCP during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0243a542bd35cd5039b8d4cc5ffc7ee83fcce094/Auto-Hide/Auto-hide%20silent%20tracks%20in%20MCP%20during%20playback.lua",
+        "sha256": "0yb6rfr6mw06w15pgzii4wkhk9yy5z6hjkqc4rwxxvh8jcwpyzrz"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in MCP during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/eaee85946c1e5fa48e358af2f24156ca5648d48f/Auto-Hide/Auto-hide%20silent%20tracks%20in%20MCP%20during%20playback.lua",
+        "sha256": "1qmp302fa8fpwxsccnjy7msn48pa6ksl9nabiaqmk2l00qny7sa7"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in MCP during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c38007cec9cc836b4eb1cf61495ec5f86281d8c6/Auto-Hide/Auto-hide%20silent%20tracks%20in%20MCP%20during%20playback.lua",
+        "sha256": "0nav0z6nq8lh28hxnyrfchmn101d1pikx2h80q4nvyp49i75fr0h"
+      }
+    ]
+  },
+  "Auto-hide silent tracks in TCP during playback.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
+        "sha256": "0ni7jxprnii3h193af3wvf7bi46i2w47cy499sk0sqi1b47ag8ya"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
+        "sha256": "0ni7jxprnii3h193af3wvf7bi46i2w47cy499sk0sqi1b47ag8ya"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
+        "sha256": "0ilb18k7313dcf600pfvm9gxmp1xvdb9579vmdhnjjbn5ygxzrak"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0243a542bd35cd5039b8d4cc5ffc7ee83fcce094/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
+        "sha256": "18xli8dhd4jc3qspadk97hipn1jid8cdal2g2qzfzfbifv9kbq5f"
+      }
+    ]
+  },
+  "Auto-hide tracks in TCP that have no items in current measure.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "1bzjffklah6crmwik64d1vq5i1231lmsqdnw8n7pjlyv2ldl8i5r"
+      }
+    ],
+    "1.1.2": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "1bzjffklah6crmwik64d1vq5i1231lmsqdnw8n7pjlyv2ldl8i5r"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "0hgy4xdzrrm1bfcnngjln84mxpx23165y9dbzaphkip75fm0xpq2"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/eaee85946c1e5fa48e358af2f24156ca5648d48f/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "1izyf3zdzgz4yh9q5dscf76krcnljkhdzkrkxpy6lyphk9kak8zw"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/2d81990c06336f9be73a1d2027f6ba65c92db4ea/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "1w2s92m1xn3293dwz0sv7l3vy1na72kxj5bj5y65kb8g3wc9wsmf"
+      }
+    ]
+  },
+  "Auto-hide tracks in TCP that have no items in time selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in time selection.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20time%20selection.lua",
+        "sha256": "0nykwnw674nwv1anhpgnamf20d28ffr6m50cwjqajw89jvwz8ll7"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in time selection.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20time%20selection.lua",
+        "sha256": "0nykwnw674nwv1anhpgnamf20d28ffr6m50cwjqajw89jvwz8ll7"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in time selection.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20time%20selection.lua",
+        "sha256": "1m96lwpx7m5s3vpfz5zrdm07szs917i79g64ymvx0x47v8xqx3k8"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in time selection.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/fcabb7b4a6e0bff7cf63d3c4dae4331bdb482c9d/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20time%20selection.lua",
+        "sha256": "0gz3328ksi3i35ifbqrzwvlfc65hfxvvcf50p8nfpn09p44dwxpv"
+      }
+    ]
+  },
+  "Auto-hide tracks that have no items in current measure.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "0qc4vlqxjc55dvwrv1k8fnkcarwcbsqgl1vwxlfsxhfpahx6vzh3"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "0qc4vlqxjc55dvwrv1k8fnkcarwcbsqgl1vwxlfsxhfpahx6vzh3"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in current measure.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20current%20measure.lua",
+        "sha256": "1i4v2q4fwsjzmpmpm46a0xv1yib4jnxxrrx3hnxrl4jd34wripbp"
+      }
+    ]
+  },
+  "Auto-hide tracks that have no items in time selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in time selection.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20time%20selection.lua",
+        "sha256": "1896c2ina7n9y0zi3zj33a3vhgi3jjwykikdp3cj02ivj2k5mrvi"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in time selection.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20time%20selection.lua",
+        "sha256": "1896c2ina7n9y0zi3zj33a3vhgi3jjwykikdp3cj02ivj2k5mrvi"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in time selection.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20time%20selection.lua",
+        "sha256": "1fdh1h15mhaahzms9dxmf04mgjlia5hpnfrzfggskb8i3s736hvh"
+      }
+    ]
+  },
+  "Toggle show only selected tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only selected tracks.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20selected%20tracks.lua",
+        "sha256": "078k7wsjxgcg4dgmk0hlrgnhb3vxg1vcbr4pyxm0qnjpjmky3zki"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only selected tracks.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20selected%20tracks.lua",
+        "sha256": "078k7wsjxgcg4dgmk0hlrgnhb3vxg1vcbr4pyxm0qnjpjmky3zki"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only selected tracks.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cf0dcc5ef85a0852c362a8f57acf7d7362e8672e/Auto-Hide/Toggle%20show%20only%20selected%20tracks.lua",
+        "sha256": "14h5vs91dfrzjficgsprajpdipkmi5j7mc26w8a0khc2dr9mx3lz"
+      }
+    ]
+  },
+  "Toggle show only tracks with receives in mixer.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
+        "sha256": "011gsghqd6wr78yj9dq4yw6inad6h0kli58ig60igk241v8ikcvw"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
+        "sha256": "011gsghqd6wr78yj9dq4yw6inad6h0kli58ig60igk241v8ikcvw"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0afa8aed09dc7f69b6788ec7a5774e837b34438d/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
+        "sha256": "158nyibyqknj68dr9v1gsim6x88mx61prd47510k3vwz79isn8w4"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cf0dcc5ef85a0852c362a8f57acf7d7362e8672e/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
+        "sha256": "147jz027m23dxzn2h0apnvcib89dyc2knxi15d4nmc9v8g9bnrwi"
+      }
+    ]
+  },
   "Toggle show bottom docker.lua": {
     "latest": [
       {
@@ -11025,381 +11288,6 @@
       }
     ]
   },
-  "Auto-hide silent tracks during playback.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20during%20playback.lua",
-        "sha256": "1ljndxy4158vk7c1wjh21vf6c38n3hnv7lya0n3nn17yw9pr71pw"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20during%20playback.lua",
-        "sha256": "1ljndxy4158vk7c1wjh21vf6c38n3hnv7lya0n3nn17yw9pr71pw"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20silent%20tracks%20during%20playback.lua",
-        "sha256": "1k7xz26vd2zw2xnri5p80xhlywh3zp4nqv2by5yh3xkl12irbf38"
-      }
-    ]
-  },
-  "Auto-hide silent tracks in MCP during playback.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in MCP during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20in%20MCP%20during%20playback.lua",
-        "sha256": "11lmvlx9x1s5gwdxqhvi9n374v2iy08lskrbivfaf2xxhidvm204"
-      }
-    ],
-    "1.1.3": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in MCP during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20in%20MCP%20during%20playback.lua",
-        "sha256": "11lmvlx9x1s5gwdxqhvi9n374v2iy08lskrbivfaf2xxhidvm204"
-      }
-    ],
-    "1.1.2": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in MCP during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20silent%20tracks%20in%20MCP%20during%20playback.lua",
-        "sha256": "1p4jgshibkdz2ib20syaq1n5mmgx20fqhghcf1dy4hvynhjjh7il"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in MCP during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0243a542bd35cd5039b8d4cc5ffc7ee83fcce094/Auto-Hide/Auto-hide%20silent%20tracks%20in%20MCP%20during%20playback.lua",
-        "sha256": "0yb6rfr6mw06w15pgzii4wkhk9yy5z6hjkqc4rwxxvh8jcwpyzrz"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in MCP during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/eaee85946c1e5fa48e358af2f24156ca5648d48f/Auto-Hide/Auto-hide%20silent%20tracks%20in%20MCP%20during%20playback.lua",
-        "sha256": "1qmp302fa8fpwxsccnjy7msn48pa6ksl9nabiaqmk2l00qny7sa7"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in MCP during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c38007cec9cc836b4eb1cf61495ec5f86281d8c6/Auto-Hide/Auto-hide%20silent%20tracks%20in%20MCP%20during%20playback.lua",
-        "sha256": "0nav0z6nq8lh28hxnyrfchmn101d1pikx2h80q4nvyp49i75fr0h"
-      }
-    ]
-  },
-  "Auto-hide silent tracks in TCP during playback.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
-        "sha256": "0ni7jxprnii3h193af3wvf7bi46i2w47cy499sk0sqi1b47ag8ya"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
-        "sha256": "0ni7jxprnii3h193af3wvf7bi46i2w47cy499sk0sqi1b47ag8ya"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
-        "sha256": "0ilb18k7313dcf600pfvm9gxmp1xvdb9579vmdhnjjbn5ygxzrak"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide silent tracks in TCP during playback.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0243a542bd35cd5039b8d4cc5ffc7ee83fcce094/Auto-Hide/Auto-hide%20silent%20tracks%20in%20TCP%20during%20playback.lua",
-        "sha256": "18xli8dhd4jc3qspadk97hipn1jid8cdal2g2qzfzfbifv9kbq5f"
-      }
-    ]
-  },
-  "Auto-hide tracks in TCP that have no items in current measure.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "1bzjffklah6crmwik64d1vq5i1231lmsqdnw8n7pjlyv2ldl8i5r"
-      }
-    ],
-    "1.1.2": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "1bzjffklah6crmwik64d1vq5i1231lmsqdnw8n7pjlyv2ldl8i5r"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "0hgy4xdzrrm1bfcnngjln84mxpx23165y9dbzaphkip75fm0xpq2"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/eaee85946c1e5fa48e358af2f24156ca5648d48f/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "1izyf3zdzgz4yh9q5dscf76krcnljkhdzkrkxpy6lyphk9kak8zw"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/2d81990c06336f9be73a1d2027f6ba65c92db4ea/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "1w2s92m1xn3293dwz0sv7l3vy1na72kxj5bj5y65kb8g3wc9wsmf"
-      }
-    ]
-  },
-  "Auto-hide tracks in TCP that have no items in time selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in time selection.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20time%20selection.lua",
-        "sha256": "0nykwnw674nwv1anhpgnamf20d28ffr6m50cwjqajw89jvwz8ll7"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in time selection.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20time%20selection.lua",
-        "sha256": "0nykwnw674nwv1anhpgnamf20d28ffr6m50cwjqajw89jvwz8ll7"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in time selection.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20time%20selection.lua",
-        "sha256": "1m96lwpx7m5s3vpfz5zrdm07szs917i79g64ymvx0x47v8xqx3k8"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks in TCP that have no items in time selection.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/fcabb7b4a6e0bff7cf63d3c4dae4331bdb482c9d/Auto-Hide/Auto-hide%20tracks%20in%20TCP%20that%20have%20no%20items%20in%20time%20selection.lua",
-        "sha256": "0gz3328ksi3i35ifbqrzwvlfc65hfxvvcf50p8nfpn09p44dwxpv"
-      }
-    ]
-  },
-  "Auto-hide tracks that have no items in current measure.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "0qc4vlqxjc55dvwrv1k8fnkcarwcbsqgl1vwxlfsxhfpahx6vzh3"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "0qc4vlqxjc55dvwrv1k8fnkcarwcbsqgl1vwxlfsxhfpahx6vzh3"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in current measure.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20current%20measure.lua",
-        "sha256": "1i4v2q4fwsjzmpmpm46a0xv1yib4jnxxrrx3hnxrl4jd34wripbp"
-      }
-    ]
-  },
-  "Auto-hide tracks that have no items in time selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in time selection.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20time%20selection.lua",
-        "sha256": "1896c2ina7n9y0zi3zj33a3vhgi3jjwykikdp3cj02ivj2k5mrvi"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in time selection.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/b588e78533a2064ddc7bf6a0fff9fda07b439af1/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20time%20selection.lua",
-        "sha256": "1896c2ina7n9y0zi3zj33a3vhgi3jjwykikdp3cj02ivj2k5mrvi"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Auto-hide tracks that have no items in time selection.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/075c510cc68a0364bd02677410a451d30d54ad58/Auto-Hide/Auto-hide%20tracks%20that%20have%20no%20items%20in%20time%20selection.lua",
-        "sha256": "1fdh1h15mhaahzms9dxmf04mgjlia5hpnfrzfggskb8i3s736hvh"
-      }
-    ]
-  },
-  "Toggle show only selected tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only selected tracks.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20selected%20tracks.lua",
-        "sha256": "078k7wsjxgcg4dgmk0hlrgnhb3vxg1vcbr4pyxm0qnjpjmky3zki"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only selected tracks.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20selected%20tracks.lua",
-        "sha256": "078k7wsjxgcg4dgmk0hlrgnhb3vxg1vcbr4pyxm0qnjpjmky3zki"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only selected tracks.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cf0dcc5ef85a0852c362a8f57acf7d7362e8672e/Auto-Hide/Toggle%20show%20only%20selected%20tracks.lua",
-        "sha256": "14h5vs91dfrzjficgsprajpdipkmi5j7mc26w8a0khc2dr9mx3lz"
-      }
-    ]
-  },
-  "Toggle show only tracks with receives in mixer.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
-        "sha256": "011gsghqd6wr78yj9dq4yw6inad6h0kli58ig60igk241v8ikcvw"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/05381ee19f0b10f238cbd55122d0c1631cdec47a/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
-        "sha256": "011gsghqd6wr78yj9dq4yw6inad6h0kli58ig60igk241v8ikcvw"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0afa8aed09dc7f69b6788ec7a5774e837b34438d/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
-        "sha256": "158nyibyqknj68dr9v1gsim6x88mx61prd47510k3vwz79isn8w4"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Auto-Hide/Toggle show only tracks with receives in mixer.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/cf0dcc5ef85a0852c362a8f57acf7d7362e8672e/Auto-Hide/Toggle%20show%20only%20tracks%20with%20receives%20in%20mixer.lua",
-        "sha256": "147jz027m23dxzn2h0apnvcib89dyc2knxi15d4nmc9v8g9bnrwi"
-      }
-    ]
-  },
-  "Smart-freeze.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20selected%20tracks.lua",
-        "sha256": "0ckdzyp78xv25d308rslbz654xy63c76l4gs2ysk72rz80m56mfg"
-      },
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20settings.lua",
-        "sha256": "1pqg2rjz3bn0xcs7szz89hl757v8dnqlzkmj8azar7y58q2b8mh6"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20selected%20tracks.lua",
-        "sha256": "0ckdzyp78xv25d308rslbz654xy63c76l4gs2ysk72rz80m56mfg"
-      },
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20settings.lua",
-        "sha256": "1pqg2rjz3bn0xcs7szz89hl757v8dnqlzkmj8azar7y58q2b8mh6"
-      }
-    ],
-    "1.1.0": [
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/55090f0de946439d8b9b4b2641f7876edbd7c59a/Freeze/Smart-freeze%20selected%20tracks.lua",
-        "sha256": "0whg7997ldv2ac71ghmpdr3aa13mijvl7gfja3yw77y4wb1vxxq7"
-      },
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/55090f0de946439d8b9b4b2641f7876edbd7c59a/Freeze/Smart-freeze%20settings.lua",
-        "sha256": "0ix84lhf3vsvpw1bc8z42br0kdv94dnsg2b8psck0gw7xvj4cqli"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c4f4a0c76c3eece6ed3728a45cb9c77f8e58810/Freeze/Smart-freeze%20selected%20tracks.lua",
-        "sha256": "0lv5vvq2djpnl67jaz8dyplisr8m453ncyalg4k65mcwwv13sjnr"
-      },
-      {
-        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c4f4a0c76c3eece6ed3728a45cb9c77f8e58810/Freeze/Smart-freeze%20settings.lua",
-        "sha256": "0vv82fwjqp8zzxqziyjq8m2gzlzhwc01l0fqgx07mfwcvy8xy0m8"
-      }
-    ]
-  },
-  "Create an approximate razor edit from region under mouse.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Mouse modifiers/Create an approximate razor edit from region under mouse.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c770b7dbadc6289b17eb94de110b79819012071c/Mouse%20modifiers/Create%20an%20approximate%20razor%20edit%20from%20region%20under%20mouse.lua",
-        "sha256": "0gqi6v4scgzaiv25v1cfvzqlj3lszj9ckr7kyjxawm2cw9p0ghip"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/FTC Tools/Mouse modifiers/Create an approximate razor edit from region under mouse.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c770b7dbadc6289b17eb94de110b79819012071c/Mouse%20modifiers/Create%20an%20approximate%20razor%20edit%20from%20region%20under%20mouse.lua",
-        "sha256": "0gqi6v4scgzaiv25v1cfvzqlj3lszj9ckr7kyjxawm2cw9p0ghip"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Mouse modifiers/Create an approximate razor edit from region under mouse.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0bf8a1cf325b1cab0f34ce936a086334e13ccf28/Mouse%20modifiers/Create%20an%20approximate%20razor%20edit%20from%20region%20under%20mouse.lua",
-        "sha256": "1vc2gn98z58cryz890xapjac3ndjpgy596fp5z4gfiv7xa1d41yg"
-      }
-    ]
-  },
-  "Create an approximate razor edit from time selection.lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Mouse modifiers/Create an approximate razor edit from time selection.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c770b7dbadc6289b17eb94de110b79819012071c/Mouse%20modifiers/Create%20an%20approximate%20razor%20edit%20from%20time%20selection.lua",
-        "sha256": "1z62g17y7jd27qyikjqfgw04b96l4inlxqby1aanp4ya2z564jda"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/FTC Tools/Mouse modifiers/Create an approximate razor edit from time selection.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c770b7dbadc6289b17eb94de110b79819012071c/Mouse%20modifiers/Create%20an%20approximate%20razor%20edit%20from%20time%20selection.lua",
-        "sha256": "1z62g17y7jd27qyikjqfgw04b96l4inlxqby1aanp4ya2z564jda"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/FTC Tools/Mouse modifiers/Create an approximate razor edit from time selection.lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c1df37a6c3ca794637a4c3116424916a21b1d44f/Mouse%20modifiers/Create%20an%20approximate%20razor%20edit%20from%20time%20selection.lua",
-        "sha256": "14cljpmgirydpbafr8kmk3141qsx1b738mmb5cihm1l1zhf7nbnw"
-      }
-    ]
-  },
-  "Remove region including contents (Ruler alt double click).lua": {
-    "latest": [
-      {
-        "path": "Scripts/FTC Tools/Mouse modifiers/Remove region including contents (Ruler alt double click).lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/21e12afff8d51f1533d128cdebb0189115c908a6/Mouse%20modifiers/Remove%20region%20including%20contents%20(Ruler%20alt%20double%20click).lua",
-        "sha256": "0mx7826g6viq56zlpvc8gpzrc8ic3y9frkprn7nhk992bvghgm78"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/FTC Tools/Mouse modifiers/Remove region including contents (Ruler alt double click).lua",
-        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/21e12afff8d51f1533d128cdebb0189115c908a6/Mouse%20modifiers/Remove%20region%20including%20contents%20(Ruler%20alt%20double%20click).lua",
-        "sha256": "0mx7826g6viq56zlpvc8gpzrc8ic3y9frkprn7nhk992bvghgm78"
-      }
-    ]
-  },
   "FTC_Record takes without new splits (extend items).lua": {
     "latest": [
       {
@@ -11584,6 +11472,118 @@
         "path": "Scripts/FTC Tools/Floating FX/Keep only one floating fx open at the same position.lua",
         "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/509435e68365e63634f5c6319ae7ec622ee20c8f/Floating%20FX/Keep%20only%20one%20floating%20fx%20open%20at%20the%20same%20position.lua",
         "sha256": "09i78rmjxwckpjln6sh41n08wza43qrw6iaflfvb16wxcdfdqmn1"
+      }
+    ]
+  },
+  "Smart-freeze.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20selected%20tracks.lua",
+        "sha256": "0ckdzyp78xv25d308rslbz654xy63c76l4gs2ysk72rz80m56mfg"
+      },
+      {
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20settings.lua",
+        "sha256": "1pqg2rjz3bn0xcs7szz89hl757v8dnqlzkmj8azar7y58q2b8mh6"
+      }
+    ],
+    "1.1.1": [
+      {
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20selected%20tracks.lua",
+        "sha256": "0ckdzyp78xv25d308rslbz654xy63c76l4gs2ysk72rz80m56mfg"
+      },
+      {
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/afffeaf85c0aed3bfef222bc8eaa8b40b3be278e/Freeze/Smart-freeze%20settings.lua",
+        "sha256": "1pqg2rjz3bn0xcs7szz89hl757v8dnqlzkmj8azar7y58q2b8mh6"
+      }
+    ],
+    "1.1.0": [
+      {
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/55090f0de946439d8b9b4b2641f7876edbd7c59a/Freeze/Smart-freeze%20selected%20tracks.lua",
+        "sha256": "0whg7997ldv2ac71ghmpdr3aa13mijvl7gfja3yw77y4wb1vxxq7"
+      },
+      {
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/55090f0de946439d8b9b4b2641f7876edbd7c59a/Freeze/Smart-freeze%20settings.lua",
+        "sha256": "0ix84lhf3vsvpw1bc8z42br0kdv94dnsg2b8psck0gw7xvj4cqli"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze selected tracks.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c4f4a0c76c3eece6ed3728a45cb9c77f8e58810/Freeze/Smart-freeze%20selected%20tracks.lua",
+        "sha256": "0lv5vvq2djpnl67jaz8dyplisr8m453ncyalg4k65mcwwv13sjnr"
+      },
+      {
+        "path": "Scripts/FTC Tools/Freeze/Smart-freeze settings.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0c4f4a0c76c3eece6ed3728a45cb9c77f8e58810/Freeze/Smart-freeze%20settings.lua",
+        "sha256": "0vv82fwjqp8zzxqziyjq8m2gzlzhwc01l0fqgx07mfwcvy8xy0m8"
+      }
+    ]
+  },
+  "Create an approximate razor edit from region under mouse.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Mouse modifiers/Create an approximate razor edit from region under mouse.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c770b7dbadc6289b17eb94de110b79819012071c/Mouse%20modifiers/Create%20an%20approximate%20razor%20edit%20from%20region%20under%20mouse.lua",
+        "sha256": "0gqi6v4scgzaiv25v1cfvzqlj3lszj9ckr7kyjxawm2cw9p0ghip"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/FTC Tools/Mouse modifiers/Create an approximate razor edit from region under mouse.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c770b7dbadc6289b17eb94de110b79819012071c/Mouse%20modifiers/Create%20an%20approximate%20razor%20edit%20from%20region%20under%20mouse.lua",
+        "sha256": "0gqi6v4scgzaiv25v1cfvzqlj3lszj9ckr7kyjxawm2cw9p0ghip"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Mouse modifiers/Create an approximate razor edit from region under mouse.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/0bf8a1cf325b1cab0f34ce936a086334e13ccf28/Mouse%20modifiers/Create%20an%20approximate%20razor%20edit%20from%20region%20under%20mouse.lua",
+        "sha256": "1vc2gn98z58cryz890xapjac3ndjpgy596fp5z4gfiv7xa1d41yg"
+      }
+    ]
+  },
+  "Create an approximate razor edit from time selection.lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Mouse modifiers/Create an approximate razor edit from time selection.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c770b7dbadc6289b17eb94de110b79819012071c/Mouse%20modifiers/Create%20an%20approximate%20razor%20edit%20from%20time%20selection.lua",
+        "sha256": "1z62g17y7jd27qyikjqfgw04b96l4inlxqby1aanp4ya2z564jda"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/FTC Tools/Mouse modifiers/Create an approximate razor edit from time selection.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c770b7dbadc6289b17eb94de110b79819012071c/Mouse%20modifiers/Create%20an%20approximate%20razor%20edit%20from%20time%20selection.lua",
+        "sha256": "1z62g17y7jd27qyikjqfgw04b96l4inlxqby1aanp4ya2z564jda"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/FTC Tools/Mouse modifiers/Create an approximate razor edit from time selection.lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/c1df37a6c3ca794637a4c3116424916a21b1d44f/Mouse%20modifiers/Create%20an%20approximate%20razor%20edit%20from%20time%20selection.lua",
+        "sha256": "14cljpmgirydpbafr8kmk3141qsx1b738mmb5cihm1l1zhf7nbnw"
+      }
+    ]
+  },
+  "Remove region including contents (Ruler alt double click).lua": {
+    "latest": [
+      {
+        "path": "Scripts/FTC Tools/Mouse modifiers/Remove region including contents (Ruler alt double click).lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/21e12afff8d51f1533d128cdebb0189115c908a6/Mouse%20modifiers/Remove%20region%20including%20contents%20(Ruler%20alt%20double%20click).lua",
+        "sha256": "0mx7826g6viq56zlpvc8gpzrc8ic3y9frkprn7nhk992bvghgm78"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/FTC Tools/Mouse modifiers/Remove region including contents (Ruler alt double click).lua",
+        "url": "https://github.com/iliaspoulakis/Reaper-Tools/raw/21e12afff8d51f1533d128cdebb0189115c908a6/Mouse%20modifiers/Remove%20region%20including%20contents%20(Ruler%20alt%20double%20click).lua",
+        "sha256": "0mx7826g6viq56zlpvc8gpzrc8ic3y9frkprn7nhk992bvghgm78"
       }
     ]
   },
