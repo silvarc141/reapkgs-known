@@ -436,22 +436,6 @@
       }
     ]
   },
-  "MIDI Editor actions (active take only) vs (all editable).ReaperLangPack": {
-    "latest": [
-      {
-        "path": "LangPack/MIDI Editor actions (active take only) vs (all editable).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/661c72b234368cbcaea2d82f27114a421e34a871/Translations/MIDI%20Editor%20actions%20(active%20take%20only)%20vs%20(all%20editable).ReaperLangPack",
-        "sha256": "1qr02122hrr3ipxys5s1232rzpzxxhf1z3p8f7l0y6fpq32z60v0"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "LangPack/MIDI Editor actions (active take only) vs (all editable).ReaperLangPack",
-        "url": "https://github.com/ReaTeam/LangPacks/raw/661c72b234368cbcaea2d82f27114a421e34a871/Translations/MIDI%20Editor%20actions%20(active%20take%20only)%20vs%20(all%20editable).ReaperLangPack",
-        "sha256": "1qr02122hrr3ipxys5s1232rzpzxxhf1z3p8f7l0y6fpq32z60v0"
-      }
-    ]
-  },
   "REAPER_SWS_ru_reapack-utf8.ReaperLangPack": {
     "latest": [
       {
@@ -479,6 +463,22 @@
         "path": "LangPack/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
         "url": "https://github.com/ReaTeam/LangPacks/raw/30718f3b053e69621b1e528f41d25861bac42b8e/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack",
         "sha256": "1akqyz023h4gz5pn3i7m0ncdnm1r1i93gqdcnj61ym4b7gpqz778"
+      }
+    ]
+  },
+  "MIDI Editor actions (active take only) vs (all editable).ReaperLangPack": {
+    "latest": [
+      {
+        "path": "LangPack/MIDI Editor actions (active take only) vs (all editable).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/661c72b234368cbcaea2d82f27114a421e34a871/Translations/MIDI%20Editor%20actions%20(active%20take%20only)%20vs%20(all%20editable).ReaperLangPack",
+        "sha256": "1qr02122hrr3ipxys5s1232rzpzxxhf1z3p8f7l0y6fpq32z60v0"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "LangPack/MIDI Editor actions (active take only) vs (all editable).ReaperLangPack",
+        "url": "https://github.com/ReaTeam/LangPacks/raw/661c72b234368cbcaea2d82f27114a421e34a871/Translations/MIDI%20Editor%20actions%20(active%20take%20only)%20vs%20(all%20editable).ReaperLangPack",
+        "sha256": "1qr02122hrr3ipxys5s1232rzpzxxhf1z3p8f7l0y6fpq32z60v0"
       }
     ]
   },

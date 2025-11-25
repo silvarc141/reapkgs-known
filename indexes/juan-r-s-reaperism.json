@@ -1,27 +1,4 @@
 {
-  "MIDI-round-robin-midi_transpose.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_transpose.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/5b34ba48982105b75460d6b3312dd46e874b7bd5/MIDI/MIDI-round-robin-midi_transpose.jsfx",
-        "sha256": "1h99rw57l71gi1sp5n4rmqbxhv0h6v7v54q7dfdsm724fif829jb"
-      }
-    ],
-    "1.02": [
-      {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_transpose.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/5b34ba48982105b75460d6b3312dd46e874b7bd5/MIDI/MIDI-round-robin-midi_transpose.jsfx",
-        "sha256": "1h99rw57l71gi1sp5n4rmqbxhv0h6v7v54q7dfdsm724fif829jb"
-      }
-    ],
-    "1.01": [
-      {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_transpose.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-round-robin-midi_transpose.jsfx",
-        "sha256": "0k5ri5wz8i7cm1fmr8dybp9kb88q6f0w07f4byw00dg5gcmb7rmf"
-      }
-    ]
-  },
   "MIDI-floating-split.jsfx": {
     "latest": [
       {
@@ -52,6 +29,29 @@
       }
     ]
   },
+  "MIDI-round-robin-midi_transpose.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_transpose.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/5b34ba48982105b75460d6b3312dd46e874b7bd5/MIDI/MIDI-round-robin-midi_transpose.jsfx",
+        "sha256": "1h99rw57l71gi1sp5n4rmqbxhv0h6v7v54q7dfdsm724fif829jb"
+      }
+    ],
+    "1.02": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_transpose.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/5b34ba48982105b75460d6b3312dd46e874b7bd5/MIDI/MIDI-round-robin-midi_transpose.jsfx",
+        "sha256": "1h99rw57l71gi1sp5n4rmqbxhv0h6v7v54q7dfdsm724fif829jb"
+      }
+    ],
+    "1.01": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-round-robin-midi_transpose.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-round-robin-midi_transpose.jsfx",
+        "sha256": "0k5ri5wz8i7cm1fmr8dybp9kb88q6f0w07f4byw00dg5gcmb7rmf"
+      }
+    ]
+  },
   "MIDI-round-robin-midi_channelize.jsfx": {
     "latest": [
       {
@@ -75,35 +75,19 @@
       }
     ]
   },
-  "NOP-instrument.jsfx": {
+  "MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx": {
     "latest": [
       {
-        "path": "Effects/Juan_R's Reaperism/MIDI/NOP-instrument.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/c527e8af8e44970753af0dce068ba786ea601327/MIDI/NOP-instrument.jsfx",
-        "sha256": "0ypkrqlw9pcmk14lxaz7zrjvyszdn26s8prh2hnsh8h1rmz744va"
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
+        "sha256": "1b4wszls5ashhhsryf3s4wwhavy17qfcr436hs9a5c0q7j68jhjx"
       }
     ],
-    "1.00": [
+    "1.03": [
       {
-        "path": "Effects/Juan_R's Reaperism/MIDI/NOP-instrument.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/c527e8af8e44970753af0dce068ba786ea601327/MIDI/NOP-instrument.jsfx",
-        "sha256": "0ypkrqlw9pcmk14lxaz7zrjvyszdn26s8prh2hnsh8h1rmz744va"
-      }
-    ]
-  },
-  "MIDI-Fret-and-pick.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-Fret-and-pick.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-Fret-and-pick.jsfx",
-        "sha256": "0ha1xmjasbj62lgh62bp9nvljs36jcy8sk55xfqzlvai7706dvj7"
-      }
-    ],
-    "1.04": [
-      {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-Fret-and-pick.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-Fret-and-pick.jsfx",
-        "sha256": "0ha1xmjasbj62lgh62bp9nvljs36jcy8sk55xfqzlvai7706dvj7"
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
+        "sha256": "1b4wszls5ashhhsryf3s4wwhavy17qfcr436hs9a5c0q7j68jhjx"
       }
     ]
   },
@@ -123,19 +107,72 @@
       }
     ]
   },
-  "MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx": {
+  "MIDI-Fret-and-pick.jsfx": {
     "latest": [
       {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
-        "sha256": "1b4wszls5ashhhsryf3s4wwhavy17qfcr436hs9a5c0q7j68jhjx"
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-Fret-and-pick.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-Fret-and-pick.jsfx",
+        "sha256": "0ha1xmjasbj62lgh62bp9nvljs36jcy8sk55xfqzlvai7706dvj7"
       }
     ],
-    "1.03": [
+    "1.04": [
       {
-        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
-        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-jrk_juan_r-stepped-pitchbend-by-semitones.jsfx",
-        "sha256": "1b4wszls5ashhhsryf3s4wwhavy17qfcr436hs9a5c0q7j68jhjx"
+        "path": "Effects/Juan_R's Reaperism/MIDI/MIDI-Fret-and-pick.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/8e4fd5835f07b9738860ff8eb2e30d30983a72e6/MIDI/MIDI-Fret-and-pick.jsfx",
+        "sha256": "0ha1xmjasbj62lgh62bp9nvljs36jcy8sk55xfqzlvai7706dvj7"
+      }
+    ]
+  },
+  "NOP-instrument.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/NOP-instrument.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/c527e8af8e44970753af0dce068ba786ea601327/MIDI/NOP-instrument.jsfx",
+        "sha256": "0ypkrqlw9pcmk14lxaz7zrjvyszdn26s8prh2hnsh8h1rmz744va"
+      }
+    ],
+    "1.00": [
+      {
+        "path": "Effects/Juan_R's Reaperism/MIDI/NOP-instrument.jsfx",
+        "url": "https://github.com/juanriccio/Reaperism/raw/c527e8af8e44970753af0dce068ba786ea601327/MIDI/NOP-instrument.jsfx",
+        "sha256": "0ypkrqlw9pcmk14lxaz7zrjvyszdn26s8prh2hnsh8h1rmz744va"
+      }
+    ]
+  },
+  "juan_r - Rename and renumber selected tracks name by name.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Rename and renumber selected tracks name by name.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/b72f546c2ab963934718a59ff14a29d8fa5daf43/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua",
+        "sha256": "13wyjndk7zawqi4zb695l29hks5kgz6ap2cfa2bpvcw7r1hy864i"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Rename and renumber selected tracks name by name.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/b72f546c2ab963934718a59ff14a29d8fa5daf43/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua",
+        "sha256": "13wyjndk7zawqi4zb695l29hks5kgz6ap2cfa2bpvcw7r1hy864i"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Rename and renumber selected tracks name by name.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/40b5ca23d0de03fee904b59deafbf274fd8f9c91/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua",
+        "sha256": "00y4lg1ibzm6n9w56q1xlciraq63xxf71fld7al5myrdb4k7hkcl"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Rename and renumber selected tracks name by name.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/b18322ce41e4f1475fbb770a7d988630153beb96/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua",
+        "sha256": "0fjkpnjbr10g2vy8ckx6cqmky40ccy2ivp6nvxq0gnj2vc1zax8j"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Rename and renumber selected tracks name by name.lua",
+        "url": "https://github.com/juanriccio/Reaperism/raw/b128fcd57c046ff90f10a3f2aea6a782e9e2cb67/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua",
+        "sha256": "068zd7h6zl4ii2a70b649r1h407fim6cd4c2njc48nvmz4dvd1ky"
       }
     ]
   },
@@ -212,43 +249,6 @@
         "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Set region at PLAY cursor to time selection.lua",
         "url": "https://github.com/juanriccio/Reaperism/raw/2f7d261af306439437de482b3f590290215765d6/ReaScripts/juan_r%20-%20Set%20region%20at%20PLAY%20cursor%20to%20time%20selection.lua",
         "sha256": "0g0iwy29ryrjagsjdmk7h8j7inigzvw5pvl7b1h5fgl05hhizdp1"
-      }
-    ]
-  },
-  "juan_r - Rename and renumber selected tracks name by name.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Rename and renumber selected tracks name by name.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/b72f546c2ab963934718a59ff14a29d8fa5daf43/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua",
-        "sha256": "13wyjndk7zawqi4zb695l29hks5kgz6ap2cfa2bpvcw7r1hy864i"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Rename and renumber selected tracks name by name.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/b72f546c2ab963934718a59ff14a29d8fa5daf43/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua",
-        "sha256": "13wyjndk7zawqi4zb695l29hks5kgz6ap2cfa2bpvcw7r1hy864i"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Rename and renumber selected tracks name by name.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/40b5ca23d0de03fee904b59deafbf274fd8f9c91/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua",
-        "sha256": "00y4lg1ibzm6n9w56q1xlciraq63xxf71fld7al5myrdb4k7hkcl"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Rename and renumber selected tracks name by name.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/b18322ce41e4f1475fbb770a7d988630153beb96/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua",
-        "sha256": "0fjkpnjbr10g2vy8ckx6cqmky40ccy2ivp6nvxq0gnj2vc1zax8j"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/Juan_R's Reaperism/ReaScripts/juan_r - Rename and renumber selected tracks name by name.lua",
-        "url": "https://github.com/juanriccio/Reaperism/raw/b128fcd57c046ff90f10a3f2aea6a782e9e2cb67/ReaScripts/juan_r%20-%20Rename%20and%20renumber%20selected%20tracks%20name%20by%20name.lua",
-        "sha256": "068zd7h6zl4ii2a70b649r1h407fim6cd4c2njc48nvmz4dvd1ky"
       }
     ]
   }

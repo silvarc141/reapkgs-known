@@ -2,14 +2,9 @@
   "meta_CC to Program Change.lua": {
     "latest": [
       {
-        "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Current MIDI Editor Channel.lua",
-        "url": "https://github.com/jtackaberry/reascripts/raw/37ad5f7fa418663c23f03f6190c2d07bd63ed40b/MIDI/tack_CC%20to%20Program%20Change%20-%20Current%20MIDI%20Editor%20Channel.lua",
-        "sha256": "1jxgsa7znmj6sps87llky5sk9ymdraq9bsjgikz1m4wgh9qz6kr3"
-      },
-      {
-        "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Channel 4.lua",
-        "url": "https://github.com/jtackaberry/reascripts/raw/37ad5f7fa418663c23f03f6190c2d07bd63ed40b/MIDI/tack_CC%20to%20Program%20Change%20-%20Channel%204.lua",
-        "sha256": "1cc1hfsfkpiz2qxd3bjsc080yaky0r7wiia1d29krvicjxwj6nvw"
+        "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Channel 1.lua",
+        "url": "https://github.com/jtackaberry/reascripts/raw/37ad5f7fa418663c23f03f6190c2d07bd63ed40b/MIDI/tack_CC%20to%20Program%20Change%20-%20Channel%201.lua",
+        "sha256": "1jg8760lp7hkmiyxm216y17v3y3rb4hhm191fabglpwxybhxnfam"
       },
       {
         "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Channel 2.lua",
@@ -17,14 +12,19 @@
         "sha256": "0whn3nqz3r237x83rzlq4qvvky7mp71fwsyf3dnmb9zbyyv4xnxj"
       },
       {
-        "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Channel 1.lua",
-        "url": "https://github.com/jtackaberry/reascripts/raw/37ad5f7fa418663c23f03f6190c2d07bd63ed40b/MIDI/tack_CC%20to%20Program%20Change%20-%20Channel%201.lua",
-        "sha256": "1jg8760lp7hkmiyxm216y17v3y3rb4hhm191fabglpwxybhxnfam"
-      },
-      {
         "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Channel 3.lua",
         "url": "https://github.com/jtackaberry/reascripts/raw/37ad5f7fa418663c23f03f6190c2d07bd63ed40b/MIDI/tack_CC%20to%20Program%20Change%20-%20Channel%203.lua",
         "sha256": "1kc2lfdddnqdhjzrk7xnz08d72j28km3fnfir5v3rf9akzkxhyny"
+      },
+      {
+        "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Channel 4.lua",
+        "url": "https://github.com/jtackaberry/reascripts/raw/37ad5f7fa418663c23f03f6190c2d07bd63ed40b/MIDI/tack_CC%20to%20Program%20Change%20-%20Channel%204.lua",
+        "sha256": "1cc1hfsfkpiz2qxd3bjsc080yaky0r7wiia1d29krvicjxwj6nvw"
+      },
+      {
+        "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Current MIDI Editor Channel.lua",
+        "url": "https://github.com/jtackaberry/reascripts/raw/37ad5f7fa418663c23f03f6190c2d07bd63ed40b/MIDI/tack_CC%20to%20Program%20Change%20-%20Current%20MIDI%20Editor%20Channel.lua",
+        "sha256": "1jxgsa7znmj6sps87llky5sk9ymdraq9bsjgikz1m4wgh9qz6kr3"
       },
       {
         "path": "Scripts/Tack Scripts/MIDI/tack_Functions.lua",
@@ -34,14 +34,9 @@
     ],
     "1.0": [
       {
-        "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Current MIDI Editor Channel.lua",
-        "url": "https://github.com/jtackaberry/reascripts/raw/37ad5f7fa418663c23f03f6190c2d07bd63ed40b/MIDI/tack_CC%20to%20Program%20Change%20-%20Current%20MIDI%20Editor%20Channel.lua",
-        "sha256": "1jxgsa7znmj6sps87llky5sk9ymdraq9bsjgikz1m4wgh9qz6kr3"
-      },
-      {
-        "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Channel 4.lua",
-        "url": "https://github.com/jtackaberry/reascripts/raw/37ad5f7fa418663c23f03f6190c2d07bd63ed40b/MIDI/tack_CC%20to%20Program%20Change%20-%20Channel%204.lua",
-        "sha256": "1cc1hfsfkpiz2qxd3bjsc080yaky0r7wiia1d29krvicjxwj6nvw"
+        "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Channel 1.lua",
+        "url": "https://github.com/jtackaberry/reascripts/raw/37ad5f7fa418663c23f03f6190c2d07bd63ed40b/MIDI/tack_CC%20to%20Program%20Change%20-%20Channel%201.lua",
+        "sha256": "1jg8760lp7hkmiyxm216y17v3y3rb4hhm191fabglpwxybhxnfam"
       },
       {
         "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Channel 2.lua",
@@ -49,14 +44,19 @@
         "sha256": "0whn3nqz3r237x83rzlq4qvvky7mp71fwsyf3dnmb9zbyyv4xnxj"
       },
       {
-        "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Channel 1.lua",
-        "url": "https://github.com/jtackaberry/reascripts/raw/37ad5f7fa418663c23f03f6190c2d07bd63ed40b/MIDI/tack_CC%20to%20Program%20Change%20-%20Channel%201.lua",
-        "sha256": "1jg8760lp7hkmiyxm216y17v3y3rb4hhm191fabglpwxybhxnfam"
-      },
-      {
         "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Channel 3.lua",
         "url": "https://github.com/jtackaberry/reascripts/raw/37ad5f7fa418663c23f03f6190c2d07bd63ed40b/MIDI/tack_CC%20to%20Program%20Change%20-%20Channel%203.lua",
         "sha256": "1kc2lfdddnqdhjzrk7xnz08d72j28km3fnfir5v3rf9akzkxhyny"
+      },
+      {
+        "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Channel 4.lua",
+        "url": "https://github.com/jtackaberry/reascripts/raw/37ad5f7fa418663c23f03f6190c2d07bd63ed40b/MIDI/tack_CC%20to%20Program%20Change%20-%20Channel%204.lua",
+        "sha256": "1cc1hfsfkpiz2qxd3bjsc080yaky0r7wiia1d29krvicjxwj6nvw"
+      },
+      {
+        "path": "Scripts/Tack Scripts/MIDI/tack_CC to Program Change - Current MIDI Editor Channel.lua",
+        "url": "https://github.com/jtackaberry/reascripts/raw/37ad5f7fa418663c23f03f6190c2d07bd63ed40b/MIDI/tack_CC%20to%20Program%20Change%20-%20Current%20MIDI%20Editor%20Channel.lua",
+        "sha256": "1jxgsa7znmj6sps87llky5sk9ymdraq9bsjgikz1m4wgh9qz6kr3"
       },
       {
         "path": "Scripts/Tack Scripts/MIDI/tack_Functions.lua",
