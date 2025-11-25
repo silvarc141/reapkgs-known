@@ -36,27 +36,6 @@
         "type": "github"
       }
     },
-    "nix-utils": {
-      "inputs": {
-        "nixpkgs": [
-          "reapkgs",
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1755389671,
-        "narHash": "sha256-ncK/uFuKn8WQTjUZwj9uKv0a6gPByoCpCcQO7kYEnso=",
-        "owner": "silvarc141",
-        "repo": "nix-utils",
-        "rev": "d11d3f63b5eb57ba988ecb4e2f2e15fcc3be98c9",
-        "type": "github"
-      },
-      "original": {
-        "owner": "silvarc141",
-        "repo": "nix-utils",
-        "type": "github"
-      }
-    },
     "nixpkgs": {
       "locked": {
         "lastModified": 1763375004,
@@ -76,15 +55,14 @@
     "reapkgs": {
       "inputs": {
         "flake-utils": "flake-utils_2",
-        "nix-utils": "nix-utils",
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1764078260,
-        "narHash": "sha256-kJakh19bcl/4cM1rTxqD/M0EAXSPIx28LFOIlttUHn0=",
+        "lastModified": 1764092164,
+        "narHash": "sha256-e3vrV8CJ3KDzplxUSXRGoIv+RlFJbyCrXIUmmJ7q4IU=",
         "owner": "silvarc141",
         "repo": "reapkgs",
-        "rev": "81cf521a0174e6745dc9988ddf0a4ac57c8539c1",
+        "rev": "da48343153572b79a4252ca587df4f133b3c332b",
         "type": "github"
       },
       "original": {
