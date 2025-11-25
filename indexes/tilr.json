@@ -255,100 +255,6 @@
       }
     ]
   },
-  "skfilter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/Filter/skfilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter.jsfx",
-        "sha256": "0s2j65xpb944afgl69cs5j139i5lln2p9maa6dpms6mjlc52rph1"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Tilr/Filter/skfilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter.jsfx",
-        "sha256": "0s2j65xpb944afgl69cs5j139i5lln2p9maa6dpms6mjlc52rph1"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Tilr/Filter/skfilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter.jsfx",
-        "sha256": "145xdx93h6i59fnlr0wbrljw12bshzhr8qc9plx6h4759aal5d42"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
-        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
-        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
-      },
-      {
-        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ]
-  },
-  "QuickFilter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/QuickFilter.jsfx",
-        "sha256": "1gwn59d8wwf2gvi0vaff7dh9xjac8fy4dzzgpfpaardpbd8v0bp6"
-      },
-      {
-        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/QuickFilter.jsfx",
-        "sha256": "1gwn59d8wwf2gvi0vaff7dh9xjac8fy4dzzgpfpaardpbd8v0bp6"
-      },
-      {
-        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
-      }
-    ]
-  },
   "adsr1.jsfx": {
     "latest": [
       {
@@ -590,6 +496,168 @@
         "path": "Effects/Tilr/Modulation/adsr1/adsr.mouselib.jsfx-inc",
         "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Modulation/adsr1/adsr.mouselib.jsfx-inc",
         "sha256": "1a3qrvb07z45mwxxvbl84nbqmxksljciwsishyq7fapy663n9bfi"
+      }
+    ]
+  },
+  "distr.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Modulation/distr.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr.jsfx",
+        "sha256": "02l7xk2kris7y9mn6mimiw0zqksdmcyy0aj9c0hqn2613in3n899"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.array.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.array.jsfx-inc",
+        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.curvelib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.curvelib.jsfx-inc",
+        "sha256": "03wcig8f6sb93q73fizln9wf5x106kqgfhv361cf4wfi0z1rppnh"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.distortions.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.distortions.jsfx-inc",
+        "sha256": "0gspimjwgfsi9q5vx9v34ci04c55yhmvn4fnh8hxhjvvn73bxfwf"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.mouselib.jsfx-inc",
+        "sha256": "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Effects/Tilr/Modulation/distr.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr.jsfx",
+        "sha256": "02l7xk2kris7y9mn6mimiw0zqksdmcyy0aj9c0hqn2613in3n899"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.array.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.array.jsfx-inc",
+        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.curvelib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.curvelib.jsfx-inc",
+        "sha256": "03wcig8f6sb93q73fizln9wf5x106kqgfhv361cf4wfi0z1rppnh"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.distortions.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.distortions.jsfx-inc",
+        "sha256": "0gspimjwgfsi9q5vx9v34ci04c55yhmvn4fnh8hxhjvvn73bxfwf"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.mouselib.jsfx-inc",
+        "sha256": "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/Tilr/Modulation/distr.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/353702e3c540086836d671b356774faf20cec506/Modulation/distr.jsfx",
+        "sha256": "1y4cxnm02hsyq1xf22bfib5v8pdhh61m1r5v76j7d959j48yr9fj"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.array.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/353702e3c540086836d671b356774faf20cec506/Modulation/distr/distr.array.jsfx-inc",
+        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.curvelib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/353702e3c540086836d671b356774faf20cec506/Modulation/distr/distr.curvelib.jsfx-inc",
+        "sha256": "03wcig8f6sb93q73fizln9wf5x106kqgfhv361cf4wfi0z1rppnh"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.distortions.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/353702e3c540086836d671b356774faf20cec506/Modulation/distr/distr.distortions.jsfx-inc",
+        "sha256": "0gspimjwgfsi9q5vx9v34ci04c55yhmvn4fnh8hxhjvvn73bxfwf"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/353702e3c540086836d671b356774faf20cec506/Modulation/distr/distr.mouselib.jsfx-inc",
+        "sha256": "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/353702e3c540086836d671b356774faf20cec506/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Effects/Tilr/Modulation/distr.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/de59522dd6bcf6942f34ac9b1d67010277f790e9/Modulation/distr.jsfx",
+        "sha256": "08ha746690bmqqgd1nxiqn8pikr3zgyn3320qiarx5653sgrmkqx"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.array.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/de59522dd6bcf6942f34ac9b1d67010277f790e9/Modulation/distr/distr.array.jsfx-inc",
+        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.curvelib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/de59522dd6bcf6942f34ac9b1d67010277f790e9/Modulation/distr/distr.curvelib.jsfx-inc",
+        "sha256": "03wcig8f6sb93q73fizln9wf5x106kqgfhv361cf4wfi0z1rppnh"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.distortions.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/de59522dd6bcf6942f34ac9b1d67010277f790e9/Modulation/distr/distr.distortions.jsfx-inc",
+        "sha256": "047h8k6p5f4maknnc0fbazci9n34j22s1nwccrqdsjrc3slddh3d"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/de59522dd6bcf6942f34ac9b1d67010277f790e9/Modulation/distr/distr.mouselib.jsfx-inc",
+        "sha256": "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/de59522dd6bcf6942f34ac9b1d67010277f790e9/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Tilr/Modulation/distr.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/5edcc0e0edbe843234d660a5e3e008ce19d4b2f5/Modulation/distr.jsfx",
+        "sha256": "1pw29gcvzaivw5y16idrfixavc14dkcqcxjs8czswcykfpk1jz3c"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.array.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/5edcc0e0edbe843234d660a5e3e008ce19d4b2f5/Modulation/distr/distr.array.jsfx-inc",
+        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.curvelib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/5edcc0e0edbe843234d660a5e3e008ce19d4b2f5/Modulation/distr/distr.curvelib.jsfx-inc",
+        "sha256": "03wcig8f6sb93q73fizln9wf5x106kqgfhv361cf4wfi0z1rppnh"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.distortions.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/5edcc0e0edbe843234d660a5e3e008ce19d4b2f5/Modulation/distr/distr.distortions.jsfx-inc",
+        "sha256": "1k2da5ibnp4rzjj4653azvvdlnxxl6hnlrr339g28qfrnykf4zqy"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.mouselib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/5edcc0e0edbe843234d660a5e3e008ce19d4b2f5/Modulation/distr/distr.mouselib.jsfx-inc",
+        "sha256": "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s"
+      },
+      {
+        "path": "Effects/Tilr/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/5edcc0e0edbe843234d660a5e3e008ce19d4b2f5/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
       }
     ]
   },
@@ -1786,168 +1854,6 @@
         "path": "Effects/Tilr/Modulation/time1/time.mouselib.jsfx-inc",
         "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Modulation/time1/time.mouselib.jsfx-inc",
         "sha256": "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s"
-      }
-    ]
-  },
-  "distr.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/Modulation/distr.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr.jsfx",
-        "sha256": "02l7xk2kris7y9mn6mimiw0zqksdmcyy0aj9c0hqn2613in3n899"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.array.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.array.jsfx-inc",
-        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.curvelib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.curvelib.jsfx-inc",
-        "sha256": "03wcig8f6sb93q73fizln9wf5x106kqgfhv361cf4wfi0z1rppnh"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.distortions.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.distortions.jsfx-inc",
-        "sha256": "0gspimjwgfsi9q5vx9v34ci04c55yhmvn4fnh8hxhjvvn73bxfwf"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.mouselib.jsfx-inc",
-        "sha256": "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ],
-    "1.0.3": [
-      {
-        "path": "Effects/Tilr/Modulation/distr.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr.jsfx",
-        "sha256": "02l7xk2kris7y9mn6mimiw0zqksdmcyy0aj9c0hqn2613in3n899"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.array.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.array.jsfx-inc",
-        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.curvelib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.curvelib.jsfx-inc",
-        "sha256": "03wcig8f6sb93q73fizln9wf5x106kqgfhv361cf4wfi0z1rppnh"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.distortions.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.distortions.jsfx-inc",
-        "sha256": "0gspimjwgfsi9q5vx9v34ci04c55yhmvn4fnh8hxhjvvn73bxfwf"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.mouselib.jsfx-inc",
-        "sha256": "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/8379da177843b130bcd828cb9a0bb87ce8a508e0/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/Tilr/Modulation/distr.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/353702e3c540086836d671b356774faf20cec506/Modulation/distr.jsfx",
-        "sha256": "1y4cxnm02hsyq1xf22bfib5v8pdhh61m1r5v76j7d959j48yr9fj"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.array.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/353702e3c540086836d671b356774faf20cec506/Modulation/distr/distr.array.jsfx-inc",
-        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.curvelib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/353702e3c540086836d671b356774faf20cec506/Modulation/distr/distr.curvelib.jsfx-inc",
-        "sha256": "03wcig8f6sb93q73fizln9wf5x106kqgfhv361cf4wfi0z1rppnh"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.distortions.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/353702e3c540086836d671b356774faf20cec506/Modulation/distr/distr.distortions.jsfx-inc",
-        "sha256": "0gspimjwgfsi9q5vx9v34ci04c55yhmvn4fnh8hxhjvvn73bxfwf"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/353702e3c540086836d671b356774faf20cec506/Modulation/distr/distr.mouselib.jsfx-inc",
-        "sha256": "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/353702e3c540086836d671b356774faf20cec506/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Effects/Tilr/Modulation/distr.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/de59522dd6bcf6942f34ac9b1d67010277f790e9/Modulation/distr.jsfx",
-        "sha256": "08ha746690bmqqgd1nxiqn8pikr3zgyn3320qiarx5653sgrmkqx"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.array.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/de59522dd6bcf6942f34ac9b1d67010277f790e9/Modulation/distr/distr.array.jsfx-inc",
-        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.curvelib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/de59522dd6bcf6942f34ac9b1d67010277f790e9/Modulation/distr/distr.curvelib.jsfx-inc",
-        "sha256": "03wcig8f6sb93q73fizln9wf5x106kqgfhv361cf4wfi0z1rppnh"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.distortions.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/de59522dd6bcf6942f34ac9b1d67010277f790e9/Modulation/distr/distr.distortions.jsfx-inc",
-        "sha256": "047h8k6p5f4maknnc0fbazci9n34j22s1nwccrqdsjrc3slddh3d"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/de59522dd6bcf6942f34ac9b1d67010277f790e9/Modulation/distr/distr.mouselib.jsfx-inc",
-        "sha256": "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/de59522dd6bcf6942f34ac9b1d67010277f790e9/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Tilr/Modulation/distr.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/5edcc0e0edbe843234d660a5e3e008ce19d4b2f5/Modulation/distr.jsfx",
-        "sha256": "1pw29gcvzaivw5y16idrfixavc14dkcqcxjs8czswcykfpk1jz3c"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.array.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/5edcc0e0edbe843234d660a5e3e008ce19d4b2f5/Modulation/distr/distr.array.jsfx-inc",
-        "sha256": "084xdmjy3zykcdiyhr7lsyq35rr1igqwma3qj1i2hhrqa6jq1pja"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.curvelib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/5edcc0e0edbe843234d660a5e3e008ce19d4b2f5/Modulation/distr/distr.curvelib.jsfx-inc",
-        "sha256": "03wcig8f6sb93q73fizln9wf5x106kqgfhv361cf4wfi0z1rppnh"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.distortions.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/5edcc0e0edbe843234d660a5e3e008ce19d4b2f5/Modulation/distr/distr.distortions.jsfx-inc",
-        "sha256": "1k2da5ibnp4rzjj4653azvvdlnxxl6hnlrr339g28qfrnykf4zqy"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.mouselib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/5edcc0e0edbe843234d660a5e3e008ce19d4b2f5/Modulation/distr/distr.mouselib.jsfx-inc",
-        "sha256": "0bh60q8qy00prxc1kjb3qqc2nn6f4ynhdbhf5hbx44ibqcg7bb4s"
-      },
-      {
-        "path": "Effects/Tilr/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/5edcc0e0edbe843234d660a5e3e008ce19d4b2f5/Modulation/distr/distr.squashman_upsamplers.jsfx-inc",
-        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
       }
     ]
   },
@@ -9585,19 +9491,113 @@
       }
     ]
   },
-  "Notes to 12 channel.jsfx": {
+  "skfilter.jsfx": {
     "latest": [
       {
-        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
-        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
+        "path": "Effects/Tilr/Filter/skfilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter.jsfx",
+        "sha256": "0s2j65xpb944afgl69cs5j139i5lln2p9maa6dpms6mjlc52rph1"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Tilr/Filter/skfilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter.jsfx",
+        "sha256": "0s2j65xpb944afgl69cs5j139i5lln2p9maa6dpms6mjlc52rph1"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/c8857be6761ebd3cc3a551672543b8c329016dbe/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
-        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
+        "path": "Effects/Tilr/Filter/skfilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter.jsfx",
+        "sha256": "145xdx93h6i59fnlr0wbrljw12bshzhr8qc9plx6h4759aal5d42"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_Filters.jsfx-inc",
+        "sha256": "1083qp43c6rs30w7hic3d11dp0cf590jm4pyxcq59c2a1bg2r9jd"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_oversampling.jsfx-inc",
+        "sha256": "1448zypd8bqnp58m5vav657dwpg1wkibvygq7mry0gh7cnvj3h2h"
+      },
+      {
+        "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
+        "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
+      }
+    ]
+  },
+  "QuickFilter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/QuickFilter.jsfx",
+        "sha256": "1gwn59d8wwf2gvi0vaff7dh9xjac8fy4dzzgpfpaardpbd8v0bp6"
+      },
+      {
+        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/QuickFilter.jsfx",
+        "sha256": "1gwn59d8wwf2gvi0vaff7dh9xjac8fy4dzzgpfpaardpbd8v0bp6"
+      },
+      {
+        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
+      }
+    ]
+  },
+  "MIDI Keyvel Filter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
+        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
+        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
       }
     ]
   },
@@ -9631,6 +9631,22 @@
       }
     ]
   },
+  "Notes to 12 channel.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
+        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
+        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
+      }
+    ]
+  },
   "Notes to CC.jsfx": {
     "latest": [
       {
@@ -9644,22 +9660,6 @@
         "path": "Effects/Tilr/MIDI/Notes to CC.jsfx",
         "url": "https://github.com/tiagolr/tilr_jsfx/raw/336455e0dc55025008ef03dfe2dda236aaa5976f/MIDI/Notes%20to%20CC.jsfx",
         "sha256": "1n7zbjgrbv0hdiixgc3xn4kmnmw0zcjl511rz9s1f5l15raz51ck"
-      }
-    ]
-  },
-  "MIDI Keyvel Filter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
-        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
-        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
       }
     ]
   },

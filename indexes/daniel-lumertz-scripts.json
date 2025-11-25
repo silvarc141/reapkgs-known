@@ -9248,179 +9248,6 @@
       }
     ]
   },
-  "daniellumertz_Its Gonna Phase.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Apply Phasing.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Apply%20Phasing.lua",
-        "sha256": "1wc2qpgmp2rcn8cmgji6y1g90986zy3jx0fb06gd3jxlqc69nby8"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Arrange Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Arrange%20Functions.lua",
-        "sha256": "0icyaii3i5qs27vsbkgxbyafxi8lysqjgk82yyqi5181lzlcr0qn"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/General Lua Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/General%20Lua%20Functions.lua",
-        "sha256": "0iw9gvi9kpncyz4mzs5y5jfawsaqgsrqyl5inaiwix0p0sywcysw"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Generative Loops Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Generative%20Loops%20Functions.lua",
-        "sha256": "1d58dhfssj85cnjbgakhn08xgp3kh377k63hlcq24mljjafmv5jl"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Imgui General Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Imgui%20General%20Functions.lua",
-        "sha256": "0xi7x1zaq41gxjmzblj23r68m5wrpwi10bzafl2p69vbff3r0fb9"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/REAPER Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/REAPER%20Functions.lua",
-        "sha256": "0fblzf1x1xx436zina6bjgpn1rsvplsfn2bzpyjinjw0s5cp0ndz"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Theme.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Theme.lua",
-        "sha256": "198a5qkk96nqhnm86xzyv8017h61liqazp1xb1p74jjy7z3q558s"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/UI.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/UI.lua",
-        "sha256": "1szc978avawzc6ysaxa0bl1xgphxgq28inzwfia7ziqwagzvglyn"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/UI_Automation Items.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/UI_Automation%20Items.lua",
-        "sha256": "01v9h2a2hgdkf9awp2cipcgz3fmsrhvfc7a8hg1l5hp6sk5njxj7"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Info/tables_info.txt",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Info/tables_info.txt",
-        "sha256": "01libgqip8797c6fl20qfvsgwy067xksz5d8n64bb6kphgwm6mfs"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/daniellumertz_Its Gonna Phase.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/daniellumertz_Its%20Gonna%20Phase.lua",
-        "sha256": "00z1j9jacc5k6l71l7bhfcvk1sxj12g6q8p8zfr2708r5nsvz0ri"
-      }
-    ],
-    "1.0.0": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Apply Phasing.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Apply%20Phasing.lua",
-        "sha256": "1wc2qpgmp2rcn8cmgji6y1g90986zy3jx0fb06gd3jxlqc69nby8"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Arrange Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Arrange%20Functions.lua",
-        "sha256": "0icyaii3i5qs27vsbkgxbyafxi8lysqjgk82yyqi5181lzlcr0qn"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/General Lua Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/General%20Lua%20Functions.lua",
-        "sha256": "0iw9gvi9kpncyz4mzs5y5jfawsaqgsrqyl5inaiwix0p0sywcysw"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Generative Loops Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Generative%20Loops%20Functions.lua",
-        "sha256": "1d58dhfssj85cnjbgakhn08xgp3kh377k63hlcq24mljjafmv5jl"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Imgui General Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Imgui%20General%20Functions.lua",
-        "sha256": "0xi7x1zaq41gxjmzblj23r68m5wrpwi10bzafl2p69vbff3r0fb9"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/REAPER Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/REAPER%20Functions.lua",
-        "sha256": "0fblzf1x1xx436zina6bjgpn1rsvplsfn2bzpyjinjw0s5cp0ndz"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Theme.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Theme.lua",
-        "sha256": "198a5qkk96nqhnm86xzyv8017h61liqazp1xb1p74jjy7z3q558s"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/UI.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/UI.lua",
-        "sha256": "1szc978avawzc6ysaxa0bl1xgphxgq28inzwfia7ziqwagzvglyn"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/UI_Automation Items.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/UI_Automation%20Items.lua",
-        "sha256": "01v9h2a2hgdkf9awp2cipcgz3fmsrhvfc7a8hg1l5hp6sk5njxj7"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Info/tables_info.txt",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Info/tables_info.txt",
-        "sha256": "01libgqip8797c6fl20qfvsgwy067xksz5d8n64bb6kphgwm6mfs"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/daniellumertz_Its Gonna Phase.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/daniellumertz_Its%20Gonna%20Phase.lua",
-        "sha256": "00z1j9jacc5k6l71l7bhfcvk1sxj12g6q8p8zfr2708r5nsvz0ri"
-      }
-    ],
-    "0.0.1": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Apply Phasing.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/Apply%20Phasing.lua",
-        "sha256": "008x23zvbq0v99zwr47bkn8aq41bmfb3vwn7bllblbiajyj9qvhh"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Arrange Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/Arrange%20Functions.lua",
-        "sha256": "0icyaii3i5qs27vsbkgxbyafxi8lysqjgk82yyqi5181lzlcr0qn"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/General Lua Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/General%20Lua%20Functions.lua",
-        "sha256": "0iw9gvi9kpncyz4mzs5y5jfawsaqgsrqyl5inaiwix0p0sywcysw"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Generative Loops Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/Generative%20Loops%20Functions.lua",
-        "sha256": "1d58dhfssj85cnjbgakhn08xgp3kh377k63hlcq24mljjafmv5jl"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Imgui General Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/Imgui%20General%20Functions.lua",
-        "sha256": "0xi7x1zaq41gxjmzblj23r68m5wrpwi10bzafl2p69vbff3r0fb9"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/REAPER Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/REAPER%20Functions.lua",
-        "sha256": "0fblzf1x1xx436zina6bjgpn1rsvplsfn2bzpyjinjw0s5cp0ndz"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Theme.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/Theme.lua",
-        "sha256": "198a5qkk96nqhnm86xzyv8017h61liqazp1xb1p74jjy7z3q558s"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/UI.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/UI.lua",
-        "sha256": "1szc978avawzc6ysaxa0bl1xgphxgq28inzwfia7ziqwagzvglyn"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/UI_Automation Items.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/UI_Automation%20Items.lua",
-        "sha256": "01v9h2a2hgdkf9awp2cipcgz3fmsrhvfc7a8hg1l5hp6sk5njxj7"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Info/tables_info.txt",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Info/tables_info.txt",
-        "sha256": "01libgqip8797c6fl20qfvsgwy067xksz5d8n64bb6kphgwm6mfs"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/daniellumertz_Its Gonna Phase.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/daniellumertz_Its%20Gonna%20Phase.lua",
-        "sha256": "1arblz0f9jabjx0s0gb7p28q8z063kg7j7ysqhkm13j245ksl7i1"
-      }
-    ]
-  },
   "daniellumertz_Fake Grids.lua": {
     "latest": [
       {
@@ -23678,6 +23505,235 @@
       }
     ]
   },
+  "daniellumertz_Its Gonna Phase.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Apply Phasing.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Apply%20Phasing.lua",
+        "sha256": "1wc2qpgmp2rcn8cmgji6y1g90986zy3jx0fb06gd3jxlqc69nby8"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Arrange Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Arrange%20Functions.lua",
+        "sha256": "0icyaii3i5qs27vsbkgxbyafxi8lysqjgk82yyqi5181lzlcr0qn"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/General Lua Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/General%20Lua%20Functions.lua",
+        "sha256": "0iw9gvi9kpncyz4mzs5y5jfawsaqgsrqyl5inaiwix0p0sywcysw"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Generative Loops Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Generative%20Loops%20Functions.lua",
+        "sha256": "1d58dhfssj85cnjbgakhn08xgp3kh377k63hlcq24mljjafmv5jl"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Imgui General Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Imgui%20General%20Functions.lua",
+        "sha256": "0xi7x1zaq41gxjmzblj23r68m5wrpwi10bzafl2p69vbff3r0fb9"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/REAPER Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/REAPER%20Functions.lua",
+        "sha256": "0fblzf1x1xx436zina6bjgpn1rsvplsfn2bzpyjinjw0s5cp0ndz"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Theme.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Theme.lua",
+        "sha256": "198a5qkk96nqhnm86xzyv8017h61liqazp1xb1p74jjy7z3q558s"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/UI.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/UI.lua",
+        "sha256": "1szc978avawzc6ysaxa0bl1xgphxgq28inzwfia7ziqwagzvglyn"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/UI_Automation Items.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/UI_Automation%20Items.lua",
+        "sha256": "01v9h2a2hgdkf9awp2cipcgz3fmsrhvfc7a8hg1l5hp6sk5njxj7"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Info/tables_info.txt",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Info/tables_info.txt",
+        "sha256": "01libgqip8797c6fl20qfvsgwy067xksz5d8n64bb6kphgwm6mfs"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/daniellumertz_Its Gonna Phase.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/daniellumertz_Its%20Gonna%20Phase.lua",
+        "sha256": "00z1j9jacc5k6l71l7bhfcvk1sxj12g6q8p8zfr2708r5nsvz0ri"
+      }
+    ],
+    "1.0.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Apply Phasing.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Apply%20Phasing.lua",
+        "sha256": "1wc2qpgmp2rcn8cmgji6y1g90986zy3jx0fb06gd3jxlqc69nby8"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Arrange Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Arrange%20Functions.lua",
+        "sha256": "0icyaii3i5qs27vsbkgxbyafxi8lysqjgk82yyqi5181lzlcr0qn"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/General Lua Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/General%20Lua%20Functions.lua",
+        "sha256": "0iw9gvi9kpncyz4mzs5y5jfawsaqgsrqyl5inaiwix0p0sywcysw"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Generative Loops Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Generative%20Loops%20Functions.lua",
+        "sha256": "1d58dhfssj85cnjbgakhn08xgp3kh377k63hlcq24mljjafmv5jl"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Imgui General Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Imgui%20General%20Functions.lua",
+        "sha256": "0xi7x1zaq41gxjmzblj23r68m5wrpwi10bzafl2p69vbff3r0fb9"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/REAPER Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/REAPER%20Functions.lua",
+        "sha256": "0fblzf1x1xx436zina6bjgpn1rsvplsfn2bzpyjinjw0s5cp0ndz"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Theme.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/Theme.lua",
+        "sha256": "198a5qkk96nqhnm86xzyv8017h61liqazp1xb1p74jjy7z3q558s"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/UI.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/UI.lua",
+        "sha256": "1szc978avawzc6ysaxa0bl1xgphxgq28inzwfia7ziqwagzvglyn"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/UI_Automation Items.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Functions/UI_Automation%20Items.lua",
+        "sha256": "01v9h2a2hgdkf9awp2cipcgz3fmsrhvfc7a8hg1l5hp6sk5njxj7"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Info/tables_info.txt",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/Info/tables_info.txt",
+        "sha256": "01libgqip8797c6fl20qfvsgwy067xksz5d8n64bb6kphgwm6mfs"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/daniellumertz_Its Gonna Phase.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/c115bcab0db34fe295c0cfafcb7d543bcd7df6c6/Generative/Its%20Gonna%20Phase/daniellumertz_Its%20Gonna%20Phase.lua",
+        "sha256": "00z1j9jacc5k6l71l7bhfcvk1sxj12g6q8p8zfr2708r5nsvz0ri"
+      }
+    ],
+    "0.0.1": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Apply Phasing.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/Apply%20Phasing.lua",
+        "sha256": "008x23zvbq0v99zwr47bkn8aq41bmfb3vwn7bllblbiajyj9qvhh"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Arrange Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/Arrange%20Functions.lua",
+        "sha256": "0icyaii3i5qs27vsbkgxbyafxi8lysqjgk82yyqi5181lzlcr0qn"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/General Lua Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/General%20Lua%20Functions.lua",
+        "sha256": "0iw9gvi9kpncyz4mzs5y5jfawsaqgsrqyl5inaiwix0p0sywcysw"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Generative Loops Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/Generative%20Loops%20Functions.lua",
+        "sha256": "1d58dhfssj85cnjbgakhn08xgp3kh377k63hlcq24mljjafmv5jl"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Imgui General Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/Imgui%20General%20Functions.lua",
+        "sha256": "0xi7x1zaq41gxjmzblj23r68m5wrpwi10bzafl2p69vbff3r0fb9"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/REAPER Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/REAPER%20Functions.lua",
+        "sha256": "0fblzf1x1xx436zina6bjgpn1rsvplsfn2bzpyjinjw0s5cp0ndz"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/Theme.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/Theme.lua",
+        "sha256": "198a5qkk96nqhnm86xzyv8017h61liqazp1xb1p74jjy7z3q558s"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/UI.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/UI.lua",
+        "sha256": "1szc978avawzc6ysaxa0bl1xgphxgq28inzwfia7ziqwagzvglyn"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Functions/UI_Automation Items.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Functions/UI_Automation%20Items.lua",
+        "sha256": "01v9h2a2hgdkf9awp2cipcgz3fmsrhvfc7a8hg1l5hp6sk5njxj7"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/Info/tables_info.txt",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/Info/tables_info.txt",
+        "sha256": "01libgqip8797c6fl20qfvsgwy067xksz5d8n64bb6kphgwm6mfs"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Generative/Its Gonna Phase/daniellumertz_Its Gonna Phase.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/997aeef19e9d124ee80064e50f9fcf288a854a08/Generative/Its%20Gonna%20Phase/daniellumertz_Its%20Gonna%20Phase.lua",
+        "sha256": "1arblz0f9jabjx0s0gb7p28q8z063kg7j7ysqhkm13j245ksl7i1"
+      }
+    ]
+  },
+  "multikey.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Multikey/Edit Multikey Shortcut.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/Edit%20Multikey%20Shortcut.lua",
+        "sha256": "0kz0p5fkksq37zhw5phckr6sg71cmqi388yw9xvfy2s9wvrfzamf"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Multikey/Functions/General Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/Functions/General%20Functions.lua",
+        "sha256": "0rg5kbivxms6cxfp9h324dicclh0bwz9mqg5z1yfdlw56g6n77v4"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Multikey/Functions/Multikey Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/Functions/Multikey%20Functions.lua",
+        "sha256": "03wsp42j4gqxp6xk5wdhgpl4q4gzf9fpvw5n8kd3nla9bi4rj7y3"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Multikey/multikey.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/multikey.lua",
+        "sha256": "0dnf8m4v4zlj231zsjhk49a0l7829kfrj68n7g6pzd44zr5z1jlc"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Multikey/multikey_bind.txt",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/multikey_bind.txt",
+        "sha256": "01c2cdj9dbsv6k0a9gws5pk9nc40cvapksmzchfk8pwpxndz87b9"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Multikey/Edit Multikey Shortcut.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/Edit%20Multikey%20Shortcut.lua",
+        "sha256": "0kz0p5fkksq37zhw5phckr6sg71cmqi388yw9xvfy2s9wvrfzamf"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Multikey/Functions/General Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/Functions/General%20Functions.lua",
+        "sha256": "0rg5kbivxms6cxfp9h324dicclh0bwz9mqg5z1yfdlw56g6n77v4"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Multikey/Functions/Multikey Functions.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/Functions/Multikey%20Functions.lua",
+        "sha256": "03wsp42j4gqxp6xk5wdhgpl4q4gzf9fpvw5n8kd3nla9bi4rj7y3"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Multikey/multikey.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/multikey.lua",
+        "sha256": "0dnf8m4v4zlj231zsjhk49a0l7829kfrj68n7g6pzd44zr5z1jlc"
+      },
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Multikey/multikey_bind.txt",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/multikey_bind.txt",
+        "sha256": "01c2cdj9dbsv6k0a9gws5pk9nc40cvapksmzchfk8pwpxndz87b9"
+      }
+    ]
+  },
   "Set Last Touched Parameter.lua": {
     "latest": [
       {
@@ -23731,40 +23787,42 @@
       }
     ]
   },
-  "Pitch Class Counter.lua": {
+  "Items Organize In Sequence.lua": {
     "latest": [
       {
-        "path": "Scripts/Daniel Lumertz Scripts/MIDI/Pitch Class Counter/Pitch Class Counter.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca7e1bd318b79b308a2ad90bf0d77f37e518a748/MIDI/Pitch%20Class%20Counter/Pitch%20Class%20Counter.lua",
-        "sha256": "1b7x47gxvkn66cn7l33w15vzqxa73ygdnjfgir5grwfjr806r93i"
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Items Organize In Sequence.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Items%20Organize%20In%20Sequence.lua",
+        "sha256": "04j6xdn4ac6r2s55c34200x1yr124d6hn6915rg8bwyfb644vn60"
       }
     ],
-    "1.0.3": [
+    "1.1": [
       {
-        "path": "Scripts/Daniel Lumertz Scripts/MIDI/Pitch Class Counter/Pitch Class Counter.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca7e1bd318b79b308a2ad90bf0d77f37e518a748/MIDI/Pitch%20Class%20Counter/Pitch%20Class%20Counter.lua",
-        "sha256": "1b7x47gxvkn66cn7l33w15vzqxa73ygdnjfgir5grwfjr806r93i"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/MIDI/Pitch Class Counter/Pitch Class Counter.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/a18c0480b11efa6b4a2539a009327cedb3cd7e31/MIDI/Pitch%20Class%20Counter/Pitch%20Class%20Counter.lua",
-        "sha256": "1ms0d59avj06yv6shzxlqylkyz4nha6982c71q3c9sdzf7l2kbm9"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/MIDI/Pitch Class Counter/Pitch Class Counter.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/b1688c10d3cc4ebc1a62bed0a98eb4039237405c/MIDI/Pitch%20Class%20Counter/Pitch%20Class%20Counter.lua",
-        "sha256": "1igvk1rhb2zag0gjm2by98jivl546zm5hns0jn6ndw1ngf74d5h1"
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Items Organize In Sequence.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Items%20Organize%20In%20Sequence.lua",
+        "sha256": "04j6xdn4ac6r2s55c34200x1yr124d6hn6915rg8bwyfb644vn60"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Daniel Lumertz Scripts/MIDI/Pitch Class Counter/Pitch Class Counter.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/375f119babfe696d8203d5d384f08494bb5f9749/MIDI/Pitch%20Class%20Counter/Pitch%20Class%20Counter.lua",
-        "sha256": "0js8lxpqk297a56lz48p9iabq10q3bn6b0x1gif9z7r06lwdmj5g"
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Items Organize In Sequence.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/fd9bca7b7fdb9fae067af1dcdb0a03d88d0568a8/Items/Misc/Items%20Organize%20In%20Sequence.lua",
+        "sha256": "1kwrwjjk6c8z2a8ivvrqr7m55xm3p44day87mz2kyqh526ss6m4n"
+      }
+    ]
+  },
+  "Create Regions Using Items Sequence Across Tracks.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Create Regions Using Items Sequence Across Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Create%20Regions%20Using%20Items%20Sequence%20Across%20Tracks.lua",
+        "sha256": "0d1va8h1hzdnk3zgxilh7994hfszrcwv2mzjj5y8lpkj04h39yvs"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Create Regions Using Items Sequence Across Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Create%20Regions%20Using%20Items%20Sequence%20Across%20Tracks.lua",
+        "sha256": "0d1va8h1hzdnk3zgxilh7994hfszrcwv2mzjj5y8lpkj04h39yvs"
       }
     ]
   },
@@ -23844,59 +23902,19 @@
       }
     ]
   },
-  "multikey.lua": {
+  "Copy Items to Selected Tracks.lua": {
     "latest": [
       {
-        "path": "Scripts/Daniel Lumertz Scripts/Multikey/Edit Multikey Shortcut.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/Edit%20Multikey%20Shortcut.lua",
-        "sha256": "0kz0p5fkksq37zhw5phckr6sg71cmqi388yw9xvfy2s9wvrfzamf"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Multikey/Functions/General Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/Functions/General%20Functions.lua",
-        "sha256": "0rg5kbivxms6cxfp9h324dicclh0bwz9mqg5z1yfdlw56g6n77v4"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Multikey/Functions/Multikey Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/Functions/Multikey%20Functions.lua",
-        "sha256": "03wsp42j4gqxp6xk5wdhgpl4q4gzf9fpvw5n8kd3nla9bi4rj7y3"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Multikey/multikey.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/multikey.lua",
-        "sha256": "0dnf8m4v4zlj231zsjhk49a0l7829kfrj68n7g6pzd44zr5z1jlc"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Multikey/multikey_bind.txt",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/multikey_bind.txt",
-        "sha256": "01c2cdj9dbsv6k0a9gws5pk9nc40cvapksmzchfk8pwpxndz87b9"
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
+        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
       }
     ],
-    "1.1": [
+    "1.0": [
       {
-        "path": "Scripts/Daniel Lumertz Scripts/Multikey/Edit Multikey Shortcut.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/Edit%20Multikey%20Shortcut.lua",
-        "sha256": "0kz0p5fkksq37zhw5phckr6sg71cmqi388yw9xvfy2s9wvrfzamf"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Multikey/Functions/General Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/Functions/General%20Functions.lua",
-        "sha256": "0rg5kbivxms6cxfp9h324dicclh0bwz9mqg5z1yfdlw56g6n77v4"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Multikey/Functions/Multikey Functions.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/Functions/Multikey%20Functions.lua",
-        "sha256": "03wsp42j4gqxp6xk5wdhgpl4q4gzf9fpvw5n8kd3nla9bi4rj7y3"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Multikey/multikey.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/multikey.lua",
-        "sha256": "0dnf8m4v4zlj231zsjhk49a0l7829kfrj68n7g6pzd44zr5z1jlc"
-      },
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Multikey/multikey_bind.txt",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca558a9db4a3be268b0c6ac8beaac9367f25ee84/Multikey/multikey_bind.txt",
-        "sha256": "01c2cdj9dbsv6k0a9gws5pk9nc40cvapksmzchfk8pwpxndz87b9"
+        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
+        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
       }
     ]
   },
@@ -23930,74 +23948,40 @@
       }
     ]
   },
-  "Copy Items to Selected Tracks.lua": {
+  "Pitch Class Counter.lua": {
     "latest": [
       {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
-        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
+        "path": "Scripts/Daniel Lumertz Scripts/MIDI/Pitch Class Counter/Pitch Class Counter.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca7e1bd318b79b308a2ad90bf0d77f37e518a748/MIDI/Pitch%20Class%20Counter/Pitch%20Class%20Counter.lua",
+        "sha256": "1b7x47gxvkn66cn7l33w15vzqxa73ygdnjfgir5grwfjr806r93i"
+      }
+    ],
+    "1.0.3": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/MIDI/Pitch Class Counter/Pitch Class Counter.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ca7e1bd318b79b308a2ad90bf0d77f37e518a748/MIDI/Pitch%20Class%20Counter/Pitch%20Class%20Counter.lua",
+        "sha256": "1b7x47gxvkn66cn7l33w15vzqxa73ygdnjfgir5grwfjr806r93i"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/MIDI/Pitch Class Counter/Pitch Class Counter.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/a18c0480b11efa6b4a2539a009327cedb3cd7e31/MIDI/Pitch%20Class%20Counter/Pitch%20Class%20Counter.lua",
+        "sha256": "1ms0d59avj06yv6shzxlqylkyz4nha6982c71q3c9sdzf7l2kbm9"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/MIDI/Pitch Class Counter/Pitch Class Counter.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/b1688c10d3cc4ebc1a62bed0a98eb4039237405c/MIDI/Pitch%20Class%20Counter/Pitch%20Class%20Counter.lua",
+        "sha256": "1igvk1rhb2zag0gjm2by98jivl546zm5hns0jn6ndw1ngf74d5h1"
       }
     ],
     "1.0": [
       {
-        "path": "Scripts/Daniel Lumertz Scripts/Misc/Copy Items to Selected Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/d0a5114f51fd5e455b83403ffd1b292e04d23f5f/Misc/Copy%20Items%20to%20Selected%20Tracks.lua",
-        "sha256": "01ff0ni40ncw5mr4k4gy47n117syhlfbflrrjqc3d3fxlvpa8mlz"
-      }
-    ]
-  },
-  "Items Organize In Sequence.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Items Organize In Sequence.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Items%20Organize%20In%20Sequence.lua",
-        "sha256": "04j6xdn4ac6r2s55c34200x1yr124d6hn6915rg8bwyfb644vn60"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Items Organize In Sequence.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Items%20Organize%20In%20Sequence.lua",
-        "sha256": "04j6xdn4ac6r2s55c34200x1yr124d6hn6915rg8bwyfb644vn60"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Items Organize In Sequence.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/fd9bca7b7fdb9fae067af1dcdb0a03d88d0568a8/Items/Misc/Items%20Organize%20In%20Sequence.lua",
-        "sha256": "1kwrwjjk6c8z2a8ivvrqr7m55xm3p44day87mz2kyqh526ss6m4n"
-      }
-    ]
-  },
-  "Create Regions Using Items Sequence Across Tracks.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Create Regions Using Items Sequence Across Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Create%20Regions%20Using%20Items%20Sequence%20Across%20Tracks.lua",
-        "sha256": "0d1va8h1hzdnk3zgxilh7994hfszrcwv2mzjj5y8lpkj04h39yvs"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Items/Misc/Create Regions Using Items Sequence Across Tracks.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/ece556d7ae7e8eeaaeec47c4d2ba2b55e2b755f3/Items/Misc/Create%20Regions%20Using%20Items%20Sequence%20Across%20Tracks.lua",
-        "sha256": "0d1va8h1hzdnk3zgxilh7994hfszrcwv2mzjj5y8lpkj04h39yvs"
-      }
-    ]
-  },
-  "Demo Serialize table.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Json/Demo Serialize table.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/aab2b6189e1c751a38f964ef03de9aea2b1a7a18/Json/Demo%20Serialize%20table.lua",
-        "sha256": "0i3832i52crmm6j2r5zs7801f8hdc3izxmdbjjz9ibfnb8g6b6aa"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Daniel Lumertz Scripts/Json/Demo Serialize table.lua",
-        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/aab2b6189e1c751a38f964ef03de9aea2b1a7a18/Json/Demo%20Serialize%20table.lua",
-        "sha256": "0i3832i52crmm6j2r5zs7801f8hdc3izxmdbjjz9ibfnb8g6b6aa"
+        "path": "Scripts/Daniel Lumertz Scripts/MIDI/Pitch Class Counter/Pitch Class Counter.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/375f119babfe696d8203d5d384f08494bb5f9749/MIDI/Pitch%20Class%20Counter/Pitch%20Class%20Counter.lua",
+        "sha256": "0js8lxpqk297a56lz48p9iabq10q3bn6b0x1gif9z7r06lwdmj5g"
       }
     ]
   },
@@ -24014,6 +23998,22 @@
         "path": "Scripts/Daniel Lumertz Scripts/Takes/Misc/Randomize Takes.lua",
         "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/f5051eb942e9a6934aa023c9db07a282479d7b30/Takes/Misc/Randomize%20Takes.lua",
         "sha256": "0qjrmpriv0np7059wi8c87bh8wrd6xy1nkmjx48aq03vpg4clsa2"
+      }
+    ]
+  },
+  "Demo Serialize table.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Json/Demo Serialize table.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/aab2b6189e1c751a38f964ef03de9aea2b1a7a18/Json/Demo%20Serialize%20table.lua",
+        "sha256": "0i3832i52crmm6j2r5zs7801f8hdc3izxmdbjjz9ibfnb8g6b6aa"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Daniel Lumertz Scripts/Json/Demo Serialize table.lua",
+        "url": "https://github.com/daniellumertz/DanielLumertz-Scripts/raw/aab2b6189e1c751a38f964ef03de9aea2b1a7a18/Json/Demo%20Serialize%20table.lua",
+        "sha256": "0i3832i52crmm6j2r5zs7801f8hdc3izxmdbjjz9ibfnb8g6b6aa"
       }
     ]
   }

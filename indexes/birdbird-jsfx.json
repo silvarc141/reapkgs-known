@@ -1,114 +1,57 @@
 {
-  "Shifter B1 (BirdBird).jsfx": {
+  "Sonic Tape B1 (BirdBird).jsfx": {
     "latest": [
       {
-        "path": "Effects/BirdBird JSFX/Shifter/Shifter B1 (BirdBird).jsfx",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/Shifter%20B1%20(BirdBird).jsfx",
-        "sha256": "1k13qkvii0ncd4mbjiy57ivg0wc97sr37vbn2ai1ffxw6rc535v3"
+        "path": "Effects/BirdBird JSFX/Sonic Tape/Sonic Tape B1 (BirdBird).jsfx",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/Sonic%20Tape%20B1%20(BirdBird).jsfx",
+        "sha256": "1grxydp45y4a0r2mm2agldyc0b8bh0vpssxx88pi14yqq1dv4acq"
       },
       {
-        "path": "Effects/BirdBird JSFX/Shifter/Shifter B1 (BirdBird).jsfx.rpl",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/Shifter%20B1%20(BirdBird).jsfx.rpl",
-        "sha256": "1vm8xkzwwidvaii8v67ymls5maywhcywg82zjp1vizrlfx61fcqp"
+        "path": "Effects/BirdBird JSFX/Sonic Tape/Sonic Tape B1 (BirdBird).jsfx.rpl",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/Sonic%20Tape%20B1%20(BirdBird).jsfx.rpl",
+        "sha256": "0cnh4kb87vf5winavc5qri5i8wrq33l889rba6374dyg8ybgwnz5"
       },
       {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_buffer.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_buffer.jsfx-inc",
-        "sha256": "163sb5aqy2krx10kkzxa1ms68c9ydb6b8k103nfmsm2jl2gn3wdl"
+        "path": "Effects/BirdBird JSFX/Sonic Tape/dependencies/birdbird_buffer.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/dependencies/birdbird_buffer.jsfx-inc",
+        "sha256": "1xpx3didwbyv63yznz9a12agw59dpdaldf4ayn7v5afky37x2cgc"
       },
       {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_hilbert.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_hilbert.jsfx-inc",
-        "sha256": "0rxxyl5wbshlhpz9iafq91d5nkwznyk8j3iqwlvzdljw4magk4s6"
+        "path": "Effects/BirdBird JSFX/Sonic Tape/dependencies/birdbird_parameters.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/dependencies/birdbird_parameters.jsfx-inc",
+        "sha256": "1rwfbxfiqs2gvrl99sdsdfmjzmg1vrnlny5plkpkmq9bzq8jp2sn"
       },
       {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_parameters.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_parameters.jsfx-inc",
-        "sha256": "1gdp4fs7djaw4a2avhzm9p3rgly0s0xvmqvqy9qli3c821rmkj2y"
-      },
-      {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_sizzle_gui.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_sizzle_gui.jsfx-inc",
-        "sha256": "1lrsxnm230mig9nvx0wyaz6wihq4mqyz8q9m6g1q6n3rffnapngn"
-      },
-      {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_various.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_various.jsfx-inc",
-        "sha256": "0cjm15pzcn8qi3ax2i9b5cj3gc01awnd5m5l1wilfc9csvrs9nmi"
+        "path": "Effects/BirdBird JSFX/Sonic Tape/dependencies/birdbird_sizzle_gui.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/dependencies/birdbird_sizzle_gui.jsfx-inc",
+        "sha256": "0xrb4c2qzf62hpmf7bvmd96swxq7x68lf7246rw3nf8bdilh86wv"
       }
     ],
     "0.5.1": [
       {
-        "path": "Effects/BirdBird JSFX/Shifter/Shifter B1 (BirdBird).jsfx",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/Shifter%20B1%20(BirdBird).jsfx",
-        "sha256": "1k13qkvii0ncd4mbjiy57ivg0wc97sr37vbn2ai1ffxw6rc535v3"
+        "path": "Effects/BirdBird JSFX/Sonic Tape/Sonic Tape B1 (BirdBird).jsfx",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/Sonic%20Tape%20B1%20(BirdBird).jsfx",
+        "sha256": "1grxydp45y4a0r2mm2agldyc0b8bh0vpssxx88pi14yqq1dv4acq"
       },
       {
-        "path": "Effects/BirdBird JSFX/Shifter/Shifter B1 (BirdBird).jsfx.rpl",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/Shifter%20B1%20(BirdBird).jsfx.rpl",
-        "sha256": "1vm8xkzwwidvaii8v67ymls5maywhcywg82zjp1vizrlfx61fcqp"
+        "path": "Effects/BirdBird JSFX/Sonic Tape/Sonic Tape B1 (BirdBird).jsfx.rpl",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/Sonic%20Tape%20B1%20(BirdBird).jsfx.rpl",
+        "sha256": "0cnh4kb87vf5winavc5qri5i8wrq33l889rba6374dyg8ybgwnz5"
       },
       {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_buffer.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_buffer.jsfx-inc",
-        "sha256": "163sb5aqy2krx10kkzxa1ms68c9ydb6b8k103nfmsm2jl2gn3wdl"
+        "path": "Effects/BirdBird JSFX/Sonic Tape/dependencies/birdbird_buffer.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/dependencies/birdbird_buffer.jsfx-inc",
+        "sha256": "1xpx3didwbyv63yznz9a12agw59dpdaldf4ayn7v5afky37x2cgc"
       },
       {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_hilbert.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_hilbert.jsfx-inc",
-        "sha256": "0rxxyl5wbshlhpz9iafq91d5nkwznyk8j3iqwlvzdljw4magk4s6"
+        "path": "Effects/BirdBird JSFX/Sonic Tape/dependencies/birdbird_parameters.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/dependencies/birdbird_parameters.jsfx-inc",
+        "sha256": "1rwfbxfiqs2gvrl99sdsdfmjzmg1vrnlny5plkpkmq9bzq8jp2sn"
       },
       {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_parameters.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_parameters.jsfx-inc",
-        "sha256": "1gdp4fs7djaw4a2avhzm9p3rgly0s0xvmqvqy9qli3c821rmkj2y"
-      },
-      {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_sizzle_gui.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_sizzle_gui.jsfx-inc",
-        "sha256": "1lrsxnm230mig9nvx0wyaz6wihq4mqyz8q9m6g1q6n3rffnapngn"
-      },
-      {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_various.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_various.jsfx-inc",
-        "sha256": "0cjm15pzcn8qi3ax2i9b5cj3gc01awnd5m5l1wilfc9csvrs9nmi"
-      }
-    ],
-    "0.5": [
-      {
-        "path": "Effects/BirdBird JSFX/Shifter/Shifter B1 (BirdBird).jsfx",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/2d13161fd6b5110b124e3341b56ef61f4b9534fd/Shifter/Shifter%20B1%20(BirdBird).jsfx",
-        "sha256": "05d8bd3jcvxjxdlskc51askh2dshbrlc1q334qwqiwjbk2d7rvha"
-      },
-      {
-        "path": "Effects/BirdBird JSFX/Shifter/Shifter B1 (BirdBird).jsfx.rpl",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/2d13161fd6b5110b124e3341b56ef61f4b9534fd/Shifter/Shifter%20B1%20(BirdBird).jsfx.rpl",
-        "sha256": "1vm8xkzwwidvaii8v67ymls5maywhcywg82zjp1vizrlfx61fcqp"
-      },
-      {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_buffer.jsfx",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/2d13161fd6b5110b124e3341b56ef61f4b9534fd/Shifter/dependencies/birdbird_buffer.jsfx",
-        "sha256": "163sb5aqy2krx10kkzxa1ms68c9ydb6b8k103nfmsm2jl2gn3wdl"
-      },
-      {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_hilbert.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/2d13161fd6b5110b124e3341b56ef61f4b9534fd/Shifter/dependencies/birdbird_hilbert.jsfx-inc",
-        "sha256": "0rxxyl5wbshlhpz9iafq91d5nkwznyk8j3iqwlvzdljw4magk4s6"
-      },
-      {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_parameters.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/2d13161fd6b5110b124e3341b56ef61f4b9534fd/Shifter/dependencies/birdbird_parameters.jsfx-inc",
-        "sha256": "1gdp4fs7djaw4a2avhzm9p3rgly0s0xvmqvqy9qli3c821rmkj2y"
-      },
-      {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_sizzle_gui.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/2d13161fd6b5110b124e3341b56ef61f4b9534fd/Shifter/dependencies/birdbird_sizzle_gui.jsfx-inc",
-        "sha256": "1lrsxnm230mig9nvx0wyaz6wihq4mqyz8q9m6g1q6n3rffnapngn"
-      },
-      {
-        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_various.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/2d13161fd6b5110b124e3341b56ef61f4b9534fd/Shifter/dependencies/birdbird_various.jsfx-inc",
-        "sha256": "0cjm15pzcn8qi3ax2i9b5cj3gc01awnd5m5l1wilfc9csvrs9nmi"
+        "path": "Effects/BirdBird JSFX/Sonic Tape/dependencies/birdbird_sizzle_gui.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/dependencies/birdbird_sizzle_gui.jsfx-inc",
+        "sha256": "0xrb4c2qzf62hpmf7bvmd96swxq7x68lf7246rw3nf8bdilh86wv"
       }
     ]
   },
@@ -389,59 +332,116 @@
       }
     ]
   },
-  "Sonic Tape B1 (BirdBird).jsfx": {
+  "Shifter B1 (BirdBird).jsfx": {
     "latest": [
       {
-        "path": "Effects/BirdBird JSFX/Sonic Tape/Sonic Tape B1 (BirdBird).jsfx",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/Sonic%20Tape%20B1%20(BirdBird).jsfx",
-        "sha256": "1grxydp45y4a0r2mm2agldyc0b8bh0vpssxx88pi14yqq1dv4acq"
+        "path": "Effects/BirdBird JSFX/Shifter/Shifter B1 (BirdBird).jsfx",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/Shifter%20B1%20(BirdBird).jsfx",
+        "sha256": "1k13qkvii0ncd4mbjiy57ivg0wc97sr37vbn2ai1ffxw6rc535v3"
       },
       {
-        "path": "Effects/BirdBird JSFX/Sonic Tape/Sonic Tape B1 (BirdBird).jsfx.rpl",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/Sonic%20Tape%20B1%20(BirdBird).jsfx.rpl",
-        "sha256": "0cnh4kb87vf5winavc5qri5i8wrq33l889rba6374dyg8ybgwnz5"
+        "path": "Effects/BirdBird JSFX/Shifter/Shifter B1 (BirdBird).jsfx.rpl",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/Shifter%20B1%20(BirdBird).jsfx.rpl",
+        "sha256": "1vm8xkzwwidvaii8v67ymls5maywhcywg82zjp1vizrlfx61fcqp"
       },
       {
-        "path": "Effects/BirdBird JSFX/Sonic Tape/dependencies/birdbird_buffer.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/dependencies/birdbird_buffer.jsfx-inc",
-        "sha256": "1xpx3didwbyv63yznz9a12agw59dpdaldf4ayn7v5afky37x2cgc"
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_buffer.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_buffer.jsfx-inc",
+        "sha256": "163sb5aqy2krx10kkzxa1ms68c9ydb6b8k103nfmsm2jl2gn3wdl"
       },
       {
-        "path": "Effects/BirdBird JSFX/Sonic Tape/dependencies/birdbird_parameters.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/dependencies/birdbird_parameters.jsfx-inc",
-        "sha256": "1rwfbxfiqs2gvrl99sdsdfmjzmg1vrnlny5plkpkmq9bzq8jp2sn"
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_hilbert.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_hilbert.jsfx-inc",
+        "sha256": "0rxxyl5wbshlhpz9iafq91d5nkwznyk8j3iqwlvzdljw4magk4s6"
       },
       {
-        "path": "Effects/BirdBird JSFX/Sonic Tape/dependencies/birdbird_sizzle_gui.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/dependencies/birdbird_sizzle_gui.jsfx-inc",
-        "sha256": "0xrb4c2qzf62hpmf7bvmd96swxq7x68lf7246rw3nf8bdilh86wv"
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_parameters.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_parameters.jsfx-inc",
+        "sha256": "1gdp4fs7djaw4a2avhzm9p3rgly0s0xvmqvqy9qli3c821rmkj2y"
+      },
+      {
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_sizzle_gui.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_sizzle_gui.jsfx-inc",
+        "sha256": "1lrsxnm230mig9nvx0wyaz6wihq4mqyz8q9m6g1q6n3rffnapngn"
+      },
+      {
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_various.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_various.jsfx-inc",
+        "sha256": "0cjm15pzcn8qi3ax2i9b5cj3gc01awnd5m5l1wilfc9csvrs9nmi"
       }
     ],
     "0.5.1": [
       {
-        "path": "Effects/BirdBird JSFX/Sonic Tape/Sonic Tape B1 (BirdBird).jsfx",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/Sonic%20Tape%20B1%20(BirdBird).jsfx",
-        "sha256": "1grxydp45y4a0r2mm2agldyc0b8bh0vpssxx88pi14yqq1dv4acq"
+        "path": "Effects/BirdBird JSFX/Shifter/Shifter B1 (BirdBird).jsfx",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/Shifter%20B1%20(BirdBird).jsfx",
+        "sha256": "1k13qkvii0ncd4mbjiy57ivg0wc97sr37vbn2ai1ffxw6rc535v3"
       },
       {
-        "path": "Effects/BirdBird JSFX/Sonic Tape/Sonic Tape B1 (BirdBird).jsfx.rpl",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/Sonic%20Tape%20B1%20(BirdBird).jsfx.rpl",
-        "sha256": "0cnh4kb87vf5winavc5qri5i8wrq33l889rba6374dyg8ybgwnz5"
+        "path": "Effects/BirdBird JSFX/Shifter/Shifter B1 (BirdBird).jsfx.rpl",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/Shifter%20B1%20(BirdBird).jsfx.rpl",
+        "sha256": "1vm8xkzwwidvaii8v67ymls5maywhcywg82zjp1vizrlfx61fcqp"
       },
       {
-        "path": "Effects/BirdBird JSFX/Sonic Tape/dependencies/birdbird_buffer.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/dependencies/birdbird_buffer.jsfx-inc",
-        "sha256": "1xpx3didwbyv63yznz9a12agw59dpdaldf4ayn7v5afky37x2cgc"
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_buffer.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_buffer.jsfx-inc",
+        "sha256": "163sb5aqy2krx10kkzxa1ms68c9ydb6b8k103nfmsm2jl2gn3wdl"
       },
       {
-        "path": "Effects/BirdBird JSFX/Sonic Tape/dependencies/birdbird_parameters.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/dependencies/birdbird_parameters.jsfx-inc",
-        "sha256": "1rwfbxfiqs2gvrl99sdsdfmjzmg1vrnlny5plkpkmq9bzq8jp2sn"
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_hilbert.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_hilbert.jsfx-inc",
+        "sha256": "0rxxyl5wbshlhpz9iafq91d5nkwznyk8j3iqwlvzdljw4magk4s6"
       },
       {
-        "path": "Effects/BirdBird JSFX/Sonic Tape/dependencies/birdbird_sizzle_gui.jsfx-inc",
-        "url": "https://github.com/Bird-Bird/JSFX/raw/b07156f32a27ec9425c237f8860a45e08b14ea56/Sonic%20Tape/dependencies/birdbird_sizzle_gui.jsfx-inc",
-        "sha256": "0xrb4c2qzf62hpmf7bvmd96swxq7x68lf7246rw3nf8bdilh86wv"
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_parameters.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_parameters.jsfx-inc",
+        "sha256": "1gdp4fs7djaw4a2avhzm9p3rgly0s0xvmqvqy9qli3c821rmkj2y"
+      },
+      {
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_sizzle_gui.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_sizzle_gui.jsfx-inc",
+        "sha256": "1lrsxnm230mig9nvx0wyaz6wihq4mqyz8q9m6g1q6n3rffnapngn"
+      },
+      {
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_various.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/8466d5e96bc5b40e35fe896bf9c7541d33cbbbe0/Shifter/dependencies/birdbird_various.jsfx-inc",
+        "sha256": "0cjm15pzcn8qi3ax2i9b5cj3gc01awnd5m5l1wilfc9csvrs9nmi"
+      }
+    ],
+    "0.5": [
+      {
+        "path": "Effects/BirdBird JSFX/Shifter/Shifter B1 (BirdBird).jsfx",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/2d13161fd6b5110b124e3341b56ef61f4b9534fd/Shifter/Shifter%20B1%20(BirdBird).jsfx",
+        "sha256": "05d8bd3jcvxjxdlskc51askh2dshbrlc1q334qwqiwjbk2d7rvha"
+      },
+      {
+        "path": "Effects/BirdBird JSFX/Shifter/Shifter B1 (BirdBird).jsfx.rpl",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/2d13161fd6b5110b124e3341b56ef61f4b9534fd/Shifter/Shifter%20B1%20(BirdBird).jsfx.rpl",
+        "sha256": "1vm8xkzwwidvaii8v67ymls5maywhcywg82zjp1vizrlfx61fcqp"
+      },
+      {
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_buffer.jsfx",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/2d13161fd6b5110b124e3341b56ef61f4b9534fd/Shifter/dependencies/birdbird_buffer.jsfx",
+        "sha256": "163sb5aqy2krx10kkzxa1ms68c9ydb6b8k103nfmsm2jl2gn3wdl"
+      },
+      {
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_hilbert.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/2d13161fd6b5110b124e3341b56ef61f4b9534fd/Shifter/dependencies/birdbird_hilbert.jsfx-inc",
+        "sha256": "0rxxyl5wbshlhpz9iafq91d5nkwznyk8j3iqwlvzdljw4magk4s6"
+      },
+      {
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_parameters.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/2d13161fd6b5110b124e3341b56ef61f4b9534fd/Shifter/dependencies/birdbird_parameters.jsfx-inc",
+        "sha256": "1gdp4fs7djaw4a2avhzm9p3rgly0s0xvmqvqy9qli3c821rmkj2y"
+      },
+      {
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_sizzle_gui.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/2d13161fd6b5110b124e3341b56ef61f4b9534fd/Shifter/dependencies/birdbird_sizzle_gui.jsfx-inc",
+        "sha256": "1lrsxnm230mig9nvx0wyaz6wihq4mqyz8q9m6g1q6n3rffnapngn"
+      },
+      {
+        "path": "Effects/BirdBird JSFX/Shifter/dependencies/birdbird_various.jsfx-inc",
+        "url": "https://github.com/Bird-Bird/JSFX/raw/2d13161fd6b5110b124e3341b56ef61f4b9534fd/Shifter/dependencies/birdbird_various.jsfx-inc",
+        "sha256": "0cjm15pzcn8qi3ax2i9b5cj3gc01awnd5m5l1wilfc9csvrs9nmi"
       }
     ]
   }
