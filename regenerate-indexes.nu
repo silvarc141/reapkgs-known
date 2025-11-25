@@ -17,11 +17,11 @@ http get https://reapack.com/repos.txt
       | str replace -r "^([0-9])" "_$1"
     )
 
-    let json_output = (^nix run . -- $repo_url)
+    let json_output = (^nix run . --quiet --option warn-dirty false $repo_url)
     $json_output | save -f $"indexes/($safe_name).json"
 
     print $"Saved indexes/($safe_name).json"
   } catch {
     print $"Failed to process ($repo_url)"
   }
-}
+} | ignore
