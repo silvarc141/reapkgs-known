@@ -4887,102 +4887,6 @@
       }
     ]
   },
-  "BirdBird_Project Tab Sets.lua": {
-    "latest": [
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/BirdBird_Project Tab Sets.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/BirdBird_Project%20Tab%20Sets.lua",
-        "sha256": "1gggx5d47lk1c9mgs7mh39s33s7dl5q7nq12f94zpl8mbzybdkn8"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/gui.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/gui.lua",
-        "sha256": "1xa7z9bmy4i3y6npii0vfq1gdg8445kkvf2ifz4nfqc1pjbd0xcm"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/json.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/json.lua",
-        "sha256": "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/projects.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/projects.lua",
-        "sha256": "0lm0p2pbjxx8wn4f2pb3n5gfsqn68mgd5ivzy5z6145ad4qxjw6s"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/resources/JetBrainsMono-Medium.ttf",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/resources/JetBrainsMono-Medium.ttf",
-        "sha256": "0s7lqq80x18dr8kfhmvzx5y993f780w19mmy7c7syva7mz0n13w3"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/settings.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/settings.lua",
-        "sha256": "0db1fq7shs2gjwmrxcaci31m2snbvwg0vw1n36kz1q3w0d6cswj1"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/tab_sets.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/tab_sets.lua",
-        "sha256": "0pmjjsqivspmxs0jv5fwvqvq7h5162p4r7wicfaw781953y0wsqk"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/tab_sets/_tab_sets.txt",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/tab_sets/_tab_sets.txt",
-        "sha256": "1z5yvs4cb1xcq07nh2m2rgh2zw6qgq17s0z24zkrs601l0sjxb1q"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/theme.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/theme.lua",
-        "sha256": "0xira2xy55bchg8rdy6ip4qmvwwknqp46xscfnsxav3nyc4wm2hr"
-      }
-    ],
-    "0.1": [
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/BirdBird_Project Tab Sets.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/BirdBird_Project%20Tab%20Sets.lua",
-        "sha256": "1gggx5d47lk1c9mgs7mh39s33s7dl5q7nq12f94zpl8mbzybdkn8"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/gui.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/gui.lua",
-        "sha256": "1xa7z9bmy4i3y6npii0vfq1gdg8445kkvf2ifz4nfqc1pjbd0xcm"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/json.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/json.lua",
-        "sha256": "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/projects.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/projects.lua",
-        "sha256": "0lm0p2pbjxx8wn4f2pb3n5gfsqn68mgd5ivzy5z6145ad4qxjw6s"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/resources/JetBrainsMono-Medium.ttf",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/resources/JetBrainsMono-Medium.ttf",
-        "sha256": "0s7lqq80x18dr8kfhmvzx5y993f780w19mmy7c7syva7mz0n13w3"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/settings.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/settings.lua",
-        "sha256": "0db1fq7shs2gjwmrxcaci31m2snbvwg0vw1n36kz1q3w0d6cswj1"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/tab_sets.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/tab_sets.lua",
-        "sha256": "0pmjjsqivspmxs0jv5fwvqvq7h5162p4r7wicfaw781953y0wsqk"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/tab_sets/_tab_sets.txt",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/tab_sets/_tab_sets.txt",
-        "sha256": "1z5yvs4cb1xcq07nh2m2rgh2zw6qgq17s0z24zkrs601l0sjxb1q"
-      },
-      {
-        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/theme.lua",
-        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/theme.lua",
-        "sha256": "0xira2xy55bchg8rdy6ip4qmvwwknqp46xscfnsxav3nyc4wm2hr"
-      }
-    ]
-  },
   "BirdBird_Razor Edit Utility Settings.lua": {
     "latest": [
       {
@@ -8323,6 +8227,102 @@
         "path": "Scripts/BirdBird ReaScript Testing/Track Versions/track_versions_libraries/json.lua",
         "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/3c29614efecedcfd362bf6fbd612c6f83b144e7d/Track%20Versions/track_versions_libraries/json.lua",
         "sha256": "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia"
+      }
+    ]
+  },
+  "BirdBird_Project Tab Sets.lua": {
+    "latest": [
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/BirdBird_Project Tab Sets.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/BirdBird_Project%20Tab%20Sets.lua",
+        "sha256": "1gggx5d47lk1c9mgs7mh39s33s7dl5q7nq12f94zpl8mbzybdkn8"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/gui.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/gui.lua",
+        "sha256": "1xa7z9bmy4i3y6npii0vfq1gdg8445kkvf2ifz4nfqc1pjbd0xcm"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/json.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/json.lua",
+        "sha256": "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/projects.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/projects.lua",
+        "sha256": "0lm0p2pbjxx8wn4f2pb3n5gfsqn68mgd5ivzy5z6145ad4qxjw6s"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/resources/JetBrainsMono-Medium.ttf",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/resources/JetBrainsMono-Medium.ttf",
+        "sha256": "0s7lqq80x18dr8kfhmvzx5y993f780w19mmy7c7syva7mz0n13w3"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/settings.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/settings.lua",
+        "sha256": "0db1fq7shs2gjwmrxcaci31m2snbvwg0vw1n36kz1q3w0d6cswj1"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/tab_sets.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/tab_sets.lua",
+        "sha256": "0pmjjsqivspmxs0jv5fwvqvq7h5162p4r7wicfaw781953y0wsqk"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/tab_sets/_tab_sets.txt",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/tab_sets/_tab_sets.txt",
+        "sha256": "1z5yvs4cb1xcq07nh2m2rgh2zw6qgq17s0z24zkrs601l0sjxb1q"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/theme.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/theme.lua",
+        "sha256": "0xira2xy55bchg8rdy6ip4qmvwwknqp46xscfnsxav3nyc4wm2hr"
+      }
+    ],
+    "0.1": [
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/BirdBird_Project Tab Sets.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/BirdBird_Project%20Tab%20Sets.lua",
+        "sha256": "1gggx5d47lk1c9mgs7mh39s33s7dl5q7nq12f94zpl8mbzybdkn8"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/gui.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/gui.lua",
+        "sha256": "1xa7z9bmy4i3y6npii0vfq1gdg8445kkvf2ifz4nfqc1pjbd0xcm"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/json.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/json.lua",
+        "sha256": "03m7s2v4fj4lzb0yknhz3dfvyq9ygdzmx48isdvhaj2rf63s6mia"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/projects.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/projects.lua",
+        "sha256": "0lm0p2pbjxx8wn4f2pb3n5gfsqn68mgd5ivzy5z6145ad4qxjw6s"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/resources/JetBrainsMono-Medium.ttf",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/resources/JetBrainsMono-Medium.ttf",
+        "sha256": "0s7lqq80x18dr8kfhmvzx5y993f780w19mmy7c7syva7mz0n13w3"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/settings.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/settings.lua",
+        "sha256": "0db1fq7shs2gjwmrxcaci31m2snbvwg0vw1n36kz1q3w0d6cswj1"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/tab_sets.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/tab_sets.lua",
+        "sha256": "0pmjjsqivspmxs0jv5fwvqvq7h5162p4r7wicfaw781953y0wsqk"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/tab_sets/_tab_sets.txt",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/tab_sets/_tab_sets.txt",
+        "sha256": "1z5yvs4cb1xcq07nh2m2rgh2zw6qgq17s0z24zkrs601l0sjxb1q"
+      },
+      {
+        "path": "Scripts/BirdBird ReaScript Testing/Project Tab Sets/theme.lua",
+        "url": "https://github.com/Bird-Bird/ReaScript_Testing/raw/8c55afebde54dc7a6a2b4597c5170334a1a390ec/Project%20Tab%20Sets/theme.lua",
+        "sha256": "0xira2xy55bchg8rdy6ip4qmvwwknqp46xscfnsxav3nyc4wm2hr"
       }
     ]
   },

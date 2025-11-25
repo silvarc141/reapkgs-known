@@ -1,20 +1,4 @@
 {
-  "Dfk Quantize Project Markers.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Quantize Project Markers.lua",
-        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Quantize%20Project%20Markers.lua",
-        "sha256": "1m8kq7x2lcqr6kajihhmbvnbbnmxc6mzxgidllzqqzx16ji82x3j"
-      }
-    ],
-    "1.00": [
-      {
-        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Quantize Project Markers.lua",
-        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Quantize%20Project%20Markers.lua",
-        "sha256": "1m8kq7x2lcqr6kajihhmbvnbbnmxc6mzxgidllzqqzx16ji82x3j"
-      }
-    ]
-  },
   "Dfk Advance Loop Segment.lua": {
     "latest": [
       {
@@ -28,38 +12,6 @@
         "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Advance Loop Segment.lua",
         "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Advance%20Loop%20Segment.lua",
         "sha256": "1ikwfqka1m5bzbjzq7jvri97y2hz0kjad05sar5zkdakhgwx7dn4"
-      }
-    ]
-  },
-  "Dfk Track Router.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Track Router.lua",
-        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Track%20Router.lua",
-        "sha256": "0rxyl80f3ikqfm6p74jxak0vql8zg5y6ryg16bgll8mqh0iz1lh0"
-      }
-    ],
-    "0.80": [
-      {
-        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Track Router.lua",
-        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Track%20Router.lua",
-        "sha256": "0rxyl80f3ikqfm6p74jxak0vql8zg5y6ryg16bgll8mqh0iz1lh0"
-      }
-    ]
-  },
-  "Dfk Project Map Navigator.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Project Map Navigator.lua",
-        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Project%20Map%20Navigator.lua",
-        "sha256": "0sg7k6h94nm329nlciqlbzmipqdych3js6dv0gg823dnklr36wn7"
-      }
-    ],
-    "0.95a": [
-      {
-        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Project Map Navigator.lua",
-        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Project%20Map%20Navigator.lua",
-        "sha256": "0sg7k6h94nm329nlciqlbzmipqdych3js6dv0gg823dnklr36wn7"
       }
     ]
   },
@@ -95,35 +47,19 @@
       }
     ]
   },
-  "Dfk Transient Guru.lua": {
+  "Dfk Mini Track Mixer.lua": {
     "latest": [
       {
-        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Transient Guru.lua",
-        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Transient%20Guru.lua",
-        "sha256": "0c49hn0bxhikkyks2pnksvhdpzn0jvhr6qjxcjv6m9zbz9yln2d6"
+        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Mini Track Mixer.lua",
+        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Mini%20Track%20Mixer.lua",
+        "sha256": "1zjqk6ixv7iwly8x0r1k9d65k55c430lg4j51c07i825dg1pwls9"
       }
     ],
-    "1.1": [
+    "1.0": [
       {
-        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Transient Guru.lua",
-        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Transient%20Guru.lua",
-        "sha256": "0c49hn0bxhikkyks2pnksvhdpzn0jvhr6qjxcjv6m9zbz9yln2d6"
-      }
-    ]
-  },
-  "Dfk Regress Loop Segment.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Regress Loop Segment.lua",
-        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Regress%20Loop%20Segment.lua",
-        "sha256": "14g505iav81hdzs8lx17z9snqq7adf8l4k5z96d96y6vy4saws9g"
-      }
-    ],
-    "1.00": [
-      {
-        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Regress Loop Segment.lua",
-        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Regress%20Loop%20Segment.lua",
-        "sha256": "14g505iav81hdzs8lx17z9snqq7adf8l4k5z96d96y6vy4saws9g"
+        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Mini Track Mixer.lua",
+        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Mini%20Track%20Mixer.lua",
+        "sha256": "1zjqk6ixv7iwly8x0r1k9d65k55c430lg4j51c07i825dg1pwls9"
       }
     ]
   },
@@ -143,19 +79,83 @@
       }
     ]
   },
-  "Dfk Mini Track Mixer.lua": {
+  "Dfk Project Map Navigator.lua": {
     "latest": [
       {
-        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Mini Track Mixer.lua",
-        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Mini%20Track%20Mixer.lua",
-        "sha256": "1zjqk6ixv7iwly8x0r1k9d65k55c430lg4j51c07i825dg1pwls9"
+        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Project Map Navigator.lua",
+        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Project%20Map%20Navigator.lua",
+        "sha256": "0sg7k6h94nm329nlciqlbzmipqdych3js6dv0gg823dnklr36wn7"
       }
     ],
-    "1.0": [
+    "0.95a": [
       {
-        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Mini Track Mixer.lua",
-        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Mini%20Track%20Mixer.lua",
-        "sha256": "1zjqk6ixv7iwly8x0r1k9d65k55c430lg4j51c07i825dg1pwls9"
+        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Project Map Navigator.lua",
+        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Project%20Map%20Navigator.lua",
+        "sha256": "0sg7k6h94nm329nlciqlbzmipqdych3js6dv0gg823dnklr36wn7"
+      }
+    ]
+  },
+  "Dfk Quantize Project Markers.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Quantize Project Markers.lua",
+        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Quantize%20Project%20Markers.lua",
+        "sha256": "1m8kq7x2lcqr6kajihhmbvnbbnmxc6mzxgidllzqqzx16ji82x3j"
+      }
+    ],
+    "1.00": [
+      {
+        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Quantize Project Markers.lua",
+        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Quantize%20Project%20Markers.lua",
+        "sha256": "1m8kq7x2lcqr6kajihhmbvnbbnmxc6mzxgidllzqqzx16ji82x3j"
+      }
+    ]
+  },
+  "Dfk Regress Loop Segment.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Regress Loop Segment.lua",
+        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Regress%20Loop%20Segment.lua",
+        "sha256": "14g505iav81hdzs8lx17z9snqq7adf8l4k5z96d96y6vy4saws9g"
+      }
+    ],
+    "1.00": [
+      {
+        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Regress Loop Segment.lua",
+        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Regress%20Loop%20Segment.lua",
+        "sha256": "14g505iav81hdzs8lx17z9snqq7adf8l4k5z96d96y6vy4saws9g"
+      }
+    ]
+  },
+  "Dfk Track Router.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Track Router.lua",
+        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Track%20Router.lua",
+        "sha256": "0rxyl80f3ikqfm6p74jxak0vql8zg5y6ryg16bgll8mqh0iz1lh0"
+      }
+    ],
+    "0.80": [
+      {
+        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Track Router.lua",
+        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Track%20Router.lua",
+        "sha256": "0rxyl80f3ikqfm6p74jxak0vql8zg5y6ryg16bgll8mqh0iz1lh0"
+      }
+    ]
+  },
+  "Dfk Transient Guru.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Transient Guru.lua",
+        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Transient%20Guru.lua",
+        "sha256": "0c49hn0bxhikkyks2pnksvhdpzn0jvhr6qjxcjv6m9zbz9yln2d6"
+      }
+    ],
+    "1.1": [
+      {
+        "path": "Scripts/Dfk REAPER Scripts/Dfk REAPER Scripts/Dfk Transient Guru.lua",
+        "url": "https://github.com/Dafarkias/REAPER-Lua-Scripts-/raw/cf9009cd3850e3022afc77ee7cdbf7794663e9d4/Dfk%20REAPER%20Scripts/Dfk%20Transient%20Guru.lua",
+        "sha256": "0c49hn0bxhikkyks2pnksvhdpzn0jvhr6qjxcjv6m9zbz9yln2d6"
       }
     ]
   }

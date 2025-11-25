@@ -1,4 +1,96 @@
 {
+  "QuickDelay.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Delay/QuickDelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDelay.jsfx",
+        "sha256": "1y60ih2dk2s3aj97qgd5zbfhvikyai290fgad86ayj29xv6x06f1"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay/qd.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay/qd.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/Delay/QuickDelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDelay.jsfx",
+        "sha256": "1y60ih2dk2s3aj97qgd5zbfhvikyai290fgad86ayj29xv6x06f1"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay/qd.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay/qd.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ]
+  },
+  "QuickDualDelay.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
+        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
+        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
+        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
+        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
+      },
+      {
+        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
+        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+      }
+    ]
+  },
   "qdelay.jsfx": {
     "latest": [
       {
@@ -163,95 +255,81 @@
       }
     ]
   },
-  "QuickDelay.jsfx": {
+  "MIDI Keyvel Filter.jsfx": {
     "latest": [
       {
-        "path": "Effects/Tilr/Delay/QuickDelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDelay.jsfx",
-        "sha256": "1y60ih2dk2s3aj97qgd5zbfhvikyai290fgad86ayj29xv6x06f1"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay/qd.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay/qd.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
+        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
       }
     ],
-    "1.0": [
+    "1.1": [
       {
-        "path": "Effects/Tilr/Delay/QuickDelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDelay.jsfx",
-        "sha256": "1y60ih2dk2s3aj97qgd5zbfhvikyai290fgad86ayj29xv6x06f1"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay/qd.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay/qd.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qdelay/qd.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
+        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
       }
     ]
   },
-  "QuickDualDelay.jsfx": {
+  "Notes to 12 channel.jsfx": {
     "latest": [
       {
-        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
-        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
-      {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
+        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
       }
     ],
     "1.0": [
       {
-        "path": "Effects/Tilr/Delay/QuickDualDelay.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/QuickDualDelay.jsfx",
-        "sha256": "090pfhzd8lsnlgbqbw01il1j9dh4nhwplm8yy4ahh57qb359zddk"
-      },
+        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
+        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
+      }
+    ]
+  },
+  "Notes to CC.jsfx": {
+    "latest": [
       {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.delay.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.delay.jsfx-inc",
-        "sha256": "03hh341gifblmgbmzpd85bwzqg87zvj4ala9vlh7y023h6c2ccyf"
-      },
+        "path": "Effects/Tilr/MIDI/Notes to CC.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/336455e0dc55025008ef03dfe2dda236aaa5976f/MIDI/Notes%20to%20CC.jsfx",
+        "sha256": "1n7zbjgrbv0hdiixgc3xn4kmnmw0zcjl511rz9s1f5l15raz51ck"
+      }
+    ],
+    "1.1.1": [
       {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.rbj_filter.jsfx-inc",
-        "sha256": "06rlpkpzzr7rciv871vv5phrsflw96dgrac2qrm8a8qm1jxqan3s"
-      },
+        "path": "Effects/Tilr/MIDI/Notes to CC.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/336455e0dc55025008ef03dfe2dda236aaa5976f/MIDI/Notes%20to%20CC.jsfx",
+        "sha256": "1n7zbjgrbv0hdiixgc3xn4kmnmw0zcjl511rz9s1f5l15raz51ck"
+      }
+    ]
+  },
+  "Vel to CC.jsfx": {
+    "latest": [
       {
-        "path": "Effects/Tilr/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/9ee52fd4bfd73f693acac2e35e30dd277fd88ea3/Delay/qddelay/qdd.saike_pitchlib.jsfx-inc",
-        "sha256": "0jsji72c4gar1wl2cs7mjiw7xs8spg1zbcqhxmx26xmjqnylzp87"
+        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/1e7777e2421f4757135724dfee8f87a1d8ade1b1/MIDI/Vel%20to%20CC.jsfx",
+        "sha256": "0c7ssxip4rmwxfhbpcg5zqf234vjyckj76p10q0892jpfp0ix04a"
+      }
+    ],
+    "1.0.2": [
+      {
+        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/1e7777e2421f4757135724dfee8f87a1d8ade1b1/MIDI/Vel%20to%20CC.jsfx",
+        "sha256": "0c7ssxip4rmwxfhbpcg5zqf234vjyckj76p10q0892jpfp0ix04a"
+      }
+    ],
+    "1.0.1": [
+      {
+        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/f6349d4995aea03c8a1a459f4a4296087b2eb0c2/MIDI/Vel%20to%20CC.jsfx",
+        "sha256": "0xjym4bjczkp7s8qmf8qlimm2w0pkay3sii7rgd8pi92qq6q4wp6"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Vel%20to%20CC.jsfx",
+        "sha256": "0z7lha4hnc7mw5qm453kplqy5b8274ahaadilhf7qd2pxazvv6wq"
       }
     ]
   },
@@ -9491,6 +9569,32 @@
       }
     ]
   },
+  "QuickFilter.jsfx": {
+    "latest": [
+      {
+        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/QuickFilter.jsfx",
+        "sha256": "1gwn59d8wwf2gvi0vaff7dh9xjac8fy4dzzgpfpaardpbd8v0bp6"
+      },
+      {
+        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/QuickFilter.jsfx",
+        "sha256": "1gwn59d8wwf2gvi0vaff7dh9xjac8fy4dzzgpfpaardpbd8v0bp6"
+      },
+      {
+        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/qfilter/qf.svf_filter.jsfx-inc",
+        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
+      }
+    ]
+  },
   "skfilter.jsfx": {
     "latest": [
       {
@@ -9556,110 +9660,6 @@
         "path": "Effects/Tilr/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
         "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/skfilter/skf.Saike_Yutani_upsamplers.jsfx-inc",
         "sha256": "00lrfv1iq968kffc2gk19xsgn6h044yf77wcnyyzp0phcdk7dcnf"
-      }
-    ]
-  },
-  "QuickFilter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/QuickFilter.jsfx",
-        "sha256": "1gwn59d8wwf2gvi0vaff7dh9xjac8fy4dzzgpfpaardpbd8v0bp6"
-      },
-      {
-        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Tilr/Filter/QuickFilter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/QuickFilter.jsfx",
-        "sha256": "1gwn59d8wwf2gvi0vaff7dh9xjac8fy4dzzgpfpaardpbd8v0bp6"
-      },
-      {
-        "path": "Effects/Tilr/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/46d993c8731b9d543c3867a848d9b128aead19f1/Filter/qfilter/qf.svf_filter.jsfx-inc",
-        "sha256": "0y8bspf1c81kmdbk10ca2cy0qddswjw1a1babykvhrqjhc66gdkb"
-      }
-    ]
-  },
-  "MIDI Keyvel Filter.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
-        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
-      }
-    ],
-    "1.1": [
-      {
-        "path": "Effects/Tilr/MIDI/MIDI Keyvel Filter.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/MIDI%20Keyvel%20Filter.jsfx",
-        "sha256": "1idl5zdmq84x2ics4f33bgc5rdg5l89riz1l2q82n1j6d2kydjiw"
-      }
-    ]
-  },
-  "Vel to CC.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/1e7777e2421f4757135724dfee8f87a1d8ade1b1/MIDI/Vel%20to%20CC.jsfx",
-        "sha256": "0c7ssxip4rmwxfhbpcg5zqf234vjyckj76p10q0892jpfp0ix04a"
-      }
-    ],
-    "1.0.2": [
-      {
-        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/1e7777e2421f4757135724dfee8f87a1d8ade1b1/MIDI/Vel%20to%20CC.jsfx",
-        "sha256": "0c7ssxip4rmwxfhbpcg5zqf234vjyckj76p10q0892jpfp0ix04a"
-      }
-    ],
-    "1.0.1": [
-      {
-        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/f6349d4995aea03c8a1a459f4a4296087b2eb0c2/MIDI/Vel%20to%20CC.jsfx",
-        "sha256": "0xjym4bjczkp7s8qmf8qlimm2w0pkay3sii7rgd8pi92qq6q4wp6"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Tilr/MIDI/Vel to CC.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Vel%20to%20CC.jsfx",
-        "sha256": "0z7lha4hnc7mw5qm453kplqy5b8274ahaadilhf7qd2pxazvv6wq"
-      }
-    ]
-  },
-  "Notes to 12 channel.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
-        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Effects/Tilr/MIDI/Notes to 12 channel.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/0318daacf747847e952d7d7bfab01ff9d1b84570/MIDI/Notes%20to%2012%20channel.jsfx",
-        "sha256": "1snjw4jlmvzy6c4lbah185fh4snjfz4w3amij4yxxgir7qcvlafi"
-      }
-    ]
-  },
-  "Notes to CC.jsfx": {
-    "latest": [
-      {
-        "path": "Effects/Tilr/MIDI/Notes to CC.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/336455e0dc55025008ef03dfe2dda236aaa5976f/MIDI/Notes%20to%20CC.jsfx",
-        "sha256": "1n7zbjgrbv0hdiixgc3xn4kmnmw0zcjl511rz9s1f5l15raz51ck"
-      }
-    ],
-    "1.1.1": [
-      {
-        "path": "Effects/Tilr/MIDI/Notes to CC.jsfx",
-        "url": "https://github.com/tiagolr/tilr_jsfx/raw/336455e0dc55025008ef03dfe2dda236aaa5976f/MIDI/Notes%20to%20CC.jsfx",
-        "sha256": "1n7zbjgrbv0hdiixgc3xn4kmnmw0zcjl511rz9s1f5l15raz51ck"
       }
     ]
   },

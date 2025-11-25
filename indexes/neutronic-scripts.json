@@ -387,6 +387,22 @@
       }
     ]
   },
+  "neutronic_Quick Adder 2 -- optimize GUI size for 4k.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 4k.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/b604cfcaebba9be58fe425771007738e63bc8748/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%204k.lua",
+        "sha256": "18jb5drhj4pra6xynv7vvihmbc9715hzdvs7adi3dfmjv23ryf7i"
+      }
+    ],
+    "1.0": [
+      {
+        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 4k.lua",
+        "url": "https://github.com/Neutronic/ReaScripts/raw/b604cfcaebba9be58fe425771007738e63bc8748/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%204k.lua",
+        "sha256": "18jb5drhj4pra6xynv7vvihmbc9715hzdvs7adi3dfmjv23ryf7i"
+      }
+    ]
+  },
   "neutronic_Quick Adder 2 -- optimize GUI size for 5k.lua": {
     "latest": [
       {
@@ -432,22 +448,6 @@
         "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 8k.lua",
         "url": "https://github.com/Neutronic/ReaScripts/raw/4d3e2ab52d49f966865c10453d76481f392c170b/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%208k.lua",
         "sha256": "1pjfpaj3zpdrfllnzqkvcr5fm7chg9yr39d6sbfj7amf4nm3443s"
-      }
-    ]
-  },
-  "neutronic_Quick Adder 2 -- optimize GUI size for 4k.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 4k.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/b604cfcaebba9be58fe425771007738e63bc8748/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%204k.lua",
-        "sha256": "18jb5drhj4pra6xynv7vvihmbc9715hzdvs7adi3dfmjv23ryf7i"
-      }
-    ],
-    "1.0": [
-      {
-        "path": "Scripts/Neutronic Scripts/Utilities/Quick Adder 2/Actions/neutronic_Quick Adder 2 -- optimize GUI size for 4k.lua",
-        "url": "https://github.com/Neutronic/ReaScripts/raw/b604cfcaebba9be58fe425771007738e63bc8748/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%204k.lua",
-        "sha256": "18jb5drhj4pra6xynv7vvihmbc9715hzdvs7adi3dfmjv23ryf7i"
       }
     ]
   },

@@ -2013,96 +2013,6 @@
       }
     ]
   },
-  "reaCon.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/contexts.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/contexts.lua",
-        "sha256": "00fq9bxx6k3xnry0h6psn0s0x7khqqhrnjfhiskns57g51s7gw39"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/functions.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/functions.lua",
-        "sha256": "0mpklzr79313n40aqnw254q515wza6ph25h0yqa7n09896pnp6hp"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/reaCon.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/reaCon.lua",
-        "sha256": "1z9kaqnqj7zwzlx79zi8igkql3815yzh0w9vm9538d0h1mq5vr3w"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/ui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/ui.lua",
-        "sha256": "0csyf1a7fv40a8dqinjbygkv7rlfivy2i5rjv9f4kcvkzvw2r4l8"
-      }
-    ],
-    "0.3.3": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/contexts.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/contexts.lua",
-        "sha256": "00fq9bxx6k3xnry0h6psn0s0x7khqqhrnjfhiskns57g51s7gw39"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/functions.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/functions.lua",
-        "sha256": "0mpklzr79313n40aqnw254q515wza6ph25h0yqa7n09896pnp6hp"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/reaCon.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/reaCon.lua",
-        "sha256": "1z9kaqnqj7zwzlx79zi8igkql3815yzh0w9vm9538d0h1mq5vr3w"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/ui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/ui.lua",
-        "sha256": "0csyf1a7fv40a8dqinjbygkv7rlfivy2i5rjv9f4kcvkzvw2r4l8"
-      }
-    ],
-    "0.3.2": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/contexts.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/reaCon/contexts.lua",
-        "sha256": "15z3vvafgagb2d40srd5bny40s5iwnysy7g6v0qfih749kdxwg3r"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/functions.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/reaCon/functions.lua",
-        "sha256": "1fvr3kqyjrzw5gnyq3igc94py2qzafz8wxdhqbc3apz4nvwxfh7h"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/reaCon.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/reaCon/reaCon.lua",
-        "sha256": "1xcqh22djzksg4zy5ls5368xhnnwn9slpm049n1p32rzmj1f6qq4"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/ui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/reaCon/ui.lua",
-        "sha256": "1bzmklr4x2rxcmraykqrqjc1whk6510aixwwy7dx3ba2278a3wmq"
-      }
-    ],
-    "0.3.1": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/contexts.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/fc1b043a2227530f77ee117ff1f5203bac8b753e/reaCon/contexts.lua",
-        "sha256": "07sw4ysgvqy6vja5bzfhmimh1rci9iakh0xdx70z480vx2cmlja9"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/functions.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/fc1b043a2227530f77ee117ff1f5203bac8b753e/reaCon/functions.lua",
-        "sha256": "11ckg3wa1apcy9rry399cijwvvjh81idw2vmxh705yy3azbay4ys"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/reaCon.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/fc1b043a2227530f77ee117ff1f5203bac8b753e/reaCon/reaCon.lua",
-        "sha256": "1vkcbwnyr83s25ff4x0lry0r70w7qcflsdyb9m10nx5n62f0pxb9"
-      },
-      {
-        "path": "Scripts/Scripts by Lemerchand/reaCon/ui.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/fc1b043a2227530f77ee117ff1f5203bac8b753e/reaCon/ui.lua",
-        "sha256": "0xbfmb9rq4zxp3bbckcxad64jmld61cbpwa587jbzllgc7im88a6"
-      }
-    ]
-  },
   "cmd.lua": {
     "latest": [
       {
@@ -2207,6 +2117,36 @@
       }
     ]
   },
+  "SERA - Create Pattern Clip.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
+        "sha256": "0la8ckacd15ipq1bvy33a7mn5g6mw33mq3yipkhq536fv2yfssj8"
+      }
+    ],
+    "0.5.2": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
+        "sha256": "0la8ckacd15ipq1bvy33a7mn5g6mw33mq3yipkhq536fv2yfssj8"
+      }
+    ],
+    "0.5.1": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
+        "sha256": "1qzqbmyyxpfg6dp2rzfdkdlm3xynrlgxi4a69l9c3nq0x5nxp68a"
+      }
+    ],
+    "0.5": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
+        "sha256": "07n40yb528zs3wvbhq8lrnmvh3dax3i8z56zgmrgdb6r87wakk2i"
+      }
+    ]
+  },
   "SERA - Draw Tool.lua": {
     "latest": [
       {
@@ -2267,36 +2207,6 @@
       }
     ]
   },
-  "SERA - Create Pattern Clip.lua": {
-    "latest": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
-        "sha256": "0la8ckacd15ipq1bvy33a7mn5g6mw33mq3yipkhq536fv2yfssj8"
-      }
-    ],
-    "0.5.2": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/79e97f1eebf97f2d1ff58571cc16ea6290a0b154/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
-        "sha256": "0la8ckacd15ipq1bvy33a7mn5g6mw33mq3yipkhq536fv2yfssj8"
-      }
-    ],
-    "0.5.1": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/4511208a33c26faeda094cb90f50d1e27bdeaf6a/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
-        "sha256": "1qzqbmyyxpfg6dp2rzfdkdlm3xynrlgxi4a69l9c3nq0x5nxp68a"
-      }
-    ],
-    "0.5": [
-      {
-        "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Create Pattern Clip.lua",
-        "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Create%20Pattern%20Clip.lua",
-        "sha256": "07n40yb528zs3wvbhq8lrnmvh3dax3i8z56zgmrgdb6r87wakk2i"
-      }
-    ]
-  },
   "SERA - Toggle Pattern Clip.lua": {
     "latest": [
       {
@@ -2331,6 +2241,96 @@
         "path": "Scripts/Scripts by Lemerchand/SERA/SERA - Toggle Pattern Clip.lua",
         "url": "https://github.com/lemerchand/lemerchand/raw/9c1c7ea905a8dbd7b608efe6fe33a427e042a3d2/SERA/SERA%20-%20Toggle%20Pattern%20Clip.lua",
         "sha256": "0lqs0l58r797fhica46k30710zzpvajchhy753cm5xpzpcx52jbl"
+      }
+    ]
+  },
+  "reaCon.lua": {
+    "latest": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/contexts.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/contexts.lua",
+        "sha256": "00fq9bxx6k3xnry0h6psn0s0x7khqqhrnjfhiskns57g51s7gw39"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/functions.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/functions.lua",
+        "sha256": "0mpklzr79313n40aqnw254q515wza6ph25h0yqa7n09896pnp6hp"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/reaCon.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/reaCon.lua",
+        "sha256": "1z9kaqnqj7zwzlx79zi8igkql3815yzh0w9vm9538d0h1mq5vr3w"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/ui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/ui.lua",
+        "sha256": "0csyf1a7fv40a8dqinjbygkv7rlfivy2i5rjv9f4kcvkzvw2r4l8"
+      }
+    ],
+    "0.3.3": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/contexts.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/contexts.lua",
+        "sha256": "00fq9bxx6k3xnry0h6psn0s0x7khqqhrnjfhiskns57g51s7gw39"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/functions.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/functions.lua",
+        "sha256": "0mpklzr79313n40aqnw254q515wza6ph25h0yqa7n09896pnp6hp"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/reaCon.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/reaCon.lua",
+        "sha256": "1z9kaqnqj7zwzlx79zi8igkql3815yzh0w9vm9538d0h1mq5vr3w"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/ui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/9efbe04d1d5e3048251475c4857d1a89dc8120cb/reaCon/ui.lua",
+        "sha256": "0csyf1a7fv40a8dqinjbygkv7rlfivy2i5rjv9f4kcvkzvw2r4l8"
+      }
+    ],
+    "0.3.2": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/contexts.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/reaCon/contexts.lua",
+        "sha256": "15z3vvafgagb2d40srd5bny40s5iwnysy7g6v0qfih749kdxwg3r"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/functions.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/reaCon/functions.lua",
+        "sha256": "1fvr3kqyjrzw5gnyq3igc94py2qzafz8wxdhqbc3apz4nvwxfh7h"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/reaCon.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/reaCon/reaCon.lua",
+        "sha256": "1xcqh22djzksg4zy5ls5368xhnnwn9slpm049n1p32rzmj1f6qq4"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/ui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/3d5ded8b339ee3651992d96b09cf927d47d7cb6b/reaCon/ui.lua",
+        "sha256": "1bzmklr4x2rxcmraykqrqjc1whk6510aixwwy7dx3ba2278a3wmq"
+      }
+    ],
+    "0.3.1": [
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/contexts.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/fc1b043a2227530f77ee117ff1f5203bac8b753e/reaCon/contexts.lua",
+        "sha256": "07sw4ysgvqy6vja5bzfhmimh1rci9iakh0xdx70z480vx2cmlja9"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/functions.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/fc1b043a2227530f77ee117ff1f5203bac8b753e/reaCon/functions.lua",
+        "sha256": "11ckg3wa1apcy9rry399cijwvvjh81idw2vmxh705yy3azbay4ys"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/reaCon.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/fc1b043a2227530f77ee117ff1f5203bac8b753e/reaCon/reaCon.lua",
+        "sha256": "1vkcbwnyr83s25ff4x0lry0r70w7qcflsdyb9m10nx5n62f0pxb9"
+      },
+      {
+        "path": "Scripts/Scripts by Lemerchand/reaCon/ui.lua",
+        "url": "https://github.com/lemerchand/lemerchand/raw/fc1b043a2227530f77ee117ff1f5203bac8b753e/reaCon/ui.lua",
+        "sha256": "0xbfmb9rq4zxp3bbckcxad64jmld61cbpwa587jbzllgc7im88a6"
       }
     ]
   },
